@@ -6,6 +6,23 @@ interface AboutPageProps {
   onBack: () => void
 }
 
+// Christian Cross SVG Component
+function ChristianCross({ className }: { className?: string }) {
+  return (
+    <svg
+      viewBox="0 0 100 140"
+      className={className}
+      fill="currentColor"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      {/* Vertical bar */}
+      <rect x="40" y="10" width="20" height="120" rx="2" />
+      {/* Horizontal bar */}
+      <rect x="20" y="45" width="60" height="20" rx="2" />
+    </svg>
+  )
+}
+
 export function AboutPage({ onBack }: AboutPageProps) {
   const bookDescriptions = [
     { name: "Matthew", desc: "Dark mountainous landscape of ancient Roman Palestine with sunset golden hour, dramatic stormy sky, moody atmospheric high contrast" },
@@ -64,54 +81,101 @@ export function AboutPage({ onBack }: AboutPageProps) {
         {/* Content */}
         <main className="flex-1 px-4 py-6 pb-12 max-w-2xl mx-auto">
           <section className="mb-8">
-            <h2 className="font-serif text-lg text-foreground mb-3">Overview</h2>
-            <p className="text-sm text-muted-foreground leading-relaxed">
-              This Bible app presents all 27 books of the New Testament in the King James Version with thoughtfully designed, thematic landscape backgrounds for each book. Each background complements the spiritual themes and content of its respective book.
-            </p>
+            <div className="bg-card border border-border rounded-lg p-4">
+              <h2 className="font-serif text-lg font-bold text-foreground mb-3">Overview</h2>
+              <p className="text-sm text-muted-foreground leading-relaxed">
+                This Bible app presents all 27 books of the New Testament in the King James Version with thoughtfully designed, thematic landscape backgrounds for each book. Each background complements the spiritual themes and content of its respective book.
+              </p>
+            </div>
           </section>
 
           <section className="mb-8">
-            <h2 className="font-serif text-lg text-foreground mb-3">Glowing Cross Feature - Tutorial</h2>
-            <p className="text-sm text-muted-foreground leading-relaxed mb-3">
-              The <span className="font-semibold">glowing cross icon</span> at the top of each verse allows you to interact with and track your scripture reading journey:
-            </p>
-            <ul className="text-sm text-muted-foreground space-y-2 ml-4">
-              <li className="list-disc">
-                <strong>Mark for Reflection:</strong> Tap the cross to highlight verses that have touched your heart or prompted spiritual contemplation. The glow marks these verses as important for future review and deeper study.
-              </li>
-              <li className="list-disc">
-                <strong>Track Your Progress:</strong> As you read through the New Testament, the glowing crosses provide a visual record of which verses you've engaged with, creating a personal map of your spiritual journey through scripture.
-              </li>
-              <li className="list-disc">
-                <strong>Revisit & Reflect:</strong> Return to marked verses anytime to recall insights, journal about your thoughts, or compare how your understanding has grown over time.
-              </li>
-            </ul>
+            <div className="bg-card border border-border rounded-lg p-4">
+              <h2 className="font-serif text-lg font-bold text-foreground mb-3">
+                Strong's Concordance & Greek Word Study - Tutorial
+              </h2>
+              <p className="text-sm text-muted-foreground leading-relaxed mb-3">
+                This app integrates <span className="font-semibold">Strong's Concordance</span>, a comprehensive biblical reference tool that assigns unique numbers to every word in the original biblical languages (Greek for the New Testament and Hebrew for the Old Testament).
+              </p>
+              <div className="space-y-3">
+                <div>
+                  <p className="text-sm font-semibold text-foreground mb-1">What is Strong's Concordance?</p>
+                  <p className="text-sm text-muted-foreground">
+                    Strong's Concordance is a reference system created by Dr. James Strong that allows readers to look up every occurrence of a biblical word across the entire Bible. Each Greek word is assigned a unique number (prefixed with "G" for Greek). This helps you understand the original meaning of scripture and how particular words were used throughout the New Testament.
+                  </p>
+                </div>
+                <div>
+                  <p className="text-sm font-semibold text-foreground mb-1">Understanding Greek Words & Their Meanings</p>
+                  <p className="text-sm text-muted-foreground mb-2">
+                    The Greek language is rich in nuance and deeper meaning than English translations often capture. When highlighted words appear in gold throughout the verses, each word includes:
+                  </p>
+                  <ul className="text-sm text-muted-foreground space-y-1 ml-4">
+                    <li className="list-disc"><strong>Strong's Number:</strong> The unique identifier (e.g., G2424 for "Jesus")</li>
+                    <li className="list-disc"><strong>Lemma:</strong> The base form of the word in Greek</li>
+                    <li className="list-disc"><strong>Meaning:</strong> The literal and theological definition of the word</li>
+                  </ul>
+                </div>
+                <div>
+                  <p className="text-sm font-semibold text-foreground mb-1">Spiritual Significance of Clicking Words</p>
+                  <p className="text-sm text-muted-foreground">
+                    When you click on a highlighted Greek word, a popup displays its complete theological definition and spiritual significance. This allows you to explore the <span className="font-semibold">depth of meaning</span> behind key biblical concepts. For example, clicking on the Greek word "agapē" (love) reveals how it represents self-giving covenant love distinct from mere affection. Understanding these original meanings transforms your Bible study by revealing layers of spiritual truth that connect to God's divine character and redemptive purposes.
+                  </p>
+                </div>
+              </div>
+            </div>
           </section>
 
           <section className="mb-8">
-            <h2 className="font-serif text-lg text-foreground mb-3">Bible Version Citation</h2>
-            <div className="bg-card border border-border rounded-lg p-4 text-sm text-muted-foreground">
+            <div className="bg-card border border-border rounded-lg p-4">
+              <h2 className="font-serif text-lg font-bold text-foreground mb-3">Glowing Cross Feature - Tutorial</h2>
+              <div className="flex justify-end mb-4">
+                <ChristianCross className="w-12 h-16 text-accent animate-pulse" />
+              </div>
+              <p className="text-sm text-muted-foreground leading-relaxed mb-3">
+                The <span className="font-semibold">glowing cross icon</span> positioned on the <span className="font-semibold">right side of each verse</span> allows you to interact with and track your scripture reading journey:
+              </p>
+              <ul className="text-sm text-muted-foreground space-y-2 ml-4">
+                <li className="list-disc">
+                  <strong>Mark for Reflection:</strong> Tap the cross to highlight verses that have touched your heart or prompted spiritual contemplation. The glow marks these verses as important for future review and deeper study.
+                </li>
+                <li className="list-disc">
+                  <strong>Track Your Progress:</strong> As you read through the New Testament, the glowing crosses provide a visual record of which verses you've engaged with, creating a personal map of your spiritual journey through scripture.
+                </li>
+                <li className="list-disc">
+                  <strong>Revisit & Reflect:</strong> Return to marked verses anytime to recall insights, journal about your thoughts, or compare how your understanding has grown over time.
+                </li>
+              </ul>
+            </div>
+          </section>
+
+          <section className="mb-8">
+            <div className="bg-card border border-border rounded-lg p-4">
+              <h2 className="font-serif text-lg font-bold text-foreground mb-3">Bible Version Citation</h2>
               <p className="leading-relaxed mb-2">
                 <strong>King James Version (KJV)</strong>
               </p>
-              <p className="leading-relaxed">
+              <p className="text-sm text-muted-foreground leading-relaxed">
                 Public Domain. The Authorized King James Version of the Bible text and word definitions are taken from the King James Version, originally published in 1611. This translation has been freely available in the public domain for centuries and is widely used for biblical study and spiritual reflection.
               </p>
             </div>
           </section>
 
           <section className="mb-8">
-            <h2 className="font-serif text-lg text-foreground mb-3">Created By</h2>
-            <p className="text-sm text-muted-foreground leading-relaxed">
-              This app was created and designed by <strong>Darren and Luke Maybee</strong>. Developed with a passion for making scripture study accessible, beautiful, and spiritually enriching for all readers.
-            </p>
+            <div className="bg-card border border-border rounded-lg p-4">
+              <h2 className="font-serif text-lg font-bold text-foreground mb-3">Created By</h2>
+              <p className="text-sm text-muted-foreground leading-relaxed">
+                This app was created and designed by <strong>Darren and Luke Maybee</strong>. Developed with a passion for making scripture study accessible, beautiful, and spiritually enriching for all readers.
+              </p>
+            </div>
           </section>
 
-          <section>
-            <h2 className="font-serif text-lg text-foreground mb-4 flex items-center gap-2">
-              <Book className="w-5 h-5 opacity-70" />
-              Book Wallpaper Descriptions
-            </h2>
+          <section className="mb-8">
+            <div className="bg-card border border-border rounded-lg p-4 mb-4">
+              <h2 className="font-serif text-lg font-bold text-foreground flex items-center gap-2">
+                <Book className="w-5 h-5 opacity-70" />
+                Book Wallpaper Descriptions
+              </h2>
+            </div>
             <div className="space-y-4">
               {bookDescriptions.map((book) => (
                 <div key={book.name} className="bg-card border border-border rounded-lg p-4">
@@ -123,9 +187,11 @@ export function AboutPage({ onBack }: AboutPageProps) {
           </section>
 
           <section className="mt-8 pt-6 border-t border-border/30">
-            <p className="text-xs text-muted-foreground text-center">
-              Each background is designed with a 60% dark overlay to ensure text readability while maintaining the beauty of the landscape imagery.
-            </p>
+            <div className="bg-card border border-border rounded-lg p-4">
+              <p className="text-xs text-muted-foreground text-center">
+                Each background is designed with a 60% dark overlay to ensure text readability while maintaining the beauty of the landscape imagery.
+              </p>
+            </div>
           </section>
         </main>
       </div>
