@@ -6,6 +6,23 @@ interface AboutPageProps {
   onBack: () => void
 }
 
+// Christian Cross SVG Component
+function ChristianCross({ className }: { className?: string }) {
+  return (
+    <svg
+      viewBox="0 0 100 140"
+      className={className}
+      fill="currentColor"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      {/* Vertical bar */}
+      <rect x="40" y="10" width="20" height="120" rx="2" />
+      {/* Horizontal bar */}
+      <rect x="20" y="45" width="60" height="20" rx="2" />
+    </svg>
+  )
+}
+
 export function AboutPage({ onBack }: AboutPageProps) {
   const bookDescriptions = [
     { name: "Matthew", desc: "Dark mountainous landscape of ancient Roman Palestine with sunset golden hour, dramatic stormy sky, moody atmospheric high contrast" },
@@ -74,27 +91,12 @@ export function AboutPage({ onBack }: AboutPageProps) {
 
           <section className="mb-8">
             <div className="bg-card border border-border rounded-lg p-4">
-              <h2 className="font-serif text-lg font-bold text-foreground mb-3">Glowing Cross Feature - Tutorial</h2>
-              <p className="text-sm text-muted-foreground leading-relaxed mb-3">
-                The <span className="font-semibold">glowing cross icon</span> positioned on the <span className="font-semibold">right side of each verse</span> allows you to interact with and track your scripture reading journey:
-              </p>
-              <ul className="text-sm text-muted-foreground space-y-2 ml-4">
-                <li className="list-disc">
-                  <strong>Mark for Reflection:</strong> Tap the cross to highlight verses that have touched your heart or prompted spiritual contemplation. The glow marks these verses as important for future review and deeper study.
-                </li>
-                <li className="list-disc">
-                  <strong>Track Your Progress:</strong> As you read through the New Testament, the glowing crosses provide a visual record of which verses you've engaged with, creating a personal map of your spiritual journey through scripture.
-                </li>
-                <li className="list-disc">
-                  <strong>Revisit & Reflect:</strong> Return to marked verses anytime to recall insights, journal about your thoughts, or compare how your understanding has grown over time.
-                </li>
-              </ul>
-            </div>
-          </section>
-
-          <section className="mb-8">
-            <div className="bg-card border border-border rounded-lg p-4">
-              <h2 className="font-serif text-lg font-bold text-foreground mb-3">Strong's Concordance & Greek Word Study - Tutorial</h2>
+              <h2 className="font-serif text-lg font-bold text-foreground mb-3 flex items-center gap-2">
+                Strong's Concordance & Greek Word Study - Tutorial
+              </h2>
+              <div className="flex justify-end mb-4">
+                <ChristianCross className="w-12 h-16 text-accent animate-pulse" />
+              </div>
               <p className="text-sm text-muted-foreground leading-relaxed mb-3">
                 This app integrates <span className="font-semibold">Strong's Concordance</span>, a comprehensive biblical reference tool that assigns unique numbers to every word in the original biblical languages (Greek for the New Testament and Hebrew for the Old Testament).
               </p>
@@ -123,6 +125,26 @@ export function AboutPage({ onBack }: AboutPageProps) {
                   </p>
                 </div>
               </div>
+            </div>
+          </section>
+
+          <section className="mb-8">
+            <div className="bg-card border border-border rounded-lg p-4">
+              <h2 className="font-serif text-lg font-bold text-foreground mb-3">Glowing Cross Feature - Tutorial</h2>
+              <p className="text-sm text-muted-foreground leading-relaxed mb-3">
+                The <span className="font-semibold">glowing cross icon</span> positioned on the <span className="font-semibold">right side of each verse</span> allows you to interact with and track your scripture reading journey:
+              </p>
+              <ul className="text-sm text-muted-foreground space-y-2 ml-4">
+                <li className="list-disc">
+                  <strong>Mark for Reflection:</strong> Tap the cross to highlight verses that have touched your heart or prompted spiritual contemplation. The glow marks these verses as important for future review and deeper study.
+                </li>
+                <li className="list-disc">
+                  <strong>Track Your Progress:</strong> As you read through the New Testament, the glowing crosses provide a visual record of which verses you've engaged with, creating a personal map of your spiritual journey through scripture.
+                </li>
+                <li className="list-disc">
+                  <strong>Revisit & Reflect:</strong> Return to marked verses anytime to recall insights, journal about your thoughts, or compare how your understanding has grown over time.
+                </li>
+              </ul>
             </div>
           </section>
 
