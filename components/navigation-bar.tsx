@@ -1,0 +1,62 @@
+"use client"
+
+import { ChevronLeft, ChevronRight, BookOpen } from "lucide-react"
+
+interface NavigationBarProps {
+  bookName: string
+  chapter: number
+  totalChapters: number
+  onPrevChapter: () => void
+  onNextChapter: () => void
+  onOpenSelector: () => void
+}
+
+export function NavigationBar({
+  bookName,
+  chapter,
+  totalChapters,
+  onPrevChapter,
+  onNextChapter,
+  onOpenSelector,
+}: NavigationBarProps) {
+  const hasPrev = chapter > 1
+  const hasNext = chapter < totalChapters
+
+  return (
+    <nav className="fixed bottom-0 left-0 right-0 bg-card border-t border-border safe-area-inset-bottom">
+      <div className="flex items-center justify-between px-4 py-3">
+        {/* Previous Chapter */}
+        <button
+          onClick={onPrevChapter}
+          disabled={!hasPrev}
+          className={`p-3 rounded-full transition-colors min-h-[48px] min-w-[48px] flex items-center justify-center ${
+            hasPrev ? "hover:bg-secondary text-foreground" : "text-muted-foreground/30 cursor-not-allowed"
+          }`}
+          aria-label="Previous chapter"
+        >
+          <ChevronLeft className="w-6 h-6" />
+        </button>
+
+        {/* Book/Chapter Display - Static Reference */}
+        <div className="flex items-center gap-2 px-4 py-2 rounded-full bg-secondary">
+          <BookOpen className="w-4 h-4 text-muted-foreground" />
+          <span className="font-medium text-foreground">
+            {bookName} {chapter}
+          </span>
+        </div>
+
+        {/* Next Chapter */}
+        <button
+          onClick={onNextChapter}
+          disabled={!hasNext}
+          className={`p-3 rounded-full transition-colors min-h-[48px] min-w-[48px] flex items-center justify-center ${
+            hasNext ? "hover:bg-secondary text-foreground" : "text-muted-foreground/30 cursor-not-allowed"
+          }`}
+          aria-label="Next chapter"
+        >
+          <ChevronRight className="w-6 h-6" />
+        </button>
+      </div>
+    </nav>
+  )
+}
