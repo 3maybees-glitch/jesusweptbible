@@ -122,7 +122,7 @@ export function BooksMenu({ onSelectBook, onAbout, currentBook }: BooksMenuProps
 
           {sections.map((section) => (
             <div key={section.label} className="mb-8">
-              <h2 className="font-serif text-sm uppercase tracking-widest text-muted-foreground mb-3 px-1">
+              <h2 className="font-serif text-sm uppercase tracking-widest text-foreground font-semibold mb-3 px-1 bg-overlay-light/60 rounded py-2 px-3">
                 {section.label}
               </h2>
               <div className="flex flex-col gap-2">
