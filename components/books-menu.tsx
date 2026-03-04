@@ -4,6 +4,7 @@ import { useState } from "react"
 import { Book, Info } from "lucide-react"
 import { bibleBooks, type Book as BookType } from "@/lib/bible-data"
 import { ThemeSheet } from "@/components/theme-sheet"
+import { DevotionalPage } from "@/components/devotional-page"
 import { BookTheme } from "@/lib/book-themes"
 
 interface BooksMenuProps {
@@ -36,6 +37,7 @@ const ntTheme: BookTheme = {
 
 export function BooksMenu({ onSelectBook, onAbout, currentBook }: BooksMenuProps) {
   const [showThemeSheet, setShowThemeSheet] = useState(false)
+  const [showDevotional, setShowDevotional] = useState(false)
 
   const ntBooks = bibleBooks.filter((b) => b.testament === "NT")
 
@@ -70,6 +72,11 @@ export function BooksMenu({ onSelectBook, onAbout, currentBook }: BooksMenuProps
       {/* Background overlay for readability - lighter opacity to show background image */}
       <div className="fixed inset-0 bg-gradient-to-b from-overlay-light/40 via-overlay-light/45 to-overlay-light/50 pointer-events-none z-0" />
       
+      {/* Show Devotional Page if open */}
+      {showDevotional && <DevotionalPage onBack={() => setShowDevotional(false)} />}
+      
+      {/* Show Books Menu if Devotional is not open */}
+      {!showDevotional && (
       <div className="relative z-10">
         {/* Header */}
         <header className="sticky top-0 z-20 bg-overlay-light border-b border-border/20 backdrop-blur-sm">
@@ -131,8 +138,16 @@ export function BooksMenu({ onSelectBook, onAbout, currentBook }: BooksMenuProps
             </div>
           ))}
 
-          {/* About Button - Separated */}
-          <div className="mt-12 pt-8 border-t border-border/30">
+          {/* Devotional Button - Above About Button */}
+          <div className="mt-12 pt-8 border-t border-border/30 space-y-3">
+            <button
+              onClick={() => setShowDevotional(true)}
+              className="w-full flex items-center justify-center gap-2 px-4 py-3.5 rounded-lg bg-[#8B6B47] hover:bg-[#7A5A3A] text-white border border-border transition-colors min-h-[48px] font-serif font-medium"
+              aria-label="Read the Meaning and Motivation for Bible Reading Devotional"
+            >
+              <span>Meaning & Motivation for Bible Reading</span>
+            </button>
+            
             <button
               onClick={onAbout}
               className="w-full flex items-center justify-center gap-2 px-4 py-3.5 rounded-lg bg-secondary hover:bg-secondary/80 text-card-foreground border border-border transition-colors min-h-[48px]"
@@ -150,6 +165,7 @@ export function BooksMenu({ onSelectBook, onAbout, currentBook }: BooksMenuProps
           onClose={() => setShowThemeSheet(false)}
         />
       </div>
+      )}
     </div>
   )
 }
