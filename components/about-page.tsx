@@ -91,12 +91,9 @@ export function AboutPage({ onBack }: AboutPageProps) {
 
           <section className="mb-8">
             <div className="bg-card border border-border rounded-lg p-4">
-              <h2 className="font-serif text-lg font-bold text-foreground mb-3 flex items-center gap-2">
+              <h2 className="font-serif text-lg font-bold text-foreground mb-3">
                 Strong's Concordance & Greek Word Study - Tutorial
               </h2>
-              <div className="flex justify-end mb-4">
-                <ChristianCross className="w-12 h-16 text-accent animate-pulse" />
-              </div>
               <p className="text-sm text-muted-foreground leading-relaxed mb-3">
                 This app integrates <span className="font-semibold">Strong's Concordance</span>, a comprehensive biblical reference tool that assigns unique numbers to every word in the original biblical languages (Greek for the New Testament and Hebrew for the Old Testament).
               </p>
@@ -131,6 +128,9 @@ export function AboutPage({ onBack }: AboutPageProps) {
           <section className="mb-8">
             <div className="bg-card border border-border rounded-lg p-4">
               <h2 className="font-serif text-lg font-bold text-foreground mb-3">Glowing Cross Feature - Tutorial</h2>
+              <div className="flex justify-end mb-4">
+                <ChristianCross className="w-12 h-16 text-accent animate-pulse" />
+              </div>
               <p className="text-sm text-muted-foreground leading-relaxed mb-3">
                 The <span className="font-semibold">glowing cross icon</span> positioned on the <span className="font-semibold">right side of each verse</span> allows you to interact with and track your scripture reading journey:
               </p>
