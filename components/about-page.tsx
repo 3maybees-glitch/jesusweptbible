@@ -64,50 +64,56 @@ export function AboutPage({ onBack }: AboutPageProps) {
         {/* Content */}
         <main className="flex-1 px-4 py-6 pb-12 max-w-2xl mx-auto">
           <section className="mb-8">
-            <h2 className="font-serif text-lg text-foreground mb-3">Overview</h2>
-            <p className="text-sm text-muted-foreground leading-relaxed">
-              This Bible app presents all 27 books of the New Testament in the King James Version with thoughtfully designed, thematic landscape backgrounds for each book. Each background complements the spiritual themes and content of its respective book.
-            </p>
+            <div className="bg-card border border-border rounded-lg p-4">
+              <h2 className="font-serif text-lg text-foreground mb-3">Overview</h2>
+              <p className="text-sm text-muted-foreground leading-relaxed">
+                This Bible app presents all 27 books of the New Testament in the King James Version with thoughtfully designed, thematic landscape backgrounds for each book. Each background complements the spiritual themes and content of its respective book.
+              </p>
+            </div>
           </section>
 
           <section className="mb-8">
-            <h2 className="font-serif text-lg text-foreground mb-3">Glowing Cross Feature - Tutorial</h2>
-            <p className="text-sm text-muted-foreground leading-relaxed mb-3">
-              The <span className="font-semibold">glowing cross icon</span> at the top of each verse allows you to interact with and track your scripture reading journey:
-            </p>
-            <ul className="text-sm text-muted-foreground space-y-2 ml-4">
-              <li className="list-disc">
-                <strong>Mark for Reflection:</strong> Tap the cross to highlight verses that have touched your heart or prompted spiritual contemplation. The glow marks these verses as important for future review and deeper study.
-              </li>
-              <li className="list-disc">
-                <strong>Track Your Progress:</strong> As you read through the New Testament, the glowing crosses provide a visual record of which verses you've engaged with, creating a personal map of your spiritual journey through scripture.
-              </li>
-              <li className="list-disc">
-                <strong>Revisit & Reflect:</strong> Return to marked verses anytime to recall insights, journal about your thoughts, or compare how your understanding has grown over time.
-              </li>
-            </ul>
+            <div className="bg-card border border-border rounded-lg p-4">
+              <h2 className="font-serif text-lg text-foreground mb-3">Glowing Cross Feature - Tutorial</h2>
+              <p className="text-sm text-muted-foreground leading-relaxed mb-3">
+                The <span className="font-semibold">glowing cross icon</span> at the top of each verse allows you to interact with and track your scripture reading journey:
+              </p>
+              <ul className="text-sm text-muted-foreground space-y-2 ml-4">
+                <li className="list-disc">
+                  <strong>Mark for Reflection:</strong> Tap the cross to highlight verses that have touched your heart or prompted spiritual contemplation. The glow marks these verses as important for future review and deeper study.
+                </li>
+                <li className="list-disc">
+                  <strong>Track Your Progress:</strong> As you read through the New Testament, the glowing crosses provide a visual record of which verses you've engaged with, creating a personal map of your spiritual journey through scripture.
+                </li>
+                <li className="list-disc">
+                  <strong>Revisit & Reflect:</strong> Return to marked verses anytime to recall insights, journal about your thoughts, or compare how your understanding has grown over time.
+                </li>
+              </ul>
+            </div>
           </section>
 
           <section className="mb-8">
-            <h2 className="font-serif text-lg text-foreground mb-3">Bible Version Citation</h2>
-            <div className="bg-card border border-border rounded-lg p-4 text-sm text-muted-foreground">
+            <div className="bg-card border border-border rounded-lg p-4">
+              <h2 className="font-serif text-lg text-foreground mb-3">Bible Version Citation</h2>
               <p className="leading-relaxed mb-2">
                 <strong>King James Version (KJV)</strong>
               </p>
-              <p className="leading-relaxed">
+              <p className="text-sm text-muted-foreground leading-relaxed">
                 Public Domain. The Authorized King James Version of the Bible text and word definitions are taken from the King James Version, originally published in 1611. This translation has been freely available in the public domain for centuries and is widely used for biblical study and spiritual reflection.
               </p>
             </div>
           </section>
 
           <section className="mb-8">
-            <h2 className="font-serif text-lg text-foreground mb-3">Created By</h2>
-            <p className="text-sm text-muted-foreground leading-relaxed">
-              This app was created and designed by <strong>Darren and Luke Maybee</strong>. Developed with a passion for making scripture study accessible, beautiful, and spiritually enriching for all readers.
-            </p>
+            <div className="bg-card border border-border rounded-lg p-4">
+              <h2 className="font-serif text-lg text-foreground mb-3">Created By</h2>
+              <p className="text-sm text-muted-foreground leading-relaxed">
+                This app was created and designed by <strong>Darren and Luke Maybee</strong>. Developed with a passion for making scripture study accessible, beautiful, and spiritually enriching for all readers.
+              </p>
+            </div>
           </section>
 
-          <section>
+          <section className="mb-8">
             <h2 className="font-serif text-lg text-foreground mb-4 flex items-center gap-2">
               <Book className="w-5 h-5 opacity-70" />
               Book Wallpaper Descriptions
@@ -123,9 +129,11 @@ export function AboutPage({ onBack }: AboutPageProps) {
           </section>
 
           <section className="mt-8 pt-6 border-t border-border/30">
-            <p className="text-xs text-muted-foreground text-center">
-              Each background is designed with a 60% dark overlay to ensure text readability while maintaining the beauty of the landscape imagery.
-            </p>
+            <div className="bg-card border border-border rounded-lg p-4">
+              <p className="text-xs text-muted-foreground text-center">
+                Each background is designed with a 60% dark overlay to ensure text readability while maintaining the beauty of the landscape imagery.
+              </p>
+            </div>
           </section>
         </main>
       </div>
