@@ -120,7 +120,7 @@ export default function BibleApp() {
               >
                 Back to Books
               </button>
-              <p className="text-muted-foreground mb-4">This chapter is not yet available in the demo.</p>
+              <p className="text-muted-foreground mb-4">This chapter is currently being built and is not yet available.</p>
               <p className="text-sm text-muted-foreground mb-6">Available chapters:</p>
               <div className="flex flex-wrap gap-2 justify-center">
                 {Object.keys(sampleChapters).map((key) => {
