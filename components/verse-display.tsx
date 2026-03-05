@@ -30,13 +30,13 @@ export function VerseDisplay({ verse, onWordTap }: VerseDisplayProps) {
 
   // Load read status from localStorage on mount
   useEffect(() => {
-    const verseKey = `verse-read-${verse.book}-${verse.chapter}-${verse.verse}`
+    const verseKey = `verse-read-${verse.book}-${verse.chapter}-${verse.verse || verse.verseNumber}`
     const saved = localStorage.getItem(verseKey)
     setIsRead(saved === 'true')
   }, [verse])
 
   const handleMarkRead = () => {
-    const verseKey = `verse-read-${verse.book}-${verse.chapter}-${verse.verse}`
+    const verseKey = `verse-read-${verse.book}-${verse.chapter}-${verse.verse || verse.verseNumber}`
     const newState = !isRead
     setIsRead(newState)
     localStorage.setItem(verseKey, String(newState))
@@ -103,7 +103,7 @@ export function VerseDisplay({ verse, onWordTap }: VerseDisplayProps) {
 
       <div className="flex items-start justify-between gap-3">
         <p className="font-serif text-xl leading-relaxed text-white flex-1">
-          <span className="text-base font-sans mr-2 select-none opacity-75">{verse.verse}</span>
+          <span className="text-base font-sans mr-2 select-none opacity-75">{verse.verse || verse.verseNumber}</span>
           {renderedText.map((part, index) =>
             part.isHighlighted ? (
               <strong key={index} className="font-bold text-yellow-200">
