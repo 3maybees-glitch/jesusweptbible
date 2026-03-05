@@ -2,6 +2,21 @@ import { matthewChapters1128 } from './matthew-11-28'
 import { matthewChapters1528 } from './matthew-15-28'
 import { matthewChapters2528 } from './matthew-25-28'
 import { matthewChapters2728 } from './matthew-27-28'
+import { genesisChapter1 } from './genesis-1'
+import { genesisChapter2 } from './genesis-2'
+import { genesisChapter3 } from './genesis-3'
+import { genesisChapter4 } from './genesis-4'
+import { genesisChapter5 } from './genesis-5'
+import { genesisChapter6 } from './genesis-6'
+import { genesisChapter7 } from './genesis-7'
+import { genesisChapter8 } from './genesis-8'
+import { genesisChapter9 } from './genesis-9'
+import { genesisChapter10 } from './genesis-10'
+import { genesisChapter11 } from './genesis-11'
+import { genesisChapter12 } from './genesis-12'
+import { genesisChapter13 } from './genesis-13'
+import { genesisChapter14 } from './genesis-14'
+import { genesisChapter15 } from './genesis-15'
 import { markChapters18 } from './mark-1-8'
 import { markChapters916 } from './mark-9-16'
 import { lukeChapter1 } from './luke-1'
@@ -3965,6 +3980,21 @@ export const sampleChapters: Record<string, Chapter> = {
   ...johnChapter20,
   ...johnChapter21,
   ...judeChapter1,
+  ...genesisChapter1,
+  ...genesisChapter2,
+  ...genesisChapter3,
+  ...genesisChapter4,
+  ...genesisChapter5,
+  ...genesisChapter6,
+  ...genesisChapter7,
+  ...genesisChapter8,
+  ...genesisChapter9,
+  ...genesisChapter10,
+  ...genesisChapter11,
+  ...genesisChapter12,
+  ...genesisChapter13,
+  ...genesisChapter14,
+  ...genesisChapter15,
 }
 
 export function getChapter(book: string, chapter: number): Chapter | null {
