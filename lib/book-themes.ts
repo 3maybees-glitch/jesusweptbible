@@ -12,6 +12,15 @@ export interface BookTheme {
 }
 
 export const bookThemes: BookTheme[] = [
+  // Old Testament
+  {
+    book: "Genesis",
+    theme: "Divine Creation",
+    words: [
+      { word: "beginning", strongNumber: "H7225", lemma: "re'shith", meaning: "First; starting point; origin of all things" },
+      { word: "created", strongNumber: "H1254", lemma: "bara", meaning: "To create by divine power; bring into existence from nothing" },
+    ],
+  },
   // Gospels
   {
     book: "Matthew",

@@ -2,6 +2,7 @@ import { matthewChapters1128 } from './matthew-11-28'
 import { matthewChapters1528 } from './matthew-15-28'
 import { matthewChapters2528 } from './matthew-25-28'
 import { matthewChapters2728 } from './matthew-27-28'
+import { genesisChapter1 } from './genesis-1'
 import { markChapters18 } from './mark-1-8'
 import { markChapters916 } from './mark-9-16'
 import { lukeChapter1 } from './luke-1'
@@ -3965,6 +3966,7 @@ export const sampleChapters: Record<string, Chapter> = {
   ...johnChapter20,
   ...johnChapter21,
   ...judeChapter1,
+  ...genesisChapter1,
 }
 
 export function getChapter(book: string, chapter: number): Chapter | null {
