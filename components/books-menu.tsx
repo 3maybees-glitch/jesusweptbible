@@ -38,34 +38,65 @@ const ntTheme: BookTheme = {
 export function BooksMenu({ onSelectBook, onAbout, currentBook }: BooksMenuProps) {
   const [showThemeSheet, setShowThemeSheet] = useState(false)
   const [showDevotional, setShowDevotional] = useState(false)
+  const [testament, setTestament] = useState<"OT" | "NT">("NT")
 
-  const ntBooks = bibleBooks.filter((b) => b.testament === "NT")
+  const filteredBooks = bibleBooks.filter((b) => b.testament === testament)
+  const books = testament === "NT" ? filteredBooks : filteredBooks
 
-  // Group books by category for visual organization
-  const gospels = ntBooks.filter((b) =>
-    ["Matthew", "Mark", "Luke", "John"].includes(b.name)
-  )
-  const history = ntBooks.filter((b) => b.name === "Acts")
-  const pauline = ntBooks.filter((b) =>
-    [
-      "Romans", "1 Corinthians", "2 Corinthians", "Galatians",
-      "Ephesians", "Philippians", "Colossians",
-      "1 Thessalonians", "2 Thessalonians",
-      "1 Timothy", "2 Timothy", "Titus", "Philemon",
-    ].includes(b.name)
-  )
-  const general = ntBooks.filter((b) =>
-    ["Hebrews", "James", "1 Peter", "2 Peter", "1 John", "2 John", "3 John", "Jude"].includes(b.name)
-  )
-  const prophecy = ntBooks.filter((b) => b.name === "Revelation")
+  // Group books by category based on testament
+  let sections: Array<{ label: string; books: BookType[] }> = []
 
-  const sections = [
-    { label: "Gospels", books: gospels },
-    { label: "History", books: history },
-    { label: "Pauline Epistles", books: pauline },
-    { label: "General Epistles", books: general },
-    { label: "Prophecy", books: prophecy },
-  ]
+  if (testament === "NT") {
+    const gospels = books.filter((b) =>
+      ["Matthew", "Mark", "Luke", "John"].includes(b.name)
+    )
+    const history = books.filter((b) => b.name === "Acts")
+    const pauline = books.filter((b) =>
+      [
+        "Romans", "1 Corinthians", "2 Corinthians", "Galatians",
+        "Ephesians", "Philippians", "Colossians",
+        "1 Thessalonians", "2 Thessalonians",
+        "1 Timothy", "2 Timothy", "Titus", "Philemon",
+      ].includes(b.name)
+    )
+    const general = books.filter((b) =>
+      ["Hebrews", "James", "1 Peter", "2 Peter", "1 John", "2 John", "3 John", "Jude"].includes(b.name)
+    )
+    const prophecy = books.filter((b) => b.name === "Revelation")
+
+    sections = [
+      { label: "Gospels", books: gospels },
+      { label: "History", books: history },
+      { label: "Pauline Epistles", books: pauline },
+      { label: "General Epistles", books: general },
+      { label: "Prophecy", books: prophecy },
+    ]
+  } else {
+    // Old Testament groupings
+    const law = books.filter((b) =>
+      ["Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy"].includes(b.name)
+    )
+    const history = books.filter((b) =>
+      ["Joshua", "Judges", "Ruth", "1 Samuel", "2 Samuel", "1 Kings", "2 Kings", "1 Chronicles", "2 Chronicles", "Ezra", "Nehemiah", "Esther"].includes(b.name)
+    )
+    const poetry = books.filter((b) =>
+      ["Job", "Psalms", "Proverbs", "Ecclesiastes", "Song of Solomon"].includes(b.name)
+    )
+    const majorProphets = books.filter((b) =>
+      ["Isaiah", "Jeremiah", "Lamentations", "Ezekiel", "Daniel"].includes(b.name)
+    )
+    const minorProphets = books.filter((b) =>
+      ["Hosea", "Joel", "Amos", "Obadiah", "Jonah", "Micah", "Nahum", "Habakkuk", "Zephaniah", "Haggai", "Zechariah", "Malachi"].includes(b.name)
+    )
+
+    sections = [
+      { label: "Law", books: law },
+      { label: "History", books: history },
+      { label: "Poetry", books: poetry },
+      { label: "Major Prophets", books: majorProphets },
+      { label: "Minor Prophets", books: minorProphets },
+    ]
+  }
 
   return (
     <div className="min-h-screen relative">
@@ -81,6 +112,30 @@ export function BooksMenu({ onSelectBook, onAbout, currentBook }: BooksMenuProps
         {/* Header */}
         <header className="sticky top-0 z-20 bg-overlay-light border-b border-border/20 backdrop-blur-sm">
           <div className="px-4 py-5">
+            {/* Testament Toggle */}
+            <div className="flex gap-3 mb-4 justify-center">
+              <button
+                onClick={() => setTestament("OT")}
+                className={`px-6 py-2 rounded-lg font-serif font-semibold transition-colors ${
+                  testament === "OT"
+                    ? "bg-primary text-white"
+                    : "bg-secondary hover:bg-secondary/80 text-card-foreground"
+                }`}
+              >
+                Old Testament
+              </button>
+              <button
+                onClick={() => setTestament("NT")}
+                className={`px-6 py-2 rounded-lg font-serif font-semibold transition-colors ${
+                  testament === "NT"
+                    ? "bg-primary text-white"
+                    : "bg-secondary hover:bg-secondary/80 text-card-foreground"
+                }`}
+              >
+                New Testament
+              </button>
+            </div>
+
             {/* Decorative element */}
             <div className="flex justify-center mb-2">
               <svg className="w-8 h-3 text-primary/30" viewBox="0 0 32 12" fill="none">
@@ -89,10 +144,10 @@ export function BooksMenu({ onSelectBook, onAbout, currentBook }: BooksMenuProps
               </svg>
             </div>
             <h1 className="font-serif text-2xl text-foreground text-center text-balance">
-              New Testament
+              {testament === "NT" ? "New Testament" : "Old Testament"}
             </h1>
             <p className="text-sm text-muted-foreground text-center mt-1">
-              27 Books - King James Version
+              {testament === "NT" ? "27 Books - King James Version" : "39 Books - King James Version"}
             </p>
             {/* Bottom decorative element */}
             <div className="flex justify-center mt-2">
@@ -105,17 +160,19 @@ export function BooksMenu({ onSelectBook, onAbout, currentBook }: BooksMenuProps
 
         {/* Book Sections */}
         <main className="px-4 py-6 pb-12 max-w-lg mx-auto">
-          {/* New Testament Two-Word Theme Box */}
-          <div className="mb-8">
-            <button
-              onClick={() => setShowThemeSheet(true)}
-              className="w-full flex flex-col gap-2 p-4 rounded-lg bg-[#6B2C3E] hover:bg-[#5A1F30] transition-colors focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 shadow-md"
-              aria-label="View New Testament theme: Jesus Christ"
-            >
-              <span className="text-sm font-medium text-white/80">New Testament Two-Word Theme</span>
-              <span className="text-2xl font-semibold text-white">Jesus Christ</span>
-            </button>
-          </div>
+          {/* New Testament Two-Word Theme Box - Only show for NT */}
+          {testament === "NT" && (
+            <div className="mb-8">
+              <button
+                onClick={() => setShowThemeSheet(true)}
+                className="w-full flex flex-col gap-2 p-4 rounded-lg bg-[#6B2C3E] hover:bg-[#5A1F30] transition-colors focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 shadow-md"
+                aria-label="View New Testament theme: Jesus Christ"
+              >
+                <span className="text-sm font-medium text-white/80">New Testament Two-Word Theme</span>
+                <span className="text-2xl font-semibold text-white">Jesus Christ</span>
+              </button>
+            </div>
+          )}
 
           {/* Divider */}
           <div className="mb-8 border-b border-border/30" />
