@@ -119,7 +119,7 @@ export function BooksMenu({ onSelectBook, onAbout, currentBook }: BooksMenuProps
                 className={`px-6 py-2 rounded-lg font-serif font-semibold transition-colors ${
                   testament === "OT"
                     ? "bg-primary text-white"
-                    : "bg-secondary hover:bg-secondary/80 text-card-foreground"
+                    : "bg-[#D4A574] hover:bg-[#C4956A] text-slate-900"
                 }`}
               >
                 Old Testament
@@ -129,7 +129,7 @@ export function BooksMenu({ onSelectBook, onAbout, currentBook }: BooksMenuProps
                 className={`px-6 py-2 rounded-lg font-serif font-semibold transition-colors ${
                   testament === "NT"
                     ? "bg-primary text-white"
-                    : "bg-secondary hover:bg-secondary/80 text-card-foreground"
+                    : "bg-[#D4A574] hover:bg-[#C4956A] text-slate-900"
                 }`}
               >
                 New Testament
