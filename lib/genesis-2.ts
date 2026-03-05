@@ -1,12 +1,16 @@
 import { ChapterData } from "@/lib/bible-data"
 
 export const genesisChapter2: ChapterData = {
-  "Genesis 2": {
+  "Genesis-2": {
     book: "Genesis",
     chapter: 2,
     twoWordSummary: "Garden Covenant",
-    sentenceTheme:
-      "God finishes creation, sanctifies the seventh day, forms man from the dust, places him in Eden to tend the garden, and establishes the first marriage between Adam and Eve.",
+    themeSummary: "God rests on the seventh day, creates man from the dust, places him in the Garden of Eden, and establishes the institution of marriage.",
+    sentenceDescription: "God completes creation, sanctifies rest, forms humanity, and establishes marriage as the foundation of human relationship.",
+    themeWords: [
+      { word: "rested", strongNumber: "H7673", language: "Hebrew", lemma: "shabath", meaning: "to cease from work; rest; observe the sabbath" },
+      { word: "covenant", strongNumber: "H1285", language: "Hebrew", lemma: "berith", meaning: "agreement; binding promise; sacred bond" }
+    ],
     verses: [
       {
         chapter: 2,
