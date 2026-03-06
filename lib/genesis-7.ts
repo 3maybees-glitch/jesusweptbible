@@ -4,14 +4,12 @@ export const genesisChapter7: ChapterData = {
   "Genesis-7": {
     book: "Genesis",
     chapter: 7,
-    chapterTheme: {
-      twoWordSummary: "Flood Judgment",
-      themeWords: [
-        { word: "Flood", strongNumber: "H3999", lemma: "mabbul", meaning: "deluge, catastrophic flood" },
-        { word: "Judgment", strongNumber: "H1777", lemma: "din", meaning: "to judge, execute justice" }
-      ]
-    },
-    sentenceTheme: "God commands Noah to enter the ark with his family and the animals as the floodwaters cover the earth and destroy every living thing outside the ark.",
+    twoWordSummary: "Flood Begins",
+    sentenceTheme: "God commands Noah to enter the ark with his family and the animals, the floodwaters cover the earth for forty days, and every living thing outside the ark perishes.",
+    themeWords: [
+      { word: "Flood", strongNumber: "H3999", lemma: "mabbul", meaning: "deluge; catastrophic flood" },
+      { word: "Begins", strongNumber: "H2490", lemma: "chalal", meaning: "to begin; commence" }
+    ],
     verses: [
       { verse: 1, text: "And the LORD said unto Noah, Come thou and all thy house into the ark; for thee have I seen righteous before me in this generation.", highlightedWords: [{ word: "ark", strongNumber: "H8392", lemma: "tebah", meaning: "ark; vessel of preservation" }, { word: "righteous", strongNumber: "H6662", lemma: "tsaddiq", meaning: "righteous; just person" }] },
       { verse: 2, text: "Of every clean beast thou shalt take to thee by sevens the male and his female: and of beasts that are not clean by two the male and his female.", highlightedWords: [{ word: "clean", strongNumber: "H2889", lemma: "tahor", meaning: "clean; ceremonially pure" }, { word: "beast", strongNumber: "H929", lemma: "behemah", meaning: "beast; animal; livestock" }] },
