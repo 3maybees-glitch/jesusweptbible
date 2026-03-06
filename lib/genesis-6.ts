@@ -4,10 +4,16 @@ export const genesisChapter6: ChapterData = {
   "Genesis-6": {
     book: "Genesis",
     chapter: 6,
-    twoWordSummary: "Flood Decree",
-    sentenceTheme: "Because the earth was filled with corruption and violence, God determines to destroy all flesh with a flood but shows grace to Noah and commands him to build the ark to preserve life.",
+    chapterTheme: {
+      twoWordSummary: "Corrupt Earth",
+      themeWords: [
+        { word: "Corrupt", strongNumber: "H7843", lemma: "shachath", meaning: "to ruin, corrupt, destroy morally" },
+        { word: "Earth", strongNumber: "H776", lemma: "erets", meaning: "earth, land, ground, world" }
+      ]
+    },
+    sentenceTheme: "Human wickedness fills the earth with corruption and violence, leading God to decree a flood while extending grace to Noah and commanding him to build the ark.",
     verses: [
-      { verse: 1, text: "And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them,", highlightedWords: [{ word: "multiply", strongNumber: "H7235", lemma: "rabah", meaning: "to increase greatly; multiply" }, { word: "earth", strongNumber: "H127", lemma: "adamah", meaning: "ground; earth; soil" }] },
+      { verse: 1, text: "And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them,", highlightedWords: [{ word: "multiply", strongNumber: "H7235", lemma: "rabah", meaning: "to increase greatly, multiply" }, { word: "earth", strongNumber: "H127", lemma: "adamah", meaning: "ground, soil, earth" }] },
       { verse: 2, text: "That the sons of God saw the daughters of men that they were fair; and they took them wives of all which they chose.", highlightedWords: [{ word: "sons", strongNumber: "H1121", lemma: "ben", meaning: "sons; descendants" }, { word: "wives", strongNumber: "H802", lemma: "ishshah", meaning: "woman; wife" }] },
       { verse: 3, text: "And the LORD said, My spirit shall not always strive with man, for that he also is flesh: yet his days shall be an hundred and twenty years.", highlightedWords: [{ word: "spirit", strongNumber: "H7307", lemma: "ruach", meaning: "spirit; breath; life-force" }, { word: "strive", strongNumber: "H1777", lemma: "din", meaning: "to judge; contend; plead a cause" }] },
       { verse: 4, text: "There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare children to them the same became mighty men which were of old men of renown.", highlightedWords: [{ word: "giants", strongNumber: "H5303", lemma: "nephilim", meaning: "fallen ones; giants" }, { word: "mighty", strongNumber: "H1368", lemma: "gibbor", meaning: "mighty man; warrior; champion" }] },
