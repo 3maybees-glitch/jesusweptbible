@@ -29,9 +29,12 @@ export function ChapterView({ chapter, onBackToMenu, onBackToChapters }: Chapter
   }
 
   // Get two-word summary if available
-  const twoWordSummary = (chapter as any).twoWordSummary
-  const themeWords = (chapter as any).themeWords
+  const chapterTheme = (chapter as any).chapterTheme
+  const twoWordSummary = chapterTheme?.twoWordSummary || (chapter as any).twoWordSummary
+  const themeWords = chapterTheme?.themeWords || (chapter as any).themeWords
   const themeSummary = (chapter as any).themeSummary
+  const sentenceTheme = (chapter as any).sentenceTheme
+  const sentenceDescription = (chapter as any).sentenceDescription
   
   // Extract theme words from Acts 2 structure if needed
   const extractedThemeWords = twoWordSummary && typeof twoWordSummary === 'object' && 'wordOne' in twoWordSummary
@@ -87,9 +90,9 @@ export function ChapterView({ chapter, onBackToMenu, onBackToChapters }: Chapter
       {twoWordSummary && (
         <div className="bg-[#f0ebe4] border-b border-border/20 px-4 py-6 relative z-20 flex-shrink-0">
           {/* Sentence Description */}
-          {((chapter as any).sentenceDescription) && (
+          {(sentenceDescription || sentenceTheme) && (
             <p className="text-center text-sm text-foreground mb-6 italic px-4">
-              {(chapter as any).sentenceDescription}
+              {sentenceDescription || sentenceTheme}
             </p>
           )}
           

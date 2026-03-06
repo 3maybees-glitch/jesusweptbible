@@ -5,7 +5,11 @@ export const genesisChapter6: ChapterData = {
     book: "Genesis",
     chapter: 6,
     twoWordSummary: "Flood Decree",
-    sentenceTheme: "Because the earth was filled with corruption and violence, God determines to destroy all flesh with a flood but shows grace to Noah and commands him to build the ark to preserve life.",
+    sentenceDescription: "Because the earth was filled with corruption and violence, God determines to destroy all flesh with a flood but shows grace to Noah and commands him to build the ark to preserve life.",
+    themeWords: [
+      { word: "Flood", strongNumber: "H3999", lemma: "mabbul", meaning: "deluge; catastrophic flood" },
+      { word: "Decree", strongNumber: "H6680", lemma: "tsavah", meaning: "command; divine instruction" }
+    ],
     verses: [
       { verse: 1, text: "And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them,", highlightedWords: [{ word: "multiply", strongNumber: "H7235", lemma: "rabah", meaning: "to increase greatly; multiply" }, { word: "earth", strongNumber: "H127", lemma: "adamah", meaning: "ground; earth; soil" }] },
       { verse: 2, text: "That the sons of God saw the daughters of men that they were fair; and they took them wives of all which they chose.", highlightedWords: [{ word: "sons", strongNumber: "H1121", lemma: "ben", meaning: "sons; descendants" }, { word: "wives", strongNumber: "H802", lemma: "ishshah", meaning: "woman; wife" }] },

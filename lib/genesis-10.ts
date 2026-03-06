@@ -4,20 +4,21 @@ export const genesisChapter10: ChapterData = {
   "Genesis-10": {
     book: "Genesis",
     chapter: 10,
-    twoWordSummary: "Nations Table",
-    themeSummary: "The descendants of Noah's sons spread across the earth forming the early nations and peoples after the flood.",
-    sentenceDescription: "Noah's three sons—Shem, Ham, and Japheth—father the nations that populate the post-flood world, establishing geographic and ethnic boundaries.",
-    themeWords: [
-      { word: "generations", strongNumber: "H8435", language: "Hebrew", lemma: "toledoth", meaning: "descendants; genealogical record" },
-      { word: "nations", strongNumber: "H1471", language: "Hebrew", lemma: "goy", meaning: "nation; ethnic group; people group" }
-    ],
+    chapterTheme: {
+      twoWordSummary: "Nations Spread",
+      themeWords: [
+        { word: "Nations", strongNumber: "H1471", lemma: "goy", meaning: "nation; people group; ethnic community" },
+        { word: "Spread", strongNumber: "H6504", lemma: "parad", meaning: "to separate; divide; disperse" }
+      ]
+    },
+    sentenceTheme: "Genesis 10 records the descendants of Noah's sons—Shem, Ham, and Japheth—and how the nations of the earth were divided and spread across lands, languages, and families after the flood.",
     verses: [
       {
         verse: 1,
         text: "Now these are the generations of the sons of Noah, Shem, Ham, and Japheth: and unto them were sons born after the flood.",
         highlightedWords: [
-          { word: "generations", strongNumber: "H8435", lemma: "toledoth", meaning: "descendants; genealogical record" },
-          { word: "flood", strongNumber: "H3999", lemma: "mabbul", meaning: "great deluge; catastrophic flood" }
+          { word: "generations", strongNumber: "H8435", lemma: "toledoth", meaning: "generations; genealogical account" },
+          { word: "sons", strongNumber: "H1121", lemma: "ben", meaning: "son; descendant" }
         ]
       },
       {
@@ -25,31 +26,31 @@ export const genesisChapter10: ChapterData = {
         text: "The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras.",
         highlightedWords: [
           { word: "sons", strongNumber: "H1121", lemma: "ben", meaning: "sons; descendants" },
-          { word: "Japheth", strongNumber: "H3315", lemma: "yapheth", meaning: "Japheth; son of Noah" }
+          { word: "Japheth", strongNumber: "H3315", lemma: "Yepheth", meaning: "Japheth; son of Noah" }
         ]
       },
       {
         verse: 3,
         text: "And the sons of Gomer; Ashkenaz, and Riphath, and Togarmah.",
         highlightedWords: [
-          { word: "sons", strongNumber: "H1121", lemma: "ben", meaning: "sons; offspring" },
-          { word: "Gomer", strongNumber: "H1586", lemma: "gomer", meaning: "Gomer; ancestor of a northern people" }
+          { word: "Gomer", strongNumber: "H1586", lemma: "Gomer", meaning: "Gomer; son of Japheth" },
+          { word: "sons", strongNumber: "H1121", lemma: "ben", meaning: "sons; descendants" }
         ]
       },
       {
         verse: 4,
         text: "And the sons of Javan; Elishah, and Tarshish, Kittim, and Dodanim.",
         highlightedWords: [
-          { word: "Javan", strongNumber: "H3120", lemma: "yavan", meaning: "Javan; associated with Greek peoples" },
-          { word: "Tarshish", strongNumber: "H8659", lemma: "tarshish", meaning: "Tarshish; distant maritime region" }
+          { word: "Javan", strongNumber: "H3120", lemma: "Yavan", meaning: "Greece or Ionia" },
+          { word: "Tarshish", strongNumber: "H8659", lemma: "Tarshish", meaning: "Tarshish; ancient maritime region" }
         ]
       },
       {
         verse: 5,
-        text: "By these were the isles of the Gentiles divided in their lands...",
+        text: "By these were the isles of the Gentiles divided in their lands; every one after his tongue, after their families, in their nations.",
         highlightedWords: [
-          { word: "isles", strongNumber: "H339", lemma: "iy", meaning: "coastlands; islands" },
-          { word: "Gentiles", strongNumber: "H1471", lemma: "goy", meaning: "nation; people group" }
+          { word: "Gentiles", strongNumber: "H1471", lemma: "goy", meaning: "nation; people group" },
+          { word: "tongue", strongNumber: "H3956", lemma: "lashon", meaning: "tongue; language" }
         ]
       },
       {
