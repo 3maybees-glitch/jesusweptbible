@@ -4,8 +4,14 @@ export const genesisChapter7: ChapterData = {
   "Genesis-7": {
     book: "Genesis",
     chapter: 7,
-    twoWordSummary: "Flood Begins",
-    sentenceTheme: "God commands Noah to enter the ark with his family and the animals, the floodwaters cover the earth for forty days, and every living thing outside the ark perishes.",
+    chapterTheme: {
+      twoWordSummary: "Flood Judgment",
+      themeWords: [
+        { word: "Flood", strongNumber: "H3999", lemma: "mabbul", meaning: "deluge, catastrophic flood" },
+        { word: "Judgment", strongNumber: "H1777", lemma: "din", meaning: "to judge, execute justice" }
+      ]
+    },
+    sentenceTheme: "God commands Noah to enter the ark with his family and the animals as the floodwaters cover the earth and destroy every living thing outside the ark.",
     verses: [
       {
         verse: 1,
