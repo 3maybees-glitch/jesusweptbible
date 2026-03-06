@@ -4,14 +4,13 @@ export const genesisChapter6: ChapterData = {
   "Genesis-6": {
     book: "Genesis",
     chapter: 6,
-    chapterTheme: {
-      twoWordSummary: "Corrupt Earth",
-      themeWords: [
-        { word: "Corrupt", strongNumber: "H7843", lemma: "shachath", meaning: "to ruin, corrupt, destroy morally" },
-        { word: "Earth", strongNumber: "H776", lemma: "erets", meaning: "earth, land, ground, world" }
-      ]
-    },
-    sentenceTheme: "Human wickedness fills the earth with corruption and violence, leading God to decree a flood while extending grace to Noah and commanding him to build the ark.",
+    twoWordSummary: "Corrupt Earth",
+    themeSummary: "The narrative describes escalating human wickedness and corruption filling the earth, God's grief over creation, His judgment to destroy mankind through a flood, yet His mercy toward Noah and command to build the ark.",
+    sentenceDescription: "Human corruption and violence provoke God's judgment, yet He extends grace to righteous Noah, commanding him to build an ark for salvation while all other flesh faces destruction.",
+    themeWords: [
+      { word: "Corrupt", strongNumber: "H7843", lemma: "shachath", meaning: "to ruin, corrupt, destroy morally" },
+      { word: "Earth", strongNumber: "H776", lemma: "erets", meaning: "earth, land, ground, world" }
+    ],
     verses: [
       { verse: 1, text: "And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them,", highlightedWords: [{ word: "multiply", strongNumber: "H7235", lemma: "rabah", meaning: "to increase greatly, multiply" }, { word: "earth", strongNumber: "H127", lemma: "adamah", meaning: "ground, soil, earth" }] },
       { verse: 2, text: "That the sons of God saw the daughters of men that they were fair; and they took them wives of all which they chose.", highlightedWords: [{ word: "sons", strongNumber: "H1121", lemma: "ben", meaning: "sons; descendants" }, { word: "wives", strongNumber: "H802", lemma: "ishshah", meaning: "woman; wife" }] },
