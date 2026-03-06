@@ -73,10 +73,10 @@ export const genesisChapter8: ChapterData = {
       },
       {
         verse: 9,
-        text: "But the dove found no rest for the sole of her foot, and she returned unto him into the ark...",
+        text: "But the dove found no rest for the sole of her foot, and she returned unto him into the ark, for the waters were on the face of the whole earth: then he put forth his hand, and took her, and pulled her in unto him into the ark.",
         highlightedWords: [
-          { word: "rest", strongNumber: "H4494", lemma: "manoach", meaning: "resting place" },
-          { word: "returned", strongNumber: "H7725", lemma: "shub", meaning: "to return; come back" }
+          { word: "rest", strongNumber: "H4494", lemma: "manoach", meaning: "resting place; place of repose" },
+          { word: "returned", strongNumber: "H7725", lemma: "shub", meaning: "to return; turn back" }
         ]
       },
       {
@@ -89,10 +89,10 @@ export const genesisChapter8: ChapterData = {
       },
       {
         verse: 11,
-        text: "And the dove came in to him in the evening; and, lo, in her mouth was an olive leaf pluckt off...",
+        text: "And the dove came in to him in the evening; and, lo, in her mouth was an olive leaf pluckt off: so Noah knew that the waters were abated from off the earth.",
         highlightedWords: [
-          { word: "olive", strongNumber: "H2132", lemma: "zayith", meaning: "olive tree" },
-          { word: "leaf", strongNumber: "H5929", lemma: "aleh", meaning: "leaf; foliage" }
+          { word: "olive", strongNumber: "H2132", lemma: "zayith", meaning: "olive tree; olive" },
+          { word: "abated", strongNumber: "H7043", lemma: "qalal", meaning: "to be lightened; diminished" }
         ]
       },
       {
@@ -105,10 +105,10 @@ export const genesisChapter8: ChapterData = {
       },
       {
         verse: 13,
-        text: "And it came to pass in the six hundredth and first year, in the first month...",
+        text: "And it came to pass in the six hundredth and first year, in the first month, the first day of the month, the waters were dried up from off the earth: and Noah removed the covering of the ark, and looked, and, behold, the face of the ground was dry.",
         highlightedWords: [
-          { word: "removed", strongNumber: "H5493", lemma: "sur", meaning: "to remove; turn aside" },
-          { word: "covered", strongNumber: "H4372", lemma: "mikseh", meaning: "covering; roof covering" }
+          { word: "removed", strongNumber: "H5493", lemma: "sur", meaning: "to turn aside; remove" },
+          { word: "covering", strongNumber: "H4372", lemma: "mikseh", meaning: "covering; protective covering" }
         ]
       },
       {
@@ -137,10 +137,10 @@ export const genesisChapter8: ChapterData = {
       },
       {
         verse: 17,
-        text: "Bring forth with thee every living thing that is with thee, of all flesh...",
+        text: "Bring forth with thee every living thing that is with thee, of all flesh, both of fowl, and of cattle, and of every creeping thing that creepeth upon the earth; that they may breed abundantly in the earth, and be fruitful, and multiply upon the earth.",
         highlightedWords: [
-          { word: "bring", strongNumber: "H3318", lemma: "yatsa", meaning: "to bring out; lead forth" },
-          { word: "living", strongNumber: "H2416", lemma: "chay", meaning: "living; alive" }
+          { word: "fruitful", strongNumber: "H6509", lemma: "parah", meaning: "to bear fruit; be fruitful" },
+          { word: "multiply", strongNumber: "H7235", lemma: "rabah", meaning: "to increase greatly; multiply" }
         ]
       },
       {
@@ -153,15 +153,15 @@ export const genesisChapter8: ChapterData = {
       },
       {
         verse: 19,
-        text: "Every beast, every creeping thing, and every fowl...",
+        text: "Every beast, every creeping thing, and every fowl, and whatsoever creepeth upon the earth, after their kinds, went forth out of the ark.",
         highlightedWords: [
-          { word: "beast", strongNumber: "H2416", lemma: "chay", meaning: "living creature; animal" },
-          { word: "creeping", strongNumber: "H7431", lemma: "ramas", meaning: "to creep; move lightly" }
+          { word: "kinds", strongNumber: "H4327", lemma: "min", meaning: "kind; species" },
+          { word: "went", strongNumber: "H3318", lemma: "yatsa", meaning: "to go out; come forth" }
         ]
       },
       {
         verse: 20,
-        text: "And Noah builded an altar unto the LORD; and took of every clean beast...",
+        text: "And Noah builded an altar unto the LORD; and took of every clean beast, and of every clean fowl, and offered burnt offerings on the altar.",
         highlightedWords: [
           { word: "altar", strongNumber: "H4196", lemma: "mizbeach", meaning: "altar; place of sacrifice" },
           { word: "offered", strongNumber: "H5927", lemma: "alah", meaning: "to ascend; offer up" }
@@ -169,10 +169,10 @@ export const genesisChapter8: ChapterData = {
       },
       {
         verse: 21,
-        text: "And the LORD smelled a sweet savour; and the LORD said in his heart...",
+        text: "And the LORD smelled a sweet savour; and the LORD said in his heart, I will not again curse the ground any more for man's sake; for the imagination of man's heart is evil from his youth; neither will I again smite any more every thing living, as I have done.",
         highlightedWords: [
           { word: "savour", strongNumber: "H5207", lemma: "nichoach", meaning: "soothing aroma; pleasing fragrance" },
-          { word: "curse", strongNumber: "H7043", lemma: "qalal", meaning: "to curse; treat lightly" }
+          { word: "curse", strongNumber: "H7043", lemma: "qalal", meaning: "to curse; bring into contempt" }
         ]
       },
       {
