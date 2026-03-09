@@ -33,6 +33,7 @@ import { genesisChapter28 } from './genesis-28'
 import { genesisChapter29 } from './genesis-29'
 import { genesisChapter30 } from './genesis-30'
 import { genesisChapter31 } from './genesis-31'
+import { genesisChapter32 } from './genesis-32'
 import { markChapters18 } from './mark-1-8'
 import { markChapters916 } from './mark-9-16'
 import { lukeChapter1 } from './luke-1'
@@ -2753,7 +2754,7 @@ export const sampleChapters: Record<string, Chapter> = {
         text: "Leave there thy gift before the altar, and go thy way; first be reconciled to thy brother, and then come and offer thy gift.",
         highlightedWords: [
           { word: "reconciled", strongNumber: "G1259", language: "Greek", lemma: "diallassō", meaning: "to reconcile, make peace" },
-          { word: "offer", strongNumber: "G4374", language: "Greek", lemma: "prosphereō", meaning: "to offer, present, bring" },
+          { word: "offer", strongNumber: "G4374", language: "Greek", lemma: "prosphere��", meaning: "to offer, present, bring" },
         ],
       },
       {
@@ -4027,6 +4028,7 @@ export const sampleChapters: Record<string, Chapter> = {
   ...genesisChapter29,
   ...genesisChapter30,
   ...genesisChapter31,
+  ...genesisChapter32,
 }
 
 export function getChapter(book: string, chapter: number): Chapter | null {
