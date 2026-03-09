@@ -1,0 +1,36 @@
+import { ChapterData } from "@/lib/bible-data"
+
+export const genesisChapter25: ChapterData = {
+  "Genesis-25": {
+    book: "Genesis",
+    chapter: 25,
+    twoWordSummary: "Birthright Exchange",
+    themeSummary: "Abraham's later family and death, Ishmael's descendants, and Esau selling his birthright to Jacob.",
+    sentenceDescription: "After Sarah's death, Abraham marries Keturah and fathers more children. Abraham dies at 175 years old, having given all his inheritance to Isaac. Ishmael's twelve nations are listed. Isaac's twin sons Esau and Jacob are born; Jacob buys Esau's birthright for lentil stew.",
+    themeWords: [
+      { word: "birthright", strongNumber: "H1062", language: "Hebrew", lemma: "bekorah", meaning: "right of the firstborn" },
+      { word: "twins", strongNumber: "H8380", language: "Hebrew", lemma: "to'om", meaning: "twins; a pair born together" }
+    ],
+    verses: [
+      { verse: 1, text: "Then again Abraham took a wife, and her name was Keturah.", highlightedWords: [{ word: "Abraham", strongNumber: "H85", lemma: "Avraham", meaning: "father of a multitude" }, { word: "Keturah", strongNumber: "H6989", lemma: "Qeturah", meaning: "incense" }] },
+      { verse: 5, text: "And Abraham gave all that he had unto Isaac.", highlightedWords: [{ word: "Abraham", strongNumber: "H85", lemma: "Avraham", meaning: "father of a multitude" }, { word: "Isaac", strongNumber: "H3327", lemma: "Yitschaq", meaning: "he laughs" }] },
+      { verse: 8, text: "Then Abraham gave up the ghost, and died in a good old age, an old man, and full of years; and was gathered to his people.", highlightedWords: [{ word: "died", strongNumber: "H4191", lemma: "muth", meaning: "to die" }, { word: "people", strongNumber: "H5971", lemma: "am", meaning: "people; kinsfolk" }] },
+      { verse: 19, text: "And these are the generations of Isaac, Abraham's son: Abraham begat Isaac:", highlightedWords: [{ word: "generations", strongNumber: "H8435", lemma: "toledoth", meaning: "generations; family records" }, { word: "Isaac", strongNumber: "H3327", lemma: "Yitschaq", meaning: "he laughs" }] },
+      { verse: 20, text: "And Isaac was forty years old when he took Rebekah to wife, the daughter of Bethuel the Syrian of Padan-aram, the sister to Laban the Syrian.", highlightedWords: [{ word: "Rebekah", strongNumber: "H7259", lemma: "Rivqah", meaning: "to tie; bind; ensnarer" }, { word: "Padan-aram", strongNumber: "H6307", lemma: "Paddan-aram", meaning: "plain/field of Aram" }] },
+      { verse: 21, text: "And Isaac intreated the LORD for his wife, because she was barren: and the LORD was intreated of him, and Rebekah his wife conceived.", highlightedWords: [{ word: "intreated", strongNumber: "H6279", lemma: "athar", meaning: "to entreat; supplicate" }, { word: "LORD", strongNumber: "H3068", lemma: "YHWH", meaning: "the LORD, the covenant name of God" }] },
+      { verse: 22, text: "And the children struggled together within her; and she said, If it be so, why am I thus? And she went to enquire of the LORD.", highlightedWords: [{ word: "children", strongNumber: "H1121", lemma: "ben", meaning: "children; sons" }, { word: "enquire", strongNumber: "H1875", lemma: "darash", meaning: "to inquire; seek" }] },
+      { verse: 23, text: "And the LORD said unto her, Two nations are in thy womb, and two manner of people shall be separated from thy bowels; and the one people shall be stronger than the other people; and the elder shall serve the younger.", highlightedWords: [{ word: "serve", strongNumber: "H5647", lemma: "abad", meaning: "to serve; be subject" }, { word: "younger", strongNumber: "H6810", lemma: "tsa'ir", meaning: "younger; lesser" }] },
+      { verse: 24, text: "And when her days to be delivered were fulfilled, behold, there were twins in her womb.", highlightedWords: [{ word: "twins", strongNumber: "H8380", lemma: "to'om", meaning: "twins; a pair born together" }, { word: "womb", strongNumber: "H7358", lemma: "rechem", meaning: "womb; uterus" }] },
+      { verse: 25, text: "And the first came out red, all over like an hairy garment; and they called his name Esau.", highlightedWords: [{ word: "red", strongNumber: "H132", lemma: "admoni", meaning: "ruddy; red" }, { word: "Esau", strongNumber: "H6215", lemma: "Esav", meaning: "Esau; hairy" }] },
+      { verse: 26, text: "And after that came his brother out, and his hand took hold on Esau's heel; and his name was called Jacob: and Isaac was threescore years old when she bare them.", highlightedWords: [{ word: "heel", strongNumber: "H6119", lemma: "aqeb", meaning: "heel" }, { word: "Jacob", strongNumber: "H3290", lemma: "Ya'aqov", meaning: "he grasps the heel; supplanter" }] },
+      { verse: 27, text: "And the boys grew: and Esau was a cunning hunter, a man of the field; and Jacob was a plain man, dwelling in tents.", highlightedWords: [{ word: "field", strongNumber: "H7704", lemma: "sadeh", meaning: "field; open country" }, { word: "tents", strongNumber: "H168", lemma: "ohel", meaning: "tent; dwelling" }] },
+      { verse: 28, text: "And Isaac loved Esau, because he did eat of his venison: but Rebekah loved Jacob.", highlightedWords: [{ word: "loved", strongNumber: "H157", lemma: "ahav", meaning: "to love" }, { word: "venison", strongNumber: "H6718", lemma: "tsayid", meaning: "game; hunting; venison" }] },
+      { verse: 29, text: "And Jacob sod pottage: and Esau came from the field, and he was faint:", highlightedWords: [{ word: "pottage", strongNumber: "H5138", lemma: "nazid", meaning: "stew; pottage" }, { word: "faint", strongNumber: "H5889", lemma: "ayeph", meaning: "faint; weary" }] },
+      { verse: 30, text: "And Esau said to Jacob, Feed me, I pray thee, with that same red pottage; for I am faint: therefore was his name called Edom.", highlightedWords: [{ word: "red", strongNumber: "H122", lemma: "adom", meaning: "red" }, { word: "Edom", strongNumber: "H123", lemma: "Edom", meaning: "Edom; red" }] },
+      { verse: 31, text: "And Jacob said, Sell me this day thy birthright.", highlightedWords: [{ word: "Sell", strongNumber: "H4376", lemma: "makar", meaning: "to sell" }, { word: "birthright", strongNumber: "H1062", lemma: "bekorah", meaning: "birthright; right of the firstborn" }] },
+      { verse: 32, text: "And Esau said, Behold, I am at the point to die: and what profit shall this birthright do to me?", highlightedWords: [{ word: "die", strongNumber: "H4191", lemma: "muth", meaning: "to die" }, { word: "birthright", strongNumber: "H1062", lemma: "bekorah", meaning: "right of the firstborn" }] },
+      { verse: 33, text: "And Jacob said, Swear to me this day; and he sware unto him: and he sold his birthright unto Jacob.", highlightedWords: [{ word: "sware", strongNumber: "H7650", lemma: "shaba'", meaning: "to swear; take an oath" }, { word: "sold", strongNumber: "H4376", lemma: "makar", meaning: "to sell" }] },
+      { verse: 34, text: "Then Jacob gave Esau bread and pottage of lentiles; and he did eat and drink, and rose up, and went his way: thus Esau despised his birthright.", highlightedWords: [{ word: "bread", strongNumber: "H3899", lemma: "lechem", meaning: "bread; food" }, { word: "despised", strongNumber: "H959", lemma: "bazah", meaning: "to despise; hold in contempt" }] }
+    ]
+  }
+}
