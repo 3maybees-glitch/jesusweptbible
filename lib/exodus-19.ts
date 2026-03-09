@@ -1,0 +1,202 @@
+export const exodusChapter19 = {
+  'exodus-19:1': {
+    verse: 1,
+    text: 'In the third month, when the children of Israel were gone forth out of the land of Egypt, the same day came they into the wilderness of Sinai.',
+    highlightedWords: [
+      { word: 'Israel', strongNumber: 'H3478', meaning: 'Israel; he who strives with God; the nation descended from Jacob' },
+      { word: 'Sinai', strongNumber: 'H5514', meaning: 'Sinai; the mountain in the wilderness where God met Moses and Israel' }
+    ]
+  },
+  'exodus-19:2': {
+    verse: 2,
+    text: 'For they were departed from Rephidim, and were come to the desert of Sinai, and had pitched in the wilderness; and there Israel camped before the mount.',
+    highlightedWords: [
+      { word: 'wilderness', strongNumber: 'H4057', meaning: 'wilderness, desert, uninhabited land' },
+      { word: 'mount', strongNumber: 'H2022', meaning: 'mountain, hill country' }
+    ]
+  },
+  'exodus-19:3': {
+    verse: 3,
+    text: 'And Moses went up unto God, and the LORD called unto him out of the mountain, saying, Thus shalt thou say to the house of Jacob, and tell the children of Israel;',
+    highlightedWords: [
+      { word: 'Moses', strongNumber: 'H4872', meaning: 'Moses; the leader and lawgiver of Israel' },
+      { word: 'LORD', strongNumber: 'H3068', meaning: 'the covenant name of the God of Israel' }
+    ]
+  },
+  'exodus-19:4': {
+    verse: 4,
+    text: 'Ye have seen what I did unto the Egyptians, and how I bare you on eagles\' wings, and brought you unto myself.',
+    highlightedWords: [
+      { word: 'wings', strongNumber: 'H3671', meaning: 'wing; extremity, edge' },
+      { word: 'brought', strongNumber: 'H935', meaning: 'to bring in, lead in; to cause to come' }
+    ]
+  },
+  'exodus-19:5': {
+    verse: 5,
+    text: 'Now therefore, if ye will obey my voice indeed, and keep my covenant, then ye shall be a peculiar treasure unto me above all people: for all the earth is mine:',
+    highlightedWords: [
+      { word: 'obey', strongNumber: 'H8085', meaning: 'to hear, listen to, obey' },
+      { word: 'covenant', strongNumber: 'H1285', meaning: 'covenant, treaty, alliance' }
+    ]
+  },
+  'exodus-19:6': {
+    verse: 6,
+    text: 'And ye shall be unto me a kingdom of priests, and an holy nation. These are the words which thou shalt speak unto the children of Israel.',
+    highlightedWords: [
+      { word: 'kingdom', strongNumber: 'H4467', meaning: 'kingdom, dominion, reign' },
+      { word: 'holy', strongNumber: 'H6918', meaning: 'holy, sacred, set apart' }
+    ]
+  },
+  'exodus-19:7': {
+    verse: 7,
+    text: 'And Moses came and called for the elders of the people, and laid before their faces all these words which the LORD commanded him.',
+    highlightedWords: [
+      { word: 'elders', strongNumber: 'H2205', meaning: 'elders; senior leaders of the community' },
+      { word: 'commanded', strongNumber: 'H6680', meaning: 'to command, charge, give orders' }
+    ]
+  },
+  'exodus-19:8': {
+    verse: 8,
+    text: 'And all the people answered together, and said, All that the LORD hath spoken we will do. And Moses returned the words of the people unto the LORD.',
+    highlightedWords: [
+      { word: 'answered', strongNumber: 'H6030', meaning: 'to answer, respond, testify' },
+      { word: 'people', strongNumber: 'H5971', meaning: 'people, nation, kinsfolk' }
+    ]
+  },
+  'exodus-19:9': {
+    verse: 9,
+    text: 'And the LORD said unto Moses, Lo, I come unto thee in a thick cloud, that the people may hear when I speak with thee, and believe thee for ever. And Moses told the words of the people unto the LORD.',
+    highlightedWords: [
+      { word: 'cloud', strongNumber: 'H6051', meaning: 'cloud, mass of vapor' },
+      { word: 'believe', strongNumber: 'H539', meaning: 'to believe, trust, be faithful' }
+    ]
+  },
+  'exodus-19:10': {
+    verse: 10,
+    text: 'And the LORD said unto Moses, Go unto the people, and sanctify them to day and to morrow, and let them wash their clothes,',
+    highlightedWords: [
+      { word: 'sanctify', strongNumber: 'H6942', meaning: 'to consecrate, set apart as holy' },
+      { word: 'wash', strongNumber: 'H3526', meaning: 'to wash (garments), cleanse by washing' }
+    ]
+  },
+  'exodus-19:11': {
+    verse: 11,
+    text: 'And be ready against the third day: for the third day the LORD will come down in the sight of all the people upon mount Sinai.',
+    highlightedWords: [
+      { word: 'LORD', strongNumber: 'H3068', meaning: 'the covenant name of the God of Israel' },
+      { word: 'Sinai', strongNumber: 'H5514', meaning: 'Sinai; the mountain in the wilderness where God met Moses and Israel' }
+    ]
+  },
+  'exodus-19:12': {
+    verse: 12,
+    text: 'And thou shalt set bounds unto the people round about, saying, Take heed to yourselves, that ye go not up into the mount, or touch the border of it: whosoever toucheth the mount shall be surely put to death:',
+    highlightedWords: [
+      { word: 'bounds', strongNumber: 'H1366', meaning: 'boundary, border, limit' },
+      { word: 'touch', strongNumber: 'H5060', meaning: 'to touch, reach, strike' }
+    ]
+  },
+  'exodus-19:13': {
+    verse: 13,
+    text: 'There shall not an hand touch it, but he shall surely be stoned, or shot through; whether it be beast or man, it shall not live: when the trumpet soundeth long, they shall come up to the mount.',
+    highlightedWords: [
+      { word: 'hand', strongNumber: 'H3027', meaning: 'hand; by extension power, control' },
+      { word: 'beast', strongNumber: 'H929', meaning: 'beast, animal, cattle' }
+    ]
+  },
+  'exodus-19:14': {
+    verse: 14,
+    text: 'And Moses went down from the mount unto the people, and sanctified the people; and they washed their clothes.',
+    highlightedWords: [
+      { word: 'sanctified', strongNumber: 'H6942', meaning: 'to consecrate, set apart as holy' },
+      { word: 'people', strongNumber: 'H5971', meaning: 'people, nation, kinsfolk' }
+    ]
+  },
+  'exodus-19:15': {
+    verse: 15,
+    text: 'And he said unto the people, Be ready against the third day: come not at your wives.',
+    highlightedWords: [
+      { word: 'third', strongNumber: 'H7992', meaning: 'third; third in order or time' },
+      { word: 'wives', strongNumber: 'H802', meaning: 'woman, wife; female' }
+    ]
+  },
+  'exodus-19:16': {
+    verse: 16,
+    text: 'And it came to pass on the third day in the morning, that there were thunders and lightnings, and a thick cloud upon the mount, and the voice of the trumpet exceeding loud; so that all the people that was in the camp trembled.',
+    highlightedWords: [
+      { word: 'mount', strongNumber: 'H2022', meaning: 'mountain, hill country' },
+      { word: 'trembled', strongNumber: 'H2729', meaning: 'to tremble, quake, be terrified' }
+    ]
+  },
+  'exodus-19:17': {
+    verse: 17,
+    text: 'And Moses brought forth the people out of the camp to meet with God; and they stood at the nether part of the mount.',
+    highlightedWords: [
+      { word: 'God', strongNumber: 'H430', meaning: 'God; the true God of Israel' },
+      { word: 'mount', strongNumber: 'H2022', meaning: 'mountain, hill country' }
+    ]
+  },
+  'exodus-19:18': {
+    verse: 18,
+    text: 'And mount Sinai was altogether on a smoke, because the LORD descended upon it in fire: and the smoke thereof ascended as the smoke of a furnace, and the whole mount quaked greatly.',
+    highlightedWords: [
+      { word: 'descended', strongNumber: 'H3381', meaning: 'to go down, come down, descend' },
+      { word: 'smoke', strongNumber: 'H6227', meaning: 'smoke, vapor' }
+    ]
+  },
+  'exodus-19:19': {
+    verse: 19,
+    text: 'And when the voice of the trumpet sounded long, and waxed louder and louder, Moses spake, and God answered him by a voice.',
+    highlightedWords: [
+      { word: 'voice', strongNumber: 'H6963', meaning: 'voice, sound, noise' },
+      { word: 'answered', strongNumber: 'H6030', meaning: 'to answer, respond, testify' }
+    ]
+  },
+  'exodus-19:20': {
+    verse: 20,
+    text: 'And the LORD came down upon mount Sinai, on the top of the mount: and the LORD called Moses up to the top of the mount; and Moses went up.',
+    highlightedWords: [
+      { word: 'called', strongNumber: 'H7121', meaning: 'to call, summon, invite' },
+      { word: 'top', strongNumber: 'H7218', meaning: 'head, top, summit' }
+    ]
+  },
+  'exodus-19:21': {
+    verse: 21,
+    text: 'And the LORD said unto Moses, Go down, charge the people, lest they break through unto the LORD to gaze, and many of them perish.',
+    highlightedWords: [
+      { word: 'people', strongNumber: 'H5971', meaning: 'people, nation, kinsfolk' },
+      { word: 'LORD', strongNumber: 'H3068', meaning: 'the covenant name of the God of Israel' }
+    ]
+  },
+  'exodus-19:22': {
+    verse: 22,
+    text: 'And let the priests also, which come near to the LORD, sanctify themselves, lest the LORD break forth upon them.',
+    highlightedWords: [
+      { word: 'priests', strongNumber: 'H3548', meaning: 'priest; one who officiates in sacred rites' },
+      { word: 'sanctify', strongNumber: 'H6942', meaning: 'to consecrate, set apart as holy' }
+    ]
+  },
+  'exodus-19:23': {
+    verse: 23,
+    text: 'And Moses said unto the LORD, The people cannot come up to mount Sinai: for thou chargedst us, saying, Set bounds about the mount, and sanctify it.',
+    highlightedWords: [
+      { word: 'Sinai', strongNumber: 'H5514', meaning: 'Sinai; the mountain in the wilderness where God met Moses and Israel' },
+      { word: 'bounds', strongNumber: 'H1366', meaning: 'boundary, border, limit' }
+    ]
+  },
+  'exodus-19:24': {
+    verse: 24,
+    text: 'And the LORD said unto him, Away, get thee down, and thou shalt come up, thou, and Aaron with thee: but let not the priests and the people break through to come up unto the LORD, lest he break forth upon them.',
+    highlightedWords: [
+      { word: 'Aaron', strongNumber: 'H175', meaning: 'Aaron; brother of Moses and Israel\'s first high priest' },
+      { word: 'LORD', strongNumber: 'H3068', meaning: 'the covenant name of the God of Israel' }
+    ]
+  },
+  'exodus-19:25': {
+    verse: 25,
+    text: 'So Moses went down unto the people, and spake unto them.',
+    highlightedWords: [
+      { word: 'Moses', strongNumber: 'H4872', meaning: 'Moses; the leader and lawgiver of Israel' },
+      { word: 'spake', strongNumber: 'H1696', meaning: 'to speak, declare' }
+    ]
+  }
+}
