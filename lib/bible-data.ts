@@ -4012,7 +4012,19 @@ export const sampleChapters: Record<string, Chapter> = {
 export function getChapter(book: string, chapter: number): Chapter | null {
   const normalizedBook = book.replace(/\s+/g, '')
   const key = `${normalizedBook}-${chapter}`
-  return sampleChapters[key] || null
+  const chapterData = sampleChapters[key]
+  
+  if (!chapterData) return null
+  
+  // Add book and chapter fields to each verse if they're missing
+  return {
+    ...chapterData,
+    verses: chapterData.verses.map((verse) => ({
+      ...verse,
+      book: verse.book || chapterData.book,
+      chapter: verse.chapter !== undefined ? verse.chapter : chapterData.chapter,
+    }))
+  }
 }
 
 export function getBookByName(name: string): Book | undefined {
