@@ -1,0 +1,28 @@
+{
+  "book": "Genesis",
+  "chapters": [
+    {
+      "book": "Genesis",
+      "chapter": 1,
+      "chapterTheme": {
+        "twoWordSummary": "Creation Week",
+        "themeWords": [
+          {
+            "word": "create",
+            "strongNumber": "H1254",
+            "lemma": "bara'",
+            "meaning": "to create, shape, form"
+          },
+          {
+            "word": "light",
+            "strongNumber": "H216",
+            "lemma": "'or",
+            "meaning": "light, illumination"
+          }
+        ]
+      },
+      "sentenceTheme": "God creates the heavens and the earth in six days, forming and filling creation and appointing humanity to rule.",
+      "verses": []
+    }
+  ]
+}
