@@ -69,6 +69,7 @@ import { exodusChapter19 } from './exodus-19'
 import { exodusChapter20 } from './exodus-20'
 import { exodusChapter21 } from './exodus-21'
 import { exodusChapter22 } from './exodus-22'
+import { exodusChapter23 } from './exodus-23'
 import { markChapters18 } from './mark-1-8'
 import { markChapters916 } from './mark-9-16'
 import { lukeChapter1 } from './luke-1'
@@ -3821,7 +3822,7 @@ export const sampleChapters: Record<string, Chapter> = {
       { book: "Matthew", chapter: 10, verse: 20, text: "For it is not ye that speak, but the Spirit of your Father which speaketh in you.", highlightedWords: [{ word: "Spirit", strongNumber: "G4151", language: "Greek", lemma: "pneuma", meaning: "spirit, breath, wind" }, { word: "Father", strongNumber: "G3962", language: "Greek", lemma: "patēr", meaning: "father, patriarch" }] },
       { book: "Matthew", chapter: 10, verse: 21, text: "And the brother shall deliver up the brother to death, and the father the child: and the children shall rise up against their parents, and cause them to be put to death.", highlightedWords: [{ word: "deliver", strongNumber: "G3860", language: "Greek", lemma: "paradidōmi", meaning: "to hand over, betray" }, { word: "death", strongNumber: "G2288", language: "Greek", lemma: "thanatos", meaning: "death, dying" }] },
       { book: "Matthew", chapter: 10, verse: 22, text: "And ye shall be hated of all men for my name's sake: but he that endureth to the end shall be saved.", highlightedWords: [{ word: "hated", strongNumber: "G3404", language: "Greek", lemma: "miseō", meaning: "to hate, detest" }, { word: "endureth", strongNumber: "G5278", language: "Greek", lemma: "hypomenō", meaning: "to endure, persevere" }] },
-      { book: "Matthew", chapter: 10, verse: 23, text: "But when they persecute you in this city, flee ye into another: for verily I say unto you, Ye shall not have gone over the cities of Israel, till the Son of man be come.", highlightedWords: [{ word: "persecute", strongNumber: "G1377", language: "Greek", lemma: "diōkō", meaning: "to pursue, persecute" }, { word: "flee", strongNumber: "G5343", language: "Greek", lemma: "pheugeō", meaning: "to flee, escape" }] },
+      { book: "Matthew", chapter: 10, verse: 23, text: "But when they persecute you in this city, flee ye into another: for verily I say unto you, Ye shall not have gone over the cities of Israel, till the Son of man be come.", highlightedWords: [{ word: "persecute", strongNumber: "G1377", language: "Greek", lemma: "di��kō", meaning: "to pursue, persecute" }, { word: "flee", strongNumber: "G5343", language: "Greek", lemma: "pheugeō", meaning: "to flee, escape" }] },
       { book: "Matthew", chapter: 10, verse: 24, text: "The disciple is not above his master, nor the servant above his lord.", highlightedWords: [{ word: "disciple", strongNumber: "G3101", language: "Greek", lemma: "mathetes", meaning: "learner, follower" }, { word: "master", strongNumber: "G1320", language: "Greek", lemma: "didaskalos", meaning: "teacher, master" }] },
       { book: "Matthew", chapter: 10, verse: 25, text: "It is enough for the disciple that he be as his master, and the servant as his lord. If they have called the master of the house Beelzebub, how much more shall they call them of his household?", highlightedWords: [{ word: "Beelzebub", strongNumber: "G954", language: "Greek", lemma: "Beelzeboul", meaning: "lord of flies, prince of demons" }, { word: "household", strongNumber: "G3610", language: "Greek", lemma: "oikeios", meaning: "household, member of household" }] },
       { book: "Matthew", chapter: 10, verse: 26, text: "Fear them not therefore: for there is nothing covered, that shall not be revealed; and hid, that shall not be known.", highlightedWords: [{ word: "Fear", strongNumber: "G5399", language: "Greek", lemma: "phobeomai", meaning: "to fear, be afraid" }, { word: "revealed", strongNumber: "G601", language: "Greek", lemma: "apokalyptō", meaning: "to uncover, reveal" }] },
@@ -4099,6 +4100,7 @@ export const sampleChapters: Record<string, Chapter> = {
   ...exodusChapter20,
   ...exodusChapter21,
   ...exodusChapter22,
+  ...exodusChapter23,
 }
 
 export function getChapter(book: string, chapter: number): Chapter | null {
