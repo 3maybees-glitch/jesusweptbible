@@ -23,6 +23,32 @@ import { genesisChapter18 } from './genesis-18'
 import { genesisChapter19 } from './genesis-19'
 import { genesisChapter20 } from './genesis-20'
 import { genesisChapter21 } from './genesis-21'
+import { genesisChapter22 } from './genesis-22'
+import { genesisChapter23 } from './genesis-23'
+import { genesisChapter24 } from './genesis-24'
+import { genesisChapter25 } from './genesis-25'
+import { genesisChapter26 } from './genesis-26'
+import { genesisChapter27 } from './genesis-27'
+import { genesisChapter28 } from './genesis-28'
+import { genesisChapter29 } from './genesis-29'
+import { genesisChapter30 } from './genesis-30'
+import { genesisChapter31 } from './genesis-31'
+import { genesisChapter32 } from './genesis-32'
+import { genesisChapter33 } from './genesis-33'
+import { genesisChapter36 } from './genesis-36'
+import { genesisChapter37 } from './genesis-37'
+import { genesisChapter39 } from './genesis-39'
+import { genesisChapter40 } from './genesis-40'
+import { genesisChapter41 } from './genesis-41'
+import { genesisChapter42 } from './genesis-42'
+import { genesisChapter43 } from './genesis-43'
+import { genesisChapter44 } from './genesis-44'
+import { genesisChapter45 } from './genesis-45'
+import { genesisChapter46 } from './genesis-46'
+import { genesisChapter47 } from './genesis-47'
+import { genesisChapter48 } from './genesis-48'
+import { genesisChapter49 } from './genesis-49'
+import { genesisChapter50 } from './genesis-50'
 import { markChapters18 } from './mark-1-8'
 import { markChapters916 } from './mark-9-16'
 import { lukeChapter1 } from './luke-1'
@@ -2743,7 +2769,7 @@ export const sampleChapters: Record<string, Chapter> = {
         text: "Leave there thy gift before the altar, and go thy way; first be reconciled to thy brother, and then come and offer thy gift.",
         highlightedWords: [
           { word: "reconciled", strongNumber: "G1259", language: "Greek", lemma: "diallassō", meaning: "to reconcile, make peace" },
-          { word: "offer", strongNumber: "G4374", language: "Greek", lemma: "prosphereō", meaning: "to offer, present, bring" },
+          { word: "offer", strongNumber: "G4374", language: "Greek", lemma: "prosphere��", meaning: "to offer, present, bring" },
         ],
       },
       {
@@ -4007,6 +4033,32 @@ export const sampleChapters: Record<string, Chapter> = {
   ...genesisChapter19,
   ...genesisChapter20,
   ...genesisChapter21,
+  ...genesisChapter22,
+  ...genesisChapter23,
+  ...genesisChapter24,
+  ...genesisChapter25,
+  ...genesisChapter26,
+  ...genesisChapter27,
+  ...genesisChapter28,
+  ...genesisChapter29,
+  ...genesisChapter30,
+  ...genesisChapter31,
+  ...genesisChapter32,
+  ...genesisChapter33,
+  ...genesisChapter36,
+  ...genesisChapter37,
+  ...genesisChapter39,
+  ...genesisChapter40,
+  ...genesisChapter41,
+  ...genesisChapter42,
+  ...genesisChapter43,
+  ...genesisChapter44,
+  ...genesisChapter45,
+  ...genesisChapter46,
+  ...genesisChapter47,
+  ...genesisChapter48,
+  ...genesisChapter49,
+  ...genesisChapter50,
 }
 
 export function getChapter(book: string, chapter: number): Chapter | null {
