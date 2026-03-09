@@ -66,6 +66,7 @@ import { exodusChapter16 } from './exodus-16'
 import { exodusChapter17 } from './exodus-17'
 import { exodusChapter18 } from './exodus-18'
 import { exodusChapter19 } from './exodus-19'
+import { exodusChapter20 } from './exodus-20'
 import { markChapters18 } from './mark-1-8'
 import { markChapters916 } from './mark-9-16'
 import { lukeChapter1 } from './luke-1'
@@ -2606,7 +2607,7 @@ export const sampleChapters: Record<string, Chapter> = {
         text: "Blessed are they which do hunger and thirst after righteousness: for they shall be filled.",
         highlightedWords: [
           { word: "hunger", strongNumber: "G3983", language: "Greek", lemma: "peinaō", meaning: "to hunger, desire" },
-          { word: "righteousness", strongNumber: "G1343", language: "Greek", lemma: "dikaiosynē", meaning: "justice, right dealing" },
+          { word: "righteousness", strongNumber: "G1343", language: "Greek", lemma: "dikaiosyn��", meaning: "justice, right dealing" },
         ],
       },
       {
@@ -4093,6 +4094,7 @@ export const sampleChapters: Record<string, Chapter> = {
   ...exodusChapter17,
   ...exodusChapter18,
   ...exodusChapter19,
+  ...exodusChapter20,
 }
 
 export function getChapter(book: string, chapter: number): Chapter | null {
