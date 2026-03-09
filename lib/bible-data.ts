@@ -22,6 +22,7 @@ import { genesisChapter17 } from './genesis-17'
 import { genesisChapter18 } from './genesis-18'
 import { genesisChapter19 } from './genesis-19'
 import { genesisChapter20 } from './genesis-20'
+import { genesisChapter21 } from './genesis-21'
 import { markChapters18 } from './mark-1-8'
 import { markChapters916 } from './mark-9-16'
 import { lukeChapter1 } from './luke-1'
@@ -4005,12 +4006,25 @@ export const sampleChapters: Record<string, Chapter> = {
   ...genesisChapter18,
   ...genesisChapter19,
   ...genesisChapter20,
+  ...genesisChapter21,
 }
 
 export function getChapter(book: string, chapter: number): Chapter | null {
   const normalizedBook = book.replace(/\s+/g, '')
   const key = `${normalizedBook}-${chapter}`
-  return sampleChapters[key] || null
+  const chapterData = sampleChapters[key]
+  
+  if (!chapterData) return null
+  
+  // Add book and chapter fields to each verse if they're missing
+  return {
+    ...chapterData,
+    verses: chapterData.verses.map((verse) => ({
+      ...verse,
+      book: verse.book || chapterData.book,
+      chapter: verse.chapter !== undefined ? verse.chapter : chapterData.chapter,
+    }))
+  }
 }
 
 export function getBookByName(name: string): Book | undefined {
