@@ -42,6 +42,7 @@ import { genesisChapter40 } from './genesis-40'
 import { genesisChapter41 } from './genesis-41'
 import { genesisChapter42 } from './genesis-42'
 import { genesisChapter43 } from './genesis-43'
+import { genesisChapter44 } from './genesis-44'
 import { genesisChapter45 } from './genesis-45'
 import { markChapters18 } from './mark-1-8'
 import { markChapters916 } from './mark-9-16'
@@ -4046,6 +4047,7 @@ export const sampleChapters: Record<string, Chapter> = {
   ...genesisChapter41,
   ...genesisChapter42,
   ...genesisChapter43,
+  ...genesisChapter44,
   ...genesisChapter45,
 }
 
