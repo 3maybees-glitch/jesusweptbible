@@ -60,6 +60,7 @@ import { exodusChapter8 } from './exodus-8'
 import { exodusChapter9 } from './exodus-9'
 import { exodusChapter10 } from './exodus-10'
 import { exodusChapter15 } from './exodus-15'
+import { exodusChapter25 } from './exodus-25'
 import { exodusChapter11 } from './exodus-11'
 import { exodusChapter12 } from './exodus-12'
 import { exodusChapter13 } from './exodus-13'
@@ -4115,6 +4116,7 @@ export const sampleChapters: Record<string, Chapter> = {
   ...exodusChapter22,
   ...exodusChapter23,
   ...exodusChapter24,
+  ...exodusChapter25,
   ...exodusChapter26,
   ...exodusChapter27,
   ...exodusChapter30,
