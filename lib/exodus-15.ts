@@ -1,0 +1,218 @@
+export const exodusChapter15 = {
+  'Exodus 15:1': {
+    verse: 1,
+    text: 'Then sang Moses and the children of Israel this song unto the LORD, and spake, saying, I will sing unto the LORD, for he hath triumphed gloriously: the horse and his rider hath he thrown into the sea.',
+    highlightedWords: [
+      { word: 'LORD', strongNumber: 'H3068', lemma: 'YHWH', meaning: 'the personal name of Israel\'s God; the LORD' },
+      { word: 'sea', strongNumber: 'H3220', lemma: 'yam', meaning: 'sea, large body of water' }
+    ]
+  },
+  'Exodus 15:2': {
+    verse: 2,
+    text: 'The LORD is my strength and song, and he is become my salvation: he is my God, and I will prepare him an habitation; my father\'s God, and I will exalt him.',
+    highlightedWords: [
+      { word: 'LORD', strongNumber: 'H3068', lemma: 'YHWH', meaning: 'the personal name of Israel\'s God; the LORD' },
+      { word: 'salvation', strongNumber: 'H3444', lemma: 'yeshu\'ah', meaning: 'salvation, deliverance' }
+    ]
+  },
+  'Exodus 15:3': {
+    verse: 3,
+    text: 'The LORD is a man of war: the LORD is his name.',
+    highlightedWords: [
+      { word: 'LORD', strongNumber: 'H3068', lemma: 'YHWH', meaning: 'the personal name of Israel\'s God; the LORD' },
+      { word: 'war', strongNumber: 'H4421', lemma: 'milchamah', meaning: 'battle, war' }
+    ]
+  },
+  'Exodus 15:4': {
+    verse: 4,
+    text: 'Pharaoh\'s chariots and his host hath he cast into the sea: his chosen captains also are drowned in the Red sea.',
+    highlightedWords: [
+      { word: 'chariots', strongNumber: 'H7393', lemma: 'rekeb', meaning: 'chariot, chariotry' },
+      { word: 'sea', strongNumber: 'H3220', lemma: 'yam', meaning: 'sea, large body of water' }
+    ]
+  },
+  'Exodus 15:5': {
+    verse: 5,
+    text: 'The depths have covered them: they sank into the bottom as a stone.',
+    highlightedWords: [
+      { word: 'depths', strongNumber: 'H8415', lemma: 'tehom', meaning: 'deep, abyss' },
+      { word: 'stone', strongNumber: 'H68', lemma: 'eben', meaning: 'stone' }
+    ]
+  },
+  'Exodus 15:6': {
+    verse: 6,
+    text: 'Thy right hand, O LORD, is become glorious in power: thy right hand, O LORD, hath dashed in pieces the enemy.',
+    highlightedWords: [
+      { word: 'hand', strongNumber: 'H3027', lemma: 'yad', meaning: 'hand' },
+      { word: 'LORD', strongNumber: 'H3068', lemma: 'YHWH', meaning: 'the personal name of Israel\'s God; the LORD' }
+    ]
+  },
+  'Exodus 15:7': {
+    verse: 7,
+    text: 'And in the greatness of thine excellency thou hast overthrown them that rose up against thee: thou sentest forth thy wrath, which consumed them as stubble.',
+    highlightedWords: [
+      { word: 'wrath', strongNumber: 'H2740', lemma: 'charon', meaning: 'burning anger, wrath' },
+      { word: 'stubble', strongNumber: 'H7179', lemma: 'qash', meaning: 'stubble, straw' }
+    ]
+  },
+  'Exodus 15:8': {
+    verse: 8,
+    text: 'And with the blast of thy nostrils the waters were gathered together, the floods stood upright as an heap, and the depths were congealed in the heart of the sea.',
+    highlightedWords: [
+      { word: 'waters', strongNumber: 'H4325', lemma: 'mayim', meaning: 'waters' },
+      { word: 'sea', strongNumber: 'H3220', lemma: 'yam', meaning: 'sea, large body of water' }
+    ]
+  },
+  'Exodus 15:9': {
+    verse: 9,
+    text: 'The enemy said, I will pursue, I will overtake, I will divide the spoil; my lust shall be satisfied upon them; I will draw my sword, my hand shall destroy them.',
+    highlightedWords: [
+      { word: 'spoil', strongNumber: 'H7998', lemma: 'shalal', meaning: 'spoil, plunder' },
+      { word: 'sword', strongNumber: 'H2719', lemma: 'chereb', meaning: 'sword' }
+    ]
+  },
+  'Exodus 15:10': {
+    verse: 10,
+    text: 'Thou didst blow with thy wind, the sea covered them: they sank as lead in the mighty waters.',
+    highlightedWords: [
+      { word: 'wind', strongNumber: 'H7307', lemma: 'ruach', meaning: 'wind, spirit, breath' },
+      { word: 'waters', strongNumber: 'H4325', lemma: 'mayim', meaning: 'waters' }
+    ]
+  },
+  'Exodus 15:11': {
+    verse: 11,
+    text: 'Who is like unto thee, O LORD, among the gods? who is like thee, glorious in holiness, fearful in praises, doing wonders?',
+    highlightedWords: [
+      { word: 'LORD', strongNumber: 'H3068', lemma: 'YHWH', meaning: 'the personal name of Israel\'s God; the LORD' },
+      { word: 'holiness', strongNumber: 'H6944', lemma: 'qodesh', meaning: 'holiness, sacredness' }
+    ]
+  },
+  'Exodus 15:12': {
+    verse: 12,
+    text: 'Thou stretchedst out thy right hand, the earth swallowed them.',
+    highlightedWords: [
+      { word: 'hand', strongNumber: 'H3027', lemma: 'yad', meaning: 'hand' },
+      { word: 'earth', strongNumber: 'H776', lemma: 'eretz', meaning: 'earth, land' }
+    ]
+  },
+  'Exodus 15:13': {
+    verse: 13,
+    text: 'Thou in thy mercy hast led forth the people which thou hast redeemed: thou hast guided them in thy strength unto thy holy habitation.',
+    highlightedWords: [
+      { word: 'mercy', strongNumber: 'H2617', lemma: 'chesed', meaning: 'steadfast love, mercy' },
+      { word: 'people', strongNumber: 'H5971', lemma: 'am', meaning: 'people, nation' }
+    ]
+  },
+  'Exodus 15:14': {
+    verse: 14,
+    text: 'The people shall hear, and be afraid: sorrow shall take hold on the inhabitants of Palestina.',
+    highlightedWords: [
+      { word: 'people', strongNumber: 'H5971', lemma: 'am', meaning: 'people, nation' },
+      { word: 'hear', strongNumber: 'H8085', lemma: 'shamaʿ', meaning: 'to hear, listen' }
+    ]
+  },
+  'Exodus 15:15': {
+    verse: 15,
+    text: 'Then the dukes of Edom shall be amazed; the mighty men of Moab, trembling shall take hold upon them; all the inhabitants of Canaan shall melt away.',
+    highlightedWords: [
+      { word: 'Edom', strongNumber: 'H123', lemma: 'Edom', meaning: 'Edom; descendants of Esau and their land' },
+      { word: 'Canaan', strongNumber: 'H3667', lemma: 'Kena\'an', meaning: 'Canaan; the land/people of Canaan' }
+    ]
+  },
+  'Exodus 15:16': {
+    verse: 16,
+    text: 'Fear and dread shall fall upon them; by the greatness of thine arm they shall be as still as a stone; till thy people pass over, O LORD, till the people pass over, which thou hast purchased.',
+    highlightedWords: [
+      { word: 'people', strongNumber: 'H5971', lemma: 'am', meaning: 'people, nation' },
+      { word: 'stone', strongNumber: 'H68', lemma: 'eben', meaning: 'stone' }
+    ]
+  },
+  'Exodus 15:17': {
+    verse: 17,
+    text: 'Thou shalt bring them in, and plant them in the mountain of thine inheritance, in the place, O LORD, which thou hast made for thee to dwell in, in the Sanctuary, O Lord, which thy hands have established.',
+    highlightedWords: [
+      { word: 'LORD', strongNumber: 'H3068', lemma: 'YHWH', meaning: 'the personal name of Israel\'s God; the LORD' },
+      { word: 'Sanctuary', strongNumber: 'H4720', lemma: 'miqdash', meaning: 'sanctuary, holy place' }
+    ]
+  },
+  'Exodus 15:18': {
+    verse: 18,
+    text: 'The LORD shall reign for ever and ever.',
+    highlightedWords: [
+      { word: 'LORD', strongNumber: 'H3068', lemma: 'YHWH', meaning: 'the personal name of Israel\'s God; the LORD' },
+      { word: 'reign', strongNumber: 'H4427', lemma: 'malak', meaning: 'to reign, be king' }
+    ]
+  },
+  'Exodus 15:19': {
+    verse: 19,
+    text: 'For the horse of Pharaoh went in with his chariots and with his horsemen into the sea, and the LORD brought again the waters of the sea upon them; but the children of Israel went on dry land in the midst of the sea.',
+    highlightedWords: [
+      { word: 'sea', strongNumber: 'H3220', lemma: 'yam', meaning: 'sea, large body of water' },
+      { word: 'Israel', strongNumber: 'H3478', lemma: 'Yisra\'el', meaning: 'Israel' }
+    ]
+  },
+  'Exodus 15:20': {
+    verse: 20,
+    text: 'And Miriam the prophetess, the sister of Aaron, took a timbrel in her hand; and all the women went out after her with timbrels and with dances.',
+    highlightedWords: [
+      { word: 'Miriam', strongNumber: 'H4813', lemma: 'Miryam', meaning: 'Miriam' },
+      { word: 'Aaron', strongNumber: 'H175', lemma: 'Aharon', meaning: 'Aaron' }
+    ]
+  },
+  'Exodus 15:21': {
+    verse: 21,
+    text: 'And Miriam answered them, Sing ye to the LORD, for he hath triumphed gloriously; the horse and his rider hath he thrown into the sea.',
+    highlightedWords: [
+      { word: 'LORD', strongNumber: 'H3068', lemma: 'YHWH', meaning: 'the personal name of Israel\'s God; the LORD' },
+      { word: 'sea', strongNumber: 'H3220', lemma: 'yam', meaning: 'sea, large body of water' }
+    ]
+  },
+  'Exodus 15:22': {
+    verse: 22,
+    text: 'So Moses brought Israel from the Red sea, and they went out into the wilderness of Shur; and they went three days in the wilderness, and found no water.',
+    highlightedWords: [
+      { word: 'wilderness', strongNumber: 'H4057', lemma: 'midbar', meaning: 'wilderness, desert' },
+      { word: 'water', strongNumber: 'H4325', lemma: 'mayim', meaning: 'water' }
+    ]
+  },
+  'Exodus 15:23': {
+    verse: 23,
+    text: 'And when they came to Marah, they could not drink of the waters of Marah, for they were bitter: therefore the name of it was called Marah.',
+    highlightedWords: [
+      { word: 'waters', strongNumber: 'H4325', lemma: 'mayim', meaning: 'waters' },
+      { word: 'bitter', strongNumber: 'H4751', lemma: 'mar', meaning: 'bitter' }
+    ]
+  },
+  'Exodus 15:24': {
+    verse: 24,
+    text: 'And the people murmured against Moses, saying, What shall we drink?',
+    highlightedWords: [
+      { word: 'people', strongNumber: 'H5971', lemma: 'am', meaning: 'people, nation' },
+      { word: 'Moses', strongNumber: 'H4872', lemma: 'Mosheh', meaning: 'Moses' }
+    ]
+  },
+  'Exodus 15:25': {
+    verse: 25,
+    text: 'And he cried unto the LORD; and the LORD shewed him a tree, which when he had cast into the waters, the waters were made sweet: there he made for them a statute and an ordinance, and there he proved them,',
+    highlightedWords: [
+      { word: 'LORD', strongNumber: 'H3068', lemma: 'YHWH', meaning: 'the personal name of Israel\'s God; the LORD' },
+      { word: 'tree', strongNumber: 'H6086', lemma: 'ets', meaning: 'tree, wood' }
+    ]
+  },
+  'Exodus 15:26': {
+    verse: 26,
+    text: 'And said, If thou wilt diligently hearken to the voice of the LORD thy God, and wilt do that which is right in his sight, and wilt give ear to his commandments, and keep all his statutes, I will put none of these diseases upon thee, which I have brought upon the Egyptians: for I am the LORD that healeth thee.',
+    highlightedWords: [
+      { word: 'LORD', strongNumber: 'H3068', lemma: 'YHWH', meaning: 'the personal name of Israel\'s God; the LORD' },
+      { word: 'healeth', strongNumber: 'H7495', lemma: 'rapha', meaning: 'to heal' }
+    ]
+  },
+  'Exodus 15:27': {
+    verse: 27,
+    text: 'And they came to Elim, where were twelve wells of water, and threescore and ten palm trees: and they encamped there by the waters.',
+    highlightedWords: [
+      { word: 'wells', strongNumber: 'H875', lemma: 'be\'er', meaning: 'well, pit' },
+      { word: 'waters', strongNumber: 'H4325', lemma: 'mayim', meaning: 'waters' }
+    ]
+  }
+};
