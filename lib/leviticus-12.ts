@@ -1,0 +1,170 @@
+export const leviticusChapter12 = {
+  "Leviticus-12": {
+    "book": "Leviticus",
+    "chapter": 12,
+    "chapterTheme": {
+      "twoWordSummary": "Childbirth Purification",
+      "themeWords": [
+        {
+          "word": "unclean",
+          "strongNumber": "H2931",
+          "lemma": "tame'",
+          "meaning": "ritually impure"
+        },
+        {
+          "word": "atonement",
+          "strongNumber": "H3722",
+          "lemma": "kaphar",
+          "meaning": "to make propitiation; to cover sin"
+        }
+      ]
+    },
+    "sentenceTheme": "Regulations for purification after childbirth and the required offerings.",
+    "verses": [
+      {
+        "verse": 1,
+        "text": "And the LORD spake unto Moses, saying,",
+        "highlightedWords": [
+          {
+            "word": "LORD",
+            "strongNumber": "H3068",
+            "lemma": "YHWH",
+            "meaning": "the personal covenant name of God"
+          },
+          {
+            "word": "Moses",
+            "strongNumber": "H4872",
+            "lemma": "Mosheh",
+            "meaning": "Moses, Israel's leader and lawgiver"
+          }
+        ]
+      },
+      {
+        "verse": 2,
+        "text": "Speak unto the children of Israel, saying, If a woman have conceived seed, and born a man child: then she shall be unclean seven days; according to the days of the separation for her infirmity shall she be unclean.",
+        "highlightedWords": [
+          {
+            "word": "unclean",
+            "strongNumber": "H2931",
+            "lemma": "tame'",
+            "meaning": "ritually impure"
+          },
+          {
+            "word": "separation",
+            "strongNumber": "H5079",
+            "lemma": "niddah",
+            "meaning": "menstrual separation; period of impurity"
+          }
+        ]
+      },
+      {
+        "verse": 3,
+        "text": "And in the eighth day the flesh of his foreskin shall be circumcised.",
+        "highlightedWords": [
+          {
+            "word": "eighth",
+            "strongNumber": "H8066",
+            "lemma": "shemini",
+            "meaning": "eighth (in order)"
+          },
+          {
+            "word": "circumcised",
+            "strongNumber": "H4135",
+            "lemma": "mul",
+            "meaning": "to circumcise; to cut off the foreskin"
+          }
+        ]
+      },
+      {
+        "verse": 4,
+        "text": "And she shall then continue in the blood of her purifying three and thirty days; she shall touch no hallowed thing, nor come into the sanctuary, until the days of her purifying be fulfilled.",
+        "highlightedWords": [
+          {
+            "word": "hallowed",
+            "strongNumber": "H6944",
+            "lemma": "qodesh",
+            "meaning": "holy; set apart as sacred"
+          },
+          {
+            "word": "sanctuary",
+            "strongNumber": "H4720",
+            "lemma": "miqdash",
+            "meaning": "a holy place; the sanctuary"
+          }
+        ]
+      },
+      {
+        "verse": 5,
+        "text": "But if she bear a maid child, then she shall be unclean two weeks, as in her separation: and she shall continue in the blood of her purifying threescore and six days.",
+        "highlightedWords": [
+          {
+            "word": "maid",
+            "strongNumber": "H5347",
+            "lemma": "neqebah",
+            "meaning": "female (of sex)"
+          },
+          {
+            "word": "weeks",
+            "strongNumber": "H7620",
+            "lemma": "shabua'",
+            "meaning": "a period of seven days; a week"
+          }
+        ]
+      },
+      {
+        "verse": 6,
+        "text": "And when the days of her purifying are fulfilled, for a son, or for a daughter, she shall bring a lamb of the first year for a burnt offering, and a young pigeon, or a turtledove, for a sin offering, unto the door of the tabernacle of the congregation, unto the priest:",
+        "highlightedWords": [
+          {
+            "word": "burnt offering",
+            "strongNumber": "H5930",
+            "lemma": "olah",
+            "meaning": "whole burnt offering that ascends"
+          },
+          {
+            "word": "sin offering",
+            "strongNumber": "H2403",
+            "lemma": "chattat",
+            "meaning": "sin/purification offering"
+          }
+        ]
+      },
+      {
+        "verse": 7,
+        "text": "Who shall offer it before the LORD, and make an atonement for her; and she shall be cleansed from the issue of her blood. This is the law for her that hath born a male or a female.",
+        "highlightedWords": [
+          {
+            "word": "atonement",
+            "strongNumber": "H3722",
+            "lemma": "kaphar",
+            "meaning": "to make atonement; to cover over sin"
+          },
+          {
+            "word": "cleansed",
+            "strongNumber": "H2891",
+            "lemma": "taher",
+            "meaning": "to be/declare clean; to purify"
+          }
+        ]
+      },
+      {
+        "verse": 8,
+        "text": "And if she be not able to bring a lamb, then she shall bring two turtles, or two young pigeons; the one for the burnt offering, and the other for a sin offering: and the priest shall make an atonement for her, and she shall be clean.",
+        "highlightedWords": [
+          {
+            "word": "turtles",
+            "strongNumber": "H8449",
+            "lemma": "tor",
+            "meaning": "turtledoves"
+          },
+          {
+            "word": "clean",
+            "strongNumber": "H2889",
+            "lemma": "tahor",
+            "meaning": "clean, pure (ritually)"
+          }
+        ]
+      }
+    ]
+  }
+};
