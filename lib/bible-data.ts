@@ -49,6 +49,39 @@ import { genesisChapter47 } from './genesis-47'
 import { genesisChapter48 } from './genesis-48'
 import { genesisChapter49 } from './genesis-49'
 import { genesisChapter50 } from './genesis-50'
+import { exodusChapter1 } from './exodus-1'
+import { exodusChapter2 } from './exodus-2'
+import { exodusChapter3 } from './exodus-3'
+import { exodusChapter4 } from './exodus-4'
+import { exodusChapter5 } from './exodus-5'
+import { exodusChapter6 } from './exodus-6'
+import { exodusChapter7 } from './exodus-7'
+import { exodusChapter8 } from './exodus-8'
+import { exodusChapter9 } from './exodus-9'
+import { exodusChapter10 } from './exodus-10'
+import { exodusChapter15 } from './exodus-15'
+import { exodusChapter25 } from './exodus-25'
+import { exodusChapter11 } from './exodus-11'
+import { exodusChapter12 } from './exodus-12'
+import { exodusChapter13 } from './exodus-13'
+import { exodusChapter14 } from './exodus-14'
+import { exodusChapter16 } from './exodus-16'
+import { exodusChapter17 } from './exodus-17'
+import { exodusChapter18 } from './exodus-18'
+import { exodusChapter19 } from './exodus-19'
+import { exodusChapter20 } from './exodus-20'
+import { exodusChapter21 } from './exodus-21'
+import { exodusChapter22 } from './exodus-22'
+import { exodusChapter23 } from './exodus-23'
+import { exodusChapter24 } from './exodus-24'
+import { exodusChapter26 } from './exodus-26'
+import { exodusChapter27 } from './exodus-27'
+import { exodusChapter30 } from './exodus-30'
+import { exodusChapter31 } from './exodus-31'
+import { exodusChapter33 } from './exodus-33'
+import { exodusChapter35 } from './exodus-35'
+import { exodusChapter37 } from './exodus-37'
+import { exodusChapter38 } from './exodus-38'
 import { markChapters18 } from './mark-1-8'
 import { markChapters916 } from './mark-9-16'
 import { lukeChapter1 } from './luke-1'
@@ -1644,7 +1677,7 @@ export const sampleChapters: Record<string, Chapter> = {
             word: "flee",
             strongNumber: "G5343",
             language: "Greek",
-            lemma: "pheugeō",
+            lemma: "pheuge��",
             meaning: "to flee, escape",
           },
         ],
@@ -2589,7 +2622,7 @@ export const sampleChapters: Record<string, Chapter> = {
         text: "Blessed are they which do hunger and thirst after righteousness: for they shall be filled.",
         highlightedWords: [
           { word: "hunger", strongNumber: "G3983", language: "Greek", lemma: "peinaō", meaning: "to hunger, desire" },
-          { word: "righteousness", strongNumber: "G1343", language: "Greek", lemma: "dikaiosynē", meaning: "justice, right dealing" },
+          { word: "righteousness", strongNumber: "G1343", language: "Greek", lemma: "dikaiosyn��", meaning: "justice, right dealing" },
         ],
       },
       {
@@ -3801,7 +3834,7 @@ export const sampleChapters: Record<string, Chapter> = {
       { book: "Matthew", chapter: 10, verse: 20, text: "For it is not ye that speak, but the Spirit of your Father which speaketh in you.", highlightedWords: [{ word: "Spirit", strongNumber: "G4151", language: "Greek", lemma: "pneuma", meaning: "spirit, breath, wind" }, { word: "Father", strongNumber: "G3962", language: "Greek", lemma: "patēr", meaning: "father, patriarch" }] },
       { book: "Matthew", chapter: 10, verse: 21, text: "And the brother shall deliver up the brother to death, and the father the child: and the children shall rise up against their parents, and cause them to be put to death.", highlightedWords: [{ word: "deliver", strongNumber: "G3860", language: "Greek", lemma: "paradidōmi", meaning: "to hand over, betray" }, { word: "death", strongNumber: "G2288", language: "Greek", lemma: "thanatos", meaning: "death, dying" }] },
       { book: "Matthew", chapter: 10, verse: 22, text: "And ye shall be hated of all men for my name's sake: but he that endureth to the end shall be saved.", highlightedWords: [{ word: "hated", strongNumber: "G3404", language: "Greek", lemma: "miseō", meaning: "to hate, detest" }, { word: "endureth", strongNumber: "G5278", language: "Greek", lemma: "hypomenō", meaning: "to endure, persevere" }] },
-      { book: "Matthew", chapter: 10, verse: 23, text: "But when they persecute you in this city, flee ye into another: for verily I say unto you, Ye shall not have gone over the cities of Israel, till the Son of man be come.", highlightedWords: [{ word: "persecute", strongNumber: "G1377", language: "Greek", lemma: "diōkō", meaning: "to pursue, persecute" }, { word: "flee", strongNumber: "G5343", language: "Greek", lemma: "pheugeō", meaning: "to flee, escape" }] },
+      { book: "Matthew", chapter: 10, verse: 23, text: "But when they persecute you in this city, flee ye into another: for verily I say unto you, Ye shall not have gone over the cities of Israel, till the Son of man be come.", highlightedWords: [{ word: "persecute", strongNumber: "G1377", language: "Greek", lemma: "di��kō", meaning: "to pursue, persecute" }, { word: "flee", strongNumber: "G5343", language: "Greek", lemma: "pheugeō", meaning: "to flee, escape" }] },
       { book: "Matthew", chapter: 10, verse: 24, text: "The disciple is not above his master, nor the servant above his lord.", highlightedWords: [{ word: "disciple", strongNumber: "G3101", language: "Greek", lemma: "mathetes", meaning: "learner, follower" }, { word: "master", strongNumber: "G1320", language: "Greek", lemma: "didaskalos", meaning: "teacher, master" }] },
       { book: "Matthew", chapter: 10, verse: 25, text: "It is enough for the disciple that he be as his master, and the servant as his lord. If they have called the master of the house Beelzebub, how much more shall they call them of his household?", highlightedWords: [{ word: "Beelzebub", strongNumber: "G954", language: "Greek", lemma: "Beelzeboul", meaning: "lord of flies, prince of demons" }, { word: "household", strongNumber: "G3610", language: "Greek", lemma: "oikeios", meaning: "household, member of household" }] },
       { book: "Matthew", chapter: 10, verse: 26, text: "Fear them not therefore: for there is nothing covered, that shall not be revealed; and hid, that shall not be known.", highlightedWords: [{ word: "Fear", strongNumber: "G5399", language: "Greek", lemma: "phobeomai", meaning: "to fear, be afraid" }, { word: "revealed", strongNumber: "G601", language: "Greek", lemma: "apokalyptō", meaning: "to uncover, reveal" }] },
@@ -4059,6 +4092,39 @@ export const sampleChapters: Record<string, Chapter> = {
   ...genesisChapter48,
   ...genesisChapter49,
   ...genesisChapter50,
+  ...exodusChapter1,
+  ...exodusChapter2,
+  ...exodusChapter3,
+  ...exodusChapter4,
+  ...exodusChapter5,
+  ...exodusChapter6,
+  ...exodusChapter7,
+  ...exodusChapter8,
+  ...exodusChapter9,
+  ...exodusChapter10,
+  ...exodusChapter11,
+  ...exodusChapter12,
+  ...exodusChapter13,
+  ...exodusChapter14,
+  ...exodusChapter15,
+  ...exodusChapter16,
+  ...exodusChapter17,
+  ...exodusChapter18,
+  ...exodusChapter19,
+  ...exodusChapter20,
+  ...exodusChapter21,
+  ...exodusChapter22,
+  ...exodusChapter23,
+  ...exodusChapter24,
+  ...exodusChapter25,
+  ...exodusChapter26,
+  ...exodusChapter27,
+  ...exodusChapter30,
+  ...exodusChapter31,
+  ...exodusChapter33,
+  ...exodusChapter35,
+  ...exodusChapter37,
+  ...exodusChapter38,
 }
 
 export function getChapter(book: string, chapter: number): Chapter | null {
