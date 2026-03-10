@@ -107,6 +107,7 @@ import { leviticusChapter15 } from './leviticus-15'
 import { leviticusChapter17 } from './leviticus-17'
 import { leviticusChapter18 } from './leviticus-18'
 import { leviticusChapter19 } from './leviticus-19'
+import { leviticusChapter20 } from './leviticus-20'
 import { markChapters18 } from './mark-1-8'
 import { markChapters916 } from './mark-9-16'
 import { lukeChapter1 } from './luke-1'
@@ -2533,7 +2534,7 @@ export const sampleChapters: Record<string, Chapter> = {
         verse: 21,
         text: "And going on from thence, he saw other two brethren, James the son of Zebedee, and John his brother, in a ship with Zebedee their father, mending their nets; and he called them.",
         highlightedWords: [
-          { word: "mending", strongNumber: "G2675", language: "Greek", lemma: "katartizō", meaning: "to repair, restore, prepare" },
+          { word: "mending", strongNumber: "G2675", language: "Greek", lemma: "katartiz��", meaning: "to repair, restore, prepare" },
           { word: "called", strongNumber: "G2564", language: "Greek", lemma: "kaleō", meaning: "to name, summon, invite" },
         ],
       },
@@ -4175,6 +4176,7 @@ export const sampleChapters: Record<string, Chapter> = {
   ...leviticusChapter17,
   ...leviticusChapter18,
   ...leviticusChapter19,
+  ...leviticusChapter20,
 }
 
 export function getChapter(book: string, chapter: number): Chapter | null {
