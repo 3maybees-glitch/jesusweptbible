@@ -2,7 +2,7 @@ export const leviticusChapter26 = {
   "Leviticus-26": {
     "book": "Leviticus",
     "chapter": 26,
-  "chapterTheme": {
+    "chapterTheme": {
     "twoWordSummary": "Covenant Consequences",
     "themeWords": [
       {

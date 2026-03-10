@@ -2,7 +2,7 @@ export const leviticusChapter20 = {
   "Leviticus-20": {
     "book": "Leviticus",
     "chapter": 20,
-  "chapterTheme": {
+    "chapterTheme": {
     "twoWordSummary": "Holy Separation",
     "themeWords": [
       {

@@ -2,7 +2,7 @@ export const leviticusChapter7 = {
   "Leviticus-7": {
     "book": "Leviticus",
     "chapter": 7,
-  "chapterTheme": {
+    "chapterTheme": {
     "twoWordSummary": "Guilt Peace",
     "themeWords": [
       {

@@ -2,7 +2,7 @@ export const leviticusChapter13 = {
   "Leviticus-13": {
     "book": "Leviticus",
     "chapter": 13,
-  "chapterTheme": {
+    "chapterTheme": {
     "twoWordSummary": "Leprosy Laws",
     "themeWords": [
       {
