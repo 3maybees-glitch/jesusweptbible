@@ -1,0 +1,853 @@
+export const leviticusChapter26 = {
+  "Leviticus-26": {
+    "book": "Leviticus",
+    "chapter": 26,
+  "chapterTheme": {
+    "twoWordSummary": "Covenant Consequences",
+    "themeWords": [
+      {
+        "word": "covenant",
+        "strongNumber": "H1285",
+        "lemma": "berith",
+        "meaning": "binding agreement; treaty, alliance"
+      },
+      {
+        "word": "hearken",
+        "strongNumber": "H8085",
+        "lemma": "shama'",
+        "meaning": "to hear, listen, obey"
+      }
+    ]
+  },
+  "sentenceTheme": "Blessings for obedience and severe curses for disobedience, yet hope endures as God remembers His covenant.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Ye shall make you no idols nor graven image, neither rear you up a standing image, neither shall ye set up any image of stone in your land, to bow down unto it: for I am the LORD your God.",
+      "highlightedWords": [
+        {
+          "word": "idols",
+          "strongNumber": "H0457",
+          "lemma": "’elil",
+          "meaning": "worthless thing; idol"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yahweh)",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Ye shall keep my sabbaths, and reverence my sanctuary: I am the LORD.",
+      "highlightedWords": [
+        {
+          "word": "sabbaths",
+          "strongNumber": "H7676",
+          "lemma": "shabbath",
+          "meaning": "Sabbath; day of rest"
+        },
+        {
+          "word": "sanctuary",
+          "strongNumber": "H4720",
+          "lemma": "miqdash",
+          "meaning": "sanctuary; holy place"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "If ye walk in my statutes, and keep my commandments, and do them;",
+      "highlightedWords": [
+        {
+          "word": "statutes",
+          "strongNumber": "H2708",
+          "lemma": "chuqqah",
+          "meaning": "statute; prescribed ordinance"
+        },
+        {
+          "word": "commandments",
+          "strongNumber": "H4687",
+          "lemma": "mitzvah",
+          "meaning": "command; commandment"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Then I will give you rain in due season, and the land shall yield her increase, and the trees of the field shall yield their fruit.",
+      "highlightedWords": [
+        {
+          "word": "land",
+          "strongNumber": "H0776",
+          "lemma": "’erets",
+          "meaning": "land; earth; territory"
+        },
+        {
+          "word": "increase",
+          "strongNumber": "H8393",
+          "lemma": "tebû’ah",
+          "meaning": "produce; yield; increase"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And your threshing shall reach unto the vintage, and the vintage shall reach unto the sowing time: and ye shall eat your bread to the full, and dwell in your land safely.",
+      "highlightedWords": [
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread; food"
+        },
+        {
+          "word": "safely",
+          "strongNumber": "H0983",
+          "lemma": "betach",
+          "meaning": "security; safety; confidence"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And I will give peace in the land, and ye shall lie down, and none shall make you afraid: and I will rid evil beasts out of the land, neither shall the sword go through your land.",
+      "highlightedWords": [
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace; wholeness; welfare"
+        },
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword; weapon"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And ye shall chase your enemies, and they shall fall before you by the sword.",
+      "highlightedWords": [
+        {
+          "word": "enemies",
+          "strongNumber": "H0341",
+          "lemma": "’oyev",
+          "meaning": "enemy; foe"
+        },
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword; weapon"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And five of you shall chase an hundred, and an hundred of you shall put ten thousand to flight: and your enemies shall fall before you by the sword.",
+      "highlightedWords": [
+        {
+          "word": "enemies",
+          "strongNumber": "H0341",
+          "lemma": "’oyev",
+          "meaning": "enemy; foe"
+        },
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword; weapon"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "For I will have respect unto you, and make you fruitful, and multiply you, and establish my covenant with you.",
+      "highlightedWords": [
+        {
+          "word": "fruitful",
+          "strongNumber": "H6509",
+          "lemma": "parah",
+          "meaning": "to be fruitful; bear fruit"
+        },
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "covenant; treaty; pledge"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And ye shall eat old store, and bring forth the old because of the new.",
+      "highlightedWords": [
+        {
+          "word": "eat",
+          "strongNumber": "H0398",
+          "lemma": "’akal",
+          "meaning": "to eat; consume"
+        },
+        {
+          "word": "new",
+          "strongNumber": "H2319",
+          "lemma": "chadash",
+          "meaning": "new; fresh"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And I will set my tabernacle among you: and my soul shall not abhor you.",
+      "highlightedWords": [
+        {
+          "word": "tabernacle",
+          "strongNumber": "H4908",
+          "lemma": "mishkan",
+          "meaning": "dwelling; tabernacle"
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul; life; person"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And I will walk among you, and will be your God, and ye shall be my people.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H0430",
+          "lemma": "’elohim",
+          "meaning": "God; mighty one"
+        },
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "’am",
+          "meaning": "people; nation"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "I am the LORD your God, which brought you forth out of the land of Egypt, that ye should not be their bondmen; and I have broken the bands of your yoke, and made you go upright.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yahweh)",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "But if ye will not hearken unto me, and will not do all these commandments;",
+      "highlightedWords": [
+        {
+          "word": "hearken",
+          "strongNumber": "H8085",
+          "lemma": "shama'",
+          "meaning": "to hear; listen; obey"
+        },
+        {
+          "word": "commandments",
+          "strongNumber": "H4687",
+          "lemma": "mitzvah",
+          "meaning": "command; commandment"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And if ye shall despise my statutes, or if your soul abhor my judgments, so that ye will not do all my commandments, but that ye break my covenant:",
+      "highlightedWords": [
+        {
+          "word": "statutes",
+          "strongNumber": "H2708",
+          "lemma": "chuqqah",
+          "meaning": "statute; prescribed ordinance"
+        },
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "covenant; treaty; pledge"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "I also will do this unto you; I will even appoint over you terror, consumption, and the burning ague, that shall consume the eyes, and cause sorrow of heart: and ye shall sow your seed in vain, for your enemies shall eat it.",
+      "highlightedWords": [
+        {
+          "word": "seed",
+          "strongNumber": "H2233",
+          "lemma": "zera‘",
+          "meaning": "seed; offspring"
+        },
+        {
+          "word": "enemies",
+          "strongNumber": "H0341",
+          "lemma": "’oyev",
+          "meaning": "enemy; foe"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And I will set my face against you, and ye shall be slain before your enemies: they that hate you shall reign over you; and ye shall flee when none pursueth you.",
+      "highlightedWords": [
+        {
+          "word": "face",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "face; presence"
+        },
+        {
+          "word": "enemies",
+          "strongNumber": "H0341",
+          "lemma": "’oyev",
+          "meaning": "enemy; foe"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And if ye will not yet for all this hearken unto me, then I will punish you seven times more for your sins.",
+      "highlightedWords": [
+        {
+          "word": "seven",
+          "strongNumber": "H7651",
+          "lemma": "sheva‘",
+          "meaning": "seven"
+        },
+        {
+          "word": "sins",
+          "strongNumber": "H2403",
+          "lemma": "chatta’ah",
+          "meaning": "sin; sin offering"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And I will break the pride of your power; and I will make your heaven as iron, and your earth as brass:",
+      "highlightedWords": [
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens; sky"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H0776",
+          "lemma": "’erets",
+          "meaning": "land; earth"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And your strength shall be spent in vain: for your land shall not yield her increase, neither shall the trees of the land yield their fruits.",
+      "highlightedWords": [
+        {
+          "word": "land",
+          "strongNumber": "H0776",
+          "lemma": "’erets",
+          "meaning": "land; earth; territory"
+        },
+        {
+          "word": "trees",
+          "strongNumber": "H6086",
+          "lemma": "‘ets",
+          "meaning": "tree; wood"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And if ye walk contrary unto me, and will not hearken unto me; I will bring seven times more plagues upon you according to your sins.",
+      "highlightedWords": [
+        {
+          "word": "seven",
+          "strongNumber": "H7651",
+          "lemma": "sheva‘",
+          "meaning": "seven"
+        },
+        {
+          "word": "sins",
+          "strongNumber": "H2403",
+          "lemma": "chatta’ah",
+          "meaning": "sin; sin offering"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "I will also send wild beasts among you, which shall rob you of your children, and destroy your cattle, and make you few in number; and your high ways shall be desolate.",
+      "highlightedWords": [
+        {
+          "word": "beasts",
+          "strongNumber": "H2416",
+          "lemma": "chayyah",
+          "meaning": "beast; living creature"
+        },
+        {
+          "word": "desolate",
+          "strongNumber": "H8074",
+          "lemma": "shamem",
+          "meaning": "to be desolate; devastated"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And if ye will not be reformed by me by these things, but will walk contrary unto me;",
+      "highlightedWords": [
+        {
+          "word": "walk",
+          "strongNumber": "H1980",
+          "lemma": "halak",
+          "meaning": "to walk; go; live"
+        },
+        {
+          "word": "contrary",
+          "strongNumber": "H7147",
+          "lemma": "qeri",
+          "meaning": "hostility; opposition; contrary"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Then will I also walk contrary unto you, and will punish you yet seven times for your sins.",
+      "highlightedWords": [
+        {
+          "word": "contrary",
+          "strongNumber": "H7147",
+          "lemma": "qeri",
+          "meaning": "hostility; opposition; contrary"
+        },
+        {
+          "word": "seven",
+          "strongNumber": "H7651",
+          "lemma": "sheva‘",
+          "meaning": "seven"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And I will bring a sword upon you, that shall avenge the quarrel of my covenant: and when ye are gathered together within your cities, I will send the pestilence among you; and ye shall be delivered into the hand of the enemy.",
+      "highlightedWords": [
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword; weapon"
+        },
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "covenant; treaty; pledge"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And when I have broken the staff of your bread, ten women shall bake your bread in one oven, and they shall deliver you your bread again by weight: and ye shall eat, and not be satisfied.",
+      "highlightedWords": [
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread; food"
+        },
+        {
+          "word": "weight",
+          "strongNumber": "H4948",
+          "lemma": "mishqal",
+          "meaning": "weight; measure"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And if ye will not for all this hearken unto me, but walk contrary unto me;",
+      "highlightedWords": [
+        {
+          "word": "hearken",
+          "strongNumber": "H8085",
+          "lemma": "shama'",
+          "meaning": "to hear; listen; obey"
+        },
+        {
+          "word": "contrary",
+          "strongNumber": "H7147",
+          "lemma": "qeri",
+          "meaning": "hostility; opposition; contrary"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "Then I will walk contrary unto you also in fury; and I, even I, will chastise you seven times for your sins.",
+      "highlightedWords": [
+        {
+          "word": "chastise",
+          "strongNumber": "H3256",
+          "lemma": "yasar",
+          "meaning": "to discipline; chasten; instruct"
+        },
+        {
+          "word": "seven",
+          "strongNumber": "H7651",
+          "lemma": "sheva‘",
+          "meaning": "seven"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "And ye shall eat the flesh of your sons, and the flesh of your daughters shall ye eat.",
+      "highlightedWords": [
+        {
+          "word": "flesh",
+          "strongNumber": "H1320",
+          "lemma": "basar",
+          "meaning": "flesh; meat; body"
+        },
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "And I will destroy your high places, and cut down your images, and cast your carcases upon the carcases of your idols, and my soul shall abhor you.",
+      "highlightedWords": [
+        {
+          "word": "high places",
+          "strongNumber": "H1116",
+          "lemma": "bamah",
+          "meaning": "high place; shrine"
+        },
+        {
+          "word": "idols",
+          "strongNumber": "H0457",
+          "lemma": "’elil",
+          "meaning": "worthless thing; idol"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "And I will make your cities waste, and bring your sanctuaries unto desolation, and I will not smell the savour of your sweet odours.",
+      "highlightedWords": [
+        {
+          "word": "cities",
+          "strongNumber": "H5892",
+          "lemma": "‘ir",
+          "meaning": "city; town"
+        },
+        {
+          "word": "sanctuaries",
+          "strongNumber": "H4720",
+          "lemma": "miqdash",
+          "meaning": "sanctuaries; holy places"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "And I will bring the land into desolation: and your enemies which dwell therein shall be astonished at it.",
+      "highlightedWords": [
+        {
+          "word": "land",
+          "strongNumber": "H0776",
+          "lemma": "’erets",
+          "meaning": "land; earth; territory"
+        },
+        {
+          "word": "enemies",
+          "strongNumber": "H0341",
+          "lemma": "’oyev",
+          "meaning": "enemy; foe"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "And I will scatter you among the heathen, and will draw out a sword after you: and your land shall be desolate, and your cities waste.",
+      "highlightedWords": [
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword; weapon"
+        },
+        {
+          "word": "desolate",
+          "strongNumber": "H8074",
+          "lemma": "shamem",
+          "meaning": "to be desolate; devastated"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "Then shall the land enjoy her sabbaths, as long as it lieth desolate, and ye be in your enemies' land; even then shall the land rest, and enjoy her sabbaths.",
+      "highlightedWords": [
+        {
+          "word": "land",
+          "strongNumber": "H0776",
+          "lemma": "’erets",
+          "meaning": "land; earth; territory"
+        },
+        {
+          "word": "sabbaths",
+          "strongNumber": "H7676",
+          "lemma": "shabbath",
+          "meaning": "Sabbath; day of rest"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "As long as it lieth desolate it shall rest; because it did not rest in your sabbaths, when ye dwelt upon it.",
+      "highlightedWords": [
+        {
+          "word": "desolate",
+          "strongNumber": "H8074",
+          "lemma": "shamem",
+          "meaning": "to be desolate; devastated"
+        },
+        {
+          "word": "sabbaths",
+          "strongNumber": "H7676",
+          "lemma": "shabbath",
+          "meaning": "Sabbath; day of rest"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "And upon them that are left alive of you I will send a faintness into their hearts in the lands of their enemies; and the sound of a shaken leaf shall chase them; and they shall flee, as fleeing from a sword; and they shall fall when none pursueth.",
+      "highlightedWords": [
+        {
+          "word": "hearts",
+          "strongNumber": "H3824",
+          "lemma": "levav",
+          "meaning": "heart; inner man; mind"
+        },
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword; weapon"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "And they shall fall one upon another, as it were before a sword, when none pursueth: and ye shall have no power to stand before your enemies.",
+      "highlightedWords": [
+        {
+          "word": "power",
+          "strongNumber": "H3581",
+          "lemma": "koach",
+          "meaning": "strength; power; ability"
+        },
+        {
+          "word": "enemies",
+          "strongNumber": "H0341",
+          "lemma": "’oyev",
+          "meaning": "enemy; foe"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "And ye shall perish among the heathen, and the land of your enemies shall eat you up.",
+      "highlightedWords": [
+        {
+          "word": "perish",
+          "strongNumber": "H0006",
+          "lemma": "’abad",
+          "meaning": "to perish; be lost; be destroyed"
+        },
+        {
+          "word": "heathen",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation; Gentiles; heathen"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "text": "And they that are left of you shall pine away in their iniquity in your enemies' lands; and also in the iniquities of their fathers shall they pine away with them.",
+      "highlightedWords": [
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "‘avon",
+          "meaning": "iniquity; guilt"
+        },
+        {
+          "word": "fathers",
+          "strongNumber": "H0001",
+          "lemma": "’ab",
+          "meaning": "father; ancestor"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "text": "If they shall confess their iniquity, and the iniquity of their fathers, with their trespass which they trespassed against me, and that also they have walked contrary unto me;",
+      "highlightedWords": [
+        {
+          "word": "confess",
+          "strongNumber": "H3034",
+          "lemma": "yadah",
+          "meaning": "to confess; praise; give thanks"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "‘avon",
+          "meaning": "iniquity; guilt"
+        }
+      ]
+    },
+    {
+      "verse": 41,
+      "text": "And that I also have walked contrary unto them, and have brought them into the land of their enemies; if then their uncircumcised hearts be humbled, and they then accept of the punishment of their iniquity:",
+      "highlightedWords": [
+        {
+          "word": "hearts",
+          "strongNumber": "H3824",
+          "lemma": "levav",
+          "meaning": "heart; inner man; mind"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "‘avon",
+          "meaning": "iniquity; guilt"
+        }
+      ]
+    },
+    {
+      "verse": 42,
+      "text": "Then will I remember my covenant with Jacob, and also my covenant with Isaac, and also my covenant with Abraham will I remember; and I will remember the land.",
+      "highlightedWords": [
+        {
+          "word": "remember",
+          "strongNumber": "H2142",
+          "lemma": "zakar",
+          "meaning": "to remember; call to mind"
+        },
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "covenant; treaty; pledge"
+        }
+      ]
+    },
+    {
+      "verse": 43,
+      "text": "The land also shall be left of them, and shall enjoy her sabbaths, while she lieth desolate without them: and they shall accept of the punishment of their iniquity: because, even because they despised my judgments, and because their soul abhorred my statutes.",
+      "highlightedWords": [
+        {
+          "word": "judgments",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "judgment; justice; ordinance"
+        },
+        {
+          "word": "statutes",
+          "strongNumber": "H2708",
+          "lemma": "chuqqah",
+          "meaning": "statute; prescribed ordinance"
+        }
+      ]
+    },
+    {
+      "verse": 44,
+      "text": "And yet for all that, when they be in the land of their enemies, I will not cast them away, neither will I abhor them, to destroy them utterly, and to break my covenant with them: for I am the LORD their God.",
+      "highlightedWords": [
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "covenant; treaty; pledge"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yahweh)",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 45,
+      "text": "But I will for their sakes remember the covenant of their ancestors, whom I brought forth out of the land of Egypt in the sight of the heathen, that I might be their God: I am the LORD.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yahweh)",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt"
+        }
+      ]
+    },
+    {
+      "verse": 46,
+      "text": "These are the statutes and judgments and laws, which the LORD made between him and the children of Israel in mount Sinai by the hand of Moses.",
+      "highlightedWords": [
+        {
+          "word": "statutes",
+          "strongNumber": "H2708",
+          "lemma": "chuqqah",
+          "meaning": "statute; prescribed ordinance"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra’el",
+          "meaning": "Israel"
+        }
+      ]
+    }
+  ]
+};
