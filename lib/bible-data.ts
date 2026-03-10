@@ -95,25 +95,19 @@ import { leviticusChapter3 } from './leviticus-3'
 import { leviticusChapter4 } from './leviticus-4'
 import { leviticusChapter5 } from './leviticus-5'
 import { leviticusChapter6 } from './leviticus-6'
-import { leviticusChapter7 } from './leviticus-7'
-import { leviticusChapter8 } from './leviticus-8'
 import { leviticusChapter9 } from './leviticus-9'
 import { leviticusChapter10 } from './leviticus-10'
 import { leviticusChapter11 } from './leviticus-11'
 import { leviticusChapter12 } from './leviticus-12'
-import { leviticusChapter13 } from './leviticus-13'
 import { leviticusChapter14 } from './leviticus-14'
 import { leviticusChapter15 } from './leviticus-15'
 import { leviticusChapter17 } from './leviticus-17'
 import { leviticusChapter18 } from './leviticus-18'
 import { leviticusChapter19 } from './leviticus-19'
-import { leviticusChapter20 } from './leviticus-20'
 import { leviticusChapter21 } from './leviticus-21'
 import { leviticusChapter22 } from './leviticus-22'
 import { leviticusChapter23 } from './leviticus-23'
 import { leviticusChapter24 } from './leviticus-24'
-import { leviticusChapter25 } from './leviticus-25'
-import { leviticusChapter26 } from './leviticus-26'
 import { leviticusChapter27 } from './leviticus-27'
 import { markChapters18 } from './mark-1-8'
 import { markChapters916 } from './mark-9-16'
@@ -1162,7 +1156,7 @@ export const sampleChapters: Record<string, Chapter> = {
             word: "Sadoc",
             strongNumber: "G4524",
             language: "Greek",
-            lemma: "Sadōk",
+            lemma: "Sad��k",
             meaning: "just, righteous",
           },
           {
@@ -4171,25 +4165,19 @@ export const sampleChapters: Record<string, Chapter> = {
   ...leviticusChapter4,
   ...leviticusChapter5,
   ...leviticusChapter6,
-  ...leviticusChapter7,
-  ...leviticusChapter8,
   ...leviticusChapter9,
   ...leviticusChapter10,
   ...leviticusChapter11,
   ...leviticusChapter12,
-  ...leviticusChapter13,
   ...leviticusChapter14,
   ...leviticusChapter15,
   ...leviticusChapter17,
   ...leviticusChapter18,
   ...leviticusChapter19,
-  ...leviticusChapter20,
   ...leviticusChapter21,
   ...leviticusChapter22,
   ...leviticusChapter23,
   ...leviticusChapter24,
-  ...leviticusChapter25,
-  ...leviticusChapter26,
   ...leviticusChapter27,
 }
 
