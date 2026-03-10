@@ -1,0 +1,1087 @@
+export const leviticusChapter13 = {
+  "Leviticus-13": {
+    "book": "Leviticus",
+    "chapter": 13,
+  "chapterTheme": {
+    "twoWordSummary": "Leprosy Laws",
+    "themeWords": [
+      {
+        "word": "priest",
+        "strongNumber": "H3548",
+        "lemma": "kohen",
+        "meaning": "priest; one who officiates in sacred rites"
+      },
+      {
+        "word": "leprosy",
+        "strongNumber": "H6883",
+        "lemma": "tsara‘ath",
+        "meaning": "defiling skin disease; leprosy-like affliction"
+      }
+    ]
+  },
+  "sentenceTheme": "Detailed laws for diagnosing leprous plagues in people and garments, and for pronouncing clean or unclean.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And the LORD spake unto Moses and Aaron, saying,",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of God"
+        },
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses; drawn out"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "When a man shall have in the skin of his flesh a rising, a scab, or bright spot, and it be in the skin of his flesh like the plague of leprosy; then he shall be brought unto Aaron the priest, or unto one of his sons the priests:",
+      "highlightedWords": [
+        {
+          "word": "priest",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest; one who officiates in sacred rites"
+        },
+        {
+          "word": "leprosy",
+          "strongNumber": "H6883",
+          "lemma": "tsara‘ath",
+          "meaning": "defiling skin disease; leprosy-like affliction"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And the priest shall look on the plague in the skin of the flesh: and when the hair in the plague is turned white, and the plague in sight be deeper than the skin of his flesh, it is a plague of leprosy: and the priest shall look on him, and pronounce him unclean.",
+      "highlightedWords": [
+        {
+          "word": "priest",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest; one who officiates in sacred rites"
+        },
+        {
+          "word": "unclean",
+          "strongNumber": "H2931",
+          "lemma": "tameʾ",
+          "meaning": "unclean; ceremonially impure"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "If the bright spot be white in the skin of his flesh, and in sight be not deeper than the skin, and the hair thereof be not turned white; then the priest shall shut up him that hath the plague seven days:",
+      "highlightedWords": [
+        {
+          "word": "priest",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest; one who officiates in sacred rites"
+        },
+        {
+          "word": "seven",
+          "strongNumber": "H7651",
+          "lemma": "shebaʿ",
+          "meaning": "seven"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And the priest shall look on him the seventh day: and, behold, if the plague in his sight be at a stay, and the plague spread not in the skin; then the priest shall shut him up seven days more:",
+      "highlightedWords": [
+        {
+          "word": "seventh",
+          "strongNumber": "H7637",
+          "lemma": "shebiʿi",
+          "meaning": "seventh (ordinal)"
+        },
+        {
+          "word": "seven",
+          "strongNumber": "H7651",
+          "lemma": "shebaʿ",
+          "meaning": "seven"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And the priest shall look on him again the seventh day: and, behold, if the plague be somewhat dark, and the plague spread not in the skin, the priest shall pronounce him clean: it is but a scab: and he shall wash his clothes, and be clean.",
+      "highlightedWords": [
+        {
+          "word": "scab",
+          "strongNumber": "H5597",
+          "lemma": "sappaḥath",
+          "meaning": "scab; superficial eruption"
+        },
+        {
+          "word": "clean",
+          "strongNumber": "H2889",
+          "lemma": "tahor",
+          "meaning": "clean; pure"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "But if the scab spread much abroad in the skin, after that he hath been seen of the priest for his cleansing, he shall be seen of the priest again:",
+      "highlightedWords": [
+        {
+          "word": "scab",
+          "strongNumber": "H5597",
+          "lemma": "sappaḥath",
+          "meaning": "scab; superficial eruption"
+        },
+        {
+          "word": "priest",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest; one who officiates in sacred rites"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And if the priest see that, behold, the scab spreadeth in the skin, then the priest shall pronounce him unclean: it is a leprosy.",
+      "highlightedWords": [
+        {
+          "word": "unclean",
+          "strongNumber": "H2931",
+          "lemma": "tameʾ",
+          "meaning": "unclean; ceremonially impure"
+        },
+        {
+          "word": "leprosy",
+          "strongNumber": "H6883",
+          "lemma": "tsara‘ath",
+          "meaning": "defiling skin disease; leprosy-like affliction"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "When the plague of leprosy is in a man, then he shall be brought unto the priest;",
+      "highlightedWords": [
+        {
+          "word": "leprosy",
+          "strongNumber": "H6883",
+          "lemma": "tsara‘ath",
+          "meaning": "defiling skin disease; leprosy-like affliction"
+        },
+        {
+          "word": "priest",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest; one who officiates in sacred rites"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And the priest shall see him: and, behold, if the rising be white in the skin, and it have turned the hair white, and there be quick raw flesh in the rising;",
+      "highlightedWords": [
+        {
+          "word": "hair",
+          "strongNumber": "H8181",
+          "lemma": "seʿar",
+          "meaning": "hair"
+        },
+        {
+          "word": "flesh",
+          "strongNumber": "H1320",
+          "lemma": "basar",
+          "meaning": "flesh; body"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "It is an old leprosy in the skin of his flesh, and the priest shall pronounce him unclean, and shall not shut him up: for he is unclean.",
+      "highlightedWords": [
+        {
+          "word": "leprosy",
+          "strongNumber": "H6883",
+          "lemma": "tsara‘ath",
+          "meaning": "defiling skin disease; leprosy-like affliction"
+        },
+        {
+          "word": "unclean",
+          "strongNumber": "H2931",
+          "lemma": "tameʾ",
+          "meaning": "unclean; ceremonially impure"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And if a leprosy break out abroad in the skin, and the leprosy cover all the skin of him that hath the plague from his head even to his foot, wheresoever the priest looketh;",
+      "highlightedWords": [
+        {
+          "word": "leprosy",
+          "strongNumber": "H6883",
+          "lemma": "tsara‘ath",
+          "meaning": "defiling skin disease; leprosy-like affliction"
+        },
+        {
+          "word": "skin",
+          "strongNumber": "H5785",
+          "lemma": "ʿor",
+          "meaning": "skin; hide"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Then the priest shall consider: and, behold, if the leprosy have covered all his flesh, he shall pronounce him clean that hath the plague: it is all turned white: he is clean.",
+      "highlightedWords": [
+        {
+          "word": "clean",
+          "strongNumber": "H2889",
+          "lemma": "tahor",
+          "meaning": "clean; pure"
+        },
+        {
+          "word": "white",
+          "strongNumber": "H3836",
+          "lemma": "laban",
+          "meaning": "white"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "But when raw flesh appeareth in him, he shall be unclean.",
+      "highlightedWords": [
+        {
+          "word": "flesh",
+          "strongNumber": "H1320",
+          "lemma": "basar",
+          "meaning": "flesh; body"
+        },
+        {
+          "word": "unclean",
+          "strongNumber": "H2931",
+          "lemma": "tameʾ",
+          "meaning": "unclean; ceremonially impure"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And the priest shall see the raw flesh, and pronounce him to be unclean: for the raw flesh is unclean: it is a leprosy.",
+      "highlightedWords": [
+        {
+          "word": "unclean",
+          "strongNumber": "H2931",
+          "lemma": "tameʾ",
+          "meaning": "unclean; ceremonially impure"
+        },
+        {
+          "word": "leprosy",
+          "strongNumber": "H6883",
+          "lemma": "tsara‘ath",
+          "meaning": "defiling skin disease; leprosy-like affliction"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Or if the raw flesh turn again, and be changed unto white, he shall come unto the priest;",
+      "highlightedWords": [
+        {
+          "word": "white",
+          "strongNumber": "H3836",
+          "lemma": "laban",
+          "meaning": "white"
+        },
+        {
+          "word": "priest",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest; one who officiates in sacred rites"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And the priest shall see him: and, behold, if the plague be turned into white; then the priest shall pronounce him clean that hath the plague: he is clean.",
+      "highlightedWords": [
+        {
+          "word": "clean",
+          "strongNumber": "H2889",
+          "lemma": "tahor",
+          "meaning": "clean; pure"
+        },
+        {
+          "word": "priest",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest; one who officiates in sacred rites"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "The flesh also, in which, even in the skin thereof, was a boil, and is healed,",
+      "highlightedWords": [
+        {
+          "word": "flesh",
+          "strongNumber": "H1320",
+          "lemma": "basar",
+          "meaning": "flesh; body"
+        },
+        {
+          "word": "skin",
+          "strongNumber": "H5785",
+          "lemma": "ʿor",
+          "meaning": "skin; hide"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And in the place of the boil there be a white rising, or a bright spot, white, and somewhat reddish, and it be shewed to the priest;",
+      "highlightedWords": [
+        {
+          "word": "white",
+          "strongNumber": "H3836",
+          "lemma": "laban",
+          "meaning": "white"
+        },
+        {
+          "word": "priest",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest; one who officiates in sacred rites"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And if, when the priest seeth it, behold, it be in sight lower than the skin, and the hair thereof be turned white; the priest shall pronounce him unclean: it is a plague of leprosy broken out of the boil.",
+      "highlightedWords": [
+        {
+          "word": "priest",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest; one who officiates in sacred rites"
+        },
+        {
+          "word": "leprosy",
+          "strongNumber": "H6883",
+          "lemma": "tsara‘ath",
+          "meaning": "defiling skin disease; leprosy-like affliction"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "But if the priest look on it, and, behold, there be no white hairs therein, and if it be not lower than the skin, but be somewhat dark; then the priest shall shut him up seven days:",
+      "highlightedWords": [
+        {
+          "word": "priest",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest; one who officiates in sacred rites"
+        },
+        {
+          "word": "seven",
+          "strongNumber": "H7651",
+          "lemma": "shebaʿ",
+          "meaning": "seven"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And if it spread much abroad in the skin, then the priest shall pronounce him unclean: it is a plague.",
+      "highlightedWords": [
+        {
+          "word": "unclean",
+          "strongNumber": "H2931",
+          "lemma": "tameʾ",
+          "meaning": "unclean; ceremonially impure"
+        },
+        {
+          "word": "plague",
+          "strongNumber": "H5061",
+          "lemma": "negaʿ",
+          "meaning": "stroke; plague; affliction"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "But if the bright spot stay in his place, and spread not, it is a scar of the boil; and the priest shall pronounce him clean.",
+      "highlightedWords": [
+        {
+          "word": "boil",
+          "strongNumber": "H7822",
+          "lemma": "sheḥin",
+          "meaning": "boil; inflammatory swelling"
+        },
+        {
+          "word": "clean",
+          "strongNumber": "H2889",
+          "lemma": "tahor",
+          "meaning": "clean; pure"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Or if there be any flesh, in the skin whereof there is a hot burning, and the quick flesh that burneth have a white bright spot, somewhat reddish, or white;",
+      "highlightedWords": [
+        {
+          "word": "flesh",
+          "strongNumber": "H1320",
+          "lemma": "basar",
+          "meaning": "flesh; body"
+        },
+        {
+          "word": "white",
+          "strongNumber": "H3836",
+          "lemma": "laban",
+          "meaning": "white"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Then the priest shall look upon it: and, behold, if the hair in the bright spot be turned white, and it be in sight deeper than the skin; it is a leprosy broken out of the burning: wherefore the priest shall pronounce him unclean: it is the plague of leprosy.",
+      "highlightedWords": [
+        {
+          "word": "priest",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest; one who officiates in sacred rites"
+        },
+        {
+          "word": "leprosy",
+          "strongNumber": "H6883",
+          "lemma": "tsara‘ath",
+          "meaning": "defiling skin disease; leprosy-like affliction"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "But if the priest look on it, and, behold, there be no white hair in the bright spot, and it be no lower than the other skin, but be somewhat dark; then the priest shall shut him up seven days:",
+      "highlightedWords": [
+        {
+          "word": "priest",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest; one who officiates in sacred rites"
+        },
+        {
+          "word": "seven",
+          "strongNumber": "H7651",
+          "lemma": "shebaʿ",
+          "meaning": "seven"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And the priest shall look upon him the seventh day: and if it be spread much abroad in the skin, then the priest shall pronounce him unclean: it is the plague of leprosy.",
+      "highlightedWords": [
+        {
+          "word": "leprosy",
+          "strongNumber": "H6883",
+          "lemma": "tsara‘ath",
+          "meaning": "defiling skin disease; leprosy-like affliction"
+        },
+        {
+          "word": "priest",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest; one who officiates in sacred rites"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And if the bright spot stay in his place, and spread not in the skin, but it be somewhat dark; it is a scar of the burning; and the priest shall pronounce him clean.",
+      "highlightedWords": [
+        {
+          "word": "clean",
+          "strongNumber": "H2889",
+          "lemma": "tahor",
+          "meaning": "clean; pure"
+        },
+        {
+          "word": "priest",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest; one who officiates in sacred rites"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "If a man or woman have a plague upon the head or the beard;",
+      "highlightedWords": [
+        {
+          "word": "head",
+          "strongNumber": "H7218",
+          "lemma": "roʾsh",
+          "meaning": "head; top; chief"
+        },
+        {
+          "word": "beard",
+          "strongNumber": "H2206",
+          "lemma": "zaqan",
+          "meaning": "beard; chin"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "Then the priest shall see the plague: and, behold, if it be in sight deeper than the skin; and there be in it a yellow thin hair; then the priest shall pronounce him unclean: it is a dry scall, even a leprosy upon the head or beard.",
+      "highlightedWords": [
+        {
+          "word": "yellow",
+          "strongNumber": "H6669",
+          "lemma": "tsahob",
+          "meaning": "yellowish"
+        },
+        {
+          "word": "scall",
+          "strongNumber": "H5424",
+          "lemma": "netheq",
+          "meaning": "scall; scab of the scalp/beard"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "And if the priest look on the plague of the scall, and, behold, it be not in sight deeper than the skin, and that there is no black hair in it; then the priest shall shut up him that hath the plague of the scall seven days:",
+      "highlightedWords": [
+        {
+          "word": "black",
+          "strongNumber": "H7838",
+          "lemma": "shachor",
+          "meaning": "black"
+        },
+        {
+          "word": "scall",
+          "strongNumber": "H5424",
+          "lemma": "netheq",
+          "meaning": "scall; scab of the scalp/beard"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "And in the seventh day the priest shall look on the plague: and, behold, if the scall spread not, and there be in it no yellow hair, and the scall be not in sight deeper than the skin;",
+      "highlightedWords": [
+        {
+          "word": "yellow",
+          "strongNumber": "H6669",
+          "lemma": "tsahob",
+          "meaning": "yellowish"
+        },
+        {
+          "word": "scall",
+          "strongNumber": "H5424",
+          "lemma": "netheq",
+          "meaning": "scall; scab of the scalp/beard"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "He shall be shaven, but the scall shall he not shave; and the priest shall shut up him that hath the scall seven days more:",
+      "highlightedWords": [
+        {
+          "word": "shaven",
+          "strongNumber": "H1548",
+          "lemma": "galach",
+          "meaning": "to shave; be shaved"
+        },
+        {
+          "word": "scall",
+          "strongNumber": "H5424",
+          "lemma": "netheq",
+          "meaning": "scall; scab of the scalp/beard"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "And in the seventh day the priest shall look on the scall: and, behold, if the scall be not spread in the skin, nor be in sight deeper than the skin; then the priest shall pronounce him clean: and he shall wash his clothes, and be clean.",
+      "highlightedWords": [
+        {
+          "word": "wash",
+          "strongNumber": "H3526",
+          "lemma": "kabas",
+          "meaning": "to wash (garments)"
+        },
+        {
+          "word": "clean",
+          "strongNumber": "H2889",
+          "lemma": "tahor",
+          "meaning": "clean; pure"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "But if the scall spread much in the skin after his cleansing;",
+      "highlightedWords": [
+        {
+          "word": "scall",
+          "strongNumber": "H5424",
+          "lemma": "netheq",
+          "meaning": "scall; scab of the scalp/beard"
+        },
+        {
+          "word": "skin",
+          "strongNumber": "H5785",
+          "lemma": "ʿor",
+          "meaning": "skin; hide"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "Then the priest shall look on him: and, behold, if the scall be spread in the skin, the priest shall not seek for yellow hair; he is unclean.",
+      "highlightedWords": [
+        {
+          "word": "priest",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest; one who officiates in sacred rites"
+        },
+        {
+          "word": "unclean",
+          "strongNumber": "H2931",
+          "lemma": "tameʾ",
+          "meaning": "unclean; ceremonially impure"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "But if the scall be in his sight at a stay, and that there is black hair grown up therein; the scall is healed, he is clean: and the priest shall pronounce him clean.",
+      "highlightedWords": [
+        {
+          "word": "black",
+          "strongNumber": "H7838",
+          "lemma": "shachor",
+          "meaning": "black"
+        },
+        {
+          "word": "clean",
+          "strongNumber": "H2889",
+          "lemma": "tahor",
+          "meaning": "clean; pure"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "If a man also or a woman have in the skin of their flesh bright spots, even white bright spots;",
+      "highlightedWords": [
+        {
+          "word": "man",
+          "strongNumber": "H376",
+          "lemma": "ish",
+          "meaning": "man; male; person"
+        },
+        {
+          "word": "woman",
+          "strongNumber": "H802",
+          "lemma": "ishshah",
+          "meaning": "woman; female; wife"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "text": "Then the priest shall look: and, behold, if the bright spots in the skin of their flesh be darkish white; it is a freckled spot that groweth in the skin; he is clean.",
+      "highlightedWords": [
+        {
+          "word": "flesh",
+          "strongNumber": "H1320",
+          "lemma": "basar",
+          "meaning": "flesh; body"
+        },
+        {
+          "word": "clean",
+          "strongNumber": "H2889",
+          "lemma": "tahor",
+          "meaning": "clean; pure"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "text": "And the man whose hair is fallen off his head, he is bald; yet is he clean.",
+      "highlightedWords": [
+        {
+          "word": "bald",
+          "strongNumber": "H7142",
+          "lemma": "qareach",
+          "meaning": "bald; hairless"
+        },
+        {
+          "word": "clean",
+          "strongNumber": "H2889",
+          "lemma": "tahor",
+          "meaning": "clean; pure"
+        }
+      ]
+    },
+    {
+      "verse": 41,
+      "text": "And he that hath his hair fallen off from the part of his head toward his face, he is forehead bald: yet is he clean.",
+      "highlightedWords": [
+        {
+          "word": "head",
+          "strongNumber": "H7218",
+          "lemma": "roʾsh",
+          "meaning": "head; top; chief"
+        },
+        {
+          "word": "clean",
+          "strongNumber": "H2889",
+          "lemma": "tahor",
+          "meaning": "clean; pure"
+        }
+      ]
+    },
+    {
+      "verse": 42,
+      "text": "And if there be in the bald head, or bald forehead, a white reddish sore; it is a leprosy sprung up in his bald head, or his bald forehead.",
+      "highlightedWords": [
+        {
+          "word": "leprosy",
+          "strongNumber": "H6883",
+          "lemma": "tsara‘ath",
+          "meaning": "defiling skin disease; leprosy-like affliction"
+        },
+        {
+          "word": "bald",
+          "strongNumber": "H7142",
+          "lemma": "qareach",
+          "meaning": "bald; hairless"
+        }
+      ]
+    },
+    {
+      "verse": 43,
+      "text": "Then the priest shall look upon it: and, behold, if the rising of the sore be white reddish in his bald head, or in his bald forehead, as the leprosy appeareth in the skin of the flesh;",
+      "highlightedWords": [
+        {
+          "word": "leprosy",
+          "strongNumber": "H6883",
+          "lemma": "tsara‘ath",
+          "meaning": "defiling skin disease; leprosy-like affliction"
+        },
+        {
+          "word": "flesh",
+          "strongNumber": "H1320",
+          "lemma": "basar",
+          "meaning": "flesh; body"
+        }
+      ]
+    },
+    {
+      "verse": 44,
+      "text": "He is a leprous man, he is unclean: the priest shall pronounce him utterly unclean; his plague is in his head.",
+      "highlightedWords": [
+        {
+          "word": "priest",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest; one who officiates in sacred rites"
+        },
+        {
+          "word": "unclean",
+          "strongNumber": "H2931",
+          "lemma": "tameʾ",
+          "meaning": "unclean; ceremonially impure"
+        }
+      ]
+    },
+    {
+      "verse": 45,
+      "text": "And the leper in whom the plague is, his clothes shall be rent, and his head bare, and he shall put a covering upon his upper lip, and shall cry, Unclean, unclean.",
+      "highlightedWords": [
+        {
+          "word": "leper",
+          "strongNumber": "H6879",
+          "lemma": "tsaruaʿ",
+          "meaning": "leprous person"
+        },
+        {
+          "word": "unclean",
+          "strongNumber": "H2931",
+          "lemma": "tameʾ",
+          "meaning": "unclean; ceremonially impure"
+        }
+      ]
+    },
+    {
+      "verse": 46,
+      "text": "All the days wherein the plague shall be in him he shall be defiled; he is unclean: he shall dwell alone; without the camp shall his habitation be.",
+      "highlightedWords": [
+        {
+          "word": "unclean",
+          "strongNumber": "H2931",
+          "lemma": "tameʾ",
+          "meaning": "unclean; ceremonially impure"
+        },
+        {
+          "word": "camp",
+          "strongNumber": "H4264",
+          "lemma": "maḥaneh",
+          "meaning": "camp; encampment"
+        }
+      ]
+    },
+    {
+      "verse": 47,
+      "text": "The garment also that the plague of leprosy is in, whether it be a woollen garment, or a linen garment;",
+      "highlightedWords": [
+        {
+          "word": "garment",
+          "strongNumber": "H899",
+          "lemma": "beged",
+          "meaning": "garment; clothing"
+        },
+        {
+          "word": "leprosy",
+          "strongNumber": "H6883",
+          "lemma": "tsara‘ath",
+          "meaning": "defiling skin disease; leprosy-like affliction"
+        }
+      ]
+    },
+    {
+      "verse": 48,
+      "text": "Whether it be in the warp, or woof; of linen, or of woollen; whether in a skin, or in any thing made of skin;",
+      "highlightedWords": [
+        {
+          "word": "warp",
+          "strongNumber": "H8359",
+          "lemma": "shethi",
+          "meaning": "warp (threads)"
+        },
+        {
+          "word": "woof",
+          "strongNumber": "H6154",
+          "lemma": "ʿerev",
+          "meaning": "woof; weft (woven cross-threads)"
+        }
+      ]
+    },
+    {
+      "verse": 49,
+      "text": "And if the plague be greenish or reddish in the garment, or in the skin, either in the warp, or in the woof, or in any thing of skin; it is a plague of leprosy, and shall be shewed unto the priest:",
+      "highlightedWords": [
+        {
+          "word": "leprosy",
+          "strongNumber": "H6883",
+          "lemma": "tsara‘ath",
+          "meaning": "defiling skin disease; leprosy-like affliction"
+        },
+        {
+          "word": "priest",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest; one who officiates in sacred rites"
+        }
+      ]
+    },
+    {
+      "verse": 50,
+      "text": "And the priest shall look upon the plague, and shut up it that hath the plague seven days:",
+      "highlightedWords": [
+        {
+          "word": "priest",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest; one who officiates in sacred rites"
+        },
+        {
+          "word": "seven",
+          "strongNumber": "H7651",
+          "lemma": "shebaʿ",
+          "meaning": "seven"
+        }
+      ]
+    },
+    {
+      "verse": 51,
+      "text": "And he shall look on the plague the seventh day: if the plague be spread in the garment, either in the warp, or in the woof, or in a skin, or in any work that is made of skin; the plague is a fretting leprosy; it is unclean.",
+      "highlightedWords": [
+        {
+          "word": "unclean",
+          "strongNumber": "H2931",
+          "lemma": "tameʾ",
+          "meaning": "unclean; ceremonially impure"
+        },
+        {
+          "word": "leprosy",
+          "strongNumber": "H6883",
+          "lemma": "tsara‘ath",
+          "meaning": "defiling skin disease; leprosy-like affliction"
+        }
+      ]
+    },
+    {
+      "verse": 52,
+      "text": "He shall therefore burn that garment, whether warp or woof, in woollen or in linen, or any thing of skin, wherein the plague is: for it is a fretting leprosy; it shall be burnt in the fire.",
+      "highlightedWords": [
+        {
+          "word": "burn",
+          "strongNumber": "H8313",
+          "lemma": "saraph",
+          "meaning": "to burn (consume by fire)"
+        },
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "’esh",
+          "meaning": "fire"
+        }
+      ]
+    },
+    {
+      "verse": 53,
+      "text": "And if the priest shall look, and, behold, the plague be not spread in the garment, either in the warp, or in the woof, or in any thing of skin;",
+      "highlightedWords": [
+        {
+          "word": "priest",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest; one who officiates in sacred rites"
+        },
+        {
+          "word": "garment",
+          "strongNumber": "H899",
+          "lemma": "beged",
+          "meaning": "garment; clothing"
+        }
+      ]
+    },
+    {
+      "verse": 54,
+      "text": "Then the priest shall command that they wash the thing wherein the plague is, and he shall shut it up seven days more:",
+      "highlightedWords": [
+        {
+          "word": "wash",
+          "strongNumber": "H3526",
+          "lemma": "kabas",
+          "meaning": "to wash (garments)"
+        },
+        {
+          "word": "seven",
+          "strongNumber": "H7651",
+          "lemma": "shebaʿ",
+          "meaning": "seven"
+        }
+      ]
+    },
+    {
+      "verse": 55,
+      "text": "And the priest shall look on the plague, after that it is washed: and, behold, if the plague have not changed his colour, and the plague be not spread; it is unclean; thou shalt burn it in the fire; it is fret inward, whether it be bare within or without.",
+      "highlightedWords": [
+        {
+          "word": "unclean",
+          "strongNumber": "H2931",
+          "lemma": "tameʾ",
+          "meaning": "unclean; ceremonially impure"
+        },
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "’esh",
+          "meaning": "fire"
+        }
+      ]
+    },
+    {
+      "verse": 56,
+      "text": "And if the priest look, and, behold, the plague be somewhat dark after the washing of it; then he shall rend it out of the garment, or out of the skin, or out of the warp, or out of the woof:",
+      "highlightedWords": [
+        {
+          "word": "rend",
+          "strongNumber": "H7167",
+          "lemma": "qaraʿ",
+          "meaning": "to tear; rend"
+        },
+        {
+          "word": "garment",
+          "strongNumber": "H899",
+          "lemma": "beged",
+          "meaning": "garment; clothing"
+        }
+      ]
+    },
+    {
+      "verse": 57,
+      "text": "And if it appear still in the garment, either in the warp, or in the woof, or in any thing of skin; it is a spreading in the garment; thou shalt burn that wherein the plague is with fire.",
+      "highlightedWords": [
+        {
+          "word": "burn",
+          "strongNumber": "H8313",
+          "lemma": "saraph",
+          "meaning": "to burn (consume by fire)"
+        },
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "’esh",
+          "meaning": "fire"
+        }
+      ]
+    },
+    {
+      "verse": 58,
+      "text": "And the garment, either warp, or woof, or whatsoever thing of skin it be, which thou shalt wash, if the plague be departed from them, then it shall be washed the second time, and shall be clean.",
+      "highlightedWords": [
+        {
+          "word": "wash",
+          "strongNumber": "H3526",
+          "lemma": "kabas",
+          "meaning": "to wash (garments)"
+        },
+        {
+          "word": "clean",
+          "strongNumber": "H2889",
+          "lemma": "tahor",
+          "meaning": "clean; pure"
+        }
+      ]
+    },
+    {
+      "verse": 59,
+      "text": "This is the law of the plague of leprosy in a garment of woollen or linen, either in the warp, or woof, or any thing of skins, to pronounce it clean, or to pronounce it unclean.",
+      "highlightedWords": [
+        {
+          "word": "law",
+          "strongNumber": "H8451",
+          "lemma": "torah",
+          "meaning": "law; instruction; teaching"
+        },
+        {
+          "word": "leprosy",
+          "strongNumber": "H6883",
+          "lemma": "tsara‘ath",
+          "meaning": "defiling skin disease; leprosy-like affliction"
+        }
+      ]
+    }
+  ]
+};
