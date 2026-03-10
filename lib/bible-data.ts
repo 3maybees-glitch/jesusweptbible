@@ -97,6 +97,7 @@ import { leviticusChapter5 } from './leviticus-5'
 import { leviticusChapter6 } from './leviticus-6'
 import { leviticusChapter7 } from './leviticus-7'
 import { leviticusChapter8 } from './leviticus-8'
+import { leviticusChapter9 } from './leviticus-9'
 import { markChapters18 } from './mark-1-8'
 import { markChapters916 } from './mark-9-16'
 import { lukeChapter1 } from './luke-1'
@@ -4155,6 +4156,7 @@ export const sampleChapters: Record<string, Chapter> = {
   ...leviticusChapter6,
   ...leviticusChapter7,
   ...leviticusChapter8,
+  ...leviticusChapter9,
 }
 
 export function getChapter(book: string, chapter: number): Chapter | null {
