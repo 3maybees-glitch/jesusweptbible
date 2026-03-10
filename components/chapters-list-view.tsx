@@ -58,7 +58,7 @@ export function ChaptersListView({ book, theme, onSelectChapter, onSelectTheme, 
                 onClick={() => onSelectChapter(chapter)}
                 className="flex items-center justify-center py-6 px-4 rounded-lg bg-card hover:bg-accent hover:text-accent-foreground text-card-foreground border border-border transition-colors min-h-[80px] font-serif text-lg font-semibold"
               >
-                {chapter}
+                {book.name} {chapter}
               </button>
             ))}
           </div>
