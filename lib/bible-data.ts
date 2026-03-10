@@ -78,6 +78,7 @@ import { exodusChapter28 } from './exodus-28'
 import { exodusChapter29 } from './exodus-29'
 import { exodusChapter30 } from './exodus-30'
 import { exodusChapter31 } from './exodus-31'
+import { exodusChapter32 } from './exodus-32'
 import { markChapters18 } from './mark-1-8'
 import { markChapters916 } from './mark-9-16'
 import { lukeChapter1 } from './luke-1'
@@ -1673,7 +1674,7 @@ export const sampleChapters: Record<string, Chapter> = {
             word: "flee",
             strongNumber: "G5343",
             language: "Greek",
-            lemma: "pheugeō",
+            lemma: "pheuge��",
             meaning: "to flee, escape",
           },
         ],
@@ -4117,6 +4118,7 @@ export const sampleChapters: Record<string, Chapter> = {
   ...exodusChapter29,
   ...exodusChapter30,
   ...exodusChapter31,
+  ...exodusChapter32,
 }
 
 export function getChapter(book: string, chapter: number): Chapter | null {
