@@ -669,5 +669,5 @@ export const leviticusChapter8 = {
         }
       ]
     }
-  ]
+  }
 };

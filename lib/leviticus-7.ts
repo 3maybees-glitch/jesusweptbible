@@ -705,5 +705,5 @@ export const leviticusChapter7 = {
         }
       ]
     }
-  ]
+  }
 };

@@ -1083,5 +1083,5 @@ export const leviticusChapter13 = {
         }
       ]
     }
-  ]
+  }
 };

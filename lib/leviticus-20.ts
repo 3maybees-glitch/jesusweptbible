@@ -507,5 +507,5 @@ export const leviticusChapter20 = {
         }
       ]
     }
-  ]
+  }
 };
