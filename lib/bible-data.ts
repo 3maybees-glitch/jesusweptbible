@@ -76,12 +76,41 @@ import { exodusChapter23 } from './exodus-23'
 import { exodusChapter24 } from './exodus-24'
 import { exodusChapter26 } from './exodus-26'
 import { exodusChapter27 } from './exodus-27'
+import { exodusChapter28 } from './exodus-28'
+import { exodusChapter29 } from './exodus-29'
 import { exodusChapter30 } from './exodus-30'
 import { exodusChapter31 } from './exodus-31'
+import { exodusChapter32 } from './exodus-32'
 import { exodusChapter33 } from './exodus-33'
+import { exodusChapter34 } from './exodus-34'
 import { exodusChapter35 } from './exodus-35'
+import { exodusChapter36 } from './exodus-36'
 import { exodusChapter37 } from './exodus-37'
 import { exodusChapter38 } from './exodus-38'
+import { exodusChapter39 } from './exodus-39'
+import { exodusChapter40 } from './exodus-40'
+import { leviticusChapter1 } from './leviticus-1'
+import { leviticusChapter2 } from './leviticus-2'
+import { leviticusChapter3 } from './leviticus-3'
+import { leviticusChapter4 } from './leviticus-4'
+import { leviticusChapter5 } from './leviticus-5'
+import { leviticusChapter6 } from './leviticus-6'
+import { leviticusChapter9 } from './leviticus-9'
+import { leviticusChapter10 } from './leviticus-10'
+import { leviticusChapter11 } from './leviticus-11'
+import { leviticusChapter12 } from './leviticus-12'
+import { leviticusChapter14 } from './leviticus-14'
+import { leviticusChapter15 } from './leviticus-15'
+import { leviticusChapter17 } from './leviticus-17'
+import { leviticusChapter18 } from './leviticus-18'
+import { leviticusChapter19 } from './leviticus-19'
+import { leviticusChapter21 } from './leviticus-21'
+import { leviticusChapter22 } from './leviticus-22'
+import { leviticusChapter23 } from './leviticus-23'
+import { leviticusChapter24 } from './leviticus-24'
+import { leviticusChapter27 } from './leviticus-27'
+import { numbersChapter1 } from './numbers-1'
+import { numbersChapter2 } from './numbers-2'
 import { markChapters18 } from './mark-1-8'
 import { markChapters916 } from './mark-9-16'
 import { lukeChapter1 } from './luke-1'
@@ -1129,7 +1158,7 @@ export const sampleChapters: Record<string, Chapter> = {
             word: "Sadoc",
             strongNumber: "G4524",
             language: "Greek",
-            lemma: "Sadōk",
+            lemma: "Sad��k",
             meaning: "just, righteous",
           },
           {
@@ -2508,7 +2537,7 @@ export const sampleChapters: Record<string, Chapter> = {
         verse: 21,
         text: "And going on from thence, he saw other two brethren, James the son of Zebedee, and John his brother, in a ship with Zebedee their father, mending their nets; and he called them.",
         highlightedWords: [
-          { word: "mending", strongNumber: "G2675", language: "Greek", lemma: "katartizō", meaning: "to repair, restore, prepare" },
+          { word: "mending", strongNumber: "G2675", language: "Greek", lemma: "katartiz��", meaning: "to repair, restore, prepare" },
           { word: "called", strongNumber: "G2564", language: "Greek", lemma: "kaleō", meaning: "to name, summon, invite" },
         ],
       },
@@ -4119,12 +4148,41 @@ export const sampleChapters: Record<string, Chapter> = {
   ...exodusChapter25,
   ...exodusChapter26,
   ...exodusChapter27,
+  ...exodusChapter28,
+  ...exodusChapter29,
   ...exodusChapter30,
   ...exodusChapter31,
+  ...exodusChapter32,
   ...exodusChapter33,
+  ...exodusChapter34,
   ...exodusChapter35,
+  ...exodusChapter36,
   ...exodusChapter37,
   ...exodusChapter38,
+  ...exodusChapter39,
+  ...exodusChapter40,
+  ...leviticusChapter1,
+  ...leviticusChapter2,
+  ...leviticusChapter3,
+  ...leviticusChapter4,
+  ...leviticusChapter5,
+  ...leviticusChapter6,
+  ...leviticusChapter9,
+  ...leviticusChapter10,
+  ...leviticusChapter11,
+  ...leviticusChapter12,
+  ...leviticusChapter14,
+  ...leviticusChapter15,
+  ...leviticusChapter17,
+  ...leviticusChapter18,
+  ...leviticusChapter19,
+  ...leviticusChapter21,
+  ...leviticusChapter22,
+  ...leviticusChapter23,
+  ...leviticusChapter24,
+  ...leviticusChapter27,
+  ...numbersChapter1,
+  ...numbersChapter2,
 }
 
 export function getChapter(book: string, chapter: number): Chapter | null {
