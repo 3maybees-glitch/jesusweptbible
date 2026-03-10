@@ -3,25 +3,25 @@ export const numbersChapter1 = {
     book: 'Numbers',
     chapter: 1,
     twoWordSummary: 'Wilderness Census',
-    themeSummary: [
+    themeSummary: 'The LORD commands Moses and Aaron to census all males of Israel twenty years old and upward by tribes, establishing the organization of the community for worship and warfare.',
+    sentenceDescription: 'God commands the numbering of Israel\'s fighting men by tribes with appointed leaders and the setting apart of Levites for tabernacle service.',
+    themeWords: [
       {
         word: 'number',
         strongNumber: 'H6485',
         lemma: 'pāqad',
-        meaning: 'to number, muster, appoint',
+        meaning: 'to number, muster, appoint'
       },
       {
         word: 'Levites',
         strongNumber: 'H3881',
         lemma: 'Lēwiyy',
-        meaning: 'Levites; members of the tribe of Levi set apart for sacred service',
-      },
+        meaning: 'Levites; members of the tribe of Levi set apart for sacred service'
+      }
     ],
-    sentenceDescription:
-      'The LORD commands Moses and Aaron to number Israel\'s fighting men by tribes, appoint tribal leaders, and set apart the Levites for the tabernacle.',
     verses: [
       {
-        verse: 1,
+        verseNumber: 1,
         text: 'And the LORD spake unto Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first day of the second month, in the second year after they were come out of the land of Egypt, saying,',
         highlightedWords: [
           {
@@ -39,7 +39,7 @@ export const numbersChapter1 = {
         ],
       },
       {
-        verse: 2,
+        verseNumber: 2,
         text: 'Take ye the sum of all the congregation of the children of Israel, after their families, by the house of their fathers, with the number of their names, every male by their polls;',
         highlightedWords: [
           {

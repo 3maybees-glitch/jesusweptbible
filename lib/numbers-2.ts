@@ -3,25 +3,25 @@ export const numbersChapter2 = {
     book: 'Numbers',
     chapter: 2,
     twoWordSummary: 'Camp Arrangement',
-    themeSummary: [
+    themeSummary: 'God orders the tribes of Israel to camp in four divisions around the tabernacle with their respective standards and leaders, establishing a sacred geometric arrangement centered on God\'s dwelling.',
+    sentenceDescription: 'The LORD specifies the exact positioning of each tribe around the tabernacle by their standards and numbers, demonstrating divine order and Israel\'s corporate identity.',
+    themeWords: [
       {
         word: 'standard',
         strongNumber: 'H1714',
         lemma: 'degel',
-        meaning: 'standard, banner',
+        meaning: 'standard, banner'
       },
       {
         word: 'camp',
         strongNumber: 'H4264',
         lemma: 'machaneh',
-        meaning: 'camp, encampment',
-      },
+        meaning: 'camp, encampment'
+      }
     ],
-    sentenceDescription:
-      'God orders Israel\'s tribes around the tabernacle by standards and camps, detailing their numbers and marching order.',
     verses: [
       {
-        verse: 1,
+        verseNumber: 1,
         text: 'And the LORD spake unto Moses and unto Aaron, saying,',
         highlightedWords: [
           {
