@@ -654,6 +654,3 @@ export const numbersChapter21 = {
     ]
   }
 };
-    ]
-  }
-};
