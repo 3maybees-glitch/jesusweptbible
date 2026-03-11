@@ -14,7 +14,7 @@ export const deuteronomyChapter14 = {
         {
           word: 'tithe',
           strongNumber: 'H4643',
-          lemma: 'ma\'aser',
+          lemma: "ma'aser",
           meaning: 'a tenth part; the tithe'
         }
       ]
@@ -64,13 +64,13 @@ export const deuteronomyChapter14 = {
           {
             word: 'eat',
             strongNumber: 'H398',
-            lemma: '\'akal',
+            lemma: "'akal",
             meaning: 'to eat, consume'
           },
           {
             word: 'abominable',
             strongNumber: 'H8441',
-            lemma: 'to\'ebah',
+            lemma: "to'ebah",
             meaning: 'abomination; detestable thing'
           }
         ]
@@ -88,7 +88,7 @@ export const deuteronomyChapter14 = {
           {
             word: 'eat',
             strongNumber: 'H398',
-            lemma: '\'akal',
+            lemma: "'akal",
             meaning: 'to eat, consume'
           }
         ]
@@ -100,7 +100,7 @@ export const deuteronomyChapter14 = {
           {
             word: 'hart',
             strongNumber: 'H354',
-            lemma: '\'ayyal',
+            lemma: "'ayyal",
             meaning: 'stag, male deer'
           },
           {
@@ -124,7 +124,7 @@ export const deuteronomyChapter14 = {
           {
             word: 'eat',
             strongNumber: 'H398',
-            lemma: '\'akal',
+            lemma: "'akal",
             meaning: 'to eat, consume'
           }
         ]
@@ -136,13 +136,13 @@ export const deuteronomyChapter14 = {
           {
             word: 'eat',
             strongNumber: 'H398',
-            lemma: '\'akal',
+            lemma: "'akal",
             meaning: 'to eat, consume'
           },
           {
             word: 'unclean',
             strongNumber: 'H2931',
-            lemma: 'tame\'',
+            lemma: "tame'",
             meaning: 'unclean, impure'
           }
         ]
@@ -160,7 +160,7 @@ export const deuteronomyChapter14 = {
           {
             word: 'unclean',
             strongNumber: 'H2931',
-            lemma: 'tame\'',
+            lemma: "tame'",
             meaning: 'unclean, impure'
           }
         ]
@@ -178,7 +178,7 @@ export const deuteronomyChapter14 = {
           {
             word: 'eat',
             strongNumber: 'H398',
-            lemma: '\'akal',
+            lemma: "'akal",
             meaning: 'to eat, consume'
           }
         ]
@@ -190,13 +190,13 @@ export const deuteronomyChapter14 = {
           {
             word: 'eat',
             strongNumber: 'H398',
-            lemma: '\'akal',
+            lemma: "'akal",
             meaning: 'to eat, consume'
           },
           {
             word: 'unclean',
             strongNumber: 'H2931',
-            lemma: 'tame\'',
+            lemma: "tame'",
             meaning: 'unclean, impure'
           }
         ]
@@ -214,7 +214,7 @@ export const deuteronomyChapter14 = {
           {
             word: 'eat',
             strongNumber: 'H398',
-            lemma: '\'akal',
+            lemma: "'akal",
             meaning: 'to eat, consume'
           }
         ]
@@ -226,13 +226,13 @@ export const deuteronomyChapter14 = {
           {
             word: 'not',
             strongNumber: 'H3808',
-            lemma: 'lo\'',
+            lemma: "lo'",
             meaning: 'no, not'
           },
           {
             word: 'eat',
             strongNumber: 'H398',
-            lemma: '\'akal',
+            lemma: "'akal",
             meaning: 'to eat, consume'
           }
         ]
@@ -262,7 +262,7 @@ export const deuteronomyChapter14 = {
           {
             word: 'raven',
             strongNumber: 'H6158',
-            lemma: '\'oreb',
+            lemma: "'oreb",
             meaning: 'raven'
           },
           {
@@ -316,7 +316,7 @@ export const deuteronomyChapter14 = {
           {
             word: 'pelican',
             strongNumber: 'H6893',
-            lemma: 'qa\'ath',
+            lemma: "qa'ath",
             meaning: 'pelican'
           },
           {
@@ -340,7 +340,7 @@ export const deuteronomyChapter14 = {
           {
             word: 'bat',
             strongNumber: 'H5847',
-            lemma: '\'atalleph',
+            lemma: "'atalleph",
             meaning: 'bat'
           }
         ]
@@ -352,13 +352,13 @@ export const deuteronomyChapter14 = {
           {
             word: 'unclean',
             strongNumber: 'H2931',
-            lemma: 'tame\'',
+            lemma: "tame'",
             meaning: 'unclean, impure'
           },
           {
             word: 'eaten',
             strongNumber: 'H398',
-            lemma: '\'akal',
+            lemma: "'akal",
             meaning: 'to eat, consume'
           }
         ]
@@ -370,13 +370,13 @@ export const deuteronomyChapter14 = {
           {
             word: 'fowls',
             strongNumber: 'H5775',
-            lemma: '\'owph',
+            lemma: "'owph",
             meaning: 'bird, winged creature'
           },
           {
             word: 'eat',
             strongNumber: 'H398',
-            lemma: '\'akal',
+            lemma: "'akal",
             meaning: 'to eat, consume'
           }
         ]
@@ -406,13 +406,13 @@ export const deuteronomyChapter14 = {
           {
             word: 'tithe',
             strongNumber: 'H6237',
-            lemma: '\'asar',
+            lemma: "'asar",
             meaning: 'to give a tenth; to tithe'
           },
           {
             word: 'seed',
             strongNumber: 'H2233',
-            lemma: 'zera\'',
+            lemma: "zera'",
             meaning: 'seed, offspring, produce'
           }
         ]
@@ -430,7 +430,7 @@ export const deuteronomyChapter14 = {
           {
             word: 'fear',
             strongNumber: 'H3372',
-            lemma: 'yare\'',
+            lemma: "yare'",
             meaning: 'to fear, revere'
           }
         ]
@@ -502,7 +502,7 @@ export const deuteronomyChapter14 = {
           {
             word: 'gates',
             strongNumber: 'H8179',
-            lemma: 'sha\'ar',
+            lemma: "sha'ar",
             meaning: 'gate; entrance'
           }
         ]
@@ -514,13 +514,13 @@ export const deuteronomyChapter14 = {
           {
             word: 'tithe',
             strongNumber: 'H4643',
-            lemma: 'ma\'aser',
+            lemma: "ma'aser",
             meaning: 'a tenth part; the tithe'
           },
           {
             word: 'gates',
             strongNumber: 'H8179',
-            lemma: 'sha\'ar',
+            lemma: "sha'ar",
             meaning: 'gate; entrance'
           }
         ]
