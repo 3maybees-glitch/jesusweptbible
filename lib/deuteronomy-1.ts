@@ -434,6 +434,420 @@ export const deuteronomyChapter1 = {
             meaning: 'tribe, clan, staff'
           }
         ]
+      },
+      {
+        verseNumber: 24,
+        text: 'And they turned and went up into the mountain, and came unto the valley of Eshcol, and searched it out.',
+        highlightedWords: [
+          {
+            word: 'mountain',
+            strongNumber: 'H2022',
+            lemma: 'har',
+            meaning: 'mountain, hill'
+          },
+          {
+            word: 'valley',
+            strongNumber: 'H5158',
+            lemma: 'nachal',
+            meaning: 'valley, wadi, brook'
+          }
+        ]
+      },
+      {
+        verseNumber: 25,
+        text: 'And they took of the fruit of the land in their hands, and brought it down unto us, and brought us word again, and said, It is a good land which the LORD our God doth give us.',
+        highlightedWords: [
+          {
+            word: 'fruit',
+            strongNumber: 'H6529',
+            lemma: 'peri',
+            meaning: 'fruit, produce'
+          },
+          {
+            word: 'land',
+            strongNumber: 'H776',
+            lemma: 'erets',
+            meaning: 'land, earth, territory'
+          }
+        ]
+      },
+      {
+        verseNumber: 26,
+        text: 'Notwithstanding ye would not go up, but rebelled against the commandment of the LORD your God:',
+        highlightedWords: [
+          {
+            word: 'rebelled',
+            strongNumber: 'H4784',
+            lemma: 'marah',
+            meaning: 'to be rebellious'
+          },
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'The personal name of Israel\'s God'
+          }
+        ]
+      },
+      {
+        verseNumber: 27,
+        text: 'And ye murmured in your tents, and said, Because the LORD hated us, he hath brought us forth out of the land of Egypt, to deliver us into the hand of the Amorites, to destroy us.',
+        highlightedWords: [
+          {
+            word: 'Egypt',
+            strongNumber: 'H4714',
+            lemma: 'Mitsrayim',
+            meaning: 'Egypt'
+          },
+          {
+            word: 'Amorites',
+            strongNumber: 'H567',
+            lemma: 'Emori',
+            meaning: 'Amorites, a Canaanite people'
+          }
+        ]
+      },
+      {
+        verseNumber: 28,
+        text: 'Whither shall we go up? our brethren have discouraged our heart, saying, The people is greater and taller than we; the cities are great and walled up to heaven; and moreover we have seen the sons of the Anakims there.',
+        highlightedWords: [
+          {
+            word: 'people',
+            strongNumber: 'H5971',
+            lemma: 'am',
+            meaning: 'people, nation'
+          },
+          {
+            word: 'cities',
+            strongNumber: 'H5892',
+            lemma: 'iyr',
+            meaning: 'city, town'
+          }
+        ]
+      },
+      {
+        verseNumber: 29,
+        text: 'Then I said unto you, Dread not, neither be afraid of them.',
+        highlightedWords: [
+          {
+            word: 'said',
+            strongNumber: 'H559',
+            lemma: 'amar',
+            meaning: 'to say, speak'
+          },
+          {
+            word: 'afraid',
+            strongNumber: 'H3372',
+            lemma: 'yare',
+            meaning: 'to fear, be afraid'
+          }
+        ]
+      },
+      {
+        verseNumber: 30,
+        text: 'The LORD your God which goeth before you, he shall fight for you, according to all that he did for you in Egypt before your eyes;',
+        highlightedWords: [
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'The personal name of Israel\'s God'
+          },
+          {
+            word: 'Egypt',
+            strongNumber: 'H4714',
+            lemma: 'Mitsrayim',
+            meaning: 'Egypt'
+          }
+        ]
+      },
+      {
+        verseNumber: 31,
+        text: 'And in the wilderness, where thou hast seen how that the LORD thy God bare thee, as a man doth bear his son, in all the way that ye went, until ye came into this place.',
+        highlightedWords: [
+          {
+            word: 'wilderness',
+            strongNumber: 'H4057',
+            lemma: 'midbar',
+            meaning: 'wilderness, desert'
+          },
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'The personal name of Israel\'s God'
+          }
+        ]
+      },
+      {
+        verseNumber: 32,
+        text: 'Yet in this thing ye did not believe the LORD your God,',
+        highlightedWords: [
+          {
+            word: 'believe',
+            strongNumber: 'H539',
+            lemma: 'aman',
+            meaning: 'to trust, believe'
+          },
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'The personal name of Israel\'s God'
+          }
+        ]
+      },
+      {
+        verseNumber: 33,
+        text: 'Who went in the way before you, to search you out a place to pitch your tents in, in fire by night, to shew you by what way ye should go, and in a cloud by day.',
+        highlightedWords: [
+          {
+            word: 'fire',
+            strongNumber: 'H784',
+            lemma: 'esh',
+            meaning: 'fire'
+          },
+          {
+            word: 'cloud',
+            strongNumber: 'H6051',
+            lemma: 'anan',
+            meaning: 'cloud, covering'
+          }
+        ]
+      },
+      {
+        verseNumber: 34,
+        text: 'And the LORD heard the voice of your words, and was wroth, and sware, saying,',
+        highlightedWords: [
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'The personal name of Israel\'s God'
+          },
+          {
+            word: 'sware',
+            strongNumber: 'H7650',
+            lemma: 'shaba',
+            meaning: 'to swear, take an oath'
+          }
+        ]
+      },
+      {
+        verseNumber: 35,
+        text: 'Surely there shall not one of these men of this evil generation see that good land, which I sware to give unto your fathers,',
+        highlightedWords: [
+          {
+            word: 'generation',
+            strongNumber: 'H1755',
+            lemma: 'dor',
+            meaning: 'generation, age'
+          },
+          {
+            word: 'land',
+            strongNumber: 'H776',
+            lemma: 'erets',
+            meaning: 'land, earth, territory'
+          }
+        ]
+      },
+      {
+        verseNumber: 36,
+        text: 'Save Caleb the son of Jephunneh; he shall see it, and to him will I give the land that he hath trodden upon, and to his children, because he hath wholly followed the LORD.',
+        highlightedWords: [
+          {
+            word: 'Caleb',
+            strongNumber: 'H3612',
+            lemma: 'Kalev',
+            meaning: 'Caleb, a faithful spy of Judah'
+          },
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'The personal name of Israel\'s God'
+          }
+        ]
+      },
+      {
+        verseNumber: 37,
+        text: 'Also the LORD was angry with me for your sakes, saying, Thou also shalt not go in thither.',
+        highlightedWords: [
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'The personal name of Israel\'s God'
+          },
+          {
+            word: 'angry',
+            strongNumber: 'H599',
+            lemma: 'anaph',
+            meaning: 'to be angry'
+          }
+        ]
+      },
+      {
+        verseNumber: 38,
+        text: 'But Joshua the son of Nun, which standeth before thee, he shall go in thither: encourage him: for he shall cause Israel to inherit it.',
+        highlightedWords: [
+          {
+            word: 'Joshua',
+            strongNumber: 'H3091',
+            lemma: 'Yehoshua',
+            meaning: 'Joshua, the successor of Moses'
+          },
+          {
+            word: 'Israel',
+            strongNumber: 'H3478',
+            lemma: 'Yisrael',
+            meaning: 'Israel, the covenant people'
+          }
+        ]
+      },
+      {
+        verseNumber: 39,
+        text: 'Moreover your little ones, which ye said should be a prey, and your children, which in that day had no knowledge between good and evil, they shall go in thither, and unto them will I give it, and they shall possess it.',
+        highlightedWords: [
+          {
+            word: 'children',
+            strongNumber: 'H1121',
+            lemma: 'ben',
+            meaning: 'son, child, descendant'
+          },
+          {
+            word: 'evil',
+            strongNumber: 'H7451',
+            lemma: 'ra',
+            meaning: 'evil, bad, adversity'
+          }
+        ]
+      },
+      {
+        verseNumber: 40,
+        text: 'But as for you, turn you, and take your journey into the wilderness by the way of the Red sea.',
+        highlightedWords: [
+          {
+            word: 'wilderness',
+            strongNumber: 'H4057',
+            lemma: 'midbar',
+            meaning: 'wilderness, desert'
+          },
+          {
+            word: 'sea',
+            strongNumber: 'H3220',
+            lemma: 'yam',
+            meaning: 'sea'
+          }
+        ]
+      },
+      {
+        verseNumber: 41,
+        text: 'Then ye answered and said unto me, We have sinned against the LORD, we will go up and fight, according to all that the LORD our God commanded us. And when ye had girded on every man his weapons of war, ye were ready to go up into the hill.',
+        highlightedWords: [
+          {
+            word: 'sinned',
+            strongNumber: 'H2398',
+            lemma: 'chata',
+            meaning: 'to sin, miss the mark'
+          },
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'The personal name of Israel\'s God'
+          }
+        ]
+      },
+      {
+        verseNumber: 42,
+        text: 'And the LORD said unto me, Say unto them, Go not up, neither fight; for I am not among you; lest ye be smitten before your enemies.',
+        highlightedWords: [
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'The personal name of Israel\'s God'
+          },
+          {
+            word: 'enemies',
+            strongNumber: 'H341',
+            lemma: 'oyev',
+            meaning: 'enemy, foe'
+          }
+        ]
+      },
+      {
+        verseNumber: 43,
+        text: 'So I spake unto you; and ye would not hear, but rebelled against the commandment of the LORD, and went presumptuously up into the hill.',
+        highlightedWords: [
+          {
+            word: 'rebelled',
+            strongNumber: 'H4784',
+            lemma: 'marah',
+            meaning: 'to be rebellious'
+          },
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'The personal name of Israel\'s God'
+          }
+        ]
+      },
+      {
+        verseNumber: 44,
+        text: 'And the Amorites, which dwelt in that mountain, came out against you, and chased you, as bees do, and destroyed you in Seir, even unto Hormah.',
+        highlightedWords: [
+          {
+            word: 'Amorites',
+            strongNumber: 'H567',
+            lemma: 'Emori',
+            meaning: 'Amorites, a Canaanite people'
+          },
+          {
+            word: 'bees',
+            strongNumber: 'H1682',
+            lemma: 'deborah',
+            meaning: 'bee'
+          }
+        ]
+      },
+      {
+        verseNumber: 45,
+        text: 'And ye returned and wept before the LORD; but the LORD would not hearken to your voice, nor give ear unto you.',
+        highlightedWords: [
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'The personal name of Israel\'s God'
+          },
+          {
+            word: 'hearken',
+            strongNumber: 'H8085',
+            lemma: 'shama',
+            meaning: 'to hear, listen, obey'
+          }
+        ]
+      },
+      {
+        verseNumber: 46,
+        text: 'So ye abode in Kadesh many days, according unto the days that ye abode there.',
+        highlightedWords: [
+          {
+            word: 'Kadesh',
+            strongNumber: 'H6946',
+            lemma: 'Qadesh',
+            meaning: 'Kadesh, a place in the wilderness'
+          },
+          {
+            word: 'days',
+            strongNumber: 'H3117',
+            lemma: 'yom',
+            meaning: 'day, days, time'
+          }
+        ]
       }
     ]
   }
