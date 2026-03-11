@@ -149,6 +149,7 @@ import { deuteronomyChapter3 } from './deuteronomy-3'
 import { deuteronomyChapter4 } from './deuteronomy-4'
 import { deuteronomyChapter5 } from './deuteronomy-5'
 import { deuteronomyChapter6 } from './deuteronomy-6'
+import { deuteronomyChapter7 } from './deuteronomy-7'
 import { markChapters18 } from './mark-1-8'
 import { markChapters916 } from './mark-9-16'
 import { lukeChapter1 } from './luke-1'
@@ -3754,7 +3755,7 @@ export const sampleChapters: Record<string, Chapter> = {
         verse: 28,
         text: "And it came to pass, when Jesus had ended these sayings, the people were astonished at his doctrine:",
         highlightedWords: [
-          { word: "astonished", strongNumber: "G1605", language: "Greek", lemma: "ekplēssō", meaning: "to amaze, astonish" },
+          { word: "astonished", strongNumber: "G1605", language: "Greek", lemma: "ekplēss��", meaning: "to amaze, astonish" },
           { word: "doctrine", strongNumber: "G1322", language: "Greek", lemma: "didachē", meaning: "teaching, doctrine" },
         ],
       },
@@ -4259,6 +4260,7 @@ export const sampleChapters: Record<string, Chapter> = {
   ...deuteronomyChapter4,
   ...deuteronomyChapter5,
   ...deuteronomyChapter6,
+  ...deuteronomyChapter7,
 }
 
 export function getChapter(book: string, chapter: number): Chapter | null {
