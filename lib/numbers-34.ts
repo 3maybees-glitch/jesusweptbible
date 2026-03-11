@@ -1,0 +1,257 @@
+export const numbersChapter34 = {
+  'Numbers-34': {
+    book: 'Numbers',
+    chapter: 34,
+    twoWordSummary: 'Canaan Boundaries',
+    themeSummary: 'God defines the precise boundaries of Canaan that Israel will inherit and appoints Eleazar the priest and Joshua to divide the land among the twelve tribes with tribal leaders assisting.',
+    sentenceDescription: 'God specifies Israel\'s boundary lines in Canaan from south to west to north to east, then designates leaders for distributing the inheritance.',
+    themeWords: [
+      {
+        word: 'border',
+        strongNumber: 'H1366',
+        lemma: 'gebul',
+        meaning: 'boundary, territory limit'
+      },
+      {
+        word: 'inheritance',
+        strongNumber: 'H5159',
+        lemma: 'nachalah',
+        meaning: 'inheritance, allotted possession'
+      }
+    ],
+    verses: [
+      {
+        verseNumber: 1,
+        text: 'And the LORD spake unto Moses, saying,',
+        highlightedWords: [
+          { word: 'LORD', strongNumber: 'H3068', lemma: 'YHWH', meaning: 'the covenant name of God' },
+          { word: 'Moses', strongNumber: 'H4872', lemma: 'Mosheh', meaning: 'Moses, leader of Israel' }
+        ]
+      },
+      {
+        verseNumber: 2,
+        text: 'Command the children of Israel, and say unto them, When ye come into the land of Canaan; (this is the land that shall fall unto you for an inheritance, even the land of Canaan with the coasts thereof:)',
+        highlightedWords: [
+          { word: 'land', strongNumber: 'H776', lemma: 'ʾerets', meaning: 'land, territory' },
+          { word: 'Canaan', strongNumber: 'H3667', lemma: 'Kenaʿan', meaning: 'Canaan, the promised land' }
+        ]
+      },
+      {
+        verseNumber: 3,
+        text: 'Then your south quarter shall be from the wilderness of Zin along by the coast of Edom, and your south border shall be the outmost coast of the salt sea eastward:',
+        highlightedWords: [
+          { word: 'wilderness', strongNumber: 'H4057', lemma: 'midbar', meaning: 'wilderness, desert' },
+          { word: 'Edom', strongNumber: 'H123', lemma: 'ʾEdom', meaning: 'Edom, descendants of Esau' }
+        ]
+      },
+      {
+        verseNumber: 4,
+        text: 'And your border shall turn from the south to the ascent of Akrabbim, and pass on to Zin: and the going forth thereof shall be from the south to Kadeshbarnea, and shall go on to Hazaraddar, and pass on to Azmon:',
+        highlightedWords: [
+          { word: 'border', strongNumber: 'H1366', lemma: 'gebul', meaning: 'boundary, territory limit' },
+          { word: 'Kadeshbarnea', strongNumber: 'H6947', lemma: 'Qadesh-Barneaʿ', meaning: 'Kadesh-barnea, a southern oasis' }
+        ]
+      },
+      {
+        verseNumber: 5,
+        text: 'And the border shall fetch a compass from Azmon unto the river of Egypt, and the goings out of it shall be at the sea.',
+        highlightedWords: [
+          { word: 'Egypt', strongNumber: 'H4714', lemma: 'Mitsrayim', meaning: 'Egypt' },
+          { word: 'sea', strongNumber: 'H3220', lemma: 'yam', meaning: 'sea' }
+        ]
+      },
+      {
+        verseNumber: 6,
+        text: 'And as for the western border, ye shall even have the great sea for a border: this shall be your west border.',
+        highlightedWords: [
+          { word: 'sea', strongNumber: 'H3220', lemma: 'yam', meaning: 'sea' },
+          { word: 'border', strongNumber: 'H1366', lemma: 'gebul', meaning: 'boundary, territory limit' }
+        ]
+      },
+      {
+        verseNumber: 7,
+        text: 'And this shall be your north border: from the great sea ye shall point out for you mount Hor:',
+        highlightedWords: [
+          { word: 'border', strongNumber: 'H1366', lemma: 'gebul', meaning: 'boundary, territory limit' },
+          { word: 'mount', strongNumber: 'H2022', lemma: 'har', meaning: 'mountain, hill' }
+        ]
+      },
+      {
+        verseNumber: 8,
+        text: 'From mount Hor ye shall point out your border unto the entrance of Hamath; and the goings forth of the border shall be to Zedad:',
+        highlightedWords: [
+          { word: 'Hamath', strongNumber: 'H2574', lemma: 'Hamath', meaning: 'Hamath, a northern city/region' },
+          { word: 'border', strongNumber: 'H1366', lemma: 'gebul', meaning: 'boundary, territory limit' }
+        ]
+      },
+      {
+        verseNumber: 9,
+        text: 'And the border shall go on to Ziphron, and the goings out of it shall be at Hazarenan: this shall be your north border.',
+        highlightedWords: [
+          { word: 'border', strongNumber: 'H1366', lemma: 'gebul', meaning: 'boundary, territory limit' },
+          { word: 'north', strongNumber: 'H6828', lemma: 'tsaphon', meaning: 'north' }
+        ]
+      },
+      {
+        verseNumber: 10,
+        text: 'And ye shall point out your east border from Hazarenan to Shepham:',
+        highlightedWords: [
+          { word: 'border', strongNumber: 'H1366', lemma: 'gebul', meaning: 'boundary, territory limit' },
+          { word: 'Hazarenan', strongNumber: 'H2704', lemma: 'Hatsar-ʾEnan', meaning: 'Hazar-enan, a boundary settlement' }
+        ]
+      },
+      {
+        verseNumber: 11,
+        text: 'And the coast shall go down from Shepham to Riblah, on the east side of Ain; and the border shall descend, and shall reach unto the side of the sea of Chinnereth eastward:',
+        highlightedWords: [
+          { word: 'Riblah', strongNumber: 'H7247', lemma: 'Riblah', meaning: 'Riblah, a northern town' },
+          { word: 'Chinnereth', strongNumber: 'H3672', lemma: 'Kinnereth', meaning: 'Chinnereth/Kinnereth, the Sea of Galilee' }
+        ]
+      },
+      {
+        verseNumber: 12,
+        text: 'And the border shall go down to Jordan, and the goings out of it shall be at the salt sea: this shall be your land with the coasts thereof round about.',
+        highlightedWords: [
+          { word: 'Jordan', strongNumber: 'H3383', lemma: 'Yarden', meaning: 'the Jordan River' },
+          { word: 'sea', strongNumber: 'H3220', lemma: 'yam', meaning: 'sea' }
+        ]
+      },
+      {
+        verseNumber: 13,
+        text: 'And Moses commanded the children of Israel, saying, This is the land which ye shall inherit by lot, which the LORD commanded to give unto the nine tribes, and to the half tribe:',
+        highlightedWords: [
+          { word: 'Moses', strongNumber: 'H4872', lemma: 'Mosheh', meaning: 'Moses, leader of Israel' },
+          { word: 'land', strongNumber: 'H776', lemma: 'ʾerets', meaning: 'land, territory' }
+        ]
+      },
+      {
+        verseNumber: 14,
+        text: 'For the tribe of the children of Reuben according to the house of their fathers, and the tribe of the children of Gad according to the house of their fathers, have received their inheritance; and half the tribe of Manasseh have received their inheritance:',
+        highlightedWords: [
+          { word: 'Reuben', strongNumber: 'H7205', lemma: 'Reʾuven', meaning: 'Reuben, a tribe of Israel' },
+          { word: 'Gad', strongNumber: 'H1410', lemma: 'Gad', meaning: 'Gad, a tribe of Israel' }
+        ]
+      },
+      {
+        verseNumber: 15,
+        text: 'The two tribes and the half tribe have received their inheritance on this side Jordan near Jericho eastward, toward the sunrising.',
+        highlightedWords: [
+          { word: 'Jordan', strongNumber: 'H3383', lemma: 'Yarden', meaning: 'the Jordan River' },
+          { word: 'Jericho', strongNumber: 'H3405', lemma: 'Yericho', meaning: 'Jericho' }
+        ]
+      },
+      {
+        verseNumber: 16,
+        text: 'And the LORD spake unto Moses, saying,',
+        highlightedWords: [
+          { word: 'LORD', strongNumber: 'H3068', lemma: 'YHWH', meaning: 'the covenant name of God' },
+          { word: 'Moses', strongNumber: 'H4872', lemma: 'Mosheh', meaning: 'Moses, leader of Israel' }
+        ]
+      },
+      {
+        verseNumber: 17,
+        text: 'These are the names of the men which shall divide the land unto you: Eleazar the priest, and Joshua the son of Nun.',
+        highlightedWords: [
+          { word: 'priest', strongNumber: 'H3548', lemma: 'kohen', meaning: 'priest' },
+          { word: 'Joshua', strongNumber: 'H3091', lemma: 'Yehoshuaʿ', meaning: 'Joshua' }
+        ]
+      },
+      {
+        verseNumber: 18,
+        text: 'And ye shall take one prince of every tribe, to divide the land by inheritance.',
+        highlightedWords: [
+          { word: 'prince', strongNumber: 'H5387', lemma: 'nasiʾ', meaning: 'chief, leader, prince' },
+          { word: 'tribe', strongNumber: 'H7626', lemma: 'shebet', meaning: 'tribe, clan' }
+        ]
+      },
+      {
+        verseNumber: 19,
+        text: 'And the names of the men are these: Of the tribe of Judah, Caleb the son of Jephunneh.',
+        highlightedWords: [
+          { word: 'Judah', strongNumber: 'H3063', lemma: 'Yehudah', meaning: 'Judah, a tribe of Israel' },
+          { word: 'Caleb', strongNumber: 'H3612', lemma: 'Kaleb', meaning: 'Caleb' }
+        ]
+      },
+      {
+        verseNumber: 20,
+        text: 'And of the tribe of the children of Simeon, Shemuel the son of Ammihud.',
+        highlightedWords: [
+          { word: 'Simeon', strongNumber: 'H8095', lemma: 'Shimʿon', meaning: 'Simeon, a tribe of Israel' },
+          { word: 'tribe', strongNumber: 'H7626', lemma: 'shebet', meaning: 'tribe, clan' }
+        ]
+      },
+      {
+        verseNumber: 21,
+        text: 'Of the tribe of Benjamin, Elidad the son of Chislon.',
+        highlightedWords: [
+          { word: 'Benjamin', strongNumber: 'H1144', lemma: 'Binyamin', meaning: 'Benjamin, a tribe of Israel' },
+          { word: 'tribe', strongNumber: 'H7626', lemma: 'shebet', meaning: 'tribe, clan' }
+        ]
+      },
+      {
+        verseNumber: 22,
+        text: 'And the prince of the tribe of the children of Dan, Bukki the son of Jogli.',
+        highlightedWords: [
+          { word: 'Dan', strongNumber: 'H1835', lemma: 'Dan', meaning: 'Dan, a tribe of Israel' },
+          { word: 'prince', strongNumber: 'H5387', lemma: 'nasiʾ', meaning: 'chief, leader, prince' }
+        ]
+      },
+      {
+        verseNumber: 23,
+        text: 'The prince of the children of Joseph, for the tribe of the children of Manasseh, Hanniel the son of Ephod.',
+        highlightedWords: [
+          { word: 'Joseph', strongNumber: 'H3130', lemma: 'Yosef', meaning: 'Joseph' },
+          { word: 'Manasseh', strongNumber: 'H4519', lemma: 'Menasheh', meaning: 'Manasseh, a tribe of Israel' }
+        ]
+      },
+      {
+        verseNumber: 24,
+        text: 'And the prince of the tribe of the children of Ephraim, Kemuel the son of Shiphtan.',
+        highlightedWords: [
+          { word: 'Ephraim', strongNumber: 'H669', lemma: 'Ephrayim', meaning: 'Ephraim, a tribe of Israel' },
+          { word: 'prince', strongNumber: 'H5387', lemma: 'nasiʾ', meaning: 'chief, leader, prince' }
+        ]
+      },
+      {
+        verseNumber: 25,
+        text: 'And the prince of the tribe of the children of Zebulun, Elizaphan the son of Parnach.',
+        highlightedWords: [
+          { word: 'Zebulun', strongNumber: 'H2074', lemma: 'Zevulun', meaning: 'Zebulun, a tribe of Israel' },
+          { word: 'prince', strongNumber: 'H5387', lemma: 'nasiʾ', meaning: 'chief, leader, prince' }
+        ]
+      },
+      {
+        verseNumber: 26,
+        text: 'And the prince of the tribe of the children of Issachar, Paltiel the son of Azzan.',
+        highlightedWords: [
+          { word: 'Issachar', strongNumber: 'H3485', lemma: 'Yissakar', meaning: 'Issachar, a tribe of Israel' },
+          { word: 'prince', strongNumber: 'H5387', lemma: 'nasiʾ', meaning: 'chief, leader, prince' }
+        ]
+      },
+      {
+        verseNumber: 27,
+        text: 'And the prince of the tribe of the children of Asher, Ahihud the son of Shelomi.',
+        highlightedWords: [
+          { word: 'Asher', strongNumber: 'H836', lemma: 'Asher', meaning: 'Asher, a tribe of Israel' },
+          { word: 'prince', strongNumber: 'H5387', lemma: 'nasiʾ', meaning: 'chief, leader, prince' }
+        ]
+      },
+      {
+        verseNumber: 28,
+        text: 'And the prince of the tribe of the children of Naphtali, Pedahel the son of Ammihud.',
+        highlightedWords: [
+          { word: 'Naphtali', strongNumber: 'H5321', lemma: 'Naftali', meaning: 'Naphtali, a tribe of Israel' },
+          { word: 'prince', strongNumber: 'H5387', lemma: 'nasiʾ', meaning: 'chief, leader, prince' }
+        ]
+      },
+      {
+        verseNumber: 29,
+        text: 'These are they whom the LORD commanded to divide the inheritance unto the children of Israel in the land of Canaan.',
+        highlightedWords: [
+          { word: 'LORD', strongNumber: 'H3068', lemma: 'YHWH', meaning: 'the covenant name of God' },
+          { word: 'Israel', strongNumber: 'H3478', lemma: 'Yisraʾel', meaning: 'Israel, the people of God' }
+        ]
+      }
+    ]
+  }
+};
