@@ -136,6 +136,7 @@ import { numbersChapter24 } from './numbers-24'
 import { numbersChapter25 } from './numbers-25'
 import { numbersChapter27 } from './numbers-27'
 import { numbersChapter29 } from './numbers-29'
+import { numbersChapter30 } from './numbers-30'
 import { numbersChapter34 } from './numbers-34'
 import { numbersChapter35 } from './numbers-35'
 import { numbersChapter36 } from './numbers-36'
@@ -4236,6 +4237,7 @@ export const sampleChapters: Record<string, Chapter> = {
   ...numbersChapter25,
   ...numbersChapter27,
   ...numbersChapter29,
+  ...numbersChapter30,
   ...numbersChapter34,
   ...numbersChapter35,
   ...numbersChapter36,
