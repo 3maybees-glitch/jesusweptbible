@@ -1,25 +1,26 @@
 export const numbersChapter15 = {
-  book: 'Numbers',
-  chapter: 15,
-  chapterTheme: {
-    twoWordSummary: 'Offerings Reminders',
-    themeWords: [
-      {
-        word: 'LORD',
-        strongNumber: 'H3068',
-        lemma: 'YHWH (Yehovah)',
-        meaning: 'The proper name of the God of Israel'
-      },
-      {
-        word: 'commandments',
-        strongNumber: 'H4687',
-        lemma: 'mitsvah',
-        meaning: 'Command, law, charge; what God commands'
-      }
-    ]
-  },
-  sentenceDescription: 'Instructions for offerings and atonement for sins of ignorance are given, a sabbath-breaker is judged, and Israel is commanded to wear tassels to remember the LORD\'s commandments.',
-  verses: [
+  'Numbers-15': {
+    book: 'Numbers',
+    chapter: 15,
+    chapterTheme: {
+      twoWordSummary: 'Offerings Reminders',
+      themeWords: [
+        {
+          word: 'LORD',
+          strongNumber: 'H3068',
+          lemma: 'YHWH (Yehovah)',
+          meaning: 'The proper name of the God of Israel'
+        },
+        {
+          word: 'commandments',
+          strongNumber: 'H4687',
+          lemma: 'mitsvah',
+          meaning: 'Command, law, charge; what God commands'
+        }
+      ]
+    },
+    sentenceDescription: 'Instructions for offerings and atonement for sins of ignorance are given, a sabbath-breaker is judged, and Israel is commanded to wear tassels to remember the LORD\'s commandments.',
+    verses: [
     {
       verseNumber: 1,
       text: 'And the LORD spake unto Moses, saying,',
@@ -759,4 +760,5 @@ export const numbersChapter15 = {
       ]
     }
   ]
+  }
 };
