@@ -152,7 +152,7 @@ import { deuteronomyChapter6 } from './deuteronomy-6'
 import { deuteronomyChapter7 } from './deuteronomy-7'
 import { deuteronomyChapter8 } from './deuteronomy-8'
 import { deuteronomyChapter9 } from './deuteronomy-9'
-import { deuteronomyChapter10 } from './deuteronomy-10'
+// import { deuteronomyChapter10 } from './deuteronomy-10'
 import { deuteronomyChapter11 } from './deuteronomy-11'
 import { deuteronomyChapter12 } from './deuteronomy-12'
 import { deuteronomyChapter13 } from './deuteronomy-13'
@@ -4277,7 +4277,7 @@ export const sampleChapters: Record<string, Chapter> = {
   ...deuteronomyChapter7,
   ...deuteronomyChapter8,
   ...deuteronomyChapter9,
-  ...deuteronomyChapter10,
+  // ...deuteronomyChapter10,
   ...deuteronomyChapter11,
   ...deuteronomyChapter12,
   ...deuteronomyChapter13,
