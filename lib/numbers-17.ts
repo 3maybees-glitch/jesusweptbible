@@ -29,6 +29,12 @@ export const numbersChapter17 = {
             strongNumber: 'H3068',
             lemma: 'Yehovah',
             meaning: 'the personal name of the God of Israel'
+          },
+          {
+            word: 'Moses',
+            strongNumber: 'H4872',
+            lemma: 'Mosheh',
+            meaning: 'Moses; drawn out (Israel\'s leader and lawgiver)'
           }
         ]
       },
@@ -41,6 +47,48 @@ export const numbersChapter17 = {
             strongNumber: 'H4294',
             lemma: 'maṭṭeh',
             meaning: 'staff, rod; also a tribal symbol'
+          },
+          {
+            word: 'princes',
+            strongNumber: 'H5387',
+            lemma: 'nāśî\'',
+            meaning: 'chief, leader, prince'
+          }
+        ]
+      },
+      {
+        verseNumber: 3,
+        text: 'And thou shalt write Aaron\'s name upon the rod of Levi: for one rod shall be for the head of the house of their fathers.',
+        highlightedWords: [
+          {
+            word: 'Aaron\'s',
+            strongNumber: 'H175',
+            lemma: 'Aharon',
+            meaning: 'Aaron; brother of Moses and first high priest'
+          },
+          {
+            word: 'Levi',
+            strongNumber: 'H3878',
+            lemma: 'Lewi',
+            meaning: 'Levi; the Levitical tribe'
+          }
+        ]
+      },
+      {
+        verseNumber: 4,
+        text: 'And thou shalt lay them up in the tabernacle of the congregation before the testimony, where I will meet with you.',
+        highlightedWords: [
+          {
+            word: 'tabernacle',
+            strongNumber: 'H168',
+            lemma: 'ʾōhel',
+            meaning: 'tent, dwelling place'
+          },
+          {
+            word: 'testimony',
+            strongNumber: 'H5715',
+            lemma: 'ʿēduth',
+            meaning: 'testimony, witness (the tablets or ark contents)'
           }
         ]
       },
@@ -49,10 +97,52 @@ export const numbersChapter17 = {
         text: 'And it shall come to pass, that the man\'s rod, whom I shall choose, shall blossom: and I will make to cease from me the murmurings of the children of Israel, whereby they murmur against you.',
         highlightedWords: [
           {
+            word: 'choose',
+            strongNumber: 'H977',
+            lemma: 'bāchar',
+            meaning: 'to choose, select, elect'
+          },
+          {
             word: 'blossom',
             strongNumber: 'H6524',
             lemma: 'pāraḥ',
             meaning: 'to sprout, bud, or blossom'
+          }
+        ]
+      },
+      {
+        verseNumber: 6,
+        text: 'And Moses spake unto the children of Israel, and every one of their princes gave him a rod apiece, for each prince one, according to their fathers\' houses, even twelve rods: and the rod of Aaron was among their rods.',
+        highlightedWords: [
+          {
+            word: 'princes',
+            strongNumber: 'H5387',
+            lemma: 'nāśî\'',
+            meaning: 'chief, leader, prince'
+          },
+          {
+            word: 'rods',
+            strongNumber: 'H4294',
+            lemma: 'maṭṭeh',
+            meaning: 'staffs, rods; also symbols of tribes'
+          }
+        ]
+      },
+      {
+        verseNumber: 7,
+        text: 'And Moses laid up the rods before the LORD in the tabernacle of witness.',
+        highlightedWords: [
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'Yehovah',
+            meaning: 'the personal name of the God of Israel'
+          },
+          {
+            word: 'witness',
+            strongNumber: 'H5715',
+            lemma: 'ʿēduth',
+            meaning: 'testimony, witness'
           }
         ]
       },
@@ -65,6 +155,30 @@ export const numbersChapter17 = {
             strongNumber: 'H6524',
             lemma: 'pāraḥ',
             meaning: 'to sprout, bud, or blossom'
+          },
+          {
+            word: 'almonds',
+            strongNumber: 'H8247',
+            lemma: 'shāqēd',
+            meaning: 'almond, almond tree'
+          }
+        ]
+      },
+      {
+        verseNumber: 9,
+        text: 'And Moses brought out all the rods from before the LORD unto all the children of Israel: and they looked, and took every man his rod.',
+        highlightedWords: [
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'Yehovah',
+            meaning: 'the personal name of the God of Israel'
+          },
+          {
+            word: 'rod',
+            strongNumber: 'H4294',
+            lemma: 'maṭṭeh',
+            meaning: 'staff, rod; also a tribal symbol'
           }
         ]
       },
@@ -77,6 +191,48 @@ export const numbersChapter17 = {
             strongNumber: 'H226',
             lemma: 'ʾôth',
             meaning: 'sign, token, pledge'
+          },
+          {
+            word: 'rebels',
+            strongNumber: 'H4805',
+            lemma: 'mĕrî',
+            meaning: 'rebellion; rebellious ones'
+          }
+        ]
+      },
+      {
+        verseNumber: 11,
+        text: 'And Moses did so: as the LORD commanded him, so did he.',
+        highlightedWords: [
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'Yehovah',
+            meaning: 'the personal name of the God of Israel'
+          },
+          {
+            word: 'commanded',
+            strongNumber: 'H6680',
+            lemma: 'ṣāvâ',
+            meaning: 'to command, charge'
+          }
+        ]
+      },
+      {
+        verseNumber: 12,
+        text: 'And the children of Israel spake unto Moses, saying, Behold, we die, we perish, we all perish.',
+        highlightedWords: [
+          {
+            word: 'die',
+            strongNumber: 'H4191',
+            lemma: 'mûth',
+            meaning: 'to die'
+          },
+          {
+            word: 'perish',
+            strongNumber: 'H6',
+            lemma: 'ʾābad',
+            meaning: 'to perish, be lost, be destroyed'
           }
         ]
       },
@@ -84,6 +240,12 @@ export const numbersChapter17 = {
         verseNumber: 13,
         text: 'Whosoever cometh any thing near unto the tabernacle of the LORD shall die: shall we be consumed with dying?',
         highlightedWords: [
+          {
+            word: 'tabernacle',
+            strongNumber: 'H4908',
+            lemma: 'miškān',
+            meaning: 'dwelling, tabernacle'
+          },
           {
             word: 'die',
             strongNumber: 'H4191',
