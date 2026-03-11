@@ -134,6 +134,7 @@ import { numbersChapter22 } from './numbers-22'
 import { numbersChapter23 } from './numbers-23'
 import { numbersChapter24 } from './numbers-24'
 import { numbersChapter25 } from './numbers-25'
+import { numbersChapter27 } from './numbers-27'
 import { numbersChapter34 } from './numbers-34'
 import { numbersChapter35 } from './numbers-35'
 import { numbersChapter36 } from './numbers-36'
@@ -2766,7 +2767,7 @@ export const sampleChapters: Record<string, Chapter> = {
         verse: 15,
         text: "Neither do men light a candle, and put it under a bushel, but on a candlestick; and it giveth light unto all that are in the house.",
         highlightedWords: [
-          { word: "light", strongNumber: "G5457", language: "Greek", lemma: "phōs", meaning: "light, illumination" },
+          { word: "light", strongNumber: "G5457", language: "Greek", lemma: "ph��s", meaning: "light, illumination" },
           { word: "house", strongNumber: "G3614", language: "Greek", lemma: "oikia", meaning: "house, dwelling" },
         ],
       },
@@ -4232,6 +4233,7 @@ export const sampleChapters: Record<string, Chapter> = {
   ...numbersChapter23,
   ...numbersChapter24,
   ...numbersChapter25,
+  ...numbersChapter27,
   ...numbersChapter34,
   ...numbersChapter35,
   ...numbersChapter36,
