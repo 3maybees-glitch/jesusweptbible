@@ -672,8 +672,3 @@ export const numbersChapter22 = {
     ]
   }
 };
-        ]
-      }
-    ]
-  }
-};
