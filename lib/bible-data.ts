@@ -147,6 +147,7 @@ import { deuteronomyChapter1 } from './deuteronomy-1'
 import { deuteronomyChapter2 } from './deuteronomy-2'
 import { deuteronomyChapter3 } from './deuteronomy-3'
 import { deuteronomyChapter4 } from './deuteronomy-4'
+import { deuteronomyChapter5 } from './deuteronomy-5'
 import { markChapters18 } from './mark-1-8'
 import { markChapters916 } from './mark-9-16'
 import { lukeChapter1 } from './luke-1'
@@ -2454,7 +2455,7 @@ export const sampleChapters: Record<string, Chapter> = {
         text: "And saith unto him, All these things will I give thee, if thou wilt fall down and worship me.",
         highlightedWords: [
           { word: "worship", strongNumber: "G4352", language: "Greek", lemma: "proskuneō", meaning: "to bow down, do homage" },
-          { word: "fall", strongNumber: "G4098", language: "Greek", lemma: "piptō", meaning: "to fall, descend" },
+          { word: "fall", strongNumber: "G4098", language: "Greek", lemma: "pipt��", meaning: "to fall, descend" },
         ],
       },
       {
@@ -4255,6 +4256,7 @@ export const sampleChapters: Record<string, Chapter> = {
   ...deuteronomyChapter2,
   ...deuteronomyChapter3,
   ...deuteronomyChapter4,
+  ...deuteronomyChapter5,
 }
 
 export function getChapter(book: string, chapter: number): Chapter | null {
