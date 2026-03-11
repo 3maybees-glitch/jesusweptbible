@@ -380,6 +380,294 @@ export const numbersChapter22 = {
             meaning: 'word, matter, thing'
           }
         ]
+      },
+      {
+        verseNumber: 21,
+        text: 'And Balaam rose up in the morning, and saddled his ass, and went with the princes of Moab.',
+        highlightedWords: [
+          {
+            word: 'Balaam',
+            strongNumber: 'H1109',
+            lemma: 'Bilam',
+            meaning: 'Balaam; a diviner/prophet from Pethor'
+          },
+          {
+            word: 'ass',
+            strongNumber: 'H0860',
+            lemma: 'aton',
+            meaning: 'a female donkey'
+          }
+        ]
+      },
+      {
+        verseNumber: 22,
+        text: 'And God\'s anger was kindled because he went: and the angel of the LORD stood in the way for an adversary against him. Now he was riding upon his ass, and his two servants were with him.',
+        highlightedWords: [
+          {
+            word: 'angel',
+            strongNumber: 'H4397',
+            lemma: 'malak',
+            meaning: 'messenger; angel'
+          },
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'Yehovah',
+            meaning: 'the personal name of the God of Israel (Yahweh)'
+          }
+        ]
+      },
+      {
+        verseNumber: 23,
+        text: 'And the ass saw the angel of the LORD standing in the way, and his sword drawn in his hand: and the ass turned aside out of the way, and went into the field: and Balaam smote the ass, to turn her into the way.',
+        highlightedWords: [
+          {
+            word: 'ass',
+            strongNumber: 'H0860',
+            lemma: 'aton',
+            meaning: 'a female donkey'
+          },
+          {
+            word: 'sword',
+            strongNumber: 'H2719',
+            lemma: 'chereb',
+            meaning: 'sword'
+          }
+        ]
+      },
+      {
+        verseNumber: 24,
+        text: 'But the angel of the LORD stood in a path of the vineyards, a wall being on this side, and a wall on that side.',
+        highlightedWords: [
+          {
+            word: 'angel',
+            strongNumber: 'H4397',
+            lemma: 'malak',
+            meaning: 'messenger; angel'
+          },
+          {
+            word: 'vineyards',
+            strongNumber: 'H3754',
+            lemma: 'kerem',
+            meaning: 'vineyard'
+          }
+        ]
+      },
+      {
+        verseNumber: 25,
+        text: 'And when the ass saw the angel of the LORD, she thrust herself unto the wall, and crushed Balaam\'s foot against the wall: and he smote her again.',
+        highlightedWords: [
+          {
+            word: 'ass',
+            strongNumber: 'H0860',
+            lemma: 'aton',
+            meaning: 'a female donkey'
+          },
+          {
+            word: 'foot',
+            strongNumber: 'H7272',
+            lemma: 'regel',
+            meaning: 'foot'
+          }
+        ]
+      },
+      {
+        verseNumber: 26,
+        text: 'And the angel of the LORD went further, and stood in a narrow place, where was no way to turn either to the right hand or to the left.',
+        highlightedWords: [
+          {
+            word: 'angel',
+            strongNumber: 'H4397',
+            lemma: 'malak',
+            meaning: 'messenger; angel'
+          },
+          {
+            word: 'way',
+            strongNumber: 'H1870',
+            lemma: 'derek',
+            meaning: 'way, road, path'
+          }
+        ]
+      },
+      {
+        verseNumber: 27,
+        text: 'And when the ass saw the angel of the LORD, she fell down under Balaam: and Balaam\'s anger was kindled, and he smote the ass with a staff.',
+        highlightedWords: [
+          {
+            word: 'ass',
+            strongNumber: 'H0860',
+            lemma: 'aton',
+            meaning: 'a female donkey'
+          },
+          {
+            word: 'staff',
+            strongNumber: 'H4731',
+            lemma: 'matteh',
+            meaning: 'staff, rod'
+          }
+        ]
+      },
+      {
+        verseNumber: 28,
+        text: 'And the LORD opened the mouth of the ass, and she said unto Balaam, What have I done unto thee, that thou hast smitten me these three times?',
+        highlightedWords: [
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'Yehovah',
+            meaning: 'the personal name of the God of Israel (Yahweh)'
+          },
+          {
+            word: 'ass',
+            strongNumber: 'H0860',
+            lemma: 'aton',
+            meaning: 'a female donkey'
+          }
+        ]
+      },
+      {
+        verseNumber: 29,
+        text: 'And Balaam said unto the ass, Because thou hast mocked me: I would there were a sword in mine hand, for now would I kill thee.',
+        highlightedWords: [
+          {
+            word: 'Balaam',
+            strongNumber: 'H1109',
+            lemma: 'Bilam',
+            meaning: 'Balaam; a diviner/prophet from Pethor'
+          },
+          {
+            word: 'sword',
+            strongNumber: 'H2719',
+            lemma: 'chereb',
+            meaning: 'sword'
+          }
+        ]
+      },
+      {
+        verseNumber: 30,
+        text: 'And the ass said unto Balaam, Am not I thine ass, upon which thou hast ridden ever since I was thine unto this day? was I ever wont to do so unto thee? And he said, Nay.',
+        highlightedWords: [
+          {
+            word: 'ass',
+            strongNumber: 'H0860',
+            lemma: 'aton',
+            meaning: 'a female donkey'
+          },
+          {
+            word: 'day',
+            strongNumber: 'H3117',
+            lemma: 'yom',
+            meaning: 'day'
+          }
+        ]
+      },
+      {
+        verseNumber: 31,
+        text: 'Then the LORD opened the eyes of Balaam, and he saw the angel of the LORD standing in the way, and his sword drawn in his hand: and he bowed down his head, and fell flat on his face.',
+        highlightedWords: [
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'Yehovah',
+            meaning: 'the personal name of the God of Israel (Yahweh)'
+          },
+          {
+            word: 'angel',
+            strongNumber: 'H4397',
+            lemma: 'malak',
+            meaning: 'messenger; angel'
+          }
+        ]
+      },
+      {
+        verseNumber: 32,
+        text: 'And the angel of the LORD said unto him, Wherefore hast thou smitten thine ass these three times? behold, I went out to withstand thee, because thy way is perverse before me:',
+        highlightedWords: [
+          {
+            word: 'angel',
+            strongNumber: 'H4397',
+            lemma: 'malak',
+            meaning: 'messenger; angel'
+          },
+          {
+            word: 'way',
+            strongNumber: 'H1870',
+            lemma: 'derek',
+            meaning: 'way, road, path'
+          }
+        ]
+      },
+      {
+        verseNumber: 33,
+        text: 'And the ass saw me, and turned from me these three times: unless she had turned from me, surely now also I had slain thee, and saved her alive.',
+        highlightedWords: [
+          {
+            word: 'ass',
+            strongNumber: 'H0860',
+            lemma: 'aton',
+            meaning: 'a female donkey'
+          },
+          {
+            word: 'three',
+            strongNumber: 'H7969',
+            lemma: 'shalosh',
+            meaning: 'three'
+          }
+        ]
+      },
+      {
+        verseNumber: 34,
+        text: 'And Balaam said unto the angel of the LORD, I have sinned; for I knew not that thou stoodest in the way against me: now therefore, if it displease thee, I will get me back again.',
+        highlightedWords: [
+          {
+            word: 'sinned',
+            strongNumber: 'H2398',
+            lemma: 'chata\'',
+            meaning: 'to sin, to miss the mark'
+          },
+          {
+            word: 'angel',
+            strongNumber: 'H4397',
+            lemma: 'malak',
+            meaning: 'messenger; angel'
+          }
+        ]
+      },
+      {
+        verseNumber: 35,
+        text: 'And the angel of the LORD said unto Balaam, Go with the men: but only the word that I shall speak unto thee, that thou shalt speak. So Balaam went with the princes of Balak.',
+        highlightedWords: [
+          {
+            word: 'angel',
+            strongNumber: 'H4397',
+            lemma: 'malak',
+            meaning: 'messenger; angel'
+          },
+          {
+            word: 'word',
+            strongNumber: 'H1697',
+            lemma: 'davar',
+            meaning: 'word, matter, thing'
+          }
+        ]
+      },
+      {
+        verseNumber: 36,
+        text: 'And when Balak heard that Balaam was come, he went out to meet him unto a city of Moab, which is in the border of Arnon, which is in the utmost coast.',
+        highlightedWords: [
+          {
+            word: 'Balak',
+            strongNumber: 'H1111',
+            lemma: 'Balaq',
+            meaning: 'Balak; king of Moab'
+          },
+          {
+            word: 'Arnon',
+            strongNumber: 'H0769',
+            lemma: 'Arnon',
+            meaning: 'Arnon; a river and valley on Moab\'s border'
+          }
+        ]
       }
     ]
   }
