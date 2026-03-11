@@ -164,19 +164,19 @@ import { deuteronomyChapter18 } from './deuteronomy-18'
 import { deuteronomyChapter19 } from './deuteronomy-19'
 import { deuteronomyChapter20 } from './deuteronomy-20'
 import { deuteronomyChapter21 } from './deuteronomy-21'
-import { deuteronomyChapter22 } from './deuteronomy-22'
+// import { deuteronomyChapter22 } from './deuteronomy-22'
 import { deuteronomyChapter23 } from './deuteronomy-23'
 import { deuteronomyChapter24 } from './deuteronomy-24'
 import { deuteronomyChapter25 } from './deuteronomy-25'
 import { deuteronomyChapter26 } from './deuteronomy-26'
 import { deuteronomyChapter27 } from './deuteronomy-27'
-import { deuteronomyChapter28 } from './deuteronomy-28'
-import { deuteronomyChapter29 } from './deuteronomy-29'
-import { deuteronomyChapter30 } from './deuteronomy-30'
+// import { deuteronomyChapter28 } from './deuteronomy-28'
+// import { deuteronomyChapter29 } from './deuteronomy-29'
+// import { deuteronomyChapter30 } from './deuteronomy-30'
 import { deuteronomyChapter31 } from './deuteronomy-31'
-import { deuteronomyChapter32 } from './deuteronomy-32'
+// import { deuteronomyChapter32 } from './deuteronomy-32'
 import { deuteronomyChapter33 } from './deuteronomy-33'
-import { deuteronomyChapter34 } from './deuteronomy-34'
+// import { deuteronomyChapter34 } from './deuteronomy-34'
 import { markChapters18 } from './mark-1-8'
 import { markChapters916 } from './mark-9-16'
 import { lukeChapter1 } from './luke-1'
@@ -4302,19 +4302,13 @@ export const sampleChapters: Record<string, Chapter> = {
   ...deuteronomyChapter19,
   ...deuteronomyChapter20,
   ...deuteronomyChapter21,
-  ...deuteronomyChapter22,
   ...deuteronomyChapter23,
   ...deuteronomyChapter24,
   ...deuteronomyChapter25,
   ...deuteronomyChapter26,
   ...deuteronomyChapter27,
-  ...deuteronomyChapter28,
-  ...deuteronomyChapter29,
-  ...deuteronomyChapter30,
   ...deuteronomyChapter31,
-  ...deuteronomyChapter32,
   ...deuteronomyChapter33,
-  ...deuteronomyChapter34,
 }
 
 export function getChapter(book: string, chapter: number): Chapter | null {
