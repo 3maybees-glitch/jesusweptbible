@@ -289,7 +289,220 @@ export const numbersChapter1 = {
             meaning: 'son, child, descendant'
           }
         ]
+      },
+      {
+        verseNumber: 16,
+        text: 'These were the renowned of the congregation, princes of the tribes of their fathers, heads of thousands in Israel.',
+        highlightedWords: [
+          {
+            word: 'congregation',
+            strongNumber: 'H5712',
+            lemma: 'ʿēdāh',
+            meaning: 'assembly, congregation'
+          },
+          {
+            word: 'Israel',
+            strongNumber: 'H3478',
+            lemma: 'Yiśrāʾēl',
+            meaning: 'Israel; the people descended from Jacob'
+          }
+        ]
+      },
+      {
+        verseNumber: 17,
+        text: 'And Moses and Aaron took these men which are expressed by their names:',
+        highlightedWords: [
+          {
+            word: 'Moses',
+            strongNumber: 'H4872',
+            lemma: 'Mosheh',
+            meaning: 'Moses, leader and lawgiver of Israel'
+          },
+          {
+            word: 'Aaron',
+            strongNumber: 'H175',
+            lemma: 'Aharon',
+            meaning: 'Aaron; brother of Moses and first high priest'
+          }
+        ]
+      },
+      {
+        verseNumber: 18,
+        text: 'And they assembled all the congregation together on the first day of the second month, and they declared their pedigrees after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, by their polls.',
+        highlightedWords: [
+          {
+            word: 'congregation',
+            strongNumber: 'H5712',
+            lemma: 'ʿēdāh',
+            meaning: 'assembly, congregation'
+          },
+          {
+            word: 'names',
+            strongNumber: 'H8034',
+            lemma: 'shem',
+            meaning: 'name, reputation'
+          }
+        ]
+      },
+      {
+        verseNumber: 19,
+        text: 'As the LORD commanded Moses, so he numbered them in the wilderness of Sinai.',
+        highlightedWords: [
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'the personal name of the God of Israel'
+          },
+          {
+            word: 'Moses',
+            strongNumber: 'H4872',
+            lemma: 'Mosheh',
+            meaning: 'Moses, leader and lawgiver of Israel'
+          }
+        ]
+      },
+      {
+        verseNumber: 20,
+        text: 'And the children of Reuben, Israel\'s eldest son, by their generations, after their families, by the house of their fathers, according to the number of the names, by their polls, every male from twenty years old and upward, all that were able to go forth to war;',
+        highlightedWords: [
+          {
+            word: 'children',
+            strongNumber: 'H1121',
+            lemma: 'ben',
+            meaning: 'sons, children, descendants'
+          },
+          {
+            word: 'Reuben',
+            strongNumber: 'H7205',
+            lemma: 'Reʾuven',
+            meaning: 'Reuben; a son of Jacob and his tribe'
+          }
+        ]
+      },
+      {
+        verseNumber: 21,
+        text: 'Those that were numbered of them, even of the tribe of Reuben, were forty and six thousand and five hundred.',
+        highlightedWords: [
+          {
+            word: 'tribe',
+            strongNumber: 'H4294',
+            lemma: 'maṭṭeh',
+            meaning: 'tribe; staff/rod representing a tribe'
+          },
+          {
+            word: 'Reuben',
+            strongNumber: 'H7205',
+            lemma: 'Reʾuven',
+            meaning: 'Reuben; a son of Jacob and his tribe'
+          }
+        ]
+      },
+      {
+        verseNumber: 22,
+        text: 'Of the children of Simeon, by their generations, after their families, by the house of their fathers, those that were numbered of them, according to the number of the names, by their polls, every male from twenty years old and upward, all that were able to go forth to war;',
+        highlightedWords: [
+          {
+            word: 'children',
+            strongNumber: 'H1121',
+            lemma: 'ben',
+            meaning: 'sons, children, descendants'
+          },
+          {
+            word: 'Simeon',
+            strongNumber: 'H8095',
+            lemma: 'Shimʿon',
+            meaning: 'Simeon; one of the sons of Jacob; a tribe of Israel'
+          }
+        ]
+      },
+      {
+        verseNumber: 23,
+        text: 'Those that were numbered of them, even of the tribe of Simeon, were fifty and nine thousand and three hundred.',
+        highlightedWords: [
+          {
+            word: 'tribe',
+            strongNumber: 'H4294',
+            lemma: 'maṭṭeh',
+            meaning: 'tribe; staff/rod representing a tribe'
+          },
+          {
+            word: 'Simeon',
+            strongNumber: 'H8095',
+            lemma: 'Shimʿon',
+            meaning: 'Simeon; one of the sons of Jacob; a tribe of Israel'
+          }
+        ]
+      },
+      {
+        verseNumber: 24,
+        text: 'Of the children of Gad, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;',
+        highlightedWords: [
+          {
+            word: 'children',
+            strongNumber: 'H1121',
+            lemma: 'ben',
+            meaning: 'sons, children, descendants'
+          },
+          {
+            word: 'Gad',
+            strongNumber: 'H1410',
+            lemma: 'Gad',
+            meaning: 'Gad; a son of Jacob and his tribe'
+          }
+        ]
+      },
+      {
+        verseNumber: 25,
+        text: 'Those that were numbered of them, even of the tribe of Gad, were forty and five thousand and six hundred and fifty.',
+        highlightedWords: [
+          {
+            word: 'tribe',
+            strongNumber: 'H4294',
+            lemma: 'maṭṭeh',
+            meaning: 'tribe; staff/rod representing a tribe'
+          },
+          {
+            word: 'Gad',
+            strongNumber: 'H1410',
+            lemma: 'Gad',
+            meaning: 'Gad; a son of Jacob and his tribe'
+          }
+        ]
+      },
+      {
+        verseNumber: 26,
+        text: 'Of the children of Judah, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;',
+        highlightedWords: [
+          {
+            word: 'children',
+            strongNumber: 'H1121',
+            lemma: 'ben',
+            meaning: 'sons, children, descendants'
+          },
+          {
+            word: 'Judah',
+            strongNumber: 'H3063',
+            lemma: 'Yehudah',
+            meaning: 'Judah; a son of Jacob and the tribe descending from him'
+          }
+        ]
+      },
+      {
+        verseNumber: 27,
+        text: 'Those that were numbered of them, even of the tribe of Judah, were threescore and fourteen thousand and six hundred.',
+        highlightedWords: [
+          {
+            word: 'tribe',
+            strongNumber: 'H4294',
+            lemma: 'maṭṭeh',
+            meaning: 'tribe; staff/rod representing a tribe'
+          },
+          {
+            word: 'Judah',
+            strongNumber: 'H3063',
+            lemma: 'Yehudah',
+            meaning: 'Judah; a son of Jacob and the tribe descending from him'
+          }
+        ]
       }
-    ]
-  }
-};
