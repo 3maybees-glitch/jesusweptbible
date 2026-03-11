@@ -157,6 +157,7 @@ import { deuteronomyChapter11 } from './deuteronomy-11'
 import { deuteronomyChapter12 } from './deuteronomy-12'
 import { deuteronomyChapter13 } from './deuteronomy-13'
 import { deuteronomyChapter14 } from './deuteronomy-14'
+import { deuteronomyChapter15 } from './deuteronomy-15'
 import { markChapters18 } from './mark-1-8'
 import { markChapters916 } from './mark-9-16'
 import { lukeChapter1 } from './luke-1'
@@ -3821,7 +3822,7 @@ export const sampleChapters: Record<string, Chapter> = {
       { book: "Matthew", chapter: 8, verse: 30, text: "And there was a good way off from them an herd of many swine feeding.", highlightedWords: [{ word: "swine", strongNumber: "G5519", language: "Greek", lemma: "hys", meaning: "swine, pig, hog" }, { word: "feeding", strongNumber: "G1006", language: "Greek", lemma: "boskaō", meaning: "to feed, tend, pasture" }] },
       { book: "Matthew", chapter: 8, verse: 31, text: "So the devils besought him, saying, If thou cast us out, suffer us to go away into the herd of swine.", highlightedWords: [{ word: "devils", strongNumber: "G1142", language: "Greek", lemma: "daimon", meaning: "demon, evil spirit" }, { word: "besought", strongNumber: "G3870", language: "Greek", lemma: "parakaleo", meaning: "to beseech, entreat, implore" }] },
       { book: "Matthew", chapter: 8, verse: 32, text: "And he said unto them, Go. And when they were come out, they went into the herd of swine: and, behold, the whole herd of swine ran violently down a steep place into the sea, and perished in the waters.", highlightedWords: [{ word: "perished", strongNumber: "G599", language: "Greek", lemma: "apothnēskō", meaning: "to die, perish, pass away" }, { word: "waters", strongNumber: "G5204", language: "Greek", lemma: "hydōr", meaning: "water" }] },
-      { book: "Matthew", chapter: 8, verse: 33, text: "And they that kept them fled, and went their ways into the city, and told every thing, and what was befallen to the possessed of the devils.", highlightedWords: [{ word: "fled", strongNumber: "G5343", language: "Greek", lemma: "pheugeō", meaning: "to flee, escape" }, { word: "possessed", strongNumber: "G1139", language: "Greek", lemma: "daimonizo", meaning: "to be possessed by a demon" }] },
+      { book: "Matthew", chapter: 8, verse: 33, text: "And they that kept them fled, and went their ways into the city, and told every thing, and what was befallen to the possessed of the devils.", highlightedWords: [{ word: "fled", strongNumber: "G5343", language: "Greek", lemma: "pheuge��", meaning: "to flee, escape" }, { word: "possessed", strongNumber: "G1139", language: "Greek", lemma: "daimonizo", meaning: "to be possessed by a demon" }] },
       { book: "Matthew", chapter: 8, verse: 34, text: "And, behold, the whole city came out to meet Jesus: and when they saw him, they besought him that he would depart out of their coasts.", highlightedWords: [{ word: "besought", strongNumber: "G3870", language: "Greek", lemma: "parakaleo", meaning: "to beseech, entreat" }, { word: "depart", strongNumber: "G402", language: "Greek", lemma: "anachoreo", meaning: "to withdraw, depart" }] },
     ],
   },
@@ -4275,6 +4276,7 @@ export const sampleChapters: Record<string, Chapter> = {
   ...deuteronomyChapter12,
   ...deuteronomyChapter13,
   ...deuteronomyChapter14,
+  ...deuteronomyChapter15,
 }
 
 export function getChapter(book: string, chapter: number): Chapter | null {
