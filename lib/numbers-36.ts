@@ -2,23 +2,24 @@ export const numbersChapter36 = {
   'Numbers-36': {
     book: 'Numbers',
     chapter: 36,
-    twoWordSummary: 'Marriage Boundaries',
-    themeSummary: 'Israel safeguards tribal inheritances by directing Zelophehad\'s daughters to marry within their father\'s tribe, preserving property within tribal lines and completing the wilderness generation\'s laws.',
+    chapterTheme: {
+      twoWordSummary: 'Marriage Boundaries',
+      themeWords: [
+        {
+          word: 'inheritance',
+          strongNumber: 'H5159',
+          lemma: 'nachalah',
+          meaning: 'possession, property allotted'
+        },
+        {
+          word: 'tribe',
+          strongNumber: 'H7626',
+          lemma: 'shebet',
+          meaning: 'tribe, clan; also rod or staff'
+        }
+      ]
+    },
     sentenceDescription: 'Tribal leaders petition Moses concerning Zelophehad\'s daughters, leading to God\'s law that daughters inheriting land must marry within their tribe to preserve tribal inheritances.',
-    themeWords: [
-      {
-        word: 'inheritance',
-        strongNumber: 'H5159',
-        lemma: 'nachalah',
-        meaning: 'possession, property allotted'
-      },
-      {
-        word: 'tribe',
-        strongNumber: 'H7626',
-        lemma: 'shebet',
-        meaning: 'tribe, clan; also rod or staff'
-      }
-    ],
     verses: [
       {
         verseNumber: 1,
