@@ -123,11 +123,60 @@ import { numbersChapter11 } from './numbers-11'
 import { numbersChapter12 } from './numbers-12'
 import { numbersChapter13 } from './numbers-13'
 import { numbersChapter14 } from './numbers-14'
+import { numbersChapter15 } from './numbers-15'
+import { numbersChapter16 } from './numbers-16'
 import { numbersChapter17 } from './numbers-17'
 import { numbersChapter18 } from './numbers-18'
+import { numbersChapter19 } from './numbers-19'
+import { numbersChapter20 } from './numbers-20'
+import { numbersChapter21 } from './numbers-21'
+import { numbersChapter22 } from './numbers-22'
+import { numbersChapter23 } from './numbers-23'
+import { numbersChapter24 } from './numbers-24'
+import { numbersChapter25 } from './numbers-25'
+import { numbersChapter27 } from './numbers-27'
+import { numbersChapter29 } from './numbers-29'
+import { numbersChapter30 } from './numbers-30'
+import { numbersChapter31 } from './numbers-31'
+import { numbersChapter32 } from './numbers-32'
+import { numbersChapter33 } from './numbers-33'
 import { numbersChapter34 } from './numbers-34'
 import { numbersChapter35 } from './numbers-35'
 import { numbersChapter36 } from './numbers-36'
+import { deuteronomyChapter1 } from './deuteronomy-1'
+import { deuteronomyChapter2 } from './deuteronomy-2'
+import { deuteronomyChapter3 } from './deuteronomy-3'
+import { deuteronomyChapter4 } from './deuteronomy-4'
+import { deuteronomyChapter5 } from './deuteronomy-5'
+import { deuteronomyChapter6 } from './deuteronomy-6'
+import { deuteronomyChapter7 } from './deuteronomy-7'
+import { deuteronomyChapter8 } from './deuteronomy-8'
+import { deuteronomyChapter9 } from './deuteronomy-9'
+import { deuteronomyChapter10 } from './deuteronomy-10'
+import { deuteronomyChapter11 } from './deuteronomy-11'
+import { deuteronomyChapter12 } from './deuteronomy-12'
+import { deuteronomyChapter13 } from './deuteronomy-13'
+import { deuteronomyChapter14 } from './deuteronomy-14'
+import { deuteronomyChapter15 } from './deuteronomy-15'
+import { deuteronomyChapter16 } from './deuteronomy-16'
+import { deuteronomyChapter17 } from './deuteronomy-17'
+import { deuteronomyChapter18 } from './deuteronomy-18'
+import { deuteronomyChapter19 } from './deuteronomy-19'
+import { deuteronomyChapter20 } from './deuteronomy-20'
+import { deuteronomyChapter21 } from './deuteronomy-21'
+import { deuteronomyChapter22 } from './deuteronomy-22'
+import { deuteronomyChapter23 } from './deuteronomy-23'
+import { deuteronomyChapter24 } from './deuteronomy-24'
+import { deuteronomyChapter25 } from './deuteronomy-25'
+import { deuteronomyChapter26 } from './deuteronomy-26'
+import { deuteronomyChapter27 } from './deuteronomy-27'
+import { deuteronomyChapter28 } from './deuteronomy-28'
+import { deuteronomyChapter29 } from './deuteronomy-29'
+import { deuteronomyChapter30 } from './deuteronomy-30'
+import { deuteronomyChapter31 } from './deuteronomy-31'
+import { deuteronomyChapter32 } from './deuteronomy-32'
+import { deuteronomyChapter33 } from './deuteronomy-33'
+import { deuteronomyChapter34 } from './deuteronomy-34'
 import { markChapters18 } from './mark-1-8'
 import { markChapters916 } from './mark-9-16'
 import { lukeChapter1 } from './luke-1'
@@ -2435,7 +2484,7 @@ export const sampleChapters: Record<string, Chapter> = {
         text: "And saith unto him, All these things will I give thee, if thou wilt fall down and worship me.",
         highlightedWords: [
           { word: "worship", strongNumber: "G4352", language: "Greek", lemma: "proskuneō", meaning: "to bow down, do homage" },
-          { word: "fall", strongNumber: "G4098", language: "Greek", lemma: "piptō", meaning: "to fall, descend" },
+          { word: "fall", strongNumber: "G4098", language: "Greek", lemma: "pipt��", meaning: "to fall, descend" },
         ],
       },
       {
@@ -2757,7 +2806,7 @@ export const sampleChapters: Record<string, Chapter> = {
         verse: 15,
         text: "Neither do men light a candle, and put it under a bushel, but on a candlestick; and it giveth light unto all that are in the house.",
         highlightedWords: [
-          { word: "light", strongNumber: "G5457", language: "Greek", lemma: "phōs", meaning: "light, illumination" },
+          { word: "light", strongNumber: "G5457", language: "Greek", lemma: "ph��s", meaning: "light, illumination" },
           { word: "house", strongNumber: "G3614", language: "Greek", lemma: "oikia", meaning: "house, dwelling" },
         ],
       },
@@ -3733,7 +3782,7 @@ export const sampleChapters: Record<string, Chapter> = {
         verse: 28,
         text: "And it came to pass, when Jesus had ended these sayings, the people were astonished at his doctrine:",
         highlightedWords: [
-          { word: "astonished", strongNumber: "G1605", language: "Greek", lemma: "ekplēssō", meaning: "to amaze, astonish" },
+          { word: "astonished", strongNumber: "G1605", language: "Greek", lemma: "ekplēss��", meaning: "to amaze, astonish" },
           { word: "doctrine", strongNumber: "G1322", language: "Greek", lemma: "didachē", meaning: "teaching, doctrine" },
         ],
       },
@@ -3792,7 +3841,7 @@ export const sampleChapters: Record<string, Chapter> = {
       { book: "Matthew", chapter: 8, verse: 30, text: "And there was a good way off from them an herd of many swine feeding.", highlightedWords: [{ word: "swine", strongNumber: "G5519", language: "Greek", lemma: "hys", meaning: "swine, pig, hog" }, { word: "feeding", strongNumber: "G1006", language: "Greek", lemma: "boskaō", meaning: "to feed, tend, pasture" }] },
       { book: "Matthew", chapter: 8, verse: 31, text: "So the devils besought him, saying, If thou cast us out, suffer us to go away into the herd of swine.", highlightedWords: [{ word: "devils", strongNumber: "G1142", language: "Greek", lemma: "daimon", meaning: "demon, evil spirit" }, { word: "besought", strongNumber: "G3870", language: "Greek", lemma: "parakaleo", meaning: "to beseech, entreat, implore" }] },
       { book: "Matthew", chapter: 8, verse: 32, text: "And he said unto them, Go. And when they were come out, they went into the herd of swine: and, behold, the whole herd of swine ran violently down a steep place into the sea, and perished in the waters.", highlightedWords: [{ word: "perished", strongNumber: "G599", language: "Greek", lemma: "apothnēskō", meaning: "to die, perish, pass away" }, { word: "waters", strongNumber: "G5204", language: "Greek", lemma: "hydōr", meaning: "water" }] },
-      { book: "Matthew", chapter: 8, verse: 33, text: "And they that kept them fled, and went their ways into the city, and told every thing, and what was befallen to the possessed of the devils.", highlightedWords: [{ word: "fled", strongNumber: "G5343", language: "Greek", lemma: "pheugeō", meaning: "to flee, escape" }, { word: "possessed", strongNumber: "G1139", language: "Greek", lemma: "daimonizo", meaning: "to be possessed by a demon" }] },
+      { book: "Matthew", chapter: 8, verse: 33, text: "And they that kept them fled, and went their ways into the city, and told every thing, and what was befallen to the possessed of the devils.", highlightedWords: [{ word: "fled", strongNumber: "G5343", language: "Greek", lemma: "pheuge��", meaning: "to flee, escape" }, { word: "possessed", strongNumber: "G1139", language: "Greek", lemma: "daimonizo", meaning: "to be possessed by a demon" }] },
       { book: "Matthew", chapter: 8, verse: 34, text: "And, behold, the whole city came out to meet Jesus: and when they saw him, they besought him that he would depart out of their coasts.", highlightedWords: [{ word: "besought", strongNumber: "G3870", language: "Greek", lemma: "parakaleo", meaning: "to beseech, entreat" }, { word: "depart", strongNumber: "G402", language: "Greek", lemma: "anachoreo", meaning: "to withdraw, depart" }] },
     ],
   },
@@ -4212,11 +4261,60 @@ export const sampleChapters: Record<string, Chapter> = {
   ...numbersChapter12,
   ...numbersChapter13,
   ...numbersChapter14,
+  ...numbersChapter15,
+  ...numbersChapter16,
   ...numbersChapter17,
   ...numbersChapter18,
+  ...numbersChapter19,
+  ...numbersChapter20,
+  ...numbersChapter21,
+  ...numbersChapter22,
+  ...numbersChapter23,
+  ...numbersChapter24,
+  ...numbersChapter25,
+  ...numbersChapter27,
+  ...numbersChapter29,
+  ...numbersChapter30,
+  ...numbersChapter31,
+  ...numbersChapter32,
+  ...numbersChapter33,
   ...numbersChapter34,
   ...numbersChapter35,
   ...numbersChapter36,
+  ...deuteronomyChapter1,
+  ...deuteronomyChapter2,
+  ...deuteronomyChapter3,
+  ...deuteronomyChapter4,
+  ...deuteronomyChapter5,
+  ...deuteronomyChapter6,
+  ...deuteronomyChapter7,
+  ...deuteronomyChapter8,
+  ...deuteronomyChapter9,
+  ...deuteronomyChapter10,
+  ...deuteronomyChapter11,
+  ...deuteronomyChapter12,
+  ...deuteronomyChapter13,
+  ...deuteronomyChapter14,
+  ...deuteronomyChapter15,
+  ...deuteronomyChapter16,
+  ...deuteronomyChapter17,
+  ...deuteronomyChapter18,
+  ...deuteronomyChapter19,
+  ...deuteronomyChapter20,
+  ...deuteronomyChapter21,
+  ...deuteronomyChapter22,
+  ...deuteronomyChapter23,
+  ...deuteronomyChapter24,
+  ...deuteronomyChapter25,
+  ...deuteronomyChapter26,
+  ...deuteronomyChapter27,
+  ...deuteronomyChapter28,
+  ...deuteronomyChapter29,
+  ...deuteronomyChapter30,
+  ...deuteronomyChapter31,
+  ...deuteronomyChapter32,
+  ...deuteronomyChapter33,
+  ...deuteronomyChapter34,
 }
 
 export function getChapter(book: string, chapter: number): Chapter | null {

@@ -1,0 +1,368 @@
+export const deuteronomyChapter25 = {
+  'Deuteronomy-25': {
+    book: 'Deuteronomy',
+    chapter: 25,
+    chapterTheme: {
+      twoWordSummary: 'Justice Integrity',
+      themeWords: [
+        {
+          word: 'justice',
+          strongNumber: 'H4941',
+          lemma: 'mishpat',
+          meaning: 'judgment, justice, legal decision'
+        },
+        {
+          word: 'Amalek',
+          strongNumber: 'H6002',
+          lemma: 'Amaleq',
+          meaning: 'Amalek, a hostile nation descended from Esau'
+        }
+      ]
+    },
+    sentenceDescription: 'The chapter lays out just penalties, honest trade, levirate duty, and the command to eradicate Amalek\'s memory, emphasizing integrity and covenant faithfulness.',
+    verses: [
+      {
+        verseNumber: 1,
+        text: 'If there be a controversy between men, and they come unto judgment, that the judges may judge them; then they shall justify the righteous, and condemn the wicked.',
+        highlightedWords: [
+          {
+            word: 'judges',
+            strongNumber: 'H8199',
+            lemma: 'shaphat',
+            meaning: 'to judge; a judge who administers justice'
+          },
+          {
+            word: 'righteous',
+            strongNumber: 'H6662',
+            lemma: 'tsaddiq',
+            meaning: 'righteous, just, in the right'
+          }
+        ]
+      },
+      {
+        verseNumber: 2,
+        text: 'And it shall be, if the wicked man be worthy to be beaten, that the judge shall cause him to lie down, and to be beaten before his face, according to his fault, by a certain number.',
+        highlightedWords: [
+          {
+            word: 'beaten',
+            strongNumber: 'H5221',
+            lemma: 'nakah',
+            meaning: 'to strike, smite, beat'
+          },
+          {
+            word: 'number',
+            strongNumber: 'H4557',
+            lemma: 'mispar',
+            meaning: 'number, count, tally'
+          }
+        ]
+      },
+      {
+        verseNumber: 3,
+        text: 'Forty stripes he may give him, and not exceed: lest, if he should exceed, and beat him above these with many stripes, then thy brother should seem vile unto thee.',
+        highlightedWords: [
+          {
+            word: 'stripes',
+            strongNumber: 'H4347',
+            lemma: 'makkah',
+            meaning: 'a blow, wound, stroke; a stripe'
+          },
+          {
+            word: 'brother',
+            strongNumber: 'H251',
+            lemma: 'ach',
+            meaning: 'brother, kinsman'
+          }
+        ]
+      },
+      {
+        verseNumber: 4,
+        text: 'Thou shalt not muzzle the ox when he treadeth out the corn.',
+        highlightedWords: [
+          {
+            word: 'muzzle',
+            strongNumber: 'H2629',
+            lemma: 'chasam',
+            meaning: 'to muzzle, bind the mouth'
+          },
+          {
+            word: 'ox',
+            strongNumber: 'H7794',
+            lemma: 'shor',
+            meaning: 'an ox, bull'
+          }
+        ]
+      },
+      {
+        verseNumber: 5,
+        text: 'If brethren dwell together, and one of them die, and have no child, the wife of the dead shall not marry without unto a stranger: her husband\'s brother shall go in unto her, and take her to him to wife, and perform the duty of an husband\'s brother unto her.',
+        highlightedWords: [
+          {
+            word: 'brethren',
+            strongNumber: 'H251',
+            lemma: 'ach',
+            meaning: 'brothers, kinsmen'
+          },
+          {
+            word: 'husband\'s brother',
+            strongNumber: 'H2993',
+            lemma: 'yabam',
+            meaning: 'a husband\'s brother; levir'
+          }
+        ]
+      },
+      {
+        verseNumber: 6,
+        text: 'And it shall be, that the firstborn which she beareth shall succeed in the name of his brother which is dead, that his name be not put out of Israel.',
+        highlightedWords: [
+          {
+            word: 'firstborn',
+            strongNumber: 'H1060',
+            lemma: 'bekor',
+            meaning: 'firstborn, firstborn son'
+          },
+          {
+            word: 'name',
+            strongNumber: 'H8034',
+            lemma: 'shem',
+            meaning: 'name, reputation, memorial'
+          }
+        ]
+      },
+      {
+        verseNumber: 7,
+        text: 'And if the man like not to take his brother\'s wife, then let his brother\'s wife go up to the gate unto the elders, and say, My husband\'s brother refuseth to raise up unto his brother a name in Israel, he will not perform the duty of my husband\'s brother.',
+        highlightedWords: [
+          {
+            word: 'elders',
+            strongNumber: 'H2205',
+            lemma: 'zaqen',
+            meaning: 'elder, aged one; community leader'
+          },
+          {
+            word: 'refuseth',
+            strongNumber: 'H3985',
+            lemma: 'ma\'en',
+            meaning: 'to refuse, be unwilling'
+          }
+        ]
+      },
+      {
+        verseNumber: 8,
+        text: 'Then the elders of his city shall call him, and speak unto him: and if he stand to it, and say, I like not to take her;',
+        highlightedWords: [
+          {
+            word: 'city',
+            strongNumber: 'H5892',
+            lemma: 'ir',
+            meaning: 'city, town'
+          },
+          {
+            word: 'speak',
+            strongNumber: 'H1696',
+            lemma: 'dabar',
+            meaning: 'to speak, declare'
+          }
+        ]
+      },
+      {
+        verseNumber: 9,
+        text: 'Then shall his brother\'s wife come unto him in the presence of the elders, and loose his shoe from off his foot, and spit in his face, and shall answer and say, So shall it be done unto that man that will not build up his brother\'s house.',
+        highlightedWords: [
+          {
+            word: 'shoe',
+            strongNumber: 'H5275',
+            lemma: 'na\'al',
+            meaning: 'sandal, shoe'
+          },
+          {
+            word: 'house',
+            strongNumber: 'H1004',
+            lemma: 'bayit',
+            meaning: 'house, household, family'
+          }
+        ]
+      },
+      {
+        verseNumber: 10,
+        text: 'And his name shall be called in Israel, The house of him that hath his shoe loosed.',
+        highlightedWords: [
+          {
+            word: 'name',
+            strongNumber: 'H8034',
+            lemma: 'shem',
+            meaning: 'name, reputation, memorial'
+          },
+          {
+            word: 'Israel',
+            strongNumber: 'H3478',
+            lemma: 'Yisrael',
+            meaning: 'Israel'
+          }
+        ]
+      },
+      {
+        verseNumber: 11,
+        text: 'When men strive together one with another, and the wife of the one draweth near for to deliver her husband out of the hand of him that smiteth him, and putteth forth her hand, and taketh him by the secrets:',
+        highlightedWords: [
+          {
+            word: 'hand',
+            strongNumber: 'H3027',
+            lemma: 'yad',
+            meaning: 'hand, power'
+          },
+          {
+            word: 'smiteth',
+            strongNumber: 'H5221',
+            lemma: 'nakah',
+            meaning: 'to strike, smite'
+          }
+        ]
+      },
+      {
+        verseNumber: 12,
+        text: 'Then thou shalt cut off her hand, thine eye shall not pity her.',
+        highlightedWords: [
+          {
+            word: 'cut off',
+            strongNumber: 'H3772',
+            lemma: 'karath',
+            meaning: 'to cut off, cut down'
+          },
+          {
+            word: 'pity',
+            strongNumber: 'H2347',
+            lemma: 'chus',
+            meaning: 'to pity, spare, have compassion'
+          }
+        ]
+      },
+      {
+        verseNumber: 13,
+        text: 'Thou shalt not have in thy bag divers weights, a great and a small.',
+        highlightedWords: [
+          {
+            word: 'bag',
+            strongNumber: 'H3599',
+            lemma: 'kis',
+            meaning: 'bag, purse'
+          },
+          {
+            word: 'weights',
+            strongNumber: 'H68',
+            lemma: 'eben',
+            meaning: 'stone; used of stone weights'
+          }
+        ]
+      },
+      {
+        verseNumber: 14,
+        text: 'Thou shalt not have in thine house divers measures, a great and a small.',
+        highlightedWords: [
+          {
+            word: 'house',
+            strongNumber: 'H1004',
+            lemma: 'bayit',
+            meaning: 'house, household'
+          },
+          {
+            word: 'measures',
+            strongNumber: 'H374',
+            lemma: 'ephah',
+            meaning: 'an ephah; a dry measure'
+          }
+        ]
+      },
+      {
+        verseNumber: 15,
+        text: 'But thou shalt have a perfect and just weight, a perfect and just measure, that thy days may be lengthened in the land which the LORD thy God giveth thee.',
+        highlightedWords: [
+          {
+            word: 'perfect',
+            strongNumber: 'H8003',
+            lemma: 'shalem',
+            meaning: 'complete, whole, sound'
+          },
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'the personal name of Israel\'s God'
+          }
+        ]
+      },
+      {
+        verseNumber: 16,
+        text: 'For all that do such things, and all that do unrighteously, are an abomination unto the LORD thy God.',
+        highlightedWords: [
+          {
+            word: 'abomination',
+            strongNumber: 'H8441',
+            lemma: 'to\'evah',
+            meaning: 'abomination, detestable thing'
+          },
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'the personal name of Israel\'s God'
+          }
+        ]
+      },
+      {
+        verseNumber: 17,
+        text: 'Remember what Amalek did unto thee by the way, when ye were come forth out of Egypt;',
+        highlightedWords: [
+          {
+            word: 'Remember',
+            strongNumber: 'H2142',
+            lemma: 'zakar',
+            meaning: 'to remember, call to mind'
+          },
+          {
+            word: 'Amalek',
+            strongNumber: 'H6002',
+            lemma: 'Amaleq',
+            meaning: 'Amalek, a hostile nation descended from Esau'
+          }
+        ]
+      },
+      {
+        verseNumber: 18,
+        text: 'How he met thee by the way, and smote the hindmost of thee, even all that were feeble behind thee, when thou wast faint and weary; and he feared not God.',
+        highlightedWords: [
+          {
+            word: 'smote',
+            strongNumber: 'H5221',
+            lemma: 'nakah',
+            meaning: 'to strike, smite'
+          },
+          {
+            word: 'God',
+            strongNumber: 'H430',
+            lemma: 'Elohim',
+            meaning: 'God, deity'
+          }
+        ]
+      },
+      {
+        verseNumber: 19,
+        text: 'Therefore it shall be, when the LORD thy God hath given thee rest from all thine enemies round about, in the land which the LORD thy God giveth thee for an inheritance to possess it, that thou shalt blot out the remembrance of Amalek from under heaven; thou shalt not forget it.',
+        highlightedWords: [
+          {
+            word: 'blot out',
+            strongNumber: 'H4229',
+            lemma: 'machah',
+            meaning: 'to wipe, blot out, erase'
+          },
+          {
+            word: 'remembrance',
+            strongNumber: 'H2143',
+            lemma: 'zeker',
+            meaning: 'remembrance, memorial'
+          }
+        ]
+      }
+    ]
+  }
+};

@@ -1,0 +1,854 @@
+export const deuteronomyChapter1 = {
+  'Deuteronomy-1': {
+    book: 'Deuteronomy',
+    chapter: 1,
+    chapterTheme: {
+      twoWordSummary: 'Covenant Review',
+      themeWords: [
+        {
+          word: 'Moses',
+          strongNumber: 'H4872',
+          lemma: 'Mosheh',
+          meaning: 'Moses, the leader of Israel'
+        },
+        {
+          word: 'LORD',
+          strongNumber: 'H3068',
+          lemma: 'YHWH (Yehovah)',
+          meaning: 'The personal name of Israel\'s God'
+        }
+      ]
+    },
+    sentenceDescription: 'Moses recounts Israel\'s journey from Horeb, appoints leaders, recalls the spies and rebellion, and explains God\'s judgment and guidance toward the promised land.',
+    verses: [
+      {
+        verseNumber: 1,
+        text: 'These be the words which Moses spake unto all Israel on this side Jordan in the wilderness, in the plain over against the Red sea, between Paran, and Tophel, and Laban, and Hazeroth, and Dizahab.',
+        highlightedWords: [
+          {
+            word: 'Moses',
+            strongNumber: 'H4872',
+            lemma: 'Mosheh',
+            meaning: 'Moses, the leader of Israel'
+          },
+          {
+            word: 'Israel',
+            strongNumber: 'H3478',
+            lemma: 'Yisra\'el',
+            meaning: 'Israel, the covenant people'
+          }
+        ]
+      },
+      {
+        verseNumber: 2,
+        text: '(There are eleven days\' journey from Horeb by the way of mount Seir unto Kadeshbarnea.)',
+        highlightedWords: [
+          {
+            word: 'Horeb',
+            strongNumber: 'H2722',
+            lemma: 'Choreb',
+            meaning: 'Horeb, the mountain in Sinai'
+          },
+          {
+            word: 'mount',
+            strongNumber: 'H2022',
+            lemma: 'har',
+            meaning: 'mountain, hill-country'
+          }
+        ]
+      },
+      {
+        verseNumber: 3,
+        text: 'And it came to pass in the fortieth year, in the eleventh month, on the first day of the month, that Moses spake unto the children of Israel, according unto all that the LORD had given him in commandment unto them;',
+        highlightedWords: [
+          {
+            word: 'Moses',
+            strongNumber: 'H4872',
+            lemma: 'Mosheh',
+            meaning: 'Moses, the leader of Israel'
+          },
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH (Yehovah)',
+            meaning: 'The personal name of Israel\'s God'
+          }
+        ]
+      },
+      {
+        verseNumber: 4,
+        text: 'After he had slain Sihon the king of the Amorites, which dwelt in Heshbon, and Og the king of Bashan, which dwelt at Ashtaroth in Edrei:',
+        highlightedWords: [
+          {
+            word: 'Amorites',
+            strongNumber: 'H567',
+            lemma: 'Emori',
+            meaning: 'Amorites, a Canaanite people'
+          },
+          {
+            word: 'king',
+            strongNumber: 'H4428',
+            lemma: 'melekh',
+            meaning: 'king, ruler'
+          }
+        ]
+      },
+      {
+        verseNumber: 5,
+        text: 'On this side Jordan, in the land of Moab, began Moses to declare this law, saying,',
+        highlightedWords: [
+          {
+            word: 'Moab',
+            strongNumber: 'H4124',
+            lemma: 'Mo\'av',
+            meaning: 'Moab, territory east of the Jordan'
+          },
+          {
+            word: 'law',
+            strongNumber: 'H8451',
+            lemma: 'torah',
+            meaning: 'instruction, law'
+          }
+        ]
+      },
+      {
+        verseNumber: 6,
+        text: 'The LORD our God spake unto us in Horeb, saying, Ye have dwelt long enough in this mount:',
+        highlightedWords: [
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH (Yehovah)',
+            meaning: 'The personal name of Israel\'s God'
+          },
+          {
+            word: 'Horeb',
+            strongNumber: 'H2722',
+            lemma: 'Choreb',
+            meaning: 'Horeb, the mountain in Sinai'
+          }
+        ]
+      },
+      {
+        verseNumber: 7,
+        text: 'Turn you, and take your journey, and go to the mount of the Amorites, and unto all the places nigh thereunto, in the plain, in the hills, and in the vale, and in the south, and by the sea side, to the land of the Canaanites, and unto Lebanon, unto the great river, the river Euphrates.',
+        highlightedWords: [
+          {
+            word: 'Canaanites',
+            strongNumber: 'H3669',
+            lemma: 'Kena\'ani',
+            meaning: 'Canaanites, inhabitants of Canaan'
+          },
+          {
+            word: 'Euphrates',
+            strongNumber: 'H6578',
+            lemma: 'Perath',
+            meaning: 'Euphrates River'
+          }
+        ]
+      },
+      {
+        verseNumber: 8,
+        text: 'Behold, I have set the land before you: go in and possess the land which the LORD sware unto your fathers, Abraham, Isaac, and Jacob, to give unto them and to their seed after them.',
+        highlightedWords: [
+          {
+            word: 'land',
+            strongNumber: 'H776',
+            lemma: 'erets',
+            meaning: 'land, earth, territory'
+          },
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH (Yehovah)',
+            meaning: 'The personal name of Israel\'s God'
+          }
+        ]
+      },
+      {
+        verseNumber: 9,
+        text: 'And I spake unto you at that time, saying, I am not able to bear you myself alone:',
+        highlightedWords: [
+          {
+            word: 'spake',
+            strongNumber: 'H1696',
+            lemma: 'dabar',
+            meaning: 'to speak, declare'
+          },
+          {
+            word: 'bear',
+            strongNumber: 'H5375',
+            lemma: 'nasa\'',
+            meaning: 'to lift, carry, bear'
+          }
+        ]
+      },
+      {
+        verseNumber: 10,
+        text: 'The LORD your God hath multiplied you, and, behold, ye are this day as the stars of heaven for multitude.',
+        highlightedWords: [
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH (Yehovah)',
+            meaning: 'The personal name of Israel\'s God'
+          },
+          {
+            word: 'heaven',
+            strongNumber: 'H8064',
+            lemma: 'shamayim',
+            meaning: 'heavens, sky'
+          }
+        ]
+      },
+      {
+        verseNumber: 11,
+        text: '(The LORD God of your fathers make you a thousand times so many more as ye are, and bless you, as he hath promised you!)',
+        highlightedWords: [
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH (Yehovah)',
+            meaning: 'The personal name of Israel\'s God'
+          },
+          {
+            word: 'bless',
+            strongNumber: 'H1288',
+            lemma: 'barak',
+            meaning: 'to bless'
+          }
+        ]
+      },
+      {
+        verseNumber: 12,
+        text: 'How can I myself alone bear your cumbrance, and your burden, and your strife?',
+        highlightedWords: [
+          {
+            word: 'burden',
+            strongNumber: 'H4853',
+            lemma: 'massa\'',
+            meaning: 'load, burden'
+          },
+          {
+            word: 'strife',
+            strongNumber: 'H7379',
+            lemma: 'riv',
+            meaning: 'dispute, strife'
+          }
+        ]
+      },
+      {
+        verseNumber: 13,
+        text: 'Take you wise men, and understanding, and known among your tribes, and I will make them rulers over you.',
+        highlightedWords: [
+          {
+            word: 'wise',
+            strongNumber: 'H2450',
+            lemma: 'chakam',
+            meaning: 'wise, skillful'
+          },
+          {
+            word: 'tribes',
+            strongNumber: 'H7626',
+            lemma: 'shebet',
+            meaning: 'tribe, clan, staff'
+          }
+        ]
+      },
+      {
+        verseNumber: 14,
+        text: 'And ye answered me, and said, The thing which thou hast spoken is good for us to do.',
+        highlightedWords: [
+          {
+            word: 'spoken',
+            strongNumber: 'H1696',
+            lemma: 'dabar',
+            meaning: 'to speak, declare'
+          },
+          {
+            word: 'good',
+            strongNumber: 'H2896',
+            lemma: 'tov',
+            meaning: 'good, pleasant'
+          }
+        ]
+      },
+      {
+        verseNumber: 15,
+        text: 'So I took the chief of your tribes, wise men, and known, and made them heads over you, captains over thousands, and captains over hundreds, and captains over fifties, and captains over tens, and officers among your tribes.',
+        highlightedWords: [
+          {
+            word: 'captains',
+            strongNumber: 'H8269',
+            lemma: 'sar',
+            meaning: 'prince, ruler, captain'
+          },
+          {
+            word: 'tribes',
+            strongNumber: 'H7626',
+            lemma: 'shebet',
+            meaning: 'tribe, clan, staff'
+          }
+        ]
+      },
+      {
+        verseNumber: 16,
+        text: 'And I charged your judges at that time, saying, Hear the causes between your brethren, and judge righteously between every man and his brother, and the stranger that is with him.',
+        highlightedWords: [
+          {
+            word: 'judges',
+            strongNumber: 'H8199',
+            lemma: 'shaphat',
+            meaning: 'judge, one who decides'
+          },
+          {
+            word: 'stranger',
+            strongNumber: 'H1616',
+            lemma: 'ger',
+            meaning: 'sojourner, resident alien'
+          }
+        ]
+      },
+      {
+        verseNumber: 17,
+        text: 'Ye shall not respect persons in judgment; but ye shall hear the small as well as the great; ye shall not be afraid of the face of man; for the judgment is God\'s: and the cause that is too hard for you, bring it unto me, and I will hear it.',
+        highlightedWords: [
+          {
+            word: 'judgment',
+            strongNumber: 'H4941',
+            lemma: 'mishpat',
+            meaning: 'justice, judgment'
+          },
+          {
+            word: 'God',
+            strongNumber: 'H430',
+            lemma: 'Elohim',
+            meaning: 'God'
+          }
+        ]
+      },
+      {
+        verseNumber: 18,
+        text: 'And I commanded you at that time all the things which ye should do.',
+        highlightedWords: [
+          {
+            word: 'commanded',
+            strongNumber: 'H6680',
+            lemma: 'tsavah',
+            meaning: 'to command, charge'
+          },
+          {
+            word: 'time',
+            strongNumber: 'H6256',
+            lemma: '\'eth',
+            meaning: 'time, season'
+          }
+        ]
+      },
+      {
+        verseNumber: 19,
+        text: 'And when we departed from Horeb, we went through all that great and terrible wilderness, which ye saw by the way of the mountain of the Amorites, as the LORD our God commanded us; and we came to Kadeshbarnea.',
+        highlightedWords: [
+          {
+            word: 'wilderness',
+            strongNumber: 'H4057',
+            lemma: 'midbar',
+            meaning: 'wilderness, desert'
+          },
+          {
+            word: 'Amorites',
+            strongNumber: 'H567',
+            lemma: 'Emori',
+            meaning: 'Amorites, a Canaanite people'
+          }
+        ]
+      },
+      {
+        verseNumber: 20,
+        text: 'And I said unto you, Ye are come unto the mountain of the Amorites, which the LORD our God doth give unto us.',
+        highlightedWords: [
+          {
+            word: 'mountain',
+            strongNumber: 'H2022',
+            lemma: 'har',
+            meaning: 'mountain, hill'
+          },
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH (Yehovah)',
+            meaning: 'The personal name of Israel\'s God'
+          }
+        ]
+      },
+      {
+        verseNumber: 21,
+        text: 'Behold, the LORD thy God hath set the land before thee: go up and possess it, as the LORD God of thy fathers hath said unto thee; fear not, neither be discouraged.',
+        highlightedWords: [
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH (Yehovah)',
+            meaning: 'The personal name of Israel\'s God'
+          },
+          {
+            word: 'land',
+            strongNumber: 'H776',
+            lemma: 'erets',
+            meaning: 'land, earth, territory'
+          }
+        ]
+      },
+      {
+        verseNumber: 22,
+        text: 'And ye came near unto me every one of you, and said, We will send men before us, and they shall search us out the land, and bring us word again by what way we must go up, and into what cities we shall come.',
+        highlightedWords: [
+          {
+            word: 'send',
+            strongNumber: 'H7971',
+            lemma: 'shalach',
+            meaning: 'to send, dispatch'
+          },
+          {
+            word: 'cities',
+            strongNumber: 'H5892',
+            lemma: '\'ir',
+            meaning: 'city, town'
+          }
+        ]
+      },
+      {
+        verseNumber: 23,
+        text: 'And the saying pleased me well: and I took twelve men of you, one of a tribe:',
+        highlightedWords: [
+          {
+            word: 'took',
+            strongNumber: 'H3947',
+            lemma: 'laqach',
+            meaning: 'to take, seize'
+          },
+          {
+            word: 'tribe',
+            strongNumber: 'H7626',
+            lemma: 'shebet',
+            meaning: 'tribe, clan, staff'
+          }
+        ]
+      },
+      {
+        verseNumber: 24,
+        text: 'And they turned and went up into the mountain, and came unto the valley of Eshcol, and searched it out.',
+        highlightedWords: [
+          {
+            word: 'mountain',
+            strongNumber: 'H2022',
+            lemma: 'har',
+            meaning: 'mountain, hill'
+          },
+          {
+            word: 'valley',
+            strongNumber: 'H5158',
+            lemma: 'nachal',
+            meaning: 'valley, wadi, brook'
+          }
+        ]
+      },
+      {
+        verseNumber: 25,
+        text: 'And they took of the fruit of the land in their hands, and brought it down unto us, and brought us word again, and said, It is a good land which the LORD our God doth give us.',
+        highlightedWords: [
+          {
+            word: 'fruit',
+            strongNumber: 'H6529',
+            lemma: 'peri',
+            meaning: 'fruit, produce'
+          },
+          {
+            word: 'land',
+            strongNumber: 'H776',
+            lemma: 'erets',
+            meaning: 'land, earth, territory'
+          }
+        ]
+      },
+      {
+        verseNumber: 26,
+        text: 'Notwithstanding ye would not go up, but rebelled against the commandment of the LORD your God:',
+        highlightedWords: [
+          {
+            word: 'rebelled',
+            strongNumber: 'H4784',
+            lemma: 'marah',
+            meaning: 'to be rebellious'
+          },
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'The personal name of Israel\'s God'
+          }
+        ]
+      },
+      {
+        verseNumber: 27,
+        text: 'And ye murmured in your tents, and said, Because the LORD hated us, he hath brought us forth out of the land of Egypt, to deliver us into the hand of the Amorites, to destroy us.',
+        highlightedWords: [
+          {
+            word: 'Egypt',
+            strongNumber: 'H4714',
+            lemma: 'Mitsrayim',
+            meaning: 'Egypt'
+          },
+          {
+            word: 'Amorites',
+            strongNumber: 'H567',
+            lemma: 'Emori',
+            meaning: 'Amorites, a Canaanite people'
+          }
+        ]
+      },
+      {
+        verseNumber: 28,
+        text: 'Whither shall we go up? our brethren have discouraged our heart, saying, The people is greater and taller than we; the cities are great and walled up to heaven; and moreover we have seen the sons of the Anakims there.',
+        highlightedWords: [
+          {
+            word: 'people',
+            strongNumber: 'H5971',
+            lemma: 'am',
+            meaning: 'people, nation'
+          },
+          {
+            word: 'cities',
+            strongNumber: 'H5892',
+            lemma: 'iyr',
+            meaning: 'city, town'
+          }
+        ]
+      },
+      {
+        verseNumber: 29,
+        text: 'Then I said unto you, Dread not, neither be afraid of them.',
+        highlightedWords: [
+          {
+            word: 'said',
+            strongNumber: 'H559',
+            lemma: 'amar',
+            meaning: 'to say, speak'
+          },
+          {
+            word: 'afraid',
+            strongNumber: 'H3372',
+            lemma: 'yare',
+            meaning: 'to fear, be afraid'
+          }
+        ]
+      },
+      {
+        verseNumber: 30,
+        text: 'The LORD your God which goeth before you, he shall fight for you, according to all that he did for you in Egypt before your eyes;',
+        highlightedWords: [
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'The personal name of Israel\'s God'
+          },
+          {
+            word: 'Egypt',
+            strongNumber: 'H4714',
+            lemma: 'Mitsrayim',
+            meaning: 'Egypt'
+          }
+        ]
+      },
+      {
+        verseNumber: 31,
+        text: 'And in the wilderness, where thou hast seen how that the LORD thy God bare thee, as a man doth bear his son, in all the way that ye went, until ye came into this place.',
+        highlightedWords: [
+          {
+            word: 'wilderness',
+            strongNumber: 'H4057',
+            lemma: 'midbar',
+            meaning: 'wilderness, desert'
+          },
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'The personal name of Israel\'s God'
+          }
+        ]
+      },
+      {
+        verseNumber: 32,
+        text: 'Yet in this thing ye did not believe the LORD your God,',
+        highlightedWords: [
+          {
+            word: 'believe',
+            strongNumber: 'H539',
+            lemma: 'aman',
+            meaning: 'to trust, believe'
+          },
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'The personal name of Israel\'s God'
+          }
+        ]
+      },
+      {
+        verseNumber: 33,
+        text: 'Who went in the way before you, to search you out a place to pitch your tents in, in fire by night, to shew you by what way ye should go, and in a cloud by day.',
+        highlightedWords: [
+          {
+            word: 'fire',
+            strongNumber: 'H784',
+            lemma: 'esh',
+            meaning: 'fire'
+          },
+          {
+            word: 'cloud',
+            strongNumber: 'H6051',
+            lemma: 'anan',
+            meaning: 'cloud, covering'
+          }
+        ]
+      },
+      {
+        verseNumber: 34,
+        text: 'And the LORD heard the voice of your words, and was wroth, and sware, saying,',
+        highlightedWords: [
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'The personal name of Israel\'s God'
+          },
+          {
+            word: 'sware',
+            strongNumber: 'H7650',
+            lemma: 'shaba',
+            meaning: 'to swear, take an oath'
+          }
+        ]
+      },
+      {
+        verseNumber: 35,
+        text: 'Surely there shall not one of these men of this evil generation see that good land, which I sware to give unto your fathers,',
+        highlightedWords: [
+          {
+            word: 'generation',
+            strongNumber: 'H1755',
+            lemma: 'dor',
+            meaning: 'generation, age'
+          },
+          {
+            word: 'land',
+            strongNumber: 'H776',
+            lemma: 'erets',
+            meaning: 'land, earth, territory'
+          }
+        ]
+      },
+      {
+        verseNumber: 36,
+        text: 'Save Caleb the son of Jephunneh; he shall see it, and to him will I give the land that he hath trodden upon, and to his children, because he hath wholly followed the LORD.',
+        highlightedWords: [
+          {
+            word: 'Caleb',
+            strongNumber: 'H3612',
+            lemma: 'Kalev',
+            meaning: 'Caleb, a faithful spy of Judah'
+          },
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'The personal name of Israel\'s God'
+          }
+        ]
+      },
+      {
+        verseNumber: 37,
+        text: 'Also the LORD was angry with me for your sakes, saying, Thou also shalt not go in thither.',
+        highlightedWords: [
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'The personal name of Israel\'s God'
+          },
+          {
+            word: 'angry',
+            strongNumber: 'H599',
+            lemma: 'anaph',
+            meaning: 'to be angry'
+          }
+        ]
+      },
+      {
+        verseNumber: 38,
+        text: 'But Joshua the son of Nun, which standeth before thee, he shall go in thither: encourage him: for he shall cause Israel to inherit it.',
+        highlightedWords: [
+          {
+            word: 'Joshua',
+            strongNumber: 'H3091',
+            lemma: 'Yehoshua',
+            meaning: 'Joshua, the successor of Moses'
+          },
+          {
+            word: 'Israel',
+            strongNumber: 'H3478',
+            lemma: 'Yisrael',
+            meaning: 'Israel, the covenant people'
+          }
+        ]
+      },
+      {
+        verseNumber: 39,
+        text: 'Moreover your little ones, which ye said should be a prey, and your children, which in that day had no knowledge between good and evil, they shall go in thither, and unto them will I give it, and they shall possess it.',
+        highlightedWords: [
+          {
+            word: 'children',
+            strongNumber: 'H1121',
+            lemma: 'ben',
+            meaning: 'son, child, descendant'
+          },
+          {
+            word: 'evil',
+            strongNumber: 'H7451',
+            lemma: 'ra',
+            meaning: 'evil, bad, adversity'
+          }
+        ]
+      },
+      {
+        verseNumber: 40,
+        text: 'But as for you, turn you, and take your journey into the wilderness by the way of the Red sea.',
+        highlightedWords: [
+          {
+            word: 'wilderness',
+            strongNumber: 'H4057',
+            lemma: 'midbar',
+            meaning: 'wilderness, desert'
+          },
+          {
+            word: 'sea',
+            strongNumber: 'H3220',
+            lemma: 'yam',
+            meaning: 'sea'
+          }
+        ]
+      },
+      {
+        verseNumber: 41,
+        text: 'Then ye answered and said unto me, We have sinned against the LORD, we will go up and fight, according to all that the LORD our God commanded us. And when ye had girded on every man his weapons of war, ye were ready to go up into the hill.',
+        highlightedWords: [
+          {
+            word: 'sinned',
+            strongNumber: 'H2398',
+            lemma: 'chata',
+            meaning: 'to sin, miss the mark'
+          },
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'The personal name of Israel\'s God'
+          }
+        ]
+      },
+      {
+        verseNumber: 42,
+        text: 'And the LORD said unto me, Say unto them, Go not up, neither fight; for I am not among you; lest ye be smitten before your enemies.',
+        highlightedWords: [
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'The personal name of Israel\'s God'
+          },
+          {
+            word: 'enemies',
+            strongNumber: 'H341',
+            lemma: 'oyev',
+            meaning: 'enemy, foe'
+          }
+        ]
+      },
+      {
+        verseNumber: 43,
+        text: 'So I spake unto you; and ye would not hear, but rebelled against the commandment of the LORD, and went presumptuously up into the hill.',
+        highlightedWords: [
+          {
+            word: 'rebelled',
+            strongNumber: 'H4784',
+            lemma: 'marah',
+            meaning: 'to be rebellious'
+          },
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'The personal name of Israel\'s God'
+          }
+        ]
+      },
+      {
+        verseNumber: 44,
+        text: 'And the Amorites, which dwelt in that mountain, came out against you, and chased you, as bees do, and destroyed you in Seir, even unto Hormah.',
+        highlightedWords: [
+          {
+            word: 'Amorites',
+            strongNumber: 'H567',
+            lemma: 'Emori',
+            meaning: 'Amorites, a Canaanite people'
+          },
+          {
+            word: 'bees',
+            strongNumber: 'H1682',
+            lemma: 'deborah',
+            meaning: 'bee'
+          }
+        ]
+      },
+      {
+        verseNumber: 45,
+        text: 'And ye returned and wept before the LORD; but the LORD would not hearken to your voice, nor give ear unto you.',
+        highlightedWords: [
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'The personal name of Israel\'s God'
+          },
+          {
+            word: 'hearken',
+            strongNumber: 'H8085',
+            lemma: 'shama',
+            meaning: 'to hear, listen, obey'
+          }
+        ]
+      },
+      {
+        verseNumber: 46,
+        text: 'So ye abode in Kadesh many days, according unto the days that ye abode there.',
+        highlightedWords: [
+          {
+            word: 'Kadesh',
+            strongNumber: 'H6946',
+            lemma: 'Qadesh',
+            meaning: 'Kadesh, a place in the wilderness'
+          },
+          {
+            word: 'days',
+            strongNumber: 'H3117',
+            lemma: 'yom',
+            meaning: 'day, days, time'
+          }
+        ]
+      }
+    ]
+  }
+};

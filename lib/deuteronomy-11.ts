@@ -1,0 +1,602 @@
+export const deuteronomyChapter11 = {
+  'Deuteronomy-11': {
+    book: 'Deuteronomy',
+    chapter: 11,
+    chapterTheme: {
+      twoWordSummary: 'Love Obedience',
+      themeWords: [
+        {
+          word: 'love',
+          strongNumber: 'H157',
+          lemma: 'ahab',
+          meaning: 'to love, have affection for'
+        },
+        {
+          word: 'obey',
+          strongNumber: 'H8085',
+          lemma: 'shama',
+          meaning: 'to hear, listen to, obey'
+        }
+      ]
+    },
+    sentenceDescription: 'Moses calls Israel to love and obey the LORD, remember His mighty acts, avoid idolatry, and thus receive blessing and longevity in the promised land.',
+    verses: [
+      {
+        verseNumber: 1,
+        text: 'Therefore thou shalt love the LORD thy God, and keep his charge, and his statutes, and his judgments, and his commandments, alway.',
+        highlightedWords: [
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'the personal name of the God of Israel'
+          },
+          {
+            word: 'commandments',
+            strongNumber: 'H4687',
+            lemma: 'mitsvah',
+            meaning: 'command, ordinance, precept'
+          }
+        ]
+      },
+      {
+        verseNumber: 2,
+        text: 'And know ye this day: for I speak not with your children which have not known, and which have not seen the chastisement of the LORD your God, his greatness, his mighty hand, and his stretched out arm,',
+        highlightedWords: [
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'the personal name of the God of Israel'
+          },
+          {
+            word: 'hand',
+            strongNumber: 'H3027',
+            lemma: 'yad',
+            meaning: 'hand, strength, power'
+          }
+        ]
+      },
+      {
+        verseNumber: 3,
+        text: 'And his miracles, and his acts, which he did in the midst of Egypt unto Pharaoh the king of Egypt, and unto all his land;',
+        highlightedWords: [
+          {
+            word: 'miracles',
+            strongNumber: 'H4159',
+            lemma: 'mopheth',
+            meaning: 'wonder, sign, portent'
+          },
+          {
+            word: 'Egypt',
+            strongNumber: 'H4714',
+            lemma: 'Mitsrayim',
+            meaning: 'Egypt'
+          }
+        ]
+      },
+      {
+        verseNumber: 4,
+        text: 'And what he did unto the army of Egypt, unto their horses, and to their chariots; how he made the water of the Red sea to overflow them as they pursued after you, and how the LORD hath destroyed them unto this day;',
+        highlightedWords: [
+          {
+            word: 'Egypt',
+            strongNumber: 'H4714',
+            lemma: 'Mitsrayim',
+            meaning: 'Egypt'
+          },
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'the personal name of the God of Israel'
+          }
+        ]
+      },
+      {
+        verseNumber: 5,
+        text: 'And what he did unto you in the wilderness, until ye came into this place;',
+        highlightedWords: [
+          {
+            word: 'wilderness',
+            strongNumber: 'H4057',
+            lemma: 'midbar',
+            meaning: 'wilderness, desert'
+          },
+          {
+            word: 'place',
+            strongNumber: 'H4725',
+            lemma: 'maqom',
+            meaning: 'place, locality'
+          }
+        ]
+      },
+      {
+        verseNumber: 6,
+        text: 'And what he did unto Dathan and Abiram, the sons of Eliab, the son of Reuben: how the earth opened her mouth, and swallowed them up, and their households, and their tents, and all the substance that was in their possession, in the midst of all Israel:',
+        highlightedWords: [
+          {
+            word: 'earth',
+            strongNumber: 'H776',
+            lemma: 'erets',
+            meaning: 'land, earth'
+          },
+          {
+            word: 'sons',
+            strongNumber: 'H1121',
+            lemma: 'ben',
+            meaning: 'son, child, descendant'
+          }
+        ]
+      },
+      {
+        verseNumber: 7,
+        text: 'But your eyes have seen all the great acts of the LORD which he did.',
+        highlightedWords: [
+          {
+            word: 'eyes',
+            strongNumber: 'H5869',
+            lemma: 'ayin',
+            meaning: 'eye; sight'
+          },
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'the personal name of the God of Israel'
+          }
+        ]
+      },
+      {
+        verseNumber: 8,
+        text: 'Therefore shall ye keep all the commandments which I command you this day, that ye may be strong, and go in and possess the land, whither ye go to possess it;',
+        highlightedWords: [
+          {
+            word: 'commandments',
+            strongNumber: 'H4687',
+            lemma: 'mitsvah',
+            meaning: 'command, ordinance, precept'
+          },
+          {
+            word: 'land',
+            strongNumber: 'H776',
+            lemma: 'erets',
+            meaning: 'land, earth'
+          }
+        ]
+      },
+      {
+        verseNumber: 9,
+        text: 'And that ye may prolong your days in the land, which the LORD sware unto your fathers to give unto them and to their seed, a land that floweth with milk and honey.',
+        highlightedWords: [
+          {
+            word: 'land',
+            strongNumber: 'H776',
+            lemma: 'erets',
+            meaning: 'land, earth'
+          },
+          {
+            word: 'honey',
+            strongNumber: 'H1706',
+            lemma: 'debash',
+            meaning: 'honey'
+          }
+        ]
+      },
+      {
+        verseNumber: 10,
+        text: 'For the land, whither thou goest in to possess it, is not as the land of Egypt, from whence ye came out, where thou sowedst thy seed, and wateredst it with thy foot, as a garden of herbs:',
+        highlightedWords: [
+          {
+            word: 'land',
+            strongNumber: 'H776',
+            lemma: 'erets',
+            meaning: 'land, earth'
+          },
+          {
+            word: 'Egypt',
+            strongNumber: 'H4714',
+            lemma: 'Mitsrayim',
+            meaning: 'Egypt'
+          }
+        ]
+      },
+      {
+        verseNumber: 11,
+        text: 'But the land, whither ye go to possess it, is a land of hills and valleys, and drinketh water of the rain of heaven:',
+        highlightedWords: [
+          {
+            word: 'land',
+            strongNumber: 'H776',
+            lemma: 'erets',
+            meaning: 'land, earth'
+          },
+          {
+            word: 'heaven',
+            strongNumber: 'H8064',
+            lemma: 'shamayim',
+            meaning: 'heavens, sky'
+          }
+        ]
+      },
+      {
+        verseNumber: 12,
+        text: 'A land which the LORD thy God careth for: the eyes of the LORD thy God are always upon it, from the beginning of the year even unto the end of the year.',
+        highlightedWords: [
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'the personal name of the God of Israel'
+          },
+          {
+            word: 'eyes',
+            strongNumber: 'H5869',
+            lemma: 'ayin',
+            meaning: 'eye; sight'
+          }
+        ]
+      },
+      {
+        verseNumber: 13,
+        text: 'And it shall come to pass, if ye shall hearken diligently unto my commandments which I command you this day, to love the LORD your God, and to serve him with all your heart and with all your soul,',
+        highlightedWords: [
+          {
+            word: 'love',
+            strongNumber: 'H157',
+            lemma: 'ahab',
+            meaning: 'to love, have affection for'
+          },
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'the personal name of the God of Israel'
+          }
+        ]
+      },
+      {
+        verseNumber: 14,
+        text: 'That I will give you the rain of your land in his due season, the first rain and the latter rain, that thou mayest gather in thy corn, and thy wine, and thine oil.',
+        highlightedWords: [
+          {
+            word: 'land',
+            strongNumber: 'H776',
+            lemma: 'erets',
+            meaning: 'land, earth'
+          },
+          {
+            word: 'corn',
+            strongNumber: 'H1715',
+            lemma: 'dagan',
+            meaning: 'grain, corn'
+          }
+        ]
+      },
+      {
+        verseNumber: 15,
+        text: 'And I will send grass in thy fields for thy cattle, that thou mayest eat and be full.',
+        highlightedWords: [
+          {
+            word: 'fields',
+            strongNumber: 'H7704',
+            lemma: 'sadeh',
+            meaning: 'field, open country'
+          },
+          {
+            word: 'cattle',
+            strongNumber: 'H929',
+            lemma: 'behemah',
+            meaning: 'beast, livestock, cattle'
+          }
+        ]
+      },
+      {
+        verseNumber: 16,
+        text: 'Take heed to yourselves, that your heart be not deceived, and ye turn aside, and serve other gods, and worship them;',
+        highlightedWords: [
+          {
+            word: 'heart',
+            strongNumber: 'H3824',
+            lemma: 'lebab',
+            meaning: 'inner man, mind, heart'
+          },
+          {
+            word: 'gods',
+            strongNumber: 'H430',
+            lemma: 'elohim',
+            meaning: 'God, gods'
+          }
+        ]
+      },
+      {
+        verseNumber: 17,
+        text: 'And then the LORD\'s wrath be kindled against you, and he shut up the heaven, that there be no rain, and that the land yield not her fruit; and lest ye perish quickly from off the good land which the LORD giveth you.',
+        highlightedWords: [
+          {
+            word: 'heaven',
+            strongNumber: 'H8064',
+            lemma: 'shamayim',
+            meaning: 'heavens, sky'
+          },
+          {
+            word: 'land',
+            strongNumber: 'H776',
+            lemma: 'erets',
+            meaning: 'land, earth'
+          }
+        ]
+      },
+      {
+        verseNumber: 18,
+        text: 'Therefore shall ye lay up these my words in your heart and in your soul, and bind them for a sign upon your hand, that they may be as frontlets between your eyes.',
+        highlightedWords: [
+          {
+            word: 'words',
+            strongNumber: 'H1697',
+            lemma: 'dabar',
+            meaning: 'word, matter, thing'
+          },
+          {
+            word: 'hand',
+            strongNumber: 'H3027',
+            lemma: 'yad',
+            meaning: 'hand, strength, power'
+          }
+        ]
+      },
+      {
+        verseNumber: 19,
+        text: 'And ye shall teach them your children, speaking of them when thou sittest in thine house, and when thou walkest by the way, when thou liest down, and when thou risest up.',
+        highlightedWords: [
+          {
+            word: 'children',
+            strongNumber: 'H1121',
+            lemma: 'ben',
+            meaning: 'son, child, descendant'
+          },
+          {
+            word: 'house',
+            strongNumber: 'H1004',
+            lemma: 'bayit',
+            meaning: 'house, home, household'
+          }
+        ]
+      },
+      {
+        verseNumber: 20,
+        text: 'And thou shalt write them upon the door posts of thine house, and upon thy gates:',
+        highlightedWords: [
+          {
+            word: 'write',
+            strongNumber: 'H3789',
+            lemma: 'kathab',
+            meaning: 'to write, inscribe'
+          },
+          {
+            word: 'gates',
+            strongNumber: 'H8179',
+            lemma: 'shaar',
+            meaning: 'gate, entrance'
+          }
+        ]
+      },
+      {
+        verseNumber: 21,
+        text: 'That your days may be multiplied, and the days of your children, in the land which the LORD sware unto your fathers to give them, as the days of heaven upon the earth.',
+        highlightedWords: [
+          {
+            word: 'days',
+            strongNumber: 'H3117',
+            lemma: 'yom',
+            meaning: 'day, days, time'
+          },
+          {
+            word: 'heaven',
+            strongNumber: 'H8064',
+            lemma: 'shamayim',
+            meaning: 'heavens, sky'
+          }
+        ]
+      },
+      {
+        verseNumber: 22,
+        text: 'For if ye shall diligently keep all these commandments which I command you, to do them, to love the LORD your God, to walk in all his ways, and to cleave unto him;',
+        highlightedWords: [
+          {
+            word: 'commandments',
+            strongNumber: 'H4687',
+            lemma: 'mitsvah',
+            meaning: 'command, ordinance, precept'
+          },
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'the personal name of the God of Israel'
+          }
+        ]
+      },
+      {
+        verseNumber: 23,
+        text: 'Then will the LORD drive out all these nations from before you, and ye shall possess greater nations and mightier than yourselves.',
+        highlightedWords: [
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'the personal name of the God of Israel'
+          },
+          {
+            word: 'nations',
+            strongNumber: 'H1471',
+            lemma: 'goy',
+            meaning: 'nation, people'
+          }
+        ]
+      },
+      {
+        verseNumber: 24,
+        text: 'Every place whereon the soles of your feet shall tread shall be yours: from the wilderness and Lebanon, from the river, the river Euphrates, even unto the uttermost sea shall your coast be.',
+        highlightedWords: [
+          {
+            word: 'feet',
+            strongNumber: 'H7272',
+            lemma: 'regel',
+            meaning: 'foot'
+          },
+          {
+            word: 'sea',
+            strongNumber: 'H3220',
+            lemma: 'yam',
+            meaning: 'sea'
+          }
+        ]
+      },
+      {
+        verseNumber: 25,
+        text: 'There shall no man be able to stand before you: for the LORD your God shall lay the fear of you and the dread of you upon all the land that ye shall tread upon, as he hath said unto you.',
+        highlightedWords: [
+          {
+            word: 'man',
+            strongNumber: 'H376',
+            lemma: 'ish',
+            meaning: 'man, person'
+          },
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'the personal name of the God of Israel'
+          }
+        ]
+      },
+      {
+        verseNumber: 26,
+        text: 'Behold, I set before you this day a blessing and a curse;',
+        highlightedWords: [
+          {
+            word: 'blessing',
+            strongNumber: 'H1293',
+            lemma: 'berakah',
+            meaning: 'blessing, benefit'
+          },
+          {
+            word: 'curse',
+            strongNumber: 'H7045',
+            lemma: 'qelalah',
+            meaning: 'curse'
+          }
+        ]
+      },
+      {
+        verseNumber: 27,
+        text: 'A blessing, if ye obey the commandments of the LORD your God, which I command you this day:',
+        highlightedWords: [
+          {
+            word: 'obey',
+            strongNumber: 'H8085',
+            lemma: 'shama',
+            meaning: 'to hear, listen to, obey'
+          },
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'the personal name of the God of Israel'
+          }
+        ]
+      },
+      {
+        verseNumber: 28,
+        text: 'And a curse, if ye will not obey the commandments of the LORD your God, but turn aside out of the way which I command you this day, to go after other gods, which ye have not known.',
+        highlightedWords: [
+          {
+            word: 'curse',
+            strongNumber: 'H7045',
+            lemma: 'qelalah',
+            meaning: 'curse'
+          },
+          {
+            word: 'gods',
+            strongNumber: 'H430',
+            lemma: 'elohim',
+            meaning: 'God, gods'
+          }
+        ]
+      },
+      {
+        verseNumber: 29,
+        text: 'And it shall come to pass, when the LORD thy God hath brought thee in unto the land whither thou goest to possess it, that thou shalt put the blessing upon mount Gerizim, and the curse upon mount Ebal.',
+        highlightedWords: [
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'the personal name of the God of Israel'
+          },
+          {
+            word: 'mount',
+            strongNumber: 'H2022',
+            lemma: 'har',
+            meaning: 'mountain, hill country'
+          }
+        ]
+      },
+      {
+        verseNumber: 30,
+        text: 'Are they not on the other side Jordan, by the way where the sun goeth down, in the land of the Canaanites, which dwell in the champaign over against Gilgal, beside the plains of Moreh?',
+        highlightedWords: [
+          {
+            word: 'Jordan',
+            strongNumber: 'H3383',
+            lemma: 'Yarden',
+            meaning: 'the Jordan River'
+          },
+          {
+            word: 'Canaanites',
+            strongNumber: 'H3669',
+            lemma: 'Kenaani',
+            meaning: 'Canaanites, inhabitants of Canaan'
+          }
+        ]
+      },
+      {
+        verseNumber: 31,
+        text: 'For ye shall pass over Jordan to go in to possess the land which the LORD your God giveth you, and ye shall possess it, and dwell therein.',
+        highlightedWords: [
+          {
+            word: 'Jordan',
+            strongNumber: 'H3383',
+            lemma: 'Yarden',
+            meaning: 'the Jordan River'
+          },
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'the personal name of the God of Israel'
+          }
+        ]
+      },
+      {
+        verseNumber: 32,
+        text: 'And ye shall observe to do all the statutes and judgments which I set before you this day.',
+        highlightedWords: [
+          {
+            word: 'statutes',
+            strongNumber: 'H2708',
+            lemma: 'chuqqah',
+            meaning: 'statute, ordinance'
+          },
+          {
+            word: 'judgments',
+            strongNumber: 'H4941',
+            lemma: 'mishpat',
+            meaning: 'judgment, justice, legal decision'
+          }
+        ]
+      }
+    ]
+  }
+};

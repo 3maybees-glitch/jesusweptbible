@@ -2,30 +2,41 @@ export const numbersChapter34 = {
   'Numbers-34': {
     book: 'Numbers',
     chapter: 34,
-    twoWordSummary: 'Canaan Boundaries',
-    themeSummary: 'God defines the precise boundaries of Canaan that Israel will inherit and appoints Eleazar the priest and Joshua to divide the land among the twelve tribes with tribal leaders assisting.',
-    sentenceDescription: 'God specifies Israel\'s boundary lines in Canaan from south to west to north to east, then designates leaders for distributing the inheritance.',
-    themeWords: [
-      {
-        word: 'border',
-        strongNumber: 'H1366',
-        lemma: 'gebul',
-        meaning: 'boundary, territory limit'
-      },
-      {
-        word: 'inheritance',
-        strongNumber: 'H5159',
-        lemma: 'nachalah',
-        meaning: 'inheritance, allotted possession'
-      }
-    ],
+    chapterTheme: {
+      twoWordSummary: 'Canaan Boundaries',
+      themeWords: [
+        {
+          word: 'border',
+          strongNumber: 'H1366',
+          lemma: 'gebul',
+          meaning: 'boundary, territory limit'
+        },
+        {
+          word: 'inheritance',
+          strongNumber: 'H5159',
+          lemma: 'nachalah',
+          meaning: 'inheritance, allotted possession'
+        }
+      ]
+    },
+    sentenceDescription: 'God defines Israel\'s boundaries in Canaan and appoints leaders to divide the inheritance among the tribes.',
     verses: [
       {
         verseNumber: 1,
         text: 'And the LORD spake unto Moses, saying,',
         highlightedWords: [
-          { word: 'LORD', strongNumber: 'H3068', lemma: 'YHWH', meaning: 'the covenant name of God' },
-          { word: 'Moses', strongNumber: 'H4872', lemma: 'Mosheh', meaning: 'Moses, leader of Israel' }
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'the covenant name of God'
+          },
+          {
+            word: 'Moses',
+            strongNumber: 'H4872',
+            lemma: 'Mosheh',
+            meaning: 'Moses, leader of Israel'
+          }
         ]
       },
       {

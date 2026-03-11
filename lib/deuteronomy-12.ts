@@ -1,0 +1,602 @@
+export const deuteronomyChapter12 = {
+  'Deuteronomy-12': {
+    book: 'Deuteronomy',
+    chapter: 12,
+    chapterTheme: {
+      twoWordSummary: 'Centralized Worship',
+      themeWords: [
+        {
+          word: 'place',
+          strongNumber: 'H4725',
+          lemma: 'maqom',
+          meaning: 'place, location'
+        },
+        {
+          word: 'altar',
+          strongNumber: 'H4196',
+          lemma: 'mizbeach',
+          meaning: 'altar'
+        }
+      ]
+    },
+    sentenceDescription: 'Israel must destroy idolatry and worship the LORD only at the chosen place, bringing their offerings there and avoiding pagan practices.',
+    verses: [
+      {
+        verseNumber: 1,
+        text: 'These are the statutes and judgments, which ye shall observe to do in the land, which the LORD God of thy fathers giveth thee to possess it, all the days that ye live upon the earth.',
+        highlightedWords: [
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'the proper name of Israel\'s God'
+          },
+          {
+            word: 'God',
+            strongNumber: 'H430',
+            lemma: 'Elohim',
+            meaning: 'God; gods'
+          }
+        ]
+      },
+      {
+        verseNumber: 2,
+        text: 'Ye shall utterly destroy all the places, wherein the nations which ye shall possess served their gods, upon the high mountains, and upon the hills, and under every green tree:',
+        highlightedWords: [
+          {
+            word: 'places',
+            strongNumber: 'H4725',
+            lemma: 'maqom',
+            meaning: 'place, location'
+          },
+          {
+            word: 'gods',
+            strongNumber: 'H430',
+            lemma: 'Elohim',
+            meaning: 'God; gods'
+          }
+        ]
+      },
+      {
+        verseNumber: 3,
+        text: 'And ye shall overthrow their altars, and break their pillars, and burn their groves with fire; and ye shall hew down the graven images of their gods, and destroy the names of them out of that place.',
+        highlightedWords: [
+          {
+            word: 'altars',
+            strongNumber: 'H4196',
+            lemma: 'mizbeach',
+            meaning: 'altar'
+          },
+          {
+            word: 'groves',
+            strongNumber: 'H0842',
+            lemma: 'Asherah',
+            meaning: 'Asherah pole; sacred grove'
+          }
+        ]
+      },
+      {
+        verseNumber: 4,
+        text: 'Ye shall not do so unto the LORD your God.',
+        highlightedWords: [
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'the proper name of Israel\'s God'
+          },
+          {
+            word: 'God',
+            strongNumber: 'H430',
+            lemma: 'Elohim',
+            meaning: 'God; gods'
+          }
+        ]
+      },
+      {
+        verseNumber: 5,
+        text: 'But unto the place which the LORD your God shall choose out of all your tribes to put his name there, even unto his habitation shall ye seek, and thither thou shalt come:',
+        highlightedWords: [
+          {
+            word: 'place',
+            strongNumber: 'H4725',
+            lemma: 'maqom',
+            meaning: 'place, location'
+          },
+          {
+            word: 'choose',
+            strongNumber: 'H0977',
+            lemma: 'bachar',
+            meaning: 'to choose, select'
+          }
+        ]
+      },
+      {
+        verseNumber: 6,
+        text: 'And thither ye shall bring your burnt offerings, and your sacrifices, and your tithes, and heave offerings of your hand, and your vows, and your freewill offerings, and the firstlings of your herds and of your flocks:',
+        highlightedWords: [
+          {
+            word: 'tithes',
+            strongNumber: 'H4643',
+            lemma: 'ma\'aser',
+            meaning: 'tenth, tithe'
+          },
+          {
+            word: 'vows',
+            strongNumber: 'H5088',
+            lemma: 'neder',
+            meaning: 'vow'
+          }
+        ]
+      },
+      {
+        verseNumber: 7,
+        text: 'And there ye shall eat before the LORD your God, and ye shall rejoice in all that ye put your hand unto, ye and your households, wherein the LORD thy God hath blessed thee.',
+        highlightedWords: [
+          {
+            word: 'rejoice',
+            strongNumber: 'H8055',
+            lemma: 'samach',
+            meaning: 'to rejoice, be glad'
+          },
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'the proper name of Israel\'s God'
+          }
+        ]
+      },
+      {
+        verseNumber: 8,
+        text: 'Ye shall not do after all the things that we do here this day, every man whatsoever is right in his own eyes.',
+        highlightedWords: [
+          {
+            word: 'right',
+            strongNumber: 'H3477',
+            lemma: 'yashar',
+            meaning: 'right, upright'
+          },
+          {
+            word: 'eyes',
+            strongNumber: 'H5869',
+            lemma: 'ayin',
+            meaning: 'eye; sight'
+          }
+        ]
+      },
+      {
+        verseNumber: 9,
+        text: 'For ye are not as yet come to the rest and to the inheritance, which the LORD your God giveth you.',
+        highlightedWords: [
+          {
+            word: 'rest',
+            strongNumber: 'H4496',
+            lemma: 'menuchah',
+            meaning: 'resting place; rest'
+          },
+          {
+            word: 'inheritance',
+            strongNumber: 'H5159',
+            lemma: 'nachalah',
+            meaning: 'inheritance; possession'
+          }
+        ]
+      },
+      {
+        verseNumber: 10,
+        text: 'But when ye go over Jordan, and dwell in the land which the LORD your God giveth you to inherit, and when he giveth you rest from all your enemies round about, so that ye dwell in safety;',
+        highlightedWords: [
+          {
+            word: 'Jordan',
+            strongNumber: 'H3383',
+            lemma: 'Yarden',
+            meaning: 'Jordan River'
+          },
+          {
+            word: 'safety',
+            strongNumber: 'H0983',
+            lemma: 'betach',
+            meaning: 'security, safety'
+          }
+        ]
+      },
+      {
+        verseNumber: 11,
+        text: 'Then there shall be a place which the LORD your God shall choose to cause his name to dwell there; thither shall ye bring all that I command you; your burnt offerings, and your sacrifices, your tithes, and the heave offering of your hand, and all your choice vows which ye vow unto the LORD:',
+        highlightedWords: [
+          {
+            word: 'name',
+            strongNumber: 'H8034',
+            lemma: 'shem',
+            meaning: 'name, reputation'
+          },
+          {
+            word: 'choose',
+            strongNumber: 'H0977',
+            lemma: 'bachar',
+            meaning: 'to choose, select'
+          }
+        ]
+      },
+      {
+        verseNumber: 12,
+        text: 'And ye shall rejoice before the LORD your God, ye, and your sons, and your daughters, and your menservants, and your maidservants, and the Levite that is within your gates; forasmuch as he hath no part nor inheritance with you.',
+        highlightedWords: [
+          {
+            word: 'rejoice',
+            strongNumber: 'H8055',
+            lemma: 'samach',
+            meaning: 'to rejoice, be glad'
+          },
+          {
+            word: 'Levite',
+            strongNumber: 'H3881',
+            lemma: 'Leviyiy',
+            meaning: 'a Levite'
+          }
+        ]
+      },
+      {
+        verseNumber: 13,
+        text: 'Take heed to thyself that thou offer not thy burnt offerings in every place that thou seest:',
+        highlightedWords: [
+          {
+            word: 'offer',
+            strongNumber: 'H5927',
+            lemma: 'alah',
+            meaning: 'to go up; to offer up'
+          },
+          {
+            word: 'burnt offerings',
+            strongNumber: 'H5930',
+            lemma: 'olah',
+            meaning: 'burnt offering'
+          }
+        ]
+      },
+      {
+        verseNumber: 14,
+        text: 'But in the place which the LORD shall choose in one of thy tribes, there thou shalt offer thy burnt offerings, and there thou shalt do all that I command thee.',
+        highlightedWords: [
+          {
+            word: 'place',
+            strongNumber: 'H4725',
+            lemma: 'maqom',
+            meaning: 'place, location'
+          },
+          {
+            word: 'choose',
+            strongNumber: 'H0977',
+            lemma: 'bachar',
+            meaning: 'to choose, select'
+          }
+        ]
+      },
+      {
+        verseNumber: 15,
+        text: 'Notwithstanding thou mayest kill and eat flesh in all thy gates, whatsoever thy soul lusteth after, according to the blessing of the LORD thy God which he hath given thee: the unclean and the clean may eat thereof, as of the roebuck, and as of the hart.',
+        highlightedWords: [
+          {
+            word: 'flesh',
+            strongNumber: 'H1320',
+            lemma: 'basar',
+            meaning: 'flesh; meat'
+          },
+          {
+            word: 'gates',
+            strongNumber: 'H8179',
+            lemma: 'sha\'ar',
+            meaning: 'gate(s), city gate'
+          }
+        ]
+      },
+      {
+        verseNumber: 16,
+        text: 'Only ye shall not eat the blood; ye shall pour it upon the earth as water.',
+        highlightedWords: [
+          {
+            word: 'blood',
+            strongNumber: 'H1818',
+            lemma: 'dam',
+            meaning: 'blood'
+          },
+          {
+            word: 'pour',
+            strongNumber: 'H8210',
+            lemma: 'shaphak',
+            meaning: 'to pour out'
+          }
+        ]
+      },
+      {
+        verseNumber: 17,
+        text: 'Thou mayest not eat within thy gates the tithe of thy corn, or of thy wine, or of thy oil, or the firstlings of thy herds or of thy flock, nor any of thy vows which thou vowest, nor thy freewill offerings, or heave offering of thine hand:',
+        highlightedWords: [
+          {
+            word: 'tithe',
+            strongNumber: 'H4643',
+            lemma: 'ma\'aser',
+            meaning: 'tenth, tithe'
+          },
+          {
+            word: 'corn',
+            strongNumber: 'H1715',
+            lemma: 'dagan',
+            meaning: 'grain, corn'
+          }
+        ]
+      },
+      {
+        verseNumber: 18,
+        text: 'But thou must eat them before the LORD thy God in the place which the LORD thy God shall choose, thou, and thy son, and thy daughter, and thy manservant, and thy maidservant, and the Levite that is within thy gates: and thou shalt rejoice before the LORD thy God in all that thou puttest thine hands unto.',
+        highlightedWords: [
+          {
+            word: 'rejoice',
+            strongNumber: 'H8055',
+            lemma: 'samach',
+            meaning: 'to rejoice, be glad'
+          },
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'the proper name of Israel\'s God'
+          }
+        ]
+      },
+      {
+        verseNumber: 19,
+        text: 'Take heed to thyself that thou forsake not the Levite as long as thou livest upon the earth.',
+        highlightedWords: [
+          {
+            word: 'forsake',
+            strongNumber: 'H5800',
+            lemma: 'azab',
+            meaning: 'to leave, forsake'
+          },
+          {
+            word: 'Levite',
+            strongNumber: 'H3881',
+            lemma: 'Leviyiy',
+            meaning: 'a Levite'
+          }
+        ]
+      },
+      {
+        verseNumber: 20,
+        text: 'When the LORD thy God shall enlarge thy border, as he hath promised thee, and thou shalt say, I will eat flesh, because thy soul longeth to eat flesh; thou mayest eat flesh, whatsoever thy soul lusteth after.',
+        highlightedWords: [
+          {
+            word: 'border',
+            strongNumber: 'H1366',
+            lemma: 'gebul',
+            meaning: 'border, boundary'
+          },
+          {
+            word: 'soul',
+            strongNumber: 'H5315',
+            lemma: 'nephesh',
+            meaning: 'soul, life'
+          }
+        ]
+      },
+      {
+        verseNumber: 21,
+        text: 'If the place which the LORD thy God hath chosen to put his name there be too far from thee, then thou shalt kill of thy herd and of thy flock, which the LORD hath given thee, as I have commanded thee, and thou shalt eat in thy gates whatsoever thy soul lusteth after.',
+        highlightedWords: [
+          {
+            word: 'name',
+            strongNumber: 'H8034',
+            lemma: 'shem',
+            meaning: 'name, reputation'
+          },
+          {
+            word: 'gates',
+            strongNumber: 'H8179',
+            lemma: 'sha\'ar',
+            meaning: 'gate(s), city gate'
+          }
+        ]
+      },
+      {
+        verseNumber: 22,
+        text: 'Even as the roebuck and the hart is eaten, so thou shalt eat them: the unclean and the clean shall eat of them alike.',
+        highlightedWords: [
+          {
+            word: 'roebuck',
+            strongNumber: 'H6643',
+            lemma: 'tsevi',
+            meaning: 'gazelle, roebuck'
+          },
+          {
+            word: 'hart',
+            strongNumber: 'H0354',
+            lemma: 'ayyal',
+            meaning: 'stag, hart'
+          }
+        ]
+      },
+      {
+        verseNumber: 23,
+        text: 'Only be sure that thou eat not the blood: for the blood is the life; and thou mayest not eat the life with the flesh.',
+        highlightedWords: [
+          {
+            word: 'blood',
+            strongNumber: 'H1818',
+            lemma: 'dam',
+            meaning: 'blood'
+          },
+          {
+            word: 'life',
+            strongNumber: 'H5315',
+            lemma: 'nephesh',
+            meaning: 'soul, life'
+          }
+        ]
+      },
+      {
+        verseNumber: 24,
+        text: 'Thou shalt not eat it; thou shalt pour it upon the earth as water.',
+        highlightedWords: [
+          {
+            word: 'pour',
+            strongNumber: 'H8210',
+            lemma: 'shaphak',
+            meaning: 'to pour out'
+          },
+          {
+            word: 'water',
+            strongNumber: 'H4325',
+            lemma: 'mayim',
+            meaning: 'water'
+          }
+        ]
+      },
+      {
+        verseNumber: 25,
+        text: 'Thou shalt not eat it; that it may go well with thee, and with thy children after thee, when thou shalt do that which is right in the sight of the LORD.',
+        highlightedWords: [
+          {
+            word: 'right',
+            strongNumber: 'H3477',
+            lemma: 'yashar',
+            meaning: 'right, upright'
+          },
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'the proper name of Israel\'s God'
+          }
+        ]
+      },
+      {
+        verseNumber: 26,
+        text: 'Only thy holy things which thou hast, and thy vows, thou shalt take, and go unto the place which the LORD shall choose:',
+        highlightedWords: [
+          {
+            word: 'holy',
+            strongNumber: 'H6944',
+            lemma: 'qodesh',
+            meaning: 'holy, sacred'
+          },
+          {
+            word: 'vows',
+            strongNumber: 'H5088',
+            lemma: 'neder',
+            meaning: 'vow'
+          }
+        ]
+      },
+      {
+        verseNumber: 27,
+        text: 'And thou shalt offer thy burnt offerings, the flesh and the blood, upon the altar of the LORD thy God: and the blood of thy sacrifices shall be poured out upon the altar of the LORD thy God, and thou shalt eat the flesh.',
+        highlightedWords: [
+          {
+            word: 'altar',
+            strongNumber: 'H4196',
+            lemma: 'mizbeach',
+            meaning: 'altar'
+          },
+          {
+            word: 'blood',
+            strongNumber: 'H1818',
+            lemma: 'dam',
+            meaning: 'blood'
+          }
+        ]
+      },
+      {
+        verseNumber: 28,
+        text: 'Observe and hear all these words which I command thee, that it may go well with thee, and with thy children after thee for ever, when thou doest that which is good and right in the sight of the LORD thy God.',
+        highlightedWords: [
+          {
+            word: 'words',
+            strongNumber: 'H1697',
+            lemma: 'dabar',
+            meaning: 'word, matter'
+          },
+          {
+            word: 'good',
+            strongNumber: 'H2896',
+            lemma: 'tov',
+            meaning: 'good, pleasant'
+          }
+        ]
+      },
+      {
+        verseNumber: 29,
+        text: 'When the LORD thy God shall cut off the nations from before thee, whither thou goest to possess them, and thou succeedest them, and dwellest in their land;',
+        highlightedWords: [
+          {
+            word: 'nations',
+            strongNumber: 'H1471',
+            lemma: 'goy',
+            meaning: 'nation, Gentile'
+          },
+          {
+            word: 'possess',
+            strongNumber: 'H3423',
+            lemma: 'yarash',
+            meaning: 'to possess, inherit'
+          }
+        ]
+      },
+      {
+        verseNumber: 30,
+        text: 'Take heed to thyself that thou be not snared by following them, after that they be destroyed from before thee; and that thou inquire not after their gods, saying, How did these nations serve their gods? even so will I do likewise.',
+        highlightedWords: [
+          {
+            word: 'gods',
+            strongNumber: 'H430',
+            lemma: 'Elohim',
+            meaning: 'God; gods'
+          },
+          {
+            word: 'nations',
+            strongNumber: 'H1471',
+            lemma: 'goy',
+            meaning: 'nation, Gentile'
+          }
+        ]
+      },
+      {
+        verseNumber: 31,
+        text: 'Thou shalt not do so unto the LORD thy God: for every abomination to the LORD, which he hateth, have they done unto their gods; for even their sons and their daughters they have burnt in the fire to their gods.',
+        highlightedWords: [
+          {
+            word: 'abomination',
+            strongNumber: 'H8441',
+            lemma: 'to\'evah',
+            meaning: 'abomination, detestable thing'
+          },
+          {
+            word: 'fire',
+            strongNumber: 'H0784',
+            lemma: 'esh',
+            meaning: 'fire'
+          }
+        ]
+      },
+      {
+        verseNumber: 32,
+        text: 'What thing soever I command you, observe to do it: thou shalt not add thereto, nor diminish from it.',
+        highlightedWords: [
+          {
+            word: 'add',
+            strongNumber: 'H3254',
+            lemma: 'yasaf',
+            meaning: 'to add, increase'
+          },
+          {
+            word: 'diminish',
+            strongNumber: 'H1639',
+            lemma: 'gara',
+            meaning: 'to diminish, subtract'
+          }
+        ]
+      }
+    ]
+  }
+};
