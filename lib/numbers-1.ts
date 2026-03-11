@@ -505,4 +505,493 @@ export const numbersChapter1 = {
             meaning: 'Judah; a son of Jacob and the tribe descending from him'
           }
         ]
+      },
+      {
+        verseNumber: 28,
+        text: 'Of the children of Issachar, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;',
+        highlightedWords: [
+          {
+            word: 'children',
+            strongNumber: 'H1121',
+            lemma: 'ben',
+            meaning: 'sons, children, descendants'
+          },
+          {
+            word: 'Issachar',
+            strongNumber: 'H3485',
+            lemma: 'Yissākhār',
+            meaning: 'Issachar; a son of Jacob and his tribe'
+          }
+        ]
+      },
+      {
+        verseNumber: 29,
+        text: 'Those that were numbered of them, even of the tribe of Issachar, were fifty and four thousand and four hundred.',
+        highlightedWords: [
+          {
+            word: 'tribe',
+            strongNumber: 'H4294',
+            lemma: 'maṭṭeh',
+            meaning: 'tribe; staff/rod representing a tribe'
+          },
+          {
+            word: 'Issachar',
+            strongNumber: 'H3485',
+            lemma: 'Yissākhār',
+            meaning: 'Issachar; a son of Jacob and his tribe'
+          }
+        ]
+      },
+      {
+        verseNumber: 30,
+        text: 'Of the children of Zebulun, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;',
+        highlightedWords: [
+          {
+            word: 'children',
+            strongNumber: 'H1121',
+            lemma: 'ben',
+            meaning: 'sons, children, descendants'
+          },
+          {
+            word: 'Zebulun',
+            strongNumber: 'H2074',
+            lemma: 'Zevulun',
+            meaning: 'Zebulun; a son of Jacob and his tribe'
+          }
+        ]
+      },
+      {
+        verseNumber: 31,
+        text: 'Those that were numbered of them, even of the tribe of Zebulun, were fifty and seven thousand and four hundred.',
+        highlightedWords: [
+          {
+            word: 'tribe',
+            strongNumber: 'H4294',
+            lemma: 'maṭṭeh',
+            meaning: 'tribe; staff/rod representing a tribe'
+          },
+          {
+            word: 'Zebulun',
+            strongNumber: 'H2074',
+            lemma: 'Zevulun',
+            meaning: 'Zebulun; a son of Jacob and his tribe'
+          }
+        ]
+      },
+      {
+        verseNumber: 32,
+        text: 'Of the children of Joseph, namely, of the children of Ephraim, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;',
+        highlightedWords: [
+          {
+            word: 'children',
+            strongNumber: 'H1121',
+            lemma: 'ben',
+            meaning: 'sons, children, descendants'
+          },
+          {
+            word: 'Ephraim',
+            strongNumber: 'H669',
+            lemma: 'Efrayim',
+            meaning: 'Ephraim; son of Joseph and a tribe of Israel'
+          }
+        ]
+      },
+      {
+        verseNumber: 33,
+        text: 'Those that were numbered of them, even of the tribe of Ephraim, were forty thousand and five hundred.',
+        highlightedWords: [
+          {
+            word: 'tribe',
+            strongNumber: 'H4294',
+            lemma: 'maṭṭeh',
+            meaning: 'tribe; staff/rod representing a tribe'
+          },
+          {
+            word: 'Ephraim',
+            strongNumber: 'H669',
+            lemma: 'Efrayim',
+            meaning: 'Ephraim; son of Joseph and a tribe of Israel'
+          }
+        ]
+      },
+      {
+        verseNumber: 34,
+        text: 'Of the children of Manasseh, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;',
+        highlightedWords: [
+          {
+            word: 'children',
+            strongNumber: 'H1121',
+            lemma: 'ben',
+            meaning: 'sons, children, descendants'
+          },
+          {
+            word: 'Manasseh',
+            strongNumber: 'H4519',
+            lemma: 'Menasheh',
+            meaning: 'Manasseh; son of Joseph and a tribe of Israel'
+          }
+        ]
+      },
+      {
+        verseNumber: 35,
+        text: 'Those that were numbered of them, even of the tribe of Manasseh, were thirty and two thousand and two hundred.',
+        highlightedWords: [
+          {
+            word: 'tribe',
+            strongNumber: 'H4294',
+            lemma: 'maṭṭeh',
+            meaning: 'tribe; staff/rod representing a tribe'
+          },
+          {
+            word: 'Manasseh',
+            strongNumber: 'H4519',
+            lemma: 'Menasheh',
+            meaning: 'Manasseh; son of Joseph and a tribe of Israel'
+          }
+        ]
+      },
+      {
+        verseNumber: 36,
+        text: 'Of the children of Benjamin, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;',
+        highlightedWords: [
+          {
+            word: 'children',
+            strongNumber: 'H1121',
+            lemma: 'ben',
+            meaning: 'sons, children, descendants'
+          },
+          {
+            word: 'Benjamin',
+            strongNumber: 'H1144',
+            lemma: 'Binyamin',
+            meaning: 'Benjamin; son of Jacob and his tribe'
+          }
+        ]
+      },
+      {
+        verseNumber: 37,
+        text: 'Those that were numbered of them, even of the tribe of Benjamin, were thirty and five thousand and four hundred.',
+        highlightedWords: [
+          {
+            word: 'tribe',
+            strongNumber: 'H4294',
+            lemma: 'maṭṭeh',
+            meaning: 'tribe; staff/rod representing a tribe'
+          },
+          {
+            word: 'Benjamin',
+            strongNumber: 'H1144',
+            lemma: 'Binyamin',
+            meaning: 'Benjamin; son of Jacob and his tribe'
+          }
+        ]
+      },
+      {
+        verseNumber: 38,
+        text: 'Of the children of Dan, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;',
+        highlightedWords: [
+          {
+            word: 'children',
+            strongNumber: 'H1121',
+            lemma: 'ben',
+            meaning: 'sons, children, descendants'
+          },
+          {
+            word: 'Dan',
+            strongNumber: 'H1835',
+            lemma: 'Dan',
+            meaning: 'Dan; a son of Jacob and his tribe'
+          }
+        ]
+      },
+      {
+        verseNumber: 39,
+        text: 'Those that were numbered of them, even of the tribe of Dan, were threescore and two thousand and seven hundred.',
+        highlightedWords: [
+          {
+            word: 'tribe',
+            strongNumber: 'H4294',
+            lemma: 'maṭṭeh',
+            meaning: 'tribe; staff/rod representing a tribe'
+          },
+          {
+            word: 'Dan',
+            strongNumber: 'H1835',
+            lemma: 'Dan',
+            meaning: 'Dan; a son of Jacob and his tribe'
+          }
+        ]
+      },
+      {
+        verseNumber: 40,
+        text: 'Of the children of Asher, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;',
+        highlightedWords: [
+          {
+            word: 'children',
+            strongNumber: 'H1121',
+            lemma: 'ben',
+            meaning: 'sons, children, descendants'
+          },
+          {
+            word: 'Asher',
+            strongNumber: 'H836',
+            lemma: 'ʾAsher',
+            meaning: 'Asher; a son of Jacob and his tribe'
+          }
+        ]
+      },
+      {
+        verseNumber: 41,
+        text: 'Those that were numbered of them, even of the tribe of Asher, were forty and one thousand and five hundred.',
+        highlightedWords: [
+          {
+            word: 'tribe',
+            strongNumber: 'H4294',
+            lemma: 'maṭṭeh',
+            meaning: 'tribe; staff/rod representing a tribe'
+          },
+          {
+            word: 'Asher',
+            strongNumber: 'H836',
+            lemma: 'ʾAsher',
+            meaning: 'Asher; a son of Jacob and his tribe'
+          }
+        ]
+      },
+      {
+        verseNumber: 42,
+        text: 'Of the children of Naphtali, throughout their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;',
+        highlightedWords: [
+          {
+            word: 'children',
+            strongNumber: 'H1121',
+            lemma: 'ben',
+            meaning: 'sons, children, descendants'
+          },
+          {
+            word: 'Naphtali',
+            strongNumber: 'H5321',
+            lemma: 'Naftali',
+            meaning: 'Naphtali; a son of Jacob and his tribe'
+          }
+        ]
+      },
+      {
+        verseNumber: 43,
+        text: 'Those that were numbered of them, even of the tribe of Naphtali, were forty and five thousand and four hundred.',
+        highlightedWords: [
+          {
+            word: 'tribe',
+            strongNumber: 'H4294',
+            lemma: 'maṭṭeh',
+            meaning: 'tribe; staff/rod representing a tribe'
+          },
+          {
+            word: 'Naphtali',
+            strongNumber: 'H5321',
+            lemma: 'Naftali',
+            meaning: 'Naphtali; a son of Jacob and his tribe'
+          }
+        ]
+      },
+      {
+        verseNumber: 44,
+        text: 'These are those that were numbered, which Moses and Aaron numbered, and the princes of Israel, being twelve men: each one was for the house of his fathers.',
+        highlightedWords: [
+          {
+            word: 'Moses',
+            strongNumber: 'H4872',
+            lemma: 'Mosheh',
+            meaning: 'Moses, leader and lawgiver of Israel'
+          },
+          {
+            word: 'Israel',
+            strongNumber: 'H3478',
+            lemma: 'Yiśrāʾēl',
+            meaning: 'Israel; the people descended from Jacob'
+          }
+        ]
+      },
+      {
+        verseNumber: 45,
+        text: 'So were all those that were numbered of the children of Israel, by the house of their fathers, from twenty years old and upward, all that were able to go forth to war in Israel;',
+        highlightedWords: [
+          {
+            word: 'children',
+            strongNumber: 'H1121',
+            lemma: 'ben',
+            meaning: 'sons, children, descendants'
+          },
+          {
+            word: 'Israel',
+            strongNumber: 'H3478',
+            lemma: 'Yiśrāʾēl',
+            meaning: 'Israel; the people descended from Jacob'
+          }
+        ]
+      },
+      {
+        verseNumber: 46,
+        text: 'Even all they that were numbered were six hundred thousand and three thousand and five hundred and fifty.',
+        highlightedWords: [
+          {
+            word: 'numbered',
+            strongNumber: 'H6485',
+            lemma: 'pāqad',
+            meaning: 'to number, muster, appoint'
+          },
+          {
+            word: 'all',
+            strongNumber: 'H3605',
+            lemma: 'kol',
+            meaning: 'all, the whole'
+          }
+        ]
+      },
+      {
+        verseNumber: 47,
+        text: 'But the Levites after the tribe of their fathers were not numbered among them.',
+        highlightedWords: [
+          {
+            word: 'Levites',
+            strongNumber: 'H3881',
+            lemma: 'Lēwiyy',
+            meaning: 'Levites; members of the tribe of Levi set apart for sacred service'
+          },
+          {
+            word: 'tribe',
+            strongNumber: 'H4294',
+            lemma: 'maṭṭeh',
+            meaning: 'tribe; staff/rod representing a tribe'
+          }
+        ]
+      },
+      {
+        verseNumber: 48,
+        text: 'For the LORD had spoken unto Moses, saying,',
+        highlightedWords: [
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'the personal name of the God of Israel'
+          },
+          {
+            word: 'Moses',
+            strongNumber: 'H4872',
+            lemma: 'Mosheh',
+            meaning: 'Moses, leader and lawgiver of Israel'
+          }
+        ]
+      },
+      {
+        verseNumber: 49,
+        text: 'Only thou shalt not number the tribe of Levi, neither take the sum of them among the children of Israel:',
+        highlightedWords: [
+          {
+            word: 'number',
+            strongNumber: 'H6485',
+            lemma: 'pāqad',
+            meaning: 'to number, muster, appoint'
+          },
+          {
+            word: 'Levi',
+            strongNumber: 'H3878',
+            lemma: 'Lēwî',
+            meaning: 'Levi; son of Jacob; ancestor of the Levites'
+          }
+        ]
+      },
+      {
+        verseNumber: 50,
+        text: 'But thou shalt appoint the Levites over the tabernacle of testimony, and over all the vessels thereof, and over all things that belong to it: they shall bear the tabernacle, and all the vessels thereof; and they shall minister unto it, and shall encamp round about the tabernacle.',
+        highlightedWords: [
+          {
+            word: 'Levites',
+            strongNumber: 'H3881',
+            lemma: 'Lēwiyy',
+            meaning: 'Levites; members of the tribe of Levi set apart for sacred service'
+          },
+          {
+            word: 'tabernacle',
+            strongNumber: 'H4908',
+            lemma: 'mishkān',
+            meaning: 'dwelling place, tabernacle'
+          }
+        ]
+      },
+      {
+        verseNumber: 51,
+        text: 'And when the tabernacle setteth forward, the Levites shall take it down: and when the tabernacle is to be pitched, the Levites shall set it up: and the stranger that cometh nigh shall be put to death.',
+        highlightedWords: [
+          {
+            word: 'tabernacle',
+            strongNumber: 'H4908',
+            lemma: 'mishkān',
+            meaning: 'dwelling place, tabernacle'
+          },
+          {
+            word: 'Levites',
+            strongNumber: 'H3881',
+            lemma: 'Lēwiyy',
+            meaning: 'Levites; members of the tribe of Levi set apart for sacred service'
+          }
+        ]
+      },
+      {
+        verseNumber: 52,
+        text: 'And the children of Israel shall pitch their tents, every man by his own camp, and every man by his own standard, throughout their hosts.',
+        highlightedWords: [
+          {
+            word: 'children',
+            strongNumber: 'H1121',
+            lemma: 'ben',
+            meaning: 'sons, children, descendants'
+          },
+          {
+            word: 'Israel',
+            strongNumber: 'H3478',
+            lemma: 'Yiśrāʾēl',
+            meaning: 'Israel; the people descended from Jacob'
+          }
+        ]
+      },
+      {
+        verseNumber: 53,
+        text: 'But the Levites shall pitch round about the tabernacle of testimony, that there be no wrath upon the congregation of the children of Israel: and the Levites shall keep the charge of the tabernacle of testimony.',
+        highlightedWords: [
+          {
+            word: 'Levites',
+            strongNumber: 'H3881',
+            lemma: 'Lēwiyy',
+            meaning: 'Levites; members of the tribe of Levi set apart for sacred service'
+          },
+          {
+            word: 'tabernacle',
+            strongNumber: 'H4908',
+            lemma: 'mishkān',
+            meaning: 'dwelling place, tabernacle'
+          }
+        ]
+      },
+      {
+        verseNumber: 54,
+        text: 'And the children of Israel did according to all that the LORD commanded Moses, so did they.',
+        highlightedWords: [
+          {
+            word: 'Israel',
+            strongNumber: 'H3478',
+            lemma: 'Yiśrāʾēl',
+            meaning: 'Israel; the people descended from Jacob'
+          },
+          {
+            word: 'LORD',
+            strongNumber: 'H3068',
+            lemma: 'YHWH',
+            meaning: 'the personal name of the God of Israel'
+          }
+        ]
       }
+    ]
+  }
+};
