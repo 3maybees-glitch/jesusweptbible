@@ -1,0 +1,15 @@
+export const judgesChapter17 = {
+  '17:1': { verse: '17:1', text: 'And there was a man of mount Ephraim, whose name was Micah.', lemmas: { Ephraim: "Ephrayim", Micah: "Miykah" } },
+  '17:2': { verse: '17:2', text: 'And he said unto his mother, The eleven hundred shekels of silver that were taken from thee, about which thou cursedst, and spakest of also in mine ears, behold, the silver is with me; I took it. And his mother said, Blessed be thou of the LORD, my son.', lemmas: { silver: "kesef", LORD: "YHWH" } },
+  '17:3': { verse: '17:3', text: 'And when he had restored the eleven hundred shekels of silver to his mother, his mother said, I had wholly dedicated the silver unto the LORD from my hand for my son, to make a graven image and a molten image: now therefore I will restore it unto thee.', lemmas: { "graven image": "pesel", "molten image": "massekah" } },
+  '17:4': { verse: '17:4', text: 'Yet he restored the money unto his mother; and his mother took two hundred shekels of silver, and gave them to the founder, who made thereof a graven image and a molten image: and they were in the house of Micah.', lemmas: { "graven image": "pesel", "molten image": "massekah" } },
+  '17:5': { verse: '17:5', text: 'And the man Micah had an house of gods, and made an ephod, and teraphim, and consecrated one of his sons, who became his priest.', lemmas: { ephod: "ephod", teraphim: "teraphim" } },
+  '17:6': { verse: '17:6', text: 'In those days there was no king in Israel, but every man did that which was right in his own eyes.', lemmas: { king: "melek", Israel: "Yisra'el" } },
+  '17:7': { verse: '17:7', text: 'And there was a young man out of Beth-lehem-judah of the family of Judah, who was a Levite, and he sojourned there.', lemmas: { Levite: "Leviy", sojourned: "gur" } },
+  '17:8': { verse: '17:8', text: 'And the man departed out of the city from Beth-lehem-judah to sojourn where he could find a place: and he came to mount Ephraim to the house of Micah, as he journeyed.', lemmas: { sojourn: "gur", Ephraim: "Ephrayim" } },
+  '17:9': { verse: '17:9', text: 'And Micah said unto him, Whence comest thou? And he said unto him, I am a Levite of Beth-lehem-judah, and I go to sojourn where I may find a place.', lemmas: { Micah: "Miykah", Levite: "Leviy" } },
+  '17:10': { verse: '17:10', text: 'And Micah said unto him, Dwell with me, and be unto me a father and a priest, and I will give thee ten shekels of silver by the year, and a suit of apparel, and thy victuals. So the Levite went in.', lemmas: { priest: "kohen", Levite: "Leviy" } },
+  '17:11': { verse: '17:11', text: 'And the Levite was content to dwell with the man; and the young man was unto him as one of his sons.', lemmas: { Levite: "Leviy", sons: "ben" } },
+  '17:12': { verse: '17:12', text: 'And Micah consecrated the Levite; and the young man became his priest, and was in the house of Micah.', lemmas: { Levite: "Leviy", priest: "kohen" } },
+  '17:13': { verse: '17:13', text: 'Then said Micah, Now know I that the LORD will do me good, seeing I have a Levite to be my priest.', lemmas: { LORD: "YHWH", Levite: "Leviy" } },
+}
