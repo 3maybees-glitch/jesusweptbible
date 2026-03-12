@@ -287,6 +287,7 @@ import { kingsChapter8 } from './1-kings-8'
 import { kingsChapter9 } from './1-kings-9'
 import { kingsChapter10 } from './1-kings-10'
 import { kingsChapter11 } from './1-kings-11'
+import { kingsChapter12 } from './1-kings-12'
 import { kingsChapter7 } from './1-kings-7'
 import { markChapters18 } from './mark-1-8'
 import { markChapters916 } from './mark-9-16'
@@ -2439,7 +2440,7 @@ export const sampleChapters: Record<string, Chapter> = {
             word: "fulfil",
             strongNumber: "G4137",
             language: "Greek",
-            lemma: "plēroō",
+            lemma: "pl��roō",
             meaning: "to make complete, accomplish",
           },
           {
@@ -4531,6 +4532,7 @@ export const sampleChapters: Record<string, Chapter> = {
   ...kingsChapter9,
   ...kingsChapter10,
   ...kingsChapter11,
+  ...kingsChapter12,
 }
 
 export function getChapter(book: string, chapter: number): Chapter | null {
