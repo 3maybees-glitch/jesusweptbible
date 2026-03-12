@@ -1,5 +1,5 @@
 export const judgesChapter2 = {
-  '2:1': { verse: '2:1', text: 'And an angel of the LORD came up from Gilgal to Bochim, and said, I made you to go up out of Egypt, and have brought you unto the land which I sware unto your fathers; and I said, I will never break my covenant with you.', lemmas: { angel: 'malak', covenant: 'b''rit' } },
+  '2:1': { verse: '2:1', text: 'And an angel of the LORD came up from Gilgal to Bochim, and said, I made you to go up out of Egypt, and have brought you unto the land which I sware unto your fathers; and I said, I will never break my covenant with you.', lemmas: { angel: 'malak', covenant: "b'rit" } },
   '2:2': { verse: '2:2', text: 'And ye shall make no league with the inhabitants of this land; ye shall throw down their altars: but ye have not obeyed my voice: why have ye done this?', lemmas: { altars: 'mizbeach', voice: 'qol' } },
   '2:3': { verse: '2:3', text: 'Wherefore I also said, I will not drive them out from before you; but they shall be as thorns in your sides, and their gods shall be a snare unto you.', lemmas: { gods: 'elohim', snare: 'moqesh' } },
   '2:4': { verse: '2:4', text: 'And it came to pass, when the angel of the LORD spake these words unto all the children of Israel, that the people lifted up their voice, and wept.', lemmas: { children: 'ben', wept: 'bakah' } },
