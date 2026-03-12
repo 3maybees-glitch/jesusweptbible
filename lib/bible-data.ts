@@ -312,6 +312,7 @@ import { twoKingsChapter11 } from './2-kings-11'
 import { twoKingsChapter12 } from './2-kings-12'
 import { twoKingsChapter13 } from './2-kings-13'
 import { twoKingsChapter14 } from './2-kings-14'
+import { twoKingsChapter15 } from './2-kings-15'
 import { kingsChapter7 } from './1-kings-7'
 import { markChapters18 } from './mark-1-8'
 import { markChapters916 } from './mark-9-16'
@@ -4083,7 +4084,7 @@ export const sampleChapters: Record<string, Chapter> = {
       { book: "Matthew", chapter: 10, verse: 38, text: "And he that taketh not his cross, and followeth after me, is not worthy of me.", highlightedWords: [{ word: "cross", strongNumber: "G4716", language: "Greek", lemma: "stauros", meaning: "cross, stake" }, { word: "worthy", strongNumber: "G514", language: "Greek", lemma: "axios", meaning: "worthy, deserving" }] },
       { book: "Matthew", chapter: 10, verse: 39, text: "He that findeth his life shall lose it: and he that loseth his life for my sake shall find it.", highlightedWords: [{ word: "life", strongNumber: "G5590", language: "Greek", lemma: "psychē", meaning: "soul, life, self" }, { word: "lose", strongNumber: "G622", language: "Greek", lemma: "apollumi", meaning: "to destroy, ruin" }] },
       { book: "Matthew", chapter: 10, verse: 40, text: "He that receiveth you receiveth me, and he that receiveth me receiveth him that sent me.", highlightedWords: [{ word: "receiveth", strongNumber: "G1209", language: "Greek", lemma: "dechomai", meaning: "to receive, accept, welcome" }, { word: "sent", strongNumber: "G649", language: "Greek", lemma: "apostello", meaning: "to send forth, send away" }] },
-      { book: "Matthew", chapter: 10, verse: 41, text: "He that receiveth a prophet in the name of a prophet shall receive a prophet's reward; and he that receiveth a righteous man in the name of a righteous man shall receive a righteous man's reward.", highlightedWords: [{ word: "prophet", strongNumber: "G4396", language: "Greek", lemma: "prophētēs", meaning: "prophet, spokesman" }, { word: "reward", strongNumber: "G3408", language: "Greek", lemma: "misthos", meaning: "reward, wage" }] },
+      { book: "Matthew", chapter: 10, verse: 41, text: "He that receiveth a prophet in the name of a prophet shall receive a prophet's reward; and he that receiveth a righteous man in the name of a righteous man shall receive a righteous man's reward.", highlightedWords: [{ word: "prophet", strongNumber: "G4396", language: "Greek", lemma: "proph��tēs", meaning: "prophet, spokesman" }, { word: "reward", strongNumber: "G3408", language: "Greek", lemma: "misthos", meaning: "reward, wage" }] },
       { book: "Matthew", chapter: 10, verse: 42, text: "And whosoever shall give to drink unto one of these little ones a cup of cold water only in the name of a disciple, verily I say unto you, He shall in no wise lose his reward.", highlightedWords: [{ word: "little", strongNumber: "G3398", language: "Greek", lemma: "mikros", meaning: "small, little, insignificant" }, { word: "reward", strongNumber: "G3408", language: "Greek", lemma: "misthos", meaning: "reward, wage" }] },
     ],
   },
@@ -4581,6 +4582,7 @@ export const sampleChapters: Record<string, Chapter> = {
   ...twoKingsChapter12,
   ...twoKingsChapter13,
   ...twoKingsChapter14,
+  ...twoKingsChapter15,
 }
 
 export function getChapter(book: string, chapter: number): Chapter | null {
