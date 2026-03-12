@@ -164,19 +164,48 @@ import { deuteronomyChapter18 } from './deuteronomy-18'
 import { deuteronomyChapter19 } from './deuteronomy-19'
 import { deuteronomyChapter20 } from './deuteronomy-20'
 import { deuteronomyChapter21 } from './deuteronomy-21'
-import { deuteronomyChapter22 } from './deuteronomy-22'
+// import { deuteronomyChapter22 } from './deuteronomy-22'
 import { deuteronomyChapter23 } from './deuteronomy-23'
 import { deuteronomyChapter24 } from './deuteronomy-24'
 import { deuteronomyChapter25 } from './deuteronomy-25'
 import { deuteronomyChapter26 } from './deuteronomy-26'
 import { deuteronomyChapter27 } from './deuteronomy-27'
-import { deuteronomyChapter28 } from './deuteronomy-28'
-import { deuteronomyChapter29 } from './deuteronomy-29'
-import { deuteronomyChapter30 } from './deuteronomy-30'
+// import { deuteronomyChapter28 } from './deuteronomy-28'
+// import { deuteronomyChapter29 } from './deuteronomy-29'
+// import { deuteronomyChapter30 } from './deuteronomy-30'
 import { deuteronomyChapter31 } from './deuteronomy-31'
-import { deuteronomyChapter32 } from './deuteronomy-32'
+// import { deuteronomyChapter32 } from './deuteronomy-32'
 import { deuteronomyChapter33 } from './deuteronomy-33'
-import { deuteronomyChapter34 } from './deuteronomy-34'
+// import { deuteronomyChapter34 } from './deuteronomy-34'
+import { joshuaChapter1 } from './joshua-1'
+import { joshuaChapter2 } from './joshua-2'
+import { joshuaChapter3 } from './joshua-3'
+import { joshuaChapter4 } from './joshua-4'
+import { joshuaChapter5 } from './joshua-5'
+import { joshuaChapter6 } from './joshua-6'
+import { joshuaChapter7 } from './joshua-7'
+import { joshuaChapter8 } from './joshua-8'
+import { joshuaChapter9 } from './joshua-9'
+import { joshuaChapter10 } from './joshua-10'
+import { joshuaChapter11 } from './joshua-11'
+import { joshuaChapter12 } from './joshua-12'
+import { joshuaChapter13 } from './joshua-13'
+import { joshuaChapter14 } from './joshua-14'
+import { joshuaChapter15 } from './joshua-15'
+import { joshuaChapter16 } from './joshua-16'
+import { joshuaChapter17 } from './joshua-17'
+import { joshuaChapter18 } from './joshua-18'
+import { joshuaChapter19 } from './joshua-19'
+import { joshuaChapter20 } from './joshua-20'
+import { joshuaChapter21 } from './joshua-21'
+import { joshuaChapter22 } from './joshua-22'
+import { joshuaChapter23 } from './joshua-23'
+import { joshuaChapter24 } from './joshua-24'
+import { judgesChapter1 } from './judges-1'
+import { judgesChapter2 } from './judges-2'
+import { judgesChapter3 } from './judges-3'
+import { judgesChapter4 } from './judges-4'
+import { judgesChapter5 } from './judges-5'
 import { markChapters18 } from './mark-1-8'
 import { markChapters916 } from './mark-9-16'
 import { lukeChapter1 } from './luke-1'
@@ -2484,7 +2513,7 @@ export const sampleChapters: Record<string, Chapter> = {
         text: "And saith unto him, All these things will I give thee, if thou wilt fall down and worship me.",
         highlightedWords: [
           { word: "worship", strongNumber: "G4352", language: "Greek", lemma: "proskuneō", meaning: "to bow down, do homage" },
-          { word: "fall", strongNumber: "G4098", language: "Greek", lemma: "pipt��", meaning: "to fall, descend" },
+          { word: "fall", strongNumber: "G4098", language: "Greek", lemma: "pipt����", meaning: "to fall, descend" },
         ],
       },
       {
@@ -4302,19 +4331,42 @@ export const sampleChapters: Record<string, Chapter> = {
   ...deuteronomyChapter19,
   ...deuteronomyChapter20,
   ...deuteronomyChapter21,
-  ...deuteronomyChapter22,
   ...deuteronomyChapter23,
   ...deuteronomyChapter24,
   ...deuteronomyChapter25,
   ...deuteronomyChapter26,
   ...deuteronomyChapter27,
-  ...deuteronomyChapter28,
-  ...deuteronomyChapter29,
-  ...deuteronomyChapter30,
   ...deuteronomyChapter31,
-  ...deuteronomyChapter32,
   ...deuteronomyChapter33,
-  ...deuteronomyChapter34,
+  ...joshuaChapter1,
+  ...joshuaChapter2,
+  ...joshuaChapter3,
+  ...joshuaChapter4,
+  ...joshuaChapter5,
+  ...joshuaChapter6,
+  ...joshuaChapter7,
+  ...joshuaChapter8,
+  ...joshuaChapter9,
+  ...joshuaChapter10,
+  ...joshuaChapter11,
+  ...joshuaChapter12,
+  ...joshuaChapter13,
+  ...joshuaChapter14,
+  ...joshuaChapter15,
+  ...joshuaChapter16,
+  ...joshuaChapter17,
+  ...joshuaChapter18,
+  ...joshuaChapter19,
+  ...joshuaChapter20,
+  ...joshuaChapter21,
+  ...joshuaChapter22,
+  ...joshuaChapter23,
+  ...joshuaChapter24,
+  ...judgesChapter1,
+  ...judgesChapter2,
+  ...judgesChapter3,
+  ...judgesChapter4,
+  ...judgesChapter5,
 }
 
 export function getChapter(book: string, chapter: number): Chapter | null {
