@@ -343,6 +343,7 @@ import { chroniclesChapter17 } from './1-chronicles-17'
 import { chroniclesChapter18 } from './1-chronicles-18'
 import { chroniclesChapter19 } from './1-chronicles-19'
 import { chroniclesChapter20 } from './1-chronicles-20'
+import { chroniclesChapter21 } from './1-chronicles-21'
 import { kingsChapter7 } from './1-kings-7'
 import { markChapters18 } from './mark-1-8'
 import { markChapters916 } from './mark-9-16'
@@ -1655,7 +1656,7 @@ export const sampleChapters: Record<string, Chapter> = {
     sentenceDescription: "Wise men from the East seek the newborn King of the Jews, worship Him with gifts, and are warned to avoid Herod; Mary and Joseph flee to Egypt to escape the king's murderous plot against all infants.",
     themeWords: [
       { word: "king", strongNumber: "G935", language: "Greek", lemma: "basileus", meaning: "one who holds sovereign authority and rule" },
-      { word: "worshipped", strongNumber: "G4352", language: "Greek", lemma: "proskuneō", meaning: "to bow in reverent submission and honor" }
+      { word: "worshipped", strongNumber: "G4352", language: "Greek", lemma: "proskune��", meaning: "to bow in reverent submission and honor" }
     ],
     verses: [
       {
@@ -4643,6 +4644,7 @@ export const sampleChapters: Record<string, Chapter> = {
   ...chroniclesChapter18,
   ...chroniclesChapter19,
   ...chroniclesChapter20,
+  ...chroniclesChapter21,
 }
 
 export function getChapter(book: string, chapter: number): Chapter | null {
