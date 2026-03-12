@@ -305,6 +305,7 @@ import { twoKingsChapter4 } from './2-kings-4'
 import { twoKingsChapter5 } from './2-kings-5'
 import { twoKingsChapter6 } from './2-kings-6'
 import { twoKingsChapter7 } from './2-kings-7'
+import { twoKingsChapter8 } from './2-kings-8'
 import { kingsChapter7 } from './1-kings-7'
 import { markChapters18 } from './mark-1-8'
 import { markChapters916 } from './mark-9-16'
@@ -4039,7 +4040,7 @@ export const sampleChapters: Record<string, Chapter> = {
       { book: "Matthew", chapter: 10, verse: 1, text: "And when he had called unto him his twelve disciples, he gave them power against unclean spirits, to cast them out, and to heal all manner of sickness and all manner of disease.", highlightedWords: [{ word: "disciples", strongNumber: "G3101", language: "Greek", lemma: "mathetes", meaning: "learner, follower" }, { word: "power", strongNumber: "G1849", language: "Greek", lemma: "exousia", meaning: "authority, power" }] },
       { book: "Matthew", chapter: 10, verse: 2, text: "Now the names of the twelve apostles are these; The first, Simon, who is called Peter; and Andrew his brother; James the son of Zebedee, and John his brother;", highlightedWords: [{ word: "apostles", strongNumber: "G652", language: "Greek", lemma: "apostolos", meaning: "apostle, one sent forth" }, { word: "Peter", strongNumber: "G4074", language: "Greek", lemma: "Petros", meaning: "rock, stone" }] },
       { book: "Matthew", chapter: 10, verse: 3, text: "Philip, and Bartholomew; Thomas, and Matthew the publican; James the son of Alphaeus, and Lebbaeus, whose surname was Thaddaeus;", highlightedWords: [{ word: "publican", strongNumber: "G5057", language: "Greek", lemma: "telōnēs", meaning: "tax collector" }, { word: "Matthew", strongNumber: "G3156", language: "Greek", lemma: "Matthaios", meaning: "gift of God" }] },
-      { book: "Matthew", chapter: 10, verse: 4, text: "Simon the Canaanite, and Judas Iscariot, who also betrayed him.", highlightedWords: [{ word: "Canaanite", strongNumber: "G2581", language: "Greek", lemma: "Kananaios", meaning: "zealous one" }, { word: "betrayed", strongNumber: "G3860", language: "Greek", lemma: "paradidōmi", meaning: "to hand over, betray" }] },
+      { book: "Matthew", chapter: 10, verse: 4, text: "Simon the Canaanite, and Judas Iscariot, who also betrayed him.", highlightedWords: [{ word: "Canaanite", strongNumber: "G2581", language: "Greek", lemma: "Kananaios", meaning: "zealous one" }, { word: "betrayed", strongNumber: "G3860", language: "Greek", lemma: "paradid��mi", meaning: "to hand over, betray" }] },
       { book: "Matthew", chapter: 10, verse: 5, text: "These twelve Jesus sent forth, and commanded them, saying, Go not into the way of the Gentiles, and into any city of the Samaritans enter ye not:", highlightedWords: [{ word: "Gentiles", strongNumber: "G1484", language: "Greek", lemma: "ethnos", meaning: "nation, people, gentiles" }, { word: "Samaritans", strongNumber: "G4541", language: "Greek", lemma: "Samaritēs", meaning: "Samaritan" }] },
       { book: "Matthew", chapter: 10, verse: 6, text: "But go rather to the lost sheep of the house of Israel.", highlightedWords: [{ word: "lost", strongNumber: "G622", language: "Greek", lemma: "apollumi", meaning: "to destroy, lose, perish" }, { word: "sheep", strongNumber: "G4263", language: "Greek", lemma: "probaton", meaning: "sheep" }] },
       { book: "Matthew", chapter: 10, verse: 7, text: "And as ye go, preach, saying, The kingdom of heaven is at hand.", highlightedWords: [{ word: "preach", strongNumber: "G2784", language: "Greek", lemma: "kērussō", meaning: "to proclaim, herald" }, { word: "kingdom", strongNumber: "G932", language: "Greek", lemma: "basileia", meaning: "realm, sovereignty" }] },
@@ -4567,6 +4568,7 @@ export const sampleChapters: Record<string, Chapter> = {
   ...twoKingsChapter5,
   ...twoKingsChapter6,
   ...twoKingsChapter7,
+  ...twoKingsChapter8,
 }
 
 export function getChapter(book: string, chapter: number): Chapter | null {
