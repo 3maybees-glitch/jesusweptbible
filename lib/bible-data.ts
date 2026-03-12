@@ -223,6 +223,7 @@ import { judgesChapter19 } from './judges-19'
 import { judgesChapter20 } from './judges-20'
 import { ruthChapter1 } from './ruth-1'
 import { ruthChapter2 } from './ruth-2'
+import { ruthChapter3 } from './ruth-3'
 import { markChapters18 } from './mark-1-8'
 import { markChapters916 } from './mark-9-16'
 import { lukeChapter1 } from './luke-1'
@@ -3446,7 +3447,7 @@ export const sampleChapters: Record<string, Chapter> = {
         text: "Therefore I say unto you, Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on. Is not the life more than meat, and the body than raiment?",
         highlightedWords: [
           { word: "thought", strongNumber: "G3309", language: "Greek", lemma: "merimnao", meaning: "to care, be anxious" },
-          { word: "life", strongNumber: "G5590", language: "Greek", lemma: "psychē", meaning: "soul, life, self" },
+          { word: "life", strongNumber: "G5590", language: "Greek", lemma: "psych��", meaning: "soul, life, self" },
         ],
       },
       {
@@ -4401,6 +4402,7 @@ export const sampleChapters: Record<string, Chapter> = {
   ...judgesChapter20,
   ...ruthChapter1,
   ...ruthChapter2,
+  ...ruthChapter3,
 }
 
 export function getChapter(book: string, chapter: number): Chapter | null {
