@@ -307,6 +307,7 @@ import { twoKingsChapter6 } from './2-kings-6'
 import { twoKingsChapter7 } from './2-kings-7'
 import { twoKingsChapter8 } from './2-kings-8'
 import { twoKingsChapter9 } from './2-kings-9'
+import { twoKingsChapter10 } from './2-kings-10'
 import { twoKingsChapter11 } from './2-kings-11'
 import { kingsChapter7 } from './1-kings-7'
 import { markChapters18 } from './mark-1-8'
@@ -4572,6 +4573,7 @@ export const sampleChapters: Record<string, Chapter> = {
   ...twoKingsChapter7,
   ...twoKingsChapter8,
   ...twoKingsChapter9,
+  ...twoKingsChapter10,
   ...twoKingsChapter11,
 }
 
