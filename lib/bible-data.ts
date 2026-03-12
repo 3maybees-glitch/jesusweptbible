@@ -316,6 +316,7 @@ import { twoKingsChapter15 } from './2-kings-15'
 import { twoKingsChapter16 } from './2-kings-16'
 import { twoKingsChapter17 } from './2-kings-17'
 import { twoKingsChapter18 } from './2-kings-18'
+import { twoKingsChapter19 } from './2-kings-19'
 import { kingsChapter7 } from './1-kings-7'
 import { markChapters18 } from './mark-1-8'
 import { markChapters916 } from './mark-9-16'
@@ -4010,7 +4011,7 @@ export const sampleChapters: Record<string, Chapter> = {
       { book: "Matthew", chapter: 9, verse: 12, text: "But when Jesus heard that, he said unto them, They that be whole need not a physician, but they that are sick.", highlightedWords: [{ word: "physician", strongNumber: "G2395", language: "Greek", lemma: "iatros", meaning: "physician, doctor" }, { word: "sick", strongNumber: "G770", language: "Greek", lemma: "astheneō", meaning: "to be weak, sick" }] },
       { book: "Matthew", chapter: 9, verse: 13, text: "But go ye and learn what that meaneth, I will have mercy, and not sacrifice: for I am not come to call the righteous, but sinners to repentance.", highlightedWords: [{ word: "mercy", strongNumber: "G1656", language: "Greek", lemma: "eleos", meaning: "mercy, compassion" }, { word: "repentance", strongNumber: "G3341", language: "Greek", lemma: "metanoia", meaning: "repentance, conversion" }] },
       { book: "Matthew", chapter: 9, verse: 14, text: "Then came to him the disciples of John, saying, Why do we and the Pharisees fast oft, but thy disciples fast not?", highlightedWords: [{ word: "disciples", strongNumber: "G3101", language: "Greek", lemma: "mathetes", meaning: "learner, follower, disciple" }, { word: "fast", strongNumber: "G3522", language: "Greek", lemma: "nēsteuō", meaning: "to fast, abstain from food" }] },
-      { book: "Matthew", chapter: 9, verse: 15, text: "And Jesus said unto them, Can the children of the bridechamber mourn, as long as the bridegroom is with them? but the days will come, when the bridegroom shall be taken from them, and then shall they fast.", highlightedWords: [{ word: "bridegroom", strongNumber: "G3566", language: "Greek", lemma: "numphios", meaning: "bridegroom, groom" }, { word: "fast", strongNumber: "G3522", language: "Greek", lemma: "nēsteuō", meaning: "to fast, abstain" }] },
+      { book: "Matthew", chapter: 9, verse: 15, text: "And Jesus said unto them, Can the children of the bridechamber mourn, as long as the bridegroom is with them? but the days will come, when the bridegroom shall be taken from them, and then shall they fast.", highlightedWords: [{ word: "bridegroom", strongNumber: "G3566", language: "Greek", lemma: "numphios", meaning: "bridegroom, groom" }, { word: "fast", strongNumber: "G3522", language: "Greek", lemma: "n��steuō", meaning: "to fast, abstain" }] },
       { book: "Matthew", chapter: 9, verse: 16, text: "No man putteth a piece of new cloth unto an old garment, for the piece that is put in to fill it up taketh from the garment, and the rent is made worse.", highlightedWords: [{ word: "cloth", strongNumber: "G4470", language: "Greek", lemma: "schema", meaning: "form, appearance, garment" }, { word: "garment", strongNumber: "G2440", language: "Greek", lemma: "himation", meaning: "garment, robe, clothing" }] },
       { book: "Matthew", chapter: 9, verse: 17, text: "Neither do men put new wine into old bottles: else the bottles break, and the wine runneth out, and the bottles perish: but they put new wine into new bottles, and both are preserved.", highlightedWords: [{ word: "wine", strongNumber: "G3631", language: "Greek", lemma: "oinos", meaning: "wine" }, { word: "bottles", strongNumber: "G779", language: "Greek", lemma: "askos", meaning: "wineskin, bottle" }] },
       { book: "Matthew", chapter: 9, verse: 18, text: "While he spake these things unto them, behold, there came a certain ruler, and worshipped him, saying, My daughter is even now dead: but come and lay thy hand upon her, and she shall live.", highlightedWords: [{ word: "ruler", strongNumber: "G758", language: "Greek", lemma: "archōn", meaning: "ruler, chief, prince" }, { word: "worshipped", strongNumber: "G4352", language: "Greek", lemma: "proskuneō", meaning: "to bow down, do homage" }] },
@@ -4589,6 +4590,7 @@ export const sampleChapters: Record<string, Chapter> = {
   ...twoKingsChapter16,
   ...twoKingsChapter17,
   ...twoKingsChapter18,
+  ...twoKingsChapter19,
 }
 
 export function getChapter(book: string, chapter: number): Chapter | null {
