@@ -1,0 +1,17 @@
+export const judgesChapter12 = {
+  '12:1': { verse: '12:1', text: 'And the men of Ephraim gathered themselves together, and went northward, and said unto Jephthah, Wherefore passedst thou over to fight against the children of Ammon, and didst not call us to go with thee? we will burn thine house upon thee with fire.', lemmas: { Ephraim: 'Ephrayim', Jephthah: "Yiphtach" } },
+  '12:2': { verse: '12:2', text: 'And Jephthah said unto them, I and my people were at great strife with the children of Ammon; and when I called you, ye delivered me not out of their hands.', lemmas: { Jephthah: "Yiphtach", Ammon: 'Ammon' } },
+  '12:3': { verse: '12:3', text: 'And when I saw that ye delivered me not, I put my life in my hands, and passed over against the children of Ammon, and the LORD delivered them into my hand: wherefore then are ye come up unto me this day, to fight against me?', lemmas: { LORD: 'YHWH', Ammon: 'Ammon' } },
+  '12:4': { verse: '12:4', text: 'Then Jephthah gathered together all the men of Gilead, and fought with Ephraim: and the men of Gilead smote Ephraim, because they said, Ye Gileadites are fugitives of Ephraim among the Ephraimites, and among the Manassites.', lemmas: { Gileadites: "Gil'adi", Ephraim: 'Ephrayim' } },
+  '12:5': { verse: '12:5', text: 'And the Gileadites took the passages of Jordan before the Ephraimites: and it was so, that when those Ephraimites which were escaped said, Let me go over; that the men of Gilead said unto him, Art thou an Ephraimite? If he said, Nay;', lemmas: { Gileadites: "Gil'adi", Jordan: 'Yarden' } },
+  '12:6': { verse: '12:6', text: 'Then said they unto him, Say now Shibboleth: and he said Sibboleth: for he could not frame to pronounce it right. Then they took him, and slew him at the passages of Jordan: and there fell at that time of the Ephraimites forty and two thousand.', lemmas: { Shibboleth: 'shibboleth', Jordan: 'Yarden' } },
+  '12:7': { verse: '12:7', text: 'And Jephthah judged Israel six years. Then died Jephthah the Gileadite, and was buried in one of the cities of Gilead.', lemmas: { Jephthah: "Yiphtach", Gilead: "Gil'ad" } },
+  '12:8': { verse: '12:8', text: 'And after him Ibzan of Bethlehem judged Israel.', lemmas: { Ibzan: 'Ibtsan', Bethlehem: "Beth-lechem" } },
+  '12:9': { verse: '12:9', text: 'And he had thirty sons, and thirty daughters, whom he sent abroad, and took in thirty daughters from abroad for his sons. And he judged Israel seven years.', lemmas: { sons: 'ben', daughters: 'bat' } },
+  '12:10': { verse: '12:10', text: 'Then died Ibzan, and was buried at Bethlehem.', lemmas: { Ibzan: 'Ibtsan', Bethlehem: "Beth-lechem" } },
+  '12:11': { verse: '12:11', text: 'And after him Elon, a Zebulonite, judged Israel; and he judged Israel ten years.', lemmas: { Elon: "'Elon", Israel: "Yisra'el" } },
+  '12:12': { verse: '12:12', text: 'And Elon the Zebulonite died, and was buried in Aijalon in the country of Zebulun.', lemmas: { Elon: "'Elon", Zebulun: 'Zebulun' } },
+  '12:13': { verse: '12:13', text: 'And after him Abdon the son of Hillel, a Pirathonite, judged Israel.', lemmas: { Abdon: "'Abdon", Israel: "Yisra'el" } },
+  '12:14': { verse: '12:14', text: 'And he had forty sons and thirty nephews, that rode on threescore and ten ass colts: and he judged Israel eight years.', lemmas: { sons: 'ben', Israel: "Yisra'el" } },
+  '12:15': { verse: '12:15', text: 'And Abdon the son of Hillel the Pirathonite died, and was buried in Pirathon in the land of Ephraim, in the mount of the Amalekites.', lemmas: { Abdon: "'Abdon", Amalekites: "'Amaleqi" } },
+}
