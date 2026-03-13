@@ -51,7 +51,8 @@ const fallbackData: CharactersData = {
 export default function CharactersPage() {
   const [data, setData] = useState<CharactersData>(fallbackData)
   const [loading, setLoading] = useState(true)
-  const [error, setError] = useState<string | null>(null)
+  const [selectedGroup, setSelectedGroup] = useState<string | null>(null)
+  const [selectedCharacter, setSelectedCharacter] = useState<TopCharacter | null>(null)
 
   useEffect(() => {
     const loadCharacters = async () => {
@@ -101,14 +102,31 @@ export default function CharactersPage() {
           <h2 className="text-2xl font-semibold mb-4">Browse Character Groups</h2>
           <div className="grid md:grid-cols-2 gap-4">
             {data.characterGroups.map((group) => (
-              <Card key={group.name} className="cursor-pointer hover:shadow-lg transition">
-                <CardContent className="p-5">
-                  <h3 className="text-lg font-semibold">{group.name}</h3>
-                  <p className="text-sm text-muted-foreground">
-                    {group.description}
-                  </p>
-                </CardContent>
-              </Card>
+              <button
+                key={group.name}
+                onClick={() => setSelectedGroup(selectedGroup === group.name ? null : group.name)}
+                className="text-left"
+              >
+                <Card
+                  className={`cursor-pointer transition-all ${
+                    selectedGroup === group.name
+                      ? "ring-2 ring-accent shadow-lg bg-accent/5"
+                      : "hover:shadow-lg"
+                  }`}
+                >
+                  <CardContent className="p-5">
+                    <h3 className="text-lg font-semibold">{group.name}</h3>
+                    <p className="text-sm text-muted-foreground">
+                      {group.description}
+                    </p>
+                    {selectedGroup === group.name && (
+                      <p className="text-xs text-accent font-medium mt-3">
+                        ✓ Selected
+                      </p>
+                    )}
+                  </CardContent>
+                </Card>
+              </button>
             ))}
           </div>
         </div>
@@ -120,20 +138,64 @@ export default function CharactersPage() {
           <h2 className="text-2xl font-semibold mb-4">Top Bible Characters</h2>
           <div className="grid md:grid-cols-3 gap-4">
             {data.topCharacters.map((person) => (
-              <Card key={person.name} className="hover:shadow-lg transition">
-                <CardContent className="p-5 space-y-1">
-                  <h3 className="font-semibold">{person.name}</h3>
-                  <p className="text-sm text-muted-foreground">
-                    {person.theme}
-                  </p>
-                  <p className="text-xs text-muted-foreground">
-                    {person.ref}
-                  </p>
-                </CardContent>
-              </Card>
+              <button
+                key={person.name}
+                onClick={() => setSelectedCharacter(
+                  selectedCharacter?.name === person.name ? null : person
+                )}
+                className="text-left"
+              >
+                <Card
+                  className={`cursor-pointer transition-all ${
+                    selectedCharacter?.name === person.name
+                      ? "ring-2 ring-accent shadow-lg bg-accent/5"
+                      : "hover:shadow-lg"
+                  }`}
+                >
+                  <CardContent className="p-5 space-y-1">
+                    <h3 className="font-semibold">{person.name}</h3>
+                    <p className="text-sm text-muted-foreground">
+                      {person.theme}
+                    </p>
+                    <p className="text-xs text-muted-foreground">
+                      {person.ref}
+                    </p>
+                    {selectedCharacter?.name === person.name && (
+                      <p className="text-xs text-accent font-medium mt-2">
+                        ✓ Selected
+                      </p>
+                    )}
+                  </CardContent>
+                </Card>
+              </button>
             ))}
           </div>
         </div>
+      )}
+
+      {/* Selected Character Details */}
+      {selectedCharacter && (
+        <Card className="bg-accent/10 border-accent/50">
+          <CardContent className="p-6 space-y-3">
+            <div>
+              <h3 className="text-2xl font-bold text-foreground">
+                {selectedCharacter.name}
+              </h3>
+              <p className="text-lg text-accent font-semibold">
+                {selectedCharacter.theme}
+              </p>
+              <p className="text-sm text-muted-foreground mt-2">
+                Scripture: {selectedCharacter.ref}
+              </p>
+            </div>
+            <button
+              onClick={() => setSelectedCharacter(null)}
+              className="text-sm text-muted-foreground hover:text-foreground transition-colors"
+            >
+              ✕ Close details
+            </button>
+          </CardContent>
+        </Card>
       )}
 
       <div className="pt-4">
@@ -141,12 +203,6 @@ export default function CharactersPage() {
           View All {data.characterGroups?.length ?? 8} Character Groups
         </Button>
       </div>
-
-      {error && (
-        <div className="p-4 bg-yellow-50 border border-yellow-200 rounded-lg">
-          <p className="text-sm text-yellow-800">Note: {error}</p>
-        </div>
-      )}
     </div>
   )
 }
