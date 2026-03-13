@@ -1,0 +1,62 @@
+{
+  "bibleCharacters": [
+    { "name": "Adam", "twoWordTheme": "First Man", "strongNumber": "H120", "lemma": "adam", "meaning": "first human created by God, ancestor of humanity", "referenceRange": "Genesis 1–5" },
+    { "name": "Eve", "twoWordTheme": "Living Mother", "strongNumber": "H2332", "lemma": "chavvah", "meaning": "mother of all living", "referenceRange": "Genesis 2–4" },
+    { "name": "Noah", "twoWordTheme": "Ark Builder", "strongNumber": "H5146", "lemma": "noach", "meaning": "righteous man preserved through the flood", "referenceRange": "Genesis 5–10" },
+    { "name": "Abraham", "twoWordTheme": "Covenant Father", "strongNumber": "H85", "lemma": "abraham", "meaning": "father of a multitude and patriarch of Israel", "referenceRange": "Genesis 11–25" },
+    { "name": "Sarah", "twoWordTheme": "Promised Mother", "strongNumber": "H8283", "lemma": "sarah", "meaning": "wife of Abraham and mother of Isaac", "referenceRange": "Genesis 11–23" },
+    { "name": "Isaac", "twoWordTheme": "Promised Son", "strongNumber": "H3327", "lemma": "yitschaq", "meaning": "son of Abraham through whom covenant continues", "referenceRange": "Genesis 21–35" },
+    { "name": "Jacob", "twoWordTheme": "Israel Father", "strongNumber": "H3290", "lemma": "yaaqob", "meaning": "patriarch renamed Israel, father of the twelve tribes", "referenceRange": "Genesis 25–49" },
+    { "name": "Joseph", "twoWordTheme": "Dream Ruler", "strongNumber": "H3130", "lemma": "yoseph", "meaning": "son of Jacob who became ruler in Egypt", "referenceRange": "Genesis 37–50" },
+    { "name": "Moses", "twoWordTheme": "Law Giver", "strongNumber": "H4872", "lemma": "mosheh", "meaning": "prophet who delivered Israel and gave the law", "referenceRange": "Exodus–Deuteronomy" },
+    { "name": "Aaron", "twoWordTheme": "High Priest", "strongNumber": "H175", "lemma": "aharon", "meaning": "brother of Moses and first high priest", "referenceRange": "Exodus–Numbers" },
+
+    { "name": "Joshua", "twoWordTheme": "Faithful Leader", "strongNumber": "H3091", "lemma": "yehoshua", "meaning": "successor of Moses who led Israel into the land", "referenceRange": "Exodus–Joshua" },
+    { "name": "Deborah", "twoWordTheme": "Prophet Judge", "strongNumber": "H1683", "lemma": "devorah", "meaning": "prophetess and judge who led Israel to victory", "referenceRange": "Judges 4–5" },
+    { "name": "Gideon", "twoWordTheme": "Reluctant Deliverer", "strongNumber": "H1439", "lemma": "gidon", "meaning": "judge who defeated Midian with a small army", "referenceRange": "Judges 6–8" },
+    { "name": "Samson", "twoWordTheme": "Nazirite Judge", "strongNumber": "H8123", "lemma": "shimshon", "meaning": "judge known for extraordinary strength", "referenceRange": "Judges 13–16" },
+    { "name": "Ruth", "twoWordTheme": "Faithful Foremother", "strongNumber": "H7327", "lemma": "rut", "meaning": "Moabite woman who became ancestor of David", "referenceRange": "Ruth 1–4" },
+    { "name": "Samuel", "twoWordTheme": "Prophet Judge", "strongNumber": "H8050", "lemma": "shemuel", "meaning": "prophet who anointed Israel's kings", "referenceRange": "1 Samuel 1–25" },
+    { "name": "Saul", "twoWordTheme": "First King", "strongNumber": "H7586", "lemma": "shaul", "meaning": "first king of Israel", "referenceRange": "1 Samuel 9–31" },
+    { "name": "David", "twoWordTheme": "Shepherd King", "strongNumber": "H1732", "lemma": "david", "meaning": "king of Israel and ancestor of Messiah", "referenceRange": "1 Samuel 16 – 1 Kings 2" },
+    { "name": "Solomon", "twoWordTheme": "Wise King", "strongNumber": "H8010", "lemma": "shelomoh", "meaning": "king known for wisdom who built the temple", "referenceRange": "1 Kings 1–11" },
+    { "name": "Elijah", "twoWordTheme": "Fire Prophet", "strongNumber": "H452", "lemma": "eliyahu", "meaning": "prophet who confronted Baal worship", "referenceRange": "1 Kings 17 – 2 Kings 2" },
+
+    { "name": "Elisha", "twoWordTheme": "Miracle Prophet", "strongNumber": "H477", "lemma": "elisha", "meaning": "successor of Elijah performing miracles", "referenceRange": "1 Kings 19 – 2 Kings 13" },
+    { "name": "Isaiah", "twoWordTheme": "Messianic Prophet", "strongNumber": "H3470", "lemma": "yeshayahu", "meaning": "prophet foretelling the coming Messiah", "referenceRange": "Isaiah 1–66" },
+    { "name": "Jeremiah", "twoWordTheme": "Weeping Prophet", "strongNumber": "H3414", "lemma": "yirmeyahu", "meaning": "prophet warning Judah before exile", "referenceRange": "Jeremiah 1–52" },
+    { "name": "Ezekiel", "twoWordTheme": "Vision Prophet", "strongNumber": "H3168", "lemma": "yechezqel", "meaning": "prophet receiving visions in exile", "referenceRange": "Ezekiel 1–48" },
+    { "name": "Daniel", "twoWordTheme": "Exile Prophet", "strongNumber": "H1840", "lemma": "daniyyel", "meaning": "prophet known for faith and visions", "referenceRange": "Daniel 1–12" },
+
+    { "name": "Mary", "twoWordTheme": "Messiah Mother", "strongNumber": "G3137", "lemma": "mariam", "meaning": "mother of Jesus the Messiah", "referenceRange": "Matthew 1 – Acts 1" },
+    { "name": "Joseph", "twoWordTheme": "Righteous Guardian", "strongNumber": "G2501", "lemma": "ioseph", "meaning": "earthly guardian of Jesus", "referenceRange": "Matthew 1–2" },
+    { "name": "John the Baptist", "twoWordTheme": "Forerunner Prophet", "strongNumber": "G2491", "lemma": "ioannes", "meaning": "prophet preparing the way for Christ", "referenceRange": "Matthew 3 – John 5" },
+    { "name": "Jesus", "twoWordTheme": "Messiah Savior", "strongNumber": "G2424", "lemma": "iesous", "meaning": "Son of God and Savior of the world", "referenceRange": "Matthew – Revelation" },
+
+    { "name": "Peter", "twoWordTheme": "Apostle Leader", "strongNumber": "G4074", "lemma": "petros", "meaning": "leading apostle among the disciples", "referenceRange": "Matthew – Acts" },
+    { "name": "Andrew", "twoWordTheme": "Calling Apostle", "strongNumber": "G406", "lemma": "andreas", "meaning": "disciple who brought others to Jesus", "referenceRange": "Matthew – Acts" },
+    { "name": "James", "twoWordTheme": "Martyr Apostle", "strongNumber": "G2385", "lemma": "iakobos", "meaning": "apostle and early martyr", "referenceRange": "Matthew – Acts 12" },
+    { "name": "John", "twoWordTheme": "Beloved Apostle", "strongNumber": "G2491", "lemma": "ioannes", "meaning": "apostle and gospel writer", "referenceRange": "Matthew – Revelation" },
+    { "name": "Matthew", "twoWordTheme": "Gospel Writer", "strongNumber": "G3156", "lemma": "matthaios", "meaning": "apostle and author of Matthew", "referenceRange": "Matthew – Acts" },
+    { "name": "Thomas", "twoWordTheme": "Doubting Apostle", "strongNumber": "G2381", "lemma": "thomas", "meaning": "disciple who later confessed faith", "referenceRange": "John – Acts" },
+
+    { "name": "Mary Magdalene", "twoWordTheme": "Resurrection Witness", "strongNumber": "G3094", "lemma": "magdalene", "meaning": "disciple who first saw the risen Christ", "referenceRange": "Luke 8 – John 20" },
+    { "name": "Lazarus", "twoWordTheme": "Raised Witness", "strongNumber": "G2976", "lemma": "lazaros", "meaning": "man raised from the dead by Jesus", "referenceRange": "John 11–12" },
+
+    { "name": "Stephen", "twoWordTheme": "First Martyr", "strongNumber": "G4736", "lemma": "stephanos", "meaning": "first Christian martyr", "referenceRange": "Acts 6–7" },
+    { "name": "Barnabas", "twoWordTheme": "Encouraging Apostle", "strongNumber": "G921", "lemma": "barnabas", "meaning": "missionary companion of Paul", "referenceRange": "Acts 4 – Acts 15" },
+    { "name": "Paul", "twoWordTheme": "Gentile Apostle", "strongNumber": "G3972", "lemma": "paulos", "meaning": "missionary apostle to the Gentiles", "referenceRange": "Acts 7 – 2 Timothy" },
+    { "name": "Timothy", "twoWordTheme": "Young Pastor", "strongNumber": "G5095", "lemma": "timotheos", "meaning": "disciple and coworker of Paul", "referenceRange": "Acts 16 – 2 Timothy" },
+    { "name": "Titus", "twoWordTheme": "Church Leader", "strongNumber": "G5103", "lemma": "titos", "meaning": "trusted coworker of Paul", "referenceRange": "2 Corinthians – Titus" },
+    { "name": "Luke", "twoWordTheme": "Gospel Historian", "strongNumber": "G3065", "lemma": "loukas", "meaning": "physician and author of Luke and Acts", "referenceRange": "Luke – Acts" },
+    { "name": "Mark", "twoWordTheme": "Gospel Writer", "strongNumber": "G3138", "lemma": "markos", "meaning": "companion of Peter and author of Mark", "referenceRange": "Acts – Mark" },
+
+    { "name": "Pontius Pilate", "twoWordTheme": "Roman Governor", "strongNumber": "G4091", "lemma": "pilatos", "meaning": "Roman governor who authorized Jesus' crucifixion", "referenceRange": "Matthew 27 – Acts 4" },
+    { "name": "Herod the Great", "twoWordTheme": "Ruthless King", "strongNumber": "G2264", "lemma": "herodes", "meaning": "king ruling Judea at Jesus' birth", "referenceRange": "Matthew 2" },
+
+    { "name": "Cornelius", "twoWordTheme": "Gentile Convert", "strongNumber": "G2883", "lemma": "kornelios", "meaning": "first major Gentile convert in Acts", "referenceRange": "Acts 10–11" },
+    { "name": "Lydia", "twoWordTheme": "Faithful Merchant", "strongNumber": "G3070", "lemma": "lydia", "meaning": "seller of purple cloth who believed the gospel", "referenceRange": "Acts 16" },
+
+    { "name": "John (Revelation)", "twoWordTheme": "Vision Apostle", "strongNumber": "G2491", "lemma": "ioannes", "meaning": "apostle receiving the Revelation visions", "referenceRange": "Revelation 1–22" }
+  ]
+}

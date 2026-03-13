@@ -2,7 +2,7 @@
 
 import Link from "next/link"
 import { ChevronLeft } from "lucide-react"
-import { CharactersPage } from "@/components/characters-page"
+import CharactersPage from "@/components/characters-page"
 
 export default function CharactersRoute() {
   return (
