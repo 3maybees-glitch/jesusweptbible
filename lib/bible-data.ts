@@ -18,6 +18,89 @@ export interface Book {
   chapters: number
 }
 
+export interface HighlightedWord {
+  word: string
+  definition?: string
+}
+
+// Sample chapters object - populated from /public/data/bible-chapters/ JSON files
+// When you upload JSON files, they will be automatically loaded at runtime
+export const sampleChapters: Record<string, Chapter> = {}
+
+/**
+ * Fetch a chapter from the API endpoint
+ * Format: Matthew-1, Genesis-5, Job-7, etc.
+ */
+export async function fetchChapter(book: string, chapter: number): Promise<Chapter | null> {
+  try {
+    const fileName = `${book}-${chapter}`
+    const response = await fetch(`/api/chapters?chapter=${fileName}`)
+    
+    if (!response.ok) {
+      return null
+    }
+    
+    return await response.json()
+  } catch (error) {
+    console.error(`[v0] Error fetching chapter ${book} ${chapter}:`, error)
+    return null
+  }
+}
+
+/**
+ * Get all available chapters from the API
+ */
+export async function fetchAllChapters(): Promise<string[]> {
+  try {
+    const response = await fetch(`/api/chapters`)
+    
+    if (!response.ok) {
+      return []
+    }
+    
+    const data = await response.json()
+    return data.chapters || []
+  } catch (error) {
+    console.error('[v0] Error fetching available chapters:', error)
+    return []
+  }
+}
+
+export function getChapter(book: string, chapter: number): Chapter | null {
+  const normalizedBook = book.replace(/\s+/g, '')
+  const key = `${normalizedBook}-${chapter}`
+  const chapterData = sampleChapters[key]
+  
+  if (!chapterData) return null
+  
+  // Add book and chapter fields to each verse if they're missing
+  return {
+    ...chapterData,
+    verses: chapterData.verses.map((verse) => ({
+      ...verse,
+      book: verse.book || chapterData.book,
+      chapter: verse.chapter !== undefined ? verse.chapter : chapterData.chapter,
+    }))
+  }
+}
+
+export function getBookByName(name: string): Book | undefined {
+  return bibleBooks.find((b) => b.name === name)
+}
+
+export interface Chapter {
+  book: string
+  chapter: number
+  verses: Verse[]
+}
+
+export interface Book {
+  name: string
+  abbreviation: string
+  testament: 'OT' | 'NT'
+  chapters: number
+}
+
 // Sample chapters object - populated from /public/data/bible-chapters/ JSON files
 // When you upload JSON files, they will be automatically loaded at runtime
 export const sampleChapters: Record<string, Chapter> = {}
