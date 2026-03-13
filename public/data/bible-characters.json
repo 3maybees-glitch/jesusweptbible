@@ -1,0 +1,71 @@
+{
+  "characterGroups": [
+    { "name": "Patriarchs", "description": "Abraham, Isaac, Jacob, Joseph" },
+    { "name": "Judges", "description": "Deborah, Gideon, Samson, Samuel" },
+    { "name": "Kings", "description": "Saul, David, Solomon, Hezekiah" },
+    { "name": "Prophets", "description": "Isaiah, Jeremiah, Ezekiel, Daniel" },
+    { "name": "Women of Faith", "description": "Sarah, Ruth, Esther, Mary" },
+    { "name": "Apostles", "description": "Peter, John, James, Matthew, Paul" },
+    { "name": "Early Church", "description": "Stephen, Barnabas, Timothy, Titus" },
+    { "name": "Roman Rulers", "description": "Pilate, Herod, Festus, Felix" }
+  ],
+  "topCharacters": [
+    {
+      "name": "Solomon",
+      "theme": "Wise King",
+      "ref": "1 Kings 1–11",
+      "highlightedWords": [
+        {
+          "word": "Wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "Practical understanding and skill in living according to God's truth"
+        },
+        {
+          "word": "King",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "A sovereign ruler chosen by God to govern His people"
+        }
+      ]
+    },
+    {
+      "name": "David",
+      "theme": "Shepherd King",
+      "ref": "1 Samuel 16 – 1 Kings 2",
+      "highlightedWords": [
+        {
+          "word": "Covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "A binding agreement establishing eternal relationship between God and David's house"
+        },
+        {
+          "word": "Heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "The seat of emotions, will, and devotion to God"
+        }
+      ]
+    },
+    {
+      "name": "Moses",
+      "theme": "Law Giver",
+      "ref": "Exodus–Deuteronomy",
+      "highlightedWords": [
+        {
+          "word": "Law",
+          "strongNumber": "H8451",
+          "lemma": "torah",
+          "meaning": "Divine instruction and revealed will of God for His people"
+        },
+        {
+          "word": "Mediator",
+          "strongNumber": "H996",
+          "lemma": "bein",
+          "meaning": "One who stands between God and humanity to communicate God's purposes"
+        }
+      ]
+    }
+  ]
+}
