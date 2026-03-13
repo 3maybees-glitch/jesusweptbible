@@ -295,10 +295,10 @@ export const bookThemes: BookTheme[] = [
   },
   {
     book: "Zephaniah",
-    theme: "Day LORD",
+    theme: "Judgment Nations",
     words: [
-      { word: "Day", strongNumber: "H3117", lemma: "yom", meaning: "appointed time of divine intervention." },
-      { word: "LORD", strongNumber: "H3068", lemma: "yahweh", meaning: "the covenant God bringing judgment and restoration." },
+      { word: "Judgment", strongNumber: "H4941", lemma: "mishpat", meaning: "justice, verdict, or divine decision executed by God." },
+      { word: "Nations", strongNumber: "H1471", lemma: "goy", meaning: "peoples or nations, often referring to the Gentile world." },
     ],
   },
   {
