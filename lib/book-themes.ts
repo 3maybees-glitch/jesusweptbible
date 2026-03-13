@@ -109,6 +109,222 @@ export const bookThemes: BookTheme[] = [
       { word: "Judgment", strongNumber: "H4941", lemma: "mishpat", meaning: "justice, verdict, or divine decision." },
     ],
   },
+  {
+    book: "1 Chronicles",
+    theme: "David Kingdom",
+    words: [
+      { word: "David", strongNumber: "H1732", lemma: "david", meaning: "beloved; the king chosen by God whose lineage carries the covenant promise." },
+      { word: "Kingdom", strongNumber: "H4467", lemma: "mamlakah", meaning: "royal dominion or realm ruled by a king." },
+    ],
+  },
+  {
+    book: "2 Chronicles",
+    theme: "Temple House",
+    words: [
+      { word: "Temple", strongNumber: "H1964", lemma: "hekal", meaning: "palace or sanctuary; the dwelling place of God among His people." },
+      { word: "House", strongNumber: "H1004", lemma: "bayith", meaning: "house, dwelling, or household; often referring to the house of God." },
+    ],
+  },
+  {
+    book: "Ezra",
+    theme: "House God",
+    words: [
+      { word: "House", strongNumber: "H1004", lemma: "bayith", meaning: "dwelling place or temple structure." },
+      { word: "God", strongNumber: "H430", lemma: "elohim", meaning: "the supreme divine being; the Creator and covenant God of Israel." },
+    ],
+  },
+  {
+    book: "Nehemiah",
+    theme: "Wall Jerusalem",
+    words: [
+      { word: "Wall", strongNumber: "H2346", lemma: "chomah", meaning: "a protective wall surrounding a city for defense." },
+      { word: "Jerusalem", strongNumber: "H3389", lemma: "yerushalaim", meaning: "the holy city chosen by God as the center of worship." },
+    ],
+  },
+  {
+    book: "Esther",
+    theme: "King Queen",
+    words: [
+      { word: "King", strongNumber: "H4428", lemma: "melek", meaning: "sovereign ruler over a nation." },
+      { word: "Queen", strongNumber: "H4436", lemma: "malkah", meaning: "female royal ruler or consort of a king." },
+    ],
+  },
+  {
+    book: "Job",
+    theme: "Suffering Wisdom",
+    words: [
+      { word: "Suffering", strongNumber: "H5999", lemma: "amal", meaning: "painful toil, misery, or deep affliction." },
+      { word: "Wisdom", strongNumber: "H2451", lemma: "chokmah", meaning: "skill in living; divine insight into truth and righteousness." },
+    ],
+  },
+  {
+    book: "Psalms",
+    theme: "Praise LORD",
+    words: [
+      { word: "Praise", strongNumber: "H1984", lemma: "halal", meaning: "to boast, celebrate, or glorify with joyful praise." },
+      { word: "LORD", strongNumber: "H3068", lemma: "yahweh", meaning: "the covenant name of God revealed to Israel." },
+    ],
+  },
+  {
+    book: "Proverbs",
+    theme: "Wisdom Instruction",
+    words: [
+      { word: "Wisdom", strongNumber: "H2451", lemma: "chokmah", meaning: "practical understanding rooted in reverence for God." },
+      { word: "Instruction", strongNumber: "H4148", lemma: "musar", meaning: "discipline, correction, or moral training." },
+    ],
+  },
+  {
+    book: "Ecclesiastes",
+    theme: "Vanity Wisdom",
+    words: [
+      { word: "Vanity", strongNumber: "H1892", lemma: "hebel", meaning: "vapor, emptiness, fleeting meaninglessness." },
+      { word: "Wisdom", strongNumber: "H2451", lemma: "chokmah", meaning: "insight into life's meaning and purpose." },
+    ],
+  },
+  {
+    book: "Song of Solomon",
+    theme: "Love Beloved",
+    words: [
+      { word: "Love", strongNumber: "H160", lemma: "ahabah", meaning: "deep affection or covenantal love." },
+      { word: "Beloved", strongNumber: "H1730", lemma: "dod", meaning: "one who is loved intimately." },
+    ],
+  },
+  {
+    book: "Isaiah",
+    theme: "Holy Salvation",
+    words: [
+      { word: "Holy", strongNumber: "H6918", lemma: "qadosh", meaning: "set apart in purity and divine majesty." },
+      { word: "Salvation", strongNumber: "H3444", lemma: "yeshuah", meaning: "deliverance, rescue, or victory given by God." },
+    ],
+  },
+  {
+    book: "Jeremiah",
+    theme: "Word LORD",
+    words: [
+      { word: "Word", strongNumber: "H1697", lemma: "dabar", meaning: "spoken message, declaration, or command." },
+      { word: "LORD", strongNumber: "H3068", lemma: "yahweh", meaning: "the covenant name of the God of Israel." },
+    ],
+  },
+  {
+    book: "Lamentations",
+    theme: "Jerusalem Weeping",
+    words: [
+      { word: "Jerusalem", strongNumber: "H3389", lemma: "yerushalaim", meaning: "the sacred city chosen by God." },
+      { word: "Weeping", strongNumber: "H1058", lemma: "bakah", meaning: "to cry, lament, or mourn deeply." },
+    ],
+  },
+  {
+    book: "Ezekiel",
+    theme: "Glory LORD",
+    words: [
+      { word: "Glory", strongNumber: "H3519", lemma: "kabod", meaning: "weighty splendor, divine majesty and honor." },
+      { word: "LORD", strongNumber: "H3068", lemma: "yahweh", meaning: "the covenant God revealing His presence." },
+    ],
+  },
+  {
+    book: "Daniel",
+    theme: "Kingdom God",
+    words: [
+      { word: "Kingdom", strongNumber: "H4437", lemma: "malku", meaning: "royal dominion or sovereign reign." },
+      { word: "God", strongNumber: "H426", lemma: "elah", meaning: "the Most High God ruling over all kingdoms." },
+    ],
+  },
+  {
+    book: "Hosea",
+    theme: "Return LORD",
+    words: [
+      { word: "Return", strongNumber: "H7725", lemma: "shuv", meaning: "to turn back or repent." },
+      { word: "LORD", strongNumber: "H3068", lemma: "yahweh", meaning: "the covenant God calling His people back." },
+    ],
+  },
+  {
+    book: "Joel",
+    theme: "Day LORD",
+    words: [
+      { word: "Day", strongNumber: "H3117", lemma: "yom", meaning: "a specific time or divine appointed day." },
+      { word: "LORD", strongNumber: "H3068", lemma: "yahweh", meaning: "the covenant God executing judgment and salvation." },
+    ],
+  },
+  {
+    book: "Amos",
+    theme: "Justice Righteousness",
+    words: [
+      { word: "Justice", strongNumber: "H4941", lemma: "mishpat", meaning: "judgment, justice, proper legal order." },
+      { word: "Righteousness", strongNumber: "H6666", lemma: "tsedaqah", meaning: "rightness, moral justice, and integrity." },
+    ],
+  },
+  {
+    book: "Obadiah",
+    theme: "Edom Judgment",
+    words: [
+      { word: "Edom", strongNumber: "H123", lemma: "edom", meaning: "nation descended from Esau." },
+      { word: "Judgment", strongNumber: "H4941", lemma: "mishpat", meaning: "divine verdict or justice." },
+    ],
+  },
+  {
+    book: "Jonah",
+    theme: "Nineveh Repentance",
+    words: [
+      { word: "Nineveh", strongNumber: "H5210", lemma: "nineveh", meaning: "great Assyrian city called to repentance." },
+      { word: "Repentance", strongNumber: "H5162", lemma: "nacham", meaning: "to relent, be moved to compassion, or change course." },
+    ],
+  },
+  {
+    book: "Micah",
+    theme: "Justice Mercy",
+    words: [
+      { word: "Justice", strongNumber: "H4941", lemma: "mishpat", meaning: "right judgment according to God's standard." },
+      { word: "Mercy", strongNumber: "H2617", lemma: "chesed", meaning: "steadfast covenant love and kindness." },
+    ],
+  },
+  {
+    book: "Nahum",
+    theme: "Nineveh Desolation",
+    words: [
+      { word: "Nineveh", strongNumber: "H5210", lemma: "nineveh", meaning: "capital city of Assyria." },
+      { word: "Desolation", strongNumber: "H8077", lemma: "shammah", meaning: "ruin, devastation, or astonishment." },
+    ],
+  },
+  {
+    book: "Habakkuk",
+    theme: "Faith LORD",
+    words: [
+      { word: "Faith", strongNumber: "H530", lemma: "emunah", meaning: "firmness, steadfast trust in God." },
+      { word: "LORD", strongNumber: "H3068", lemma: "yahweh", meaning: "the covenant God who is trusted by the righteous." },
+    ],
+  },
+  {
+    book: "Zephaniah",
+    theme: "Day LORD",
+    words: [
+      { word: "Day", strongNumber: "H3117", lemma: "yom", meaning: "appointed time of divine intervention." },
+      { word: "LORD", strongNumber: "H3068", lemma: "yahweh", meaning: "the covenant God bringing judgment and restoration." },
+    ],
+  },
+  {
+    book: "Haggai",
+    theme: "House LORD",
+    words: [
+      { word: "House", strongNumber: "H1004", lemma: "bayith", meaning: "dwelling place or temple." },
+      { word: "LORD", strongNumber: "H3068", lemma: "yahweh", meaning: "the covenant God whose house must be rebuilt." },
+    ],
+  },
+  {
+    book: "Zechariah",
+    theme: "Jerusalem King",
+    words: [
+      { word: "Jerusalem", strongNumber: "H3389", lemma: "yerushalaim", meaning: "holy city chosen by God." },
+      { word: "King", strongNumber: "H4428", lemma: "melek", meaning: "sovereign ruler, often pointing prophetically to Messiah." },
+    ],
+  },
+  {
+    book: "Malachi",
+    theme: "Messenger Covenant",
+    words: [
+      { word: "Messenger", strongNumber: "H4397", lemma: "malak", meaning: "one sent with a message or divine commission." },
+      { word: "Covenant", strongNumber: "H1285", lemma: "berith", meaning: "binding agreement establishing relationship between God and His people." },
+    ],
+  },
   // Gospels
   {
     book: "Matthew",
