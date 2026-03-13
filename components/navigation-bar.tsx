@@ -1,6 +1,7 @@
 "use client"
 
-import { ChevronLeft, ChevronRight, BookOpen } from "lucide-react"
+import Link from "next/link"
+import { ChevronLeft, ChevronRight, BookOpen, Users } from "lucide-react"
 
 interface NavigationBarProps {
   bookName: string
@@ -44,6 +45,15 @@ export function NavigationBar({
             {bookName} {chapter}
           </span>
         </div>
+
+        {/* Characters Link */}
+        <Link
+          href="/characters"
+          className="p-3 rounded-full transition-colors min-h-[48px] min-w-[48px] flex items-center justify-center hover:bg-secondary text-foreground"
+          aria-label="Browse Bible characters"
+        >
+          <Users className="w-6 h-6" />
+        </Link>
 
         {/* Next Chapter */}
         <button

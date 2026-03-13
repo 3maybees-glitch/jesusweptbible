@@ -199,6 +199,14 @@ export function BooksMenu({ onSelectBook, onAbout, currentBook }: BooksMenuProps
 
           {/* Devotional Button - Above About Button */}
           <div className="mt-12 pt-8 border-t border-border/30 space-y-3">
+            <a
+              href="/characters"
+              className="w-full flex items-center justify-center gap-2 px-4 py-3.5 rounded-lg bg-accent hover:bg-accent/90 text-accent-foreground border border-border transition-colors min-h-[48px] font-serif font-medium"
+              aria-label="Browse Bible Characters"
+            >
+              <span>Browse Bible Characters</span>
+            </a>
+            
             <button
               onClick={() => setShowDevotional(true)}
               className="w-full flex items-center justify-center gap-2 px-4 py-3.5 rounded-lg bg-[#8B6B47] hover:bg-[#7A5A3A] text-white border border-border transition-colors min-h-[48px] font-serif font-medium"
