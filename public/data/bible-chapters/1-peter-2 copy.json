@@ -1,0 +1,474 @@
+{
+  "book": "1 Peter",
+  "chapter": 2,
+  "chapterTheme": {
+    "twoWordSummary": "Living Stones",
+    "themeWords": [
+      {
+        "word": "stone",
+        "strongNumber": "G3037",
+        "lemma": "lithos",
+        "meaning": "a stone; a building stone"
+      },
+      {
+        "word": "priesthood",
+        "strongNumber": "G2406",
+        "lemma": "hierateuma",
+        "meaning": "a body of priests; priestly order"
+      }
+    ]
+  },
+  "sentenceTheme": "Believers, as God’s chosen people, are built into a spiritual house and called to holy conduct, submission, and Christlike suffering.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Wherefore laying aside all malice, and all guile, and hypocrisies, and envies, and all evil speakings,",
+      "highlightedWords": [
+        {
+          "word": "malice",
+          "strongNumber": "G2549",
+          "lemma": "kakia",
+          "meaning": "malice, ill-will, wickedness"
+        },
+        {
+          "word": "guile",
+          "strongNumber": "G1388",
+          "lemma": "dolos",
+          "meaning": "deceit, treachery"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "As newborn babes, desire the sincere milk of the word, that ye may grow thereby:",
+      "highlightedWords": [
+        {
+          "word": "babes",
+          "strongNumber": "G1025",
+          "lemma": "brephos",
+          "meaning": "an infant, baby"
+        },
+        {
+          "word": "milk",
+          "strongNumber": "G1051",
+          "lemma": "gala",
+          "meaning": "milk"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "If so be ye have tasted that the Lord is gracious.",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "lord, master; title of God or Christ"
+        },
+        {
+          "word": "gracious",
+          "strongNumber": "G5543",
+          "lemma": "chrestos",
+          "meaning": "kind, benevolent, gracious"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "To whom coming, as unto a living stone, disallowed indeed of men, but chosen of God, and precious,",
+      "highlightedWords": [
+        {
+          "word": "stone",
+          "strongNumber": "G3037",
+          "lemma": "lithos",
+          "meaning": "a stone; a building stone"
+        },
+        {
+          "word": "chosen",
+          "strongNumber": "G1588",
+          "lemma": "eklektos",
+          "meaning": "chosen, elect"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Ye also, as lively stones, are built up a spiritual house, an holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ.",
+      "highlightedWords": [
+        {
+          "word": "priesthood",
+          "strongNumber": "G2406",
+          "lemma": "hierateuma",
+          "meaning": "a body of priests; priestly order"
+        },
+        {
+          "word": "sacrifices",
+          "strongNumber": "G2378",
+          "lemma": "thysia",
+          "meaning": "a sacrifice, offering"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Wherefore also it is contained in the scripture, Behold, I lay in Sion a chief corner stone, elect, precious: and he that believeth on him shall not be confounded.",
+      "highlightedWords": [
+        {
+          "word": "Sion",
+          "strongNumber": "G4622",
+          "lemma": "Sion",
+          "meaning": "Zion; the hill of Jerusalem; symbolic of God’s people"
+        },
+        {
+          "word": "believeth",
+          "strongNumber": "G4100",
+          "lemma": "pisteuo",
+          "meaning": "to believe, trust, have faith"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Unto you therefore which believe he is precious: but unto them which be disobedient, the stone which the builders disallowed, the same is made the head of the corner,",
+      "highlightedWords": [
+        {
+          "word": "believe",
+          "strongNumber": "G4100",
+          "lemma": "pisteuo",
+          "meaning": "to believe, trust, have faith"
+        },
+        {
+          "word": "stone",
+          "strongNumber": "G3037",
+          "lemma": "lithos",
+          "meaning": "a stone; a building stone"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And a stone of stumbling, and a rock of offence, even to them which stumble at the word, being disobedient: whereunto also they were appointed.",
+      "highlightedWords": [
+        {
+          "word": "stumbling",
+          "strongNumber": "G4348",
+          "lemma": "proskomma",
+          "meaning": "a stumbling, obstacle, cause of offense"
+        },
+        {
+          "word": "rock",
+          "strongNumber": "G4073",
+          "lemma": "petra",
+          "meaning": "rock, bedrock, massive rock"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light:",
+      "highlightedWords": [
+        {
+          "word": "chosen",
+          "strongNumber": "G1588",
+          "lemma": "eklektos",
+          "meaning": "chosen, elect"
+        },
+        {
+          "word": "light",
+          "strongNumber": "G5457",
+          "lemma": "phos",
+          "meaning": "light, radiance"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Which in time past were not a people, but are now the people of God: which had not obtained mercy, but now have obtained mercy.",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "G2992",
+          "lemma": "laos",
+          "meaning": "a people, populace, nation"
+        },
+        {
+          "word": "mercy",
+          "strongNumber": "G1656",
+          "lemma": "eleos",
+          "meaning": "mercy, compassion"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Dearly beloved, I beseech you as strangers and pilgrims, abstain from fleshly lusts, which war against the soul;",
+      "highlightedWords": [
+        {
+          "word": "strangers",
+          "strongNumber": "G3941",
+          "lemma": "paroikos",
+          "meaning": "sojourner, foreign resident"
+        },
+        {
+          "word": "pilgrims",
+          "strongNumber": "G3927",
+          "lemma": "parepidemos",
+          "meaning": "pilgrim, temporary resident"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Having your conversation honest among the Gentiles: that, whereas they speak against you as evildoers, they may by your good works, which they shall behold, glorify God in the day of visitation.",
+      "highlightedWords": [
+        {
+          "word": "Gentiles",
+          "strongNumber": "G1484",
+          "lemma": "ethnos",
+          "meaning": "nation; non-Jews, Gentiles"
+        },
+        {
+          "word": "visitation",
+          "strongNumber": "G1984",
+          "lemma": "episkope",
+          "meaning": "visitation, oversight, inspection"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Submit yourselves to every ordinance of man for the Lord's sake: whether it be to the king, as supreme;",
+      "highlightedWords": [
+        {
+          "word": "ordinance",
+          "strongNumber": "G2937",
+          "lemma": "ktisis",
+          "meaning": "institution, established order"
+        },
+        {
+          "word": "king",
+          "strongNumber": "G935",
+          "lemma": "basileus",
+          "meaning": "king, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Or unto governors, as unto them that are sent by him for the punishment of evildoers, and for the praise of them that do well.",
+      "highlightedWords": [
+        {
+          "word": "governors",
+          "strongNumber": "G2232",
+          "lemma": "hegemon",
+          "meaning": "governor, leader, magistrate"
+        },
+        {
+          "word": "evildoers",
+          "strongNumber": "G2555",
+          "lemma": "kakopoios",
+          "meaning": "evil-doer, one who does wrong"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "For so is the will of God, that with well doing ye may put to silence the ignorance of foolish men:",
+      "highlightedWords": [
+        {
+          "word": "will",
+          "strongNumber": "G2307",
+          "lemma": "thelema",
+          "meaning": "will, desire, purpose"
+        },
+        {
+          "word": "ignorance",
+          "strongNumber": "G56",
+          "lemma": "agnosia",
+          "meaning": "ignorance, lack of knowledge"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "As free, and not using your liberty for a cloke of maliciousness, but as the servants of God.",
+      "highlightedWords": [
+        {
+          "word": "liberty",
+          "strongNumber": "G1657",
+          "lemma": "eleutheria",
+          "meaning": "freedom, liberty"
+        },
+        {
+          "word": "servants",
+          "strongNumber": "G1401",
+          "lemma": "doulos",
+          "meaning": "slave, servant, bondservant"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Honour all men. Love the brotherhood. Fear God. Honour the king.",
+      "highlightedWords": [
+        {
+          "word": "Love",
+          "strongNumber": "G25",
+          "lemma": "agapao",
+          "meaning": "to love; to show devoted love"
+        },
+        {
+          "word": "king",
+          "strongNumber": "G935",
+          "lemma": "basileus",
+          "meaning": "king, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Servants, be subject to your masters with all fear; not only to the good and gentle, but also to the froward.",
+      "highlightedWords": [
+        {
+          "word": "Servants",
+          "strongNumber": "G3610",
+          "lemma": "oiketes",
+          "meaning": "household servant"
+        },
+        {
+          "word": "masters",
+          "strongNumber": "G1203",
+          "lemma": "despotes",
+          "meaning": "master, lord, owner"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "For this is thankworthy, if a man for conscience toward God endure grief, suffering wrongfully.",
+      "highlightedWords": [
+        {
+          "word": "conscience",
+          "strongNumber": "G4893",
+          "lemma": "syneidesis",
+          "meaning": "conscience, moral awareness"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God, the divine"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "For what glory is it, if, when ye be buffeted for your faults, ye shall take it patiently? but if, when ye do well, and suffer for it, ye take it patiently, this is acceptable with God.",
+      "highlightedWords": [
+        {
+          "word": "suffer",
+          "strongNumber": "G3958",
+          "lemma": "pascho",
+          "meaning": "to suffer, experience pain"
+        },
+        {
+          "word": "patiently",
+          "strongNumber": "G5278",
+          "lemma": "hypomeno",
+          "meaning": "to endure, remain under"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "For even hereunto were ye called: because Christ also suffered for us, leaving us an example, that ye should follow his steps:",
+      "highlightedWords": [
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "the Anointed One, Messiah"
+        },
+        {
+          "word": "example",
+          "strongNumber": "G5261",
+          "lemma": "hypogrammos",
+          "meaning": "an example, model to imitate"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Who did no sin, neither was guile found in his mouth:",
+      "highlightedWords": [
+        {
+          "word": "sin",
+          "strongNumber": "G266",
+          "lemma": "hamartia",
+          "meaning": "sin, wrongdoing, missing the mark"
+        },
+        {
+          "word": "guile",
+          "strongNumber": "G1388",
+          "lemma": "dolos",
+          "meaning": "deceit, treachery"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Who, when he was reviled, reviled not again; when he suffered, he threatened not; but committed himself to him that judgeth righteously:",
+      "highlightedWords": [
+        {
+          "word": "reviled",
+          "strongNumber": "G3058",
+          "lemma": "loidoreo",
+          "meaning": "to revile, abuse verbally"
+        },
+        {
+          "word": "judgeth",
+          "strongNumber": "G2919",
+          "lemma": "krino",
+          "meaning": "to judge, decide, evaluate"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Who his own self bare our sins in his own body on the tree, that we, being dead to sins, should live unto righteousness: by whose stripes ye were healed.",
+      "highlightedWords": [
+        {
+          "word": "righteousness",
+          "strongNumber": "G1343",
+          "lemma": "dikaiosyne",
+          "meaning": "righteousness, justice"
+        },
+        {
+          "word": "stripes",
+          "strongNumber": "G3468",
+          "lemma": "molops",
+          "meaning": "bruise, welt, stripe"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "For ye were as sheep going astray; but are now returned unto the Shepherd and Bishop of your souls.",
+      "highlightedWords": [
+        {
+          "word": "Shepherd",
+          "strongNumber": "G4166",
+          "lemma": "poimen",
+          "meaning": "shepherd, herdsman; metaphor for leader"
+        },
+        {
+          "word": "Bishop",
+          "strongNumber": "G1985",
+          "lemma": "episkopos",
+          "meaning": "overseer, guardian, bishop"
+        }
+      ]
+    }
+  ]
+}

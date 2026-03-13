@@ -1,0 +1,726 @@
+{
+  "book": "Matthew",
+  "chapter": 23,
+  "chapterTheme": {
+    "twoWordSummary": "Woes Hypocrisy",
+    "themeWords": [
+      {
+        "word": "hypocrites",
+        "strongNumber": "G5273",
+        "lemma": "hypokritēs",
+        "meaning": "a pretender, actor; a hypocrite"
+      },
+      {
+        "word": "woe",
+        "strongNumber": "G3759",
+        "lemma": "ouai",
+        "meaning": "alas, woe; an exclamation of grief or denunciation"
+      }
+    ]
+  },
+  "sentenceTheme": "Jesus denounces the scribes and Pharisees for hypocrisy, warns of coming judgment, and laments over Jerusalem’s unwillingness to be gathered to Him.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Then spake Jesus to the multitude, and to his disciples,",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus; the Lord is salvation"
+        },
+        {
+          "word": "disciples",
+          "strongNumber": "G3101",
+          "lemma": "mathētēs",
+          "meaning": "a learner, pupil, disciple"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Saying, The scribes and the Pharisees sit in Moses' seat:",
+      "highlightedWords": [
+        {
+          "word": "scribes",
+          "strongNumber": "G1122",
+          "lemma": "grammateus",
+          "meaning": "scribe, expert in the Mosaic law"
+        },
+        {
+          "word": "Pharisees",
+          "strongNumber": "G5330",
+          "lemma": "Pharisaios",
+          "meaning": "a Pharisee, a member of a strict Jewish sect"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "All therefore whatsoever they bid you observe, that observe and do; but do not ye after their works: for they say, and do not.",
+      "highlightedWords": [
+        {
+          "word": "observe",
+          "strongNumber": "G5083",
+          "lemma": "tēreō",
+          "meaning": "to keep, guard, observe"
+        },
+        {
+          "word": "works",
+          "strongNumber": "G2041",
+          "lemma": "ergon",
+          "meaning": "work, deed, action"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "For they bind heavy burdens and grievous to be borne, and lay them on men's shoulders; but they themselves will not move them with one of their fingers.",
+      "highlightedWords": [
+        {
+          "word": "men's",
+          "strongNumber": "G444",
+          "lemma": "anthrōpos",
+          "meaning": "a human being, man"
+        },
+        {
+          "word": "fingers",
+          "strongNumber": "G1147",
+          "lemma": "daktulos",
+          "meaning": "a finger"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "But all their works they do for to be seen of men: they make broad their phylacteries, and enlarge the borders of their garments,",
+      "highlightedWords": [
+        {
+          "word": "phylacteries",
+          "strongNumber": "G5440",
+          "lemma": "phylaktērion",
+          "meaning": "a phylactery; small leather case containing scripture"
+        },
+        {
+          "word": "garments",
+          "strongNumber": "G2440",
+          "lemma": "himation",
+          "meaning": "an outer garment, cloak"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And love the uppermost rooms at feasts, and the chief seats in the synagogues,",
+      "highlightedWords": [
+        {
+          "word": "love",
+          "strongNumber": "G25",
+          "lemma": "agapaō",
+          "meaning": "to love; to value, take pleasure in"
+        },
+        {
+          "word": "synagogues",
+          "strongNumber": "G4864",
+          "lemma": "synagōgē",
+          "meaning": "a synagogue, assembly, congregation"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And greetings in the markets, and to be called of men, Rabbi, Rabbi.",
+      "highlightedWords": [
+        {
+          "word": "markets",
+          "strongNumber": "G58",
+          "lemma": "agora",
+          "meaning": "a market, marketplace"
+        },
+        {
+          "word": "Rabbi",
+          "strongNumber": "G4461",
+          "lemma": "rhabbi",
+          "meaning": "my master; a title of respect for teachers"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "But be not ye called Rabbi: for one is your Master, even Christ; and all ye are brethren.",
+      "highlightedWords": [
+        {
+          "word": "Master",
+          "strongNumber": "G1320",
+          "lemma": "didaskalos",
+          "meaning": "teacher, master"
+        },
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "the Anointed One, Messiah"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And call no man your father upon the earth: for one is your Father, which is in heaven.",
+      "highlightedWords": [
+        {
+          "word": "father",
+          "strongNumber": "G3962",
+          "lemma": "patēr",
+          "meaning": "a father, ancestor"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "G3772",
+          "lemma": "ouranos",
+          "meaning": "heaven, sky"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Neither be ye called masters: for one is your Master, even Christ.",
+      "highlightedWords": [
+        {
+          "word": "masters",
+          "strongNumber": "G2519",
+          "lemma": "kathēgētēs",
+          "meaning": "a leader, guide, master"
+        },
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "the Anointed One, Messiah"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "But he that is greatest among you shall be your servant.",
+      "highlightedWords": [
+        {
+          "word": "greatest",
+          "strongNumber": "G3187",
+          "lemma": "meizōn",
+          "meaning": "greater; greatest"
+        },
+        {
+          "word": "servant",
+          "strongNumber": "G1249",
+          "lemma": "diakonos",
+          "meaning": "servant, minister, attendant"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And whosoever shall exalt himself shall be abased; and he that shall humble himself shall be exalted.",
+      "highlightedWords": [
+        {
+          "word": "exalt",
+          "strongNumber": "G5312",
+          "lemma": "hypsōō",
+          "meaning": "to raise high, exalt"
+        },
+        {
+          "word": "humble",
+          "strongNumber": "G5013",
+          "lemma": "tapeinoō",
+          "meaning": "to humble, make low"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "But woe unto you, scribes and Pharisees, hypocrites! for ye shut up the kingdom of heaven against men: for ye neither go in yourselves, neither suffer ye them that are entering to go in.",
+      "highlightedWords": [
+        {
+          "word": "kingdom",
+          "strongNumber": "G932",
+          "lemma": "basileia",
+          "meaning": "kingdom, reign, rule"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "G3772",
+          "lemma": "ouranos",
+          "meaning": "heaven, sky"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Woe unto you, scribes and Pharisees, hypocrites! for ye devour widows' houses, and for a pretence make long prayer: therefore ye shall receive the greater damnation.",
+      "highlightedWords": [
+        {
+          "word": "widows'",
+          "strongNumber": "G5503",
+          "lemma": "chēra",
+          "meaning": "a widow"
+        },
+        {
+          "word": "prayer",
+          "strongNumber": "G4335",
+          "lemma": "proseuchē",
+          "meaning": "prayer, petition to God"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Woe unto you, scribes and Pharisees, hypocrites! for ye compass sea and land to make one proselyte, and when he is made, ye make him twofold more the child of hell than yourselves.",
+      "highlightedWords": [
+        {
+          "word": "proselyte",
+          "strongNumber": "G4339",
+          "lemma": "prosēlytos",
+          "meaning": "a convert to Judaism; proselyte"
+        },
+        {
+          "word": "hell",
+          "strongNumber": "G1067",
+          "lemma": "Geenna (Gehenna)",
+          "meaning": "Gehenna; place of final punishment"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Woe unto you, ye blind guides, which say, Whosoever shall swear by the temple, it is nothing; but whosoever shall swear by the gold of the temple, he is a debtor!",
+      "highlightedWords": [
+        {
+          "word": "temple",
+          "strongNumber": "G3485",
+          "lemma": "naos",
+          "meaning": "the inner temple, sanctuary"
+        },
+        {
+          "word": "gold",
+          "strongNumber": "G5557",
+          "lemma": "chrysos",
+          "meaning": "gold"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Ye fools and blind: for whether is greater, the gold, or the temple that sanctifieth the gold?",
+      "highlightedWords": [
+        {
+          "word": "fools",
+          "strongNumber": "G3474",
+          "lemma": "mōros",
+          "meaning": "foolish, dull"
+        },
+        {
+          "word": "sanctifieth",
+          "strongNumber": "G37",
+          "lemma": "hagiazo",
+          "meaning": "to make holy, sanctify, consecrate"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And, Whosoever shall swear by the altar, it is nothing; but whosoever sweareth by the gift that is upon it, he is guilty.",
+      "highlightedWords": [
+        {
+          "word": "altar",
+          "strongNumber": "G2379",
+          "lemma": "thysiastērion",
+          "meaning": "altar"
+        },
+        {
+          "word": "gift",
+          "strongNumber": "G1435",
+          "lemma": "dōron",
+          "meaning": "a gift, offering"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Ye fools and blind: for whether is greater, the gift, or the altar that sanctifieth the gift?",
+      "highlightedWords": [
+        {
+          "word": "gift",
+          "strongNumber": "G1435",
+          "lemma": "dōron",
+          "meaning": "a gift, offering"
+        },
+        {
+          "word": "altar",
+          "strongNumber": "G2379",
+          "lemma": "thysiastērion",
+          "meaning": "altar"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Whoso therefore shall swear by the altar, sweareth by it, and by all things thereon.",
+      "highlightedWords": [
+        {
+          "word": "altar",
+          "strongNumber": "G2379",
+          "lemma": "thysiastērion",
+          "meaning": "altar"
+        },
+        {
+          "word": "sweareth",
+          "strongNumber": "G3660",
+          "lemma": "omnuō",
+          "meaning": "to swear, take an oath"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And whoso shall swear by the temple, sweareth by it, and by him that dwelleth therein.",
+      "highlightedWords": [
+        {
+          "word": "temple",
+          "strongNumber": "G3485",
+          "lemma": "naos",
+          "meaning": "the inner temple, sanctuary"
+        },
+        {
+          "word": "dwelleth",
+          "strongNumber": "G2730",
+          "lemma": "katoikeō",
+          "meaning": "to dwell, reside"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And he that shall swear by heaven, sweareth by the throne of God, and by him that sitteth thereon.",
+      "highlightedWords": [
+        {
+          "word": "heaven",
+          "strongNumber": "G3772",
+          "lemma": "ouranos",
+          "meaning": "heaven, sky"
+        },
+        {
+          "word": "throne",
+          "strongNumber": "G2362",
+          "lemma": "thronos",
+          "meaning": "a throne, seat of authority"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Woe unto you, scribes and Pharisees, hypocrites! for ye pay tithe of mint and anise and cummin, and have omitted the weightier matters of the law, judgment, mercy, and faith: these ought ye to have done, and not to leave the other undone.",
+      "highlightedWords": [
+        {
+          "word": "tithe",
+          "strongNumber": "G586",
+          "lemma": "apodekatoō",
+          "meaning": "to tithe, pay a tenth"
+        },
+        {
+          "word": "law",
+          "strongNumber": "G3551",
+          "lemma": "nomos",
+          "meaning": "law, principle; the Mosaic law"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Ye blind guides, which strain at a gnat, and swallow a camel.",
+      "highlightedWords": [
+        {
+          "word": "gnat",
+          "strongNumber": "G2971",
+          "lemma": "kōnōps",
+          "meaning": "a gnat"
+        },
+        {
+          "word": "camel",
+          "strongNumber": "G2574",
+          "lemma": "kamēlos",
+          "meaning": "a camel"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Woe unto you, scribes and Pharisees, hypocrites! for ye make clean the outside of the cup and of the platter, but within they are full of extortion and excess.",
+      "highlightedWords": [
+        {
+          "word": "cup",
+          "strongNumber": "G4221",
+          "lemma": "potērion",
+          "meaning": "a cup"
+        },
+        {
+          "word": "platter",
+          "strongNumber": "G3953",
+          "lemma": "paropsis",
+          "meaning": "a dish, platter"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "Thou blind Pharisee, cleanse first that which is within the cup and platter, that the outside of them may be clean also.",
+      "highlightedWords": [
+        {
+          "word": "Pharisee",
+          "strongNumber": "G5330",
+          "lemma": "Pharisaios",
+          "meaning": "a Pharisee, a member of a strict Jewish sect"
+        },
+        {
+          "word": "cleanse",
+          "strongNumber": "G2511",
+          "lemma": "katharizō",
+          "meaning": "to cleanse, make clean"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead men's bones, and of all uncleanness.",
+      "highlightedWords": [
+        {
+          "word": "sepulchres",
+          "strongNumber": "G3419",
+          "lemma": "mnēmeion",
+          "meaning": "a tomb, sepulchre, memorial"
+        },
+        {
+          "word": "uncleanness",
+          "strongNumber": "G167",
+          "lemma": "akatharsia",
+          "meaning": "uncleanness, impurity"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "Even so ye also outwardly appear righteous unto men, but within ye are full of hypocrisy and iniquity.",
+      "highlightedWords": [
+        {
+          "word": "hypocrisy",
+          "strongNumber": "G5272",
+          "lemma": "hypokrisis",
+          "meaning": "hypocrisy, pretense"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "G458",
+          "lemma": "anomia",
+          "meaning": "lawlessness, iniquity"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "Woe unto you, scribes and Pharisees, hypocrites! because ye build the tombs of the prophets, and garnish the sepulchres of the righteous,",
+      "highlightedWords": [
+        {
+          "word": "prophets",
+          "strongNumber": "G4396",
+          "lemma": "prophētēs",
+          "meaning": "a prophet, one who speaks forth by divine inspiration"
+        },
+        {
+          "word": "righteous",
+          "strongNumber": "G1342",
+          "lemma": "dikaios",
+          "meaning": "righteous, just"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "And say, If we had been in the days of our fathers, we would not have been partakers with them in the blood of the prophets.",
+      "highlightedWords": [
+        {
+          "word": "fathers",
+          "strongNumber": "G3962",
+          "lemma": "patēr",
+          "meaning": "a father, ancestor"
+        },
+        {
+          "word": "blood",
+          "strongNumber": "G129",
+          "lemma": "haima",
+          "meaning": "blood"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "Wherefore ye be witnesses unto yourselves, that ye are the children of them which killed the prophets.",
+      "highlightedWords": [
+        {
+          "word": "killed",
+          "strongNumber": "G615",
+          "lemma": "apokteinō",
+          "meaning": "to kill, slay"
+        },
+        {
+          "word": "prophets",
+          "strongNumber": "G4396",
+          "lemma": "prophētēs",
+          "meaning": "a prophet, one who speaks forth by divine inspiration"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "Fill ye up then the measure of your fathers.",
+      "highlightedWords": [
+        {
+          "word": "measure",
+          "strongNumber": "G3358",
+          "lemma": "metron",
+          "meaning": "a measure, measured amount"
+        },
+        {
+          "word": "fathers",
+          "strongNumber": "G3962",
+          "lemma": "patēr",
+          "meaning": "a father, ancestor"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "Ye serpents, ye generation of vipers, how can ye escape the damnation of hell?",
+      "highlightedWords": [
+        {
+          "word": "vipers",
+          "strongNumber": "G2191",
+          "lemma": "echidna",
+          "meaning": "a viper, poisonous snake"
+        },
+        {
+          "word": "hell",
+          "strongNumber": "G1067",
+          "lemma": "Geenna (Gehenna)",
+          "meaning": "Gehenna; place of final punishment"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "Wherefore, behold, I send unto you prophets, and wise men, and scribes: and some of them ye shall kill and crucify; and some of them shall ye scourge in your synagogues, and persecute them from city to city:",
+      "highlightedWords": [
+        {
+          "word": "prophets",
+          "strongNumber": "G4396",
+          "lemma": "prophētēs",
+          "meaning": "a prophet, one who speaks forth by divine inspiration"
+        },
+        {
+          "word": "synagogues",
+          "strongNumber": "G4864",
+          "lemma": "synagōgē",
+          "meaning": "a synagogue, assembly, congregation"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "That upon you may come all the righteous blood shed upon the earth, from the blood of righteous Abel unto the blood of Zacharias son of Barachias, whom ye slew between the temple and the altar.",
+      "highlightedWords": [
+        {
+          "word": "blood",
+          "strongNumber": "G129",
+          "lemma": "haima",
+          "meaning": "blood"
+        },
+        {
+          "word": "altar",
+          "strongNumber": "G2379",
+          "lemma": "thysiastērion",
+          "meaning": "altar"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "Verily I say unto you, All these things shall come upon this generation.",
+      "highlightedWords": [
+        {
+          "word": "Verily",
+          "strongNumber": "G281",
+          "lemma": "amēn",
+          "meaning": "truly, verily"
+        },
+        {
+          "word": "generation",
+          "strongNumber": "G1074",
+          "lemma": "genea",
+          "meaning": "generation, age"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "O Jerusalem, Jerusalem, thou that killest the prophets, and stonest them which are sent unto thee, how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings, and ye would not!",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "G2419",
+          "lemma": "Ierousalēm",
+          "meaning": "Jerusalem"
+        },
+        {
+          "word": "prophets",
+          "strongNumber": "G4396",
+          "lemma": "prophētēs",
+          "meaning": "a prophet, one who speaks forth by divine inspiration"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "Behold, your house is left unto you desolate.",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "G3624",
+          "lemma": "oikos",
+          "meaning": "house, household"
+        },
+        {
+          "word": "desolate",
+          "strongNumber": "G2048",
+          "lemma": "erēmos",
+          "meaning": "desolate, deserted, uninhabited"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "text": "For I say unto you, Ye shall not see me henceforth, till ye shall say, Blessed is he that cometh in the name of the Lord.",
+      "highlightedWords": [
+        {
+          "word": "name",
+          "strongNumber": "G3686",
+          "lemma": "onoma",
+          "meaning": "name, authority, reputation"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "Lord, master; title for God or Christ"
+        }
+      ]
+    }
+  ]
+}

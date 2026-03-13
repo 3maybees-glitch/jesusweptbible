@@ -1,0 +1,438 @@
+{
+  "book": "Colossians",
+  "chapter": 2,
+  "chapterTheme": {
+    "twoWordSummary": "In Christ",
+    "themeWords": [
+      {
+        "word": "Christ",
+        "strongNumber": "G5547",
+        "lemma": "Christos",
+        "meaning": "Anointed One, Messiah"
+      },
+      {
+        "word": "mystery",
+        "strongNumber": "G3466",
+        "lemma": "mystērion",
+        "meaning": "divine secret now revealed"
+      }
+    ]
+  },
+  "sentenceTheme": "Believers are complete in Christ and must resist deceptive philosophy, legalism, and asceticism.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "For I would that ye knew what great conflict I have for you, and for them at Laodicea, and for as many as have not seen my face in the flesh;",
+      "highlightedWords": [
+        {
+          "word": "conflict",
+          "strongNumber": "G73",
+          "lemma": "agōn",
+          "meaning": "contest, struggle, conflict"
+        },
+        {
+          "word": "Laodicea",
+          "strongNumber": "G2993",
+          "lemma": "Laodikeia",
+          "meaning": "Laodicea, a city in Phrygia"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "That their hearts might be comforted, being knit together in love, and unto all riches of the full assurance of understanding, to the acknowledgement of the mystery of God, and of the Father, and of Christ;",
+      "highlightedWords": [
+        {
+          "word": "love",
+          "strongNumber": "G26",
+          "lemma": "agapē",
+          "meaning": "self-giving love, charity"
+        },
+        {
+          "word": "mystery",
+          "strongNumber": "G3466",
+          "lemma": "mystērion",
+          "meaning": "divine secret revealed by God"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "In whom are hid all the treasures of wisdom and knowledge.",
+      "highlightedWords": [
+        {
+          "word": "treasures",
+          "strongNumber": "G2344",
+          "lemma": "thēsauros",
+          "meaning": "treasure, storehouse"
+        },
+        {
+          "word": "knowledge",
+          "strongNumber": "G1108",
+          "lemma": "gnōsis",
+          "meaning": "knowledge, understanding"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And this I say, lest any man should beguile you with enticing words.",
+      "highlightedWords": [
+        {
+          "word": "beguile",
+          "strongNumber": "G3884",
+          "lemma": "paralogizomai",
+          "meaning": "to deceive, delude by false reasoning"
+        },
+        {
+          "word": "enticing",
+          "strongNumber": "G4086",
+          "lemma": "pithanologia",
+          "meaning": "persuasive speech, plausible argument"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "For though I be absent in the flesh, yet am I with you in the spirit, joying and beholding your order, and the stedfastness of your faith in Christ.",
+      "highlightedWords": [
+        {
+          "word": "stedfastness",
+          "strongNumber": "G4733",
+          "lemma": "stereōma",
+          "meaning": "firmness, steadfastness, solidity"
+        },
+        {
+          "word": "faith",
+          "strongNumber": "G4102",
+          "lemma": "pistis",
+          "meaning": "faith, trust, belief"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "As ye have therefore received Christ Jesus the Lord, so walk ye in him:",
+      "highlightedWords": [
+        {
+          "word": "received",
+          "strongNumber": "G3880",
+          "lemma": "paralambanō",
+          "meaning": "to receive, take alongside"
+        },
+        {
+          "word": "walk",
+          "strongNumber": "G4043",
+          "lemma": "peripateō",
+          "meaning": "to walk, live, conduct oneself"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Rooted and built up in him, and stablished in the faith, as ye have been taught, abounding therein with thanksgiving.",
+      "highlightedWords": [
+        {
+          "word": "Rooted",
+          "strongNumber": "G4492",
+          "lemma": "rhizoō",
+          "meaning": "to root, cause to take root"
+        },
+        {
+          "word": "thanksgiving",
+          "strongNumber": "G2169",
+          "lemma": "eucharistia",
+          "meaning": "thanksgiving, gratitude"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ.",
+      "highlightedWords": [
+        {
+          "word": "philosophy",
+          "strongNumber": "G5385",
+          "lemma": "philosophia",
+          "meaning": "philosophy, love of wisdom"
+        },
+        {
+          "word": "deceit",
+          "strongNumber": "G539",
+          "lemma": "apate",
+          "meaning": "deceit, deception"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "For in him dwelleth all the fulness of the Godhead bodily.",
+      "highlightedWords": [
+        {
+          "word": "fulness",
+          "strongNumber": "G4138",
+          "lemma": "plērōma",
+          "meaning": "fullness, that which fills"
+        },
+        {
+          "word": "Godhead",
+          "strongNumber": "G2320",
+          "lemma": "theotēs",
+          "meaning": "deity, divine nature"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And ye are complete in him, which is the head of all principality and power:",
+      "highlightedWords": [
+        {
+          "word": "complete",
+          "strongNumber": "G4137",
+          "lemma": "plēroō",
+          "meaning": "to fill, make complete"
+        },
+        {
+          "word": "principality",
+          "strongNumber": "G746",
+          "lemma": "archē",
+          "meaning": "rule, domain, principality"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "In whom also ye are circumcised with the circumcision made without hands, in putting off the body of the sins of the flesh by the circumcision of Christ:",
+      "highlightedWords": [
+        {
+          "word": "circumcision",
+          "strongNumber": "G4061",
+          "lemma": "peritomē",
+          "meaning": "circumcision"
+        },
+        {
+          "word": "flesh",
+          "strongNumber": "G4561",
+          "lemma": "sarx",
+          "meaning": "flesh, human nature"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Buried with him in baptism, wherein also ye are risen with him through the faith of the operation of God, who hath raised him from the dead.",
+      "highlightedWords": [
+        {
+          "word": "baptism",
+          "strongNumber": "G908",
+          "lemma": "baptisma",
+          "meaning": "baptism, immersion"
+        },
+        {
+          "word": "risen",
+          "strongNumber": "G4891",
+          "lemma": "synegeirō",
+          "meaning": "to raise together"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And you, being dead in your sins and the uncircumcision of your flesh, hath he quickened together with him, having forgiven you all trespasses;",
+      "highlightedWords": [
+        {
+          "word": "quickened together",
+          "strongNumber": "G4806",
+          "lemma": "syzōopoieō",
+          "meaning": "to make alive together"
+        },
+        {
+          "word": "trespasses",
+          "strongNumber": "G3900",
+          "lemma": "paraptōma",
+          "meaning": "trespass, transgression"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Blotting out the handwriting of ordinances that was against us, which was contrary to us, and took it out of the way, nailing it to his cross;",
+      "highlightedWords": [
+        {
+          "word": "handwriting",
+          "strongNumber": "G5498",
+          "lemma": "cheirographon",
+          "meaning": "a handwriting, written bond"
+        },
+        {
+          "word": "ordinances",
+          "strongNumber": "G1378",
+          "lemma": "dogma",
+          "meaning": "decree, ordinance"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And having spoiled principalities and powers, he made a shew of them openly, triumphing over them in it.",
+      "highlightedWords": [
+        {
+          "word": "principalities",
+          "strongNumber": "G746",
+          "lemma": "archē",
+          "meaning": "rulers, principalities"
+        },
+        {
+          "word": "triumphing",
+          "strongNumber": "G2358",
+          "lemma": "thriambeuō",
+          "meaning": "to lead in triumph, triumph over"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Let no man therefore judge you in meat, or in drink, or in respect of an holyday, or of the new moon, or of the sabbath days:",
+      "highlightedWords": [
+        {
+          "word": "judge",
+          "strongNumber": "G2919",
+          "lemma": "krinō",
+          "meaning": "to judge, decide"
+        },
+        {
+          "word": "sabbath days",
+          "strongNumber": "G4521",
+          "lemma": "sabbaton",
+          "meaning": "Sabbath, seventh-day rest"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Which are a shadow of things to come; but the body is of Christ.",
+      "highlightedWords": [
+        {
+          "word": "shadow",
+          "strongNumber": "G4639",
+          "lemma": "skia",
+          "meaning": "shadow"
+        },
+        {
+          "word": "body",
+          "strongNumber": "G4983",
+          "lemma": "sōma",
+          "meaning": "body"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Let no man beguile you of your reward in a voluntary humility and worshipping of angels, intruding into those things which he hath not seen, vainly puffed up by his fleshly mind,",
+      "highlightedWords": [
+        {
+          "word": "beguile",
+          "strongNumber": "G2603",
+          "lemma": "katabrabeuō",
+          "meaning": "to defraud of reward, disqualify"
+        },
+        {
+          "word": "angels",
+          "strongNumber": "G32",
+          "lemma": "angelos",
+          "meaning": "angel, messenger"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And not holding the Head, from which all the body by joints and bands having nourishment ministered, and knit together, increaseth with the increase of God.",
+      "highlightedWords": [
+        {
+          "word": "Head",
+          "strongNumber": "G2776",
+          "lemma": "kephalē",
+          "meaning": "head"
+        },
+        {
+          "word": "increase",
+          "strongNumber": "G838",
+          "lemma": "auxēsis",
+          "meaning": "growth, increase"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Wherefore if ye be dead with Christ from the rudiments of the world, why, as though living in the world, are ye subject to ordinances,",
+      "highlightedWords": [
+        {
+          "word": "rudiments",
+          "strongNumber": "G4747",
+          "lemma": "stoicheion",
+          "meaning": "elementary principles, rudiments"
+        },
+        {
+          "word": "world",
+          "strongNumber": "G2889",
+          "lemma": "kosmos",
+          "meaning": "world, ordered system"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "(Touch not; taste not; handle not;",
+      "highlightedWords": [
+        {
+          "word": "Touch not",
+          "strongNumber": "G680",
+          "lemma": "haptomai",
+          "meaning": "to touch, take hold of"
+        },
+        {
+          "word": "handle not",
+          "strongNumber": "G2345",
+          "lemma": "thigganō",
+          "meaning": "to handle, touch"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Which all are to perish with the using;) after the commandments and doctrines of men?",
+      "highlightedWords": [
+        {
+          "word": "commandments",
+          "strongNumber": "G1778",
+          "lemma": "entalma",
+          "meaning": "commandment, ordinance (of men)"
+        },
+        {
+          "word": "doctrines",
+          "strongNumber": "G1319",
+          "lemma": "didaskalia",
+          "meaning": "teaching, doctrine"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Which things have indeed a shew of wisdom in will worship, and humility, and neglecting of the body: not in any honour to the satisfying of the flesh.",
+      "highlightedWords": [
+        {
+          "word": "will worship",
+          "strongNumber": "G1479",
+          "lemma": "ethelothrēskeia",
+          "meaning": "self-imposed religion, will-worship"
+        },
+        {
+          "word": "humility",
+          "strongNumber": "G5012",
+          "lemma": "tapeinophrosynē",
+          "meaning": "humility of mind, lowliness"
+        }
+      ]
+    }
+  ]
+}

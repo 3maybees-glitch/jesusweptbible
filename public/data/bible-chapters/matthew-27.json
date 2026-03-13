@@ -1,0 +1,1212 @@
+{
+  "book": "Matthew",
+  "chapter": 27,
+  "chapterTheme": {
+    "twoWordSummary": "Trial Crucifixion",
+    "themeWords": [
+      {
+        "word": "crucified",
+        "strongNumber": "G4717",
+        "lemma": "stauroō",
+        "meaning": "to crucify"
+      },
+      {
+        "word": "Jesus",
+        "strongNumber": "G2424",
+        "lemma": "Iēsous",
+        "meaning": "Jesus, Yahweh is salvation"
+      }
+    ]
+  },
+  "sentenceTheme": "Jesus is tried and condemned by Pilate, crucified and killed, buried in a new tomb, and a guard is set to secure the sepulchre.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "When the morning was come, all the chief priests and elders of the people took counsel against Jesus to put him to death:",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "G2409",
+          "lemma": "hiereus",
+          "meaning": "a priest"
+        },
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus, Yahweh is salvation"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And when they had bound him, they led him away, and delivered him to Pontius Pilate the governor.",
+      "highlightedWords": [
+        {
+          "word": "Pilate",
+          "strongNumber": "G4091",
+          "lemma": "Pilatos",
+          "meaning": "Pilate, the Roman governor"
+        },
+        {
+          "word": "governor",
+          "strongNumber": "G2232",
+          "lemma": "hēgemōn",
+          "meaning": "a leader, governor, prefect"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Then Judas, which had betrayed him, when he saw that he was condemned, repented himself, and brought again the thirty pieces of silver to the chief priests and elders,",
+      "highlightedWords": [
+        {
+          "word": "Judas",
+          "strongNumber": "G2455",
+          "lemma": "Ioudas",
+          "meaning": "Judas; Judah"
+        },
+        {
+          "word": "silver",
+          "strongNumber": "G694",
+          "lemma": "argyrion",
+          "meaning": "silver, money"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Saying, I have sinned in that I have betrayed the innocent blood. And they said, What is that to us? see thou to that.",
+      "highlightedWords": [
+        {
+          "word": "sinned",
+          "strongNumber": "G264",
+          "lemma": "hamartanō",
+          "meaning": "to sin, miss the mark"
+        },
+        {
+          "word": "blood",
+          "strongNumber": "G129",
+          "lemma": "haima",
+          "meaning": "blood"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And he cast down the pieces of silver in the temple, and departed, and went and hanged himself.",
+      "highlightedWords": [
+        {
+          "word": "silver",
+          "strongNumber": "G694",
+          "lemma": "argyrion",
+          "meaning": "silver, money"
+        },
+        {
+          "word": "temple",
+          "strongNumber": "G3485",
+          "lemma": "naos",
+          "meaning": "the temple, inner sanctuary"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And the chief priests took the silver pieces, and said, It is not lawful for to put them into the treasury, because it is the price of blood.",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "G2409",
+          "lemma": "hiereus",
+          "meaning": "a priest"
+        },
+        {
+          "word": "treasury",
+          "strongNumber": "G2878",
+          "lemma": "korbanas",
+          "meaning": "treasury, sacred treasury"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And they took counsel, and bought with them the potter's field, to bury strangers in.",
+      "highlightedWords": [
+        {
+          "word": "field",
+          "strongNumber": "G68",
+          "lemma": "agros",
+          "meaning": "a field, country"
+        },
+        {
+          "word": "potter's",
+          "strongNumber": "G2763",
+          "lemma": "kerameus",
+          "meaning": "a potter"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Wherefore that field was called, The field of blood, unto this day.",
+      "highlightedWords": [
+        {
+          "word": "field",
+          "strongNumber": "G68",
+          "lemma": "agros",
+          "meaning": "a field, country"
+        },
+        {
+          "word": "blood",
+          "strongNumber": "G129",
+          "lemma": "haima",
+          "meaning": "blood"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Then was fulfilled that which was spoken by Jeremy the prophet, saying, And they took the thirty pieces of silver, the price of him that was valued, whom they of the children of Israel did value;",
+      "highlightedWords": [
+        {
+          "word": "prophet",
+          "strongNumber": "G4396",
+          "lemma": "prophētēs",
+          "meaning": "a prophet"
+        },
+        {
+          "word": "silver",
+          "strongNumber": "G694",
+          "lemma": "argyrion",
+          "meaning": "silver, money"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And gave them for the potter's field, as the Lord appointed me.",
+      "highlightedWords": [
+        {
+          "word": "potter's",
+          "strongNumber": "G2763",
+          "lemma": "kerameus",
+          "meaning": "a potter"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "Lord, master"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And Jesus stood before the governor: and the governor asked him, saying, Art thou the King of the Jews? And Jesus said unto him, Thou sayest.",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus, Yahweh is salvation"
+        },
+        {
+          "word": "King",
+          "strongNumber": "G935",
+          "lemma": "basileus",
+          "meaning": "a king"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And when he was accused of the chief priests and elders, he answered nothing.",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "G2409",
+          "lemma": "hiereus",
+          "meaning": "a priest"
+        },
+        {
+          "word": "answered",
+          "strongNumber": "G611",
+          "lemma": "apokrinomai",
+          "meaning": "to answer, reply"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Then said Pilate unto him, Hearest thou not how many things they witness against thee?",
+      "highlightedWords": [
+        {
+          "word": "Pilate",
+          "strongNumber": "G4091",
+          "lemma": "Pilatos",
+          "meaning": "Pilate, the Roman governor"
+        },
+        {
+          "word": "witness",
+          "strongNumber": "G3140",
+          "lemma": "martyreō",
+          "meaning": "to bear witness, testify"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And he answered him to never a word; insomuch that the governor marvelled greatly.",
+      "highlightedWords": [
+        {
+          "word": "governor",
+          "strongNumber": "G2232",
+          "lemma": "hēgemōn",
+          "meaning": "a leader, governor, prefect"
+        },
+        {
+          "word": "marvelled",
+          "strongNumber": "G2296",
+          "lemma": "thaumazō",
+          "meaning": "to marvel, wonder"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Now at that feast the governor was wont to release unto the people a prisoner, whom they would.",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "G2992",
+          "lemma": "laos",
+          "meaning": "a people, nation"
+        },
+        {
+          "word": "prisoner",
+          "strongNumber": "G1198",
+          "lemma": "desmios",
+          "meaning": "a prisoner, one in bonds"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And they had then a notable prisoner, called Barabbas.",
+      "highlightedWords": [
+        {
+          "word": "prisoner",
+          "strongNumber": "G1198",
+          "lemma": "desmios",
+          "meaning": "a prisoner, one in bonds"
+        },
+        {
+          "word": "Barabbas",
+          "strongNumber": "G912",
+          "lemma": "Barabbas",
+          "meaning": "Barabbas, 'son of the father'"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Therefore when they were gathered together, Pilate said unto them, Whom will ye that I release unto you? Barabbas, or Jesus which is called Christ?",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus, Yahweh is salvation"
+        },
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "Anointed One, Messiah"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "For he knew that for envy they had delivered him.",
+      "highlightedWords": [
+        {
+          "word": "envy",
+          "strongNumber": "G5355",
+          "lemma": "phthonos",
+          "meaning": "envy, jealousy"
+        },
+        {
+          "word": "delivered",
+          "strongNumber": "G3860",
+          "lemma": "paradidōmi",
+          "meaning": "to hand over, deliver up"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "When he was set down on the judgment seat, his wife sent unto him, saying, Have thou nothing to do with that just man: for I have suffered many things this day in a dream because of him.",
+      "highlightedWords": [
+        {
+          "word": "just",
+          "strongNumber": "G1342",
+          "lemma": "dikaios",
+          "meaning": "righteous, just"
+        },
+        {
+          "word": "dream",
+          "strongNumber": "G3677",
+          "lemma": "onar",
+          "meaning": "a dream"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "But the chief priests and elders persuaded the multitude that they should ask Barabbas, and destroy Jesus.",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "G2409",
+          "lemma": "hiereus",
+          "meaning": "a priest"
+        },
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus, Yahweh is salvation"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "The governor answered and said unto them, Whether of the twain will ye that I release unto you? They said, Barabbas.",
+      "highlightedWords": [
+        {
+          "word": "governor",
+          "strongNumber": "G2232",
+          "lemma": "hēgemōn",
+          "meaning": "a leader, governor, prefect"
+        },
+        {
+          "word": "Barabbas",
+          "strongNumber": "G912",
+          "lemma": "Barabbas",
+          "meaning": "Barabbas, 'son of the father'"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Pilate saith unto them, What shall I do then with Jesus which is called Christ? They all say unto him, Let him be crucified.",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus, Yahweh is salvation"
+        },
+        {
+          "word": "crucified",
+          "strongNumber": "G4717",
+          "lemma": "stauroō",
+          "meaning": "to crucify"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And the governor said, Why, what evil hath he done? But they cried out the more, saying, Let him be crucified.",
+      "highlightedWords": [
+        {
+          "word": "governor",
+          "strongNumber": "G2232",
+          "lemma": "hēgemōn",
+          "meaning": "a leader, governor, prefect"
+        },
+        {
+          "word": "crucified",
+          "strongNumber": "G4717",
+          "lemma": "stauroō",
+          "meaning": "to crucify"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "When Pilate saw that he could prevail nothing, but that rather a tumult was made, he took water, and washed his hands before the multitude, saying, I am innocent of the blood of this just person: see ye to it.",
+      "highlightedWords": [
+        {
+          "word": "Pilate",
+          "strongNumber": "G4091",
+          "lemma": "Pilatos",
+          "meaning": "Pilate, the Roman governor"
+        },
+        {
+          "word": "blood",
+          "strongNumber": "G129",
+          "lemma": "haima",
+          "meaning": "blood"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Then answered all the people, and said, His blood be on us, and on our children.",
+      "highlightedWords": [
+        {
+          "word": "blood",
+          "strongNumber": "G129",
+          "lemma": "haima",
+          "meaning": "blood"
+        },
+        {
+          "word": "children",
+          "strongNumber": "G5043",
+          "lemma": "teknon",
+          "meaning": "child, descendant"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "Then released he Barabbas unto them: and when he had scourged Jesus, he delivered him to be crucified.",
+      "highlightedWords": [
+        {
+          "word": "Barabbas",
+          "strongNumber": "G912",
+          "lemma": "Barabbas",
+          "meaning": "Barabbas, 'son of the father'"
+        },
+        {
+          "word": "scourged",
+          "strongNumber": "G5417",
+          "lemma": "phragelloō",
+          "meaning": "to scourge, flog"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "Then the soldiers of the governor took Jesus into the common hall, and gathered unto him the whole band of soldiers.",
+      "highlightedWords": [
+        {
+          "word": "soldiers",
+          "strongNumber": "G4757",
+          "lemma": "stratiōtēs",
+          "meaning": "a soldier"
+        },
+        {
+          "word": "governor",
+          "strongNumber": "G2232",
+          "lemma": "hēgemōn",
+          "meaning": "a leader, governor, prefect"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And they stripped him, and put on him a scarlet robe.",
+      "highlightedWords": [
+        {
+          "word": "stripped",
+          "strongNumber": "G1562",
+          "lemma": "ekduō",
+          "meaning": "to strip off, unclothe"
+        },
+        {
+          "word": "scarlet",
+          "strongNumber": "G2847",
+          "lemma": "kokkinos",
+          "meaning": "scarlet, crimson"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "And when they had platted a crown of thorns, they put it upon his head, and a reed in his right hand: and they bowed the knee before him, and mocked him, saying, Hail, King of the Jews!",
+      "highlightedWords": [
+        {
+          "word": "crown",
+          "strongNumber": "G4735",
+          "lemma": "stephanos",
+          "meaning": "a crown, wreath"
+        },
+        {
+          "word": "King",
+          "strongNumber": "G935",
+          "lemma": "basileus",
+          "meaning": "a king"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "And they spit upon him, and took the reed, and smote him on the head.",
+      "highlightedWords": [
+        {
+          "word": "reed",
+          "strongNumber": "G2563",
+          "lemma": "kalamos",
+          "meaning": "a reed"
+        },
+        {
+          "word": "spit",
+          "strongNumber": "G1716",
+          "lemma": "emptuō",
+          "meaning": "to spit upon"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "And after that they had mocked him, they took the robe off from him, and put his own raiment on him, and led him away to crucify him.",
+      "highlightedWords": [
+        {
+          "word": "mocked",
+          "strongNumber": "G1702",
+          "lemma": "empaizō",
+          "meaning": "to mock, ridicule"
+        },
+        {
+          "word": "crucify",
+          "strongNumber": "G4717",
+          "lemma": "stauroō",
+          "meaning": "to crucify"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "And as they came out, they found a man of Cyrene, Simon by name: him they compelled to bear his cross.",
+      "highlightedWords": [
+        {
+          "word": "cross",
+          "strongNumber": "G4716",
+          "lemma": "stauros",
+          "meaning": "a cross"
+        },
+        {
+          "word": "Simon",
+          "strongNumber": "G4613",
+          "lemma": "Simōn",
+          "meaning": "Simon"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "And when they were come unto a place called Golgotha, that is to say, a place of a skull,",
+      "highlightedWords": [
+        {
+          "word": "Golgotha",
+          "strongNumber": "G1115",
+          "lemma": "Golgotha",
+          "meaning": "Golgotha, place of a skull"
+        },
+        {
+          "word": "skull",
+          "strongNumber": "G2898",
+          "lemma": "kranion",
+          "meaning": "a skull"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "They gave him vinegar to drink mingled with gall: and when he had tasted thereof, he would not drink.",
+      "highlightedWords": [
+        {
+          "word": "vinegar",
+          "strongNumber": "G3690",
+          "lemma": "oxos",
+          "meaning": "vinegar, sour wine"
+        },
+        {
+          "word": "gall",
+          "strongNumber": "G5521",
+          "lemma": "cholē",
+          "meaning": "gall, bile"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "And they crucified him, and parted his garments, casting lots: that it might be fulfilled which was spoken by the prophet, They parted my garments among them, and upon my vesture did they cast lots.",
+      "highlightedWords": [
+        {
+          "word": "crucified",
+          "strongNumber": "G4717",
+          "lemma": "stauroō",
+          "meaning": "to crucify"
+        },
+        {
+          "word": "garments",
+          "strongNumber": "G2440",
+          "lemma": "himation",
+          "meaning": "a garment, cloak"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "And sitting down they watched him there;",
+      "highlightedWords": [
+        {
+          "word": "sitting",
+          "strongNumber": "G2521",
+          "lemma": "kathēmai",
+          "meaning": "to sit"
+        },
+        {
+          "word": "watched",
+          "strongNumber": "G5083",
+          "lemma": "tēreō",
+          "meaning": "to keep, guard, watch"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "And set up over his head his accusation written, THIS IS JESUS THE KING OF THE JEWS.",
+      "highlightedWords": [
+        {
+          "word": "JESUS",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus, Yahweh is salvation"
+        },
+        {
+          "word": "KING",
+          "strongNumber": "G935",
+          "lemma": "basileus",
+          "meaning": "a king"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "Then were there two thieves crucified with him, one on the right hand, and another on the left.",
+      "highlightedWords": [
+        {
+          "word": "right",
+          "strongNumber": "G1188",
+          "lemma": "dexios",
+          "meaning": "right, right-hand"
+        },
+        {
+          "word": "left",
+          "strongNumber": "G710",
+          "lemma": "aristeros",
+          "meaning": "left"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "text": "And they that passed by reviled him, wagging their heads,",
+      "highlightedWords": [
+        {
+          "word": "reviled",
+          "strongNumber": "G987",
+          "lemma": "blasphēmeō",
+          "meaning": "to revile, blaspheme"
+        },
+        {
+          "word": "heads",
+          "strongNumber": "G2776",
+          "lemma": "kephalē",
+          "meaning": "head"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "text": "And saying, Thou that destroyest the temple, and buildest it in three days, save thyself. If thou be the Son of God, come down from the cross.",
+      "highlightedWords": [
+        {
+          "word": "Son",
+          "strongNumber": "G5207",
+          "lemma": "huios",
+          "meaning": "a son"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God, deity"
+        }
+      ]
+    },
+    {
+      "verse": 41,
+      "text": "Likewise also the chief priests mocking him, with the scribes and elders, said,",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "G2409",
+          "lemma": "hiereus",
+          "meaning": "a priest"
+        },
+        {
+          "word": "scribes",
+          "strongNumber": "G1122",
+          "lemma": "grammateus",
+          "meaning": "a scribe"
+        }
+      ]
+    },
+    {
+      "verse": 42,
+      "text": "He saved others; himself he cannot save. If he be the King of Israel, let him now come down from the cross, and we will believe him.",
+      "highlightedWords": [
+        {
+          "word": "King",
+          "strongNumber": "G935",
+          "lemma": "basileus",
+          "meaning": "a king"
+        },
+        {
+          "word": "cross",
+          "strongNumber": "G4716",
+          "lemma": "stauros",
+          "meaning": "a cross"
+        }
+      ]
+    },
+    {
+      "verse": 43,
+      "text": "He trusted in God; let him deliver him now, if he will have him: for he said, I am the Son of God.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God, deity"
+        },
+        {
+          "word": "Son",
+          "strongNumber": "G5207",
+          "lemma": "huios",
+          "meaning": "a son"
+        }
+      ]
+    },
+    {
+      "verse": 44,
+      "text": "The thieves also, which were crucified with him, cast the same in his teeth.",
+      "highlightedWords": [
+        {
+          "word": "crucified",
+          "strongNumber": "G4717",
+          "lemma": "stauroō",
+          "meaning": "to crucify"
+        },
+        {
+          "word": "teeth",
+          "strongNumber": "G3599",
+          "lemma": "odous",
+          "meaning": "a tooth, teeth"
+        }
+      ]
+    },
+    {
+      "verse": 45,
+      "text": "Now from the sixth hour there was darkness over all the land unto the ninth hour.",
+      "highlightedWords": [
+        {
+          "word": "darkness",
+          "strongNumber": "G4655",
+          "lemma": "skotos",
+          "meaning": "darkness"
+        },
+        {
+          "word": "land",
+          "strongNumber": "G1093",
+          "lemma": "gē",
+          "meaning": "earth, land"
+        }
+      ]
+    },
+    {
+      "verse": 46,
+      "text": "And about the ninth hour Jesus cried with a loud voice, saying, Eli, Eli, lama sabachthani? that is to say, My God, my God, why hast thou forsaken me?",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus, Yahweh is salvation"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God, deity"
+        }
+      ]
+    },
+    {
+      "verse": 47,
+      "text": "Some of them that stood there, when they heard that, said, This man calleth for Elias.",
+      "highlightedWords": [
+        {
+          "word": "man",
+          "strongNumber": "G444",
+          "lemma": "anthrōpos",
+          "meaning": "a man, human being"
+        },
+        {
+          "word": "Elias",
+          "strongNumber": "G2243",
+          "lemma": "Ēlias",
+          "meaning": "Elijah"
+        }
+      ]
+    },
+    {
+      "verse": 48,
+      "text": "And straightway one of them ran, and took a spunge, and filled it with vinegar, and put it on a reed, and gave him to drink.",
+      "highlightedWords": [
+        {
+          "word": "spunge",
+          "strongNumber": "G4699",
+          "lemma": "spoggos",
+          "meaning": "a sponge"
+        },
+        {
+          "word": "vinegar",
+          "strongNumber": "G3690",
+          "lemma": "oxos",
+          "meaning": "vinegar, sour wine"
+        }
+      ]
+    },
+    {
+      "verse": 49,
+      "text": "The rest said, Let be, let us see whether Elias will come to save him.",
+      "highlightedWords": [
+        {
+          "word": "Elias",
+          "strongNumber": "G2243",
+          "lemma": "Ēlias",
+          "meaning": "Elijah"
+        },
+        {
+          "word": "save",
+          "strongNumber": "G4982",
+          "lemma": "sōzō",
+          "meaning": "to save, deliver"
+        }
+      ]
+    },
+    {
+      "verse": 50,
+      "text": "Jesus, when he had cried again with a loud voice, yielded up the ghost.",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus, Yahweh is salvation"
+        },
+        {
+          "word": "voice",
+          "strongNumber": "G5456",
+          "lemma": "phōnē",
+          "meaning": "a voice, sound"
+        }
+      ]
+    },
+    {
+      "verse": 51,
+      "text": "And, behold, the veil of the temple was rent in twain from the top to the bottom; and the earth did quake, and the rocks rent;",
+      "highlightedWords": [
+        {
+          "word": "veil",
+          "strongNumber": "G2665",
+          "lemma": "katapetasma",
+          "meaning": "a veil, curtain"
+        },
+        {
+          "word": "temple",
+          "strongNumber": "G3485",
+          "lemma": "naos",
+          "meaning": "the temple, inner sanctuary"
+        }
+      ]
+    },
+    {
+      "verse": 52,
+      "text": "And the graves were opened; and many bodies of the saints which slept arose,",
+      "highlightedWords": [
+        {
+          "word": "graves",
+          "strongNumber": "G3419",
+          "lemma": "mnēmeion",
+          "meaning": "a tomb, grave"
+        },
+        {
+          "word": "saints",
+          "strongNumber": "G40",
+          "lemma": "hagios",
+          "meaning": "holy one, saint"
+        }
+      ]
+    },
+    {
+      "verse": 53,
+      "text": "And came out of the graves after his resurrection, and went into the holy city, and appeared unto many.",
+      "highlightedWords": [
+        {
+          "word": "resurrection",
+          "strongNumber": "G386",
+          "lemma": "anastasis",
+          "meaning": "resurrection"
+        },
+        {
+          "word": "city",
+          "strongNumber": "G4172",
+          "lemma": "polis",
+          "meaning": "a city"
+        }
+      ]
+    },
+    {
+      "verse": 54,
+      "text": "Now when the centurion, and they that were with him, watching Jesus, saw the earthquake, and those things that were done, they feared greatly, saying, Truly this was the Son of God.",
+      "highlightedWords": [
+        {
+          "word": "centurion",
+          "strongNumber": "G1543",
+          "lemma": "hekatontarchēs",
+          "meaning": "a centurion"
+        },
+        {
+          "word": "Son",
+          "strongNumber": "G5207",
+          "lemma": "huios",
+          "meaning": "a son"
+        }
+      ]
+    },
+    {
+      "verse": 55,
+      "text": "And many women were there beholding afar off, which followed Jesus from Galilee, ministering unto him:",
+      "highlightedWords": [
+        {
+          "word": "women",
+          "strongNumber": "G1135",
+          "lemma": "gynē",
+          "meaning": "a woman, wife"
+        },
+        {
+          "word": "Galilee",
+          "strongNumber": "G1056",
+          "lemma": "Galilaia",
+          "meaning": "Galilee"
+        }
+      ]
+    },
+    {
+      "verse": 56,
+      "text": "Among which was Mary Magdalene, and Mary the mother of James and Joses, and the mother of Zebedee's children.",
+      "highlightedWords": [
+        {
+          "word": "Mary",
+          "strongNumber": "G3137",
+          "lemma": "Maria",
+          "meaning": "Mary"
+        },
+        {
+          "word": "Magdalene",
+          "strongNumber": "G3094",
+          "lemma": "Magdalēnē",
+          "meaning": "Magdalene"
+        }
+      ]
+    },
+    {
+      "verse": 57,
+      "text": "When the even was come, there came a rich man of Arimathaea, named Joseph, who also himself was Jesus' disciple:",
+      "highlightedWords": [
+        {
+          "word": "Joseph",
+          "strongNumber": "G2501",
+          "lemma": "Iōsēph",
+          "meaning": "Joseph"
+        },
+        {
+          "word": "disciple",
+          "strongNumber": "G3101",
+          "lemma": "mathētēs",
+          "meaning": "a disciple, learner"
+        }
+      ]
+    },
+    {
+      "verse": 58,
+      "text": "He went to Pilate, and begged the body of Jesus. Then Pilate commanded the body to be delivered.",
+      "highlightedWords": [
+        {
+          "word": "Pilate",
+          "strongNumber": "G4091",
+          "lemma": "Pilatos",
+          "meaning": "Pilate, the Roman governor"
+        },
+        {
+          "word": "body",
+          "strongNumber": "G4983",
+          "lemma": "sōma",
+          "meaning": "a body"
+        }
+      ]
+    },
+    {
+      "verse": 59,
+      "text": "And when Joseph had taken the body, he wrapped it in a clean linen cloth,",
+      "highlightedWords": [
+        {
+          "word": "linen",
+          "strongNumber": "G4616",
+          "lemma": "sindōn",
+          "meaning": "linen cloth"
+        },
+        {
+          "word": "wrapped",
+          "strongNumber": "G1794",
+          "lemma": "entylissō",
+          "meaning": "to wrap, fold"
+        }
+      ]
+    },
+    {
+      "verse": 60,
+      "text": "And laid it in his own new tomb, which he had hewn out in the rock: and he rolled a great stone to the door of the sepulchre, and departed.",
+      "highlightedWords": [
+        {
+          "word": "sepulchre",
+          "strongNumber": "G3419",
+          "lemma": "mnēmeion",
+          "meaning": "a tomb, sepulchre"
+        },
+        {
+          "word": "stone",
+          "strongNumber": "G3037",
+          "lemma": "lithos",
+          "meaning": "a stone"
+        }
+      ]
+    },
+    {
+      "verse": 61,
+      "text": "And there was Mary Magdalene, and the other Mary, sitting over against the sepulchre.",
+      "highlightedWords": [
+        {
+          "word": "Mary",
+          "strongNumber": "G3137",
+          "lemma": "Maria",
+          "meaning": "Mary"
+        },
+        {
+          "word": "sepulchre",
+          "strongNumber": "G3419",
+          "lemma": "mnēmeion",
+          "meaning": "a tomb, sepulchre"
+        }
+      ]
+    },
+    {
+      "verse": 62,
+      "text": "Now the next day, that followed the day of the preparation, the chief priests and Pharisees came together unto Pilate,",
+      "highlightedWords": [
+        {
+          "word": "preparation",
+          "strongNumber": "G3904",
+          "lemma": "paraskeuē",
+          "meaning": "preparation (day before Sabbath)"
+        },
+        {
+          "word": "Pharisees",
+          "strongNumber": "G5330",
+          "lemma": "Pharisaios",
+          "meaning": "a Pharisee"
+        }
+      ]
+    },
+    {
+      "verse": 63,
+      "text": "Saying, Sir, we remember that that deceiver said, while he was yet alive, After three days I will rise again.",
+      "highlightedWords": [
+        {
+          "word": "deceiver",
+          "strongNumber": "G4108",
+          "lemma": "planos",
+          "meaning": "deceiver, impostor"
+        },
+        {
+          "word": "rise",
+          "strongNumber": "G450",
+          "lemma": "anistēmi",
+          "meaning": "to rise, stand up"
+        }
+      ]
+    },
+    {
+      "verse": 64,
+      "text": "Command therefore that the sepulchre be made sure until the third day, lest his disciples come by night, and steal him away, and say unto the people, He is risen from the dead: so the last error shall be worse than the first.",
+      "highlightedWords": [
+        {
+          "word": "sepulchre",
+          "strongNumber": "G3419",
+          "lemma": "mnēmeion",
+          "meaning": "a tomb, sepulchre"
+        },
+        {
+          "word": "disciples",
+          "strongNumber": "G3101",
+          "lemma": "mathētēs",
+          "meaning": "a disciple, learner"
+        }
+      ]
+    },
+    {
+      "verse": 65,
+      "text": "Pilate said unto them, Ye have a watch: go your way, make it as sure as ye can.",
+      "highlightedWords": [
+        {
+          "word": "Pilate",
+          "strongNumber": "G4091",
+          "lemma": "Pilatos",
+          "meaning": "Pilate, the Roman governor"
+        },
+        {
+          "word": "watch",
+          "strongNumber": "G2892",
+          "lemma": "koustōdia",
+          "meaning": "a guard, watch"
+        }
+      ]
+    },
+    {
+      "verse": 66,
+      "text": "So they went, and made the sepulchre sure, sealing the stone, and setting a watch.",
+      "highlightedWords": [
+        {
+          "word": "sepulchre",
+          "strongNumber": "G3419",
+          "lemma": "mnēmeion",
+          "meaning": "a tomb, sepulchre"
+        },
+        {
+          "word": "stone",
+          "strongNumber": "G3037",
+          "lemma": "lithos",
+          "meaning": "a stone"
+        }
+      ]
+    }
+  ]
+}

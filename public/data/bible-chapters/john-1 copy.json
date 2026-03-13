@@ -1,0 +1,942 @@
+{
+  "book": "John",
+  "chapter": 1,
+  "chapterTheme": {
+    "twoWordSummary": "Eternal Logos",
+    "themeWords": [
+      {
+        "word": "Word",
+        "strongNumber": "G3056",
+        "lemma": "logos",
+        "meaning": "word; message; divine reason"
+      },
+      {
+        "word": "Light",
+        "strongNumber": "G5457",
+        "lemma": "phōs",
+        "meaning": "light; illumination"
+      }
+    ]
+  },
+  "sentenceTheme": "The eternal Word became flesh, bringing light and life, as John bears witness and the first disciples begin to follow Jesus.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "In the beginning was the Word, and the Word was with God, and the Word was God.",
+      "highlightedWords": [
+        {
+          "word": "Word",
+          "strongNumber": "G3056",
+          "lemma": "logos",
+          "meaning": "word; message; divine reason"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God; deity"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "The same was in the beginning with God.",
+      "highlightedWords": [
+        {
+          "word": "beginning",
+          "strongNumber": "G746",
+          "lemma": "archē",
+          "meaning": "beginning; origin; first cause"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God; deity"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "All things were made by him; and without him was not any thing made that was made.",
+      "highlightedWords": [
+        {
+          "word": "made",
+          "strongNumber": "G1096",
+          "lemma": "ginomai",
+          "meaning": "to become; to be made"
+        },
+        {
+          "word": "without",
+          "strongNumber": "G5565",
+          "lemma": "chōris",
+          "meaning": "apart from; without"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "In him was life; and the life was the light of men.",
+      "highlightedWords": [
+        {
+          "word": "life",
+          "strongNumber": "G2222",
+          "lemma": "zōē",
+          "meaning": "life; vitality"
+        },
+        {
+          "word": "light",
+          "strongNumber": "G5457",
+          "lemma": "phōs",
+          "meaning": "light; illumination"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And the light shineth in darkness; and the darkness comprehended it not.",
+      "highlightedWords": [
+        {
+          "word": "light",
+          "strongNumber": "G5457",
+          "lemma": "phōs",
+          "meaning": "light; illumination"
+        },
+        {
+          "word": "darkness",
+          "strongNumber": "G4653",
+          "lemma": "skotia",
+          "meaning": "darkness; obscurity"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "There was a man sent from God, whose name was John.",
+      "highlightedWords": [
+        {
+          "word": "man",
+          "strongNumber": "G444",
+          "lemma": "anthrōpos",
+          "meaning": "human being; man"
+        },
+        {
+          "word": "John",
+          "strongNumber": "G2491",
+          "lemma": "Iōannēs",
+          "meaning": "John"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "The same came for a witness, to bear witness of the Light, that all men through him might believe.",
+      "highlightedWords": [
+        {
+          "word": "witness",
+          "strongNumber": "G3141",
+          "lemma": "martyria",
+          "meaning": "testimony; witness"
+        },
+        {
+          "word": "believe",
+          "strongNumber": "G4100",
+          "lemma": "pisteuō",
+          "meaning": "to believe; to trust"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "He was not that Light, but was sent to bear witness of that Light.",
+      "highlightedWords": [
+        {
+          "word": "Light",
+          "strongNumber": "G5457",
+          "lemma": "phōs",
+          "meaning": "light; illumination"
+        },
+        {
+          "word": "witness",
+          "strongNumber": "G3141",
+          "lemma": "martyria",
+          "meaning": "testimony; witness"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "That was the true Light, which lighteth every man that cometh into the world.",
+      "highlightedWords": [
+        {
+          "word": "true",
+          "strongNumber": "G228",
+          "lemma": "alēthinos",
+          "meaning": "true; genuine"
+        },
+        {
+          "word": "world",
+          "strongNumber": "G2889",
+          "lemma": "kosmos",
+          "meaning": "world; ordered system"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "He was in the world, and the world was made by him, and the world knew him not.",
+      "highlightedWords": [
+        {
+          "word": "world",
+          "strongNumber": "G2889",
+          "lemma": "kosmos",
+          "meaning": "world; ordered system"
+        },
+        {
+          "word": "knew",
+          "strongNumber": "G1097",
+          "lemma": "ginōskō",
+          "meaning": "to know; to recognize"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "He came unto his own, and his own received him not.",
+      "highlightedWords": [
+        {
+          "word": "came",
+          "strongNumber": "G2064",
+          "lemma": "erchomai",
+          "meaning": "to come; to go"
+        },
+        {
+          "word": "received",
+          "strongNumber": "G3880",
+          "lemma": "paralambanō",
+          "meaning": "to receive; to take"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "But as many as received him, to them gave he power to become the sons of God, even to them that believe on his name:",
+      "highlightedWords": [
+        {
+          "word": "power",
+          "strongNumber": "G1849",
+          "lemma": "exousia",
+          "meaning": "authority; right; power"
+        },
+        {
+          "word": "sons",
+          "strongNumber": "G5207",
+          "lemma": "huios",
+          "meaning": "son; descendant"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Which were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.",
+      "highlightedWords": [
+        {
+          "word": "born",
+          "strongNumber": "G1080",
+          "lemma": "gennaō",
+          "meaning": "to beget; to give birth"
+        },
+        {
+          "word": "flesh",
+          "strongNumber": "G4561",
+          "lemma": "sarx",
+          "meaning": "flesh; human nature"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.",
+      "highlightedWords": [
+        {
+          "word": "Word",
+          "strongNumber": "G3056",
+          "lemma": "logos",
+          "meaning": "word; message; divine reason"
+        },
+        {
+          "word": "grace",
+          "strongNumber": "G5485",
+          "lemma": "charis",
+          "meaning": "grace; favor"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "John bare witness of him, and cried, saying, This was he of whom I spake, He that cometh after me is preferred before me: for he was before me.",
+      "highlightedWords": [
+        {
+          "word": "John",
+          "strongNumber": "G2491",
+          "lemma": "Iōannēs",
+          "meaning": "John"
+        },
+        {
+          "word": "witness",
+          "strongNumber": "G3140",
+          "lemma": "martyreō",
+          "meaning": "to bear witness; to testify"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And of his fulness have all we received, and grace for grace.",
+      "highlightedWords": [
+        {
+          "word": "fulness",
+          "strongNumber": "G4138",
+          "lemma": "plērōma",
+          "meaning": "fullness; completeness"
+        },
+        {
+          "word": "grace",
+          "strongNumber": "G5485",
+          "lemma": "charis",
+          "meaning": "grace; favor"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "For the law was given by Moses, but grace and truth came by Jesus Christ.",
+      "highlightedWords": [
+        {
+          "word": "law",
+          "strongNumber": "G3551",
+          "lemma": "nomos",
+          "meaning": "law; instruction"
+        },
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "Anointed One; Messiah"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "No man hath seen God at any time; the only begotten Son, which is in the bosom of the Father, he hath declared him.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God; deity"
+        },
+        {
+          "word": "Son",
+          "strongNumber": "G5207",
+          "lemma": "huios",
+          "meaning": "son; descendant"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And this is the record of John, when the Jews sent priests and Levites from Jerusalem to ask him, Who art thou?",
+      "highlightedWords": [
+        {
+          "word": "record",
+          "strongNumber": "G3141",
+          "lemma": "martyria",
+          "meaning": "testimony; witness"
+        },
+        {
+          "word": "Jews",
+          "strongNumber": "G2453",
+          "lemma": "Ioudaios",
+          "meaning": "Jew; Jewish person"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And he confessed, and denied not; but confessed, I am not the Christ.",
+      "highlightedWords": [
+        {
+          "word": "confessed",
+          "strongNumber": "G3670",
+          "lemma": "homologeō",
+          "meaning": "to confess; to acknowledge"
+        },
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "Anointed One; Messiah"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And they asked him, What then? Art thou Elias? And he saith, I am not. Art thou that prophet? And he answered, No.",
+      "highlightedWords": [
+        {
+          "word": "Elias",
+          "strongNumber": "G2243",
+          "lemma": "Ēlias",
+          "meaning": "Elijah"
+        },
+        {
+          "word": "prophet",
+          "strongNumber": "G4396",
+          "lemma": "prophētēs",
+          "meaning": "prophet; spokesperson"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Then said they unto him, Who art thou? that we may give an answer to them that sent us. What sayest thou of thyself?",
+      "highlightedWords": [
+        {
+          "word": "answer",
+          "strongNumber": "G612",
+          "lemma": "apokrisis",
+          "meaning": "answer; reply"
+        },
+        {
+          "word": "sayest",
+          "strongNumber": "G3004",
+          "lemma": "legō",
+          "meaning": "to say; to speak"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "He said, I am the voice of one crying in the wilderness, Make straight the way of the Lord, as said the prophet Esaias.",
+      "highlightedWords": [
+        {
+          "word": "voice",
+          "strongNumber": "G5456",
+          "lemma": "phōnē",
+          "meaning": "voice; sound"
+        },
+        {
+          "word": "wilderness",
+          "strongNumber": "G2048",
+          "lemma": "erēmos",
+          "meaning": "wilderness; desert"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And they which were sent were of the Pharisees.",
+      "highlightedWords": [
+        {
+          "word": "sent",
+          "strongNumber": "G649",
+          "lemma": "apostellō",
+          "meaning": "to send; to commission"
+        },
+        {
+          "word": "Pharisees",
+          "strongNumber": "G5330",
+          "lemma": "Pharisaios",
+          "meaning": "Pharisee; separated one"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And they asked him, and said unto him, Why baptizest thou then, if thou be not that Christ, nor Elias, neither that prophet?",
+      "highlightedWords": [
+        {
+          "word": "baptizest",
+          "strongNumber": "G907",
+          "lemma": "baptizō",
+          "meaning": "to baptize; to immerse"
+        },
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "Anointed One; Messiah"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "John answered them, saying, I baptize with water: but there standeth one among you, whom ye know not;",
+      "highlightedWords": [
+        {
+          "word": "baptize",
+          "strongNumber": "G907",
+          "lemma": "baptizō",
+          "meaning": "to baptize; to immerse"
+        },
+        {
+          "word": "water",
+          "strongNumber": "G5204",
+          "lemma": "hydōr",
+          "meaning": "water"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "He it is, who coming after me is preferred before me, whose shoe's latchet I am not worthy to unloose.",
+      "highlightedWords": [
+        {
+          "word": "latchet",
+          "strongNumber": "G2438",
+          "lemma": "himas",
+          "meaning": "strap; thong"
+        },
+        {
+          "word": "worthy",
+          "strongNumber": "G514",
+          "lemma": "axios",
+          "meaning": "worthy; deserving"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "These things were done in Bethabara beyond Jordan, where John was baptizing.",
+      "highlightedWords": [
+        {
+          "word": "Bethabara",
+          "strongNumber": "G962",
+          "lemma": "Bēthabara",
+          "meaning": "Bethabara; house of the ford"
+        },
+        {
+          "word": "Jordan",
+          "strongNumber": "G2446",
+          "lemma": "Iordanēs",
+          "meaning": "Jordan"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world.",
+      "highlightedWords": [
+        {
+          "word": "Lamb",
+          "strongNumber": "G286",
+          "lemma": "amnos",
+          "meaning": "lamb"
+        },
+        {
+          "word": "sin",
+          "strongNumber": "G266",
+          "lemma": "hamartia",
+          "meaning": "sin; wrongdoing"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "This is he of whom I said, After me cometh a man which is preferred before me: for he was before me.",
+      "highlightedWords": [
+        {
+          "word": "man",
+          "strongNumber": "G435",
+          "lemma": "anēr",
+          "meaning": "man; male; husband"
+        },
+        {
+          "word": "cometh",
+          "strongNumber": "G2064",
+          "lemma": "erchomai",
+          "meaning": "to come; to go"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "And I knew him not: but that he should be made manifest to Israel, therefore am I come baptizing with water.",
+      "highlightedWords": [
+        {
+          "word": "manifest",
+          "strongNumber": "G5319",
+          "lemma": "phaneroō",
+          "meaning": "to make manifest; to reveal"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "G2474",
+          "lemma": "Israēl",
+          "meaning": "Israel"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "And John bare record, saying, I saw the Spirit descending from heaven like a dove, and it abode upon him.",
+      "highlightedWords": [
+        {
+          "word": "Spirit",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "Spirit; breath; wind"
+        },
+        {
+          "word": "dove",
+          "strongNumber": "G4058",
+          "lemma": "peristera",
+          "meaning": "dove"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "And I knew him not: but he that sent me to baptize with water, the same said unto me, Upon whom thou shalt see the Spirit descending, and remaining on him, the same is he which baptizeth with the Holy Ghost.",
+      "highlightedWords": [
+        {
+          "word": "baptizeth",
+          "strongNumber": "G907",
+          "lemma": "baptizō",
+          "meaning": "to baptize; to immerse"
+        },
+        {
+          "word": "Holy",
+          "strongNumber": "G40",
+          "lemma": "hagios",
+          "meaning": "holy; sacred"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "And I saw, and bare record that this is the Son of God.",
+      "highlightedWords": [
+        {
+          "word": "Son",
+          "strongNumber": "G5207",
+          "lemma": "huios",
+          "meaning": "son; descendant"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God; deity"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "Again the next day after John stood, and two of his disciples;",
+      "highlightedWords": [
+        {
+          "word": "disciples",
+          "strongNumber": "G3101",
+          "lemma": "mathētēs",
+          "meaning": "disciple; learner"
+        },
+        {
+          "word": "John",
+          "strongNumber": "G2491",
+          "lemma": "Iōannēs",
+          "meaning": "John"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "And looking upon Jesus as he walked, he saith, Behold the Lamb of God!",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus; Yahweh is salvation"
+        },
+        {
+          "word": "Lamb",
+          "strongNumber": "G286",
+          "lemma": "amnos",
+          "meaning": "lamb"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "And the two disciples heard him speak, and they followed Jesus.",
+      "highlightedWords": [
+        {
+          "word": "disciples",
+          "strongNumber": "G3101",
+          "lemma": "mathētēs",
+          "meaning": "disciple; learner"
+        },
+        {
+          "word": "followed",
+          "strongNumber": "G190",
+          "lemma": "akoloutheō",
+          "meaning": "to follow; to accompany"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "Then Jesus turned, and saw them following, and saith unto them, What seek ye? They said unto him, Rabbi, (which is to say, being interpreted, Master,) where dwellest thou?",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus; Yahweh is salvation"
+        },
+        {
+          "word": "Rabbi",
+          "strongNumber": "G4461",
+          "lemma": "rhabbi",
+          "meaning": "Rabbi; my teacher"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "text": "He saith unto them, Come and see. They came and saw where he dwelt, and abode with him that day: for it was about the tenth hour.",
+      "highlightedWords": [
+        {
+          "word": "abode",
+          "strongNumber": "G3306",
+          "lemma": "menō",
+          "meaning": "to remain; to abide"
+        },
+        {
+          "word": "hour",
+          "strongNumber": "G5610",
+          "lemma": "hōra",
+          "meaning": "hour; time"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "text": "One of the two which heard John speak, and followed him, was Andrew, Simon Peter's brother.",
+      "highlightedWords": [
+        {
+          "word": "Andrew",
+          "strongNumber": "G406",
+          "lemma": "Andreas",
+          "meaning": "Andrew"
+        },
+        {
+          "word": "brother",
+          "strongNumber": "G80",
+          "lemma": "adelphos",
+          "meaning": "brother"
+        }
+      ]
+    },
+    {
+      "verse": 41,
+      "text": "He first findeth his own brother Simon, and saith unto him, We have found the Messias, which is, being interpreted, the Christ.",
+      "highlightedWords": [
+        {
+          "word": "Messias",
+          "strongNumber": "G3323",
+          "lemma": "Messias",
+          "meaning": "Messiah; Anointed One"
+        },
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "Anointed One; Messiah"
+        }
+      ]
+    },
+    {
+      "verse": 42,
+      "text": "And he brought him to Jesus. And when Jesus beheld him, he said, Thou art Simon the son of Jona: thou shalt be called Cephas, which is by interpretation, A stone.",
+      "highlightedWords": [
+        {
+          "word": "Simon",
+          "strongNumber": "G4613",
+          "lemma": "Simōn",
+          "meaning": "Simon"
+        },
+        {
+          "word": "Cephas",
+          "strongNumber": "G2786",
+          "lemma": "Kēphas",
+          "meaning": "Cephas; rock"
+        }
+      ]
+    },
+    {
+      "verse": 43,
+      "text": "The day following Jesus would go forth into Galilee, and findeth Philip, and saith unto him, Follow me.",
+      "highlightedWords": [
+        {
+          "word": "Galilee",
+          "strongNumber": "G1056",
+          "lemma": "Galilaia",
+          "meaning": "Galilee"
+        },
+        {
+          "word": "Follow",
+          "strongNumber": "G190",
+          "lemma": "akoloutheō",
+          "meaning": "to follow; to accompany"
+        }
+      ]
+    },
+    {
+      "verse": 44,
+      "text": "Now Philip was of Bethsaida, the city of Andrew and Peter.",
+      "highlightedWords": [
+        {
+          "word": "Philip",
+          "strongNumber": "G5376",
+          "lemma": "Philippos",
+          "meaning": "Philip"
+        },
+        {
+          "word": "Bethsaida",
+          "strongNumber": "G966",
+          "lemma": "Bēthsaida",
+          "meaning": "Bethsaida"
+        }
+      ]
+    },
+    {
+      "verse": 45,
+      "text": "Philip findeth Nathanael, and saith unto him, We have found him, of whom Moses in the law, and the prophets, did write, Jesus of Nazareth, the son of Joseph.",
+      "highlightedWords": [
+        {
+          "word": "Moses",
+          "strongNumber": "G3475",
+          "lemma": "Mōusēs",
+          "meaning": "Moses"
+        },
+        {
+          "word": "Nazareth",
+          "strongNumber": "G3478",
+          "lemma": "Nazaret",
+          "meaning": "Nazareth"
+        }
+      ]
+    },
+    {
+      "verse": 46,
+      "text": "And Nathanael said unto him, Can there any good thing come out of Nazareth? Philip saith unto him, Come and see.",
+      "highlightedWords": [
+        {
+          "word": "Nazareth",
+          "strongNumber": "G3478",
+          "lemma": "Nazaret",
+          "meaning": "Nazareth"
+        },
+        {
+          "word": "good",
+          "strongNumber": "G18",
+          "lemma": "agathos",
+          "meaning": "good; beneficial"
+        }
+      ]
+    },
+    {
+      "verse": 47,
+      "text": "Jesus saw Nathanael coming to him, and saith of him, Behold an Israelite indeed, in whom is no guile!",
+      "highlightedWords": [
+        {
+          "word": "Israelite",
+          "strongNumber": "G2475",
+          "lemma": "Israēlitēs",
+          "meaning": "Israelite"
+        },
+        {
+          "word": "guile",
+          "strongNumber": "G1388",
+          "lemma": "dolos",
+          "meaning": "guile; deceit"
+        }
+      ]
+    },
+    {
+      "verse": 48,
+      "text": "Nathanael saith unto him, Whence knowest thou me? Jesus answered and said unto him, Before that Philip called thee, when thou wast under the fig tree, I saw thee.",
+      "highlightedWords": [
+        {
+          "word": "knowest",
+          "strongNumber": "G1097",
+          "lemma": "ginōskō",
+          "meaning": "to know; to recognize"
+        },
+        {
+          "word": "fig",
+          "strongNumber": "G4808",
+          "lemma": "sukē",
+          "meaning": "fig tree"
+        }
+      ]
+    },
+    {
+      "verse": 49,
+      "text": "Nathanael answered and saith unto him, Rabbi, thou art the Son of God; thou art the King of Israel.",
+      "highlightedWords": [
+        {
+          "word": "Rabbi",
+          "strongNumber": "G4461",
+          "lemma": "rhabbi",
+          "meaning": "Rabbi; my teacher"
+        },
+        {
+          "word": "King",
+          "strongNumber": "G935",
+          "lemma": "basileus",
+          "meaning": "king; ruler"
+        }
+      ]
+    },
+    {
+      "verse": 50,
+      "text": "Jesus answered and said unto him, Because I said unto thee, I saw thee under the fig tree, believest thou? thou shalt see greater things than these.",
+      "highlightedWords": [
+        {
+          "word": "believest",
+          "strongNumber": "G4100",
+          "lemma": "pisteuō",
+          "meaning": "to believe; to trust"
+        },
+        {
+          "word": "greater",
+          "strongNumber": "G3187",
+          "lemma": "meizōn",
+          "meaning": "greater; larger"
+        }
+      ]
+    },
+    {
+      "verse": 51,
+      "text": "And he saith unto him, Verily, verily, I say unto you, Hereafter ye shall see heaven open, and the angels of God ascending and descending upon the Son of man.",
+      "highlightedWords": [
+        {
+          "word": "angels",
+          "strongNumber": "G32",
+          "lemma": "angelos",
+          "meaning": "angel; messenger"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "G3772",
+          "lemma": "ouranos",
+          "meaning": "heaven; sky"
+        }
+      ]
+    }
+  ]
+}

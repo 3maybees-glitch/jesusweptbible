@@ -1,0 +1,348 @@
+{
+  "book": "2 Peter",
+  "chapter": 3,
+  "chapterTheme": {
+    "twoWordSummary": "Patient Expectation",
+    "themeWords": [
+      {
+        "word": "day",
+        "strongNumber": "G2250",
+        "lemma": "hēmera",
+        "meaning": "day; a period of time"
+      },
+      {
+        "word": "promise",
+        "strongNumber": "G1860",
+        "lemma": "epangelia",
+        "meaning": "a promise; a pledge or assurance"
+      }
+    ]
+  },
+  "sentenceTheme": "Peter exhorts the beloved to remember the prophets and apostles, expect the Lord’s day, live holy lives, and count God’s patience as salvation.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "This second epistle, beloved, I now write unto you; in both which I stir up your pure minds by way of remembrance:",
+      "highlightedWords": [
+        {
+          "word": "epistle",
+          "strongNumber": "G1992",
+          "lemma": "epistolē",
+          "meaning": "a letter; written message"
+        },
+        {
+          "word": "beloved",
+          "strongNumber": "G27",
+          "lemma": "agapētos",
+          "meaning": "dearly loved; beloved one"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "That ye may be mindful of the words which were spoken before by the holy prophets, and of the commandment of us the apostles of the Lord and Saviour:",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "lord; master; one with authority"
+        },
+        {
+          "word": "Saviour",
+          "strongNumber": "G4990",
+          "lemma": "sōtēr",
+          "meaning": "savior; deliverer"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Knowing this first, that there shall come in the last days scoffers, walking after their own lusts,",
+      "highlightedWords": [
+        {
+          "word": "days",
+          "strongNumber": "G2250",
+          "lemma": "hēmera",
+          "meaning": "days; time periods"
+        },
+        {
+          "word": "scoffers",
+          "strongNumber": "G1703",
+          "lemma": "empaiktēs",
+          "meaning": "mocker; scoffer"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And saying, Where is the promise of his coming? for since the fathers fell asleep, all things continue as they were from the beginning of the creation.",
+      "highlightedWords": [
+        {
+          "word": "promise",
+          "strongNumber": "G1860",
+          "lemma": "epangelia",
+          "meaning": "a promise; a pledge or assurance"
+        },
+        {
+          "word": "coming",
+          "strongNumber": "G3952",
+          "lemma": "parousia",
+          "meaning": "coming; arrival; presence"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "For this they willingly are ignorant of, that by the word of God the heavens were of old, and the earth standing out of the water and in the water:",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "G3056",
+          "lemma": "logos",
+          "meaning": "word; message; utterance"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God; the divine being"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Whereby the world that then was, being overflowed with water, perished:",
+      "highlightedWords": [
+        {
+          "word": "world",
+          "strongNumber": "G2889",
+          "lemma": "kosmos",
+          "meaning": "world; ordered system"
+        },
+        {
+          "word": "water",
+          "strongNumber": "G5204",
+          "lemma": "hydōr",
+          "meaning": "water"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "But the heavens and the earth, which are now, by the same word are kept in store, reserved unto fire against the day of judgment and perdition of ungodly men.",
+      "highlightedWords": [
+        {
+          "word": "day",
+          "strongNumber": "G2250",
+          "lemma": "hēmera",
+          "meaning": "day; a period of time"
+        },
+        {
+          "word": "judgment",
+          "strongNumber": "G2920",
+          "lemma": "krisis",
+          "meaning": "judgment; decision; condemnation"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "But, beloved, be not ignorant of this one thing, that one day is with the Lord as a thousand years, and a thousand years as one day.",
+      "highlightedWords": [
+        {
+          "word": "beloved",
+          "strongNumber": "G27",
+          "lemma": "agapētos",
+          "meaning": "dearly loved; beloved one"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "lord; master; one with authority"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance.",
+      "highlightedWords": [
+        {
+          "word": "promise",
+          "strongNumber": "G1860",
+          "lemma": "epangelia",
+          "meaning": "a promise; a pledge or assurance"
+        },
+        {
+          "word": "repentance",
+          "strongNumber": "G3341",
+          "lemma": "metanoia",
+          "meaning": "repentance; a change of mind"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "But the day of the Lord will come as a thief in the night; in the which the heavens shall pass away with a great noise, and the elements shall melt with fervent heat, the earth also and the works that are therein shall be burned up.",
+      "highlightedWords": [
+        {
+          "word": "day",
+          "strongNumber": "G2250",
+          "lemma": "hēmera",
+          "meaning": "day; a period of time"
+        },
+        {
+          "word": "thief",
+          "strongNumber": "G2812",
+          "lemma": "kleptēs",
+          "meaning": "thief; one who steals"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Seeing then that all these things shall be dissolved, what manner of persons ought ye to be in all holy conversation and godliness,",
+      "highlightedWords": [
+        {
+          "word": "conversation",
+          "strongNumber": "G391",
+          "lemma": "anastrophē",
+          "meaning": "conduct; manner of life"
+        },
+        {
+          "word": "godliness",
+          "strongNumber": "G2150",
+          "lemma": "eusebeia",
+          "meaning": "godliness; piety; reverence"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Looking for and hasting unto the coming of the day of God, wherein the heavens being on fire shall be dissolved, and the elements shall melt with fervent heat?",
+      "highlightedWords": [
+        {
+          "word": "coming",
+          "strongNumber": "G3952",
+          "lemma": "parousia",
+          "meaning": "coming; arrival; presence"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God; the divine being"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Nevertheless we, according to his promise, look for new heavens and a new earth, wherein dwelleth righteousness.",
+      "highlightedWords": [
+        {
+          "word": "promise",
+          "strongNumber": "G1860",
+          "lemma": "epangelia",
+          "meaning": "a promise; a pledge or assurance"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "G1343",
+          "lemma": "dikaiosynē",
+          "meaning": "righteousness; justice; rightness"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Wherefore, beloved, seeing that ye look for such things, be diligent that ye may be found of him in peace, without spot, and blameless.",
+      "highlightedWords": [
+        {
+          "word": "beloved",
+          "strongNumber": "G27",
+          "lemma": "agapētos",
+          "meaning": "dearly loved; beloved one"
+        },
+        {
+          "word": "peace",
+          "strongNumber": "G1515",
+          "lemma": "eirēnē",
+          "meaning": "peace; wholeness; well-being"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And account that the longsuffering of our Lord is salvation; even as our beloved brother Paul also according to the wisdom given unto him hath written unto you;",
+      "highlightedWords": [
+        {
+          "word": "longsuffering",
+          "strongNumber": "G3115",
+          "lemma": "makrothymia",
+          "meaning": "patience; longsuffering; endurance"
+        },
+        {
+          "word": "salvation",
+          "strongNumber": "G4991",
+          "lemma": "sōtēria",
+          "meaning": "salvation; deliverance"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "As also in all his epistles, speaking in them of these things; in which are some things hard to be understood, which they that are unlearned and unstable wrest, as they do also the other scriptures, unto their own destruction.",
+      "highlightedWords": [
+        {
+          "word": "epistles",
+          "strongNumber": "G1992",
+          "lemma": "epistolē",
+          "meaning": "letters; written messages"
+        },
+        {
+          "word": "scriptures",
+          "strongNumber": "G1124",
+          "lemma": "graphē",
+          "meaning": "scripture; sacred writing"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Ye therefore, beloved, seeing ye know these things before, beware lest ye also, being led away with the error of the wicked, fall from your own stedfastness.",
+      "highlightedWords": [
+        {
+          "word": "error",
+          "strongNumber": "G4106",
+          "lemma": "planē",
+          "meaning": "error; wandering; deception"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "G113",
+          "lemma": "athesmos",
+          "meaning": "lawless; wicked person"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "But grow in grace, and in the knowledge of our Lord and Saviour Jesus Christ. To him be glory both now and for ever. Amen.",
+      "highlightedWords": [
+        {
+          "word": "grace",
+          "strongNumber": "G5485",
+          "lemma": "charis",
+          "meaning": "grace; favor; kindness"
+        },
+        {
+          "word": "knowledge",
+          "strongNumber": "G1108",
+          "lemma": "gnōsis",
+          "meaning": "knowledge; understanding"
+        }
+      ]
+    }
+  ]
+}

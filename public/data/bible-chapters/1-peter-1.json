@@ -1,0 +1,474 @@
+{
+  "book": "1 Peter",
+  "chapter": 1,
+  "chapterTheme": {
+    "twoWordSummary": "Living Hope",
+    "themeWords": [
+      {
+        "word": "hope",
+        "strongNumber": "G1680",
+        "lemma": "elpis",
+        "meaning": "confident expectation; hope"
+      },
+      {
+        "word": "holy",
+        "strongNumber": "G40",
+        "lemma": "hagios",
+        "meaning": "holy; set apart"
+      }
+    ]
+  },
+  "sentenceTheme": "God’s great mercy gives believers a living hope that refines faith through trials and calls them to holy living.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,",
+      "highlightedWords": [
+        {
+          "word": "apostle",
+          "strongNumber": "G652",
+          "lemma": "apostolos",
+          "meaning": "one who is sent; messenger"
+        },
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iesous",
+          "meaning": "Jesus; Yahweh is salvation"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Elect according to the foreknowledge of God the Father, through sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ: Grace unto you, and peace, be multiplied.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God; deity"
+        },
+        {
+          "word": "Spirit",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit; Holy Spirit; breath"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Blessed be the God and Father of our Lord Jesus Christ, which according to his abundant mercy hath begotten us again unto a lively hope by the resurrection of Jesus Christ from the dead,",
+      "highlightedWords": [
+        {
+          "word": "mercy",
+          "strongNumber": "G1656",
+          "lemma": "eleos",
+          "meaning": "mercy; compassion"
+        },
+        {
+          "word": "resurrection",
+          "strongNumber": "G386",
+          "lemma": "anastasis",
+          "meaning": "resurrection; rising up"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "To an inheritance incorruptible, and undefiled, and that fadeth not away, reserved in heaven for you,",
+      "highlightedWords": [
+        {
+          "word": "inheritance",
+          "strongNumber": "G2817",
+          "lemma": "kleronomia",
+          "meaning": "inheritance; allotted portion"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "G3772",
+          "lemma": "ouranos",
+          "meaning": "heaven; sky"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Who are kept by the power of God through faith unto salvation ready to be revealed in the last time.",
+      "highlightedWords": [
+        {
+          "word": "faith",
+          "strongNumber": "G4102",
+          "lemma": "pistis",
+          "meaning": "faith; trust; belief"
+        },
+        {
+          "word": "salvation",
+          "strongNumber": "G4991",
+          "lemma": "soteria",
+          "meaning": "salvation; deliverance"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Wherein ye greatly rejoice, though now for a season, if need be, ye are in heaviness through manifold temptations:",
+      "highlightedWords": [
+        {
+          "word": "rejoice",
+          "strongNumber": "G21",
+          "lemma": "agalliao",
+          "meaning": "to exult; rejoice greatly"
+        },
+        {
+          "word": "temptations",
+          "strongNumber": "G3986",
+          "lemma": "peirasmos",
+          "meaning": "trial; temptation; testing"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "That the trial of your faith, being much more precious than of gold that perisheth, though it be tried with fire, might be found unto praise and honour and glory at the appearing of Jesus Christ:",
+      "highlightedWords": [
+        {
+          "word": "faith",
+          "strongNumber": "G4102",
+          "lemma": "pistis",
+          "meaning": "faith; trust; belief"
+        },
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "Anointed One; Messiah"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Whom having not seen, ye love; in whom, though now ye see him not, yet believing, ye rejoice with joy unspeakable and full of glory:",
+      "highlightedWords": [
+        {
+          "word": "love",
+          "strongNumber": "G25",
+          "lemma": "agapao",
+          "meaning": "to love; show affection"
+        },
+        {
+          "word": "joy",
+          "strongNumber": "G5479",
+          "lemma": "chara",
+          "meaning": "joy; gladness"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Receiving the end of your faith, even the salvation of your souls.",
+      "highlightedWords": [
+        {
+          "word": "salvation",
+          "strongNumber": "G4991",
+          "lemma": "soteria",
+          "meaning": "salvation; deliverance"
+        },
+        {
+          "word": "souls",
+          "strongNumber": "G5590",
+          "lemma": "psyche",
+          "meaning": "soul; life; self"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you:",
+      "highlightedWords": [
+        {
+          "word": "prophets",
+          "strongNumber": "G4396",
+          "lemma": "prophetes",
+          "meaning": "prophet; inspired spokesman"
+        },
+        {
+          "word": "grace",
+          "strongNumber": "G5485",
+          "lemma": "charis",
+          "meaning": "grace; favor; kindness"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow.",
+      "highlightedWords": [
+        {
+          "word": "Spirit",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit; Holy Spirit; breath"
+        },
+        {
+          "word": "sufferings",
+          "strongNumber": "G3804",
+          "lemma": "pathema",
+          "meaning": "suffering; passion"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Unto whom it was revealed, that not unto themselves, but unto us they did minister the things, which are now reported unto you by them that have preached the gospel unto you with the Holy Ghost sent down from heaven; which things the angels desire to look into.",
+      "highlightedWords": [
+        {
+          "word": "angels",
+          "strongNumber": "G32",
+          "lemma": "angelos",
+          "meaning": "messenger; angel"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "G3772",
+          "lemma": "ouranos",
+          "meaning": "heaven; sky"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Wherefore gird up the loins of your mind, be sober, and hope to the end for the grace that is to be brought unto you at the revelation of Jesus Christ;",
+      "highlightedWords": [
+        {
+          "word": "grace",
+          "strongNumber": "G5485",
+          "lemma": "charis",
+          "meaning": "grace; favor; kindness"
+        },
+        {
+          "word": "revelation",
+          "strongNumber": "G602",
+          "lemma": "apokalupsis",
+          "meaning": "revelation; unveiling"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "As obedient children, not fashioning yourselves according to the former lusts in your ignorance:",
+      "highlightedWords": [
+        {
+          "word": "lusts",
+          "strongNumber": "G1939",
+          "lemma": "epithymia",
+          "meaning": "desire; craving; lust"
+        },
+        {
+          "word": "ignorance",
+          "strongNumber": "G52",
+          "lemma": "agnoia",
+          "meaning": "ignorance; lack of knowledge"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "But as he which hath called you is holy, so be ye holy in all manner of conversation;",
+      "highlightedWords": [
+        {
+          "word": "called",
+          "strongNumber": "G2564",
+          "lemma": "kaleo",
+          "meaning": "to call; invite; name"
+        },
+        {
+          "word": "holy",
+          "strongNumber": "G40",
+          "lemma": "hagios",
+          "meaning": "holy; set apart"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Because it is written, Be ye holy; for I am holy.",
+      "highlightedWords": [
+        {
+          "word": "written",
+          "strongNumber": "G1125",
+          "lemma": "grapho",
+          "meaning": "to write"
+        },
+        {
+          "word": "holy",
+          "strongNumber": "G40",
+          "lemma": "hagios",
+          "meaning": "holy; set apart"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And if ye call on the Father, who without respect of persons judgeth according to every man's work, pass the time of your sojourning here in fear:",
+      "highlightedWords": [
+        {
+          "word": "Father",
+          "strongNumber": "G3962",
+          "lemma": "pater",
+          "meaning": "father; ancestor"
+        },
+        {
+          "word": "fear",
+          "strongNumber": "G5401",
+          "lemma": "phobos",
+          "meaning": "fear; reverence"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Forasmuch as ye know that ye were not redeemed with corruptible things, as silver and gold, from your vain conversation received by tradition from your fathers;",
+      "highlightedWords": [
+        {
+          "word": "redeemed",
+          "strongNumber": "G3084",
+          "lemma": "lutroo",
+          "meaning": "to redeem; ransom"
+        },
+        {
+          "word": "corruptible",
+          "strongNumber": "G5349",
+          "lemma": "phthartos",
+          "meaning": "perishable; corruptible"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "But with the precious blood of Christ, as of a lamb without blemish and without spot:",
+      "highlightedWords": [
+        {
+          "word": "blood",
+          "strongNumber": "G129",
+          "lemma": "haima",
+          "meaning": "blood"
+        },
+        {
+          "word": "lamb",
+          "strongNumber": "G286",
+          "lemma": "amnos",
+          "meaning": "lamb"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Who verily was foreordained before the foundation of the world, but was manifest in these last times for you,",
+      "highlightedWords": [
+        {
+          "word": "foreordained",
+          "strongNumber": "G4267",
+          "lemma": "proginosko",
+          "meaning": "to foreknow; foreordain"
+        },
+        {
+          "word": "world",
+          "strongNumber": "G2889",
+          "lemma": "kosmos",
+          "meaning": "world; ordered system"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Who by him do believe in God, that raised him up from the dead, and gave him glory; that your faith and hope might be in God.",
+      "highlightedWords": [
+        {
+          "word": "believe",
+          "strongNumber": "G4100",
+          "lemma": "pisteuo",
+          "meaning": "to believe; trust"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God; deity"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Seeing ye have purified your souls in obeying the truth through the Spirit unto unfeigned love of the brethren, see that ye love one another with a pure heart fervently:",
+      "highlightedWords": [
+        {
+          "word": "truth",
+          "strongNumber": "G225",
+          "lemma": "aletheia",
+          "meaning": "truth; reality"
+        },
+        {
+          "word": "brethren",
+          "strongNumber": "G80",
+          "lemma": "adelphos",
+          "meaning": "brother; fellow believer"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Being born again, not of corruptible seed, but of incorruptible, by the word of God, which liveth and abideth for ever.",
+      "highlightedWords": [
+        {
+          "word": "incorruptible",
+          "strongNumber": "G862",
+          "lemma": "aphthartos",
+          "meaning": "imperishable; incorruptible"
+        },
+        {
+          "word": "word",
+          "strongNumber": "G3056",
+          "lemma": "logos",
+          "meaning": "word; message; discourse"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "For all flesh is as grass, and all the glory of man as the flower of grass. The grass withereth, and the flower thereof falleth away:",
+      "highlightedWords": [
+        {
+          "word": "flesh",
+          "strongNumber": "G4561",
+          "lemma": "sarx",
+          "meaning": "flesh; human nature"
+        },
+        {
+          "word": "grass",
+          "strongNumber": "G5528",
+          "lemma": "chortos",
+          "meaning": "grass; herbage"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "But the word of the Lord endureth for ever. And this is the word which by the gospel is preached unto you.",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "G3056",
+          "lemma": "logos",
+          "meaning": "word; message; discourse"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kurios",
+          "meaning": "Lord; Master"
+        }
+      ]
+    }
+  ]
+}

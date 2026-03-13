@@ -1,0 +1,528 @@
+{
+  "book": "1 Thessalonians",
+  "chapter": 5,
+  "chapterTheme": {
+    "twoWordSummary": "Watchful Living",
+    "themeWords": [
+      {
+        "word": "watch",
+        "strongNumber": "G1127",
+        "lemma": "grēgoreō",
+        "meaning": "to keep awake, be vigilant"
+      },
+      {
+        "word": "sober",
+        "strongNumber": "G3525",
+        "lemma": "nēphō",
+        "meaning": "to be sober, self-controlled"
+      }
+    ]
+  },
+  "sentenceTheme": "Live alert, holy, and thankful lives as we await the Lord’s coming, encouraging one another in faith, love, and peace.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "But of the times and the seasons, brethren, ye have no need that I write unto you.",
+      "highlightedWords": [
+        {
+          "word": "times",
+          "strongNumber": "G5550",
+          "lemma": "chronos",
+          "meaning": "a period or span of time"
+        },
+        {
+          "word": "seasons",
+          "strongNumber": "G2540",
+          "lemma": "kairos",
+          "meaning": "an appointed time or season"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "For yourselves know perfectly that the day of the Lord so cometh as a thief in the night.",
+      "highlightedWords": [
+        {
+          "word": "day",
+          "strongNumber": "G2250",
+          "lemma": "hēmera",
+          "meaning": "day, daylight, a period of time"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "lord, master; title for God or Christ"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "For when they shall say, Peace and safety; then sudden destruction cometh upon them, as travail upon a woman with child; and they shall not escape.",
+      "highlightedWords": [
+        {
+          "word": "Peace",
+          "strongNumber": "G1515",
+          "lemma": "eirēnē",
+          "meaning": "peace, harmony, well-being"
+        },
+        {
+          "word": "destruction",
+          "strongNumber": "G684",
+          "lemma": "apōleia",
+          "meaning": "ruin, destruction, perdition"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "But ye, brethren, are not in darkness, that that day should overtake you as a thief.",
+      "highlightedWords": [
+        {
+          "word": "darkness",
+          "strongNumber": "G4655",
+          "lemma": "skotos",
+          "meaning": "darkness, obscurity"
+        },
+        {
+          "word": "day",
+          "strongNumber": "G2250",
+          "lemma": "hēmera",
+          "meaning": "day, daylight, a period of time"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Ye are all the children of light, and the children of the day: we are not of the night, nor of darkness.",
+      "highlightedWords": [
+        {
+          "word": "light",
+          "strongNumber": "G5457",
+          "lemma": "phōs",
+          "meaning": "light, illumination"
+        },
+        {
+          "word": "darkness",
+          "strongNumber": "G4655",
+          "lemma": "skotos",
+          "meaning": "darkness, obscurity"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Therefore let us not sleep, as do others; but let us watch and be sober.",
+      "highlightedWords": [
+        {
+          "word": "sleep",
+          "strongNumber": "G2518",
+          "lemma": "katheudō",
+          "meaning": "to sleep; figuratively, be spiritually inattentive"
+        },
+        {
+          "word": "watch",
+          "strongNumber": "G1127",
+          "lemma": "grēgoreō",
+          "meaning": "to keep awake, be vigilant"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "For they that sleep sleep in the night; and they that be drunken are drunken in the night.",
+      "highlightedWords": [
+        {
+          "word": "drunken",
+          "strongNumber": "G3184",
+          "lemma": "methyō",
+          "meaning": "to be drunk, intoxicated"
+        },
+        {
+          "word": "night",
+          "strongNumber": "G3571",
+          "lemma": "nyx",
+          "meaning": "night, nighttime"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "But let us, who are of the day, be sober, putting on the breastplate of faith and love; and for an helmet, the hope of salvation.",
+      "highlightedWords": [
+        {
+          "word": "hope",
+          "strongNumber": "G1680",
+          "lemma": "elpis",
+          "meaning": "hope, expectation, confident trust"
+        },
+        {
+          "word": "salvation",
+          "strongNumber": "G4991",
+          "lemma": "sōtēria",
+          "meaning": "salvation, deliverance"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "For God hath not appointed us to wrath, but to obtain salvation by our Lord Jesus Christ,",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "Theos",
+          "meaning": "God, the supreme Deity"
+        },
+        {
+          "word": "wrath",
+          "strongNumber": "G3709",
+          "lemma": "orgē",
+          "meaning": "wrath, anger, righteous indignation"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Who died for us, that, whether we wake or sleep, we should live together with him.",
+      "highlightedWords": [
+        {
+          "word": "died",
+          "strongNumber": "G599",
+          "lemma": "apothnēskō",
+          "meaning": "to die"
+        },
+        {
+          "word": "live",
+          "strongNumber": "G2198",
+          "lemma": "zaō",
+          "meaning": "to live, be alive"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Wherefore comfort yourselves together, and edify one another, even as also ye do.",
+      "highlightedWords": [
+        {
+          "word": "comfort",
+          "strongNumber": "G3870",
+          "lemma": "parakaleō",
+          "meaning": "to encourage, comfort, exhort"
+        },
+        {
+          "word": "edify",
+          "strongNumber": "G3618",
+          "lemma": "oikodomeō",
+          "meaning": "to build up, edify"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And we beseech you, brethren, to know them which labour among you, and are over you in the Lord, and admonish you;",
+      "highlightedWords": [
+        {
+          "word": "labour",
+          "strongNumber": "G2872",
+          "lemma": "kopiaō",
+          "meaning": "to toil, labor, work hard"
+        },
+        {
+          "word": "admonish",
+          "strongNumber": "G3560",
+          "lemma": "noutheteō",
+          "meaning": "to admonish, warn, instruct"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And to esteem them very highly in love for their work's sake. And be at peace among yourselves.",
+      "highlightedWords": [
+        {
+          "word": "esteem",
+          "strongNumber": "G2233",
+          "lemma": "hēgeomai",
+          "meaning": "to consider, regard, esteem"
+        },
+        {
+          "word": "peace",
+          "strongNumber": "G1515",
+          "lemma": "eirēnē",
+          "meaning": "peace, harmony, well-being"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Now we exhort you, brethren, warn them that are unruly, comfort the feebleminded, support the weak, be patient toward all men.",
+      "highlightedWords": [
+        {
+          "word": "warn",
+          "strongNumber": "G3560",
+          "lemma": "noutheteō",
+          "meaning": "to admonish, warn, instruct"
+        },
+        {
+          "word": "patient",
+          "strongNumber": "G3114",
+          "lemma": "makrothymeō",
+          "meaning": "to be patient, long-suffering"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "See that none render evil for evil unto any man; but ever follow that which is good, both among yourselves, and to all men.",
+      "highlightedWords": [
+        {
+          "word": "evil",
+          "strongNumber": "G2556",
+          "lemma": "kakos",
+          "meaning": "evil, bad, harmful"
+        },
+        {
+          "word": "good",
+          "strongNumber": "G18",
+          "lemma": "agathos",
+          "meaning": "good, beneficial, morally upright"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Rejoice evermore.",
+      "highlightedWords": [
+        {
+          "word": "Rejoice",
+          "strongNumber": "G5463",
+          "lemma": "chairō",
+          "meaning": "to rejoice, be glad"
+        },
+        {
+          "word": "evermore",
+          "strongNumber": "G3842",
+          "lemma": "pantote",
+          "meaning": "always, at all times"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Pray without ceasing.",
+      "highlightedWords": [
+        {
+          "word": "Pray",
+          "strongNumber": "G4336",
+          "lemma": "proseuchomai",
+          "meaning": "to pray, petition God"
+        },
+        {
+          "word": "ceasing",
+          "strongNumber": "G88",
+          "lemma": "adialeiptōs",
+          "meaning": "unceasingly, without interruption"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "In every thing give thanks: for this is the will of God in Christ Jesus concerning you.",
+      "highlightedWords": [
+        {
+          "word": "thanks",
+          "strongNumber": "G2168",
+          "lemma": "eucharisteō",
+          "meaning": "to give thanks, express gratitude"
+        },
+        {
+          "word": "will",
+          "strongNumber": "G2307",
+          "lemma": "thelēma",
+          "meaning": "will, desire, purpose"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Quench not the Spirit.",
+      "highlightedWords": [
+        {
+          "word": "Quench",
+          "strongNumber": "G4570",
+          "lemma": "sbennymi",
+          "meaning": "to quench, extinguish"
+        },
+        {
+          "word": "Spirit",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit, breath; the Holy Spirit"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Despise not prophesyings.",
+      "highlightedWords": [
+        {
+          "word": "Despise",
+          "strongNumber": "G1848",
+          "lemma": "exoutheneō",
+          "meaning": "to despise, treat with contempt"
+        },
+        {
+          "word": "prophesyings",
+          "strongNumber": "G4394",
+          "lemma": "prophēteia",
+          "meaning": "prophecies, inspired utterances"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Prove all things; hold fast that which is good.",
+      "highlightedWords": [
+        {
+          "word": "Prove",
+          "strongNumber": "G1381",
+          "lemma": "dokimazō",
+          "meaning": "to test, examine, prove genuine"
+        },
+        {
+          "word": "hold",
+          "strongNumber": "G2722",
+          "lemma": "katechō",
+          "meaning": "to hold fast, keep firm"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Abstain from all appearance of evil.",
+      "highlightedWords": [
+        {
+          "word": "appearance",
+          "strongNumber": "G1491",
+          "lemma": "eidos",
+          "meaning": "appearance, form, kind"
+        },
+        {
+          "word": "evil",
+          "strongNumber": "G4190",
+          "lemma": "ponēros",
+          "meaning": "evil, wicked, morally bad"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And the very God of peace sanctify you wholly; and I pray God your whole spirit and soul and body be preserved blameless unto the coming of our Lord Jesus Christ.",
+      "highlightedWords": [
+        {
+          "word": "sanctify",
+          "strongNumber": "G37",
+          "lemma": "hagiazō",
+          "meaning": "to make holy, consecrate"
+        },
+        {
+          "word": "coming",
+          "strongNumber": "G3952",
+          "lemma": "parousia",
+          "meaning": "coming, arrival, presence"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Faithful is he that calleth you, who also will do it.",
+      "highlightedWords": [
+        {
+          "word": "Faithful",
+          "strongNumber": "G4103",
+          "lemma": "pistos",
+          "meaning": "faithful, trustworthy, reliable"
+        },
+        {
+          "word": "calleth",
+          "strongNumber": "G2564",
+          "lemma": "kaleō",
+          "meaning": "to call, summon, invite"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Brethren, pray for us.",
+      "highlightedWords": [
+        {
+          "word": "Brethren",
+          "strongNumber": "G80",
+          "lemma": "adelphos",
+          "meaning": "brother; fellow believer (plural here)"
+        },
+        {
+          "word": "pray",
+          "strongNumber": "G4336",
+          "lemma": "proseuchomai",
+          "meaning": "to pray, petition God"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "Greet all the brethren with an holy kiss.",
+      "highlightedWords": [
+        {
+          "word": "holy",
+          "strongNumber": "G40",
+          "lemma": "hagios",
+          "meaning": "holy, set apart"
+        },
+        {
+          "word": "kiss",
+          "strongNumber": "G5370",
+          "lemma": "philēma",
+          "meaning": "a kiss"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "I charge you by the Lord that this epistle be read unto all the holy brethren.",
+      "highlightedWords": [
+        {
+          "word": "charge",
+          "strongNumber": "G1775",
+          "lemma": "enorkizō",
+          "meaning": "to adjure, charge with an oath"
+        },
+        {
+          "word": "read",
+          "strongNumber": "G314",
+          "lemma": "anaginōskō",
+          "meaning": "to read (aloud), recognize"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "The grace of our Lord Jesus Christ be with you. Amen.",
+      "highlightedWords": [
+        {
+          "word": "grace",
+          "strongNumber": "G5485",
+          "lemma": "charis",
+          "meaning": "grace, favor, kindness"
+        },
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus, ‘Yahweh is salvation’"
+        }
+      ]
+    }
+  ]
+}

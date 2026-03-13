@@ -1,0 +1,492 @@
+{
+  "book": "2 Timothy",
+  "chapter": 2,
+  "chapterTheme": {
+    "twoWordSummary": "Faithful Endurance",
+    "themeWords": [
+      {
+        "word": "grace",
+        "strongNumber": "G5485",
+        "lemma": "charis",
+        "meaning": "grace, favor, kindness"
+      },
+      {
+        "word": "faithful",
+        "strongNumber": "G4103",
+        "lemma": "pistos",
+        "meaning": "faithful, trustworthy"
+      }
+    ]
+  },
+  "sentenceTheme": "Paul urges Timothy to be strong in grace, entrust sound teaching to faithful men, endure hardship as Christ’s soldier, avoid quarrelsome words, and pursue holiness as a useful servant of the Lord.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Thou therefore, my son, be strong in the grace that is in Christ Jesus.",
+      "highlightedWords": [
+        {
+          "word": "grace",
+          "strongNumber": "G5485",
+          "lemma": "charis",
+          "meaning": "grace, favor, kindness"
+        },
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "the Anointed One, Messiah"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And the things that thou hast heard of me among many witnesses, the same commit thou to faithful men, who shall be able to teach others also.",
+      "highlightedWords": [
+        {
+          "word": "witnesses",
+          "strongNumber": "G3144",
+          "lemma": "martys",
+          "meaning": "witness, one who testifies"
+        },
+        {
+          "word": "teach",
+          "strongNumber": "G1321",
+          "lemma": "didaskō",
+          "meaning": "to teach, instruct"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Thou therefore endure hardness, as a good soldier of Jesus Christ.",
+      "highlightedWords": [
+        {
+          "word": "soldier",
+          "strongNumber": "G4757",
+          "lemma": "stratiōtēs",
+          "meaning": "a soldier"
+        },
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "the Anointed One, Messiah"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "No man that warreth entangleth himself with the affairs of this life; that he may please him who hath chosen him to be a soldier.",
+      "highlightedWords": [
+        {
+          "word": "warreth",
+          "strongNumber": "G4754",
+          "lemma": "strateuō",
+          "meaning": "to serve as a soldier, wage war"
+        },
+        {
+          "word": "entangleth",
+          "strongNumber": "G1707",
+          "lemma": "emplekō",
+          "meaning": "to entangle, involve"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And if a man also strive for masteries, yet is he not crowned, except he strive lawfully.",
+      "highlightedWords": [
+        {
+          "word": "crowned",
+          "strongNumber": "G4737",
+          "lemma": "stephanoō",
+          "meaning": "to crown"
+        },
+        {
+          "word": "lawfully",
+          "strongNumber": "G3545",
+          "lemma": "nomimōs",
+          "meaning": "lawfully, according to the rules"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "The husbandman that laboureth must be first partaker of the fruits.",
+      "highlightedWords": [
+        {
+          "word": "husbandman",
+          "strongNumber": "G1092",
+          "lemma": "geōrgos",
+          "meaning": "farmer, husbandman"
+        },
+        {
+          "word": "fruits",
+          "strongNumber": "G2590",
+          "lemma": "karpos",
+          "meaning": "fruit, produce"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Consider what I say; and the Lord give thee understanding in all things.",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "lord, master"
+        },
+        {
+          "word": "understanding",
+          "strongNumber": "G4907",
+          "lemma": "synesis",
+          "meaning": "understanding, insight"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Remember that Jesus Christ of the seed of David was raised from the dead according to my gospel:",
+      "highlightedWords": [
+        {
+          "word": "seed",
+          "strongNumber": "G4690",
+          "lemma": "sperma",
+          "meaning": "seed, offspring"
+        },
+        {
+          "word": "raised",
+          "strongNumber": "G1453",
+          "lemma": "egeirō",
+          "meaning": "to raise up"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Wherein I suffer trouble, as an evil doer, even unto bonds; but the word of God is not bound.",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "G3056",
+          "lemma": "logos",
+          "meaning": "word, message"
+        },
+        {
+          "word": "bound",
+          "strongNumber": "G1210",
+          "lemma": "deō",
+          "meaning": "to bind, tie"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Therefore I endure all things for the elect's sakes, that they may also obtain the salvation which is in Christ Jesus with eternal glory.",
+      "highlightedWords": [
+        {
+          "word": "elect's",
+          "strongNumber": "G1588",
+          "lemma": "eklektos",
+          "meaning": "chosen, elect"
+        },
+        {
+          "word": "salvation",
+          "strongNumber": "G4991",
+          "lemma": "sōtēria",
+          "meaning": "salvation, deliverance"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "It is a faithful saying: For if we be dead with him, we shall also live with him:",
+      "highlightedWords": [
+        {
+          "word": "faithful",
+          "strongNumber": "G4103",
+          "lemma": "pistos",
+          "meaning": "faithful, trustworthy"
+        },
+        {
+          "word": "live",
+          "strongNumber": "G2198",
+          "lemma": "zaō",
+          "meaning": "to live"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "If we suffer, we shall also reign with him: if we deny him, he also will deny us:",
+      "highlightedWords": [
+        {
+          "word": "suffer",
+          "strongNumber": "G5278",
+          "lemma": "hypomenō",
+          "meaning": "to endure, remain under"
+        },
+        {
+          "word": "deny",
+          "strongNumber": "G720",
+          "lemma": "arneomai",
+          "meaning": "to deny, disown"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "If we believe not, yet he abideth faithful: he cannot deny himself.",
+      "highlightedWords": [
+        {
+          "word": "abideth",
+          "strongNumber": "G3306",
+          "lemma": "menō",
+          "meaning": "to remain, abide"
+        },
+        {
+          "word": "deny",
+          "strongNumber": "G720",
+          "lemma": "arneomai",
+          "meaning": "to deny, disown"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Of these things put them in remembrance, charging them before the Lord that they strive not about words to no profit, but to the subverting of the hearers.",
+      "highlightedWords": [
+        {
+          "word": "remembrance",
+          "strongNumber": "G5279",
+          "lemma": "hypomimnēskō",
+          "meaning": "to remind, put in remembrance"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "lord, master"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.",
+      "highlightedWords": [
+        {
+          "word": "Study",
+          "strongNumber": "G4704",
+          "lemma": "spoudazō",
+          "meaning": "to be diligent, make effort"
+        },
+        {
+          "word": "truth",
+          "strongNumber": "G225",
+          "lemma": "alētheia",
+          "meaning": "truth, reality"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "But shun profane and vain babblings: for they will increase unto more ungodliness.",
+      "highlightedWords": [
+        {
+          "word": "profane",
+          "strongNumber": "G952",
+          "lemma": "bebēlos",
+          "meaning": "profane, irreverent"
+        },
+        {
+          "word": "ungodliness",
+          "strongNumber": "G763",
+          "lemma": "asebeia",
+          "meaning": "ungodliness, impiety"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And their word will eat as doth a canker: of whom is Hymenaeus and Philetus;",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "G3056",
+          "lemma": "logos",
+          "meaning": "word, message"
+        },
+        {
+          "word": "canker",
+          "strongNumber": "G1044",
+          "lemma": "gangraina",
+          "meaning": "gangrene, spreading ulcer"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Who concerning the truth have erred, saying that the resurrection is past already; and overthrow the faith of some.",
+      "highlightedWords": [
+        {
+          "word": "resurrection",
+          "strongNumber": "G386",
+          "lemma": "anastasis",
+          "meaning": "resurrection, rising up"
+        },
+        {
+          "word": "faith",
+          "strongNumber": "G4102",
+          "lemma": "pistis",
+          "meaning": "faith, belief, trust"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Nevertheless the foundation of God standeth sure, having this seal, The Lord knoweth them that are his. And, Let every one that nameth the name of Christ depart from iniquity.",
+      "highlightedWords": [
+        {
+          "word": "foundation",
+          "strongNumber": "G2310",
+          "lemma": "themelios",
+          "meaning": "a foundation"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "G93",
+          "lemma": "adikia",
+          "meaning": "unrighteousness, injustice"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "But in a great house there are not only vessels of gold and of silver, but also of wood and of earth; and some to honour, and some to dishonour.",
+      "highlightedWords": [
+        {
+          "word": "vessels",
+          "strongNumber": "G4632",
+          "lemma": "skeuos",
+          "meaning": "vessel, instrument"
+        },
+        {
+          "word": "gold",
+          "strongNumber": "G5557",
+          "lemma": "chrysos",
+          "meaning": "gold"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "If a man therefore purge himself from these, he shall be a vessel unto honour, sanctified, and meet for the master's use, and prepared unto every good work.",
+      "highlightedWords": [
+        {
+          "word": "sanctified",
+          "strongNumber": "G37",
+          "lemma": "hagiazō",
+          "meaning": "to sanctify, set apart as holy"
+        },
+        {
+          "word": "master's",
+          "strongNumber": "G1203",
+          "lemma": "despotēs",
+          "meaning": "master, sovereign"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Flee also youthful lusts: but follow righteousness, faith, charity, peace, with them that call on the Lord out of a pure heart.",
+      "highlightedWords": [
+        {
+          "word": "Flee",
+          "strongNumber": "G5343",
+          "lemma": "pheugō",
+          "meaning": "to flee, run away"
+        },
+        {
+          "word": "charity",
+          "strongNumber": "G26",
+          "lemma": "agapē",
+          "meaning": "love, charity"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "But foolish and unlearned questions avoid, knowing that they do gender strifes.",
+      "highlightedWords": [
+        {
+          "word": "avoid",
+          "strongNumber": "G3868",
+          "lemma": "paraiteomai",
+          "meaning": "to refuse, avoid"
+        },
+        {
+          "word": "strifes",
+          "strongNumber": "G3163",
+          "lemma": "machē",
+          "meaning": "battle, strife, quarrel"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And the servant of the Lord must not strive; but be gentle unto all men, apt to teach, patient,",
+      "highlightedWords": [
+        {
+          "word": "servant",
+          "strongNumber": "G1401",
+          "lemma": "doulos",
+          "meaning": "slave, servant"
+        },
+        {
+          "word": "teach",
+          "strongNumber": "G1317",
+          "lemma": "didaktikos",
+          "meaning": "apt to teach, skilled in teaching"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "In meekness instructing those that oppose themselves; if God peradventure will give them repentance to the acknowledging of the truth;",
+      "highlightedWords": [
+        {
+          "word": "repentance",
+          "strongNumber": "G3341",
+          "lemma": "metanoia",
+          "meaning": "repentance, change of mind"
+        },
+        {
+          "word": "truth",
+          "strongNumber": "G225",
+          "lemma": "alētheia",
+          "meaning": "truth, reality"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And that they may recover themselves out of the snare of the devil, who are taken captive by him at his will.",
+      "highlightedWords": [
+        {
+          "word": "snare",
+          "strongNumber": "G3803",
+          "lemma": "pagis",
+          "meaning": "snare, trap"
+        },
+        {
+          "word": "devil",
+          "strongNumber": "G1228",
+          "lemma": "diabolos",
+          "meaning": "slanderer, devil"
+        }
+      ]
+    }
+  ]
+}

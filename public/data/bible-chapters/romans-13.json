@@ -1,0 +1,276 @@
+{
+  "book": "Romans",
+  "chapter": 13,
+  "chapterTheme": {
+    "twoWordSummary": "Authority Love",
+    "themeWords": [
+      {
+        "word": "authority",
+        "strongNumber": "G1849",
+        "lemma": "exousia",
+        "meaning": "delegated power, authority"
+      },
+      {
+        "word": "love",
+        "strongNumber": "G26",
+        "lemma": "agape",
+        "meaning": "self-giving love, benevolence"
+      }
+    ]
+  },
+  "sentenceTheme": "Christians are to submit to governing authorities, fulfill the law through love, and live honorably in the light of Christ.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God.",
+      "highlightedWords": [
+        {
+          "word": "powers",
+          "strongNumber": "G1849",
+          "lemma": "exousia",
+          "meaning": "authority, delegated power"
+        },
+        {
+          "word": "ordained",
+          "strongNumber": "G5021",
+          "lemma": "tasso",
+          "meaning": "to appoint, arrange, set in order"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Whosoever therefore resisteth the power, resisteth the ordinance of God: and they that resist shall receive to themselves damnation.",
+      "highlightedWords": [
+        {
+          "word": "resisteth",
+          "strongNumber": "G436",
+          "lemma": "anthistemi",
+          "meaning": "to oppose, set oneself against"
+        },
+        {
+          "word": "damnation",
+          "strongNumber": "G2917",
+          "lemma": "krima",
+          "meaning": "judgment, condemnation"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "For rulers are not a terror to good works, but to the evil. Wilt thou then not be afraid of the power? do that which is good, and thou shalt have praise of the same:",
+      "highlightedWords": [
+        {
+          "word": "rulers",
+          "strongNumber": "G758",
+          "lemma": "archon",
+          "meaning": "ruler, magistrate, leader"
+        },
+        {
+          "word": "evil",
+          "strongNumber": "G2556",
+          "lemma": "kakos",
+          "meaning": "evil, bad, harmful"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "For he is the minister of God to thee for good. But if thou do that which is evil, be afraid; for he beareth not the sword in vain: for he is the minister of God, a revenger to execute wrath upon him that doeth evil.",
+      "highlightedWords": [
+        {
+          "word": "minister",
+          "strongNumber": "G1249",
+          "lemma": "diakonos",
+          "meaning": "servant, minister, attendant"
+        },
+        {
+          "word": "sword",
+          "strongNumber": "G3162",
+          "lemma": "machaira",
+          "meaning": "sword, dagger"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Wherefore ye must needs be subject, not only for wrath, but also for conscience sake.",
+      "highlightedWords": [
+        {
+          "word": "subject",
+          "strongNumber": "G5293",
+          "lemma": "hypotasso",
+          "meaning": "to subject, to submit"
+        },
+        {
+          "word": "conscience",
+          "strongNumber": "G4893",
+          "lemma": "syneidesis",
+          "meaning": "conscience, moral awareness"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "For for this cause pay ye tribute also: for they are God's ministers, attending continually upon this very thing.",
+      "highlightedWords": [
+        {
+          "word": "tribute",
+          "strongNumber": "G5411",
+          "lemma": "phoros",
+          "meaning": "tribute, tax"
+        },
+        {
+          "word": "ministers",
+          "strongNumber": "G3011",
+          "lemma": "leitourgos",
+          "meaning": "public servant, minister"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Render therefore to all their dues: tribute to whom tribute is due; custom to whom custom; fear to whom fear; honour to whom honour.",
+      "highlightedWords": [
+        {
+          "word": "tribute",
+          "strongNumber": "G5411",
+          "lemma": "phoros",
+          "meaning": "tribute, tax"
+        },
+        {
+          "word": "honour",
+          "strongNumber": "G5092",
+          "lemma": "time",
+          "meaning": "honor, value, price"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Owe no man any thing, but to love one another: for he that loveth another hath fulfilled the law.",
+      "highlightedWords": [
+        {
+          "word": "love",
+          "strongNumber": "G25",
+          "lemma": "agapao",
+          "meaning": "to love with devoted affection"
+        },
+        {
+          "word": "law",
+          "strongNumber": "G3551",
+          "lemma": "nomos",
+          "meaning": "law, principle"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "For this, Thou shalt not commit adultery, Thou shalt not kill, Thou shalt not steal, Thou shalt not bear false witness, Thou shalt not covet; and if there be any other commandment, it is briefly comprehended in this saying, namely, Thou shalt love thy neighbour as thyself.",
+      "highlightedWords": [
+        {
+          "word": "covet",
+          "strongNumber": "G1937",
+          "lemma": "epithumeo",
+          "meaning": "to covet, desire earnestly"
+        },
+        {
+          "word": "neighbour",
+          "strongNumber": "G4139",
+          "lemma": "plesion",
+          "meaning": "neighbor, one who is near"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Love worketh no ill to his neighbour: therefore love is the fulfilling of the law.",
+      "highlightedWords": [
+        {
+          "word": "Love",
+          "strongNumber": "G26",
+          "lemma": "agape",
+          "meaning": "self-giving love, benevolence"
+        },
+        {
+          "word": "law",
+          "strongNumber": "G3551",
+          "lemma": "nomos",
+          "meaning": "law, principle"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And that, knowing the time, that now it is high time to awake out of sleep: for now is our salvation nearer than when we believed.",
+      "highlightedWords": [
+        {
+          "word": "salvation",
+          "strongNumber": "G4991",
+          "lemma": "soteria",
+          "meaning": "salvation, deliverance"
+        },
+        {
+          "word": "believed",
+          "strongNumber": "G4100",
+          "lemma": "pisteuo",
+          "meaning": "to believe, trust"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "The night is far spent, the day is at hand: let us therefore cast off the works of darkness, and let us put on the armour of light.",
+      "highlightedWords": [
+        {
+          "word": "darkness",
+          "strongNumber": "G4655",
+          "lemma": "skotos",
+          "meaning": "darkness"
+        },
+        {
+          "word": "light",
+          "strongNumber": "G5457",
+          "lemma": "phos",
+          "meaning": "light"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Let us walk honestly, as in the day; not in rioting and drunkenness, not in chambering and wantonness, not in strife and envying.",
+      "highlightedWords": [
+        {
+          "word": "drunkenness",
+          "strongNumber": "G3178",
+          "lemma": "methe",
+          "meaning": "drunkenness, intoxication"
+        },
+        {
+          "word": "wantonness",
+          "strongNumber": "G766",
+          "lemma": "aselgeia",
+          "meaning": "sensuality, licentiousness"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "But put ye on the Lord Jesus Christ, and make not provision for the flesh, to fulfil the lusts thereof.",
+      "highlightedWords": [
+        {
+          "word": "provision",
+          "strongNumber": "G4307",
+          "lemma": "pronoia",
+          "meaning": "forethought, provision"
+        },
+        {
+          "word": "flesh",
+          "strongNumber": "G4561",
+          "lemma": "sarx",
+          "meaning": "flesh, human nature"
+        }
+      ]
+    }
+  ]
+}

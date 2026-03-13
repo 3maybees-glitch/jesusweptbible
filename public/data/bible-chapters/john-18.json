@@ -1,0 +1,744 @@
+{
+  "book": "John",
+  "chapter": 18,
+  "chapterTheme": {
+    "twoWordSummary": "Arrest Trial",
+    "themeWords": [
+      {
+        "word": "betray",
+        "strongNumber": "G3860",
+        "lemma": "paradidōmi",
+        "meaning": "to hand over; deliver up; betray"
+      },
+      {
+        "word": "kingdom",
+        "strongNumber": "G932",
+        "lemma": "basileia",
+        "meaning": "kingdom; reign"
+      }
+    ]
+  },
+  "sentenceTheme": "Jesus is arrested, examined by Jewish leaders, and tried before Pilate, declaring His kingdom and the truth.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "When Jesus had spoken these words, he went forth with his disciples over the brook Cedron, where was a garden, into the which he entered, and his disciples.",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus"
+        },
+        {
+          "word": "Cedron",
+          "strongNumber": "G2748",
+          "lemma": "Kedrōn",
+          "meaning": "Kidron; Cedron"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And Judas also, which betrayed him, knew the place: for Jesus ofttimes resorted thither with his disciples.",
+      "highlightedWords": [
+        {
+          "word": "Judas",
+          "strongNumber": "G2455",
+          "lemma": "Ioudas",
+          "meaning": "Judas; Judah"
+        },
+        {
+          "word": "disciples",
+          "strongNumber": "G3101",
+          "lemma": "mathētēs",
+          "meaning": "disciple; learner"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Judas then, having received a band of men and officers from the chief priests and Pharisees, cometh thither with lanterns and torches and weapons.",
+      "highlightedWords": [
+        {
+          "word": "band",
+          "strongNumber": "G4686",
+          "lemma": "speira",
+          "meaning": "cohort; band"
+        },
+        {
+          "word": "officers",
+          "strongNumber": "G5257",
+          "lemma": "hypēretēs",
+          "meaning": "attendant; officer"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Jesus therefore, knowing all things that should come upon him, went forth, and said unto them, Whom seek ye?",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus"
+        },
+        {
+          "word": "knowing",
+          "strongNumber": "G1492",
+          "lemma": "oida",
+          "meaning": "to know"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "They answered him, Jesus of Nazareth. Jesus saith unto them, I am he. And Judas also, which betrayed him, stood with them.",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus"
+        },
+        {
+          "word": "Judas",
+          "strongNumber": "G2455",
+          "lemma": "Ioudas",
+          "meaning": "Judas; Judah"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "As soon then as he had said unto them, I am he, they went backward, and fell to the ground.",
+      "highlightedWords": [
+        {
+          "word": "fell",
+          "strongNumber": "G4098",
+          "lemma": "piptō",
+          "meaning": "to fall"
+        },
+        {
+          "word": "ground",
+          "strongNumber": "G1093",
+          "lemma": "gē",
+          "meaning": "earth; ground; land"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Then asked he them again, Whom seek ye? And they said, Jesus of Nazareth.",
+      "highlightedWords": [
+        {
+          "word": "seek",
+          "strongNumber": "G2212",
+          "lemma": "zēteō",
+          "meaning": "to seek"
+        },
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Jesus answered, I have told you that I am he: if therefore ye seek me, let these go their way:",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus"
+        },
+        {
+          "word": "seek",
+          "strongNumber": "G2212",
+          "lemma": "zēteō",
+          "meaning": "to seek"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "That the saying might be fulfilled, which he spake, Of them which thou gavest me have I lost none.",
+      "highlightedWords": [
+        {
+          "word": "fulfilled",
+          "strongNumber": "G4137",
+          "lemma": "plēroō",
+          "meaning": "to fulfill; fill"
+        },
+        {
+          "word": "lost",
+          "strongNumber": "G622",
+          "lemma": "apollymi",
+          "meaning": "to lose; destroy"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Then Simon Peter having a sword drew it, and smote the high priest's servant, and cut off his right ear. The servant's name was Malchus.",
+      "highlightedWords": [
+        {
+          "word": "sword",
+          "strongNumber": "G3162",
+          "lemma": "machaira",
+          "meaning": "sword"
+        },
+        {
+          "word": "Malchus",
+          "strongNumber": "G3124",
+          "lemma": "Malchos",
+          "meaning": "Malchus"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Then said Jesus unto Peter, Put up thy sword into the sheath: the cup which my Father hath given me, shall I not drink it?",
+      "highlightedWords": [
+        {
+          "word": "cup",
+          "strongNumber": "G4221",
+          "lemma": "potērion",
+          "meaning": "cup"
+        },
+        {
+          "word": "Father",
+          "strongNumber": "G3962",
+          "lemma": "patēr",
+          "meaning": "father"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Then the band and the captain and officers of the Jews took Jesus, and bound him,",
+      "highlightedWords": [
+        {
+          "word": "band",
+          "strongNumber": "G4686",
+          "lemma": "speira",
+          "meaning": "cohort; band"
+        },
+        {
+          "word": "Jews",
+          "strongNumber": "G2453",
+          "lemma": "Ioudaios",
+          "meaning": "Jew; Judean"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And led him away to Annas first; for he was father in law to Caiaphas, which was the high priest that same year.",
+      "highlightedWords": [
+        {
+          "word": "Annas",
+          "strongNumber": "G452",
+          "lemma": "Hannas",
+          "meaning": "Annas"
+        },
+        {
+          "word": "Caiaphas",
+          "strongNumber": "G2533",
+          "lemma": "Kaiaphas",
+          "meaning": "Caiaphas"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Now Caiaphas was he, which gave counsel to the Jews, that it was expedient that one man should die for the people.",
+      "highlightedWords": [
+        {
+          "word": "Caiaphas",
+          "strongNumber": "G2533",
+          "lemma": "Kaiaphas",
+          "meaning": "Caiaphas"
+        },
+        {
+          "word": "Jews",
+          "strongNumber": "G2453",
+          "lemma": "Ioudaios",
+          "meaning": "Jew; Judean"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And Simon Peter followed Jesus, and so did another disciple: that disciple was known unto the high priest, and went in with Jesus into the palace of the high priest.",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus"
+        },
+        {
+          "word": "disciple",
+          "strongNumber": "G3101",
+          "lemma": "mathētēs",
+          "meaning": "disciple; learner"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "But Peter stood at the door without. Then went out that other disciple, which was known unto the high priest, and spake unto her that kept the door, and brought in Peter.",
+      "highlightedWords": [
+        {
+          "word": "door",
+          "strongNumber": "G2374",
+          "lemma": "thyra",
+          "meaning": "door; gate"
+        },
+        {
+          "word": "disciple",
+          "strongNumber": "G3101",
+          "lemma": "mathētēs",
+          "meaning": "disciple; learner"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Then saith the damsel that kept the door unto Peter, Art not thou also one of this man's disciples? He saith, I am not.",
+      "highlightedWords": [
+        {
+          "word": "damsel",
+          "strongNumber": "G3814",
+          "lemma": "paidiskē",
+          "meaning": "maidservant; damsel"
+        },
+        {
+          "word": "disciples",
+          "strongNumber": "G3101",
+          "lemma": "mathētēs",
+          "meaning": "disciple; learner"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And the servants and officers stood there, who had made a fire of coals; for it was cold: and they warmed themselves: and Peter stood with them, and warmed himself.",
+      "highlightedWords": [
+        {
+          "word": "officers",
+          "strongNumber": "G5257",
+          "lemma": "hypēretēs",
+          "meaning": "attendant; officer"
+        },
+        {
+          "word": "Peter",
+          "strongNumber": "G4074",
+          "lemma": "Petros",
+          "meaning": "Peter"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "The high priest then asked Jesus of his disciples, and of his doctrine.",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus"
+        },
+        {
+          "word": "doctrine",
+          "strongNumber": "G1322",
+          "lemma": "didachē",
+          "meaning": "teaching; doctrine"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Jesus answered him, I spake openly to the world; I ever taught in the synagogue, and in the temple, whither the Jews always resort; and in secret have I said nothing.",
+      "highlightedWords": [
+        {
+          "word": "world",
+          "strongNumber": "G2889",
+          "lemma": "kosmos",
+          "meaning": "world; order; universe"
+        },
+        {
+          "word": "synagogue",
+          "strongNumber": "G4864",
+          "lemma": "synagōgē",
+          "meaning": "synagogue; assembly"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Why askest thou me? ask them which heard me, what I have said unto them: behold, they know what I said.",
+      "highlightedWords": [
+        {
+          "word": "ask",
+          "strongNumber": "G2065",
+          "lemma": "erōtaō",
+          "meaning": "to ask; inquire"
+        },
+        {
+          "word": "know",
+          "strongNumber": "G1492",
+          "lemma": "oida",
+          "meaning": "to know"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And when he had thus spoken, one of the officers which stood by struck Jesus with the palm of his hand, saying, Answerest thou the high priest so?",
+      "highlightedWords": [
+        {
+          "word": "officers",
+          "strongNumber": "G5257",
+          "lemma": "hypēretēs",
+          "meaning": "attendant; officer"
+        },
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Jesus answered him, If I have spoken evil, bear witness of the evil: but if well, why smitest thou me?",
+      "highlightedWords": [
+        {
+          "word": "spoken",
+          "strongNumber": "G2980",
+          "lemma": "laleō",
+          "meaning": "to speak"
+        },
+        {
+          "word": "evil",
+          "strongNumber": "G2556",
+          "lemma": "kakos",
+          "meaning": "evil; bad; harmful"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Now Annas had sent him bound unto Caiaphas the high priest.",
+      "highlightedWords": [
+        {
+          "word": "Annas",
+          "strongNumber": "G452",
+          "lemma": "Hannas",
+          "meaning": "Annas"
+        },
+        {
+          "word": "Caiaphas",
+          "strongNumber": "G2533",
+          "lemma": "Kaiaphas",
+          "meaning": "Caiaphas"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And Simon Peter stood and warmed himself. They said therefore unto him, Art not thou also one of his disciples? He denied it, and said, I am not.",
+      "highlightedWords": [
+        {
+          "word": "Peter",
+          "strongNumber": "G4074",
+          "lemma": "Petros",
+          "meaning": "Peter"
+        },
+        {
+          "word": "disciples",
+          "strongNumber": "G3101",
+          "lemma": "mathētēs",
+          "meaning": "disciple; learner"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "One of the servants of the high priest, being his kinsman whose ear Peter cut off, saith, Did not I see thee in the garden with him?",
+      "highlightedWords": [
+        {
+          "word": "servants",
+          "strongNumber": "G1401",
+          "lemma": "doulos",
+          "meaning": "slave; servant"
+        },
+        {
+          "word": "garden",
+          "strongNumber": "G2779",
+          "lemma": "kēpos",
+          "meaning": "garden"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "Peter then denied again: and immediately the cock crew.",
+      "highlightedWords": [
+        {
+          "word": "denied",
+          "strongNumber": "G720",
+          "lemma": "arneomai",
+          "meaning": "to deny"
+        },
+        {
+          "word": "cock",
+          "strongNumber": "G220",
+          "lemma": "alektōr",
+          "meaning": "rooster; cock"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "Then led they Jesus from Caiaphas unto the hall of judgment: and it was early; and they themselves went not into the judgment hall, lest they should be defiled; but that they might eat the passover.",
+      "highlightedWords": [
+        {
+          "word": "defiled",
+          "strongNumber": "G3392",
+          "lemma": "miainō",
+          "meaning": "to defile; stain"
+        },
+        {
+          "word": "passover",
+          "strongNumber": "G3957",
+          "lemma": "pascha",
+          "meaning": "Passover"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "Pilate then went out unto them, and said, What accusation bring ye against this man?",
+      "highlightedWords": [
+        {
+          "word": "Pilate",
+          "strongNumber": "G4091",
+          "lemma": "Pilatos",
+          "meaning": "Pilate"
+        },
+        {
+          "word": "accusation",
+          "strongNumber": "G2724",
+          "lemma": "katēgoria",
+          "meaning": "accusation; charge"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "They answered and said unto him, If he were not a malefactor, we would not have delivered him up unto thee.",
+      "highlightedWords": [
+        {
+          "word": "malefactor",
+          "strongNumber": "G2557",
+          "lemma": "kakourgos",
+          "meaning": "evildoer; malefactor"
+        },
+        {
+          "word": "delivered",
+          "strongNumber": "G3860",
+          "lemma": "paradidōmi",
+          "meaning": "to hand over; deliver up; betray"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "Then said Pilate unto them, Take ye him, and judge him according to your law. The Jews therefore said unto him, It is not lawful for us to put any man to death:",
+      "highlightedWords": [
+        {
+          "word": "Pilate",
+          "strongNumber": "G4091",
+          "lemma": "Pilatos",
+          "meaning": "Pilate"
+        },
+        {
+          "word": "death",
+          "strongNumber": "G2288",
+          "lemma": "thanatos",
+          "meaning": "death"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "That the saying of Jesus might be fulfilled, which he spake, signifying what death he should die.",
+      "highlightedWords": [
+        {
+          "word": "fulfilled",
+          "strongNumber": "G4137",
+          "lemma": "plēroō",
+          "meaning": "to fulfill; fill"
+        },
+        {
+          "word": "death",
+          "strongNumber": "G2288",
+          "lemma": "thanatos",
+          "meaning": "death"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "Then Pilate entered into the judgment hall again, and called Jesus, and said unto him, Art thou the King of the Jews?",
+      "highlightedWords": [
+        {
+          "word": "Pilate",
+          "strongNumber": "G4091",
+          "lemma": "Pilatos",
+          "meaning": "Pilate"
+        },
+        {
+          "word": "King",
+          "strongNumber": "G935",
+          "lemma": "basileus",
+          "meaning": "king"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "Jesus answered him, Sayest thou this thing of thyself, or did others tell it thee of me?",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus"
+        },
+        {
+          "word": "others",
+          "strongNumber": "G243",
+          "lemma": "allos",
+          "meaning": "another; other"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "Pilate answered, Am I a Jew? Thine own nation and the chief priests have delivered thee unto me: what hast thou done?",
+      "highlightedWords": [
+        {
+          "word": "Jew",
+          "strongNumber": "G2453",
+          "lemma": "Ioudaios",
+          "meaning": "Jew; Judean"
+        },
+        {
+          "word": "priests",
+          "strongNumber": "G749",
+          "lemma": "archiereus",
+          "meaning": "high priest; chief priest"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "Jesus answered, My kingdom is not of this world: if my kingdom were of this world, then would my servants fight, that I should not be delivered to the Jews: but now is my kingdom not from hence.",
+      "highlightedWords": [
+        {
+          "word": "kingdom",
+          "strongNumber": "G932",
+          "lemma": "basileia",
+          "meaning": "kingdom; reign"
+        },
+        {
+          "word": "world",
+          "strongNumber": "G2889",
+          "lemma": "kosmos",
+          "meaning": "world; order; universe"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "Pilate therefore said unto him, Art thou a king then? Jesus answered, Thou sayest that I am a king. To this end was I born, and for this cause came I into the world, that I should bear witness unto the truth. Every one that is of the truth heareth my voice.",
+      "highlightedWords": [
+        {
+          "word": "truth",
+          "strongNumber": "G225",
+          "lemma": "alētheia",
+          "meaning": "truth"
+        },
+        {
+          "word": "voice",
+          "strongNumber": "G5456",
+          "lemma": "phōnē",
+          "meaning": "voice; sound"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "Pilate saith unto him, What is truth? And when he had said this, he went out again unto the Jews, and saith unto them, I find in him no fault at all.",
+      "highlightedWords": [
+        {
+          "word": "truth",
+          "strongNumber": "G225",
+          "lemma": "alētheia",
+          "meaning": "truth"
+        },
+        {
+          "word": "Jews",
+          "strongNumber": "G2453",
+          "lemma": "Ioudaios",
+          "meaning": "Jew; Judean"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "text": "But ye have a custom, that I should release unto you one at the passover: will ye therefore that I release unto you the King of the Jews?",
+      "highlightedWords": [
+        {
+          "word": "passover",
+          "strongNumber": "G3957",
+          "lemma": "pascha",
+          "meaning": "Passover"
+        },
+        {
+          "word": "King",
+          "strongNumber": "G935",
+          "lemma": "basileus",
+          "meaning": "king"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "text": "Then cried they all again, saying, Not this man, but Barabbas. Now Barabbas was a robber.",
+      "highlightedWords": [
+        {
+          "word": "Barabbas",
+          "strongNumber": "G912",
+          "lemma": "Barabbas",
+          "meaning": "Barabbas; son of the father"
+        },
+        {
+          "word": "robber",
+          "strongNumber": "G3027",
+          "lemma": "lēistēs",
+          "meaning": "robber; bandit"
+        }
+      ]
+    }
+  ]
+}

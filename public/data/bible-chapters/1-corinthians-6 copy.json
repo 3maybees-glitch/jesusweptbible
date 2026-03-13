@@ -1,0 +1,384 @@
+{
+  "book": "1 Corinthians",
+  "chapter": 6,
+  "chapterTheme": {
+    "twoWordSummary": "Lawsuits Purity",
+    "themeWords": [
+      {
+        "word": "fornication",
+        "strongNumber": "G4202",
+        "lemma": "porneia",
+        "meaning": "sexual immorality"
+      },
+      {
+        "word": "sanctified",
+        "strongNumber": "G37",
+        "lemma": "hagiazo",
+        "meaning": "to make holy; consecrate"
+      }
+    ]
+  },
+  "sentenceTheme": "Believers must not take one another before unbelievers but live as sanctified people who flee sexual immorality and honor God with their redeemed bodies.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Dare any of you, having a matter against another, go to law before the unjust, and not before the saints?",
+      "highlightedWords": [
+        {
+          "word": "unjust",
+          "strongNumber": "G94",
+          "lemma": "adikos",
+          "meaning": "unjust; unrighteous"
+        },
+        {
+          "word": "saints",
+          "strongNumber": "G40",
+          "lemma": "hagios",
+          "meaning": "holy ones; those set apart"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Do ye not know that the saints shall judge the world? and if the world shall be judged by you, are ye unworthy to judge the smallest matters?",
+      "highlightedWords": [
+        {
+          "word": "judge",
+          "strongNumber": "G2919",
+          "lemma": "krino",
+          "meaning": "to judge; decide"
+        },
+        {
+          "word": "world",
+          "strongNumber": "G2889",
+          "lemma": "kosmos",
+          "meaning": "world; orderly system"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Know ye not that we shall judge angels? how much more things that pertain to this life?",
+      "highlightedWords": [
+        {
+          "word": "angels",
+          "strongNumber": "G32",
+          "lemma": "angelos",
+          "meaning": "messenger; angel"
+        },
+        {
+          "word": "judge",
+          "strongNumber": "G2919",
+          "lemma": "krino",
+          "meaning": "to judge; decide"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "If then ye have judgments of things pertaining to this life, set them to judge who are least esteemed in the church.",
+      "highlightedWords": [
+        {
+          "word": "judge",
+          "strongNumber": "G2919",
+          "lemma": "krino",
+          "meaning": "to judge; decide"
+        },
+        {
+          "word": "church",
+          "strongNumber": "G1577",
+          "lemma": "ekklesia",
+          "meaning": "assembly; congregation"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "I speak to your shame. Is it so, that there is not a wise man among you? no, not one that shall be able to judge between his brethren?",
+      "highlightedWords": [
+        {
+          "word": "wise",
+          "strongNumber": "G4680",
+          "lemma": "sophos",
+          "meaning": "wise; skilled"
+        },
+        {
+          "word": "brethren",
+          "strongNumber": "G80",
+          "lemma": "adelphos",
+          "meaning": "brother; fellow believer"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "But brother goeth to law with brother, and that before the unbelievers.",
+      "highlightedWords": [
+        {
+          "word": "brother",
+          "strongNumber": "G80",
+          "lemma": "adelphos",
+          "meaning": "brother; fellow believer"
+        },
+        {
+          "word": "unbelievers",
+          "strongNumber": "G571",
+          "lemma": "apistos",
+          "meaning": "unbelieving; faithless"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Now therefore there is utterly a fault among you, because ye go to law one with another. Why do ye not rather take wrong? why do ye not rather suffer yourselves to be defrauded?",
+      "highlightedWords": [
+        {
+          "word": "wrong",
+          "strongNumber": "G91",
+          "lemma": "adikeo",
+          "meaning": "to do wrong; injure"
+        },
+        {
+          "word": "defrauded",
+          "strongNumber": "G650",
+          "lemma": "apostereo",
+          "meaning": "to deprive; defraud"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Nay, ye do wrong, and defraud, and that your brethren.",
+      "highlightedWords": [
+        {
+          "word": "defraud",
+          "strongNumber": "G650",
+          "lemma": "apostereo",
+          "meaning": "to deprive; defraud"
+        },
+        {
+          "word": "brethren",
+          "strongNumber": "G80",
+          "lemma": "adelphos",
+          "meaning": "brother; fellow believer"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind,",
+      "highlightedWords": [
+        {
+          "word": "unrighteous",
+          "strongNumber": "G94",
+          "lemma": "adikos",
+          "meaning": "unjust; unrighteous"
+        },
+        {
+          "word": "kingdom",
+          "strongNumber": "G932",
+          "lemma": "basileia",
+          "meaning": "kingdom; reign"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners, shall inherit the kingdom of God.",
+      "highlightedWords": [
+        {
+          "word": "thieves",
+          "strongNumber": "G2812",
+          "lemma": "kleptes",
+          "meaning": "thief; robber"
+        },
+        {
+          "word": "drunkards",
+          "strongNumber": "G3183",
+          "lemma": "methysos",
+          "meaning": "drunkard"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And such were some of you: but ye are washed, but ye are sanctified, but ye are justified in the name of the Lord Jesus, and by the Spirit of our God.",
+      "highlightedWords": [
+        {
+          "word": "sanctified",
+          "strongNumber": "G37",
+          "lemma": "hagiazo",
+          "meaning": "to make holy; consecrate"
+        },
+        {
+          "word": "justified",
+          "strongNumber": "G1344",
+          "lemma": "dikaioo",
+          "meaning": "to declare righteous"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "All things are lawful unto me, but all things are not expedient: all things are lawful for me, but I will not be brought under the power of any.",
+      "highlightedWords": [
+        {
+          "word": "lawful",
+          "strongNumber": "G1832",
+          "lemma": "exesti",
+          "meaning": "it is permitted; lawful"
+        },
+        {
+          "word": "expedient",
+          "strongNumber": "G4851",
+          "lemma": "symphero",
+          "meaning": "profitable; beneficial"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Meats for the belly, and the belly for meats: but God shall destroy both it and them. Now the body is not for fornication, but for the Lord; and the Lord for the body.",
+      "highlightedWords": [
+        {
+          "word": "body",
+          "strongNumber": "G4983",
+          "lemma": "soma",
+          "meaning": "body"
+        },
+        {
+          "word": "fornication",
+          "strongNumber": "G4202",
+          "lemma": "porneia",
+          "meaning": "sexual immorality"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And God hath both raised up the Lord, and will also raise up us by his own power.",
+      "highlightedWords": [
+        {
+          "word": "raised",
+          "strongNumber": "G1453",
+          "lemma": "egeiro",
+          "meaning": "to raise; awaken"
+        },
+        {
+          "word": "power",
+          "strongNumber": "G1411",
+          "lemma": "dynamis",
+          "meaning": "power; might"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Know ye not that your bodies are the members of Christ? shall I then take the members of Christ, and make them the members of an harlot? God forbid.",
+      "highlightedWords": [
+        {
+          "word": "members",
+          "strongNumber": "G3196",
+          "lemma": "melos",
+          "meaning": "member; limb"
+        },
+        {
+          "word": "harlot",
+          "strongNumber": "G4204",
+          "lemma": "porne",
+          "meaning": "prostitute; harlot"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "What? know ye not that he which is joined to an harlot is one body? for two, saith he, shall be one flesh.",
+      "highlightedWords": [
+        {
+          "word": "joined",
+          "strongNumber": "G2853",
+          "lemma": "kollao",
+          "meaning": "to join; glue to"
+        },
+        {
+          "word": "flesh",
+          "strongNumber": "G4561",
+          "lemma": "sarx",
+          "meaning": "flesh"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "But he that is joined unto the Lord is one spirit.",
+      "highlightedWords": [
+        {
+          "word": "joined",
+          "strongNumber": "G2853",
+          "lemma": "kollao",
+          "meaning": "to join; glue to"
+        },
+        {
+          "word": "spirit",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit; breath"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Flee fornication. Every sin that a man doeth is without the body; but he that committeth fornication sinneth against his own body.",
+      "highlightedWords": [
+        {
+          "word": "fornication",
+          "strongNumber": "G4202",
+          "lemma": "porneia",
+          "meaning": "sexual immorality"
+        },
+        {
+          "word": "sinneth",
+          "strongNumber": "G264",
+          "lemma": "hamartano",
+          "meaning": "to sin; miss the mark"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "What? know ye not that your body is the temple of the Holy Ghost which is in you, which ye have of God, and ye are not your own?",
+      "highlightedWords": [
+        {
+          "word": "temple",
+          "strongNumber": "G3485",
+          "lemma": "naos",
+          "meaning": "sanctuary; temple"
+        },
+        {
+          "word": "Ghost",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit; breath"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "For ye are bought with a price: therefore glorify God in your body, and in your spirit, which are God's.",
+      "highlightedWords": [
+        {
+          "word": "bought",
+          "strongNumber": "G59",
+          "lemma": "agorazo",
+          "meaning": "to buy; redeem"
+        },
+        {
+          "word": "glorify",
+          "strongNumber": "G1392",
+          "lemma": "doxazo",
+          "meaning": "to glorify; honor"
+        }
+      ]
+    }
+  ]
+}

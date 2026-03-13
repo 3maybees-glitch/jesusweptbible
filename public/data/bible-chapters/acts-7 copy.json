@@ -1,0 +1,1104 @@
+{
+  "book": "Acts",
+  "chapter": 7,
+  "chapterTheme": {
+    "twoWordSummary": "Stephen's Defense",
+    "themeWords": [
+      {
+        "word": "Stephen",
+        "strongNumber": "G4736",
+        "lemma": "Stephanos",
+        "meaning": "Stephen; a crown"
+      },
+      {
+        "word": "Moses",
+        "strongNumber": "G3475",
+        "lemma": "Mōusēs",
+        "meaning": "Moses; Israel's lawgiver"
+      }
+    ]
+  },
+  "sentenceTheme": "Stephen recounts Israel’s history, exposes Israel’s resistance to God’s messengers, and is martyred after his bold testimony.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Then said the high priest, Are these things so?",
+      "highlightedWords": [
+        {
+          "word": "said",
+          "strongNumber": "G2036",
+          "lemma": "eipon",
+          "meaning": "to say; speak"
+        },
+        {
+          "word": "priest",
+          "strongNumber": "G749",
+          "lemma": "archiereus",
+          "meaning": "high priest; chief priest"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And he said, Men, brethren, and fathers, hearken; The God of glory appeared unto our father Abraham, when he was in Mesopotamia, before he dwelt in Charran,",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God; deity"
+        },
+        {
+          "word": "Abraham",
+          "strongNumber": "G11",
+          "lemma": "Abraam",
+          "meaning": "Abraham, ancestor of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And said unto him, Get thee out of thy country, and from thy kindred, and come into the land which I shall shew thee.",
+      "highlightedWords": [
+        {
+          "word": "kindred",
+          "strongNumber": "G4772",
+          "lemma": "syngeneia",
+          "meaning": "kindred; family; relatives"
+        },
+        {
+          "word": "land",
+          "strongNumber": "G1093",
+          "lemma": "gē",
+          "meaning": "earth; land; ground"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Then came he out of the land of the Chaldaeans, and dwelt in Charran: and from thence, when his father was dead, he removed him into this land, wherein ye now dwell.",
+      "highlightedWords": [
+        {
+          "word": "dwelt",
+          "strongNumber": "G2730",
+          "lemma": "katoikeō",
+          "meaning": "to dwell; live; reside"
+        },
+        {
+          "word": "land",
+          "strongNumber": "G1093",
+          "lemma": "gē",
+          "meaning": "earth; land; ground"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And he gave him none inheritance in it, no, not so much as to set his foot on: yet he promised that he would give it to him for a possession, and to his seed after him, when as yet he had no child.",
+      "highlightedWords": [
+        {
+          "word": "inheritance",
+          "strongNumber": "G2817",
+          "lemma": "klēronomia",
+          "meaning": "inheritance; possession"
+        },
+        {
+          "word": "seed",
+          "strongNumber": "G4690",
+          "lemma": "sperma",
+          "meaning": "seed; offspring; descendants"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And God spake on this wise, That his seed should sojourn in a strange land; and that they should bring them into bondage, and entreat them evil four hundred years.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God; deity"
+        },
+        {
+          "word": "land",
+          "strongNumber": "G1093",
+          "lemma": "gē",
+          "meaning": "earth; land; ground"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And the nation to whom they shall be in bondage will I judge, said God: and after that shall they come forth, and serve me in this place.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God; deity"
+        },
+        {
+          "word": "serve",
+          "strongNumber": "G3000",
+          "lemma": "latreuō",
+          "meaning": "to serve; to worship"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And he gave him the covenant of circumcision: and so Abraham begat Isaac, and circumcised him the eighth day; and Isaac begat Jacob; and Jacob begat the twelve patriarchs.",
+      "highlightedWords": [
+        {
+          "word": "covenant",
+          "strongNumber": "G1242",
+          "lemma": "diathēkē",
+          "meaning": "covenant; testament"
+        },
+        {
+          "word": "circumcision",
+          "strongNumber": "G4061",
+          "lemma": "peritomē",
+          "meaning": "circumcision"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And the patriarchs, moved with envy, sold Joseph into Egypt: but God was with him,",
+      "highlightedWords": [
+        {
+          "word": "patriarchs",
+          "strongNumber": "G3966",
+          "lemma": "patriarchēs",
+          "meaning": "patriarch; forefather"
+        },
+        {
+          "word": "Joseph",
+          "strongNumber": "G2501",
+          "lemma": "Iōsēph",
+          "meaning": "Joseph"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And delivered him out of all his afflictions, and gave him favour and wisdom in the sight of Pharaoh king of Egypt; and he made him governor over Egypt and all his house.",
+      "highlightedWords": [
+        {
+          "word": "Pharaoh",
+          "strongNumber": "G5328",
+          "lemma": "Pharaō",
+          "meaning": "Pharaoh; Egyptian king"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "G125",
+          "lemma": "Aigyptos",
+          "meaning": "Egypt"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Now there came a dearth over all the land of Egypt and Canaan, and great affliction: and our fathers found no sustenance.",
+      "highlightedWords": [
+        {
+          "word": "Egypt",
+          "strongNumber": "G125",
+          "lemma": "Aigyptos",
+          "meaning": "Egypt"
+        },
+        {
+          "word": "fathers",
+          "strongNumber": "G3962",
+          "lemma": "patēr",
+          "meaning": "father; ancestor"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "But when Jacob heard that there was corn in Egypt, he sent out our fathers first.",
+      "highlightedWords": [
+        {
+          "word": "Jacob",
+          "strongNumber": "G2384",
+          "lemma": "Iakōb",
+          "meaning": "Jacob"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "G125",
+          "lemma": "Aigyptos",
+          "meaning": "Egypt"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And at the second time Joseph was made known to his brethren; and Joseph's kindred was made known unto Pharaoh.",
+      "highlightedWords": [
+        {
+          "word": "brethren",
+          "strongNumber": "G80",
+          "lemma": "adelphos",
+          "meaning": "brother; fellow believer"
+        },
+        {
+          "word": "Pharaoh",
+          "strongNumber": "G5328",
+          "lemma": "Pharaō",
+          "meaning": "Pharaoh; Egyptian king"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Then sent Joseph, and called his father Jacob to him, and all his kindred, threescore and fifteen souls.",
+      "highlightedWords": [
+        {
+          "word": "Joseph",
+          "strongNumber": "G2501",
+          "lemma": "Iōsēph",
+          "meaning": "Joseph"
+        },
+        {
+          "word": "souls",
+          "strongNumber": "G5590",
+          "lemma": "psychē",
+          "meaning": "soul; life; self"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "So Jacob went down into Egypt, and died, he, and our fathers,",
+      "highlightedWords": [
+        {
+          "word": "Jacob",
+          "strongNumber": "G2384",
+          "lemma": "Iakōb",
+          "meaning": "Jacob"
+        },
+        {
+          "word": "fathers",
+          "strongNumber": "G3962",
+          "lemma": "patēr",
+          "meaning": "father; ancestor"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And were carried over into Sychem, and laid in the sepulchre that Abraham bought for a sum of money of the sons of Emmor the father of Sychem.",
+      "highlightedWords": [
+        {
+          "word": "sepulchre",
+          "strongNumber": "G3419",
+          "lemma": "mnēmeion",
+          "meaning": "tomb; sepulchre; memorial"
+        },
+        {
+          "word": "Abraham",
+          "strongNumber": "G11",
+          "lemma": "Abraam",
+          "meaning": "Abraham, ancestor of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "But when the time of the promise drew nigh, which God had sworn to Abraham, the people grew and multiplied in Egypt,",
+      "highlightedWords": [
+        {
+          "word": "promise",
+          "strongNumber": "G1860",
+          "lemma": "epangelia",
+          "meaning": "promise; pledge"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God; deity"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Till another king arose, which knew not Joseph.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "G935",
+          "lemma": "basileus",
+          "meaning": "king; monarch"
+        },
+        {
+          "word": "Joseph",
+          "strongNumber": "G2501",
+          "lemma": "Iōsēph",
+          "meaning": "Joseph"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "The same dealt subtilly with our kindred, and evil entreated our fathers, so that they cast out their young children, to the end they might not live.",
+      "highlightedWords": [
+        {
+          "word": "fathers",
+          "strongNumber": "G3962",
+          "lemma": "patēr",
+          "meaning": "father; ancestor"
+        },
+        {
+          "word": "children",
+          "strongNumber": "G5043",
+          "lemma": "teknon",
+          "meaning": "child; descendant"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "In which time Moses was born, and was exceeding fair, and nourished up in his father's house three months:",
+      "highlightedWords": [
+        {
+          "word": "Moses",
+          "strongNumber": "G3475",
+          "lemma": "Mōusēs",
+          "meaning": "Moses; Israel's lawgiver"
+        },
+        {
+          "word": "house",
+          "strongNumber": "G3624",
+          "lemma": "oikos",
+          "meaning": "house; household; family"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And when he was cast out, Pharaoh's daughter took him up, and nourished him for her own son.",
+      "highlightedWords": [
+        {
+          "word": "Pharaoh",
+          "strongNumber": "G5328",
+          "lemma": "Pharaō",
+          "meaning": "Pharaoh; Egyptian king"
+        },
+        {
+          "word": "son",
+          "strongNumber": "G5207",
+          "lemma": "huios",
+          "meaning": "son; descendant"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And Moses was learned in all the wisdom of the Egyptians, and was mighty in words and in deeds.",
+      "highlightedWords": [
+        {
+          "word": "Moses",
+          "strongNumber": "G3475",
+          "lemma": "Mōusēs",
+          "meaning": "Moses; Israel's lawgiver"
+        },
+        {
+          "word": "wisdom",
+          "strongNumber": "G4678",
+          "lemma": "sophia",
+          "meaning": "wisdom; skill"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And when he was full forty years old, it came into his heart to visit his brethren the children of Israel.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "G2588",
+          "lemma": "kardia",
+          "meaning": "heart; inner self"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "G2474",
+          "lemma": "Israēl",
+          "meaning": "Israel"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And seeing one of them suffer wrong, he defended him, and avenged him that was oppressed, and smote the Egyptian:",
+      "highlightedWords": [
+        {
+          "word": "wrong",
+          "strongNumber": "G91",
+          "lemma": "adikeō",
+          "meaning": "to do wrong; injure"
+        },
+        {
+          "word": "Egyptian",
+          "strongNumber": "G124",
+          "lemma": "Aigyptios",
+          "meaning": "an Egyptian"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "For he supposed his brethren would have understood how that God by his hand would deliver them: but they understood not.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God; deity"
+        },
+        {
+          "word": "hand",
+          "strongNumber": "G5495",
+          "lemma": "cheir",
+          "meaning": "hand; power"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And the next day he shewed himself unto them as they strove, and would have set them at one again, saying, Sirs, ye are brethren; why do ye wrong one to another?",
+      "highlightedWords": [
+        {
+          "word": "brethren",
+          "strongNumber": "G80",
+          "lemma": "adelphos",
+          "meaning": "brother; fellow believer"
+        },
+        {
+          "word": "wrong",
+          "strongNumber": "G91",
+          "lemma": "adikeō",
+          "meaning": "to do wrong; injure"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "But he that did his neighbour wrong thrust him away, saying, Who made thee a ruler and a judge over us?",
+      "highlightedWords": [
+        {
+          "word": "ruler",
+          "strongNumber": "G758",
+          "lemma": "archōn",
+          "meaning": "ruler; leader"
+        },
+        {
+          "word": "judge",
+          "strongNumber": "G2923",
+          "lemma": "kritēs",
+          "meaning": "judge"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "Wilt thou kill me, as thou diddest the Egyptian yesterday?",
+      "highlightedWords": [
+        {
+          "word": "kill",
+          "strongNumber": "G615",
+          "lemma": "apokteinō",
+          "meaning": "to kill; put to death"
+        },
+        {
+          "word": "Egyptian",
+          "strongNumber": "G124",
+          "lemma": "Aigyptios",
+          "meaning": "an Egyptian"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "Then fled Moses at this saying, and was a stranger in the land of Madian, where he begat two sons.",
+      "highlightedWords": [
+        {
+          "word": "Moses",
+          "strongNumber": "G3475",
+          "lemma": "Mōusēs",
+          "meaning": "Moses; Israel's lawgiver"
+        },
+        {
+          "word": "sons",
+          "strongNumber": "G5207",
+          "lemma": "huios",
+          "meaning": "son; descendant"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "And when forty years were expired, there appeared to him in the wilderness of mount Sina an angel of the Lord in a flame of fire in a bush.",
+      "highlightedWords": [
+        {
+          "word": "wilderness",
+          "strongNumber": "G2048",
+          "lemma": "erēmos",
+          "meaning": "wilderness; desolate place"
+        },
+        {
+          "word": "angel",
+          "strongNumber": "G32",
+          "lemma": "angelos",
+          "meaning": "messenger; angel"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "When Moses saw it, he wondered at the sight: and as he drew near to behold it, the voice of the Lord came unto him,",
+      "highlightedWords": [
+        {
+          "word": "Moses",
+          "strongNumber": "G3475",
+          "lemma": "Mōusēs",
+          "meaning": "Moses; Israel's lawgiver"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "Lord; master"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "Saying, I am the God of thy fathers, the God of Abraham, and the God of Isaac, and the God of Jacob. Then Moses trembled, and durst not behold.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God; deity"
+        },
+        {
+          "word": "Abraham",
+          "strongNumber": "G11",
+          "lemma": "Abraam",
+          "meaning": "Abraham, ancestor of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "Then said the Lord to him, Put off thy shoes from thy feet: for the place where thou standest is holy ground.",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "Lord; master"
+        },
+        {
+          "word": "holy",
+          "strongNumber": "G40",
+          "lemma": "hagios",
+          "meaning": "holy; sacred"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "I have seen, I have seen the affliction of my people which is in Egypt, and I have heard their groaning, and am come down to deliver them. And now come, I will send thee into Egypt.",
+      "highlightedWords": [
+        {
+          "word": "Egypt",
+          "strongNumber": "G125",
+          "lemma": "Aigyptos",
+          "meaning": "Egypt"
+        },
+        {
+          "word": "send",
+          "strongNumber": "G649",
+          "lemma": "apostellō",
+          "meaning": "to send; commission"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "This Moses whom they refused, saying, Who made thee a ruler and a judge? the same did God send to be a ruler and a deliverer by the hand of the angel which appeared to him in the bush.",
+      "highlightedWords": [
+        {
+          "word": "Moses",
+          "strongNumber": "G3475",
+          "lemma": "Mōusēs",
+          "meaning": "Moses; Israel's lawgiver"
+        },
+        {
+          "word": "angel",
+          "strongNumber": "G32",
+          "lemma": "angelos",
+          "meaning": "messenger; angel"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "He brought them out, after that he had shewed wonders and signs in the land of Egypt, and in the Red sea, and in the wilderness forty years.",
+      "highlightedWords": [
+        {
+          "word": "sea",
+          "strongNumber": "G2281",
+          "lemma": "thalassa",
+          "meaning": "sea; large body of water"
+        },
+        {
+          "word": "wilderness",
+          "strongNumber": "G2048",
+          "lemma": "erēmos",
+          "meaning": "wilderness; desolate place"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "This is that Moses, which said unto the children of Israel, A prophet shall the Lord your God raise up unto you of your brethren, like unto me; him shall ye hear.",
+      "highlightedWords": [
+        {
+          "word": "prophet",
+          "strongNumber": "G4396",
+          "lemma": "prophētēs",
+          "meaning": "prophet; foreteller"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "Lord; master"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "This is he, that was in the church in the wilderness with the angel which spake to him in the mount Sina, and with our fathers: who received the lively oracles to give unto us:",
+      "highlightedWords": [
+        {
+          "word": "church",
+          "strongNumber": "G1577",
+          "lemma": "ekklēsia",
+          "meaning": "assembly; church"
+        },
+        {
+          "word": "oracles",
+          "strongNumber": "G3051",
+          "lemma": "logion",
+          "meaning": "divine sayings; oracles"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "text": "To whom our fathers would not obey, but thrust him from them, and in their hearts turned back again into Egypt,",
+      "highlightedWords": [
+        {
+          "word": "hearts",
+          "strongNumber": "G2588",
+          "lemma": "kardia",
+          "meaning": "heart; inner self"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "G125",
+          "lemma": "Aigyptos",
+          "meaning": "Egypt"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "text": "Saying unto Aaron, Make us gods to go before us: for as for this Moses, which brought us out of the land of Egypt, we wot not what is become of him.",
+      "highlightedWords": [
+        {
+          "word": "Aaron",
+          "strongNumber": "G2",
+          "lemma": "Aarōn",
+          "meaning": "Aaron"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "G125",
+          "lemma": "Aigyptos",
+          "meaning": "Egypt"
+        }
+      ]
+    },
+    {
+      "verse": 41,
+      "text": "And they made a calf in those days, and offered sacrifice unto the idol, and rejoiced in the works of their own hands.",
+      "highlightedWords": [
+        {
+          "word": "idol",
+          "strongNumber": "G1497",
+          "lemma": "eidōlon",
+          "meaning": "idol; image"
+        },
+        {
+          "word": "hands",
+          "strongNumber": "G5495",
+          "lemma": "cheir",
+          "meaning": "hand; power"
+        }
+      ]
+    },
+    {
+      "verse": 42,
+      "text": "Then God turned, and gave them up to worship the host of heaven; as it is written in the book of the prophets, O ye house of Israel, have ye offered to me slain beasts and sacrifices by the space of forty years in the wilderness?",
+      "highlightedWords": [
+        {
+          "word": "heaven",
+          "strongNumber": "G3772",
+          "lemma": "ouranos",
+          "meaning": "heaven; sky"
+        },
+        {
+          "word": "prophets",
+          "strongNumber": "G4396",
+          "lemma": "prophētēs",
+          "meaning": "prophet; foreteller"
+        }
+      ]
+    },
+    {
+      "verse": 43,
+      "text": "Yea, ye took up the tabernacle of Moloch, and the star of your god Remphan, figures which ye made to worship them: and I will carry you away beyond Babylon.",
+      "highlightedWords": [
+        {
+          "word": "worship",
+          "strongNumber": "G4352",
+          "lemma": "proskyneō",
+          "meaning": "to worship; prostrate oneself"
+        },
+        {
+          "word": "Babylon",
+          "strongNumber": "G897",
+          "lemma": "Babulōn",
+          "meaning": "Babylon"
+        }
+      ]
+    },
+    {
+      "verse": 44,
+      "text": "Our fathers had the tabernacle of witness in the wilderness, as he had appointed, speaking unto Moses, that he should make it according to the fashion that he had seen.",
+      "highlightedWords": [
+        {
+          "word": "tabernacle",
+          "strongNumber": "G4633",
+          "lemma": "skēnē",
+          "meaning": "tent; tabernacle"
+        },
+        {
+          "word": "Moses",
+          "strongNumber": "G3475",
+          "lemma": "Mōusēs",
+          "meaning": "Moses; Israel's lawgiver"
+        }
+      ]
+    },
+    {
+      "verse": 45,
+      "text": "Which also our fathers that came after brought in with Jesus into the possession of the Gentiles, whom God drave out before the face of our fathers, unto the days of David;",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus; Joshua"
+        },
+        {
+          "word": "Gentiles",
+          "strongNumber": "G1484",
+          "lemma": "ethnos",
+          "meaning": "nation; Gentiles"
+        }
+      ]
+    },
+    {
+      "verse": 46,
+      "text": "Who found favour before God, and desired to find a tabernacle for the God of Jacob.",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "G1138",
+          "lemma": "Dauid",
+          "meaning": "David"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God; deity"
+        }
+      ]
+    },
+    {
+      "verse": 47,
+      "text": "But Solomon built him an house.",
+      "highlightedWords": [
+        {
+          "word": "Solomon",
+          "strongNumber": "G4672",
+          "lemma": "Solomōn",
+          "meaning": "Solomon"
+        },
+        {
+          "word": "house",
+          "strongNumber": "G3624",
+          "lemma": "oikos",
+          "meaning": "house; household; dwelling"
+        }
+      ]
+    },
+    {
+      "verse": 48,
+      "text": "Howbeit the most High dwelleth not in temples made with hands; as saith the prophet,",
+      "highlightedWords": [
+        {
+          "word": "temples",
+          "strongNumber": "G3485",
+          "lemma": "naos",
+          "meaning": "temple; sanctuary"
+        },
+        {
+          "word": "prophet",
+          "strongNumber": "G4396",
+          "lemma": "prophētēs",
+          "meaning": "prophet; foreteller"
+        }
+      ]
+    },
+    {
+      "verse": 49,
+      "text": "Heaven is my throne, and earth is my footstool: what house will ye build me? saith the Lord: or what is the place of my rest?",
+      "highlightedWords": [
+        {
+          "word": "Heaven",
+          "strongNumber": "G3772",
+          "lemma": "ouranos",
+          "meaning": "heaven; sky"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "Lord; master"
+        }
+      ]
+    },
+    {
+      "verse": 50,
+      "text": "Hath not my hand made all these things?",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "G5495",
+          "lemma": "cheir",
+          "meaning": "hand; power"
+        },
+        {
+          "word": "made",
+          "strongNumber": "G4160",
+          "lemma": "poieō",
+          "meaning": "to make; do"
+        }
+      ]
+    },
+    {
+      "verse": 51,
+      "text": "Ye stiffnecked and uncircumcised in heart and ears, ye do always resist the Holy Ghost: as your fathers did, so do ye.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "G2588",
+          "lemma": "kardia",
+          "meaning": "heart; inner self"
+        },
+        {
+          "word": "Ghost",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit; breath; Holy Spirit"
+        }
+      ]
+    },
+    {
+      "verse": 52,
+      "text": "Which of the prophets have not your fathers persecuted? and they have slain them which shewed before of the coming of the Just One; of whom ye have been now the betrayers and murderers:",
+      "highlightedWords": [
+        {
+          "word": "prophets",
+          "strongNumber": "G4396",
+          "lemma": "prophētēs",
+          "meaning": "prophet; foreteller"
+        },
+        {
+          "word": "Just",
+          "strongNumber": "G1342",
+          "lemma": "dikaios",
+          "meaning": "righteous; just"
+        }
+      ]
+    },
+    {
+      "verse": 53,
+      "text": "Who have received the law by the disposition of angels, and have not kept it.",
+      "highlightedWords": [
+        {
+          "word": "law",
+          "strongNumber": "G3551",
+          "lemma": "nomos",
+          "meaning": "law; principle"
+        },
+        {
+          "word": "angels",
+          "strongNumber": "G32",
+          "lemma": "angelos",
+          "meaning": "messenger; angel"
+        }
+      ]
+    },
+    {
+      "verse": 54,
+      "text": "When they heard these things, they were cut to the heart, and they gnashed on him with their teeth.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "G2588",
+          "lemma": "kardia",
+          "meaning": "heart; inner self"
+        },
+        {
+          "word": "teeth",
+          "strongNumber": "G3599",
+          "lemma": "odous",
+          "meaning": "tooth; teeth"
+        }
+      ]
+    },
+    {
+      "verse": 55,
+      "text": "But he, being full of the Holy Ghost, looked up stedfastly into heaven, and saw the glory of God, and Jesus standing on the right hand of God,",
+      "highlightedWords": [
+        {
+          "word": "Ghost",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit; breath; Holy Spirit"
+        },
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus; Joshua"
+        }
+      ]
+    },
+    {
+      "verse": 56,
+      "text": "And said, Behold, I see the heavens opened, and the Son of man standing on the right hand of God.",
+      "highlightedWords": [
+        {
+          "word": "Son",
+          "strongNumber": "G5207",
+          "lemma": "huios",
+          "meaning": "son; descendant"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God; deity"
+        }
+      ]
+    },
+    {
+      "verse": 57,
+      "text": "Then they cried out with a loud voice, and stopped their ears, and ran upon him with one accord,",
+      "highlightedWords": [
+        {
+          "word": "voice",
+          "strongNumber": "G5456",
+          "lemma": "phōnē",
+          "meaning": "sound; voice"
+        },
+        {
+          "word": "ears",
+          "strongNumber": "G3775",
+          "lemma": "ous",
+          "meaning": "ear; hearing"
+        }
+      ]
+    },
+    {
+      "verse": 58,
+      "text": "And cast him out of the city, and stoned him: and the witnesses laid down their clothes at a young man's feet, whose name was Saul.",
+      "highlightedWords": [
+        {
+          "word": "witnesses",
+          "strongNumber": "G3144",
+          "lemma": "martys",
+          "meaning": "witness; martyr"
+        },
+        {
+          "word": "Saul",
+          "strongNumber": "G4569",
+          "lemma": "Saulos",
+          "meaning": "Saul; Paul"
+        }
+      ]
+    },
+    {
+      "verse": 59,
+      "text": "And they stoned Stephen, calling upon God, and saying, Lord Jesus, receive my spirit.",
+      "highlightedWords": [
+        {
+          "word": "Stephen",
+          "strongNumber": "G4736",
+          "lemma": "Stephanos",
+          "meaning": "Stephen; a crown"
+        },
+        {
+          "word": "spirit",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit; breath; Holy Spirit"
+        }
+      ]
+    },
+    {
+      "verse": 60,
+      "text": "And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep.",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "Lord; master"
+        },
+        {
+          "word": "sin",
+          "strongNumber": "G266",
+          "lemma": "hamartia",
+          "meaning": "sin; offense"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,690 @@
+{
+  "book": "Luke",
+  "chapter": 17,
+  "chapterTheme": {
+    "twoWordSummary": "Faithful Readiness",
+    "themeWords": [
+      {
+        "word": "faith",
+        "strongNumber": "G4102",
+        "lemma": "pistis",
+        "meaning": "trust, confidence, faithful reliance"
+      },
+      {
+        "word": "kingdom",
+        "strongNumber": "G932",
+        "lemma": "basileia",
+        "meaning": "reign, rule, dominion of a king"
+      }
+    ]
+  },
+  "sentenceTheme": "Jesus teaches on stumbling blocks, relentless forgiveness, mustard-seed faith, humble service, the cleansing of ten lepers, the kingdom’s hidden presence, and vigilant readiness for the revealing of the Son of Man.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Then said he unto the disciples, It is impossible but that offences will come: but woe unto him, through whom they come!",
+      "highlightedWords": [
+        {
+          "word": "offences",
+          "strongNumber": "G4625",
+          "lemma": "skandalon",
+          "meaning": "stumbling block, snare, cause for sin"
+        },
+        {
+          "word": "woe",
+          "strongNumber": "G3759",
+          "lemma": "ouai",
+          "meaning": "alas, denunciation of judgment"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "It were better for him that a millstone were hanged about his neck, and he cast into the sea, than that he should offend one of these little ones.",
+      "highlightedWords": [
+        {
+          "word": "millstone",
+          "strongNumber": "G3458",
+          "lemma": "mylos",
+          "meaning": "millstone for grinding grain"
+        },
+        {
+          "word": "sea",
+          "strongNumber": "G2281",
+          "lemma": "thalassa",
+          "meaning": "sea, large body of water"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Take heed to yourselves: If thy brother trespass against thee, rebuke him; and if he repent, forgive him.",
+      "highlightedWords": [
+        {
+          "word": "brother",
+          "strongNumber": "G80",
+          "lemma": "adelphos",
+          "meaning": "brother, fellow believer"
+        },
+        {
+          "word": "forgive",
+          "strongNumber": "G863",
+          "lemma": "aphiēmi",
+          "meaning": "to release, remit, forgive"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And if he trespass against thee seven times in a day, and seven times in a day turn again to thee, saying, I repent; thou shalt forgive him.",
+      "highlightedWords": [
+        {
+          "word": "repent",
+          "strongNumber": "G3340",
+          "lemma": "metanoeō",
+          "meaning": "to change one’s mind, repent"
+        },
+        {
+          "word": "forgive",
+          "strongNumber": "G863",
+          "lemma": "aphiēmi",
+          "meaning": "to release, remit, forgive"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And the apostles said unto the Lord, Increase our faith.",
+      "highlightedWords": [
+        {
+          "word": "apostles",
+          "strongNumber": "G652",
+          "lemma": "apostolos",
+          "meaning": "one sent, messenger"
+        },
+        {
+          "word": "faith",
+          "strongNumber": "G4102",
+          "lemma": "pistis",
+          "meaning": "trust, confidence, faithful reliance"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And the Lord said, If ye had faith as a grain of mustard seed, ye might say unto this sycamine tree, Be thou plucked up by the root, and be thou planted in the sea; and it should obey you.",
+      "highlightedWords": [
+        {
+          "word": "faith",
+          "strongNumber": "G4102",
+          "lemma": "pistis",
+          "meaning": "trust, confidence, faithful reliance"
+        },
+        {
+          "word": "sycamine",
+          "strongNumber": "G4807",
+          "lemma": "sykaminos",
+          "meaning": "a mulberry or sycamine tree"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "But which of you, having a servant plowing or feeding cattle, will say unto him by and by, when he is come from the field, Go and sit down to meat?",
+      "highlightedWords": [
+        {
+          "word": "servant",
+          "strongNumber": "G1401",
+          "lemma": "doulos",
+          "meaning": "bond-servant, slave"
+        },
+        {
+          "word": "field",
+          "strongNumber": "G68",
+          "lemma": "agros",
+          "meaning": "field, farmland"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And will not rather say unto him, Make ready wherewith I may sup, and gird thyself, and serve me, till I have eaten and drunken; and afterward thou shalt eat and drink?",
+      "highlightedWords": [
+        {
+          "word": "gird",
+          "strongNumber": "G4024",
+          "lemma": "perizōnnymi",
+          "meaning": "to gird around, fasten garments"
+        },
+        {
+          "word": "serve",
+          "strongNumber": "G1247",
+          "lemma": "diakoneō",
+          "meaning": "to minister, serve"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Doth he thank that servant because he did the things that were commanded him? I trow not.",
+      "highlightedWords": [
+        {
+          "word": "thank",
+          "strongNumber": "G2168",
+          "lemma": "eucharisteō",
+          "meaning": "to give thanks"
+        },
+        {
+          "word": "commanded",
+          "strongNumber": "G1299",
+          "lemma": "diatassō",
+          "meaning": "to arrange, direct, command"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "So likewise ye, when ye shall have done all those things which are commanded you, say, We are unprofitable servants: we have done that which was our duty to do.",
+      "highlightedWords": [
+        {
+          "word": "unprofitable",
+          "strongNumber": "G888",
+          "lemma": "achreios",
+          "meaning": "worthless, unworthy of merit"
+        },
+        {
+          "word": "servants",
+          "strongNumber": "G1401",
+          "lemma": "doulos",
+          "meaning": "bond-servants, slaves"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And it came to pass, as he went to Jerusalem, that he passed through the midst of Samaria and Galilee.",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "G2419",
+          "lemma": "Hierousalēm",
+          "meaning": "Jerusalem, the holy city"
+        },
+        {
+          "word": "Galilee",
+          "strongNumber": "G1056",
+          "lemma": "Galilaia",
+          "meaning": "Galilee, the northern region of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And as he entered into a certain village, there met him ten men that were lepers, which stood afar off:",
+      "highlightedWords": [
+        {
+          "word": "village",
+          "strongNumber": "G2968",
+          "lemma": "kōmē",
+          "meaning": "village, small town"
+        },
+        {
+          "word": "lepers",
+          "strongNumber": "G3015",
+          "lemma": "lepros",
+          "meaning": "leprous, affected by leprosy"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And they lifted up their voices, and said, Jesus, Master, have mercy on us.",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus, Yahweh is salvation"
+        },
+        {
+          "word": "Master",
+          "strongNumber": "G1988",
+          "lemma": "epistatēs",
+          "meaning": "overseer, chief, master"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And when he saw them, he said unto them, Go shew yourselves unto the priests. And it came to pass, that, as they went, they were cleansed.",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "G2409",
+          "lemma": "hiereus",
+          "meaning": "priest, sacred official"
+        },
+        {
+          "word": "cleansed",
+          "strongNumber": "G2511",
+          "lemma": "katharizō",
+          "meaning": "to cleanse, make clean"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And one of them, when he saw that he was healed, turned back, and with a loud voice glorified God,",
+      "highlightedWords": [
+        {
+          "word": "glorified",
+          "strongNumber": "G1392",
+          "lemma": "doxazō",
+          "meaning": "to glorify, honor"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God, the supreme deity"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And fell down on his face at his feet, giving him thanks: and he was a Samaritan.",
+      "highlightedWords": [
+        {
+          "word": "thanks",
+          "strongNumber": "G2168",
+          "lemma": "eucharisteō",
+          "meaning": "to give thanks"
+        },
+        {
+          "word": "Samaritan",
+          "strongNumber": "G4541",
+          "lemma": "Samaritēs",
+          "meaning": "a Samaritan"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And Jesus answering said, Were there not ten cleansed? but where are the nine?",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus, Yahweh is salvation"
+        },
+        {
+          "word": "cleansed",
+          "strongNumber": "G2511",
+          "lemma": "katharizō",
+          "meaning": "to cleanse, make clean"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "There are not found that returned to give glory to God, save this stranger.",
+      "highlightedWords": [
+        {
+          "word": "glory",
+          "strongNumber": "G1391",
+          "lemma": "doxa",
+          "meaning": "glory, honor, divine splendor"
+        },
+        {
+          "word": "stranger",
+          "strongNumber": "G241",
+          "lemma": "allogenēs",
+          "meaning": "foreigner, of another race"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And he said unto him, Arise, go thy way: thy faith hath made thee whole.",
+      "highlightedWords": [
+        {
+          "word": "faith",
+          "strongNumber": "G4102",
+          "lemma": "pistis",
+          "meaning": "trust, confidence, faithful reliance"
+        },
+        {
+          "word": "whole",
+          "strongNumber": "G4982",
+          "lemma": "sōzō",
+          "meaning": "to save, make whole"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And when he was demanded of the Pharisees, when the kingdom of God should come, he answered them and said, The kingdom of God cometh not with observation:",
+      "highlightedWords": [
+        {
+          "word": "Pharisees",
+          "strongNumber": "G5330",
+          "lemma": "Pharisaios",
+          "meaning": "a Pharisee, separated one"
+        },
+        {
+          "word": "kingdom",
+          "strongNumber": "G932",
+          "lemma": "basileia",
+          "meaning": "reign, rule, dominion of a king"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Neither shall they say, Lo here! or, lo there! for, behold, the kingdom of God is within you.",
+      "highlightedWords": [
+        {
+          "word": "kingdom",
+          "strongNumber": "G932",
+          "lemma": "basileia",
+          "meaning": "reign, rule, dominion of a king"
+        },
+        {
+          "word": "within",
+          "strongNumber": "G1787",
+          "lemma": "entos",
+          "meaning": "inside, within"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And he said unto the disciples, The days will come, when ye shall desire to see one of the days of the Son of man, and ye shall not see it.",
+      "highlightedWords": [
+        {
+          "word": "disciples",
+          "strongNumber": "G3101",
+          "lemma": "mathētēs",
+          "meaning": "disciple, learner, follower"
+        },
+        {
+          "word": "Son",
+          "strongNumber": "G5207",
+          "lemma": "huios",
+          "meaning": "son, descendant"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And they shall say to you, See here; or, see there: go not after them, nor follow them.",
+      "highlightedWords": [
+        {
+          "word": "say",
+          "strongNumber": "G3004",
+          "lemma": "legō",
+          "meaning": "to say, speak"
+        },
+        {
+          "word": "follow",
+          "strongNumber": "G190",
+          "lemma": "akoloutheō",
+          "meaning": "to follow, accompany"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "For as the lightning, that lighteneth out of the one part under heaven, shineth unto the other part under heaven; so shall also the Son of man be in his day.",
+      "highlightedWords": [
+        {
+          "word": "lightning",
+          "strongNumber": "G796",
+          "lemma": "astrapē",
+          "meaning": "a flash of lightning"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "G3772",
+          "lemma": "ouranos",
+          "meaning": "heaven, sky"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "But first must he suffer many things, and be rejected of this generation.",
+      "highlightedWords": [
+        {
+          "word": "suffer",
+          "strongNumber": "G3958",
+          "lemma": "paschō",
+          "meaning": "to suffer, endure"
+        },
+        {
+          "word": "generation",
+          "strongNumber": "G1074",
+          "lemma": "genea",
+          "meaning": "generation, contemporaries"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And as it was in the days of Noe, so shall it be also in the days of the Son of man.",
+      "highlightedWords": [
+        {
+          "word": "Noe",
+          "strongNumber": "G3575",
+          "lemma": "Nōe",
+          "meaning": "Noah"
+        },
+        {
+          "word": "Son",
+          "strongNumber": "G5207",
+          "lemma": "huios",
+          "meaning": "son, descendant"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "They did eat, they drank, they married wives, they were given in marriage, until the day that Noe entered into the ark, and the flood came, and destroyed them all.",
+      "highlightedWords": [
+        {
+          "word": "ark",
+          "strongNumber": "G2787",
+          "lemma": "kibōtos",
+          "meaning": "ark, chest"
+        },
+        {
+          "word": "flood",
+          "strongNumber": "G2627",
+          "lemma": "kataklysmos",
+          "meaning": "a deluge, flood"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "Likewise also as it was in the days of Lot; they did eat, they drank, they bought, they sold, they planted, they builded;",
+      "highlightedWords": [
+        {
+          "word": "Lot",
+          "strongNumber": "G3091",
+          "lemma": "Lōt",
+          "meaning": "Lot (nephew of Abraham)"
+        },
+        {
+          "word": "bought",
+          "strongNumber": "G59",
+          "lemma": "agorazō",
+          "meaning": "to buy, purchase"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "But the same day that Lot went out of Sodom it rained fire and brimstone from heaven, and destroyed them all.",
+      "highlightedWords": [
+        {
+          "word": "Sodom",
+          "strongNumber": "G4670",
+          "lemma": "Sodoma",
+          "meaning": "Sodom"
+        },
+        {
+          "word": "brimstone",
+          "strongNumber": "G2303",
+          "lemma": "theion",
+          "meaning": "sulfur, brimstone"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "Even thus shall it be in the day when the Son of man is revealed.",
+      "highlightedWords": [
+        {
+          "word": "revealed",
+          "strongNumber": "G601",
+          "lemma": "apokalyptō",
+          "meaning": "to reveal, unveil"
+        },
+        {
+          "word": "Son",
+          "strongNumber": "G5207",
+          "lemma": "huios",
+          "meaning": "son, descendant"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "In that day, he which shall be upon the housetop, and his stuff in the house, let him not come down to take it away: and he that is in the field, let him likewise not return back.",
+      "highlightedWords": [
+        {
+          "word": "housetop",
+          "strongNumber": "G1430",
+          "lemma": "dōma",
+          "meaning": "housetop, roof"
+        },
+        {
+          "word": "field",
+          "strongNumber": "G68",
+          "lemma": "agros",
+          "meaning": "field, farmland"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "Remember Lot's wife.",
+      "highlightedWords": [
+        {
+          "word": "Remember",
+          "strongNumber": "G3421",
+          "lemma": "mnemoneuō",
+          "meaning": "to remember, call to mind"
+        },
+        {
+          "word": "wife",
+          "strongNumber": "G1135",
+          "lemma": "gynē",
+          "meaning": "woman, wife"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "Whosoever shall seek to save his life shall lose it; and whosoever shall lose his life shall preserve it.",
+      "highlightedWords": [
+        {
+          "word": "life",
+          "strongNumber": "G5590",
+          "lemma": "psychē",
+          "meaning": "soul, life, self"
+        },
+        {
+          "word": "lose",
+          "strongNumber": "G622",
+          "lemma": "apollymi",
+          "meaning": "to destroy, lose, perish"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "I tell you, in that night there shall be two men in one bed; the one shall be taken, and the other shall be left.",
+      "highlightedWords": [
+        {
+          "word": "night",
+          "strongNumber": "G3571",
+          "lemma": "nyx",
+          "meaning": "night"
+        },
+        {
+          "word": "taken",
+          "strongNumber": "G3880",
+          "lemma": "paralambanō",
+          "meaning": "to take to oneself, receive"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "Two women shall be grinding together; the one shall be taken, and the other left.",
+      "highlightedWords": [
+        {
+          "word": "grinding",
+          "strongNumber": "G229",
+          "lemma": "alēthō",
+          "meaning": "to grind"
+        },
+        {
+          "word": "taken",
+          "strongNumber": "G3880",
+          "lemma": "paralambanō",
+          "meaning": "to take to oneself, receive"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "Two men shall be in the field; the one shall be taken, and the other left.",
+      "highlightedWords": [
+        {
+          "word": "field",
+          "strongNumber": "G68",
+          "lemma": "agros",
+          "meaning": "field, farmland"
+        },
+        {
+          "word": "left",
+          "strongNumber": "G863",
+          "lemma": "aphiēmi",
+          "meaning": "to leave, let go, permit"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "And they answered and said unto him, Where, Lord? And he said unto them, Wheresoever the body is, thither will the eagles be gathered together.",
+      "highlightedWords": [
+        {
+          "word": "body",
+          "strongNumber": "G4983",
+          "lemma": "sōma",
+          "meaning": "body, physical form"
+        },
+        {
+          "word": "eagles",
+          "strongNumber": "G105",
+          "lemma": "aetos",
+          "meaning": "eagle, large bird of prey"
+        }
+      ]
+    }
+  ]
+}

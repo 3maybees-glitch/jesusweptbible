@@ -1,0 +1,798 @@
+{
+  "book": "Mark",
+  "chapter": 5,
+  "chapterTheme": {
+    "twoWordSummary": "Deliverance Faith",
+    "themeWords": [
+      {
+        "word": "faith",
+        "strongNumber": "G4102",
+        "lemma": "pistis",
+        "meaning": "faith, trust"
+      },
+      {
+        "word": "power",
+        "strongNumber": "G1411",
+        "lemma": "dynamis",
+        "meaning": "power, might"
+      }
+    ]
+  },
+  "sentenceTheme": "Jesus delivers the Gerasene demoniac, heals a woman with an issue of blood, and raises Jairus's daughter, revealing his power and calling for faith.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And they came over unto the other side of the sea, into the country of the Gadarenes.",
+      "highlightedWords": [
+        {
+          "word": "sea",
+          "strongNumber": "G2281",
+          "lemma": "thalassa",
+          "meaning": "sea"
+        },
+        {
+          "word": "Gadarenes",
+          "strongNumber": "G1046",
+          "lemma": "Gadarenos",
+          "meaning": "inhabitant of Gadara"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And when he was come out of the ship, immediately there met him out of the tombs a man with an unclean spirit,",
+      "highlightedWords": [
+        {
+          "word": "tombs",
+          "strongNumber": "G3419",
+          "lemma": "mnemeion",
+          "meaning": "tomb, grave"
+        },
+        {
+          "word": "unclean",
+          "strongNumber": "G169",
+          "lemma": "akathartos",
+          "meaning": "impure, unclean"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Who had his dwelling among the tombs; and no man could bind him, no, not with chains:",
+      "highlightedWords": [
+        {
+          "word": "tombs",
+          "strongNumber": "G3419",
+          "lemma": "mnemeion",
+          "meaning": "tomb, grave"
+        },
+        {
+          "word": "chains",
+          "strongNumber": "G254",
+          "lemma": "halysis",
+          "meaning": "chain"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Because that he had been often bound with fetters and chains, and the chains had been plucked asunder by him, and the fetters broken in pieces: neither could any man tame him.",
+      "highlightedWords": [
+        {
+          "word": "fetters",
+          "strongNumber": "G3976",
+          "lemma": "pede",
+          "meaning": "fetter, shackle"
+        },
+        {
+          "word": "tame",
+          "strongNumber": "G1150",
+          "lemma": "damazo",
+          "meaning": "to subdue, tame"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And always, night and day, he was in the mountains, and in the tombs, crying, and cutting himself with stones.",
+      "highlightedWords": [
+        {
+          "word": "mountains",
+          "strongNumber": "G3735",
+          "lemma": "oros",
+          "meaning": "mountain"
+        },
+        {
+          "word": "cutting",
+          "strongNumber": "G2629",
+          "lemma": "katakopto",
+          "meaning": "to cut down, gash"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "But when he saw Jesus afar off, he ran and worshipped him,",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iesous",
+          "meaning": "Jesus"
+        },
+        {
+          "word": "worshipped",
+          "strongNumber": "G4352",
+          "lemma": "proskuneo",
+          "meaning": "to worship"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And cried with a loud voice, and said, What have I to do with thee, Jesus, thou Son of the most high God? I adjure thee by God, that thou torment me not.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God"
+        },
+        {
+          "word": "torment",
+          "strongNumber": "G928",
+          "lemma": "basanizo",
+          "meaning": "to torment"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "For he said unto him, Come out of the man, thou unclean spirit.",
+      "highlightedWords": [
+        {
+          "word": "unclean",
+          "strongNumber": "G169",
+          "lemma": "akathartos",
+          "meaning": "impure, unclean"
+        },
+        {
+          "word": "spirit",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit, breath"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And he asked him, What is thy name? And he answered, saying, My name is Legion: for we are many.",
+      "highlightedWords": [
+        {
+          "word": "name",
+          "strongNumber": "G3686",
+          "lemma": "onoma",
+          "meaning": "name"
+        },
+        {
+          "word": "Legion",
+          "strongNumber": "G3003",
+          "lemma": "legion",
+          "meaning": "a Roman legion"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And he besought him much that he would not send them away out of the country.",
+      "highlightedWords": [
+        {
+          "word": "besought",
+          "strongNumber": "G3870",
+          "lemma": "parakaleo",
+          "meaning": "to beg, beseech"
+        },
+        {
+          "word": "country",
+          "strongNumber": "G5561",
+          "lemma": "chora",
+          "meaning": "land, region"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Now there was there nigh unto the mountains a great herd of swine feeding.",
+      "highlightedWords": [
+        {
+          "word": "mountains",
+          "strongNumber": "G3735",
+          "lemma": "oros",
+          "meaning": "mountain"
+        },
+        {
+          "word": "swine",
+          "strongNumber": "G5519",
+          "lemma": "choiros",
+          "meaning": "pig, swine"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And all the devils besought him, saying, Send us into the swine, that we may enter into them.",
+      "highlightedWords": [
+        {
+          "word": "devils",
+          "strongNumber": "G1140",
+          "lemma": "daimonion",
+          "meaning": "demon, evil spirit"
+        },
+        {
+          "word": "swine",
+          "strongNumber": "G5519",
+          "lemma": "choiros",
+          "meaning": "pig, swine"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And forthwith Jesus gave them leave. And the unclean spirits went out, and entered into the swine: and the herd ran violently down a steep place into the sea, (they were about two thousand;) and were choked in the sea.",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iesous",
+          "meaning": "Jesus"
+        },
+        {
+          "word": "sea",
+          "strongNumber": "G2281",
+          "lemma": "thalassa",
+          "meaning": "sea"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And they that fed the swine fled, and told it in the city, and in the country. And they went out to see what it was that was done.",
+      "highlightedWords": [
+        {
+          "word": "city",
+          "strongNumber": "G4172",
+          "lemma": "polis",
+          "meaning": "city"
+        },
+        {
+          "word": "country",
+          "strongNumber": "G5561",
+          "lemma": "chora",
+          "meaning": "land, region"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And they come to Jesus, and see him that was possessed with the devil, and had the legion, sitting, and clothed, and in his right mind: and they were afraid.",
+      "highlightedWords": [
+        {
+          "word": "devil",
+          "strongNumber": "G1140",
+          "lemma": "daimonion",
+          "meaning": "demon, evil spirit"
+        },
+        {
+          "word": "afraid",
+          "strongNumber": "G5399",
+          "lemma": "phobeo",
+          "meaning": "to fear, be afraid"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And they that saw it told them how it befell to him that was possessed with the devil, and also concerning the swine.",
+      "highlightedWords": [
+        {
+          "word": "swine",
+          "strongNumber": "G5519",
+          "lemma": "choiros",
+          "meaning": "pig, swine"
+        },
+        {
+          "word": "devil",
+          "strongNumber": "G1140",
+          "lemma": "daimonion",
+          "meaning": "demon, evil spirit"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And they began to pray him to depart out of their coasts.",
+      "highlightedWords": [
+        {
+          "word": "pray",
+          "strongNumber": "G3870",
+          "lemma": "parakaleo",
+          "meaning": "to beg, entreat"
+        },
+        {
+          "word": "coasts",
+          "strongNumber": "G3725",
+          "lemma": "horion",
+          "meaning": "borders, region"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And when he was come into the ship, he that had been possessed with the devil prayed him that he might be with him.",
+      "highlightedWords": [
+        {
+          "word": "ship",
+          "strongNumber": "G4143",
+          "lemma": "ploion",
+          "meaning": "boat, ship"
+        },
+        {
+          "word": "devil",
+          "strongNumber": "G1140",
+          "lemma": "daimonion",
+          "meaning": "demon, evil spirit"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Howbeit Jesus suffered him not, but saith unto him, Go home to thy friends, and tell them how great things the Lord hath done for thee, and hath had compassion on thee.",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "lord, master"
+        },
+        {
+          "word": "compassion",
+          "strongNumber": "G1653",
+          "lemma": "eleeo",
+          "meaning": "to show mercy, have compassion"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And he departed, and began to publish in Decapolis how great things Jesus had done for him: and all men did marvel.",
+      "highlightedWords": [
+        {
+          "word": "Decapolis",
+          "strongNumber": "G1179",
+          "lemma": "Dekapolis",
+          "meaning": "the region of Ten Cities"
+        },
+        {
+          "word": "marvel",
+          "strongNumber": "G2296",
+          "lemma": "thaumazo",
+          "meaning": "to wonder, marvel"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And when Jesus was passed over again by ship unto the other side, much people gathered unto him: and he was nigh unto the sea.",
+      "highlightedWords": [
+        {
+          "word": "ship",
+          "strongNumber": "G4143",
+          "lemma": "ploion",
+          "meaning": "boat, ship"
+        },
+        {
+          "word": "sea",
+          "strongNumber": "G2281",
+          "lemma": "thalassa",
+          "meaning": "sea"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And, behold, there cometh one of the rulers of the synagogue, Jairus by name; and when he saw him, he fell at his feet,",
+      "highlightedWords": [
+        {
+          "word": "synagogue",
+          "strongNumber": "G4864",
+          "lemma": "synagoge",
+          "meaning": "assembly, synagogue"
+        },
+        {
+          "word": "fell",
+          "strongNumber": "G4098",
+          "lemma": "pipto",
+          "meaning": "to fall"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And besought him greatly, saying, My little daughter lieth at the point of death: I pray thee, come and lay thy hands on her, that she may be healed; and she shall live.",
+      "highlightedWords": [
+        {
+          "word": "death",
+          "strongNumber": "G2288",
+          "lemma": "thanatos",
+          "meaning": "death"
+        },
+        {
+          "word": "healed",
+          "strongNumber": "G4982",
+          "lemma": "sozo",
+          "meaning": "to save, heal"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And Jesus went with him; and much people followed him, and thronged him.",
+      "highlightedWords": [
+        {
+          "word": "followed",
+          "strongNumber": "G190",
+          "lemma": "akoloutheo",
+          "meaning": "to follow"
+        },
+        {
+          "word": "thronged",
+          "strongNumber": "G4918",
+          "lemma": "synthlibo",
+          "meaning": "to press upon, throng"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And a certain woman, which had an issue of blood twelve years,",
+      "highlightedWords": [
+        {
+          "word": "woman",
+          "strongNumber": "G1135",
+          "lemma": "gyne",
+          "meaning": "woman"
+        },
+        {
+          "word": "blood",
+          "strongNumber": "G129",
+          "lemma": "haima",
+          "meaning": "blood"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And had suffered many things of many physicians, and had spent all that she had, and was nothing bettered, but rather grew worse,",
+      "highlightedWords": [
+        {
+          "word": "physicians",
+          "strongNumber": "G2395",
+          "lemma": "iatros",
+          "meaning": "physician, doctor"
+        },
+        {
+          "word": "worse",
+          "strongNumber": "G5501",
+          "lemma": "cheiron",
+          "meaning": "worse, more evil"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "When she had heard of Jesus, came in the press behind, and touched his garment.",
+      "highlightedWords": [
+        {
+          "word": "touched",
+          "strongNumber": "G680",
+          "lemma": "haptomai",
+          "meaning": "to touch"
+        },
+        {
+          "word": "garment",
+          "strongNumber": "G2440",
+          "lemma": "himation",
+          "meaning": "garment, cloak"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "For she said, If I may touch but his clothes, I shall be whole.",
+      "highlightedWords": [
+        {
+          "word": "touch",
+          "strongNumber": "G680",
+          "lemma": "haptomai",
+          "meaning": "to touch"
+        },
+        {
+          "word": "whole",
+          "strongNumber": "G4982",
+          "lemma": "sozo",
+          "meaning": "to save, make whole"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "And straightway the fountain of her blood was dried up; and she felt in her body that she was healed of that plague.",
+      "highlightedWords": [
+        {
+          "word": "straightway",
+          "strongNumber": "G2112",
+          "lemma": "euthys",
+          "meaning": "immediately, straightway"
+        },
+        {
+          "word": "healed",
+          "strongNumber": "G2390",
+          "lemma": "iaomai",
+          "meaning": "to heal"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "And Jesus, immediately knowing in himself that virtue had gone out of him, turned him about in the press, and said, Who touched my clothes?",
+      "highlightedWords": [
+        {
+          "word": "virtue",
+          "strongNumber": "G1411",
+          "lemma": "dynamis",
+          "meaning": "power, virtue"
+        },
+        {
+          "word": "touched",
+          "strongNumber": "G680",
+          "lemma": "haptomai",
+          "meaning": "to touch"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "And his disciples said unto him, Thou seest the multitude thronging thee, and sayest thou, Who touched me?",
+      "highlightedWords": [
+        {
+          "word": "disciples",
+          "strongNumber": "G3101",
+          "lemma": "mathetes",
+          "meaning": "disciple, learner"
+        },
+        {
+          "word": "multitude",
+          "strongNumber": "G3793",
+          "lemma": "ochlos",
+          "meaning": "crowd, multitude"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "And he looked round about to see her that had done this thing.",
+      "highlightedWords": [
+        {
+          "word": "looked",
+          "strongNumber": "G4017",
+          "lemma": "periblepo",
+          "meaning": "to look around"
+        },
+        {
+          "word": "done",
+          "strongNumber": "G4160",
+          "lemma": "poieo",
+          "meaning": "to do, make"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "But the woman fearing and trembling, knowing what was done in her, came and fell down before him, and told him all the truth.",
+      "highlightedWords": [
+        {
+          "word": "woman",
+          "strongNumber": "G1135",
+          "lemma": "gyne",
+          "meaning": "woman"
+        },
+        {
+          "word": "trembling",
+          "strongNumber": "G5156",
+          "lemma": "tromos",
+          "meaning": "trembling"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "And he said unto her, Daughter, thy faith hath made thee whole; go in peace, and be whole of thy plague.",
+      "highlightedWords": [
+        {
+          "word": "faith",
+          "strongNumber": "G4102",
+          "lemma": "pistis",
+          "meaning": "faith, trust"
+        },
+        {
+          "word": "peace",
+          "strongNumber": "G1515",
+          "lemma": "eirene",
+          "meaning": "peace"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "While he yet spake, there came from the ruler of the synagogue's house certain which said, Thy daughter is dead: why troublest thou the Master any further?",
+      "highlightedWords": [
+        {
+          "word": "dead",
+          "strongNumber": "G3498",
+          "lemma": "nekros",
+          "meaning": "dead"
+        },
+        {
+          "word": "Master",
+          "strongNumber": "G1320",
+          "lemma": "didaskalos",
+          "meaning": "teacher, master"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "As soon as Jesus heard the word that was spoken, he saith unto the ruler of the synagogue, Be not afraid, only believe.",
+      "highlightedWords": [
+        {
+          "word": "afraid",
+          "strongNumber": "G5399",
+          "lemma": "phobeo",
+          "meaning": "to fear, be afraid"
+        },
+        {
+          "word": "believe",
+          "strongNumber": "G4100",
+          "lemma": "pisteuo",
+          "meaning": "to believe"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "And he suffered no man to follow him, save Peter, and James, and John the brother of James.",
+      "highlightedWords": [
+        {
+          "word": "Peter",
+          "strongNumber": "G4074",
+          "lemma": "Petros",
+          "meaning": "Peter"
+        },
+        {
+          "word": "John",
+          "strongNumber": "G2491",
+          "lemma": "Ioannes",
+          "meaning": "John"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "And he cometh to the house of the ruler of the synagogue, and seeth the tumult, and them that wept and wailed greatly.",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "G3624",
+          "lemma": "oikos",
+          "meaning": "house"
+        },
+        {
+          "word": "wept",
+          "strongNumber": "G2799",
+          "lemma": "klaio",
+          "meaning": "to weep"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "text": "And when he was come in, he saith unto them, Why make ye this ado, and weep? the damsel is not dead, but sleepeth.",
+      "highlightedWords": [
+        {
+          "word": "weep",
+          "strongNumber": "G2799",
+          "lemma": "klaio",
+          "meaning": "to weep"
+        },
+        {
+          "word": "sleepeth",
+          "strongNumber": "G2518",
+          "lemma": "katheudo",
+          "meaning": "sleeps"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "text": "And they laughed him to scorn. But when he had put them all out, he taketh the father and the mother of the damsel, and them that were with him, and entereth in where the damsel was lying.",
+      "highlightedWords": [
+        {
+          "word": "mother",
+          "strongNumber": "G3384",
+          "lemma": "meter",
+          "meaning": "mother"
+        },
+        {
+          "word": "damsel",
+          "strongNumber": "G2877",
+          "lemma": "korasion",
+          "meaning": "little girl"
+        }
+      ]
+    },
+    {
+      "verse": 41,
+      "text": "And he took the damsel by the hand, and said unto her, Talitha cumi; which is, being interpreted, Damsel, I say unto thee, arise.",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "G5495",
+          "lemma": "cheir",
+          "meaning": "hand"
+        },
+        {
+          "word": "arise",
+          "strongNumber": "G1453",
+          "lemma": "egeiro",
+          "meaning": "to arise"
+        }
+      ]
+    },
+    {
+      "verse": 42,
+      "text": "And straightway the damsel arose, and walked; for she was of the age of twelve years. And they were astonished with a great astonishment.",
+      "highlightedWords": [
+        {
+          "word": "arose",
+          "strongNumber": "G450",
+          "lemma": "anistemi",
+          "meaning": "to rise up"
+        },
+        {
+          "word": "twelve",
+          "strongNumber": "G1427",
+          "lemma": "dodeka",
+          "meaning": "twelve"
+        }
+      ]
+    },
+    {
+      "verse": 43,
+      "text": "And he charged them straitly that no man should know it; and commanded that something should be given her to eat.",
+      "highlightedWords": [
+        {
+          "word": "know",
+          "strongNumber": "G1097",
+          "lemma": "ginosko",
+          "meaning": "to know"
+        },
+        {
+          "word": "eat",
+          "strongNumber": "G5315",
+          "lemma": "esthio",
+          "meaning": "to eat"
+        }
+      ]
+    }
+  ]
+}

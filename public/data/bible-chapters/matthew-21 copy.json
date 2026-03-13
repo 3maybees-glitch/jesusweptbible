@@ -1,0 +1,852 @@
+{
+  "book": "Matthew",
+  "chapter": 21,
+  "chapterTheme": {
+    "twoWordSummary": "Royal Confrontation",
+    "themeWords": [
+      {
+        "word": "King",
+        "strongNumber": "G935",
+        "lemma": "basileus",
+        "meaning": "a king, sovereign ruler"
+      },
+      {
+        "word": "kingdom",
+        "strongNumber": "G932",
+        "lemma": "basileia",
+        "meaning": "reign, rule, kingdom"
+      }
+    ]
+  },
+  "sentenceTheme": "Jesus enters Jerusalem as King, cleanses the temple, curses the fig tree, teaches on faith and authority, and warns the leaders through parables.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And when they drew nigh unto Jerusalem, and were come to Bethphage, unto the mount of Olives, then sent Jesus two disciples,",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus; Yahweh is salvation"
+        },
+        {
+          "word": "the",
+          "strongNumber": "G3588",
+          "lemma": "ho",
+          "meaning": "the; definite article"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Saying unto them, Go into the village over against you, and straightway ye shall find an ass tied, and a colt with her: loose them, and bring them unto me.",
+      "highlightedWords": [
+        {
+          "word": "ass",
+          "strongNumber": "G3688",
+          "lemma": "onos",
+          "meaning": "a donkey, ass"
+        },
+        {
+          "word": "the",
+          "strongNumber": "G3588",
+          "lemma": "ho",
+          "meaning": "the; definite article"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And if any man say ought unto you, ye shall say, The Lord hath need of them; and straightway he will send them.",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "Lord, master, owner"
+        },
+        {
+          "word": "The",
+          "strongNumber": "G3588",
+          "lemma": "ho",
+          "meaning": "the; definite article"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "All this was done, that it might be fulfilled which was spoken by the prophet, saying,",
+      "highlightedWords": [
+        {
+          "word": "prophet",
+          "strongNumber": "G4396",
+          "lemma": "prophētēs",
+          "meaning": "a prophet, inspired spokesperson"
+        },
+        {
+          "word": "the",
+          "strongNumber": "G3588",
+          "lemma": "ho",
+          "meaning": "the; definite article"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Tell ye the daughter of Sion, Behold, thy King cometh unto thee, meek, and sitting upon an ass, and a colt the foal of an ass.",
+      "highlightedWords": [
+        {
+          "word": "King",
+          "strongNumber": "G935",
+          "lemma": "basileus",
+          "meaning": "a king, sovereign ruler"
+        },
+        {
+          "word": "ass",
+          "strongNumber": "G3688",
+          "lemma": "onos",
+          "meaning": "a donkey, ass"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And the disciples went, and did as Jesus commanded them,",
+      "highlightedWords": [
+        {
+          "word": "disciples",
+          "strongNumber": "G3101",
+          "lemma": "mathētēs",
+          "meaning": "a disciple, learner, follower"
+        },
+        {
+          "word": "the",
+          "strongNumber": "G3588",
+          "lemma": "ho",
+          "meaning": "the; definite article"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And brought the ass, and the colt, and put on them their clothes, and they set him thereon.",
+      "highlightedWords": [
+        {
+          "word": "colt",
+          "strongNumber": "G4454",
+          "lemma": "polos",
+          "meaning": "a colt, young donkey"
+        },
+        {
+          "word": "the",
+          "strongNumber": "G3588",
+          "lemma": "ho",
+          "meaning": "the; definite article"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And a very great multitude spread their garments in the way; others cut down branches from the trees, and strawed them in the way.",
+      "highlightedWords": [
+        {
+          "word": "multitude",
+          "strongNumber": "G3793",
+          "lemma": "ochlos",
+          "meaning": "a crowd, multitude"
+        },
+        {
+          "word": "the",
+          "strongNumber": "G3588",
+          "lemma": "ho",
+          "meaning": "the; definite article"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And the multitudes that went before, and that followed, cried, saying, Hosanna to the Son of David: Blessed is he that cometh in the name of the Lord; Hosanna in the highest.",
+      "highlightedWords": [
+        {
+          "word": "Hosanna",
+          "strongNumber": "G5614",
+          "lemma": "hōsanna",
+          "meaning": "Hosanna; save now, we pray"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "Lord, master, owner"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And when he was come into Jerusalem, all the city was moved, saying, Who is this?",
+      "highlightedWords": [
+        {
+          "word": "city",
+          "strongNumber": "G4172",
+          "lemma": "polis",
+          "meaning": "a city, town"
+        },
+        {
+          "word": "the",
+          "strongNumber": "G3588",
+          "lemma": "ho",
+          "meaning": "the; definite article"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And the multitude said, This is Jesus the prophet of Nazareth of Galilee.",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus; Yahweh is salvation"
+        },
+        {
+          "word": "prophet",
+          "strongNumber": "G4396",
+          "lemma": "prophētēs",
+          "meaning": "a prophet, inspired spokesperson"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And Jesus went into the temple of God, and cast out all them that sold and bought in the temple, and overthrew the tables of the moneychangers, and the seats of them that sold doves,",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus; Yahweh is salvation"
+        },
+        {
+          "word": "temple",
+          "strongNumber": "G2411",
+          "lemma": "hieron",
+          "meaning": "the temple precincts"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And said unto them, It is written, My house shall be called the house of prayer; but ye have made it a den of thieves.",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "G3624",
+          "lemma": "oikos",
+          "meaning": "house, household"
+        },
+        {
+          "word": "prayer",
+          "strongNumber": "G4335",
+          "lemma": "proseuchē",
+          "meaning": "prayer"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And the blind and the lame came to him in the temple; and he healed them.",
+      "highlightedWords": [
+        {
+          "word": "blind",
+          "strongNumber": "G5185",
+          "lemma": "typhlos",
+          "meaning": "blind"
+        },
+        {
+          "word": "lame",
+          "strongNumber": "G5560",
+          "lemma": "cholos",
+          "meaning": "lame, crippled"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And when the chief priests and scribes saw the wonderful things that he did, and the children crying in the temple, and saying, Hosanna to the Son of David; they were sore displeased,",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "G749",
+          "lemma": "archiereus",
+          "meaning": "chief priest"
+        },
+        {
+          "word": "scribes",
+          "strongNumber": "G1122",
+          "lemma": "grammateus",
+          "meaning": "scribe, expert in the law"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And said unto him, Hearest thou what these say? And Jesus saith unto them, Yea; have ye never read, Out of the mouth of babes and sucklings thou hast perfected praise?",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus; Yahweh is salvation"
+        },
+        {
+          "word": "praise",
+          "strongNumber": "G136",
+          "lemma": "ainos",
+          "meaning": "praise"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And he left them, and went out of the city into Bethany; and he lodged there.",
+      "highlightedWords": [
+        {
+          "word": "city",
+          "strongNumber": "G4172",
+          "lemma": "polis",
+          "meaning": "a city, town"
+        },
+        {
+          "word": "the",
+          "strongNumber": "G3588",
+          "lemma": "ho",
+          "meaning": "the; definite article"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Now in the morning as he returned into the city, he hungered.",
+      "highlightedWords": [
+        {
+          "word": "morning",
+          "strongNumber": "G4404",
+          "lemma": "prōi",
+          "meaning": "early morning, dawn"
+        },
+        {
+          "word": "city",
+          "strongNumber": "G4172",
+          "lemma": "polis",
+          "meaning": "a city, town"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And when he saw a fig tree in the way, he came to it, and found nothing thereon, but leaves only, and said unto it, Let no fruit grow on thee henceforward for ever. And presently the fig tree withered away.",
+      "highlightedWords": [
+        {
+          "word": "fig",
+          "strongNumber": "G4808",
+          "lemma": "sukē",
+          "meaning": "fig tree"
+        },
+        {
+          "word": "fruit",
+          "strongNumber": "G2590",
+          "lemma": "karpos",
+          "meaning": "fruit, produce"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And when the disciples saw it, they marvelled, saying, How soon is the fig tree withered away!",
+      "highlightedWords": [
+        {
+          "word": "disciples",
+          "strongNumber": "G3101",
+          "lemma": "mathētēs",
+          "meaning": "a disciple, learner, follower"
+        },
+        {
+          "word": "fig",
+          "strongNumber": "G4808",
+          "lemma": "sukē",
+          "meaning": "fig tree"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Jesus answered and said unto them, Verily I say unto you, If ye have faith, and doubt not, ye shall not only do this which is done to the fig tree, but also if ye shall say unto this mountain, Be thou removed, and be thou cast into the sea; it shall be done.",
+      "highlightedWords": [
+        {
+          "word": "faith",
+          "strongNumber": "G4102",
+          "lemma": "pistis",
+          "meaning": "faith, trust, belief"
+        },
+        {
+          "word": "mountain",
+          "strongNumber": "G3735",
+          "lemma": "oros",
+          "meaning": "mountain, hill"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And all things, whatsoever ye shall ask in prayer, believing, ye shall receive.",
+      "highlightedWords": [
+        {
+          "word": "prayer",
+          "strongNumber": "G4335",
+          "lemma": "proseuchē",
+          "meaning": "prayer"
+        },
+        {
+          "word": "believing",
+          "strongNumber": "G4100",
+          "lemma": "pisteuō",
+          "meaning": "to believe, trust"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And when he was come into the temple, the chief priests and the elders of the people came unto him as he was teaching, and said, By what authority doest thou these things? and who gave thee this authority?",
+      "highlightedWords": [
+        {
+          "word": "temple",
+          "strongNumber": "G2411",
+          "lemma": "hieron",
+          "meaning": "the temple precincts"
+        },
+        {
+          "word": "authority",
+          "strongNumber": "G1849",
+          "lemma": "exousia",
+          "meaning": "authority, right, power"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And Jesus answered and said unto them, I also will ask you one thing, which if ye tell me, I in like wise will tell you by what authority I do these things.",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus; Yahweh is salvation"
+        },
+        {
+          "word": "authority",
+          "strongNumber": "G1849",
+          "lemma": "exousia",
+          "meaning": "authority, right, power"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "The baptism of John, whence was it? from heaven, or of men? And they reasoned with themselves, saying, If we shall say, From heaven; he will say unto us, Why did ye not then believe him?",
+      "highlightedWords": [
+        {
+          "word": "baptism",
+          "strongNumber": "G908",
+          "lemma": "baptisma",
+          "meaning": "baptism"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "G3772",
+          "lemma": "ouranos",
+          "meaning": "heaven, sky"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "But if we shall say, Of men; we fear the people; for all hold John as a prophet.",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "G2992",
+          "lemma": "laos",
+          "meaning": "a people, populace"
+        },
+        {
+          "word": "prophet",
+          "strongNumber": "G4396",
+          "lemma": "prophētēs",
+          "meaning": "a prophet, inspired spokesperson"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And they answered Jesus, and said, We cannot tell. And he said unto them, Neither tell I you by what authority I do these things.",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus; Yahweh is salvation"
+        },
+        {
+          "word": "authority",
+          "strongNumber": "G1849",
+          "lemma": "exousia",
+          "meaning": "authority, right, power"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "But what think ye? A certain man had two sons; and he came to the first, and said, Son, go work to day in my vineyard.",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "G5207",
+          "lemma": "huios",
+          "meaning": "a son; descendant"
+        },
+        {
+          "word": "vineyard",
+          "strongNumber": "G290",
+          "lemma": "ampelōn",
+          "meaning": "a vineyard"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "He answered and said, I will not: but afterward he repented, and went.",
+      "highlightedWords": [
+        {
+          "word": "repented",
+          "strongNumber": "G3338",
+          "lemma": "metamelomai",
+          "meaning": "to repent, regret, change the mind"
+        },
+        {
+          "word": "but",
+          "strongNumber": "G235",
+          "lemma": "alla",
+          "meaning": "but, rather"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "And he came to the second, and said likewise. And he answered and said, I go, sir: and went not.",
+      "highlightedWords": [
+        {
+          "word": "second",
+          "strongNumber": "G1208",
+          "lemma": "deuteros",
+          "meaning": "second"
+        },
+        {
+          "word": "sir",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "lord, sir (respectful address)"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "Whether of them twain did the will of his father? They say unto him, The first. Jesus saith unto them, Verily I say unto you, That the publicans and the harlots go into the kingdom of God before you.",
+      "highlightedWords": [
+        {
+          "word": "publicans",
+          "strongNumber": "G5057",
+          "lemma": "telōnēs",
+          "meaning": "tax collectors"
+        },
+        {
+          "word": "harlots",
+          "strongNumber": "G4204",
+          "lemma": "pornē",
+          "meaning": "prostitutes, harlots"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "For John came unto you in the way of righteousness, and ye believed him not: but the publicans and the harlots believed him: and ye, when ye had seen it, repented not afterward, that ye might believe him.",
+      "highlightedWords": [
+        {
+          "word": "righteousness",
+          "strongNumber": "G1343",
+          "lemma": "dikaiosynē",
+          "meaning": "righteousness, justice"
+        },
+        {
+          "word": "believed",
+          "strongNumber": "G4100",
+          "lemma": "pisteuō",
+          "meaning": "to believe, trust"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "Hear another parable: There was a certain householder, which planted a vineyard, and hedged it round about, and digged a winepress in it, and built a tower, and let it out to husbandmen, and went into a far country:",
+      "highlightedWords": [
+        {
+          "word": "parable",
+          "strongNumber": "G3850",
+          "lemma": "parabolē",
+          "meaning": "a parable, comparison"
+        },
+        {
+          "word": "vineyard",
+          "strongNumber": "G290",
+          "lemma": "ampelōn",
+          "meaning": "a vineyard"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "And when the time of the fruit drew near, he sent his servants to the husbandmen, that they might receive the fruits of it.",
+      "highlightedWords": [
+        {
+          "word": "servants",
+          "strongNumber": "G1401",
+          "lemma": "doulos",
+          "meaning": "a servant, slave, bondservant"
+        },
+        {
+          "word": "fruits",
+          "strongNumber": "G2590",
+          "lemma": "karpos",
+          "meaning": "fruits, produce"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "And the husbandmen took his servants, and beat one, and killed another, and stoned another.",
+      "highlightedWords": [
+        {
+          "word": "stoned",
+          "strongNumber": "G3036",
+          "lemma": "lithoboleō",
+          "meaning": "to stone"
+        },
+        {
+          "word": "killed",
+          "strongNumber": "G615",
+          "lemma": "apokteinō",
+          "meaning": "to kill, slay"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "Again, he sent other servants more than the first: and they did unto them likewise.",
+      "highlightedWords": [
+        {
+          "word": "servants",
+          "strongNumber": "G1401",
+          "lemma": "doulos",
+          "meaning": "a servant, slave, bondservant"
+        },
+        {
+          "word": "likewise",
+          "strongNumber": "G3668",
+          "lemma": "homoiōs",
+          "meaning": "likewise, in the same way"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "But last of all he sent unto them his son, saying, They will reverence my son.",
+      "highlightedWords": [
+        {
+          "word": "son",
+          "strongNumber": "G5207",
+          "lemma": "huios",
+          "meaning": "a son; descendant"
+        },
+        {
+          "word": "reverence",
+          "strongNumber": "G1788",
+          "lemma": "entrepō",
+          "meaning": "to respect, feel shame before; to reverence"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "But when the husbandmen saw the son, they said among themselves, This is the heir; come, let us kill him, and let us seize on his inheritance.",
+      "highlightedWords": [
+        {
+          "word": "heir",
+          "strongNumber": "G2818",
+          "lemma": "klēronomos",
+          "meaning": "an heir"
+        },
+        {
+          "word": "inheritance",
+          "strongNumber": "G2817",
+          "lemma": "klēronomia",
+          "meaning": "inheritance"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "text": "And they caught him, and cast him out of the vineyard, and slew him.",
+      "highlightedWords": [
+        {
+          "word": "vineyard",
+          "strongNumber": "G290",
+          "lemma": "ampelōn",
+          "meaning": "a vineyard"
+        },
+        {
+          "word": "slew",
+          "strongNumber": "G615",
+          "lemma": "apokteinō",
+          "meaning": "to kill, slay"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "text": "When the lord therefore of the vineyard cometh, what will he do unto those husbandmen?",
+      "highlightedWords": [
+        {
+          "word": "lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "lord, master"
+        },
+        {
+          "word": "vineyard",
+          "strongNumber": "G290",
+          "lemma": "ampelōn",
+          "meaning": "a vineyard"
+        }
+      ]
+    },
+    {
+      "verse": 41,
+      "text": "They say unto him, He will miserably destroy those wicked men, and will let out his vineyard unto other husbandmen, which shall render him the fruits in their seasons.",
+      "highlightedWords": [
+        {
+          "word": "husbandmen",
+          "strongNumber": "G1092",
+          "lemma": "geōrgos",
+          "meaning": "a farmer, tenant, husbandman"
+        },
+        {
+          "word": "vineyard",
+          "strongNumber": "G290",
+          "lemma": "ampelōn",
+          "meaning": "a vineyard"
+        }
+      ]
+    },
+    {
+      "verse": 42,
+      "text": "Jesus saith unto them, Did ye never read in the scriptures, The stone which the builders rejected, the same is become the head of the corner: this is the Lord's doing, and it is marvellous in our eyes?",
+      "highlightedWords": [
+        {
+          "word": "stone",
+          "strongNumber": "G3037",
+          "lemma": "lithos",
+          "meaning": "a stone"
+        },
+        {
+          "word": "scriptures",
+          "strongNumber": "G1124",
+          "lemma": "graphē",
+          "meaning": "Scripture; a writing"
+        }
+      ]
+    },
+    {
+      "verse": 43,
+      "text": "Therefore say I unto you, The kingdom of God shall be taken from you, and given to a nation bringing forth the fruits thereof.",
+      "highlightedWords": [
+        {
+          "word": "kingdom",
+          "strongNumber": "G932",
+          "lemma": "basileia",
+          "meaning": "reign, rule, kingdom"
+        },
+        {
+          "word": "nation",
+          "strongNumber": "G1484",
+          "lemma": "ethnos",
+          "meaning": "a nation, people, Gentiles"
+        }
+      ]
+    },
+    {
+      "verse": 44,
+      "text": "And whosoever shall fall on this stone shall be broken: but on whomsoever it shall fall, it will grind him to powder.",
+      "highlightedWords": [
+        {
+          "word": "stone",
+          "strongNumber": "G3037",
+          "lemma": "lithos",
+          "meaning": "a stone"
+        },
+        {
+          "word": "fall",
+          "strongNumber": "G4098",
+          "lemma": "piptō",
+          "meaning": "to fall"
+        }
+      ]
+    },
+    {
+      "verse": 45,
+      "text": "And when the chief priests and Pharisees had heard his parables, they perceived that he spake of them.",
+      "highlightedWords": [
+        {
+          "word": "Pharisees",
+          "strongNumber": "G5330",
+          "lemma": "Pharisaios",
+          "meaning": "a Pharisee"
+        },
+        {
+          "word": "parables",
+          "strongNumber": "G3850",
+          "lemma": "parabolē",
+          "meaning": "parables, comparisons"
+        }
+      ]
+    },
+    {
+      "verse": 46,
+      "text": "But when they sought to lay hands on him, they feared the multitude, because they took him for a prophet.",
+      "highlightedWords": [
+        {
+          "word": "prophet",
+          "strongNumber": "G4396",
+          "lemma": "prophētēs",
+          "meaning": "a prophet, inspired spokesperson"
+        },
+        {
+          "word": "multitude",
+          "strongNumber": "G3793",
+          "lemma": "ochlos",
+          "meaning": "a crowd, multitude"
+        }
+      ]
+    }
+  ]
+}

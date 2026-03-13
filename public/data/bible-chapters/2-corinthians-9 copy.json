@@ -1,0 +1,294 @@
+{
+  "book": "2 Corinthians",
+  "chapter": 9,
+  "chapterTheme": {
+    "twoWordSummary": "Cheerful Giving",
+    "themeWords": [
+      {
+        "word": "grace",
+        "strongNumber": "G5485",
+        "lemma": "charis",
+        "meaning": "grace; favor; kindness"
+      },
+      {
+        "word": "give",
+        "strongNumber": "G1325",
+        "lemma": "didōmi",
+        "meaning": "to give; to grant"
+      }
+    ]
+  },
+  "sentenceTheme": "Paul urges generous, willing giving that flows from grace, supplies the saints’ needs, and overflows in thanksgiving to God.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "For as touching the ministering to the saints, it is superfluous for me to write to you:",
+      "highlightedWords": [
+        {
+          "word": "ministering",
+          "strongNumber": "G1248",
+          "lemma": "diakonia",
+          "meaning": "service; ministry"
+        },
+        {
+          "word": "saints",
+          "strongNumber": "G40",
+          "lemma": "hagios",
+          "meaning": "holy ones; saints"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "For I know the forwardness of your mind, for which I boast of you to them of Macedonia, that Achaia was ready a year ago; and your zeal hath provoked very many.",
+      "highlightedWords": [
+        {
+          "word": "boast",
+          "strongNumber": "G2744",
+          "lemma": "kauchaomai",
+          "meaning": "to boast; to glory"
+        },
+        {
+          "word": "zeal",
+          "strongNumber": "G2205",
+          "lemma": "zēlos",
+          "meaning": "zeal; ardor; enthusiasm"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Yet have I sent the brethren, lest our boasting of you should be in vain in this behalf; that, as I said, ye may be ready:",
+      "highlightedWords": [
+        {
+          "word": "brethren",
+          "strongNumber": "G80",
+          "lemma": "adelphos",
+          "meaning": "brother; fellow believer"
+        },
+        {
+          "word": "ready",
+          "strongNumber": "G2092",
+          "lemma": "hetoimos",
+          "meaning": "ready; prepared"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Lest haply if they of Macedonia come with me, and find you unprepared, we (that we say not, ye) should be ashamed in this same confident boasting.",
+      "highlightedWords": [
+        {
+          "word": "ashamed",
+          "strongNumber": "G2617",
+          "lemma": "kataischunō",
+          "meaning": "to put to shame; be disgraced"
+        },
+        {
+          "word": "boasting",
+          "strongNumber": "G2746",
+          "lemma": "kauchēsis",
+          "meaning": "boasting; pride"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Therefore I thought it necessary to exhort the brethren, that they would go before unto you, and make up beforehand your bounty, whereof ye had notice before, that the same might be ready, as a matter of bounty, and not as of covetousness.",
+      "highlightedWords": [
+        {
+          "word": "exhort",
+          "strongNumber": "G3870",
+          "lemma": "parakaleō",
+          "meaning": "to urge; to encourage; to comfort"
+        },
+        {
+          "word": "covetousness",
+          "strongNumber": "G4124",
+          "lemma": "pleonexia",
+          "meaning": "greed; covetousness"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "But this I say, He which soweth sparingly shall reap also sparingly; and he which soweth bountifully shall reap also bountifully.",
+      "highlightedWords": [
+        {
+          "word": "soweth",
+          "strongNumber": "G4687",
+          "lemma": "speirō",
+          "meaning": "to sow; to scatter seed"
+        },
+        {
+          "word": "bountifully",
+          "strongNumber": "G2129",
+          "lemma": "eulogia",
+          "meaning": "blessing; bountifully"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity: for God loveth a cheerful giver.",
+      "highlightedWords": [
+        {
+          "word": "cheerful",
+          "strongNumber": "G2431",
+          "lemma": "hilaros",
+          "meaning": "cheerful; willing"
+        },
+        {
+          "word": "giver",
+          "strongNumber": "G1395",
+          "lemma": "dotēs",
+          "meaning": "a giver"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And God is able to make all grace abound toward you; that ye, always having all sufficiency in all things, may abound to every good work:",
+      "highlightedWords": [
+        {
+          "word": "grace",
+          "strongNumber": "G5485",
+          "lemma": "charis",
+          "meaning": "grace; favor; kindness"
+        },
+        {
+          "word": "abound",
+          "strongNumber": "G4052",
+          "lemma": "perisseuō",
+          "meaning": "to abound; to overflow"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "(As it is written, He hath dispersed abroad; he hath given to the poor: his righteousness remaineth for ever.",
+      "highlightedWords": [
+        {
+          "word": "poor",
+          "strongNumber": "G4434",
+          "lemma": "ptōchos",
+          "meaning": "poor; destitute"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "G1343",
+          "lemma": "dikaiosynē",
+          "meaning": "righteousness; justice"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Now he that ministereth seed to the sower both minister bread for your food, and multiply your seed sown, and increase the fruits of your righteousness;)",
+      "highlightedWords": [
+        {
+          "word": "seed",
+          "strongNumber": "G4690",
+          "lemma": "sperma",
+          "meaning": "seed; offspring"
+        },
+        {
+          "word": "multiply",
+          "strongNumber": "G4129",
+          "lemma": "plēthynō",
+          "meaning": "to multiply; to increase"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Being enriched in every thing to all bountifulness, which causeth through us thanksgiving to God.",
+      "highlightedWords": [
+        {
+          "word": "enriched",
+          "strongNumber": "G4148",
+          "lemma": "ploutizō",
+          "meaning": "to make rich; to enrich"
+        },
+        {
+          "word": "thanksgiving",
+          "strongNumber": "G2169",
+          "lemma": "eucharistia",
+          "meaning": "thanksgiving; gratitude"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "For the administration of this service not only supplieth the want of the saints, but is abundant also by many thanksgivings unto God;",
+      "highlightedWords": [
+        {
+          "word": "administration",
+          "strongNumber": "G1248",
+          "lemma": "diakonia",
+          "meaning": "service; ministry; administration"
+        },
+        {
+          "word": "saints",
+          "strongNumber": "G40",
+          "lemma": "hagios",
+          "meaning": "holy ones; saints"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Whiles by the experiment of this ministration they glorify God for your professed subjection unto the gospel of Christ, and for your liberal distribution unto them, and unto all men;",
+      "highlightedWords": [
+        {
+          "word": "gospel",
+          "strongNumber": "G2098",
+          "lemma": "euangelion",
+          "meaning": "good news; gospel"
+        },
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "Anointed One; Messiah"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And by their prayer for you, which long after you for the exceeding grace of God in you.",
+      "highlightedWords": [
+        {
+          "word": "prayer",
+          "strongNumber": "G1162",
+          "lemma": "deēsis",
+          "meaning": "petition; supplication; prayer"
+        },
+        {
+          "word": "grace",
+          "strongNumber": "G5485",
+          "lemma": "charis",
+          "meaning": "grace; favor; kindness"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Thanks be unto God for his unspeakable gift.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God; deity"
+        },
+        {
+          "word": "gift",
+          "strongNumber": "G1431",
+          "lemma": "dōrea",
+          "meaning": "a free gift"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "book": "3 John",
+  "chapter": 1,
+  "chapterTheme": {
+    "twoWordSummary": "Truth Hospitality",
+    "themeWords": [
+      {
+        "word": "truth",
+        "strongNumber": "G225",
+        "lemma": "alētheia",
+        "meaning": "truth; reality, sincerity, fidelity"
+      },
+      {
+        "word": "charity",
+        "strongNumber": "G26",
+        "lemma": "agapē",
+        "meaning": "selfless love; benevolence"
+      }
+    ]
+  },
+  "sentenceTheme": "John commends Gaius for walking in truth and showing hospitality, warns against Diotrephes’ pride, and affirms the good testimony of Demetrius.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "The elder unto the wellbeloved Gaius, whom I love in the truth.",
+      "highlightedWords": [
+        {
+          "word": "elder",
+          "strongNumber": "G4245",
+          "lemma": "presbyteros",
+          "meaning": "elder; older man, church overseer"
+        },
+        {
+          "word": "truth",
+          "strongNumber": "G225",
+          "lemma": "alētheia",
+          "meaning": "truth; reality, sincerity, fidelity"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Beloved, I wish above all things that thou mayest prosper and be in health, even as thy soul prospereth.",
+      "highlightedWords": [
+        {
+          "word": "prosper",
+          "strongNumber": "G2137",
+          "lemma": "euodoō",
+          "meaning": "to prosper; succeed, have a good journey"
+        },
+        {
+          "word": "health",
+          "strongNumber": "G5198",
+          "lemma": "hygiainō",
+          "meaning": "to be healthy; sound, in good health"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "For I rejoiced greatly, when the brethren came and testified of the truth that is in thee, even as thou walkest in the truth.",
+      "highlightedWords": [
+        {
+          "word": "brethren",
+          "strongNumber": "G80",
+          "lemma": "adelphos",
+          "meaning": "brother; fellow believer"
+        },
+        {
+          "word": "truth",
+          "strongNumber": "G225",
+          "lemma": "alētheia",
+          "meaning": "truth; reality, sincerity, fidelity"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "I have no greater joy than to hear that my children walk in truth.",
+      "highlightedWords": [
+        {
+          "word": "joy",
+          "strongNumber": "G5479",
+          "lemma": "chara",
+          "meaning": "joy; gladness, delight"
+        },
+        {
+          "word": "truth",
+          "strongNumber": "G225",
+          "lemma": "alētheia",
+          "meaning": "truth; reality, sincerity, fidelity"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Beloved, thou doest faithfully whatsoever thou doest to the brethren, and to strangers;",
+      "highlightedWords": [
+        {
+          "word": "brethren",
+          "strongNumber": "G80",
+          "lemma": "adelphos",
+          "meaning": "brother; fellow believer"
+        },
+        {
+          "word": "strangers",
+          "strongNumber": "G3581",
+          "lemma": "xenos",
+          "meaning": "stranger; foreigner, guest"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Which have borne witness of thy charity before the church: whom if thou bring forward on their journey after a godly sort, thou shalt do well:",
+      "highlightedWords": [
+        {
+          "word": "charity",
+          "strongNumber": "G26",
+          "lemma": "agapē",
+          "meaning": "selfless love; benevolence"
+        },
+        {
+          "word": "church",
+          "strongNumber": "G1577",
+          "lemma": "ekklēsia",
+          "meaning": "assembly; congregation, church"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Because that for his name's sake they went forth, taking nothing of the Gentiles.",
+      "highlightedWords": [
+        {
+          "word": "taking",
+          "strongNumber": "G2983",
+          "lemma": "lambanō",
+          "meaning": "to take; receive, accept"
+        },
+        {
+          "word": "Gentiles",
+          "strongNumber": "G1484",
+          "lemma": "ethnos",
+          "meaning": "nation; Gentiles, non-Jews"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "We therefore ought to receive such, that we might be fellowhelpers to the truth.",
+      "highlightedWords": [
+        {
+          "word": "fellowhelpers",
+          "strongNumber": "G4904",
+          "lemma": "synergos",
+          "meaning": "fellow worker; helper, co-laborer"
+        },
+        {
+          "word": "truth",
+          "strongNumber": "G225",
+          "lemma": "alētheia",
+          "meaning": "truth; reality, sincerity, fidelity"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "I wrote unto the church: but Diotrephes, who loveth to have the preeminence among them, receiveth us not.",
+      "highlightedWords": [
+        {
+          "word": "Diotrephes",
+          "strongNumber": "G1361",
+          "lemma": "Diotrephēs",
+          "meaning": "Diotrephes; a personal name"
+        },
+        {
+          "word": "preeminence",
+          "strongNumber": "G5383",
+          "lemma": "philoproteuō",
+          "meaning": "to love to be first; seek preeminence"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Wherefore, if I come, I will remember his deeds which he doeth, prating against us with malicious words: and not content therewith, neither doth he himself receive the brethren, and forbiddeth them that would, and casteth them out of the church.",
+      "highlightedWords": [
+        {
+          "word": "prating",
+          "strongNumber": "G5396",
+          "lemma": "phlyareō",
+          "meaning": "to babble; talk nonsense, slander"
+        },
+        {
+          "word": "malicious",
+          "strongNumber": "G4190",
+          "lemma": "ponēros",
+          "meaning": "evil; wicked, harmful"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Beloved, follow not that which is evil, but that which is good. He that doeth good is of God: but he that doeth evil hath not seen God.",
+      "highlightedWords": [
+        {
+          "word": "evil",
+          "strongNumber": "G2556",
+          "lemma": "kakos",
+          "meaning": "bad; evil, harmful"
+        },
+        {
+          "word": "good",
+          "strongNumber": "G18",
+          "lemma": "agathos",
+          "meaning": "good; beneficial, upright"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Demetrius hath good report of all men, and of the truth itself: yea, and we also bear record; and ye know that our record is true.",
+      "highlightedWords": [
+        {
+          "word": "Demetrius",
+          "strongNumber": "G1216",
+          "lemma": "Dēmētrios",
+          "meaning": "Demetrius; a personal name"
+        },
+        {
+          "word": "truth",
+          "strongNumber": "G225",
+          "lemma": "alētheia",
+          "meaning": "truth; reality, sincerity, fidelity"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "I had many things to write, but I will not with ink and pen write unto thee:",
+      "highlightedWords": [
+        {
+          "word": "write",
+          "strongNumber": "G1125",
+          "lemma": "graphō",
+          "meaning": "to write; inscribe, record"
+        },
+        {
+          "word": "pen",
+          "strongNumber": "G2563",
+          "lemma": "kalamos",
+          "meaning": "reed; pen, writing instrument"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "But I trust I shall shortly see thee, and we shall speak face to face. Peace be to thee. Our friends salute thee. Greet the friends by name.",
+      "highlightedWords": [
+        {
+          "word": "Peace",
+          "strongNumber": "G1515",
+          "lemma": "eirēnē",
+          "meaning": "peace; wholeness, well-being"
+        },
+        {
+          "word": "friends",
+          "strongNumber": "G5384",
+          "lemma": "philos",
+          "meaning": "friend; beloved, companion"
+        }
+      ]
+    }
+  ]
+}

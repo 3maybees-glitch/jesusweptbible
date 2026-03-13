@@ -1,0 +1,474 @@
+{
+  "book": "1 Timothy",
+  "chapter": 5,
+  "chapterTheme": {
+    "twoWordSummary": "Widow Care",
+    "themeWords": [
+      {
+        "word": "widow",
+        "strongNumber": "G5503",
+        "lemma": "chera",
+        "meaning": "a woman bereft of her husband; widow"
+      },
+      {
+        "word": "elder",
+        "strongNumber": "G4245",
+        "lemma": "presbuteros",
+        "meaning": "an older man; a leader/overseer in the church"
+      }
+    ]
+  },
+  "sentenceTheme": "Paul instructs Timothy on honoring widows, regulating church care and leadership, maintaining purity, and acting without partiality.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Rebuke not an elder, but intreat him as a father; and the younger men as brethren;",
+      "highlightedWords": [
+        {
+          "word": "elder",
+          "strongNumber": "G4245",
+          "lemma": "presbuteros",
+          "meaning": "an older man; a leader/overseer in the church"
+        },
+        {
+          "word": "brethren",
+          "strongNumber": "G80",
+          "lemma": "adelphos",
+          "meaning": "a brother; a fellow believer"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "The elder women as mothers; the younger as sisters, with all purity.",
+      "highlightedWords": [
+        {
+          "word": "sisters",
+          "strongNumber": "G79",
+          "lemma": "adelphē",
+          "meaning": "a sister; a female believer"
+        },
+        {
+          "word": "purity",
+          "strongNumber": "G47",
+          "lemma": "hagneia",
+          "meaning": "purity; chastity"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Honour widows that are widows indeed.",
+      "highlightedWords": [
+        {
+          "word": "Honour",
+          "strongNumber": "G5091",
+          "lemma": "timaō",
+          "meaning": "to honor; to show respect"
+        },
+        {
+          "word": "widows",
+          "strongNumber": "G5503",
+          "lemma": "chera",
+          "meaning": "widows; women bereft of their husbands"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "But if any widow have children or nephews, let them learn first to shew piety at home, and to requite their parents: for that is good and acceptable before God.",
+      "highlightedWords": [
+        {
+          "word": "widow",
+          "strongNumber": "G5503",
+          "lemma": "chera",
+          "meaning": "a widow; a woman bereft of her husband"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God; the supreme Deity"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Now she that is a widow indeed, and desolate, trusteth in God, and continueth in supplications and prayers night and day.",
+      "highlightedWords": [
+        {
+          "word": "widow",
+          "strongNumber": "G5503",
+          "lemma": "chera",
+          "meaning": "a widow; a woman bereft of her husband"
+        },
+        {
+          "word": "prayers",
+          "strongNumber": "G4335",
+          "lemma": "proseuchē",
+          "meaning": "prayers; petitions to God"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "But she that liveth in pleasure is dead while she liveth.",
+      "highlightedWords": [
+        {
+          "word": "dead",
+          "strongNumber": "G3498",
+          "lemma": "nekros",
+          "meaning": "dead; lifeless"
+        },
+        {
+          "word": "liveth",
+          "strongNumber": "G2198",
+          "lemma": "zaō",
+          "meaning": "to live; be alive"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And these things give in charge, that they may be blameless.",
+      "highlightedWords": [
+        {
+          "word": "charge",
+          "strongNumber": "G3853",
+          "lemma": "parangellō",
+          "meaning": "to command; to give orders"
+        },
+        {
+          "word": "blameless",
+          "strongNumber": "G423",
+          "lemma": "anepilēmptos",
+          "meaning": "irreproachable; without fault"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "But if any provide not for his own, and specially for those of his own house, he hath denied the faith, and is worse than an infidel.",
+      "highlightedWords": [
+        {
+          "word": "faith",
+          "strongNumber": "G4102",
+          "lemma": "pistis",
+          "meaning": "faith; trust; belief"
+        },
+        {
+          "word": "infidel",
+          "strongNumber": "G571",
+          "lemma": "apistos",
+          "meaning": "unbelieving; faithless person"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Let not a widow be taken into the number under threescore years old, having been the wife of one man,",
+      "highlightedWords": [
+        {
+          "word": "widow",
+          "strongNumber": "G5503",
+          "lemma": "chera",
+          "meaning": "a widow; a woman bereft of her husband"
+        },
+        {
+          "word": "wife",
+          "strongNumber": "G1135",
+          "lemma": "gynē",
+          "meaning": "a woman; a wife"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Well reported of for good works; if she have brought up children, if she have lodged strangers, if she have washed the saints' feet, if she have relieved the afflicted, if she have diligently followed every good work.",
+      "highlightedWords": [
+        {
+          "word": "saints'",
+          "strongNumber": "G40",
+          "lemma": "hagios",
+          "meaning": "holy ones; saints"
+        },
+        {
+          "word": "works",
+          "strongNumber": "G2041",
+          "lemma": "ergon",
+          "meaning": "works; deeds; actions"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "But the younger widows refuse: for when they have begun to wax wanton against Christ, they will marry;",
+      "highlightedWords": [
+        {
+          "word": "widows",
+          "strongNumber": "G5503",
+          "lemma": "chera",
+          "meaning": "widows; women bereft of their husbands"
+        },
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "the Anointed One; Messiah"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Having damnation, because they have cast off their first faith.",
+      "highlightedWords": [
+        {
+          "word": "damnation",
+          "strongNumber": "G2917",
+          "lemma": "krima",
+          "meaning": "judgment; condemnation"
+        },
+        {
+          "word": "faith",
+          "strongNumber": "G4102",
+          "lemma": "pistis",
+          "meaning": "faith; trust; belief"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And withal they learn to be idle, wandering about from house to house; and not only idle, but tattlers also and busybodies, speaking things which they ought not.",
+      "highlightedWords": [
+        {
+          "word": "idle",
+          "strongNumber": "G692",
+          "lemma": "argos",
+          "meaning": "idle; lazy; unproductive"
+        },
+        {
+          "word": "busybodies",
+          "strongNumber": "G4021",
+          "lemma": "periergos",
+          "meaning": "a meddler; one who pries into others' affairs"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "I will therefore that the younger women marry, bear children, guide the house, give none occasion to the adversary to speak reproachfully.",
+      "highlightedWords": [
+        {
+          "word": "marry",
+          "strongNumber": "G1060",
+          "lemma": "gameō",
+          "meaning": "to marry"
+        },
+        {
+          "word": "adversary",
+          "strongNumber": "G480",
+          "lemma": "antikeimai",
+          "meaning": "to be opposed; an adversary"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "For some are already turned aside after Satan.",
+      "highlightedWords": [
+        {
+          "word": "turned aside",
+          "strongNumber": "G1624",
+          "lemma": "ektrepō",
+          "meaning": "to turn aside; deviate"
+        },
+        {
+          "word": "Satan",
+          "strongNumber": "G4567",
+          "lemma": "Satanas",
+          "meaning": "Satan; the adversary"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "If any man or woman that believeth have widows, let them relieve them, and let not the church be charged; that it may relieve them that are widows indeed.",
+      "highlightedWords": [
+        {
+          "word": "church",
+          "strongNumber": "G1577",
+          "lemma": "ekklēsia",
+          "meaning": "assembly; church"
+        },
+        {
+          "word": "widows",
+          "strongNumber": "G5503",
+          "lemma": "chera",
+          "meaning": "widows; women bereft of their husbands"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Let the elders that rule well be counted worthy of double honour, especially they who labour in the word and doctrine.",
+      "highlightedWords": [
+        {
+          "word": "elders",
+          "strongNumber": "G4245",
+          "lemma": "presbuteros",
+          "meaning": "elders; overseers"
+        },
+        {
+          "word": "doctrine",
+          "strongNumber": "G1319",
+          "lemma": "didaskalia",
+          "meaning": "teaching; doctrine"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "For the scripture saith, Thou shalt not muzzle the ox that treadeth out the corn. And, The labourer is worthy of his reward.",
+      "highlightedWords": [
+        {
+          "word": "scripture",
+          "strongNumber": "G1124",
+          "lemma": "graphē",
+          "meaning": "writing; Scripture"
+        },
+        {
+          "word": "labourer",
+          "strongNumber": "G2040",
+          "lemma": "ergatēs",
+          "meaning": "a worker; laborer"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Against an elder receive not an accusation, but before two or three witnesses.",
+      "highlightedWords": [
+        {
+          "word": "elder",
+          "strongNumber": "G4245",
+          "lemma": "presbuteros",
+          "meaning": "an older man; a leader/overseer in the church"
+        },
+        {
+          "word": "witnesses",
+          "strongNumber": "G3144",
+          "lemma": "martys",
+          "meaning": "a witness; one who testifies"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Them that sin rebuke before all, that others also may fear.",
+      "highlightedWords": [
+        {
+          "word": "sin",
+          "strongNumber": "G264",
+          "lemma": "hamartanō",
+          "meaning": "to sin; to do wrong"
+        },
+        {
+          "word": "fear",
+          "strongNumber": "G5399",
+          "lemma": "phobeō",
+          "meaning": "to fear; be afraid; revere"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "I charge thee before God, and the Lord Jesus Christ, and the elect angels, that thou observe these things without preferring one before another, doing nothing by partiality.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God; the supreme Deity"
+        },
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "the Anointed One; Messiah"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Lay hands suddenly on no man, neither be partaker of other men's sins: keep thyself pure.",
+      "highlightedWords": [
+        {
+          "word": "sins",
+          "strongNumber": "G266",
+          "lemma": "hamartia",
+          "meaning": "sin; wrongdoing; guilt"
+        },
+        {
+          "word": "pure",
+          "strongNumber": "G53",
+          "lemma": "hagnos",
+          "meaning": "pure; chaste"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Drink no longer water, but use a little wine for thy stomach's sake and thine often infirmities.",
+      "highlightedWords": [
+        {
+          "word": "wine",
+          "strongNumber": "G3631",
+          "lemma": "oinos",
+          "meaning": "wine"
+        },
+        {
+          "word": "infirmities",
+          "strongNumber": "G769",
+          "lemma": "astheneia",
+          "meaning": "weakness; illness; infirmity"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Some men's sins are open beforehand, going before to judgment; and some men they follow after.",
+      "highlightedWords": [
+        {
+          "word": "sins",
+          "strongNumber": "G266",
+          "lemma": "hamartia",
+          "meaning": "sins; acts of wrongdoing"
+        },
+        {
+          "word": "judgment",
+          "strongNumber": "G2920",
+          "lemma": "krisis",
+          "meaning": "judgment; decision; tribunal"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Likewise also the good works of some are manifest beforehand; and they that are otherwise cannot be hid.",
+      "highlightedWords": [
+        {
+          "word": "works",
+          "strongNumber": "G2041",
+          "lemma": "ergon",
+          "meaning": "works; deeds; actions"
+        },
+        {
+          "word": "manifest",
+          "strongNumber": "G5318",
+          "lemma": "phaneros",
+          "meaning": "manifest; evident; openly known"
+        }
+      ]
+    }
+  ]
+}

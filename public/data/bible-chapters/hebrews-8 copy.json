@@ -1,0 +1,258 @@
+{
+  "book": "Hebrews",
+  "chapter": 8,
+  "chapterTheme": {
+    "twoWordSummary": "New Covenant",
+    "themeWords": [
+      {
+        "word": "covenant",
+        "strongNumber": "G1242",
+        "lemma": "diatheke",
+        "meaning": "a covenant, testament, arrangement"
+      },
+      {
+        "word": "priest",
+        "strongNumber": "G749",
+        "lemma": "archiereus",
+        "meaning": "a high priest, chief priest"
+      }
+    ]
+  },
+  "sentenceTheme": "Jesus, our exalted High Priest, mediates a better covenant established on better promises, fulfilling and surpassing the old.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Now of the things which we have spoken this is the sum: We have such an high priest, who is set on the right hand of the throne of the Majesty in the heavens;",
+      "highlightedWords": [
+        {
+          "word": "priest",
+          "strongNumber": "G749",
+          "lemma": "archiereus",
+          "meaning": "high priest, chief priest"
+        },
+        {
+          "word": "throne",
+          "strongNumber": "G2362",
+          "lemma": "thronos",
+          "meaning": "throne, seat of authority"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "A minister of the sanctuary, and of the true tabernacle, which the Lord pitched, and not man.",
+      "highlightedWords": [
+        {
+          "word": "minister",
+          "strongNumber": "G3011",
+          "lemma": "leitourgos",
+          "meaning": "a public servant, minister"
+        },
+        {
+          "word": "tabernacle",
+          "strongNumber": "G4633",
+          "lemma": "skene",
+          "meaning": "tent, tabernacle, dwelling"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "For every high priest is ordained to offer gifts and sacrifices: wherefore it is of necessity that this man have somewhat also to offer.",
+      "highlightedWords": [
+        {
+          "word": "offer",
+          "strongNumber": "G4374",
+          "lemma": "prosphero",
+          "meaning": "to bring to, offer, present"
+        },
+        {
+          "word": "sacrifices",
+          "strongNumber": "G2378",
+          "lemma": "thusia",
+          "meaning": "sacrifice, offering"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "For if he were on earth, he should not be a priest, seeing that there are priests that offer gifts according to the law:",
+      "highlightedWords": [
+        {
+          "word": "priest",
+          "strongNumber": "G2409",
+          "lemma": "hiereus",
+          "meaning": "priest, sacred official"
+        },
+        {
+          "word": "law",
+          "strongNumber": "G3551",
+          "lemma": "nomos",
+          "meaning": "law, principle, custom"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Who serve unto the example and shadow of heavenly things, as Moses was admonished of God when he was about to make the tabernacle: for, See, saith he, that thou make all things according to the pattern shewed to thee in the mount.",
+      "highlightedWords": [
+        {
+          "word": "shadow",
+          "strongNumber": "G4639",
+          "lemma": "skia",
+          "meaning": "shadow, outline, foreshadow"
+        },
+        {
+          "word": "pattern",
+          "strongNumber": "G5179",
+          "lemma": "typos",
+          "meaning": "type, pattern, model"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "But now hath he obtained a more excellent ministry, by how much also he is the mediator of a better covenant, which was established upon better promises.",
+      "highlightedWords": [
+        {
+          "word": "mediator",
+          "strongNumber": "G3316",
+          "lemma": "mesites",
+          "meaning": "mediator, go-between, arbitrator"
+        },
+        {
+          "word": "covenant",
+          "strongNumber": "G1242",
+          "lemma": "diatheke",
+          "meaning": "covenant, testament, arrangement"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "For if that first covenant had been faultless, then should no place have been sought for the second.",
+      "highlightedWords": [
+        {
+          "word": "covenant",
+          "strongNumber": "G1242",
+          "lemma": "diatheke",
+          "meaning": "covenant, testament, arrangement"
+        },
+        {
+          "word": "second",
+          "strongNumber": "G1208",
+          "lemma": "deuteros",
+          "meaning": "second, next in order"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "For finding fault with them, he saith, Behold, the days come, saith the Lord, when I will make a new covenant with the house of Israel and with the house of Judah:",
+      "highlightedWords": [
+        {
+          "word": "new",
+          "strongNumber": "G2537",
+          "lemma": "kainos",
+          "meaning": "new in kind, fresh"
+        },
+        {
+          "word": "covenant",
+          "strongNumber": "G1242",
+          "lemma": "diatheke",
+          "meaning": "covenant, testament, arrangement"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Not according to the covenant that I made with their fathers in the day when I took them by the hand to lead them out of the land of Egypt; because they continued not in my covenant, and I regarded them not, saith the Lord.",
+      "highlightedWords": [
+        {
+          "word": "fathers",
+          "strongNumber": "G3962",
+          "lemma": "pater",
+          "meaning": "father, ancestor"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "G125",
+          "lemma": "Aigyptos",
+          "meaning": "Egypt"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "For this is the covenant that I will make with the house of Israel after those days, saith the Lord; I will put my laws into their mind, and write them in their hearts: and I will be to them a God, and they shall be to me a people:",
+      "highlightedWords": [
+        {
+          "word": "laws",
+          "strongNumber": "G3551",
+          "lemma": "nomos",
+          "meaning": "law, principle, rule"
+        },
+        {
+          "word": "hearts",
+          "strongNumber": "G2588",
+          "lemma": "kardia",
+          "meaning": "heart, inner self"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And they shall not teach every man his neighbour, and every man his brother, saying, Know the Lord: for all shall know me, from the least to the greatest.",
+      "highlightedWords": [
+        {
+          "word": "teach",
+          "strongNumber": "G1321",
+          "lemma": "didasko",
+          "meaning": "to teach, instruct"
+        },
+        {
+          "word": "neighbour",
+          "strongNumber": "G4139",
+          "lemma": "plesion",
+          "meaning": "neighbor, one nearby"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "For I will be merciful to their unrighteousness, and their sins and their iniquities will I remember no more.",
+      "highlightedWords": [
+        {
+          "word": "merciful",
+          "strongNumber": "G2436",
+          "lemma": "hileos",
+          "meaning": "gracious, propitious, merciful"
+        },
+        {
+          "word": "sins",
+          "strongNumber": "G266",
+          "lemma": "hamartia",
+          "meaning": "sin, wrongdoing, missing the mark"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "In that he saith, A new covenant, he hath made the first old. Now that which decayeth and waxeth old is ready to vanish away.",
+      "highlightedWords": [
+        {
+          "word": "covenant",
+          "strongNumber": "G1242",
+          "lemma": "diatheke",
+          "meaning": "covenant, testament, arrangement"
+        },
+        {
+          "word": "decayeth",
+          "strongNumber": "G3822",
+          "lemma": "palaioo",
+          "meaning": "to make/become old, obsolete"
+        }
+      ]
+    }
+  ]
+}

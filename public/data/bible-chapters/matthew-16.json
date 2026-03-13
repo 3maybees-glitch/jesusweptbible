@@ -1,0 +1,528 @@
+{
+  "book": "Matthew",
+  "chapter": 16,
+  "chapterTheme": {
+    "twoWordSummary": "Revelation Discipleship",
+    "themeWords": [
+      {
+        "word": "Christ",
+        "strongNumber": "G5547",
+        "lemma": "Christos",
+        "meaning": "Anointed One, Messiah"
+      },
+      {
+        "word": "cross",
+        "strongNumber": "G4716",
+        "lemma": "stauros",
+        "meaning": "cross, stake"
+      }
+    ]
+  },
+  "sentenceTheme": "Jesus warns about corrupt teaching, Peter confesses Him as the Christ, Jesus foretells His suffering and resurrection, and calls followers to self-denial and cross-bearing.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "The Pharisees also with the Sadducees came, and tempting desired him that he would shew them a sign from heaven.",
+      "highlightedWords": [
+        {
+          "word": "Pharisees",
+          "strongNumber": "G5330",
+          "lemma": "Pharisaios",
+          "meaning": "a Pharisee, a separatist"
+        },
+        {
+          "word": "Sadducees",
+          "strongNumber": "G4523",
+          "lemma": "Saddoukaios",
+          "meaning": "a Sadducee, member of a Jewish sect"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "He answered and said unto them, When it is evening, ye say, It will be fair weather: for the sky is red.",
+      "highlightedWords": [
+        {
+          "word": "evening",
+          "strongNumber": "G3798",
+          "lemma": "opsios",
+          "meaning": "evening, late in the day"
+        },
+        {
+          "word": "sky",
+          "strongNumber": "G3772",
+          "lemma": "ouranos",
+          "meaning": "heaven, sky"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And in the morning, It will be foul weather to day: for the sky is red and lowring. O ye hypocrites, ye can discern the face of the sky; but can ye not discern the signs of the times?",
+      "highlightedWords": [
+        {
+          "word": "hypocrites",
+          "strongNumber": "G5273",
+          "lemma": "hypokritēs",
+          "meaning": "hypocrite, pretender"
+        },
+        {
+          "word": "times",
+          "strongNumber": "G2540",
+          "lemma": "kairos",
+          "meaning": "appointed time, season"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "A wicked and adulterous generation seeketh after a sign; and there shall no sign be given unto it, but the sign of the prophet Jonas. And he left them, and departed.",
+      "highlightedWords": [
+        {
+          "word": "sign",
+          "strongNumber": "G4592",
+          "lemma": "sēmeion",
+          "meaning": "sign, token, miracle"
+        },
+        {
+          "word": "Jonas",
+          "strongNumber": "G2495",
+          "lemma": "Iōnas",
+          "meaning": "Jonah"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And when his disciples were come to the other side, they had forgotten to take bread.",
+      "highlightedWords": [
+        {
+          "word": "disciples",
+          "strongNumber": "G3101",
+          "lemma": "mathētēs",
+          "meaning": "disciple, learner, follower"
+        },
+        {
+          "word": "bread",
+          "strongNumber": "G740",
+          "lemma": "artos",
+          "meaning": "bread, loaf"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Then Jesus said unto them, Take heed and beware of the leaven of the Pharisees and of the Sadducees.",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus; Yahweh is salvation"
+        },
+        {
+          "word": "leaven",
+          "strongNumber": "G2219",
+          "lemma": "zymē",
+          "meaning": "leaven, ferment"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And they reasoned among themselves, saying, It is because we have taken no bread.",
+      "highlightedWords": [
+        {
+          "word": "reasoned",
+          "strongNumber": "G1260",
+          "lemma": "dialogizomai",
+          "meaning": "to reason, discuss, consider"
+        },
+        {
+          "word": "bread",
+          "strongNumber": "G740",
+          "lemma": "artos",
+          "meaning": "bread, loaf"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Which when Jesus perceived, he said unto them, O ye of little faith, why reason ye among yourselves, because ye have brought no bread?",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus; Yahweh is salvation"
+        },
+        {
+          "word": "perceived",
+          "strongNumber": "G1097",
+          "lemma": "ginōskō",
+          "meaning": "to know, perceive, understand"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Do ye not yet understand, neither remember the five loaves of the five thousand, and how many baskets ye took up?",
+      "highlightedWords": [
+        {
+          "word": "five",
+          "strongNumber": "G4002",
+          "lemma": "pente",
+          "meaning": "five"
+        },
+        {
+          "word": "loaves",
+          "strongNumber": "G740",
+          "lemma": "artos",
+          "meaning": "bread, loaf"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Neither the seven loaves of the four thousand, and how many baskets ye took up?",
+      "highlightedWords": [
+        {
+          "word": "seven",
+          "strongNumber": "G2033",
+          "lemma": "hepta",
+          "meaning": "seven"
+        },
+        {
+          "word": "baskets",
+          "strongNumber": "G4711",
+          "lemma": "spyris",
+          "meaning": "large basket, hamper"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "How is it that ye do not understand that I spake it not to you concerning bread, that ye should beware of the leaven of the Pharisees and of the Sadducees?",
+      "highlightedWords": [
+        {
+          "word": "leaven",
+          "strongNumber": "G2219",
+          "lemma": "zymē",
+          "meaning": "leaven, ferment"
+        },
+        {
+          "word": "Pharisees",
+          "strongNumber": "G5330",
+          "lemma": "Pharisaios",
+          "meaning": "a Pharisee, a separatist"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Then understood they how that he bade them not beware of the leaven of bread, but of the doctrine of the Pharisees and of the Sadducees.",
+      "highlightedWords": [
+        {
+          "word": "doctrine",
+          "strongNumber": "G1322",
+          "lemma": "didachē",
+          "meaning": "teaching, doctrine"
+        },
+        {
+          "word": "Sadducees",
+          "strongNumber": "G4523",
+          "lemma": "Saddoukaios",
+          "meaning": "a Sadducee, member of a Jewish sect"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "When Jesus came into the coasts of Caesarea Philippi, he asked his disciples, saying, Whom do men say that I the Son of man am?",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus; Yahweh is salvation"
+        },
+        {
+          "word": "disciples",
+          "strongNumber": "G3101",
+          "lemma": "mathētēs",
+          "meaning": "disciple, learner, follower"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And they said, Some say that thou art John the Baptist: some, Elias; and others, Jeremias, or one of the prophets.",
+      "highlightedWords": [
+        {
+          "word": "John",
+          "strongNumber": "G2491",
+          "lemma": "Iōannēs",
+          "meaning": "John"
+        },
+        {
+          "word": "prophets",
+          "strongNumber": "G4396",
+          "lemma": "prophētēs",
+          "meaning": "prophet"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "He saith unto them, But whom say ye that I am?",
+      "highlightedWords": [
+        {
+          "word": "say",
+          "strongNumber": "G3004",
+          "lemma": "legō",
+          "meaning": "to say, speak"
+        },
+        {
+          "word": "am",
+          "strongNumber": "G1510",
+          "lemma": "eimi",
+          "meaning": "to be, I am"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And Simon Peter answered and said, Thou art the Christ, the Son of the living God.",
+      "highlightedWords": [
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "Anointed One, Messiah"
+        },
+        {
+          "word": "Son",
+          "strongNumber": "G5207",
+          "lemma": "huios",
+          "meaning": "son"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And Jesus answered and said unto him, Blessed art thou, Simon Barjona: for flesh and blood hath not revealed it unto thee, but my Father which is in heaven.",
+      "highlightedWords": [
+        {
+          "word": "Blessed",
+          "strongNumber": "G3107",
+          "lemma": "makarios",
+          "meaning": "blessed, happy"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "G3772",
+          "lemma": "ouranos",
+          "meaning": "heaven, sky"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And I say also unto thee, That thou art Peter, and upon this rock I will build my church; and the gates of hell shall not prevail against it.",
+      "highlightedWords": [
+        {
+          "word": "church",
+          "strongNumber": "G1577",
+          "lemma": "ekklēsia",
+          "meaning": "assembly, congregation, church"
+        },
+        {
+          "word": "hell",
+          "strongNumber": "G86",
+          "lemma": "Hadēs",
+          "meaning": "Hades, the realm of the dead"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And I will give unto thee the keys of the kingdom of heaven: and whatsoever thou shalt bind on earth shall be bound in heaven: and whatsoever thou shalt loose on earth shall be loosed in heaven.",
+      "highlightedWords": [
+        {
+          "word": "keys",
+          "strongNumber": "G2807",
+          "lemma": "kleis",
+          "meaning": "key"
+        },
+        {
+          "word": "kingdom",
+          "strongNumber": "G932",
+          "lemma": "basileia",
+          "meaning": "kingdom, reign, rule"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Then charged he his disciples that they should tell no man that he was Jesus the Christ.",
+      "highlightedWords": [
+        {
+          "word": "disciples",
+          "strongNumber": "G3101",
+          "lemma": "mathētēs",
+          "meaning": "disciple, learner, follower"
+        },
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "Anointed One, Messiah"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "From that time forth began Jesus to shew unto his disciples, how that he must go unto Jerusalem, and suffer many things of the elders and chief priests and scribes, and be killed, and be raised again the third day.",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "G2419",
+          "lemma": "Hierosolyma",
+          "meaning": "Jerusalem"
+        },
+        {
+          "word": "suffer",
+          "strongNumber": "G3958",
+          "lemma": "paschō",
+          "meaning": "to suffer"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Then Peter took him, and began to rebuke him, saying, Be it far from thee, Lord: this shall not be unto thee.",
+      "highlightedWords": [
+        {
+          "word": "rebuke",
+          "strongNumber": "G2008",
+          "lemma": "epitimaō",
+          "meaning": "to rebuke, warn, charge"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kurios",
+          "meaning": "lord, master"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "But he turned, and said unto Peter, Get thee behind me, Satan: thou art an offence unto me: for thou savourest not the things that be of God, but those that be of men.",
+      "highlightedWords": [
+        {
+          "word": "Satan",
+          "strongNumber": "G4567",
+          "lemma": "Satanas",
+          "meaning": "Satan, adversary"
+        },
+        {
+          "word": "offence",
+          "strongNumber": "G4625",
+          "lemma": "skandalon",
+          "meaning": "stumbling block, offense"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Then said Jesus unto his disciples, If any man will come after me, let him deny himself, and take up his cross, and follow me.",
+      "highlightedWords": [
+        {
+          "word": "deny",
+          "strongNumber": "G533",
+          "lemma": "aparneomai",
+          "meaning": "to deny, disown"
+        },
+        {
+          "word": "cross",
+          "strongNumber": "G4716",
+          "lemma": "stauros",
+          "meaning": "cross, stake"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "For whosoever will save his life shall lose it: and whosoever will lose his life for my sake shall find it.",
+      "highlightedWords": [
+        {
+          "word": "life",
+          "strongNumber": "G5590",
+          "lemma": "psychē",
+          "meaning": "soul, life, self"
+        },
+        {
+          "word": "lose",
+          "strongNumber": "G622",
+          "lemma": "apollymi",
+          "meaning": "to destroy, lose, perish"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "For what is a man profited, if he shall gain the whole world, and lose his own soul? or what shall a man give in exchange for his soul?",
+      "highlightedWords": [
+        {
+          "word": "world",
+          "strongNumber": "G2889",
+          "lemma": "kosmos",
+          "meaning": "world, universe, world-order"
+        },
+        {
+          "word": "soul",
+          "strongNumber": "G5590",
+          "lemma": "psychē",
+          "meaning": "soul, life, self"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "For the Son of man shall come in the glory of his Father with his angels; and then he shall reward every man according to his works.",
+      "highlightedWords": [
+        {
+          "word": "glory",
+          "strongNumber": "G1391",
+          "lemma": "doxa",
+          "meaning": "glory, honor, splendor"
+        },
+        {
+          "word": "angels",
+          "strongNumber": "G32",
+          "lemma": "angelos",
+          "meaning": "messenger, angel"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "Verily I say unto you, There be some standing here, which shall not taste of death, till they see the Son of man coming in his kingdom.",
+      "highlightedWords": [
+        {
+          "word": "death",
+          "strongNumber": "G2288",
+          "lemma": "thanatos",
+          "meaning": "death"
+        },
+        {
+          "word": "kingdom",
+          "strongNumber": "G932",
+          "lemma": "basileia",
+          "meaning": "kingdom, reign, rule"
+        }
+      ]
+    }
+  ]
+}

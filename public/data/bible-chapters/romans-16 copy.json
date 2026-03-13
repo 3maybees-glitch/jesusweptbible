@@ -1,0 +1,510 @@
+{
+  "book": "Romans",
+  "chapter": 16,
+  "chapterTheme": {
+    "twoWordSummary": "Final Greetings",
+    "themeWords": [
+      {
+        "word": "greet",
+        "strongNumber": "G782",
+        "lemma": "aspazomai",
+        "meaning": "to greet, welcome, salute"
+      },
+      {
+        "word": "church",
+        "strongNumber": "G1577",
+        "lemma": "ekklesia",
+        "meaning": "assembly, congregation, called-out ones; church"
+      }
+    ]
+  },
+  "sentenceTheme": "Paul commends Phebe, sends many greetings to coworkers, warns against divisive teachers, and concludes with a doxology to God through Jesus Christ.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "I commend unto you Phebe our sister, which is a servant of the church which is at Cenchrea:",
+      "highlightedWords": [
+        {
+          "word": "servant",
+          "strongNumber": "G1249",
+          "lemma": "diakonos",
+          "meaning": "servant, minister, deacon"
+        },
+        {
+          "word": "church",
+          "strongNumber": "G1577",
+          "lemma": "ekklesia",
+          "meaning": "assembly, congregation, called-out ones; church"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "That ye receive her in the Lord, as becometh saints, and that ye assist her in whatsoever business she hath need of you: for she hath been a succourer of many, and of myself also.",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "lord, master, owner"
+        },
+        {
+          "word": "saints",
+          "strongNumber": "G40",
+          "lemma": "hagios",
+          "meaning": "holy, set apart; holy ones, saints"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Greet Priscilla and Aquila my helpers in Christ Jesus:",
+      "highlightedWords": [
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "Anointed One, Messiah; Christ"
+        },
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iesous",
+          "meaning": "Jesus, Joshua; Yahweh is salvation"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Who have for my life laid down their own necks: unto whom not only I give thanks, but also all the churches of the Gentiles.",
+      "highlightedWords": [
+        {
+          "word": "churches",
+          "strongNumber": "G1577",
+          "lemma": "ekklesia",
+          "meaning": "assemblies, congregations; churches"
+        },
+        {
+          "word": "Gentiles",
+          "strongNumber": "G1484",
+          "lemma": "ethnos",
+          "meaning": "nation, people; Gentiles"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Likewise greet the church that is in their house. Salute my wellbeloved Epaenetus, who is the firstfruits of Achaia unto Christ.",
+      "highlightedWords": [
+        {
+          "word": "church",
+          "strongNumber": "G1577",
+          "lemma": "ekklesia",
+          "meaning": "assembly, congregation, called-out ones; church"
+        },
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "Anointed One, Messiah; Christ"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Greet Mary, who bestowed much labour on us.",
+      "highlightedWords": [
+        {
+          "word": "Greet",
+          "strongNumber": "G782",
+          "lemma": "aspazomai",
+          "meaning": "to greet, welcome, salute"
+        },
+        {
+          "word": "labour",
+          "strongNumber": "G2872",
+          "lemma": "kopiao",
+          "meaning": "to toil, labor, grow weary"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Salute Andronicus and Junia, my kinsmen, and my fellowprisoners, who are of note among the apostles, who also were in Christ before me.",
+      "highlightedWords": [
+        {
+          "word": "apostles",
+          "strongNumber": "G652",
+          "lemma": "apostolos",
+          "meaning": "a sent one, messenger; apostle"
+        },
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "Anointed One, Messiah; Christ"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Greet Amplias my beloved in the Lord.",
+      "highlightedWords": [
+        {
+          "word": "beloved",
+          "strongNumber": "G27",
+          "lemma": "agapetos",
+          "meaning": "beloved, dearly loved"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "lord, master, owner"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Salute Urbane, our helper in Christ, and Stachys my beloved.",
+      "highlightedWords": [
+        {
+          "word": "helper",
+          "strongNumber": "G4904",
+          "lemma": "synergos",
+          "meaning": "fellow worker, helper, coworker"
+        },
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "Anointed One, Messiah; Christ"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Salute Apelles approved in Christ. Salute them which are of Aristobulus' household.",
+      "highlightedWords": [
+        {
+          "word": "approved",
+          "strongNumber": "G1384",
+          "lemma": "dokimos",
+          "meaning": "tested, proven, approved"
+        },
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "Anointed One, Messiah; Christ"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Salute Herodion my kinsman. Greet them that be of the household of Narcissus, which are in the Lord.",
+      "highlightedWords": [
+        {
+          "word": "Greet",
+          "strongNumber": "G782",
+          "lemma": "aspazomai",
+          "meaning": "to greet, welcome, salute"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "lord, master, owner"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Salute Tryphena and Tryphosa, who labour in the Lord. Salute the beloved Persis, which laboured much in the Lord.",
+      "highlightedWords": [
+        {
+          "word": "labour",
+          "strongNumber": "G2872",
+          "lemma": "kopiao",
+          "meaning": "to toil, labor, grow weary"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "lord, master, owner"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Salute Rufus chosen in the Lord, and his mother and mine.",
+      "highlightedWords": [
+        {
+          "word": "chosen",
+          "strongNumber": "G1588",
+          "lemma": "eklektos",
+          "meaning": "chosen, select; elect"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "lord, master, owner"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Salute Asyncritus, Phlegon, Hermas, Patrobas, Hermes, and the brethren which are with them.",
+      "highlightedWords": [
+        {
+          "word": "Salute",
+          "strongNumber": "G782",
+          "lemma": "aspazomai",
+          "meaning": "to greet, welcome, salute"
+        },
+        {
+          "word": "brethren",
+          "strongNumber": "G80",
+          "lemma": "adelphos",
+          "meaning": "brother, fellow believer"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Salute Philologus, and Julia, Nereus, and his sister, and Olympas, and all the saints which are with them.",
+      "highlightedWords": [
+        {
+          "word": "saints",
+          "strongNumber": "G40",
+          "lemma": "hagios",
+          "meaning": "holy, set apart; holy ones, saints"
+        },
+        {
+          "word": "Salute",
+          "strongNumber": "G782",
+          "lemma": "aspazomai",
+          "meaning": "to greet, welcome, salute"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Salute one another with an holy kiss. The churches of Christ salute you.",
+      "highlightedWords": [
+        {
+          "word": "churches",
+          "strongNumber": "G1577",
+          "lemma": "ekklesia",
+          "meaning": "assemblies, congregations; churches"
+        },
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "Anointed One, Messiah; Christ"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Now I beseech you, brethren, mark them which cause divisions and offences contrary to the doctrine which ye have learned; and avoid them.",
+      "highlightedWords": [
+        {
+          "word": "brethren",
+          "strongNumber": "G80",
+          "lemma": "adelphos",
+          "meaning": "brother, fellow believer"
+        },
+        {
+          "word": "doctrine",
+          "strongNumber": "G1322",
+          "lemma": "didache",
+          "meaning": "teaching, instruction; doctrine"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "For they that are such serve not our Lord Jesus Christ, but their own belly; and by good words and fair speeches deceive the hearts of the simple.",
+      "highlightedWords": [
+        {
+          "word": "serve",
+          "strongNumber": "G1398",
+          "lemma": "douleuo",
+          "meaning": "to serve as a slave, be in bondage to"
+        },
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iesous",
+          "meaning": "Jesus, Joshua; Yahweh is salvation"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "For your obedience is come abroad unto all men. I am glad therefore on your behalf: but yet I would have you wise unto that which is good, and simple concerning evil.",
+      "highlightedWords": [
+        {
+          "word": "obedience",
+          "strongNumber": "G5218",
+          "lemma": "hypakoe",
+          "meaning": "obedience, compliance, submission"
+        },
+        {
+          "word": "wise",
+          "strongNumber": "G4680",
+          "lemma": "sophos",
+          "meaning": "wise, skilled, learned"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And the God of peace shall bruise Satan under your feet shortly. The grace of our Lord Jesus Christ be with you. Amen.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God, deity, the Divine"
+        },
+        {
+          "word": "grace",
+          "strongNumber": "G5485",
+          "lemma": "charis",
+          "meaning": "grace, favor, gracious gift"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Timotheus my workfellow, and Lucius, and Jason, and Sosipater, my kinsmen, salute you.",
+      "highlightedWords": [
+        {
+          "word": "workfellow",
+          "strongNumber": "G4904",
+          "lemma": "synergos",
+          "meaning": "fellow worker, helper, coworker"
+        },
+        {
+          "word": "salute",
+          "strongNumber": "G782",
+          "lemma": "aspazomai",
+          "meaning": "to greet, welcome, salute"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "I Tertius, who wrote this epistle, salute you in the Lord.",
+      "highlightedWords": [
+        {
+          "word": "epistle",
+          "strongNumber": "G1992",
+          "lemma": "epistole",
+          "meaning": "letter, epistle"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "lord, master, owner"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Gaius mine host, and of the whole church, saluteth you. Erastus the chamberlain of the city saluteth you, and Quartus a brother.",
+      "highlightedWords": [
+        {
+          "word": "church",
+          "strongNumber": "G1577",
+          "lemma": "ekklesia",
+          "meaning": "assembly, congregation, called-out ones; church"
+        },
+        {
+          "word": "brother",
+          "strongNumber": "G80",
+          "lemma": "adelphos",
+          "meaning": "brother, fellow believer"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "The grace of our Lord Jesus Christ be with you all. Amen.",
+      "highlightedWords": [
+        {
+          "word": "grace",
+          "strongNumber": "G5485",
+          "lemma": "charis",
+          "meaning": "grace, favor, gracious gift"
+        },
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iesous",
+          "meaning": "Jesus, Joshua; Yahweh is salvation"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Now to him that is of power to stablish you according to my gospel, and the preaching of Jesus Christ, according to the revelation of the mystery, which was kept secret since the world began,",
+      "highlightedWords": [
+        {
+          "word": "gospel",
+          "strongNumber": "G2098",
+          "lemma": "euangelion",
+          "meaning": "good news, glad tidings; gospel"
+        },
+        {
+          "word": "mystery",
+          "strongNumber": "G3466",
+          "lemma": "mysterion",
+          "meaning": "secret, hidden plan; mystery"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "But now is made manifest, and by the scriptures of the prophets, according to the commandment of the everlasting God, made known to all nations for the obedience of faith:",
+      "highlightedWords": [
+        {
+          "word": "scriptures",
+          "strongNumber": "G1124",
+          "lemma": "graphe",
+          "meaning": "writing; Scripture"
+        },
+        {
+          "word": "prophets",
+          "strongNumber": "G4396",
+          "lemma": "prophetes",
+          "meaning": "prophet, inspired spokesman"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "To God only wise, be glory through Jesus Christ for ever. Amen.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God, deity, the Divine"
+        },
+        {
+          "word": "glory",
+          "strongNumber": "G1391",
+          "lemma": "doxa",
+          "meaning": "glory, honor, splendor"
+        }
+      ]
+    }
+  ]
+}

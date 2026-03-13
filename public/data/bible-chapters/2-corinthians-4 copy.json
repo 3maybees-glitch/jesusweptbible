@@ -1,0 +1,348 @@
+{
+  "book": "2 Corinthians",
+  "chapter": 4,
+  "chapterTheme": {
+    "twoWordSummary": "Unseen Glory",
+    "themeWords": [
+      {
+        "word": "gospel",
+        "strongNumber": "G2098",
+        "lemma": "euangelion",
+        "meaning": "good news, gospel"
+      },
+      {
+        "word": "glory",
+        "strongNumber": "G1391",
+        "lemma": "doxa",
+        "meaning": "glory, honor"
+      }
+    ]
+  },
+  "sentenceTheme": "Paul proclaims the gospel with integrity, endures suffering, and fixes hope on the unseen, eternal glory revealed in Christ.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Therefore seeing we have this ministry, as we have received mercy, we faint not;",
+      "highlightedWords": [
+        {
+          "word": "ministry",
+          "strongNumber": "G1248",
+          "lemma": "diakonia",
+          "meaning": "service, ministry"
+        },
+        {
+          "word": "mercy",
+          "strongNumber": "G1656",
+          "lemma": "eleos",
+          "meaning": "mercy, compassion"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "But have renounced the hidden things of dishonesty, not walking in craftiness, nor handling the word of God deceitfully; but by manifestation of the truth commending ourselves to every man's conscience in the sight of God.",
+      "highlightedWords": [
+        {
+          "word": "truth",
+          "strongNumber": "G225",
+          "lemma": "alētheia",
+          "meaning": "truth, reality"
+        },
+        {
+          "word": "conscience",
+          "strongNumber": "G4893",
+          "lemma": "syneidēsis",
+          "meaning": "conscience, moral awareness"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "But if our gospel be hid, it is hid to them that are lost:",
+      "highlightedWords": [
+        {
+          "word": "gospel",
+          "strongNumber": "G2098",
+          "lemma": "euangelion",
+          "meaning": "good news, gospel"
+        },
+        {
+          "word": "hid",
+          "strongNumber": "G2572",
+          "lemma": "kalyptō",
+          "meaning": "to cover, hide"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "In whom the god of this world hath blinded the minds of them which believe not, lest the light of the glorious gospel of Christ, who is the image of God, should shine unto them.",
+      "highlightedWords": [
+        {
+          "word": "god",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God, deity"
+        },
+        {
+          "word": "blinded",
+          "strongNumber": "G5186",
+          "lemma": "typhloō",
+          "meaning": "to blind, make blind"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "For we preach not ourselves, but Christ Jesus the Lord; and ourselves your servants for Jesus' sake.",
+      "highlightedWords": [
+        {
+          "word": "preach",
+          "strongNumber": "G2784",
+          "lemma": "kērussō",
+          "meaning": "to proclaim, preach"
+        },
+        {
+          "word": "servants",
+          "strongNumber": "G1401",
+          "lemma": "doulos",
+          "meaning": "slave, servant"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "For God, who commanded the light to shine out of darkness, hath shined in our hearts, to give the light of the knowledge of the glory of God in the face of Jesus Christ.",
+      "highlightedWords": [
+        {
+          "word": "light",
+          "strongNumber": "G5457",
+          "lemma": "phōs",
+          "meaning": "light"
+        },
+        {
+          "word": "knowledge",
+          "strongNumber": "G1108",
+          "lemma": "gnōsis",
+          "meaning": "knowledge, understanding"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "But we have this treasure in earthen vessels, that the excellency of the power may be of God, and not of us.",
+      "highlightedWords": [
+        {
+          "word": "treasure",
+          "strongNumber": "G2344",
+          "lemma": "thēsauros",
+          "meaning": "treasure, storehouse of wealth"
+        },
+        {
+          "word": "power",
+          "strongNumber": "G1411",
+          "lemma": "dynamis",
+          "meaning": "power, might"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "We are troubled on every side, yet not distressed; we are perplexed, but not in despair;",
+      "highlightedWords": [
+        {
+          "word": "troubled",
+          "strongNumber": "G2346",
+          "lemma": "thlibō",
+          "meaning": "to press, afflict"
+        },
+        {
+          "word": "perplexed",
+          "strongNumber": "G639",
+          "lemma": "aporeō",
+          "meaning": "to be at a loss, perplexed"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Persecuted, but not forsaken; cast down, but not destroyed;",
+      "highlightedWords": [
+        {
+          "word": "Persecuted",
+          "strongNumber": "G1377",
+          "lemma": "diōkō",
+          "meaning": "to persecute, pursue"
+        },
+        {
+          "word": "destroyed",
+          "strongNumber": "G622",
+          "lemma": "apollymi",
+          "meaning": "to destroy, ruin"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Always bearing about in the body the dying of the Lord Jesus, that the life also of Jesus might be made manifest in our body.",
+      "highlightedWords": [
+        {
+          "word": "dying",
+          "strongNumber": "G3500",
+          "lemma": "nekrōsis",
+          "meaning": "death, dying"
+        },
+        {
+          "word": "life",
+          "strongNumber": "G2222",
+          "lemma": "zōē",
+          "meaning": "life"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "For we which live are alway delivered unto death for Jesus' sake, that the life also of Jesus might be made manifest in our mortal flesh.",
+      "highlightedWords": [
+        {
+          "word": "delivered",
+          "strongNumber": "G3860",
+          "lemma": "paradidōmi",
+          "meaning": "to hand over, deliver"
+        },
+        {
+          "word": "mortal",
+          "strongNumber": "G2349",
+          "lemma": "thnētos",
+          "meaning": "mortal, subject to death"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "So then death worketh in us, but life in you.",
+      "highlightedWords": [
+        {
+          "word": "death",
+          "strongNumber": "G2288",
+          "lemma": "thanatos",
+          "meaning": "death"
+        },
+        {
+          "word": "life",
+          "strongNumber": "G2222",
+          "lemma": "zōē",
+          "meaning": "life"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "We having the same spirit of faith, according as it is written, I believed, and therefore have I spoken; we also believe, and therefore speak;",
+      "highlightedWords": [
+        {
+          "word": "spirit",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit, breath"
+        },
+        {
+          "word": "faith",
+          "strongNumber": "G4102",
+          "lemma": "pistis",
+          "meaning": "faith, trust, belief"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Knowing that he which raised up the Lord Jesus shall raise up us also by Jesus, and shall present us with you.",
+      "highlightedWords": [
+        {
+          "word": "raised",
+          "strongNumber": "G1453",
+          "lemma": "egeirō",
+          "meaning": "to raise, awaken"
+        },
+        {
+          "word": "present",
+          "strongNumber": "G3936",
+          "lemma": "paristēmi",
+          "meaning": "to present, stand beside"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "For all things are for your sakes, that the abundant grace might through the thanksgiving of many redound to the glory of God.",
+      "highlightedWords": [
+        {
+          "word": "grace",
+          "strongNumber": "G5485",
+          "lemma": "charis",
+          "meaning": "grace, favor"
+        },
+        {
+          "word": "glory",
+          "strongNumber": "G1391",
+          "lemma": "doxa",
+          "meaning": "glory, honor"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "For which cause we faint not; but though our outward man perish, yet the inward man is renewed day by day.",
+      "highlightedWords": [
+        {
+          "word": "perish",
+          "strongNumber": "G1311",
+          "lemma": "diaphtheirō",
+          "meaning": "to waste away, corrupt, destroy"
+        },
+        {
+          "word": "renewed",
+          "strongNumber": "G341",
+          "lemma": "anakainoō",
+          "meaning": "to renew, make new"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "For our light affliction, which is but for a moment, worketh for us a far more exceeding and eternal weight of glory;",
+      "highlightedWords": [
+        {
+          "word": "affliction",
+          "strongNumber": "G2347",
+          "lemma": "thlipsis",
+          "meaning": "affliction, tribulation"
+        },
+        {
+          "word": "eternal",
+          "strongNumber": "G166",
+          "lemma": "aiōnios",
+          "meaning": "eternal, age-lasting"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "While we look not at the things which are seen, but at the things which are not seen: for the things which are seen are temporal; but the things which are not seen are eternal.",
+      "highlightedWords": [
+        {
+          "word": "seen",
+          "strongNumber": "G991",
+          "lemma": "blepō",
+          "meaning": "to see, look at"
+        },
+        {
+          "word": "temporal",
+          "strongNumber": "G4340",
+          "lemma": "proskairos",
+          "meaning": "temporary, for a season"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "book": "1 Timothy",
+  "chapter": 2,
+  "chapterTheme": {
+    "twoWordSummary": "Prayer Conduct",
+    "themeWords": [
+      {
+        "word": "prayers",
+        "strongNumber": "G4335",
+        "lemma": "proseuche",
+        "meaning": "prayer, petition"
+      },
+      {
+        "word": "godliness",
+        "strongNumber": "G2150",
+        "lemma": "eusebeia",
+        "meaning": "piety, reverence toward God"
+      }
+    ]
+  },
+  "sentenceTheme": "Paul instructs on public prayer, godly living, and the proper conduct of men and women in worship.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "I exhort therefore, that, first of all, supplications, prayers, intercessions, and giving of thanks, be made for all men;",
+      "highlightedWords": [
+        {
+          "word": "supplications",
+          "strongNumber": "G1162",
+          "lemma": "deesis",
+          "meaning": "earnest requests"
+        },
+        {
+          "word": "intercessions",
+          "strongNumber": "G1783",
+          "lemma": "enteuxis",
+          "meaning": "petitions on behalf of others"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "For kings, and for all that are in authority; that we may lead a quiet and peaceable life in all godliness and honesty.",
+      "highlightedWords": [
+        {
+          "word": "kings",
+          "strongNumber": "G935",
+          "lemma": "basileus",
+          "meaning": "sovereign rulers"
+        },
+        {
+          "word": "godliness",
+          "strongNumber": "G2150",
+          "lemma": "eusebeia",
+          "meaning": "piety, reverence toward God"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "For this is good and acceptable in the sight of God our Saviour;",
+      "highlightedWords": [
+        {
+          "word": "acceptable",
+          "strongNumber": "G587",
+          "lemma": "apodektos",
+          "meaning": "pleasing, welcome"
+        },
+        {
+          "word": "Saviour",
+          "strongNumber": "G4990",
+          "lemma": "soter",
+          "meaning": "deliverer, rescuer"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Who will have all men to be saved, and to come unto the knowledge of the truth.",
+      "highlightedWords": [
+        {
+          "word": "saved",
+          "strongNumber": "G4982",
+          "lemma": "sozo",
+          "meaning": "to rescue, make safe"
+        },
+        {
+          "word": "knowledge",
+          "strongNumber": "G1922",
+          "lemma": "epignosis",
+          "meaning": "full knowledge, recognition"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "For there is one God, and one mediator between God and men, the man Christ Jesus;",
+      "highlightedWords": [
+        {
+          "word": "mediator",
+          "strongNumber": "G3316",
+          "lemma": "mesites",
+          "meaning": "go-between, arbitrator"
+        },
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "Anointed One, Messiah"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Who gave himself a ransom for all, to be testified in due time.",
+      "highlightedWords": [
+        {
+          "word": "ransom",
+          "strongNumber": "G487",
+          "lemma": "antilutron",
+          "meaning": "price of release"
+        },
+        {
+          "word": "testified",
+          "strongNumber": "G3142",
+          "lemma": "martyrion",
+          "meaning": "testimony, witness"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Whereunto I am ordained a preacher, and an apostle, (I speak the truth in Christ, and lie not;) a teacher of the Gentiles in faith and verity.",
+      "highlightedWords": [
+        {
+          "word": "apostle",
+          "strongNumber": "G652",
+          "lemma": "apostolos",
+          "meaning": "sent one, messenger"
+        },
+        {
+          "word": "Gentiles",
+          "strongNumber": "G1484",
+          "lemma": "ethnos",
+          "meaning": "nations, non-Jews"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "I will therefore that men pray every where, lifting up holy hands, without wrath and doubting.",
+      "highlightedWords": [
+        {
+          "word": "pray",
+          "strongNumber": "G4336",
+          "lemma": "proseuchomai",
+          "meaning": "to offer prayer"
+        },
+        {
+          "word": "wrath",
+          "strongNumber": "G3709",
+          "lemma": "orge",
+          "meaning": "anger, indignation"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "In like manner also, that women adorn themselves in modest apparel, with shamefacedness and sobriety; not with broided hair, or gold, or pearls, or costly array;",
+      "highlightedWords": [
+        {
+          "word": "adorn",
+          "strongNumber": "G2885",
+          "lemma": "kosmeo",
+          "meaning": "to arrange, decorate"
+        },
+        {
+          "word": "sobriety",
+          "strongNumber": "G4997",
+          "lemma": "sophrosyne",
+          "meaning": "soundness of mind, self-control"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "But (which becometh women professing godliness) with good works.",
+      "highlightedWords": [
+        {
+          "word": "godliness",
+          "strongNumber": "G2150",
+          "lemma": "eusebeia",
+          "meaning": "piety, reverence toward God"
+        },
+        {
+          "word": "works",
+          "strongNumber": "G2041",
+          "lemma": "ergon",
+          "meaning": "deeds, actions"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Let the woman learn in silence with all subjection.",
+      "highlightedWords": [
+        {
+          "word": "silence",
+          "strongNumber": "G2271",
+          "lemma": "hesychia",
+          "meaning": "quietness, tranquility"
+        },
+        {
+          "word": "subjection",
+          "strongNumber": "G5292",
+          "lemma": "hypotage",
+          "meaning": "submission"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "But I suffer not a woman to teach, nor to usurp authority over the man, but to be in silence.",
+      "highlightedWords": [
+        {
+          "word": "teach",
+          "strongNumber": "G1321",
+          "lemma": "didasko",
+          "meaning": "to instruct"
+        },
+        {
+          "word": "usurp authority",
+          "strongNumber": "G831",
+          "lemma": "authenteo",
+          "meaning": "to domineer, exercise authority"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "For Adam was first formed, then Eve.",
+      "highlightedWords": [
+        {
+          "word": "Adam",
+          "strongNumber": "G76",
+          "lemma": "Adam",
+          "meaning": "the first man"
+        },
+        {
+          "word": "Eve",
+          "strongNumber": "G2096",
+          "lemma": "Eua",
+          "meaning": "the first woman"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And Adam was not deceived, but the woman being deceived was in the transgression.",
+      "highlightedWords": [
+        {
+          "word": "deceived",
+          "strongNumber": "G1818",
+          "lemma": "exapatao",
+          "meaning": "to thoroughly mislead"
+        },
+        {
+          "word": "transgression",
+          "strongNumber": "G3847",
+          "lemma": "parabasis",
+          "meaning": "violation of law"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Notwithstanding she shall be saved in childbearing, if they continue in faith and charity and holiness with sobriety.",
+      "highlightedWords": [
+        {
+          "word": "childbearing",
+          "strongNumber": "G5042",
+          "lemma": "teknogonia",
+          "meaning": "bearing of children"
+        },
+        {
+          "word": "charity",
+          "strongNumber": "G26",
+          "lemma": "agape",
+          "meaning": "love"
+        }
+      ]
+    }
+  ]
+}

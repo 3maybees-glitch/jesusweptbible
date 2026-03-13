@@ -1,0 +1,1464 @@
+{
+  "book": "Luke",
+  "chapter": 1,
+  "chapterTheme": {
+    "twoWordSummary": "Divine Announcements",
+    "themeWords": [
+      {
+        "word": "angel",
+        "strongNumber": "G32",
+        "lemma": "angelos",
+        "meaning": "messenger, angel"
+      },
+      {
+        "word": "salvation",
+        "strongNumber": "G4991",
+        "lemma": "sōtēria",
+        "meaning": "deliverance, salvation"
+      }
+    ]
+  },
+  "sentenceTheme": "Gabriel announces the births of John and Jesus, Mary visits Elisabeth and magnifies the Lord, and John is born with Zacharias prophesying his mission.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Forasmuch as many have taken in hand to set forth in order a declaration of those things which are most surely believed among us,",
+      "highlightedWords": [
+        {
+          "word": "many",
+          "strongNumber": "G4183",
+          "lemma": "polys",
+          "meaning": "much, many"
+        },
+        {
+          "word": "declaration",
+          "strongNumber": "G1335",
+          "lemma": "diēgēsis",
+          "meaning": "a narrative, account"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Even as they delivered them unto us, which from the beginning were eyewitnesses, and ministers of the word;",
+      "highlightedWords": [
+        {
+          "word": "eyewitnesses",
+          "strongNumber": "G845",
+          "lemma": "autoptēs",
+          "meaning": "an eyewitness, one who has seen for himself"
+        },
+        {
+          "word": "word",
+          "strongNumber": "G3056",
+          "lemma": "logos",
+          "meaning": "word, message, matter"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "It seemed good to me also, having had perfect understanding of all things from the very first, to write unto thee in order, most excellent Theophilus,",
+      "highlightedWords": [
+        {
+          "word": "order",
+          "strongNumber": "G2517",
+          "lemma": "kathexēs",
+          "meaning": "in order, in sequence"
+        },
+        {
+          "word": "Theophilus",
+          "strongNumber": "G2321",
+          "lemma": "Theophilos",
+          "meaning": "friend of God"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "That thou mightest know the certainty of those things, wherein thou hast been instructed.",
+      "highlightedWords": [
+        {
+          "word": "certainty",
+          "strongNumber": "G803",
+          "lemma": "asphaleia",
+          "meaning": "certainty, security"
+        },
+        {
+          "word": "instructed",
+          "strongNumber": "G2727",
+          "lemma": "katēcheō",
+          "meaning": "to teach orally, instruct"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "There was in the days of Herod, the king of Judaea, a certain priest named Zacharias, of the course of Abia: and his wife was of the daughters of Aaron, and her name was Elisabeth.",
+      "highlightedWords": [
+        {
+          "word": "Herod",
+          "strongNumber": "G2264",
+          "lemma": "Hērōdēs",
+          "meaning": "Herod, name of several rulers"
+        },
+        {
+          "word": "priest",
+          "strongNumber": "G2409",
+          "lemma": "hiereus",
+          "meaning": "a priest"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And they were both righteous before God, walking in all the commandments and ordinances of the Lord blameless.",
+      "highlightedWords": [
+        {
+          "word": "righteous",
+          "strongNumber": "G1342",
+          "lemma": "dikaios",
+          "meaning": "upright, just, righteous"
+        },
+        {
+          "word": "commandments",
+          "strongNumber": "G1785",
+          "lemma": "entolē",
+          "meaning": "command, precept"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And they had no child, because that Elisabeth was barren, and they both were now well stricken in years.",
+      "highlightedWords": [
+        {
+          "word": "child",
+          "strongNumber": "G5043",
+          "lemma": "teknon",
+          "meaning": "child, offspring"
+        },
+        {
+          "word": "barren",
+          "strongNumber": "G4723",
+          "lemma": "steira",
+          "meaning": "barren, sterile"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And it came to pass, that while he executed the priest's office before God in the order of his course,",
+      "highlightedWords": [
+        {
+          "word": "priest's",
+          "strongNumber": "G2409",
+          "lemma": "hiereus",
+          "meaning": "pertaining to a priest"
+        },
+        {
+          "word": "course",
+          "strongNumber": "G2183",
+          "lemma": "ephēmeria",
+          "meaning": "a division (of priests), course"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "According to the custom of the priest's office, his lot was to burn incense when he went into the temple of the Lord.",
+      "highlightedWords": [
+        {
+          "word": "incense",
+          "strongNumber": "G2368",
+          "lemma": "thumiama",
+          "meaning": "incense, incense offering"
+        },
+        {
+          "word": "temple",
+          "strongNumber": "G3485",
+          "lemma": "naos",
+          "meaning": "sanctuary, inner temple"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And the whole multitude of the people were praying without at the time of incense.",
+      "highlightedWords": [
+        {
+          "word": "multitude",
+          "strongNumber": "G3793",
+          "lemma": "ochlos",
+          "meaning": "crowd, multitude"
+        },
+        {
+          "word": "praying",
+          "strongNumber": "G4336",
+          "lemma": "proseuchomai",
+          "meaning": "to pray"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And there appeared unto him an angel of the Lord standing on the right side of the altar of incense.",
+      "highlightedWords": [
+        {
+          "word": "angel",
+          "strongNumber": "G32",
+          "lemma": "angelos",
+          "meaning": "messenger, angel"
+        },
+        {
+          "word": "altar",
+          "strongNumber": "G2379",
+          "lemma": "thusiastērion",
+          "meaning": "altar"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And when Zacharias saw him, he was troubled, and fear fell upon him.",
+      "highlightedWords": [
+        {
+          "word": "troubled",
+          "strongNumber": "G5015",
+          "lemma": "tarassō",
+          "meaning": "to agitate, trouble"
+        },
+        {
+          "word": "fear",
+          "strongNumber": "G5401",
+          "lemma": "phobos",
+          "meaning": "fear, terror, reverence"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "But the angel said unto him, Fear not, Zacharias: for thy prayer is heard; and thy wife Elisabeth shall bear thee a son, and thou shalt call his name John.",
+      "highlightedWords": [
+        {
+          "word": "prayer",
+          "strongNumber": "G4335",
+          "lemma": "proseuchē",
+          "meaning": "prayer"
+        },
+        {
+          "word": "John",
+          "strongNumber": "G2491",
+          "lemma": "Iōannēs",
+          "meaning": "Yahweh is gracious"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And thou shalt have joy and gladness; and many shall rejoice at his birth.",
+      "highlightedWords": [
+        {
+          "word": "joy",
+          "strongNumber": "G5479",
+          "lemma": "chara",
+          "meaning": "joy, delight"
+        },
+        {
+          "word": "rejoice",
+          "strongNumber": "G5463",
+          "lemma": "chairō",
+          "meaning": "to rejoice, be glad"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "For he shall be great in the sight of the Lord, and shall drink neither wine nor strong drink; and he shall be filled with the Holy Ghost, even from his mother's womb.",
+      "highlightedWords": [
+        {
+          "word": "wine",
+          "strongNumber": "G3631",
+          "lemma": "oinos",
+          "meaning": "wine"
+        },
+        {
+          "word": "Holy",
+          "strongNumber": "G40",
+          "lemma": "hagios",
+          "meaning": "holy, set apart"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And many of the children of Israel shall he turn to the Lord their God.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "G2474",
+          "lemma": "Israēl",
+          "meaning": "Israel"
+        },
+        {
+          "word": "turn",
+          "strongNumber": "G1994",
+          "lemma": "epistrephō",
+          "meaning": "to turn, return"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And he shall go before him in the spirit and power of Elias, to turn the hearts of the fathers to the children, and the disobedient to the wisdom of the just; to make ready a people prepared for the Lord.",
+      "highlightedWords": [
+        {
+          "word": "spirit",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit, breath, wind"
+        },
+        {
+          "word": "Elias",
+          "strongNumber": "G2243",
+          "lemma": "Ēlias",
+          "meaning": "Elijah"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And Zacharias said unto the angel, Whereby shall I know this? for I am an old man, and my wife well stricken in years.",
+      "highlightedWords": [
+        {
+          "word": "angel",
+          "strongNumber": "G32",
+          "lemma": "angelos",
+          "meaning": "messenger, angel"
+        },
+        {
+          "word": "years",
+          "strongNumber": "G2094",
+          "lemma": "etos",
+          "meaning": "year"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And the angel answering said unto him, I am Gabriel, that stand in the presence of God; and am sent to speak unto thee, and to shew thee these glad tidings.",
+      "highlightedWords": [
+        {
+          "word": "Gabriel",
+          "strongNumber": "G1043",
+          "lemma": "Gabriēl",
+          "meaning": "man of God"
+        },
+        {
+          "word": "glad tidings",
+          "strongNumber": "G2097",
+          "lemma": "euangelizomai",
+          "meaning": "to announce good news, proclaim the gospel"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And, behold, thou shalt be dumb, and not able to speak, until the day that these things shall be performed, because thou believest not my words, which shall be fulfilled in their season.",
+      "highlightedWords": [
+        {
+          "word": "dumb",
+          "strongNumber": "G2974",
+          "lemma": "kophos",
+          "meaning": "mute, speechless"
+        },
+        {
+          "word": "season",
+          "strongNumber": "G2540",
+          "lemma": "kairos",
+          "meaning": "appointed time, season"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And the people waited for Zacharias, and marvelled that he tarried so long in the temple.",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "G2992",
+          "lemma": "laos",
+          "meaning": "people, populace"
+        },
+        {
+          "word": "marvelled",
+          "strongNumber": "G2296",
+          "lemma": "thaumazō",
+          "meaning": "to wonder, marvel"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And when he came out, he could not speak unto them: and they perceived that he had seen a vision in the temple: for he beckoned unto them, and remained speechless.",
+      "highlightedWords": [
+        {
+          "word": "speak",
+          "strongNumber": "G2980",
+          "lemma": "laleō",
+          "meaning": "to speak"
+        },
+        {
+          "word": "vision",
+          "strongNumber": "G3701",
+          "lemma": "optasia",
+          "meaning": "a vision, apparition"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And it came to pass, that, as soon as the days of his ministration were accomplished, he departed to his own house.",
+      "highlightedWords": [
+        {
+          "word": "ministration",
+          "strongNumber": "G3009",
+          "lemma": "leitourgia",
+          "meaning": "service, ministry"
+        },
+        {
+          "word": "house",
+          "strongNumber": "G3624",
+          "lemma": "oikos",
+          "meaning": "house, household"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And after those days his wife Elisabeth conceived, and hid herself five months, saying,",
+      "highlightedWords": [
+        {
+          "word": "conceived",
+          "strongNumber": "G4815",
+          "lemma": "syllambanō",
+          "meaning": "to conceive; to take together"
+        },
+        {
+          "word": "months",
+          "strongNumber": "G3376",
+          "lemma": "mēn",
+          "meaning": "month"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Thus hath the Lord dealt with me in the days wherein he looked on me, to take away my reproach among men.",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "Lord, master"
+        },
+        {
+          "word": "men",
+          "strongNumber": "G444",
+          "lemma": "anthrōpos",
+          "meaning": "man, human being"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And in the sixth month the angel Gabriel was sent from God unto a city of Galilee, named Nazareth,",
+      "highlightedWords": [
+        {
+          "word": "sixth",
+          "strongNumber": "G1623",
+          "lemma": "hektos",
+          "meaning": "sixth"
+        },
+        {
+          "word": "Nazareth",
+          "strongNumber": "G3478",
+          "lemma": "Nazareth",
+          "meaning": "Nazareth, a town in Galilee"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "To a virgin espoused to a man whose name was Joseph, of the house of David; and the virgin's name was Mary.",
+      "highlightedWords": [
+        {
+          "word": "virgin",
+          "strongNumber": "G3933",
+          "lemma": "parthenos",
+          "meaning": "a virgin, unmarried woman"
+        },
+        {
+          "word": "Joseph",
+          "strongNumber": "G2501",
+          "lemma": "Iōsēph",
+          "meaning": "Joseph"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And the angel came in unto her, and said, Hail, thou that art highly favoured, the Lord is with thee: blessed art thou among women.",
+      "highlightedWords": [
+        {
+          "word": "favoured",
+          "strongNumber": "G5487",
+          "lemma": "charitoō",
+          "meaning": "to bestow grace, highly favor"
+        },
+        {
+          "word": "angel",
+          "strongNumber": "G32",
+          "lemma": "angelos",
+          "meaning": "messenger, angel"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "And when she saw him, she was troubled at his saying, and cast in her mind what manner of salutation this should be.",
+      "highlightedWords": [
+        {
+          "word": "saying",
+          "strongNumber": "G3056",
+          "lemma": "logos",
+          "meaning": "word, saying, message"
+        },
+        {
+          "word": "salutation",
+          "strongNumber": "G783",
+          "lemma": "aspasmos",
+          "meaning": "greeting, salutation"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "And the angel said unto her, Fear not, Mary: for thou hast found favour with God.",
+      "highlightedWords": [
+        {
+          "word": "Mary",
+          "strongNumber": "G3137",
+          "lemma": "Maria/Mariam",
+          "meaning": "Mary"
+        },
+        {
+          "word": "favour",
+          "strongNumber": "G5485",
+          "lemma": "charis",
+          "meaning": "grace, favor"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "And, behold, thou shalt conceive in thy womb, and bring forth a son, and shalt call his name JESUS.",
+      "highlightedWords": [
+        {
+          "word": "conceive",
+          "strongNumber": "G4815",
+          "lemma": "syllambanō",
+          "meaning": "to conceive"
+        },
+        {
+          "word": "JESUS",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus, Yahweh is salvation"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "He shall be great, and shall be called the Son of the Highest: and the Lord God shall give unto him the throne of his father David:",
+      "highlightedWords": [
+        {
+          "word": "Highest",
+          "strongNumber": "G5310",
+          "lemma": "hypsistos",
+          "meaning": "the Most High"
+        },
+        {
+          "word": "David",
+          "strongNumber": "G1138",
+          "lemma": "Dauid",
+          "meaning": "David"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "And he shall reign over the house of Jacob for ever; and of his kingdom there shall be no end.",
+      "highlightedWords": [
+        {
+          "word": "reign",
+          "strongNumber": "G936",
+          "lemma": "basileuō",
+          "meaning": "to reign, rule as king"
+        },
+        {
+          "word": "kingdom",
+          "strongNumber": "G932",
+          "lemma": "basileia",
+          "meaning": "kingdom, reign"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "Then said Mary unto the angel, How shall this be, seeing I know not a man?",
+      "highlightedWords": [
+        {
+          "word": "know",
+          "strongNumber": "G1097",
+          "lemma": "ginōskō",
+          "meaning": "to know"
+        },
+        {
+          "word": "man",
+          "strongNumber": "G435",
+          "lemma": "anēr",
+          "meaning": "man, husband"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "And the angel answered and said unto her, The Holy Ghost shall come upon thee, and the power of the Highest shall overshadow thee: therefore also that holy thing which shall be born of thee shall be called the Son of God.",
+      "highlightedWords": [
+        {
+          "word": "Holy",
+          "strongNumber": "G40",
+          "lemma": "hagios",
+          "meaning": "holy, set apart"
+        },
+        {
+          "word": "power",
+          "strongNumber": "G1411",
+          "lemma": "dynamis",
+          "meaning": "power, might"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "And, behold, thy cousin Elisabeth, she hath also conceived a son in her old age: and this is the sixth month with her, who was called barren.",
+      "highlightedWords": [
+        {
+          "word": "cousin",
+          "strongNumber": "G4773",
+          "lemma": "syngenis",
+          "meaning": "kinswoman, relative"
+        },
+        {
+          "word": "barren",
+          "strongNumber": "G4723",
+          "lemma": "steira",
+          "meaning": "barren, sterile"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "For with God nothing shall be impossible.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God"
+        },
+        {
+          "word": "nothing",
+          "strongNumber": "G3762",
+          "lemma": "ouden",
+          "meaning": "nothing, not one thing"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "And Mary said, Behold the handmaid of the Lord; be it unto me according to thy word. And the angel departed from her.",
+      "highlightedWords": [
+        {
+          "word": "handmaid",
+          "strongNumber": "G1399",
+          "lemma": "doulē",
+          "meaning": "female slave, bondmaid"
+        },
+        {
+          "word": "word",
+          "strongNumber": "G4487",
+          "lemma": "rhēma",
+          "meaning": "spoken word, saying"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "text": "And Mary arose in those days, and went into the hill country with haste, into a city of Juda;",
+      "highlightedWords": [
+        {
+          "word": "haste",
+          "strongNumber": "G4710",
+          "lemma": "spoudē",
+          "meaning": "haste, diligence"
+        },
+        {
+          "word": "Juda",
+          "strongNumber": "G2448",
+          "lemma": "Iouda",
+          "meaning": "Judah, Judea"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "text": "And entered into the house of Zacharias, and saluted Elisabeth.",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "G3624",
+          "lemma": "oikos",
+          "meaning": "house, household"
+        },
+        {
+          "word": "saluted",
+          "strongNumber": "G782",
+          "lemma": "aspazomai",
+          "meaning": "to greet, salute"
+        }
+      ]
+    },
+    {
+      "verse": 41,
+      "text": "And it came to pass, that, when Elisabeth heard the salutation of Mary, the babe leaped in her womb; and Elisabeth was filled with the Holy Ghost:",
+      "highlightedWords": [
+        {
+          "word": "babe",
+          "strongNumber": "G1025",
+          "lemma": "brephos",
+          "meaning": "infant, baby"
+        },
+        {
+          "word": "Holy",
+          "strongNumber": "G40",
+          "lemma": "hagios",
+          "meaning": "holy, set apart"
+        }
+      ]
+    },
+    {
+      "verse": 42,
+      "text": "And she spake out with a loud voice, and said, Blessed art thou among women, and blessed is the fruit of thy womb.",
+      "highlightedWords": [
+        {
+          "word": "Blessed",
+          "strongNumber": "G2127",
+          "lemma": "eulogeō",
+          "meaning": "to bless, speak well of"
+        },
+        {
+          "word": "womb",
+          "strongNumber": "G2836",
+          "lemma": "koilia",
+          "meaning": "belly, womb"
+        }
+      ]
+    },
+    {
+      "verse": 43,
+      "text": "And whence is this to me, that the mother of my Lord should come to me?",
+      "highlightedWords": [
+        {
+          "word": "mother",
+          "strongNumber": "G3384",
+          "lemma": "mētēr",
+          "meaning": "mother"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "Lord, master"
+        }
+      ]
+    },
+    {
+      "verse": 44,
+      "text": "For, lo, as soon as the voice of thy salutation sounded in mine ears, the babe leaped in my womb for joy.",
+      "highlightedWords": [
+        {
+          "word": "voice",
+          "strongNumber": "G5456",
+          "lemma": "phōnē",
+          "meaning": "voice, sound"
+        },
+        {
+          "word": "joy",
+          "strongNumber": "G5479",
+          "lemma": "chara",
+          "meaning": "joy, gladness"
+        }
+      ]
+    },
+    {
+      "verse": 45,
+      "text": "And blessed is she that believed: for there shall be a performance of those things which were told her from the Lord.",
+      "highlightedWords": [
+        {
+          "word": "blessed",
+          "strongNumber": "G3107",
+          "lemma": "makarios",
+          "meaning": "blessed, happy"
+        },
+        {
+          "word": "believed",
+          "strongNumber": "G4100",
+          "lemma": "pisteuō",
+          "meaning": "to believe, trust"
+        }
+      ]
+    },
+    {
+      "verse": 46,
+      "text": "And Mary said, My soul doth magnify the Lord,",
+      "highlightedWords": [
+        {
+          "word": "soul",
+          "strongNumber": "G5590",
+          "lemma": "psychē",
+          "meaning": "soul, life, self"
+        },
+        {
+          "word": "magnify",
+          "strongNumber": "G3170",
+          "lemma": "megalynō",
+          "meaning": "to magnify, exalt"
+        }
+      ]
+    },
+    {
+      "verse": 47,
+      "text": "And my spirit hath rejoiced in God my Saviour.",
+      "highlightedWords": [
+        {
+          "word": "spirit",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit"
+        },
+        {
+          "word": "Saviour",
+          "strongNumber": "G4990",
+          "lemma": "sōtēr",
+          "meaning": "savior, deliverer"
+        }
+      ]
+    },
+    {
+      "verse": 48,
+      "text": "For he hath regarded the low estate of his handmaiden: for, behold, from henceforth all generations shall call me blessed.",
+      "highlightedWords": [
+        {
+          "word": "handmaiden",
+          "strongNumber": "G1399",
+          "lemma": "doulē",
+          "meaning": "female slave, handmaid"
+        },
+        {
+          "word": "generations",
+          "strongNumber": "G1074",
+          "lemma": "genea",
+          "meaning": "generation"
+        }
+      ]
+    },
+    {
+      "verse": 49,
+      "text": "For he that is mighty hath done to me great things; and holy is his name.",
+      "highlightedWords": [
+        {
+          "word": "holy",
+          "strongNumber": "G40",
+          "lemma": "hagios",
+          "meaning": "holy, set apart"
+        },
+        {
+          "word": "name",
+          "strongNumber": "G3686",
+          "lemma": "onoma",
+          "meaning": "name"
+        }
+      ]
+    },
+    {
+      "verse": 50,
+      "text": "And his mercy is on them that fear him from generation to generation.",
+      "highlightedWords": [
+        {
+          "word": "mercy",
+          "strongNumber": "G1656",
+          "lemma": "eleos",
+          "meaning": "mercy, kindness"
+        },
+        {
+          "word": "fear",
+          "strongNumber": "G5399",
+          "lemma": "phobeomai",
+          "meaning": "to fear, revere"
+        }
+      ]
+    },
+    {
+      "verse": 51,
+      "text": "He hath shewed strength with his arm; he hath scattered the proud in the imagination of their hearts.",
+      "highlightedWords": [
+        {
+          "word": "strength",
+          "strongNumber": "G2904",
+          "lemma": "kratos",
+          "meaning": "might, power"
+        },
+        {
+          "word": "hearts",
+          "strongNumber": "G2588",
+          "lemma": "kardia",
+          "meaning": "heart"
+        }
+      ]
+    },
+    {
+      "verse": 52,
+      "text": "He hath put down the mighty from their seats, and exalted them of low degree.",
+      "highlightedWords": [
+        {
+          "word": "mighty",
+          "strongNumber": "G1415",
+          "lemma": "dynatēs",
+          "meaning": "powerful, mighty"
+        },
+        {
+          "word": "exalted",
+          "strongNumber": "G5312",
+          "lemma": "hypsoō",
+          "meaning": "to exalt, raise high"
+        }
+      ]
+    },
+    {
+      "verse": 53,
+      "text": "He hath filled the hungry with good things; and the rich he hath sent empty away.",
+      "highlightedWords": [
+        {
+          "word": "hungry",
+          "strongNumber": "G3983",
+          "lemma": "peinaō",
+          "meaning": "to be hungry"
+        },
+        {
+          "word": "rich",
+          "strongNumber": "G4145",
+          "lemma": "plousios",
+          "meaning": "rich, wealthy"
+        }
+      ]
+    },
+    {
+      "verse": 54,
+      "text": "He hath holpen his servant Israel, in remembrance of his mercy;",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "G2474",
+          "lemma": "Israēl",
+          "meaning": "Israel"
+        },
+        {
+          "word": "mercy",
+          "strongNumber": "G1656",
+          "lemma": "eleos",
+          "meaning": "mercy, kindness"
+        }
+      ]
+    },
+    {
+      "verse": 55,
+      "text": "As he spake to our fathers, to Abraham, and to his seed for ever.",
+      "highlightedWords": [
+        {
+          "word": "Abraham",
+          "strongNumber": "G11",
+          "lemma": "Abraam",
+          "meaning": "Abraham"
+        },
+        {
+          "word": "seed",
+          "strongNumber": "G4690",
+          "lemma": "sperma",
+          "meaning": "seed, offspring"
+        }
+      ]
+    },
+    {
+      "verse": 56,
+      "text": "And Mary abode with her about three months, and returned to her own house.",
+      "highlightedWords": [
+        {
+          "word": "abode",
+          "strongNumber": "G3306",
+          "lemma": "menō",
+          "meaning": "to remain, stay"
+        },
+        {
+          "word": "months",
+          "strongNumber": "G3376",
+          "lemma": "mēn",
+          "meaning": "month"
+        }
+      ]
+    },
+    {
+      "verse": 57,
+      "text": "Now Elisabeth's full time came that she should be delivered; and she brought forth a son.",
+      "highlightedWords": [
+        {
+          "word": "delivered",
+          "strongNumber": "G5088",
+          "lemma": "tiktō",
+          "meaning": "to bear, give birth"
+        },
+        {
+          "word": "son",
+          "strongNumber": "G5207",
+          "lemma": "huios",
+          "meaning": "son"
+        }
+      ]
+    },
+    {
+      "verse": 58,
+      "text": "And her neighbours and her cousins heard how the Lord had shewed great mercy upon her; and they rejoiced with her.",
+      "highlightedWords": [
+        {
+          "word": "neighbours",
+          "strongNumber": "G1069",
+          "lemma": "geitōn",
+          "meaning": "neighbor"
+        },
+        {
+          "word": "mercy",
+          "strongNumber": "G1656",
+          "lemma": "eleos",
+          "meaning": "mercy, kindness"
+        }
+      ]
+    },
+    {
+      "verse": 59,
+      "text": "And it came to pass, that on the eighth day they came to circumcise the child; and they called him Zacharias, after the name of his father.",
+      "highlightedWords": [
+        {
+          "word": "circumcise",
+          "strongNumber": "G4059",
+          "lemma": "peritemnō",
+          "meaning": "to circumcise"
+        },
+        {
+          "word": "father",
+          "strongNumber": "G3962",
+          "lemma": "patēr",
+          "meaning": "father"
+        }
+      ]
+    },
+    {
+      "verse": 60,
+      "text": "And his mother answered and said, Not so; but he shall be called John.",
+      "highlightedWords": [
+        {
+          "word": "mother",
+          "strongNumber": "G3384",
+          "lemma": "mētēr",
+          "meaning": "mother"
+        },
+        {
+          "word": "John",
+          "strongNumber": "G2491",
+          "lemma": "Iōannēs",
+          "meaning": "Yahweh is gracious"
+        }
+      ]
+    },
+    {
+      "verse": 61,
+      "text": "And they said unto her, There is none of thy kindred that is called by this name.",
+      "highlightedWords": [
+        {
+          "word": "kindred",
+          "strongNumber": "G4772",
+          "lemma": "syngeneia",
+          "meaning": "kindred, relatives"
+        },
+        {
+          "word": "name",
+          "strongNumber": "G3686",
+          "lemma": "onoma",
+          "meaning": "name"
+        }
+      ]
+    },
+    {
+      "verse": 62,
+      "text": "And they made signs to his father, how he would have him called.",
+      "highlightedWords": [
+        {
+          "word": "father",
+          "strongNumber": "G3962",
+          "lemma": "patēr",
+          "meaning": "father"
+        },
+        {
+          "word": "called",
+          "strongNumber": "G2564",
+          "lemma": "kaleō",
+          "meaning": "to call, name"
+        }
+      ]
+    },
+    {
+      "verse": 63,
+      "text": "And he asked for a writing table, and wrote, saying, His name is John. And they marvelled all.",
+      "highlightedWords": [
+        {
+          "word": "wrote",
+          "strongNumber": "G1125",
+          "lemma": "graphō",
+          "meaning": "to write"
+        },
+        {
+          "word": "name",
+          "strongNumber": "G3686",
+          "lemma": "onoma",
+          "meaning": "name"
+        }
+      ]
+    },
+    {
+      "verse": 64,
+      "text": "And his mouth was opened immediately, and his tongue loosed, and he spake, and praised God.",
+      "highlightedWords": [
+        {
+          "word": "mouth",
+          "strongNumber": "G4750",
+          "lemma": "stoma",
+          "meaning": "mouth"
+        },
+        {
+          "word": "praised",
+          "strongNumber": "G2127",
+          "lemma": "eulogeō",
+          "meaning": "to bless, praise"
+        }
+      ]
+    },
+    {
+      "verse": 65,
+      "text": "And fear came on all that dwelt round about them: and all these sayings were noised abroad throughout all the hill country of Judaea.",
+      "highlightedWords": [
+        {
+          "word": "fear",
+          "strongNumber": "G5401",
+          "lemma": "phobos",
+          "meaning": "fear, awe"
+        },
+        {
+          "word": "Judaea",
+          "strongNumber": "G2449",
+          "lemma": "Ioudaia",
+          "meaning": "Judea"
+        }
+      ]
+    },
+    {
+      "verse": 66,
+      "text": "And all they that heard them laid them up in their hearts, saying, What manner of child shall this be! And the hand of the Lord was with him.",
+      "highlightedWords": [
+        {
+          "word": "child",
+          "strongNumber": "G3813",
+          "lemma": "paidion",
+          "meaning": "child, little one"
+        },
+        {
+          "word": "hand",
+          "strongNumber": "G5495",
+          "lemma": "cheir",
+          "meaning": "hand"
+        }
+      ]
+    },
+    {
+      "verse": 67,
+      "text": "And his father Zacharias was filled with the Holy Ghost, and prophesied, saying,",
+      "highlightedWords": [
+        {
+          "word": "filled",
+          "strongNumber": "G4130",
+          "lemma": "pimplēmi",
+          "meaning": "to fill"
+        },
+        {
+          "word": "prophesied",
+          "strongNumber": "G4395",
+          "lemma": "prophēteuō",
+          "meaning": "to prophesy"
+        }
+      ]
+    },
+    {
+      "verse": 68,
+      "text": "Blessed be the Lord God of Israel; for he hath visited and redeemed his people,",
+      "highlightedWords": [
+        {
+          "word": "visited",
+          "strongNumber": "G1980",
+          "lemma": "episkeptomai",
+          "meaning": "to visit, look upon"
+        },
+        {
+          "word": "redeemed",
+          "strongNumber": "G3085",
+          "lemma": "lytrōsis",
+          "meaning": "redemption, ransoming"
+        }
+      ]
+    },
+    {
+      "verse": 69,
+      "text": "And hath raised up an horn of salvation for us in the house of his servant David;",
+      "highlightedWords": [
+        {
+          "word": "horn",
+          "strongNumber": "G2768",
+          "lemma": "keras",
+          "meaning": "horn (symbol of strength)"
+        },
+        {
+          "word": "salvation",
+          "strongNumber": "G4991",
+          "lemma": "sōtēria",
+          "meaning": "deliverance, salvation"
+        }
+      ]
+    },
+    {
+      "verse": 70,
+      "text": "As he spake by the mouth of his holy prophets, which have been since the world began:",
+      "highlightedWords": [
+        {
+          "word": "prophets",
+          "strongNumber": "G4396",
+          "lemma": "prophētēs",
+          "meaning": "prophet"
+        },
+        {
+          "word": "world",
+          "strongNumber": "G165",
+          "lemma": "aiōn",
+          "meaning": "age, world"
+        }
+      ]
+    },
+    {
+      "verse": 71,
+      "text": "That we should be saved from our enemies, and from the hand of all that hate us;",
+      "highlightedWords": [
+        {
+          "word": "saved",
+          "strongNumber": "G4982",
+          "lemma": "sōzō",
+          "meaning": "to save, deliver"
+        },
+        {
+          "word": "enemies",
+          "strongNumber": "G2190",
+          "lemma": "echthros",
+          "meaning": "enemy, foe"
+        }
+      ]
+    },
+    {
+      "verse": 72,
+      "text": "To perform the mercy promised to our fathers, and to remember his holy covenant;",
+      "highlightedWords": [
+        {
+          "word": "mercy",
+          "strongNumber": "G1656",
+          "lemma": "eleos",
+          "meaning": "mercy, compassion"
+        },
+        {
+          "word": "covenant",
+          "strongNumber": "G1242",
+          "lemma": "diathēkē",
+          "meaning": "covenant, testament"
+        }
+      ]
+    },
+    {
+      "verse": 73,
+      "text": "The oath which he sware to our father Abraham,",
+      "highlightedWords": [
+        {
+          "word": "oath",
+          "strongNumber": "G3727",
+          "lemma": "horkos",
+          "meaning": "oath, pledge"
+        },
+        {
+          "word": "Abraham",
+          "strongNumber": "G11",
+          "lemma": "Abraam",
+          "meaning": "Abraham"
+        }
+      ]
+    },
+    {
+      "verse": 74,
+      "text": "That he would grant unto us, that we being delivered out of the hand of our enemies might serve him without fear,",
+      "highlightedWords": [
+        {
+          "word": "serve",
+          "strongNumber": "G3000",
+          "lemma": "latreuō",
+          "meaning": "to serve, worship"
+        },
+        {
+          "word": "fear",
+          "strongNumber": "G5401",
+          "lemma": "phobos",
+          "meaning": "fear, awe"
+        }
+      ]
+    },
+    {
+      "verse": 75,
+      "text": "In holiness and righteousness before him, all the days of our life.",
+      "highlightedWords": [
+        {
+          "word": "holiness",
+          "strongNumber": "G3742",
+          "lemma": "hosiotēs",
+          "meaning": "holiness, piety"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "G1343",
+          "lemma": "dikaiosynē",
+          "meaning": "righteousness, justice"
+        }
+      ]
+    },
+    {
+      "verse": 76,
+      "text": "And thou, child, shalt be called the prophet of the Highest: for thou shalt go before the face of the Lord to prepare his ways;",
+      "highlightedWords": [
+        {
+          "word": "prophet",
+          "strongNumber": "G4396",
+          "lemma": "prophētēs",
+          "meaning": "prophet"
+        },
+        {
+          "word": "prepare",
+          "strongNumber": "G2090",
+          "lemma": "hetoimazō",
+          "meaning": "to prepare, make ready"
+        }
+      ]
+    },
+    {
+      "verse": 77,
+      "text": "To give knowledge of salvation unto his people by the remission of their sins,",
+      "highlightedWords": [
+        {
+          "word": "knowledge",
+          "strongNumber": "G1108",
+          "lemma": "gnōsis",
+          "meaning": "knowledge"
+        },
+        {
+          "word": "remission",
+          "strongNumber": "G859",
+          "lemma": "aphesis",
+          "meaning": "release, forgiveness, remission"
+        }
+      ]
+    },
+    {
+      "verse": 78,
+      "text": "Through the tender mercy of our God; whereby the dayspring from on high hath visited us,",
+      "highlightedWords": [
+        {
+          "word": "mercy",
+          "strongNumber": "G1656",
+          "lemma": "eleos",
+          "meaning": "mercy, compassion"
+        },
+        {
+          "word": "dayspring",
+          "strongNumber": "G395",
+          "lemma": "anatolē",
+          "meaning": "rising, dawn, dayspring"
+        }
+      ]
+    },
+    {
+      "verse": 79,
+      "text": "To give light to them that sit in darkness and in the shadow of death, to guide our feet into the way of peace.",
+      "highlightedWords": [
+        {
+          "word": "light",
+          "strongNumber": "G5457",
+          "lemma": "phōs",
+          "meaning": "light"
+        },
+        {
+          "word": "peace",
+          "strongNumber": "G1515",
+          "lemma": "eirēnē",
+          "meaning": "peace"
+        }
+      ]
+    },
+    {
+      "verse": 80,
+      "text": "And the child grew, and waxed strong in spirit, and was in the deserts till the day of his shewing unto Israel.",
+      "highlightedWords": [
+        {
+          "word": "deserts",
+          "strongNumber": "G2048",
+          "lemma": "erēmos",
+          "meaning": "desert, wilderness"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "G2474",
+          "lemma": "Israēl",
+          "meaning": "Israel"
+        }
+      ]
+    }
+  ]
+}

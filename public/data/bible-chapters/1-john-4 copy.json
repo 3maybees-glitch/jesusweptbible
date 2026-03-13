@@ -1,0 +1,402 @@
+{
+  "book": "1 John",
+  "chapter": 4,
+  "chapterTheme": {
+    "twoWordSummary": "Love Discernment",
+    "themeWords": [
+      {
+        "word": "love",
+        "strongNumber": "G26",
+        "lemma": "agape",
+        "meaning": "selfless, covenantal love"
+      },
+      {
+        "word": "spirit",
+        "strongNumber": "G4151",
+        "lemma": "pneuma",
+        "meaning": "spirit; the Holy Spirit"
+      }
+    ]
+  },
+  "sentenceTheme": "Believers discern spirits and abide in God, whose perfect love drives out fear.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world.",
+      "highlightedWords": [
+        {
+          "word": "spirit",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit; inner being"
+        },
+        {
+          "word": "prophets",
+          "strongNumber": "G4396",
+          "lemma": "prophetes",
+          "meaning": "a prophet; forth-teller"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Hereby know ye the Spirit of God: Every spirit that confesseth that Jesus Christ is come in the flesh is of God:",
+      "highlightedWords": [
+        {
+          "word": "Spirit",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "the Holy Spirit"
+        },
+        {
+          "word": "flesh",
+          "strongNumber": "G4561",
+          "lemma": "sarx",
+          "meaning": "flesh; human nature"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And every spirit that confesseth not that Jesus Christ is come in the flesh is not of God: and this is that spirit of antichrist, whereof ye have heard that it should come; and even now already is it in the world.",
+      "highlightedWords": [
+        {
+          "word": "antichrist",
+          "strongNumber": "G500",
+          "lemma": "antichristos",
+          "meaning": "opponent of the Messiah"
+        },
+        {
+          "word": "world",
+          "strongNumber": "G2889",
+          "lemma": "kosmos",
+          "meaning": "world; ordered system"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Ye are of God, little children, and have overcome them: because greater is he that is in you, than he that is in the world.",
+      "highlightedWords": [
+        {
+          "word": "overcome",
+          "strongNumber": "G3528",
+          "lemma": "nikao",
+          "meaning": "to conquer; prevail"
+        },
+        {
+          "word": "greater",
+          "strongNumber": "G3187",
+          "lemma": "meizon",
+          "meaning": "greater; more powerful"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "They are of the world: therefore speak they of the world, and the world heareth them.",
+      "highlightedWords": [
+        {
+          "word": "world",
+          "strongNumber": "G2889",
+          "lemma": "kosmos",
+          "meaning": "world; ordered system"
+        },
+        {
+          "word": "heareth",
+          "strongNumber": "G191",
+          "lemma": "akouo",
+          "meaning": "to hear; listen"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "We are of God: he that knoweth God heareth us; he that is not of God heareth not us. Hereby know we the spirit of truth, and the spirit of error.",
+      "highlightedWords": [
+        {
+          "word": "truth",
+          "strongNumber": "G225",
+          "lemma": "aletheia",
+          "meaning": "truth; reality"
+        },
+        {
+          "word": "error",
+          "strongNumber": "G4106",
+          "lemma": "plane",
+          "meaning": "wandering; deception; error"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Beloved, let us love one another: for love is of God; and every one that loveth is born of God, and knoweth God.",
+      "highlightedWords": [
+        {
+          "word": "love",
+          "strongNumber": "G26",
+          "lemma": "agape",
+          "meaning": "selfless, covenantal love"
+        },
+        {
+          "word": "born",
+          "strongNumber": "G1080",
+          "lemma": "gennao",
+          "meaning": "to beget; give birth"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "He that loveth not knoweth not God; for God is love.",
+      "highlightedWords": [
+        {
+          "word": "loveth",
+          "strongNumber": "G25",
+          "lemma": "agapao",
+          "meaning": "to love; show love"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God; the divine"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "In this was manifested the love of God toward us, because that God sent his only begotten Son into the world, that we might live through him.",
+      "highlightedWords": [
+        {
+          "word": "manifested",
+          "strongNumber": "G5319",
+          "lemma": "phaneroo",
+          "meaning": "to reveal; make visible"
+        },
+        {
+          "word": "only begotten",
+          "strongNumber": "G3439",
+          "lemma": "monogenes",
+          "meaning": "only; unique; one and only"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Herein is love, not that we loved God, but that he loved us, and sent his Son to be the propitiation for our sins.",
+      "highlightedWords": [
+        {
+          "word": "propitiation",
+          "strongNumber": "G2434",
+          "lemma": "hilasmos",
+          "meaning": "atoning sacrifice"
+        },
+        {
+          "word": "sins",
+          "strongNumber": "G266",
+          "lemma": "hamartia",
+          "meaning": "sin; missing the mark"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Beloved, if God so loved us, we ought also to love one another.",
+      "highlightedWords": [
+        {
+          "word": "ought",
+          "strongNumber": "G3784",
+          "lemma": "opheilo",
+          "meaning": "to owe; be obligated"
+        },
+        {
+          "word": "love",
+          "strongNumber": "G25",
+          "lemma": "agapao",
+          "meaning": "to love; show love"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "No man hath seen God at any time. If we love one another, God dwelleth in us, and his love is perfected in us.",
+      "highlightedWords": [
+        {
+          "word": "seen",
+          "strongNumber": "G3708",
+          "lemma": "horao",
+          "meaning": "to see; perceive"
+        },
+        {
+          "word": "perfected",
+          "strongNumber": "G5048",
+          "lemma": "teleioo",
+          "meaning": "to make perfect; complete"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Hereby know we that we dwell in him, and he in us, because he hath given us of his Spirit.",
+      "highlightedWords": [
+        {
+          "word": "Spirit",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "the Holy Spirit"
+        },
+        {
+          "word": "given",
+          "strongNumber": "G1325",
+          "lemma": "didomi",
+          "meaning": "to give; grant"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And we have seen and do testify that the Father sent the Son to be the Saviour of the world.",
+      "highlightedWords": [
+        {
+          "word": "testify",
+          "strongNumber": "G3140",
+          "lemma": "martyreo",
+          "meaning": "to bear witness; testify"
+        },
+        {
+          "word": "Saviour",
+          "strongNumber": "G4990",
+          "lemma": "soter",
+          "meaning": "savior; deliverer"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Whosoever shall confess that Jesus is the Son of God, God dwelleth in him, and he in God.",
+      "highlightedWords": [
+        {
+          "word": "confess",
+          "strongNumber": "G3670",
+          "lemma": "homologeo",
+          "meaning": "to confess; acknowledge"
+        },
+        {
+          "word": "Son",
+          "strongNumber": "G5207",
+          "lemma": "huios",
+          "meaning": "son; descendant"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And we have known and believed the love that God hath to us. God is love; and he that dwelleth in love dwelleth in God, and God in him.",
+      "highlightedWords": [
+        {
+          "word": "believed",
+          "strongNumber": "G4100",
+          "lemma": "pisteuo",
+          "meaning": "to believe; trust"
+        },
+        {
+          "word": "dwelleth",
+          "strongNumber": "G3306",
+          "lemma": "meno",
+          "meaning": "to remain; abide; dwell"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Herein is our love made perfect, that we may have boldness in the day of judgment: because as he is, so are we in this world.",
+      "highlightedWords": [
+        {
+          "word": "boldness",
+          "strongNumber": "G3954",
+          "lemma": "parresia",
+          "meaning": "confidence; boldness"
+        },
+        {
+          "word": "judgment",
+          "strongNumber": "G2920",
+          "lemma": "krisis",
+          "meaning": "judgment; decision"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "There is no fear in love; but perfect love casteth out fear: because fear hath torment. He that feareth is not made perfect in love.",
+      "highlightedWords": [
+        {
+          "word": "fear",
+          "strongNumber": "G5401",
+          "lemma": "phobos",
+          "meaning": "fear; terror; reverence"
+        },
+        {
+          "word": "torment",
+          "strongNumber": "G2851",
+          "lemma": "kolasis",
+          "meaning": "punishment; torment"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "We love him, because he first loved us.",
+      "highlightedWords": [
+        {
+          "word": "love",
+          "strongNumber": "G25",
+          "lemma": "agapao",
+          "meaning": "to love; show love"
+        },
+        {
+          "word": "first",
+          "strongNumber": "G4413",
+          "lemma": "protos",
+          "meaning": "first; foremost"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "If a man say, I love God, and hateth his brother, he is a liar: for he that loveth not his brother whom he hath seen, how can he love God whom he hath not seen?",
+      "highlightedWords": [
+        {
+          "word": "liar",
+          "strongNumber": "G5583",
+          "lemma": "pseustes",
+          "meaning": "liar; one who speaks falsely"
+        },
+        {
+          "word": "brother",
+          "strongNumber": "G80",
+          "lemma": "adelphos",
+          "meaning": "brother; fellow believer"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And this commandment have we from him, That he who loveth God love his brother also.",
+      "highlightedWords": [
+        {
+          "word": "commandment",
+          "strongNumber": "G1785",
+          "lemma": "entole",
+          "meaning": "command; instruction"
+        },
+        {
+          "word": "loveth",
+          "strongNumber": "G25",
+          "lemma": "agapao",
+          "meaning": "to love; show love"
+        }
+      ]
+    }
+  ]
+}

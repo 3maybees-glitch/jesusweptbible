@@ -1,0 +1,420 @@
+{
+  "book": "Ephesians",
+  "chapter": 2,
+  "chapterTheme": {
+    "twoWordSummary": "Grace Reconciliation",
+    "themeWords": [
+      {
+        "word": "grace",
+        "strongNumber": "G5485",
+        "lemma": "charis",
+        "meaning": "grace, favor, undeserved kindness"
+      },
+      {
+        "word": "peace",
+        "strongNumber": "G1515",
+        "lemma": "eirene",
+        "meaning": "peace, wholeness, harmony"
+      }
+    ]
+  },
+  "sentenceTheme": "God makes the formerly dead alive with Christ by grace through faith, uniting Jew and Gentile into one new humanity and building them into God’s dwelling by the Spirit.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And you hath he quickened, who were dead in trespasses and sins;",
+      "highlightedWords": [
+        {
+          "word": "dead",
+          "strongNumber": "G3498",
+          "lemma": "nekros",
+          "meaning": "dead, lifeless; spiritually dead"
+        },
+        {
+          "word": "trespasses",
+          "strongNumber": "G3900",
+          "lemma": "paraptoma",
+          "meaning": "trespass, offense, false step"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience:",
+      "highlightedWords": [
+        {
+          "word": "prince",
+          "strongNumber": "G758",
+          "lemma": "archon",
+          "meaning": "ruler, chief"
+        },
+        {
+          "word": "disobedience",
+          "strongNumber": "G543",
+          "lemma": "apeitheia",
+          "meaning": "disobedience, obstinacy, unbelief"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Among whom also we all had our conversation in times past in the lusts of our flesh, fulfilling the desires of the flesh and of the mind; and were by nature the children of wrath, even as others.",
+      "highlightedWords": [
+        {
+          "word": "lusts",
+          "strongNumber": "G1939",
+          "lemma": "epithymia",
+          "meaning": "desire, craving, lust"
+        },
+        {
+          "word": "wrath",
+          "strongNumber": "G3709",
+          "lemma": "orge",
+          "meaning": "wrath, anger, retribution"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "But God, who is rich in mercy, for his great love wherewith he loved us,",
+      "highlightedWords": [
+        {
+          "word": "mercy",
+          "strongNumber": "G1656",
+          "lemma": "eleos",
+          "meaning": "mercy, compassion"
+        },
+        {
+          "word": "love",
+          "strongNumber": "G26",
+          "lemma": "agape",
+          "meaning": "self-giving love, benevolence"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Even when we were dead in sins, hath quickened us together with Christ, (by grace ye are saved;)",
+      "highlightedWords": [
+        {
+          "word": "quickened",
+          "strongNumber": "G4806",
+          "lemma": "suzoopoieo",
+          "meaning": "to make alive together"
+        },
+        {
+          "word": "grace",
+          "strongNumber": "G5485",
+          "lemma": "charis",
+          "meaning": "grace, favor, undeserved kindness"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And hath raised us up together, and made us sit together in heavenly places in Christ Jesus:",
+      "highlightedWords": [
+        {
+          "word": "raised",
+          "strongNumber": "G4891",
+          "lemma": "sunegeiro",
+          "meaning": "to raise up together"
+        },
+        {
+          "word": "heavenly",
+          "strongNumber": "G2032",
+          "lemma": "epouranios",
+          "meaning": "heavenly, belonging to heaven"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "That in the ages to come he might shew the exceeding riches of his grace in his kindness toward us through Christ Jesus.",
+      "highlightedWords": [
+        {
+          "word": "ages",
+          "strongNumber": "G165",
+          "lemma": "aion",
+          "meaning": "age, era, epoch"
+        },
+        {
+          "word": "kindness",
+          "strongNumber": "G5544",
+          "lemma": "chrestotes",
+          "meaning": "kindness, goodness, benevolence"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God:",
+      "highlightedWords": [
+        {
+          "word": "grace",
+          "strongNumber": "G5485",
+          "lemma": "charis",
+          "meaning": "grace, favor, undeserved kindness"
+        },
+        {
+          "word": "faith",
+          "strongNumber": "G4102",
+          "lemma": "pistis",
+          "meaning": "faith, trust, belief"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Not of works, lest any man should boast.",
+      "highlightedWords": [
+        {
+          "word": "works",
+          "strongNumber": "G2041",
+          "lemma": "ergon",
+          "meaning": "work, deed, action"
+        },
+        {
+          "word": "boast",
+          "strongNumber": "G2744",
+          "lemma": "kauchaomai",
+          "meaning": "to boast, glory, take pride"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.",
+      "highlightedWords": [
+        {
+          "word": "workmanship",
+          "strongNumber": "G4161",
+          "lemma": "poiema",
+          "meaning": "a thing made, workmanship"
+        },
+        {
+          "word": "created",
+          "strongNumber": "G2936",
+          "lemma": "ktizo",
+          "meaning": "to create, make"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Wherefore remember, that ye being in time past Gentiles in the flesh, who are called Uncircumcision by that which is called the Circumcision in the flesh made by hands;",
+      "highlightedWords": [
+        {
+          "word": "Gentiles",
+          "strongNumber": "G1484",
+          "lemma": "ethnos",
+          "meaning": "nations, non-Jews, Gentiles"
+        },
+        {
+          "word": "Uncircumcision",
+          "strongNumber": "G203",
+          "lemma": "akrobystia",
+          "meaning": "uncircumcision, foreskin"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "That at that time ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world:",
+      "highlightedWords": [
+        {
+          "word": "commonwealth",
+          "strongNumber": "G4174",
+          "lemma": "politeia",
+          "meaning": "citizenship, commonwealth, polity"
+        },
+        {
+          "word": "covenants",
+          "strongNumber": "G1242",
+          "lemma": "diatheke",
+          "meaning": "covenant, testament, arrangement"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "But now in Christ Jesus ye who sometimes were far off are made nigh by the blood of Christ.",
+      "highlightedWords": [
+        {
+          "word": "nigh",
+          "strongNumber": "G1451",
+          "lemma": "eggys",
+          "meaning": "near, close, at hand"
+        },
+        {
+          "word": "blood",
+          "strongNumber": "G129",
+          "lemma": "haima",
+          "meaning": "blood, lifeblood"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "For he is our peace, who hath made both one, and hath broken down the middle wall of partition between us;",
+      "highlightedWords": [
+        {
+          "word": "peace",
+          "strongNumber": "G1515",
+          "lemma": "eirene",
+          "meaning": "peace, wholeness, harmony"
+        },
+        {
+          "word": "partition",
+          "strongNumber": "G5418",
+          "lemma": "phragmos",
+          "meaning": "fence, barrier, partition"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Having abolished in his flesh the enmity, even the law of commandments contained in ordinances; for to make in himself of twain one new man, so making peace;",
+      "highlightedWords": [
+        {
+          "word": "abolished",
+          "strongNumber": "G2673",
+          "lemma": "katargeo",
+          "meaning": "to abolish, render inoperative"
+        },
+        {
+          "word": "ordinances",
+          "strongNumber": "G1378",
+          "lemma": "dogma",
+          "meaning": "decree, ordinance, regulation"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And that he might reconcile both unto God in one body by the cross, having slain the enmity thereby:",
+      "highlightedWords": [
+        {
+          "word": "reconcile",
+          "strongNumber": "G604",
+          "lemma": "apokatallasso",
+          "meaning": "to reconcile completely"
+        },
+        {
+          "word": "cross",
+          "strongNumber": "G4716",
+          "lemma": "stauros",
+          "meaning": "cross, instrument of execution"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And came and preached peace to you which were afar off, and to them that were nigh.",
+      "highlightedWords": [
+        {
+          "word": "preached",
+          "strongNumber": "G2097",
+          "lemma": "euangelizomai",
+          "meaning": "to bring good news, proclaim"
+        },
+        {
+          "word": "peace",
+          "strongNumber": "G1515",
+          "lemma": "eirene",
+          "meaning": "peace, wholeness, harmony"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "For through him we both have access by one Spirit unto the Father.",
+      "highlightedWords": [
+        {
+          "word": "access",
+          "strongNumber": "G4318",
+          "lemma": "prosagoge",
+          "meaning": "access, introduction"
+        },
+        {
+          "word": "Spirit",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "Spirit, breath, wind"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Now therefore ye are no more strangers and foreigners, but fellowcitizens with the saints, and of the household of God;",
+      "highlightedWords": [
+        {
+          "word": "fellowcitizens",
+          "strongNumber": "G4847",
+          "lemma": "sympolites",
+          "meaning": "fellow citizen"
+        },
+        {
+          "word": "household",
+          "strongNumber": "G3609",
+          "lemma": "oikeios",
+          "meaning": "household member, related by house"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone;",
+      "highlightedWords": [
+        {
+          "word": "apostles",
+          "strongNumber": "G652",
+          "lemma": "apostolos",
+          "meaning": "apostle, one sent"
+        },
+        {
+          "word": "prophets",
+          "strongNumber": "G4396",
+          "lemma": "prophetes",
+          "meaning": "prophet, inspired spokesman"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "In whom all the building fitly framed together groweth unto an holy temple in the Lord:",
+      "highlightedWords": [
+        {
+          "word": "building",
+          "strongNumber": "G3619",
+          "lemma": "oikodome",
+          "meaning": "building, edifice"
+        },
+        {
+          "word": "temple",
+          "strongNumber": "G3485",
+          "lemma": "naos",
+          "meaning": "temple, inner sanctuary"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "In whom ye also are builded together for an habitation of God through the Spirit.",
+      "highlightedWords": [
+        {
+          "word": "habitation",
+          "strongNumber": "G2732",
+          "lemma": "katoiketerion",
+          "meaning": "dwelling place, habitation"
+        },
+        {
+          "word": "Spirit",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "Spirit, breath, wind"
+        }
+      ]
+    }
+  ]
+}

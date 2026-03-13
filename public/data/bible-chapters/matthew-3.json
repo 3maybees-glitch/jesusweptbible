@@ -1,0 +1,330 @@
+{
+  "book": "Matthew",
+  "chapter": 3,
+  "chapterTheme": {
+    "twoWordSummary": "John Baptizes",
+    "themeWords": [
+      {
+        "word": "repentance",
+        "strongNumber": "G3341",
+        "lemma": "metanoia",
+        "meaning": "repentance; a change of mind"
+      },
+      {
+        "word": "kingdom",
+        "strongNumber": "G932",
+        "lemma": "basileia",
+        "meaning": "kingdom; reign; rule"
+      }
+    ]
+  },
+  "sentenceTheme": "John the Baptist preaches repentance and baptizes in the Jordan; Jesus is baptized and affirmed by a heavenly voice.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "In those days came John the Baptist, preaching in the wilderness of Judaea,",
+      "highlightedWords": [
+        {
+          "word": "John",
+          "strongNumber": "G2491",
+          "lemma": "Ioannes",
+          "meaning": "John; Yahweh is gracious"
+        },
+        {
+          "word": "wilderness",
+          "strongNumber": "G2048",
+          "lemma": "eremos",
+          "meaning": "wilderness; deserted place"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And saying, Repent ye: for the kingdom of heaven is at hand.",
+      "highlightedWords": [
+        {
+          "word": "Repent",
+          "strongNumber": "G3340",
+          "lemma": "metanoeo",
+          "meaning": "to repent; to change one’s mind"
+        },
+        {
+          "word": "kingdom",
+          "strongNumber": "G932",
+          "lemma": "basileia",
+          "meaning": "kingdom; reign; rule"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "For this is he that was spoken of by the prophet Esaias, saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.",
+      "highlightedWords": [
+        {
+          "word": "prophet",
+          "strongNumber": "G4396",
+          "lemma": "prophetes",
+          "meaning": "a prophet; a foreteller or forth-teller"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kurios",
+          "meaning": "lord; master; title for God"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And the same John had his raiment of camel's hair, and a leathern girdle about his loins; and his meat was locusts and wild honey.",
+      "highlightedWords": [
+        {
+          "word": "raiment",
+          "strongNumber": "G1742",
+          "lemma": "enduma",
+          "meaning": "garment; clothing"
+        },
+        {
+          "word": "honey",
+          "strongNumber": "G3192",
+          "lemma": "meli",
+          "meaning": "honey"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Then went out to him Jerusalem, and all Judaea, and all the region round about Jordan,",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "G2414",
+          "lemma": "Hierosolyma",
+          "meaning": "Jerusalem"
+        },
+        {
+          "word": "Jordan",
+          "strongNumber": "G2446",
+          "lemma": "Iordanes",
+          "meaning": "Jordan (the river)"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And were baptized of him in Jordan, confessing their sins.",
+      "highlightedWords": [
+        {
+          "word": "baptized",
+          "strongNumber": "G907",
+          "lemma": "baptizo",
+          "meaning": "to baptize; to immerse"
+        },
+        {
+          "word": "sins",
+          "strongNumber": "G266",
+          "lemma": "hamartia",
+          "meaning": "sin; missing the mark"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "But when he saw many of the Pharisees and Sadducees come to his baptism, he said unto them, O generation of vipers, who hath warned you to flee from the wrath to come?",
+      "highlightedWords": [
+        {
+          "word": "Pharisees",
+          "strongNumber": "G5330",
+          "lemma": "Pharisaios",
+          "meaning": "a Pharisee; a member of a Jewish sect"
+        },
+        {
+          "word": "vipers",
+          "strongNumber": "G2191",
+          "lemma": "echidna",
+          "meaning": "viper; poisonous snake"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Bring forth therefore fruits meet for repentance:",
+      "highlightedWords": [
+        {
+          "word": "fruits",
+          "strongNumber": "G2590",
+          "lemma": "karpos",
+          "meaning": "fruit; result; outcome"
+        },
+        {
+          "word": "repentance",
+          "strongNumber": "G3341",
+          "lemma": "metanoia",
+          "meaning": "repentance; change of mind"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And think not to say within yourselves, We have Abraham to our father: for I say unto you, that God is able of these stones to raise up children unto Abraham.",
+      "highlightedWords": [
+        {
+          "word": "Abraham",
+          "strongNumber": "G11",
+          "lemma": "Abraam",
+          "meaning": "Abraham; exalted father"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God; the Deity"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And now also the axe is laid unto the root of the trees: therefore every tree which bringeth not forth good fruit is hewn down, and cast into the fire.",
+      "highlightedWords": [
+        {
+          "word": "axe",
+          "strongNumber": "G513",
+          "lemma": "axine",
+          "meaning": "axe"
+        },
+        {
+          "word": "fire",
+          "strongNumber": "G4442",
+          "lemma": "pyr",
+          "meaning": "fire"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "I indeed baptize you with water unto repentance: but he that cometh after me is mightier than I, whose shoes I am not worthy to bear: he shall baptize you with the Holy Ghost, and with fire:",
+      "highlightedWords": [
+        {
+          "word": "water",
+          "strongNumber": "G5204",
+          "lemma": "hydor",
+          "meaning": "water"
+        },
+        {
+          "word": "Ghost",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit; Holy Spirit"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Whose fan is in his hand, and he will throughly purge his floor, and gather his wheat into the garner; but he will burn up the chaff with unquenchable fire.",
+      "highlightedWords": [
+        {
+          "word": "wheat",
+          "strongNumber": "G4621",
+          "lemma": "sitos",
+          "meaning": "wheat; grain"
+        },
+        {
+          "word": "chaff",
+          "strongNumber": "G892",
+          "lemma": "achyron",
+          "meaning": "chaff; husks"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Then cometh Jesus from Galilee to Jordan unto John, to be baptized of him.",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iesous",
+          "meaning": "Jesus; Yahweh is salvation"
+        },
+        {
+          "word": "Galilee",
+          "strongNumber": "G1056",
+          "lemma": "Galilaia",
+          "meaning": "Galilee"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "But John forbad him, saying, I have need to be baptized of thee, and comest thou to me?",
+      "highlightedWords": [
+        {
+          "word": "need",
+          "strongNumber": "G5532",
+          "lemma": "chreia",
+          "meaning": "need; necessity"
+        },
+        {
+          "word": "baptized",
+          "strongNumber": "G907",
+          "lemma": "baptizo",
+          "meaning": "to baptize; to immerse"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And Jesus answering said unto him, Suffer it to be so now: for thus it becometh us to fulfil all righteousness. Then he suffered him.",
+      "highlightedWords": [
+        {
+          "word": "fulfil",
+          "strongNumber": "G4137",
+          "lemma": "pleroo",
+          "meaning": "to fulfill; to complete"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "G1343",
+          "lemma": "dikaiosyne",
+          "meaning": "righteousness; justice"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And Jesus, when he was baptized, went up straightway out of the water: and, lo, the heavens were opened unto him, and he saw the Spirit of God descending like a dove, and lighting upon him:",
+      "highlightedWords": [
+        {
+          "word": "Spirit",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit; Holy Spirit"
+        },
+        {
+          "word": "dove",
+          "strongNumber": "G4058",
+          "lemma": "peristera",
+          "meaning": "dove; pigeon"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased.",
+      "highlightedWords": [
+        {
+          "word": "voice",
+          "strongNumber": "G5456",
+          "lemma": "phone",
+          "meaning": "sound; voice"
+        },
+        {
+          "word": "Son",
+          "strongNumber": "G5207",
+          "lemma": "huios",
+          "meaning": "son; descendant"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,456 @@
+{
+  "book": "Galatians",
+  "chapter": 1,
+  "chapterTheme": {
+    "twoWordSummary": "Gospel Authenticity",
+    "themeWords": [
+      {
+        "word": "gospel",
+        "strongNumber": "G2098",
+        "lemma": "euangelion",
+        "meaning": "good news; message of salvation"
+      },
+      {
+        "word": "grace",
+        "strongNumber": "G5485",
+        "lemma": "charis",
+        "meaning": "unmerited favor of God"
+      }
+    ]
+  },
+  "sentenceTheme": "Paul defends his apostleship and the divine origin of the gospel of grace, recounting his conversion and early ministry.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)",
+      "highlightedWords": [
+        {
+          "word": "apostle",
+          "strongNumber": "G652",
+          "lemma": "apostolos",
+          "meaning": "one sent; messenger"
+        },
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iesous",
+          "meaning": "Jesus; Yahweh saves"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And all the brethren which are with me, unto the churches of Galatia:",
+      "highlightedWords": [
+        {
+          "word": "brethren",
+          "strongNumber": "G80",
+          "lemma": "adelphos",
+          "meaning": "brother; fellow believer"
+        },
+        {
+          "word": "churches",
+          "strongNumber": "G1577",
+          "lemma": "ekklesia",
+          "meaning": "assembly; called-out congregation"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Grace be to you and peace from God the Father, and from our Lord Jesus Christ,",
+      "highlightedWords": [
+        {
+          "word": "Grace",
+          "strongNumber": "G5485",
+          "lemma": "charis",
+          "meaning": "grace; unmerited favor"
+        },
+        {
+          "word": "peace",
+          "strongNumber": "G1515",
+          "lemma": "eirene",
+          "meaning": "peace; wholeness"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Who gave himself for our sins, that he might deliver us from this present evil world, according to the will of God and our Father:",
+      "highlightedWords": [
+        {
+          "word": "sins",
+          "strongNumber": "G266",
+          "lemma": "hamartia",
+          "meaning": "sin; missing the mark"
+        },
+        {
+          "word": "deliver",
+          "strongNumber": "G1807",
+          "lemma": "exaireo",
+          "meaning": "to rescue; deliver"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "To whom be glory for ever and ever. Amen.",
+      "highlightedWords": [
+        {
+          "word": "glory",
+          "strongNumber": "G1391",
+          "lemma": "doxa",
+          "meaning": "glory; honor"
+        },
+        {
+          "word": "Amen",
+          "strongNumber": "G281",
+          "lemma": "amen",
+          "meaning": "truly; so be it"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel:",
+      "highlightedWords": [
+        {
+          "word": "marvel",
+          "strongNumber": "G2296",
+          "lemma": "thaumazo",
+          "meaning": "to marvel; be amazed"
+        },
+        {
+          "word": "gospel",
+          "strongNumber": "G2098",
+          "lemma": "euangelion",
+          "meaning": "good news; gospel"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Which is not another; but there be some that trouble you, and would pervert the gospel of Christ.",
+      "highlightedWords": [
+        {
+          "word": "trouble",
+          "strongNumber": "G5015",
+          "lemma": "tarasso",
+          "meaning": "to trouble; agitate"
+        },
+        {
+          "word": "pervert",
+          "strongNumber": "G3344",
+          "lemma": "metastrepho",
+          "meaning": "to turn; pervert"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed.",
+      "highlightedWords": [
+        {
+          "word": "angel",
+          "strongNumber": "G32",
+          "lemma": "angelos",
+          "meaning": "messenger; angel"
+        },
+        {
+          "word": "accursed",
+          "strongNumber": "G331",
+          "lemma": "anathema",
+          "meaning": "accursed; devoted to destruction"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "As we said before, so say I now again, If any man preach any other gospel unto you than that ye have received, let him be accursed.",
+      "highlightedWords": [
+        {
+          "word": "received",
+          "strongNumber": "G3880",
+          "lemma": "paralambano",
+          "meaning": "to receive; take along"
+        },
+        {
+          "word": "accursed",
+          "strongNumber": "G331",
+          "lemma": "anathema",
+          "meaning": "accursed; devoted to destruction"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "For do I now persuade men, or God? or do I seek to please men? for if I yet pleased men, I should not be the servant of Christ.",
+      "highlightedWords": [
+        {
+          "word": "please",
+          "strongNumber": "G700",
+          "lemma": "aresko",
+          "meaning": "to please; be agreeable"
+        },
+        {
+          "word": "servant",
+          "strongNumber": "G1401",
+          "lemma": "doulos",
+          "meaning": "bondservant; slave"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "But I certify you, brethren, that the gospel which was preached of me is not after man.",
+      "highlightedWords": [
+        {
+          "word": "certify",
+          "strongNumber": "G1107",
+          "lemma": "gnorizo",
+          "meaning": "to make known; declare"
+        },
+        {
+          "word": "gospel",
+          "strongNumber": "G2098",
+          "lemma": "euangelion",
+          "meaning": "good news; gospel"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "For I neither received it of man, neither was I taught it, but by the revelation of Jesus Christ.",
+      "highlightedWords": [
+        {
+          "word": "received",
+          "strongNumber": "G3880",
+          "lemma": "paralambano",
+          "meaning": "to receive; take along"
+        },
+        {
+          "word": "revelation",
+          "strongNumber": "G602",
+          "lemma": "apokalypsis",
+          "meaning": "unveiling; revelation"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "For ye have heard of my conversation in time past in the Jews' religion, how that beyond measure I persecuted the church of God, and wasted it:",
+      "highlightedWords": [
+        {
+          "word": "conversation",
+          "strongNumber": "G391",
+          "lemma": "anastrophe",
+          "meaning": "conduct; manner of life"
+        },
+        {
+          "word": "church",
+          "strongNumber": "G1577",
+          "lemma": "ekklesia",
+          "meaning": "assembly; called-out congregation"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And profited in the Jews' religion above many my equals in mine own nation, being more exceedingly zealous of the traditions of my fathers.",
+      "highlightedWords": [
+        {
+          "word": "traditions",
+          "strongNumber": "G3862",
+          "lemma": "paradosis",
+          "meaning": "tradition; handed-down teaching"
+        },
+        {
+          "word": "fathers",
+          "strongNumber": "G3962",
+          "lemma": "pater",
+          "meaning": "father; ancestor"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "But when it pleased God, who separated me from my mother's womb, and called me by his grace,",
+      "highlightedWords": [
+        {
+          "word": "called",
+          "strongNumber": "G2564",
+          "lemma": "kaleo",
+          "meaning": "to call; invite"
+        },
+        {
+          "word": "grace",
+          "strongNumber": "G5485",
+          "lemma": "charis",
+          "meaning": "grace; unmerited favor"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "To reveal his Son in me, that I might preach him among the heathen; immediately I conferred not with flesh and blood:",
+      "highlightedWords": [
+        {
+          "word": "reveal",
+          "strongNumber": "G601",
+          "lemma": "apokalypto",
+          "meaning": "to reveal; uncover"
+        },
+        {
+          "word": "heathen",
+          "strongNumber": "G1484",
+          "lemma": "ethne",
+          "meaning": "nations; Gentiles"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Neither went I up to Jerusalem to them which were apostles before me; but I went into Arabia, and returned again unto Damascus.",
+      "highlightedWords": [
+        {
+          "word": "apostles",
+          "strongNumber": "G652",
+          "lemma": "apostolos",
+          "meaning": "ones sent; messengers"
+        },
+        {
+          "word": "Arabia",
+          "strongNumber": "G688",
+          "lemma": "Arabia",
+          "meaning": "Arabia; desert region"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Then after three years I went up to Jerusalem to see Peter, and abode with him fifteen days.",
+      "highlightedWords": [
+        {
+          "word": "Peter",
+          "strongNumber": "G4074",
+          "lemma": "Petros",
+          "meaning": "Peter; a stone"
+        },
+        {
+          "word": "abode",
+          "strongNumber": "G3306",
+          "lemma": "meno",
+          "meaning": "to remain; stay"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "But other of the apostles saw I none, save James the Lord's brother.",
+      "highlightedWords": [
+        {
+          "word": "apostles",
+          "strongNumber": "G652",
+          "lemma": "apostolos",
+          "meaning": "ones sent; messengers"
+        },
+        {
+          "word": "James",
+          "strongNumber": "G2385",
+          "lemma": "Iakobos",
+          "meaning": "James; Jacob"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Now the things which I write unto you, behold, before God, I lie not.",
+      "highlightedWords": [
+        {
+          "word": "write",
+          "strongNumber": "G1125",
+          "lemma": "grapho",
+          "meaning": "to write"
+        },
+        {
+          "word": "lie",
+          "strongNumber": "G5574",
+          "lemma": "pseudomai",
+          "meaning": "to lie; speak falsely"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Afterwards I came into the regions of Syria and Cilicia;",
+      "highlightedWords": [
+        {
+          "word": "regions",
+          "strongNumber": "G2824",
+          "lemma": "klima",
+          "meaning": "region; district"
+        },
+        {
+          "word": "Syria",
+          "strongNumber": "G4947",
+          "lemma": "Syria",
+          "meaning": "Syria; Aramean land"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And was unknown by face unto the churches of Judaea which were in Christ:",
+      "highlightedWords": [
+        {
+          "word": "churches",
+          "strongNumber": "G1577",
+          "lemma": "ekklesia",
+          "meaning": "assemblies; called-out congregations"
+        },
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "Anointed One; Messiah"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "But they had heard only, That he which persecuted us in times past now preacheth the faith which once he destroyed.",
+      "highlightedWords": [
+        {
+          "word": "preacheth",
+          "strongNumber": "G2097",
+          "lemma": "euangelizo",
+          "meaning": "to preach good news"
+        },
+        {
+          "word": "faith",
+          "strongNumber": "G4102",
+          "lemma": "pistis",
+          "meaning": "faith; trust"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And they glorified God in me.",
+      "highlightedWords": [
+        {
+          "word": "glorified",
+          "strongNumber": "G1392",
+          "lemma": "doxazo",
+          "meaning": "to glorify; honor"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God; deity"
+        }
+      ]
+    }
+  ]
+}

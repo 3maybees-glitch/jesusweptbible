@@ -1,0 +1,528 @@
+{
+  "book": "Acts",
+  "chapter": 18,
+  "chapterTheme": {
+    "twoWordSummary": "Corinth Ministry",
+    "themeWords": [
+      {
+        "word": "Paul",
+        "strongNumber": "G3972",
+        "lemma": "Paulos",
+        "meaning": "Paul"
+      },
+      {
+        "word": "Corinth",
+        "strongNumber": "G2882",
+        "lemma": "Korinthos",
+        "meaning": "Corinth"
+      }
+    ]
+  },
+  "sentenceTheme": "Paul ministers in Corinth with Aquila and Priscilla, faces opposition yet receives the Lord’s encouragement, and later Apollos is instructed and greatly helps the believers.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "After these things Paul departed from Athens, and came to Corinth;",
+      "highlightedWords": [
+        {
+          "word": "Paul",
+          "strongNumber": "G3972",
+          "lemma": "Paulos",
+          "meaning": "Paul"
+        },
+        {
+          "word": "Corinth",
+          "strongNumber": "G2882",
+          "lemma": "Korinthos",
+          "meaning": "Corinth"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; (because that Claudius had commanded all Jews to depart from Rome:) and came unto them.",
+      "highlightedWords": [
+        {
+          "word": "Jew",
+          "strongNumber": "G2453",
+          "lemma": "Ioudaios",
+          "meaning": "a Jew; Jewish person"
+        },
+        {
+          "word": "Aquila",
+          "strongNumber": "G207",
+          "lemma": "Akylas",
+          "meaning": "Aquila"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And because he was of the same craft, he abode with them, and wrought: for by their occupation they were tentmakers.",
+      "highlightedWords": [
+        {
+          "word": "craft",
+          "strongNumber": "G5078",
+          "lemma": "techne",
+          "meaning": "art; craft; trade"
+        },
+        {
+          "word": "tentmakers",
+          "strongNumber": "G4635",
+          "lemma": "skenopoios",
+          "meaning": "a tentmaker"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And he reasoned in the synagogue every sabbath, and persuaded the Jews and the Greeks.",
+      "highlightedWords": [
+        {
+          "word": "synagogue",
+          "strongNumber": "G4864",
+          "lemma": "synagoge",
+          "meaning": "synagogue; assembly"
+        },
+        {
+          "word": "Jews",
+          "strongNumber": "G2453",
+          "lemma": "Ioudaios",
+          "meaning": "Jews; Jewish people"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And when Silas and Timotheus were come from Macedonia, Paul was pressed in the spirit, and testified to the Jews that Jesus was Christ.",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iesous",
+          "meaning": "Jesus"
+        },
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "Anointed One; Messiah; Christ"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And when they opposed themselves, and blasphemed, he shook his raiment, and said unto them, Your blood be upon your own heads; I am clean: from henceforth I will go unto the Gentiles.",
+      "highlightedWords": [
+        {
+          "word": "blood",
+          "strongNumber": "G129",
+          "lemma": "haima",
+          "meaning": "blood"
+        },
+        {
+          "word": "Gentiles",
+          "strongNumber": "G1484",
+          "lemma": "ethnos",
+          "meaning": "nation; Gentiles"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And he departed thence, and entered into a certain man's house, named Justus, one that worshipped God, whose house joined hard to the synagogue.",
+      "highlightedWords": [
+        {
+          "word": "Justus",
+          "strongNumber": "G2459",
+          "lemma": "Ioustos",
+          "meaning": "Justus"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "Theos",
+          "meaning": "God"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And Crispus, the chief ruler of the synagogue, believed on the Lord with all his house; and many of the Corinthians hearing believed, and were baptized.",
+      "highlightedWords": [
+        {
+          "word": "Crispus",
+          "strongNumber": "G2921",
+          "lemma": "Krispos",
+          "meaning": "Crispus"
+        },
+        {
+          "word": "baptized",
+          "strongNumber": "G907",
+          "lemma": "baptizo",
+          "meaning": "to baptize; immerse"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Then spake the Lord to Paul in the night by a vision, Be not afraid, but speak, and hold not thy peace:",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "Kyrios",
+          "meaning": "Lord; master"
+        },
+        {
+          "word": "vision",
+          "strongNumber": "G3705",
+          "lemma": "horama",
+          "meaning": "a vision; that which is seen"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "For I am with thee, and no man shall set on thee to hurt thee: for I have much people in this city.",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "G2992",
+          "lemma": "laos",
+          "meaning": "people"
+        },
+        {
+          "word": "city",
+          "strongNumber": "G4172",
+          "lemma": "polis",
+          "meaning": "city"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And he continued there a year and six months, teaching the word of God among them.",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "G3056",
+          "lemma": "logos",
+          "meaning": "word; message"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "Theos",
+          "meaning": "God"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And when Gallio was the deputy of Achaia, the Jews made insurrection with one accord against Paul, and brought him to the judgment seat,",
+      "highlightedWords": [
+        {
+          "word": "Achaia",
+          "strongNumber": "G882",
+          "lemma": "Achaia",
+          "meaning": "Achaia"
+        },
+        {
+          "word": "Paul",
+          "strongNumber": "G3972",
+          "lemma": "Paulos",
+          "meaning": "Paul"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Saying, This fellow persuadeth men to worship God contrary to the law.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "Theos",
+          "meaning": "God"
+        },
+        {
+          "word": "law",
+          "strongNumber": "G3551",
+          "lemma": "nomos",
+          "meaning": "law"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And when Paul was now about to open his mouth, Gallio said unto the Jews, If it were a matter of wrong or wicked lewdness, O ye Jews, reason would that I should bear with you:",
+      "highlightedWords": [
+        {
+          "word": "Paul",
+          "strongNumber": "G3972",
+          "lemma": "Paulos",
+          "meaning": "Paul"
+        },
+        {
+          "word": "Jews",
+          "strongNumber": "G2453",
+          "lemma": "Ioudaios",
+          "meaning": "Jews; Jewish people"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "But if it be a question of words and names, and of your law, look ye to it; for I will be no judge of such matters.",
+      "highlightedWords": [
+        {
+          "word": "law",
+          "strongNumber": "G3551",
+          "lemma": "nomos",
+          "meaning": "law"
+        },
+        {
+          "word": "judge",
+          "strongNumber": "G2923",
+          "lemma": "krites",
+          "meaning": "a judge"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And he drave them from the judgment seat.",
+      "highlightedWords": [
+        {
+          "word": "drave",
+          "strongNumber": "G1643",
+          "lemma": "exelauno",
+          "meaning": "to drive out; expel"
+        },
+        {
+          "word": "judgment seat",
+          "strongNumber": "G968",
+          "lemma": "bema",
+          "meaning": "tribunal; judgment seat"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Then all the Greeks took Sosthenes, the chief ruler of the synagogue, and beat him before the judgment seat. And Gallio cared for none of those things.",
+      "highlightedWords": [
+        {
+          "word": "Greeks",
+          "strongNumber": "G1672",
+          "lemma": "Hellen",
+          "meaning": "Greek (Gentile)"
+        },
+        {
+          "word": "Sosthenes",
+          "strongNumber": "G4988",
+          "lemma": "Sosthenes",
+          "meaning": "Sosthenes"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And Paul after this tarried there yet a good while, and then took his leave of the brethren, and sailed thence into Syria, and with him Priscilla and Aquila; having shorn his head in Cenchrea: for he had a vow.",
+      "highlightedWords": [
+        {
+          "word": "Priscilla",
+          "strongNumber": "G4251",
+          "lemma": "Priskilla",
+          "meaning": "Priscilla"
+        },
+        {
+          "word": "Cenchrea",
+          "strongNumber": "G2747",
+          "lemma": "Kenchreai",
+          "meaning": "Cenchreae, port of Corinth"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And he came to Ephesus, and left them there: but he himself entered into the synagogue, and reasoned with the Jews.",
+      "highlightedWords": [
+        {
+          "word": "Ephesus",
+          "strongNumber": "G2181",
+          "lemma": "Ephesos",
+          "meaning": "Ephesus"
+        },
+        {
+          "word": "synagogue",
+          "strongNumber": "G4864",
+          "lemma": "synagoge",
+          "meaning": "synagogue; assembly"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "When they desired him to tarry longer time with them, he consented not;",
+      "highlightedWords": [
+        {
+          "word": "tarry",
+          "strongNumber": "G1961",
+          "lemma": "epimeno",
+          "meaning": "to remain; stay on"
+        },
+        {
+          "word": "time",
+          "strongNumber": "G5550",
+          "lemma": "chronos",
+          "meaning": "time; a period"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "But bade them farewell, saying, I must by all means keep this feast that cometh in Jerusalem: but I will return again unto you, if God will. And he sailed from Ephesus.",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "G2419",
+          "lemma": "Hierosolyma",
+          "meaning": "Jerusalem"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "Theos",
+          "meaning": "God"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And when he had landed at Caesarea, and gone up, and saluted the church, he went down to Antioch.",
+      "highlightedWords": [
+        {
+          "word": "Caesarea",
+          "strongNumber": "G2542",
+          "lemma": "Kaisareia",
+          "meaning": "Caesarea"
+        },
+        {
+          "word": "church",
+          "strongNumber": "G1577",
+          "lemma": "ekklesia",
+          "meaning": "assembly; church"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And after he had spent some time there, he departed, and went over all the country of Galatia and Phrygia in order, strengthening all the disciples.",
+      "highlightedWords": [
+        {
+          "word": "Galatia",
+          "strongNumber": "G1053",
+          "lemma": "Galatia",
+          "meaning": "Galatia"
+        },
+        {
+          "word": "Phrygia",
+          "strongNumber": "G5435",
+          "lemma": "Phrygia",
+          "meaning": "Phrygia"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And a certain Jew named Apollos, born at Alexandria, an eloquent man, and mighty in the scriptures, came to Ephesus.",
+      "highlightedWords": [
+        {
+          "word": "Apollos",
+          "strongNumber": "G625",
+          "lemma": "Apollos",
+          "meaning": "Apollos"
+        },
+        {
+          "word": "scriptures",
+          "strongNumber": "G1124",
+          "lemma": "graphe",
+          "meaning": "Scripture; writing"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "This man was instructed in the way of the Lord; and being fervent in the spirit, he spake and taught diligently the things of the Lord, knowing only the baptism of John.",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "Kyrios",
+          "meaning": "Lord; master"
+        },
+        {
+          "word": "baptism",
+          "strongNumber": "G908",
+          "lemma": "baptisma",
+          "meaning": "baptism"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And he began to speak boldly in the synagogue: whom when Aquila and Priscilla had heard, they took him unto them, and expounded unto him the way of God more perfectly.",
+      "highlightedWords": [
+        {
+          "word": "synagogue",
+          "strongNumber": "G4864",
+          "lemma": "synagoge",
+          "meaning": "synagogue; assembly"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "Theos",
+          "meaning": "God"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And when he was disposed to pass into Achaia, the brethren wrote, exhorting the disciples to receive him: who, when he was come, helped them much which had believed through grace:",
+      "highlightedWords": [
+        {
+          "word": "Achaia",
+          "strongNumber": "G882",
+          "lemma": "Achaia",
+          "meaning": "Achaia"
+        },
+        {
+          "word": "grace",
+          "strongNumber": "G5485",
+          "lemma": "charis",
+          "meaning": "grace; favor"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "For he mightily convinced the Jews, and that publickly, shewing by the scriptures that Jesus was Christ.",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iesous",
+          "meaning": "Jesus"
+        },
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "Anointed One; Messiah; Christ"
+        }
+      ]
+    }
+  ]
+}

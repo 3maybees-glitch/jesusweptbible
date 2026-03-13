@@ -1,0 +1,780 @@
+{
+  "book": "Luke",
+  "chapter": 10,
+  "chapterTheme": {
+    "twoWordSummary": "Mission Mercy",
+    "themeWords": [
+      {
+        "word": "harvest",
+        "strongNumber": "G2326",
+        "lemma": "therismos",
+        "meaning": "harvest"
+      },
+      {
+        "word": "mercy",
+        "strongNumber": "G1656",
+        "lemma": "eleos",
+        "meaning": "mercy, compassion"
+      }
+    ]
+  },
+  "sentenceTheme": "Jesus sends the seventy, warns unrepentant cities, rejoices in the Father’s revelation, and teaches love through the Good Samaritan and devotion through Mary and Martha.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "After these things the Lord appointed other seventy also, and sent them two and two before his face into every city and place, whither he himself would come.",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "lord, master"
+        },
+        {
+          "word": "city",
+          "strongNumber": "G4172",
+          "lemma": "polis",
+          "meaning": "city"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Therefore said he unto them, The harvest truly is great, but the labourers are few: pray ye therefore the Lord of the harvest, that he would send forth labourers into his harvest.",
+      "highlightedWords": [
+        {
+          "word": "harvest",
+          "strongNumber": "G2326",
+          "lemma": "therismos",
+          "meaning": "harvest"
+        },
+        {
+          "word": "labourers",
+          "strongNumber": "G2040",
+          "lemma": "ergatēs",
+          "meaning": "worker, laborer"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Go your ways: behold, I send you forth as lambs among wolves.",
+      "highlightedWords": [
+        {
+          "word": "send",
+          "strongNumber": "G649",
+          "lemma": "apostellō",
+          "meaning": "to send (out)"
+        },
+        {
+          "word": "wolves",
+          "strongNumber": "G3074",
+          "lemma": "lykos",
+          "meaning": "wolf"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Carry neither purse, nor scrip, nor shoes: and salute no man by the way.",
+      "highlightedWords": [
+        {
+          "word": "purse",
+          "strongNumber": "G905",
+          "lemma": "ballantion",
+          "meaning": "money bag, purse"
+        },
+        {
+          "word": "shoes",
+          "strongNumber": "G5266",
+          "lemma": "hupodēma",
+          "meaning": "sandal, shoe"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And into whatsoever house ye enter, first say, Peace be to this house.",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "G3624",
+          "lemma": "oikos",
+          "meaning": "house, household"
+        },
+        {
+          "word": "Peace",
+          "strongNumber": "G1515",
+          "lemma": "eirēnē",
+          "meaning": "peace"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And if the son of peace be there, your peace shall rest upon it: if not, it shall turn to you again.",
+      "highlightedWords": [
+        {
+          "word": "son",
+          "strongNumber": "G5207",
+          "lemma": "huios",
+          "meaning": "son"
+        },
+        {
+          "word": "peace",
+          "strongNumber": "G1515",
+          "lemma": "eirēnē",
+          "meaning": "peace"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And in the same house remain, eating and drinking such things as they give: for the labourer is worthy of his hire. Go not from house to house.",
+      "highlightedWords": [
+        {
+          "word": "labourer",
+          "strongNumber": "G2040",
+          "lemma": "ergatēs",
+          "meaning": "worker, laborer"
+        },
+        {
+          "word": "house",
+          "strongNumber": "G3624",
+          "lemma": "oikos",
+          "meaning": "house, household"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And into whatsoever city ye enter, and they receive you, eat such things as are set before you:",
+      "highlightedWords": [
+        {
+          "word": "city",
+          "strongNumber": "G4172",
+          "lemma": "polis",
+          "meaning": "city"
+        },
+        {
+          "word": "eat",
+          "strongNumber": "G2068",
+          "lemma": "esthiō",
+          "meaning": "to eat"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And heal the sick that are therein, and say unto them, The kingdom of God is come nigh unto you.",
+      "highlightedWords": [
+        {
+          "word": "kingdom",
+          "strongNumber": "G932",
+          "lemma": "basileia",
+          "meaning": "kingdom, reign"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "But into whatsoever city ye enter, and they receive you not, go your ways out into the streets of the same, and say,",
+      "highlightedWords": [
+        {
+          "word": "city",
+          "strongNumber": "G4172",
+          "lemma": "polis",
+          "meaning": "city"
+        },
+        {
+          "word": "enter",
+          "strongNumber": "G1525",
+          "lemma": "eiserchomai",
+          "meaning": "to enter"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Even the very dust of your city, which cleaveth on us, we do wipe off against you: notwithstanding be ye sure of this, that the kingdom of God is come nigh unto you.",
+      "highlightedWords": [
+        {
+          "word": "kingdom",
+          "strongNumber": "G932",
+          "lemma": "basileia",
+          "meaning": "kingdom, reign"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "But I say unto you, that it shall be more tolerable in that day for Sodom, than for that city.",
+      "highlightedWords": [
+        {
+          "word": "day",
+          "strongNumber": "G2250",
+          "lemma": "hēmera",
+          "meaning": "day"
+        },
+        {
+          "word": "Sodom",
+          "strongNumber": "G4670",
+          "lemma": "Sodoma",
+          "meaning": "Sodom"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Woe unto thee, Chorazin! woe unto thee, Bethsaida! for if the mighty works had been done in Tyre and Sidon, which have been done in you, they had a great while ago repented, sitting in sackcloth and ashes.",
+      "highlightedWords": [
+        {
+          "word": "Chorazin",
+          "strongNumber": "G5523",
+          "lemma": "Chorazin",
+          "meaning": "Chorazin"
+        },
+        {
+          "word": "repented",
+          "strongNumber": "G3340",
+          "lemma": "metanoeō",
+          "meaning": "to repent"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "But it shall be more tolerable for Tyre and Sidon at the judgment, than for you.",
+      "highlightedWords": [
+        {
+          "word": "Tyre",
+          "strongNumber": "G5184",
+          "lemma": "Tyros",
+          "meaning": "Tyre"
+        },
+        {
+          "word": "judgment",
+          "strongNumber": "G2920",
+          "lemma": "krisis",
+          "meaning": "judgment"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And thou, Capernaum, which art exalted to heaven, shalt be thrust down to hell.",
+      "highlightedWords": [
+        {
+          "word": "Capernaum",
+          "strongNumber": "G2584",
+          "lemma": "Kapharnaoum",
+          "meaning": "Capernaum"
+        },
+        {
+          "word": "hell",
+          "strongNumber": "G86",
+          "lemma": "Hadēs",
+          "meaning": "Hades, the realm of the dead"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "He that heareth you heareth me; and he that despiseth you despiseth me; and he that despiseth me despiseth him that sent me.",
+      "highlightedWords": [
+        {
+          "word": "heareth",
+          "strongNumber": "G191",
+          "lemma": "akouō",
+          "meaning": "to hear, listen"
+        },
+        {
+          "word": "sent",
+          "strongNumber": "G649",
+          "lemma": "apostellō",
+          "meaning": "to send"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And the seventy returned again with joy, saying, Lord, even the devils are subject unto us through thy name.",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "lord, master"
+        },
+        {
+          "word": "devils",
+          "strongNumber": "G1140",
+          "lemma": "daimonion",
+          "meaning": "demon, evil spirit"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And he said unto them, I beheld Satan as lightning fall from heaven.",
+      "highlightedWords": [
+        {
+          "word": "Satan",
+          "strongNumber": "G4567",
+          "lemma": "Satanas",
+          "meaning": "Satan, adversary"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "G3772",
+          "lemma": "ouranos",
+          "meaning": "heaven, sky"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Behold, I give unto you power to tread on serpents and scorpions, and over all the power of the enemy: and nothing shall by any means hurt you.",
+      "highlightedWords": [
+        {
+          "word": "power",
+          "strongNumber": "G1849",
+          "lemma": "exousia",
+          "meaning": "authority, right"
+        },
+        {
+          "word": "enemy",
+          "strongNumber": "G2190",
+          "lemma": "echthros",
+          "meaning": "enemy"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Notwithstanding in this rejoice not, that the spirits are subject unto you; but rather rejoice, because your names are written in heaven.",
+      "highlightedWords": [
+        {
+          "word": "spirits",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "G3772",
+          "lemma": "ouranos",
+          "meaning": "heaven, sky"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "In that hour Jesus rejoiced in spirit, and said, I thank thee, O Father, Lord of heaven and earth, that thou hast hid these things from the wise and prudent, and hast revealed them unto babes: even so, Father; for so it seemed good in thy sight.",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus"
+        },
+        {
+          "word": "Father",
+          "strongNumber": "G3962",
+          "lemma": "patēr",
+          "meaning": "father"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "All things are delivered to me of my Father: and no man knoweth who the Son is, but the Father; and who the Father is, but the Son, and he to whom the Son will reveal him.",
+      "highlightedWords": [
+        {
+          "word": "Son",
+          "strongNumber": "G5207",
+          "lemma": "huios",
+          "meaning": "son"
+        },
+        {
+          "word": "Father",
+          "strongNumber": "G3962",
+          "lemma": "patēr",
+          "meaning": "father"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And he turned him unto his disciples, and said privately, Blessed are the eyes which see the things that ye see:",
+      "highlightedWords": [
+        {
+          "word": "disciples",
+          "strongNumber": "G3101",
+          "lemma": "mathētēs",
+          "meaning": "disciple"
+        },
+        {
+          "word": "eyes",
+          "strongNumber": "G3788",
+          "lemma": "ophthalmos",
+          "meaning": "eye"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "For I tell you, that many prophets and kings have desired to see those things which ye see, and have not seen them; and to hear those things which ye hear, and have not heard them.",
+      "highlightedWords": [
+        {
+          "word": "prophets",
+          "strongNumber": "G4396",
+          "lemma": "prophētēs",
+          "meaning": "prophet"
+        },
+        {
+          "word": "kings",
+          "strongNumber": "G935",
+          "lemma": "basileus",
+          "meaning": "king"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And, behold, a certain lawyer stood up, and tempted him, saying, Master, what shall I do to inherit eternal life?",
+      "highlightedWords": [
+        {
+          "word": "lawyer",
+          "strongNumber": "G3544",
+          "lemma": "nomikos",
+          "meaning": "lawyer, expert in the Law"
+        },
+        {
+          "word": "eternal",
+          "strongNumber": "G166",
+          "lemma": "aiōnios",
+          "meaning": "eternal"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "He said unto him, What is written in the law? how readest thou?",
+      "highlightedWords": [
+        {
+          "word": "law",
+          "strongNumber": "G3551",
+          "lemma": "nomos",
+          "meaning": "law"
+        },
+        {
+          "word": "readest",
+          "strongNumber": "G314",
+          "lemma": "anaginōskō",
+          "meaning": "to read"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And he answering said, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy strength, and with all thy mind; and thy neighbour as thyself.",
+      "highlightedWords": [
+        {
+          "word": "love",
+          "strongNumber": "G25",
+          "lemma": "agapaō",
+          "meaning": "to love"
+        },
+        {
+          "word": "neighbour",
+          "strongNumber": "G4139",
+          "lemma": "plēsion",
+          "meaning": "neighbor"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And he said unto him, Thou hast answered right: this do, and thou shalt live.",
+      "highlightedWords": [
+        {
+          "word": "answered",
+          "strongNumber": "G611",
+          "lemma": "apokrinomai",
+          "meaning": "to answer, reply"
+        },
+        {
+          "word": "live",
+          "strongNumber": "G2198",
+          "lemma": "zaō",
+          "meaning": "to live"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "But he, willing to justify himself, said unto Jesus, And who is my neighbour?",
+      "highlightedWords": [
+        {
+          "word": "justify",
+          "strongNumber": "G1344",
+          "lemma": "dikaioō",
+          "meaning": "to justify, declare righteous"
+        },
+        {
+          "word": "neighbour",
+          "strongNumber": "G4139",
+          "lemma": "plēsion",
+          "meaning": "neighbor"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "And Jesus answering said, A certain man went down from Jerusalem to Jericho, and fell among thieves, which stripped him of his raiment, and wounded him, and departed, leaving him half dead.",
+      "highlightedWords": [
+        {
+          "word": "Jericho",
+          "strongNumber": "G2410",
+          "lemma": "Ierichō",
+          "meaning": "Jericho"
+        },
+        {
+          "word": "thieves",
+          "strongNumber": "G3027",
+          "lemma": "lēstēs",
+          "meaning": "robber, bandit"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "And by chance there came down a certain priest that way: and when he saw him, he passed by on the other side.",
+      "highlightedWords": [
+        {
+          "word": "priest",
+          "strongNumber": "G2409",
+          "lemma": "hiereus",
+          "meaning": "priest"
+        },
+        {
+          "word": "way",
+          "strongNumber": "G3598",
+          "lemma": "hodos",
+          "meaning": "way, road"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "And likewise a Levite, when he was at the place, came and looked on him, and passed by on the other side.",
+      "highlightedWords": [
+        {
+          "word": "Levite",
+          "strongNumber": "G3019",
+          "lemma": "Leuitēs",
+          "meaning": "Levite"
+        },
+        {
+          "word": "place",
+          "strongNumber": "G5117",
+          "lemma": "topos",
+          "meaning": "place"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "But a certain Samaritan, as he journeyed, came where he was: and when he saw him, he had compassion on him,",
+      "highlightedWords": [
+        {
+          "word": "Samaritan",
+          "strongNumber": "G4541",
+          "lemma": "Samaritēs",
+          "meaning": "Samaritan"
+        },
+        {
+          "word": "compassion",
+          "strongNumber": "G4697",
+          "lemma": "splagchnizomai",
+          "meaning": "to have compassion"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "And went to him, and bound up his wounds, pouring in oil and wine, and set him on his own beast, and brought him to an inn, and took care of him.",
+      "highlightedWords": [
+        {
+          "word": "oil",
+          "strongNumber": "G1637",
+          "lemma": "elaion",
+          "meaning": "olive oil"
+        },
+        {
+          "word": "wine",
+          "strongNumber": "G3631",
+          "lemma": "oinos",
+          "meaning": "wine"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "And on the morrow when he departed, he took out two pence, and gave them to the host, and said unto him, Take care of him; and whatsoever thou spendest more, when I come again, I will repay thee.",
+      "highlightedWords": [
+        {
+          "word": "pence",
+          "strongNumber": "G1220",
+          "lemma": "dēnarion",
+          "meaning": "denarius, a silver coin"
+        },
+        {
+          "word": "host",
+          "strongNumber": "G3830",
+          "lemma": "pandocheus",
+          "meaning": "innkeeper, host"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "Which now of these three, thinkest thou, was neighbour unto him that fell among the thieves?",
+      "highlightedWords": [
+        {
+          "word": "neighbour",
+          "strongNumber": "G4139",
+          "lemma": "plēsion",
+          "meaning": "neighbor"
+        },
+        {
+          "word": "thieves",
+          "strongNumber": "G3027",
+          "lemma": "lēstēs",
+          "meaning": "robber, bandit"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "And he said, He that shewed mercy on him. Then said Jesus unto him, Go, and do thou likewise.",
+      "highlightedWords": [
+        {
+          "word": "mercy",
+          "strongNumber": "G1656",
+          "lemma": "eleos",
+          "meaning": "mercy, compassion"
+        },
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "Now it came to pass, as they went, that he entered into a certain village: and a certain woman named Martha received him into her house.",
+      "highlightedWords": [
+        {
+          "word": "village",
+          "strongNumber": "G2968",
+          "lemma": "kōmē",
+          "meaning": "village"
+        },
+        {
+          "word": "Martha",
+          "strongNumber": "G3136",
+          "lemma": "Martha",
+          "meaning": "Martha"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "text": "And she had a sister called Mary, which also sat at Jesus' feet, and heard his word.",
+      "highlightedWords": [
+        {
+          "word": "Mary",
+          "strongNumber": "G3137",
+          "lemma": "Maria",
+          "meaning": "Mary"
+        },
+        {
+          "word": "feet",
+          "strongNumber": "G4228",
+          "lemma": "pous",
+          "meaning": "foot"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "text": "But Martha was cumbered about much serving, and came to him, and said, Lord, dost thou not care that my sister hath left me to serve alone? bid her therefore that she help me.",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "lord, master"
+        },
+        {
+          "word": "serve",
+          "strongNumber": "G1247",
+          "lemma": "diakoneō",
+          "meaning": "to serve, minister"
+        }
+      ]
+    },
+    {
+      "verse": 41,
+      "text": "And Jesus answered and said unto her, Martha, Martha, thou art careful and troubled about many things:",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus"
+        },
+        {
+          "word": "careful",
+          "strongNumber": "G3309",
+          "lemma": "merimnaō",
+          "meaning": "to be anxious, concerned"
+        }
+      ]
+    },
+    {
+      "verse": 42,
+      "text": "But one thing is needful: and Mary hath chosen that good part, which shall not be taken away from her.",
+      "highlightedWords": [
+        {
+          "word": "Mary",
+          "strongNumber": "G3137",
+          "lemma": "Maria",
+          "meaning": "Mary"
+        },
+        {
+          "word": "good",
+          "strongNumber": "G18",
+          "lemma": "agathos",
+          "meaning": "good"
+        }
+      ]
+    }
+  ]
+}

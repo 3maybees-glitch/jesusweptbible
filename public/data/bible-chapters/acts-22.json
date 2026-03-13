@@ -1,0 +1,564 @@
+{
+  "book": "Acts",
+  "chapter": 22,
+  "chapterTheme": {
+    "twoWordSummary": "Paul's Defence",
+    "themeWords": [
+      {
+        "word": "defence",
+        "strongNumber": "G627",
+        "lemma": "apologia",
+        "meaning": "a formal reply or speech in one’s defense"
+      },
+      {
+        "word": "Gentiles",
+        "strongNumber": "G1484",
+        "lemma": "ethnos",
+        "meaning": "nations; non-Jews"
+      }
+    ]
+  },
+  "sentenceTheme": "Paul defends himself before the crowd in Hebrew, recounts his conversion and commission by the Lord, and the people erupt when he mentions being sent to the Gentiles.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Men, brethren, and fathers, hear ye my defence which I make now unto you.",
+      "highlightedWords": [
+        {
+          "word": "brethren",
+          "strongNumber": "G80",
+          "lemma": "adelphos",
+          "meaning": "brother; fellow believer"
+        },
+        {
+          "word": "defence",
+          "strongNumber": "G627",
+          "lemma": "apologia",
+          "meaning": "a verbal defense, speech in one’s defense"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And when they heard that he spake in the Hebrew tongue to them, they kept the more silence: and he saith,",
+      "highlightedWords": [
+        {
+          "word": "Hebrew",
+          "strongNumber": "G1447",
+          "lemma": "Hebraisti",
+          "meaning": "in the Hebrew language"
+        },
+        {
+          "word": "tongue",
+          "strongNumber": "G1258",
+          "lemma": "dialektos",
+          "meaning": "language, dialect"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "I am verily a man which am a Jew, born in Tarsus, a city in Cilicia, yet brought up in this city at the feet of Gamaliel, and taught according to the perfect manner of the law of the fathers, and was zealous toward God, as ye all are this day.",
+      "highlightedWords": [
+        {
+          "word": "Jew",
+          "strongNumber": "G2453",
+          "lemma": "Ioudaios",
+          "meaning": "a Jew; Jewish"
+        },
+        {
+          "word": "law",
+          "strongNumber": "G3551",
+          "lemma": "nomos",
+          "meaning": "law, principle; the Mosaic law"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And I persecuted this way unto the death, binding and delivering into prisons both men and women.",
+      "highlightedWords": [
+        {
+          "word": "persecuted",
+          "strongNumber": "G1377",
+          "lemma": "diōkō",
+          "meaning": "to pursue, persecute"
+        },
+        {
+          "word": "prisons",
+          "strongNumber": "G5438",
+          "lemma": "phylakē",
+          "meaning": "a prison, guard, watch"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "As also the high priest doth bear me witness, and all the estate of the elders: from whom also I received letters unto the brethren, and went to Damascus, to bring them which were there bound unto Jerusalem, for to be punished.",
+      "highlightedWords": [
+        {
+          "word": "priest",
+          "strongNumber": "G749",
+          "lemma": "archiereus",
+          "meaning": "high priest; chief priest"
+        },
+        {
+          "word": "letters",
+          "strongNumber": "G1992",
+          "lemma": "epistolē",
+          "meaning": "a letter, epistle"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And it came to pass, that, as I made my journey, and was come nigh unto Damascus about noon, suddenly there shone from heaven a great light round about me.",
+      "highlightedWords": [
+        {
+          "word": "Damascus",
+          "strongNumber": "G1154",
+          "lemma": "Damaskos",
+          "meaning": "Damascus"
+        },
+        {
+          "word": "light",
+          "strongNumber": "G5457",
+          "lemma": "phōs",
+          "meaning": "light"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And I fell unto the ground, and heard a voice saying unto me, Saul, Saul, why persecutest thou me?",
+      "highlightedWords": [
+        {
+          "word": "Saul",
+          "strongNumber": "G4549",
+          "lemma": "Saulos",
+          "meaning": "Saul"
+        },
+        {
+          "word": "persecutest",
+          "strongNumber": "G1377",
+          "lemma": "diōkō",
+          "meaning": "to persecute, pursue"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And I answered, Who art thou, Lord? And he said unto me, I am Jesus of Nazareth, whom thou persecutest.",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "lord, master; Lord"
+        },
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus, Joshua; the name of the Messiah"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And they that were with me saw indeed the light, and were afraid; but they heard not the voice of him that spake to me.",
+      "highlightedWords": [
+        {
+          "word": "light",
+          "strongNumber": "G5457",
+          "lemma": "phōs",
+          "meaning": "light"
+        },
+        {
+          "word": "voice",
+          "strongNumber": "G5456",
+          "lemma": "phōnē",
+          "meaning": "a sound, voice"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And I said, What shall I do, Lord? And the Lord said unto me, Arise, and go into Damascus; and there it shall be told thee of all things which are appointed for thee to do.",
+      "highlightedWords": [
+        {
+          "word": "Arise",
+          "strongNumber": "G450",
+          "lemma": "anistēmi",
+          "meaning": "to rise, get up"
+        },
+        {
+          "word": "Damascus",
+          "strongNumber": "G1154",
+          "lemma": "Damaskos",
+          "meaning": "Damascus"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And when I could not see for the glory of that light, being led by the hand of them that were with me, I came into Damascus.",
+      "highlightedWords": [
+        {
+          "word": "glory",
+          "strongNumber": "G1391",
+          "lemma": "doxa",
+          "meaning": "glory, honor, splendor"
+        },
+        {
+          "word": "hand",
+          "strongNumber": "G5495",
+          "lemma": "cheir",
+          "meaning": "hand"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And one Ananias, a devout man according to the law, having a good report of all the Jews which dwelt there,",
+      "highlightedWords": [
+        {
+          "word": "Ananias",
+          "strongNumber": "G367",
+          "lemma": "Ananias",
+          "meaning": "Ananias"
+        },
+        {
+          "word": "Jews",
+          "strongNumber": "G2453",
+          "lemma": "Ioudaios",
+          "meaning": "Jews; Jewish people"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Came unto me, and stood, and said unto me, Brother Saul, receive thy sight. And the same hour I looked up upon him.",
+      "highlightedWords": [
+        {
+          "word": "Brother",
+          "strongNumber": "G80",
+          "lemma": "adelphos",
+          "meaning": "brother; fellow believer"
+        },
+        {
+          "word": "Saul",
+          "strongNumber": "G4549",
+          "lemma": "Saulos",
+          "meaning": "Saul"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And he said, The God of our fathers hath chosen thee, that thou shouldest know his will, and see that Just One, and shouldest hear the voice of his mouth.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God; deity"
+        },
+        {
+          "word": "fathers",
+          "strongNumber": "G3962",
+          "lemma": "patēr",
+          "meaning": "father, ancestor"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "For thou shalt be his witness unto all men of what thou hast seen and heard.",
+      "highlightedWords": [
+        {
+          "word": "witness",
+          "strongNumber": "G3144",
+          "lemma": "martys",
+          "meaning": "witness; one who testifies"
+        },
+        {
+          "word": "heard",
+          "strongNumber": "G191",
+          "lemma": "akouō",
+          "meaning": "to hear, listen"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And now why tarriest thou? arise, and be baptized, and wash away thy sins, calling on the name of the Lord.",
+      "highlightedWords": [
+        {
+          "word": "baptized",
+          "strongNumber": "G907",
+          "lemma": "baptizō",
+          "meaning": "to immerse, baptize"
+        },
+        {
+          "word": "sins",
+          "strongNumber": "G266",
+          "lemma": "hamartia",
+          "meaning": "sin, wrongdoing"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And it came to pass, that, when I was come again to Jerusalem, even while I prayed in the temple, I was in a trance;",
+      "highlightedWords": [
+        {
+          "word": "temple",
+          "strongNumber": "G2413",
+          "lemma": "hieron",
+          "meaning": "temple precincts"
+        },
+        {
+          "word": "trance",
+          "strongNumber": "G1611",
+          "lemma": "ekstasis",
+          "meaning": "a state of amazement, trance"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And saw him saying unto me, Make haste, and get thee quickly out of Jerusalem: for they will not receive thy testimony concerning me.",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "G2419",
+          "lemma": "Hierosolyma",
+          "meaning": "Jerusalem"
+        },
+        {
+          "word": "testimony",
+          "strongNumber": "G3141",
+          "lemma": "martyria",
+          "meaning": "testimony, witness"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And I said, Lord, they know that I imprisoned and beat in every synagogue them that believed on thee:",
+      "highlightedWords": [
+        {
+          "word": "synagogue",
+          "strongNumber": "G4864",
+          "lemma": "synagōgē",
+          "meaning": "assembly; synagogue"
+        },
+        {
+          "word": "believed",
+          "strongNumber": "G4100",
+          "lemma": "pisteuō",
+          "meaning": "to believe, have faith"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And when the blood of thy martyr Stephen was shed, I also was standing by, and consenting unto his death, and kept the raiment of them that slew him.",
+      "highlightedWords": [
+        {
+          "word": "martyr",
+          "strongNumber": "G3144",
+          "lemma": "martys",
+          "meaning": "witness; martyr"
+        },
+        {
+          "word": "Stephen",
+          "strongNumber": "G4736",
+          "lemma": "Stephanos",
+          "meaning": "Stephen"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And he said unto me, Depart: for I will send thee far hence unto the Gentiles.",
+      "highlightedWords": [
+        {
+          "word": "far",
+          "strongNumber": "G3113",
+          "lemma": "makran",
+          "meaning": "far (off), at a distance"
+        },
+        {
+          "word": "Gentiles",
+          "strongNumber": "G1484",
+          "lemma": "ethnos",
+          "meaning": "nations; non-Jews"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And they gave him audience unto this word, and then lifted up their voices, and said, Away with such a fellow from the earth: for it is not fit that he should live.",
+      "highlightedWords": [
+        {
+          "word": "voices",
+          "strongNumber": "G5456",
+          "lemma": "phōnē",
+          "meaning": "voices, sounds"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "G1093",
+          "lemma": "gē",
+          "meaning": "earth, land"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And as they cried out, and cast off their clothes, and threw dust into the air,",
+      "highlightedWords": [
+        {
+          "word": "clothes",
+          "strongNumber": "G2440",
+          "lemma": "himation",
+          "meaning": "garment, clothing"
+        },
+        {
+          "word": "air",
+          "strongNumber": "G109",
+          "lemma": "aēr",
+          "meaning": "air, atmosphere"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "The chief captain commanded him to be brought into the castle, and bade that he should be examined by scourging; that he might know wherefore they cried so against him.",
+      "highlightedWords": [
+        {
+          "word": "captain",
+          "strongNumber": "G5506",
+          "lemma": "chiliarchos",
+          "meaning": "commander of a thousand; chief captain"
+        },
+        {
+          "word": "scourging",
+          "strongNumber": "G3148",
+          "lemma": "mastix",
+          "meaning": "whip; scourging"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And as they bound him with thongs, Paul said unto the centurion that stood by, Is it lawful for you to scourge a man that is a Roman, and uncondemned?",
+      "highlightedWords": [
+        {
+          "word": "centurion",
+          "strongNumber": "G1543",
+          "lemma": "hekatontarchēs",
+          "meaning": "centurion; commander of a hundred"
+        },
+        {
+          "word": "Roman",
+          "strongNumber": "G4514",
+          "lemma": "Rhōmaios",
+          "meaning": "a Roman"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "When the centurion heard that, he went and told the chief captain, saying, Take heed what thou doest: for this man is a Roman.",
+      "highlightedWords": [
+        {
+          "word": "centurion",
+          "strongNumber": "G1543",
+          "lemma": "hekatontarchēs",
+          "meaning": "centurion; commander of a hundred"
+        },
+        {
+          "word": "captain",
+          "strongNumber": "G5506",
+          "lemma": "chiliarchos",
+          "meaning": "commander of a thousand; chief captain"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "Then the chief captain came, and said unto him, Tell me, art thou a Roman? He said, Yea.",
+      "highlightedWords": [
+        {
+          "word": "Roman",
+          "strongNumber": "G4514",
+          "lemma": "Rhōmaios",
+          "meaning": "a Roman"
+        },
+        {
+          "word": "Yea",
+          "strongNumber": "G3483",
+          "lemma": "nai",
+          "meaning": "yes; certainly"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And the chief captain answered, With a great sum obtained I this freedom. And Paul said, But I was free born.",
+      "highlightedWords": [
+        {
+          "word": "freedom",
+          "strongNumber": "G4174",
+          "lemma": "politeia",
+          "meaning": "citizenship; commonwealth"
+        },
+        {
+          "word": "Paul",
+          "strongNumber": "G3972",
+          "lemma": "Paulos",
+          "meaning": "Paul"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "Then straightway they departed from him which should have examined him: and the chief captain also was afraid, after he knew that he was a Roman, and because he had bound him.",
+      "highlightedWords": [
+        {
+          "word": "Roman",
+          "strongNumber": "G4514",
+          "lemma": "Rhōmaios",
+          "meaning": "a Roman"
+        },
+        {
+          "word": "bound",
+          "strongNumber": "G1210",
+          "lemma": "deō",
+          "meaning": "to bind, tie"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "On the morrow, because he would have known the certainty wherefore he was accused of the Jews, he loosed him from his bands, and commanded the chief priests and all their council to appear, and brought Paul down, and set him before them.",
+      "highlightedWords": [
+        {
+          "word": "morrow",
+          "strongNumber": "G1887",
+          "lemma": "epaurion",
+          "meaning": "on the morrow, the next day"
+        },
+        {
+          "word": "council",
+          "strongNumber": "G4892",
+          "lemma": "synedrion",
+          "meaning": "council; the Sanhedrin"
+        }
+      ]
+    }
+  ]
+}

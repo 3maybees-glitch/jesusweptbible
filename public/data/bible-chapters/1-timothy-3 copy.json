@@ -1,0 +1,312 @@
+{
+  "book": "1 Timothy",
+  "chapter": 3,
+  "chapterTheme": {
+    "twoWordSummary": "Church Leadership",
+    "themeWords": [
+      {
+        "word": "bishop",
+        "strongNumber": "G1985",
+        "lemma": "ἐπίσκοπος (episkopos)",
+        "meaning": "overseer; one who has charge"
+      },
+      {
+        "word": "deacon",
+        "strongNumber": "G1249",
+        "lemma": "διάκονος (diakonos)",
+        "meaning": "servant, minister; one who serves"
+      }
+    ]
+  },
+  "sentenceTheme": "Paul outlines qualifications for overseers and deacons and affirms the great mystery of godliness revealed in Christ.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "This is a true saying, If a man desire the office of a bishop, he desireth a good work.",
+      "highlightedWords": [
+        {
+          "word": "bishop",
+          "strongNumber": "G1985",
+          "lemma": "ἐπίσκοπος (episkopos)",
+          "meaning": "overseer; one who has charge"
+        },
+        {
+          "word": "work",
+          "strongNumber": "G2041",
+          "lemma": "ἔργον (ergon)",
+          "meaning": "work, deed, task"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "A bishop then must be blameless, the husband of one wife, vigilant, sober, of good behaviour, given to hospitality, apt to teach;",
+      "highlightedWords": [
+        {
+          "word": "blameless",
+          "strongNumber": "G423",
+          "lemma": "ἀνεπίλημπτος (anepilēmptos)",
+          "meaning": "irreproachable, above criticism"
+        },
+        {
+          "word": "sober",
+          "strongNumber": "G4998",
+          "lemma": "σώφρων (sōphrōn)",
+          "meaning": "self-controlled, of sound mind"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Not given to wine, no striker, not greedy of filthy lucre; but patient, not a brawler, not covetous;",
+      "highlightedWords": [
+        {
+          "word": "wine",
+          "strongNumber": "G3631",
+          "lemma": "οἶνος (oinos)",
+          "meaning": "wine"
+        },
+        {
+          "word": "covetous",
+          "strongNumber": "G866",
+          "lemma": "ἀφίλαργυρος (aphilargyros)",
+          "meaning": "not loving money; free from avarice"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "One that ruleth well his own house, having his children in subjection with all gravity;",
+      "highlightedWords": [
+        {
+          "word": "ruleth",
+          "strongNumber": "G4291",
+          "lemma": "προΐστημι (proistēmi)",
+          "meaning": "to lead, manage, preside over"
+        },
+        {
+          "word": "house",
+          "strongNumber": "G3624",
+          "lemma": "οἶκος (oikos)",
+          "meaning": "house, household"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "(For if a man know not how to rule his own house, how shall he take care of the church of God?)",
+      "highlightedWords": [
+        {
+          "word": "church",
+          "strongNumber": "G1577",
+          "lemma": "ἐκκλησία (ekklēsia)",
+          "meaning": "assembly, congregation, church"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "Θεός (Theos)",
+          "meaning": "God"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Not a novice, lest being lifted up with pride he fall into the condemnation of the devil.",
+      "highlightedWords": [
+        {
+          "word": "novice",
+          "strongNumber": "G3504",
+          "lemma": "νεόφυτος (neophytos)",
+          "meaning": "newly planted; a new convert"
+        },
+        {
+          "word": "devil",
+          "strongNumber": "G1228",
+          "lemma": "διάβολος (diabolos)",
+          "meaning": "slanderer, accuser; the devil"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Moreover he must have a good report of them which are without; lest he fall into reproach and the snare of the devil.",
+      "highlightedWords": [
+        {
+          "word": "report",
+          "strongNumber": "G3141",
+          "lemma": "μαρτυρία (martyria)",
+          "meaning": "testimony, witness, report"
+        },
+        {
+          "word": "snare",
+          "strongNumber": "G3803",
+          "lemma": "παγίς (pagis)",
+          "meaning": "trap, snare"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Likewise must the deacons be grave, not doubletongued, not given to much wine, not greedy of filthy lucre;",
+      "highlightedWords": [
+        {
+          "word": "deacons",
+          "strongNumber": "G1249",
+          "lemma": "διάκονος (diakonos)",
+          "meaning": "servant, minister; deacon"
+        },
+        {
+          "word": "doubletongued",
+          "strongNumber": "G1351",
+          "lemma": "δίλογος (dilogos)",
+          "meaning": "deceitful in speech; double-tongued"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Holding the mystery of the faith in a pure conscience.",
+      "highlightedWords": [
+        {
+          "word": "mystery",
+          "strongNumber": "G3466",
+          "lemma": "μυστήριον (mystērion)",
+          "meaning": "secret, revealed mystery"
+        },
+        {
+          "word": "faith",
+          "strongNumber": "G4102",
+          "lemma": "πίστις (pistis)",
+          "meaning": "faith, trust, belief"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And let these also first be proved; then let them use the office of a deacon, being found blameless.",
+      "highlightedWords": [
+        {
+          "word": "proved",
+          "strongNumber": "G1381",
+          "lemma": "δοκιμάζω (dokimazō)",
+          "meaning": "to test, examine, approve"
+        },
+        {
+          "word": "deacon",
+          "strongNumber": "G1249",
+          "lemma": "διάκονος (diakonos)",
+          "meaning": "servant, minister; deacon"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Even so must their wives be grave, not slanderers, sober, faithful in all things.",
+      "highlightedWords": [
+        {
+          "word": "wives",
+          "strongNumber": "G1135",
+          "lemma": "γυνή (gynē)",
+          "meaning": "woman, wife"
+        },
+        {
+          "word": "slanderers",
+          "strongNumber": "G1228",
+          "lemma": "διάβολος (diabolos)",
+          "meaning": "slanderer, false accuser"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Let the deacons be the husbands of one wife, ruling their children and their own houses well.",
+      "highlightedWords": [
+        {
+          "word": "husbands",
+          "strongNumber": "G435",
+          "lemma": "ἀνήρ (anēr)",
+          "meaning": "man, husband"
+        },
+        {
+          "word": "ruling",
+          "strongNumber": "G4291",
+          "lemma": "προΐστημι (proistēmi)",
+          "meaning": "to lead, manage, preside over"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "For they that have used the office of a deacon well purchase to themselves a good degree, and great boldness in the faith which is in Christ Jesus.",
+      "highlightedWords": [
+        {
+          "word": "boldness",
+          "strongNumber": "G3954",
+          "lemma": "παρρησία (parrēsia)",
+          "meaning": "confidence, boldness, freedom of speech"
+        },
+        {
+          "word": "faith",
+          "strongNumber": "G4102",
+          "lemma": "πίστις (pistis)",
+          "meaning": "faith, trust, belief"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "These things write I unto thee, hoping to come unto thee shortly:",
+      "highlightedWords": [
+        {
+          "word": "write",
+          "strongNumber": "G1125",
+          "lemma": "γράφω (graphō)",
+          "meaning": "to write"
+        },
+        {
+          "word": "come",
+          "strongNumber": "G2064",
+          "lemma": "ἔρχομαι (erchomai)",
+          "meaning": "to come, go"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "But if I tarry long, that thou mayest know how thou oughtest to behave thyself in the house of God, which is the church of the living God, the pillar and ground of the truth.",
+      "highlightedWords": [
+        {
+          "word": "church",
+          "strongNumber": "G1577",
+          "lemma": "ἐκκλησία (ekklēsia)",
+          "meaning": "assembly, congregation, church"
+        },
+        {
+          "word": "truth",
+          "strongNumber": "G225",
+          "lemma": "ἀλήθεια (alētheia)",
+          "meaning": "truth, reality, sincerity"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Spirit, seen of angels, preached unto the Gentiles, believed on in the world, received up into glory.",
+      "highlightedWords": [
+        {
+          "word": "godliness",
+          "strongNumber": "G2150",
+          "lemma": "εὐσέβεια (eusebeia)",
+          "meaning": "piety, reverence toward God, godliness"
+        },
+        {
+          "word": "Gentiles",
+          "strongNumber": "G1484",
+          "lemma": "ἔθνη (ethnē)",
+          "meaning": "nations, Gentiles"
+        }
+      ]
+    }
+  ]
+}

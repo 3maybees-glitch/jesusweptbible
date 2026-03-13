@@ -1,0 +1,780 @@
+{
+  "book": "Matthew",
+  "chapter": 10,
+  "chapterTheme": {
+    "twoWordSummary": "Apostolic Commission",
+    "themeWords": [
+      {
+        "word": "send",
+        "strongNumber": "G649",
+        "lemma": "ἀποστέλλω",
+        "meaning": "to send out, commission"
+      },
+      {
+        "word": "kingdom",
+        "strongNumber": "G932",
+        "lemma": "βασιλεία",
+        "meaning": "reign, rule, kingdom"
+      }
+    ]
+  },
+  "sentenceTheme": "Jesus commissions the Twelve with authority, instructs them on their mission, warns of persecution, calls for fearless allegiance, and assures divine reward.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And when he had called unto him his twelve disciples, he gave them power against unclean spirits, to cast them out, and to heal all manner of sickness and all manner of disease.",
+      "highlightedWords": [
+        {
+          "word": "disciples",
+          "strongNumber": "G3101",
+          "lemma": "μαθητής",
+          "meaning": "disciple, learner, follower"
+        },
+        {
+          "word": "spirits",
+          "strongNumber": "G4151",
+          "lemma": "πνεῦμα",
+          "meaning": "spirit, breath, immaterial being"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Now the names of the twelve apostles are these; The first, Simon, who is called Peter, and Andrew his brother; James the son of Zebedee, and John his brother;",
+      "highlightedWords": [
+        {
+          "word": "apostles",
+          "strongNumber": "G652",
+          "lemma": "ἀπόστολος",
+          "meaning": "one who is sent, messenger"
+        },
+        {
+          "word": "Peter",
+          "strongNumber": "G4074",
+          "lemma": "Πέτρος",
+          "meaning": "Peter, a name meaning rock"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Philip, and Bartholomew; Thomas, and Matthew the publican; James the son of Alphaeus; and Lebbaeus, whose surname was Thaddaeus;",
+      "highlightedWords": [
+        {
+          "word": "Matthew",
+          "strongNumber": "G3156",
+          "lemma": "Ματθαῖος",
+          "meaning": "Matthew, a personal name meaning gift of Yah"
+        },
+        {
+          "word": "publican",
+          "strongNumber": "G5057",
+          "lemma": "τελώνης",
+          "meaning": "tax collector"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Simon the Canaanite, and Judas Iscariot, who also betrayed him.",
+      "highlightedWords": [
+        {
+          "word": "Judas",
+          "strongNumber": "G2455",
+          "lemma": "Ἰούδας",
+          "meaning": "Judas, Judah; a personal name"
+        },
+        {
+          "word": "betrayed",
+          "strongNumber": "G3860",
+          "lemma": "παραδίδωμι",
+          "meaning": "to hand over, betray, deliver up"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "These twelve Jesus sent forth, and commanded them, saying, Go not into the way of the Gentiles, and into any city of the Samaritans enter ye not:",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Ἰησοῦς",
+          "meaning": "Jesus, Yahweh is salvation"
+        },
+        {
+          "word": "Gentiles",
+          "strongNumber": "G1484",
+          "lemma": "ἔθνος",
+          "meaning": "nation, Gentile"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "But go rather to the lost sheep of the house of Israel.",
+      "highlightedWords": [
+        {
+          "word": "sheep",
+          "strongNumber": "G4263",
+          "lemma": "πρόβατον",
+          "meaning": "sheep"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "G2474",
+          "lemma": "Ἰσραήλ",
+          "meaning": "Israel"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And as ye go, preach, saying, The kingdom of heaven is at hand.",
+      "highlightedWords": [
+        {
+          "word": "kingdom",
+          "strongNumber": "G932",
+          "lemma": "βασιλεία",
+          "meaning": "reign, rule, kingdom"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "G3772",
+          "lemma": "οὐρανός",
+          "meaning": "heaven, sky"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Heal the sick, cleanse the lepers, raise the dead, cast out devils: freely ye have received, freely give.",
+      "highlightedWords": [
+        {
+          "word": "lepers",
+          "strongNumber": "G3015",
+          "lemma": "λεπρός",
+          "meaning": "leprous person, leper"
+        },
+        {
+          "word": "devils",
+          "strongNumber": "G1140",
+          "lemma": "δαιμόνιον",
+          "meaning": "demon, evil spirit"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Provide neither gold, nor silver, nor brass in your purses,",
+      "highlightedWords": [
+        {
+          "word": "gold",
+          "strongNumber": "G5557",
+          "lemma": "χρυσός",
+          "meaning": "gold"
+        },
+        {
+          "word": "silver",
+          "strongNumber": "G694",
+          "lemma": "ἄργυρος",
+          "meaning": "silver, money"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Nor scrip for your journey, neither two coats, neither shoes, nor yet staves: for the workman is worthy of his meat.",
+      "highlightedWords": [
+        {
+          "word": "workman",
+          "strongNumber": "G2040",
+          "lemma": "ἐργάτης",
+          "meaning": "worker, laborer"
+        },
+        {
+          "word": "worthy",
+          "strongNumber": "G514",
+          "lemma": "ἄξιος",
+          "meaning": "worthy, deserving"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And into whatsoever city or town ye shall enter, enquire who in it is worthy; and there abide till ye go thence.",
+      "highlightedWords": [
+        {
+          "word": "city",
+          "strongNumber": "G4172",
+          "lemma": "πόλις",
+          "meaning": "city, town"
+        },
+        {
+          "word": "worthy",
+          "strongNumber": "G514",
+          "lemma": "ἄξιος",
+          "meaning": "worthy, deserving"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And when ye come into an house, salute it.",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "G3614",
+          "lemma": "οἰκία",
+          "meaning": "house, household"
+        },
+        {
+          "word": "salute",
+          "strongNumber": "G782",
+          "lemma": "ἀσπάζομαι",
+          "meaning": "to greet, welcome"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And if the house be worthy, let your peace come upon it: but if it be not worthy, let your peace return to you.",
+      "highlightedWords": [
+        {
+          "word": "peace",
+          "strongNumber": "G1515",
+          "lemma": "εἰρήνη",
+          "meaning": "peace, harmony"
+        },
+        {
+          "word": "worthy",
+          "strongNumber": "G514",
+          "lemma": "ἄξιος",
+          "meaning": "worthy, deserving"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And whosoever shall not receive you, nor hear your words, when ye depart out of that house or city, shake off the dust of your feet.",
+      "highlightedWords": [
+        {
+          "word": "receive",
+          "strongNumber": "G1209",
+          "lemma": "δέχομαι",
+          "meaning": "to receive, accept"
+        },
+        {
+          "word": "dust",
+          "strongNumber": "G2868",
+          "lemma": "κονιορτός",
+          "meaning": "dust"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Verily I say unto you, It shall be more tolerable for the land of Sodom and Gomorrha in the day of judgment, than for that city.",
+      "highlightedWords": [
+        {
+          "word": "Sodom",
+          "strongNumber": "G4670",
+          "lemma": "Σόδομα",
+          "meaning": "Sodom, a city destroyed for wickedness"
+        },
+        {
+          "word": "judgment",
+          "strongNumber": "G2920",
+          "lemma": "κρίσις",
+          "meaning": "judgment, decision"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Behold, I send you forth as sheep in the midst of wolves: be ye therefore wise as serpents, and harmless as doves.",
+      "highlightedWords": [
+        {
+          "word": "sheep",
+          "strongNumber": "G4263",
+          "lemma": "πρόβατον",
+          "meaning": "sheep"
+        },
+        {
+          "word": "wolves",
+          "strongNumber": "G3074",
+          "lemma": "λύκος",
+          "meaning": "wolf"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "But beware of men: for they will deliver you up to the councils, and they will scourge you in their synagogues;",
+      "highlightedWords": [
+        {
+          "word": "councils",
+          "strongNumber": "G4892",
+          "lemma": "συνέδριον",
+          "meaning": "council, Sanhedrin"
+        },
+        {
+          "word": "synagogues",
+          "strongNumber": "G4864",
+          "lemma": "συναγωγή",
+          "meaning": "synagogue, assembly"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And ye shall be brought before governors and kings for my sake, for a testimony against them and the Gentiles.",
+      "highlightedWords": [
+        {
+          "word": "kings",
+          "strongNumber": "G935",
+          "lemma": "βασιλεύς",
+          "meaning": "king"
+        },
+        {
+          "word": "testimony",
+          "strongNumber": "G3142",
+          "lemma": "μαρτύριον",
+          "meaning": "witness, testimony, evidence"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "But when they deliver you up, take no thought how or what ye shall speak: for it shall be given you in that same hour what ye shall speak.",
+      "highlightedWords": [
+        {
+          "word": "speak",
+          "strongNumber": "G2980",
+          "lemma": "λαλέω",
+          "meaning": "to speak, talk"
+        },
+        {
+          "word": "hour",
+          "strongNumber": "G5610",
+          "lemma": "ὥρα",
+          "meaning": "hour, time"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "For it is not ye that speak, but the Spirit of your Father which speaketh in you.",
+      "highlightedWords": [
+        {
+          "word": "Spirit",
+          "strongNumber": "G4151",
+          "lemma": "πνεῦμα",
+          "meaning": "Spirit, spirit, breath"
+        },
+        {
+          "word": "Father",
+          "strongNumber": "G3962",
+          "lemma": "πατήρ",
+          "meaning": "father"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And the brother shall deliver up the brother to death, and the father the child: and the children shall rise up against their parents, and cause them to be put to death.",
+      "highlightedWords": [
+        {
+          "word": "death",
+          "strongNumber": "G2288",
+          "lemma": "θάνατος",
+          "meaning": "death"
+        },
+        {
+          "word": "parents",
+          "strongNumber": "G1118",
+          "lemma": "γονεύς",
+          "meaning": "parent"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And ye shall be hated of all men for my name's sake: but he that endureth to the end shall be saved.",
+      "highlightedWords": [
+        {
+          "word": "name",
+          "strongNumber": "G3686",
+          "lemma": "ὄνομα",
+          "meaning": "name"
+        },
+        {
+          "word": "saved",
+          "strongNumber": "G4982",
+          "lemma": "σώζω",
+          "meaning": "to save, deliver"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "But when they persecute you in this city, flee ye into another: for verily I say unto you, Ye shall not have gone over the cities of Israel, till the Son of man be come.",
+      "highlightedWords": [
+        {
+          "word": "persecute",
+          "strongNumber": "G1377",
+          "lemma": "διώκω",
+          "meaning": "to persecute, pursue"
+        },
+        {
+          "word": "Son",
+          "strongNumber": "G5207",
+          "lemma": "υἱός",
+          "meaning": "son"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "The disciple is not above his master, nor the servant above his lord.",
+      "highlightedWords": [
+        {
+          "word": "disciple",
+          "strongNumber": "G3101",
+          "lemma": "μαθητής",
+          "meaning": "disciple, learner"
+        },
+        {
+          "word": "master",
+          "strongNumber": "G1320",
+          "lemma": "διδάσκαλος",
+          "meaning": "teacher, master"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "It is enough for the disciple that he be as his master, and the servant as his lord. If they have called the master of the house Beelzebub, how much more shall they call them of his household?",
+      "highlightedWords": [
+        {
+          "word": "Beelzebub",
+          "strongNumber": "G954",
+          "lemma": "Βεελζεβούλ",
+          "meaning": "Beelzebub/Beelzebul, a name for Satan"
+        },
+        {
+          "word": "household",
+          "strongNumber": "G3615",
+          "lemma": "οἰκιακός",
+          "meaning": "of the household, household member"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "Fear them not therefore: for there is nothing covered, that shall not be revealed; and hid, that shall not be known.",
+      "highlightedWords": [
+        {
+          "word": "Fear",
+          "strongNumber": "G5399",
+          "lemma": "φοβέομαι",
+          "meaning": "to fear, be afraid"
+        },
+        {
+          "word": "revealed",
+          "strongNumber": "G601",
+          "lemma": "ἀποκαλύπτω",
+          "meaning": "to reveal, uncover"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "What I tell you in darkness, that speak ye in light: and what ye hear in the ear, that preach ye upon the housetops.",
+      "highlightedWords": [
+        {
+          "word": "darkness",
+          "strongNumber": "G4655",
+          "lemma": "σκότος",
+          "meaning": "darkness"
+        },
+        {
+          "word": "preach",
+          "strongNumber": "G2784",
+          "lemma": "κηρύσσω",
+          "meaning": "to proclaim, preach"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And fear not them which kill the body, but are not able to kill the soul: but rather fear him which is able to destroy both soul and body in hell.",
+      "highlightedWords": [
+        {
+          "word": "soul",
+          "strongNumber": "G5590",
+          "lemma": "ψυχή",
+          "meaning": "soul, life, self"
+        },
+        {
+          "word": "hell",
+          "strongNumber": "G1067",
+          "lemma": "γέεννα",
+          "meaning": "Gehenna, hell"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "Are not two sparrows sold for a farthing? and one of them shall not fall on the ground without your Father.",
+      "highlightedWords": [
+        {
+          "word": "sparrows",
+          "strongNumber": "G4765",
+          "lemma": "στρουθίον",
+          "meaning": "sparrow"
+        },
+        {
+          "word": "Father",
+          "strongNumber": "G3962",
+          "lemma": "πατήρ",
+          "meaning": "father"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "But the very hairs of your head are all numbered.",
+      "highlightedWords": [
+        {
+          "word": "hairs",
+          "strongNumber": "G2359",
+          "lemma": "θρίξ",
+          "meaning": "hair"
+        },
+        {
+          "word": "numbered",
+          "strongNumber": "G705",
+          "lemma": "ἀριθμέω",
+          "meaning": "to number, count"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "Fear ye not therefore, ye are of more value than many sparrows.",
+      "highlightedWords": [
+        {
+          "word": "Fear",
+          "strongNumber": "G5399",
+          "lemma": "φοβέομαι",
+          "meaning": "to fear, be afraid"
+        },
+        {
+          "word": "sparrows",
+          "strongNumber": "G4765",
+          "lemma": "στρουθίον",
+          "meaning": "sparrow"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "Whosoever therefore shall confess me before men, him will I confess also before my Father which is in heaven.",
+      "highlightedWords": [
+        {
+          "word": "confess",
+          "strongNumber": "G3670",
+          "lemma": "ὁμολογέω",
+          "meaning": "to confess, acknowledge"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "G3772",
+          "lemma": "οὐρανός",
+          "meaning": "heaven, sky"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "But whosoever shall deny me before men, him will I also deny before my Father which is in heaven.",
+      "highlightedWords": [
+        {
+          "word": "deny",
+          "strongNumber": "G720",
+          "lemma": "ἀρνέομαι",
+          "meaning": "to deny, refuse"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "G3772",
+          "lemma": "οὐρανός",
+          "meaning": "heaven, sky"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "Think not that I am come to send peace on earth: I came not to send peace, but a sword.",
+      "highlightedWords": [
+        {
+          "word": "peace",
+          "strongNumber": "G1515",
+          "lemma": "εἰρήνη",
+          "meaning": "peace"
+        },
+        {
+          "word": "sword",
+          "strongNumber": "G3162",
+          "lemma": "μάχαιρα",
+          "meaning": "sword, short sword"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "For I am come to set a man at variance against his father, and the daughter against her mother, and the daughter in law against her mother in law.",
+      "highlightedWords": [
+        {
+          "word": "daughter",
+          "strongNumber": "G2364",
+          "lemma": "θυγάτηρ",
+          "meaning": "daughter"
+        },
+        {
+          "word": "mother",
+          "strongNumber": "G3384",
+          "lemma": "μήτηρ",
+          "meaning": "mother"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "And a man's foes shall be they of his own household.",
+      "highlightedWords": [
+        {
+          "word": "foes",
+          "strongNumber": "G2190",
+          "lemma": "ἐχθρός",
+          "meaning": "enemy, foe"
+        },
+        {
+          "word": "household",
+          "strongNumber": "G3615",
+          "lemma": "οἰκιακός",
+          "meaning": "of the household, household member"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "He that loveth father or mother more than me is not worthy of me: and he that loveth son or daughter more than me is not worthy of me.",
+      "highlightedWords": [
+        {
+          "word": "loveth",
+          "strongNumber": "G5368",
+          "lemma": "φιλέω",
+          "meaning": "to love (with affection)"
+        },
+        {
+          "word": "worthy",
+          "strongNumber": "G514",
+          "lemma": "ἄξιος",
+          "meaning": "worthy, deserving"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "And he that taketh not his cross, and followeth after me, is not worthy of me.",
+      "highlightedWords": [
+        {
+          "word": "cross",
+          "strongNumber": "G4716",
+          "lemma": "σταυρός",
+          "meaning": "cross, stake"
+        },
+        {
+          "word": "followeth",
+          "strongNumber": "G190",
+          "lemma": "ἀκολουθέω",
+          "meaning": "to follow"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "text": "He that findeth his life shall lose it: and he that loseth his life for my sake shall find it.",
+      "highlightedWords": [
+        {
+          "word": "life",
+          "strongNumber": "G5590",
+          "lemma": "ψυχή",
+          "meaning": "soul, life, self"
+        },
+        {
+          "word": "lose",
+          "strongNumber": "G622",
+          "lemma": "ἀπόλλυμι",
+          "meaning": "to destroy, lose, perish"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "text": "He that receiveth you receiveth me, and he that receiveth me receiveth him that sent me.",
+      "highlightedWords": [
+        {
+          "word": "receiveth",
+          "strongNumber": "G1209",
+          "lemma": "δέχομαι",
+          "meaning": "to receive, accept"
+        },
+        {
+          "word": "sent",
+          "strongNumber": "G649",
+          "lemma": "ἀποστέλλω",
+          "meaning": "to send out"
+        }
+      ]
+    },
+    {
+      "verse": 41,
+      "text": "He that receiveth a prophet in the name of a prophet shall receive a prophet's reward; and he that receiveth a righteous man in the name of a righteous man shall receive a righteous man's reward.",
+      "highlightedWords": [
+        {
+          "word": "prophet",
+          "strongNumber": "G4396",
+          "lemma": "προφήτης",
+          "meaning": "prophet"
+        },
+        {
+          "word": "reward",
+          "strongNumber": "G3408",
+          "lemma": "μισθός",
+          "meaning": "wages, reward"
+        }
+      ]
+    },
+    {
+      "verse": 42,
+      "text": "And whosoever shall give to drink unto one of these little ones a cup of cold water only in the name of a disciple, verily I say unto you, he shall in no wise lose his reward.",
+      "highlightedWords": [
+        {
+          "word": "disciple",
+          "strongNumber": "G3101",
+          "lemma": "μαθητής",
+          "meaning": "disciple, learner"
+        },
+        {
+          "word": "reward",
+          "strongNumber": "G3408",
+          "lemma": "μισθός",
+          "meaning": "wages, reward"
+        }
+      ]
+    }
+  ]
+}

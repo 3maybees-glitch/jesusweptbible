@@ -1,0 +1,636 @@
+{
+  "book": "Matthew",
+  "chapter": 8,
+  "chapterTheme": {
+    "twoWordSummary": "Authority Revealed",
+    "themeWords": [
+      {
+        "word": "authority",
+        "strongNumber": "G1849",
+        "lemma": "exousia",
+        "meaning": "delegated power, right to act"
+      },
+      {
+        "word": "faith",
+        "strongNumber": "G4102",
+        "lemma": "pistis",
+        "meaning": "trust, belief, faithfulness"
+      }
+    ]
+  },
+  "sentenceTheme": "Jesus demonstrates divine authority through healings, calling disciples, calming a storm, and casting out demons, eliciting faith and awe.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "When he was come down from the mountain, great multitudes followed him.",
+      "highlightedWords": [
+        {
+          "word": "mountain",
+          "strongNumber": "G3735",
+          "lemma": "oros",
+          "meaning": "mountain, hill"
+        },
+        {
+          "word": "multitudes",
+          "strongNumber": "G3793",
+          "lemma": "ochlos",
+          "meaning": "crowd, multitude"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And, behold, there came a leper and worshipped him, saying, Lord, if thou wilt, thou canst make me clean.",
+      "highlightedWords": [
+        {
+          "word": "leper",
+          "strongNumber": "G3015",
+          "lemma": "lepros",
+          "meaning": "a leprous person"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kurios",
+          "meaning": "lord, master"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And Jesus put forth his hand, and touched him, saying, I will; be thou clean. And immediately his leprosy was cleansed.",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iesous",
+          "meaning": "Jesus, Yeshua"
+        },
+        {
+          "word": "leprosy",
+          "strongNumber": "G3014",
+          "lemma": "lepra",
+          "meaning": "leprosy, skin disease"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And Jesus saith unto him, See thou tell no man; but go thy way, shew thyself to the priest, and offer the gift that Moses commanded, for a testimony unto them.",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iesous",
+          "meaning": "Jesus, Yeshua"
+        },
+        {
+          "word": "Moses",
+          "strongNumber": "G3475",
+          "lemma": "Mousēs",
+          "meaning": "Moses"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And when Jesus was entered into Capernaum, there came unto him a centurion, beseeching him,",
+      "highlightedWords": [
+        {
+          "word": "Capernaum",
+          "strongNumber": "G2584",
+          "lemma": "Kapharnaoum",
+          "meaning": "Capernaum, a town in Galilee"
+        },
+        {
+          "word": "centurion",
+          "strongNumber": "G1543",
+          "lemma": "hekatontarchos",
+          "meaning": "a commander of a hundred, centurion"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And saying, Lord, my servant lieth at home sick of the palsy, grievously tormented.",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kurios",
+          "meaning": "lord, master"
+        },
+        {
+          "word": "palsy",
+          "strongNumber": "G3886",
+          "lemma": "paralutikos",
+          "meaning": "paralyzed, paralysis"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And Jesus saith unto him, I will come and heal him.",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iesous",
+          "meaning": "Jesus, Yeshua"
+        },
+        {
+          "word": "heal",
+          "strongNumber": "G2323",
+          "lemma": "therapeuo",
+          "meaning": "to heal, cure"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "The centurion answered and said, Lord, I am not worthy that thou shouldest come under my roof: but speak the word only, and my servant shall be healed.",
+      "highlightedWords": [
+        {
+          "word": "centurion",
+          "strongNumber": "G1543",
+          "lemma": "hekatontarchos",
+          "meaning": "a commander of a hundred, centurion"
+        },
+        {
+          "word": "roof",
+          "strongNumber": "G4721",
+          "lemma": "stege",
+          "meaning": "roof, covering"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "For I am a man under authority, having soldiers under me: and I say to this man, Go, and he goeth; and to another, Come, and he cometh; and to my servant, Do this, and he doeth it.",
+      "highlightedWords": [
+        {
+          "word": "authority",
+          "strongNumber": "G1849",
+          "lemma": "exousia",
+          "meaning": "delegated authority, right, power"
+        },
+        {
+          "word": "soldiers",
+          "strongNumber": "G4757",
+          "lemma": "stratiotes",
+          "meaning": "soldiers"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "When Jesus heard it, he marvelled, and said to them that followed, Verily I say unto you, I have not found so great faith, no, not in Israel.",
+      "highlightedWords": [
+        {
+          "word": "faith",
+          "strongNumber": "G4102",
+          "lemma": "pistis",
+          "meaning": "trust, belief, faithfulness"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "G2474",
+          "lemma": "Israel",
+          "meaning": "Israel"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And I say unto you, That many shall come from the east and west, and shall sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven.",
+      "highlightedWords": [
+        {
+          "word": "kingdom",
+          "strongNumber": "G932",
+          "lemma": "basileia",
+          "meaning": "kingdom, reign, rule"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "G3772",
+          "lemma": "ouranos",
+          "meaning": "heaven, sky"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "But the children of the kingdom shall be cast out into outer darkness: there shall be weeping and gnashing of teeth.",
+      "highlightedWords": [
+        {
+          "word": "darkness",
+          "strongNumber": "G4655",
+          "lemma": "skotos",
+          "meaning": "darkness"
+        },
+        {
+          "word": "weeping",
+          "strongNumber": "G2805",
+          "lemma": "klauthmos",
+          "meaning": "weeping, wailing"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And Jesus said unto the centurion, Go thy way; and as thou hast believed, so be it done unto thee. And his servant was healed in the selfsame hour.",
+      "highlightedWords": [
+        {
+          "word": "centurion",
+          "strongNumber": "G1543",
+          "lemma": "hekatontarchos",
+          "meaning": "a commander of a hundred, centurion"
+        },
+        {
+          "word": "hour",
+          "strongNumber": "G5610",
+          "lemma": "hora",
+          "meaning": "hour, time"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And when Jesus was come into Peter's house, he saw his wife's mother laid, and sick of a fever.",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "G3614",
+          "lemma": "oikia",
+          "meaning": "house, household"
+        },
+        {
+          "word": "fever",
+          "strongNumber": "G4445",
+          "lemma": "puretos",
+          "meaning": "fever"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And he touched her hand, and the fever left her: and she arose, and ministered unto them.",
+      "highlightedWords": [
+        {
+          "word": "touched",
+          "strongNumber": "G680",
+          "lemma": "haptomai",
+          "meaning": "to touch, take hold of"
+        },
+        {
+          "word": "fever",
+          "strongNumber": "G4445",
+          "lemma": "puretos",
+          "meaning": "fever"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "When the even was come, they brought unto him many that were possessed with devils: and he cast out the spirits with his word, and healed all that were sick:",
+      "highlightedWords": [
+        {
+          "word": "devils",
+          "strongNumber": "G1140",
+          "lemma": "daimonion",
+          "meaning": "demon, evil spirit"
+        },
+        {
+          "word": "spirits",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "That it might be fulfilled which was spoken by Esaias the prophet, saying, Himself took our infirmities, and bare our sicknesses.",
+      "highlightedWords": [
+        {
+          "word": "Esaias",
+          "strongNumber": "G2268",
+          "lemma": "Esaias",
+          "meaning": "Isaiah"
+        },
+        {
+          "word": "infirmities",
+          "strongNumber": "G769",
+          "lemma": "astheneia",
+          "meaning": "weakness, infirmity"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Now when Jesus saw great multitudes about him, he gave commandment to depart unto the other side.",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iesous",
+          "meaning": "Jesus, Yeshua"
+        },
+        {
+          "word": "multitudes",
+          "strongNumber": "G3793",
+          "lemma": "ochlos",
+          "meaning": "crowd, multitude"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And a certain scribe came, and said unto him, Master, I will follow thee whithersoever thou goest.",
+      "highlightedWords": [
+        {
+          "word": "scribe",
+          "strongNumber": "G1122",
+          "lemma": "grammateus",
+          "meaning": "scribe, expert in the law"
+        },
+        {
+          "word": "Master",
+          "strongNumber": "G1320",
+          "lemma": "didaskalos",
+          "meaning": "teacher, master"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And Jesus saith unto him, The foxes have holes, and the birds of the air have nests; but the Son of man hath not where to lay his head.",
+      "highlightedWords": [
+        {
+          "word": "foxes",
+          "strongNumber": "G258",
+          "lemma": "alopex",
+          "meaning": "fox"
+        },
+        {
+          "word": "Son",
+          "strongNumber": "G5207",
+          "lemma": "huios",
+          "meaning": "son"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And another of his disciples said unto him, Lord, suffer me first to go and bury my father.",
+      "highlightedWords": [
+        {
+          "word": "disciples",
+          "strongNumber": "G3101",
+          "lemma": "mathetes",
+          "meaning": "disciple, learner"
+        },
+        {
+          "word": "bury",
+          "strongNumber": "G2290",
+          "lemma": "thapto",
+          "meaning": "to bury"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "But Jesus said unto him, Follow me; and let the dead bury their dead.",
+      "highlightedWords": [
+        {
+          "word": "Follow",
+          "strongNumber": "G190",
+          "lemma": "akoloutheo",
+          "meaning": "to follow, accompany"
+        },
+        {
+          "word": "dead",
+          "strongNumber": "G3498",
+          "lemma": "nekros",
+          "meaning": "dead"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And when he was entered into a ship, his disciples followed him.",
+      "highlightedWords": [
+        {
+          "word": "ship",
+          "strongNumber": "G4143",
+          "lemma": "ploion",
+          "meaning": "ship, boat"
+        },
+        {
+          "word": "disciples",
+          "strongNumber": "G3101",
+          "lemma": "mathetes",
+          "meaning": "disciple, learner"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And, behold, there arose a great tempest in the sea, insomuch that the ship was covered with the waves: but he was asleep.",
+      "highlightedWords": [
+        {
+          "word": "tempest",
+          "strongNumber": "G4578",
+          "lemma": "seismos",
+          "meaning": "shaking, tempest"
+        },
+        {
+          "word": "waves",
+          "strongNumber": "G2949",
+          "lemma": "kuma",
+          "meaning": "wave, billow"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And his disciples came to him, and awoke him, saying, Lord, save us: we perish.",
+      "highlightedWords": [
+        {
+          "word": "save",
+          "strongNumber": "G4982",
+          "lemma": "sozo",
+          "meaning": "to save, deliver"
+        },
+        {
+          "word": "perish",
+          "strongNumber": "G622",
+          "lemma": "apollymi",
+          "meaning": "to destroy, perish"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And he saith unto them, Why are ye fearful, O ye of little faith? Then he arose, and rebuked the winds and the sea; and there was a great calm.",
+      "highlightedWords": [
+        {
+          "word": "rebuked",
+          "strongNumber": "G2008",
+          "lemma": "epitimao",
+          "meaning": "to rebuke, censure"
+        },
+        {
+          "word": "calm",
+          "strongNumber": "G1055",
+          "lemma": "galene",
+          "meaning": "calm, tranquility"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "But the men marvelled, saying, What manner of man is this, that even the winds and the sea obey him!",
+      "highlightedWords": [
+        {
+          "word": "winds",
+          "strongNumber": "G417",
+          "lemma": "anemos",
+          "meaning": "wind"
+        },
+        {
+          "word": "obey",
+          "strongNumber": "G5219",
+          "lemma": "hupakouo",
+          "meaning": "to obey, heed"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And when he was come to the other side into the country of the Gergesenes, there met him two possessed with devils, coming out of the tombs, exceeding fierce, so that no man might pass by that way.",
+      "highlightedWords": [
+        {
+          "word": "Gergesenes",
+          "strongNumber": "G1086",
+          "lemma": "Gergesenos",
+          "meaning": "Gergesenes, inhabitants of Gergesa"
+        },
+        {
+          "word": "tombs",
+          "strongNumber": "G3419",
+          "lemma": "mnemeion",
+          "meaning": "tomb, monument"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "And, behold, they cried out, saying, What have we to do with thee, Jesus, thou Son of God? art thou come hither to torment us before the time?",
+      "highlightedWords": [
+        {
+          "word": "Son",
+          "strongNumber": "G5207",
+          "lemma": "huios",
+          "meaning": "son"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God, deity"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "And there was a good way off from them an herd of many swine feeding.",
+      "highlightedWords": [
+        {
+          "word": "swine",
+          "strongNumber": "G5519",
+          "lemma": "choiros",
+          "meaning": "swine, pig"
+        },
+        {
+          "word": "feeding",
+          "strongNumber": "G1006",
+          "lemma": "bosko",
+          "meaning": "to feed, tend"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "So the devils besought him, saying, If thou cast us out, suffer us to go away into the herd of swine.",
+      "highlightedWords": [
+        {
+          "word": "devils",
+          "strongNumber": "G1140",
+          "lemma": "daimonion",
+          "meaning": "demon, evil spirit"
+        },
+        {
+          "word": "herd",
+          "strongNumber": "G34",
+          "lemma": "agele",
+          "meaning": "herd"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "And he said unto them, Go. And when they were come out, they went into the herd of swine: and, behold, the whole herd of swine ran violently down a steep place into the sea, and perished in the waters.",
+      "highlightedWords": [
+        {
+          "word": "swine",
+          "strongNumber": "G5519",
+          "lemma": "choiros",
+          "meaning": "swine, pig"
+        },
+        {
+          "word": "sea",
+          "strongNumber": "G2281",
+          "lemma": "thalassa",
+          "meaning": "sea, lake"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "And they that kept them fled, and went their ways into the city, and told every thing, and what was befallen to the possessed of the devils.",
+      "highlightedWords": [
+        {
+          "word": "city",
+          "strongNumber": "G4172",
+          "lemma": "polis",
+          "meaning": "city, town"
+        },
+        {
+          "word": "devils",
+          "strongNumber": "G1140",
+          "lemma": "daimonion",
+          "meaning": "demon, evil spirit"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "And, behold, the whole city came out to meet Jesus: and when they saw him, they besought him that he would depart out of their coasts.",
+      "highlightedWords": [
+        {
+          "word": "city",
+          "strongNumber": "G4172",
+          "lemma": "polis",
+          "meaning": "city, town"
+        },
+        {
+          "word": "coasts",
+          "strongNumber": "G3725",
+          "lemma": "horion",
+          "meaning": "boundary, region, coast"
+        }
+      ]
+    }
+  ]
+}

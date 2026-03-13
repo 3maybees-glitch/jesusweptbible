@@ -1,0 +1,546 @@
+{
+  "book": "Revelation",
+  "chapter": 2,
+  "chapterTheme": {
+    "twoWordSummary": "Church Warnings",
+    "themeWords": [
+      {
+        "word": "churches",
+        "strongNumber": "G1577",
+        "lemma": "ekklēsia",
+        "meaning": "assembly, congregation; the called-out community (church)"
+      },
+      {
+        "word": "repent",
+        "strongNumber": "G3340",
+        "lemma": "metanoeō",
+        "meaning": "to change one’s mind; to turn back in repentance"
+      }
+    ]
+  },
+  "sentenceTheme": "Christ addresses four churches, commending their works, rebuking sin, calling for repentance, and promising rewards to those who overcome.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Unto the angel of the church of Ephesus write; These things saith he that holdeth the seven stars in his right hand, who walketh in the midst of the seven golden candlesticks;",
+      "highlightedWords": [
+        {
+          "word": "angel",
+          "strongNumber": "G32",
+          "lemma": "angelos",
+          "meaning": "messenger; angel"
+        },
+        {
+          "word": "church",
+          "strongNumber": "G1577",
+          "lemma": "ekklēsia",
+          "meaning": "assembly; church; called-out ones"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "I know thy works, and thy labour, and thy patience, and how thou canst not bear them which are evil: and thou hast tried them which say they are apostles, and are not, and hast found them liars:",
+      "highlightedWords": [
+        {
+          "word": "works",
+          "strongNumber": "G2041",
+          "lemma": "ergon",
+          "meaning": "work; deed; action"
+        },
+        {
+          "word": "apostles",
+          "strongNumber": "G652",
+          "lemma": "apostolos",
+          "meaning": "one sent; envoy; apostle"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And hast borne, and hast patience, and for my name's sake hast laboured, and hast not fainted.",
+      "highlightedWords": [
+        {
+          "word": "patience",
+          "strongNumber": "G5281",
+          "lemma": "hypomonē",
+          "meaning": "endurance; steadfastness; perseverance"
+        },
+        {
+          "word": "laboured",
+          "strongNumber": "G2872",
+          "lemma": "kopiaō",
+          "meaning": "to toil; work hard; grow weary"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Nevertheless I have somewhat against thee, because thou hast left thy first love.",
+      "highlightedWords": [
+        {
+          "word": "first",
+          "strongNumber": "G4413",
+          "lemma": "prōtos",
+          "meaning": "first; foremost; chief"
+        },
+        {
+          "word": "love",
+          "strongNumber": "G26",
+          "lemma": "agapē",
+          "meaning": "self-giving love; charity"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Remember therefore from whence thou art fallen, and repent, and do the first works; or else I will come unto thee quickly, and will remove thy candlestick out of his place, except thou repent.",
+      "highlightedWords": [
+        {
+          "word": "repent",
+          "strongNumber": "G3340",
+          "lemma": "metanoeō",
+          "meaning": "to change one’s mind; to repent"
+        },
+        {
+          "word": "works",
+          "strongNumber": "G2041",
+          "lemma": "ergon",
+          "meaning": "work; deed; action"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "But this thou hast, that thou hatest the deeds of the Nicolaitans, which I also hate.",
+      "highlightedWords": [
+        {
+          "word": "deeds",
+          "strongNumber": "G2041",
+          "lemma": "ergon",
+          "meaning": "works; deeds; actions"
+        },
+        {
+          "word": "hate",
+          "strongNumber": "G3404",
+          "lemma": "miseō",
+          "meaning": "to hate; detest"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the tree of life, which is in the midst of the paradise of God.",
+      "highlightedWords": [
+        {
+          "word": "Spirit",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit; breath; the Holy Spirit"
+        },
+        {
+          "word": "overcometh",
+          "strongNumber": "G3528",
+          "lemma": "nikaō",
+          "meaning": "to conquer; to overcome; to prevail"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And unto the angel of the church in Smyrna write; These things saith the first and the last, which was dead, and is alive;",
+      "highlightedWords": [
+        {
+          "word": "first",
+          "strongNumber": "G4413",
+          "lemma": "prōtos",
+          "meaning": "first; foremost; chief"
+        },
+        {
+          "word": "last",
+          "strongNumber": "G2078",
+          "lemma": "eschatos",
+          "meaning": "last; final; the end"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "I know thy works, and tribulation, and poverty, (but thou art rich) and I know the blasphemy of them which say they are Jews, and are not, but are the synagogue of Satan.",
+      "highlightedWords": [
+        {
+          "word": "tribulation",
+          "strongNumber": "G2347",
+          "lemma": "thlipsis",
+          "meaning": "pressure; affliction; tribulation"
+        },
+        {
+          "word": "synagogue",
+          "strongNumber": "G4864",
+          "lemma": "synagōgē",
+          "meaning": "assembly; synagogue"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Fear none of those things which thou shalt suffer: behold, the devil shall cast some of you into prison, that ye may be tried; and ye shall have tribulation ten days: be thou faithful unto death, and I will give thee a crown of life.",
+      "highlightedWords": [
+        {
+          "word": "devil",
+          "strongNumber": "G1228",
+          "lemma": "diabolos",
+          "meaning": "slanderer; accuser; the devil"
+        },
+        {
+          "word": "crown",
+          "strongNumber": "G4735",
+          "lemma": "stephanos",
+          "meaning": "crown; victor’s wreath"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "He that hath an ear, let him hear what the Spirit saith unto the churches; He that overcometh shall not be hurt of the second death.",
+      "highlightedWords": [
+        {
+          "word": "second",
+          "strongNumber": "G1208",
+          "lemma": "deuteros",
+          "meaning": "second; of two"
+        },
+        {
+          "word": "death",
+          "strongNumber": "G2288",
+          "lemma": "thanatos",
+          "meaning": "death"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And to the angel of the church in Pergamos write; These things saith he which hath the sharp sword with two edges;",
+      "highlightedWords": [
+        {
+          "word": "Pergamos",
+          "strongNumber": "G4010",
+          "lemma": "Pergamos",
+          "meaning": "Pergamos; a city of Asia Minor"
+        },
+        {
+          "word": "sword",
+          "strongNumber": "G4501",
+          "lemma": "rhomphaia",
+          "meaning": "a large sword"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "I know thy works, and where thou dwellest, even where Satan's seat is: and thou holdest fast my name, and hast not denied my faith, even in those days wherein Antipas was my faithful martyr, who was slain among you, where Satan dwelleth.",
+      "highlightedWords": [
+        {
+          "word": "Satan",
+          "strongNumber": "G4567",
+          "lemma": "Satanas",
+          "meaning": "Satan; adversary"
+        },
+        {
+          "word": "martyr",
+          "strongNumber": "G3144",
+          "lemma": "martys",
+          "meaning": "witness; martyr"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "But I have a few things against thee, because thou hast there them that hold the doctrine of Balaam, who taught Balac to cast a stumblingblock before the children of Israel, to eat things sacrificed unto idols, and to commit fornication.",
+      "highlightedWords": [
+        {
+          "word": "doctrine",
+          "strongNumber": "G1322",
+          "lemma": "didachē",
+          "meaning": "teaching; doctrine; instruction"
+        },
+        {
+          "word": "fornication",
+          "strongNumber": "G4202",
+          "lemma": "porneia",
+          "meaning": "sexual immorality; fornication"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "So hast thou also them that hold the doctrine of the Nicolaitans, which thing I hate.",
+      "highlightedWords": [
+        {
+          "word": "Nicolaitans",
+          "strongNumber": "G3531",
+          "lemma": "Nikolaïtēs",
+          "meaning": "Nicolaitan; follower of Nicolas"
+        },
+        {
+          "word": "hate",
+          "strongNumber": "G3404",
+          "lemma": "miseō",
+          "meaning": "to hate; detest"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Repent; or else I will come unto thee quickly, and will fight against them with the sword of my mouth.",
+      "highlightedWords": [
+        {
+          "word": "Repent",
+          "strongNumber": "G3340",
+          "lemma": "metanoeō",
+          "meaning": "to change one’s mind; to repent"
+        },
+        {
+          "word": "sword",
+          "strongNumber": "G4501",
+          "lemma": "rhomphaia",
+          "meaning": "a large sword"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the hidden manna, and will give him a white stone, and in the stone a new name written, which no man knoweth saving he that receiveth it.",
+      "highlightedWords": [
+        {
+          "word": "manna",
+          "strongNumber": "G3131",
+          "lemma": "manna",
+          "meaning": "manna; heavenly bread"
+        },
+        {
+          "word": "stone",
+          "strongNumber": "G5586",
+          "lemma": "psēphos",
+          "meaning": "pebble; small stone; token"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And unto the angel of the church in Thyatira write; These things saith the Son of God, who hath his eyes like unto a flame of fire, and his feet are like fine brass;",
+      "highlightedWords": [
+        {
+          "word": "Son",
+          "strongNumber": "G5207",
+          "lemma": "huios",
+          "meaning": "son; descendant"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God; deity"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "I know thy works, and charity, and service, and faith, and thy patience, and thy works; and the last to be more than the first;",
+      "highlightedWords": [
+        {
+          "word": "charity",
+          "strongNumber": "G26",
+          "lemma": "agapē",
+          "meaning": "self-giving love; charity"
+        },
+        {
+          "word": "faith",
+          "strongNumber": "G4102",
+          "lemma": "pistis",
+          "meaning": "faith; trust; belief"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Notwithstanding I have a few things against thee, because thou sufferest that woman Jezebel, which calleth herself a prophetess, to teach and to seduce my servants to commit fornication, and to eat things sacrificed unto idols.",
+      "highlightedWords": [
+        {
+          "word": "prophetess",
+          "strongNumber": "G4398",
+          "lemma": "prophētis",
+          "meaning": "female prophet; prophetess"
+        },
+        {
+          "word": "fornication",
+          "strongNumber": "G4202",
+          "lemma": "porneia",
+          "meaning": "sexual immorality; fornication"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And I gave her space to repent of her fornication; and she repented not.",
+      "highlightedWords": [
+        {
+          "word": "repent",
+          "strongNumber": "G3340",
+          "lemma": "metanoeō",
+          "meaning": "to change one’s mind; to repent"
+        },
+        {
+          "word": "fornication",
+          "strongNumber": "G4202",
+          "lemma": "porneia",
+          "meaning": "sexual immorality; fornication"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Behold, I will cast her into a bed, and them that commit adultery with her into great tribulation, except they repent of their deeds.",
+      "highlightedWords": [
+        {
+          "word": "tribulation",
+          "strongNumber": "G2347",
+          "lemma": "thlipsis",
+          "meaning": "pressure; affliction; tribulation"
+        },
+        {
+          "word": "repent",
+          "strongNumber": "G3340",
+          "lemma": "metanoeō",
+          "meaning": "to change one’s mind; to repent"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And I will kill her children with death; and all the churches shall know that I am he which searcheth the reins and hearts: and I will give unto every one of you according to your works.",
+      "highlightedWords": [
+        {
+          "word": "churches",
+          "strongNumber": "G1577",
+          "lemma": "ekklēsia",
+          "meaning": "assembly; churches; called-out ones"
+        },
+        {
+          "word": "works",
+          "strongNumber": "G2041",
+          "lemma": "ergon",
+          "meaning": "work; deed; action"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "But unto you I say, and unto the rest in Thyatira, as many as have not this doctrine, and which have not known the depths of Satan, as they speak; I will put upon you none other burden.",
+      "highlightedWords": [
+        {
+          "word": "Satan",
+          "strongNumber": "G4567",
+          "lemma": "Satanas",
+          "meaning": "Satan; adversary"
+        },
+        {
+          "word": "burden",
+          "strongNumber": "G922",
+          "lemma": "baros",
+          "meaning": "weight; burden"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "But that which ye have already hold fast till I come.",
+      "highlightedWords": [
+        {
+          "word": "already",
+          "strongNumber": "G2235",
+          "lemma": "ēdē",
+          "meaning": "already; by this time"
+        },
+        {
+          "word": "come",
+          "strongNumber": "G2064",
+          "lemma": "erchomai",
+          "meaning": "to come; to arrive; to go"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And he that overcometh, and keepeth my works unto the end, to him will I give power over the nations:",
+      "highlightedWords": [
+        {
+          "word": "overcometh",
+          "strongNumber": "G3528",
+          "lemma": "nikaō",
+          "meaning": "to conquer; overcome; prevail"
+        },
+        {
+          "word": "nations",
+          "strongNumber": "G1484",
+          "lemma": "ethnos",
+          "meaning": "nation; people; Gentiles"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And he shall rule them with a rod of iron; as the vessels of a potter shall they be broken to shivers: even as I received of my Father.",
+      "highlightedWords": [
+        {
+          "word": "rule",
+          "strongNumber": "G4165",
+          "lemma": "poimainō",
+          "meaning": "to shepherd; to rule"
+        },
+        {
+          "word": "iron",
+          "strongNumber": "G4603",
+          "lemma": "sideros",
+          "meaning": "iron"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And I will give him the morning star.",
+      "highlightedWords": [
+        {
+          "word": "morning",
+          "strongNumber": "G4407",
+          "lemma": "proinos",
+          "meaning": "of the morning; early"
+        },
+        {
+          "word": "star",
+          "strongNumber": "G792",
+          "lemma": "astēr",
+          "meaning": "star"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "He that hath an ear, let him hear what the Spirit saith unto the churches.",
+      "highlightedWords": [
+        {
+          "word": "Spirit",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit; breath; the Holy Spirit"
+        },
+        {
+          "word": "churches",
+          "strongNumber": "G1577",
+          "lemma": "ekklēsia",
+          "meaning": "assembly; churches; called-out ones"
+        }
+      ]
+    }
+  ]
+}

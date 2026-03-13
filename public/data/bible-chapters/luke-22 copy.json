@@ -1,0 +1,1302 @@
+{
+  "book": "Luke",
+  "chapter": 22,
+  "chapterTheme": {
+    "twoWordSummary": "Passover Betrayal",
+    "themeWords": [
+      {
+        "word": "Passover",
+        "strongNumber": "G3957",
+        "lemma": "pascha",
+        "meaning": "the Passover; the Paschal sacrifice/meal"
+      },
+      {
+        "word": "betray",
+        "strongNumber": "G3860",
+        "lemma": "paradidomi",
+        "meaning": "to hand over, deliver up, betray"
+      }
+    ]
+  },
+  "sentenceTheme": "Religious leaders plot against Jesus, Judas betrays Him, the Passover and the Lord’s Supper are observed, Jesus prays on the Mount of Olives, is arrested, Peter denies Him, and He is examined before the council.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Now the feast of unleavened bread drew nigh, which is called the Passover.",
+      "highlightedWords": [
+        {
+          "word": "unleavened",
+          "strongNumber": "G0106",
+          "lemma": "azymos",
+          "meaning": "unleavened, without yeast"
+        },
+        {
+          "word": "Passover",
+          "strongNumber": "G3957",
+          "lemma": "pascha",
+          "meaning": "the Passover; the Paschal sacrifice/meal"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And the chief priests and scribes sought how they might kill him; for they feared the people.",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "G0749",
+          "lemma": "archiereus",
+          "meaning": "high priest; chief priests"
+        },
+        {
+          "word": "scribes",
+          "strongNumber": "G1122",
+          "lemma": "grammateus",
+          "meaning": "scribe, expert in the law"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Then entered Satan into Judas surnamed Iscariot, being of the number of the twelve.",
+      "highlightedWords": [
+        {
+          "word": "Satan",
+          "strongNumber": "G4567",
+          "lemma": "Satanas",
+          "meaning": "Satan, the adversary"
+        },
+        {
+          "word": "Judas",
+          "strongNumber": "G2455",
+          "lemma": "Ioudas",
+          "meaning": "Judas, Judah; a proper name"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And he went his way, and communed with the chief priests and captains, how he might betray him unto them.",
+      "highlightedWords": [
+        {
+          "word": "captains",
+          "strongNumber": "G4755",
+          "lemma": "strategos",
+          "meaning": "commander, captain"
+        },
+        {
+          "word": "betray",
+          "strongNumber": "G3860",
+          "lemma": "paradidomi",
+          "meaning": "to hand over, deliver up, betray"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And they were glad, and covenanted to give him money.",
+      "highlightedWords": [
+        {
+          "word": "glad",
+          "strongNumber": "G5463",
+          "lemma": "chairo",
+          "meaning": "to rejoice, be glad"
+        },
+        {
+          "word": "money",
+          "strongNumber": "G0694",
+          "lemma": "argyrion",
+          "meaning": "silver, money"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And he promised, and sought opportunity to betray him unto them in the absence of the multitude.",
+      "highlightedWords": [
+        {
+          "word": "opportunity",
+          "strongNumber": "G2119",
+          "lemma": "eukairia",
+          "meaning": "a favorable or opportune time"
+        },
+        {
+          "word": "multitude",
+          "strongNumber": "G3793",
+          "lemma": "ochlos",
+          "meaning": "crowd, multitude"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Then came the day of unleavened bread, when the passover must be killed.",
+      "highlightedWords": [
+        {
+          "word": "Passover",
+          "strongNumber": "G3957",
+          "lemma": "pascha",
+          "meaning": "the Passover; the Paschal sacrifice/meal"
+        },
+        {
+          "word": "killed",
+          "strongNumber": "G2380",
+          "lemma": "thuo",
+          "meaning": "to sacrifice, slaughter"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And he sent Peter and John, saying, Go and prepare us the passover, that we may eat.",
+      "highlightedWords": [
+        {
+          "word": "Peter",
+          "strongNumber": "G4074",
+          "lemma": "Petros",
+          "meaning": "Peter, a rock; a proper name"
+        },
+        {
+          "word": "prepare",
+          "strongNumber": "G2090",
+          "lemma": "hetoimazo",
+          "meaning": "to prepare, make ready"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And they said unto him, Where wilt thou that we prepare?",
+      "highlightedWords": [
+        {
+          "word": "Where",
+          "strongNumber": "G4226",
+          "lemma": "pou",
+          "meaning": "where?"
+        },
+        {
+          "word": "prepare",
+          "strongNumber": "G2090",
+          "lemma": "hetoimazo",
+          "meaning": "to prepare, make ready"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And he said unto them, Behold, when ye are entered into the city, there shall a man meet you, bearing a pitcher of water; follow him into the house where he entereth in.",
+      "highlightedWords": [
+        {
+          "word": "city",
+          "strongNumber": "G4172",
+          "lemma": "polis",
+          "meaning": "city, town"
+        },
+        {
+          "word": "water",
+          "strongNumber": "G5204",
+          "lemma": "hydor",
+          "meaning": "water"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And ye shall say unto the goodman of the house, The Master saith unto thee, Where is the guestchamber, where I shall eat the passover with my disciples?",
+      "highlightedWords": [
+        {
+          "word": "Master",
+          "strongNumber": "G1320",
+          "lemma": "didaskalos",
+          "meaning": "teacher, master"
+        },
+        {
+          "word": "guestchamber",
+          "strongNumber": "G2646",
+          "lemma": "katalyma",
+          "meaning": "lodging place, guest room"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And he shall shew you a large upper room furnished: there make ready.",
+      "highlightedWords": [
+        {
+          "word": "upper",
+          "strongNumber": "G0507",
+          "lemma": "anagaion",
+          "meaning": "upper room"
+        },
+        {
+          "word": "ready",
+          "strongNumber": "G2092",
+          "lemma": "hetoimos",
+          "meaning": "ready, prepared"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And they went, and found as he had said unto them: and they made ready the passover.",
+      "highlightedWords": [
+        {
+          "word": "found",
+          "strongNumber": "G2147",
+          "lemma": "heurisko",
+          "meaning": "to find, discover"
+        },
+        {
+          "word": "ready",
+          "strongNumber": "G2090",
+          "lemma": "hetoimazo",
+          "meaning": "to prepare, make ready"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And when the hour was come, he sat down, and the twelve apostles with him.",
+      "highlightedWords": [
+        {
+          "word": "hour",
+          "strongNumber": "G5610",
+          "lemma": "hora",
+          "meaning": "hour, time"
+        },
+        {
+          "word": "apostles",
+          "strongNumber": "G0652",
+          "lemma": "apostolos",
+          "meaning": "apostle, one sent"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And he said unto them, With desire I have desired to eat this passover with you before I suffer:",
+      "highlightedWords": [
+        {
+          "word": "Passover",
+          "strongNumber": "G3957",
+          "lemma": "pascha",
+          "meaning": "the Passover; the Paschal sacrifice/meal"
+        },
+        {
+          "word": "suffer",
+          "strongNumber": "G3958",
+          "lemma": "pascho",
+          "meaning": "to suffer"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "For I say unto you, I will not any more eat thereof, until it be fulfilled in the kingdom of God.",
+      "highlightedWords": [
+        {
+          "word": "fulfilled",
+          "strongNumber": "G4137",
+          "lemma": "pleroo",
+          "meaning": "to fill, fulfill, complete"
+        },
+        {
+          "word": "kingdom",
+          "strongNumber": "G0932",
+          "lemma": "basileia",
+          "meaning": "kingdom, reign, rule"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And he took the cup, and gave thanks, and said, Take this, and divide it among yourselves:",
+      "highlightedWords": [
+        {
+          "word": "cup",
+          "strongNumber": "G4221",
+          "lemma": "poterion",
+          "meaning": "a cup"
+        },
+        {
+          "word": "divide",
+          "strongNumber": "G1266",
+          "lemma": "diamerizo",
+          "meaning": "to divide, distribute"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "For I say unto you, I will not drink of the fruit of the vine, until the kingdom of God shall come.",
+      "highlightedWords": [
+        {
+          "word": "vine",
+          "strongNumber": "G0288",
+          "lemma": "ampelos",
+          "meaning": "vine"
+        },
+        {
+          "word": "kingdom",
+          "strongNumber": "G0932",
+          "lemma": "basileia",
+          "meaning": "kingdom, reign, rule"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And he took bread, and gave thanks, and brake it, and gave unto them, saying, This is my body which is given for you: this do in remembrance of me.",
+      "highlightedWords": [
+        {
+          "word": "bread",
+          "strongNumber": "G0740",
+          "lemma": "artos",
+          "meaning": "bread, a loaf"
+        },
+        {
+          "word": "remembrance",
+          "strongNumber": "G0364",
+          "lemma": "anamnesis",
+          "meaning": "remembrance, memorial"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Likewise also the cup after supper, saying, This cup is the new testament in my blood, which is shed for you.",
+      "highlightedWords": [
+        {
+          "word": "testament",
+          "strongNumber": "G1242",
+          "lemma": "diatheke",
+          "meaning": "covenant, testament"
+        },
+        {
+          "word": "blood",
+          "strongNumber": "G0129",
+          "lemma": "haima",
+          "meaning": "blood"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "But, behold, the hand of him that betrayeth me is with me on the table.",
+      "highlightedWords": [
+        {
+          "word": "betrayeth",
+          "strongNumber": "G3860",
+          "lemma": "paradidomi",
+          "meaning": "to hand over, betray"
+        },
+        {
+          "word": "table",
+          "strongNumber": "G5132",
+          "lemma": "trapeza",
+          "meaning": "table"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And truly the Son of man goeth, as it was determined: but woe unto that man by whom he is betrayed!",
+      "highlightedWords": [
+        {
+          "word": "Son",
+          "strongNumber": "G5207",
+          "lemma": "huios",
+          "meaning": "son"
+        },
+        {
+          "word": "betrayed",
+          "strongNumber": "G3860",
+          "lemma": "paradidomi",
+          "meaning": "to hand over, betray"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And they began to enquire among themselves, which of them it was that should do this thing.",
+      "highlightedWords": [
+        {
+          "word": "enquire",
+          "strongNumber": "G4802",
+          "lemma": "suzeteo",
+          "meaning": "to discuss, inquire together"
+        },
+        {
+          "word": "do",
+          "strongNumber": "G4160",
+          "lemma": "poieo",
+          "meaning": "to do, make"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And there was also a strife among them, which of them should be accounted the greatest.",
+      "highlightedWords": [
+        {
+          "word": "strife",
+          "strongNumber": "G5379",
+          "lemma": "philoneikia",
+          "meaning": "contention, rivalry"
+        },
+        {
+          "word": "greatest",
+          "strongNumber": "G3187",
+          "lemma": "meizon",
+          "meaning": "greater, greatest"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And he said unto them, The kings of the Gentiles exercise lordship over them; and they that exercise authority upon them are called benefactors.",
+      "highlightedWords": [
+        {
+          "word": "Gentiles",
+          "strongNumber": "G1484",
+          "lemma": "ethnos",
+          "meaning": "nation; Gentiles"
+        },
+        {
+          "word": "benefactors",
+          "strongNumber": "G2110",
+          "lemma": "euergetes",
+          "meaning": "benefactor, doer of good"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "But ye shall not be so: but he that is greatest among you, let him be as the younger; and he that is chief, as he that doth serve.",
+      "highlightedWords": [
+        {
+          "word": "younger",
+          "strongNumber": "G3501",
+          "lemma": "neoteros",
+          "meaning": "younger"
+        },
+        {
+          "word": "serve",
+          "strongNumber": "G1247",
+          "lemma": "diakoneo",
+          "meaning": "to serve, minister"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "For whether is greater, he that sitteth at meat, or he that serveth? is not he that sitteth at meat? but I am among you as he that serveth.",
+      "highlightedWords": [
+        {
+          "word": "sitteth",
+          "strongNumber": "G0345",
+          "lemma": "anakeimai",
+          "meaning": "to recline (at table)"
+        },
+        {
+          "word": "serveth",
+          "strongNumber": "G1247",
+          "lemma": "diakoneo",
+          "meaning": "to serve, minister"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "Ye are they which have continued with me in my temptations.",
+      "highlightedWords": [
+        {
+          "word": "continued",
+          "strongNumber": "G1265",
+          "lemma": "diameno",
+          "meaning": "to remain, continue"
+        },
+        {
+          "word": "temptations",
+          "strongNumber": "G3986",
+          "lemma": "peirasmos",
+          "meaning": "trial, testing, temptation"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "And I appoint unto you a kingdom, as my Father hath appointed unto me;",
+      "highlightedWords": [
+        {
+          "word": "appoint",
+          "strongNumber": "G1303",
+          "lemma": "diatithemai",
+          "meaning": "to appoint, make (a covenant)"
+        },
+        {
+          "word": "kingdom",
+          "strongNumber": "G0932",
+          "lemma": "basileia",
+          "meaning": "kingdom, reign, rule"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "That ye may eat and drink at my table in my kingdom, and sit on thrones judging the twelve tribes of Israel.",
+      "highlightedWords": [
+        {
+          "word": "thrones",
+          "strongNumber": "G2362",
+          "lemma": "thronos",
+          "meaning": "throne, seat"
+        },
+        {
+          "word": "tribes",
+          "strongNumber": "G5443",
+          "lemma": "phyle",
+          "meaning": "tribe, clan"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "And the Lord said, Simon, Simon, behold, Satan hath desired to have you, that he may sift you as wheat:",
+      "highlightedWords": [
+        {
+          "word": "Satan",
+          "strongNumber": "G4567",
+          "lemma": "Satanas",
+          "meaning": "Satan, the adversary"
+        },
+        {
+          "word": "sift",
+          "strongNumber": "G4617",
+          "lemma": "siniazo",
+          "meaning": "to sift (as wheat)"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "But I have prayed for thee, that thy faith fail not: and when thou art converted, strengthen thy brethren.",
+      "highlightedWords": [
+        {
+          "word": "faith",
+          "strongNumber": "G4102",
+          "lemma": "pistis",
+          "meaning": "faith, trust, belief"
+        },
+        {
+          "word": "strengthen",
+          "strongNumber": "G4741",
+          "lemma": "sterizo",
+          "meaning": "to make firm, strengthen"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "And he said unto him, Lord, I am ready to go with thee, both into prison, and to death.",
+      "highlightedWords": [
+        {
+          "word": "prison",
+          "strongNumber": "G5438",
+          "lemma": "phylake",
+          "meaning": "prison, guard, watch"
+        },
+        {
+          "word": "death",
+          "strongNumber": "G2288",
+          "lemma": "thanatos",
+          "meaning": "death"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "And he said, I tell thee, Peter, the cock shall not crow this day, before that thou shalt thrice deny that thou knowest me.",
+      "highlightedWords": [
+        {
+          "word": "cock",
+          "strongNumber": "G0220",
+          "lemma": "alektor",
+          "meaning": "rooster"
+        },
+        {
+          "word": "deny",
+          "strongNumber": "G0720",
+          "lemma": "arneomai",
+          "meaning": "to deny, disown"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "And he said unto them, When I sent you without purse, and scrip, and shoes, lacked ye any thing? And they said, Nothing.",
+      "highlightedWords": [
+        {
+          "word": "purse",
+          "strongNumber": "G0905",
+          "lemma": "ballantion",
+          "meaning": "money bag, purse"
+        },
+        {
+          "word": "scrip",
+          "strongNumber": "G4082",
+          "lemma": "pera",
+          "meaning": "a bag, traveler’s pouch"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "Then said he unto them, But now, he that hath a purse, let him take it, and likewise his scrip: and he that hath no sword, let him sell his garment, and buy one.",
+      "highlightedWords": [
+        {
+          "word": "sword",
+          "strongNumber": "G3162",
+          "lemma": "machaira",
+          "meaning": "sword, dagger"
+        },
+        {
+          "word": "garment",
+          "strongNumber": "G2440",
+          "lemma": "himation",
+          "meaning": "garment, outer robe"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "For I say unto you, that this that is written must yet be accomplished in me, And he was reckoned among the transgressors: for the things concerning me have an end.",
+      "highlightedWords": [
+        {
+          "word": "written",
+          "strongNumber": "G1125",
+          "lemma": "grapho",
+          "meaning": "to write"
+        },
+        {
+          "word": "transgressors",
+          "strongNumber": "G0459",
+          "lemma": "anomos",
+          "meaning": "lawless person, transgressor"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "And they said, Lord, behold, here are two swords. And he said unto them, It is enough.",
+      "highlightedWords": [
+        {
+          "word": "swords",
+          "strongNumber": "G3162",
+          "lemma": "machaira",
+          "meaning": "sword, dagger"
+        },
+        {
+          "word": "enough",
+          "strongNumber": "G2425",
+          "lemma": "hikanos",
+          "meaning": "sufficient, enough"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "text": "And he came out, and went, as he was wont, to the mount of Olives; and his disciples also followed him.",
+      "highlightedWords": [
+        {
+          "word": "mount",
+          "strongNumber": "G3735",
+          "lemma": "oros",
+          "meaning": "mountain, hill"
+        },
+        {
+          "word": "Olives",
+          "strongNumber": "G1636",
+          "lemma": "elaia",
+          "meaning": "olive tree; Olives"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "text": "And when he was at the place, he said unto them, Pray that ye enter not into temptation.",
+      "highlightedWords": [
+        {
+          "word": "Pray",
+          "strongNumber": "G4336",
+          "lemma": "proseuchomai",
+          "meaning": "to pray"
+        },
+        {
+          "word": "temptation",
+          "strongNumber": "G3986",
+          "lemma": "peirasmos",
+          "meaning": "trial, testing, temptation"
+        }
+      ]
+    },
+    {
+      "verse": 41,
+      "text": "And he was withdrawn from them about a stone's cast, and kneeled down, and prayed,",
+      "highlightedWords": [
+        {
+          "word": "kneeled",
+          "strongNumber": "G1120",
+          "lemma": "gonypeteo",
+          "meaning": "to kneel"
+        },
+        {
+          "word": "prayed",
+          "strongNumber": "G4336",
+          "lemma": "proseuchomai",
+          "meaning": "to pray"
+        }
+      ]
+    },
+    {
+      "verse": 42,
+      "text": "Saying, Father, if thou be willing, remove this cup from me: nevertheless not my will, but thine, be done.",
+      "highlightedWords": [
+        {
+          "word": "Father",
+          "strongNumber": "G3962",
+          "lemma": "pater",
+          "meaning": "father"
+        },
+        {
+          "word": "cup",
+          "strongNumber": "G4221",
+          "lemma": "poterion",
+          "meaning": "a cup"
+        }
+      ]
+    },
+    {
+      "verse": 43,
+      "text": "And there appeared an angel unto him from heaven, strengthening him.",
+      "highlightedWords": [
+        {
+          "word": "angel",
+          "strongNumber": "G0032",
+          "lemma": "angelos",
+          "meaning": "messenger, angel"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "G3772",
+          "lemma": "ouranos",
+          "meaning": "heaven, sky"
+        }
+      ]
+    },
+    {
+      "verse": 44,
+      "text": "And being in an agony he prayed more earnestly: and his sweat was as it were great drops of blood falling down to the ground.",
+      "highlightedWords": [
+        {
+          "word": "agony",
+          "strongNumber": "G0074",
+          "lemma": "agonia",
+          "meaning": "agony, anguish"
+        },
+        {
+          "word": "blood",
+          "strongNumber": "G0129",
+          "lemma": "haima",
+          "meaning": "blood"
+        }
+      ]
+    },
+    {
+      "verse": 45,
+      "text": "And when he rose up from prayer, and was come to his disciples, he found them sleeping for sorrow,",
+      "highlightedWords": [
+        {
+          "word": "prayer",
+          "strongNumber": "G4335",
+          "lemma": "proseuche",
+          "meaning": "prayer"
+        },
+        {
+          "word": "sorrow",
+          "strongNumber": "G3077",
+          "lemma": "lupe",
+          "meaning": "sorrow, grief"
+        }
+      ]
+    },
+    {
+      "verse": 46,
+      "text": "And said unto them, Why sleep ye? rise and pray, lest ye enter into temptation.",
+      "highlightedWords": [
+        {
+          "word": "pray",
+          "strongNumber": "G4336",
+          "lemma": "proseuchomai",
+          "meaning": "to pray"
+        },
+        {
+          "word": "temptation",
+          "strongNumber": "G3986",
+          "lemma": "peirasmos",
+          "meaning": "trial, testing, temptation"
+        }
+      ]
+    },
+    {
+      "verse": 47,
+      "text": "And while he yet spake, behold a multitude, and he that was called Judas, one of the twelve, went before them, and drew near unto Jesus to kiss him.",
+      "highlightedWords": [
+        {
+          "word": "multitude",
+          "strongNumber": "G3793",
+          "lemma": "ochlos",
+          "meaning": "crowd, multitude"
+        },
+        {
+          "word": "kiss",
+          "strongNumber": "G5370",
+          "lemma": "philema",
+          "meaning": "a kiss"
+        }
+      ]
+    },
+    {
+      "verse": 48,
+      "text": "But Jesus said unto him, Judas, betrayest thou the Son of man with a kiss?",
+      "highlightedWords": [
+        {
+          "word": "betrayest",
+          "strongNumber": "G3860",
+          "lemma": "paradidomi",
+          "meaning": "to hand over, betray"
+        },
+        {
+          "word": "kiss",
+          "strongNumber": "G5370",
+          "lemma": "philema",
+          "meaning": "a kiss"
+        }
+      ]
+    },
+    {
+      "verse": 49,
+      "text": "When they which were about him saw what would follow, they said unto him, Lord, shall we smite with the sword?",
+      "highlightedWords": [
+        {
+          "word": "smite",
+          "strongNumber": "G3960",
+          "lemma": "patasso",
+          "meaning": "to strike, smite"
+        },
+        {
+          "word": "sword",
+          "strongNumber": "G3162",
+          "lemma": "machaira",
+          "meaning": "sword, dagger"
+        }
+      ]
+    },
+    {
+      "verse": 50,
+      "text": "And one of them smote the servant of the high priest, and cut off his right ear.",
+      "highlightedWords": [
+        {
+          "word": "servant",
+          "strongNumber": "G1401",
+          "lemma": "doulos",
+          "meaning": "servant, slave"
+        },
+        {
+          "word": "ear",
+          "strongNumber": "G3775",
+          "lemma": "ous",
+          "meaning": "ear"
+        }
+      ]
+    },
+    {
+      "verse": 51,
+      "text": "And Jesus answered and said, Suffer ye thus far. And he touched his ear, and healed him.",
+      "highlightedWords": [
+        {
+          "word": "touched",
+          "strongNumber": "G0680",
+          "lemma": "haptomai",
+          "meaning": "to touch"
+        },
+        {
+          "word": "healed",
+          "strongNumber": "G2390",
+          "lemma": "iaomai",
+          "meaning": "to heal"
+        }
+      ]
+    },
+    {
+      "verse": 52,
+      "text": "Then Jesus said unto the chief priests, and captains of the temple, and the elders, which were come to him, Be ye come out, as against a thief, with swords and staves?",
+      "highlightedWords": [
+        {
+          "word": "temple",
+          "strongNumber": "G2411",
+          "lemma": "hieron",
+          "meaning": "the temple (precincts)"
+        },
+        {
+          "word": "staves",
+          "strongNumber": "G3586",
+          "lemma": "xylon",
+          "meaning": "wood, club, staff"
+        }
+      ]
+    },
+    {
+      "verse": 53,
+      "text": "When I was daily with you in the temple, ye stretched forth no hands against me: but this is your hour, and the power of darkness.",
+      "highlightedWords": [
+        {
+          "word": "temple",
+          "strongNumber": "G2411",
+          "lemma": "hieron",
+          "meaning": "the temple (precincts)"
+        },
+        {
+          "word": "darkness",
+          "strongNumber": "G4655",
+          "lemma": "skotos",
+          "meaning": "darkness"
+        }
+      ]
+    },
+    {
+      "verse": 54,
+      "text": "Then took they him, and led him, and brought him into the high priest's house. And Peter followed afar off.",
+      "highlightedWords": [
+        {
+          "word": "priest's",
+          "strongNumber": "G0749",
+          "lemma": "archiereus",
+          "meaning": "high priest"
+        },
+        {
+          "word": "followed",
+          "strongNumber": "G0190",
+          "lemma": "akoloutheo",
+          "meaning": "to follow"
+        }
+      ]
+    },
+    {
+      "verse": 55,
+      "text": "And when they had kindled a fire in the midst of the hall, and were set down together, Peter sat down among them.",
+      "highlightedWords": [
+        {
+          "word": "fire",
+          "strongNumber": "G4442",
+          "lemma": "pyr",
+          "meaning": "fire"
+        },
+        {
+          "word": "hall",
+          "strongNumber": "G0833",
+          "lemma": "aule",
+          "meaning": "courtyard, hall"
+        }
+      ]
+    },
+    {
+      "verse": 56,
+      "text": "But a certain maid beheld him as he sat by the fire, and earnestly looked upon him, and said, This man was also with him.",
+      "highlightedWords": [
+        {
+          "word": "maid",
+          "strongNumber": "G3814",
+          "lemma": "paidiske",
+          "meaning": "maid, slave-girl"
+        },
+        {
+          "word": "fire",
+          "strongNumber": "G4442",
+          "lemma": "pyr",
+          "meaning": "fire"
+        }
+      ]
+    },
+    {
+      "verse": 57,
+      "text": "And he denied him, saying, Woman, I know him not.",
+      "highlightedWords": [
+        {
+          "word": "denied",
+          "strongNumber": "G0720",
+          "lemma": "arneomai",
+          "meaning": "to deny, disown"
+        },
+        {
+          "word": "Woman",
+          "strongNumber": "G1135",
+          "lemma": "gyne",
+          "meaning": "woman, wife"
+        }
+      ]
+    },
+    {
+      "verse": 58,
+      "text": "And after a little while another saw him, and said, Thou art also of them. And Peter said, Man, I am not.",
+      "highlightedWords": [
+        {
+          "word": "Man",
+          "strongNumber": "G0444",
+          "lemma": "anthropos",
+          "meaning": "man, person"
+        },
+        {
+          "word": "not",
+          "strongNumber": "G3756",
+          "lemma": "ou",
+          "meaning": "not, no"
+        }
+      ]
+    },
+    {
+      "verse": 59,
+      "text": "And about the space of one hour after another confidently affirmed, saying, Of a truth this fellow also was with him: for he is a Galilaean.",
+      "highlightedWords": [
+        {
+          "word": "hour",
+          "strongNumber": "G5610",
+          "lemma": "hora",
+          "meaning": "hour, time"
+        },
+        {
+          "word": "Galilaean",
+          "strongNumber": "G1057",
+          "lemma": "Galilaios",
+          "meaning": "Galilean"
+        }
+      ]
+    },
+    {
+      "verse": 60,
+      "text": "And Peter said, Man, I know not what thou sayest. And immediately, while he yet spake, the cock crew.",
+      "highlightedWords": [
+        {
+          "word": "immediately",
+          "strongNumber": "G3916",
+          "lemma": "parachrema",
+          "meaning": "immediately, at once"
+        },
+        {
+          "word": "cock",
+          "strongNumber": "G0220",
+          "lemma": "alektor",
+          "meaning": "rooster"
+        }
+      ]
+    },
+    {
+      "verse": 61,
+      "text": "And the Lord turned, and looked upon Peter. And Peter remembered the word of the Lord, how he had said unto him, Before the cock crow, thou shalt deny me thrice.",
+      "highlightedWords": [
+        {
+          "word": "remembered",
+          "strongNumber": "G3403",
+          "lemma": "mnemoneuo",
+          "meaning": "to remember, recall"
+        },
+        {
+          "word": "cock",
+          "strongNumber": "G0220",
+          "lemma": "alektor",
+          "meaning": "rooster"
+        }
+      ]
+    },
+    {
+      "verse": 62,
+      "text": "And Peter went out, and wept bitterly.",
+      "highlightedWords": [
+        {
+          "word": "wept",
+          "strongNumber": "G2799",
+          "lemma": "klaio",
+          "meaning": "to weep, wail"
+        },
+        {
+          "word": "out",
+          "strongNumber": "G1854",
+          "lemma": "exo",
+          "meaning": "outside, out"
+        }
+      ]
+    },
+    {
+      "verse": 63,
+      "text": "And the men that held Jesus mocked him, and smote him.",
+      "highlightedWords": [
+        {
+          "word": "mocked",
+          "strongNumber": "G1702",
+          "lemma": "empaizo",
+          "meaning": "to mock"
+        },
+        {
+          "word": "smote",
+          "strongNumber": "G1194",
+          "lemma": "dero",
+          "meaning": "to beat, smite"
+        }
+      ]
+    },
+    {
+      "verse": 64,
+      "text": "And when they had blindfolded him, they struck him on the face, and asked him, saying, Prophesy, who is it that smote thee?",
+      "highlightedWords": [
+        {
+          "word": "blindfolded",
+          "strongNumber": "G4028",
+          "lemma": "perikalypto",
+          "meaning": "to cover, blindfold"
+        },
+        {
+          "word": "Prophesy",
+          "strongNumber": "G4395",
+          "lemma": "propheteuo",
+          "meaning": "to prophesy"
+        }
+      ]
+    },
+    {
+      "verse": 65,
+      "text": "And many other things blasphemously spake they against him.",
+      "highlightedWords": [
+        {
+          "word": "blasphemously",
+          "strongNumber": "G0987",
+          "lemma": "blasphemeo",
+          "meaning": "to blaspheme, speak irreverently"
+        },
+        {
+          "word": "against",
+          "strongNumber": "G2596",
+          "lemma": "kata",
+          "meaning": "against, according to"
+        }
+      ]
+    },
+    {
+      "verse": 66,
+      "text": "And as soon as it was day, the elders of the people and the chief priests and the scribes came together, and led him into their council, saying,",
+      "highlightedWords": [
+        {
+          "word": "scribes",
+          "strongNumber": "G1122",
+          "lemma": "grammateus",
+          "meaning": "scribe, expert in the law"
+        },
+        {
+          "word": "council",
+          "strongNumber": "G4892",
+          "lemma": "synedrion",
+          "meaning": "council, Sanhedrin"
+        }
+      ]
+    },
+    {
+      "verse": 67,
+      "text": "Art thou the Christ? tell us. And he said unto them, If I tell you, ye will not believe:",
+      "highlightedWords": [
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "the Anointed One, Messiah, Christ"
+        },
+        {
+          "word": "believe",
+          "strongNumber": "G4100",
+          "lemma": "pisteuo",
+          "meaning": "to believe, have faith"
+        }
+      ]
+    },
+    {
+      "verse": 68,
+      "text": "And if I also ask you, ye will not answer me, nor let me go.",
+      "highlightedWords": [
+        {
+          "word": "answer",
+          "strongNumber": "G0611",
+          "lemma": "apokrinomai",
+          "meaning": "to answer, reply"
+        },
+        {
+          "word": "go",
+          "strongNumber": "G0630",
+          "lemma": "apolyo",
+          "meaning": "to release, let go"
+        }
+      ]
+    },
+    {
+      "verse": 69,
+      "text": "Hereafter shall the Son of man sit on the right hand of the power of God.",
+      "highlightedWords": [
+        {
+          "word": "right",
+          "strongNumber": "G1188",
+          "lemma": "dexios",
+          "meaning": "right (side/hand)"
+        },
+        {
+          "word": "power",
+          "strongNumber": "G1411",
+          "lemma": "dynamis",
+          "meaning": "power, might"
+        }
+      ]
+    },
+    {
+      "verse": 70,
+      "text": "Then said they all, Art thou then the Son of God? And he said unto them, Ye say that I am.",
+      "highlightedWords": [
+        {
+          "word": "Son",
+          "strongNumber": "G5207",
+          "lemma": "huios",
+          "meaning": "son"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God, deity"
+        }
+      ]
+    },
+    {
+      "verse": 71,
+      "text": "And they said, What need we any further witness? for we ourselves have heard of his own mouth.",
+      "highlightedWords": [
+        {
+          "word": "witness",
+          "strongNumber": "G3141",
+          "lemma": "martyria",
+          "meaning": "testimony, witness"
+        },
+        {
+          "word": "mouth",
+          "strongNumber": "G4750",
+          "lemma": "stoma",
+          "meaning": "mouth"
+        }
+      ]
+    }
+  ]
+}

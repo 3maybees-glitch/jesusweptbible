@@ -1,0 +1,600 @@
+{
+  "book": "Romans",
+  "chapter": 1,
+  "chapterTheme": {
+    "twoWordSummary": "Gospel Righteousness",
+    "themeWords": [
+      {
+        "word": "gospel",
+        "strongNumber": "G2098",
+        "lemma": "euangelion",
+        "meaning": "good news"
+      },
+      {
+        "word": "righteousness",
+        "strongNumber": "G1343",
+        "lemma": "dikaiosynē",
+        "meaning": "justness; right standing with God"
+      }
+    ]
+  },
+  "sentenceTheme": "Paul introduces the gospel of God’s Son, reveals God’s righteousness received by faith, and exposes the universal unrighteousness of humanity under God’s wrath.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Paul, a servant of Jesus Christ, called to be an apostle, separated unto the gospel of God,",
+      "highlightedWords": [
+        {
+          "word": "apostle",
+          "strongNumber": "G652",
+          "lemma": "apostolos",
+          "meaning": "one who is sent; messenger"
+        },
+        {
+          "word": "gospel",
+          "strongNumber": "G2098",
+          "lemma": "euangelion",
+          "meaning": "good news"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "(Which he had promised afore by his prophets in the holy scriptures,)",
+      "highlightedWords": [
+        {
+          "word": "prophets",
+          "strongNumber": "G4396",
+          "lemma": "prophētēs",
+          "meaning": "a prophet; inspired spokesman"
+        },
+        {
+          "word": "scriptures",
+          "strongNumber": "G1124",
+          "lemma": "graphē",
+          "meaning": "writing; Scripture"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Concerning his Son Jesus Christ our Lord, which was made of the seed of David according to the flesh;",
+      "highlightedWords": [
+        {
+          "word": "Son",
+          "strongNumber": "G5207",
+          "lemma": "huios",
+          "meaning": "son; descendant"
+        },
+        {
+          "word": "David",
+          "strongNumber": "G1138",
+          "lemma": "Dauid",
+          "meaning": "David; beloved"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And declared to be the Son of God with power, according to the spirit of holiness, by the resurrection from the dead:",
+      "highlightedWords": [
+        {
+          "word": "spirit",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit; breath; inner life"
+        },
+        {
+          "word": "resurrection",
+          "strongNumber": "G386",
+          "lemma": "anastasis",
+          "meaning": "rising from the dead"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "By whom we have received grace and apostleship, for obedience to the faith among all nations, for his name:",
+      "highlightedWords": [
+        {
+          "word": "grace",
+          "strongNumber": "G5485",
+          "lemma": "charis",
+          "meaning": "grace; favor; kindness"
+        },
+        {
+          "word": "faith",
+          "strongNumber": "G4102",
+          "lemma": "pistis",
+          "meaning": "faith; trust; belief"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Among whom are ye also the called of Jesus Christ:",
+      "highlightedWords": [
+        {
+          "word": "called",
+          "strongNumber": "G2822",
+          "lemma": "klētos",
+          "meaning": "called; invited"
+        },
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus; Yahweh is salvation"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "To all that be in Rome, beloved of God, called to be saints: Grace to you and peace from God our Father, and the Lord Jesus Christ.",
+      "highlightedWords": [
+        {
+          "word": "saints",
+          "strongNumber": "G40",
+          "lemma": "hagios",
+          "meaning": "holy ones; set-apart ones"
+        },
+        {
+          "word": "peace",
+          "strongNumber": "G1515",
+          "lemma": "eirēnē",
+          "meaning": "peace; wholeness; harmony"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "First, I thank my God through Jesus Christ for you all, that your faith is spoken of throughout the whole world.",
+      "highlightedWords": [
+        {
+          "word": "thank",
+          "strongNumber": "G2168",
+          "lemma": "eucharisteō",
+          "meaning": "to give thanks"
+        },
+        {
+          "word": "world",
+          "strongNumber": "G2889",
+          "lemma": "kosmos",
+          "meaning": "world; ordered system"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "For God is my witness, whom I serve with my spirit in the gospel of his Son, that without ceasing I make mention of you always in my prayers;",
+      "highlightedWords": [
+        {
+          "word": "serve",
+          "strongNumber": "G3000",
+          "lemma": "latreuō",
+          "meaning": "to serve; to worship"
+        },
+        {
+          "word": "prayers",
+          "strongNumber": "G4335",
+          "lemma": "proseuchē",
+          "meaning": "prayer; petition"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Making request, if by any means now at length I might have a prosperous journey by the will of God to come unto you.",
+      "highlightedWords": [
+        {
+          "word": "will",
+          "strongNumber": "G2307",
+          "lemma": "thelēma",
+          "meaning": "will; desire; purpose"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God; deity"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "For I long to see you, that I may impart unto you some spiritual gift, to the end ye may be established;",
+      "highlightedWords": [
+        {
+          "word": "spiritual",
+          "strongNumber": "G4152",
+          "lemma": "pneumatikos",
+          "meaning": "spiritual; of the Spirit"
+        },
+        {
+          "word": "gift",
+          "strongNumber": "G5486",
+          "lemma": "charisma",
+          "meaning": "grace-gift; endowment"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "That is, that I may be comforted together with you by the mutual faith both of you and me.",
+      "highlightedWords": [
+        {
+          "word": "comforted",
+          "strongNumber": "G4837",
+          "lemma": "sumparakaleō",
+          "meaning": "to encourage/comfort together"
+        },
+        {
+          "word": "faith",
+          "strongNumber": "G4102",
+          "lemma": "pistis",
+          "meaning": "faith; trust; belief"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Now I would not have you ignorant, brethren, that oftentimes I purposed to come unto you, (but was let hitherto,) that I might have some fruit among you also, even as among other Gentiles.",
+      "highlightedWords": [
+        {
+          "word": "brethren",
+          "strongNumber": "G80",
+          "lemma": "adelphos",
+          "meaning": "brother; fellow believer"
+        },
+        {
+          "word": "Gentiles",
+          "strongNumber": "G1484",
+          "lemma": "ethnos",
+          "meaning": "nation; Gentiles"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "I am debtor both to the Greeks, and to the Barbarians; both to the wise, and to the unwise.",
+      "highlightedWords": [
+        {
+          "word": "Greeks",
+          "strongNumber": "G1672",
+          "lemma": "Hellēn",
+          "meaning": "a Greek; non-Jew"
+        },
+        {
+          "word": "Barbarians",
+          "strongNumber": "G915",
+          "lemma": "barbaros",
+          "meaning": "foreigner; non-Greek speaker"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "So, as much as in me is, I am ready to preach the gospel to you that are at Rome also.",
+      "highlightedWords": [
+        {
+          "word": "gospel",
+          "strongNumber": "G2098",
+          "lemma": "euangelion",
+          "meaning": "good news"
+        },
+        {
+          "word": "Rome",
+          "strongNumber": "G4516",
+          "lemma": "Rōmē",
+          "meaning": "Rome, the city"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek.",
+      "highlightedWords": [
+        {
+          "word": "power",
+          "strongNumber": "G1411",
+          "lemma": "dynamis",
+          "meaning": "power; might"
+        },
+        {
+          "word": "salvation",
+          "strongNumber": "G4991",
+          "lemma": "sōtēria",
+          "meaning": "salvation; deliverance"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "For therein is the righteousness of God revealed from faith to faith: as it is written, The just shall live by faith.",
+      "highlightedWords": [
+        {
+          "word": "righteousness",
+          "strongNumber": "G1343",
+          "lemma": "dikaiosynē",
+          "meaning": "justice; righteousness"
+        },
+        {
+          "word": "just",
+          "strongNumber": "G1342",
+          "lemma": "dikaios",
+          "meaning": "righteous; just"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who hold the truth in unrighteousness;",
+      "highlightedWords": [
+        {
+          "word": "wrath",
+          "strongNumber": "G3709",
+          "lemma": "orgē",
+          "meaning": "wrath; anger"
+        },
+        {
+          "word": "truth",
+          "strongNumber": "G225",
+          "lemma": "alētheia",
+          "meaning": "truth; reality"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Because that which may be known of God is manifest in them; for God hath shewed it unto them.",
+      "highlightedWords": [
+        {
+          "word": "known",
+          "strongNumber": "G1110",
+          "lemma": "gnōstos",
+          "meaning": "known; knowable"
+        },
+        {
+          "word": "manifest",
+          "strongNumber": "G5319",
+          "lemma": "phaneroō",
+          "meaning": "to make visible; reveal"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his eternal power and Godhead; so that they are without excuse:",
+      "highlightedWords": [
+        {
+          "word": "creation",
+          "strongNumber": "G2937",
+          "lemma": "ktisis",
+          "meaning": "creation; created order"
+        },
+        {
+          "word": "Godhead",
+          "strongNumber": "G2305",
+          "lemma": "theiotēs",
+          "meaning": "divine nature; deity"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Because that, when they knew God, they glorified him not as God, neither were thankful; but became vain in their imaginations, and their foolish heart was darkened.",
+      "highlightedWords": [
+        {
+          "word": "glorified",
+          "strongNumber": "G1392",
+          "lemma": "doxazō",
+          "meaning": "to glorify; honor"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "G2588",
+          "lemma": "kardia",
+          "meaning": "heart; inner self"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Professing themselves to be wise, they became fools,",
+      "highlightedWords": [
+        {
+          "word": "wise",
+          "strongNumber": "G4680",
+          "lemma": "sophos",
+          "meaning": "wise; skilled"
+        },
+        {
+          "word": "fools",
+          "strongNumber": "G3471",
+          "lemma": "mōrainō",
+          "meaning": "to make/become foolish"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And changed the glory of the uncorruptible God into an image made like to corruptible man, and to birds, and fourfooted beasts, and creeping things.",
+      "highlightedWords": [
+        {
+          "word": "glory",
+          "strongNumber": "G1391",
+          "lemma": "doxa",
+          "meaning": "glory; honor; splendor"
+        },
+        {
+          "word": "image",
+          "strongNumber": "G1504",
+          "lemma": "eikōn",
+          "meaning": "image; likeness"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Wherefore God also gave them up to uncleanness through the lusts of their own hearts, to dishonour their own bodies between themselves:",
+      "highlightedWords": [
+        {
+          "word": "uncleanness",
+          "strongNumber": "G167",
+          "lemma": "akatharsia",
+          "meaning": "impurity; uncleanness"
+        },
+        {
+          "word": "lusts",
+          "strongNumber": "G1939",
+          "lemma": "epithymia",
+          "meaning": "desire; lust"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Who changed the truth of God into a lie, and worshipped and served the creature more than the Creator, who is blessed for ever. Amen.",
+      "highlightedWords": [
+        {
+          "word": "worshipped",
+          "strongNumber": "G4352",
+          "lemma": "proskyneō",
+          "meaning": "to worship; prostrate oneself"
+        },
+        {
+          "word": "creature",
+          "strongNumber": "G2937",
+          "lemma": "ktisis",
+          "meaning": "created thing; creature"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "For this cause God gave them up unto vile affections: for even their women did change the natural use into that which is against nature:",
+      "highlightedWords": [
+        {
+          "word": "affections",
+          "strongNumber": "G3806",
+          "lemma": "pathos",
+          "meaning": "passion; affections"
+        },
+        {
+          "word": "nature",
+          "strongNumber": "G5449",
+          "lemma": "physis",
+          "meaning": "nature; natural order"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And likewise also the men, leaving the natural use of the woman, burned in their lust one toward another; men with men working that which is unseemly, and receiving in themselves that recompence of their error which was meet.",
+      "highlightedWords": [
+        {
+          "word": "lust",
+          "strongNumber": "G3715",
+          "lemma": "orexis",
+          "meaning": "desire; lust"
+        },
+        {
+          "word": "error",
+          "strongNumber": "G4106",
+          "lemma": "planē",
+          "meaning": "error; wandering; deception"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And even as they did not like to retain God in their knowledge, God gave them over to a reprobate mind, to do those things which are not convenient;",
+      "highlightedWords": [
+        {
+          "word": "knowledge",
+          "strongNumber": "G1922",
+          "lemma": "epignōsis",
+          "meaning": "full knowledge; recognition"
+        },
+        {
+          "word": "reprobate",
+          "strongNumber": "G96",
+          "lemma": "adokimos",
+          "meaning": "unapproved; worthless; reprobate"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "Being filled with all unrighteousness, fornication, wickedness, covetousness, maliciousness; full of envy, murder, debate, deceit, malignity; whisperers,",
+      "highlightedWords": [
+        {
+          "word": "fornication",
+          "strongNumber": "G4202",
+          "lemma": "porneia",
+          "meaning": "sexual immorality"
+        },
+        {
+          "word": "deceit",
+          "strongNumber": "G1388",
+          "lemma": "dolos",
+          "meaning": "deceit; guile"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "Backbiters, haters of God, despiteful, proud, boasters, inventors of evil things, disobedient to parents,",
+      "highlightedWords": [
+        {
+          "word": "proud",
+          "strongNumber": "G5244",
+          "lemma": "hyperēphanos",
+          "meaning": "proud; arrogant"
+        },
+        {
+          "word": "boasters",
+          "strongNumber": "G213",
+          "lemma": "alazōn",
+          "meaning": "boaster; braggart"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "Without understanding, covenantbreakers, without natural affection, implacable, unmerciful:",
+      "highlightedWords": [
+        {
+          "word": "covenantbreakers",
+          "strongNumber": "G802",
+          "lemma": "asynthētos",
+          "meaning": "faithless; covenant-breaker"
+        },
+        {
+          "word": "unmerciful",
+          "strongNumber": "G415",
+          "lemma": "aneleēmōn",
+          "meaning": "merciless; without pity"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "Who knowing the judgment of God, that they which commit such things are worthy of death, not only do the same, but have pleasure in them that do them.",
+      "highlightedWords": [
+        {
+          "word": "judgment",
+          "strongNumber": "G1345",
+          "lemma": "dikaiōma",
+          "meaning": "righteous decree; judgment"
+        },
+        {
+          "word": "death",
+          "strongNumber": "G2288",
+          "lemma": "thanatos",
+          "meaning": "death"
+        }
+      ]
+    }
+  ]
+}

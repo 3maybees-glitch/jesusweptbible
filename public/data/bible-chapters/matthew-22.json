@@ -1,0 +1,852 @@
+{
+  "book": "Matthew",
+  "chapter": 22,
+  "chapterTheme": {
+    "twoWordSummary": "Kingdom Confrontations",
+    "themeWords": [
+      {
+        "word": "kingdom",
+        "strongNumber": "G932",
+        "lemma": "basileia",
+        "meaning": "kingdom, reign, rule"
+      },
+      {
+        "word": "wedding",
+        "strongNumber": "G1062",
+        "lemma": "gamos",
+        "meaning": "wedding, marriage feast"
+      }
+    ]
+  },
+  "sentenceTheme": "Jesus teaches the wedding banquet parable, answers challenges about tribute and resurrection, declares the greatest commandment, and reveals the Messiah’s lordship over David.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And Jesus answered and spake unto them again by parables, and said,",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus; Yahweh is salvation"
+        },
+        {
+          "word": "parables",
+          "strongNumber": "G3850",
+          "lemma": "parabolē",
+          "meaning": "parable, comparison, figure"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "The kingdom of heaven is like unto a certain king, which made a marriage for his son,",
+      "highlightedWords": [
+        {
+          "word": "kingdom",
+          "strongNumber": "G932",
+          "lemma": "basileia",
+          "meaning": "kingdom, reign, rule"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "G3772",
+          "lemma": "ouranos",
+          "meaning": "heaven, sky"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And sent forth his servants to call them that were bidden to the wedding: and they would not come.",
+      "highlightedWords": [
+        {
+          "word": "servants",
+          "strongNumber": "G1401",
+          "lemma": "doulos",
+          "meaning": "slave, servant"
+        },
+        {
+          "word": "wedding",
+          "strongNumber": "G1062",
+          "lemma": "gamos",
+          "meaning": "wedding, marriage feast"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Again, he sent forth other servants, saying, Tell them which are bidden, Behold, I have prepared my dinner: my oxen and my fatlings are killed, and all things are ready: come unto the marriage.",
+      "highlightedWords": [
+        {
+          "word": "dinner",
+          "strongNumber": "G712",
+          "lemma": "ariston",
+          "meaning": "a meal, usually the morning or midday meal"
+        },
+        {
+          "word": "killed",
+          "strongNumber": "G615",
+          "lemma": "apokteinō",
+          "meaning": "to kill, slay"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "But they made light of it, and went their ways, one to his farm, another to his merchandise:",
+      "highlightedWords": [
+        {
+          "word": "farm",
+          "strongNumber": "G68",
+          "lemma": "agros",
+          "meaning": "field, farm, countryside"
+        },
+        {
+          "word": "merchandise",
+          "strongNumber": "G1711",
+          "lemma": "emporia",
+          "meaning": "trade, commerce, merchandise"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And the remnant took his servants, and entreated them spitefully, and slew them.",
+      "highlightedWords": [
+        {
+          "word": "remnant",
+          "strongNumber": "G3062",
+          "lemma": "loipos",
+          "meaning": "the rest, remaining, remnant"
+        },
+        {
+          "word": "slew",
+          "strongNumber": "G615",
+          "lemma": "apokteinō",
+          "meaning": "to kill, slay"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "But when the king heard thereof, he was wroth: and he sent forth his armies, and destroyed those murderers, and burned up their city.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "G935",
+          "lemma": "basileus",
+          "meaning": "king"
+        },
+        {
+          "word": "murderers",
+          "strongNumber": "G5406",
+          "lemma": "phoneus",
+          "meaning": "murderer, killer"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Then saith he to his servants, The wedding is ready, but they which were bidden were not worthy.",
+      "highlightedWords": [
+        {
+          "word": "wedding",
+          "strongNumber": "G1062",
+          "lemma": "gamos",
+          "meaning": "wedding, marriage feast"
+        },
+        {
+          "word": "worthy",
+          "strongNumber": "G514",
+          "lemma": "axios",
+          "meaning": "worthy, deserving"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Go ye therefore into the highways, and as many as ye shall find, bid to the marriage.",
+      "highlightedWords": [
+        {
+          "word": "highways",
+          "strongNumber": "G1327",
+          "lemma": "diexodos",
+          "meaning": "a way out, highway, crossroads"
+        },
+        {
+          "word": "marriage",
+          "strongNumber": "G1062",
+          "lemma": "gamos",
+          "meaning": "wedding, marriage feast"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "So those servants went out into the highways, and gathered together all as many as they found, both bad and good: and the wedding was furnished with guests.",
+      "highlightedWords": [
+        {
+          "word": "servants",
+          "strongNumber": "G1401",
+          "lemma": "doulos",
+          "meaning": "slave, servant"
+        },
+        {
+          "word": "wedding",
+          "strongNumber": "G1062",
+          "lemma": "gamos",
+          "meaning": "wedding, marriage feast"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And when the king came in to see the guests, he saw there a man which had not on a wedding garment:",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "G935",
+          "lemma": "basileus",
+          "meaning": "king"
+        },
+        {
+          "word": "garment",
+          "strongNumber": "G1742",
+          "lemma": "enduma",
+          "meaning": "garment, clothing"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And he saith unto him, Friend, how camest thou in hither not having a wedding garment? And he was speechless.",
+      "highlightedWords": [
+        {
+          "word": "Friend",
+          "strongNumber": "G2083",
+          "lemma": "hetairos",
+          "meaning": "companion, comrade, friend"
+        },
+        {
+          "word": "speechless",
+          "strongNumber": "G5392",
+          "lemma": "phimoō",
+          "meaning": "to muzzle, silence"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Then said the king to the servants, Bind him hand and foot, and take him away, and cast him into outer darkness; there shall be weeping and gnashing of teeth.",
+      "highlightedWords": [
+        {
+          "word": "Bind",
+          "strongNumber": "G1210",
+          "lemma": "deō",
+          "meaning": "to bind, tie"
+        },
+        {
+          "word": "darkness",
+          "strongNumber": "G4655",
+          "lemma": "skotos",
+          "meaning": "darkness"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "For many are called, but few are chosen.",
+      "highlightedWords": [
+        {
+          "word": "called",
+          "strongNumber": "G2822",
+          "lemma": "klētos",
+          "meaning": "called, invited"
+        },
+        {
+          "word": "chosen",
+          "strongNumber": "G1588",
+          "lemma": "eklektos",
+          "meaning": "chosen, elect"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Then went the Pharisees, and took counsel how they might entangle him in his talk.",
+      "highlightedWords": [
+        {
+          "word": "Pharisees",
+          "strongNumber": "G5330",
+          "lemma": "Pharisaios",
+          "meaning": "a Pharisee"
+        },
+        {
+          "word": "entangle",
+          "strongNumber": "G3803",
+          "lemma": "pagideuō",
+          "meaning": "to ensnare, to trap"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And they sent out unto him their disciples with the Herodians, saying, Master, we know that thou art true, and teachest the way of God in truth, neither carest thou for any man: for thou regardest not the person of men.",
+      "highlightedWords": [
+        {
+          "word": "Herodians",
+          "strongNumber": "G2265",
+          "lemma": "Hērōdianos",
+          "meaning": "a partisan of Herod, Herodian"
+        },
+        {
+          "word": "Master",
+          "strongNumber": "G1320",
+          "lemma": "didaskalos",
+          "meaning": "teacher, master"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Tell us therefore, What thinkest thou? Is it lawful to give tribute unto Caesar, or not?",
+      "highlightedWords": [
+        {
+          "word": "lawful",
+          "strongNumber": "G1832",
+          "lemma": "exesti",
+          "meaning": "it is permitted, lawful"
+        },
+        {
+          "word": "tribute",
+          "strongNumber": "G2778",
+          "lemma": "kensos",
+          "meaning": "census tax, tribute"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "But Jesus perceived their wickedness, and said, Why tempt ye me, ye hypocrites?",
+      "highlightedWords": [
+        {
+          "word": "perceived",
+          "strongNumber": "G1097",
+          "lemma": "ginōskō",
+          "meaning": "to know, perceive"
+        },
+        {
+          "word": "hypocrites",
+          "strongNumber": "G5273",
+          "lemma": "hypokritēs",
+          "meaning": "hypocrite, pretender"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Shew me the tribute money. And they brought unto him a penny.",
+      "highlightedWords": [
+        {
+          "word": "tribute",
+          "strongNumber": "G2778",
+          "lemma": "kensos",
+          "meaning": "census tax, tribute"
+        },
+        {
+          "word": "penny",
+          "strongNumber": "G1220",
+          "lemma": "dēnarion",
+          "meaning": "a denarius, a Roman silver coin"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And he saith unto them, Whose is this image and superscription?",
+      "highlightedWords": [
+        {
+          "word": "image",
+          "strongNumber": "G1504",
+          "lemma": "eikōn",
+          "meaning": "image, likeness"
+        },
+        {
+          "word": "superscription",
+          "strongNumber": "G1923",
+          "lemma": "epigraphē",
+          "meaning": "inscription, superscription"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "They say unto him, Caesar's. Then saith he unto them, Render therefore unto Caesar the things which are Caesar's; and unto God the things that are God's.",
+      "highlightedWords": [
+        {
+          "word": "Render",
+          "strongNumber": "G591",
+          "lemma": "apodidōmi",
+          "meaning": "to give back, render"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "Theos",
+          "meaning": "God"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "When they had heard these words, they marvelled, and left him, and went their way.",
+      "highlightedWords": [
+        {
+          "word": "heard",
+          "strongNumber": "G191",
+          "lemma": "akouō",
+          "meaning": "to hear, listen"
+        },
+        {
+          "word": "marvelled",
+          "strongNumber": "G2296",
+          "lemma": "thaumazō",
+          "meaning": "to marvel, wonder"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "The same day came to him the Sadducees, which say that there is no resurrection, and asked him,",
+      "highlightedWords": [
+        {
+          "word": "Sadducees",
+          "strongNumber": "G4523",
+          "lemma": "Saddoukaios",
+          "meaning": "a Sadducee"
+        },
+        {
+          "word": "resurrection",
+          "strongNumber": "G386",
+          "lemma": "anastasis",
+          "meaning": "resurrection, rising up"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Saying, Master, Moses said, If a man die, having no children, his brother shall marry his wife, and raise up seed unto his brother.",
+      "highlightedWords": [
+        {
+          "word": "Moses",
+          "strongNumber": "G3475",
+          "lemma": "Mōusēs",
+          "meaning": "Moses"
+        },
+        {
+          "word": "seed",
+          "strongNumber": "G4690",
+          "lemma": "sperma",
+          "meaning": "seed, offspring, descendants"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Now there were with us seven brethren: and the first, when he had married a wife, deceased, and, having no issue, left his wife unto his brother:",
+      "highlightedWords": [
+        {
+          "word": "brethren",
+          "strongNumber": "G80",
+          "lemma": "adelphos",
+          "meaning": "brother"
+        },
+        {
+          "word": "wife",
+          "strongNumber": "G1135",
+          "lemma": "gynē",
+          "meaning": "woman, wife"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "Likewise the second also, and the third, unto the seventh.",
+      "highlightedWords": [
+        {
+          "word": "second",
+          "strongNumber": "G1208",
+          "lemma": "deuteros",
+          "meaning": "second"
+        },
+        {
+          "word": "third",
+          "strongNumber": "G5154",
+          "lemma": "tritos",
+          "meaning": "third"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And last of all the woman died also.",
+      "highlightedWords": [
+        {
+          "word": "woman",
+          "strongNumber": "G1135",
+          "lemma": "gynē",
+          "meaning": "woman, wife"
+        },
+        {
+          "word": "died",
+          "strongNumber": "G599",
+          "lemma": "apothnēskō",
+          "meaning": "to die"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "Therefore in the resurrection whose wife shall she be of the seven? for they all had her.",
+      "highlightedWords": [
+        {
+          "word": "resurrection",
+          "strongNumber": "G386",
+          "lemma": "anastasis",
+          "meaning": "resurrection, rising up"
+        },
+        {
+          "word": "wife",
+          "strongNumber": "G1135",
+          "lemma": "gynē",
+          "meaning": "woman, wife"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "Jesus answered and said unto them, Ye do err, not knowing the scriptures, nor the power of God.",
+      "highlightedWords": [
+        {
+          "word": "scriptures",
+          "strongNumber": "G1124",
+          "lemma": "graphē",
+          "meaning": "writing, Scripture"
+        },
+        {
+          "word": "power",
+          "strongNumber": "G1411",
+          "lemma": "dynamis",
+          "meaning": "power, might"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "For in the resurrection they neither marry, nor are given in marriage, but are as the angels of God in heaven.",
+      "highlightedWords": [
+        {
+          "word": "angels",
+          "strongNumber": "G32",
+          "lemma": "angelos",
+          "meaning": "messenger, angel"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "G3772",
+          "lemma": "ouranos",
+          "meaning": "heaven, sky"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "But as touching the resurrection of the dead, have ye not read that which was spoken unto you by God, saying,",
+      "highlightedWords": [
+        {
+          "word": "resurrection",
+          "strongNumber": "G386",
+          "lemma": "anastasis",
+          "meaning": "resurrection, rising up"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "Theos",
+          "meaning": "God"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "I am the God of Abraham, and the God of Isaac, and the God of Jacob? God is not the God of the dead, but of the living.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "Theos",
+          "meaning": "God"
+        },
+        {
+          "word": "living",
+          "strongNumber": "G2198",
+          "lemma": "zaō",
+          "meaning": "to live, living"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "And when the multitude heard this, they were astonished at his doctrine.",
+      "highlightedWords": [
+        {
+          "word": "multitude",
+          "strongNumber": "G3793",
+          "lemma": "ochlos",
+          "meaning": "crowd, multitude"
+        },
+        {
+          "word": "doctrine",
+          "strongNumber": "G1322",
+          "lemma": "didachē",
+          "meaning": "teaching, doctrine"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "But when the Pharisees had heard that he had put the Sadducees to silence, they were gathered together.",
+      "highlightedWords": [
+        {
+          "word": "Pharisees",
+          "strongNumber": "G5330",
+          "lemma": "Pharisaios",
+          "meaning": "a Pharisee"
+        },
+        {
+          "word": "Sadducees",
+          "strongNumber": "G4523",
+          "lemma": "Saddoukaios",
+          "meaning": "a Sadducee"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "Then one of them, which was a lawyer, asked him a question, tempting him, and saying,",
+      "highlightedWords": [
+        {
+          "word": "lawyer",
+          "strongNumber": "G3544",
+          "lemma": "nomikos",
+          "meaning": "lawyer, expert in the Law"
+        },
+        {
+          "word": "tempting",
+          "strongNumber": "G3985",
+          "lemma": "peirazō",
+          "meaning": "to test, tempt"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "Master, which is the great commandment in the law?",
+      "highlightedWords": [
+        {
+          "word": "commandment",
+          "strongNumber": "G1785",
+          "lemma": "entolē",
+          "meaning": "commandment"
+        },
+        {
+          "word": "law",
+          "strongNumber": "G3551",
+          "lemma": "nomos",
+          "meaning": "law"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.",
+      "highlightedWords": [
+        {
+          "word": "love",
+          "strongNumber": "G25",
+          "lemma": "agapaō",
+          "meaning": "to love"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "G2588",
+          "lemma": "kardia",
+          "meaning": "heart"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "This is the first and great commandment.",
+      "highlightedWords": [
+        {
+          "word": "first",
+          "strongNumber": "G4413",
+          "lemma": "prōtos",
+          "meaning": "first, foremost"
+        },
+        {
+          "word": "commandment",
+          "strongNumber": "G1785",
+          "lemma": "entolē",
+          "meaning": "commandment"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "text": "And the second is like unto it, Thou shalt love thy neighbour as thyself.",
+      "highlightedWords": [
+        {
+          "word": "second",
+          "strongNumber": "G1208",
+          "lemma": "deuteros",
+          "meaning": "second"
+        },
+        {
+          "word": "neighbour",
+          "strongNumber": "G4139",
+          "lemma": "plēsion",
+          "meaning": "neighbor"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "text": "On these two commandments hang all the law and the prophets.",
+      "highlightedWords": [
+        {
+          "word": "commandments",
+          "strongNumber": "G1785",
+          "lemma": "entolē",
+          "meaning": "commandments"
+        },
+        {
+          "word": "prophets",
+          "strongNumber": "G4396",
+          "lemma": "prophētēs",
+          "meaning": "prophet"
+        }
+      ]
+    },
+    {
+      "verse": 41,
+      "text": "While the Pharisees were gathered together, Jesus asked them,",
+      "highlightedWords": [
+        {
+          "word": "Pharisees",
+          "strongNumber": "G5330",
+          "lemma": "Pharisaios",
+          "meaning": "a Pharisee"
+        },
+        {
+          "word": "asked",
+          "strongNumber": "G1905",
+          "lemma": "eperōtaō",
+          "meaning": "to ask, inquire"
+        }
+      ]
+    },
+    {
+      "verse": 42,
+      "text": "Saying, What think ye of Christ? whose son is he? They say unto him, The son of David.",
+      "highlightedWords": [
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "Anointed One, Christ"
+        },
+        {
+          "word": "David",
+          "strongNumber": "G1138",
+          "lemma": "Dauid",
+          "meaning": "David"
+        }
+      ]
+    },
+    {
+      "verse": 43,
+      "text": "He saith unto them, How then doth David in spirit call him Lord, saying,",
+      "highlightedWords": [
+        {
+          "word": "spirit",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit, breath, wind"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "Lord, master"
+        }
+      ]
+    },
+    {
+      "verse": 44,
+      "text": "The Lord said unto my Lord, Sit thou on my right hand, till I make thine enemies thy footstool?",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "Lord, master"
+        },
+        {
+          "word": "enemies",
+          "strongNumber": "G2190",
+          "lemma": "echthros",
+          "meaning": "enemy, hostile one"
+        }
+      ]
+    },
+    {
+      "verse": 45,
+      "text": "If David then call him Lord, how is he his son?",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "Lord, master"
+        },
+        {
+          "word": "son",
+          "strongNumber": "G5207",
+          "lemma": "huios",
+          "meaning": "son"
+        }
+      ]
+    },
+    {
+      "verse": 46,
+      "text": "And no man was able to answer him a word, neither durst any man from that day forth ask him any more.",
+      "highlightedWords": [
+        {
+          "word": "answer",
+          "strongNumber": "G611",
+          "lemma": "apokrinomai",
+          "meaning": "to answer, reply"
+        },
+        {
+          "word": "ask",
+          "strongNumber": "G1905",
+          "lemma": "eperōtaō",
+          "meaning": "to ask, question"
+        }
+      ]
+    }
+  ]
+}

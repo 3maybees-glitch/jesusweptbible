@@ -1,0 +1,456 @@
+{
+  "book": "1 John",
+  "chapter": 3,
+  "chapterTheme": {
+    "twoWordSummary": "God's Children",
+    "themeWords": [
+      {
+        "word": "love",
+        "strongNumber": "G26",
+        "lemma": "agape",
+        "meaning": "self-giving love; charity"
+      },
+      {
+        "word": "righteousness",
+        "strongNumber": "G1343",
+        "lemma": "dikaiosune",
+        "meaning": "uprightness; justice according to God"
+      }
+    ]
+  },
+  "sentenceTheme": "God’s children are known by love and righteousness, turning from sin and keeping His commandments through the abiding Spirit.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not.",
+      "highlightedWords": [
+        {
+          "word": "love",
+          "strongNumber": "G26",
+          "lemma": "agape",
+          "meaning": "self-giving love; charity"
+        },
+        {
+          "word": "world",
+          "strongNumber": "G2889",
+          "lemma": "kosmos",
+          "meaning": "the world; human society in rebellion"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Beloved, now are we the sons of God, and it doth not yet appear what we shall be: but we know that, when he shall appear, we shall be like him; for we shall see him as he is.",
+      "highlightedWords": [
+        {
+          "word": "appear",
+          "strongNumber": "G5319",
+          "lemma": "phaneroo",
+          "meaning": "to make manifest; reveal"
+        },
+        {
+          "word": "know",
+          "strongNumber": "G1492",
+          "lemma": "oida",
+          "meaning": "to know; to be sure of"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And every man that hath this hope in him purifieth himself, even as he is pure.",
+      "highlightedWords": [
+        {
+          "word": "hope",
+          "strongNumber": "G1680",
+          "lemma": "elpis",
+          "meaning": "confident expectation"
+        },
+        {
+          "word": "purifieth",
+          "strongNumber": "G48",
+          "lemma": "hagnizo",
+          "meaning": "to make pure; to cleanse"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Whosoever committeth sin transgresseth also the law: for sin is the transgression of the law.",
+      "highlightedWords": [
+        {
+          "word": "sin",
+          "strongNumber": "G266",
+          "lemma": "hamartia",
+          "meaning": "sin; missing the mark"
+        },
+        {
+          "word": "transgression",
+          "strongNumber": "G458",
+          "lemma": "anomia",
+          "meaning": "lawlessness; violation of law"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And ye know that he was manifested to take away our sins; and in him is no sin.",
+      "highlightedWords": [
+        {
+          "word": "manifested",
+          "strongNumber": "G5319",
+          "lemma": "phaneroo",
+          "meaning": "to make manifest; reveal"
+        },
+        {
+          "word": "sins",
+          "strongNumber": "G266",
+          "lemma": "hamartia",
+          "meaning": "sins; offenses against God"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Whosoever abideth in him sinneth not: whosoever sinneth hath not seen him, neither known him.",
+      "highlightedWords": [
+        {
+          "word": "abideth",
+          "strongNumber": "G3306",
+          "lemma": "meno",
+          "meaning": "to remain; abide; continue"
+        },
+        {
+          "word": "sinneth",
+          "strongNumber": "G264",
+          "lemma": "hamartano",
+          "meaning": "to sin; to miss the mark"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Little children, let no man deceive you: he that doeth righteousness is righteous, even as he is righteous.",
+      "highlightedWords": [
+        {
+          "word": "deceive",
+          "strongNumber": "G4105",
+          "lemma": "planao",
+          "meaning": "to lead astray; deceive"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "G1343",
+          "lemma": "dikaiosune",
+          "meaning": "uprightness; justice according to God"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "He that committeth sin is of the devil; for the devil sinneth from the beginning. For this purpose the Son of God was manifested, that he might destroy the works of the devil.",
+      "highlightedWords": [
+        {
+          "word": "devil",
+          "strongNumber": "G1228",
+          "lemma": "diabolos",
+          "meaning": "slanderer; the devil"
+        },
+        {
+          "word": "destroy",
+          "strongNumber": "G3089",
+          "lemma": "luo",
+          "meaning": "to loose; to destroy; to dissolve"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Whosoever is born of God doth not commit sin; for his seed remaineth in him: and he cannot sin, because he is born of God.",
+      "highlightedWords": [
+        {
+          "word": "born",
+          "strongNumber": "G1080",
+          "lemma": "gennao",
+          "meaning": "to beget; to give birth"
+        },
+        {
+          "word": "seed",
+          "strongNumber": "G4690",
+          "lemma": "sperma",
+          "meaning": "seed; offspring"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "In this the children of God are manifest, and the children of the devil: whosoever doeth not righteousness is not of God, neither he that loveth not his brother.",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "G5043",
+          "lemma": "teknon",
+          "meaning": "child; offspring"
+        },
+        {
+          "word": "brother",
+          "strongNumber": "G80",
+          "lemma": "adelphos",
+          "meaning": "brother; fellow believer"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "For this is the message that ye heard from the beginning, that we should love one another.",
+      "highlightedWords": [
+        {
+          "word": "beginning",
+          "strongNumber": "G746",
+          "lemma": "arche",
+          "meaning": "beginning; origin"
+        },
+        {
+          "word": "love",
+          "strongNumber": "G25",
+          "lemma": "agapao",
+          "meaning": "to love; to show love"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Not as Cain, who was of that wicked one, and slew his brother. And wherefore slew he him? Because his own works were evil, and his brother's righteous.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "G4190",
+          "lemma": "poneros",
+          "meaning": "evil; wicked; malicious"
+        },
+        {
+          "word": "slew",
+          "strongNumber": "G4969",
+          "lemma": "sphazo",
+          "meaning": "to slay; to slaughter"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Marvel not, my brethren, if the world hate you.",
+      "highlightedWords": [
+        {
+          "word": "Marvel",
+          "strongNumber": "G2296",
+          "lemma": "thaumazo",
+          "meaning": "to marvel; be amazed"
+        },
+        {
+          "word": "world",
+          "strongNumber": "G2889",
+          "lemma": "kosmos",
+          "meaning": "the world; human society in rebellion"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "We know that we have passed from death unto life, because we love the brethren. He that loveth not his brother abideth in death.",
+      "highlightedWords": [
+        {
+          "word": "death",
+          "strongNumber": "G2288",
+          "lemma": "thanatos",
+          "meaning": "death"
+        },
+        {
+          "word": "life",
+          "strongNumber": "G2222",
+          "lemma": "zoe",
+          "meaning": "life; spiritual life"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Whosoever hateth his brother is a murderer: and ye know that no murderer hath eternal life abiding in him.",
+      "highlightedWords": [
+        {
+          "word": "hateth",
+          "strongNumber": "G3404",
+          "lemma": "miseo",
+          "meaning": "to hate; detest"
+        },
+        {
+          "word": "murderer",
+          "strongNumber": "G443",
+          "lemma": "anthropoktonos",
+          "meaning": "man-killer; murderer"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Hereby perceive we the love of God, because he laid down his life for us: and we ought to lay down our lives for the brethren.",
+      "highlightedWords": [
+        {
+          "word": "love",
+          "strongNumber": "G26",
+          "lemma": "agape",
+          "meaning": "self-giving love; charity"
+        },
+        {
+          "word": "laid",
+          "strongNumber": "G5087",
+          "lemma": "tithemi",
+          "meaning": "to place; to lay down"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "But whoso hath this world's good, and seeth his brother have need, and shutteth up his bowels of compassion from him, how dwelleth the love of God in him?",
+      "highlightedWords": [
+        {
+          "word": "bowels",
+          "strongNumber": "G4698",
+          "lemma": "splagchnon",
+          "meaning": "inner parts; seat of compassion"
+        },
+        {
+          "word": "need",
+          "strongNumber": "G5532",
+          "lemma": "chreia",
+          "meaning": "need; necessity"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "My little children, let us not love in word, neither in tongue; but in deed and in truth.",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "G3056",
+          "lemma": "logos",
+          "meaning": "word; speech; message"
+        },
+        {
+          "word": "truth",
+          "strongNumber": "G225",
+          "lemma": "aletheia",
+          "meaning": "truth; reality"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And hereby we know that we are of the truth, and shall assure our hearts before him.",
+      "highlightedWords": [
+        {
+          "word": "truth",
+          "strongNumber": "G225",
+          "lemma": "aletheia",
+          "meaning": "truth; reality"
+        },
+        {
+          "word": "assure",
+          "strongNumber": "G3982",
+          "lemma": "peitho",
+          "meaning": "to persuade; to assure; to set at rest"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "For if our heart condemn us, God is greater than our heart, and knoweth all things.",
+      "highlightedWords": [
+        {
+          "word": "condemn",
+          "strongNumber": "G2607",
+          "lemma": "kataginosko",
+          "meaning": "to find fault; condemn"
+        },
+        {
+          "word": "knoweth",
+          "strongNumber": "G1097",
+          "lemma": "ginosko",
+          "meaning": "to know; to come to know"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Beloved, if our heart condemn us not, then have we confidence toward God.",
+      "highlightedWords": [
+        {
+          "word": "confidence",
+          "strongNumber": "G3954",
+          "lemma": "parresia",
+          "meaning": "boldness; confidence"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God; the supreme Deity"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And whatsoever we ask, we receive of him, because we keep his commandments, and do those things that are pleasing in his sight.",
+      "highlightedWords": [
+        {
+          "word": "ask",
+          "strongNumber": "G154",
+          "lemma": "aiteo",
+          "meaning": "to ask; request"
+        },
+        {
+          "word": "commandments",
+          "strongNumber": "G1785",
+          "lemma": "entole",
+          "meaning": "command; injunction"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And this is his commandment, That we should believe on the name of his Son Jesus Christ, and love one another, as he gave us commandment.",
+      "highlightedWords": [
+        {
+          "word": "believe",
+          "strongNumber": "G4100",
+          "lemma": "pisteuo",
+          "meaning": "to believe; to entrust"
+        },
+        {
+          "word": "name",
+          "strongNumber": "G3686",
+          "lemma": "onoma",
+          "meaning": "name; authority; reputation"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And he that keepeth his commandments dwelleth in him, and he in him. And hereby we know that he abideth in us, by the Spirit which he hath given us.",
+      "highlightedWords": [
+        {
+          "word": "keepeth",
+          "strongNumber": "G5083",
+          "lemma": "tereo",
+          "meaning": "to keep; guard; observe"
+        },
+        {
+          "word": "Spirit",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "Spirit; breath; wind"
+        }
+      ]
+    }
+  ]
+}
