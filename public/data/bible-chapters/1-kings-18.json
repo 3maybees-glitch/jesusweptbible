@@ -1,0 +1,852 @@
+{
+  "book": "1 Kings",
+  "chapter": 18,
+  "chapterTheme": {
+    "twoWordSummary": "Carmel Showdown",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH",
+        "meaning": "the covenant name of the God of Israel"
+      },
+      {
+        "word": "fire",
+        "strongNumber": "H784",
+        "lemma": "'esh",
+        "meaning": "fire; burning flame"
+      }
+    ]
+  },
+  "sentenceTheme": "Elijah confronts Baal’s prophets on Mount Carmel, the LORD answers by fire, the people turn back to Him, and rain returns to the land.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And it came to pass after many days, that the word of the LORD came to Elijah in the third year, saying, Go, shew thyself unto Ahab; and I will send rain upon the earth.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of the God of Israel"
+        },
+        {
+          "word": "Elijah",
+          "strongNumber": "H452",
+          "lemma": "'Eliyahu",
+          "meaning": "Elijah; 'my God is Yah'"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And Elijah went to shew himself unto Ahab. And there was a sore famine in Samaria.",
+      "highlightedWords": [
+        {
+          "word": "Elijah",
+          "strongNumber": "H452",
+          "lemma": "'Eliyahu",
+          "meaning": "Elijah; 'my God is Yah'"
+        },
+        {
+          "word": "Ahab",
+          "strongNumber": "H256",
+          "lemma": "'Ach'av",
+          "meaning": "Ahab, king of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And Ahab called Obadiah, which was the governor of his house. (Now Obadiah feared the LORD greatly:",
+      "highlightedWords": [
+        {
+          "word": "Obadiah",
+          "strongNumber": "H5662",
+          "lemma": "'Obadyah",
+          "meaning": "Obadiah; 'servant of Yahweh'"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "For it was so, when Jezebel cut off the prophets of the LORD, that Obadiah took an hundred prophets, and hid them by fifty in a cave, and fed them with bread and water.)",
+      "highlightedWords": [
+        {
+          "word": "Jezebel",
+          "strongNumber": "H348",
+          "lemma": "Iyzebel",
+          "meaning": "Jezebel, wife of Ahab"
+        },
+        {
+          "word": "prophets",
+          "strongNumber": "H5030",
+          "lemma": "nabiy'",
+          "meaning": "prophets; spokesmen"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And Ahab said unto Obadiah, Go into the land, unto all fountains of water, and unto all brooks: peradventure we may find grass to save the horses and mules alive, that we lose not all the beasts.",
+      "highlightedWords": [
+        {
+          "word": "Ahab",
+          "strongNumber": "H256",
+          "lemma": "'Ach'av",
+          "meaning": "Ahab, king of Israel"
+        },
+        {
+          "word": "water",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "water"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "So they divided the land between them to pass throughout it: Ahab went one way by himself, and Obadiah went another way by himself.",
+      "highlightedWords": [
+        {
+          "word": "Ahab",
+          "strongNumber": "H256",
+          "lemma": "'Ach'av",
+          "meaning": "Ahab, king of Israel"
+        },
+        {
+          "word": "Obadiah",
+          "strongNumber": "H5662",
+          "lemma": "'Obadyah",
+          "meaning": "Obadiah; 'servant of Yahweh'"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And as Obadiah was in the way, behold, Elijah met him: and he knew him, and fell on his face, and said, Art thou that my lord Elijah?",
+      "highlightedWords": [
+        {
+          "word": "Obadiah",
+          "strongNumber": "H5662",
+          "lemma": "'Obadyah",
+          "meaning": "Obadiah; 'servant of Yahweh'"
+        },
+        {
+          "word": "Elijah",
+          "strongNumber": "H452",
+          "lemma": "'Eliyahu",
+          "meaning": "Elijah; 'my God is Yah'"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And he answered him, I am: go, tell thy lord, Behold, Elijah is here.",
+      "highlightedWords": [
+        {
+          "word": "Elijah",
+          "strongNumber": "H452",
+          "lemma": "'Eliyahu",
+          "meaning": "Elijah; 'my God is Yah'"
+        },
+        {
+          "word": "lord",
+          "strongNumber": "H113",
+          "lemma": "'adon",
+          "meaning": "lord; master"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And he said, What have I sinned, that thou wouldest deliver thy servant into the hand of Ahab, to slay me?",
+      "highlightedWords": [
+        {
+          "word": "Ahab",
+          "strongNumber": "H256",
+          "lemma": "'Ach'av",
+          "meaning": "Ahab, king of Israel"
+        },
+        {
+          "word": "servant",
+          "strongNumber": "H5650",
+          "lemma": "'ebed",
+          "meaning": "servant; slave; attendant"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "As the LORD thy God liveth, there is no nation or kingdom, whither my lord hath not sent to seek thee: and when they said, He is not there; he took an oath of the kingdom and nation, that they found thee not.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of the God of Israel"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; deity"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And now thou sayest, Go, tell thy lord, Behold, Elijah is here.",
+      "highlightedWords": [
+        {
+          "word": "Elijah",
+          "strongNumber": "H452",
+          "lemma": "'Eliyahu",
+          "meaning": "Elijah; 'my God is Yah'"
+        },
+        {
+          "word": "lord",
+          "strongNumber": "H113",
+          "lemma": "'adon",
+          "meaning": "lord; master"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And it shall come to pass, as soon as I am gone from thee, that the Spirit of the LORD shall carry thee whither I know not; and so when I come and tell Ahab, and he cannot find thee, he shall slay me: but I thy servant fear the LORD from my youth.",
+      "highlightedWords": [
+        {
+          "word": "Spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "spirit; wind; breath"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Was it not told my lord what I did when Jezebel slew the prophets of the LORD, how I hid an hundred men of the LORD's prophets by fifty in a cave, and fed them with bread and water?",
+      "highlightedWords": [
+        {
+          "word": "Jezebel",
+          "strongNumber": "H348",
+          "lemma": "Iyzebel",
+          "meaning": "Jezebel, wife of Ahab"
+        },
+        {
+          "word": "prophets",
+          "strongNumber": "H5030",
+          "lemma": "nabiy'",
+          "meaning": "prophets; spokesmen"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And now thou sayest, Go, tell thy lord, Behold, Elijah is here: and he shall slay me.",
+      "highlightedWords": [
+        {
+          "word": "Elijah",
+          "strongNumber": "H452",
+          "lemma": "'Eliyahu",
+          "meaning": "Elijah; 'my God is Yah'"
+        },
+        {
+          "word": "lord",
+          "strongNumber": "H113",
+          "lemma": "'adon",
+          "meaning": "lord; master"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And Elijah said, As the LORD of hosts liveth, before whom I stand, I will surely shew myself unto him to day.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of the God of Israel"
+        },
+        {
+          "word": "hosts",
+          "strongNumber": "H6635",
+          "lemma": "tsaba'",
+          "meaning": "armies; heavenly hosts"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "So Obadiah went to meet Ahab, and told him: and Ahab went to meet Elijah.",
+      "highlightedWords": [
+        {
+          "word": "Ahab",
+          "strongNumber": "H256",
+          "lemma": "'Ach'av",
+          "meaning": "Ahab, king of Israel"
+        },
+        {
+          "word": "Elijah",
+          "strongNumber": "H452",
+          "lemma": "'Eliyahu",
+          "meaning": "Elijah; 'my God is Yah'"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And it came to pass, when Ahab saw Elijah, that Ahab said unto him, Art thou he that troubleth Israel?",
+      "highlightedWords": [
+        {
+          "word": "Ahab",
+          "strongNumber": "H256",
+          "lemma": "'Ach'av",
+          "meaning": "Ahab, king of Israel"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; the people or nation"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And he answered, I have not troubled Israel; but thou, and thy father's house, in that ye have forsaken the commandments of the LORD, and thou hast followed Baalim.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; the people or nation"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Now therefore send, and gather to me all Israel unto mount Carmel, and the prophets of Baal four hundred and fifty, and the prophets of the groves four hundred, which eat at Jezebel's table.",
+      "highlightedWords": [
+        {
+          "word": "Baal",
+          "strongNumber": "H1168",
+          "lemma": "Ba'al",
+          "meaning": "Baal; a Canaanite deity, 'lord'"
+        },
+        {
+          "word": "Carmel",
+          "strongNumber": "H3760",
+          "lemma": "Karmel",
+          "meaning": "Carmel; a mountain range in Israel"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "So Ahab sent unto all the children of Israel, and gathered the prophets together unto mount Carmel.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; the people or nation"
+        },
+        {
+          "word": "prophets",
+          "strongNumber": "H5030",
+          "lemma": "nabiy'",
+          "meaning": "prophets; spokesmen"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And Elijah came unto all the people, and said, How long halt ye between two opinions? if the LORD be God, follow him: but if Baal, then follow him. And the people answered him not a word.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of the God of Israel"
+        },
+        {
+          "word": "Baal",
+          "strongNumber": "H1168",
+          "lemma": "Ba'al",
+          "meaning": "Baal; a Canaanite deity, 'lord'"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Then said Elijah unto the people, I, even I only, remain a prophet of the LORD; but Baal's prophets are four hundred and fifty men.",
+      "highlightedWords": [
+        {
+          "word": "prophet",
+          "strongNumber": "H5030",
+          "lemma": "nabiy'",
+          "meaning": "prophet; spokesman"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Let them therefore give us two bullocks; and let them choose one bullock for themselves, and cut it in pieces, and lay it on wood, and put no fire under: and I will dress the other bullock, and lay it on wood, and put no fire under:",
+      "highlightedWords": [
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "'esh",
+          "meaning": "fire; burning flame"
+        },
+        {
+          "word": "bullock",
+          "strongNumber": "H6499",
+          "lemma": "par",
+          "meaning": "young bull; bullock"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And call ye on the name of your gods, and I will call on the name of the LORD: and the God that answereth by fire, let him be God. And all the people answered and said, It is well spoken.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of the God of Israel"
+        },
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "'esh",
+          "meaning": "fire; burning flame"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And Elijah said unto the prophets of Baal, Choose you one bullock for yourselves, and dress it first; for ye are many; and call on the name of your gods, but put no fire under.",
+      "highlightedWords": [
+        {
+          "word": "Baal",
+          "strongNumber": "H1168",
+          "lemma": "Ba'al",
+          "meaning": "Baal; a Canaanite deity, 'lord'"
+        },
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "'esh",
+          "meaning": "fire; burning flame"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And they took the bullock which was given them, and they dressed it, and called on the name of Baal from morning even until noon, saying, O Baal, hear us. But there was no voice, nor any that answered. And they leaped upon the altar which was made.",
+      "highlightedWords": [
+        {
+          "word": "Baal",
+          "strongNumber": "H1168",
+          "lemma": "Ba'al",
+          "meaning": "Baal; a Canaanite deity, 'lord'"
+        },
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar; place of sacrifice"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And it came to pass at noon, that Elijah mocked them, and said, Cry aloud: for he is a god; either he is talking, or he is pursuing, or he is in a journey, or peradventure he sleepeth, and must be awaked.",
+      "highlightedWords": [
+        {
+          "word": "Elijah",
+          "strongNumber": "H452",
+          "lemma": "'Eliyahu",
+          "meaning": "Elijah; 'my God is Yah'"
+        },
+        {
+          "word": "god",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "a god; deity"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And they cried aloud, and cut themselves after their manner with knives and lancets, till the blood gushed out upon them.",
+      "highlightedWords": [
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "blood"
+        },
+        {
+          "word": "knives",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword; knife"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "And it came to pass, when midday was past, and they prophesied until the time of the offering of the evening sacrifice, that there was neither voice, nor any to answer, nor any that regarded.",
+      "highlightedWords": [
+        {
+          "word": "sacrifice",
+          "strongNumber": "H4503",
+          "lemma": "minchah",
+          "meaning": "offering; grain-gift"
+        },
+        {
+          "word": "voice",
+          "strongNumber": "H6963",
+          "lemma": "qol",
+          "meaning": "voice; sound"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "And Elijah said unto all the people, Come near unto me. And all the people came near unto him. And he repaired the altar of the LORD that was broken down.",
+      "highlightedWords": [
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar; place of sacrifice"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "And Elijah took twelve stones, according to the number of the tribes of the sons of Jacob, unto whom the word of the LORD came, saying, Israel shall be thy name:",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of the God of Israel"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; the people or nation"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "And with the stones he built an altar in the name of the LORD: and he made a trench about the altar, as great as would contain two measures of seed.",
+      "highlightedWords": [
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar; place of sacrifice"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "And he put the wood in order, and cut the bullock in pieces, and laid him on the wood, and said, Fill four barrels with water, and pour it on the burnt sacrifice, and on the wood.",
+      "highlightedWords": [
+        {
+          "word": "water",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "water"
+        },
+        {
+          "word": "wood",
+          "strongNumber": "H6086",
+          "lemma": "'ets",
+          "meaning": "wood; tree"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "And he said, Do it the second time. And they did it the second time. And he said, Do it the third time. And they did it the third time.",
+      "highlightedWords": [
+        {
+          "word": "said",
+          "strongNumber": "H559",
+          "lemma": "'amar",
+          "meaning": "to say; speak"
+        },
+        {
+          "word": "did",
+          "strongNumber": "H6213",
+          "lemma": "'asah",
+          "meaning": "to do; make; perform"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "And the water ran round about the altar; and he filled the trench also with water.",
+      "highlightedWords": [
+        {
+          "word": "water",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "water"
+        },
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar; place of sacrifice"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "And it came to pass at the time of the offering of the evening sacrifice, that Elijah the prophet came near, and said, LORD God of Abraham, Isaac, and of Israel, let it be known this day that thou art God in Israel, and that I am thy servant, and that I have done all these things at thy word.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of the God of Israel"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; the people or nation"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "Hear me, O LORD, hear me, that this people may know that thou art the LORD God, and that thou hast turned their heart back again.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of the God of Israel"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart; inner person"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "Then the fire of the LORD fell, and consumed the burnt sacrifice, and the wood, and the stones, and the dust, and licked up the water that was in the trench.",
+      "highlightedWords": [
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "'esh",
+          "meaning": "fire; burning flame"
+        },
+        {
+          "word": "water",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "water"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "text": "And when all the people saw it, they fell on their faces: and they said, The LORD, he is the God; the LORD, he is the God.",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "'am",
+          "meaning": "people; nation"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "text": "And Elijah said unto them, Take the prophets of Baal; let not one of them escape. And they took them: and Elijah brought them down to the brook Kishon, and slew them there.",
+      "highlightedWords": [
+        {
+          "word": "Baal",
+          "strongNumber": "H1168",
+          "lemma": "Ba'al",
+          "meaning": "Baal; a Canaanite deity, 'lord'"
+        },
+        {
+          "word": "Kishon",
+          "strongNumber": "H7028",
+          "lemma": "Qishon",
+          "meaning": "Kishon; a brook in northern Israel"
+        }
+      ]
+    },
+    {
+      "verse": 41,
+      "text": "And Elijah said unto Ahab, Get thee up, eat and drink; for there is a sound of abundance of rain.",
+      "highlightedWords": [
+        {
+          "word": "Elijah",
+          "strongNumber": "H452",
+          "lemma": "'Eliyahu",
+          "meaning": "Elijah; 'my God is Yah'"
+        },
+        {
+          "word": "Ahab",
+          "strongNumber": "H256",
+          "lemma": "'Ach'av",
+          "meaning": "Ahab, king of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 42,
+      "text": "So Ahab went up to eat and to drink. And Elijah went up to the top of Carmel; and he cast himself down upon the earth, and put his face between his knees,",
+      "highlightedWords": [
+        {
+          "word": "Ahab",
+          "strongNumber": "H256",
+          "lemma": "'Ach'av",
+          "meaning": "Ahab, king of Israel"
+        },
+        {
+          "word": "Elijah",
+          "strongNumber": "H452",
+          "lemma": "'Eliyahu",
+          "meaning": "Elijah; 'my God is Yah'"
+        }
+      ]
+    },
+    {
+      "verse": 43,
+      "text": "And said to his servant, Go up now, look toward the sea. And he went up, and looked, and said, There is nothing. And he said, Go again seven times.",
+      "highlightedWords": [
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "sea"
+        },
+        {
+          "word": "said",
+          "strongNumber": "H559",
+          "lemma": "'amar",
+          "meaning": "to say; speak"
+        }
+      ]
+    },
+    {
+      "verse": 44,
+      "text": "And it came to pass at the seventh time, that he said, Behold, there ariseth a little cloud out of the sea, like a man's hand. And he said, Go up, say unto Ahab, Prepare thy chariot, and get thee down, that the rain stop thee not.",
+      "highlightedWords": [
+        {
+          "word": "cloud",
+          "strongNumber": "H5645",
+          "lemma": "'ab",
+          "meaning": "cloud; thick cloud"
+        },
+        {
+          "word": "Ahab",
+          "strongNumber": "H256",
+          "lemma": "'Ach'av",
+          "meaning": "Ahab, king of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 45,
+      "text": "And it came to pass in the mean while, that the heaven was black with clouds and wind, and there was a great rain. And Ahab rode, and went to Jezreel.",
+      "highlightedWords": [
+        {
+          "word": "Ahab",
+          "strongNumber": "H256",
+          "lemma": "'Ach'av",
+          "meaning": "Ahab, king of Israel"
+        },
+        {
+          "word": "Jezreel",
+          "strongNumber": "H3157",
+          "lemma": "Yizre'el",
+          "meaning": "Jezreel; a city/valley in Israel"
+        }
+      ]
+    },
+    {
+      "verse": 46,
+      "text": "And the hand of the LORD was on Elijah; and he girded up his loins, and ran before Ahab to the entrance of Jezreel.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of the God of Israel"
+        },
+        {
+          "word": "Elijah",
+          "strongNumber": "H452",
+          "lemma": "'Eliyahu",
+          "meaning": "Elijah; 'my God is Yah'"
+        }
+      ]
+    }
+  ]
+}

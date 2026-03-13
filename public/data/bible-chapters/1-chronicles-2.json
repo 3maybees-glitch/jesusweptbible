@@ -1,0 +1,1014 @@
+{
+  "book": "1 Chronicles",
+  "chapter": 2,
+  "chapterTheme": {
+    "twoWordSummary": "Judah Genealogy",
+    "themeWords": [
+      {
+        "word": "sons",
+        "strongNumber": "H1121",
+        "lemma": "ben",
+        "meaning": "son, child, descendant"
+      },
+      {
+        "word": "Judah",
+        "strongNumber": "H3063",
+        "lemma": "Yehudah",
+        "meaning": "Judah; praised"
+      }
+    ]
+  },
+  "sentenceTheme": "The chapter traces the genealogies of Israel with a focus on Judah’s line through Hezron and Caleb, leading to Jesse, David, and the clans that settled various towns.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "These are the sons of Israel; Reuben, Simeon, Levi, and Judah, Issachar, and Zebulun,",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child, descendant"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; he strives with God"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Dan, Joseph, and Benjamin, Naphtali, Gad, and Asher.",
+      "highlightedWords": [
+        {
+          "word": "Dan",
+          "strongNumber": "H1835",
+          "lemma": "Dan",
+          "meaning": "Dan; judge"
+        },
+        {
+          "word": "Asher",
+          "strongNumber": "H836",
+          "lemma": "Asher",
+          "meaning": "Asher; happy, blessed"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "The sons of Judah; Er, and Onan, and Shelah: which three were born unto him of the daughter of Shua the Canaanitess. And Er, the firstborn of Judah, was evil in the sight of the LORD; and he slew him.",
+      "highlightedWords": [
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah; praised"
+        },
+        {
+          "word": "Canaanitess",
+          "strongNumber": "H3669",
+          "lemma": "Kena‘aniy",
+          "meaning": "Canaanite (inhabitant of Canaan)"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And Tamar his daughter in law bare him Pharez and Zerah. All the sons of Judah were five.",
+      "highlightedWords": [
+        {
+          "word": "Tamar",
+          "strongNumber": "H8559",
+          "lemma": "Tamar",
+          "meaning": "Tamar; palm tree"
+        },
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child, descendant"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "The sons of Pharez; Hezron, and Hamul.",
+      "highlightedWords": [
+        {
+          "word": "Pharez",
+          "strongNumber": "H6557",
+          "lemma": "Perets",
+          "meaning": "Perez; breach"
+        },
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child, descendant"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And the sons of Zerah; Zimri, and Ethan, and Heman, and Calcol, and Dara: five of them in all.",
+      "highlightedWords": [
+        {
+          "word": "Zerah",
+          "strongNumber": "H2226",
+          "lemma": "Zerach",
+          "meaning": "Zerah; dawning, rising"
+        },
+        {
+          "word": "five",
+          "strongNumber": "H2568",
+          "lemma": "chamesh",
+          "meaning": "five"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And the sons of Carmi; Achar, the troubler of Israel, who transgressed in the thing accursed.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; he strives with God"
+        },
+        {
+          "word": "accursed",
+          "strongNumber": "H2764",
+          "lemma": "cherem",
+          "meaning": "a devoted thing; ban, curse of destruction"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And the sons of Ethan; Azariah.",
+      "highlightedWords": [
+        {
+          "word": "Ethan",
+          "strongNumber": "H387",
+          "lemma": "Eythan",
+          "meaning": "Ethan; enduring, perennial"
+        },
+        {
+          "word": "Azariah",
+          "strongNumber": "H5838",
+          "lemma": "Azaryah",
+          "meaning": "Azariah; Yah has helped"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "The sons also of Hezron, that were born unto him; Jerahmeel, and Ram, and Chelubai.",
+      "highlightedWords": [
+        {
+          "word": "Hezron",
+          "strongNumber": "H2696",
+          "lemma": "Chetsron",
+          "meaning": "Hezron; enclosure"
+        },
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child, descendant"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And Ram begat Amminadab; and Amminadab begat Nahshon, prince of the children of Judah;",
+      "highlightedWords": [
+        {
+          "word": "begat",
+          "strongNumber": "H3205",
+          "lemma": "yalad",
+          "meaning": "to beget, bear, bring forth"
+        },
+        {
+          "word": "prince",
+          "strongNumber": "H5387",
+          "lemma": "nasi'",
+          "meaning": "prince, chief, leader"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And Nahshon begat Salma, and Salma begat Boaz,",
+      "highlightedWords": [
+        {
+          "word": "begat",
+          "strongNumber": "H3205",
+          "lemma": "yalad",
+          "meaning": "to beget, bear, bring forth"
+        },
+        {
+          "word": "Boaz",
+          "strongNumber": "H1162",
+          "lemma": "Bo‘az",
+          "meaning": "Boaz; in him is strength"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And Boaz begat Obed, and Obed begat Jesse,",
+      "highlightedWords": [
+        {
+          "word": "Obed",
+          "strongNumber": "H5744",
+          "lemma": "‘Oved",
+          "meaning": "Obed; serving"
+        },
+        {
+          "word": "Jesse",
+          "strongNumber": "H3448",
+          "lemma": "Yishay",
+          "meaning": "Jesse; wealth, Yah exists"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And Jesse begat his firstborn Eliab, and Abinadab the second, and Shimea the third,",
+      "highlightedWords": [
+        {
+          "word": "firstborn",
+          "strongNumber": "H1060",
+          "lemma": "bekor",
+          "meaning": "firstborn"
+        },
+        {
+          "word": "Jesse",
+          "strongNumber": "H3448",
+          "lemma": "Yishay",
+          "meaning": "Jesse; wealth, Yah exists"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Nethaneel the fourth, Raddai the fifth,",
+      "highlightedWords": [
+        {
+          "word": "fourth",
+          "strongNumber": "H7243",
+          "lemma": "rebiy‘i",
+          "meaning": "fourth"
+        },
+        {
+          "word": "fifth",
+          "strongNumber": "H2549",
+          "lemma": "chamishi",
+          "meaning": "fifth"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Ozem the sixth, David the seventh:",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "David",
+          "meaning": "David; beloved"
+        },
+        {
+          "word": "seventh",
+          "strongNumber": "H7637",
+          "lemma": "shebi‘i",
+          "meaning": "seventh"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Whose sisters were Zeruiah, and Abigail. And the sons of Zeruiah; Abishai, and Joab, and Asahel, three.",
+      "highlightedWords": [
+        {
+          "word": "sisters",
+          "strongNumber": "H269",
+          "lemma": "achoth",
+          "meaning": "sister (female relative)"
+        },
+        {
+          "word": "Joab",
+          "strongNumber": "H3097",
+          "lemma": "Yo'av",
+          "meaning": "Joab; Yah is father"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And Abigail bare Amasa: and the father of Amasa was Jether the Ishmeelite.",
+      "highlightedWords": [
+        {
+          "word": "father",
+          "strongNumber": "H1",
+          "lemma": "’av",
+          "meaning": "father, ancestor"
+        },
+        {
+          "word": "Ishmeelite",
+          "strongNumber": "H3459",
+          "lemma": "Yishme‘eli",
+          "meaning": "Ishmaelite; descendant of Ishmael"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And Caleb the son of Hezron begat children of Azubah his wife, and of Jerioth: her sons are these; Jesher, and Shobab, and Ardon.",
+      "highlightedWords": [
+        {
+          "word": "wife",
+          "strongNumber": "H802",
+          "lemma": "’ishshah",
+          "meaning": "woman, wife"
+        },
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child, descendant"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And when Azubah was dead, Caleb took unto him Ephrath, which bare him Hur.",
+      "highlightedWords": [
+        {
+          "word": "bare",
+          "strongNumber": "H3205",
+          "lemma": "yalad",
+          "meaning": "to beget, bear, bring forth"
+        },
+        {
+          "word": "Hur",
+          "strongNumber": "H2354",
+          "lemma": "Chur",
+          "meaning": "Hur; hole (possibly noble/freeborn)"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And Hur begat Uri, and Uri begat Bezaleel.",
+      "highlightedWords": [
+        {
+          "word": "Bezaleel",
+          "strongNumber": "H1212",
+          "lemma": "Betsal’el",
+          "meaning": "Bezalel; in the shadow/protection of God"
+        },
+        {
+          "word": "begat",
+          "strongNumber": "H3205",
+          "lemma": "yalad",
+          "meaning": "to beget, bear, bring forth"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And afterward Hezron went in to the daughter of Machir the father of Gilead, whom he married when he was threescore years old; and she bare him Segub.",
+      "highlightedWords": [
+        {
+          "word": "daughter",
+          "strongNumber": "H1323",
+          "lemma": "bath",
+          "meaning": "daughter, girl"
+        },
+        {
+          "word": "threescore",
+          "strongNumber": "H8346",
+          "lemma": "shishim",
+          "meaning": "sixty"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And Segub begat Jair, who had three and twenty cities in the land of Gilead.",
+      "highlightedWords": [
+        {
+          "word": "cities",
+          "strongNumber": "H5892",
+          "lemma": "‘iyr",
+          "meaning": "city, town"
+        },
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "’erets",
+          "meaning": "land, earth, territory"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And he took Geshur, and Aram, with the towns of Jair, from them, with Kenath, and the towns thereof, even threescore cities. All these belonged to the sons of Machir the father of Gilead.",
+      "highlightedWords": [
+        {
+          "word": "cities",
+          "strongNumber": "H5892",
+          "lemma": "‘iyr",
+          "meaning": "city, town"
+        },
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child, descendant"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And after that Hezron was dead in Caleb-ephratah, then Abiah Hezron's wife bare him Ashur the father of Tekoa.",
+      "highlightedWords": [
+        {
+          "word": "wife",
+          "strongNumber": "H802",
+          "lemma": "’ishshah",
+          "meaning": "woman, wife"
+        },
+        {
+          "word": "father",
+          "strongNumber": "H1",
+          "lemma": "’av",
+          "meaning": "father, ancestor"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And the sons of Jerahmeel the firstborn of Hezron were, Ram the firstborn, and Bunah, and Oren, and Ozem, and Ahijah.",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child, descendant"
+        },
+        {
+          "word": "firstborn",
+          "strongNumber": "H1060",
+          "lemma": "bekor",
+          "meaning": "firstborn"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "Jerahmeel had also another wife, whose name was Atarah; she was the mother of Onam.",
+      "highlightedWords": [
+        {
+          "word": "wife",
+          "strongNumber": "H802",
+          "lemma": "’ishshah",
+          "meaning": "woman, wife"
+        },
+        {
+          "word": "mother",
+          "strongNumber": "H517",
+          "lemma": "’em",
+          "meaning": "mother"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And the sons of Ram the firstborn of Jerahmeel were, Maaz, and Jamin, and Eker.",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child, descendant"
+        },
+        {
+          "word": "firstborn",
+          "strongNumber": "H1060",
+          "lemma": "bekor",
+          "meaning": "firstborn"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And the sons of Onam were, Shammai, and Jada. And the sons of Shammai; Nadab, and Abishur.",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child, descendant"
+        },
+        {
+          "word": "Nadab",
+          "strongNumber": "H5070",
+          "lemma": "Nadab",
+          "meaning": "Nadab; generous, willing"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "And the name of the wife of Abishur was Abihail, and she bare him Ahban, and Molid.",
+      "highlightedWords": [
+        {
+          "word": "wife",
+          "strongNumber": "H802",
+          "lemma": "’ishshah",
+          "meaning": "woman, wife"
+        },
+        {
+          "word": "bare",
+          "strongNumber": "H3205",
+          "lemma": "yalad",
+          "meaning": "to beget, bear, bring forth"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "And the sons of Nadab; Seled, and Appaim: but Seled died without children.",
+      "highlightedWords": [
+        {
+          "word": "died",
+          "strongNumber": "H4191",
+          "lemma": "muth",
+          "meaning": "to die"
+        },
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "sons, children, descendants"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "And the sons of Appaim; Ishi. And the sons of Ishi; Sheshan. And the children of Sheshan; Ahlai.",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child, descendant"
+        },
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "sons, children, descendants"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "And the sons of Jada the brother of Shammai; Jether, and Jonathan: and Jether died without children.",
+      "highlightedWords": [
+        {
+          "word": "brother",
+          "strongNumber": "H251",
+          "lemma": "’ach",
+          "meaning": "brother, kinsman"
+        },
+        {
+          "word": "died",
+          "strongNumber": "H4191",
+          "lemma": "muth",
+          "meaning": "to die"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "And the sons of Jonathan; Peleth, and Zaza. These were the sons of Jerahmeel.",
+      "highlightedWords": [
+        {
+          "word": "Jonathan",
+          "strongNumber": "H3083",
+          "lemma": "Yehonathan",
+          "meaning": "Jonathan; Yah has given"
+        },
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child, descendant"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "Now Sheshan had no sons, but daughters. And Sheshan had a servant, an Egyptian, whose name was Jarha.",
+      "highlightedWords": [
+        {
+          "word": "daughters",
+          "strongNumber": "H1323",
+          "lemma": "bath",
+          "meaning": "daughter, girl"
+        },
+        {
+          "word": "servant",
+          "strongNumber": "H5650",
+          "lemma": "‘ebed",
+          "meaning": "servant, slave"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "And Sheshan gave his daughter to Jarha his servant to wife; and she bare him Attai.",
+      "highlightedWords": [
+        {
+          "word": "daughter",
+          "strongNumber": "H1323",
+          "lemma": "bath",
+          "meaning": "daughter, girl"
+        },
+        {
+          "word": "wife",
+          "strongNumber": "H802",
+          "lemma": "’ishshah",
+          "meaning": "woman, wife"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "And Attai begat Nathan, and Nathan begat Zabad,",
+      "highlightedWords": [
+        {
+          "word": "begat",
+          "strongNumber": "H3205",
+          "lemma": "yalad",
+          "meaning": "to beget, bear, bring forth"
+        },
+        {
+          "word": "Nathan",
+          "strongNumber": "H5416",
+          "lemma": "Natan",
+          "meaning": "Nathan; he gave"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "And Zabad begat Ephlal, and Ephlal begat Obed,",
+      "highlightedWords": [
+        {
+          "word": "begat",
+          "strongNumber": "H3205",
+          "lemma": "yalad",
+          "meaning": "to beget, bear, bring forth"
+        },
+        {
+          "word": "Obed",
+          "strongNumber": "H5744",
+          "lemma": "‘Oved",
+          "meaning": "Obed; serving"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "And Obed begat Jehu, and Jehu begat Azariah,",
+      "highlightedWords": [
+        {
+          "word": "Jehu",
+          "strongNumber": "H3058",
+          "lemma": "Yehu",
+          "meaning": "Jehu; Yah is he"
+        },
+        {
+          "word": "begat",
+          "strongNumber": "H3205",
+          "lemma": "yalad",
+          "meaning": "to beget, bear, bring forth"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "text": "And Azariah begat Helez, and Helez begat Elasah,",
+      "highlightedWords": [
+        {
+          "word": "Azariah",
+          "strongNumber": "H5838",
+          "lemma": "Azaryah",
+          "meaning": "Azariah; Yah has helped"
+        },
+        {
+          "word": "begat",
+          "strongNumber": "H3205",
+          "lemma": "yalad",
+          "meaning": "to beget, bear, bring forth"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "text": "And Elasah begat Sisamai, and Sisamai begat Shallum,",
+      "highlightedWords": [
+        {
+          "word": "Shallum",
+          "strongNumber": "H7967",
+          "lemma": "Shallum",
+          "meaning": "Shallum; retribution, recompense"
+        },
+        {
+          "word": "begat",
+          "strongNumber": "H3205",
+          "lemma": "yalad",
+          "meaning": "to beget, bear, bring forth"
+        }
+      ]
+    },
+    {
+      "verse": 41,
+      "text": "And Shallum begat Jekamiah, and Jekamiah begat Elishama.",
+      "highlightedWords": [
+        {
+          "word": "Elishama",
+          "strongNumber": "H476",
+          "lemma": "Elishama‘",
+          "meaning": "Elishama; God has heard"
+        },
+        {
+          "word": "begat",
+          "strongNumber": "H3205",
+          "lemma": "yalad",
+          "meaning": "to beget, bear, bring forth"
+        }
+      ]
+    },
+    {
+      "verse": 42,
+      "text": "Now the sons of Caleb the brother of Jerahmeel were, Mesha his firstborn, which was the father of Zif; and the sons of Mareshah the father of Hebron.",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child, descendant"
+        },
+        {
+          "word": "father",
+          "strongNumber": "H1",
+          "lemma": "’av",
+          "meaning": "father, ancestor"
+        }
+      ]
+    },
+    {
+      "verse": 43,
+      "text": "And the sons of Hebron; Korah, and Tappuah, and Rekem, and Shema.",
+      "highlightedWords": [
+        {
+          "word": "Korah",
+          "strongNumber": "H7141",
+          "lemma": "Qorah",
+          "meaning": "Korah; bald"
+        },
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child, descendant"
+        }
+      ]
+    },
+    {
+      "verse": 44,
+      "text": "And Shema begat Raham, the father of Jorkoam: and Rekem begat Shammai.",
+      "highlightedWords": [
+        {
+          "word": "begat",
+          "strongNumber": "H3205",
+          "lemma": "yalad",
+          "meaning": "to beget, bear, bring forth"
+        },
+        {
+          "word": "father",
+          "strongNumber": "H1",
+          "lemma": "’av",
+          "meaning": "father, ancestor"
+        }
+      ]
+    },
+    {
+      "verse": 45,
+      "text": "And the son of Shammai was Maon: and Maon was the father of Beth-zur.",
+      "highlightedWords": [
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child, descendant"
+        },
+        {
+          "word": "father",
+          "strongNumber": "H1",
+          "lemma": "’av",
+          "meaning": "father, ancestor"
+        }
+      ]
+    },
+    {
+      "verse": 46,
+      "text": "And Ephah, Caleb's concubine, bare Haran, and Moza, and Gazez: and Haran begat Gazez.",
+      "highlightedWords": [
+        {
+          "word": "concubine",
+          "strongNumber": "H6370",
+          "lemma": "pilegesh",
+          "meaning": "concubine"
+        },
+        {
+          "word": "begat",
+          "strongNumber": "H3205",
+          "lemma": "yalad",
+          "meaning": "to beget, bear, bring forth"
+        }
+      ]
+    },
+    {
+      "verse": 47,
+      "text": "And the sons of Jahdai; Regem, and Jotham, and Geshan, and Pelet, and Ephah, and Shaaph.",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child, descendant"
+        },
+        {
+          "word": "Pelet",
+          "strongNumber": "H6404",
+          "lemma": "Pelet",
+          "meaning": "Pelet; deliverance"
+        }
+      ]
+    },
+    {
+      "verse": 48,
+      "text": "Maachah, Caleb's concubine, bare Sheber, and Tirhanah.",
+      "highlightedWords": [
+        {
+          "word": "concubine",
+          "strongNumber": "H6370",
+          "lemma": "pilegesh",
+          "meaning": "concubine"
+        },
+        {
+          "word": "bare",
+          "strongNumber": "H3205",
+          "lemma": "yalad",
+          "meaning": "to beget, bear, bring forth"
+        }
+      ]
+    },
+    {
+      "verse": 49,
+      "text": "She bare also Shaaph the father of Madmannah, Sheva the father of Machbenah, and the father of Gibea: and the daughter of Caleb was Achsah.",
+      "highlightedWords": [
+        {
+          "word": "father",
+          "strongNumber": "H1",
+          "lemma": "’av",
+          "meaning": "father, ancestor"
+        },
+        {
+          "word": "daughter",
+          "strongNumber": "H1323",
+          "lemma": "bath",
+          "meaning": "daughter, girl"
+        }
+      ]
+    },
+    {
+      "verse": 50,
+      "text": "These were the sons of Caleb the son of Hur, the firstborn of Ephratah; Shobal the father of Kirjath-jearim,",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child, descendant"
+        },
+        {
+          "word": "father",
+          "strongNumber": "H1",
+          "lemma": "’av",
+          "meaning": "father, ancestor"
+        }
+      ]
+    },
+    {
+      "verse": 51,
+      "text": "Salma the father of Bethlehem, Hareph the father of Beth-gader.",
+      "highlightedWords": [
+        {
+          "word": "Bethlehem",
+          "strongNumber": "H1035",
+          "lemma": "Beyth Lechem",
+          "meaning": "Bethlehem; house of bread"
+        },
+        {
+          "word": "father",
+          "strongNumber": "H1",
+          "lemma": "’av",
+          "meaning": "father, ancestor"
+        }
+      ]
+    },
+    {
+      "verse": 52,
+      "text": "And Shobal the father of Kirjath-jearim had sons; Haroeh, and half of the Manahethites.",
+      "highlightedWords": [
+        {
+          "word": "father",
+          "strongNumber": "H1",
+          "lemma": "’av",
+          "meaning": "father, ancestor"
+        },
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child, descendant"
+        }
+      ]
+    },
+    {
+      "verse": 53,
+      "text": "And the families of Kirjath-jearim; the Ithrites, and the Puhites, and the Shumathites, and the Mishraites; of them came the Zorathites, and the Eshtaulites.",
+      "highlightedWords": [
+        {
+          "word": "families",
+          "strongNumber": "H4940",
+          "lemma": "mishpachah",
+          "meaning": "family, clan"
+        },
+        {
+          "word": "Zorathites",
+          "strongNumber": "H6881",
+          "lemma": "Tsor‘athi",
+          "meaning": "inhabitants of Zorah"
+        }
+      ]
+    },
+    {
+      "verse": 54,
+      "text": "The sons of Salma; Bethlehem, and the Netophathites, Ataroth, the house of Joab, and half of the Manahethites, the Zorites.",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, household"
+        },
+        {
+          "word": "Bethlehem",
+          "strongNumber": "H1035",
+          "lemma": "Beyth Lechem",
+          "meaning": "Bethlehem; house of bread"
+        }
+      ]
+    },
+    {
+      "verse": 55,
+      "text": "And the families of the scribes which dwelt at Jabez; the Tirathites, the Shimeathites, and Suchathites. These are the Kenites that came of Hammath, the father of the house of Rechab.",
+      "highlightedWords": [
+        {
+          "word": "scribes",
+          "strongNumber": "H5608",
+          "lemma": "sopher",
+          "meaning": "scribe; one who writes/records"
+        },
+        {
+          "word": "Kenites",
+          "strongNumber": "H7017",
+          "lemma": "Qeni",
+          "meaning": "Kenites; smiths; tribe related to Midian"
+        }
+      ]
+    }
+  ]
+}

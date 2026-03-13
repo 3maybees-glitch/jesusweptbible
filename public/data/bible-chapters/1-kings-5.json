@@ -1,0 +1,348 @@
+{
+  "book": "1 Kings",
+  "chapter": 5,
+  "chapterTheme": {
+    "twoWordSummary": "Temple Preparations",
+    "themeWords": [
+      {
+        "word": "wisdom",
+        "strongNumber": "H2451",
+        "lemma": "chokmah",
+        "meaning": "wisdom; skill; prudence"
+      },
+      {
+        "word": "cedar",
+        "strongNumber": "H0730",
+        "lemma": "’erez",
+        "meaning": "cedar tree; cedar wood"
+      }
+    ]
+  },
+  "sentenceTheme": "Solomon and Hiram of Tyre make a treaty, securing cedar and labor for the temple, as God grants Solomon peace and wisdom for the work.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And Hiram king of Tyre sent his servants unto Solomon; for he had heard that they had anointed him king in the room of his father: for Hiram was ever a lover of David.",
+      "highlightedWords": [
+        {
+          "word": "Hiram",
+          "strongNumber": "H2438",
+          "lemma": "Chiram",
+          "meaning": "Hiram; a noble or high-born man"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "David",
+          "meaning": "David; beloved"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And Solomon sent to Hiram, saying,",
+      "highlightedWords": [
+        {
+          "word": "Solomon",
+          "strongNumber": "H8010",
+          "lemma": "Shelomoh",
+          "meaning": "Solomon; peaceful"
+        },
+        {
+          "word": "Hiram",
+          "strongNumber": "H2438",
+          "lemma": "Chiram",
+          "meaning": "Hiram; a noble or high-born man"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Thou knowest how that David my father could not build an house unto the name of the LORD his God for the wars which were about him on every side, until the LORD put them under the soles of his feet.",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house; dwelling; temple"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the covenant name of God (YHWH)"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "But now the LORD my God hath given me rest on every side, so that there is neither adversary nor evil occurrent.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the covenant name of God (YHWH)"
+        },
+        {
+          "word": "adversary",
+          "strongNumber": "H7854",
+          "lemma": "satan",
+          "meaning": "adversary; accuser; opponent"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And, behold, I purpose to build an house unto the name of the LORD my God, as the LORD spake unto David my father, saying, Thy son, whom I will set upon thy throne in thy room, he shall build an house unto my name.",
+      "highlightedWords": [
+        {
+          "word": "build",
+          "strongNumber": "H1129",
+          "lemma": "banah",
+          "meaning": "to build; establish; construct"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the covenant name of God (YHWH)"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Now therefore command thou that they hew me cedar trees out of Lebanon; and my servants shall be with thy servants: and unto thee will I give hire for thy servants according to all that thou shalt appoint: for thou knowest that there is not among us any that can skill to hew timber like unto the Sidonians.",
+      "highlightedWords": [
+        {
+          "word": "Lebanon",
+          "strongNumber": "H3844",
+          "lemma": "Levanon",
+          "meaning": "Lebanon; the white mountain range north of Israel"
+        },
+        {
+          "word": "cedar",
+          "strongNumber": "H0730",
+          "lemma": "’erez",
+          "meaning": "cedar tree; cedar wood"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And it came to pass, when Hiram heard the words of Solomon, that he rejoiced greatly, and said, Blessed be the LORD this day, which hath given unto David a wise son over this great people.",
+      "highlightedWords": [
+        {
+          "word": "Hiram",
+          "strongNumber": "H2438",
+          "lemma": "Chiram",
+          "meaning": "Hiram; a noble or high-born man"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the covenant name of God (YHWH)"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And Hiram sent to Solomon, saying, I have considered the things which thou sentest to me for: and I will do all thy desire concerning timber of cedar, and concerning timber of fir.",
+      "highlightedWords": [
+        {
+          "word": "cedar",
+          "strongNumber": "H0730",
+          "lemma": "’erez",
+          "meaning": "cedar tree; cedar wood"
+        },
+        {
+          "word": "fir",
+          "strongNumber": "H1265",
+          "lemma": "berosh",
+          "meaning": "cypress; fir tree"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "My servants shall bring them down from Lebanon unto the sea: and I will convey them by sea in floats unto the place that thou shalt appoint me, and will cause them to be discharged there, and thou shalt receive them: and thou shalt accomplish my desire, in giving food for my household.",
+      "highlightedWords": [
+        {
+          "word": "Lebanon",
+          "strongNumber": "H3844",
+          "lemma": "Levanon",
+          "meaning": "Lebanon; the white mountain range north of Israel"
+        },
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "sea; west; large body of water"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "So Hiram gave Solomon cedar trees and fir trees according to all his desire.",
+      "highlightedWords": [
+        {
+          "word": "Hiram",
+          "strongNumber": "H2438",
+          "lemma": "Chiram",
+          "meaning": "Hiram; a noble or high-born man"
+        },
+        {
+          "word": "cedar",
+          "strongNumber": "H0730",
+          "lemma": "’erez",
+          "meaning": "cedar tree; cedar wood"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And Solomon gave Hiram twenty thousand measures of wheat for food to his household, and twenty measures of pure oil: thus gave Solomon to Hiram year by year.",
+      "highlightedWords": [
+        {
+          "word": "Solomon",
+          "strongNumber": "H8010",
+          "lemma": "Shelomoh",
+          "meaning": "Solomon; peaceful"
+        },
+        {
+          "word": "oil",
+          "strongNumber": "H8081",
+          "lemma": "shemen",
+          "meaning": "oil; fat; anointing oil"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And the LORD gave Solomon wisdom, as he promised him: and there was peace between Hiram and Solomon; and they two made a league together.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the covenant name of God (YHWH)"
+        },
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "wisdom; skill; prudence"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And king Solomon raised a levy out of all Israel; and the levy was thirty thousand men.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king; ruler"
+        },
+        {
+          "word": "levy",
+          "strongNumber": "H4522",
+          "lemma": "mas",
+          "meaning": "forced labor; levy; tribute"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And he sent them to Lebanon, ten thousand a month by courses: a month they were in Lebanon, and two months at home: and Adoniram was over the levy.",
+      "highlightedWords": [
+        {
+          "word": "Lebanon",
+          "strongNumber": "H3844",
+          "lemma": "Levanon",
+          "meaning": "Lebanon; the white mountain range north of Israel"
+        },
+        {
+          "word": "Adoniram",
+          "strongNumber": "H0141",
+          "lemma": "Adoniram",
+          "meaning": "Adoniram; my lord has exalted"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And Solomon had threescore and ten thousand that bare burdens, and fourscore thousand hewers in the mountains;",
+      "highlightedWords": [
+        {
+          "word": "Solomon",
+          "strongNumber": "H8010",
+          "lemma": "Shelomoh",
+          "meaning": "Solomon; peaceful"
+        },
+        {
+          "word": "mountains",
+          "strongNumber": "H2022",
+          "lemma": "har",
+          "meaning": "mountain; hill country"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Beside the chief of Solomon's officers which were over the work, three thousand and three hundred, which ruled over the people that wrought in the work.",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "‘am",
+          "meaning": "people; nation"
+        },
+        {
+          "word": "work",
+          "strongNumber": "H4399",
+          "lemma": "melakah",
+          "meaning": "work; business; craftsmanship"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And the king commanded, and they brought great stones, costly stones, and hewed stones, to lay the foundation of the house.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king; ruler"
+        },
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house; dwelling; temple"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And Solomon's builders and Hiram's builders did hew them, and the stone squarers: so they prepared timber and stones to build the house.",
+      "highlightedWords": [
+        {
+          "word": "builders",
+          "strongNumber": "H1129",
+          "lemma": "banah",
+          "meaning": "to build; builders (those who construct)"
+        },
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house; dwelling; temple"
+        }
+      ]
+    }
+  ]
+}

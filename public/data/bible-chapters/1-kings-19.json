@@ -1,0 +1,402 @@
+{
+  "book": "1 Kings",
+  "chapter": 19,
+  "chapterTheme": {
+    "twoWordSummary": "Prophetic Succession",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH",
+        "meaning": "the proper name of Israel's God"
+      },
+      {
+        "word": "Elijah",
+        "strongNumber": "H452",
+        "lemma": "’Eliyah",
+        "meaning": "my God is YHWH"
+      }
+    ]
+  },
+  "sentenceTheme": "Elijah flees Jezebel, is sustained by an angel, meets God at Horeb in a gentle voice, and receives a renewed commission to anoint future leaders and call Elisha as his successor.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And Ahab told Jezebel all that Elijah had done, and withal how he had slain all the prophets with the sword.",
+      "highlightedWords": [
+        {
+          "word": "Elijah",
+          "strongNumber": "H452",
+          "lemma": "’Eliyah",
+          "meaning": "my God is YHWH"
+        },
+        {
+          "word": "prophets",
+          "strongNumber": "H5030",
+          "lemma": "nabi’",
+          "meaning": "prophet, spokesperson"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Then Jezebel sent a messenger unto Elijah, saying, So let the gods do to me, and more also, if I make not thy life as the life of one of them by to morrow about this time.",
+      "highlightedWords": [
+        {
+          "word": "messenger",
+          "strongNumber": "H4397",
+          "lemma": "mal’ak",
+          "meaning": "messenger, angel"
+        },
+        {
+          "word": "gods",
+          "strongNumber": "H430",
+          "lemma": "’elohim",
+          "meaning": "God, gods; deity"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And when he saw that, he arose, and went for his life, and came to Beersheba, which belongeth to Judah, and left his servant there.",
+      "highlightedWords": [
+        {
+          "word": "Beersheba",
+          "strongNumber": "H884",
+          "lemma": "Be’er Sheba‘",
+          "meaning": "well of the oath/seven"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "praised; Judah"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "But he himself went a day's journey into the wilderness, and came and sat down under a juniper tree: and he requested for himself that he might die; and said, It is enough; now, O LORD, take away my life; for I am not better than my fathers.",
+      "highlightedWords": [
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbar",
+          "meaning": "wilderness, desert"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the proper name of Israel's God"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And as he lay and slept under a juniper tree, behold, then an angel touched him, and said unto him, Arise and eat.",
+      "highlightedWords": [
+        {
+          "word": "angel",
+          "strongNumber": "H4397",
+          "lemma": "mal’ak",
+          "meaning": "messenger, angel"
+        },
+        {
+          "word": "Arise",
+          "strongNumber": "H6965",
+          "lemma": "qum",
+          "meaning": "to arise, stand up"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And he looked, and, behold, there was a cake baken on the coals, and a cruse of water at his head; and he did eat and drink, and laid him down again.",
+      "highlightedWords": [
+        {
+          "word": "cake",
+          "strongNumber": "H4580",
+          "lemma": "’uggah",
+          "meaning": "round cake"
+        },
+        {
+          "word": "cruse",
+          "strongNumber": "H6835",
+          "lemma": "tsappachath",
+          "meaning": "jar, cruse"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And the angel of the LORD came again the second time, and touched him, and said, Arise and eat; because the journey is too great for thee.",
+      "highlightedWords": [
+        {
+          "word": "angel",
+          "strongNumber": "H4397",
+          "lemma": "mal’ak",
+          "meaning": "messenger, angel"
+        },
+        {
+          "word": "journey",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way, road, journey"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And he arose, and did eat and drink, and went in the strength of that meat forty days and forty nights unto Horeb the mount of God.",
+      "highlightedWords": [
+        {
+          "word": "Horeb",
+          "strongNumber": "H2722",
+          "lemma": "Choreb",
+          "meaning": "Horeb; desolation (Sinai region)"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’elohim",
+          "meaning": "God, deity"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And he came thither unto a cave, and lodged there; and, behold, the word of the LORD came to him, and he said unto him, What doest thou here, Elijah?",
+      "highlightedWords": [
+        {
+          "word": "cave",
+          "strongNumber": "H4631",
+          "lemma": "me‘arah",
+          "meaning": "cave"
+        },
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And he said, I have been very jealous for the LORD God of hosts: for the children of Israel have forsaken thy covenant, thrown down thine altars, and slain thy prophets with the sword; and I, even I only, am left; and they seek my life, to take it away.",
+      "highlightedWords": [
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "covenant, treaty"
+        },
+        {
+          "word": "hosts",
+          "strongNumber": "H6635",
+          "lemma": "tsaba’",
+          "meaning": "army, host"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And he said, Go forth, and stand upon the mount before the LORD. And, behold, the LORD passed by, and a great and strong wind rent the mountains, and brake in pieces the rocks before the LORD; but the LORD was not in the wind: and after the wind an earthquake; but the LORD was not in the earthquake:",
+      "highlightedWords": [
+        {
+          "word": "wind",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "wind, spirit, breath"
+        },
+        {
+          "word": "earthquake",
+          "strongNumber": "H7494",
+          "lemma": "ra‘ash",
+          "meaning": "earthquake, shaking"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And after the earthquake a fire; but the LORD was not in the fire: and after the fire a still small voice.",
+      "highlightedWords": [
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "’esh",
+          "meaning": "fire"
+        },
+        {
+          "word": "voice",
+          "strongNumber": "H6963",
+          "lemma": "qol",
+          "meaning": "voice, sound"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And it was so, when Elijah heard it, that he wrapped his face in his mantle, and went out, and stood in the entering in of the cave. And, behold, there came a voice unto him, and said, What doest thou here, Elijah?",
+      "highlightedWords": [
+        {
+          "word": "mantle",
+          "strongNumber": "H155",
+          "lemma": "’addereth",
+          "meaning": "glorious cloak, mantle"
+        },
+        {
+          "word": "voice",
+          "strongNumber": "H6963",
+          "lemma": "qol",
+          "meaning": "voice, sound"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And he said, I have been very jealous for the LORD God of hosts: because the children of Israel have forsaken thy covenant, thrown down thine altars, and slain thy prophets with the sword; and I, even I only, am left; and they seek my life, to take it away.",
+      "highlightedWords": [
+        {
+          "word": "altars",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar"
+        },
+        {
+          "word": "prophets",
+          "strongNumber": "H5030",
+          "lemma": "nabi’",
+          "meaning": "prophet, spokesperson"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And the LORD said unto him, Go, return on thy way to the wilderness of Damascus: and when thou comest, anoint Hazael to be king over Syria:",
+      "highlightedWords": [
+        {
+          "word": "Damascus",
+          "strongNumber": "H1834",
+          "lemma": "Dammeseq",
+          "meaning": "Damascus"
+        },
+        {
+          "word": "anoint",
+          "strongNumber": "H4886",
+          "lemma": "mashach",
+          "meaning": "to anoint, smear"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And Jehu the son of Nimshi shalt thou anoint to be king over Israel: and Elisha the son of Shaphat of Abelmeholah shalt thou anoint to be prophet in thy room.",
+      "highlightedWords": [
+        {
+          "word": "Elisha",
+          "strongNumber": "H477",
+          "lemma": "’Elisha‘",
+          "meaning": "God is salvation"
+        },
+        {
+          "word": "prophet",
+          "strongNumber": "H5030",
+          "lemma": "nabi’",
+          "meaning": "prophet, spokesperson"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And it shall come to pass, that him that escapeth the sword of Hazael shall Jehu slay: and him that escapeth from the sword of Jehu shall Elisha slay.",
+      "highlightedWords": [
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword"
+        },
+        {
+          "word": "Elisha",
+          "strongNumber": "H477",
+          "lemma": "’Elisha‘",
+          "meaning": "God is salvation"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Yet I have left me seven thousand in Israel, all the knees which have not bowed unto Baal, and every mouth which hath not kissed him.",
+      "highlightedWords": [
+        {
+          "word": "Baal",
+          "strongNumber": "H1168",
+          "lemma": "Ba‘al",
+          "meaning": "Baal, lord (Canaanite deity)"
+        },
+        {
+          "word": "kissed",
+          "strongNumber": "H5401",
+          "lemma": "nashaq",
+          "meaning": "to kiss"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "So he departed thence, and found Elisha the son of Shaphat, who was plowing with twelve yoke of oxen before him, and he with the twelfth: and Elijah passed by him, and cast his mantle upon him.",
+      "highlightedWords": [
+        {
+          "word": "oxen",
+          "strongNumber": "H1241",
+          "lemma": "baqar",
+          "meaning": "cattle, oxen"
+        },
+        {
+          "word": "mantle",
+          "strongNumber": "H155",
+          "lemma": "’addereth",
+          "meaning": "glorious cloak, mantle"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And he left the oxen, and ran after Elijah, and said, Let me, I pray thee, kiss my father and my mother, and then I will follow thee. And he said unto him, Go back again: for what have I done to thee?",
+      "highlightedWords": [
+        {
+          "word": "ran",
+          "strongNumber": "H7323",
+          "lemma": "ruts",
+          "meaning": "to run"
+        },
+        {
+          "word": "follow",
+          "strongNumber": "H310",
+          "lemma": "’achar",
+          "meaning": "after, behind; to follow"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And he returned back from him, and took a yoke of oxen, and slew them, and boiled their flesh with the instruments of the oxen, and gave unto the people, and they did eat. Then he arose, and went after Elijah, and ministered unto him.",
+      "highlightedWords": [
+        {
+          "word": "yoke",
+          "strongNumber": "H6776",
+          "lemma": "tsemed",
+          "meaning": "team, yoke (of animals)"
+        },
+        {
+          "word": "ministered",
+          "strongNumber": "H8334",
+          "lemma": "sharath",
+          "meaning": "to minister, serve"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "book": "2 Samuel",
+  "chapter": 4,
+  "chapterTheme": {
+    "twoWordSummary": "Ish-bosheth Slain",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH",
+        "meaning": "The personal name of Israel’s God, the covenant LORD."
+      },
+      {
+        "word": "David",
+        "strongNumber": "H1732",
+        "lemma": "David",
+        "meaning": "The second king of Israel; name meaning 'beloved'."
+      }
+    ]
+  },
+  "sentenceTheme": "Rechab and Baanah murder Ish-bosheth, but David executes them for their crime and honors Ish-bosheth by burying his head in Abner’s sepulchre.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And when Saul's son heard that Abner was dead in Hebron, his hands were feeble, and all the Israelites were troubled.",
+      "highlightedWords": [
+        {
+          "word": "Abner",
+          "strongNumber": "H74",
+          "lemma": "Abner",
+          "meaning": "Commander of Saul’s army; name meaning 'my father is a lamp'."
+        },
+        {
+          "word": "Hebron",
+          "strongNumber": "H2275",
+          "lemma": "Hevron",
+          "meaning": "A major city in Judah, associated with alliances and patriarchal history."
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And Saul's son had two men that were captains of bands: the name of the one was Baanah, and the name of the other Rechab, the sons of Rimmon a Beerothite, of the children of Benjamin: for Beeroth also was reckoned to Benjamin.",
+      "highlightedWords": [
+        {
+          "word": "Baanah",
+          "strongNumber": "H1196",
+          "lemma": "Ba'anah",
+          "meaning": "A Benjamite captain; name possibly meaning 'affliction' or 'answer'."
+        },
+        {
+          "word": "Rechab",
+          "strongNumber": "H7394",
+          "lemma": "Rechav",
+          "meaning": "A Benjamite captain; name meaning 'rider'."
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And the Beerothites fled to Gittaim, and were sojourners there until this day.",
+      "highlightedWords": [
+        {
+          "word": "Beerothites",
+          "strongNumber": "H881",
+          "lemma": "Be'eroth",
+          "meaning": "Inhabitants of Beeroth; Beeroth means 'wells'."
+        },
+        {
+          "word": "Gittaim",
+          "strongNumber": "H1664",
+          "lemma": "Gittayim",
+          "meaning": "A town, likely meaning 'two winepresses' or 'double Gath'."
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And Jonathan, Saul's son, had a son that was lame of his feet. He was five years old when the tidings came of Saul and Jonathan out of Jezreel, and his nurse took him up, and fled: and it came to pass, as she made haste to flee, that he fell, and became lame. And his name was Mephibosheth.",
+      "highlightedWords": [
+        {
+          "word": "Jonathan",
+          "strongNumber": "H3083",
+          "lemma": "Yehonatan",
+          "meaning": "Son of Saul; name meaning 'Yahweh has given'."
+        },
+        {
+          "word": "Mephibosheth",
+          "strongNumber": "H4648",
+          "lemma": "Mephibosheth",
+          "meaning": "Son of Jonathan; name possibly meaning 'from the mouth of shame'."
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And the sons of Rimmon the Beerothite, Rechab and Baanah, went, and came about the heat of the day to the house of Ish-bosheth, who lay on a bed at noon.",
+      "highlightedWords": [
+        {
+          "word": "Rechab",
+          "strongNumber": "H7394",
+          "lemma": "Rechav",
+          "meaning": "A Benjamite captain; name meaning 'rider'."
+        },
+        {
+          "word": "Ish-bosheth",
+          "strongNumber": "H378",
+          "lemma": "Ish-bosheth",
+          "meaning": "Saul’s son; name meaning 'man of shame'."
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And they came thither into the midst of the house, as though they would have fetched wheat; and they smote him under the fifth rib: and Rechab and Baanah his brother escaped.",
+      "highlightedWords": [
+        {
+          "word": "Rechab",
+          "strongNumber": "H7394",
+          "lemma": "Rechav",
+          "meaning": "A Benjamite captain; name meaning 'rider'."
+        },
+        {
+          "word": "Baanah",
+          "strongNumber": "H1196",
+          "lemma": "Ba'anah",
+          "meaning": "A Benjamite captain; name possibly meaning 'affliction' or 'answer'."
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "For when they came into the house, he lay on his bed in his bedchamber, and they smote him, and slew him, and beheaded him, and took his head, and gat them away through the plain all night.",
+      "highlightedWords": [
+        {
+          "word": "head",
+          "strongNumber": "H7218",
+          "lemma": "ro'sh",
+          "meaning": "Head; chief; summit."
+        },
+        {
+          "word": "bed",
+          "strongNumber": "H4904",
+          "lemma": "mishkab",
+          "meaning": "Bed, couch, place of lying down."
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And they brought the head of Ish-bosheth unto David to Hebron, and said to the king, Behold the head of Ish-bosheth the son of Saul thine enemy, which sought thy life; and the LORD hath avenged my lord the king this day of Saul, and of his seed.",
+      "highlightedWords": [
+        {
+          "word": "Ish-bosheth",
+          "strongNumber": "H378",
+          "lemma": "Ish-bosheth",
+          "meaning": "Saul’s son; name meaning 'man of shame'."
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The personal name of Israel’s God, the covenant LORD."
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And David answered Rechab and Baanah his brother, the sons of Rimmon the Beerothite, and said unto them, As the LORD liveth, who hath redeemed my soul out of all adversity,",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "David",
+          "meaning": "The second king of Israel; name meaning 'beloved'."
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The personal name of Israel’s God, the covenant LORD."
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "When one told me, saying, Behold, Saul is dead, thinking to have brought good tidings, I took hold of him, and slew him in Ziklag, who thought that I would have given him a reward for his tidings:",
+      "highlightedWords": [
+        {
+          "word": "Saul",
+          "strongNumber": "H7586",
+          "lemma": "Sha'ul",
+          "meaning": "First king of Israel; name meaning 'asked (for)'."
+        },
+        {
+          "word": "Ziklag",
+          "strongNumber": "H6860",
+          "lemma": "Tsiqlag",
+          "meaning": "A town in the Negev assigned to Judah/Sim eon; meaning possibly 'winding'."
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "How much more, when wicked men have slain a righteous person in his own house upon his bed? shall I not therefore now require his blood of your hand, and take you away from the earth?",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha‘",
+          "meaning": "Wicked, guilty, criminal."
+        },
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "Righteous, just, in the right."
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And David commanded his young men, and they slew them, and cut off their hands and their feet, and hanged them up over the pool in Hebron. But they took the head of Ish-bosheth, and buried it in the sepulchre of Abner in Hebron.",
+      "highlightedWords": [
+        {
+          "word": "Hebron",
+          "strongNumber": "H2275",
+          "lemma": "Hevron",
+          "meaning": "A major city in Judah, associated with alliances and patriarchal history."
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "David",
+          "meaning": "The second king of Israel; name meaning 'beloved'."
+        }
+      ]
+    }
+  ]
+}

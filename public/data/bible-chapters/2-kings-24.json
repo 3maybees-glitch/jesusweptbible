@@ -1,0 +1,384 @@
+{
+  "book": "2 Kings",
+  "chapter": 24,
+  "chapterTheme": {
+    "twoWordSummary": "Babylonian Judgment",
+    "themeWords": [
+      {
+        "word": "Babylon",
+        "strongNumber": "H894",
+        "lemma": "Babel (Babhel)",
+        "meaning": "Babylon; capital city and by extension the empire of Babylonia"
+      },
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "Yehovah",
+        "meaning": "The proper name of the God of Israel (YHWH)"
+      }
+    ]
+  },
+  "sentenceTheme": "Judah comes under Babylon’s control as the LORD’s judgment unfolds through Nebuchadnezzar, leading to Jehoiachin’s deportation and Zedekiah’s appointment.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "In his days Nebuchadnezzar king of Babylon came up, and Jehoiakim became his servant three years: then he turned and rebelled against him.",
+      "highlightedWords": [
+        {
+          "word": "Nebuchadnezzar",
+          "strongNumber": "H5019",
+          "lemma": "Nebukadnetsar",
+          "meaning": "Nebuchadnezzar, king of Babylon"
+        },
+        {
+          "word": "Babylon",
+          "strongNumber": "H894",
+          "lemma": "Babel (Babhel)",
+          "meaning": "Babylon; capital city and empire of Babylonia"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And the LORD sent against him bands of the Chaldees, and bands of the Syrians, and bands of the Moabites, and bands of the children of Ammon, and sent them against Judah to destroy it, according to the word of the LORD, which he spake by his servants the prophets.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "The proper name of the God of Israel (YHWH)"
+        },
+        {
+          "word": "Chaldees",
+          "strongNumber": "H3778",
+          "lemma": "Kasdim (Kasdiym)",
+          "meaning": "Chaldeans; a people of southern Babylonia"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Surely at the commandment of the LORD came this upon Judah, to remove them out of his sight, for the sins of Manasseh, according to all that he did;",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "The proper name of the God of Israel (YHWH)"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah; the southern kingdom and its people"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And also for the innocent blood that he shed: for he filled Jerusalem with innocent blood; which the LORD would not pardon.",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem, the chief city of Judah"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "The proper name of the God of Israel (YHWH)"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Now the rest of the acts of Jehoiakim, and all that he did, are they not written in the book of the chronicles of the kings of Judah?",
+      "highlightedWords": [
+        {
+          "word": "book",
+          "strongNumber": "H5612",
+          "lemma": "sepher",
+          "meaning": "Book, document, scroll, writing"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah; the southern kingdom and its people"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "So Jehoiakim slept with his fathers: and Jehoiachin his son reigned in his stead.",
+      "highlightedWords": [
+        {
+          "word": "Jehoiakim",
+          "strongNumber": "H3079",
+          "lemma": "Yehoyaqim",
+          "meaning": "Jehoiakim, king of Judah; ‘Yahweh raises up’"
+        },
+        {
+          "word": "Jehoiachin",
+          "strongNumber": "H3078",
+          "lemma": "Yehoyakhin",
+          "meaning": "Jehoiachin, king of Judah; ‘Yahweh will establish’"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And the king of Egypt came not again any more out of his land: for the king of Babylon had taken from the river of Egypt unto the river Euphrates all that pertained to the king of Egypt.",
+      "highlightedWords": [
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt; the land of the Nile"
+        },
+        {
+          "word": "Babylon",
+          "strongNumber": "H894",
+          "lemma": "Babel (Babhel)",
+          "meaning": "Babylon; capital city and empire of Babylonia"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Jehoiachin was eighteen years old when he began to reign, and he reigned in Jerusalem three months. And his mother's name was Nehushta, the daughter of Elnathan of Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "Jehoiachin",
+          "strongNumber": "H3078",
+          "lemma": "Yehoyakhin",
+          "meaning": "Jehoiachin, king of Judah; ‘Yahweh will establish’"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem, the chief city of Judah"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And he did that which was evil in the sight of the LORD, according to all that his father had done.",
+      "highlightedWords": [
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "raʿ",
+          "meaning": "Bad, evil, wickedness"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "The proper name of the God of Israel (YHWH)"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "At that time the servants of Nebuchadnezzar king of Babylon came up against Jerusalem, and the city was besieged.",
+      "highlightedWords": [
+        {
+          "word": "servants",
+          "strongNumber": "H5650",
+          "lemma": "ʿeved",
+          "meaning": "Servant, slave, official"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem, the chief city of Judah"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And Nebuchadnezzar king of Babylon came against the city, and his servants did besiege it.",
+      "highlightedWords": [
+        {
+          "word": "Nebuchadnezzar",
+          "strongNumber": "H5019",
+          "lemma": "Nebukadnetsar",
+          "meaning": "Nebuchadnezzar, king of Babylon"
+        },
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "ʿir",
+          "meaning": "City, town"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And Jehoiachin the king of Judah went out to the king of Babylon, he, and his mother, and his servants, and his princes, and his officers: and the king of Babylon took him in the eighth year of his reign.",
+      "highlightedWords": [
+        {
+          "word": "Jehoiachin",
+          "strongNumber": "H3078",
+          "lemma": "Yehoyakhin",
+          "meaning": "Jehoiachin, king of Judah; ‘Yahweh will establish’"
+        },
+        {
+          "word": "Babylon",
+          "strongNumber": "H894",
+          "lemma": "Babel (Babhel)",
+          "meaning": "Babylon; capital city and empire of Babylonia"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And he carried out thence all the treasures of the house of the LORD, and the treasures of the king's house, and cut in pieces all the vessels of gold which Solomon king of Israel had made in the temple of the LORD, as the LORD had said.",
+      "highlightedWords": [
+        {
+          "word": "treasures",
+          "strongNumber": "H214",
+          "lemma": "ʾotsar",
+          "meaning": "Storehouse, treasure, treasury"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "The proper name of the God of Israel (YHWH)"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And he carried away all Jerusalem, and all the princes, and all the mighty men of valour, even ten thousand captives, and all the craftsmen and smiths: none remained, save the poorest sort of the people of the land.",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem, the chief city of Judah"
+        },
+        {
+          "word": "princes",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "Chief, ruler, prince, official"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And he carried away Jehoiachin to Babylon, and the king's mother, and the king's wives, and his officers, and the mighty of the land, those carried he into captivity from Jerusalem to Babylon.",
+      "highlightedWords": [
+        {
+          "word": "Jehoiachin",
+          "strongNumber": "H3078",
+          "lemma": "Yehoyakhin",
+          "meaning": "Jehoiachin, king of Judah; ‘Yahweh will establish’"
+        },
+        {
+          "word": "Babylon",
+          "strongNumber": "H894",
+          "lemma": "Babel (Babhel)",
+          "meaning": "Babylon; capital city and empire of Babylonia"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And all the men of might, even seven thousand, and craftsmen and smiths a thousand, all that were strong and apt for war, even them the king of Babylon brought captive to Babylon.",
+      "highlightedWords": [
+        {
+          "word": "war",
+          "strongNumber": "H4421",
+          "lemma": "milchamah",
+          "meaning": "Battle, war, warfare"
+        },
+        {
+          "word": "Babylon",
+          "strongNumber": "H894",
+          "lemma": "Babel (Babhel)",
+          "meaning": "Babylon; capital city and empire of Babylonia"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And the king of Babylon made Mattaniah his father's brother king in his stead, and changed his name to Zedekiah.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "King, ruler"
+        },
+        {
+          "word": "Zedekiah",
+          "strongNumber": "H6667",
+          "lemma": "Tsidqiyyahu",
+          "meaning": "Zedekiah; ‘Yahweh is righteousness’"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Zedekiah was twenty and one years old when he began to reign, and he reigned eleven years in Jerusalem. And his mother's name was Hamutal, the daughter of Jeremiah of Libnah.",
+      "highlightedWords": [
+        {
+          "word": "Zedekiah",
+          "strongNumber": "H6667",
+          "lemma": "Tsidqiyyahu",
+          "meaning": "Zedekiah; ‘Yahweh is righteousness’"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem, the chief city of Judah"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And he did that which was evil in the sight of the LORD, according to all that Jehoiakim had done.",
+      "highlightedWords": [
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "raʿ",
+          "meaning": "Bad, evil, wickedness"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "The proper name of the God of Israel (YHWH)"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "For through the anger of the LORD it came to pass in Jerusalem and Judah, until he had cast them out from his presence, that Zedekiah rebelled against the king of Babylon.",
+      "highlightedWords": [
+        {
+          "word": "anger",
+          "strongNumber": "H639",
+          "lemma": "ʾaph",
+          "meaning": "Anger, wrath; lit. nose, face"
+        },
+        {
+          "word": "presence",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "Face, presence, before"
+        }
+      ]
+    }
+  ]
+}

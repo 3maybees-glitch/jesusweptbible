@@ -1,0 +1,510 @@
+{
+  "book": "2 Samuel",
+  "chapter": 1,
+  "chapterTheme": {
+    "twoWordSummary": "David's Lament",
+    "themeWords": [
+      {
+        "word": "lamentation",
+        "strongNumber": "H7015",
+        "lemma": "qinah",
+        "meaning": "lamentation, dirge"
+      },
+      {
+        "word": "anointed",
+        "strongNumber": "H4899",
+        "lemma": "mashiach",
+        "meaning": "an anointed one; consecrated (the LORD’s anointed)"
+      }
+    ]
+  },
+  "sentenceTheme": "David learns of Saul and Jonathan’s deaths, executes the Amalekite who claimed to kill Saul, and composes a national lament for Israel’s fallen.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Now it came to pass after the death of Saul, when David was returned from the slaughter of the Amalekites, and David had abode two days in Ziklag;",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dawid",
+          "meaning": "beloved"
+        },
+        {
+          "word": "Amalekites",
+          "strongNumber": "H6003",
+          "lemma": "'Amaleqiy",
+          "meaning": "an Amalekite; descendant of Amalek"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "It came even to pass on the third day, that, behold, a man came out of the camp from Saul with his clothes rent, and earth upon his head: and so it was, when he came to David, that he fell to the earth, and did obeisance.",
+      "highlightedWords": [
+        {
+          "word": "Saul",
+          "strongNumber": "H7586",
+          "lemma": "Sha'ul",
+          "meaning": "asked for; Saul"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dawid",
+          "meaning": "beloved"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And David said unto him, From whence comest thou? And he said unto him, Out of the camp of Israel am I escaped.",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dawid",
+          "meaning": "beloved"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God strives"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And David said unto him, How went the matter? I pray thee, tell me. And he answered, That the people are fled from the battle, and many of the people also are fallen and dead; and Saul and Jonathan his son are dead also.",
+      "highlightedWords": [
+        {
+          "word": "Saul",
+          "strongNumber": "H7586",
+          "lemma": "Sha'ul",
+          "meaning": "asked for; Saul"
+        },
+        {
+          "word": "Jonathan",
+          "strongNumber": "H3083",
+          "lemma": "Yehonathan",
+          "meaning": "Yahweh has given; Jonathan"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And David said unto the young man that told him, How knowest thou that Saul and Jonathan his son be dead?",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dawid",
+          "meaning": "beloved"
+        },
+        {
+          "word": "Saul",
+          "strongNumber": "H7586",
+          "lemma": "Sha'ul",
+          "meaning": "asked for; Saul"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And the young man that told him said, As I happened by chance upon mount Gilboa, behold, Saul leaned upon his spear; and, lo, the chariots and horsemen followed hard after him.",
+      "highlightedWords": [
+        {
+          "word": "Saul",
+          "strongNumber": "H7586",
+          "lemma": "Sha'ul",
+          "meaning": "asked for; Saul"
+        },
+        {
+          "word": "Gilboa",
+          "strongNumber": "H1533",
+          "lemma": "Gilboa'",
+          "meaning": "Gilboa; a mountain range in Israel"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And when he looked behind him, he saw me, and called unto me. And I answered, Here am I.",
+      "highlightedWords": [
+        {
+          "word": "called",
+          "strongNumber": "H7121",
+          "lemma": "qara'",
+          "meaning": "to call, summon, proclaim"
+        },
+        {
+          "word": "answered",
+          "strongNumber": "H6030",
+          "lemma": "'anah",
+          "meaning": "to answer, respond"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And he said unto me, Who art thou? And I answered him, I am an Amalekite.",
+      "highlightedWords": [
+        {
+          "word": "said",
+          "strongNumber": "H559",
+          "lemma": "'amar",
+          "meaning": "to say, speak"
+        },
+        {
+          "word": "Amalekite",
+          "strongNumber": "H6003",
+          "lemma": "'Amaleqiy",
+          "meaning": "an Amalekite; descendant of Amalek"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "He said unto me again, Stand, I pray thee, upon me, and slay me: for anguish is come upon me, because my life is yet whole in me.",
+      "highlightedWords": [
+        {
+          "word": "slay",
+          "strongNumber": "H4191",
+          "lemma": "muth",
+          "meaning": "to kill, put to death"
+        },
+        {
+          "word": "life",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, self"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "So I stood upon him, and slew him, because I was sure that he could not live after that he was fallen: and I took the crown that was upon his head, and the bracelet that was on his arm, and have brought them hither unto my lord.",
+      "highlightedWords": [
+        {
+          "word": "fallen",
+          "strongNumber": "H5307",
+          "lemma": "naphal",
+          "meaning": "to fall, be cast down"
+        },
+        {
+          "word": "took",
+          "strongNumber": "H3947",
+          "lemma": "laqach",
+          "meaning": "to take, seize, receive"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Then David took hold on his clothes, and rent them; and likewise all the men that were with him:",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dawid",
+          "meaning": "beloved"
+        },
+        {
+          "word": "rent",
+          "strongNumber": "H7167",
+          "lemma": "qara'",
+          "meaning": "to tear, rend"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And they mourned, and wept, and fasted until even, for Saul, and for Jonathan his son, and for the people of the LORD, and for the house of Israel; because they were fallen by the sword.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the divine name, the LORD"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God strives"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And David said unto the young man that told him, Whence art thou? And he answered, I am the son of a stranger, an Amalekite.",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dawid",
+          "meaning": "beloved"
+        },
+        {
+          "word": "Amalekite",
+          "strongNumber": "H6003",
+          "lemma": "'Amaleqiy",
+          "meaning": "an Amalekite; descendant of Amalek"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And David said unto him, How wast thou not afraid to stretch forth thine hand to destroy the LORD'S anointed?",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        },
+        {
+          "word": "anointed",
+          "strongNumber": "H4899",
+          "lemma": "mashiach",
+          "meaning": "an anointed one; the LORD’s anointed"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And David called one of the young men, and said, Go near, and fall upon him. And he smote him that he died.",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dawid",
+          "meaning": "beloved"
+        },
+        {
+          "word": "smote",
+          "strongNumber": "H5221",
+          "lemma": "nakah",
+          "meaning": "to strike, smite"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And David said unto him, Thy blood be upon thy head; for thy mouth hath testified against thee, saying, I have slain the LORD'S anointed.",
+      "highlightedWords": [
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "blood"
+        },
+        {
+          "word": "anointed",
+          "strongNumber": "H4899",
+          "lemma": "mashiach",
+          "meaning": "an anointed one; the LORD’s anointed"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And David lamented with this lamentation over Saul and over Jonathan his son:",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dawid",
+          "meaning": "beloved"
+        },
+        {
+          "word": "lamentation",
+          "strongNumber": "H7015",
+          "lemma": "qinah",
+          "meaning": "lamentation, dirge"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "(Also he bade them teach the children of Judah the use of the bow: behold, it is written in the book of Jasher.)",
+      "highlightedWords": [
+        {
+          "word": "bow",
+          "strongNumber": "H7198",
+          "lemma": "qesheth",
+          "meaning": "a bow (weapon)"
+        },
+        {
+          "word": "Jasher",
+          "strongNumber": "H3477",
+          "lemma": "yashar",
+          "meaning": "upright; the Book of the Upright"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "The beauty of Israel is slain upon thy high places: how are the mighty fallen!",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God strives"
+        },
+        {
+          "word": "mighty",
+          "strongNumber": "H1368",
+          "lemma": "gibbor",
+          "meaning": "mighty, valiant, warrior"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Tell it not in Gath, publish it not in the streets of Askelon; lest the daughters of the Philistines rejoice, lest the daughters of the uncircumcised triumph.",
+      "highlightedWords": [
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pelishtiy",
+          "meaning": "Philistines; people of Philistia"
+        },
+        {
+          "word": "daughters",
+          "strongNumber": "H1323",
+          "lemma": "bat",
+          "meaning": "daughter(s)"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Ye mountains of Gilboa, let there be no dew, neither let there be rain, upon you, nor fields of offerings: for there the shield of the mighty is vilely cast away, the shield of Saul, as though he had not been anointed with oil.",
+      "highlightedWords": [
+        {
+          "word": "mountains",
+          "strongNumber": "H2022",
+          "lemma": "har",
+          "meaning": "mountain(s), hill country"
+        },
+        {
+          "word": "shield",
+          "strongNumber": "H4043",
+          "lemma": "magen",
+          "meaning": "shield"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "From the blood of the slain, from the fat of the mighty, the bow of Jonathan turned not back, and the sword of Saul returned not empty.",
+      "highlightedWords": [
+        {
+          "word": "bow",
+          "strongNumber": "H7198",
+          "lemma": "qesheth",
+          "meaning": "a bow (weapon)"
+        },
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Saul and Jonathan were lovely and pleasant in their lives, and in their death they were not divided: they were swifter than eagles, they were stronger than lions.",
+      "highlightedWords": [
+        {
+          "word": "Saul",
+          "strongNumber": "H7586",
+          "lemma": "Sha'ul",
+          "meaning": "asked for; Saul"
+        },
+        {
+          "word": "Jonathan",
+          "strongNumber": "H3083",
+          "lemma": "Yehonathan",
+          "meaning": "Yahweh has given; Jonathan"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Ye daughters of Israel, weep over Saul, who clothed you in scarlet, with other delights, who put on ornaments of gold upon your apparel.",
+      "highlightedWords": [
+        {
+          "word": "daughters",
+          "strongNumber": "H1323",
+          "lemma": "bat",
+          "meaning": "daughter(s)"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God strives"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "How are the mighty fallen in the midst of the battle! O Jonathan, thou wast slain in thine high places.",
+      "highlightedWords": [
+        {
+          "word": "mighty",
+          "strongNumber": "H1368",
+          "lemma": "gibbor",
+          "meaning": "mighty, valiant, warrior"
+        },
+        {
+          "word": "Jonathan",
+          "strongNumber": "H3083",
+          "lemma": "Yehonathan",
+          "meaning": "Yahweh has given; Jonathan"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "I am distressed for thee, my brother Jonathan: very pleasant hast thou been unto me: thy love to me was wonderful, passing the love of women.",
+      "highlightedWords": [
+        {
+          "word": "Jonathan",
+          "strongNumber": "H3083",
+          "lemma": "Yehonathan",
+          "meaning": "Yahweh has given; Jonathan"
+        },
+        {
+          "word": "love",
+          "strongNumber": "H160",
+          "lemma": "'ahabah",
+          "meaning": "love, affection"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "How are the mighty fallen, and the weapons of war perished!",
+      "highlightedWords": [
+        {
+          "word": "mighty",
+          "strongNumber": "H1368",
+          "lemma": "gibbor",
+          "meaning": "mighty, valiant, warrior"
+        },
+        {
+          "word": "war",
+          "strongNumber": "H4421",
+          "lemma": "milchamah",
+          "meaning": "battle, war"
+        }
+      ]
+    }
+  ]
+}

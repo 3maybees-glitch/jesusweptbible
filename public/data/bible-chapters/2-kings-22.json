@@ -1,0 +1,384 @@
+{
+  "book": "2 Kings",
+  "chapter": 22,
+  "chapterTheme": {
+    "twoWordSummary": "Law Rediscovered",
+    "themeWords": [
+      {
+        "word": "book",
+        "strongNumber": "H5612",
+        "lemma": "sepher",
+        "meaning": "book, scroll, written document"
+      },
+      {
+        "word": "law",
+        "strongNumber": "H8451",
+        "lemma": "torah",
+        "meaning": "instruction, law, teaching"
+      }
+    ]
+  },
+  "sentenceTheme": "During Josiah’s reign the Book of the Law is found in the temple, leading to repentance and Huldah’s prophecy of coming judgment with mercy promised to the humble king.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Josiah was eight years old when he began to reign, and he reigned thirty and one years in Jerusalem. And his mother's name was Jedidah, the daughter of Adaiah of Boscath.",
+      "highlightedWords": [
+        {
+          "word": "Josiah",
+          "strongNumber": "H2977",
+          "lemma": "Yo'shiyahu",
+          "meaning": "Yahweh heals/supports"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "foundation/possession of peace"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And he did that which was right in the sight of the LORD, and walked in all the way of David his father, and turned not aside to the right hand or to the left.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "David (Dawid)",
+          "meaning": "beloved; second king of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And it came to pass in the eighteenth year of king Josiah, that the king sent Shaphan the son of Azaliah, the son of Meshullam, the scribe, to the house of the LORD, saying,",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, temple, household"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Go up to Hilkiah the high priest, that he may sum the silver which is brought into the house of the LORD, which the keepers of the door have gathered of the people:",
+      "highlightedWords": [
+        {
+          "word": "silver",
+          "strongNumber": "H3701",
+          "lemma": "kesef",
+          "meaning": "silver, money"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And let them deliver it into the hand of the doers of the work, that have the oversight of the house of the LORD: and let them give it to the doers of the work which is in the house of the LORD, to repair the breaches of the house,",
+      "highlightedWords": [
+        {
+          "word": "work",
+          "strongNumber": "H4399",
+          "lemma": "melakah",
+          "meaning": "occupation, workmanship, service"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Unto carpenters, and builders, and masons, and to buy timber and hewn stone to repair the house.",
+      "highlightedWords": [
+        {
+          "word": "timber",
+          "strongNumber": "H6086",
+          "lemma": "‘ets",
+          "meaning": "tree, wood, timber"
+        },
+        {
+          "word": "stone",
+          "strongNumber": "H68",
+          "lemma": "’eben",
+          "meaning": "stone"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Howbeit there was no reckoning made with them of the money that was delivered into their hand, because they dealt faithfully.",
+      "highlightedWords": [
+        {
+          "word": "money",
+          "strongNumber": "H3701",
+          "lemma": "kesef",
+          "meaning": "silver, money"
+        },
+        {
+          "word": "faithfully",
+          "strongNumber": "H530",
+          "lemma": "’emunah",
+          "meaning": "faithfulness, trustworthiness"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And Hilkiah the high priest said unto Shaphan the scribe, I have found the book of the law in the house of the LORD. And Hilkiah gave the book to Shaphan, and he read it.",
+      "highlightedWords": [
+        {
+          "word": "book",
+          "strongNumber": "H5612",
+          "lemma": "sepher",
+          "meaning": "book, scroll, written document"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And Shaphan the scribe came to the king, and brought the king word again, and said, Thy servants have gathered the money that was found in the house, and have delivered it into the hand of them that do the work, that have the oversight of the house of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "money",
+          "strongNumber": "H3701",
+          "lemma": "kesef",
+          "meaning": "silver, money"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And Shaphan the scribe shewed the king, saying, Hilkiah the priest hath delivered me a book. And Shaphan read it before the king.",
+      "highlightedWords": [
+        {
+          "word": "book",
+          "strongNumber": "H5612",
+          "lemma": "sepher",
+          "meaning": "book, scroll, written document"
+        },
+        {
+          "word": "read",
+          "strongNumber": "H7121",
+          "lemma": "qara’",
+          "meaning": "to read, call out, proclaim"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And it came to pass, when the king had heard the words of the book of the law, that he rent his clothes.",
+      "highlightedWords": [
+        {
+          "word": "book",
+          "strongNumber": "H5612",
+          "lemma": "sepher",
+          "meaning": "book, scroll, written document"
+        },
+        {
+          "word": "law",
+          "strongNumber": "H8451",
+          "lemma": "torah",
+          "meaning": "instruction, law, teaching"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And the king commanded Hilkiah the priest, and Ahikam the son of Shaphan, and Achbor the son of Michaiah, and Shaphan the scribe, and Asahiah a servant of the king's, saying,",
+      "highlightedWords": [
+        {
+          "word": "priest",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Go ye, enquire of the LORD for me, and for the people, and for all Judah, concerning the words of this book that is found: for great is the wrath of the LORD that is kindled against us, because our fathers have not hearkened unto the words of this book, to do according unto all that which is written concerning us.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "wrath",
+          "strongNumber": "H2534",
+          "lemma": "chemah",
+          "meaning": "wrath, heat, fury"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "So Hilkiah the priest, and Ahikam, and Achbor, and Shaphan, and Asahiah, went unto Huldah the prophetess, the wife of Shallum the son of Tikvah, the son of Harhas, keeper of the wardrobe; (now she dwelt in Jerusalem in the college;) and they communed with her.",
+      "highlightedWords": [
+        {
+          "word": "prophetess",
+          "strongNumber": "H5031",
+          "lemma": "neviah",
+          "meaning": "female prophet"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "foundation/possession of peace"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And she said unto them, Thus saith the LORD God of Israel, Tell the man that sent you to me,",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God strives/rules"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Thus saith the LORD, Behold, I will bring evil upon this place, and upon the inhabitants thereof, even all the words of the book which the king of Judah hath read:",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra’",
+          "meaning": "evil, calamity, disaster"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Because they have forsaken me, and have burned incense unto other gods, that they might provoke me to anger with all the works of their hands; therefore my wrath shall be kindled against this place, and shall not be quenched.",
+      "highlightedWords": [
+        {
+          "word": "forsaken",
+          "strongNumber": "H5800",
+          "lemma": "’azab",
+          "meaning": "to forsake, abandon, leave"
+        },
+        {
+          "word": "incense",
+          "strongNumber": "H6999",
+          "lemma": "qatar",
+          "meaning": "to burn incense, make smoke"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "But to the king of Judah which sent you to enquire of the LORD, thus shall ye say to him, Thus saith the LORD God of Israel, As touching the words which thou hast heard;",
+      "highlightedWords": [
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah; praised"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Because thine heart was tender, and thou hast humbled thyself before the LORD, when thou heardest what I spake against this place, and against the inhabitants thereof, that they should become a desolation and a curse, and hast rent thy clothes, and wept before me; I also have heard thee, saith the LORD.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3824",
+          "lemma": "lebab",
+          "meaning": "heart, inner person, mind"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Behold therefore, I will gather thee unto thy fathers, and thou shalt be gathered into thy grave in peace; and thine eyes shall not see all the evil which I will bring upon this place. And they brought the king word again.",
+      "highlightedWords": [
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace, wholeness, well-being"
+        },
+        {
+          "word": "grave",
+          "strongNumber": "H6913",
+          "lemma": "qeber",
+          "meaning": "grave, burial place"
+        }
+      ]
+    }
+  ]
+}

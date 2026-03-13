@@ -1,0 +1,492 @@
+{
+  "book": "2 Samuel",
+  "chapter": 20,
+  "chapterTheme": {
+    "twoWordSummary": "Sheba Rebellion",
+    "themeWords": [
+      {
+        "word": "Sheba",
+        "strongNumber": "H7652",
+        "lemma": "Sheba'",
+        "meaning": "Sheba"
+      },
+      {
+        "word": "Joab",
+        "strongNumber": "H3097",
+        "lemma": "Yo'av",
+        "meaning": "Joab"
+      }
+    ]
+  },
+  "sentenceTheme": "Sheba leads a revolt against David; Joab kills Amasa and besieges Abel until Sheba is executed by the city's people, ending the rebellion, and David's officials are listed.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And there happened to be there a man of Belial, whose name was Sheba, the son of Bichri, a Benjamite: and he blew a trumpet, and said, We have no part in David, neither have we inheritance in the son of Jesse: every man to his tents, O Israel.",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dawid",
+          "meaning": "David; beloved"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "So every man of Israel went up from after David, and followed Sheba the son of Bichri: but the men of Judah clave unto their king, from Jordan even to Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah; praise"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And David came to his house at Jerusalem; and the king took the ten women his concubines, whom he had left to keep the house, and put them in ward, and fed them, but went not in unto them. So they were shut up unto the day of their death, living in widowhood.",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem"
+        },
+        {
+          "word": "concubines",
+          "strongNumber": "H6370",
+          "lemma": "pilegesh",
+          "meaning": "concubine"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Then said the king to Amasa, Assemble me the men of Judah within three days, and be thou here present.",
+      "highlightedWords": [
+        {
+          "word": "Amasa",
+          "strongNumber": "H6021",
+          "lemma": "Amasa",
+          "meaning": "Amasa"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah; praise"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "So Amasa went to assemble the men of Judah: but he tarried longer than the set time which he had appointed him.",
+      "highlightedWords": [
+        {
+          "word": "Amasa",
+          "strongNumber": "H6021",
+          "lemma": "Amasa",
+          "meaning": "Amasa"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah; praise"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And David said to Abishai, Now shall Sheba the son of Bichri do us more harm than did Absalom: take thou thy lord's servants, and pursue after him, lest he get him fenced cities, and escape us.",
+      "highlightedWords": [
+        {
+          "word": "Abishai",
+          "strongNumber": "H52",
+          "lemma": "Avishai",
+          "meaning": "Abishai"
+        },
+        {
+          "word": "Sheba",
+          "strongNumber": "H7652",
+          "lemma": "Sheba'",
+          "meaning": "Sheba"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And there went out after him Joab's men, and the Cherethites, and the Pelethites, and all the mighty men: and they went out of Jerusalem, to pursue after Sheba the son of Bichri.",
+      "highlightedWords": [
+        {
+          "word": "Joab's",
+          "strongNumber": "H3097",
+          "lemma": "Yo'av",
+          "meaning": "Joab"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "When they were at the great stone which is in Gibeon, Amasa went before them. And Joab's garment that he had put on was girded unto him, and upon it a girdle with a sword fastened upon his loins in the sheath thereof; and as he went forth it fell out.",
+      "highlightedWords": [
+        {
+          "word": "Gibeon",
+          "strongNumber": "H1391",
+          "lemma": "Giv'on",
+          "meaning": "Gibeon"
+        },
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And Joab said to Amasa, Art thou in health, my brother? And Joab took Amasa by the beard with the right hand to kiss him.",
+      "highlightedWords": [
+        {
+          "word": "Joab",
+          "strongNumber": "H3097",
+          "lemma": "Yo'av",
+          "meaning": "Joab"
+        },
+        {
+          "word": "Amasa",
+          "strongNumber": "H6021",
+          "lemma": "Amasa",
+          "meaning": "Amasa"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "But Amasa took no heed to the sword that was in Joab's hand: so he smote him therewith in the fifth rib, and shed out his bowels to the ground, and struck him not again; and he died. So Joab and Abishai his brother pursued after Sheba the son of Bichri.",
+      "highlightedWords": [
+        {
+          "word": "fifth",
+          "strongNumber": "H2570",
+          "lemma": "chomesh",
+          "meaning": "fifth; abdomen area"
+        },
+        {
+          "word": "bowels",
+          "strongNumber": "H4578",
+          "lemma": "me'eh",
+          "meaning": "inner parts, bowels"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And one of Joab's men stood by him, and said, He that favoureth Joab, and he that is for David, let him go after Joab.",
+      "highlightedWords": [
+        {
+          "word": "Joab",
+          "strongNumber": "H3097",
+          "lemma": "Yo'av",
+          "meaning": "Joab"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dawid",
+          "meaning": "David; beloved"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And Amasa wallowed in blood in the midst of the highway. And when the man saw that all the people stood still, he removed Amasa out of the highway into the field, and cast a cloth upon him, when he saw that every one that came by him stood still.",
+      "highlightedWords": [
+        {
+          "word": "highway",
+          "strongNumber": "H4546",
+          "lemma": "mesillah",
+          "meaning": "highway"
+        },
+        {
+          "word": "cloth",
+          "strongNumber": "H899",
+          "lemma": "beged",
+          "meaning": "garment, cloth"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "When he was removed out of the highway, all the people went on after Joab, to pursue after Sheba the son of Bichri.",
+      "highlightedWords": [
+        {
+          "word": "Joab",
+          "strongNumber": "H3097",
+          "lemma": "Yo'av",
+          "meaning": "Joab"
+        },
+        {
+          "word": "Sheba",
+          "strongNumber": "H7652",
+          "lemma": "Sheba'",
+          "meaning": "Sheba"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And he went through all the tribes of Israel unto Abel, and to Beth-maachah, and all the Berites: and they were gathered together, and went also after him.",
+      "highlightedWords": [
+        {
+          "word": "tribes",
+          "strongNumber": "H7626",
+          "lemma": "shebet",
+          "meaning": "tribe, clan"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And they came and besieged him in Abel of Beth-maachah, and they cast up a bank against the city, and it stood in the trench: and all the people that were with Joab battered the wall, to throw it down.",
+      "highlightedWords": [
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "ir",
+          "meaning": "city"
+        },
+        {
+          "word": "wall",
+          "strongNumber": "H2346",
+          "lemma": "chomah",
+          "meaning": "wall"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Then cried a wise woman out of the city, Hear, hear; say, I pray you, unto Joab, Come near hither, that I may speak with thee.",
+      "highlightedWords": [
+        {
+          "word": "wise",
+          "strongNumber": "H2450",
+          "lemma": "chakam",
+          "meaning": "wise, skillful"
+        },
+        {
+          "word": "Joab",
+          "strongNumber": "H3097",
+          "lemma": "Yo'av",
+          "meaning": "Joab"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And when he was come near unto her, the woman said, Art thou Joab? And he answered, I am he. Then she said unto him, Hear the words of thine handmaid. And he answered, I do hear.",
+      "highlightedWords": [
+        {
+          "word": "Joab",
+          "strongNumber": "H3097",
+          "lemma": "Yo'av",
+          "meaning": "Joab"
+        },
+        {
+          "word": "handmaid",
+          "strongNumber": "H8198",
+          "lemma": "shiphchah",
+          "meaning": "maidservant"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Then she spake, saying, They were wont to speak in old time, saying, They shall surely ask counsel at Abel: and so they ended the matter.",
+      "highlightedWords": [
+        {
+          "word": "ask",
+          "strongNumber": "H7592",
+          "lemma": "sha'al",
+          "meaning": "to ask, inquire"
+        },
+        {
+          "word": "counsel",
+          "strongNumber": "H6098",
+          "lemma": "etsah",
+          "meaning": "counsel, advice"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "I am one of them that are peaceable and faithful in Israel: thou seekest to destroy a city and a mother in Israel: why wilt thou swallow up the inheritance of the LORD?",
+      "highlightedWords": [
+        {
+          "word": "inheritance",
+          "strongNumber": "H5159",
+          "lemma": "nachalah",
+          "meaning": "inheritance, possession"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the LORD (divine name)"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And Joab answered and said, Far be it, far be it from me, that I should swallow up or destroy.",
+      "highlightedWords": [
+        {
+          "word": "Joab",
+          "strongNumber": "H3097",
+          "lemma": "Yo'av",
+          "meaning": "Joab"
+        },
+        {
+          "word": "destroy",
+          "strongNumber": "H7843",
+          "lemma": "shachath",
+          "meaning": "to ruin, destroy"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "The matter is not so: but a man of mount Ephraim, Sheba the son of Bichri by name, hath lifted up his hand against the king, even against David: deliver him only, and I will depart from the city. And the woman said unto Joab, Behold, his head shall be thrown to thee over the wall.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dawid",
+          "meaning": "David; beloved"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Then the woman went unto all the people in her wisdom. And they cut off the head of Sheba the son of Bichri, and cast it out to Joab. And he blew a trumpet, and they retired from the city, every man to his tent. And Joab returned to Jerusalem unto the king.",
+      "highlightedWords": [
+        {
+          "word": "head",
+          "strongNumber": "H7218",
+          "lemma": "rosh",
+          "meaning": "head, chief"
+        },
+        {
+          "word": "trumpet",
+          "strongNumber": "H7782",
+          "lemma": "shofar",
+          "meaning": "ram's horn, trumpet"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Now Joab was over all the host of Israel: and Benaiah the son of Jehoiada was over the Cherethites and over the Pelethites:",
+      "highlightedWords": [
+        {
+          "word": "Joab",
+          "strongNumber": "H3097",
+          "lemma": "Yo'av",
+          "meaning": "Joab"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And Adoram was over the tribute: and Jehoshaphat the son of Ahilud was recorder:",
+      "highlightedWords": [
+        {
+          "word": "tribute",
+          "strongNumber": "H4522",
+          "lemma": "mas",
+          "meaning": "forced labor, tribute"
+        },
+        {
+          "word": "Jehoshaphat",
+          "strongNumber": "H3092",
+          "lemma": "Yehoshaphat",
+          "meaning": "Jehovah has judged; Jehoshaphat"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And Sheva was scribe: and Zadok and Abiathar were the priests:",
+      "highlightedWords": [
+        {
+          "word": "Zadok",
+          "strongNumber": "H6659",
+          "lemma": "Tsadoq",
+          "meaning": "Zadok"
+        },
+        {
+          "word": "priests",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And Ira also the Jairite was a chief ruler about David.",
+      "highlightedWords": [
+        {
+          "word": "Ira",
+          "strongNumber": "H5896",
+          "lemma": "Ira'",
+          "meaning": "Ira"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dawid",
+          "meaning": "David; beloved"
+        }
+      ]
+    }
+  ]
+}

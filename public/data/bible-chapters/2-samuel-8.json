@@ -1,0 +1,348 @@
+{
+  "book": "2 Samuel",
+  "chapter": 8,
+  "chapterTheme": {
+    "twoWordSummary": "David's Victories",
+    "themeWords": [
+      {
+        "word": "David",
+        "strongNumber": "H1732",
+        "lemma": "Dawid",
+        "meaning": "David; beloved, second king of Israel"
+      },
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH (Yehovah)",
+        "meaning": "The personal name of the God of Israel"
+      }
+    ]
+  },
+  "sentenceTheme": "David subdues surrounding nations, dedicates the spoils to the LORD, establishes garrisons, and administers just rule with appointed officials.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And after this it came to pass that David smote the Philistines, and subdued them: and David took Metheg-ammah out of the hand of the Philistines.",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dawid",
+          "meaning": "David; beloved, second king of Israel"
+        },
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pelishtiy",
+          "meaning": "Philistines; people of Philistia"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And he smote Moab, and measured them with a line, casting them down to the ground; even with two lines measured he to put to death, and with one full line to keep alive. And so the Moabites became David's servants, and brought gifts.",
+      "highlightedWords": [
+        {
+          "word": "Moab",
+          "strongNumber": "H4124",
+          "lemma": "Mo'ab",
+          "meaning": "Moab; nation east of the Dead Sea"
+        },
+        {
+          "word": "servants",
+          "strongNumber": "H5650",
+          "lemma": "eved",
+          "meaning": "servant, slave, subject"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "David smote also Hadadezer, the son of Rehob, king of Zobah, as he went to recover his border at the river Euphrates.",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dawid",
+          "meaning": "David; beloved, second king of Israel"
+        },
+        {
+          "word": "Euphrates",
+          "strongNumber": "H6578",
+          "lemma": "Perath",
+          "meaning": "The Euphrates River"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And David took from him a thousand chariots, and seven hundred horsemen, and twenty thousand footmen: and David houghed all the chariot horses, but reserved of them for an hundred chariots.",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dawid",
+          "meaning": "David; beloved, second king of Israel"
+        },
+        {
+          "word": "chariots",
+          "strongNumber": "H7393",
+          "lemma": "rekeb",
+          "meaning": "chariot(s), war-carts"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And when the Syrians of Damascus came to succour Hadadezer king of Zobah, David slew of the Syrians two and twenty thousand men.",
+      "highlightedWords": [
+        {
+          "word": "Syrians",
+          "strongNumber": "H758",
+          "lemma": "Aram",
+          "meaning": "Aram; the Arameans/Syrians"
+        },
+        {
+          "word": "Damascus",
+          "strongNumber": "H1834",
+          "lemma": "Dammeseq",
+          "meaning": "Damascus, capital of Aram (Syria)"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Then David put garrisons in Syria of Damascus: and the Syrians became servants to David, and brought gifts. And the LORD preserved David whithersoever he went.",
+      "highlightedWords": [
+        {
+          "word": "servants",
+          "strongNumber": "H5650",
+          "lemma": "eved",
+          "meaning": "servant, slave, subject"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "The personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And David took the shields of gold that were on the servants of Hadadezer, and brought them to Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "zahav",
+          "meaning": "gold"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And from Betah, and from Berothai, cities of Hadadezer, king David took exceeding much brass.",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dawid",
+          "meaning": "David; beloved, second king of Israel"
+        },
+        {
+          "word": "brass",
+          "strongNumber": "H5178",
+          "lemma": "nechosheth",
+          "meaning": "bronze, copper (brass)"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "When Toi king of Hamath heard that David had smitten all the host of Hadadezer;",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        },
+        {
+          "word": "host",
+          "strongNumber": "H6635",
+          "lemma": "tsaba",
+          "meaning": "army, host"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Then Toi sent Joram his son unto king David, to salute him, and to bless him, because he had fought against Hadadezer, and smitten him: for Hadadezer had wars with Toi. And Joram brought with him vessels of silver, and vessels of gold, and vessels of brass:",
+      "highlightedWords": [
+        {
+          "word": "silver",
+          "strongNumber": "H3701",
+          "lemma": "kesef",
+          "meaning": "silver, money"
+        },
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "zahav",
+          "meaning": "gold"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Which also king David did dedicate unto the LORD, with the silver and gold that he had dedicated of all nations which he subdued;",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "The personal name of the God of Israel"
+        },
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "zahav",
+          "meaning": "gold"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Of Syria, and of Moab, and of the children of Ammon, and of the Philistines, and of Amalek, and of the spoil of Hadadezer, son of Rehob, king of Zobah.",
+      "highlightedWords": [
+        {
+          "word": "Syria",
+          "strongNumber": "H758",
+          "lemma": "Aram",
+          "meaning": "Aram; Syria"
+        },
+        {
+          "word": "Ammon",
+          "strongNumber": "H5983",
+          "lemma": "Ammon",
+          "meaning": "Ammon; descendants of Lot"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And David gat him a name when he returned from smiting of the Syrians in the valley of salt, being eighteen thousand men.",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dawid",
+          "meaning": "David; beloved, second king of Israel"
+        },
+        {
+          "word": "valley",
+          "strongNumber": "H1516",
+          "lemma": "ge",
+          "meaning": "valley, ravine"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And he put garrisons in Edom; throughout all Edom put he garrisons, and all they of Edom became David's servants. And the LORD preserved David whithersoever he went.",
+      "highlightedWords": [
+        {
+          "word": "Edom",
+          "strongNumber": "H123",
+          "lemma": "Edom",
+          "meaning": "Edom; descendants of Esau"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "The personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And David reigned over all Israel; and David executed judgment and justice unto all his people.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel"
+        },
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "justice, judgment, legal decision"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And Joab the son of Zeruiah was over the host; and Jehoshaphat the son of Ahilud was recorder;",
+      "highlightedWords": [
+        {
+          "word": "Joab",
+          "strongNumber": "H3097",
+          "lemma": "Yo'av",
+          "meaning": "Joab; Yahweh is father"
+        },
+        {
+          "word": "host",
+          "strongNumber": "H6635",
+          "lemma": "tsaba",
+          "meaning": "army, host"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And Zadok the son of Ahitub, and Ahimelech the son of Abiathar, were the priests; and Seraiah was the scribe;",
+      "highlightedWords": [
+        {
+          "word": "Zadok",
+          "strongNumber": "H6659",
+          "lemma": "Tsadoq",
+          "meaning": "Zadok; righteous"
+        },
+        {
+          "word": "priests",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And Benaiah the son of Jehoiada was over both the Cherethites and the Pelethites; and David's sons were chief rulers.",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, descendant"
+        },
+        {
+          "word": "rulers",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "chief, ruler, prince"
+        }
+      ]
+    }
+  ]
+}

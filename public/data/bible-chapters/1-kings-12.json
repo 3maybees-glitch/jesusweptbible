@@ -1,0 +1,618 @@
+{
+  "book": "1 Kings",
+  "chapter": 12,
+  "chapterTheme": {
+    "twoWordSummary": "Kingdom Divided",
+    "themeWords": [
+      {
+        "word": "king",
+        "strongNumber": "H4428",
+        "lemma": "melek",
+        "meaning": "king, ruler"
+      },
+      {
+        "word": "Israel",
+        "strongNumber": "H3478",
+        "lemma": "Yisra'el",
+        "meaning": "Israel; God strives"
+      }
+    ]
+  },
+  "sentenceTheme": "Rehoboam rejects wise counsel, Israel rebels and crowns Jeroboam, and the new king leads the nation into idolatry with golden calves.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And Rehoboam went to Shechem: for all Israel were come to Shechem to make him king.",
+      "highlightedWords": [
+        {
+          "word": "Rehoboam",
+          "strongNumber": "H7346",
+          "lemma": "Rechav'am",
+          "meaning": "enlarger of the people"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God strives"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And it came to pass, when Jeroboam the son of Nebat, who was yet in Egypt, heard of it, (for he was fled from the presence of king Solomon, and Jeroboam dwelt in Egypt;)",
+      "highlightedWords": [
+        {
+          "word": "Jeroboam",
+          "strongNumber": "H3379",
+          "lemma": "Yerov'am",
+          "meaning": "the people contend"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "That they sent and called him. And Jeroboam and all the congregation of Israel came, and spake unto Rehoboam, saying,",
+      "highlightedWords": [
+        {
+          "word": "Jeroboam",
+          "strongNumber": "H3379",
+          "lemma": "Yerov'am",
+          "meaning": "the people contend"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God strives"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Thy father made our yoke grievous: now therefore make thou the grievous service of thy father, and his heavy yoke which he put upon us, lighter, and we will serve thee.",
+      "highlightedWords": [
+        {
+          "word": "yoke",
+          "strongNumber": "H5923",
+          "lemma": "'ol",
+          "meaning": "yoke"
+        },
+        {
+          "word": "father",
+          "strongNumber": "H1",
+          "lemma": "'ab",
+          "meaning": "father"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And he said unto them, Depart yet for three days, then come again to me. And the people departed.",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "'am",
+          "meaning": "people, nation"
+        },
+        {
+          "word": "days",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day, time"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And king Rehoboam consulted with the old men, that stood before Solomon his father while he yet lived, and said, How do ye advise that I may answer this people?",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        },
+        {
+          "word": "Solomon",
+          "strongNumber": "H8010",
+          "lemma": "Shelomoh",
+          "meaning": "Solomon; peaceful"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And they spake unto him, saying, If thou wilt be a servant unto this people this day, and wilt serve them, and answer them, and speak good words to them, then they will be thy servants for ever.",
+      "highlightedWords": [
+        {
+          "word": "servant",
+          "strongNumber": "H5650",
+          "lemma": "'ebed",
+          "meaning": "servant, slave"
+        },
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "'am",
+          "meaning": "people, nation"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "But he forsook the counsel of the old men, which they had given him, and consulted with the young men that were grown up with him, and which stood before him:",
+      "highlightedWords": [
+        {
+          "word": "counsel",
+          "strongNumber": "H6098",
+          "lemma": "etsah",
+          "meaning": "counsel, advice"
+        },
+        {
+          "word": "stood",
+          "strongNumber": "H5975",
+          "lemma": "'amad",
+          "meaning": "to stand"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And he said unto them, What counsel give ye that we may answer this people, who have spoken to me, saying, Make the yoke which thy father did put upon us lighter?",
+      "highlightedWords": [
+        {
+          "word": "counsel",
+          "strongNumber": "H6098",
+          "lemma": "etsah",
+          "meaning": "counsel, advice"
+        },
+        {
+          "word": "yoke",
+          "strongNumber": "H5923",
+          "lemma": "'ol",
+          "meaning": "yoke"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And the young men that were grown up with him spake unto him, saying, Thus shalt thou speak unto this people that spake unto thee, saying, My little finger shall be thicker than my father's loins.",
+      "highlightedWords": [
+        {
+          "word": "spake",
+          "strongNumber": "H1696",
+          "lemma": "dabar",
+          "meaning": "to speak"
+        },
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "'am",
+          "meaning": "people, nation"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And now whereas my father did lade you with a heavy yoke, I will add to your yoke: my father hath chastised you with whips, but I will chastise you with scorpions.",
+      "highlightedWords": [
+        {
+          "word": "yoke",
+          "strongNumber": "H5923",
+          "lemma": "'ol",
+          "meaning": "yoke"
+        },
+        {
+          "word": "father",
+          "strongNumber": "H1",
+          "lemma": "'ab",
+          "meaning": "father"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "So Jeroboam and all the people came to Rehoboam the third day, as the king had appointed, saying, Come to me again the third day.",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "'am",
+          "meaning": "people, nation"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And the king answered the people roughly, and forsook the old men's counsel that they gave him;",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        },
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "'am",
+          "meaning": "people, nation"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And spake to them after the counsel of the young men, saying, My father made your yoke heavy, and I will add to your yoke: my father hath chastised you with whips, but I will chastise you with scorpions.",
+      "highlightedWords": [
+        {
+          "word": "yoke",
+          "strongNumber": "H5923",
+          "lemma": "'ol",
+          "meaning": "yoke"
+        },
+        {
+          "word": "father",
+          "strongNumber": "H1",
+          "lemma": "'ab",
+          "meaning": "father"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Wherefore the king hearkened not unto the people; for the cause was from the LORD, that he might perform his saying, which the LORD spake by Ahijah the Shilonite unto Jeroboam the son of Nebat.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of God"
+        },
+        {
+          "word": "Jeroboam",
+          "strongNumber": "H3379",
+          "lemma": "Yerov'am",
+          "meaning": "the people contend"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "So when all Israel saw that the king hearkened not unto them, the people answered the king, saying, What portion have we in David? neither have we inheritance in the son of Jesse: to your tents, O Israel: now see to thine own house, David. So Israel departed unto their tents.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God strives"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "David",
+          "meaning": "beloved"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "But as for the children of Israel which dwelt in the cities of Judah, Rehoboam reigned over them.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God strives"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah; praise"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Then king Rehoboam sent Adoram, who was over the tribute; and all Israel stoned him with stones, that he died. Therefore king Rehoboam made speed to get him up to his chariot, to flee to Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God strives"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "So Israel rebelled against the house of David unto this day.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God strives"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "David",
+          "meaning": "beloved"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And it came to pass, when all Israel heard that Jeroboam was come again, that they sent and called him unto the congregation, and made him king over all Israel: there was none that followed the house of David, but the tribe of Judah only.",
+      "highlightedWords": [
+        {
+          "word": "Jeroboam",
+          "strongNumber": "H3379",
+          "lemma": "Yerov'am",
+          "meaning": "the people contend"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah; praise"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And when Rehoboam was come to Jerusalem, he assembled all the house of Judah, with the tribe of Benjamin, an hundred and fourscore thousand chosen men, which were warriors, to fight against the house of Israel, to bring the kingdom again to Rehoboam the son of Solomon.",
+      "highlightedWords": [
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah; praise"
+        },
+        {
+          "word": "Benjamin",
+          "strongNumber": "H1144",
+          "lemma": "Binyamin",
+          "meaning": "son of the right hand"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "But the word of God came unto Shemaiah the man of God, saying,",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "davar",
+          "meaning": "word, matter"
+        },
+        {
+          "word": "Shemaiah",
+          "strongNumber": "H8098",
+          "lemma": "Shemayah",
+          "meaning": "Yah has heard"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Speak unto Rehoboam, the son of Solomon, king of Judah, and unto all the house of Judah and Benjamin, and to the remnant of the people, saying,",
+      "highlightedWords": [
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah; praise"
+        },
+        {
+          "word": "Benjamin",
+          "strongNumber": "H1144",
+          "lemma": "Binyamin",
+          "meaning": "son of the right hand"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Thus saith the LORD, Ye shall not go up, nor fight against your brethren the children of Israel: return every man to his house; for this thing is from me. They hearkened therefore to the word of the LORD, and returned to depart, according to the word of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of God"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God strives"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Then Jeroboam built Shechem in mount Ephraim, and dwelt therein; and went out from thence, and built Penuel.",
+      "highlightedWords": [
+        {
+          "word": "built",
+          "strongNumber": "H1129",
+          "lemma": "banah",
+          "meaning": "to build"
+        },
+        {
+          "word": "Ephraim",
+          "strongNumber": "H669",
+          "lemma": "Ephrayim",
+          "meaning": "Ephraim; fruitful"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And Jeroboam said in his heart, Now shall the kingdom return to the house of David:",
+      "highlightedWords": [
+        {
+          "word": "Jeroboam",
+          "strongNumber": "H3379",
+          "lemma": "Yerov'am",
+          "meaning": "the people contend"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3824",
+          "lemma": "levav",
+          "meaning": "heart, mind"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "If this people go up to do sacrifice in the house of the LORD at Jerusalem, then shall the heart of this people turn again unto their lord, even unto Rehoboam king of Judah, and they shall kill me, and go again to Rehoboam king of Judah.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of God"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "Whereupon the king took counsel, and made two calves of gold, and said unto them, It is too much for you to go up to Jerusalem: behold thy gods, O Israel, which brought thee up out of the land of Egypt.",
+      "highlightedWords": [
+        {
+          "word": "calves",
+          "strongNumber": "H5695",
+          "lemma": "'egel",
+          "meaning": "calf"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "And he set the one in Bethel, and the other put he in Dan.",
+      "highlightedWords": [
+        {
+          "word": "Bethel",
+          "strongNumber": "H1008",
+          "lemma": "Bet-El",
+          "meaning": "House of God"
+        },
+        {
+          "word": "Dan",
+          "strongNumber": "H1835",
+          "lemma": "Dan",
+          "meaning": "judge"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "And this thing became a sin: for the people went to worship before the one, even unto Dan.",
+      "highlightedWords": [
+        {
+          "word": "sin",
+          "strongNumber": "H2403",
+          "lemma": "chattath",
+          "meaning": "sin"
+        },
+        {
+          "word": "worship",
+          "strongNumber": "H7812",
+          "lemma": "shachah",
+          "meaning": "to bow down, worship"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "And he made an house of high places, and made priests of the lowest of the people, which were not of the sons of Levi.",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest"
+        },
+        {
+          "word": "Levi",
+          "strongNumber": "H3878",
+          "lemma": "Levi",
+          "meaning": "joined; Levi"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "And Jeroboam ordained a feast in the eighth month, on the fifteenth day of the month, like unto the feast that is in Judah, and he offered upon the altar. So did he in Bethel, sacrificing unto the calves that he had made: and he placed in Bethel the priests of the high places which he had made.",
+      "highlightedWords": [
+        {
+          "word": "feast",
+          "strongNumber": "H2282",
+          "lemma": "chag",
+          "meaning": "festival, feast"
+        },
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "So he offered upon the altar which he had made in Bethel the fifteenth day of the eighth month, even in the month which he had devised of his own heart; and ordained a feast unto the children of Israel: and he offered upon the altar, and burnt incense.",
+      "highlightedWords": [
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God strives"
+        }
+      ]
+    }
+  ]
+}

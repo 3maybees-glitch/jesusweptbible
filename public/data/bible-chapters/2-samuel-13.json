@@ -1,0 +1,726 @@
+{
+  "book": "2 Samuel",
+  "chapter": 13,
+  "chapterTheme": {
+    "twoWordSummary": "Violation Vengeance",
+    "themeWords": [
+      {
+        "word": "Amnon",
+        "strongNumber": "H550",
+        "lemma": "'Amnon",
+        "meaning": "faithful; a son of David"
+      },
+      {
+        "word": "Absalom",
+        "strongNumber": "H53",
+        "lemma": "'Avshalom",
+        "meaning": "father is peace; a son of David"
+      }
+    ]
+  },
+  "sentenceTheme": "Amnon violates Tamar; Absalom plots and kills him at a feast, then flees to Geshur while David longs for his estranged son.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And it came to pass after this, that Absalom the son of David had a fair sister, whose name was Tamar; and Amnon the son of David loved her.",
+      "highlightedWords": [
+        {
+          "word": "Absalom",
+          "strongNumber": "H53",
+          "lemma": "'Avshalom",
+          "meaning": "father is peace; a son of David"
+        },
+        {
+          "word": "loved",
+          "strongNumber": "H157",
+          "lemma": "'ahab",
+          "meaning": "to love"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And Amnon was so vexed, that he fell sick for his sister Tamar; for she was a virgin; and Amnon thought it hard for him to do any thing to her.",
+      "highlightedWords": [
+        {
+          "word": "Amnon",
+          "strongNumber": "H550",
+          "lemma": "'Amnon",
+          "meaning": "faithful; a son of David"
+        },
+        {
+          "word": "virgin",
+          "strongNumber": "H1330",
+          "lemma": "betulah",
+          "meaning": "virgin, maiden"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "But Amnon had a friend, whose name was Jonadab, the son of Shimeah David's brother: and Jonadab was a very subtil man.",
+      "highlightedWords": [
+        {
+          "word": "Jonadab",
+          "strongNumber": "H3122",
+          "lemma": "Yonadab",
+          "meaning": "Yahweh is willing/noble"
+        },
+        {
+          "word": "subtil",
+          "strongNumber": "H6175",
+          "lemma": "'arum",
+          "meaning": "crafty, shrewd"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And he said unto him, Why art thou, being the king's son, lean from day to day? wilt thou not tell me? And Amnon said unto him, I love Tamar, my brother Absalom's sister.",
+      "highlightedWords": [
+        {
+          "word": "king's",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king"
+        },
+        {
+          "word": "love",
+          "strongNumber": "H157",
+          "lemma": "'ahab",
+          "meaning": "to love"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And Jonadab said unto him, Lay thee down on thy bed, and make thyself sick: and when thy father cometh to see thee, say unto him, I pray thee, let my sister Tamar come, and give me meat, and dress the meat in my sight, that I may see it, and eat it at her hand.",
+      "highlightedWords": [
+        {
+          "word": "father",
+          "strongNumber": "H1",
+          "lemma": "'ab",
+          "meaning": "father"
+        },
+        {
+          "word": "meat",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread, food"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "So Amnon lay down, and made himself sick: and when the king was come to see him, Amnon said unto the king, I pray thee, let Tamar my sister come, and make me a couple of cakes in my sight, that I may eat at her hand.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king"
+        },
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Then David sent home to Tamar, saying, Go now to thy brother Amnon's house, and dress him meat.",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dawid",
+          "meaning": "beloved; second king of Israel"
+        },
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayit",
+          "meaning": "house, household"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "So Tamar went to her brother Amnon's house; and he was laid down. And she took flour, and kneaded it, and made cakes in his sight, and did bake the cakes.",
+      "highlightedWords": [
+        {
+          "word": "Tamar",
+          "strongNumber": "H8559",
+          "lemma": "Tamar",
+          "meaning": "palm; a daughter of David"
+        },
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayit",
+          "meaning": "house, household"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And she took a pan, and poured them out before him; but he refused to eat. And Amnon said, Have out all men from me. And they went out every man from him.",
+      "highlightedWords": [
+        {
+          "word": "Amnon",
+          "strongNumber": "H550",
+          "lemma": "'Amnon",
+          "meaning": "faithful; a son of David"
+        },
+        {
+          "word": "eat",
+          "strongNumber": "H398",
+          "lemma": "'akal",
+          "meaning": "to eat, consume"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And Amnon said unto Tamar, Bring the meat into the chamber, that I may eat of thine hand; and Tamar took the cakes which she had made, and brought them into the chamber to Amnon her brother.",
+      "highlightedWords": [
+        {
+          "word": "chamber",
+          "strongNumber": "H2315",
+          "lemma": "cheder",
+          "meaning": "room, inner chamber"
+        },
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And when she had brought them unto him to eat, he took hold of her, and said unto her, Come lie with me, my sister.",
+      "highlightedWords": [
+        {
+          "word": "lie",
+          "strongNumber": "H7901",
+          "lemma": "shakab",
+          "meaning": "to lie down, lie with"
+        },
+        {
+          "word": "sister",
+          "strongNumber": "H269",
+          "lemma": "'achoth",
+          "meaning": "sister"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And she answered him, Nay, my brother, do not force me; for no such thing ought to be done in Israel: do not thou this folly.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel"
+        },
+        {
+          "word": "folly",
+          "strongNumber": "H5039",
+          "lemma": "nebalah",
+          "meaning": "senselessness, disgraceful folly"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And I, whither shall I cause my shame to go? and as for thee, thou shalt be as one of the fools in Israel. Now therefore, I pray thee, speak unto the king; for he will not withhold me from thee.",
+      "highlightedWords": [
+        {
+          "word": "fools",
+          "strongNumber": "H5036",
+          "lemma": "nabal",
+          "meaning": "foolish, vile person"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Howbeit he would not hearken unto her voice: but, being stronger than she, forced her, and lay with her.",
+      "highlightedWords": [
+        {
+          "word": "hearken",
+          "strongNumber": "H8085",
+          "lemma": "shama'",
+          "meaning": "to hear, listen, obey"
+        },
+        {
+          "word": "forced",
+          "strongNumber": "H6031",
+          "lemma": "'anah",
+          "meaning": "to afflict, humble, violate"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Then Amnon hated her exceedingly; so that the hatred wherewith he hated her was greater than the love wherewith he had loved her. And Amnon said unto her, Arise, be gone.",
+      "highlightedWords": [
+        {
+          "word": "hatred",
+          "strongNumber": "H8135",
+          "lemma": "sin'ah",
+          "meaning": "hatred"
+        },
+        {
+          "word": "love",
+          "strongNumber": "H157",
+          "lemma": "'ahab",
+          "meaning": "love"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And she said unto him, There is no cause: this evil in sending me away is greater than the other that thou didst unto me. But he would not hearken unto her.",
+      "highlightedWords": [
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra'",
+          "meaning": "evil, bad, calamity"
+        },
+        {
+          "word": "hearken",
+          "strongNumber": "H8085",
+          "lemma": "shama'",
+          "meaning": "to hear, listen, obey"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Then he called his servant that ministered unto him, and said, Put now this woman out from me, and bolt the door after her.",
+      "highlightedWords": [
+        {
+          "word": "woman",
+          "strongNumber": "H802",
+          "lemma": "'ishshah",
+          "meaning": "woman, wife"
+        },
+        {
+          "word": "door",
+          "strongNumber": "H1817",
+          "lemma": "delet",
+          "meaning": "door, gate"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And she had a garment of divers colours upon her: for with such robes were the king's daughters that were virgins apparelled. Then his servant brought her out, and bolted the door after her.",
+      "highlightedWords": [
+        {
+          "word": "daughters",
+          "strongNumber": "H1323",
+          "lemma": "bath",
+          "meaning": "daughter"
+        },
+        {
+          "word": "virgins",
+          "strongNumber": "H1330",
+          "lemma": "betulah",
+          "meaning": "virgins, maidens"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And Tamar put ashes on her head, and rent her garment of divers colours that was on her, and laid her hand on her head, and went on crying.",
+      "highlightedWords": [
+        {
+          "word": "ashes",
+          "strongNumber": "H665",
+          "lemma": "'epher",
+          "meaning": "ashes, dust"
+        },
+        {
+          "word": "rent",
+          "strongNumber": "H7167",
+          "lemma": "qara'",
+          "meaning": "to tear, rend"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And Absalom her brother said unto her, Hath Amnon thy brother been with thee? but hold now thy peace, my sister: he is thy brother; regard not this thing. So Tamar remained desolate in her brother Absalom's house.",
+      "highlightedWords": [
+        {
+          "word": "brother",
+          "strongNumber": "H251",
+          "lemma": "'ach",
+          "meaning": "brother, kinsman"
+        },
+        {
+          "word": "desolate",
+          "strongNumber": "H8074",
+          "lemma": "shamem",
+          "meaning": "to be desolate, devastated"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "But when king David heard of all these things, he was very wroth.",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dawid",
+          "meaning": "beloved; second king of Israel"
+        },
+        {
+          "word": "wroth",
+          "strongNumber": "H2734",
+          "lemma": "charah",
+          "meaning": "to be angry, kindled"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And Absalom spake unto his brother Amnon neither good nor bad: for Absalom hated Amnon, because he had forced his sister Tamar.",
+      "highlightedWords": [
+        {
+          "word": "spake",
+          "strongNumber": "H1696",
+          "lemma": "dabar",
+          "meaning": "to speak"
+        },
+        {
+          "word": "hated",
+          "strongNumber": "H8130",
+          "lemma": "sane'",
+          "meaning": "to hate"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And it came to pass after two full years, that Absalom had sheepshearers in Baalhazor, which is beside Ephraim: and Absalom invited all the king's sons.",
+      "highlightedWords": [
+        {
+          "word": "years",
+          "strongNumber": "H8141",
+          "lemma": "shanah",
+          "meaning": "year"
+        },
+        {
+          "word": "Ephraim",
+          "strongNumber": "H669",
+          "lemma": "'Ephrayim",
+          "meaning": "Ephraim, a region/tribe of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And Absalom came to the king, and said, Behold now, thy servant hath sheepshearers; let the king, I beseech thee, and his servants go with thy servant.",
+      "highlightedWords": [
+        {
+          "word": "servant",
+          "strongNumber": "H5650",
+          "lemma": "'ebed",
+          "meaning": "servant, slave"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And the king said to Absalom, Nay, my son, let us not all now go, lest we be chargeable unto thee. And he pressed him: howbeit he would not go, but blessed him.",
+      "highlightedWords": [
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son"
+        },
+        {
+          "word": "blessed",
+          "strongNumber": "H1288",
+          "lemma": "barak",
+          "meaning": "to bless"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "Then said Absalom, If not, I pray thee, let my brother Amnon go with us. And the king said unto him, Why should he go with thee?",
+      "highlightedWords": [
+        {
+          "word": "Amnon",
+          "strongNumber": "H550",
+          "lemma": "'Amnon",
+          "meaning": "faithful; a son of David"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "But Absalom pressed him, that he let Amnon and all the king's sons go with him.",
+      "highlightedWords": [
+        {
+          "word": "Amnon",
+          "strongNumber": "H550",
+          "lemma": "'Amnon",
+          "meaning": "faithful; a son of David"
+        },
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "sons, children"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "Now Absalom had commanded his servants, saying, Mark ye now when Amnon's heart is merry with wine, and when I say unto you, Smite Amnon; then kill him, fear not: have not I commanded you? be courageous, and be valiant.",
+      "highlightedWords": [
+        {
+          "word": "wine",
+          "strongNumber": "H3196",
+          "lemma": "yayin",
+          "meaning": "wine"
+        },
+        {
+          "word": "kill",
+          "strongNumber": "H4191",
+          "lemma": "muwth",
+          "meaning": "to die, kill, put to death"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "And the servants of Absalom did unto Amnon as Absalom had commanded. Then all the king's sons arose, and every man gat him up upon his mule, and fled.",
+      "highlightedWords": [
+        {
+          "word": "mule",
+          "strongNumber": "H6505",
+          "lemma": "pered",
+          "meaning": "mule"
+        },
+        {
+          "word": "fled",
+          "strongNumber": "H1272",
+          "lemma": "barach",
+          "meaning": "to flee"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "And it came to pass, while they were in the way, that tidings came to David, saying, Absalom hath slain all the king's sons, and there is not one of them left.",
+      "highlightedWords": [
+        {
+          "word": "slain",
+          "strongNumber": "H5221",
+          "lemma": "nakah",
+          "meaning": "to strike, smite, slay"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dawid",
+          "meaning": "beloved; second king of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "Then the king arose, and tare his garments, and lay on the earth; and all his servants stood by with their clothes rent.",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "'erets",
+          "meaning": "earth, land"
+        },
+        {
+          "word": "garments",
+          "strongNumber": "H899",
+          "lemma": "beged",
+          "meaning": "garment, clothing"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "And Jonadab, the son of Shimeah David's brother, answered and said, Let not my lord suppose that they have slain all the young men the king's sons; for Amnon only is dead: for by the appointment of Absalom this hath been determined from the day that he forced his sister Tamar.",
+      "highlightedWords": [
+        {
+          "word": "Jonadab",
+          "strongNumber": "H3122",
+          "lemma": "Yonadab",
+          "meaning": "Yahweh is willing/noble"
+        },
+        {
+          "word": "Tamar",
+          "strongNumber": "H8559",
+          "lemma": "Tamar",
+          "meaning": "palm; a daughter of David"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "Now therefore let not my lord the king take the thing to his heart, to think that all the king's sons are dead: for Amnon only is dead.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner person"
+        },
+        {
+          "word": "dead",
+          "strongNumber": "H4191",
+          "lemma": "muwth",
+          "meaning": "to die, dead"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "But Absalom fled. And the young man that kept the watch lifted up his eyes, and looked, and, behold, there came much people by the way of the hill side behind him.",
+      "highlightedWords": [
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "'ayin",
+          "meaning": "eye"
+        },
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "'am",
+          "meaning": "people, nation"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "And Jonadab said unto the king, Behold, the king's sons come: as thy servant said, so it is.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king"
+        },
+        {
+          "word": "servant",
+          "strongNumber": "H5650",
+          "lemma": "'ebed",
+          "meaning": "servant, slave"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "And it came to pass, as soon as he had made an end of speaking, that, behold, the king's sons came, and lifted up their voice and wept: and the king also and all his servants wept very sore.",
+      "highlightedWords": [
+        {
+          "word": "voice",
+          "strongNumber": "H6963",
+          "lemma": "qol",
+          "meaning": "voice, sound"
+        },
+        {
+          "word": "wept",
+          "strongNumber": "H1058",
+          "lemma": "bakah",
+          "meaning": "to weep, lament"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "But Absalom fled, and went to Talmai, the son of Ammihud, king of Geshur. And David mourned for his son every day.",
+      "highlightedWords": [
+        {
+          "word": "Geshur",
+          "strongNumber": "H1650",
+          "lemma": "Geshur",
+          "meaning": "a region northeast of Israel"
+        },
+        {
+          "word": "mourned",
+          "strongNumber": "H56",
+          "lemma": "'abal",
+          "meaning": "to mourn"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "So Absalom fled, and went to Geshur, and was there three years.",
+      "highlightedWords": [
+        {
+          "word": "three",
+          "strongNumber": "H7969",
+          "lemma": "shalosh",
+          "meaning": "three"
+        },
+        {
+          "word": "years",
+          "strongNumber": "H8141",
+          "lemma": "shanah",
+          "meaning": "years"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "text": "And the soul of king David longed to go forth unto Absalom: for he was comforted concerning Amnon, seeing he was dead.",
+      "highlightedWords": [
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, person"
+        },
+        {
+          "word": "comforted",
+          "strongNumber": "H5162",
+          "lemma": "nacham",
+          "meaning": "to be comforted, relent"
+        }
+      ]
+    }
+  ]
+}

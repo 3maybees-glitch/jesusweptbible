@@ -1,0 +1,582 @@
+{
+  "book": "1 Kings",
+  "chapter": 14,
+  "chapterTheme": {
+    "twoWordSummary": "Prophetic Judgment",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH",
+        "meaning": "the personal name of Israel's God"
+      },
+      {
+        "word": "Israel",
+        "strongNumber": "H3478",
+        "lemma": "Yisra'el",
+        "meaning": "God strives; the nation of Israel"
+      }
+    ]
+  },
+  "sentenceTheme": "Ahijah pronounces the LORD’s judgment on Jeroboam’s house and Israel, and Shishak plunders Jerusalem during Rehoboam’s reign.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "At that time Abijah the son of Jeroboam fell sick.",
+      "highlightedWords": [
+        {
+          "word": "Abijah",
+          "strongNumber": "H29",
+          "lemma": "Abiyyah",
+          "meaning": "Yah is my father"
+        },
+        {
+          "word": "Jeroboam",
+          "strongNumber": "H3379",
+          "lemma": "Yarov'am",
+          "meaning": "the people increase"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And Jeroboam said to his wife, Arise, I pray thee, and disguise thyself, that thou be not known to be the wife of Jeroboam; and get thee to Shiloh: behold, there is Ahijah the prophet, which told me that I should be king over this people.",
+      "highlightedWords": [
+        {
+          "word": "Jeroboam",
+          "strongNumber": "H3379",
+          "lemma": "Yarov'am",
+          "meaning": "the people increase"
+        },
+        {
+          "word": "Shiloh",
+          "strongNumber": "H7887",
+          "lemma": "Shiloh",
+          "meaning": "place of rest"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And take with thee ten loaves, and cracknels, and a cruse of honey, and go to him: he shall tell thee what shall become of the child.",
+      "highlightedWords": [
+        {
+          "word": "honey",
+          "strongNumber": "H1706",
+          "lemma": "debash",
+          "meaning": "honey"
+        },
+        {
+          "word": "child",
+          "strongNumber": "H3206",
+          "lemma": "yeled",
+          "meaning": "child, boy"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And Jeroboam's wife did so, and arose, and went to Shiloh, and came to the house of Ahijah. But Ahijah could not see; for his eyes were set by reason of his age.",
+      "highlightedWords": [
+        {
+          "word": "Shiloh",
+          "strongNumber": "H7887",
+          "lemma": "Shiloh",
+          "meaning": "place of rest"
+        },
+        {
+          "word": "Ahijah",
+          "strongNumber": "H281",
+          "lemma": "Achiyah",
+          "meaning": "my brother is Yah"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And the LORD said unto Ahijah, Behold, the wife of Jeroboam cometh to ask a thing of thee for her son; for he is sick: thus and thus shalt thou say unto her: for it shall be, when she cometh in, that she shall feign herself to be another woman.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        },
+        {
+          "word": "Jeroboam",
+          "strongNumber": "H3379",
+          "lemma": "Yarov'am",
+          "meaning": "the people increase"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And it was so, when Ahijah heard the sound of her feet, as she came in at the door, that he said, Come in, thou wife of Jeroboam; why feignest thou thyself to be another? for I am sent to thee with heavy tidings.",
+      "highlightedWords": [
+        {
+          "word": "Jeroboam",
+          "strongNumber": "H3379",
+          "lemma": "Yarov'am",
+          "meaning": "the people increase"
+        },
+        {
+          "word": "tidings",
+          "strongNumber": "H8052",
+          "lemma": "shemu'ah",
+          "meaning": "report, news"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Go, tell Jeroboam, Thus saith the LORD God of Israel, Forasmuch as I exalted thee from among the people, and made thee prince over my people Israel,",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "God strives; the nation of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And rent the kingdom away from the house of David, and gave it thee: and yet thou hast not been as my servant David, who kept my commandments, and who followed me with all his heart, to do that only which was right in mine eyes;",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "David",
+          "meaning": "beloved"
+        },
+        {
+          "word": "commandments",
+          "strongNumber": "H4687",
+          "lemma": "mitsvah",
+          "meaning": "commandment"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "But hast done evil above all that were before thee: for thou hast gone and made thee other gods, and molten images, to provoke me to anger, and hast cast me behind thy back:",
+      "highlightedWords": [
+        {
+          "word": "gods",
+          "strongNumber": "H430",
+          "lemma": "elohim",
+          "meaning": "gods; God"
+        },
+        {
+          "word": "images",
+          "strongNumber": "H4541",
+          "lemma": "massekah",
+          "meaning": "molten image; cast metal idol"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Therefore, behold, I will bring evil upon the house of Jeroboam, and will cut off from Jeroboam him that pisseth against the wall, and him that is shut up and left in Israel, and will take away the remnant of the house of Jeroboam, as a man taketh away dung, till it be all gone.",
+      "highlightedWords": [
+        {
+          "word": "Jeroboam",
+          "strongNumber": "H3379",
+          "lemma": "Yarov'am",
+          "meaning": "the people increase"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "God strives; the nation of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Him that dieth of Jeroboam in the city shall the dogs eat; and him that dieth in the field shall the fowls of the air eat: for the LORD hath spoken it.",
+      "highlightedWords": [
+        {
+          "word": "dogs",
+          "strongNumber": "H3611",
+          "lemma": "keleb",
+          "meaning": "dog"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Arise thou therefore, get thee to thine own house: and when thy feet enter into the city, the child shall die.",
+      "highlightedWords": [
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "'ir",
+          "meaning": "city, town"
+        },
+        {
+          "word": "child",
+          "strongNumber": "H3206",
+          "lemma": "yeled",
+          "meaning": "child, boy"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And all Israel shall mourn for him, and bury him: for he only of Jeroboam shall come to the grave, because in him there is found some good thing toward the LORD God of Israel in the house of Jeroboam.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "God strives; the nation of Israel"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Moreover the LORD shall raise him up a king over Israel, who shall cut off the house of Jeroboam that day: but what? even now.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "God strives; the nation of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "For the LORD shall smite Israel, as a reed is shaken in the water, and he shall root up Israel out of this good land, which he gave to their fathers, and shall scatter them beyond the river, because they have made their groves, provoking the LORD to anger.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "God strives; the nation of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And he shall give Israel up because of the sins of Jeroboam, who did sin, and who made Israel to sin.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "God strives; the nation of Israel"
+        },
+        {
+          "word": "Jeroboam",
+          "strongNumber": "H3379",
+          "lemma": "Yarov'am",
+          "meaning": "the people increase"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And Jeroboam's wife arose, and departed, and came to Tirzah: and when she came to the threshold of the door, the child died;",
+      "highlightedWords": [
+        {
+          "word": "Tirzah",
+          "strongNumber": "H8656",
+          "lemma": "Tirtsah",
+          "meaning": "pleasantness"
+        },
+        {
+          "word": "child",
+          "strongNumber": "H3206",
+          "lemma": "yeled",
+          "meaning": "child, boy"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And they buried him; and all Israel mourned for him, according to the word of the LORD, which he spake by the hand of his servant Ahijah.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "God strives; the nation of Israel"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And the rest of the acts of Jeroboam, how he warred, and how he reigned, behold, they are written in the book of the chronicles of the kings of Israel.",
+      "highlightedWords": [
+        {
+          "word": "Jeroboam",
+          "strongNumber": "H3379",
+          "lemma": "Yarov'am",
+          "meaning": "the people increase"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "God strives; the nation of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And the days which Jeroboam reigned were two and twenty years: and he slept with his fathers, and Nadab his son reigned in his stead.",
+      "highlightedWords": [
+        {
+          "word": "Jeroboam",
+          "strongNumber": "H3379",
+          "lemma": "Yarov'am",
+          "meaning": "the people increase"
+        },
+        {
+          "word": "Nadab",
+          "strongNumber": "H5070",
+          "lemma": "Nadab",
+          "meaning": "generous, noble"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And Rehoboam the son of Solomon reigned in Judah. Rehoboam was forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which the LORD did choose out of all the tribes of Israel, to put his name there. And his mother's name was Naamah an Ammonitess.",
+      "highlightedWords": [
+        {
+          "word": "Rehoboam",
+          "strongNumber": "H7346",
+          "lemma": "Rechav'am",
+          "meaning": "the people is enlarged"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "foundation of peace"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And Judah did evil in the sight of the LORD, and they provoked him to jealousy with their sins which they had committed, above all that their fathers had done.",
+      "highlightedWords": [
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "praised"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "For they also built them high places, and images, and groves, on every high hill, and under every green tree.",
+      "highlightedWords": [
+        {
+          "word": "high places",
+          "strongNumber": "H1116",
+          "lemma": "bamah",
+          "meaning": "high place (elevated worship site)"
+        },
+        {
+          "word": "groves",
+          "strongNumber": "H842",
+          "lemma": "asherah",
+          "meaning": "Asherah pole or sacred tree"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And there were also sodomites in the land: and they did according to all the abominations of the nations which the LORD cast out before the children of Israel.",
+      "highlightedWords": [
+        {
+          "word": "sodomites",
+          "strongNumber": "H6945",
+          "lemma": "qadesh",
+          "meaning": "male cult prostitute"
+        },
+        {
+          "word": "abominations",
+          "strongNumber": "H8441",
+          "lemma": "to'evah",
+          "meaning": "abomination, detestable thing"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:",
+      "highlightedWords": [
+        {
+          "word": "Shishak",
+          "strongNumber": "H7895",
+          "lemma": "Shishaq",
+          "meaning": "an Egyptian king"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And he took away the treasures of the house of the LORD, and the treasures of the king's house; he even took away all: and he took away all the shields of gold which Solomon had made.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        },
+        {
+          "word": "Solomon",
+          "strongNumber": "H8010",
+          "lemma": "Shelomoh",
+          "meaning": "peaceful"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And king Rehoboam made in their stead brasen shields, and committed them unto the hands of the chief of the guard, which kept the door of the king's house.",
+      "highlightedWords": [
+        {
+          "word": "Rehoboam",
+          "strongNumber": "H7346",
+          "lemma": "Rechav'am",
+          "meaning": "the people is enlarged"
+        },
+        {
+          "word": "brasen",
+          "strongNumber": "H5178",
+          "lemma": "nechosheth",
+          "meaning": "bronze, copper"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And it was so, when the king went into the house of the LORD, that the guard bare them, and brought them back into the guard chamber.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "Now the rest of the acts of Rehoboam, and all that he did, are they not written in the book of the chronicles of the kings of Judah?",
+      "highlightedWords": [
+        {
+          "word": "Rehoboam",
+          "strongNumber": "H7346",
+          "lemma": "Rechav'am",
+          "meaning": "the people is enlarged"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "praised"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "And there was war between Rehoboam and Jeroboam all their days.",
+      "highlightedWords": [
+        {
+          "word": "Rehoboam",
+          "strongNumber": "H7346",
+          "lemma": "Rechav'am",
+          "meaning": "the people is enlarged"
+        },
+        {
+          "word": "Jeroboam",
+          "strongNumber": "H3379",
+          "lemma": "Yarov'am",
+          "meaning": "the people increase"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "And Rehoboam slept with his fathers, and was buried with his fathers in the city of David. And his mother's name was Naamah an Ammonitess. And Abijam his son reigned in his stead.",
+      "highlightedWords": [
+        {
+          "word": "Rehoboam",
+          "strongNumber": "H7346",
+          "lemma": "Rechav'am",
+          "meaning": "the people is enlarged"
+        },
+        {
+          "word": "Abijam",
+          "strongNumber": "H38",
+          "lemma": "Abiyam",
+          "meaning": "my father is Yam (sea)"
+        }
+      ]
+    }
+  ]
+}
