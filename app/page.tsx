@@ -28,7 +28,7 @@ export default function BibleApp() {
     const loadChapters = async () => {
       const chapters = await fetchAllChapters()
       setAvailableChapters(chapters)
-      console.log("[v0] Available chapters:", chapters)
+      console.log("[v0] Available chapters loaded:", chapters.length, "chapters", chapters)
     }
     loadChapters()
   }, [])
@@ -42,10 +42,11 @@ export default function BibleApp() {
 
     const loadChapter = async () => {
       setIsLoadingChapter(true)
+      console.log("[v0] Fetching chapter:", currentBook, currentChapter)
       const data = await fetchChapter(currentBook, currentChapter)
+      console.log("[v0] Chapter data received:", data)
       setChapterData(data)
       setIsLoadingChapter(false)
-      console.log("[v0] Loaded chapter:", currentBook, currentChapter, data)
     }
 
     loadChapter()

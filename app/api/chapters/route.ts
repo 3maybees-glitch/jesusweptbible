@@ -42,12 +42,15 @@ export async function GET(request: Request) {
     // If specific chapter requested, return that one
     if (chapterName) {
       const filePath = join(dataDir, `${chapterName}.json`)
+      console.log("[v0] API: Looking for chapter at:", filePath)
       
       try {
         const fileContent = await readFile(filePath, 'utf-8')
         const chapter = JSON.parse(fileContent)
+        console.log("[v0] API: Found and loaded chapter:", chapterName, { verses: chapter.verses?.length })
         return NextResponse.json(chapter)
-      } catch {
+      } catch (error) {
+        console.log("[v0] API: Chapter not found:", chapterName, "Error:", error)
         return NextResponse.json(null, { status: 404 })
       }
     }
@@ -59,8 +62,10 @@ export async function GET(request: Request) {
         .filter(file => file.endsWith('.json'))
         .map(file => file.replace('.json', ''))
 
+      console.log("[v0] API: Found available chapters:", chapters)
       return NextResponse.json({ chapters, count: chapters.length, dataDir })
     } catch {
+      console.log("[v0] API: Directory not found or error reading:", dataDir)
       return NextResponse.json({ chapters: [], count: 0, dataDir, message: 'Directory not found yet' })
     }
   } catch (error) {
