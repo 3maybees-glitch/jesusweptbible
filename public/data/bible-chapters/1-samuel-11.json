@@ -1,0 +1,294 @@
+{
+  "book": "1 Samuel",
+  "chapter": 11,
+  "chapterTheme": {
+    "twoWordSummary": "Saul Delivers",
+    "themeWords": [
+      {
+        "word": "salvation",
+        "strongNumber": "H3444",
+        "lemma": "yeshu'ah",
+        "meaning": "salvation, deliverance, victory"
+      },
+      {
+        "word": "kingdom",
+        "strongNumber": "H4467",
+        "lemma": "malkuth",
+        "meaning": "kingdom, dominion, royal rule"
+      }
+    ]
+  },
+  "sentenceTheme": "Saul rallies Israel to rescue Jabesh-gilead from Nahash and is confirmed as king at Gilgal.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Then Nahash the Ammonite came up, and encamped against Jabesh-gilead: and all the men of Jabesh said unto Nahash, Make a covenant with us, and we will serve thee.",
+      "highlightedWords": [
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "a binding agreement, treaty, or alliance"
+        },
+        {
+          "word": "serve",
+          "strongNumber": "H5647",
+          "lemma": "'abad",
+          "meaning": "to work for, serve, be subject to"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And Nahash the Ammonite answered them, On this condition will I make a covenant with you, that I may thrust out all your right eyes, and lay it for a reproach upon all Israel.",
+      "highlightedWords": [
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "'ayin",
+          "meaning": "eye; by extension, sight or appearance"
+        },
+        {
+          "word": "reproach",
+          "strongNumber": "H2781",
+          "lemma": "cherpah",
+          "meaning": "disgrace, shame, taunt"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And the elders of Jabesh said unto him, Give us seven days' respite, that we may send messengers unto all the coasts of Israel: and then, if there be no man to save us, we will come out to thee.",
+      "highlightedWords": [
+        {
+          "word": "messengers",
+          "strongNumber": "H4397",
+          "lemma": "mal’ak",
+          "meaning": "messenger, envoy; also used of an angel"
+        },
+        {
+          "word": "save",
+          "strongNumber": "H3467",
+          "lemma": "yasha'",
+          "meaning": "to save, deliver, give victory"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Then came the messengers to Gibeah of Saul, and told the tidings in the ears of the people: and all the people lifted up their voices, and wept.",
+      "highlightedWords": [
+        {
+          "word": "voices",
+          "strongNumber": "H6963",
+          "lemma": "qol",
+          "meaning": "voice, sound, cry"
+        },
+        {
+          "word": "wept",
+          "strongNumber": "H1058",
+          "lemma": "bakah",
+          "meaning": "to weep, lament, bewail"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And, behold, Saul came after the herd out of the field; and Saul said, What aileth the people that they weep? And they told him the tidings of the men of Jabesh.",
+      "highlightedWords": [
+        {
+          "word": "field",
+          "strongNumber": "H7704",
+          "lemma": "sadeh",
+          "meaning": "field, open country, cultivated land"
+        },
+        {
+          "word": "weep",
+          "strongNumber": "H1058",
+          "lemma": "bakah",
+          "meaning": "to weep, lament, bewail"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And the Spirit of God came upon Saul when he heard those tidings, and his anger was kindled greatly.",
+      "highlightedWords": [
+        {
+          "word": "Spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "breath, wind, spirit"
+        },
+        {
+          "word": "anger",
+          "strongNumber": "H639",
+          "lemma": "'aph",
+          "meaning": "nostril; figuratively, anger or wrath"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And he took a yoke of oxen, and hewed them in pieces, and sent them throughout all the coasts of Israel by the hands of messengers, saying, Whosoever cometh not forth after Saul and after Samuel, so shall it be done unto his oxen. And the fear of the LORD fell on the people, and they came out with one consent.",
+      "highlightedWords": [
+        {
+          "word": "fear",
+          "strongNumber": "H3374",
+          "lemma": "yir'ah",
+          "meaning": "fear, reverence, awe"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And when he numbered them in Bezek, the children of Israel were three hundred thousand, and the men of Judah thirty thousand.",
+      "highlightedWords": [
+        {
+          "word": "numbered",
+          "strongNumber": "H6485",
+          "lemma": "paqad",
+          "meaning": "to attend to, muster, number, appoint"
+        },
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; children; descendants"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And they said unto the messengers that came, Thus shall ye say unto the men of Jabesh-gilead, To morrow, by that time the sun be hot, ye shall have help. And the messengers came and shewed it to the men of Jabesh; and they were glad.",
+      "highlightedWords": [
+        {
+          "word": "messengers",
+          "strongNumber": "H4397",
+          "lemma": "mal’ak",
+          "meaning": "messenger, envoy; also used of an angel"
+        },
+        {
+          "word": "sun",
+          "strongNumber": "H8121",
+          "lemma": "shemesh",
+          "meaning": "the sun, sunlight"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Therefore the men of Jabesh said, To morrow we will come out unto you, and ye shall do with us all that seemeth good unto you.",
+      "highlightedWords": [
+        {
+          "word": "To morrow",
+          "strongNumber": "H4279",
+          "lemma": "machar",
+          "meaning": "tomorrow, the next day, in the future"
+        },
+        {
+          "word": "good",
+          "strongNumber": "H2896",
+          "lemma": "tov",
+          "meaning": "good, pleasant, fitting"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And it was so on the morrow, that Saul put the people in three companies; and they came into the midst of the host in the morning watch, and slew the Ammonites until the heat of the day: and it came to pass, that they which remained were scattered, so that two of them were not left together.",
+      "highlightedWords": [
+        {
+          "word": "slew",
+          "strongNumber": "H5221",
+          "lemma": "nakah",
+          "meaning": "to strike, smite, kill"
+        },
+        {
+          "word": "scattered",
+          "strongNumber": "H6327",
+          "lemma": "puts",
+          "meaning": "to be scattered, dispersed"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And the people said unto Samuel, Who is he that said, Shall Saul reign over us? bring the men, that we may put them to death.",
+      "highlightedWords": [
+        {
+          "word": "reign",
+          "strongNumber": "H4427",
+          "lemma": "malak",
+          "meaning": "to reign, be king, rule"
+        },
+        {
+          "word": "death",
+          "strongNumber": "H4194",
+          "lemma": "maveth",
+          "meaning": "death"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And Saul said, There shall not a man be put to death this day: for to day the LORD hath wrought salvation in Israel.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of the God of Israel"
+        },
+        {
+          "word": "salvation",
+          "strongNumber": "H3444",
+          "lemma": "yeshu'ah",
+          "meaning": "salvation, deliverance, victory"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Then said Samuel to the people, Come, and let us go to Gilgal, and renew the kingdom there.",
+      "highlightedWords": [
+        {
+          "word": "renew",
+          "strongNumber": "H2318",
+          "lemma": "chadash",
+          "meaning": "to renew, repair, make new"
+        },
+        {
+          "word": "kingdom",
+          "strongNumber": "H4467",
+          "lemma": "malkuth",
+          "meaning": "kingdom, dominion, royal rule"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And all the people went to Gilgal; and there they made Saul king before the LORD in Gilgal; and there they sacrificed sacrifices of peace offerings before the LORD; and there Saul and all the men of Israel rejoiced greatly.",
+      "highlightedWords": [
+        {
+          "word": "peace offerings",
+          "strongNumber": "H8002",
+          "lemma": "shelamim",
+          "meaning": "peace offerings, fellowship offerings"
+        },
+        {
+          "word": "rejoiced",
+          "strongNumber": "H8055",
+          "lemma": "samach",
+          "meaning": "to rejoice, be glad"
+        }
+      ]
+    }
+  ]
+}

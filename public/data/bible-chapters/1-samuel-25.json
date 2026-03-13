@@ -1,0 +1,816 @@
+{
+  "book": "1 Samuel",
+  "chapter": 25,
+  "chapterTheme": {
+    "twoWordSummary": "Abigail Intercedes",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH",
+        "meaning": "The divine name, the God of Israel"
+      },
+      {
+        "word": "David",
+        "strongNumber": "H1732",
+        "lemma": "David",
+        "meaning": "Beloved; the second king of Israel"
+      }
+    ]
+  },
+  "sentenceTheme": "After Samuel’s death, David averts bloodshed when Abigail wisely intercedes for her foolish husband Nabal, and the LORD judges Nabal while showing favor to David.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And Samuel died; and all the Israelites were gathered together, and lamented him, and buried him in his house at Ramah. And David arose, and went down to the wilderness of Paran.",
+      "highlightedWords": [
+        {
+          "word": "Samuel",
+          "strongNumber": "H8050",
+          "lemma": "Shemu'el",
+          "meaning": "Samuel; name of God/asked of God"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "David",
+          "meaning": "Beloved; the second king of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And there was a man in Maon, whose possessions were in Carmel; and the man was very great, and he had three thousand sheep, and a thousand goats: and he was shearing his sheep in Carmel.",
+      "highlightedWords": [
+        {
+          "word": "man",
+          "strongNumber": "H376",
+          "lemma": "ish",
+          "meaning": "Man, individual, husband"
+        },
+        {
+          "word": "sheep",
+          "strongNumber": "H6629",
+          "lemma": "tson",
+          "meaning": "Small livestock, sheep and goats"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Now the name of the man was Nabal; and the name of his wife Abigail: and she was a woman of good understanding, and of a beautiful countenance: but the man was churlish and evil in his doings; and he was of the house of Caleb.",
+      "highlightedWords": [
+        {
+          "word": "Nabal",
+          "strongNumber": "H5037",
+          "lemma": "Nabal",
+          "meaning": "Fool; a man of Maon/Carmel"
+        },
+        {
+          "word": "Caleb",
+          "strongNumber": "H3612",
+          "lemma": "Kalev",
+          "meaning": "Caleb; dog; a clan/tribal name in Judah"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And David heard in the wilderness that Nabal did shear his sheep.",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "David",
+          "meaning": "Beloved; the second king of Israel"
+        },
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbar",
+          "meaning": "Wilderness, desert"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And David sent out ten young men, and David said unto the young men, Get you up to Carmel, and go to Nabal, and greet him in my name:",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "David",
+          "meaning": "Beloved; the second king of Israel"
+        },
+        {
+          "word": "young men",
+          "strongNumber": "H5288",
+          "lemma": "na'ar",
+          "meaning": "Lad, youth, servant"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And thus shall ye say to him that liveth in prosperity, Peace be both to thee, and peace be to thine house, and peace be unto all that thou hast.",
+      "highlightedWords": [
+        {
+          "word": "Peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "Peace, welfare, completeness"
+        },
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayit",
+          "meaning": "House, household"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And now I have heard that thou hast shearers: now thy shepherds which were with us, we hurt them not, neither was there ought missing unto them, all the while they were in Carmel.",
+      "highlightedWords": [
+        {
+          "word": "shepherds",
+          "strongNumber": "H7462",
+          "lemma": "ra'ah",
+          "meaning": "To pasture, shepherd; by extension, shepherds"
+        },
+        {
+          "word": "Carmel",
+          "strongNumber": "H3760",
+          "lemma": "Karmel",
+          "meaning": "Carmel; garden-land; a hill or town in Judah"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Ask thy young men, and they will shew thee. Wherefore let the young men find favour in thine eyes: for we come in a good day: give, I pray thee, whatsoever cometh to thine hand unto thy servants, and to thy son David.",
+      "highlightedWords": [
+        {
+          "word": "young men",
+          "strongNumber": "H5288",
+          "lemma": "na'ar",
+          "meaning": "Lad, youth, servant"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "David",
+          "meaning": "Beloved; the second king of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And when David's young men came, they spake to Nabal according to all those words in the name of David, and ceased.",
+      "highlightedWords": [
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "Name, reputation, fame"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "David",
+          "meaning": "Beloved; the second king of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And Nabal answered David's servants, and said, Who is David? and who is the son of Jesse? there be many servants now a days that break away every man from his master.",
+      "highlightedWords": [
+        {
+          "word": "servants",
+          "strongNumber": "H5650",
+          "lemma": "ebed",
+          "meaning": "Servant, slave"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "David",
+          "meaning": "Beloved; the second king of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Shall I then take my bread, and my water, and my flesh that I have killed for my shearers, and give it unto men, whom I know not whence they be?",
+      "highlightedWords": [
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "Bread, food"
+        },
+        {
+          "word": "water",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "Water"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "So David's young men turned their way, and went again, and came and told him all those sayings.",
+      "highlightedWords": [
+        {
+          "word": "David's",
+          "strongNumber": "H1732",
+          "lemma": "David",
+          "meaning": "Beloved; the second king of Israel"
+        },
+        {
+          "word": "young men",
+          "strongNumber": "H5288",
+          "lemma": "na'ar",
+          "meaning": "Lad, youth, servant"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And David said unto his men, Gird ye on every man his sword. And they girded on every man his sword; and David also girded on his sword: and there went up after David about four hundred men; and two hundred abode by the stuff.",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "David",
+          "meaning": "Beloved; the second king of Israel"
+        },
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "Sword"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "But one of the young men told Abigail, Nabal's wife, saying, Behold, David sent messengers out of the wilderness to salute our master; and he railed on them.",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "David",
+          "meaning": "Beloved; the second king of Israel"
+        },
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbar",
+          "meaning": "Wilderness, desert"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "But the men were very good unto us, and we were not hurt, neither missed we any thing, as long as we were conversant with them, when we were in the fields.",
+      "highlightedWords": [
+        {
+          "word": "good",
+          "strongNumber": "H2896",
+          "lemma": "tov",
+          "meaning": "Good, pleasant"
+        },
+        {
+          "word": "fields",
+          "strongNumber": "H7704",
+          "lemma": "sadeh",
+          "meaning": "Field, open country"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "They were a wall unto us both by night and day, all the while we were with them keeping the sheep.",
+      "highlightedWords": [
+        {
+          "word": "night",
+          "strongNumber": "H3915",
+          "lemma": "laylah",
+          "meaning": "Night"
+        },
+        {
+          "word": "day",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "Day"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Now therefore know and consider what thou wilt do; for evil is determined against our master, and against all his household: for he is such a son of Belial, that a man cannot speak to him.",
+      "highlightedWords": [
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra'",
+          "meaning": "Evil, bad, calamity"
+        },
+        {
+          "word": "man",
+          "strongNumber": "H376",
+          "lemma": "ish",
+          "meaning": "Man, individual, husband"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Then Abigail made haste, and took two hundred loaves, and two bottles of wine, and five sheep ready dressed, and five measures of parched corn, and an hundred clusters of raisins, and two hundred cakes of figs, and laid them on asses.",
+      "highlightedWords": [
+        {
+          "word": "wine",
+          "strongNumber": "H3196",
+          "lemma": "yayin",
+          "meaning": "Wine"
+        },
+        {
+          "word": "asses",
+          "strongNumber": "H2543",
+          "lemma": "chamor",
+          "meaning": "Donkey"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And she said unto her servants, Go on before me; behold, I come after you. But she told not her husband Nabal.",
+      "highlightedWords": [
+        {
+          "word": "husband",
+          "strongNumber": "H376",
+          "lemma": "ish",
+          "meaning": "Man, husband"
+        },
+        {
+          "word": "Nabal",
+          "strongNumber": "H5037",
+          "lemma": "Nabal",
+          "meaning": "Fool; a man of Maon/Carmel"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And it was so, as she rode on the ass, that she came down by the covert of the hill, and, behold, David and his men came down against her; and she met them.",
+      "highlightedWords": [
+        {
+          "word": "ass",
+          "strongNumber": "H2543",
+          "lemma": "chamor",
+          "meaning": "Donkey"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "David",
+          "meaning": "Beloved; the second king of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Now David had said, Surely in vain have I kept all that this fellow hath in the wilderness, so that nothing was missed of all that pertained unto him: and he hath requited me evil for good.",
+      "highlightedWords": [
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbar",
+          "meaning": "Wilderness, desert"
+        },
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra'",
+          "meaning": "Evil, bad, calamity"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "So and more also do God unto the enemies of David, if I leave of all that pertain to him by the morning light any that pisseth against the wall.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God, gods"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "David",
+          "meaning": "Beloved; the second king of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And when Abigail saw David, she hasted, and lighted off the ass, and fell before David on her face, and bowed herself to the ground,",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "David",
+          "meaning": "Beloved; the second king of Israel"
+        },
+        {
+          "word": "ground",
+          "strongNumber": "H776",
+          "lemma": "eretz",
+          "meaning": "Earth, land, ground"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And fell at his feet, and said, Upon me, my lord, upon me let this iniquity be: and let thine handmaid, I pray thee, speak in thine audience, and hear the words of thine handmaid.",
+      "highlightedWords": [
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "avon",
+          "meaning": "Iniquity, guilt, punishment"
+        },
+        {
+          "word": "hear",
+          "strongNumber": "H8085",
+          "lemma": "shama'",
+          "meaning": "To hear, listen, obey"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Let not my lord, I pray thee, regard this man of Belial, even Nabal: for as his name is, so is he; Nabal is his name, and folly is with him: but I thine handmaid saw not the young men of my lord, whom thou didst send.",
+      "highlightedWords": [
+        {
+          "word": "Nabal",
+          "strongNumber": "H5037",
+          "lemma": "Nabal",
+          "meaning": "Fool; a man of Maon/Carmel"
+        },
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "Name, reputation, fame"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "Now therefore, my lord, as the LORD liveth, and as thy soul liveth, seeing the LORD hath withholden thee from coming to shed blood, and from avenging thyself with thine own hand, now let thine enemies, and they that seek evil to my lord, be as Nabal.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The divine name, the God of Israel"
+        },
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "Blood"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And now this blessing which thine handmaid hath brought unto my lord, let it even be given unto the young men that follow my lord.",
+      "highlightedWords": [
+        {
+          "word": "blessing",
+          "strongNumber": "H1293",
+          "lemma": "berakah",
+          "meaning": "Blessing, gift"
+        },
+        {
+          "word": "young men",
+          "strongNumber": "H5288",
+          "lemma": "na'ar",
+          "meaning": "Lad, youth, servant"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "I pray thee, forgive the trespass of thine handmaid: for the LORD will certainly make my lord a sure house; because my lord fighteth the battles of the LORD, and evil hath not been found in thee all thy days.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The divine name, the God of Israel"
+        },
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayit",
+          "meaning": "House, household"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "Yet a man is risen to pursue thee, and to seek thy soul: but the soul of my lord shall be bound in the bundle of life with the LORD thy God; and the souls of thine enemies, them shall he sling out, as out of the middle of a sling.",
+      "highlightedWords": [
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "Soul, life, person"
+        },
+        {
+          "word": "sling",
+          "strongNumber": "H7050",
+          "lemma": "qela'",
+          "meaning": "Sling"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "And it shall come to pass, when the LORD shall have done to my lord according to all the good that he hath spoken concerning thee, and shall have appointed thee ruler over Israel;",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The divine name, the God of Israel"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "That this shall be no grief unto thee, nor offence of heart unto my lord, either that thou hast shed blood causeless, or that my lord hath avenged himself: but when the LORD shall have dealt well with my lord, then remember thine handmaid.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The divine name, the God of Israel"
+        },
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "Blood"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "And David said to Abigail, Blessed be the LORD God of Israel, which sent thee this day to meet me:",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "David",
+          "meaning": "Beloved; the second king of Israel"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The divine name, the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "And blessed be thy advice, and blessed be thou, which hast kept me this day from coming to shed blood, and from avenging myself with mine own hand.",
+      "highlightedWords": [
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "Blood"
+        },
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "Hand, power"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "For in very deed, as the LORD God of Israel liveth, which hath kept me back from hurting thee, except thou hadst hasted and come to meet me, surely there had not been left unto Nabal by the morning light any that pisseth against the wall.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The divine name, the God of Israel"
+        },
+        {
+          "word": "Nabal",
+          "strongNumber": "H5037",
+          "lemma": "Nabal",
+          "meaning": "Fool; a man of Maon/Carmel"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "So David received of her hand that which she had brought him, and said unto her, Go up in peace to thine house; see, I have hearkened to thy voice, and have accepted thy person.",
+      "highlightedWords": [
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "Peace, welfare, completeness"
+        },
+        {
+          "word": "voice",
+          "strongNumber": "H6963",
+          "lemma": "qol",
+          "meaning": "Voice, sound"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "And Abigail came to Nabal; and, behold, he held a feast in his house, like the feast of a king; and Nabal's heart was merry within him, for he was very drunken: wherefore she told him nothing, less or more, until the morning light.",
+      "highlightedWords": [
+        {
+          "word": "feast",
+          "strongNumber": "H4960",
+          "lemma": "mishteh",
+          "meaning": "Feast, banquet, drinking"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "King"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "But it came to pass in the morning, when the wine was gone out of Nabal, and his wife had told him these things, that his heart died within him, and he became as a stone.",
+      "highlightedWords": [
+        {
+          "word": "morning",
+          "strongNumber": "H1242",
+          "lemma": "boqer",
+          "meaning": "Morning"
+        },
+        {
+          "word": "stone",
+          "strongNumber": "H68",
+          "lemma": "even",
+          "meaning": "Stone"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "And it came to pass about ten days after, that the LORD smote Nabal, that he died.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The divine name, the God of Israel"
+        },
+        {
+          "word": "smote",
+          "strongNumber": "H5221",
+          "lemma": "nakah",
+          "meaning": "To strike, smite"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "text": "And when David heard that Nabal was dead, he said, Blessed be the LORD, that hath pleaded the cause of my reproach from the hand of Nabal, and hath kept his servant from evil: for the LORD hath returned the wickedness of Nabal upon his own head. And David sent and communed with Abigail, to take her to him to wife.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The divine name, the God of Israel"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "David",
+          "meaning": "Beloved; the second king of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "text": "And when the servants of David were come to Abigail to Carmel, they spake unto her, saying, David sent us unto thee, to take thee to him to wife.",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "David",
+          "meaning": "Beloved; the second king of Israel"
+        },
+        {
+          "word": "wife",
+          "strongNumber": "H802",
+          "lemma": "ishshah",
+          "meaning": "Woman, wife"
+        }
+      ]
+    },
+    {
+      "verse": 41,
+      "text": "And she arose, and bowed herself on her face to the earth, and said, Behold, let thine handmaid be a servant to wash the feet of the servants of my lord.",
+      "highlightedWords": [
+        {
+          "word": "feet",
+          "strongNumber": "H7272",
+          "lemma": "regel",
+          "meaning": "Foot"
+        },
+        {
+          "word": "servants",
+          "strongNumber": "H5650",
+          "lemma": "ebed",
+          "meaning": "Servant, slave"
+        }
+      ]
+    },
+    {
+      "verse": 42,
+      "text": "And Abigail hasted, and arose, and rode upon an ass, with five damsels of hers that went after her; and she went after the messengers of David, and became his wife.",
+      "highlightedWords": [
+        {
+          "word": "ass",
+          "strongNumber": "H2543",
+          "lemma": "chamor",
+          "meaning": "Donkey"
+        },
+        {
+          "word": "wife",
+          "strongNumber": "H802",
+          "lemma": "ishshah",
+          "meaning": "Woman, wife"
+        }
+      ]
+    },
+    {
+      "verse": 43,
+      "text": "David also took Ahinoam of Jezreel; and they were also both of them his wives.",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "David",
+          "meaning": "Beloved; the second king of Israel"
+        },
+        {
+          "word": "wives",
+          "strongNumber": "H802",
+          "lemma": "ishshah",
+          "meaning": "Woman, wife (plural: wives)"
+        }
+      ]
+    },
+    {
+      "verse": 44,
+      "text": "But Saul had given Michal his daughter, David's wife, to Phalti the son of Laish, which was of Gallim.",
+      "highlightedWords": [
+        {
+          "word": "Saul",
+          "strongNumber": "H7586",
+          "lemma": "Sha'ul",
+          "meaning": "Saul; asked for"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "David",
+          "meaning": "Beloved; the second king of Israel"
+        }
+      ]
+    }
+  ]
+}

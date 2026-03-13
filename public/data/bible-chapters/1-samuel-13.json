@@ -1,0 +1,438 @@
+{
+  "book": "1 Samuel",
+  "chapter": 13,
+  "chapterTheme": {
+    "twoWordSummary": "Illicit Sacrifice",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH",
+        "meaning": "The personal name of Israel’s God"
+      },
+      {
+        "word": "kingdom",
+        "strongNumber": "H4467",
+        "lemma": "mamlakah",
+        "meaning": "Kingdom, dominion, reign"
+      }
+    ]
+  },
+  "sentenceTheme": "Under Philistine pressure at Michmash, Saul violates God’s command by offering the sacrifice himself and is told his kingdom will not continue, while Israel faces the enemy with few weapons.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Saul reigned one year; and when he had reigned two years over Israel,",
+      "highlightedWords": [
+        {
+          "word": "Saul",
+          "strongNumber": "H7586",
+          "lemma": "Sha'ul",
+          "meaning": "Saul; asked (of God)"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God strives"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Saul chose him three thousand men of Israel; whereof two thousand were with Saul in Michmash and in mount Bethel, and a thousand were with Jonathan in Gibeah of Benjamin: and the rest of the people he sent every man to his tent.",
+      "highlightedWords": [
+        {
+          "word": "Saul",
+          "strongNumber": "H7586",
+          "lemma": "Sha'ul",
+          "meaning": "Saul; asked (of God)"
+        },
+        {
+          "word": "Jonathan",
+          "strongNumber": "H3129",
+          "lemma": "Yehonathan",
+          "meaning": "Jonathan; Yahweh has given"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And Jonathan smote the garrison of the Philistines that was in Geba, and the Philistines heard of it. And Saul blew the trumpet throughout all the land, saying, Let the Hebrews hear.",
+      "highlightedWords": [
+        {
+          "word": "Jonathan",
+          "strongNumber": "H3129",
+          "lemma": "Yehonathan",
+          "meaning": "Jonathan; Yahweh has given"
+        },
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pelishtiy",
+          "meaning": "Philistines; people of Philistia"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And all Israel heard say that Saul had smitten a garrison of the Philistines, and that Israel also was had in abomination with the Philistines. And the people were called together after Saul to Gilgal.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God strives"
+        },
+        {
+          "word": "Saul",
+          "strongNumber": "H7586",
+          "lemma": "Sha'ul",
+          "meaning": "Saul; asked (of God)"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And the Philistines gathered themselves together to fight with Israel, thirty thousand chariots, and six thousand horsemen, and people as the sand which is on the sea shore in multitude: and they came up, and pitched in Michmash, eastward from Bethaven.",
+      "highlightedWords": [
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pelishtiy",
+          "meaning": "Philistines; people of Philistia"
+        },
+        {
+          "word": "Bethaven",
+          "strongNumber": "H1007",
+          "lemma": "Beth-aven",
+          "meaning": "House of wickedness; place near Bethel"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "When the men of Israel saw that they were in a strait, (for the people were distressed,) then the people did hide themselves in caves, and in thickets, and in rocks, and in high places, and in pits.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God strives"
+        },
+        {
+          "word": "caves",
+          "strongNumber": "H4631",
+          "lemma": "me'arah",
+          "meaning": "Cave, cavern"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And some of the Hebrews went over Jordan to the land of Gad and Gilead. As for Saul, he was yet in Gilgal, and all the people followed him trembling.",
+      "highlightedWords": [
+        {
+          "word": "Hebrews",
+          "strongNumber": "H5680",
+          "lemma": "Ivri",
+          "meaning": "Hebrew; one from beyond, Israelite"
+        },
+        {
+          "word": "Jordan",
+          "strongNumber": "H3383",
+          "lemma": "Yarden",
+          "meaning": "Jordan River; the descender"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And he tarried seven days, according to the set time that Samuel had appointed: but Samuel came not to Gilgal; and the people were scattered from him.",
+      "highlightedWords": [
+        {
+          "word": "Samuel",
+          "strongNumber": "H8050",
+          "lemma": "Shemu'el",
+          "meaning": "Samuel; heard of God"
+        },
+        {
+          "word": "Gilgal",
+          "strongNumber": "H1537",
+          "lemma": "Gilgal",
+          "meaning": "Circle of stones; Gilgal"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And Saul said, Bring hither a burnt offering to me, and peace offerings. And he offered the burnt offering.",
+      "highlightedWords": [
+        {
+          "word": "burnt offering",
+          "strongNumber": "H5930",
+          "lemma": "'olah",
+          "meaning": "Whole burnt offering"
+        },
+        {
+          "word": "peace offerings",
+          "strongNumber": "H8002",
+          "lemma": "shelamim",
+          "meaning": "Peace/fellowship offerings"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And it came to pass, that as soon as he had made an end of offering the burnt offering, behold, Samuel came; and Saul went out to meet him, that he might salute him.",
+      "highlightedWords": [
+        {
+          "word": "Samuel",
+          "strongNumber": "H8050",
+          "lemma": "Shemu'el",
+          "meaning": "Samuel; heard of God"
+        },
+        {
+          "word": "burnt offering",
+          "strongNumber": "H5930",
+          "lemma": "'olah",
+          "meaning": "Whole burnt offering"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And Samuel said, What hast thou done? And Saul said, Because I saw that the people were scattered from me, and that thou camest not within the days appointed, and that the Philistines gathered themselves together at Michmash;",
+      "highlightedWords": [
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pelishtiy",
+          "meaning": "Philistines; people of Philistia"
+        },
+        {
+          "word": "Michmash",
+          "strongNumber": "H4363",
+          "lemma": "Mikmash",
+          "meaning": "Michmash; a place in Benjamin"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Therefore said I, The Philistines will come down now upon me to Gilgal, and I have not made supplication unto the LORD: I forced myself therefore, and offered a burnt offering.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The personal name of Israel’s God"
+        },
+        {
+          "word": "burnt offering",
+          "strongNumber": "H5930",
+          "lemma": "'olah",
+          "meaning": "Whole burnt offering"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And Samuel said to Saul, Thou hast done foolishly: thou hast not kept the commandment of the LORD thy God, which he commanded thee: for now would the LORD have established thy kingdom upon Israel for ever.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The personal name of Israel’s God"
+        },
+        {
+          "word": "kingdom",
+          "strongNumber": "H4467",
+          "lemma": "mamlakah",
+          "meaning": "Kingdom, dominion, reign"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "But now thy kingdom shall not continue: the LORD hath sought him a man after his own heart, and the LORD hath commanded him to be captain over his people, because thou hast not kept that which the LORD commanded thee.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3824",
+          "lemma": "lebab",
+          "meaning": "Heart, inner person"
+        },
+        {
+          "word": "captain",
+          "strongNumber": "H5057",
+          "lemma": "nagid",
+          "meaning": "Leader, prince, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And Samuel arose, and gat him up from Gilgal unto Gibeah of Benjamin. And Saul numbered the people that were present with him, about six hundred men.",
+      "highlightedWords": [
+        {
+          "word": "Gibeah",
+          "strongNumber": "H1390",
+          "lemma": "Giv'ah",
+          "meaning": "Gibeah; hill"
+        },
+        {
+          "word": "Benjamin",
+          "strongNumber": "H1144",
+          "lemma": "Binyamin",
+          "meaning": "Benjamin; son of the right hand"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And Saul, and Jonathan his son, and the people that were present with them, abode in Gibeah of Benjamin: but the Philistines encamped in Michmash.",
+      "highlightedWords": [
+        {
+          "word": "Jonathan",
+          "strongNumber": "H3129",
+          "lemma": "Yehonathan",
+          "meaning": "Jonathan; Yahweh has given"
+        },
+        {
+          "word": "Michmash",
+          "strongNumber": "H4363",
+          "lemma": "Mikmash",
+          "meaning": "Michmash; a place in Benjamin"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And the spoilers came out of the camp of the Philistines in three companies: one company turned unto the way that leadeth to Ophrah, unto the land of Shual:",
+      "highlightedWords": [
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pelishtiy",
+          "meaning": "Philistines; people of Philistia"
+        },
+        {
+          "word": "Ophrah",
+          "strongNumber": "H6084",
+          "lemma": "'Ophrah",
+          "meaning": "Ophrah; a town name"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And another company turned the way to Bethhoron: and another company turned to the way of the border that looketh to the valley of Zeboim toward the wilderness.",
+      "highlightedWords": [
+        {
+          "word": "Bethhoron",
+          "strongNumber": "H1032",
+          "lemma": "Beth-horon",
+          "meaning": "Beth-horon; house of hollowness"
+        },
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbar",
+          "meaning": "Wilderness, desert, steppe"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Now there was no smith found throughout all the land of Israel: for the Philistines said, Lest the Hebrews make them swords or spears:",
+      "highlightedWords": [
+        {
+          "word": "smith",
+          "strongNumber": "H2796",
+          "lemma": "charash",
+          "meaning": "Craftsman, smith, artisan"
+        },
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pelishtiy",
+          "meaning": "Philistines; people of Philistia"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "But all the Israelites went down to the Philistines, to sharpen every man his share, and his coulter, and his axe, and his mattock.",
+      "highlightedWords": [
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pelishtiy",
+          "meaning": "Philistines; people of Philistia"
+        },
+        {
+          "word": "Israelites",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israelites; people of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Yet they had a file for the mattocks, and for the coulters, and for the forks, and for the axes, and to sharpen the goads.",
+      "highlightedWords": [
+        {
+          "word": "file",
+          "strongNumber": "H6313",
+          "lemma": "pim",
+          "meaning": "A weight/charge (pim); rendered “file” in KJV"
+        },
+        {
+          "word": "goads",
+          "strongNumber": "H1861",
+          "lemma": "dorban",
+          "meaning": "Goads; ox-goads, prodding sticks"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "So it came to pass in the day of battle, that there was neither sword nor spear found in the hand of any of the people that were with Saul and Jonathan: but with Saul and with Jonathan his son was there found.",
+      "highlightedWords": [
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "Sword"
+        },
+        {
+          "word": "spear",
+          "strongNumber": "H2595",
+          "lemma": "chanith",
+          "meaning": "Spear, javelin"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And the garrison of the Philistines went out to the passage of Michmash.",
+      "highlightedWords": [
+        {
+          "word": "garrison",
+          "strongNumber": "H4673",
+          "lemma": "matstsab",
+          "meaning": "Garrison, outpost, military post"
+        },
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pelishtiy",
+          "meaning": "Philistines; people of Philistia"
+        }
+      ]
+    }
+  ]
+}

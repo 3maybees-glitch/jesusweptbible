@@ -1,0 +1,402 @@
+{
+  "book": "1 Samuel",
+  "chapter": 6,
+  "chapterTheme": {
+    "twoWordSummary": "Ark Returned",
+    "themeWords": [
+      {
+        "word": "ark",
+        "strongNumber": "H727",
+        "lemma": "'aron",
+        "meaning": "chest, ark (of the covenant)"
+      },
+      {
+        "word": "Philistines",
+        "strongNumber": "H6430",
+        "lemma": "Pelishtiy",
+        "meaning": "Philistines, people of Philistia"
+      }
+    ]
+  },
+  "sentenceTheme": "The Philistines return the ark to Israel with guilt offerings, and judgment falls on Bethshemesh for irreverence.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And the ark of the LORD was in the country of the Philistines seven months.",
+      "highlightedWords": [
+        {
+          "word": "ark",
+          "strongNumber": "H727",
+          "lemma": "'aron",
+          "meaning": "chest, ark (of the covenant)"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And the Philistines called for the priests and the diviners, saying, What shall we do to the ark of the LORD? tell us wherewith we shall send it to his place.",
+      "highlightedWords": [
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pelishtiy",
+          "meaning": "Philistines, people of Philistia"
+        },
+        {
+          "word": "ark",
+          "strongNumber": "H727",
+          "lemma": "'aron",
+          "meaning": "chest, ark (of the covenant)"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And they said, If ye send away the ark of the God of Israel, send it not empty; but in any wise return him a trespass offering: then ye shall be healed, and it shall be known to you why his hand is not removed from you.",
+      "highlightedWords": [
+        {
+          "word": "ark",
+          "strongNumber": "H727",
+          "lemma": "'aron",
+          "meaning": "chest, ark (of the covenant)"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Then said they, What shall be the trespass offering which we shall return to him? They answered, Five golden emerods, and five golden mice, according to the number of the lords of the Philistines: for one plague was on you all, and on your lords.",
+      "highlightedWords": [
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pelishtiy",
+          "meaning": "Philistines, people of Philistia"
+        },
+        {
+          "word": "mice",
+          "strongNumber": "H5909",
+          "lemma": "'akhbar",
+          "meaning": "mouse"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Wherefore ye shall make images of your emerods, and images of your mice that mar the land; and ye shall give glory unto the God of Israel: peradventure he will lighten his hand from off you, and from off your gods, and from off your land.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Wherefore then do ye harden your hearts, as the Egyptians and Pharaoh hardened their hearts? when he had wrought wonderfully among them, did they not let the people go, and they departed?",
+      "highlightedWords": [
+        {
+          "word": "Pharaoh",
+          "strongNumber": "H6547",
+          "lemma": "Par'oh",
+          "meaning": "Pharaoh"
+        },
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "'am",
+          "meaning": "people, nation"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Now therefore make a new cart, and take two milch kine, on which there hath come no yoke, and tie the kine to the cart, and bring their calves home from them:",
+      "highlightedWords": [
+        {
+          "word": "cart",
+          "strongNumber": "H5699",
+          "lemma": "'agalah",
+          "meaning": "cart, wagon"
+        },
+        {
+          "word": "kine",
+          "strongNumber": "H6510",
+          "lemma": "parah",
+          "meaning": "cow, heifer"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And take the ark of the LORD, and lay it upon the cart; and put the jewels of gold, which ye return him for a trespass offering, in a coffer by the side thereof; and send it away, that it may go.",
+      "highlightedWords": [
+        {
+          "word": "ark",
+          "strongNumber": "H727",
+          "lemma": "'aron",
+          "meaning": "chest, ark (of the covenant)"
+        },
+        {
+          "word": "coffer",
+          "strongNumber": "H712",
+          "lemma": "'argaz",
+          "meaning": "chest, coffer"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And see, if it goeth up by the way of his own coast to Bethshemesh, then he hath done us this great evil: but if not, then we shall know that it is not his hand that smote us: it was a chance that happened to us.",
+      "highlightedWords": [
+        {
+          "word": "Bethshemesh",
+          "strongNumber": "H1053",
+          "lemma": "Beth-shemesh",
+          "meaning": "House of the Sun (a town in Judah)"
+        },
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And the men did so; and took two milch kine, and tied them to the cart, and shut up their calves at home:",
+      "highlightedWords": [
+        {
+          "word": "kine",
+          "strongNumber": "H6510",
+          "lemma": "parah",
+          "meaning": "cow, heifer"
+        },
+        {
+          "word": "cart",
+          "strongNumber": "H5699",
+          "lemma": "'agalah",
+          "meaning": "cart, wagon"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And they laid the ark of the LORD upon the cart, and the coffer with the mice of gold and the images of their emerods.",
+      "highlightedWords": [
+        {
+          "word": "ark",
+          "strongNumber": "H727",
+          "lemma": "'aron",
+          "meaning": "chest, ark (of the covenant)"
+        },
+        {
+          "word": "coffer",
+          "strongNumber": "H712",
+          "lemma": "'argaz",
+          "meaning": "chest, coffer"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And the kine took the straight way to the way of Bethshemesh, and went along the highway, lowing as they went, and turned not aside to the right hand or to the left; and the lords of the Philistines went after them unto the border of Bethshemesh.",
+      "highlightedWords": [
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pelishtiy",
+          "meaning": "Philistines, people of Philistia"
+        },
+        {
+          "word": "kine",
+          "strongNumber": "H6510",
+          "lemma": "parah",
+          "meaning": "cow, heifer"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And they of Bethshemesh were reaping their wheat harvest in the valley: and they lifted up their eyes, and saw the ark, and rejoiced to see it.",
+      "highlightedWords": [
+        {
+          "word": "Bethshemesh",
+          "strongNumber": "H1053",
+          "lemma": "Beth-shemesh",
+          "meaning": "House of the Sun (a town in Judah)"
+        },
+        {
+          "word": "ark",
+          "strongNumber": "H727",
+          "lemma": "'aron",
+          "meaning": "chest, ark (of the covenant)"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And the cart came into the field of Joshua, a Bethshemite, and stood there, where there was a great stone: and they clave the wood of the cart, and offered the kine a burnt offering unto the LORD.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        },
+        {
+          "word": "cart",
+          "strongNumber": "H5699",
+          "lemma": "'agalah",
+          "meaning": "cart, wagon"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And the Levites took down the ark of the LORD, and the coffer that was with it, wherein the jewels of gold were, and put them on the great stone: and the men of Bethshemesh offered burnt offerings and sacrificed sacrifices the same day unto the LORD.",
+      "highlightedWords": [
+        {
+          "word": "Levites",
+          "strongNumber": "H3881",
+          "lemma": "Lewiy",
+          "meaning": "Levites, members of the tribe of Levi"
+        },
+        {
+          "word": "ark",
+          "strongNumber": "H727",
+          "lemma": "'aron",
+          "meaning": "chest, ark (of the covenant)"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And when the five lords of the Philistines had seen it, they returned to Ekron the same day.",
+      "highlightedWords": [
+        {
+          "word": "lords",
+          "strongNumber": "H5633",
+          "lemma": "seren",
+          "meaning": "lord, ruler (of the Philistines)"
+        },
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pelishtiy",
+          "meaning": "Philistines, people of Philistia"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And these are the golden emerods which the Philistines returned for a trespass offering unto the LORD; for Ashdod one, for Gaza one, for Askelon one, for Gath one, for Ekron one;",
+      "highlightedWords": [
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pelishtiy",
+          "meaning": "Philistines, people of Philistia"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And the golden mice, and the images of their mice, and of their emerods, which the lords of the Philistines had returned for a trespass offering unto the LORD, are five; and the great stone of Abel, whereon they set down the ark of the LORD: which stone remaineth unto this day in the field of Joshua, the Bethshemite.",
+      "highlightedWords": [
+        {
+          "word": "mice",
+          "strongNumber": "H5909",
+          "lemma": "'akhbar",
+          "meaning": "mouse"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And he smote the men of Bethshemesh, because they had looked into the ark of the LORD, even he smote of the people fifty thousand and threescore and ten men: and the people lamented, because the LORD had smitten many of the people with a great slaughter.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        },
+        {
+          "word": "ark",
+          "strongNumber": "H727",
+          "lemma": "'aron",
+          "meaning": "chest, ark (of the covenant)"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And the men of Bethshemesh said, Who is able to stand before this holy LORD God? and to whom shall he go up from us?",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And they sent messengers to the inhabitants of Kirjath-jearim, saying, The Philistines have brought again the ark of the LORD; come ye down, and fetch it up to you.",
+      "highlightedWords": [
+        {
+          "word": "Kirjath-jearim",
+          "strongNumber": "H7157",
+          "lemma": "Qiryath-ye'arim",
+          "meaning": "City of forests"
+        },
+        {
+          "word": "ark",
+          "strongNumber": "H727",
+          "lemma": "'aron",
+          "meaning": "chest, ark (of the covenant)"
+        }
+      ]
+    }
+  ]
+}

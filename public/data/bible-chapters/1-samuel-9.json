@@ -1,0 +1,510 @@
+{
+  "book": "1 Samuel",
+  "chapter": 9,
+  "chapterTheme": {
+    "twoWordSummary": "Saul Chosen",
+    "themeWords": [
+      {
+        "word": "Saul",
+        "strongNumber": "H7586",
+        "lemma": "Sha'ul",
+        "meaning": "asked (of God), requested"
+      },
+      {
+        "word": "anoint",
+        "strongNumber": "H4886",
+        "lemma": "mashach",
+        "meaning": "to smear, anoint, consecrate"
+      }
+    ]
+  },
+  "sentenceTheme": "Saul seeks his father's lost donkeys and, led by God to Samuel, is anointed to lead Israel.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Now there was a man of Benjamin, whose name was Kish, the son of Abiel, the son of Zeror, the son of Bechorath, the son of Aphiah, a Benjamite, a mighty man of power.",
+      "highlightedWords": [
+        {
+          "word": "Benjamin",
+          "strongNumber": "H1144",
+          "lemma": "Binyamin",
+          "meaning": "son of the right hand; Benjamin"
+        },
+        {
+          "word": "Kish",
+          "strongNumber": "H7027",
+          "lemma": "Qiysh",
+          "meaning": "Kish; a Benjamite name"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And he had a son, whose name was Saul, a choice young man, and a goodly: and there was not among the children of Israel a goodlier person than he: from his shoulders and upward he was higher than any of the people.",
+      "highlightedWords": [
+        {
+          "word": "Saul",
+          "strongNumber": "H7586",
+          "lemma": "Sha'ul",
+          "meaning": "asked (of God), requested"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God strives"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And the asses of Kish Saul's father were lost. And Kish said to Saul his son, Take now one of the servants with thee, and arise, go seek the asses.",
+      "highlightedWords": [
+        {
+          "word": "asses",
+          "strongNumber": "H0860",
+          "lemma": "ʼaton",
+          "meaning": "female donkeys"
+        },
+        {
+          "word": "Saul",
+          "strongNumber": "H7586",
+          "lemma": "Sha'ul",
+          "meaning": "asked (of God), requested"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And he passed through mount Ephraim, and passed through the land of Shalisha, but they found them not: then they passed through the land of Shalim, and there they were not: and he passed through the land of the Benjamites, but they found them not.",
+      "highlightedWords": [
+        {
+          "word": "Ephraim",
+          "strongNumber": "H0669",
+          "lemma": "Ephrayim",
+          "meaning": "Ephraim; double fruitfulness"
+        },
+        {
+          "word": "land",
+          "strongNumber": "H0776",
+          "lemma": "ʼerets",
+          "meaning": "land, earth"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And when they were come to the land of Zuph, Saul said to his servant that was with him, Come, and let us return; lest my father leave caring for the asses, and take thought for us.",
+      "highlightedWords": [
+        {
+          "word": "father",
+          "strongNumber": "H0001",
+          "lemma": "ʼab",
+          "meaning": "father"
+        },
+        {
+          "word": "asses",
+          "strongNumber": "H0860",
+          "lemma": "ʼaton",
+          "meaning": "female donkeys"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And he said unto him, Behold now, there is in this city a man of God, and he is an honourable man; all that he saith cometh surely to pass: now let us go thither; peradventure he can shew us our way that we should go.",
+      "highlightedWords": [
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "ʿiyr",
+          "meaning": "city, town"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "ʼElohim",
+          "meaning": "God"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Then said Saul to his servant, But, behold, if we go, what shall we bring the man? for the bread is spent in our vessels, and there is not a present to bring to the man of God: what have we?",
+      "highlightedWords": [
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread, food"
+        },
+        {
+          "word": "present",
+          "strongNumber": "H4503",
+          "lemma": "minchah",
+          "meaning": "gift, offering"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And the servant answered Saul again, and said, Behold, I have here at hand the fourth part of a shekel of silver: that will I give to the man of God, to tell us our way.",
+      "highlightedWords": [
+        {
+          "word": "shekel",
+          "strongNumber": "H8255",
+          "lemma": "sheqel",
+          "meaning": "shekel (unit of weight/coin)"
+        },
+        {
+          "word": "silver",
+          "strongNumber": "H3701",
+          "lemma": "keseph",
+          "meaning": "silver, money"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "(Beforetime in Israel, when a man went to enquire of God, thus he spake, Come, and let us go to the seer: for he that is now called a Prophet was beforetime called a Seer.)",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God strives"
+        },
+        {
+          "word": "Prophet",
+          "strongNumber": "H5030",
+          "lemma": "nabi'",
+          "meaning": "prophet, spokesman"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Then said Saul to his servant, Well said; come, let us go. So they went unto the city where the man of God was.",
+      "highlightedWords": [
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "ʿiyr",
+          "meaning": "city, town"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "ʼElohim",
+          "meaning": "God"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And as they went up the hill to the city, they found young maidens going out to draw water, and said unto them, Is the seer here?",
+      "highlightedWords": [
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "ʿiyr",
+          "meaning": "city, town"
+        },
+        {
+          "word": "water",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "water"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And they answered them, and said, He is; behold, he is before you: make haste now, for he came to day to the city: for there is a sacrifice of the people to day in the high place.",
+      "highlightedWords": [
+        {
+          "word": "sacrifice",
+          "strongNumber": "H2077",
+          "lemma": "zebach",
+          "meaning": "sacrifice"
+        },
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "ʿam",
+          "meaning": "people, nation"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "As soon as ye be come into the city, ye shall straightway find him, before he go up to the high place to eat: for the people will not eat until he come, because he doth bless the sacrifice; and afterwards they eat that be bidden. Now therefore get you up; for about this time ye shall find him.",
+      "highlightedWords": [
+        {
+          "word": "eat",
+          "strongNumber": "H398",
+          "lemma": "ʼakal",
+          "meaning": "to eat, consume"
+        },
+        {
+          "word": "bless",
+          "strongNumber": "H1288",
+          "lemma": "barak",
+          "meaning": "to bless"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And they went up into the city: and when they were come into the city, behold, Samuel came out against them, for to go up to the high place.",
+      "highlightedWords": [
+        {
+          "word": "Samuel",
+          "strongNumber": "H8050",
+          "lemma": "Shemu'el",
+          "meaning": "Samuel; heard of God"
+        },
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "ʿiyr",
+          "meaning": "city, town"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Now the LORD had told Samuel in his ear a day before Saul came, saying,",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the LORD (Yahweh)"
+        },
+        {
+          "word": "Samuel",
+          "strongNumber": "H8050",
+          "lemma": "Shemu'el",
+          "meaning": "Samuel; heard of God"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "To morrow about this time I will send thee a man out of the land of Benjamin, and thou shalt anoint him to be captain over my people Israel, that he may save my people out of the hand of the Philistines: for I have looked upon my people, because their cry is come unto me.",
+      "highlightedWords": [
+        {
+          "word": "anoint",
+          "strongNumber": "H4886",
+          "lemma": "mashach",
+          "meaning": "to anoint, consecrate"
+        },
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pelishtiy",
+          "meaning": "Philistines"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And when Samuel saw Saul, the LORD said unto him, Behold the man whom I spake to thee of! this same shall reign over my people.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the LORD (Yahweh)"
+        },
+        {
+          "word": "Saul",
+          "strongNumber": "H7586",
+          "lemma": "Sha'ul",
+          "meaning": "asked (of God), requested"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Then Saul drew near to Samuel in the gate, and said, Tell me, I pray thee, where the seer's house is.",
+      "highlightedWords": [
+        {
+          "word": "Samuel",
+          "strongNumber": "H8050",
+          "lemma": "Shemu'el",
+          "meaning": "Samuel; heard of God"
+        },
+        {
+          "word": "gate",
+          "strongNumber": "H8179",
+          "lemma": "shaʿar",
+          "meaning": "gate"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And Samuel answered Saul, and said, I am the seer: go up before me unto the high place; for ye shall eat with me to day, and to morrow I will let thee go, and will tell thee all that is in thine heart.",
+      "highlightedWords": [
+        {
+          "word": "Samuel",
+          "strongNumber": "H8050",
+          "lemma": "Shemu'el",
+          "meaning": "Samuel; heard of God"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3824",
+          "lemma": "levav",
+          "meaning": "heart, inner man"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And as for thine asses that were lost three days ago, set not thy mind on them; for they are found. And on whom is all the desire of Israel? Is it not on thee, and on all thy father's house?",
+      "highlightedWords": [
+        {
+          "word": "asses",
+          "strongNumber": "H0860",
+          "lemma": "ʼaton",
+          "meaning": "female donkeys"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God strives"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And Saul answered and said, Am not I a Benjamite, of the smallest of the tribes of Israel? and my family the least of all the families of the tribe of Benjamin? wherefore then speakest thou so to me?",
+      "highlightedWords": [
+        {
+          "word": "Benjamite",
+          "strongNumber": "H1145",
+          "lemma": "Binyamini",
+          "meaning": "a Benjamite"
+        },
+        {
+          "word": "tribes",
+          "strongNumber": "H7626",
+          "lemma": "shebet",
+          "meaning": "tribe, staff, rod"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And Samuel took Saul and his servant, and brought them into the parlour, and made them sit in the chiefest place among them that were bidden, which were about thirty persons.",
+      "highlightedWords": [
+        {
+          "word": "Samuel",
+          "strongNumber": "H8050",
+          "lemma": "Shemu'el",
+          "meaning": "Samuel; heard of God"
+        },
+        {
+          "word": "Saul",
+          "strongNumber": "H7586",
+          "lemma": "Sha'ul",
+          "meaning": "asked (of God), requested"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And Samuel said unto the cook, Bring the portion which I gave thee, of which I said unto thee, Set it by thee.",
+      "highlightedWords": [
+        {
+          "word": "Samuel",
+          "strongNumber": "H8050",
+          "lemma": "Shemu'el",
+          "meaning": "Samuel; heard of God"
+        },
+        {
+          "word": "cook",
+          "strongNumber": "H2876",
+          "lemma": "tabbach",
+          "meaning": "cook, butcher"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And the cook took up the shoulder, and that which was upon it, and set it before Saul. And Samuel said, Behold that which is left! set it before thee, and eat: for unto this time hath it been kept for thee since I said, I have invited the people. So Saul did eat with Samuel that day.",
+      "highlightedWords": [
+        {
+          "word": "Saul",
+          "strongNumber": "H7586",
+          "lemma": "Sha'ul",
+          "meaning": "asked (of God), requested"
+        },
+        {
+          "word": "Samuel",
+          "strongNumber": "H8050",
+          "lemma": "Shemu'el",
+          "meaning": "Samuel; heard of God"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And when they were come down from the high place into the city, Samuel communed with Saul upon the top of the house.",
+      "highlightedWords": [
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "ʿiyr",
+          "meaning": "city, town"
+        },
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, household"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And they arose early: and it came to pass about the spring of the day, that Samuel called Saul to the top of the house, saying, Up, that I may send thee away. And Saul arose, and they went out both of them, he and Samuel, abroad.",
+      "highlightedWords": [
+        {
+          "word": "day",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day"
+        },
+        {
+          "word": "Samuel",
+          "strongNumber": "H8050",
+          "lemma": "Shemu'el",
+          "meaning": "Samuel; heard of God"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And as they were going down to the end of the city, Samuel said to Saul, Bid the servant pass on before us, (and he passed on,) but stand thou still a while, that I may shew thee the word of God.",
+      "highlightedWords": [
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "ʿiyr",
+          "meaning": "city, town"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "ʼElohim",
+          "meaning": "God"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "book": "1 Samuel",
+  "chapter": 7,
+  "chapterTheme": {
+    "twoWordSummary": "Repentance Deliverance",
+    "themeWords": [
+      {
+        "word": "return",
+        "strongNumber": "H7725",
+        "lemma": "shuv",
+        "meaning": "to turn back, return; to repent"
+      },
+      {
+        "word": "deliver",
+        "strongNumber": "H5337",
+        "lemma": "natsal",
+        "meaning": "to snatch away, rescue, deliver"
+      }
+    ]
+  },
+  "sentenceTheme": "Israel returns to the LORD under Samuel’s leadership, and the LORD delivers them from the Philistines at Mizpeh, commemorated by Ebenezer.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And the men of Kirjathjearim came, and fetched up the ark of the LORD, and brought it into the house of Abinadab in the hill, and sanctified Eleazar his son to keep the ark of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "ark",
+          "strongNumber": "H727",
+          "lemma": "ʾārôn",
+          "meaning": "ark, chest"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yahweh)",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And it came to pass, while the ark abode in Kirjathjearim, that the time was long; for it was twenty years: and all the house of Israel lamented after the LORD.",
+      "highlightedWords": [
+        {
+          "word": "ark",
+          "strongNumber": "H727",
+          "lemma": "ʾārôn",
+          "meaning": "ark, chest"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yahweh)",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And Samuel spake unto all the house of Israel, saying, If ye do return unto the LORD with all your hearts, then put away the strange gods and Ashtaroth from among you, and prepare your hearts unto the LORD, and serve him only: and he will deliver you out of the hand of the Philistines.",
+      "highlightedWords": [
+        {
+          "word": "return",
+          "strongNumber": "H7725",
+          "lemma": "shuv",
+          "meaning": "to turn back, return"
+        },
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pᵉlishtî",
+          "meaning": "Philistines, a people of Philistia"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Then the children of Israel did put away Baalim and Ashtaroth, and served the LORD only.",
+      "highlightedWords": [
+        {
+          "word": "Baalim",
+          "strongNumber": "H1168",
+          "lemma": "baʿal",
+          "meaning": "Baal; a Canaanite deity (lords)"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yahweh)",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And Samuel said, Gather all Israel to Mizpeh, and I will pray for you unto the LORD.",
+      "highlightedWords": [
+        {
+          "word": "Mizpeh",
+          "strongNumber": "H4709",
+          "lemma": "Mitspeh",
+          "meaning": "watchtower; Mizpeh/Mizpah"
+        },
+        {
+          "word": "pray",
+          "strongNumber": "H6419",
+          "lemma": "palal",
+          "meaning": "to intercede, pray"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And they gathered together to Mizpeh, and drew water, and poured it out before the LORD, and fasted on that day, and said there, We have sinned against the LORD. And Samuel judged the children of Israel in Mizpeh.",
+      "highlightedWords": [
+        {
+          "word": "fasted",
+          "strongNumber": "H6684",
+          "lemma": "tsuwm",
+          "meaning": "to fast"
+        },
+        {
+          "word": "sinned",
+          "strongNumber": "H2398",
+          "lemma": "chāṭāʾ",
+          "meaning": "to sin, miss the mark"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And when the Philistines heard that the children of Israel were gathered together to Mizpeh, the lords of the Philistines went up against Israel. And when the children of Israel heard it, they were afraid of the Philistines.",
+      "highlightedWords": [
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pᵉlishtî",
+          "meaning": "Philistines, a people of Philistia"
+        },
+        {
+          "word": "afraid",
+          "strongNumber": "H3372",
+          "lemma": "yārēʾ",
+          "meaning": "to fear, be afraid"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And the children of Israel said to Samuel, Cease not to cry unto the LORD our God for us, that he will save us out of the hand of the Philistines.",
+      "highlightedWords": [
+        {
+          "word": "cry",
+          "strongNumber": "H6817",
+          "lemma": "tsāʿaq",
+          "meaning": "to cry out, call for help"
+        },
+        {
+          "word": "save",
+          "strongNumber": "H3467",
+          "lemma": "yāshaʿ",
+          "meaning": "to save, deliver"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And Samuel took a sucking lamb, and offered it for a burnt offering wholly unto the LORD: and Samuel cried unto the LORD for Israel; and the LORD heard him.",
+      "highlightedWords": [
+        {
+          "word": "offering",
+          "strongNumber": "H5930",
+          "lemma": "ʿōlāh",
+          "meaning": "burnt offering"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yahweh)",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And as Samuel was offering up the burnt offering, the Philistines drew near to battle against Israel: but the LORD thundered with a great thunder on that day upon the Philistines, and discomfited them; and they were smitten before Israel.",
+      "highlightedWords": [
+        {
+          "word": "thundered",
+          "strongNumber": "H7481",
+          "lemma": "raʿam",
+          "meaning": "to thunder"
+        },
+        {
+          "word": "discomfited",
+          "strongNumber": "H2000",
+          "lemma": "hāmam",
+          "meaning": "to confuse, trouble, rout"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And the men of Israel went out of Mizpeh, and pursued the Philistines, and smote them, until they came under Bethcar.",
+      "highlightedWords": [
+        {
+          "word": "pursued",
+          "strongNumber": "H7291",
+          "lemma": "rādaph",
+          "meaning": "to pursue, chase"
+        },
+        {
+          "word": "smote",
+          "strongNumber": "H5221",
+          "lemma": "nākhah",
+          "meaning": "to strike, smite"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Then Samuel took a stone, and set it between Mizpeh and Shen, and called the name of it Eben-ezer, saying, Hitherto hath the LORD helped us.",
+      "highlightedWords": [
+        {
+          "word": "stone",
+          "strongNumber": "H68",
+          "lemma": "ʾeben",
+          "meaning": "stone"
+        },
+        {
+          "word": "helped",
+          "strongNumber": "H5826",
+          "lemma": "ʿāzar",
+          "meaning": "to help, support"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "So the Philistines were subdued, and they came no more into the coast of Israel: and the hand of the LORD was against the Philistines all the days of Samuel.",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yād",
+          "meaning": "hand, power"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yahweh)",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And the cities which the Philistines had taken from Israel were restored to Israel, from Ekron even unto Gath; and the coasts thereof did Israel deliver out of the hands of the Philistines. And there was peace between Israel and the Amorites.",
+      "highlightedWords": [
+        {
+          "word": "restored",
+          "strongNumber": "H7725",
+          "lemma": "shuv",
+          "meaning": "to return, restore"
+        },
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace, wholeness"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And Samuel judged Israel all the days of his life.",
+      "highlightedWords": [
+        {
+          "word": "judged",
+          "strongNumber": "H8199",
+          "lemma": "shāphaṭ",
+          "meaning": "to judge, govern"
+        },
+        {
+          "word": "life",
+          "strongNumber": "H2416",
+          "lemma": "chay",
+          "meaning": "life, living"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And he went from year to year in circuit to Bethel, and Gilgal, and Mizpeh, and judged Israel in all those places.",
+      "highlightedWords": [
+        {
+          "word": "Bethel",
+          "strongNumber": "H1008",
+          "lemma": "Bêṯ-ʾēl",
+          "meaning": "Bethel; house of God"
+        },
+        {
+          "word": "year",
+          "strongNumber": "H8141",
+          "lemma": "shānāh",
+          "meaning": "year"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And his return was to Ramah; for there was his house; and there he judged Israel; and there he built an altar unto the LORD.",
+      "highlightedWords": [
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbēaḥ",
+          "meaning": "altar"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yahweh)",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    }
+  ]
+}
