@@ -1,0 +1,438 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 21,
+  "chapterTheme": {
+    "twoWordSummary": "Justice Purification",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "יהוה (YHWH)",
+        "meaning": "the personal name of Israel’s God; the LORD"
+      },
+      {
+        "word": "blood",
+        "strongNumber": "H1818",
+        "lemma": "דָּם (dam)",
+        "meaning": "blood; life-blood; bloodshed"
+      }
+    ]
+  },
+  "sentenceTheme": "Instructions for atoning an unsolved murder, regulations for captive wives, the firstborn’s right, discipline of a rebellious son, and burial of the hanged to keep the land undefiled before the LORD.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "If one be found slain in the land which the LORD thy God giveth thee to possess it, lying in the field, and it be not known who hath slain him:",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "יהוה (YHWH)",
+          "meaning": "the personal name of Israel’s God; the LORD"
+        },
+        {
+          "word": "land",
+          "strongNumber": "H0776",
+          "lemma": "אֶרֶץ (’erets)",
+          "meaning": "land; earth; territory"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Then thy elders and thy judges shall come forth, and they shall measure unto the cities which are round about him that is slain:",
+      "highlightedWords": [
+        {
+          "word": "elders",
+          "strongNumber": "H2205",
+          "lemma": "זָקֵן (zaqen)",
+          "meaning": "elder; old man; leader"
+        },
+        {
+          "word": "cities",
+          "strongNumber": "H5892",
+          "lemma": "עִיר (‘ir)",
+          "meaning": "city; town"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And it shall be, that the city which is next unto the slain man, even the elders of that city shall take an heifer, which hath not been wrought with, and which hath not drawn in the yoke;",
+      "highlightedWords": [
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "עִיר (‘ir)",
+          "meaning": "city; town"
+        },
+        {
+          "word": "yoke",
+          "strongNumber": "H5923",
+          "lemma": "עֹל (‘ol)",
+          "meaning": "yoke"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And the elders of that city shall bring down the heifer unto a rough valley, which is neither eared nor sown, and shall strike off the heifer's neck there in the valley:",
+      "highlightedWords": [
+        {
+          "word": "valley",
+          "strongNumber": "H5158",
+          "lemma": "נַחַל (nachal)",
+          "meaning": "valley; wadi; brook-bed"
+        },
+        {
+          "word": "neck",
+          "strongNumber": "H6203",
+          "lemma": "עֹרֶף (‘oreph)",
+          "meaning": "neck; nape"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And the priests the sons of Levi shall come near; for them the LORD thy God hath chosen to minister unto him, and to bless in the name of the LORD; and by their word shall every controversy and every stroke be tried:",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "H3548",
+          "lemma": "כֹּהֵן (kohen)",
+          "meaning": "priest"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "יהוה (YHWH)",
+          "meaning": "the personal name of Israel’s God; the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And all the elders of that city, that are next unto the slain man, shall wash their hands over the heifer that is beheaded in the valley:",
+      "highlightedWords": [
+        {
+          "word": "hands",
+          "strongNumber": "H3027",
+          "lemma": "יָד (yad)",
+          "meaning": "hand; power"
+        },
+        {
+          "word": "valley",
+          "strongNumber": "H5158",
+          "lemma": "נַחַל (nachal)",
+          "meaning": "valley; wadi; brook-bed"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And they shall answer and say, Our hands have not shed this blood, neither have our eyes seen it.",
+      "highlightedWords": [
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "דָּם (dam)",
+          "meaning": "blood; life-blood; bloodshed"
+        },
+        {
+          "word": "hands",
+          "strongNumber": "H3027",
+          "lemma": "יָד (yad)",
+          "meaning": "hand; power"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Be merciful, O LORD, unto thy people Israel, whom thou hast redeemed, and lay not innocent blood unto thy people of Israel's charge. And the blood shall be forgiven them.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "יהוה (YHWH)",
+          "meaning": "the personal name of Israel’s God; the LORD"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "יִשְׂרָאֵל (Yisra’el)",
+          "meaning": "Israel"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "So shalt thou put away the guilt of innocent blood from among you, when thou shalt do that which is right in the sight of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "דָּם (dam)",
+          "meaning": "blood; life-blood; bloodshed"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "יהוה (YHWH)",
+          "meaning": "the personal name of Israel’s God; the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "When thou goest forth to war against thine enemies, and the LORD thy God hath delivered them into thine hands, and thou hast taken them captive,",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "יהוה (YHWH)",
+          "meaning": "the personal name of Israel’s God; the LORD"
+        },
+        {
+          "word": "hands",
+          "strongNumber": "H3027",
+          "lemma": "יָד (yad)",
+          "meaning": "hand; power"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And seest among the captives a beautiful woman, and hast a desire unto her, that thou wouldest have her to thy wife;",
+      "highlightedWords": [
+        {
+          "word": "woman",
+          "strongNumber": "H802",
+          "lemma": "אִשָּׁה (’ishshah)",
+          "meaning": "woman; wife"
+        },
+        {
+          "word": "wife",
+          "strongNumber": "H802",
+          "lemma": "אִשָּׁה (’ishshah)",
+          "meaning": "woman; wife"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Then thou shalt bring her home to thine house; and she shall shave her head, and pare her nails;",
+      "highlightedWords": [
+        {
+          "word": "head",
+          "strongNumber": "H7218",
+          "lemma": "רֹאשׁ (ro’sh)",
+          "meaning": "head; top; chief"
+        },
+        {
+          "word": "nails",
+          "strongNumber": "H6856",
+          "lemma": "צִפֹּרֶן (tsipporen)",
+          "meaning": "fingernail; claw"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And she shall put the raiment of her captivity from off her, and shall remain in thine house, and bewail her father and her mother a full month: and after that thou shalt go in unto her, and be her husband, and she shall be thy wife.",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "בַּיִת (bayit)",
+          "meaning": "house; household"
+        },
+        {
+          "word": "month",
+          "strongNumber": "H3391",
+          "lemma": "חֹדֶשׁ (chodesh)",
+          "meaning": "month; new moon"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And it shall be, if thou have no delight in her, then thou shalt let her go whither she will; but thou shalt not sell her at all for money, thou shalt not make merchandise of her, because thou hast humbled her.",
+      "highlightedWords": [
+        {
+          "word": "sell",
+          "strongNumber": "H4376",
+          "lemma": "מָכַר (makar)",
+          "meaning": "to sell"
+        },
+        {
+          "word": "money",
+          "strongNumber": "H3701",
+          "lemma": "כֶּסֶף (kesef)",
+          "meaning": "silver; money"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "If a man have two wives, one beloved, and another hated, and they have born him children, both the beloved and the hated; and if the firstborn son be hers that was hated:",
+      "highlightedWords": [
+        {
+          "word": "wives",
+          "strongNumber": "H802",
+          "lemma": "אִשָּׁה (’ishshah)",
+          "meaning": "woman; wife"
+        },
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "בֵּן (ben)",
+          "meaning": "son; descendant"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Then it shall be, when he maketh his sons to inherit that which he hath, that he may not make the son of the beloved firstborn before the son of the hated, which is indeed the firstborn:",
+      "highlightedWords": [
+        {
+          "word": "firstborn",
+          "strongNumber": "H1060",
+          "lemma": "בְּכוֹר (bekor)",
+          "meaning": "firstborn"
+        },
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "בֵּן (ben)",
+          "meaning": "son; descendant"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "But he shall acknowledge the son of the hated for the firstborn, by giving him a double portion of all that he hath: for he is the beginning of his strength; the right of the firstborn is his.",
+      "highlightedWords": [
+        {
+          "word": "firstborn",
+          "strongNumber": "H1060",
+          "lemma": "בְּכוֹר (bekor)",
+          "meaning": "firstborn"
+        },
+        {
+          "word": "strength",
+          "strongNumber": "H0202",
+          "lemma": "אוֹן (’own)",
+          "meaning": "vigor; strength"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "If a man have a stubborn and rebellious son, which will not obey the voice of his father, or the voice of his mother, and that, when they have chastened him, will not hearken unto them:",
+      "highlightedWords": [
+        {
+          "word": "father",
+          "strongNumber": "H0001",
+          "lemma": "אָב (’av)",
+          "meaning": "father"
+        },
+        {
+          "word": "mother",
+          "strongNumber": "H0517",
+          "lemma": "אֵם (’em)",
+          "meaning": "mother"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Then shall his father and his mother lay hold on him, and bring him out unto the elders of his city, and unto the gate of his place;",
+      "highlightedWords": [
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "עִיר (‘ir)",
+          "meaning": "city; town"
+        },
+        {
+          "word": "gate",
+          "strongNumber": "H8179",
+          "lemma": "שַׁעַר (sha‘ar)",
+          "meaning": "gate; entrance"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And they shall say unto the elders of his city, This our son is stubborn and rebellious, he will not obey our voice; he is a glutton, and a drunkard.",
+      "highlightedWords": [
+        {
+          "word": "elders",
+          "strongNumber": "H2205",
+          "lemma": "זָקֵן (zaqen)",
+          "meaning": "elder; old man; leader"
+        },
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "עִיר (‘ir)",
+          "meaning": "city; town"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And all the men of his city shall stone him with stones, that he die: so shalt thou put evil away from among you; and all Israel shall hear, and fear.",
+      "highlightedWords": [
+        {
+          "word": "stones",
+          "strongNumber": "H0068",
+          "lemma": "אֶבֶן (’even)",
+          "meaning": "stone"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "יִשְׂרָאֵל (Yisra’el)",
+          "meaning": "Israel"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And if a man have committed a sin worthy of death, and he be to be put to death, and thou hang him on a tree:",
+      "highlightedWords": [
+        {
+          "word": "death",
+          "strongNumber": "H4194",
+          "lemma": "מָוֶת (maveth)",
+          "meaning": "death"
+        },
+        {
+          "word": "tree",
+          "strongNumber": "H6086",
+          "lemma": "עֵץ (‘ets)",
+          "meaning": "tree; wood"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "His body shall not remain all night upon the tree, but thou shalt in any wise bury him that day; (for he that is hanged is accursed of God;) that thy land be not defiled, which the LORD thy God giveth thee for an inheritance.",
+      "highlightedWords": [
+        {
+          "word": "tree",
+          "strongNumber": "H6086",
+          "lemma": "עֵץ (‘ets)",
+          "meaning": "tree; wood"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "יהוה (YHWH)",
+          "meaning": "the personal name of Israel’s God; the LORD"
+        }
+      ]
+    }
+  ]
+}

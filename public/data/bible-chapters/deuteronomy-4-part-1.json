@@ -1,0 +1,456 @@
+﻿{
+    "book":  "Deuteronomy",
+    "chapter":  4,
+    "chapterTheme":  {
+                         "twoWordSummary":  "Obey Diligently",
+                         "themeWords":  [
+                                            {
+                                                "word":  "statutes",
+                                                "strongNumber":  "H2708",
+                                                "lemma":  "chuqqah",
+                                                "meaning":  "statute, ordinance"
+                                            },
+                                            {
+                                                "word":  "idol",
+                                                "strongNumber":  "H6459",
+                                                "lemma":  "pesel",
+                                                "meaning":  "carved image, idol"
+                                            }
+                                        ]
+                     },
+    "sentenceTheme":  "Moses urges Israel to keep Godâ€™s statutes, shun idolatry, remember His unique revelation and mighty acts, and establishes the cities of refuge east of Jordan.",
+    "verses":  [
+                   {
+                       "verse":  1,
+                       "text":  "Now therefore hearken, O Israel, unto the statutes and unto the judgments, which I teach you, for to do them, that ye may live, and go in and possess the land which the LORD God of your fathers giveth you.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "LORD",
+                                                    "strongNumber":  "H3068",
+                                                    "lemma":  "YHWH",
+                                                    "meaning":  "the proper name of the God of Israel"
+                                                },
+                                                {
+                                                    "word":  "God",
+                                                    "strongNumber":  "H430",
+                                                    "lemma":  "â€™elohim",
+                                                    "meaning":  "God; gods; mighty one(s)"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  2,
+                       "text":  "Ye shall not add unto the word which I command you, neither shall ye diminish ought from it, that ye may keep the commandments of the LORD your God which I command you.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "LORD",
+                                                    "strongNumber":  "H3068",
+                                                    "lemma":  "YHWH",
+                                                    "meaning":  "the proper name of the God of Israel"
+                                                },
+                                                {
+                                                    "word":  "commandments",
+                                                    "strongNumber":  "H4687",
+                                                    "lemma":  "mitsvah",
+                                                    "meaning":  "command, commandment"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  3,
+                       "text":  "Your eyes have seen what the LORD did because of Baal-peor: for all the men that followed Baal-peor, the LORD thy God hath destroyed them from among you.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "LORD",
+                                                    "strongNumber":  "H3068",
+                                                    "lemma":  "YHWH",
+                                                    "meaning":  "the proper name of the God of Israel"
+                                                },
+                                                {
+                                                    "word":  "God",
+                                                    "strongNumber":  "H430",
+                                                    "lemma":  "â€™elohim",
+                                                    "meaning":  "God; gods; mighty one(s)"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  4,
+                       "text":  "But ye that did cleave unto the LORD your God are alive every one of you this day.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "LORD",
+                                                    "strongNumber":  "H3068",
+                                                    "lemma":  "YHWH",
+                                                    "meaning":  "the proper name of the God of Israel"
+                                                },
+                                                {
+                                                    "word":  "God",
+                                                    "strongNumber":  "H430",
+                                                    "lemma":  "â€™elohim",
+                                                    "meaning":  "God; gods; mighty one(s)"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  5,
+                       "text":  "Behold, I have taught you statutes and judgments, even as the LORD my God commanded me, that ye should do so in the land whither ye go to possess it.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "statutes",
+                                                    "strongNumber":  "H2708",
+                                                    "lemma":  "chuqqah",
+                                                    "meaning":  "statute, ordinance"
+                                                },
+                                                {
+                                                    "word":  "LORD",
+                                                    "strongNumber":  "H3068",
+                                                    "lemma":  "YHWH",
+                                                    "meaning":  "the proper name of the God of Israel"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  6,
+                       "text":  "Keep therefore and do them; for this is your wisdom and your understanding in the sight of the nations, which shall hear all these statutes, and say, Surely this great nation is a wise and understanding people.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "wisdom",
+                                                    "strongNumber":  "H2451",
+                                                    "lemma":  "chokmah",
+                                                    "meaning":  "wisdom, skill"
+                                                },
+                                                {
+                                                    "word":  "statutes",
+                                                    "strongNumber":  "H2708",
+                                                    "lemma":  "chuqqah",
+                                                    "meaning":  "statute, ordinance"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  7,
+                       "text":  "For what nation is there so great, who hath God so nigh unto them, as the LORD our God is in all things that we call upon him for?",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "God",
+                                                    "strongNumber":  "H430",
+                                                    "lemma":  "â€™elohim",
+                                                    "meaning":  "God; gods; mighty one(s)"
+                                                },
+                                                {
+                                                    "word":  "LORD",
+                                                    "strongNumber":  "H3068",
+                                                    "lemma":  "YHWH",
+                                                    "meaning":  "the proper name of the God of Israel"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  8,
+                       "text":  "And what nation is there so great, that hath statutes and judgments so righteous as all this law, which I set before you this day?",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "statutes",
+                                                    "strongNumber":  "H2708",
+                                                    "lemma":  "chuqqah",
+                                                    "meaning":  "statute, ordinance"
+                                                },
+                                                {
+                                                    "word":  "judgments",
+                                                    "strongNumber":  "H4941",
+                                                    "lemma":  "mishpat",
+                                                    "meaning":  "judgment, justice, ordinance"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  9,
+                       "text":  "Only take heed to thyself, and keep thy soul diligently, lest thou forget the things which thine eyes have seen, and lest they depart from thy heart all the days of thy life: but teach them thy sons, and thy sons\u0027 sons;",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "soul",
+                                                    "strongNumber":  "H5315",
+                                                    "lemma":  "nephesh",
+                                                    "meaning":  "soul, life, self"
+                                                },
+                                                {
+                                                    "word":  "heart",
+                                                    "strongNumber":  "H3824",
+                                                    "lemma":  "lebab",
+                                                    "meaning":  "heart, mind, inner person"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  10,
+                       "text":  "Specially the day that thou stoodest before the LORD thy God in Horeb, when the LORD said unto me, Gather me the people together, and I will make them hear my words, that they may learn to fear me all the days that they shall live upon the earth, and that they may teach their children.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "LORD",
+                                                    "strongNumber":  "H3068",
+                                                    "lemma":  "YHWH",
+                                                    "meaning":  "the proper name of the God of Israel"
+                                                },
+                                                {
+                                                    "word":  "God",
+                                                    "strongNumber":  "H430",
+                                                    "lemma":  "â€™elohim",
+                                                    "meaning":  "God; gods; mighty one(s)"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  11,
+                       "text":  "And ye came near and stood under the mountain; and the mountain burned with fire unto the midst of heaven, with darkness, clouds, and thick darkness.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "mountain",
+                                                    "strongNumber":  "H2022",
+                                                    "lemma":  "har",
+                                                    "meaning":  "mountain, hill country"
+                                                },
+                                                {
+                                                    "word":  "fire",
+                                                    "strongNumber":  "H784",
+                                                    "lemma":  "â€™esh",
+                                                    "meaning":  "fire"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  12,
+                       "text":  "And the LORD spake unto you out of the midst of the fire: ye heard the voice of the words, but saw no similitude; only ye heard a voice.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "LORD",
+                                                    "strongNumber":  "H3068",
+                                                    "lemma":  "YHWH",
+                                                    "meaning":  "the proper name of the God of Israel"
+                                                },
+                                                {
+                                                    "word":  "voice",
+                                                    "strongNumber":  "H6963",
+                                                    "lemma":  "qol",
+                                                    "meaning":  "voice, sound"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  13,
+                       "text":  "And he declared unto you his covenant, which he commanded you to perform, even ten commandments; and he wrote them upon two tables of stone.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "covenant",
+                                                    "strongNumber":  "H1285",
+                                                    "lemma":  "berith",
+                                                    "meaning":  "covenant, treaty, alliance"
+                                                },
+                                                {
+                                                    "word":  "commandments",
+                                                    "strongNumber":  "H4687",
+                                                    "lemma":  "mitsvah",
+                                                    "meaning":  "command, commandment"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  14,
+                       "text":  "And the LORD commanded me at that time to teach you statutes and judgments, that ye might do them in the land whither ye go over to possess it.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "LORD",
+                                                    "strongNumber":  "H3068",
+                                                    "lemma":  "YHWH",
+                                                    "meaning":  "the proper name of the God of Israel"
+                                                },
+                                                {
+                                                    "word":  "statutes",
+                                                    "strongNumber":  "H2708",
+                                                    "lemma":  "chuqqah",
+                                                    "meaning":  "statute, ordinance"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  15,
+                       "text":  "Take ye therefore good heed unto yourselves; for ye saw no manner of similitude on the day that the LORD spake unto you in Horeb out of the midst of the fire:",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "similitude",
+                                                    "strongNumber":  "H8544",
+                                                    "lemma":  "temunah",
+                                                    "meaning":  "form, likeness, representation"
+                                                },
+                                                {
+                                                    "word":  "LORD",
+                                                    "strongNumber":  "H3068",
+                                                    "lemma":  "YHWH",
+                                                    "meaning":  "the proper name of the God of Israel"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  16,
+                       "text":  "Lest ye corrupt yourselves, and make you a graven image, the similitude of any figure, the likeness of male or female,",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "graven image",
+                                                    "strongNumber":  "H6459",
+                                                    "lemma":  "pesel",
+                                                    "meaning":  "carved image, idol"
+                                                },
+                                                {
+                                                    "word":  "likeness",
+                                                    "strongNumber":  "H1823",
+                                                    "lemma":  "demuth",
+                                                    "meaning":  "likeness, resemblance"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  17,
+                       "text":  "The likeness of any beast that is on the earth, the likeness of any winged fowl that flieth in the air,",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "beast",
+                                                    "strongNumber":  "H929",
+                                                    "lemma":  "behemah",
+                                                    "meaning":  "beast, animal, cattle"
+                                                },
+                                                {
+                                                    "word":  "fowl",
+                                                    "strongNumber":  "H5775",
+                                                    "lemma":  "â€™owph",
+                                                    "meaning":  "bird, flying creature"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  18,
+                       "text":  "The likeness of any thing that creepeth on the ground, the likeness of any fish that is in the waters beneath the earth:",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "waters",
+                                                    "strongNumber":  "H4325",
+                                                    "lemma":  "mayim",
+                                                    "meaning":  "waters"
+                                                },
+                                                {
+                                                    "word":  "earth",
+                                                    "strongNumber":  "H776",
+                                                    "lemma":  "â€™erets",
+                                                    "meaning":  "earth, land"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  19,
+                       "text":  "And lest thou lift up thine eyes unto heaven, and when thou seest the sun, and the moon, and the stars, even all the host of heaven, shouldest be driven to worship them, and serve them, which the LORD thy God hath divided unto all nations under the whole heaven.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "host",
+                                                    "strongNumber":  "H6635",
+                                                    "lemma":  "tsaba",
+                                                    "meaning":  "host, army, multitude"
+                                                },
+                                                {
+                                                    "word":  "LORD",
+                                                    "strongNumber":  "H3068",
+                                                    "lemma":  "YHWH",
+                                                    "meaning":  "the proper name of the God of Israel"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  20,
+                       "text":  "But the LORD hath taken you, and brought you forth out of the iron furnace, even out of Egypt, to be unto him a people of inheritance, as ye are this day.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "Egypt",
+                                                    "strongNumber":  "H4714",
+                                                    "lemma":  "Mitsrayim",
+                                                    "meaning":  "Egypt"
+                                                },
+                                                {
+                                                    "word":  "LORD",
+                                                    "strongNumber":  "H3068",
+                                                    "lemma":  "YHWH",
+                                                    "meaning":  "the proper name of the God of Israel"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  21,
+                       "text":  "Furthermore the LORD was angry with me for your sakes, and sware that I should not go over Jordan, and that I should not go in unto that good land, which the LORD thy God giveth thee for an inheritance:",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "God",
+                                                    "strongNumber":  "H430",
+                                                    "lemma":  "â€™elohim",
+                                                    "meaning":  "God; gods; mighty one(s)"
+                                                },
+                                                {
+                                                    "word":  "LORD",
+                                                    "strongNumber":  "H3068",
+                                                    "lemma":  "YHWH",
+                                                    "meaning":  "the proper name of the God of Israel"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  22,
+                       "text":  "But I must die in this land, I must not go over Jordan: but ye shall go over, and possess that good land.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "Jordan",
+                                                    "strongNumber":  "H3383",
+                                                    "lemma":  "Yarden",
+                                                    "meaning":  "the Jordan River"
+                                                },
+                                                {
+                                                    "word":  "possess",
+                                                    "strongNumber":  "H3423",
+                                                    "lemma":  "yarash",
+                                                    "meaning":  "to inherit, possess, dispossess"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  23,
+                       "text":  "Take heed unto yourselves, lest ye forget the covenant of the LORD your God, which he made with you, and make you a graven image, or the likeness of any thing, which the LORD thy God hath forbidden thee.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "covenant",
+                                                    "strongNumber":  "H1285",
+                                                    "lemma":  "berith",
+                                                    "meaning":  "covenant, treaty, alliance"
+                                                },
+                                                {
+                                                    "word":  "LORD",
+                                                    "strongNumber":  "H3068",
+                                                    "lemma":  "YHWH",
+                                                    "meaning":  "the proper name of the God of Israel"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  24,
+                       "text":  "For the LORD thy God is a consuming fire, even a jealous God.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "fire",
+                                                    "strongNumber":  "H784",
+                                                    "lemma":  "â€™esh",
+                                                    "meaning":  "fire"
+                                                },
+                                                {
+                                                    "word":  "God",
+                                                    "strongNumber":  "H430",
+                                                    "lemma":  "â€™elohim",
+                                                    "meaning":  "God; gods; mighty one(s)"
+                                                }
+                                            ]
+                   }
+               ]
+}

@@ -1,0 +1,618 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 5,
+  "chapterTheme": {
+    "twoWordSummary": "Ten Commandments",
+    "themeWords": [
+      {
+        "word": "covenant",
+        "strongNumber": "H1285",
+        "lemma": "berith",
+        "meaning": "covenant; agreement; treaty"
+      },
+      {
+        "word": "commandments",
+        "strongNumber": "H4687",
+        "lemma": "mitsvah",
+        "meaning": "commandment; charge; law"
+      }
+    ]
+  },
+  "sentenceTheme": "Moses recounts the covenant made at Horeb and restates the Ten Commandments, urging Israel to hear and obey the LORD.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And Moses called all Israel, and said unto them, Hear, O Israel, the statutes and judgments which I speak in your ears this day, that ye may learn them, and keep, and do them.",
+      "highlightedWords": [
+        {
+          "word": "Hear",
+          "strongNumber": "H8085",
+          "lemma": "shamaʿ",
+          "meaning": "to hear; listen; obey"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "yisra'el",
+          "meaning": "Israel; 'God strives'"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "The LORD our God made a covenant with us in Horeb.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "yhwh",
+          "meaning": "the personal name of Israel's God"
+        },
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "covenant; agreement; treaty"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "The LORD made not this covenant with our fathers, but with us, even us, who are all of us here alive this day.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "yhwh",
+          "meaning": "the personal name of Israel's God"
+        },
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "covenant; agreement; treaty"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "The LORD talked with you face to face in the mount out of the midst of the fire,",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "yhwh",
+          "meaning": "the personal name of Israel's God"
+        },
+        {
+          "word": "fire",
+          "strongNumber": "H0784",
+          "lemma": "ʾesh",
+          "meaning": "fire"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "(I stood between the LORD and you at that time, to shew you the word of the LORD: for ye were afraid by reason of the fire, and went not up into the mount;) saying,",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "yhwh",
+          "meaning": "the personal name of Israel's God"
+        },
+        {
+          "word": "afraid",
+          "strongNumber": "H3372",
+          "lemma": "yareʾ",
+          "meaning": "to fear; be afraid; revere"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "I am the LORD thy God, which brought thee out of the land of Egypt, from the house of bondage.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "yhwh",
+          "meaning": "the personal name of Israel's God"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "mitsrayim",
+          "meaning": "Egypt"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Thou shalt have none other gods before me.",
+      "highlightedWords": [
+        {
+          "word": "gods",
+          "strongNumber": "H430",
+          "lemma": "ʾelohim",
+          "meaning": "God; gods; mighty one(s)"
+        },
+        {
+          "word": "before",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "face; presence; before"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Thou shalt not make thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the waters beneath the earth:",
+      "highlightedWords": [
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens; sky"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H0776",
+          "lemma": "ʾerets",
+          "meaning": "earth; land"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Thou shalt not bow down thyself unto them, nor serve them: for I the LORD thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me,",
+      "highlightedWords": [
+        {
+          "word": "jealous",
+          "strongNumber": "H7067",
+          "lemma": "qannaʾ",
+          "meaning": "jealous; zealous"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "ʿavon",
+          "meaning": "iniquity; guilt; punishment"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And shewing mercy unto thousands of them that love me and keep my commandments.",
+      "highlightedWords": [
+        {
+          "word": "mercy",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "steadfast love; kindness; mercy"
+        },
+        {
+          "word": "commandments",
+          "strongNumber": "H4687",
+          "lemma": "mitsvah",
+          "meaning": "commandment; charge; law"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Thou shalt not take the name of the LORD thy God in vain: for the LORD will not hold him guiltless that taketh his name in vain.",
+      "highlightedWords": [
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "name; reputation; memorial"
+        },
+        {
+          "word": "vain",
+          "strongNumber": "H7723",
+          "lemma": "shavʾ",
+          "meaning": "emptiness; vanity; falsehood"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Keep the sabbath day to sanctify it, as the LORD thy God hath commanded thee.",
+      "highlightedWords": [
+        {
+          "word": "sabbath",
+          "strongNumber": "H7676",
+          "lemma": "shabbath",
+          "meaning": "Sabbath; day of rest"
+        },
+        {
+          "word": "sanctify",
+          "strongNumber": "H6942",
+          "lemma": "qadash",
+          "meaning": "to consecrate; set apart; sanctify"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Six days thou shalt labour, and do all thy work:",
+      "highlightedWords": [
+        {
+          "word": "labour",
+          "strongNumber": "H5647",
+          "lemma": "ʿabad",
+          "meaning": "to work; serve"
+        },
+        {
+          "word": "work",
+          "strongNumber": "H4399",
+          "lemma": "melakhah",
+          "meaning": "work; occupation; craftsmanship"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "But the seventh day is the sabbath of the LORD thy God: in it thou shalt not do any work, thou, nor thy son, nor thy daughter, nor thy manservant, nor thy maidservant, nor thine ox, nor thine ass, nor any of thy cattle, nor thy stranger that is within thy gates; that thy manservant and thy maidservant may rest as well as thou.",
+      "highlightedWords": [
+        {
+          "word": "sabbath",
+          "strongNumber": "H7676",
+          "lemma": "shabbath",
+          "meaning": "Sabbath; day of rest"
+        },
+        {
+          "word": "rest",
+          "strongNumber": "H5117",
+          "lemma": "nuach",
+          "meaning": "to rest; settle; repose"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And remember that thou wast a servant in the land of Egypt, and that the LORD thy God brought thee out thence through a mighty hand and by a stretched out arm: therefore the LORD thy God commanded thee to keep the sabbath day.",
+      "highlightedWords": [
+        {
+          "word": "remember",
+          "strongNumber": "H2142",
+          "lemma": "zakar",
+          "meaning": "to remember; recall; call to mind"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "mitsrayim",
+          "meaning": "Egypt"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Honour thy father and thy mother, as the LORD thy God hath commanded thee; that thy days may be prolonged, and that it may go well with thee, in the land which the LORD thy God giveth thee.",
+      "highlightedWords": [
+        {
+          "word": "Honour",
+          "strongNumber": "H3513",
+          "lemma": "kabad",
+          "meaning": "to honor; be weighty; glorify"
+        },
+        {
+          "word": "father",
+          "strongNumber": "H0001",
+          "lemma": "ʾab",
+          "meaning": "father; ancestor"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Thou shalt not kill.",
+      "highlightedWords": [
+        {
+          "word": "not",
+          "strongNumber": "H3808",
+          "lemma": "loʾ",
+          "meaning": "not; no; neither"
+        },
+        {
+          "word": "kill",
+          "strongNumber": "H7523",
+          "lemma": "ratsach",
+          "meaning": "to murder; slay; kill"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Neither shalt thou commit adultery.",
+      "highlightedWords": [
+        {
+          "word": "Neither",
+          "strongNumber": "H3808",
+          "lemma": "loʾ",
+          "meaning": "not; neither; nor"
+        },
+        {
+          "word": "adultery",
+          "strongNumber": "H5003",
+          "lemma": "naʾaf",
+          "meaning": "to commit adultery"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Neither shalt thou steal.",
+      "highlightedWords": [
+        {
+          "word": "Neither",
+          "strongNumber": "H3808",
+          "lemma": "loʾ",
+          "meaning": "not; neither; nor"
+        },
+        {
+          "word": "steal",
+          "strongNumber": "H1589",
+          "lemma": "ganab",
+          "meaning": "to steal; carry away by stealth"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Neither shalt thou bear false witness against thy neighbour.",
+      "highlightedWords": [
+        {
+          "word": "false",
+          "strongNumber": "H8267",
+          "lemma": "sheqer",
+          "meaning": "falsehood; deception; lie"
+        },
+        {
+          "word": "witness",
+          "strongNumber": "H5707",
+          "lemma": "ʿed",
+          "meaning": "witness; testimony"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Neither shalt thou desire thy neighbour's wife, neither shalt thou covet thy neighbour's house, his field, or his manservant, or his maidservant, his ox, or his ass, or any thing that is thy neighbour's.",
+      "highlightedWords": [
+        {
+          "word": "desire",
+          "strongNumber": "H183",
+          "lemma": "ta'awah",
+          "meaning": "desire; craving; longing"
+        },
+        {
+          "word": "covet",
+          "strongNumber": "H2530",
+          "lemma": "chamad",
+          "meaning": "to desire; covet; take pleasure in"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "These words the LORD spake unto all your assembly in the mount out of the midst of the fire, of the cloud, and of the thick darkness, with a great voice: and he added no more. And he wrote them in two tables of stone, and delivered them unto me.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "yhwh",
+          "meaning": "the personal name of Israel's God"
+        },
+        {
+          "word": "tables",
+          "strongNumber": "H3871",
+          "lemma": "luach",
+          "meaning": "tablet; board; table"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And it came to pass, when ye heard the voice out of the midst of the darkness, (for the mountain did burn with fire,) that ye came near unto me, even all the heads of your tribes, and your elders;",
+      "highlightedWords": [
+        {
+          "word": "voice",
+          "strongNumber": "H6963",
+          "lemma": "qol",
+          "meaning": "voice; sound; noise"
+        },
+        {
+          "word": "fire",
+          "strongNumber": "H0784",
+          "lemma": "ʾesh",
+          "meaning": "fire"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And ye said, Behold, the LORD our God hath shewed us his glory and his greatness, and we have heard his voice out of the midst of the fire: we have seen this day that God doth talk with man, and he liveth.",
+      "highlightedWords": [
+        {
+          "word": "glory",
+          "strongNumber": "H3519",
+          "lemma": "kabod",
+          "meaning": "glory; honor; weight"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "ʾelohim",
+          "meaning": "God; deity; mighty one"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Now therefore why should we die? for this great fire will consume us: if we hear the voice of the LORD our God any more, then we shall die.",
+      "highlightedWords": [
+        {
+          "word": "die",
+          "strongNumber": "H4191",
+          "lemma": "muth",
+          "meaning": "to die; perish"
+        },
+        {
+          "word": "consume",
+          "strongNumber": "H0398",
+          "lemma": "ʾakal",
+          "meaning": "to eat; devour; consume"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "For who is there of all flesh, that hath heard the voice of the living God speaking out of the midst of the fire, as we have, and lived?",
+      "highlightedWords": [
+        {
+          "word": "flesh",
+          "strongNumber": "H1320",
+          "lemma": "basar",
+          "meaning": "flesh; body; mankind"
+        },
+        {
+          "word": "living",
+          "strongNumber": "H2416",
+          "lemma": "chay",
+          "meaning": "alive; living"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "Go thou near, and hear all that the LORD our God shall say: and speak thou unto us all that the LORD our God shall speak unto thee; and we will hear it, and do it.",
+      "highlightedWords": [
+        {
+          "word": "hear",
+          "strongNumber": "H8085",
+          "lemma": "shamaʿ",
+          "meaning": "to hear; listen; obey"
+        },
+        {
+          "word": "speak",
+          "strongNumber": "H1696",
+          "lemma": "dabar",
+          "meaning": "to speak; declare"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And the LORD heard the voice of your words, when ye spake unto me; and the LORD said unto me, I have heard the voice of the words of this people, which they have spoken unto thee: they have well said all that they have spoken.",
+      "highlightedWords": [
+        {
+          "word": "heard",
+          "strongNumber": "H8085",
+          "lemma": "shamaʿ",
+          "meaning": "to hear; listen; obey"
+        },
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "ʿam",
+          "meaning": "people; nation"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "O that there were such an heart in them, that they would fear me, and keep all my commandments always, that it might be well with them, and with their children for ever!",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3824",
+          "lemma": "lebab",
+          "meaning": "heart; inner person; mind"
+        },
+        {
+          "word": "fear",
+          "strongNumber": "H3372",
+          "lemma": "yareʾ",
+          "meaning": "to fear; revere; be in awe"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "Go say to them, Get you into your tents again.",
+      "highlightedWords": [
+        {
+          "word": "tents",
+          "strongNumber": "H0168",
+          "lemma": "ʾohel",
+          "meaning": "tent; dwelling"
+        },
+        {
+          "word": "again",
+          "strongNumber": "H7725",
+          "lemma": "shub",
+          "meaning": "to return; turn back; again"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "But as for thee, stand thou here by me, and I will speak unto thee all the commandments, and the statutes, and the judgments, which thou shalt teach them, that they may do them in the land which I give them to possess it.",
+      "highlightedWords": [
+        {
+          "word": "teach",
+          "strongNumber": "H3925",
+          "lemma": "lamad",
+          "meaning": "to learn; teach; train"
+        },
+        {
+          "word": "possess",
+          "strongNumber": "H3423",
+          "lemma": "yarash",
+          "meaning": "to possess; inherit; dispossess"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "Ye shall observe to do therefore as the LORD your God hath commanded you: ye shall not turn aside to the right hand or to the left.",
+      "highlightedWords": [
+        {
+          "word": "commanded",
+          "strongNumber": "H6680",
+          "lemma": "tsavah",
+          "meaning": "to command; charge; order"
+        },
+        {
+          "word": "left",
+          "strongNumber": "H8040",
+          "lemma": "semol",
+          "meaning": "left; left side"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "Ye shall walk in all the ways which the LORD your God hath commanded you, that ye may live, and that it may be well with you, and that ye may prolong your days in the land which ye shall possess.",
+      "highlightedWords": [
+        {
+          "word": "walk",
+          "strongNumber": "H1980",
+          "lemma": "halak",
+          "meaning": "to walk; go; live"
+        },
+        {
+          "word": "live",
+          "strongNumber": "H2421",
+          "lemma": "chayah",
+          "meaning": "to live; be alive; revive"
+        }
+      ]
+    }
+  ]
+}

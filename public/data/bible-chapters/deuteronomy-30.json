@@ -1,0 +1,384 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 30,
+  "chapterTheme": {
+    "twoWordSummary": "Return Life",
+    "themeWords": [
+      {
+        "word": "return",
+        "strongNumber": "H7725",
+        "lemma": "shuv",
+        "meaning": "to turn back, return"
+      },
+      {
+        "word": "life",
+        "strongNumber": "H2416",
+        "lemma": "chay",
+        "meaning": "life, living"
+      }
+    ]
+  },
+  "sentenceTheme": "Moses promises restoration for repentance, affirms the nearness of God's word, and sets before Israel the choice between life and death.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And it shall come to pass, when all these things are come upon thee, the blessing and the curse, which I have set before thee, and thou shalt call them to mind among all the nations, whither the LORD thy God hath driven thee,",
+      "highlightedWords": [
+        {
+          "word": "blessing",
+          "strongNumber": "H1293",
+          "lemma": "berakah",
+          "meaning": "blessing, benefit, benediction"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God, the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And shalt return unto the LORD thy God, and shalt obey his voice according to all that I command thee this day, thou and thy children, with all thine heart, and with all thy soul;",
+      "highlightedWords": [
+        {
+          "word": "return",
+          "strongNumber": "H7725",
+          "lemma": "shuv",
+          "meaning": "to turn back, return"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3824",
+          "lemma": "lebab",
+          "meaning": "inner man, heart, mind, will"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "That then the LORD thy God will turn thy captivity, and have compassion upon thee, and will return and gather thee from all the nations, whither the LORD thy God hath scattered thee.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God, the LORD"
+        },
+        {
+          "word": "gather",
+          "strongNumber": "H6908",
+          "lemma": "qabas",
+          "meaning": "to collect, gather"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "If any of thine be driven out unto the outmost parts of heaven, from thence will the LORD thy God gather thee, and from thence will he fetch thee:",
+      "highlightedWords": [
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens, sky"
+        },
+        {
+          "word": "fetch",
+          "strongNumber": "H3947",
+          "lemma": "laqach",
+          "meaning": "to take, fetch, receive"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And the LORD thy God will bring thee into the land which thy fathers possessed, and thou shalt possess it; and he will do thee good, and multiply thee above thy fathers.",
+      "highlightedWords": [
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "land, earth"
+        },
+        {
+          "word": "possess",
+          "strongNumber": "H3423",
+          "lemma": "yarash",
+          "meaning": "to possess, inherit"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And the LORD thy God will circumcise thine heart, and the heart of thy seed, to love the LORD thy God with all thine heart, and with all thy soul, that thou mayest live.",
+      "highlightedWords": [
+        {
+          "word": "circumcise",
+          "strongNumber": "H4135",
+          "lemma": "mul",
+          "meaning": "to circumcise, cut off foreskin"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3824",
+          "lemma": "lebab",
+          "meaning": "inner man, heart, mind, will"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And the LORD thy God will put all these curses upon thine enemies, and on them that hate thee, which persecuted thee.",
+      "highlightedWords": [
+        {
+          "word": "curses",
+          "strongNumber": "H7045",
+          "lemma": "qelalah",
+          "meaning": "a curse, vilification"
+        },
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "oyeb",
+          "meaning": "enemy, foe"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And thou shalt return and obey the voice of the LORD, and do all his commandments which I command thee this day.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God, the LORD"
+        },
+        {
+          "word": "commandments",
+          "strongNumber": "H4687",
+          "lemma": "mitzvah",
+          "meaning": "command, commandment"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And the LORD thy God will make thee plenteous in every work of thine hand, in the fruit of thy body, and in the fruit of thy cattle, and in the fruit of thy land, for good: for the LORD will again rejoice over thee for good, as he rejoiced over thy fathers:",
+      "highlightedWords": [
+        {
+          "word": "fruit",
+          "strongNumber": "H6529",
+          "lemma": "periy",
+          "meaning": "fruit, produce"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God, the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "If thou shalt hearken unto the voice of the LORD thy God, to keep his commandments and his statutes which are written in this book of the law, and if thou turn unto the LORD thy God with all thine heart and with all thy soul.",
+      "highlightedWords": [
+        {
+          "word": "hearken",
+          "strongNumber": "H8085",
+          "lemma": "shama",
+          "meaning": "to hear, listen, obey"
+        },
+        {
+          "word": "law",
+          "strongNumber": "H8451",
+          "lemma": "torah",
+          "meaning": "instruction, law"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "For this commandment which I command thee this day, it is not hidden from thee, neither is it far off.",
+      "highlightedWords": [
+        {
+          "word": "commandment",
+          "strongNumber": "H4687",
+          "lemma": "mitzvah",
+          "meaning": "command, commandment"
+        },
+        {
+          "word": "far",
+          "strongNumber": "H7350",
+          "lemma": "rachowq",
+          "meaning": "far, distant, remote"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "It is not in heaven, that thou shouldest say, Who shall go up for us to heaven, and bring it unto us, that we may hear it, and do it?",
+      "highlightedWords": [
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens, sky"
+        },
+        {
+          "word": "hear",
+          "strongNumber": "H8085",
+          "lemma": "shama",
+          "meaning": "to hear, listen, obey"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Neither is it beyond the sea, that thou shouldest say, Who shall go over the sea for us, and bring it unto us, that we may hear it, and do it?",
+      "highlightedWords": [
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "sea"
+        },
+        {
+          "word": "hear",
+          "strongNumber": "H8085",
+          "lemma": "shama",
+          "meaning": "to hear, listen, obey"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "But the word is very nigh unto thee, in thy mouth, and in thy heart, that thou mayest do it.",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, thing"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3824",
+          "lemma": "lebab",
+          "meaning": "inner man, heart, mind, will"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "See, I have set before thee this day life and good, and death and evil;",
+      "highlightedWords": [
+        {
+          "word": "life",
+          "strongNumber": "H2416",
+          "lemma": "chay",
+          "meaning": "life, living"
+        },
+        {
+          "word": "death",
+          "strongNumber": "H4194",
+          "lemma": "maveth",
+          "meaning": "death"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "In that I command thee this day to love the LORD thy God, to walk in his ways, and to keep his commandments and his statutes and his judgments, that thou mayest live and multiply: and the LORD thy God shall bless thee in the land whither thou goest to possess it.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God, the LORD"
+        },
+        {
+          "word": "love",
+          "strongNumber": "H157",
+          "lemma": "ahab",
+          "meaning": "to love"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "But if thine heart turn away, so that thou wilt not hear, but shalt be drawn away, and worship other gods, and serve them;",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3824",
+          "lemma": "lebab",
+          "meaning": "inner man, heart, mind, will"
+        },
+        {
+          "word": "gods",
+          "strongNumber": "H430",
+          "lemma": "elohim",
+          "meaning": "gods, deities"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "I denounce unto you this day, that ye shall surely perish, and that ye shall not prolong your days upon the land, whither thou passest over Jordan to go to possess it.",
+      "highlightedWords": [
+        {
+          "word": "perish",
+          "strongNumber": "H6",
+          "lemma": "abad",
+          "meaning": "to perish, be destroyed"
+        },
+        {
+          "word": "Jordan",
+          "strongNumber": "H3383",
+          "lemma": "Yarden",
+          "meaning": "the Jordan River"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "I call heaven and earth to record this day against you, that I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live:",
+      "highlightedWords": [
+        {
+          "word": "choose",
+          "strongNumber": "H977",
+          "lemma": "bachar",
+          "meaning": "to choose, select"
+        },
+        {
+          "word": "life",
+          "strongNumber": "H2416",
+          "lemma": "chay",
+          "meaning": "life, living"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "That thou mayest love the LORD thy God, and that thou mayest obey his voice, and that thou mayest cleave unto him: for he is thy life, and the length of thy days: that thou mayest dwell in the land which the LORD sware unto thy fathers, to Abraham, to Isaac, and to Jacob, to give them.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God, the LORD"
+        },
+        {
+          "word": "cleave",
+          "strongNumber": "H1692",
+          "lemma": "dabaq",
+          "meaning": "to cling, stick, cleave"
+        }
+      ]
+    }
+  ]
+}

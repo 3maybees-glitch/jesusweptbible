@@ -1,0 +1,474 @@
+﻿{
+    "book":  "Deuteronomy",
+    "chapter":  4,
+    "chapterTheme":  {
+                         "twoWordSummary":  "Obey Diligently",
+                         "themeWords":  [
+                                            {
+                                                "word":  "statutes",
+                                                "strongNumber":  "H2708",
+                                                "lemma":  "chuqqah",
+                                                "meaning":  "statute, ordinance"
+                                            },
+                                            {
+                                                "word":  "idol",
+                                                "strongNumber":  "H6459",
+                                                "lemma":  "pesel",
+                                                "meaning":  "carved image, idol"
+                                            }
+                                        ]
+                     },
+    "sentenceTheme":  "Moses urges Israel to keep Godâ€™s statutes, shun idolatry, remember His unique revelation and mighty acts, and establishes the cities of refuge east of Jordan.",
+    "verses":  [
+                   {
+                       "verse":  25,
+                       "text":  "When thou shalt beget children, and children\u0027s children, and ye shall have remained long in the land, and shall corrupt yourselves, and make a graven image, or the likeness of any thing, and shall do evil in the sight of the LORD thy God, to provoke him to anger:",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "graven image",
+                                                    "strongNumber":  "H6459",
+                                                    "lemma":  "pesel",
+                                                    "meaning":  "carved image, idol"
+                                                },
+                                                {
+                                                    "word":  "LORD",
+                                                    "strongNumber":  "H3068",
+                                                    "lemma":  "YHWH",
+                                                    "meaning":  "the proper name of the God of Israel"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  26,
+                       "text":  "I call heaven and earth to witness against you this day, that ye shall soon utterly perish from off the land whereunto ye go over Jordan to possess it; ye shall not prolong your days upon it, but shall utterly be destroyed.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "heaven",
+                                                    "strongNumber":  "H8064",
+                                                    "lemma":  "shamayim",
+                                                    "meaning":  "heavens, sky"
+                                                },
+                                                {
+                                                    "word":  "earth",
+                                                    "strongNumber":  "H776",
+                                                    "lemma":  "â€™erets",
+                                                    "meaning":  "earth, land"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  27,
+                       "text":  "And the LORD shall scatter you among the nations, and ye shall be left few in number among the heathen, whither the LORD shall lead you.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "scatter",
+                                                    "strongNumber":  "H6327",
+                                                    "lemma":  "puwts",
+                                                    "meaning":  "to scatter, disperse"
+                                                },
+                                                {
+                                                    "word":  "LORD",
+                                                    "strongNumber":  "H3068",
+                                                    "lemma":  "YHWH",
+                                                    "meaning":  "the proper name of the God of Israel"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  28,
+                       "text":  "And there ye shall serve gods, the work of men\u0027s hands, wood and stone, which neither see, nor hear, nor eat, nor smell.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "gods",
+                                                    "strongNumber":  "H430",
+                                                    "lemma":  "â€™elohim",
+                                                    "meaning":  "gods, deities"
+                                                },
+                                                {
+                                                    "word":  "wood",
+                                                    "strongNumber":  "H6086",
+                                                    "lemma":  "â€™ets",
+                                                    "meaning":  "tree, wood"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  29,
+                       "text":  "But if from thence thou shalt seek the LORD thy God, thou shalt find him, if thou seek him with all thy heart and with all thy soul.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "seek",
+                                                    "strongNumber":  "H1245",
+                                                    "lemma":  "baqash",
+                                                    "meaning":  "to seek, search for"
+                                                },
+                                                {
+                                                    "word":  "LORD",
+                                                    "strongNumber":  "H3068",
+                                                    "lemma":  "YHWH",
+                                                    "meaning":  "the proper name of the God of Israel"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  30,
+                       "text":  "When thou art in tribulation, and all these things are come upon thee, even in the latter days, if thou turn to the LORD thy God, and shalt be obedient unto his voice;",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "voice",
+                                                    "strongNumber":  "H6963",
+                                                    "lemma":  "qol",
+                                                    "meaning":  "voice, sound"
+                                                },
+                                                {
+                                                    "word":  "LORD",
+                                                    "strongNumber":  "H3068",
+                                                    "lemma":  "YHWH",
+                                                    "meaning":  "the proper name of the God of Israel"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  31,
+                       "text":  "For the LORD thy God is a merciful God; he will not forsake thee, neither destroy thee, nor forget the covenant of thy fathers which he sware unto them.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "merciful",
+                                                    "strongNumber":  "H7349",
+                                                    "lemma":  "rachum",
+                                                    "meaning":  "compassionate, merciful"
+                                                },
+                                                {
+                                                    "word":  "God",
+                                                    "strongNumber":  "H430",
+                                                    "lemma":  "â€™elohim",
+                                                    "meaning":  "God; gods; mighty one(s)"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  32,
+                       "text":  "For ask now of the days that are past, which were before thee, since the day that God created man upon the earth, and ask from the one side of heaven unto the other, whether there hath been any such thing as this great thing is, or hath been heard like it?",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "God",
+                                                    "strongNumber":  "H430",
+                                                    "lemma":  "â€™elohim",
+                                                    "meaning":  "God; gods; mighty one(s)"
+                                                },
+                                                {
+                                                    "word":  "created",
+                                                    "strongNumber":  "H1254",
+                                                    "lemma":  "baraÊ¼",
+                                                    "meaning":  "to create"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  33,
+                       "text":  "Did ever people hear the voice of God speaking out of the midst of the fire, as thou hast heard, and live?",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "voice",
+                                                    "strongNumber":  "H6963",
+                                                    "lemma":  "qol",
+                                                    "meaning":  "voice, sound"
+                                                },
+                                                {
+                                                    "word":  "God",
+                                                    "strongNumber":  "H430",
+                                                    "lemma":  "â€™elohim",
+                                                    "meaning":  "God; gods; mighty one(s)"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  34,
+                       "text":  "Or hath God assayed to go and take him a nation from the midst of another nation, by temptations, by signs, and by wonders, and by war, and by a mighty hand, and by a stretched out arm, and by great terrors, according to all that the LORD your God did for you in Egypt before your eyes?",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "God",
+                                                    "strongNumber":  "H430",
+                                                    "lemma":  "â€™elohim",
+                                                    "meaning":  "God; gods; mighty one(s)"
+                                                },
+                                                {
+                                                    "word":  "LORD",
+                                                    "strongNumber":  "H3068",
+                                                    "lemma":  "YHWH",
+                                                    "meaning":  "the proper name of the God of Israel"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  35,
+                       "text":  "Unto thee it was shewed, that thou mightest know that the LORD he is God; there is none else beside him.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "know",
+                                                    "strongNumber":  "H3045",
+                                                    "lemma":  "yadaÊ¿",
+                                                    "meaning":  "to know, perceive"
+                                                },
+                                                {
+                                                    "word":  "God",
+                                                    "strongNumber":  "H430",
+                                                    "lemma":  "â€™elohim",
+                                                    "meaning":  "God; gods; mighty one(s)"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  36,
+                       "text":  "Out of heaven he made thee to hear his voice, that he might instruct thee: and upon earth he shewed thee his great fire; and thou heardest his words out of the midst of the fire.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "heaven",
+                                                    "strongNumber":  "H8064",
+                                                    "lemma":  "shamayim",
+                                                    "meaning":  "heavens, sky"
+                                                },
+                                                {
+                                                    "word":  "voice",
+                                                    "strongNumber":  "H6963",
+                                                    "lemma":  "qol",
+                                                    "meaning":  "voice, sound"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  37,
+                       "text":  "And because he loved thy fathers, therefore he chose their seed after them, and brought thee out in his sight with his mighty power out of Egypt;",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "fathers",
+                                                    "strongNumber":  "H1",
+                                                    "lemma":  "â€™ab",
+                                                    "meaning":  "father, ancestor"
+                                                },
+                                                {
+                                                    "word":  "Egypt",
+                                                    "strongNumber":  "H4714",
+                                                    "lemma":  "Mitsrayim",
+                                                    "meaning":  "Egypt"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  38,
+                       "text":  "To drive out nations from before thee greater and mightier than thou art, to bring thee in, to give thee their land for an inheritance, as it is this day.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "nations",
+                                                    "strongNumber":  "H1471",
+                                                    "lemma":  "goyim",
+                                                    "meaning":  "nations, peoples"
+                                                },
+                                                {
+                                                    "word":  "inheritance",
+                                                    "strongNumber":  "H5159",
+                                                    "lemma":  "nachalah",
+                                                    "meaning":  "inheritance, possession"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  39,
+                       "text":  "Know therefore this day, and consider it in thine heart, that the LORD he is God in heaven above, and upon the earth beneath: there is none else.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "LORD",
+                                                    "strongNumber":  "H3068",
+                                                    "lemma":  "YHWH",
+                                                    "meaning":  "the proper name of the God of Israel"
+                                                },
+                                                {
+                                                    "word":  "God",
+                                                    "strongNumber":  "H430",
+                                                    "lemma":  "â€™elohim",
+                                                    "meaning":  "God; gods; mighty one(s)"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  40,
+                       "text":  "Thou shalt keep therefore his statutes, and his commandments, which I command thee this day, that it may go well with thee, and with thy children after thee, and that thou mayest prolong thy days upon the earth, which the LORD thy God giveth thee, for ever.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "commandments",
+                                                    "strongNumber":  "H4687",
+                                                    "lemma":  "mitsvah",
+                                                    "meaning":  "command, commandment"
+                                                },
+                                                {
+                                                    "word":  "LORD",
+                                                    "strongNumber":  "H3068",
+                                                    "lemma":  "YHWH",
+                                                    "meaning":  "the proper name of the God of Israel"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  41,
+                       "text":  "Then Moses severed three cities on this side Jordan toward the sunrising;",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "cities",
+                                                    "strongNumber":  "H5892",
+                                                    "lemma":  "â€™iyr",
+                                                    "meaning":  "city, town"
+                                                },
+                                                {
+                                                    "word":  "sunrising",
+                                                    "strongNumber":  "H4217",
+                                                    "lemma":  "mizrach",
+                                                    "meaning":  "east, sunrise"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  42,
+                       "text":  "That the slayer might flee thither, which should kill his neighbour unawares, and hated him not in times past; and that fleeing unto one of these cities he might live:",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "slayer",
+                                                    "strongNumber":  "H7523",
+                                                    "lemma":  "ratsach",
+                                                    "meaning":  "manslayer, one who kills"
+                                                },
+                                                {
+                                                    "word":  "neighbour",
+                                                    "strongNumber":  "H7453",
+                                                    "lemma":  "reaÊ¿",
+                                                    "meaning":  "friend, companion, neighbor"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  43,
+                       "text":  "Namely, Bezer in the wilderness, in the plain country, of the Reubenites; and Ramoth in Gilead, of the Gadites; and Golan in Bashan, of the Manassites.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "Gilead",
+                                                    "strongNumber":  "H1568",
+                                                    "lemma":  "GilÊ¿ad",
+                                                    "meaning":  "Gilead"
+                                                },
+                                                {
+                                                    "word":  "Bashan",
+                                                    "strongNumber":  "H1316",
+                                                    "lemma":  "Bashan",
+                                                    "meaning":  "Bashan"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  44,
+                       "text":  "And this is the law which Moses set before the children of Israel:",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "law",
+                                                    "strongNumber":  "H8451",
+                                                    "lemma":  "torah",
+                                                    "meaning":  "law, instruction"
+                                                },
+                                                {
+                                                    "word":  "Israel",
+                                                    "strongNumber":  "H3478",
+                                                    "lemma":  "YisraÊ¾el",
+                                                    "meaning":  "Israel"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  45,
+                       "text":  "These are the testimonies, and the statutes, and the judgments, which Moses spake unto the children of Israel, after they came forth out of Egypt,",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "statutes",
+                                                    "strongNumber":  "H2708",
+                                                    "lemma":  "chuqqah",
+                                                    "meaning":  "statute, ordinance"
+                                                },
+                                                {
+                                                    "word":  "judgments",
+                                                    "strongNumber":  "H4941",
+                                                    "lemma":  "mishpat",
+                                                    "meaning":  "judgment, justice, ordinance"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  46,
+                       "text":  "On this side Jordan, in the valley over against Beth-peor, in the land of Sihon king of the Amorites, who dwelt at Heshbon, whom Moses and the children of Israel smote, after they were come forth out of Egypt:",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "Jordan",
+                                                    "strongNumber":  "H3383",
+                                                    "lemma":  "Yarden",
+                                                    "meaning":  "the Jordan River"
+                                                },
+                                                {
+                                                    "word":  "Amorites",
+                                                    "strongNumber":  "H567",
+                                                    "lemma":  "â€™Emori",
+                                                    "meaning":  "Amorites"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  47,
+                       "text":  "And they possessed his land, and the land of Og king of Bashan, two kings of the Amorites, which were on this side Jordan toward the sunrising;",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "Bashan",
+                                                    "strongNumber":  "H1316",
+                                                    "lemma":  "Bashan",
+                                                    "meaning":  "Bashan"
+                                                },
+                                                {
+                                                    "word":  "sunrising",
+                                                    "strongNumber":  "H4217",
+                                                    "lemma":  "mizrach",
+                                                    "meaning":  "east, sunrise"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  48,
+                       "text":  "From Aroer, which is by the bank of the river Arnon, even unto mount Sion, which is Hermon,",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "river",
+                                                    "strongNumber":  "H5104",
+                                                    "lemma":  "nahar",
+                                                    "meaning":  "river, stream"
+                                                },
+                                                {
+                                                    "word":  "mount",
+                                                    "strongNumber":  "H2022",
+                                                    "lemma":  "har",
+                                                    "meaning":  "mountain, hill"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  49,
+                       "text":  "And all the plain on this side Jordan eastward, even unto the sea of the plain, under the springs of Pisgah.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "Jordan",
+                                                    "strongNumber":  "H3383",
+                                                    "lemma":  "Yarden",
+                                                    "meaning":  "the Jordan River"
+                                                },
+                                                {
+                                                    "word":  "plain",
+                                                    "strongNumber":  "H6160",
+                                                    "lemma":  "Ê¿arabah",
+                                                    "meaning":  "desert plain, Arabah"
+                                                }
+                                            ]
+                   }
+               ]
+}
