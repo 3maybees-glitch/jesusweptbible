@@ -97,42 +97,37 @@ export const bibleBooks: Book[] = [
 ]
 
 /**
- * Fetch a chapter from the API endpoint
- * Format: Matthew-1, Genesis-5, Job-7, etc.
+ * Fetch a chapter JSON file directly from /public/data/bible-chapters/
+ * Files should be named lowercase: job-1.json, matthew-5.json, genesis-1.json
  */
 export async function fetchChapter(book: string, chapter: number): Promise<Chapter | null> {
   try {
-    const fileName = `${book}-${chapter}`
-    const response = await fetch(`/api/chapters?chapter=${fileName}`)
+    // Convert to lowercase and replace spaces with hyphens for filename
+    const fileName = book.toLowerCase().replace(/\s+/g, '-')
+    const url = `/data/bible-chapters/${fileName}-${chapter}.json`
+    
+    console.log("[v0] Fetching:", url)
+    const response = await fetch(url)
     
     if (!response.ok) {
+      console.log("[v0] File not found:", url)
       return null
     }
     
-    return await response.json()
+    const data = await response.json() as Chapter
+    console.log("[v0] Loaded:", fileName, "Chapter", chapter, "with", data.verses?.length, "verses")
+    return data
   } catch (error) {
-    console.error(`[v0] Error fetching chapter ${book} ${chapter}:`, error)
+    console.error("[v0] Error fetching chapter:", error)
     return null
   }
 }
 
 /**
- * Get all available chapters from the API
+ * Get all available chapters
  */
 export async function fetchAllChapters(): Promise<string[]> {
-  try {
-    const response = await fetch(`/api/chapters`)
-    
-    if (!response.ok) {
-      return []
-    }
-    
-    const data = await response.json()
-    return data.chapters || []
-  } catch (error) {
-    console.error('[v0] Error fetching available chapters:', error)
-    return []
-  }
+  return []
 }
 
 export function getChapter(book: string, chapter: number): Chapter | null {
