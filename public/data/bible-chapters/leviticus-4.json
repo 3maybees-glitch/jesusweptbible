@@ -1,0 +1,654 @@
+{
+  "book": "Leviticus",
+  "chapter": 4,
+  "chapterTheme": {
+    "twoWordSummary": "Sin Offerings",
+    "themeWords": [
+      {
+        "word": "atonement",
+        "strongNumber": "H3722",
+        "lemma": "kaphar",
+        "meaning": "to make atonement; to cover, purge"
+      },
+      {
+        "word": "sin",
+        "strongNumber": "H2403",
+        "lemma": "chattath",
+        "meaning": "sin; sin/purification offering"
+      }
+    ]
+  },
+  "sentenceTheme": "God prescribes the sin offering procedures for unintentional sins by the anointed priest, the whole congregation, a ruler, and any of the common people, bringing atonement and forgiveness.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And the LORD spake unto Moses, saying,",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses, Israelite leader and lawgiver"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Speak unto the children of Israel, saying, If a soul shall sin through ignorance against any of the commandments of the LORD concerning things which ought not to be done, and shall do against any of them:",
+      "highlightedWords": [
+        {
+          "word": "sin",
+          "strongNumber": "H2398",
+          "lemma": "chataʾ",
+          "meaning": "to miss the mark; to sin"
+        },
+        {
+          "word": "commandments",
+          "strongNumber": "H4687",
+          "lemma": "mitsvah",
+          "meaning": "command; commandment"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "If the priest that is anointed do sin according to the sin of the people; then let him bring for his sin, which he hath sinned, a young bullock without blemish unto the LORD for a sin offering.",
+      "highlightedWords": [
+        {
+          "word": "anointed",
+          "strongNumber": "H4899",
+          "lemma": "mashiach",
+          "meaning": "anointed one; consecrated"
+        },
+        {
+          "word": "bullock",
+          "strongNumber": "H6499",
+          "lemma": "par",
+          "meaning": "a young bull"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And he shall bring the bullock unto the door of the tabernacle of the congregation before the LORD; and shall lay his hand upon the bullock's head, and kill the bullock before the LORD.",
+      "highlightedWords": [
+        {
+          "word": "tabernacle",
+          "strongNumber": "H168",
+          "lemma": "ʾohel",
+          "meaning": "tent; dwelling"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And the priest that is anointed shall take of the bullock's blood, and bring it to the tabernacle of the congregation:",
+      "highlightedWords": [
+        {
+          "word": "priest",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest"
+        },
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "blood"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And the priest shall dip his finger in the blood, and sprinkle of the blood seven times before the LORD, before the vail of the sanctuary.",
+      "highlightedWords": [
+        {
+          "word": "sprinkle",
+          "strongNumber": "H5137",
+          "lemma": "nazah",
+          "meaning": "to sprinkle; spatter"
+        },
+        {
+          "word": "vail",
+          "strongNumber": "H6532",
+          "lemma": "paroketh",
+          "meaning": "veil; curtain (of the sanctuary)"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And the priest shall put some of the blood upon the horns of the altar of sweet incense before the LORD, which is in the tabernacle of the congregation; and shall pour all the blood of the bullock at the bottom of the altar of the burnt offering, which is at the door of the tabernacle of the congregation.",
+      "highlightedWords": [
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar"
+        },
+        {
+          "word": "incense",
+          "strongNumber": "H7004",
+          "lemma": "qetoreth",
+          "meaning": "incense"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And he shall take off from it all the fat of the bullock for the sin offering; the fat that covereth the inwards, and all the fat that is upon the inwards,",
+      "highlightedWords": [
+        {
+          "word": "fat",
+          "strongNumber": "H2459",
+          "lemma": "cheleb",
+          "meaning": "fat"
+        },
+        {
+          "word": "inwards",
+          "strongNumber": "H7130",
+          "lemma": "qereb",
+          "meaning": "inner parts; inward parts"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And the two kidneys, and the fat that is upon them, which is by the flanks, and the caul above the liver, with the kidneys, it shall he take away,",
+      "highlightedWords": [
+        {
+          "word": "kidneys",
+          "strongNumber": "H3629",
+          "lemma": "kilyah",
+          "meaning": "kidneys"
+        },
+        {
+          "word": "liver",
+          "strongNumber": "H3516",
+          "lemma": "kabed",
+          "meaning": "liver"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "As it was taken off from the bullock of the sacrifice of peace offerings: and the priest shall burn them upon the altar of the burnt offering.",
+      "highlightedWords": [
+        {
+          "word": "priest",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest"
+        },
+        {
+          "word": "burn",
+          "strongNumber": "H6999",
+          "lemma": "qatar",
+          "meaning": "to burn (incense); cause to smoke"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And the skin of the bullock, and all his flesh, with his head, and with his legs, and his inwards, and his dung,",
+      "highlightedWords": [
+        {
+          "word": "skin",
+          "strongNumber": "H5785",
+          "lemma": "ʿor",
+          "meaning": "skin; hide"
+        },
+        {
+          "word": "dung",
+          "strongNumber": "H6569",
+          "lemma": "peresh",
+          "meaning": "dung; offal"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Even the whole bullock shall he carry forth without the camp unto a clean place, where the ashes are poured out, and burn him on the wood with fire: where the ashes are poured out, shall he be burnt.",
+      "highlightedWords": [
+        {
+          "word": "camp",
+          "strongNumber": "H4264",
+          "lemma": "machaneh",
+          "meaning": "camp; encampment"
+        },
+        {
+          "word": "ashes",
+          "strongNumber": "H1880",
+          "lemma": "deshen",
+          "meaning": "fat-ashes; ashes"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And if the whole congregation of Israel sin through ignorance, and the thing be hid from the eyes of the assembly, and they have done somewhat against any of the commandments of the LORD concerning things which should not be done, and are guilty;",
+      "highlightedWords": [
+        {
+          "word": "congregation",
+          "strongNumber": "H5712",
+          "lemma": "ʿedah",
+          "meaning": "assembly; congregation"
+        },
+        {
+          "word": "commandments",
+          "strongNumber": "H4687",
+          "lemma": "mitsvah",
+          "meaning": "command; commandment"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "When the sin, which they have sinned against it, is known, then the congregation shall offer a young bullock for the sin, and bring him before the tabernacle of the congregation.",
+      "highlightedWords": [
+        {
+          "word": "sin",
+          "strongNumber": "H2403",
+          "lemma": "chattath",
+          "meaning": "sin; sin/purification offering"
+        },
+        {
+          "word": "tabernacle",
+          "strongNumber": "H168",
+          "lemma": "ʾohel",
+          "meaning": "tent; dwelling"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And the elders of the congregation shall lay their hands upon the head of the bullock before the LORD: and the bullock shall be killed before the LORD.",
+      "highlightedWords": [
+        {
+          "word": "elders",
+          "strongNumber": "H2205",
+          "lemma": "zaqen",
+          "meaning": "elder; old man, leader"
+        },
+        {
+          "word": "hands",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand; power"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And the priest that is anointed shall bring of the bullock's blood to the tabernacle of the congregation:",
+      "highlightedWords": [
+        {
+          "word": "priest",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest"
+        },
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "blood"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And the priest shall dip his finger in some of the blood, and sprinkle it seven times before the LORD, even before the vail.",
+      "highlightedWords": [
+        {
+          "word": "sprinkle",
+          "strongNumber": "H5137",
+          "lemma": "nazah",
+          "meaning": "to sprinkle; spatter"
+        },
+        {
+          "word": "vail",
+          "strongNumber": "H6532",
+          "lemma": "paroketh",
+          "meaning": "veil; curtain (of the sanctuary)"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And he shall put some of the blood upon the horns of the altar which is before the LORD, that is in the tabernacle of the congregation, and shall pour out all the blood at the bottom of the altar of the burnt offering.",
+      "highlightedWords": [
+        {
+          "word": "horns",
+          "strongNumber": "H7161",
+          "lemma": "qeren",
+          "meaning": "horn"
+        },
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And he shall take all his fat from him, and burn it upon the altar.",
+      "highlightedWords": [
+        {
+          "word": "burn",
+          "strongNumber": "H6999",
+          "lemma": "qatar",
+          "meaning": "to burn (incense); cause to smoke"
+        },
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And he shall do with the bullock as he did with the bullock for a sin offering: so shall he do with this: and the priest shall make an atonement for them, and it shall be forgiven them.",
+      "highlightedWords": [
+        {
+          "word": "atonement",
+          "strongNumber": "H3722",
+          "lemma": "kaphar",
+          "meaning": "to make atonement; cover, purge"
+        },
+        {
+          "word": "forgiven",
+          "strongNumber": "H5545",
+          "lemma": "salach",
+          "meaning": "to forgive; pardon"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And he shall carry forth the bullock without the camp, and burn him as he burned the first bullock: it is a sin offering for the congregation.",
+      "highlightedWords": [
+        {
+          "word": "camp",
+          "strongNumber": "H4264",
+          "lemma": "machaneh",
+          "meaning": "camp; encampment"
+        },
+        {
+          "word": "sin",
+          "strongNumber": "H2403",
+          "lemma": "chattath",
+          "meaning": "sin; sin/purification offering"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "When a ruler hath sinned, and done somewhat through ignorance against any of the commandments of the LORD his God concerning things which should not be done, and is guilty;",
+      "highlightedWords": [
+        {
+          "word": "ruler",
+          "strongNumber": "H5387",
+          "lemma": "nasiʾ",
+          "meaning": "prince; leader; chief"
+        },
+        {
+          "word": "guilty",
+          "strongNumber": "H816",
+          "lemma": "ʾasham",
+          "meaning": "to be guilty; incur guilt"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Or if his sin, wherein he hath sinned, come to his knowledge; he shall bring his offering, a kid of the goats, a male without blemish:",
+      "highlightedWords": [
+        {
+          "word": "goats",
+          "strongNumber": "H5795",
+          "lemma": "ʿez",
+          "meaning": "goat"
+        },
+        {
+          "word": "blemish",
+          "strongNumber": "H8549",
+          "lemma": "tamim",
+          "meaning": "complete; without defect; blameless"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And he shall lay his hand upon the head of the goat, and kill it in the place where they kill the burnt offering before the LORD: it is a sin offering.",
+      "highlightedWords": [
+        {
+          "word": "goat",
+          "strongNumber": "H5795",
+          "lemma": "ʿez",
+          "meaning": "goat"
+        },
+        {
+          "word": "sin",
+          "strongNumber": "H2403",
+          "lemma": "chattath",
+          "meaning": "sin; sin/purification offering"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And the priest shall take of the blood of the sin offering with his finger, and put it upon the horns of the altar of burnt offering, and shall pour out his blood at the bottom of the altar of burnt offering.",
+      "highlightedWords": [
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar"
+        },
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "blood"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And he shall burn all his fat upon the altar, as the fat of the sacrifice of peace offerings: and the priest shall make an atonement for him as concerning his sin, and it shall be forgiven him.",
+      "highlightedWords": [
+        {
+          "word": "atonement",
+          "strongNumber": "H3722",
+          "lemma": "kaphar",
+          "meaning": "to make atonement; cover, purge"
+        },
+        {
+          "word": "forgiven",
+          "strongNumber": "H5545",
+          "lemma": "salach",
+          "meaning": "to forgive; pardon"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And if any one of the common people sin through ignorance, while he doeth somewhat against any of the commandments of the LORD concerning things which ought not to be done, and be guilty;",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "ʿam",
+          "meaning": "people; nation"
+        },
+        {
+          "word": "sin",
+          "strongNumber": "H2398",
+          "lemma": "chataʾ",
+          "meaning": "to miss the mark; to sin"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "Or if his sin, which he hath sinned, come to his knowledge: then he shall bring his offering, a kid of the goats, a female without blemish, for his sin which he hath sinned.",
+      "highlightedWords": [
+        {
+          "word": "female",
+          "strongNumber": "H5347",
+          "lemma": "neqebah",
+          "meaning": "female (of animals or humans)"
+        },
+        {
+          "word": "sin",
+          "strongNumber": "H2403",
+          "lemma": "chattath",
+          "meaning": "sin; sin/purification offering"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "And he shall lay his hand upon the head of the sin offering, and slay the sin offering in the place of the burnt offering.",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand; power"
+        },
+        {
+          "word": "slay",
+          "strongNumber": "H7819",
+          "lemma": "shachat",
+          "meaning": "to slaughter; slay"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "And the priest shall take of the blood thereof with his finger, and put it upon the horns of the altar of burnt offering, and shall pour out all the blood thereof at the bottom of the altar.",
+      "highlightedWords": [
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "blood"
+        },
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "And he shall take away all the fat thereof, as the fat is taken away from off the sacrifice of peace offerings; and the priest shall burn it upon the altar for a sweet savour unto the LORD; and the priest shall make an atonement for him, and it shall be forgiven him.",
+      "highlightedWords": [
+        {
+          "word": "savour",
+          "strongNumber": "H7381",
+          "lemma": "reach",
+          "meaning": "scent; aroma"
+        },
+        {
+          "word": "atonement",
+          "strongNumber": "H3722",
+          "lemma": "kaphar",
+          "meaning": "to make atonement; cover, purge"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "And if he bring a lamb for a sin offering, he shall bring it a female without blemish.",
+      "highlightedWords": [
+        {
+          "word": "lamb",
+          "strongNumber": "H3532",
+          "lemma": "kebes",
+          "meaning": "a young ram/lamb"
+        },
+        {
+          "word": "blemish",
+          "strongNumber": "H8549",
+          "lemma": "tamim",
+          "meaning": "complete; without defect; blameless"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "And he shall lay his hand upon the head of the sin offering, and slay it for a sin offering in the place where they kill the burnt offering.",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand; power"
+        },
+        {
+          "word": "sin",
+          "strongNumber": "H2403",
+          "lemma": "chattath",
+          "meaning": "sin; sin/purification offering"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "And the priest shall take of the blood of the sin offering with his finger, and put it upon the horns of the altar of burnt offering, and shall pour out all the blood thereof at the bottom of the altar:",
+      "highlightedWords": [
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "blood"
+        },
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "And he shall take away all the fat thereof, as the fat of the lamb is taken away from the sacrifice of the peace offerings; and the priest shall burn them upon the altar, according to the offerings made by fire unto the LORD: and the priest shall make an atonement for his sin that he hath committed, and it shall be forgiven him.",
+      "highlightedWords": [
+        {
+          "word": "atonement",
+          "strongNumber": "H3722",
+          "lemma": "kaphar",
+          "meaning": "to make atonement; cover, purge"
+        },
+        {
+          "word": "forgiven",
+          "strongNumber": "H5545",
+          "lemma": "salach",
+          "meaning": "to forgive; pardon"
+        }
+      ]
+    }
+  ]
+}
