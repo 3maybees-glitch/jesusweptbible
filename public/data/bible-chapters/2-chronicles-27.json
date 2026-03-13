@@ -1,0 +1,186 @@
+{
+  "book": "2 Chronicles",
+  "chapter": 27,
+  "chapterTheme": {
+    "twoWordSummary": "Jotham's Reign",
+    "themeWords": [
+      {
+        "word": "Jotham",
+        "strongNumber": "H3147",
+        "lemma": "Yotham",
+        "meaning": "YHWH is upright"
+      },
+      {
+        "word": "mighty",
+        "strongNumber": "H2388",
+        "lemma": "chazaq",
+        "meaning": "to be strong, mighty"
+      }
+    ]
+  },
+  "sentenceTheme": "Jotham reigns righteously, builds and strengthens Judah, defeats Ammon, and prospers because his ways are prepared before the LORD.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Jotham was twenty and five years old when he began to reign, and he reigned sixteen years in Jerusalem. His mother's name also was Jerushah, the daughter of Zadok.",
+      "highlightedWords": [
+        {
+          "word": "reigned",
+          "strongNumber": "H4427",
+          "lemma": "malak",
+          "meaning": "to reign, be king, become king"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "foundation or city of peace"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And he did that which was right in the sight of the LORD, according to all that his father Uzziah did: howbeit he entered not into the temple of the LORD. And the people did yet corruptly.",
+      "highlightedWords": [
+        {
+          "word": "temple",
+          "strongNumber": "H1964",
+          "lemma": "hekal",
+          "meaning": "palace, temple"
+        },
+        {
+          "word": "corruptly",
+          "strongNumber": "H7843",
+          "lemma": "shachath",
+          "meaning": "to act corruptly, spoil, ruin"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "He built the high gate of the house of the LORD, and on the wall of Ophel he built much.",
+      "highlightedWords": [
+        {
+          "word": "gate",
+          "strongNumber": "H8179",
+          "lemma": "sha'ar",
+          "meaning": "gate, entrance"
+        },
+        {
+          "word": "Ophel",
+          "strongNumber": "H6077",
+          "lemma": "Ophel",
+          "meaning": "mound, fortified hill in Jerusalem"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Moreover he built cities in the mountains of Judah, and in the forests he built castles and towers.",
+      "highlightedWords": [
+        {
+          "word": "cities",
+          "strongNumber": "H5892",
+          "lemma": "'ir",
+          "meaning": "city, town"
+        },
+        {
+          "word": "towers",
+          "strongNumber": "H4026",
+          "lemma": "migdal",
+          "meaning": "tower, watchtower"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "He fought also with the king of the Ammonites, and prevailed against them. And the children of Ammon gave him the same year an hundred talents of silver, and ten thousand measures of wheat, and ten thousand of barley. So much did the children of Ammon pay unto him, both the second year, and the third.",
+      "highlightedWords": [
+        {
+          "word": "Ammon",
+          "strongNumber": "H5983",
+          "lemma": "'Ammon",
+          "meaning": "Ammon; descendants of Lot; the Ammonite people"
+        },
+        {
+          "word": "silver",
+          "strongNumber": "H3701",
+          "lemma": "keseph",
+          "meaning": "silver, money"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "So Jotham became mighty, because he prepared his ways before the LORD his God.",
+      "highlightedWords": [
+        {
+          "word": "mighty",
+          "strongNumber": "H2388",
+          "lemma": "chazaq",
+          "meaning": "to be/become strong, mighty"
+        },
+        {
+          "word": "prepared",
+          "strongNumber": "H3559",
+          "lemma": "kun",
+          "meaning": "to establish, prepare, make firm"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Now the rest of the acts of Jotham, and all his wars, and his ways, lo, they are written in the book of the kings of Israel and Judah.",
+      "highlightedWords": [
+        {
+          "word": "book",
+          "strongNumber": "H5612",
+          "lemma": "sefer",
+          "meaning": "scroll, book, document"
+        },
+        {
+          "word": "kings",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "He was five and twenty years old when he began to reign, and reigned sixteen years in Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "reigned",
+          "strongNumber": "H4427",
+          "lemma": "malak",
+          "meaning": "to reign, be king, become king"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "foundation or city of peace"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And Jotham slept with his fathers, and they buried him in the city of David: and Ahaz his son reigned in his stead.",
+      "highlightedWords": [
+        {
+          "word": "slept",
+          "strongNumber": "H7901",
+          "lemma": "shakab",
+          "meaning": "to lie down, sleep (used euphemistically of death)"
+        },
+        {
+          "word": "Ahaz",
+          "strongNumber": "H271",
+          "lemma": "'Achaz",
+          "meaning": "Ahaz; he has grasped"
+        }
+      ]
+    }
+  ]
+}

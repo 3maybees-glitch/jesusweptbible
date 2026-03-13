@@ -1,0 +1,420 @@
+{
+  "book": "Psalms",
+  "chapter": 103,
+  "chapterTheme": {
+    "twoWordSummary": "Covenant Mercy",
+    "themeWords": [
+      {
+        "word": "mercy",
+        "strongNumber": "H2617",
+        "lemma": "chesed",
+        "meaning": "steadfast love; covenant loyalty and kindness"
+      },
+      {
+        "word": "Bless",
+        "strongNumber": "H1288",
+        "lemma": "barak",
+        "meaning": "to bless, praise, speak or act with adoration"
+      }
+    ]
+  },
+  "sentenceTheme": "David praises the LORD for His forgiving, healing, compassionate, and everlasting covenant mercy that rules over all and calls all creation to bless His name.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Bless the LORD, O my soul: and all that is within me, bless his holy name.",
+      "highlightedWords": [
+        {
+          "word": "Bless",
+          "strongNumber": "H1288",
+          "lemma": "barak",
+          "meaning": "to bless, praise, speak or act with adoration"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God; the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Bless the LORD, O my soul, and forget not all his benefits:",
+      "highlightedWords": [
+        {
+          "word": "forget",
+          "strongNumber": "H7911",
+          "lemma": "shakach",
+          "meaning": "to forget, ignore, wither from memory"
+        },
+        {
+          "word": "benefits",
+          "strongNumber": "H1576",
+          "lemma": "gemul",
+          "meaning": "dealing, recompense, benefit received"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Who forgiveth all thine iniquities; who healeth all thy diseases;",
+      "highlightedWords": [
+        {
+          "word": "forgiveth",
+          "strongNumber": "H5545",
+          "lemma": "salach",
+          "meaning": "to forgive, pardon"
+        },
+        {
+          "word": "healeth",
+          "strongNumber": "H7495",
+          "lemma": "rapha",
+          "meaning": "to heal, make whole"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Who redeemeth thy life from destruction; who crowneth thee with lovingkindness and tender mercies;",
+      "highlightedWords": [
+        {
+          "word": "redeemeth",
+          "strongNumber": "H1350",
+          "lemma": "ga'al",
+          "meaning": "to redeem, act as kinsman-redeemer"
+        },
+        {
+          "word": "lovingkindness",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "steadfast love; covenant loyalty and kindness"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Who satisfieth thy mouth with good things; so that thy youth is renewed like the eagle's.",
+      "highlightedWords": [
+        {
+          "word": "satisfieth",
+          "strongNumber": "H7646",
+          "lemma": "saba'",
+          "meaning": "to satisfy, fill to fullness"
+        },
+        {
+          "word": "eagle's",
+          "strongNumber": "H5404",
+          "lemma": "nesher",
+          "meaning": "eagle; large bird of prey"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "The LORD executeth righteousness and judgment for all that are oppressed.",
+      "highlightedWords": [
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "tsedaqah",
+          "meaning": "righteousness, justice, rightness"
+        },
+        {
+          "word": "oppressed",
+          "strongNumber": "H6231",
+          "lemma": "ashaq",
+          "meaning": "to oppress, extort, treat unjustly"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "He made known his ways unto Moses, his acts unto the children of Israel.",
+      "highlightedWords": [
+        {
+          "word": "ways",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way, path, manner, conduct"
+        },
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses, the leader and lawgiver of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "The LORD is merciful and gracious, slow to anger, and plenteous in mercy.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God; the LORD"
+        },
+        {
+          "word": "merciful",
+          "strongNumber": "H7349",
+          "lemma": "rachum",
+          "meaning": "compassionate, merciful"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "He will not always chide: neither will he keep his anger for ever.",
+      "highlightedWords": [
+        {
+          "word": "chide",
+          "strongNumber": "H7378",
+          "lemma": "riv",
+          "meaning": "to contend, dispute, chide"
+        },
+        {
+          "word": "anger",
+          "strongNumber": "H639",
+          "lemma": "aph",
+          "meaning": "nostril, face; figuratively, anger"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "He hath not dealt with us after our sins; nor rewarded us according to our iniquities.",
+      "highlightedWords": [
+        {
+          "word": "sins",
+          "strongNumber": "H2403",
+          "lemma": "chatta'ah",
+          "meaning": "sin, sinful act; sometimes sin offering"
+        },
+        {
+          "word": "iniquities",
+          "strongNumber": "H5771",
+          "lemma": "avon",
+          "meaning": "iniquity, guilt; consequence of iniquity"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "For as the heaven is high above the earth, so great is his mercy toward them that fear him.",
+      "highlightedWords": [
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens, sky, abode of God"
+        },
+        {
+          "word": "mercy",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "steadfast love; covenant loyalty and kindness"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "As far as the east is from the west, so far hath he removed our transgressions from us.",
+      "highlightedWords": [
+        {
+          "word": "east",
+          "strongNumber": "H4217",
+          "lemma": "mizrach",
+          "meaning": "east, sunrise"
+        },
+        {
+          "word": "transgressions",
+          "strongNumber": "H6588",
+          "lemma": "pesha'",
+          "meaning": "transgression, rebellion, breach of trust"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Like as a father pitieth his children, so the LORD pitieth them that fear him.",
+      "highlightedWords": [
+        {
+          "word": "father",
+          "strongNumber": "H1",
+          "lemma": "ab",
+          "meaning": "father, ancestor"
+        },
+        {
+          "word": "pitieth",
+          "strongNumber": "H7355",
+          "lemma": "racham",
+          "meaning": "to have compassion, show mercy"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "For he knoweth our frame; he remembereth that we are dust.",
+      "highlightedWords": [
+        {
+          "word": "knoweth",
+          "strongNumber": "H3045",
+          "lemma": "yada'",
+          "meaning": "to know, perceive, understand"
+        },
+        {
+          "word": "dust",
+          "strongNumber": "H6083",
+          "lemma": "aphar",
+          "meaning": "dust, dry earth"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "As for man, his days are as grass: as a flower of the field, so he flourisheth.",
+      "highlightedWords": [
+        {
+          "word": "grass",
+          "strongNumber": "H2682",
+          "lemma": "chatsir",
+          "meaning": "grass, herbage"
+        },
+        {
+          "word": "flower",
+          "strongNumber": "H6731",
+          "lemma": "tsiyts",
+          "meaning": "blossom, flower"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "For the wind passeth over it, and it is gone; and the place thereof shall know it no more.",
+      "highlightedWords": [
+        {
+          "word": "wind",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "wind, breath, spirit"
+        },
+        {
+          "word": "place",
+          "strongNumber": "H4725",
+          "lemma": "maqom",
+          "meaning": "place, standing, locality"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "But the mercy of the LORD is from everlasting to everlasting upon them that fear him, and his righteousness unto children's children;",
+      "highlightedWords": [
+        {
+          "word": "mercy",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "steadfast love; covenant loyalty and kindness"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "tsedaqah",
+          "meaning": "righteousness, justice, rightness"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "To such as keep his covenant, and to those that remember his commandments to do them.",
+      "highlightedWords": [
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "covenant, treaty, agreement"
+        },
+        {
+          "word": "commandments",
+          "strongNumber": "H4687",
+          "lemma": "mitsvah",
+          "meaning": "commandment, law, precept"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "The LORD hath prepared his throne in the heavens; and his kingdom ruleth over all.",
+      "highlightedWords": [
+        {
+          "word": "throne",
+          "strongNumber": "H3678",
+          "lemma": "kisse'",
+          "meaning": "throne, seat of authority"
+        },
+        {
+          "word": "kingdom",
+          "strongNumber": "H4438",
+          "lemma": "malkuth",
+          "meaning": "kingdom, dominion, reign"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Bless the LORD, ye his angels, that excel in strength, that do his commandments, hearkening unto the voice of his word.",
+      "highlightedWords": [
+        {
+          "word": "angels",
+          "strongNumber": "H4397",
+          "lemma": "mal'ak",
+          "meaning": "messenger, angel"
+        },
+        {
+          "word": "strength",
+          "strongNumber": "H3581",
+          "lemma": "koach",
+          "meaning": "strength, power, might"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Bless ye the LORD, all ye his hosts; ye ministers of his, that do his pleasure.",
+      "highlightedWords": [
+        {
+          "word": "hosts",
+          "strongNumber": "H6635",
+          "lemma": "tsaba'",
+          "meaning": "host, army, heavenly bodies"
+        },
+        {
+          "word": "ministers",
+          "strongNumber": "H8334",
+          "lemma": "sharath",
+          "meaning": "to minister, serve"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Bless the LORD, all his works in all places of his dominion: bless the LORD, O my soul.",
+      "highlightedWords": [
+        {
+          "word": "works",
+          "strongNumber": "H4639",
+          "lemma": "ma'aseh",
+          "meaning": "work, deed, product"
+        },
+        {
+          "word": "dominion",
+          "strongNumber": "H4475",
+          "lemma": "memshalah",
+          "meaning": "rule, dominion, realm"
+        }
+      ]
+    }
+  ]
+}

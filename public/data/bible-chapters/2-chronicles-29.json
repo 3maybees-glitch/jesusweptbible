@@ -1,0 +1,672 @@
+{
+  "book": "2 Chronicles",
+  "chapter": 29,
+  "chapterTheme": {
+    "twoWordSummary": "Temple Cleansing",
+    "themeWords": [
+      {
+        "word": "sanctify",
+        "strongNumber": "H6942",
+        "lemma": "qadash",
+        "meaning": "to set apart as holy, consecrate"
+      },
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH",
+        "meaning": "the personal name of Israel's God"
+      }
+    ]
+  },
+  "sentenceTheme": "Hezekiah restores temple worship by cleansing the house of the LORD, reestablishing sacrifices and praise, and uniting the people in swift reform.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Hezekiah began to reign when he was five and twenty years old, and he reigned nine and twenty years in Jerusalem. And his mother's name was Abijah, the daughter of Zechariah.",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem, the chief city of Judah"
+        },
+        {
+          "word": "years",
+          "strongNumber": "H8141",
+          "lemma": "shanah",
+          "meaning": "year; a period of twelve months"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And he did that which was right in the sight of the LORD, according to all that David his father had done.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "David",
+          "meaning": "David; beloved king of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "He in the first year of his reign, in the first month, opened the doors of the house of the LORD, and repaired them.",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayit",
+          "meaning": "house, household, temple"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And he brought in the priests and the Levites, and gathered them together into the east street,",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest; one who officiates in sacred rites"
+        },
+        {
+          "word": "Levites",
+          "strongNumber": "H3881",
+          "lemma": "Leviy",
+          "meaning": "a member of the tribe of Levi set apart for temple service"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And said unto them, Hear me, ye Levites, sanctify now yourselves, and sanctify the house of the LORD God of your fathers, and carry forth the filthiness out of the holy place.",
+      "highlightedWords": [
+        {
+          "word": "sanctify",
+          "strongNumber": "H6942",
+          "lemma": "qadash",
+          "meaning": "to set apart as holy, consecrate"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "For our fathers have trespassed, and done that which was evil in the eyes of the LORD our God, and have forsaken him, and have turned away their faces from the habitation of the LORD, and turned their backs.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; mighty one"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Also they have shut up the doors of the porch, and put out the lamps, and have not burned incense nor offered burnt offerings in the holy place unto the God of Israel.",
+      "highlightedWords": [
+        {
+          "word": "lamps",
+          "strongNumber": "H5216",
+          "lemma": "ner",
+          "meaning": "lamp, light"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisrael",
+          "meaning": "Israel; the nation descended from Jacob"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Wherefore the wrath of the LORD was upon Judah and Jerusalem, and he hath delivered them to trouble, to astonishment, and to hissing, as ye see with your eyes.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah; the southern kingdom/tribe"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "For, lo, our fathers have fallen by the sword, and our sons and our daughters and our wives are in captivity for this.",
+      "highlightedWords": [
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword, dagger"
+        },
+        {
+          "word": "captivity",
+          "strongNumber": "H7628",
+          "lemma": "shebiy",
+          "meaning": "captivity, exile"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Now it is in mine heart to make a covenant with the LORD God of Israel, that his fierce wrath may turn away from us.",
+      "highlightedWords": [
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berit",
+          "meaning": "covenant, treaty, agreement"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "My sons, be not now negligent: for the LORD hath chosen you to stand before him, to serve him, and that ye should minister unto him, and burn incense.",
+      "highlightedWords": [
+        {
+          "word": "minister",
+          "strongNumber": "H8334",
+          "lemma": "sharath",
+          "meaning": "to serve, minister"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Then the Levites arose, Mahath the son of Amasai, and Joel the son of Azariah, of the sons of the Kohathites: and of the sons of Merari, Kish the son of Abdi, and Azariah the son of Jehalelel: and of the Gershonites; Joah the son of Zimmah, and Eden the son of Joah:",
+      "highlightedWords": [
+        {
+          "word": "Levites",
+          "strongNumber": "H3881",
+          "lemma": "Leviy",
+          "meaning": "a member of the tribe of Levi set apart for temple service"
+        },
+        {
+          "word": "Kohathites",
+          "strongNumber": "H6956",
+          "lemma": "Qohathi",
+          "meaning": "descendants of Kohath, a Levitical clan"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And of the sons of Elizaphan; Shimri, and Jeiel: and of the sons of Asaph; Zechariah, and Mattaniah:",
+      "highlightedWords": [
+        {
+          "word": "Asaph",
+          "strongNumber": "H623",
+          "lemma": "Asaph",
+          "meaning": "Asaph; a Levitical singer and psalmist"
+        },
+        {
+          "word": "Zechariah",
+          "strongNumber": "H2148",
+          "lemma": "Zekharyah",
+          "meaning": "Zechariah; Yahweh has remembered"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And of the sons of Heman; Jehiel, and Shimei: and of the sons of Jeduthun; Shemaiah, and Uzziel.",
+      "highlightedWords": [
+        {
+          "word": "Heman",
+          "strongNumber": "H1968",
+          "lemma": "Heman",
+          "meaning": "Heman; a Levitical musician"
+        },
+        {
+          "word": "Jeduthun",
+          "strongNumber": "H3038",
+          "lemma": "Yeduthun",
+          "meaning": "Jeduthun; a Levitical singer/seer"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And they gathered their brethren, and sanctified themselves, and came, according to the commandment of the king, by the words of the LORD, to cleanse the house of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "cleanse",
+          "strongNumber": "H2891",
+          "lemma": "taher",
+          "meaning": "to make clean, purify"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And the priests went into the inner part of the house of the LORD, to cleanse it, and brought out all the uncleanness that they found in the temple of the LORD into the court of the house of the LORD. And the Levites took it, to carry it out abroad into the brook Kidron.",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest; one who officiates in sacred rites"
+        },
+        {
+          "word": "Levites",
+          "strongNumber": "H3881",
+          "lemma": "Leviy",
+          "meaning": "a member of the tribe of Levi set apart for temple service"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Now they began on the first day of the first month to sanctify, and on the eighth day of the month came they to the porch of the LORD: so they sanctified the house of the LORD in eight days; and in the sixteenth day of the first month they made an end.",
+      "highlightedWords": [
+        {
+          "word": "sanctified",
+          "strongNumber": "H6942",
+          "lemma": "qadash",
+          "meaning": "to set apart as holy, consecrate"
+        },
+        {
+          "word": "porch",
+          "strongNumber": "H197",
+          "lemma": "ulam",
+          "meaning": "porch, vestibule"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Then they went in to Hezekiah the king, and said, We have cleansed all the house of the LORD, and the altar of burnt offering, with all the vessels thereof, and the table of shewbread, with all the vessels thereof.",
+      "highlightedWords": [
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar for sacrifice"
+        },
+        {
+          "word": "vessels",
+          "strongNumber": "H3627",
+          "lemma": "kli",
+          "meaning": "articles, utensils, vessels"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Moreover all the vessels, which king Ahaz in his reign did cast away in his transgression, have we prepared and sanctified, and, behold, they are before the altar of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "sanctified",
+          "strongNumber": "H6942",
+          "lemma": "qadash",
+          "meaning": "to set apart as holy, consecrate"
+        },
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar for sacrifice"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Then Hezekiah the king rose early, and gathered the rulers of the city, and went up to the house of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And they brought seven bullocks, and seven rams, and seven lambs, and seven he goats, for a sin offering for the kingdom, and for the sanctuary, and for Judah. And he commanded the priests the sons of Aaron to offer them on the altar of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest; one who officiates in sacred rites"
+        },
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar for sacrifice"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "So they killed the bullocks, and the priests received the blood, and sprinkled it on the altar: likewise, when they had killed the rams, they sprinkled the blood upon the altar: they killed also the lambs, and they sprinkled the blood upon the altar.",
+      "highlightedWords": [
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "blood"
+        },
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar for sacrifice"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And they brought forth the he goats for the sin offering before the king and the congregation; and they laid their hands upon them:",
+      "highlightedWords": [
+        {
+          "word": "congregation",
+          "strongNumber": "H6951",
+          "lemma": "qahal",
+          "meaning": "assembly, congregation"
+        },
+        {
+          "word": "hands",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And the priests killed them, and they made reconciliation with their blood upon the altar, to make an atonement for all Israel: for the king commanded that the burnt offering and the sin offering should be made for all Israel.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisrael",
+          "meaning": "Israel; the nation descended from Jacob"
+        },
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar for sacrifice"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And he set the Levites in the house of the LORD with cymbals, with psalteries, and with harps, according to the commandment of David, and of Gad the king's seer, and Nathan the prophet: for so was the commandment of the LORD by his prophets.",
+      "highlightedWords": [
+        {
+          "word": "prophet",
+          "strongNumber": "H5030",
+          "lemma": "navi",
+          "meaning": "prophet, spokesperson for God"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And the Levites stood with the instruments of David, and the priests with the trumpets.",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest; one who officiates in sacred rites"
+        },
+        {
+          "word": "trumpets",
+          "strongNumber": "H2689",
+          "lemma": "chatsotserah",
+          "meaning": "trumpet"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And Hezekiah commanded to offer the burnt offering upon the altar. And when the burnt offering began, the song of the LORD began also with the trumpets, and with the instruments ordained by David king of Israel.",
+      "highlightedWords": [
+        {
+          "word": "burnt offering",
+          "strongNumber": "H5930",
+          "lemma": "olah",
+          "meaning": "that which goes up; burnt offering"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And all the congregation worshipped, and the singers sang, and the trumpeters sounded: and all this continued until the burnt offering was finished.",
+      "highlightedWords": [
+        {
+          "word": "congregation",
+          "strongNumber": "H6951",
+          "lemma": "qahal",
+          "meaning": "assembly, congregation"
+        },
+        {
+          "word": "worshipped",
+          "strongNumber": "H7812",
+          "lemma": "shachah",
+          "meaning": "to bow down, prostrate, worship"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "And when they had made an end of offering, the king and all that were present with him bowed themselves, and worshipped.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        },
+        {
+          "word": "worshipped",
+          "strongNumber": "H7812",
+          "lemma": "shachah",
+          "meaning": "to bow down, prostrate, worship"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "Moreover Hezekiah the king and the princes commanded the Levites to sing praise unto the LORD with the words of David, and of Asaph the seer. And they sang praises with gladness, and they bowed their heads and worshipped.",
+      "highlightedWords": [
+        {
+          "word": "seer",
+          "strongNumber": "H2374",
+          "lemma": "chozeh",
+          "meaning": "seer, visionary"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "Then Hezekiah answered and said, Now ye have consecrated yourselves unto the LORD, come near and bring sacrifices and thank offerings into the house of the LORD. And the congregation brought in sacrifices and thank offerings; and as many as were of a free heart burnt offerings.",
+      "highlightedWords": [
+        {
+          "word": "sacrifices",
+          "strongNumber": "H2077",
+          "lemma": "zevach",
+          "meaning": "sacrifice, slaughter offering"
+        },
+        {
+          "word": "thank offerings",
+          "strongNumber": "H8426",
+          "lemma": "todah",
+          "meaning": "thanksgiving, thank offering"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "And the number of the burnt offerings, which the congregation brought, was threescore and ten bullocks, an hundred rams, and two hundred lambs: all these were for a burnt offering to the LORD.",
+      "highlightedWords": [
+        {
+          "word": "burnt offerings",
+          "strongNumber": "H5930",
+          "lemma": "olah",
+          "meaning": "that which goes up; burnt offering"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "And the consecrated things were six hundred oxen and three thousand sheep.",
+      "highlightedWords": [
+        {
+          "word": "oxen",
+          "strongNumber": "H1241",
+          "lemma": "baqar",
+          "meaning": "cattle, ox, herd animal"
+        },
+        {
+          "word": "sheep",
+          "strongNumber": "H6629",
+          "lemma": "tson",
+          "meaning": "small livestock; sheep and goats"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "But the priests were too few, so that they could not flay all the burnt offerings: wherefore their brethren the Levites did help them, till the work was ended, and until the other priests had sanctified themselves: for the Levites were more upright in heart to sanctify themselves than the priests.",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest; one who officiates in sacred rites"
+        },
+        {
+          "word": "Levites",
+          "strongNumber": "H3881",
+          "lemma": "Leviy",
+          "meaning": "a member of the tribe of Levi set apart for temple service"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "And also the burnt offerings were in abundance, with the fat of the peace offerings, and the drink offerings for every burnt offering. So the service of the house of the LORD was set in order.",
+      "highlightedWords": [
+        {
+          "word": "peace offerings",
+          "strongNumber": "H8002",
+          "lemma": "shelamim",
+          "meaning": "peace or fellowship offerings"
+        },
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayit",
+          "meaning": "house, household, temple"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "And Hezekiah rejoiced, and all the people, that God had prepared the people: for the thing was done suddenly.",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "am",
+          "meaning": "people, nation"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; mighty one"
+        }
+      ]
+    }
+  ]
+}

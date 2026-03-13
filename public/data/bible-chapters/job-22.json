@@ -1,0 +1,564 @@
+{
+  "book": "Job",
+  "chapter": 22,
+  "chapterTheme": {
+    "twoWordSummary": "Return Almighty",
+    "themeWords": [
+      {
+        "word": "Almighty",
+        "strongNumber": "H7706",
+        "lemma": "Shaddai",
+        "meaning": "the Almighty"
+      },
+      {
+        "word": "wicked",
+        "strongNumber": "H7563",
+        "lemma": "rasha‘",
+        "meaning": "wicked, criminal, guilty"
+      }
+    ]
+  },
+  "sentenceTheme": "Eliphaz accuses Job of great sin and urges him to return to the Almighty for restoration and blessing.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Then Eliphaz the Temanite answered and said,",
+      "highlightedWords": [
+        {
+          "word": "Eliphaz",
+          "strongNumber": "H464",
+          "lemma": "’Ĕlîp̄az",
+          "meaning": "God is fine gold; God is strength"
+        },
+        {
+          "word": "Temanite",
+          "strongNumber": "H8489",
+          "lemma": "Tēmānî",
+          "meaning": "Temanite, a descendant or inhabitant of Teman (south)"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Can a man be profitable unto God, as he that is wise may be profitable unto himself?",
+      "highlightedWords": [
+        {
+          "word": "man",
+          "strongNumber": "H582",
+          "lemma": "’ĕnôsh",
+          "meaning": "mortal man, humankind"
+        },
+        {
+          "word": "wise",
+          "strongNumber": "H2450",
+          "lemma": "ḥākām",
+          "meaning": "wise, skillful, prudent"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Is it any pleasure to the Almighty, that thou art righteous? or is it gain to him, that thou makest thy ways perfect?",
+      "highlightedWords": [
+        {
+          "word": "Almighty",
+          "strongNumber": "H7706",
+          "lemma": "Shaddai",
+          "meaning": "the Almighty"
+        },
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddîq",
+          "meaning": "righteous, just"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Will he reprove thee for fear of thee? will he enter with thee into judgment?",
+      "highlightedWords": [
+        {
+          "word": "reprove",
+          "strongNumber": "H3198",
+          "lemma": "yākhaḥ",
+          "meaning": "to reprove, decide, correct"
+        },
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mišpāṭ",
+          "meaning": "justice, judgment, legal case"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Is not thy wickedness great? and thine iniquities infinite?",
+      "highlightedWords": [
+        {
+          "word": "wickedness",
+          "strongNumber": "H7564",
+          "lemma": "riš‘āh",
+          "meaning": "wickedness, guilt"
+        },
+        {
+          "word": "iniquities",
+          "strongNumber": "H5771",
+          "lemma": "‘āwôn",
+          "meaning": "iniquity, guilt, punishment of iniquity"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "For thou hast taken a pledge from thy brother for nought, and stripped the naked of their clothing.",
+      "highlightedWords": [
+        {
+          "word": "pledge",
+          "strongNumber": "H2258",
+          "lemma": "ḥăbāl/ḥābal",
+          "meaning": "a pledge, security taken"
+        },
+        {
+          "word": "naked",
+          "strongNumber": "H6174",
+          "lemma": "‘ārôm",
+          "meaning": "naked, bare"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Thou hast not given water to the weary to drink, and thou hast withholden bread from the hungry.",
+      "highlightedWords": [
+        {
+          "word": "water",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "water(s)"
+        },
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "leḥem",
+          "meaning": "bread, food"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "But as for the mighty man, he had the earth; and the honourable man dwelt in it.",
+      "highlightedWords": [
+        {
+          "word": "mighty",
+          "strongNumber": "H1368",
+          "lemma": "gibbôr",
+          "meaning": "mighty, strong; a mighty man, warrior"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "’ereṣ",
+          "meaning": "land, earth"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Thou hast sent widows away empty, and the arms of the fatherless have been broken.",
+      "highlightedWords": [
+        {
+          "word": "widows",
+          "strongNumber": "H490",
+          "lemma": "’almānāh",
+          "meaning": "widow"
+        },
+        {
+          "word": "fatherless",
+          "strongNumber": "H3490",
+          "lemma": "yātôm",
+          "meaning": "orphan, fatherless"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Therefore snares are round about thee, and sudden fear troubleth thee;",
+      "highlightedWords": [
+        {
+          "word": "snares",
+          "strongNumber": "H6341",
+          "lemma": "paḥ",
+          "meaning": "snare, trap"
+        },
+        {
+          "word": "fear",
+          "strongNumber": "H6343",
+          "lemma": "paḥad",
+          "meaning": "terror, dread"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Or darkness, that thou canst not see; and abundance of waters cover thee.",
+      "highlightedWords": [
+        {
+          "word": "darkness",
+          "strongNumber": "H2822",
+          "lemma": "ḥōšeḵ",
+          "meaning": "darkness"
+        },
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "water(s)"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Is not God in the height of heaven? and behold the height of the stars, how high they are!",
+      "highlightedWords": [
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "šāmayim",
+          "meaning": "heavens, sky"
+        },
+        {
+          "word": "stars",
+          "strongNumber": "H3556",
+          "lemma": "kôkāḇ",
+          "meaning": "star"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And thou sayest, How doth God know? can he judge through the dark cloud?",
+      "highlightedWords": [
+        {
+          "word": "know",
+          "strongNumber": "H3045",
+          "lemma": "yāda‘",
+          "meaning": "to know, perceive"
+        },
+        {
+          "word": "judge",
+          "strongNumber": "H8199",
+          "lemma": "šāphaṭ",
+          "meaning": "to judge, govern"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Thick clouds are a covering to him, that he seeth not; and he walketh in the circuit of heaven.",
+      "highlightedWords": [
+        {
+          "word": "walketh",
+          "strongNumber": "H1980",
+          "lemma": "hālak",
+          "meaning": "to walk, go"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "šāmayim",
+          "meaning": "heavens, sky"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Hast thou marked the old way which wicked men have trodden?",
+      "highlightedWords": [
+        {
+          "word": "way",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way, road, path"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha‘",
+          "meaning": "wicked, guilty"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Which were cut down out of time, whose foundation was overflown with a flood:",
+      "highlightedWords": [
+        {
+          "word": "time",
+          "strongNumber": "H6256",
+          "lemma": "‘ēt",
+          "meaning": "time, season"
+        },
+        {
+          "word": "flood",
+          "strongNumber": "H5104",
+          "lemma": "nāhār",
+          "meaning": "river, stream, flood"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Which said unto God, Depart from us: and what can the Almighty do for them?",
+      "highlightedWords": [
+        {
+          "word": "Depart",
+          "strongNumber": "H5493",
+          "lemma": "sûr",
+          "meaning": "to turn aside, depart"
+        },
+        {
+          "word": "Almighty",
+          "strongNumber": "H7706",
+          "lemma": "Shaddai",
+          "meaning": "the Almighty"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Yet he filled their houses with good things: but the counsel of the wicked is far from me.",
+      "highlightedWords": [
+        {
+          "word": "houses",
+          "strongNumber": "H1004",
+          "lemma": "bayit",
+          "meaning": "house, household"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha‘",
+          "meaning": "wicked, guilty"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "The righteous see it, and are glad: and the innocent laugh them to scorn.",
+      "highlightedWords": [
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddîq",
+          "meaning": "righteous, just"
+        },
+        {
+          "word": "innocent",
+          "strongNumber": "H5355",
+          "lemma": "nāqî",
+          "meaning": "innocent, clean, free from guilt"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Whereas our substance is not cut down, but the remnant of them the fire consumeth.",
+      "highlightedWords": [
+        {
+          "word": "not",
+          "strongNumber": "H3808",
+          "lemma": "lō",
+          "meaning": "no, not"
+        },
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "’ēš",
+          "meaning": "fire"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Acquaint now thyself with him, and be at peace: thereby good shall come unto thee.",
+      "highlightedWords": [
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "šālôm",
+          "meaning": "peace, wholeness, welfare"
+        },
+        {
+          "word": "good",
+          "strongNumber": "H2896",
+          "lemma": "ṭôḇ",
+          "meaning": "good, pleasant, beneficial"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Receive, I pray thee, the law from his mouth, and lay up his words in thine heart.",
+      "highlightedWords": [
+        {
+          "word": "law",
+          "strongNumber": "H8451",
+          "lemma": "tôrāh",
+          "meaning": "instruction, law"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "lēḇ",
+          "meaning": "heart, inner person"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "If thou return to the Almighty, thou shalt be built up, thou shalt put away iniquity far from thy tabernacles.",
+      "highlightedWords": [
+        {
+          "word": "return",
+          "strongNumber": "H7725",
+          "lemma": "šûḇ",
+          "meaning": "to return, turn back"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "‘āwôn",
+          "meaning": "iniquity, guilt"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Then shalt thou lay up gold as dust, and the gold of Ophir as the stones of the brooks.",
+      "highlightedWords": [
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "zāhāḇ",
+          "meaning": "gold"
+        },
+        {
+          "word": "Ophir",
+          "strongNumber": "H211",
+          "lemma": "’Ôp̄îr",
+          "meaning": "Ophir, a region famed for fine gold"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Yea, the Almighty shall be thy defence, and thou shalt have plenty of silver.",
+      "highlightedWords": [
+        {
+          "word": "Almighty",
+          "strongNumber": "H7706",
+          "lemma": "Shaddai",
+          "meaning": "the Almighty"
+        },
+        {
+          "word": "silver",
+          "strongNumber": "H3701",
+          "lemma": "keseph",
+          "meaning": "silver, money"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "For then shalt thou have thy delight in the Almighty, and shalt lift up thy face unto God.",
+      "highlightedWords": [
+        {
+          "word": "face",
+          "strongNumber": "H6440",
+          "lemma": "pānîm",
+          "meaning": "face, presence"
+        },
+        {
+          "word": "Almighty",
+          "strongNumber": "H7706",
+          "lemma": "Shaddai",
+          "meaning": "the Almighty"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "Thou shalt make thy prayer unto him, and he shall hear thee, and thou shalt pay thy vows.",
+      "highlightedWords": [
+        {
+          "word": "prayer",
+          "strongNumber": "H8605",
+          "lemma": "tephillāh",
+          "meaning": "prayer"
+        },
+        {
+          "word": "vows",
+          "strongNumber": "H5088",
+          "lemma": "neder",
+          "meaning": "vow, votive offering"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "Thou shalt also decree a thing, and it shall be established unto thee: and the light shall shine upon thy ways.",
+      "highlightedWords": [
+        {
+          "word": "light",
+          "strongNumber": "H216",
+          "lemma": "’ôr",
+          "meaning": "light"
+        },
+        {
+          "word": "ways",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way, path, journey"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "When men are cast down, then thou shalt say, There is lifting up; and he shall save the humble person.",
+      "highlightedWords": [
+        {
+          "word": "men",
+          "strongNumber": "H120",
+          "lemma": "’ādām",
+          "meaning": "man, mankind"
+        },
+        {
+          "word": "save",
+          "strongNumber": "H3467",
+          "lemma": "yāša‘",
+          "meaning": "to save, deliver"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "He shall deliver the island of the innocent: and it is delivered by the pureness of thine hands.",
+      "highlightedWords": [
+        {
+          "word": "deliver",
+          "strongNumber": "H5337",
+          "lemma": "nāṣal",
+          "meaning": "to deliver, rescue, snatch away"
+        },
+        {
+          "word": "innocent",
+          "strongNumber": "H5355",
+          "lemma": "nāqî",
+          "meaning": "innocent, clean"
+        }
+      ]
+    }
+  ]
+}

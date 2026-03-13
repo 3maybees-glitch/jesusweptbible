@@ -1,0 +1,456 @@
+{
+  "book": "Jeremiah",
+  "chapter": 30,
+  "chapterTheme": {
+    "twoWordSummary": "Restoration Promised",
+    "themeWords": [
+      {
+        "word": "captivity",
+        "strongNumber": "H7622",
+        "lemma": "shĕbuwth",
+        "meaning": "captivity, exile; restored fortunes"
+      },
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH (Yehovah)",
+        "meaning": "the covenant name of Israel’s God; the LORD"
+      }
+    ]
+  },
+  "sentenceTheme": "The LORD announces that after severe distress He will judge Israel’s oppressors, heal His people, restore their fortunes, and bring them back to their land under Davidic leadership.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "The word that came to Jeremiah from the LORD, saying,",
+      "highlightedWords": [
+        {
+          "word": "Jeremiah",
+          "strongNumber": "H3414",
+          "lemma": "Yirmĕyāhû",
+          "meaning": "Jeremiah; Yahweh exalts"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the covenant name of Israel’s God; the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Thus speaketh the LORD God of Israel, saying, Write thee all the words that I have spoken unto thee in a book.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the covenant name of Israel’s God; the LORD"
+        },
+        {
+          "word": "book",
+          "strongNumber": "H5612",
+          "lemma": "sēpher",
+          "meaning": "book, scroll, document"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "For, lo, the days come, saith the LORD, that I will bring again the captivity of my people Israel and Judah, saith the LORD: and I will cause them to return to the land that I gave to their fathers, and they shall possess it.",
+      "highlightedWords": [
+        {
+          "word": "captivity",
+          "strongNumber": "H7622",
+          "lemma": "shĕbuwth",
+          "meaning": "captivity, exile; restored fortunes"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yiśrā’ēl",
+          "meaning": "Israel; God strives"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And these are the words that the LORD spake concerning Israel and concerning Judah.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the covenant name of Israel’s God; the LORD"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yĕhûdāh",
+          "meaning": "Judah; praised"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "For thus saith the LORD; We have heard a voice of trembling, of fear, and not of peace.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the covenant name of Israel’s God; the LORD"
+        },
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace, wholeness, well-being"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Ask ye now, and see whether a man doth travail with child? wherefore do I see every man with his hands on his loins, as a woman in travail, and all faces are turned into paleness?",
+      "highlightedWords": [
+        {
+          "word": "man",
+          "strongNumber": "H1397",
+          "lemma": "geber",
+          "meaning": "man, strong man"
+        },
+        {
+          "word": "woman",
+          "strongNumber": "H802",
+          "lemma": "’ishshah",
+          "meaning": "woman, wife, female"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Alas! for that day is great, so that none is like it: it is even the time of Jacob's trouble; but he shall be saved out of it.",
+      "highlightedWords": [
+        {
+          "word": "Jacob's",
+          "strongNumber": "H3290",
+          "lemma": "Ya‘aqov",
+          "meaning": "Jacob; heel-catcher; Israel’s patriarch"
+        },
+        {
+          "word": "saved",
+          "strongNumber": "H3467",
+          "lemma": "yasha‘",
+          "meaning": "to save, deliver, bring to safety"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "For it shall come to pass in that day, saith the LORD of hosts, that I will break his yoke from off thy neck, and will burst thy bonds, and strangers shall no more serve themselves of him:",
+      "highlightedWords": [
+        {
+          "word": "hosts",
+          "strongNumber": "H6635",
+          "lemma": "tsābā’",
+          "meaning": "host, army, heavenly bodies"
+        },
+        {
+          "word": "yoke",
+          "strongNumber": "H5923",
+          "lemma": "‘ol",
+          "meaning": "yoke, bondage"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "But they shall serve the LORD their God, and David their king, whom I will raise up unto them.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the covenant name of Israel’s God; the LORD"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dāwid / Dāwīd",
+          "meaning": "David; beloved"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Therefore fear thou not, O my servant Jacob, saith the LORD; neither be dismayed, O Israel: for, lo, I will save thee from afar, and thy seed from the land of their captivity; and Jacob shall return, and shall be in rest, and be quiet, and none shall make him afraid.",
+      "highlightedWords": [
+        {
+          "word": "Jacob",
+          "strongNumber": "H3290",
+          "lemma": "Ya‘aqov",
+          "meaning": "Jacob; heel-catcher; Israel’s patriarch"
+        },
+        {
+          "word": "save",
+          "strongNumber": "H3467",
+          "lemma": "yasha‘",
+          "meaning": "to save, deliver, bring to safety"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "For I am with thee, saith the LORD, to save thee: though I make a full end of all nations whither I have scattered thee, yet will I not make a full end of thee: but I will correct thee in measure, and will not leave thee altogether unpunished.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the covenant name of Israel’s God; the LORD"
+        },
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "gôy",
+          "meaning": "nation, people, Gentiles"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "For thus saith the LORD, Thy bruise is incurable, and thy wound is grievous.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the covenant name of Israel’s God; the LORD"
+        },
+        {
+          "word": "wound",
+          "strongNumber": "H4347",
+          "lemma": "makkāh",
+          "meaning": "blow, wound, plague"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "There is none to plead thy cause, that thou mayest be bound up: thou hast no healing medicines.",
+      "highlightedWords": [
+        {
+          "word": "plead",
+          "strongNumber": "H7378",
+          "lemma": "rîb",
+          "meaning": "to contend, plead a case"
+        },
+        {
+          "word": "healing",
+          "strongNumber": "H4832",
+          "lemma": "marpe’",
+          "meaning": "healing, cure, remedy"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "All thy lovers have forgotten thee; they seek thee not; for I have wounded thee with the wound of an enemy, with the chastisement of a cruel one, for the multitude of thine iniquity; because thy sins were increased.",
+      "highlightedWords": [
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "‘āwon",
+          "meaning": "iniquity, guilt, perversity"
+        },
+        {
+          "word": "sins",
+          "strongNumber": "H2403",
+          "lemma": "chatta’th",
+          "meaning": "sin, sin-offering"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Why criest thou for thine affliction? thy sorrow is incurable for the multitude of thine iniquity: because thy sins were increased, I have done these things unto thee.",
+      "highlightedWords": [
+        {
+          "word": "affliction",
+          "strongNumber": "H6040",
+          "lemma": "‘onî",
+          "meaning": "affliction, misery, suffering"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "‘āwon",
+          "meaning": "iniquity, guilt, perversity"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Therefore all they that devour thee shall be devoured; and all thine adversaries, every one of them, shall go into captivity; and they that spoil thee shall be a spoil, and all that prey upon thee will I give for a prey.",
+      "highlightedWords": [
+        {
+          "word": "adversaries",
+          "strongNumber": "H6862",
+          "lemma": "tsar",
+          "meaning": "adversary, foe, enemy"
+        },
+        {
+          "word": "captivity",
+          "strongNumber": "H7622",
+          "lemma": "shĕbuwth",
+          "meaning": "captivity, exile; restored fortunes"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "For I will restore health unto thee, and I will heal thee of thy wounds, saith the LORD; because they called thee an Outcast, saying, This is Zion, whom no man seeketh after.",
+      "highlightedWords": [
+        {
+          "word": "heal",
+          "strongNumber": "H7495",
+          "lemma": "rapha’",
+          "meaning": "to heal, mend, make whole"
+        },
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyyôn",
+          "meaning": "Zion, the hill of Jerusalem"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Thus saith the LORD; Behold, I will bring again the captivity of Jacob's tents, and have mercy on his dwellingplaces; and the city shall be builded upon her own heap, and the palace shall remain after the manner thereof.",
+      "highlightedWords": [
+        {
+          "word": "captivity",
+          "strongNumber": "H7622",
+          "lemma": "shĕbuwth",
+          "meaning": "captivity, exile; restored fortunes"
+        },
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "‘îr",
+          "meaning": "city, town"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And out of them shall proceed thanksgiving and the voice of them that make merry: and I will multiply them, and they shall not be few; I will also glorify them, and they shall not be small.",
+      "highlightedWords": [
+        {
+          "word": "multiply",
+          "strongNumber": "H7235",
+          "lemma": "rābāh",
+          "meaning": "to be/become many; to multiply"
+        },
+        {
+          "word": "glorify",
+          "strongNumber": "H3513",
+          "lemma": "kābad",
+          "meaning": "to be heavy; to honor, glorify"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Their children also shall be as aforetime, and their congregation shall be established before me, and I will punish all that oppress them.",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child, descendant"
+        },
+        {
+          "word": "congregation",
+          "strongNumber": "H5712",
+          "lemma": "‘ēdāh",
+          "meaning": "assembly, congregation"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And their nobles shall be of themselves, and their governor shall proceed from the midst of them; and I will cause him to draw near, and he shall approach unto me: for who is this that engaged his heart to approach unto me? saith the LORD.",
+      "highlightedWords": [
+        {
+          "word": "nobles",
+          "strongNumber": "H117",
+          "lemma": "’addîr",
+          "meaning": "majestic, noble"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "lēb",
+          "meaning": "heart, inner person, mind"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And ye shall be my people, and I will be your God.",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "‘am",
+          "meaning": "people, nation"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’Elohim",
+          "meaning": "God, mighty one"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Behold, the whirlwind of the LORD goeth forth with fury, a continuing whirlwind: it shall fall with pain upon the head of the wicked.",
+      "highlightedWords": [
+        {
+          "word": "whirlwind",
+          "strongNumber": "H5591",
+          "lemma": "se‘ārāh",
+          "meaning": "tempest, storm, whirlwind"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rāshā‘",
+          "meaning": "wicked, guilty, criminal"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "The fierce anger of the LORD shall not return, until he have done it, and until he have performed the intents of his heart: in the latter days ye shall consider it.",
+      "highlightedWords": [
+        {
+          "word": "anger",
+          "strongNumber": "H639",
+          "lemma": "’aph",
+          "meaning": "nose, face; anger, wrath"
+        },
+        {
+          "word": "latter",
+          "strongNumber": "H319",
+          "lemma": "’achărîth",
+          "meaning": "latter end, future, last days"
+        }
+      ]
+    }
+  ]
+}

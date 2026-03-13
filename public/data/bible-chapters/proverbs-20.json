@@ -1,0 +1,564 @@
+{
+  "book": "Proverbs",
+  "chapter": 20,
+  "chapterTheme": {
+    "twoWordSummary": "Wise Conduct",
+    "themeWords": [
+      {
+        "word": "wisdom",
+        "strongNumber": "H2451",
+        "lemma": "chokmah",
+        "meaning": "skill, wisdom, prudence"
+      },
+      {
+        "word": "integrity",
+        "strongNumber": "H8537",
+        "lemma": "tom",
+        "meaning": "blamelessness, completeness"
+      }
+    ]
+  },
+  "sentenceTheme": "Proverbs 20 contrasts wise, honest, and diligent living with folly, deceit, and injustice, urging reliance on the LORD’s judgment and guidance.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Wine is a mocker, strong drink is raging: and whosoever is deceived thereby is not wise.",
+      "highlightedWords": [
+        {
+          "word": "Wine",
+          "strongNumber": "H3196",
+          "lemma": "yayin",
+          "meaning": "fermented drink, wine"
+        },
+        {
+          "word": "mocker",
+          "strongNumber": "H3887",
+          "lemma": "luwts",
+          "meaning": "scoffer, one who derides"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "The fear of a king is as the roaring of a lion: whoso provoketh him to anger sinneth against his own soul.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        },
+        {
+          "word": "lion",
+          "strongNumber": "H0738",
+          "lemma": "’ary",
+          "meaning": "lion"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "It is an honour for a man to cease from strife: but every fool will be meddling.",
+      "highlightedWords": [
+        {
+          "word": "honour",
+          "strongNumber": "H3519",
+          "lemma": "kabod",
+          "meaning": "glory, honor, weight"
+        },
+        {
+          "word": "fool",
+          "strongNumber": "H3684",
+          "lemma": "kesil",
+          "meaning": "stupid, insolent person"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "The sluggard will not plow by reason of the cold; therefore shall he beg in harvest, and have nothing.",
+      "highlightedWords": [
+        {
+          "word": "sluggard",
+          "strongNumber": "H6102",
+          "lemma": "‘atsel",
+          "meaning": "lazy, slothful person"
+        },
+        {
+          "word": "harvest",
+          "strongNumber": "H7105",
+          "lemma": "qatsiyr",
+          "meaning": "harvest, crop"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Counsel in the heart of man is like deep water; but a man of understanding will draw it out.",
+      "highlightedWords": [
+        {
+          "word": "Counsel",
+          "strongNumber": "H6098",
+          "lemma": "‘etsah",
+          "meaning": "advice, counsel, plan"
+        },
+        {
+          "word": "understanding",
+          "strongNumber": "H8394",
+          "lemma": "tebunah",
+          "meaning": "understanding, insight"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Most men will proclaim every one his own goodness: but a faithful man who can find?",
+      "highlightedWords": [
+        {
+          "word": "goodness",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "kindness, steadfast love"
+        },
+        {
+          "word": "faithful",
+          "strongNumber": "H0529",
+          "lemma": "’emun",
+          "meaning": "faithful, trustworthy"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "The just man walketh in his integrity: his children are blessed after him.",
+      "highlightedWords": [
+        {
+          "word": "just",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just"
+        },
+        {
+          "word": "integrity",
+          "strongNumber": "H8537",
+          "lemma": "tom",
+          "meaning": "integrity, blamelessness"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "A king that sitteth in the throne of judgment scattereth away all evil with his eyes.",
+      "highlightedWords": [
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "justice, judgment"
+        },
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra‘",
+          "meaning": "evil, bad, wickedness"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Who can say, I have made my heart clean, I am pure from my sin?",
+      "highlightedWords": [
+        {
+          "word": "clean",
+          "strongNumber": "H2891",
+          "lemma": "taher",
+          "meaning": "to be clean, pure"
+        },
+        {
+          "word": "sin",
+          "strongNumber": "H2403",
+          "lemma": "chatta’ah",
+          "meaning": "sin, offense"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Divers weights, and divers measures, both of them are alike abomination to the LORD.",
+      "highlightedWords": [
+        {
+          "word": "abomination",
+          "strongNumber": "H8441",
+          "lemma": "to‘ebah",
+          "meaning": "abomination, detestable thing"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Even a child is known by his doings, whether his work be pure, and whether it be right.",
+      "highlightedWords": [
+        {
+          "word": "child",
+          "strongNumber": "H5288",
+          "lemma": "na‘ar",
+          "meaning": "boy, youth, child"
+        },
+        {
+          "word": "right",
+          "strongNumber": "H3477",
+          "lemma": "yashar",
+          "meaning": "upright, right, straight"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "The hearing ear, and the seeing eye, the LORD hath made even both of them.",
+      "highlightedWords": [
+        {
+          "word": "ear",
+          "strongNumber": "H0241",
+          "lemma": "’ozen",
+          "meaning": "ear"
+        },
+        {
+          "word": "eye",
+          "strongNumber": "H5869",
+          "lemma": "‘ayin",
+          "meaning": "eye"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Love not sleep, lest thou come to poverty; open thine eyes, and thou shalt be satisfied with bread.",
+      "highlightedWords": [
+        {
+          "word": "sleep",
+          "strongNumber": "H8142",
+          "lemma": "shenah",
+          "meaning": "sleep"
+        },
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread, food"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "It is naught, it is naught, saith the buyer: but when he is gone his way, then he boasteth.",
+      "highlightedWords": [
+        {
+          "word": "naught",
+          "strongNumber": "H7451",
+          "lemma": "ra‘",
+          "meaning": "bad, of poor quality"
+        },
+        {
+          "word": "boasteth",
+          "strongNumber": "H1984",
+          "lemma": "halal",
+          "meaning": "to boast, praise"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "There is gold, and a multitude of rubies: but the lips of knowledge are a precious jewel.",
+      "highlightedWords": [
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "zahab",
+          "meaning": "gold"
+        },
+        {
+          "word": "knowledge",
+          "strongNumber": "H1847",
+          "lemma": "da‘ath",
+          "meaning": "knowledge"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Take his garment that is surety for a stranger: and take a pledge of him for a strange woman.",
+      "highlightedWords": [
+        {
+          "word": "garment",
+          "strongNumber": "H0899",
+          "lemma": "beged",
+          "meaning": "garment, clothing"
+        },
+        {
+          "word": "surety",
+          "strongNumber": "H6148",
+          "lemma": "‘arab",
+          "meaning": "to pledge, be security"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Bread of deceit is sweet to a man; but afterwards his mouth shall be filled with gravel.",
+      "highlightedWords": [
+        {
+          "word": "Bread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread, food"
+        },
+        {
+          "word": "deceit",
+          "strongNumber": "H8267",
+          "lemma": "sheqer",
+          "meaning": "deceit, falsehood"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Every purpose is established by counsel: and with good advice make war.",
+      "highlightedWords": [
+        {
+          "word": "counsel",
+          "strongNumber": "H6098",
+          "lemma": "‘etsah",
+          "meaning": "advice, counsel, plan"
+        },
+        {
+          "word": "war",
+          "strongNumber": "H4421",
+          "lemma": "milchamah",
+          "meaning": "war, battle"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "He that goeth about as a talebearer revealeth secrets: therefore meddle not with him that flattereth with his lips.",
+      "highlightedWords": [
+        {
+          "word": "talebearer",
+          "strongNumber": "H7400",
+          "lemma": "rakiyl",
+          "meaning": "slanderer, gossip"
+        },
+        {
+          "word": "secrets",
+          "strongNumber": "H5475",
+          "lemma": "sod",
+          "meaning": "confidential counsel, secret"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Whoso curseth his father or his mother, his lamp shall be put out in obscure darkness.",
+      "highlightedWords": [
+        {
+          "word": "father",
+          "strongNumber": "H0001",
+          "lemma": "’ab",
+          "meaning": "father"
+        },
+        {
+          "word": "mother",
+          "strongNumber": "H0517",
+          "lemma": "’em",
+          "meaning": "mother"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "An inheritance may be gotten hastily at the beginning; but the end thereof shall not be blessed.",
+      "highlightedWords": [
+        {
+          "word": "inheritance",
+          "strongNumber": "H5159",
+          "lemma": "nachalah",
+          "meaning": "inheritance, possession"
+        },
+        {
+          "word": "blessed",
+          "strongNumber": "H1288",
+          "lemma": "barak",
+          "meaning": "to bless"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Say not thou, I will recompense evil; but wait on the LORD, and he shall save thee.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "save",
+          "strongNumber": "H3467",
+          "lemma": "yasha‘",
+          "meaning": "to save, deliver"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Divers weights are an abomination unto the LORD; and a false balance is not good.",
+      "highlightedWords": [
+        {
+          "word": "abomination",
+          "strongNumber": "H8441",
+          "lemma": "to‘ebah",
+          "meaning": "abomination, detestable thing"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Man's goings are of the LORD; how can a man then understand his own way?",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "way",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way, road, path"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "It is a snare to the man who devoureth that which is holy, and after vows to make enquiry.",
+      "highlightedWords": [
+        {
+          "word": "holy",
+          "strongNumber": "H6944",
+          "lemma": "qodesh",
+          "meaning": "holy, sacred"
+        },
+        {
+          "word": "vows",
+          "strongNumber": "H5088",
+          "lemma": "neder",
+          "meaning": "vow"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "A wise king scattereth the wicked, and bringeth the wheel over them.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha‘",
+          "meaning": "wicked, guilty"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "The spirit of man is the candle of the LORD, searching all the inward parts of the belly.",
+      "highlightedWords": [
+        {
+          "word": "spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "spirit, breath, wind"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "Mercy and truth preserve the king: and his throne is upholden by mercy.",
+      "highlightedWords": [
+        {
+          "word": "Mercy",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "steadfast love, mercy"
+        },
+        {
+          "word": "truth",
+          "strongNumber": "H0571",
+          "lemma": "’emeth",
+          "meaning": "truth, faithfulness"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "The glory of young men is their strength: and the beauty of old men is the gray head.",
+      "highlightedWords": [
+        {
+          "word": "strength",
+          "strongNumber": "H5797",
+          "lemma": "‘oz",
+          "meaning": "strength, might"
+        },
+        {
+          "word": "beauty",
+          "strongNumber": "H1926",
+          "lemma": "hadar",
+          "meaning": "beauty, splendor"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "The blueness of a wound cleanseth away evil: so do stripes the inward parts of the belly.",
+      "highlightedWords": [
+        {
+          "word": "wound",
+          "strongNumber": "H2250",
+          "lemma": "chabburah",
+          "meaning": "stripe, bruise, wound"
+        },
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra‘",
+          "meaning": "evil, bad, trouble"
+        }
+      ]
+    }
+  ]
+}

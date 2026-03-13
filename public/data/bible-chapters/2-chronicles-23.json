@@ -1,0 +1,402 @@
+{
+  "book": "2 Chronicles",
+  "chapter": 23,
+  "chapterTheme": {
+    "twoWordSummary": "Covenant Restoration",
+    "themeWords": [
+      {
+        "word": "covenant",
+        "strongNumber": "H1285",
+        "lemma": "berith",
+        "meaning": "a pact, treaty, or solemn agreement"
+      },
+      {
+        "word": "king",
+        "strongNumber": "H4428",
+        "lemma": "melek",
+        "meaning": "a ruler, sovereign, or king"
+      }
+    ]
+  },
+  "sentenceTheme": "Jehoiada establishes a covenant, sets the king’s son on the throne, executes Athaliah, destroys Baal’s worship, and restores proper service in the house of the LORD.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And in the seventh year Jehoiada strengthened himself, and took the captains of hundreds, Azariah the son of Jeroham, and Ishmael the son of Jehohanan, and Azariah the son of Obed, and Maaseiah the son of Adaiah, and Elishaphat the son of Zichri, into covenant with him.",
+      "highlightedWords": [
+        {
+          "word": "captains",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "chief, ruler, or captain"
+        },
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "a pact, treaty, or solemn agreement"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And they went about in Judah, and gathered the Levites out of all the cities of Judah, and the chief of the fathers of Israel, and they came to Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "Levites",
+          "strongNumber": "H3881",
+          "lemma": "Leviyiy",
+          "meaning": "a member of the tribe of Levi; Levitical servant"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem, the chief city of Israel/Judah"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And all the congregation made a covenant with the king in the house of God. And he said unto them, Behold, the king's son shall reign, as the LORD hath said of the sons of David.",
+      "highlightedWords": [
+        {
+          "word": "congregation",
+          "strongNumber": "H6951",
+          "lemma": "qahal",
+          "meaning": "assembly or gathering"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "This is the thing that ye shall do; A third part of you entering on the sabbath, of the priests and of the Levites, shall be porters of the doors;",
+      "highlightedWords": [
+        {
+          "word": "sabbath",
+          "strongNumber": "H7676",
+          "lemma": "shabbath",
+          "meaning": "Sabbath, day of rest"
+        },
+        {
+          "word": "porters",
+          "strongNumber": "H7778",
+          "lemma": "sho'er",
+          "meaning": "gatekeeper or doorkeeper"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And a third part shall be at the king's house; and a third part at the gate of the foundation: and all the people shall be in the courts of the house of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "gate",
+          "strongNumber": "H8179",
+          "lemma": "sha'ar",
+          "meaning": "gate or entrance"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "But let none come into the house of the LORD, save the priests, and they that minister of the Levites; they shall go in, for they are holy: but all the people shall keep the watch of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "holy",
+          "strongNumber": "H6944",
+          "lemma": "qodesh",
+          "meaning": "holy, sacred, set apart"
+        },
+        {
+          "word": "watch",
+          "strongNumber": "H4931",
+          "lemma": "mishmeret",
+          "meaning": "charge, duty, or guard"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And the Levites shall compass the king round about, every man with his weapons in his hand; and whosoever else cometh into the house, he shall be put to death: but be ye with the king when he cometh in, and when he goeth out.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "a ruler, sovereign, or king"
+        },
+        {
+          "word": "weapons",
+          "strongNumber": "H3627",
+          "lemma": "keli",
+          "meaning": "implement, vessel, or weapon"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "So the Levites and all Judah did according to all things that Jehoiada the priest had commanded, and took every man his men that were to come in on the sabbath, with them that were to go out on the sabbath: for Jehoiada the priest dismissed not the courses.",
+      "highlightedWords": [
+        {
+          "word": "priest",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest, one who officiates in worship"
+        },
+        {
+          "word": "sabbath",
+          "strongNumber": "H7676",
+          "lemma": "shabbath",
+          "meaning": "Sabbath, day of rest"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Moreover Jehoiada the priest delivered to the captains of hundreds spears, and bucklers, and shields, that had been king David's, which were in the house of God.",
+      "highlightedWords": [
+        {
+          "word": "spears",
+          "strongNumber": "H2595",
+          "lemma": "chanit",
+          "meaning": "spear or javelin"
+        },
+        {
+          "word": "bucklers",
+          "strongNumber": "H6793",
+          "lemma": "tsinnah",
+          "meaning": "large shield or buckler"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And he set all the people, every man having his weapon in his hand, from the right side of the temple to the left side of the temple, along by the altar and the temple, by the king round about.",
+      "highlightedWords": [
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar for sacrifice"
+        },
+        {
+          "word": "temple",
+          "strongNumber": "H1964",
+          "lemma": "hekal",
+          "meaning": "temple or palace"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Then they brought out the king's son, and put upon him the crown, and gave him the testimony, and made him king. And Jehoiada and his sons anointed him, and said, God save the king.",
+      "highlightedWords": [
+        {
+          "word": "anointed",
+          "strongNumber": "H4886",
+          "lemma": "mashach",
+          "meaning": "to anoint, consecrate"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "a ruler, sovereign, or king"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Now when Athaliah heard the noise of the people running and praising the king, she came to the people into the house of the LORD:",
+      "highlightedWords": [
+        {
+          "word": "praising",
+          "strongNumber": "H1984",
+          "lemma": "halal",
+          "meaning": "to praise, boast, or celebrate"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And she looked, and, behold, the king stood at his pillar at the entering in, and the princes and the trumpets by the king: and all the people of the land rejoiced, and sounded with trumpets, also the singers with instruments of musick, and such as taught to sing praise. Then Athaliah rent her clothes, and said, Treason, Treason.",
+      "highlightedWords": [
+        {
+          "word": "pillar",
+          "strongNumber": "H5982",
+          "lemma": "ammud",
+          "meaning": "pillar or column"
+        },
+        {
+          "word": "trumpets",
+          "strongNumber": "H2689",
+          "lemma": "chatsotsrah",
+          "meaning": "trumpet"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Then Jehoiada the priest brought out the captains of hundreds that were set over the host, and said unto them, Have her forth of the ranges: and whoso followeth her, let him be slain with the sword. For the priest said, Slay her not in the house of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword"
+        },
+        {
+          "word": "priest",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest, one who officiates in worship"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "So they laid hands on her; and when she was come to the entering of the horse gate by the king's house, they slew her there.",
+      "highlightedWords": [
+        {
+          "word": "horse",
+          "strongNumber": "H5483",
+          "lemma": "sus",
+          "meaning": "horse"
+        },
+        {
+          "word": "gate",
+          "strongNumber": "H8179",
+          "lemma": "sha'ar",
+          "meaning": "gate or entrance"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And Jehoiada made a covenant between him, and between all the people, and between the king, that they should be the LORD'S people.",
+      "highlightedWords": [
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "a pact, treaty, or solemn agreement"
+        },
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "am",
+          "meaning": "people, nation, kin"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Then all the people went to the house of Baal, and brake it down, and brake his altars and his images in pieces, and slew Mattan the priest of Baal before the altars.",
+      "highlightedWords": [
+        {
+          "word": "Baal",
+          "strongNumber": "H1168",
+          "lemma": "Ba'al",
+          "meaning": "Baal, a Canaanite deity"
+        },
+        {
+          "word": "altars",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altars for sacrifice"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Also Jehoiada appointed the offices of the house of the LORD by the hand of the priests the Levites, whom David had distributed in the house of the LORD, to offer the burnt offerings of the LORD, as it is written in the law of Moses, with rejoicing and with singing, as it was ordained by David.",
+      "highlightedWords": [
+        {
+          "word": "burnt offerings",
+          "strongNumber": "H5930",
+          "lemma": "olah",
+          "meaning": "burnt offering wholly consumed on the altar"
+        },
+        {
+          "word": "law",
+          "strongNumber": "H8451",
+          "lemma": "torah",
+          "meaning": "instruction, law, teaching"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And he set the porters at the gates of the house of the LORD, that none which was unclean in any thing should enter in.",
+      "highlightedWords": [
+        {
+          "word": "porters",
+          "strongNumber": "H7778",
+          "lemma": "sho'er",
+          "meaning": "gatekeeper or doorkeeper"
+        },
+        {
+          "word": "unclean",
+          "strongNumber": "H2931",
+          "lemma": "tame",
+          "meaning": "ritually impure, unclean"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And he took the captains of hundreds, and the nobles, and the governors of the people, and all the people of the land, and brought down the king from the house of the LORD: and they came through the high gate into the king's house, and set the king upon the throne of the kingdom.",
+      "highlightedWords": [
+        {
+          "word": "throne",
+          "strongNumber": "H3678",
+          "lemma": "kisse",
+          "meaning": "seat of honor, throne"
+        },
+        {
+          "word": "kingdom",
+          "strongNumber": "H4467",
+          "lemma": "mamlakah",
+          "meaning": "kingdom, dominion, realm"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And all the people of the land rejoiced: and the city was quiet, after that they had slain Athaliah with the sword.",
+      "highlightedWords": [
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "iyr",
+          "meaning": "city, town"
+        },
+        {
+          "word": "slain",
+          "strongNumber": "H2026",
+          "lemma": "harag",
+          "meaning": "to kill, slay"
+        }
+      ]
+    }
+  ]
+}

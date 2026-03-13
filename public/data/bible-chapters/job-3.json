@@ -1,0 +1,492 @@
+{
+  "book": "Job",
+  "chapter": 3,
+  "chapterTheme": {
+    "twoWordSummary": "Job Laments",
+    "themeWords": [
+      {
+        "word": "darkness",
+        "strongNumber": "H2822",
+        "lemma": "choshek",
+        "meaning": "darkness"
+      },
+      {
+        "word": "death",
+        "strongNumber": "H4194",
+        "lemma": "maveth",
+        "meaning": "death"
+      }
+    ]
+  },
+  "sentenceTheme": "Job curses the day of his birth and laments his suffering, longing for rest in death.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "After this opened Job his mouth, and cursed his day.",
+      "highlightedWords": [
+        {
+          "word": "cursed",
+          "strongNumber": "H7043",
+          "lemma": "qalal",
+          "meaning": "to curse, treat lightly"
+        },
+        {
+          "word": "day",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And Job spake, and said,",
+      "highlightedWords": [
+        {
+          "word": "spake",
+          "strongNumber": "H6030",
+          "lemma": "anah",
+          "meaning": "to answer, respond"
+        },
+        {
+          "word": "said",
+          "strongNumber": "H559",
+          "lemma": "amar",
+          "meaning": "to say, declare"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Let the day perish wherein I was born, and the night in which it was said, There is a man child conceived.",
+      "highlightedWords": [
+        {
+          "word": "perish",
+          "strongNumber": "H6",
+          "lemma": "abad",
+          "meaning": "to perish, be lost"
+        },
+        {
+          "word": "born",
+          "strongNumber": "H3205",
+          "lemma": "yalad",
+          "meaning": "to bear, bring forth"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Let that day be darkness; let not God regard it from above, neither let the light shine upon it.",
+      "highlightedWords": [
+        {
+          "word": "darkness",
+          "strongNumber": "H2822",
+          "lemma": "choshek",
+          "meaning": "darkness"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H433",
+          "lemma": "eloah",
+          "meaning": "God, deity"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Let darkness and the shadow of death stain it; let a cloud dwell upon it; let the blackness of the day terrify it.",
+      "highlightedWords": [
+        {
+          "word": "shadow of death",
+          "strongNumber": "H6757",
+          "lemma": "tsalmaveth",
+          "meaning": "deep darkness, death-shadow"
+        },
+        {
+          "word": "cloud",
+          "strongNumber": "H6051",
+          "lemma": "anan",
+          "meaning": "cloud"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "As for that night, let darkness seize upon it; let it not be joined unto the days of the year, let it not come into the number of the months.",
+      "highlightedWords": [
+        {
+          "word": "night",
+          "strongNumber": "H3915",
+          "lemma": "layil",
+          "meaning": "night"
+        },
+        {
+          "word": "months",
+          "strongNumber": "H2320",
+          "lemma": "chodesh",
+          "meaning": "month, new moon"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Lo, let that night be solitary, let no joyful voice come therein.",
+      "highlightedWords": [
+        {
+          "word": "solitary",
+          "strongNumber": "H1565",
+          "lemma": "galmud",
+          "meaning": "desolate, barren"
+        },
+        {
+          "word": "voice",
+          "strongNumber": "H6963",
+          "lemma": "qowl",
+          "meaning": "voice, sound"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Let them curse it that curse the day, who are ready to raise up their mourning.",
+      "highlightedWords": [
+        {
+          "word": "curse",
+          "strongNumber": "H779",
+          "lemma": "arar",
+          "meaning": "to curse"
+        },
+        {
+          "word": "day",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Let the stars of the twilight thereof be dark; let it look for light, but have none; neither let it see the dawning of the day:",
+      "highlightedWords": [
+        {
+          "word": "stars",
+          "strongNumber": "H3556",
+          "lemma": "kokab",
+          "meaning": "star"
+        },
+        {
+          "word": "twilight",
+          "strongNumber": "H5399",
+          "lemma": "nesheph",
+          "meaning": "twilight, dusk"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Because it shut not up the doors of my mother's womb, nor hid sorrow from mine eyes.",
+      "highlightedWords": [
+        {
+          "word": "womb",
+          "strongNumber": "H7358",
+          "lemma": "rechem",
+          "meaning": "womb"
+        },
+        {
+          "word": "sorrow",
+          "strongNumber": "H5999",
+          "lemma": "amal",
+          "meaning": "toil, trouble, sorrow"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Why died I not from the womb? why did I not give up the ghost when I came out of the belly?",
+      "highlightedWords": [
+        {
+          "word": "died",
+          "strongNumber": "H4191",
+          "lemma": "muwth",
+          "meaning": "to die"
+        },
+        {
+          "word": "belly",
+          "strongNumber": "H990",
+          "lemma": "beten",
+          "meaning": "belly"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Why did the knees prevent me? or why the breasts that I should suck?",
+      "highlightedWords": [
+        {
+          "word": "knees",
+          "strongNumber": "H1290",
+          "lemma": "berek",
+          "meaning": "knee"
+        },
+        {
+          "word": "breasts",
+          "strongNumber": "H7699",
+          "lemma": "shad",
+          "meaning": "breast"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "For now should I have lain still and been quiet, I should have slept: then had I been at rest,",
+      "highlightedWords": [
+        {
+          "word": "slept",
+          "strongNumber": "H3462",
+          "lemma": "yashen",
+          "meaning": "to sleep"
+        },
+        {
+          "word": "rest",
+          "strongNumber": "H5117",
+          "lemma": "nuach",
+          "meaning": "to rest, settle"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "With kings and counsellors of the earth, which built desolate places for themselves;",
+      "highlightedWords": [
+        {
+          "word": "kings",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king"
+        },
+        {
+          "word": "desolate",
+          "strongNumber": "H2723",
+          "lemma": "chorbah",
+          "meaning": "desolation, ruins"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Or with princes that had gold, who filled their houses with silver:",
+      "highlightedWords": [
+        {
+          "word": "princes",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "prince, ruler"
+        },
+        {
+          "word": "silver",
+          "strongNumber": "H3701",
+          "lemma": "kesef",
+          "meaning": "silver"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Or as an hidden untimely birth I had not been; as infants which never saw light.",
+      "highlightedWords": [
+        {
+          "word": "untimely birth",
+          "strongNumber": "H5309",
+          "lemma": "nephel",
+          "meaning": "miscarriage, stillbirth"
+        },
+        {
+          "word": "infants",
+          "strongNumber": "H5768",
+          "lemma": "olel",
+          "meaning": "infant, child"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "There the wicked cease from troubling; and there the weary be at rest.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha'",
+          "meaning": "wicked, guilty"
+        },
+        {
+          "word": "rest",
+          "strongNumber": "H5117",
+          "lemma": "nuach",
+          "meaning": "to rest, settle"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "There the prisoners rest together; they hear not the voice of the oppressor.",
+      "highlightedWords": [
+        {
+          "word": "prisoners",
+          "strongNumber": "H615",
+          "lemma": "asir",
+          "meaning": "prisoner"
+        },
+        {
+          "word": "oppressor",
+          "strongNumber": "H5065",
+          "lemma": "nagas",
+          "meaning": "oppressor, taskmaster"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "The small and great are there; and the servant is free from his master.",
+      "highlightedWords": [
+        {
+          "word": "servant",
+          "strongNumber": "H5650",
+          "lemma": "ebed",
+          "meaning": "servant, slave"
+        },
+        {
+          "word": "master",
+          "strongNumber": "H113",
+          "lemma": "adon",
+          "meaning": "lord, master"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Wherefore is light given to him that is in misery, and life unto the bitter in soul;",
+      "highlightedWords": [
+        {
+          "word": "light",
+          "strongNumber": "H216",
+          "lemma": "'or",
+          "meaning": "light"
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Which long for death, but it cometh not; and dig for it more than for hid treasures;",
+      "highlightedWords": [
+        {
+          "word": "death",
+          "strongNumber": "H4194",
+          "lemma": "maveth",
+          "meaning": "death"
+        },
+        {
+          "word": "treasures",
+          "strongNumber": "H4301",
+          "lemma": "matmon",
+          "meaning": "hidden treasure"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Which rejoice exceedingly, and are glad, when they can find the grave?",
+      "highlightedWords": [
+        {
+          "word": "rejoice",
+          "strongNumber": "H8055",
+          "lemma": "samach",
+          "meaning": "to rejoice, be glad"
+        },
+        {
+          "word": "grave",
+          "strongNumber": "H6913",
+          "lemma": "qeber",
+          "meaning": "grave, tomb"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Why is light given to a man whose way is hid, and whom God hath hedged in?",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H433",
+          "lemma": "eloah",
+          "meaning": "God, deity"
+        },
+        {
+          "word": "hedged",
+          "strongNumber": "H7753",
+          "lemma": "suwk",
+          "meaning": "to hedge in, fence"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "For my sighing cometh before I eat, and my roarings are poured out like the waters.",
+      "highlightedWords": [
+        {
+          "word": "sighing",
+          "strongNumber": "H585",
+          "lemma": "anachah",
+          "meaning": "sighing, groaning"
+        },
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "For the thing which I greatly feared is come upon me, and that which I was afraid of is come unto me.",
+      "highlightedWords": [
+        {
+          "word": "feared",
+          "strongNumber": "H6342",
+          "lemma": "pachad",
+          "meaning": "to dread, fear"
+        },
+        {
+          "word": "come",
+          "strongNumber": "H935",
+          "lemma": "bo'",
+          "meaning": "to come, enter"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "I was not in safety, neither had I rest, neither was I quiet; yet trouble came.",
+      "highlightedWords": [
+        {
+          "word": "quiet",
+          "strongNumber": "H8252",
+          "lemma": "shaqat",
+          "meaning": "to be quiet, at rest"
+        },
+        {
+          "word": "trouble",
+          "strongNumber": "H7267",
+          "lemma": "rogez",
+          "meaning": "turmoil, agitation, trouble"
+        }
+      ]
+    }
+  ]
+}

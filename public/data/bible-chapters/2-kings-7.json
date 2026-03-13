@@ -1,0 +1,384 @@
+{
+  "book": "2 Kings",
+  "chapter": 7,
+  "chapterTheme": {
+    "twoWordSummary": "Sudden Deliverance",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH (Yehovah)",
+        "meaning": "the proper name of the God of Israel"
+      },
+      {
+        "word": "gate",
+        "strongNumber": "H8179",
+        "lemma": "sha'ar",
+        "meaning": "gate, entrance"
+      }
+    ]
+  },
+  "sentenceTheme": "Elisha foretells sudden abundance during Samaria’s siege; four lepers discover the Syrians have fled, the city is supplied, and the skeptical officer is trampled at the gate.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Then Elisha said, Hear ye the word of the LORD; Thus saith the LORD, To morrow about this time shall a measure of fine flour be sold for a shekel, and two measures of barley for a shekel, in the gate of Samaria.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the proper name of the God of Israel"
+        },
+        {
+          "word": "shekel",
+          "strongNumber": "H8255",
+          "lemma": "sheqel",
+          "meaning": "a unit of weight and currency"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Then a lord on whose hand the king leaned answered the man of God, and said, Behold, if the LORD would make windows in heaven, might this thing be? And he said, Behold, thou shalt see it with thine eyes, but shalt not eat thereof.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "a king, ruler"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And there were four leprous men at the entering in of the gate: and they said one to another, Why sit we here until we die?",
+      "highlightedWords": [
+        {
+          "word": "gate",
+          "strongNumber": "H8179",
+          "lemma": "sha'ar",
+          "meaning": "gate, entrance"
+        },
+        {
+          "word": "die",
+          "strongNumber": "H4191",
+          "lemma": "muth",
+          "meaning": "to die, perish"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "If we say, We will enter into the city, then the famine is in the city, and we shall die there: and if we sit still here, we die also. Now therefore come, and let us fall unto the host of the Syrians: if they save us alive, we shall live; and if they kill us, we shall but die.",
+      "highlightedWords": [
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "'ir",
+          "meaning": "city, town"
+        },
+        {
+          "word": "Syrians",
+          "strongNumber": "H761",
+          "lemma": "'Arammiy",
+          "meaning": "an Aramean, Syrian"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And they rose up in the twilight, to go unto the camp of the Syrians: and when they were come to the uttermost part of the camp of Syria, behold, there was no man there.",
+      "highlightedWords": [
+        {
+          "word": "camp",
+          "strongNumber": "H4264",
+          "lemma": "machaneh",
+          "meaning": "camp, encampment"
+        },
+        {
+          "word": "man",
+          "strongNumber": "H376",
+          "lemma": "'ish",
+          "meaning": "man, person, husband"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "For the Lord had made the host of the Syrians to hear a noise of chariots, and a noise of horses, even the noise of a great host: and they said one to another, Lo, the king of Israel hath hired against us the kings of the Hittites, and the kings of the Egyptians, to come upon us.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel"
+        },
+        {
+          "word": "Hittites",
+          "strongNumber": "H2850",
+          "lemma": "Chitti",
+          "meaning": "a Hittite"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Wherefore they arose and fled in the twilight, and left their tents, and their horses, and their asses, even the camp as it was, and fled for their life.",
+      "highlightedWords": [
+        {
+          "word": "tents",
+          "strongNumber": "H168",
+          "lemma": "ohel",
+          "meaning": "a tent, dwelling"
+        },
+        {
+          "word": "life",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, self"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And when these lepers came to the uttermost part of the camp, they went into one tent, and did eat and drink, and carried thence silver, and gold, and raiment, and went and hid it; and came again, and entered into another tent, and carried thence also, and went and hid it.",
+      "highlightedWords": [
+        {
+          "word": "silver",
+          "strongNumber": "H3701",
+          "lemma": "keseph",
+          "meaning": "silver, money"
+        },
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "zahab",
+          "meaning": "gold"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Then they said one to another, We do not well: this day is a day of good tidings, and we hold our peace: if we tarry till the morning light, some mischief will come upon us: now therefore come, that we may go and tell the king's household.",
+      "highlightedWords": [
+        {
+          "word": "day",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day, time"
+        },
+        {
+          "word": "morning",
+          "strongNumber": "H1242",
+          "lemma": "boqer",
+          "meaning": "morning, dawn"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "So they came and called unto the porter of the city: and they told them, saying, We came to the camp of the Syrians, and, behold, there was no man there, neither voice of man, but horses tied, and asses tied, and the tents as they were.",
+      "highlightedWords": [
+        {
+          "word": "porter",
+          "strongNumber": "H7778",
+          "lemma": "sho'er",
+          "meaning": "gatekeeper, porter"
+        },
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "'ir",
+          "meaning": "city, town"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And he called the porters; and they told it to the king's house within.",
+      "highlightedWords": [
+        {
+          "word": "porters",
+          "strongNumber": "H7778",
+          "lemma": "sho'er",
+          "meaning": "gatekeepers, porters"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "a king, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And the king arose in the night, and said unto his servants, I will now shew you what the Syrians have done to us. They know that we be hungry; therefore are they gone out of the camp to hide themselves in the field, saying, When they come out of the city, we shall catch them alive, and get into the city.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "a king, ruler"
+        },
+        {
+          "word": "servants",
+          "strongNumber": "H5650",
+          "lemma": "'ebed",
+          "meaning": "servant, slave"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And one of his servants answered and said, Let some take, I pray thee, five of the horses that remain, which are left in the city, (behold, they are as all the multitude of Israel that are left in it: behold, I say, they are even as all the multitude of the Israelites that are consumed:) and let us send and see.",
+      "highlightedWords": [
+        {
+          "word": "horses",
+          "strongNumber": "H5483",
+          "lemma": "sus",
+          "meaning": "horse"
+        },
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "'ir",
+          "meaning": "city, town"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "They took therefore two chariot horses; and the king sent after the host of the Syrians, saying, Go and see.",
+      "highlightedWords": [
+        {
+          "word": "chariot",
+          "strongNumber": "H7393",
+          "lemma": "rekeb",
+          "meaning": "chariot"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "a king, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And they went after them unto Jordan: and, lo, all the way was full of garments and vessels, which the Syrians had cast away in their haste. And the messengers returned, and told the king.",
+      "highlightedWords": [
+        {
+          "word": "Jordan",
+          "strongNumber": "H3383",
+          "lemma": "Yarden",
+          "meaning": "the Jordan River"
+        },
+        {
+          "word": "messengers",
+          "strongNumber": "H4397",
+          "lemma": "mal'ak",
+          "meaning": "messenger, angel"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And the people went out, and spoiled the tents of the Syrians. So a measure of fine flour was sold for a shekel, and two measures of barley for a shekel, according to the word of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the proper name of the God of Israel"
+        },
+        {
+          "word": "barley",
+          "strongNumber": "H8184",
+          "lemma": "se'orah",
+          "meaning": "barley"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And the king appointed the lord on whose hand he leaned to have the charge of the gate: and the people trode upon him in the gate, and he died, as the man of God had said, who spake when the king came down to him.",
+      "highlightedWords": [
+        {
+          "word": "gate",
+          "strongNumber": "H8179",
+          "lemma": "sha'ar",
+          "meaning": "gate, entrance"
+        },
+        {
+          "word": "died",
+          "strongNumber": "H4191",
+          "lemma": "muth",
+          "meaning": "to die, perish"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And it came to pass as the man of God had spoken to the king, saying, Two measures of barley for a shekel, and a measure of fine flour for a shekel, shall be to morrow about this time in the gate of Samaria:",
+      "highlightedWords": [
+        {
+          "word": "Samaria",
+          "strongNumber": "H8111",
+          "lemma": "Shomron",
+          "meaning": "Samaria"
+        },
+        {
+          "word": "barley",
+          "strongNumber": "H8184",
+          "lemma": "se'orah",
+          "meaning": "barley"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And that lord answered the man of God, and said, Now, behold, if the LORD should make windows in heaven, might such a thing be? And he said, Behold, thou shalt see it with thine eyes, but shalt not eat thereof.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the proper name of the God of Israel"
+        },
+        {
+          "word": "windows",
+          "strongNumber": "H699",
+          "lemma": "'arubbah",
+          "meaning": "lattice, window, opening"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And so it fell out unto him: for the people trode upon him in the gate, and he died.",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "'am",
+          "meaning": "people, nation"
+        },
+        {
+          "word": "gate",
+          "strongNumber": "H8179",
+          "lemma": "sha'ar",
+          "meaning": "gate, entrance"
+        }
+      ]
+    }
+  ]
+}

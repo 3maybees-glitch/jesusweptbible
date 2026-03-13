@@ -1,0 +1,204 @@
+{
+  "book": "Psalms",
+  "chapter": 146,
+  "chapterTheme": {
+    "twoWordSummary": "Praise Deliverer",
+    "themeWords": [
+      {
+        "word": "Praise",
+        "strongNumber": "H1984",
+        "lemma": "halal",
+        "meaning": "to praise, boast, celebrate"
+      },
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH (יהוה)",
+        "meaning": "the personal name of the God of Israel"
+      }
+    ]
+  },
+  "sentenceTheme": "A call to praise the LORD who reigns forever and defends the helpless, in contrast to fleeting human power.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Praise ye the LORD. Praise the LORD, O my soul.",
+      "highlightedWords": [
+        {
+          "word": "Praise",
+          "strongNumber": "H1984",
+          "lemma": "halal",
+          "meaning": "to praise, boast, celebrate"
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, inner self"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "While I live will I praise the LORD: I will sing praises unto my God while I have any being.",
+      "highlightedWords": [
+        {
+          "word": "praise",
+          "strongNumber": "H1984",
+          "lemma": "halal",
+          "meaning": "to praise, boast, celebrate"
+        },
+        {
+          "word": "sing",
+          "strongNumber": "H2167",
+          "lemma": "zamar",
+          "meaning": "to make music, sing praise"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Put not your trust in princes, nor in the son of man, in whom there is no help.",
+      "highlightedWords": [
+        {
+          "word": "trust",
+          "strongNumber": "H982",
+          "lemma": "batach",
+          "meaning": "to trust, be confident, rely upon"
+        },
+        {
+          "word": "princes",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "prince, ruler, chief"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "His breath goeth forth, he returneth to his earth; in that very day his thoughts perish.",
+      "highlightedWords": [
+        {
+          "word": "breath",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "breath, wind, spirit"
+        },
+        {
+          "word": "thoughts",
+          "strongNumber": "H6250",
+          "lemma": "eshtonah",
+          "meaning": "plans, thoughts, devices"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Happy is he that hath the God of Jacob for his help, whose hope is in the LORD his God:",
+      "highlightedWords": [
+        {
+          "word": "Happy",
+          "strongNumber": "H835",
+          "lemma": "’esher",
+          "meaning": "happiness, blessedness"
+        },
+        {
+          "word": "hope",
+          "strongNumber": "H7664",
+          "lemma": "seber",
+          "meaning": "expectation, hope"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Which made heaven, and earth, the sea, and all that therein is: which keepeth truth for ever:",
+      "highlightedWords": [
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens, sky"
+        },
+        {
+          "word": "truth",
+          "strongNumber": "H571",
+          "lemma": "’emet",
+          "meaning": "truth, firmness, faithfulness"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Which executeth judgment for the oppressed: which giveth food to the hungry. The LORD looseth the prisoners:",
+      "highlightedWords": [
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "justice, judgment, legal decision"
+        },
+        {
+          "word": "prisoners",
+          "strongNumber": "H0615",
+          "lemma": "’asir",
+          "meaning": "prisoner, one who is bound"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "The LORD openeth the eyes of the blind: the LORD raiseth them that are bowed down: the LORD loveth the righteous:",
+      "highlightedWords": [
+        {
+          "word": "openeth",
+          "strongNumber": "H6491",
+          "lemma": "paqach",
+          "meaning": "to open (the eyes), unstop"
+        },
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just, in the right"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "The LORD preserveth the strangers; he relieveth the fatherless and widow: but the way of the wicked he turneth upside down.",
+      "highlightedWords": [
+        {
+          "word": "strangers",
+          "strongNumber": "H1616",
+          "lemma": "ger",
+          "meaning": "sojourner, foreigner, resident alien"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha‘",
+          "meaning": "wicked, guilty, criminal"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "The LORD shall reign for ever, even thy God, O Zion, unto all generations. Praise ye the LORD.",
+      "highlightedWords": [
+        {
+          "word": "reign",
+          "strongNumber": "H4427",
+          "lemma": "malak",
+          "meaning": "to reign, be king"
+        },
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyon",
+          "meaning": "Zion, the hill in Jerusalem; figuratively, the people of God"
+        }
+      ]
+    }
+  ]
+}

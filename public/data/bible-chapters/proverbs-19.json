@@ -1,0 +1,546 @@
+{
+  "book": "Proverbs",
+  "chapter": 19,
+  "chapterTheme": {
+    "twoWordSummary": "Wise Conduct",
+    "themeWords": [
+      {
+        "word": "wisdom",
+        "strongNumber": "H2451",
+        "lemma": "chokmah",
+        "meaning": "wisdom, skill, practical prudence"
+      },
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "Yehovah",
+        "meaning": "the divine name YHWH"
+      }
+    ]
+  },
+  "sentenceTheme": "Proverbs 19 contrasts wisdom and folly in daily relationships, urging integrity, disciplined speech, generosity to the poor, teachability, and reverent trust in the LORD.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Better is the poor that walketh in his integrity, than he that is perverse in his lips, and is a fool.",
+      "highlightedWords": [
+        {
+          "word": "integrity",
+          "strongNumber": "H8537",
+          "lemma": "tom",
+          "meaning": "completeness, integrity, innocence"
+        },
+        {
+          "word": "lips",
+          "strongNumber": "H8193",
+          "lemma": "saphah",
+          "meaning": "lip, language, edge; speech"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Also, that the soul be without knowledge, it is not good; and he that hasteth with his feet sinneth.",
+      "highlightedWords": [
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, self, person"
+        },
+        {
+          "word": "knowledge",
+          "strongNumber": "H1847",
+          "lemma": "da'ath",
+          "meaning": "knowledge, perception, skill"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "The foolishness of man perverteth his way: and his heart fretteth against the LORD.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner man, mind, will"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the divine name YHWH"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Wealth maketh many friends; but the poor is separated from his neighbour.",
+      "highlightedWords": [
+        {
+          "word": "Wealth",
+          "strongNumber": "H1952",
+          "lemma": "hon",
+          "meaning": "wealth, substance, riches"
+        },
+        {
+          "word": "neighbour",
+          "strongNumber": "H7453",
+          "lemma": "rea",
+          "meaning": "friend, companion, neighbor"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "A false witness shall not be unpunished, and he that speaketh lies shall not escape.",
+      "highlightedWords": [
+        {
+          "word": "witness",
+          "strongNumber": "H5707",
+          "lemma": "ed",
+          "meaning": "witness, testimony, evidence"
+        },
+        {
+          "word": "lies",
+          "strongNumber": "H8267",
+          "lemma": "sheqer",
+          "meaning": "deception, lie, falsehood"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Many will intreat the favour of the prince: and every man is a friend to him that giveth gifts.",
+      "highlightedWords": [
+        {
+          "word": "favour",
+          "strongNumber": "H2580",
+          "lemma": "chen",
+          "meaning": "favor, grace, charm"
+        },
+        {
+          "word": "gifts",
+          "strongNumber": "H4976",
+          "lemma": "mattan",
+          "meaning": "gift, present, offering"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "All the brethren of the poor do hate him: how much more do his friends go far from him? he pursueth them with words, yet they are wanting to him.",
+      "highlightedWords": [
+        {
+          "word": "brethren",
+          "strongNumber": "H251",
+          "lemma": "ach",
+          "meaning": "brother, kinsman, relative"
+        },
+        {
+          "word": "friends",
+          "strongNumber": "H7453",
+          "lemma": "rea",
+          "meaning": "friend, companion, neighbor"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "He that getteth wisdom loveth his own soul: he that keepeth understanding shall find good.",
+      "highlightedWords": [
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "wisdom, skill, prudence"
+        },
+        {
+          "word": "understanding",
+          "strongNumber": "H8394",
+          "lemma": "tebunah",
+          "meaning": "understanding, insight, discernment"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "A false witness shall not be unpunished, and he that speaketh lies shall perish.",
+      "highlightedWords": [
+        {
+          "word": "witness",
+          "strongNumber": "H5707",
+          "lemma": "ed",
+          "meaning": "witness, testimony, evidence"
+        },
+        {
+          "word": "lies",
+          "strongNumber": "H8267",
+          "lemma": "sheqer",
+          "meaning": "deception, lie, falsehood"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Delight is not seemly for a fool; much less for a servant to have rule over princes.",
+      "highlightedWords": [
+        {
+          "word": "servant",
+          "strongNumber": "H5650",
+          "lemma": "ebed",
+          "meaning": "servant, slave, attendant"
+        },
+        {
+          "word": "princes",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "prince, ruler, official"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "The discretion of a man deferreth his anger; and it is his glory to pass over a transgression.",
+      "highlightedWords": [
+        {
+          "word": "anger",
+          "strongNumber": "H639",
+          "lemma": "aph",
+          "meaning": "nose; anger, wrath"
+        },
+        {
+          "word": "transgression",
+          "strongNumber": "H6588",
+          "lemma": "pesha",
+          "meaning": "transgression, rebellion, offense"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "The king's wrath is as the roaring of a lion; but his favour is as dew upon the grass.",
+      "highlightedWords": [
+        {
+          "word": "wrath",
+          "strongNumber": "H2534",
+          "lemma": "chemah",
+          "meaning": "heat, rage, wrath"
+        },
+        {
+          "word": "dew",
+          "strongNumber": "H2919",
+          "lemma": "tal",
+          "meaning": "dew, night mist"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "A foolish son is the calamity of his father: and the contentions of a wife are a continual dropping.",
+      "highlightedWords": [
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child, descendant"
+        },
+        {
+          "word": "wife",
+          "strongNumber": "H802",
+          "lemma": "ishshah",
+          "meaning": "woman, wife"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "House and riches are the inheritance of fathers: and a prudent wife is from the LORD.",
+      "highlightedWords": [
+        {
+          "word": "House",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, household, dwelling"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the divine name YHWH"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Slothfulness casteth into a deep sleep; and an idle soul shall suffer hunger.",
+      "highlightedWords": [
+        {
+          "word": "sleep",
+          "strongNumber": "H8639",
+          "lemma": "tardemah",
+          "meaning": "deep sleep, trance"
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, person"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "He that keepeth the commandment keepeth his own soul; but he that despiseth his ways shall die.",
+      "highlightedWords": [
+        {
+          "word": "commandment",
+          "strongNumber": "H4687",
+          "lemma": "mitsvah",
+          "meaning": "commandment, ordinance"
+        },
+        {
+          "word": "die",
+          "strongNumber": "H4191",
+          "lemma": "muth",
+          "meaning": "to die, perish"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "He that hath pity upon the poor lendeth unto the LORD; and that which he hath given will he pay him again.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the divine name YHWH"
+        },
+        {
+          "word": "pity",
+          "strongNumber": "H2603",
+          "lemma": "chanan",
+          "meaning": "to be gracious, show favor, have mercy"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Chasten thy son while there is hope, and let not thy soul spare for his crying.",
+      "highlightedWords": [
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child, descendant"
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, person"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "A man of great wrath shall suffer punishment: for if thou deliver him, yet thou must do it again.",
+      "highlightedWords": [
+        {
+          "word": "man",
+          "strongNumber": "H376",
+          "lemma": "ish",
+          "meaning": "man, individual, husband"
+        },
+        {
+          "word": "wrath",
+          "strongNumber": "H2534",
+          "lemma": "chemah",
+          "meaning": "heat, rage, wrath"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Hear counsel, and receive instruction, that thou mayest be wise in thy latter end.",
+      "highlightedWords": [
+        {
+          "word": "counsel",
+          "strongNumber": "H6098",
+          "lemma": "etsah",
+          "meaning": "counsel, advice, purpose"
+        },
+        {
+          "word": "instruction",
+          "strongNumber": "H4148",
+          "lemma": "musar",
+          "meaning": "discipline, correction, instruction"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "There are many devices in a man's heart; nevertheless the counsel of the LORD, that shall stand.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner man, mind"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the divine name YHWH"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "The desire of a man is his kindness: and a poor man is better than a liar.",
+      "highlightedWords": [
+        {
+          "word": "kindness",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "kindness, steadfast love, mercy"
+        },
+        {
+          "word": "man",
+          "strongNumber": "H120",
+          "lemma": "adam",
+          "meaning": "man, humankind"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "The fear of the LORD tendeth to life: and he that hath it shall abide satisfied; he shall not be visited with evil.",
+      "highlightedWords": [
+        {
+          "word": "fear",
+          "strongNumber": "H3374",
+          "lemma": "yir'ah",
+          "meaning": "fear, reverence, awe"
+        },
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra'",
+          "meaning": "evil, bad, calamity"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "A slothful man hideth his hand in his bosom, and will not so much as bring it to his mouth again.",
+      "highlightedWords": [
+        {
+          "word": "slothful",
+          "strongNumber": "H6102",
+          "lemma": "atsel",
+          "meaning": "slothful, lazy"
+        },
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Smite a scorner, and the simple will beware: and reprove one that hath understanding, and he will understand knowledge.",
+      "highlightedWords": [
+        {
+          "word": "scorner",
+          "strongNumber": "H3917",
+          "lemma": "lets",
+          "meaning": "scoffer, mocker"
+        },
+        {
+          "word": "simple",
+          "strongNumber": "H6612",
+          "lemma": "pethi",
+          "meaning": "simple, naive, inexperienced"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "He that wasteth his father, and chaseth away his mother, is a son that causeth shame, and bringeth reproach.",
+      "highlightedWords": [
+        {
+          "word": "father",
+          "strongNumber": "H1",
+          "lemma": "ab",
+          "meaning": "father"
+        },
+        {
+          "word": "mother",
+          "strongNumber": "H517",
+          "lemma": "em",
+          "meaning": "mother"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "Cease, my son, to hear the instruction that causeth to err from the words of knowledge.",
+      "highlightedWords": [
+        {
+          "word": "instruction",
+          "strongNumber": "H4148",
+          "lemma": "musar",
+          "meaning": "discipline, correction, instruction"
+        },
+        {
+          "word": "knowledge",
+          "strongNumber": "H1847",
+          "lemma": "da'ath",
+          "meaning": "knowledge, perception, skill"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "An ungodly witness scorneth judgment: and the mouth of the wicked devoureth iniquity.",
+      "highlightedWords": [
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "judgment, justice, legal decision"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha'",
+          "meaning": "wicked, guilty, criminal"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "Judgments are prepared for scorners, and stripes for the back of fools.",
+      "highlightedWords": [
+        {
+          "word": "Judgments",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "judgments, decisions, justice"
+        },
+        {
+          "word": "fools",
+          "strongNumber": "H3684",
+          "lemma": "kesil",
+          "meaning": "fool, dullard, insolent"
+        }
+      ]
+    }
+  ]
+}

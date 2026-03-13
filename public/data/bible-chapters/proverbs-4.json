@@ -1,0 +1,510 @@
+{
+  "book": "Proverbs",
+  "chapter": 4,
+  "chapterTheme": {
+    "twoWordSummary": "Pursue Wisdom",
+    "themeWords": [
+      {
+        "word": "wisdom",
+        "strongNumber": "H2451",
+        "lemma": "chokmah",
+        "meaning": "skill, wisdom in living"
+      },
+      {
+        "word": "path",
+        "strongNumber": "H1870",
+        "lemma": "derek",
+        "meaning": "way, road, course of life"
+      }
+    ]
+  },
+  "sentenceTheme": "A father urges his son to prize wisdom, walk the right path, and avoid the way of the wicked.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Hear, ye children, the instruction of a father, and attend to know understanding.",
+      "highlightedWords": [
+        {
+          "word": "instruction",
+          "strongNumber": "H4148",
+          "lemma": "musar",
+          "meaning": "discipline, instruction, correction"
+        },
+        {
+          "word": "father",
+          "strongNumber": "H1",
+          "lemma": "ab",
+          "meaning": "father, ancestor"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "For I give you good doctrine, forsake ye not my law.",
+      "highlightedWords": [
+        {
+          "word": "doctrine",
+          "strongNumber": "H3948",
+          "lemma": "leqach",
+          "meaning": "learning, teaching, doctrine"
+        },
+        {
+          "word": "law",
+          "strongNumber": "H8451",
+          "lemma": "torah",
+          "meaning": "instruction, law"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "For I was my father's son, tender and only beloved in the sight of my mother.",
+      "highlightedWords": [
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child"
+        },
+        {
+          "word": "mother",
+          "strongNumber": "H517",
+          "lemma": "em",
+          "meaning": "mother"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "He taught me also, and said unto me, Let thine heart retain my words: keep my commandments, and live.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner self"
+        },
+        {
+          "word": "commandments",
+          "strongNumber": "H4687",
+          "lemma": "mitsvah",
+          "meaning": "command, commandment"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Get wisdom, get understanding: forget it not; neither decline from the words of my mouth.",
+      "highlightedWords": [
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "skill, wisdom in living"
+        },
+        {
+          "word": "understanding",
+          "strongNumber": "H998",
+          "lemma": "binah",
+          "meaning": "understanding, insight"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Forsake her not, and she shall preserve thee: love her, and she shall keep thee.",
+      "highlightedWords": [
+        {
+          "word": "Forsake",
+          "strongNumber": "H5800",
+          "lemma": "azab",
+          "meaning": "to leave, forsake"
+        },
+        {
+          "word": "love",
+          "strongNumber": "H157",
+          "lemma": "ahab",
+          "meaning": "to love"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Wisdom is the principal thing; therefore get wisdom: and with all thy getting get understanding.",
+      "highlightedWords": [
+        {
+          "word": "Wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "skill, wisdom in living"
+        },
+        {
+          "word": "understanding",
+          "strongNumber": "H998",
+          "lemma": "binah",
+          "meaning": "understanding, insight"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Exalt her, and she shall promote thee: she shall bring thee to honour, when thou dost embrace her.",
+      "highlightedWords": [
+        {
+          "word": "Exalt",
+          "strongNumber": "H7311",
+          "lemma": "ruwm",
+          "meaning": "to raise, exalt"
+        },
+        {
+          "word": "honour",
+          "strongNumber": "H3519",
+          "lemma": "kabod",
+          "meaning": "glory, honor"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "She shall give to thine head an ornament of grace: a crown of glory shall she deliver to thee.",
+      "highlightedWords": [
+        {
+          "word": "grace",
+          "strongNumber": "H2580",
+          "lemma": "chen",
+          "meaning": "favor, grace"
+        },
+        {
+          "word": "glory",
+          "strongNumber": "H3519",
+          "lemma": "kabod",
+          "meaning": "glory, honor"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Hear, O my son, and receive my sayings; and the years of thy life shall be many.",
+      "highlightedWords": [
+        {
+          "word": "Hear",
+          "strongNumber": "H8085",
+          "lemma": "shama",
+          "meaning": "to hear, listen, obey"
+        },
+        {
+          "word": "life",
+          "strongNumber": "H2416",
+          "lemma": "chay",
+          "meaning": "life, living"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "I have taught thee in the way of wisdom; I have led thee in right paths.",
+      "highlightedWords": [
+        {
+          "word": "way",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way, road, course of life"
+        },
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "skill, wisdom in living"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "When thou goest, thy steps shall not be straitened; and when thou runnest, thou shalt not stumble.",
+      "highlightedWords": [
+        {
+          "word": "runnest",
+          "strongNumber": "H7323",
+          "lemma": "ruts",
+          "meaning": "to run"
+        },
+        {
+          "word": "stumble",
+          "strongNumber": "H3782",
+          "lemma": "kashal",
+          "meaning": "to stumble, stagger"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Take fast hold of instruction; let her not go: keep her; for she is thy life.",
+      "highlightedWords": [
+        {
+          "word": "instruction",
+          "strongNumber": "H4148",
+          "lemma": "musar",
+          "meaning": "discipline, instruction, correction"
+        },
+        {
+          "word": "life",
+          "strongNumber": "H2416",
+          "lemma": "chay",
+          "meaning": "life, living"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Enter not into the path of the wicked, and go not in the way of evil men.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha",
+          "meaning": "wicked, guilty, criminal"
+        },
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra'",
+          "meaning": "evil, bad"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Avoid it, pass not by it, turn from it, and pass away.",
+      "highlightedWords": [
+        {
+          "word": "turn",
+          "strongNumber": "H5493",
+          "lemma": "sur",
+          "meaning": "to turn aside, depart"
+        },
+        {
+          "word": "pass",
+          "strongNumber": "H5674",
+          "lemma": "abar",
+          "meaning": "to pass over, cross"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "For they sleep not, except they have done mischief; and their sleep is taken away, unless they cause some to fall.",
+      "highlightedWords": [
+        {
+          "word": "sleep",
+          "strongNumber": "H8142",
+          "lemma": "shenah",
+          "meaning": "sleep"
+        },
+        {
+          "word": "mischief",
+          "strongNumber": "H7451",
+          "lemma": "ra'",
+          "meaning": "evil, mischief"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "For they eat the bread of wickedness, and drink the wine of violence.",
+      "highlightedWords": [
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread, food"
+        },
+        {
+          "word": "violence",
+          "strongNumber": "H2555",
+          "lemma": "hamas",
+          "meaning": "violence, wrong"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "But the path of the just is as the shining light, that shineth more and more unto the perfect day.",
+      "highlightedWords": [
+        {
+          "word": "just",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just"
+        },
+        {
+          "word": "light",
+          "strongNumber": "H216",
+          "lemma": "'owr",
+          "meaning": "light"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "The way of the wicked is as darkness: they know not at what they stumble.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha",
+          "meaning": "wicked, guilty, criminal"
+        },
+        {
+          "word": "darkness",
+          "strongNumber": "H2822",
+          "lemma": "choshek",
+          "meaning": "darkness"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "My son, attend to my words; incline thine ear unto my sayings.",
+      "highlightedWords": [
+        {
+          "word": "words",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter"
+        },
+        {
+          "word": "ear",
+          "strongNumber": "H241",
+          "lemma": "ozen",
+          "meaning": "ear"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Let them not depart from thine eyes; keep them in the midst of thine heart.",
+      "highlightedWords": [
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "ayin",
+          "meaning": "eye"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner self"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "For they are life unto those that find them, and health to all their flesh.",
+      "highlightedWords": [
+        {
+          "word": "life",
+          "strongNumber": "H2416",
+          "lemma": "chay",
+          "meaning": "life, living"
+        },
+        {
+          "word": "health",
+          "strongNumber": "H4832",
+          "lemma": "marpe'",
+          "meaning": "healing, health"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Keep thy heart with all diligence; for out of it are the issues of life.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner self"
+        },
+        {
+          "word": "life",
+          "strongNumber": "H2416",
+          "lemma": "chay",
+          "meaning": "life, living"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Put away from thee a froward mouth, and perverse lips put far from thee.",
+      "highlightedWords": [
+        {
+          "word": "mouth",
+          "strongNumber": "H6310",
+          "lemma": "peh",
+          "meaning": "mouth"
+        },
+        {
+          "word": "lips",
+          "strongNumber": "H8193",
+          "lemma": "saphah",
+          "meaning": "lip, speech"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Let thine eyes look right on, and let thine eyelids look straight before thee.",
+      "highlightedWords": [
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "ayin",
+          "meaning": "eye"
+        },
+        {
+          "word": "eyelids",
+          "strongNumber": "H6079",
+          "lemma": "'aphaph",
+          "meaning": "eyelids"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "Ponder the path of thy feet, and let all thy ways be established.",
+      "highlightedWords": [
+        {
+          "word": "feet",
+          "strongNumber": "H7272",
+          "lemma": "regel",
+          "meaning": "foot"
+        },
+        {
+          "word": "ways",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "ways, paths, manner of life"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "Turn not to the right hand nor to the left: remove thy foot from evil.",
+      "highlightedWords": [
+        {
+          "word": "right hand",
+          "strongNumber": "H3225",
+          "lemma": "yamin",
+          "meaning": "right hand, right side"
+        },
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra'",
+          "meaning": "evil, bad"
+        }
+      ]
+    }
+  ]
+}

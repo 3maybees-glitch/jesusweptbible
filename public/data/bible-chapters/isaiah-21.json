@@ -1,0 +1,330 @@
+{
+  "book": "Isaiah",
+  "chapter": 21,
+  "chapterTheme": {
+    "twoWordSummary": "Babylon Fallen",
+    "themeWords": [
+      {
+        "word": "watchman",
+        "strongNumber": "H6822",
+        "lemma": "tsopheh",
+        "meaning": "a lookout; one who keeps watch"
+      },
+      {
+        "word": "Babylon",
+        "strongNumber": "H894",
+        "lemma": "Babel",
+        "meaning": "Babylon; the chief city/empire of Mesopotamia"
+      }
+    ]
+  },
+  "sentenceTheme": "Oracles against Babylon, Dumah, and Arabia foretell sudden judgment, while the watchman announces Babylon’s fall.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "The burden of the desert of the sea. As whirlwinds in the south pass through; so it cometh from the desert, from a terrible land.",
+      "highlightedWords": [
+        {
+          "word": "burden",
+          "strongNumber": "H4853",
+          "lemma": "massa",
+          "meaning": "oracle, burden, pronouncement"
+        },
+        {
+          "word": "desert",
+          "strongNumber": "H4057",
+          "lemma": "midbar",
+          "meaning": "wilderness, uninhabited land"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "A grievous vision is declared unto me; the treacherous dealer dealeth treacherously, and the spoiler spoileth. Go up, O Elam: besiege, O Media; all the sighing thereof have I made to cease.",
+      "highlightedWords": [
+        {
+          "word": "Elam",
+          "strongNumber": "H5867",
+          "lemma": "Elam",
+          "meaning": "Elam; region east of Babylon; descendants of Shem"
+        },
+        {
+          "word": "Media",
+          "strongNumber": "H4074",
+          "lemma": "Madai",
+          "meaning": "Media; the people/land of the Medes"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Therefore are my loins filled with pain: pangs have taken hold upon me, as the pangs of a woman that travaileth: I was bowed down at the hearing of it; I was dismayed at the seeing of it.",
+      "highlightedWords": [
+        {
+          "word": "loins",
+          "strongNumber": "H4975",
+          "lemma": "mothen",
+          "meaning": "loins, hips; seat of strength"
+        },
+        {
+          "word": "woman",
+          "strongNumber": "H802",
+          "lemma": "ishshah",
+          "meaning": "woman, wife, female"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "My heart panted, fearfulness affrighted me: the night of my pleasure hath he turned into fear unto me.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner person, mind"
+        },
+        {
+          "word": "fear",
+          "strongNumber": "H6343",
+          "lemma": "pachad",
+          "meaning": "dread, fear, terror"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Prepare the table, watch in the watchtower, eat, drink: arise, ye princes, and anoint the shield.",
+      "highlightedWords": [
+        {
+          "word": "princes",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "prince, ruler, official"
+        },
+        {
+          "word": "shield",
+          "strongNumber": "H4043",
+          "lemma": "magen",
+          "meaning": "shield, buckler"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "For thus hath the Lord said unto me, Go, set a watchman, let him declare what he seeth.",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "H136",
+          "lemma": "Adonai",
+          "meaning": "Lord, Master (a title of God)"
+        },
+        {
+          "word": "watchman",
+          "strongNumber": "H6822",
+          "lemma": "tsopheh",
+          "meaning": "lookout, watchman"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And he saw a chariot with a couple of horsemen, a chariot of asses, and a chariot of camels; and he hearkened diligently with much heed:",
+      "highlightedWords": [
+        {
+          "word": "horsemen",
+          "strongNumber": "H6571",
+          "lemma": "parash",
+          "meaning": "horseman, cavalryman"
+        },
+        {
+          "word": "camels",
+          "strongNumber": "H1581",
+          "lemma": "gamal",
+          "meaning": "camel"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And he cried, A lion: My lord, I stand continually upon the watchtower in the daytime, and I am set in my ward whole nights:",
+      "highlightedWords": [
+        {
+          "word": "lion",
+          "strongNumber": "H738",
+          "lemma": "aryeh",
+          "meaning": "lion"
+        },
+        {
+          "word": "nights",
+          "strongNumber": "H3915",
+          "lemma": "laylah",
+          "meaning": "night, nighttime"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And, behold, here cometh a chariot of men, with a couple of horsemen. And he answered and said, Babylon is fallen, is fallen; and all the graven images of her gods he hath broken unto the ground.",
+      "highlightedWords": [
+        {
+          "word": "Babylon",
+          "strongNumber": "H894",
+          "lemma": "Babel",
+          "meaning": "Babylon; the empire/city"
+        },
+        {
+          "word": "graven images",
+          "strongNumber": "H6459",
+          "lemma": "pesel",
+          "meaning": "carved idols, graven images"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "O my threshing, and the corn of my floor: that which I have heard of the LORD of hosts, the God of Israel, have I declared unto you.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisrael",
+          "meaning": "Israel; the nation/people"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "The burden of Dumah. He calleth to me out of Seir, Watchman, what of the night? Watchman, what of the night?",
+      "highlightedWords": [
+        {
+          "word": "Dumah",
+          "strongNumber": "H1746",
+          "lemma": "Dumah",
+          "meaning": "Dumah; an Ishmaelite tribe/region; also ‘silence’"
+        },
+        {
+          "word": "Seir",
+          "strongNumber": "H8165",
+          "lemma": "Seir",
+          "meaning": "Seir; the hill country of Edom"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "The watchman said, The morning cometh, and also the night: if ye will enquire, enquire ye: return, come.",
+      "highlightedWords": [
+        {
+          "word": "morning",
+          "strongNumber": "H1242",
+          "lemma": "boqer",
+          "meaning": "morning, dawn"
+        },
+        {
+          "word": "enquire",
+          "strongNumber": "H1875",
+          "lemma": "darash",
+          "meaning": "to seek, inquire, consult"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "The burden upon Arabia. In the forest in Arabia shall ye lodge, O ye travelling companies of Dedanim.",
+      "highlightedWords": [
+        {
+          "word": "Arabia",
+          "strongNumber": "H6152",
+          "lemma": "Arab",
+          "meaning": "Arabia; the desert region and its people"
+        },
+        {
+          "word": "Dedanim",
+          "strongNumber": "H1719",
+          "lemma": "Dedan",
+          "meaning": "Dedan; a north Arabian people/tribe"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "The inhabitants of the land of Tema brought water to him that was thirsty, they prevented with their bread him that fled.",
+      "highlightedWords": [
+        {
+          "word": "Tema",
+          "strongNumber": "H8485",
+          "lemma": "Tema",
+          "meaning": "Tema; an oasis/region in north Arabia"
+        },
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread, food"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "For they fled from the swords, from the drawn sword, and from the bent bow, and from the grievousness of war.",
+      "highlightedWords": [
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword"
+        },
+        {
+          "word": "bow",
+          "strongNumber": "H7198",
+          "lemma": "qeshet",
+          "meaning": "bow (weapon)"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "For thus hath the Lord said unto me, Within a year, according to the years of an hireling, and all the glory of Kedar shall fail:",
+      "highlightedWords": [
+        {
+          "word": "year",
+          "strongNumber": "H8141",
+          "lemma": "shanah",
+          "meaning": "year"
+        },
+        {
+          "word": "Kedar",
+          "strongNumber": "H6938",
+          "lemma": "Qedar",
+          "meaning": "Kedar; a nomadic Ishmaelite tribe"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And the residue of the number of archers, the mighty men of the children of Kedar, shall be diminished: for the LORD God of Israel hath spoken it.",
+      "highlightedWords": [
+        {
+          "word": "mighty men",
+          "strongNumber": "H1368",
+          "lemma": "gibbor",
+          "meaning": "mighty, valiant man, warrior"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    }
+  ]
+}

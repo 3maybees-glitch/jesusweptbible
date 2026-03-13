@@ -1,0 +1,600 @@
+{
+  "book": "Jeremiah",
+  "chapter": 29,
+  "chapterTheme": {
+    "twoWordSummary": "Exile Guidance",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH (יהוה)",
+        "meaning": "The proper name of the God of Israel"
+      },
+      {
+        "word": "Babylon",
+        "strongNumber": "H894",
+        "lemma": "Bāḇel (בבל)",
+        "meaning": "Babylon, capital of Babylonia"
+      }
+    ]
+  },
+  "sentenceTheme": "Jeremiah’s letter instructs the exiles to seek the peace of Babylon, promises return after seventy years, and condemns false prophets.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Now these are the words of the letter that Jeremiah the prophet sent from Jerusalem unto the residue of the elders which were carried away captives, and to the priests, and to the prophets, and to all the people whom Nebuchadnezzar had carried away captive from Jerusalem to Babylon;",
+      "highlightedWords": [
+        {
+          "word": "Jeremiah",
+          "strongNumber": "H3414",
+          "lemma": "Yirmĕyāhû (יִרְמְיָהוּ)",
+          "meaning": "Jeremiah, the prophet"
+        },
+        {
+          "word": "Babylon",
+          "strongNumber": "H894",
+          "lemma": "Bāḇel (בבל)",
+          "meaning": "Babylon, capital of Babylonia"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "(After that Jeconiah the king, and the queen, and the eunuchs, the princes of Judah and Jerusalem, and the carpenters, and the smiths, were departed from Jerusalem;)",
+      "highlightedWords": [
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yĕhûḏāh (יהודה)",
+          "meaning": "Judah, the southern kingdom/tribe of Israel"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yĕrûshālaim (ירושלם)",
+          "meaning": "Jerusalem, chief city of Judah"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "By the hand of Elasah the son of Shaphan, and Gemariah the son of Hilkiah, (whom Zedekiah king of Judah sent unto Babylon to Nebuchadnezzar king of Babylon) saying,",
+      "highlightedWords": [
+        {
+          "word": "Zedekiah",
+          "strongNumber": "H6667",
+          "lemma": "Ṣiḏqiyyāhû (צִדְקִיָּהוּ)",
+          "meaning": "Zedekiah, king of Judah"
+        },
+        {
+          "word": "Babylon",
+          "strongNumber": "H894",
+          "lemma": "Bāḇel (בבל)",
+          "meaning": "Babylon, capital of Babylonia"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Thus saith the LORD of hosts, the God of Israel, unto all that are carried away captives, whom I have caused to be carried away from Jerusalem unto Babylon;",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (יהוה)",
+          "meaning": "The proper name of the God of Israel"
+        },
+        {
+          "word": "Babylon",
+          "strongNumber": "H894",
+          "lemma": "Bāḇel (בבל)",
+          "meaning": "Babylon, capital of Babylonia"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Build ye houses, and dwell in them; and plant gardens, and eat the fruit of them;",
+      "highlightedWords": [
+        {
+          "word": "Build",
+          "strongNumber": "H1129",
+          "lemma": "bānāh (בנה)",
+          "meaning": "To build, rebuild, establish"
+        },
+        {
+          "word": "houses",
+          "strongNumber": "H1004",
+          "lemma": "bayit (בית)",
+          "meaning": "House, dwelling, household"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Take ye wives, and beget sons and daughters; and take wives for your sons, and give your daughters to husbands, that they may bear sons and daughters; that ye may be increased there, and not diminished.",
+      "highlightedWords": [
+        {
+          "word": "wives",
+          "strongNumber": "H802",
+          "lemma": "’iššāh (אִשָּׁה)",
+          "meaning": "Woman, wife"
+        },
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "bēn (בן)",
+          "meaning": "Son, descendant"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And seek the peace of the city whither I have caused you to be carried away captives, and pray unto the LORD for it: for in the peace thereof shall ye have peace.",
+      "highlightedWords": [
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "šālôm (שלום)",
+          "meaning": "Peace, welfare, well-being"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (יהוה)",
+          "meaning": "The proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "For thus saith the LORD of hosts, the God of Israel; Let not your prophets and your diviners, that be in the midst of you, deceive you, neither hearken to your dreams which ye cause to be dreamed.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (יהוה)",
+          "meaning": "The proper name of the God of Israel"
+        },
+        {
+          "word": "prophets",
+          "strongNumber": "H5030",
+          "lemma": "nāḇî’ (נביא)",
+          "meaning": "Prophets, spokesmen of God"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "For they prophesy falsely unto you in my name: I have not sent them, saith the LORD.",
+      "highlightedWords": [
+        {
+          "word": "prophesy",
+          "strongNumber": "H5012",
+          "lemma": "nāḇā’ (נבא)",
+          "meaning": "To prophesy, speak by divine inspiration"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (יהוה)",
+          "meaning": "The proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "For thus saith the LORD, That after seventy years be accomplished at Babylon I will visit you, and perform my good word toward you, in causing you to return to this place.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (יהוה)",
+          "meaning": "The proper name of the God of Israel"
+        },
+        {
+          "word": "Babylon",
+          "strongNumber": "H894",
+          "lemma": "Bāḇel (בבל)",
+          "meaning": "Babylon, capital of Babylonia"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "For I know the thoughts that I think toward you, saith the LORD, thoughts of peace, and not of evil, to give you an expected end.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (יהוה)",
+          "meaning": "The proper name of the God of Israel"
+        },
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "šālôm (שלום)",
+          "meaning": "Peace, welfare, well-being"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Then shall ye call upon me, and ye shall go and pray unto me, and I will hearken unto you.",
+      "highlightedWords": [
+        {
+          "word": "pray",
+          "strongNumber": "H6419",
+          "lemma": "pālal (פלל)",
+          "meaning": "To intercede, pray"
+        },
+        {
+          "word": "hearken",
+          "strongNumber": "H8085",
+          "lemma": "šāma‘ (שׁמע)",
+          "meaning": "To hear, listen, obey"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And ye shall seek me, and find me, when ye shall search for me with all your heart.",
+      "highlightedWords": [
+        {
+          "word": "seek",
+          "strongNumber": "H1245",
+          "lemma": "bāqaš (בקש)",
+          "meaning": "To seek, search out"
+        },
+        {
+          "word": "find",
+          "strongNumber": "H4672",
+          "lemma": "māṣā’ (מצא)",
+          "meaning": "To find, attain, meet"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And I will be found of you, saith the LORD: and I will turn away your captivity, and I will gather you from all the nations, and from all the places whither I have driven you, saith the LORD; and I will bring you again into the place whence I caused you to be carried away captive.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (יהוה)",
+          "meaning": "The proper name of the God of Israel"
+        },
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "gôy (גוי)",
+          "meaning": "Nations, peoples"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Because ye have said, The LORD hath raised us up prophets in Babylon;",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (יהוה)",
+          "meaning": "The proper name of the God of Israel"
+        },
+        {
+          "word": "Babylon",
+          "strongNumber": "H894",
+          "lemma": "Bāḇel (בבל)",
+          "meaning": "Babylon, capital of Babylonia"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Know that thus saith the LORD of the king that sitteth upon the throne of David, and of all the people that dwelleth in this city, and of your brethren that are not gone forth with you into captivity;",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (יהוה)",
+          "meaning": "The proper name of the God of Israel"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek (מלך)",
+          "meaning": "King, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Thus saith the LORD of hosts; Behold, I will send upon them the sword, the famine, and the pestilence, and will make them like vile figs, that cannot be eaten, they are so evil.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (יהוה)",
+          "meaning": "The proper name of the God of Israel"
+        },
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "ḥereb (חרב)",
+          "meaning": "Sword"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And I will persecute them with the sword, with the famine, and with the pestilence, and will deliver them to be removed to all the kingdoms of the earth, to be a curse, and an astonishment, and an hissing, and a reproach; among all the nations whither I have driven them:",
+      "highlightedWords": [
+        {
+          "word": "pestilence",
+          "strongNumber": "H1698",
+          "lemma": "deber (דבר)",
+          "meaning": "Pestilence, plague"
+        },
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "gôy (גוי)",
+          "meaning": "Nations, peoples"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Because they have not hearkened to my words, saith the LORD, which I sent unto them by my servants the prophets, rising up early and sending them; but ye would not hear, saith the LORD.",
+      "highlightedWords": [
+        {
+          "word": "prophets",
+          "strongNumber": "H5030",
+          "lemma": "nāḇî’ (נביא)",
+          "meaning": "Prophets, spokesmen of God"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (יהוה)",
+          "meaning": "The proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Hear ye therefore the word of the LORD, all ye of the captivity, whom I have sent from Jerusalem to Babylon:",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (יהוה)",
+          "meaning": "The proper name of the God of Israel"
+        },
+        {
+          "word": "captivity",
+          "strongNumber": "H1473",
+          "lemma": "gôlāh (גולה)",
+          "meaning": "Exile, the community of captives"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Thus saith the LORD of hosts, the God of Israel, of Ahab the son of Kolaiah, and of Zedekiah the son of Maaseiah, which prophesy a lie unto you in my name; Behold, I will deliver them into the hand of Nebuchadrezzar king of Babylon; and he shall slay them before your eyes;",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (יהוה)",
+          "meaning": "The proper name of the God of Israel"
+        },
+        {
+          "word": "Babylon",
+          "strongNumber": "H894",
+          "lemma": "Bāḇel (בבל)",
+          "meaning": "Babylon, capital of Babylonia"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And of them shall be taken up a curse by all the captivity of Judah which are in Babylon, saying, The LORD make thee like Zedekiah and like Ahab, whom the king of Babylon roasted in the fire;",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (יהוה)",
+          "meaning": "The proper name of the God of Israel"
+        },
+        {
+          "word": "Babylon",
+          "strongNumber": "H894",
+          "lemma": "Bāḇel (בבל)",
+          "meaning": "Babylon, capital of Babylonia"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Because they have committed villany in Israel, and have committed adultery with their neighbours' wives, and have spoken lying words in my name, which I have not commanded them; even I know, and am a witness, saith the LORD.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yiśrā’ēl (יִשְׂרָאֵל)",
+          "meaning": "Israel, the people/land"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (יהוה)",
+          "meaning": "The proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Thus shalt thou also speak to Shemaiah the Nehelamite, saying,",
+      "highlightedWords": [
+        {
+          "word": "speak",
+          "strongNumber": "H1696",
+          "lemma": "dāḇar (דבר)",
+          "meaning": "To speak, declare"
+        },
+        {
+          "word": "Shemaiah",
+          "strongNumber": "H8098",
+          "lemma": "Šĕmayāh (שְׁמַעְיָה)",
+          "meaning": "Shemaiah, a Hebrew proper name ('Yahweh has heard')"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Thus speaketh the LORD of hosts, the God of Israel, saying, Because thou hast sent letters in thy name unto all the people that are at Jerusalem, and to Zephaniah the son of Maaseiah the priest, and to all the priests, saying,",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (יהוה)",
+          "meaning": "The proper name of the God of Israel"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yĕrûshālaim (ירושלם)",
+          "meaning": "Jerusalem, chief city of Judah"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "The LORD hath made thee priest in the stead of Jehoiada the priest, that ye should be officers in the house of the LORD, for every man that is mad, and maketh himself a prophet, that thou shouldest put him in prison, and in the stocks.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (יהוה)",
+          "meaning": "The proper name of the God of Israel"
+        },
+        {
+          "word": "priest",
+          "strongNumber": "H3548",
+          "lemma": "kōhēn (כֹּהֵן)",
+          "meaning": "Priest"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "Now therefore why hast thou not reproved Jeremiah of Anathoth, which maketh himself a prophet to you?",
+      "highlightedWords": [
+        {
+          "word": "Jeremiah",
+          "strongNumber": "H3414",
+          "lemma": "Yirmĕyāhû (יִרְמְיָהוּ)",
+          "meaning": "Jeremiah, the prophet"
+        },
+        {
+          "word": "prophet",
+          "strongNumber": "H5030",
+          "lemma": "nāḇî’ (נביא)",
+          "meaning": "Prophet, spokesman of God"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "For therefore he sent unto us in Babylon, saying, This captivity is long: build ye houses, and dwell in them; and plant gardens, and eat the fruit of them.",
+      "highlightedWords": [
+        {
+          "word": "Babylon",
+          "strongNumber": "H894",
+          "lemma": "Bāḇel (בבל)",
+          "meaning": "Babylon, capital of Babylonia"
+        },
+        {
+          "word": "houses",
+          "strongNumber": "H1004",
+          "lemma": "bayit (בית)",
+          "meaning": "House, dwelling, household"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "And Zephaniah the priest read this letter in the ears of Jeremiah the prophet.",
+      "highlightedWords": [
+        {
+          "word": "Jeremiah",
+          "strongNumber": "H3414",
+          "lemma": "Yirmĕyāhû (יִרְמְיָהוּ)",
+          "meaning": "Jeremiah, the prophet"
+        },
+        {
+          "word": "priest",
+          "strongNumber": "H3548",
+          "lemma": "kōhēn (כֹּהֵן)",
+          "meaning": "Priest"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "Then came the word of the LORD unto Jeremiah, saying,",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (יהוה)",
+          "meaning": "The proper name of the God of Israel"
+        },
+        {
+          "word": "Jeremiah",
+          "strongNumber": "H3414",
+          "lemma": "Yirmĕyāhû (יִרְמְיָהוּ)",
+          "meaning": "Jeremiah, the prophet"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "Send to all them of the captivity, saying, Thus saith the LORD concerning Shemaiah the Nehelamite; Because that Shemaiah hath prophesied unto you, and I sent him not, and he caused you to trust in a lie:",
+      "highlightedWords": [
+        {
+          "word": "captivity",
+          "strongNumber": "H1473",
+          "lemma": "gôlāh (גולה)",
+          "meaning": "Exile, the community of captives"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (יהוה)",
+          "meaning": "The proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "Therefore thus saith the LORD; Behold, I will punish Shemaiah the Nehelamite, and his seed: he shall not have a man to dwell among this people; neither shall he behold the good that I will do for my people, saith the LORD; because he hath taught rebellion against the LORD.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (יהוה)",
+          "meaning": "The proper name of the God of Israel"
+        },
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "‘am (עם)",
+          "meaning": "People, nation"
+        }
+      ]
+    }
+  ]
+}

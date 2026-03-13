@@ -1,0 +1,492 @@
+{
+  "book": "Isaiah",
+  "chapter": 3,
+  "chapterTheme": {
+    "twoWordSummary": "Judgment Declared",
+    "themeWords": [
+      {
+        "word": "judgment",
+        "strongNumber": "H4941",
+        "lemma": "mishpat",
+        "meaning": "justice, legal decision, judgment"
+      },
+      {
+        "word": "Zion",
+        "strongNumber": "H6726",
+        "lemma": "Tsiyyon",
+        "meaning": "Zion; the hill of Jerusalem; figuratively, the people of God"
+      }
+    ]
+  },
+  "sentenceTheme": "God removes Judah’s supports, condemns oppressive and haughty leaders and daughters of Zion, and foretells ruin and mourning.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "For, behold, the Lord, the LORD of hosts, doth take away from Jerusalem and from Judah the stay and the staff, the whole stay of bread, and the whole stay of water,",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem; foundation or possession of peace"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "The mighty man, and the man of war, the judge, and the prophet, and the prudent, and the ancient,",
+      "highlightedWords": [
+        {
+          "word": "judge",
+          "strongNumber": "H8199",
+          "lemma": "shaphat",
+          "meaning": "to judge; one who renders verdicts"
+        },
+        {
+          "word": "prophet",
+          "strongNumber": "H5030",
+          "lemma": "nabi",
+          "meaning": "a spokesman; prophet"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "The captain of fifty, and the honourable man, and the counsellor, and the cunning artificer, and the eloquent orator.",
+      "highlightedWords": [
+        {
+          "word": "captain",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "chief, ruler, commander"
+        },
+        {
+          "word": "artificer",
+          "strongNumber": "H2796",
+          "lemma": "charash",
+          "meaning": "craftsman, engraver, artisan"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And I will give children to be their princes, and babes shall rule over them.",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H5288",
+          "lemma": "na'ar",
+          "meaning": "boy, youth"
+        },
+        {
+          "word": "rule",
+          "strongNumber": "H4910",
+          "lemma": "mashal",
+          "meaning": "to rule, govern, have dominion"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And the people shall be oppressed, every one by another, and every one by his neighbour: the child shall behave himself proudly against the ancient, and the base against the honourable.",
+      "highlightedWords": [
+        {
+          "word": "oppressed",
+          "strongNumber": "H5065",
+          "lemma": "nagas",
+          "meaning": "to press, oppress, drive"
+        },
+        {
+          "word": "neighbour",
+          "strongNumber": "H7453",
+          "lemma": "rea",
+          "meaning": "friend, companion, neighbor"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "When a man shall take hold of his brother of the house of his father, saying, Thou hast clothing, be thou our ruler, and let this ruin be under thy hand:",
+      "highlightedWords": [
+        {
+          "word": "brother",
+          "strongNumber": "H251",
+          "lemma": "ach",
+          "meaning": "brother, kinsman"
+        },
+        {
+          "word": "ruler",
+          "strongNumber": "H7101",
+          "lemma": "qatsin",
+          "meaning": "chief, leader, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "In that day shall he swear, saying, I will not be an healer; for in my house is neither bread nor clothing: make me not a ruler of the people.",
+      "highlightedWords": [
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread, food"
+        },
+        {
+          "word": "ruler",
+          "strongNumber": "H7101",
+          "lemma": "qatsin",
+          "meaning": "chief, leader, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "For Jerusalem is ruined, and Judah is fallen: because their tongue and their doings are against the LORD, to provoke the eyes of his glory.",
+      "highlightedWords": [
+        {
+          "word": "fallen",
+          "strongNumber": "H5307",
+          "lemma": "naphal",
+          "meaning": "to fall, be overthrown"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "The shew of their countenance doth witness against them; and they declare their sin as Sodom, they hide it not. Woe unto their soul! for they have rewarded evil unto themselves.",
+      "highlightedWords": [
+        {
+          "word": "sin",
+          "strongNumber": "H2403",
+          "lemma": "chatta'ah",
+          "meaning": "sin, offense, guilt"
+        },
+        {
+          "word": "Sodom",
+          "strongNumber": "H5467",
+          "lemma": "Sedom",
+          "meaning": "Sodom, a city destroyed for wickedness"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Say ye to the righteous, that it shall be well with him: for they shall eat the fruit of their doings.",
+      "highlightedWords": [
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just"
+        },
+        {
+          "word": "fruit",
+          "strongNumber": "H6529",
+          "lemma": "peri",
+          "meaning": "fruit, produce, outcome"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Woe unto the wicked! it shall be ill with him: for the reward of his hands shall be given him.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha",
+          "meaning": "wicked, guilty, criminal"
+        },
+        {
+          "word": "reward",
+          "strongNumber": "H1576",
+          "lemma": "gemul",
+          "meaning": "recompense, repayment"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "As for my people, children are their oppressors, and women rule over them. O my people, they which lead thee cause thee to err, and destroy the way of thy paths.",
+      "highlightedWords": [
+        {
+          "word": "oppressors",
+          "strongNumber": "H5065",
+          "lemma": "nagas",
+          "meaning": "oppressor, taskmaster"
+        },
+        {
+          "word": "err",
+          "strongNumber": "H8582",
+          "lemma": "ta'ah",
+          "meaning": "to wander, go astray, err"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "The LORD standeth up to plead, and standeth to judge the people.",
+      "highlightedWords": [
+        {
+          "word": "plead",
+          "strongNumber": "H7378",
+          "lemma": "rib",
+          "meaning": "to contend, plead a case"
+        },
+        {
+          "word": "judge",
+          "strongNumber": "H8199",
+          "lemma": "shaphat",
+          "meaning": "to judge; render a decision"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "The LORD will enter into judgment with the ancients of his people, and the princes thereof: for ye have eaten up the vineyard; the spoil of the poor is in your houses.",
+      "highlightedWords": [
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "judgment, justice, legal case"
+        },
+        {
+          "word": "vineyard",
+          "strongNumber": "H3754",
+          "lemma": "kerem",
+          "meaning": "vineyard"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "What mean ye that ye beat my people to pieces, and grind the faces of the poor? saith the Lord GOD of hosts.",
+      "highlightedWords": [
+        {
+          "word": "poor",
+          "strongNumber": "H6041",
+          "lemma": "ani",
+          "meaning": "poor, afflicted, humble"
+        },
+        {
+          "word": "hosts",
+          "strongNumber": "H6635",
+          "lemma": "tsaba",
+          "meaning": "armies, hosts"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Moreover the LORD saith, Because the daughters of Zion are haughty, and walk with stretched forth necks and wanton eyes, walking and mincing as they go, and making a tinkling with their feet:",
+      "highlightedWords": [
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyyon",
+          "meaning": "Zion; the hill in Jerusalem; figuratively, the people of God"
+        },
+        {
+          "word": "haughty",
+          "strongNumber": "H1361",
+          "lemma": "gabah",
+          "meaning": "to be high, exalted, haughty"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Therefore the Lord will smite with a scab the crown of the head of the daughters of Zion, and the LORD will discover their secret parts.",
+      "highlightedWords": [
+        {
+          "word": "smite",
+          "strongNumber": "H5221",
+          "lemma": "nakah",
+          "meaning": "to strike, smite"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "In that day the Lord will take away the bravery of their tinkling ornaments about their feet, and their cauls, and their round tires like the moon,",
+      "highlightedWords": [
+        {
+          "word": "day",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day, time, period"
+        },
+        {
+          "word": "moon",
+          "strongNumber": "H7720",
+          "lemma": "saharon",
+          "meaning": "crescent; crescent-shaped ornament"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "The chains, and the bracelets, and the mufflers,",
+      "highlightedWords": [
+        {
+          "word": "bracelets",
+          "strongNumber": "H6781",
+          "lemma": "tsamid",
+          "meaning": "bracelet, band"
+        },
+        {
+          "word": "mufflers",
+          "strongNumber": "H7479",
+          "lemma": "re'alah",
+          "meaning": "veil, muffler"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "The bonnets, and the ornaments of the legs, and the headbands, and the tablets, and the earrings,",
+      "highlightedWords": [
+        {
+          "word": "bonnets",
+          "strongNumber": "H6287",
+          "lemma": "pe'er",
+          "meaning": "headdress, turban, beauty"
+        },
+        {
+          "word": "headbands",
+          "strongNumber": "H7196",
+          "lemma": "qishshurim",
+          "meaning": "headbands, bindings"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "The rings, and nose jewels,",
+      "highlightedWords": [
+        {
+          "word": "rings",
+          "strongNumber": "H2885",
+          "lemma": "tabba'at",
+          "meaning": "signet-ring, ring"
+        },
+        {
+          "word": "nose jewels",
+          "strongNumber": "H5141",
+          "lemma": "nezem",
+          "meaning": "ring or jewel worn in the nose or ear"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "The changeable suits of apparel, and the mantles, and the wimples, and the crisping pins,",
+      "highlightedWords": [
+        {
+          "word": "wimples",
+          "strongNumber": "H4304",
+          "lemma": "mitpachah",
+          "meaning": "shawl, wrap, wimple"
+        },
+        {
+          "word": "crisping pins",
+          "strongNumber": "H2754",
+          "lemma": "charit",
+          "meaning": "purse, bag (ornamental); KJV 'crisping pins'"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "The glasses, and the fine linen, and the hoods, and the vails.",
+      "highlightedWords": [
+        {
+          "word": "glasses",
+          "strongNumber": "H1549",
+          "lemma": "gillayon",
+          "meaning": "polished tablet, mirror"
+        },
+        {
+          "word": "linen",
+          "strongNumber": "H8336",
+          "lemma": "shesh",
+          "meaning": "fine linen"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And it shall come to pass, that instead of sweet smell there shall be stink; and instead of a girdle a rent; and instead of well set hair baldness; and instead of a stomacher a girding of sackcloth; and burning instead of beauty.",
+      "highlightedWords": [
+        {
+          "word": "sackcloth",
+          "strongNumber": "H8242",
+          "lemma": "saq",
+          "meaning": "sackcloth, coarse cloth of mourning"
+        },
+        {
+          "word": "beauty",
+          "strongNumber": "H3308",
+          "lemma": "yophi",
+          "meaning": "beauty, fairness"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Thy men shall fall by the sword, and thy mighty in the war.",
+      "highlightedWords": [
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword"
+        },
+        {
+          "word": "war",
+          "strongNumber": "H4421",
+          "lemma": "milchamah",
+          "meaning": "battle, war"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And her gates shall lament and mourn; and she being desolate shall sit upon the ground.",
+      "highlightedWords": [
+        {
+          "word": "gates",
+          "strongNumber": "H8179",
+          "lemma": "sha'ar",
+          "meaning": "gate, city gate"
+        },
+        {
+          "word": "sit",
+          "strongNumber": "H3427",
+          "lemma": "yashab",
+          "meaning": "to sit, dwell, remain"
+        }
+      ]
+    }
+  ]
+}

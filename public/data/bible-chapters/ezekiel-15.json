@@ -1,0 +1,168 @@
+{
+  "book": "Ezekiel",
+  "chapter": 15,
+  "chapterTheme": {
+    "twoWordSummary": "Worthless vine",
+    "themeWords": [
+      {
+        "word": "vine",
+        "strongNumber": "H1612",
+        "lemma": "gephen",
+        "meaning": "a grapevine; often symbolically of Israel"
+      },
+      {
+        "word": "fire",
+        "strongNumber": "H784",
+        "lemma": "’esh",
+        "meaning": "fire; often a figure of judgment"
+      }
+    ]
+  },
+  "sentenceTheme": "God compares Jerusalem to a useless vine fit only for the fire, declaring judgment on its inhabitants.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And the word of the LORD came unto me, saying,",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dābār",
+          "meaning": "word, matter, message"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Son of man, What is the vine tree more than any tree, or than a branch which is among the trees of the forest?",
+      "highlightedWords": [
+        {
+          "word": "vine",
+          "strongNumber": "H1612",
+          "lemma": "gephen",
+          "meaning": "grapevine"
+        },
+        {
+          "word": "forest",
+          "strongNumber": "H3293",
+          "lemma": "ya‘ar",
+          "meaning": "forest, wooded area"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Shall wood be taken thereof to do any work? or will men take a pin of it to hang any vessel thereon?",
+      "highlightedWords": [
+        {
+          "word": "wood",
+          "strongNumber": "H6086",
+          "lemma": "‘ēts",
+          "meaning": "tree, wood, timber"
+        },
+        {
+          "word": "pin",
+          "strongNumber": "H3489",
+          "lemma": "yāthēd",
+          "meaning": "peg, pin, nail"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Behold, it is cast into the fire for fuel; the fire devoureth both the ends of it, and the midst of it is burned. Is it meet for any work?",
+      "highlightedWords": [
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "’esh",
+          "meaning": "fire"
+        },
+        {
+          "word": "burned",
+          "strongNumber": "H8313",
+          "lemma": "sāraph",
+          "meaning": "to burn up, be burned"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Behold, when it was whole, it was meet for no work: how much less shall it be meet yet for any work, when the fire hath devoured it, and it is burned?",
+      "highlightedWords": [
+        {
+          "word": "work",
+          "strongNumber": "H4399",
+          "lemma": "melā’khāh",
+          "meaning": "work, occupation, service"
+        },
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "’esh",
+          "meaning": "fire"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Therefore thus saith the Lord GOD; As the vine tree among the trees of the forest, which I have given to the fire for fuel, so will I give the inhabitants of Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "GOD",
+          "strongNumber": "H3069",
+          "lemma": "YHWH (Jehovah)",
+          "meaning": "the divine name (rendered GOD when paired with Adonai)"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushālayim",
+          "meaning": "Jerusalem, the chief city of Israel/Judah"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And I will set my face against them; they shall go out from one fire, and another fire shall devour them; and ye shall know that I am the LORD, when I set my face against them.",
+      "highlightedWords": [
+        {
+          "word": "face",
+          "strongNumber": "H6440",
+          "lemma": "pānîm",
+          "meaning": "face, presence"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And I will make the land desolate, because they have committed a trespass, saith the Lord GOD.",
+      "highlightedWords": [
+        {
+          "word": "desolate",
+          "strongNumber": "H8077",
+          "lemma": "shemāmāh",
+          "meaning": "desolation, waste, ruin"
+        },
+        {
+          "word": "trespass",
+          "strongNumber": "H4603",
+          "lemma": "mā‘al",
+          "meaning": "to act unfaithfully, trespass"
+        }
+      ]
+    }
+  ]
+}

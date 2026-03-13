@@ -1,0 +1,132 @@
+{
+  "book": "Job",
+  "chapter": 25,
+  "chapterTheme": {
+    "twoWordSummary": "Divine Majesty",
+    "themeWords": [
+      {
+        "word": "man",
+        "strongNumber": "H582",
+        "lemma": "ʼenôsh",
+        "meaning": "mortal man; human being (frail)"
+      },
+      {
+        "word": "God",
+        "strongNumber": "H410",
+        "lemma": "ʼēl",
+        "meaning": "God; mighty one"
+      }
+    ]
+  },
+  "sentenceTheme": "Bildad proclaims God’s sovereign dominion and purity, stressing the insignificance and impurity of humanity before Him.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Then answered Bildad the Shuhite, and said,",
+      "highlightedWords": [
+        {
+          "word": "Bildad",
+          "strongNumber": "H1085",
+          "lemma": "Bildad",
+          "meaning": "Bel has loved"
+        },
+        {
+          "word": "Shuhite",
+          "strongNumber": "H7747",
+          "lemma": "Shuchiy",
+          "meaning": "a descendant of Shuah; Shuhite"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Dominion and fear are with him, he maketh peace in his high places.",
+      "highlightedWords": [
+        {
+          "word": "fear",
+          "strongNumber": "H6343",
+          "lemma": "pachad",
+          "meaning": "dread; terror"
+        },
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace; wholeness; well-being"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Is there any number of his armies? and upon whom doth not his light arise?",
+      "highlightedWords": [
+        {
+          "word": "armies",
+          "strongNumber": "H6635",
+          "lemma": "tsābāʼ",
+          "meaning": "host; army"
+        },
+        {
+          "word": "light",
+          "strongNumber": "H216",
+          "lemma": "ʼôr",
+          "meaning": "light; illumination"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "How then can man be justified with God? or how can he be clean that is born of a woman?",
+      "highlightedWords": [
+        {
+          "word": "justified",
+          "strongNumber": "H6663",
+          "lemma": "tsādaq",
+          "meaning": "to be declared righteous"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H410",
+          "lemma": "ʼēl",
+          "meaning": "God; mighty one"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Behold even to the moon, and it shineth not; yea, the stars are not pure in his sight.",
+      "highlightedWords": [
+        {
+          "word": "moon",
+          "strongNumber": "H3394",
+          "lemma": "yārēach",
+          "meaning": "moon"
+        },
+        {
+          "word": "stars",
+          "strongNumber": "H3556",
+          "lemma": "kôkāb",
+          "meaning": "star; celestial body"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "How much less man, that is a worm? and the son of man, which is a worm?",
+      "highlightedWords": [
+        {
+          "word": "man",
+          "strongNumber": "H582",
+          "lemma": "ʼenôsh",
+          "meaning": "mortal man; human being"
+        },
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant"
+        }
+      ]
+    }
+  ]
+}

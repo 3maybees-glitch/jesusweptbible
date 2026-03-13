@@ -1,0 +1,312 @@
+{
+  "book": "Psalms",
+  "chapter": 81,
+  "chapterTheme": {
+    "twoWordSummary": "Obedience Blessing",
+    "themeWords": [
+      {
+        "word": "God",
+        "strongNumber": "H430",
+        "lemma": "’elohim",
+        "meaning": "God, the true God; mighty one"
+      },
+      {
+        "word": "Israel",
+        "strongNumber": "H3478",
+        "lemma": "Yisra’el",
+        "meaning": "Israel; the covenant people of God"
+      }
+    ]
+  },
+  "sentenceTheme": "A festival call summons Israel to joyfully praise God, who promises rich blessing for obedience and warns of the loss that comes from stubborn refusal to listen.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Sing aloud unto God our strength: make a joyful noise unto the God of Jacob.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’elohim",
+          "meaning": "God; the true God, mighty one"
+        },
+        {
+          "word": "Jacob",
+          "strongNumber": "H3290",
+          "lemma": "Ya‘aqov",
+          "meaning": "Jacob; the patriarch of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Take a psalm, and bring hither the timbrel, the pleasant harp with the psaltery.",
+      "highlightedWords": [
+        {
+          "word": "timbrel",
+          "strongNumber": "H8596",
+          "lemma": "toph",
+          "meaning": "hand-drum, tambourine"
+        },
+        {
+          "word": "harp",
+          "strongNumber": "H3658",
+          "lemma": "kinnor",
+          "meaning": "lyre, harp"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Blow up the trumpet in the new moon, in the time appointed, on our solemn feast day.",
+      "highlightedWords": [
+        {
+          "word": "trumpet",
+          "strongNumber": "H7782",
+          "lemma": "shofar",
+          "meaning": "ram’s horn, trumpet"
+        },
+        {
+          "word": "new moon",
+          "strongNumber": "H2320",
+          "lemma": "chodesh",
+          "meaning": "new moon; month"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "For this was a statute for Israel, and a law of the God of Jacob.",
+      "highlightedWords": [
+        {
+          "word": "statute",
+          "strongNumber": "H2706",
+          "lemma": "choq",
+          "meaning": "decree, statute, ordinance"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra’el",
+          "meaning": "Israel; the covenant people"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "This he ordained in Joseph for a testimony, when he went out through the land of Egypt: where I heard a language that I understood not.",
+      "highlightedWords": [
+        {
+          "word": "Joseph",
+          "strongNumber": "H3130",
+          "lemma": "Yoseph",
+          "meaning": "Joseph; son of Jacob"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "I removed his shoulder from the burden: his hands were delivered from the pots.",
+      "highlightedWords": [
+        {
+          "word": "shoulder",
+          "strongNumber": "H7926",
+          "lemma": "shekem",
+          "meaning": "shoulder"
+        },
+        {
+          "word": "burden",
+          "strongNumber": "H5447",
+          "lemma": "sebel",
+          "meaning": "load, burden"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Thou calledst in trouble, and I delivered thee; I answered thee in the secret place of thunder: I proved thee at the waters of Meribah. Selah.",
+      "highlightedWords": [
+        {
+          "word": "thunder",
+          "strongNumber": "H7482",
+          "lemma": "ra‘am",
+          "meaning": "thunder, peal of thunder"
+        },
+        {
+          "word": "Meribah",
+          "strongNumber": "H4809",
+          "lemma": "Merivah",
+          "meaning": "Meribah; strife, contention"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Hear, O my people, and I will testify unto thee: O Israel, if thou wilt hearken unto me;",
+      "highlightedWords": [
+        {
+          "word": "Hear",
+          "strongNumber": "H8085",
+          "lemma": "shama‘",
+          "meaning": "to hear, listen, obey"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra’el",
+          "meaning": "Israel; the covenant people"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "There shall no strange god be in thee; neither shalt thou worship any strange god.",
+      "highlightedWords": [
+        {
+          "word": "god",
+          "strongNumber": "H410",
+          "lemma": "’el",
+          "meaning": "mighty one, god"
+        },
+        {
+          "word": "worship",
+          "strongNumber": "H7812",
+          "lemma": "shachah",
+          "meaning": "to bow down, prostrate oneself, worship"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "I am the LORD thy God, which brought thee out of the land of Egypt: open thy mouth wide, and I will fill it.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "But my people would not hearken to my voice; and Israel would none of me.",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "‘am",
+          "meaning": "people, nation"
+        },
+        {
+          "word": "hearken",
+          "strongNumber": "H8085",
+          "lemma": "shama‘",
+          "meaning": "to listen, obey"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "So I gave them up unto their own hearts' lust: and they walked in their own counsels.",
+      "highlightedWords": [
+        {
+          "word": "hearts'",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner person, mind"
+        },
+        {
+          "word": "counsels",
+          "strongNumber": "H4156",
+          "lemma": "mo‘etsah",
+          "meaning": "counsel, plan, advice"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Oh that my people had hearkened unto me, and Israel had walked in my ways!",
+      "highlightedWords": [
+        {
+          "word": "hearkened",
+          "strongNumber": "H8085",
+          "lemma": "shama‘",
+          "meaning": "to listen attentively, obey"
+        },
+        {
+          "word": "ways",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way, road, path, manner"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "I should soon have subdued their enemies, and turned my hand against their adversaries.",
+      "highlightedWords": [
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "’oyev",
+          "meaning": "enemy, foe"
+        },
+        {
+          "word": "adversaries",
+          "strongNumber": "H6862",
+          "lemma": "tsar",
+          "meaning": "adversary, foe, oppressor"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "The haters of the LORD should have submitted themselves unto him: but their time should have endured for ever.",
+      "highlightedWords": [
+        {
+          "word": "haters",
+          "strongNumber": "H8130",
+          "lemma": "sane’",
+          "meaning": "those who hate; enemies"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "He should have fed them also with the finest of the wheat: and with honey out of the rock should I have satisfied thee.",
+      "highlightedWords": [
+        {
+          "word": "honey",
+          "strongNumber": "H1706",
+          "lemma": "devash",
+          "meaning": "honey"
+        },
+        {
+          "word": "rock",
+          "strongNumber": "H6697",
+          "lemma": "tsur",
+          "meaning": "rock, crag"
+        }
+      ]
+    }
+  ]
+}

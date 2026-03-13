@@ -1,0 +1,960 @@
+{
+  "book": "Psalms",
+  "chapter": 89,
+  "chapterTheme": {
+    "twoWordSummary": "Covenant Faithfulness",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH",
+        "meaning": "The covenant name of the God of Israel"
+      },
+      {
+        "word": "covenant",
+        "strongNumber": "H1285",
+        "lemma": "berith",
+        "meaning": "A binding agreement or pact, often affirmed by oath"
+      }
+    ]
+  },
+  "sentenceTheme": "God’s steadfast love and faithfulness to David’s covenant are praised, lamented amid present reproach, and finally affirmed in doxology.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Maschil of Ethan the Ezrahite. I will sing of the mercies of the LORD for ever: with my mouth will I make known thy faithfulness to all generations.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of the God of Israel"
+        },
+        {
+          "word": "faithfulness",
+          "strongNumber": "H530",
+          "lemma": "’emunah",
+          "meaning": "Firmness, steadiness, fidelity; trustworthiness"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "For I have said, Mercy shall be built up for ever: thy faithfulness shalt thou establish in the very heavens.",
+      "highlightedWords": [
+        {
+          "word": "Mercy",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "Steadfast love, covenant loyalty, lovingkindness"
+        },
+        {
+          "word": "heavens",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "Heavens, sky; the heavenly realms"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "I have made a covenant with my chosen, I have sworn unto David my servant,",
+      "highlightedWords": [
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "A binding agreement or pact, often affirmed by oath"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dawid",
+          "meaning": "David; beloved, second king of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Thy seed will I establish for ever, and build up thy throne to all generations. Selah.",
+      "highlightedWords": [
+        {
+          "word": "seed",
+          "strongNumber": "H2233",
+          "lemma": "zera‘",
+          "meaning": "Offspring, descendants, posterity"
+        },
+        {
+          "word": "throne",
+          "strongNumber": "H3678",
+          "lemma": "kisse",
+          "meaning": "Throne; seat of royal authority"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And the heavens shall praise thy wonders, O LORD: thy faithfulness also in the congregation of the saints.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of the God of Israel"
+        },
+        {
+          "word": "saints",
+          "strongNumber": "H2623",
+          "lemma": "chasid",
+          "meaning": "Faithful, godly ones; the pious"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "For who in the heaven can be compared unto the LORD? who among the sons of the mighty can be likened unto the LORD?",
+      "highlightedWords": [
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "Heavens, sky; the heavenly realms"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "God is greatly to be feared in the assembly of the saints, and to be had in reverence of all them that are about him.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H410",
+          "lemma": "’El",
+          "meaning": "Mighty God; the Strong One"
+        },
+        {
+          "word": "saints",
+          "strongNumber": "H2623",
+          "lemma": "chasid",
+          "meaning": "Faithful, godly ones; the pious"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "O LORD God of hosts, who is a strong LORD like unto thee? or to thy faithfulness round about thee?",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of the God of Israel"
+        },
+        {
+          "word": "hosts",
+          "strongNumber": "H6635",
+          "lemma": "tsaba",
+          "meaning": "Armies, hosts; organized forces of heaven or earth"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Thou rulest the raging of the sea: when the waves thereof arise, thou stillest them.",
+      "highlightedWords": [
+        {
+          "word": "rulest",
+          "strongNumber": "H4910",
+          "lemma": "mashal",
+          "meaning": "To rule, govern, have dominion"
+        },
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "Sea"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Thou hast broken Rahab in pieces, as one that is slain; thou hast scattered thine enemies with thy strong arm.",
+      "highlightedWords": [
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "’oyev",
+          "meaning": "Enemy, foe, adversary"
+        },
+        {
+          "word": "arm",
+          "strongNumber": "H2220",
+          "lemma": "zeroa",
+          "meaning": "Arm; by extension strength or power"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "The heavens are thine, the earth also is thine: as for the world and the fulness thereof, thou hast founded them.",
+      "highlightedWords": [
+        {
+          "word": "heavens",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "Heavens, sky; the heavenly realms"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "’erets",
+          "meaning": "Earth, land, ground"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "The north and the south thou hast created them: Tabor and Hermon shall rejoice in thy name.",
+      "highlightedWords": [
+        {
+          "word": "north",
+          "strongNumber": "H6828",
+          "lemma": "tsaphon",
+          "meaning": "The north; northern regions"
+        },
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "Name; reputation, fame, renown"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Thou hast a mighty arm: strong is thy hand, and high is thy right hand.",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "Hand; by extension power or control"
+        },
+        {
+          "word": "right hand",
+          "strongNumber": "H3225",
+          "lemma": "yamin",
+          "meaning": "Right hand; south side; symbol of strength/favor"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Justice and judgment are the habitation of thy throne: mercy and truth shall go before thy face.",
+      "highlightedWords": [
+        {
+          "word": "mercy",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "Steadfast love, covenant loyalty, lovingkindness"
+        },
+        {
+          "word": "truth",
+          "strongNumber": "H571",
+          "lemma": "’emeth",
+          "meaning": "Firmness, reliability, truth"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Blessed is the people that know the joyful sound: they shall walk, O LORD, in the light of thy countenance.",
+      "highlightedWords": [
+        {
+          "word": "Blessed",
+          "strongNumber": "H835",
+          "lemma": "’esher",
+          "meaning": "Happiness, blessedness; state of well-being"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "In thy name shall they rejoice all the day: and in thy righteousness shall they be exalted.",
+      "highlightedWords": [
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "Name; reputation, fame, renown"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "tsedaqah",
+          "meaning": "Righteousness; justice, rightness"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "For thou art the glory of their strength: and in thy favour our horn shall be exalted.",
+      "highlightedWords": [
+        {
+          "word": "favour",
+          "strongNumber": "H7522",
+          "lemma": "ratzon",
+          "meaning": "Favor, goodwill, acceptance"
+        },
+        {
+          "word": "horn",
+          "strongNumber": "H7161",
+          "lemma": "qeren",
+          "meaning": "Horn; symbol of strength and honor"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "For the LORD is our defence; and the Holy One of Israel is our king.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of the God of Israel"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "King, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Then thou spakest in vision to thy holy one, and saidst, I have laid help upon one that is mighty; I have exalted one chosen out of the people.",
+      "highlightedWords": [
+        {
+          "word": "vision",
+          "strongNumber": "H2377",
+          "lemma": "chazon",
+          "meaning": "Vision; prophetic revelation"
+        },
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "’am",
+          "meaning": "People, nation"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "I have found David my servant; with my holy oil have I anointed him:",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dawid",
+          "meaning": "David; beloved, second king of Israel"
+        },
+        {
+          "word": "anointed",
+          "strongNumber": "H4886",
+          "lemma": "mashach",
+          "meaning": "To smear/anoint; to consecrate"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "With whom my hand shall be established: mine arm also shall strengthen him.",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "Hand; by extension power or control"
+        },
+        {
+          "word": "arm",
+          "strongNumber": "H2220",
+          "lemma": "zeroa",
+          "meaning": "Arm; by extension strength or power"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "The enemy shall not exact upon him; nor the son of wickedness afflict him.",
+      "highlightedWords": [
+        {
+          "word": "enemy",
+          "strongNumber": "H341",
+          "lemma": "’oyev",
+          "meaning": "Enemy, foe, adversary"
+        },
+        {
+          "word": "afflict",
+          "strongNumber": "H6031",
+          "lemma": "’anah",
+          "meaning": "To oppress, humble, afflict"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And I will beat down his foes before his face, and plague them that hate him.",
+      "highlightedWords": [
+        {
+          "word": "foes",
+          "strongNumber": "H6862",
+          "lemma": "tsar",
+          "meaning": "Adversary, foe, oppressor"
+        },
+        {
+          "word": "hate",
+          "strongNumber": "H8130",
+          "lemma": "sane",
+          "meaning": "To hate; be hostile to"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "But my faithfulness and my mercy shall be with him: and in my name shall his horn be exalted.",
+      "highlightedWords": [
+        {
+          "word": "faithfulness",
+          "strongNumber": "H530",
+          "lemma": "’emunah",
+          "meaning": "Firmness, steadiness, fidelity; trustworthiness"
+        },
+        {
+          "word": "mercy",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "Steadfast love, covenant loyalty, lovingkindness"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "I will set his hand also in the sea, and his right hand in the rivers.",
+      "highlightedWords": [
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "Sea"
+        },
+        {
+          "word": "rivers",
+          "strongNumber": "H5104",
+          "lemma": "nahar",
+          "meaning": "River, stream"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "He shall cry unto me, Thou art my father, my God, and the rock of my salvation.",
+      "highlightedWords": [
+        {
+          "word": "father",
+          "strongNumber": "H1",
+          "lemma": "’ab",
+          "meaning": "Father; ancestor"
+        },
+        {
+          "word": "salvation",
+          "strongNumber": "H3444",
+          "lemma": "yeshuah",
+          "meaning": "Salvation, deliverance, victory"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "Also I will make him my firstborn, higher than the kings of the earth.",
+      "highlightedWords": [
+        {
+          "word": "firstborn",
+          "strongNumber": "H1060",
+          "lemma": "bekor",
+          "meaning": "Firstborn; one with preeminent rank"
+        },
+        {
+          "word": "kings",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "Kings, rulers"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "My mercy will I keep for him for evermore, and my covenant shall stand fast with him.",
+      "highlightedWords": [
+        {
+          "word": "mercy",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "Steadfast love, covenant loyalty, lovingkindness"
+        },
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "A binding agreement or pact, often affirmed by oath"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "His seed also will I make to endure for ever, and his throne as the days of heaven.",
+      "highlightedWords": [
+        {
+          "word": "seed",
+          "strongNumber": "H2233",
+          "lemma": "zera‘",
+          "meaning": "Offspring, descendants, posterity"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "Heavens, sky; the heavenly realms"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "If his children forsake my law, and walk not in my judgments;",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "Son; child; descendants"
+        },
+        {
+          "word": "law",
+          "strongNumber": "H8451",
+          "lemma": "torah",
+          "meaning": "Instruction, law; the Torah"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "If they break my statutes, and keep not my commandments;",
+      "highlightedWords": [
+        {
+          "word": "statutes",
+          "strongNumber": "H2706",
+          "lemma": "choq",
+          "meaning": "Decree, statute, prescribed limit"
+        },
+        {
+          "word": "commandments",
+          "strongNumber": "H4687",
+          "lemma": "mitsvah",
+          "meaning": "Commandment, precept"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "Then will I visit their transgression with the rod, and their iniquity with stripes.",
+      "highlightedWords": [
+        {
+          "word": "transgression",
+          "strongNumber": "H6588",
+          "lemma": "pesha",
+          "meaning": "Rebellion, transgression"
+        },
+        {
+          "word": "rod",
+          "strongNumber": "H7626",
+          "lemma": "shebet",
+          "meaning": "Rod, staff; scepter"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "Nevertheless my lovingkindness will I not utterly take from him, nor suffer my faithfulness to fail.",
+      "highlightedWords": [
+        {
+          "word": "lovingkindness",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "Steadfast love, covenant loyalty, lovingkindness"
+        },
+        {
+          "word": "faithfulness",
+          "strongNumber": "H530",
+          "lemma": "’emunah",
+          "meaning": "Firmness, steadiness, fidelity; trustworthiness"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "My covenant will I not break, nor alter the thing that is gone out of my lips.",
+      "highlightedWords": [
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "A binding agreement or pact, often affirmed by oath"
+        },
+        {
+          "word": "lips",
+          "strongNumber": "H8193",
+          "lemma": "saphah",
+          "meaning": "Lip; by extension speech"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "Once have I sworn by my holiness that I will not lie unto David.",
+      "highlightedWords": [
+        {
+          "word": "sworn",
+          "strongNumber": "H7650",
+          "lemma": "shaba",
+          "meaning": "To swear, take an oath"
+        },
+        {
+          "word": "holiness",
+          "strongNumber": "H6944",
+          "lemma": "qodesh",
+          "meaning": "Holiness, sacredness"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "His seed shall endure for ever, and his throne as the sun before me.",
+      "highlightedWords": [
+        {
+          "word": "seed",
+          "strongNumber": "H2233",
+          "lemma": "zera‘",
+          "meaning": "Offspring, descendants, posterity"
+        },
+        {
+          "word": "sun",
+          "strongNumber": "H8121",
+          "lemma": "shemesh",
+          "meaning": "Sun"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "It shall be established for ever as the moon, and as a faithful witness in heaven. Selah.",
+      "highlightedWords": [
+        {
+          "word": "moon",
+          "strongNumber": "H3394",
+          "lemma": "yareach",
+          "meaning": "Moon"
+        },
+        {
+          "word": "witness",
+          "strongNumber": "H5707",
+          "lemma": "ed",
+          "meaning": "Witness, testimony"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "But thou hast cast off and abhorred, thou hast been wroth with thine anointed.",
+      "highlightedWords": [
+        {
+          "word": "abhorred",
+          "strongNumber": "H3988",
+          "lemma": "maas",
+          "meaning": "To reject, despise"
+        },
+        {
+          "word": "anointed",
+          "strongNumber": "H4899",
+          "lemma": "mashiach",
+          "meaning": "Anointed one; messiah"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "text": "Thou hast made void the covenant of thy servant: thou hast profaned his crown by casting it to the ground.",
+      "highlightedWords": [
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "A binding agreement or pact, often affirmed by oath"
+        },
+        {
+          "word": "servant",
+          "strongNumber": "H5650",
+          "lemma": "ebed",
+          "meaning": "Servant; bondman"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "text": "Thou hast broken down all his hedges; thou hast brought his strong holds to ruin.",
+      "highlightedWords": [
+        {
+          "word": "hedges",
+          "strongNumber": "H1447",
+          "lemma": "gader",
+          "meaning": "Wall, fence, hedge"
+        },
+        {
+          "word": "strong holds",
+          "strongNumber": "H4013",
+          "lemma": "mibtsar",
+          "meaning": "Fortress, stronghold"
+        }
+      ]
+    },
+    {
+      "verse": 41,
+      "text": "All that pass by the way spoil him: he is a reproach to his neighbours.",
+      "highlightedWords": [
+        {
+          "word": "reproach",
+          "strongNumber": "H2781",
+          "lemma": "cherpah",
+          "meaning": "Reproach, disgrace, shame"
+        },
+        {
+          "word": "neighbours",
+          "strongNumber": "H7934",
+          "lemma": "shaken",
+          "meaning": "Neighbor, fellow inhabitant"
+        }
+      ]
+    },
+    {
+      "verse": 42,
+      "text": "Thou hast set up the right hand of his adversaries; thou hast made all his enemies to rejoice.",
+      "highlightedWords": [
+        {
+          "word": "adversaries",
+          "strongNumber": "H6862",
+          "lemma": "tsar",
+          "meaning": "Adversaries, foes, oppressors"
+        },
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "’oyev",
+          "meaning": "Enemies, foes"
+        }
+      ]
+    },
+    {
+      "verse": 43,
+      "text": "Thou hast also turned the edge of his sword, and hast not made him to stand in the battle.",
+      "highlightedWords": [
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "Sword"
+        },
+        {
+          "word": "battle",
+          "strongNumber": "H4421",
+          "lemma": "milchamah",
+          "meaning": "Battle, war"
+        }
+      ]
+    },
+    {
+      "verse": 44,
+      "text": "Thou hast made his glory to cease, and cast his throne down to the ground.",
+      "highlightedWords": [
+        {
+          "word": "throne",
+          "strongNumber": "H3678",
+          "lemma": "kisse",
+          "meaning": "Throne; seat of royal authority"
+        },
+        {
+          "word": "ground",
+          "strongNumber": "H776",
+          "lemma": "’erets",
+          "meaning": "Land, earth, ground"
+        }
+      ]
+    },
+    {
+      "verse": 45,
+      "text": "The days of his youth hast thou shortened: thou hast covered him with shame. Selah.",
+      "highlightedWords": [
+        {
+          "word": "days",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "Day; by extension time or period"
+        },
+        {
+          "word": "Selah",
+          "strongNumber": "H5542",
+          "lemma": "selah",
+          "meaning": "A liturgical/musical pause; “pause and consider”"
+        }
+      ]
+    },
+    {
+      "verse": 46,
+      "text": "How long, LORD? wilt thou hide thyself for ever? shall thy wrath burn like fire?",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of the God of Israel"
+        },
+        {
+          "word": "wrath",
+          "strongNumber": "H2534",
+          "lemma": "chemah",
+          "meaning": "Wrath, heat, rage"
+        }
+      ]
+    },
+    {
+      "verse": 47,
+      "text": "Remember how short my time is: wherefore hast thou made all men in vain?",
+      "highlightedWords": [
+        {
+          "word": "Remember",
+          "strongNumber": "H2142",
+          "lemma": "zakar",
+          "meaning": "To remember, call to mind"
+        },
+        {
+          "word": "vain",
+          "strongNumber": "H7723",
+          "lemma": "shav",
+          "meaning": "Emptiness, vanity, futility"
+        }
+      ]
+    },
+    {
+      "verse": 48,
+      "text": "What man is he that liveth, and shall not see death? shall he deliver his soul from the hand of the grave? Selah.",
+      "highlightedWords": [
+        {
+          "word": "death",
+          "strongNumber": "H4194",
+          "lemma": "maveth",
+          "meaning": "Death"
+        },
+        {
+          "word": "grave",
+          "strongNumber": "H7585",
+          "lemma": "Sheol",
+          "meaning": "The grave; the realm of the dead"
+        }
+      ]
+    },
+    {
+      "verse": 49,
+      "text": "Lord, where are thy former lovingkindnesses, which thou swarest unto David in thy truth?",
+      "highlightedWords": [
+        {
+          "word": "lovingkindnesses",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "Steadfast love, covenant loyalty, lovingkindness"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dawid",
+          "meaning": "David; beloved, second king of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 50,
+      "text": "Remember, Lord, the reproach of thy servants; how I do bear in my bosom the reproach of all the mighty people;",
+      "highlightedWords": [
+        {
+          "word": "reproach",
+          "strongNumber": "H2781",
+          "lemma": "cherpah",
+          "meaning": "Reproach, disgrace, shame"
+        },
+        {
+          "word": "servants",
+          "strongNumber": "H5650",
+          "lemma": "ebed",
+          "meaning": "Servants; bondmen"
+        }
+      ]
+    },
+    {
+      "verse": 51,
+      "text": "Wherewith thine enemies have reproached, O LORD; wherewith they have reproached the footsteps of thine anointed.",
+      "highlightedWords": [
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "’oyev",
+          "meaning": "Enemies, foes, adversaries"
+        },
+        {
+          "word": "anointed",
+          "strongNumber": "H4899",
+          "lemma": "mashiach",
+          "meaning": "Anointed one; messiah"
+        }
+      ]
+    },
+    {
+      "verse": 52,
+      "text": "Blessed be the LORD for evermore. Amen, and Amen.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of the God of Israel"
+        },
+        {
+          "word": "Amen",
+          "strongNumber": "H543",
+          "lemma": "’amen",
+          "meaning": "Truly, so be it; affirmation"
+        }
+      ]
+    }
+  ]
+}

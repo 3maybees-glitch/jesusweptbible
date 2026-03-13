@@ -1,0 +1,114 @@
+{
+  "book": "Psalms",
+  "chapter": 43,
+  "chapterTheme": {
+    "twoWordSummary": "Vindication Light",
+    "themeWords": [
+      {
+        "word": "Judge",
+        "strongNumber": "H8199",
+        "lemma": "shaphat",
+        "meaning": "to judge, govern, or vindicate"
+      },
+      {
+        "word": "light",
+        "strongNumber": "H216",
+        "lemma": "’or",
+        "meaning": "light; illumination, guidance"
+      }
+    ]
+  },
+  "sentenceTheme": "A cry for God’s vindication and guiding light that leads to worship and renewed hope.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Judge me, O God, and plead my cause against an ungodly nation: O deliver me from the deceitful and unjust man.",
+      "highlightedWords": [
+        {
+          "word": "Judge",
+          "strongNumber": "H8199",
+          "lemma": "shaphat",
+          "meaning": "to judge, govern, or vindicate"
+        },
+        {
+          "word": "deliver",
+          "strongNumber": "H6403",
+          "lemma": "palat",
+          "meaning": "to deliver, rescue, cause to escape"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "For thou art the God of my strength: why dost thou cast me off? why go I mourning because of the oppression of the enemy?",
+      "highlightedWords": [
+        {
+          "word": "strength",
+          "strongNumber": "H4581",
+          "lemma": "ma‘oz",
+          "meaning": "strength, stronghold, fortress"
+        },
+        {
+          "word": "cast",
+          "strongNumber": "H2186",
+          "lemma": "zanach",
+          "meaning": "to reject, spurn, cast off"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "O send out thy light and thy truth: let them lead me; let them bring me unto thy holy hill, and to thy tabernacles.",
+      "highlightedWords": [
+        {
+          "word": "light",
+          "strongNumber": "H216",
+          "lemma": "’or",
+          "meaning": "light; illumination, guidance"
+        },
+        {
+          "word": "truth",
+          "strongNumber": "H571",
+          "lemma": "’emet",
+          "meaning": "firmness, faithfulness, truth"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Then will I go unto the altar of God, unto God my exceeding joy: yea, upon the harp will I praise thee, O God my God.",
+      "highlightedWords": [
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar; place of sacrifice"
+        },
+        {
+          "word": "praise",
+          "strongNumber": "H3034",
+          "lemma": "yadah",
+          "meaning": "to praise, give thanks, confess"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Why art thou cast down, O my soul? and why art thou disquieted within me? hope in God: for I shall yet praise him, who is the health of my countenance, and my God.",
+      "highlightedWords": [
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, self"
+        },
+        {
+          "word": "hope",
+          "strongNumber": "H3176",
+          "lemma": "yachal",
+          "meaning": "to wait, hope, expect"
+        }
+      ]
+    }
+  ]
+}

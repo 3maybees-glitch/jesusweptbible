@@ -1,0 +1,330 @@
+{
+  "book": "Ezekiel",
+  "chapter": 4,
+  "chapterTheme": {
+    "twoWordSummary": "Siege Sign",
+    "themeWords": [
+      {
+        "word": "siege",
+        "strongNumber": "H4692",
+        "lemma": "matsor",
+        "meaning": "siege; siegeworks; distress"
+      },
+      {
+        "word": "iniquity",
+        "strongNumber": "H5771",
+        "lemma": "ʿavon",
+        "meaning": "iniquity; guilt; punishment for iniquity"
+      }
+    ]
+  },
+  "sentenceTheme": "Ezekiel enacts a symbolic siege of Jerusalem, bearing Israel’s iniquity in appointed days and eating rationed, defiled bread as a sign of coming judgment.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Thou also, son of man, take thee a tile, and lay it before thee, and portray upon it the city, even Jerusalem:",
+      "highlightedWords": [
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; child; descendant"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem, the chief city of Judah/Israel"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And lay siege against it, and build a fort against it, and cast a mount against it; set the camp also against it, and set battering rams against it round about.",
+      "highlightedWords": [
+        {
+          "word": "siege",
+          "strongNumber": "H4692",
+          "lemma": "matsor",
+          "meaning": "siege; siegeworks; distress"
+        },
+        {
+          "word": "camp",
+          "strongNumber": "H4264",
+          "lemma": "machaneh",
+          "meaning": "camp; army; encampment"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Moreover take thou unto thee an iron pan, and set it for a wall of iron between thee and the city: and set thy face against it, and it shall be besieged, and thou shalt lay siege against it. This shall be a sign to the house of Israel.",
+      "highlightedWords": [
+        {
+          "word": "iron",
+          "strongNumber": "H1270",
+          "lemma": "barzel",
+          "meaning": "iron; an object made of iron"
+        },
+        {
+          "word": "sign",
+          "strongNumber": "H0226",
+          "lemma": "’ot",
+          "meaning": "sign; token; portent"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Lie thou also upon thy left side, and lay the iniquity of the house of Israel upon it: according to the number of the days that thou shalt lie upon it thou shalt bear their iniquity.",
+      "highlightedWords": [
+        {
+          "word": "left",
+          "strongNumber": "H8040",
+          "lemma": "semol",
+          "meaning": "left hand; left side"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "ʿavon",
+          "meaning": "iniquity; guilt; punishment for iniquity"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "For I have laid upon thee the years of their iniquity, according to the number of the days, three hundred and ninety days: so shalt thou bear the iniquity of the house of Israel.",
+      "highlightedWords": [
+        {
+          "word": "years",
+          "strongNumber": "H8141",
+          "lemma": "shanah",
+          "meaning": "year"
+        },
+        {
+          "word": "days",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day; time; period"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And when thou hast accomplished them, lie again on thy right side, and thou shalt bear the iniquity of the house of Judah forty days: I have appointed thee each day for a year.",
+      "highlightedWords": [
+        {
+          "word": "right",
+          "strongNumber": "H3225",
+          "lemma": "yamin",
+          "meaning": "right hand; right side; south"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah; the southern kingdom/tribe"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Therefore thou shalt set thy face toward the siege of Jerusalem, and thine arm shall be uncovered, and thou shalt prophesy against it.",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem, the chief city of Judah/Israel"
+        },
+        {
+          "word": "prophesy",
+          "strongNumber": "H5012",
+          "lemma": "naba",
+          "meaning": "to prophesy; speak by divine inspiration"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And, behold, I will lay bands upon thee, and thou shalt not turn thee from one side to another, till thou hast ended the days of thy siege.",
+      "highlightedWords": [
+        {
+          "word": "bands",
+          "strongNumber": "H5688",
+          "lemma": "’aboth",
+          "meaning": "cords; bands; bonds"
+        },
+        {
+          "word": "siege",
+          "strongNumber": "H4692",
+          "lemma": "matsor",
+          "meaning": "siege; siegeworks; distress"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Take thou also unto thee wheat, and barley, and beans, and lentiles, and millet, and fitches, and put them in one vessel, and make thee bread thereof, according to the number of the days that thou shalt lie upon thy side, three hundred and ninety days shalt thou eat thereof.",
+      "highlightedWords": [
+        {
+          "word": "wheat",
+          "strongNumber": "H2406",
+          "lemma": "chittah",
+          "meaning": "wheat"
+        },
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread; food; nourishment"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And thy meat which thou shalt eat shall be by weight, twenty shekels a day: from time to time shalt thou eat it.",
+      "highlightedWords": [
+        {
+          "word": "shekels",
+          "strongNumber": "H8255",
+          "lemma": "sheqel",
+          "meaning": "shekel; a unit of weight or currency"
+        },
+        {
+          "word": "day",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day; time; period"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Thou shalt drink also water by measure, the sixth part of an hin: from time to time shalt thou drink.",
+      "highlightedWords": [
+        {
+          "word": "water",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "water; waters"
+        },
+        {
+          "word": "hin",
+          "strongNumber": "H1969",
+          "lemma": "hin",
+          "meaning": "hin; a liquid measure"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And thou shalt eat it as barley cakes, and thou shalt bake it with dung that cometh out of man, in their sight.",
+      "highlightedWords": [
+        {
+          "word": "barley",
+          "strongNumber": "H8184",
+          "lemma": "se’orah",
+          "meaning": "barley"
+        },
+        {
+          "word": "man",
+          "strongNumber": "H0120",
+          "lemma": "’adam",
+          "meaning": "man; humankind; human being"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And the LORD said, Even thus shall the children of Israel eat their defiled bread among the Gentiles, whither I will drive them.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God (Jehovah)"
+        },
+        {
+          "word": "Gentiles",
+          "strongNumber": "H1471",
+          "lemma": "goyim",
+          "meaning": "nations; Gentiles; peoples"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Then said I, Ah Lord GOD! behold, my soul hath not been polluted: for from my youth up even till now have I not eaten of that which dieth of itself, or is torn in pieces; neither came there abominable flesh into my mouth.",
+      "highlightedWords": [
+        {
+          "word": "GOD",
+          "strongNumber": "H3069",
+          "lemma": "Yehovih",
+          "meaning": "a form of the divine name used after Adonai (Lord GOD)"
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul; life; self; person"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Then he said unto me, Lo, I have given thee cow's dung for man's dung, and thou shalt prepare thy bread therewith.",
+      "highlightedWords": [
+        {
+          "word": "given",
+          "strongNumber": "H5414",
+          "lemma": "nathan",
+          "meaning": "to give; put; set; appoint"
+        },
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread; food; nourishment"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Moreover he said unto me, Son of man, behold, I will break the staff of bread in Jerusalem: and they shall eat bread by weight, and with care; and they shall drink water by measure, and with astonishment:",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem, the chief city of Judah/Israel"
+        },
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread; food; nourishment"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "That they may want bread and water, and be astonied one with another, and consume away for their iniquity.",
+      "highlightedWords": [
+        {
+          "word": "water",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "water; waters"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "ʿavon",
+          "meaning": "iniquity; guilt; punishment for iniquity"
+        }
+      ]
+    }
+  ]
+}

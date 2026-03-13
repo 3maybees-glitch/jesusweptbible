@@ -1,0 +1,114 @@
+{
+  "book": "Psalms",
+  "chapter": 125,
+  "chapterTheme": {
+    "twoWordSummary": "Steadfast Security",
+    "themeWords": [
+      {
+        "word": "trust",
+        "strongNumber": "H982",
+        "lemma": "batach",
+        "meaning": "to trust, be confident, be secure"
+      },
+      {
+        "word": "Zion",
+        "strongNumber": "H6726",
+        "lemma": "Tsiyyon",
+        "meaning": "Zion; the hill in Jerusalem; figuratively the place of God's presence"
+      }
+    ]
+  },
+  "sentenceTheme": "Those who trust in the LORD are immovable like Mount Zion; He surrounds His people, restrains the wicked, rewards the upright, and grants peace to Israel.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "They that trust in the LORD shall be as mount Zion, which cannot be removed, but abideth for ever.",
+      "highlightedWords": [
+        {
+          "word": "trust",
+          "strongNumber": "H982",
+          "lemma": "batach",
+          "meaning": "to trust, be confident, be secure"
+        },
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyyon",
+          "meaning": "Zion; the hill in Jerusalem; figuratively the place of God's presence"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "As the mountains are round about Jerusalem, so the LORD is round about his people from henceforth even for ever.",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem, the chief city and capital"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "For the rod of the wicked shall not rest upon the lot of the righteous; lest the righteous put forth their hands unto iniquity.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha",
+          "meaning": "wicked, guilty, criminal"
+        },
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiyq",
+          "meaning": "righteous, just, in the right"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Do good, O LORD, unto those that be good, and to them that are upright in their hearts.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the proper name of the God of Israel"
+        },
+        {
+          "word": "upright",
+          "strongNumber": "H3477",
+          "lemma": "yashar",
+          "meaning": "straight, upright, correct"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "As for such as turn aside unto their crooked ways, the LORD shall lead them forth with the workers of iniquity: but peace shall be upon Israel.",
+      "highlightedWords": [
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace, wholeness, welfare"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; the nation and people descended from Jacob"
+        }
+      ]
+    }
+  ]
+}

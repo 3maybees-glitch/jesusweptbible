@@ -1,0 +1,636 @@
+{
+  "book": "Job",
+  "chapter": 41,
+  "chapterTheme": {
+    "twoWordSummary": "Untamable Leviathan",
+    "themeWords": [
+      {
+        "word": "leviathan",
+        "strongNumber": "H3882",
+        "lemma": "livyathan",
+        "meaning": "Leviathan; a twisting sea monster"
+      },
+      {
+        "word": "strength",
+        "strongNumber": "H5797",
+        "lemma": "‘oz",
+        "meaning": "strength, might, power"
+      }
+    ]
+  },
+  "sentenceTheme": "God describes the unmatched power and untamable nature of Leviathan to humble human pride.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Canst thou draw out leviathan with an hook? or his tongue with a cord which thou lettest down?",
+      "highlightedWords": [
+        {
+          "word": "leviathan",
+          "strongNumber": "H3882",
+          "lemma": "livyathan",
+          "meaning": "Leviathan; a twisting sea monster"
+        },
+        {
+          "word": "hook",
+          "strongNumber": "H2443",
+          "lemma": "chakkah",
+          "meaning": "a fishhook"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Canst thou put an hook into his nose? or bore his jaw through with a thorn?",
+      "highlightedWords": [
+        {
+          "word": "hook",
+          "strongNumber": "H2443",
+          "lemma": "chakkah",
+          "meaning": "a fishhook"
+        },
+        {
+          "word": "nose",
+          "strongNumber": "H639",
+          "lemma": "’aph",
+          "meaning": "nose; nostril; face; anger"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Will he make many supplications unto thee? will he speak soft words unto thee?",
+      "highlightedWords": [
+        {
+          "word": "supplications",
+          "strongNumber": "H8469",
+          "lemma": "tachanunim",
+          "meaning": "supplications, entreaties"
+        },
+        {
+          "word": "words",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, thing"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Will he make a covenant with thee? wilt thou take him for a servant for ever?",
+      "highlightedWords": [
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "covenant, treaty, agreement"
+        },
+        {
+          "word": "servant",
+          "strongNumber": "H5650",
+          "lemma": "‘ebed",
+          "meaning": "servant, slave"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Wilt thou play with him as with a bird? or wilt thou bind him for thy maidens?",
+      "highlightedWords": [
+        {
+          "word": "bird",
+          "strongNumber": "H6833",
+          "lemma": "tsippor",
+          "meaning": "bird"
+        },
+        {
+          "word": "bind",
+          "strongNumber": "H7194",
+          "lemma": "qashar",
+          "meaning": "to bind, tie, gird"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Shall the companions make a banquet of him? shall they part him among the merchants?",
+      "highlightedWords": [
+        {
+          "word": "part",
+          "strongNumber": "H2505",
+          "lemma": "chalaq",
+          "meaning": "to divide, share, apportion"
+        },
+        {
+          "word": "merchants",
+          "strongNumber": "H3667",
+          "lemma": "Kena‘an",
+          "meaning": "Canaanite; by extension, merchant, trader"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Canst thou fill his skin with barbed irons? or his head with fish spears?",
+      "highlightedWords": [
+        {
+          "word": "skin",
+          "strongNumber": "H5785",
+          "lemma": "‘or",
+          "meaning": "skin, hide, leather"
+        },
+        {
+          "word": "head",
+          "strongNumber": "H7218",
+          "lemma": "ro’sh",
+          "meaning": "head, chief, top"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Lay thine hand upon him, remember the battle, do no more.",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        },
+        {
+          "word": "battle",
+          "strongNumber": "H4421",
+          "lemma": "milchamah",
+          "meaning": "battle, war"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Behold, the hope of him is in vain: shall not one be cast down even at the sight of him?",
+      "highlightedWords": [
+        {
+          "word": "hope",
+          "strongNumber": "H8615",
+          "lemma": "tiqvah",
+          "meaning": "hope, expectation"
+        },
+        {
+          "word": "sight",
+          "strongNumber": "H4758",
+          "lemma": "mar’eh",
+          "meaning": "appearance, sight, vision"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "None is so fierce that dare stir him up: who then is able to stand before me?",
+      "highlightedWords": [
+        {
+          "word": "stand",
+          "strongNumber": "H5975",
+          "lemma": "‘amad",
+          "meaning": "to stand, remain, endure"
+        },
+        {
+          "word": "before",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "face, presence, before"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Who hath prevented me, that I should repay him? whatsoever is under the whole heaven is mine.",
+      "highlightedWords": [
+        {
+          "word": "repay",
+          "strongNumber": "H7999",
+          "lemma": "shalam",
+          "meaning": "to repay, recompense, make whole"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens, sky"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "I will not conceal his parts, nor his power, nor his comely proportion.",
+      "highlightedWords": [
+        {
+          "word": "conceal",
+          "strongNumber": "H3582",
+          "lemma": "kachad",
+          "meaning": "to hide, conceal, deny"
+        },
+        {
+          "word": "power",
+          "strongNumber": "H1369",
+          "lemma": "gevurah",
+          "meaning": "power, might, strength"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Who can discover the face of his garment? or who can come to him with his double bridle?",
+      "highlightedWords": [
+        {
+          "word": "garment",
+          "strongNumber": "H3830",
+          "lemma": "beged",
+          "meaning": "garment, clothing"
+        },
+        {
+          "word": "bridle",
+          "strongNumber": "H4964",
+          "lemma": "resen",
+          "meaning": "bridle, halter"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Who can open the doors of his face? his teeth are terrible round about.",
+      "highlightedWords": [
+        {
+          "word": "doors",
+          "strongNumber": "H1817",
+          "lemma": "delet",
+          "meaning": "door, gate, leaf"
+        },
+        {
+          "word": "teeth",
+          "strongNumber": "H8127",
+          "lemma": "shen",
+          "meaning": "tooth, teeth"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "His scales are his pride, shut up together as with a close seal.",
+      "highlightedWords": [
+        {
+          "word": "scales",
+          "strongNumber": "H4043",
+          "lemma": "magen",
+          "meaning": "shield; figuratively, scales"
+        },
+        {
+          "word": "seal",
+          "strongNumber": "H2368",
+          "lemma": "chotham",
+          "meaning": "seal, signet"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "One is so near to another, that no air can come between them.",
+      "highlightedWords": [
+        {
+          "word": "air",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "spirit, wind, breath"
+        },
+        {
+          "word": "between",
+          "strongNumber": "H996",
+          "lemma": "ben/beyn",
+          "meaning": "between, among"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "They are joined one to another, they stick together, that they cannot be sundered.",
+      "highlightedWords": [
+        {
+          "word": "joined",
+          "strongNumber": "H1692",
+          "lemma": "dabaq",
+          "meaning": "to cling, stick, join"
+        },
+        {
+          "word": "sundered",
+          "strongNumber": "H6504",
+          "lemma": "parad",
+          "meaning": "to separate, divide"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "By his neesings a light doth shine, and his eyes are like the eyelids of the morning.",
+      "highlightedWords": [
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "‘ayin",
+          "meaning": "eye"
+        },
+        {
+          "word": "morning",
+          "strongNumber": "H1242",
+          "lemma": "boqer",
+          "meaning": "morning, dawn"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Out of his mouth go burning lamps, and sparks of fire leap out.",
+      "highlightedWords": [
+        {
+          "word": "mouth",
+          "strongNumber": "H6310",
+          "lemma": "peh",
+          "meaning": "mouth"
+        },
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "’esh",
+          "meaning": "fire"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Out of his nostrils goeth smoke, as out of a seething pot or caldron.",
+      "highlightedWords": [
+        {
+          "word": "nostrils",
+          "strongNumber": "H639",
+          "lemma": "’aph",
+          "meaning": "nose; nostrils"
+        },
+        {
+          "word": "smoke",
+          "strongNumber": "H6227",
+          "lemma": "‘ashan",
+          "meaning": "smoke"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "His breath kindleth coals, and a flame goeth out of his mouth.",
+      "highlightedWords": [
+        {
+          "word": "breath",
+          "strongNumber": "H5397",
+          "lemma": "neshamah",
+          "meaning": "breath"
+        },
+        {
+          "word": "mouth",
+          "strongNumber": "H6310",
+          "lemma": "peh",
+          "meaning": "mouth"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "In his neck remaineth strength, and sorrow is turned into joy before him.",
+      "highlightedWords": [
+        {
+          "word": "neck",
+          "strongNumber": "H6677",
+          "lemma": "tsavvar",
+          "meaning": "neck"
+        },
+        {
+          "word": "strength",
+          "strongNumber": "H5797",
+          "lemma": "‘oz",
+          "meaning": "strength, might"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "The flakes of his flesh are joined together: they are firm in themselves; they cannot be moved.",
+      "highlightedWords": [
+        {
+          "word": "flesh",
+          "strongNumber": "H1320",
+          "lemma": "basar",
+          "meaning": "flesh"
+        },
+        {
+          "word": "moved",
+          "strongNumber": "H4131",
+          "lemma": "mot",
+          "meaning": "to totter, shake, be moved"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "His heart is as firm as a stone; yea, as hard as a piece of the nether millstone.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "lev",
+          "meaning": "heart, inner man"
+        },
+        {
+          "word": "stone",
+          "strongNumber": "H68",
+          "lemma": "’eben",
+          "meaning": "stone"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "When he raiseth up himself, the mighty are afraid: by reason of breakings they purify themselves.",
+      "highlightedWords": [
+        {
+          "word": "mighty",
+          "strongNumber": "H1368",
+          "lemma": "gibbor",
+          "meaning": "mighty, strong one, hero"
+        },
+        {
+          "word": "afraid",
+          "strongNumber": "H3372",
+          "lemma": "yare",
+          "meaning": "to fear, be afraid"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "The sword of him that layeth at him cannot hold: the spear, the dart, nor the habergeon.",
+      "highlightedWords": [
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword"
+        },
+        {
+          "word": "spear",
+          "strongNumber": "H2595",
+          "lemma": "chanit",
+          "meaning": "spear"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "He esteemeth iron as straw, and brass as rotten wood.",
+      "highlightedWords": [
+        {
+          "word": "iron",
+          "strongNumber": "H1270",
+          "lemma": "barzel",
+          "meaning": "iron"
+        },
+        {
+          "word": "brass",
+          "strongNumber": "H5178",
+          "lemma": "nechosheth",
+          "meaning": "bronze, copper, brass"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "The arrow cannot make him flee: slingstones are turned with him into stubble.",
+      "highlightedWords": [
+        {
+          "word": "arrow",
+          "strongNumber": "H2671",
+          "lemma": "chets",
+          "meaning": "arrow"
+        },
+        {
+          "word": "stubble",
+          "strongNumber": "H7179",
+          "lemma": "qash",
+          "meaning": "stubble, chaff"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "Darts are counted as stubble: he laugheth at the shaking of a spear.",
+      "highlightedWords": [
+        {
+          "word": "stubble",
+          "strongNumber": "H7179",
+          "lemma": "qash",
+          "meaning": "stubble, chaff"
+        },
+        {
+          "word": "spear",
+          "strongNumber": "H2595",
+          "lemma": "chanit",
+          "meaning": "spear"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "Sharp stones are under him: he spreadeth sharp pointed things upon the mire.",
+      "highlightedWords": [
+        {
+          "word": "stones",
+          "strongNumber": "H68",
+          "lemma": "’eben",
+          "meaning": "stones"
+        },
+        {
+          "word": "mire",
+          "strongNumber": "H2916",
+          "lemma": "tit",
+          "meaning": "mire, mud, clay"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "He maketh the deep to boil like a pot: he maketh the sea like a pot of ointment.",
+      "highlightedWords": [
+        {
+          "word": "deep",
+          "strongNumber": "H4688",
+          "lemma": "metzulah",
+          "meaning": "deep, depths"
+        },
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "sea"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "He maketh a path to shine after him; one would think the deep to be hoary.",
+      "highlightedWords": [
+        {
+          "word": "path",
+          "strongNumber": "H734",
+          "lemma": "orach",
+          "meaning": "path, way"
+        },
+        {
+          "word": "deep",
+          "strongNumber": "H4688",
+          "lemma": "metzulah",
+          "meaning": "deep, depths"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "Upon earth there is not his like, who is made without fear.",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "’eretz",
+          "meaning": "earth, land"
+        },
+        {
+          "word": "fear",
+          "strongNumber": "H3372",
+          "lemma": "yare",
+          "meaning": "fear"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "He beholdeth all high things: he is a king over all the children of pride.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king"
+        },
+        {
+          "word": "pride",
+          "strongNumber": "H1347",
+          "lemma": "ga’own",
+          "meaning": "exaltation, pride, majesty"
+        }
+      ]
+    }
+  ]
+}

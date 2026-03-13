@@ -1,0 +1,222 @@
+{
+  "book": "1 Samuel",
+  "chapter": 29,
+  "chapterTheme": {
+    "twoWordSummary": "Philistine Rejection",
+    "themeWords": [
+      {
+        "word": "Philistines",
+        "strongNumber": "H6430",
+        "lemma": "Pelishtiy",
+        "meaning": "Philistine(s), people of Philistia"
+      },
+      {
+        "word": "David",
+        "strongNumber": "H1732",
+        "lemma": "David (Dawid)",
+        "meaning": "Beloved; second king of Israel"
+      }
+    ]
+  },
+  "sentenceTheme": "Philistine leaders distrust David and compel Achish to send him back, so David returns while the Philistines advance to Jezreel.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Now the Philistines gathered together all their armies to Aphek: and the Israelites pitched by a fountain which is in Jezreel.",
+      "highlightedWords": [
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pelishtiy",
+          "meaning": "Philistine(s), people of Philistia"
+        },
+        {
+          "word": "Jezreel",
+          "strongNumber": "H3157",
+          "lemma": "Yizre'el",
+          "meaning": "God sows; Jezreel"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And the lords of the Philistines passed on by hundreds, and by thousands: but David and his men passed on in the rereward with Achish.",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "David (Dawid)",
+          "meaning": "Beloved; second king of Israel"
+        },
+        {
+          "word": "Achish",
+          "strongNumber": "H397",
+          "lemma": "Akish",
+          "meaning": "Achish, a Philistine ruler of Gath"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Then said the princes of the Philistines, What do these Hebrews here? And Achish said unto the princes of the Philistines, Is not this David, the servant of Saul the king of Israel, which hath been with me these days, or these years, and I have found no fault in him since he fell unto me unto this day?",
+      "highlightedWords": [
+        {
+          "word": "Hebrews",
+          "strongNumber": "H5680",
+          "lemma": "Ibriy",
+          "meaning": "Hebrew(s), one from beyond"
+        },
+        {
+          "word": "Saul",
+          "strongNumber": "H7586",
+          "lemma": "Sha'ul",
+          "meaning": "Saul, asked for; first king of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And the princes of the Philistines were wroth with him; and the princes of the Philistines said unto him, Make this fellow return, that he may go again to his place which thou hast appointed him, and let him not go down with us to battle, lest in the battle he be an adversary to us: for wherewith should he reconcile himself unto his master? should it not be with the heads of these men?",
+      "highlightedWords": [
+        {
+          "word": "princes",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "Prince, ruler, captain, chief"
+        },
+        {
+          "word": "adversary",
+          "strongNumber": "H7854",
+          "lemma": "satan",
+          "meaning": "Adversary, accuser, opponent"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Is not this David, of whom they sang one to another in dances, saying, Saul slew his thousands, and David his ten thousands?",
+      "highlightedWords": [
+        {
+          "word": "dances",
+          "strongNumber": "H4246",
+          "lemma": "machol",
+          "meaning": "Dance, dancing"
+        },
+        {
+          "word": "ten thousands",
+          "strongNumber": "H7233",
+          "lemma": "revavah",
+          "meaning": "Myriad, ten thousand"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Then Achish called David, and said unto him, Surely, as the LORD liveth, thou hast been upright, and thy going out and thy coming in with me in the host is good in my sight: for I have not found evil in thee since the day of thy coming unto me unto this day: nevertheless the lords favour thee not.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The personal name of the God of Israel"
+        },
+        {
+          "word": "upright",
+          "strongNumber": "H3477",
+          "lemma": "yashar",
+          "meaning": "Straight, right, upright"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Wherefore now return, and go in peace, that thou displease not the lords of the Philistines.",
+      "highlightedWords": [
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "Peace, welfare, completeness"
+        },
+        {
+          "word": "lords",
+          "strongNumber": "H5633",
+          "lemma": "seren",
+          "meaning": "Lord, ruler of the Philistines"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And David said unto Achish, But what have I done? and what hast thou found in thy servant so long as I have been with thee unto this day, that I may not go fight against the enemies of my lord the king?",
+      "highlightedWords": [
+        {
+          "word": "servant",
+          "strongNumber": "H5650",
+          "lemma": "ebed",
+          "meaning": "Servant, slave, bondman"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "King, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And Achish answered and said to David, I know that thou art good in my sight, as an angel of God: notwithstanding the princes of the Philistines have said, He shall not go up with us to the battle.",
+      "highlightedWords": [
+        {
+          "word": "angel",
+          "strongNumber": "H4397",
+          "lemma": "mal'ak",
+          "meaning": "Messenger, angel"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God, mighty one"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Wherefore now rise up early in the morning with thy master's servants that are come with thee: and as soon as ye be up early in the morning, and have light, depart.",
+      "highlightedWords": [
+        {
+          "word": "servants",
+          "strongNumber": "H5650",
+          "lemma": "ebed",
+          "meaning": "Servants, slaves, bondmen"
+        },
+        {
+          "word": "morning",
+          "strongNumber": "H1242",
+          "lemma": "boqer",
+          "meaning": "Morning, break of day"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "So David and his men rose up early to depart in the morning, to return into the land of the Philistines. And the Philistines went up to Jezreel.",
+      "highlightedWords": [
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pelishtiy",
+          "meaning": "Philistine(s), people of Philistia"
+        },
+        {
+          "word": "Jezreel",
+          "strongNumber": "H3157",
+          "lemma": "Yizre'el",
+          "meaning": "God sows; Jezreel"
+        }
+      ]
+    }
+  ]
+}

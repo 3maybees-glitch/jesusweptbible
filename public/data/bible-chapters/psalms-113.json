@@ -1,0 +1,186 @@
+{
+  "book": "Psalms",
+  "chapter": 113,
+  "chapterTheme": {
+    "twoWordSummary": "Exalted Praise",
+    "themeWords": [
+      {
+        "word": "Praise",
+        "strongNumber": "H1984",
+        "lemma": "halal (הָלַל)",
+        "meaning": "to praise, celebrate"
+      },
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH (יהוה)",
+        "meaning": "the personal name of the God of Israel"
+      }
+    ]
+  },
+  "sentenceTheme": "A call for all to praise the exalted LORD who stoops to lift the lowly.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Praise ye the LORD. Praise, O ye servants of the LORD, praise the name of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "Praise",
+          "strongNumber": "H1984",
+          "lemma": "halal (הָלַל)",
+          "meaning": "to praise, celebrate"
+        },
+        {
+          "word": "servants",
+          "strongNumber": "H5650",
+          "lemma": "ʿeved (עֶבֶד)",
+          "meaning": "servant, bondservant"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Blessed be the name of the LORD from this time forth and for evermore.",
+      "highlightedWords": [
+        {
+          "word": "Blessed",
+          "strongNumber": "H1288",
+          "lemma": "barak (בָּרַךְ)",
+          "meaning": "to bless"
+        },
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "shem (שֵׁם)",
+          "meaning": "name, reputation"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "From the rising of the sun unto the going down of the same the LORD's name is to be praised.",
+      "highlightedWords": [
+        {
+          "word": "sun",
+          "strongNumber": "H8121",
+          "lemma": "shemesh (שֶׁמֶשׁ)",
+          "meaning": "sun"
+        },
+        {
+          "word": "praised",
+          "strongNumber": "H1984",
+          "lemma": "halal (הָלַל)",
+          "meaning": "to praise, celebrate"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "The LORD is high above all nations, and his glory above the heavens.",
+      "highlightedWords": [
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "goy (גּוֹי)",
+          "meaning": "nations, peoples"
+        },
+        {
+          "word": "heavens",
+          "strongNumber": "H8064",
+          "lemma": "shamayim (שָׁמַיִם)",
+          "meaning": "heavens, sky"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Who is like unto the LORD our God, who dwelleth on high,",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "ʾElohim (אֱלֹהִים)",
+          "meaning": "God, deity"
+        },
+        {
+          "word": "dwelleth",
+          "strongNumber": "H3427",
+          "lemma": "yashab (יָשַׁב)",
+          "meaning": "to dwell, sit"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Who humbleth himself to behold the things that are in heaven, and in the earth!",
+      "highlightedWords": [
+        {
+          "word": "humbleth",
+          "strongNumber": "H8213",
+          "lemma": "shaphel (שָׁפֵל)",
+          "meaning": "to humble, bring low"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "ʾerets (אֶרֶץ)",
+          "meaning": "earth, land"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "He raiseth up the poor out of the dust, and lifteth the needy out of the dunghill;",
+      "highlightedWords": [
+        {
+          "word": "poor",
+          "strongNumber": "H1800",
+          "lemma": "dal (דַּל)",
+          "meaning": "poor, weak"
+        },
+        {
+          "word": "dunghill",
+          "strongNumber": "H830",
+          "lemma": "ʾashpoth (אַשְׁפֹּת)",
+          "meaning": "ash heap, dunghill"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "That he may set him with princes, even with the princes of his people.",
+      "highlightedWords": [
+        {
+          "word": "princes",
+          "strongNumber": "H8269",
+          "lemma": "sar (שַׂר)",
+          "meaning": "prince, ruler, official"
+        },
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "ʿam (עַם)",
+          "meaning": "people, nation"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "He maketh the barren woman to keep house, and to be a joyful mother of children. Praise ye the LORD.",
+      "highlightedWords": [
+        {
+          "word": "barren",
+          "strongNumber": "H6135",
+          "lemma": "ʿaqarah (עֲקָרָה)",
+          "meaning": "barren (woman), childless"
+        },
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben (בֵּן)",
+          "meaning": "son, child, descendant"
+        }
+      ]
+    }
+  ]
+}

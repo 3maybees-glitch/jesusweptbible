@@ -1,0 +1,510 @@
+{
+  "book": "Proverbs",
+  "chapter": 29,
+  "chapterTheme": {
+    "twoWordSummary": "Righteous Leadership",
+    "themeWords": [
+      {
+        "word": "righteous",
+        "strongNumber": "H6662",
+        "lemma": "tsaddiq",
+        "meaning": "righteous, just"
+      },
+      {
+        "word": "judgment",
+        "strongNumber": "H4941",
+        "lemma": "mishpat",
+        "meaning": "justice, legal decision, judgment"
+      }
+    ]
+  },
+  "sentenceTheme": "Wise and just leadership, discipline, and integrity bring stability and joy, while wickedness, pride, and folly lead to downfall and strife.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "He, that being often reproved hardeneth his neck, shall suddenly be destroyed, and that without remedy.",
+      "highlightedWords": [
+        {
+          "word": "reproved",
+          "strongNumber": "H3198",
+          "lemma": "yakach",
+          "meaning": "to reprove, correct, decide"
+        },
+        {
+          "word": "remedy",
+          "strongNumber": "H4832",
+          "lemma": "marpe'",
+          "meaning": "healing, cure, remedy"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "When the righteous are in authority, the people rejoice: but when the wicked beareth rule, the people mourn.",
+      "highlightedWords": [
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha'",
+          "meaning": "wicked, guilty, criminal"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Whoso loveth wisdom rejoiceth his father: but he that keepeth company with harlots spendeth his substance.",
+      "highlightedWords": [
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "wisdom, skill"
+        },
+        {
+          "word": "father",
+          "strongNumber": "H1",
+          "lemma": "’ab",
+          "meaning": "father"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "The king by judgment establisheth the land: but he that receiveth gifts overthroweth it.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        },
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "justice, legal decision, judgment"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "A man that flattereth his neighbour spreadeth a net for his feet.",
+      "highlightedWords": [
+        {
+          "word": "neighbour",
+          "strongNumber": "H7453",
+          "lemma": "re'a",
+          "meaning": "friend, companion, neighbor"
+        },
+        {
+          "word": "net",
+          "strongNumber": "H7568",
+          "lemma": "resheth",
+          "meaning": "net, network"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "In the transgression of an evil man there is a snare: but the righteous doth sing and rejoice.",
+      "highlightedWords": [
+        {
+          "word": "transgression",
+          "strongNumber": "H6588",
+          "lemma": "pesha'",
+          "meaning": "transgression, rebellion"
+        },
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "The righteous considereth the cause of the poor: but the wicked regardeth not to know it.",
+      "highlightedWords": [
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just"
+        },
+        {
+          "word": "poor",
+          "strongNumber": "H1800",
+          "lemma": "dal",
+          "meaning": "poor, weak, helpless"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Scornful men bring a city into a snare: but wise men turn away wrath.",
+      "highlightedWords": [
+        {
+          "word": "wise",
+          "strongNumber": "H2450",
+          "lemma": "chakam",
+          "meaning": "wise, skillful"
+        },
+        {
+          "word": "wrath",
+          "strongNumber": "H2534",
+          "lemma": "chemah",
+          "meaning": "wrath, heat, rage"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "If a wise man contendeth with a foolish man, whether he rage or laugh, there is no rest.",
+      "highlightedWords": [
+        {
+          "word": "wise",
+          "strongNumber": "H2450",
+          "lemma": "chakam",
+          "meaning": "wise, skillful"
+        },
+        {
+          "word": "foolish",
+          "strongNumber": "H3684",
+          "lemma": "kesil",
+          "meaning": "foolish, stupid"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "The bloodthirsty hate the upright: but the just seek his soul.",
+      "highlightedWords": [
+        {
+          "word": "upright",
+          "strongNumber": "H3477",
+          "lemma": "yashar",
+          "meaning": "upright, straight"
+        },
+        {
+          "word": "just",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "A fool uttereth all his mind: but a wise man keepeth it in till afterwards.",
+      "highlightedWords": [
+        {
+          "word": "fool",
+          "strongNumber": "H3684",
+          "lemma": "kesil",
+          "meaning": "fool, dullard"
+        },
+        {
+          "word": "wise",
+          "strongNumber": "H2450",
+          "lemma": "chakam",
+          "meaning": "wise, skillful"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "If a ruler hearken to lies, all his servants are wicked.",
+      "highlightedWords": [
+        {
+          "word": "ruler",
+          "strongNumber": "H4910",
+          "lemma": "moshel (from mashal)",
+          "meaning": "one who rules, governor"
+        },
+        {
+          "word": "lies",
+          "strongNumber": "H8267",
+          "lemma": "sheqer",
+          "meaning": "lie, falsehood, deception"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "The poor and the deceitful man meet together: the LORD lighteneth both their eyes.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yahweh)",
+          "meaning": "the personal name of the God of Israel"
+        },
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "ayin",
+          "meaning": "eye; sight"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "The king that faithfully judgeth the poor, his throne shall be established for ever.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        },
+        {
+          "word": "poor",
+          "strongNumber": "H1800",
+          "lemma": "dal",
+          "meaning": "poor, weak, helpless"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "The rod and reproof give wisdom: but a child left to himself bringeth his mother to shame.",
+      "highlightedWords": [
+        {
+          "word": "rod",
+          "strongNumber": "H7626",
+          "lemma": "shebet",
+          "meaning": "rod, staff"
+        },
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "wisdom, skill"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "When the wicked are multiplied, transgression increaseth: but the righteous shall see their fall.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha'",
+          "meaning": "wicked, guilty"
+        },
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Correct thy son, and he shall give thee rest; yea, he shall give delight unto thy soul.",
+      "highlightedWords": [
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son"
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, self"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Where there is no vision, the people perish: but he that keepeth the law, happy is he.",
+      "highlightedWords": [
+        {
+          "word": "vision",
+          "strongNumber": "H2377",
+          "lemma": "chazon",
+          "meaning": "vision, revelation"
+        },
+        {
+          "word": "law",
+          "strongNumber": "H8451",
+          "lemma": "torah",
+          "meaning": "law, instruction, teaching"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "A servant will not be corrected by words: for though he understand he will not answer.",
+      "highlightedWords": [
+        {
+          "word": "servant",
+          "strongNumber": "H5650",
+          "lemma": "eved",
+          "meaning": "servant, slave"
+        },
+        {
+          "word": "words",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, thing"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Seest thou a man that is hasty in his words? there is more hope of a fool than of him.",
+      "highlightedWords": [
+        {
+          "word": "words",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, thing"
+        },
+        {
+          "word": "fool",
+          "strongNumber": "H3684",
+          "lemma": "kesil",
+          "meaning": "fool, dullard"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "He that delicately bringeth up his servant from a child shall have him become his son at the length.",
+      "highlightedWords": [
+        {
+          "word": "servant",
+          "strongNumber": "H5650",
+          "lemma": "eved",
+          "meaning": "servant, slave"
+        },
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "An angry man stirreth up strife, and a furious man aboundeth in transgression.",
+      "highlightedWords": [
+        {
+          "word": "angry",
+          "strongNumber": "H639",
+          "lemma": "aph",
+          "meaning": "anger, wrath (lit. nose, anger)"
+        },
+        {
+          "word": "strife",
+          "strongNumber": "H4066",
+          "lemma": "madon",
+          "meaning": "strife, contention"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "A man's pride shall bring him low: but honour shall uphold the humble in spirit.",
+      "highlightedWords": [
+        {
+          "word": "pride",
+          "strongNumber": "H1346",
+          "lemma": "ga'avah",
+          "meaning": "pride, arrogance"
+        },
+        {
+          "word": "honour",
+          "strongNumber": "H3519",
+          "lemma": "kavod",
+          "meaning": "honour, glory"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Whoso is partner with a thief hateth his own soul: he heareth cursing, and bewrayeth it not.",
+      "highlightedWords": [
+        {
+          "word": "thief",
+          "strongNumber": "H1591",
+          "lemma": "gannab",
+          "meaning": "thief"
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, self"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "The fear of man bringeth a snare: but whoso putteth his trust in the LORD shall be safe.",
+      "highlightedWords": [
+        {
+          "word": "trust",
+          "strongNumber": "H982",
+          "lemma": "batach",
+          "meaning": "to trust, be confident"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yahweh)",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "Many seek the ruler's favour; but every man's judgment cometh from the LORD.",
+      "highlightedWords": [
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "justice, legal decision, judgment"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yahweh)",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "An unjust man is an abomination to the just: and he that is upright in the way is abomination to the wicked.",
+      "highlightedWords": [
+        {
+          "word": "abomination",
+          "strongNumber": "H8441",
+          "lemma": "to'evah",
+          "meaning": "abomination, detestable thing"
+        },
+        {
+          "word": "upright",
+          "strongNumber": "H3477",
+          "lemma": "yashar",
+          "meaning": "upright, straight"
+        }
+      ]
+    }
+  ]
+}

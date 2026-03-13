@@ -1,0 +1,222 @@
+{
+  "book": "Psalms",
+  "chapter": 63,
+  "chapterTheme": {
+    "twoWordSummary": "Thirsty Worship",
+    "themeWords": [
+      {
+        "word": "God",
+        "strongNumber": "H430",
+        "lemma": "elohim",
+        "meaning": "God; deity; the supreme God"
+      },
+      {
+        "word": "soul",
+        "strongNumber": "H5315",
+        "lemma": "nephesh",
+        "meaning": "soul; life; self; person"
+      }
+    ]
+  },
+  "sentenceTheme": "David longs for God in the wilderness, finds satisfaction in His presence, and rejoices in His sure deliverance.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "O God, thou art my God; early will I seek thee: my soul thirsteth for thee, my flesh longeth for thee in a dry and thirsty land, where no water is;",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "elohim",
+          "meaning": "God; deity; the supreme God"
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul; life; self; person"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "To see thy power and thy glory, so as I have seen thee in the sanctuary.",
+      "highlightedWords": [
+        {
+          "word": "power",
+          "strongNumber": "H5797",
+          "lemma": "oz",
+          "meaning": "strength; power; might"
+        },
+        {
+          "word": "glory",
+          "strongNumber": "H3519",
+          "lemma": "kavod",
+          "meaning": "glory; honor; weight"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Because thy lovingkindness is better than life, my lips shall praise thee.",
+      "highlightedWords": [
+        {
+          "word": "lovingkindness",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "steadfast love; mercy; covenant loyalty"
+        },
+        {
+          "word": "praise",
+          "strongNumber": "H1984",
+          "lemma": "halal",
+          "meaning": "to praise; boast; celebrate"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Thus will I bless thee while I live: I will lift up my hands in thy name.",
+      "highlightedWords": [
+        {
+          "word": "bless",
+          "strongNumber": "H1288",
+          "lemma": "barak",
+          "meaning": "to bless; kneel; praise"
+        },
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "name; reputation; fame"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "My soul shall be satisfied as with marrow and fatness; and my mouth shall praise thee with joyful lips:",
+      "highlightedWords": [
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul; life; self; person"
+        },
+        {
+          "word": "fatness",
+          "strongNumber": "H1880",
+          "lemma": "deshen",
+          "meaning": "fatness; abundance; richness"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "When I remember thee upon my bed, and meditate on thee in the night watches.",
+      "highlightedWords": [
+        {
+          "word": "remember",
+          "strongNumber": "H2142",
+          "lemma": "zakar",
+          "meaning": "to remember; recall; mention"
+        },
+        {
+          "word": "watches",
+          "strongNumber": "H0821",
+          "lemma": "ashmurah",
+          "meaning": "watch; a division of the night for guarding"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Because thou hast been my help, therefore in the shadow of thy wings will I rejoice.",
+      "highlightedWords": [
+        {
+          "word": "help",
+          "strongNumber": "H5828",
+          "lemma": "ezer",
+          "meaning": "help; assistance; support"
+        },
+        {
+          "word": "wings",
+          "strongNumber": "H3671",
+          "lemma": "kanaph",
+          "meaning": "wing; extremity; edge"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "My soul followeth hard after thee: thy right hand upholdeth me.",
+      "highlightedWords": [
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul; life; self; person"
+        },
+        {
+          "word": "upholdeth",
+          "strongNumber": "H8551",
+          "lemma": "tamak",
+          "meaning": "to uphold; support; sustain"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "But those that seek my soul, to destroy it, shall go into the lower parts of the earth.",
+      "highlightedWords": [
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul; life; self; person"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H0776",
+          "lemma": "erets",
+          "meaning": "earth; land; ground"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "They shall fall by the sword: they shall be a portion for foxes.",
+      "highlightedWords": [
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword; dagger"
+        },
+        {
+          "word": "foxes",
+          "strongNumber": "H7776",
+          "lemma": "shu'al",
+          "meaning": "fox; jackal"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "But the king shall rejoice in God; every one that sweareth by him shall glory: but the mouth of them that speak lies shall be stopped.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king; ruler"
+        },
+        {
+          "word": "lies",
+          "strongNumber": "H8267",
+          "lemma": "sheqer",
+          "meaning": "lie; falsehood; deception"
+        }
+      ]
+    }
+  ]
+}

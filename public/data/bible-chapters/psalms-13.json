@@ -1,0 +1,132 @@
+{
+  "book": "Psalms",
+  "chapter": 13,
+  "chapterTheme": {
+    "twoWordSummary": "Lament Trust",
+    "themeWords": [
+      {
+        "word": "trusted",
+        "strongNumber": "H982",
+        "lemma": "batach",
+        "meaning": "to trust, feel secure, be confident"
+      },
+      {
+        "word": "mercy",
+        "strongNumber": "H2617",
+        "lemma": "chesed",
+        "meaning": "steadfast love, covenant loyalty, mercy"
+      }
+    ]
+  },
+  "sentenceTheme": "David cries out over prolonged silence and sorrow, yet chooses to trust in the LORD’s steadfast mercy and rejoice in His salvation.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "How long wilt thou forget me, O LORD? for ever? how long wilt thou hide thy face from me?",
+      "highlightedWords": [
+        {
+          "word": "forget",
+          "strongNumber": "H7911",
+          "lemma": "shakach",
+          "meaning": "to forget, neglect, cease to care"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "How long shall I take counsel in my soul, having sorrow in my heart daily? how long shall mine enemy be exalted over me?",
+      "highlightedWords": [
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, self, inner being"
+        },
+        {
+          "word": "enemy",
+          "strongNumber": "H341",
+          "lemma": "’oyev",
+          "meaning": "enemy, foe, adversary"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Consider and hear me, O LORD my God: lighten mine eyes, lest I sleep the sleep of death;",
+      "highlightedWords": [
+        {
+          "word": "lighten",
+          "strongNumber": "H215",
+          "lemma": "’or",
+          "meaning": "to give light, illumine, enlighten"
+        },
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "’ayin",
+          "meaning": "eye, sight, appearance"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Lest mine enemy say, I have prevailed against him; and those that trouble me rejoice when I am moved.",
+      "highlightedWords": [
+        {
+          "word": "enemy",
+          "strongNumber": "H341",
+          "lemma": "’oyev",
+          "meaning": "enemy, foe, adversary"
+        },
+        {
+          "word": "moved",
+          "strongNumber": "H4131",
+          "lemma": "mowt",
+          "meaning": "to totter, shake, slip, be moved"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "But I have trusted in thy mercy; my heart shall rejoice in thy salvation.",
+      "highlightedWords": [
+        {
+          "word": "trusted",
+          "strongNumber": "H982",
+          "lemma": "batach",
+          "meaning": "to trust, feel secure, rely upon"
+        },
+        {
+          "word": "mercy",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "steadfast love, kindness, covenant mercy"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "I will sing unto the LORD, because he hath dealt bountifully with me.",
+      "highlightedWords": [
+        {
+          "word": "sing",
+          "strongNumber": "H7891",
+          "lemma": "shir",
+          "meaning": "to sing, chant, celebrate in song"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "book": "Psalms",
+  "chapter": 16,
+  "chapterTheme": {
+    "twoWordSummary": "Refuge Joy",
+    "themeWords": [
+      {
+        "word": "refuge",
+        "strongNumber": "H2620",
+        "lemma": "chasah",
+        "meaning": "to seek refuge, take shelter"
+      },
+      {
+        "word": "joy",
+        "strongNumber": "H8057",
+        "lemma": "simchah",
+        "meaning": "joy, gladness"
+      }
+    ]
+  },
+  "sentenceTheme": "David declares the LORD as his refuge and portion, rejoices in His counsel and presence, and trusts that God will not abandon him to the grave but will lead him to life and fullness of joy.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Michtam of David. Preserve me, O God: for in thee do I put my trust.",
+      "highlightedWords": [
+        {
+          "word": "Preserve",
+          "strongNumber": "H8104",
+          "lemma": "shamar",
+          "meaning": "to keep, guard, preserve"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H410",
+          "lemma": "El",
+          "meaning": "God, Mighty One"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "O my soul, thou hast said unto the LORD, Thou art my Lord: my goodness extendeth not to thee;",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "H136",
+          "lemma": "Adonai",
+          "meaning": "Lord, Master"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "But to the saints that are in the earth, and to the excellent, in whom is all my delight.",
+      "highlightedWords": [
+        {
+          "word": "saints",
+          "strongNumber": "H6918",
+          "lemma": "qedoshim",
+          "meaning": "holy ones, consecrated people"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "earth, land"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Their sorrows shall be multiplied that hasten after another god: their drink offerings of blood will I not offer, nor take up their names into my lips.",
+      "highlightedWords": [
+        {
+          "word": "sorrows",
+          "strongNumber": "H6094",
+          "lemma": "etseb",
+          "meaning": "pain, sorrow, grief"
+        },
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "blood"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "The LORD is the portion of mine inheritance and of my cup: thou maintainest my lot.",
+      "highlightedWords": [
+        {
+          "word": "portion",
+          "strongNumber": "H2506",
+          "lemma": "cheleq",
+          "meaning": "portion, share, allotted part"
+        },
+        {
+          "word": "lot",
+          "strongNumber": "H1486",
+          "lemma": "goral",
+          "meaning": "lot, allotted portion"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "The lines are fallen unto me in pleasant places; yea, I have a goodly heritage.",
+      "highlightedWords": [
+        {
+          "word": "lines",
+          "strongNumber": "H2256",
+          "lemma": "chevel",
+          "meaning": "measuring cord, boundary line"
+        },
+        {
+          "word": "heritage",
+          "strongNumber": "H5159",
+          "lemma": "nachalah",
+          "meaning": "inheritance, heritage"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "I will bless the LORD, who hath given me counsel: my reins also instruct me in the night seasons.",
+      "highlightedWords": [
+        {
+          "word": "counsel",
+          "strongNumber": "H6098",
+          "lemma": "etsah",
+          "meaning": "counsel, advice"
+        },
+        {
+          "word": "reins",
+          "strongNumber": "H3629",
+          "lemma": "kilyah",
+          "meaning": "kidneys; inner self, inmost being"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "I have set the LORD always before me: because he is at my right hand, I shall not be moved.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        },
+        {
+          "word": "moved",
+          "strongNumber": "H4131",
+          "lemma": "mot",
+          "meaning": "to totter, shake, be moved"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Therefore my heart is glad, and my glory rejoiceth: my flesh also shall rest in hope.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "lev",
+          "meaning": "heart, inner person"
+        },
+        {
+          "word": "hope",
+          "strongNumber": "H983",
+          "lemma": "betach",
+          "meaning": "security, confidence, trust"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "For thou wilt not leave my soul in hell; neither wilt thou suffer thine Holy One to see corruption.",
+      "highlightedWords": [
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, self"
+        },
+        {
+          "word": "Holy One",
+          "strongNumber": "H2623",
+          "lemma": "chasid",
+          "meaning": "faithful/holy one"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Thou wilt shew me the path of life: in thy presence is fulness of joy; at thy right hand there are pleasures for evermore.",
+      "highlightedWords": [
+        {
+          "word": "path",
+          "strongNumber": "H734",
+          "lemma": "orach",
+          "meaning": "path, way"
+        },
+        {
+          "word": "presence",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "face, presence"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,528 @@
+{
+  "book": "2 Chronicles",
+  "chapter": 25,
+  "chapterTheme": {
+    "twoWordSummary": "Amaziah's Reign",
+    "themeWords": [
+      {
+        "word": "Amaziah",
+        "strongNumber": "H558",
+        "lemma": "Amazyâh / Amazyâhû",
+        "meaning": "Yah is mighty; king of Judah"
+      },
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH",
+        "meaning": "The personal name of the God of Israel"
+      }
+    ]
+  },
+  "sentenceTheme": "Amaziah begins well but compromises by idolatry, rejects prophetic counsel, and is defeated by Israel before being assassinated after a conspiracy.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Amaziah was twenty and five years old when he began to reign, and he reigned twenty and nine years in Jerusalem. And his mother's name was Jehoaddan of Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "Amaziah",
+          "strongNumber": "H558",
+          "lemma": "Amazyâh / Amazyâhû",
+          "meaning": "Yah is mighty; king of Judah"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerûshālayim",
+          "meaning": "Jerusalem, the chief city of Judah"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And he did that which was right in the sight of the LORD, but not with a perfect heart.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The personal name of the God of Israel"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3824",
+          "lemma": "lebāb",
+          "meaning": "Heart, mind, inner being"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Now it came to pass, when the kingdom was established to him, that he slew his servants that had killed the king his father.",
+      "highlightedWords": [
+        {
+          "word": "kingdom",
+          "strongNumber": "H4467",
+          "lemma": "mamlākâh",
+          "meaning": "Kingdom, dominion, reign"
+        },
+        {
+          "word": "servants",
+          "strongNumber": "H5650",
+          "lemma": "ʿēbed",
+          "meaning": "Servant, official, attendant"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "But he slew not their children, but did as it is written in the law in the book of Moses, where the LORD commanded, saying, The fathers shall not die for the children, neither shall the children die for the fathers, but every man shall die for his own sin.",
+      "highlightedWords": [
+        {
+          "word": "law",
+          "strongNumber": "H8451",
+          "lemma": "tôrâh",
+          "meaning": "Instruction, law, Torah"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Moreover Amaziah gathered Judah together, and made them captains over thousands, and captains over hundreds, according to the houses of their fathers, throughout all Judah and Benjamin: and he numbered them from twenty years old and above, and found them three hundred thousand choice men, able to go forth to war, that could handle spear and shield.",
+      "highlightedWords": [
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehûdâh",
+          "meaning": "Judah, the southern kingdom; also the tribe"
+        },
+        {
+          "word": "Benjamin",
+          "strongNumber": "H1144",
+          "lemma": "Binyāmı̂n",
+          "meaning": "Benjamin, son of Jacob; tribe of Benjamin"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "He hired also an hundred thousand mighty men of valour out of Israel for an hundred talents of silver.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yiśrā'ēl",
+          "meaning": "Israel, the people and nation"
+        },
+        {
+          "word": "silver",
+          "strongNumber": "H3701",
+          "lemma": "kesep̣",
+          "meaning": "Silver; money"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "But there came a man of God to him, saying, O king, let not the army of Israel go with thee; for the LORD is not with Israel, to wit, with all the children of Ephraim.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The personal name of the God of Israel"
+        },
+        {
+          "word": "Ephraim",
+          "strongNumber": "H669",
+          "lemma": "Ephrayim",
+          "meaning": "Ephraim, a son of Joseph; the tribe/region"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "But if thou wilt go, do it, be strong for the battle: God shall make thee fall before the enemy: for God hath power to help, and to cast down.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "ʾElōhı̂m",
+          "meaning": "God (plural of majesty); also gods"
+        },
+        {
+          "word": "enemy",
+          "strongNumber": "H341",
+          "lemma": "ʾôyēb",
+          "meaning": "Enemy, foe"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And Amaziah said to the man of God, But what shall we do for the hundred talents which I have given to the army of Israel? And the man of God answered, The LORD is able to give thee much more than this.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yiśrā'ēl",
+          "meaning": "Israel, the people and nation"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Then Amaziah separated them, to wit, the army that was come to him out of Ephraim, to go home again: wherefore their anger was greatly kindled against Judah, and they returned home in great anger.",
+      "highlightedWords": [
+        {
+          "word": "Ephraim",
+          "strongNumber": "H669",
+          "lemma": "Ephrayim",
+          "meaning": "Ephraim, a son of Joseph; the tribe/region"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehûdâh",
+          "meaning": "Judah, the southern kingdom; also the tribe"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And Amaziah strengthened himself, and led forth his people, and went to the valley of salt, and smote of the children of Seir ten thousand.",
+      "highlightedWords": [
+        {
+          "word": "valley",
+          "strongNumber": "H1516",
+          "lemma": "gêʾ / gayʾ",
+          "meaning": "Valley, ravine"
+        },
+        {
+          "word": "Seir",
+          "strongNumber": "H8165",
+          "lemma": "Seʿı̂r",
+          "meaning": "Seir, the hill country of Edom"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And other ten thousand left alive did the children of Judah carry away captive, and brought them unto the top of the rock, and cast them down from the top of the rock, that they all were broken in pieces.",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "bên",
+          "meaning": "Son; children (descendants)"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehûdâh",
+          "meaning": "Judah, the southern kingdom; also the tribe"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "But the soldiers of the army which Amaziah sent back, that they should not go with him to battle, fell upon the cities of Judah, from Samaria even unto Beth-horon, and smote three thousand of them, and took much spoil.",
+      "highlightedWords": [
+        {
+          "word": "Samaria",
+          "strongNumber": "H8111",
+          "lemma": "Shome rôn / Shomrôn",
+          "meaning": "Samaria, capital of the northern kingdom"
+        },
+        {
+          "word": "Beth-horon",
+          "strongNumber": "H1032",
+          "lemma": "Bêyth Hôrôn",
+          "meaning": "Beth-horon, a town in Ephraim/Benjamin"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Now it came to pass, after that Amaziah was come from the slaughter of the Edomites, that he brought the gods of the children of Seir, and set them up to be his gods, and bowed down himself before them, and burned incense unto them.",
+      "highlightedWords": [
+        {
+          "word": "gods",
+          "strongNumber": "H430",
+          "lemma": "ʾElōhı̂m",
+          "meaning": "God; gods (false deities)"
+        },
+        {
+          "word": "Seir",
+          "strongNumber": "H8165",
+          "lemma": "Seʿı̂r",
+          "meaning": "Seir, the hill country of Edom"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Wherefore the anger of the LORD was kindled against Amaziah, and he sent unto him a prophet, which said unto him, Why hast thou sought after the gods of the people, which could not deliver their own people out of thine hand?",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The personal name of the God of Israel"
+        },
+        {
+          "word": "prophet",
+          "strongNumber": "H5030",
+          "lemma": "nābı̂ʾ",
+          "meaning": "Prophet, spokesman"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And it came to pass, as he talked with him, that the king said unto him, Art thou made of the king's counsel? forbear; why shouldest thou be smitten? Then the prophet forbare, and said, I know that God hath determined to destroy thee, because thou hast done this, and hast not hearkened unto my counsel.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "ʾElōhı̂m",
+          "meaning": "God (plural of majesty); also gods"
+        },
+        {
+          "word": "destroy",
+          "strongNumber": "H7843",
+          "lemma": "shâchath",
+          "meaning": "To ruin, destroy, corrupt"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Then Amaziah king of Judah took advice, and sent to Joash, the son of Jehoahaz the son of Jehu, king of Israel, saying, Come, let us see one another in the face.",
+      "highlightedWords": [
+        {
+          "word": "Amaziah",
+          "strongNumber": "H558",
+          "lemma": "Amazyâh / Amazyâhû",
+          "meaning": "Yah is mighty; king of Judah"
+        },
+        {
+          "word": "Joash",
+          "strongNumber": "H3101",
+          "lemma": "Yôʾāsh",
+          "meaning": "Joash, a king of Israel or Judah"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And Joash king of Israel sent to Amaziah king of Judah, saying, The thistle that was in Lebanon sent to the cedar that was in Lebanon, saying, Give thy daughter to my son to wife: and there passed by a wild beast that was in Lebanon, and trode down the thistle.",
+      "highlightedWords": [
+        {
+          "word": "cedar",
+          "strongNumber": "H730",
+          "lemma": "ʾerez",
+          "meaning": "Cedar tree"
+        },
+        {
+          "word": "Lebanon",
+          "strongNumber": "H3844",
+          "lemma": "Levânôn",
+          "meaning": "Lebanon, the white mountain range"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Thou sayest, Lo, thou hast smitten the Edomites; and thine heart lifteth thee up to boast: abide now at home; why shouldest thou meddle to thy hurt, that thou shouldest fall, even thou, and Judah with thee?",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3824",
+          "lemma": "lebāb",
+          "meaning": "Heart, mind, inner being"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehûdâh",
+          "meaning": "Judah, the southern kingdom; also the tribe"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "But Amaziah would not hear; for it came of God, that he might deliver them into the hand of their enemies, because they sought after the gods of Edom.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "ʾElōhı̂m",
+          "meaning": "God (plural of majesty); also gods"
+        },
+        {
+          "word": "Edom",
+          "strongNumber": "H123",
+          "lemma": "ʾEdôm",
+          "meaning": "Edom, Esau; the nation descending from Esau"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "So Joash the king of Israel went up; and they saw one another in the face, both he and Amaziah king of Judah, at Beth-shemesh, which belongeth to Judah.",
+      "highlightedWords": [
+        {
+          "word": "Beth-shemesh",
+          "strongNumber": "H1053",
+          "lemma": "Bêyth-Shemesh",
+          "meaning": "Beth-shemesh, town in Judah; house of the sun"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehûdâh",
+          "meaning": "Judah, the southern kingdom; also the tribe"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And Judah was put to the worse before Israel, and they fled every man to his tent.",
+      "highlightedWords": [
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehûdâh",
+          "meaning": "Judah, the southern kingdom; also the tribe"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yiśrā'ēl",
+          "meaning": "Israel, the people and nation"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And Joash the king of Israel took Amaziah king of Judah, the son of Joash, the son of Jehoahaz, at Beth-shemesh, and brought him to Jerusalem, and brake down the wall of Jerusalem from the gate of Ephraim to the corner gate, four hundred cubits.",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerûshālayim",
+          "meaning": "Jerusalem, the chief city of Judah"
+        },
+        {
+          "word": "cubits",
+          "strongNumber": "H520",
+          "lemma": "ʾammâh",
+          "meaning": "Cubit (approximately 18 inches/45 cm)"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And he took all the gold and the silver, and all the vessels that were found in the house of God with Obed-edom, and the treasures of the king's house, the hostages also, and returned to Samaria.",
+      "highlightedWords": [
+        {
+          "word": "Obed-edom",
+          "strongNumber": "H5654",
+          "lemma": "ʿÔbêd-ʾEdôm",
+          "meaning": "Obed-edom, a Levitical gatekeeper"
+        },
+        {
+          "word": "Samaria",
+          "strongNumber": "H8111",
+          "lemma": "Shome rôn / Shomrôn",
+          "meaning": "Samaria, capital of the northern kingdom"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And Amaziah the son of Joash king of Judah lived after the death of Joash son of Jehoahaz king of Israel fifteen years.",
+      "highlightedWords": [
+        {
+          "word": "Amaziah",
+          "strongNumber": "H558",
+          "lemma": "Amazyâh / Amazyâhû",
+          "meaning": "Yah is mighty; king of Judah"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yiśrā'ēl",
+          "meaning": "Israel, the people and nation"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "Now the rest of the acts of Amaziah, first and last, behold, are they not written in the book of the kings of Judah and Israel?",
+      "highlightedWords": [
+        {
+          "word": "Amaziah",
+          "strongNumber": "H558",
+          "lemma": "Amazyâh / Amazyâhû",
+          "meaning": "Yah is mighty; king of Judah"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yiśrā'ēl",
+          "meaning": "Israel, the people and nation"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "Now after the time that Amaziah did turn away from following the LORD they made a conspiracy against him in Jerusalem; and he fled to Lachish: but they sent to Lachish after him, and slew him there.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The personal name of the God of Israel"
+        },
+        {
+          "word": "Lachish",
+          "strongNumber": "H3923",
+          "lemma": "Lâkı̂ysh",
+          "meaning": "Lachish, a fortified city of Judah"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And they brought him upon horses, and buried him with his fathers in the city of Judah.",
+      "highlightedWords": [
+        {
+          "word": "horses",
+          "strongNumber": "H5483",
+          "lemma": "sûs",
+          "meaning": "Horse"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehûdâh",
+          "meaning": "Judah, the southern kingdom; also the tribe"
+        }
+      ]
+    }
+  ]
+}

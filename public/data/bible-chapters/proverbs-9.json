@@ -1,0 +1,348 @@
+{
+  "book": "Proverbs",
+  "chapter": 9,
+  "chapterTheme": {
+    "twoWordSummary": "Wisdom Folly",
+    "themeWords": [
+      {
+        "word": "Wisdom",
+        "strongNumber": "H2451",
+        "lemma": "chokmâ",
+        "meaning": "skill, wisdom, practical insight"
+      },
+      {
+        "word": "Folly",
+        "strongNumber": "H200",
+        "lemma": "ivveleth",
+        "meaning": "foolishness, senselessness"
+      }
+    ]
+  },
+  "sentenceTheme": "Wisdom invites the simple to life and understanding, while Folly lures the naive to secrecy and death.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Wisdom hath builded her house, she hath hewn out her seven pillars:",
+      "highlightedWords": [
+        {
+          "word": "Wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmâ",
+          "meaning": "wisdom, skill, practical insight"
+        },
+        {
+          "word": "pillars",
+          "strongNumber": "H5982",
+          "lemma": "ammûd",
+          "meaning": "pillar, column, support"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "She hath killed her beasts; she hath mingled her wine; she hath also furnished her table.",
+      "highlightedWords": [
+        {
+          "word": "wine",
+          "strongNumber": "H3196",
+          "lemma": "yayin",
+          "meaning": "wine, fermented drink"
+        },
+        {
+          "word": "table",
+          "strongNumber": "H7979",
+          "lemma": "shulchân",
+          "meaning": "table, meal setting"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "She hath sent forth her maidens: she crieth upon the highest places of the city,",
+      "highlightedWords": [
+        {
+          "word": "crieth",
+          "strongNumber": "H7121",
+          "lemma": "qārāʾ",
+          "meaning": "to call out, proclaim"
+        },
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "ʿîr",
+          "meaning": "city, town"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Whoso is simple, let him turn in hither: as for him that wanteth understanding, she saith to him,",
+      "highlightedWords": [
+        {
+          "word": "simple",
+          "strongNumber": "H6612",
+          "lemma": "pethî",
+          "meaning": "naive, inexperienced, simple"
+        },
+        {
+          "word": "saith",
+          "strongNumber": "H559",
+          "lemma": "ʾāmar",
+          "meaning": "to say, speak"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Come, eat of my bread, and drink of the wine which I have mingled.",
+      "highlightedWords": [
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread, food"
+        },
+        {
+          "word": "wine",
+          "strongNumber": "H3196",
+          "lemma": "yayin",
+          "meaning": "wine, fermented drink"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Forsake the foolish, and live; and go in the way of understanding.",
+      "highlightedWords": [
+        {
+          "word": "Forsake",
+          "strongNumber": "H5800",
+          "lemma": "ʿāzab",
+          "meaning": "to leave, abandon, forsake"
+        },
+        {
+          "word": "understanding",
+          "strongNumber": "H998",
+          "lemma": "bînâ",
+          "meaning": "understanding, insight, discernment"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "He that reproveth a scorner getteth to himself shame: and he that rebuketh a wicked man getteth himself a blot.",
+      "highlightedWords": [
+        {
+          "word": "scorner",
+          "strongNumber": "H3887",
+          "lemma": "lûts",
+          "meaning": "mocker, scoffer"
+        },
+        {
+          "word": "rebuketh",
+          "strongNumber": "H3198",
+          "lemma": "yākach",
+          "meaning": "to reprove, correct, rebuke"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Reprove not a scorner, lest he hate thee: rebuke a wise man, and he will love thee.",
+      "highlightedWords": [
+        {
+          "word": "wise",
+          "strongNumber": "H2450",
+          "lemma": "chākām",
+          "meaning": "wise, skillful, learned"
+        },
+        {
+          "word": "love",
+          "strongNumber": "H157",
+          "lemma": "ʾāhab",
+          "meaning": "to love, have affection for"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Give instruction to a wise man, and he will be yet wiser: teach a just man, and he will increase in learning.",
+      "highlightedWords": [
+        {
+          "word": "just",
+          "strongNumber": "H6662",
+          "lemma": "tsaddîq",
+          "meaning": "righteous, just"
+        },
+        {
+          "word": "learning",
+          "strongNumber": "H3948",
+          "lemma": "leqach",
+          "meaning": "learning, instruction, teaching"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "The fear of the LORD is the beginning of wisdom: and the knowledge of the holy is understanding.",
+      "highlightedWords": [
+        {
+          "word": "fear",
+          "strongNumber": "H3374",
+          "lemma": "yirʾâ",
+          "meaning": "fear, reverence, awe"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "For by me thy days shall be multiplied, and the years of thy life shall be increased.",
+      "highlightedWords": [
+        {
+          "word": "days",
+          "strongNumber": "H3117",
+          "lemma": "yôm",
+          "meaning": "day, time, lifetime"
+        },
+        {
+          "word": "multiplied",
+          "strongNumber": "H7235",
+          "lemma": "rābâ",
+          "meaning": "to become many, multiply, increase"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "If thou be wise, thou shalt be wise for thyself: but if thou scornest, thou alone shalt bear it.",
+      "highlightedWords": [
+        {
+          "word": "wise",
+          "strongNumber": "H2450",
+          "lemma": "chākām",
+          "meaning": "wise, skillful, learned"
+        },
+        {
+          "word": "scornest",
+          "strongNumber": "H3887",
+          "lemma": "lûts",
+          "meaning": "to scorn, mock"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "A foolish woman is clamorous: she is simple, and knoweth nothing.",
+      "highlightedWords": [
+        {
+          "word": "woman",
+          "strongNumber": "H802",
+          "lemma": "ʾishshâ",
+          "meaning": "woman, wife, female"
+        },
+        {
+          "word": "simple",
+          "strongNumber": "H6612",
+          "lemma": "pethî",
+          "meaning": "naive, inexperienced, simple"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "For she sitteth at the door of her house, on a seat in the high places of the city,",
+      "highlightedWords": [
+        {
+          "word": "door",
+          "strongNumber": "H6607",
+          "lemma": "pethaḥ",
+          "meaning": "doorway, entrance, opening"
+        },
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "ʿîr",
+          "meaning": "city, town"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "To call passengers who go right on their ways:",
+      "highlightedWords": [
+        {
+          "word": "call",
+          "strongNumber": "H7121",
+          "lemma": "qārāʾ",
+          "meaning": "to call, summon, invite"
+        },
+        {
+          "word": "passengers",
+          "strongNumber": "H5674",
+          "lemma": "ʿābar",
+          "meaning": "passersby; those who pass over"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Whoso is simple, let him turn in hither: and as for him that wanteth understanding, she saith to him,",
+      "highlightedWords": [
+        {
+          "word": "simple",
+          "strongNumber": "H6612",
+          "lemma": "pethî",
+          "meaning": "naive, inexperienced, simple"
+        },
+        {
+          "word": "saith",
+          "strongNumber": "H559",
+          "lemma": "ʾāmar",
+          "meaning": "to say, speak"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Stolen waters are sweet, and bread eaten in secret is pleasant.",
+      "highlightedWords": [
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters, water"
+        },
+        {
+          "word": "secret",
+          "strongNumber": "H5643",
+          "lemma": "sether",
+          "meaning": "hiding place, secrecy"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "But he knoweth not that the dead are there; and that her guests are in the depths of hell.",
+      "highlightedWords": [
+        {
+          "word": "dead",
+          "strongNumber": "H7496",
+          "lemma": "rephāʾîm",
+          "meaning": "shades, departed spirits, the dead"
+        },
+        {
+          "word": "hell",
+          "strongNumber": "H7585",
+          "lemma": "sheʾôl",
+          "meaning": "Sheol, the grave, the underworld"
+        }
+      ]
+    }
+  ]
+}

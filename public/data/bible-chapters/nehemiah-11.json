@@ -1,0 +1,672 @@
+{
+  "book": "Nehemiah",
+  "chapter": 11,
+  "chapterTheme": {
+    "twoWordSummary": "Jerusalem repopulation",
+    "themeWords": [
+      {
+        "word": "Jerusalem",
+        "strongNumber": "H3389",
+        "lemma": "Yerushalayim",
+        "meaning": "foundation/possession of peace; the city of Jerusalem"
+      },
+      {
+        "word": "Levites",
+        "strongNumber": "H3881",
+        "lemma": "Leviy",
+        "meaning": "member of the tribe of Levi; Levitical temple servant"
+      }
+    ]
+  },
+  "sentenceTheme": "Leaders and a tithe of the people repopulate Jerusalem, listing priests, Levites, gatekeepers, singers, and the towns occupied by Judah and Benjamin.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And the rulers of the people dwelt at Jerusalem: the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem the holy city, and nine parts to dwell in other cities.",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "foundation/possession of peace; the city of Jerusalem"
+        },
+        {
+          "word": "lots",
+          "strongNumber": "H1486",
+          "lemma": "goral",
+          "meaning": "lot, portion, allotment"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And the people blessed all the men, that willingly offered themselves to dwell at Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "blessed",
+          "strongNumber": "H1288",
+          "lemma": "barak",
+          "meaning": "to bless, praise"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "foundation/possession of peace; the city of Jerusalem"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Now these are the chief of the province that dwelt in Jerusalem: but in the cities of Judah dwelt every one in his possession in their cities, to wit, Israel, the priests, and the Levites, and the Nethinims, and the children of Solomon's servants.",
+      "highlightedWords": [
+        {
+          "word": "province",
+          "strongNumber": "H4082",
+          "lemma": "medinah",
+          "meaning": "province, district"
+        },
+        {
+          "word": "Levites",
+          "strongNumber": "H3881",
+          "lemma": "Leviy",
+          "meaning": "member of the tribe of Levi; Levitical temple servant"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And at Jerusalem dwelt certain of the children of Judah, and of the children of Benjamin. Of the children of Judah; Athaiah the son of Uzziah, the son of Zechariah, the son of Amariah, the son of Shephatiah, the son of Mahalaleel, of the children of Perez;",
+      "highlightedWords": [
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah; praised"
+        },
+        {
+          "word": "Benjamin",
+          "strongNumber": "H1144",
+          "lemma": "Binyamin",
+          "meaning": "Benjamin; son of the right hand"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And Maaseiah the son of Baruch, the son of Col-hozeh, the son of Hazaiah, the son of Adaiah, the son of Joiarib, the son of Zechariah, the son of Shiloni.",
+      "highlightedWords": [
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, descendant"
+        },
+        {
+          "word": "Zechariah",
+          "strongNumber": "H2148",
+          "lemma": "Zekaryah",
+          "meaning": "Yahweh has remembered"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "All the sons of Perez that dwelt at Jerusalem were four hundred threescore and eight valiant men.",
+      "highlightedWords": [
+        {
+          "word": "Perez",
+          "strongNumber": "H6557",
+          "lemma": "Perets",
+          "meaning": "breach, bursting forth"
+        },
+        {
+          "word": "valiant",
+          "strongNumber": "H2428",
+          "lemma": "chayil",
+          "meaning": "strength, valor, might"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And these are the sons of Benjamin; Sallu the son of Meshullam, the son of Joed, the son of Pedaiah, the son of Kolaiah, the son of Maaseiah, the son of Ithiel, the son of Jesaiah.",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "sons, descendants"
+        },
+        {
+          "word": "Benjamin",
+          "strongNumber": "H1144",
+          "lemma": "Binyamin",
+          "meaning": "Benjamin; son of the right hand"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And after him Gabbai, Sallai, nine hundred twenty and eight.",
+      "highlightedWords": [
+        {
+          "word": "nine",
+          "strongNumber": "H8672",
+          "lemma": "tesha'",
+          "meaning": "nine"
+        },
+        {
+          "word": "hundred",
+          "strongNumber": "H3967",
+          "lemma": "me'ah",
+          "meaning": "hundred"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And Joel the son of Zichri was their overseer: and Judah the son of Senuah was second over the city.",
+      "highlightedWords": [
+        {
+          "word": "overseer",
+          "strongNumber": "H6496",
+          "lemma": "paqiyd",
+          "meaning": "overseer, officer, superintendent"
+        },
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "'ir",
+          "meaning": "city, town"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Of the priests: Jedaiah the son of Joiarib, Jachin.",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest"
+        },
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, descendant"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Seraiah the son of Hilkiah, the son of Meshullam, the son of Zadok, the son of Meraioth, the son of Ahitub, was the ruler of the house of God.",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, temple"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And their brethren that did the work of the house were eight hundred twenty and two: and Adaiah the son of Jeroham, the son of Pelaliah, the son of Amzi, the son of Zechariah, the son of Pashur, the son of Malchiah,",
+      "highlightedWords": [
+        {
+          "word": "brethren",
+          "strongNumber": "H251",
+          "lemma": "ach",
+          "meaning": "brothers, kinsmen"
+        },
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, temple"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And his brethren, chief of the fathers, two hundred forty and two: and Amashai the son of Azareel, the son of Ahasai, the son of Meshillemoth, the son of Immer,",
+      "highlightedWords": [
+        {
+          "word": "chief",
+          "strongNumber": "H7218",
+          "lemma": "ro'sh",
+          "meaning": "head, chief, leader"
+        },
+        {
+          "word": "fathers",
+          "strongNumber": "H1",
+          "lemma": "ʼab",
+          "meaning": "fathers, ancestors"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And their brethren, mighty men of valour, an hundred twenty and eight: and their overseer was Zabdiel, the son of one of the great men.",
+      "highlightedWords": [
+        {
+          "word": "mighty",
+          "strongNumber": "H1368",
+          "lemma": "gibbor",
+          "meaning": "mighty, strong, warrior"
+        },
+        {
+          "word": "valour",
+          "strongNumber": "H2428",
+          "lemma": "chayil",
+          "meaning": "valor, strength, capability"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Also of the Levites: Shemaiah the son of Hashub, the son of Azrikam, the son of Hashabiah, the son of Bunni;",
+      "highlightedWords": [
+        {
+          "word": "Levites",
+          "strongNumber": "H3881",
+          "lemma": "Leviy",
+          "meaning": "member of the tribe of Levi; Levitical temple servant"
+        },
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, descendant"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And Shabbethai and Jozabad, of the chief of the Levites, had the oversight of the outward business of the house of God.",
+      "highlightedWords": [
+        {
+          "word": "oversight",
+          "strongNumber": "H6486",
+          "lemma": "pequddah",
+          "meaning": "oversight, supervision, charge"
+        },
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, temple"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And Mattaniah the son of Micha, the son of Zabdi, the son of Asaph, was the principal to begin the thanksgiving in prayer: and Bakbukiah the second among his brethren, and Abda the son of Shammua, the son of Galal, the son of Jeduthun.",
+      "highlightedWords": [
+        {
+          "word": "thanksgiving",
+          "strongNumber": "H8426",
+          "lemma": "todah",
+          "meaning": "thanksgiving, praise"
+        },
+        {
+          "word": "prayer",
+          "strongNumber": "H8605",
+          "lemma": "tephillah",
+          "meaning": "prayer"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "All the Levites in the holy city were two hundred fourscore and four.",
+      "highlightedWords": [
+        {
+          "word": "Levites",
+          "strongNumber": "H3881",
+          "lemma": "Leviy",
+          "meaning": "member of the tribe of Levi; Levitical temple servant"
+        },
+        {
+          "word": "holy",
+          "strongNumber": "H6944",
+          "lemma": "qodesh",
+          "meaning": "holy, sacred"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Moreover the porters, Akkub, Talmon, and their brethren that kept the gates, were an hundred seventy and two.",
+      "highlightedWords": [
+        {
+          "word": "porters",
+          "strongNumber": "H7778",
+          "lemma": "sho'er",
+          "meaning": "gatekeepers, doorkeepers"
+        },
+        {
+          "word": "gates",
+          "strongNumber": "H8179",
+          "lemma": "sha'ar",
+          "meaning": "gate, entrance"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And the residue of Israel, of the priests, and the Levites, were in all the cities of Judah, every one in his inheritance.",
+      "highlightedWords": [
+        {
+          "word": "residue",
+          "strongNumber": "H7611",
+          "lemma": "she'erith",
+          "meaning": "remnant, remainder"
+        },
+        {
+          "word": "inheritance",
+          "strongNumber": "H5159",
+          "lemma": "nachalah",
+          "meaning": "inheritance, heritage, possession"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "But the Nethinims dwelt in Ophel: and Ziha and Gispa were over the Nethinims.",
+      "highlightedWords": [
+        {
+          "word": "Nethinims",
+          "strongNumber": "H5411",
+          "lemma": "Nethinim",
+          "meaning": "temple servants given for service"
+        },
+        {
+          "word": "Ophel",
+          "strongNumber": "H6077",
+          "lemma": "'Ophel",
+          "meaning": "mound, fortified hill in Jerusalem"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "The overseer also of the Levites at Jerusalem was Uzzi the son of Bani, the son of Hashabiah, the son of Mattaniah, the son of Micha. Of the sons of Asaph, the singers were over the business of the house of God.",
+      "highlightedWords": [
+        {
+          "word": "overseer",
+          "strongNumber": "H6496",
+          "lemma": "paqiyd",
+          "meaning": "overseer, officer, superintendent"
+        },
+        {
+          "word": "singers",
+          "strongNumber": "H7891",
+          "lemma": "shiyr",
+          "meaning": "singers; to sing"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "For it was the king's commandment concerning them, that a certain portion should be for the singers, due for every day.",
+      "highlightedWords": [
+        {
+          "word": "king's",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, sovereign"
+        },
+        {
+          "word": "commandment",
+          "strongNumber": "H4687",
+          "lemma": "mitsvah",
+          "meaning": "command, commandment"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And Pethahiah the son of Meshezabeel, of the children of Zerah the son of Judah, was at the king's hand in all matters concerning the people.",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power, authority"
+        },
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "'am",
+          "meaning": "people, nation"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And for the villages, with their fields, some of the children of Judah dwelt at Kirjath-arba, and in the villages thereof, and at Dibon, and in the villages thereof, and at Jekabzeel, and in the villages thereof,",
+      "highlightedWords": [
+        {
+          "word": "villages",
+          "strongNumber": "H2691",
+          "lemma": "chatser",
+          "meaning": "settlement, village, enclosure"
+        },
+        {
+          "word": "fields",
+          "strongNumber": "H7704",
+          "lemma": "sadeh",
+          "meaning": "field, open country"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And at Jeshua, and at Moladah, and at Beth-phelet,",
+      "highlightedWords": [
+        {
+          "word": "Jeshua",
+          "strongNumber": "H3442",
+          "lemma": "Yeshua",
+          "meaning": "Yahweh is salvation"
+        },
+        {
+          "word": "Moladah",
+          "strongNumber": "H4137",
+          "lemma": "Moladah",
+          "meaning": "birth, nativity (a town of Judah/Negeb)"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And at Hazar-shual, and at Beer-sheba, and in the villages thereof,",
+      "highlightedWords": [
+        {
+          "word": "Hazar-shual",
+          "strongNumber": "H2705",
+          "lemma": "Chatsar-shu'al",
+          "meaning": "village/enclosure of the fox(es)"
+        },
+        {
+          "word": "Beer-sheba",
+          "strongNumber": "H884",
+          "lemma": "Be'er Sheva'",
+          "meaning": "well of the oath/seven"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And at Ziklag, and at Mekonah, and in the villages thereof,",
+      "highlightedWords": [
+        {
+          "word": "Ziklag",
+          "strongNumber": "H6860",
+          "lemma": "Tsiqlag",
+          "meaning": "Ziklag; possibly winding"
+        },
+        {
+          "word": "villages",
+          "strongNumber": "H2691",
+          "lemma": "chatser",
+          "meaning": "settlement, village, enclosure"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "And at En-rimmon, and at Zareah, and at Jarmuth,",
+      "highlightedWords": [
+        {
+          "word": "En-rimmon",
+          "strongNumber": "H5888",
+          "lemma": "'En-Rimmon",
+          "meaning": "spring of Rimmon/pomegranate"
+        },
+        {
+          "word": "Jarmuth",
+          "strongNumber": "H3412",
+          "lemma": "Yarmuth",
+          "meaning": "height"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "Zanoah, Adullam, and in their villages, at Lachish, and the fields thereof, at Azekah, and in the villages thereof. And they dwelt from Beer-sheba unto the valley of Hinnom.",
+      "highlightedWords": [
+        {
+          "word": "fields",
+          "strongNumber": "H7704",
+          "lemma": "sadeh",
+          "meaning": "field, open country"
+        },
+        {
+          "word": "Hinnom",
+          "strongNumber": "H2011",
+          "lemma": "Hinnom",
+          "meaning": "Hinnom; a valley by Jerusalem"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "The children also of Benjamin from Geba dwelt at Michmash, and Aija, and Beth-el, and in their villages,",
+      "highlightedWords": [
+        {
+          "word": "Benjamin",
+          "strongNumber": "H1144",
+          "lemma": "Binyamin",
+          "meaning": "Benjamin; son of the right hand"
+        },
+        {
+          "word": "Beth-el",
+          "strongNumber": "H1008",
+          "lemma": "Beth-'El",
+          "meaning": "house of God"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "And at Anathoth, Nob, Ananiah,",
+      "highlightedWords": [
+        {
+          "word": "Anathoth",
+          "strongNumber": "H6068",
+          "lemma": "'Anathoth",
+          "meaning": "Anathoth; a town of Benjamin"
+        },
+        {
+          "word": "Nob",
+          "strongNumber": "H5011",
+          "lemma": "Nob",
+          "meaning": "Nob; a priestly town"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "Hazor, Ramah, Gittaim,",
+      "highlightedWords": [
+        {
+          "word": "Ramah",
+          "strongNumber": "H7414",
+          "lemma": "Ramah",
+          "meaning": "height"
+        },
+        {
+          "word": "Gittaim",
+          "strongNumber": "H1664",
+          "lemma": "Gittayim",
+          "meaning": "two winepresses"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "Hadid, Zeboim, Neballat,",
+      "highlightedWords": [
+        {
+          "word": "Hadid",
+          "strongNumber": "H2303",
+          "lemma": "Chadid",
+          "meaning": "Hadid; sharp, pointed"
+        },
+        {
+          "word": "Zeboim",
+          "strongNumber": "H6650",
+          "lemma": "Tsebo'im",
+          "meaning": "gazelles; name of a place/valley"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "Lod, and Ono, the valley of craftsmen.",
+      "highlightedWords": [
+        {
+          "word": "valley",
+          "strongNumber": "H1516",
+          "lemma": "ge",
+          "meaning": "valley, ravine"
+        },
+        {
+          "word": "craftsmen",
+          "strongNumber": "H2796",
+          "lemma": "charash",
+          "meaning": "craftsman, artisan, engraver"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "And of the Levites were divisions in Judah, and in Benjamin.",
+      "highlightedWords": [
+        {
+          "word": "Levites",
+          "strongNumber": "H3881",
+          "lemma": "Leviy",
+          "meaning": "member of the tribe of Levi; Levitical temple servant"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah; praised"
+        }
+      ]
+    }
+  ]
+}

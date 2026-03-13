@@ -1,0 +1,618 @@
+{
+  "book": "Isaiah",
+  "chapter": 30,
+  "chapterTheme": {
+    "twoWordSummary": "Misplaced Trust",
+    "themeWords": [
+      {
+        "word": "Egypt",
+        "strongNumber": "H4714",
+        "lemma": "Mitsrayim",
+        "meaning": "Egypt; the land and its people"
+      },
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH (Yahweh)",
+        "meaning": "The personal name of Israel’s God"
+      }
+    ]
+  },
+  "sentenceTheme": "Judah’s reliance on Egypt brings shame and judgment, but returning and trusting in the LORD will bring gracious restoration and deliverance.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Woe to the rebellious children, saith the LORD, that take counsel, but not of me; and that cover with a covering, but not of my spirit, that they may add sin to sin:",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yahweh)",
+          "meaning": "The personal name of Israel’s God"
+        },
+        {
+          "word": "spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "breath, wind, spirit"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "That walk to go down into Egypt, and have not asked at my mouth; to strengthen themselves in the strength of Pharaoh, and to trust in the shadow of Egypt!",
+      "highlightedWords": [
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt; the land and its people"
+        },
+        {
+          "word": "Pharaoh",
+          "strongNumber": "H6547",
+          "lemma": "Parʿoh",
+          "meaning": "Pharaoh, title of Egyptian kings"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Therefore shall the strength of Pharaoh be your shame, and the trust in the shadow of Egypt your confusion.",
+      "highlightedWords": [
+        {
+          "word": "Pharaoh",
+          "strongNumber": "H6547",
+          "lemma": "Parʿoh",
+          "meaning": "Pharaoh, title of Egyptian kings"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt; the land and its people"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "For his princes were at Zoan, and his ambassadors came to Hanes.",
+      "highlightedWords": [
+        {
+          "word": "Zoan",
+          "strongNumber": "H6814",
+          "lemma": "Tsoʿan",
+          "meaning": "Zoan, an ancient city in Egypt (Tanis)"
+        },
+        {
+          "word": "Hanes",
+          "strongNumber": "H2609",
+          "lemma": "Ḥanēs",
+          "meaning": "Hanes, a city in Egypt"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "They were all ashamed of a people that could not profit them, nor be an help nor profit, but a shame, and also a reproach.",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "ʿam",
+          "meaning": "people, nation"
+        },
+        {
+          "word": "help",
+          "strongNumber": "H5828",
+          "lemma": "ʿezer",
+          "meaning": "help, assistance"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "The burden of the beasts of the south: into the land of trouble and anguish, from whence come the young and old lion, the viper and fiery flying serpent, they will carry their riches upon the shoulders of young asses, and their treasures upon the bunches of camels, to a people that shall not profit them.",
+      "highlightedWords": [
+        {
+          "word": "beasts",
+          "strongNumber": "H929",
+          "lemma": "behemah",
+          "meaning": "beast, animal, cattle"
+        },
+        {
+          "word": "camels",
+          "strongNumber": "H1581",
+          "lemma": "gamal",
+          "meaning": "camel"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "For the Egyptians shall help in vain, and to no purpose: therefore have I cried concerning this, Their strength is to sit still.",
+      "highlightedWords": [
+        {
+          "word": "Egyptians",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egyptians; people of Egypt"
+        },
+        {
+          "word": "help",
+          "strongNumber": "H5826",
+          "lemma": "ʿazar",
+          "meaning": "to help, support, succor"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Now go, write it before them in a table, and note it in a book, that it may be for the time to come for ever and ever:",
+      "highlightedWords": [
+        {
+          "word": "write",
+          "strongNumber": "H3789",
+          "lemma": "kathav",
+          "meaning": "to write, record"
+        },
+        {
+          "word": "book",
+          "strongNumber": "H5612",
+          "lemma": "sepher",
+          "meaning": "book, scroll, document"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "That this is a rebellious people, lying children, children that will not hear the law of the LORD:",
+      "highlightedWords": [
+        {
+          "word": "law",
+          "strongNumber": "H8451",
+          "lemma": "torah",
+          "meaning": "instruction, law, teaching"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yahweh)",
+          "meaning": "The personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Which say to the seers, See not; and to the prophets, Prophesy not unto us right things, speak unto us smooth things, prophesy deceits:",
+      "highlightedWords": [
+        {
+          "word": "seers",
+          "strongNumber": "H7203",
+          "lemma": "roʾeh",
+          "meaning": "seer, one who sees (visionary)"
+        },
+        {
+          "word": "prophets",
+          "strongNumber": "H5030",
+          "lemma": "naviʾ",
+          "meaning": "prophet, spokesperson for God"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Get you out of the way, turn aside out of the path, cause the Holy One of Israel to cease from before us.",
+      "highlightedWords": [
+        {
+          "word": "Holy One",
+          "strongNumber": "H6918",
+          "lemma": "qadosh",
+          "meaning": "holy, set apart; the Holy One"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisraʾel",
+          "meaning": "Israel; the people or land"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Wherefore thus saith the Holy One of Israel, Because ye despise this word, and trust in oppression and perverseness, and stay thereon:",
+      "highlightedWords": [
+        {
+          "word": "Holy One",
+          "strongNumber": "H6918",
+          "lemma": "qadosh",
+          "meaning": "holy, set apart; the Holy One"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisraʾel",
+          "meaning": "Israel; the people or land"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Therefore this iniquity shall be to you as a breach ready to fall, swelling out in a high wall, whose breaking cometh suddenly at an instant.",
+      "highlightedWords": [
+        {
+          "word": "breach",
+          "strongNumber": "H6556",
+          "lemma": "perets",
+          "meaning": "breach, gap, rupture"
+        },
+        {
+          "word": "wall",
+          "strongNumber": "H2346",
+          "lemma": "chomah",
+          "meaning": "wall, fortification"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And he shall break it as the breaking of the potters' vessel that is broken in pieces; he shall not spare: so that there shall not be found in the bursting of it a sherd to take fire from the hearth, or to take water withal out of the pit.",
+      "highlightedWords": [
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "ʾesh",
+          "meaning": "fire"
+        },
+        {
+          "word": "water",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "water"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "For thus saith the Lord GOD, the Holy One of Israel; In returning and rest shall ye be saved; in quietness and in confidence shall be your strength: and ye would not.",
+      "highlightedWords": [
+        {
+          "word": "Holy One",
+          "strongNumber": "H6918",
+          "lemma": "qadosh",
+          "meaning": "holy, set apart; the Holy One"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisraʾel",
+          "meaning": "Israel; the people or land"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "But ye said, No; for we will flee upon horses; therefore shall ye flee: and, We will ride upon the swift; therefore shall they that pursue you be swift.",
+      "highlightedWords": [
+        {
+          "word": "horses",
+          "strongNumber": "H5483",
+          "lemma": "sus",
+          "meaning": "horse"
+        },
+        {
+          "word": "ride",
+          "strongNumber": "H7392",
+          "lemma": "rakav",
+          "meaning": "to ride, mount"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "One thousand shall flee at the rebuke of one; at the rebuke of five shall ye flee: till ye be left as a beacon upon the top of a mountain, and as an ensign on an hill.",
+      "highlightedWords": [
+        {
+          "word": "mountain",
+          "strongNumber": "H2022",
+          "lemma": "har",
+          "meaning": "mountain, hill country"
+        },
+        {
+          "word": "ensign",
+          "strongNumber": "H5251",
+          "lemma": "nes",
+          "meaning": "banner, standard, signal"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And therefore will the LORD wait, that he may be gracious unto you, and therefore will he be exalted, that he may have mercy upon you: for the LORD is a God of judgment: blessed are all they that wait for him.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yahweh)",
+          "meaning": "The personal name of Israel’s God"
+        },
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "justice, judgment, legal decision"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "For the people shall dwell in Zion at Jerusalem: thou shalt weep no more: he will be very gracious unto thee at the voice of thy cry; when he shall hear it, he will answer thee.",
+      "highlightedWords": [
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyyon",
+          "meaning": "Zion, Jerusalem"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And though the Lord give you the bread of adversity, and the water of affliction, yet shall not thy teachers be removed into a corner any more, but thine eyes shall see thy teachers:",
+      "highlightedWords": [
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread, food"
+        },
+        {
+          "word": "water",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "water"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And thine ears shall hear a word behind thee, saying, This is the way, walk ye in it, when ye turn to the right hand, and when ye turn to the left.",
+      "highlightedWords": [
+        {
+          "word": "way",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way, road, path"
+        },
+        {
+          "word": "walk",
+          "strongNumber": "H1980",
+          "lemma": "halak",
+          "meaning": "to go, walk"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Ye shall defile also the covering of thy graven images of silver, and the ornament of thy molten images of gold: thou shalt cast them away as a menstruous cloth; thou shalt say unto it, Get thee hence.",
+      "highlightedWords": [
+        {
+          "word": "graven images",
+          "strongNumber": "H6459",
+          "lemma": "pesel",
+          "meaning": "carved image, idol"
+        },
+        {
+          "word": "molten images",
+          "strongNumber": "H4541",
+          "lemma": "masekah",
+          "meaning": "molten image, cast idol"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Then shall he give the rain of thy seed, that thou shalt sow the ground withal; and bread of the increase of the earth, and it shall be fat and plenteous: in that day shall thy cattle feed in large pastures.",
+      "highlightedWords": [
+        {
+          "word": "rain",
+          "strongNumber": "H4306",
+          "lemma": "matar",
+          "meaning": "rain"
+        },
+        {
+          "word": "seed",
+          "strongNumber": "H2233",
+          "lemma": "zeraʿ",
+          "meaning": "seed, offspring"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "The oxen likewise and the young asses that ear the ground shall eat clean provender, which hath been winnowed with the shovel and with the fan.",
+      "highlightedWords": [
+        {
+          "word": "oxen",
+          "strongNumber": "H7794",
+          "lemma": "shor",
+          "meaning": "ox, bull"
+        },
+        {
+          "word": "asses",
+          "strongNumber": "H5895",
+          "lemma": "ʿayir",
+          "meaning": "young donkey, colt"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And there shall be upon every high mountain, and upon every high hill, rivers and streams of waters in the day of the great slaughter, when the towers fall.",
+      "highlightedWords": [
+        {
+          "word": "rivers",
+          "strongNumber": "H5104",
+          "lemma": "nahar",
+          "meaning": "river, stream"
+        },
+        {
+          "word": "streams",
+          "strongNumber": "H5158",
+          "lemma": "nachal",
+          "meaning": "torrent, wadi, stream"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "Moreover the light of the moon shall be as the light of the sun, and the light of the sun shall be sevenfold, as the light of seven days, in the day that the LORD bindeth up the breach of his people, and healeth the stroke of their wound.",
+      "highlightedWords": [
+        {
+          "word": "moon",
+          "strongNumber": "H3394",
+          "lemma": "yareach",
+          "meaning": "moon"
+        },
+        {
+          "word": "sun",
+          "strongNumber": "H8121",
+          "lemma": "shemesh",
+          "meaning": "sun"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "Behold, the name of the LORD cometh from far, burning with his anger, and the burden thereof is heavy: his lips are full of indignation, and his tongue as a devouring fire:",
+      "highlightedWords": [
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "name, reputation"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yahweh)",
+          "meaning": "The personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And his breath, as an overflowing stream, shall reach to the midst of the neck, to sift the nations with the sieve of vanity: and there shall be a bridle in the jaws of the people, causing them to err.",
+      "highlightedWords": [
+        {
+          "word": "breath",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "breath, wind, spirit"
+        },
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "goyim",
+          "meaning": "nations, peoples"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "Ye shall have a song, as in the night when a holy solemnity is kept; and gladness of heart, as when one goeth with a pipe to come into the mountain of the LORD, to the mighty One of Israel.",
+      "highlightedWords": [
+        {
+          "word": "song",
+          "strongNumber": "H7892",
+          "lemma": "shir",
+          "meaning": "song, singing"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yahweh)",
+          "meaning": "The personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "And the LORD shall cause his glorious voice to be heard, and shall shew the lighting down of his arm, with the indignation of his anger, and with the flame of a devouring fire, with scattering, and tempest, and hailstones.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yahweh)",
+          "meaning": "The personal name of Israel’s God"
+        },
+        {
+          "word": "voice",
+          "strongNumber": "H6963",
+          "lemma": "qol",
+          "meaning": "voice, sound"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "For through the voice of the LORD shall the Assyrian be beaten down, which smote with a rod.",
+      "highlightedWords": [
+        {
+          "word": "Assyrian",
+          "strongNumber": "H804",
+          "lemma": "Ashshur",
+          "meaning": "Assyria; the Assyrian"
+        },
+        {
+          "word": "rod",
+          "strongNumber": "H7626",
+          "lemma": "shevet",
+          "meaning": "rod, staff, scepter"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "And in every place where the grounded staff shall pass, which the LORD shall lay upon him, it shall be with tabrets and harps: and in battles of shaking will he fight with it.",
+      "highlightedWords": [
+        {
+          "word": "staff",
+          "strongNumber": "H4294",
+          "lemma": "matteh",
+          "meaning": "staff, rod"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yahweh)",
+          "meaning": "The personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "For Tophet is ordained of old; yea, for the king it is prepared; he hath made it deep and large: the pile thereof is fire and much wood; the breath of the LORD, like a stream of brimstone, doth kindle it.",
+      "highlightedWords": [
+        {
+          "word": "brimstone",
+          "strongNumber": "H1614",
+          "lemma": "gophrith",
+          "meaning": "brimstone, sulfur"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yahweh)",
+          "meaning": "The personal name of Israel’s God"
+        }
+      ]
+    }
+  ]
+}

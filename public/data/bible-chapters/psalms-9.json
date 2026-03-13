@@ -1,0 +1,384 @@
+{
+  "book": "Psalms",
+  "chapter": 9,
+  "chapterTheme": {
+    "twoWordSummary": "Praise Justice",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "Yehovah",
+        "meaning": "The proper name of the God of Israel"
+      },
+      {
+        "word": "judgment",
+        "strongNumber": "H4941",
+        "lemma": "mishpat",
+        "meaning": "Justice, judgment, legal decision or ordinance"
+      }
+    ]
+  },
+  "sentenceTheme": "David praises the LORD for His righteous reign, protection of the oppressed, and certain judgment upon the wicked and the nations.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "I will praise thee, O LORD, with my whole heart; I will shew forth all thy marvellous works.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "The proper name of the God of Israel"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "Heart; inner man, mind, will"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "I will be glad and rejoice in thee: I will sing praise to thy name, O thou most High.",
+      "highlightedWords": [
+        {
+          "word": "rejoice",
+          "strongNumber": "H8055",
+          "lemma": "samach",
+          "meaning": "To be glad, rejoice, be joyful"
+        },
+        {
+          "word": "sing",
+          "strongNumber": "H2167",
+          "lemma": "zamar",
+          "meaning": "To sing praise, make music"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "When mine enemies are turned back, they shall fall and perish at thy presence.",
+      "highlightedWords": [
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "’oyev",
+          "meaning": "Enemy, foe"
+        },
+        {
+          "word": "presence",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "Face, presence, before"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "For thou hast maintained my right and my cause; thou satest in the throne judging right.",
+      "highlightedWords": [
+        {
+          "word": "throne",
+          "strongNumber": "H3678",
+          "lemma": "kisse",
+          "meaning": "Seat, throne"
+        },
+        {
+          "word": "judging",
+          "strongNumber": "H8199",
+          "lemma": "shaphat",
+          "meaning": "To judge, govern, decide"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Thou hast rebuked the heathen, thou hast destroyed the wicked, thou hast put out their name for ever and ever.",
+      "highlightedWords": [
+        {
+          "word": "heathen",
+          "strongNumber": "H1471",
+          "lemma": "goyim",
+          "meaning": "Nations, Gentiles, peoples"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha",
+          "meaning": "Wicked, guilty, criminal"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "O thou enemy, destructions are come to a perpetual end: and thou hast destroyed cities; their memorial is perished with them.",
+      "highlightedWords": [
+        {
+          "word": "enemy",
+          "strongNumber": "H341",
+          "lemma": "’oyev",
+          "meaning": "Enemy, foe"
+        },
+        {
+          "word": "cities",
+          "strongNumber": "H5892",
+          "lemma": "’iyr",
+          "meaning": "City, town"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "But the LORD shall endure for ever: he hath prepared his throne for judgment.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "The proper name of the God of Israel"
+        },
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "Justice, judgment, legal decision or ordinance"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And he shall judge the world in righteousness, he shall minister judgment to the people in uprightness.",
+      "highlightedWords": [
+        {
+          "word": "judge",
+          "strongNumber": "H8199",
+          "lemma": "shaphat",
+          "meaning": "To judge, govern, decide"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "H6664",
+          "lemma": "tsedeq",
+          "meaning": "Righteousness, justice, rightness"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "The LORD also will be a refuge for the oppressed, a refuge in times of trouble.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "The proper name of the God of Israel"
+        },
+        {
+          "word": "refuge",
+          "strongNumber": "H4869",
+          "lemma": "misgav",
+          "meaning": "High place, refuge, stronghold"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And they that know thy name will put their trust in thee: for thou, LORD, hast not forsaken them that seek thee.",
+      "highlightedWords": [
+        {
+          "word": "trust",
+          "strongNumber": "H982",
+          "lemma": "batach",
+          "meaning": "To trust, be confident, rely"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "The proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Sing praises to the LORD, which dwelleth in Zion: declare among the people his doings.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "The proper name of the God of Israel"
+        },
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyyon",
+          "meaning": "Zion, the citadel of Jerusalem"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "When he maketh inquisition for blood, he remembereth them: he forgetteth not the cry of the humble.",
+      "highlightedWords": [
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "Blood"
+        },
+        {
+          "word": "humble",
+          "strongNumber": "H6035",
+          "lemma": "anav",
+          "meaning": "Humble, meek, poor"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Have mercy upon me, O LORD; consider my trouble which I suffer of them that hate me, thou that liftest me up from the gates of death:",
+      "highlightedWords": [
+        {
+          "word": "mercy",
+          "strongNumber": "H2603",
+          "lemma": "chanan",
+          "meaning": "To be gracious, show favor, have mercy"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "The proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "That I may shew forth all thy praise in the gates of the daughter of Zion: I will rejoice in thy salvation.",
+      "highlightedWords": [
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyyon",
+          "meaning": "Zion, the citadel of Jerusalem"
+        },
+        {
+          "word": "salvation",
+          "strongNumber": "H3444",
+          "lemma": "yeshuah",
+          "meaning": "Salvation, deliverance, victory"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "The heathen are sunk down in the pit that they made: in the net which they hid is their own foot taken.",
+      "highlightedWords": [
+        {
+          "word": "heathen",
+          "strongNumber": "H1471",
+          "lemma": "goyim",
+          "meaning": "Nations, Gentiles, peoples"
+        },
+        {
+          "word": "pit",
+          "strongNumber": "H7845",
+          "lemma": "shachath",
+          "meaning": "Pit, destruction"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "The LORD is known by the judgment which he executeth: the wicked is snared in the work of his own hands. Higgaion. Selah.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "The proper name of the God of Israel"
+        },
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "Justice, judgment, legal decision or ordinance"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "The wicked shall be turned into hell, and all the nations that forget God.",
+      "highlightedWords": [
+        {
+          "word": "hell",
+          "strongNumber": "H7585",
+          "lemma": "Sheol",
+          "meaning": "Sheol, the grave, the underworld"
+        },
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "goyim",
+          "meaning": "Nations, Gentiles, peoples"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "For the needy shall not alway be forgotten: the expectation of the poor shall not perish for ever.",
+      "highlightedWords": [
+        {
+          "word": "needy",
+          "strongNumber": "H6041",
+          "lemma": "aniy",
+          "meaning": "Poor, afflicted, needy"
+        },
+        {
+          "word": "poor",
+          "strongNumber": "H0034",
+          "lemma": "’ebyon",
+          "meaning": "Poor, needy, destitute"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Arise, O LORD; let not man prevail: let the heathen be judged in thy sight.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "The proper name of the God of Israel"
+        },
+        {
+          "word": "heathen",
+          "strongNumber": "H1471",
+          "lemma": "goyim",
+          "meaning": "Nations, Gentiles, peoples"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Put them in fear, O LORD: that the nations may know themselves to be but men. Selah.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "The proper name of the God of Israel"
+        },
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "goyim",
+          "meaning": "Nations, Gentiles, peoples"
+        }
+      ]
+    }
+  ]
+}

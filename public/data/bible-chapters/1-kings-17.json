@@ -1,0 +1,456 @@
+{
+  "book": "1 Kings",
+  "chapter": 17,
+  "chapterTheme": {
+    "twoWordSummary": "Prophetic Provision",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH",
+        "meaning": "The personal covenant name of Israel's God, the LORD."
+      },
+      {
+        "word": "widow",
+        "strongNumber": "H490",
+        "lemma": "'almanah",
+        "meaning": "A woman bereft of her husband; a widow."
+      }
+    ]
+  },
+  "sentenceTheme": "God sustains Elijah during drought by miraculous provision through ravens and a widow at Zarephath, and demonstrates His power and truth by raising the widow’s son.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And Elijah the Tishbite, who was of the inhabitants of Gilead, said unto Ahab, As the LORD God of Israel liveth, before whom I stand, there shall not be dew nor rain these years, but according to my word.",
+      "highlightedWords": [
+        {
+          "word": "Elijah",
+          "strongNumber": "H452",
+          "lemma": "'Eliyahu",
+          "meaning": "Elijah; “My God is Yahweh,” the prophet from Gilead."
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The personal covenant name of Israel's God, the LORD."
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And the word of the LORD came unto him, saying,",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "Word, matter, message, or command."
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The personal covenant name of Israel's God, the LORD."
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Get thee hence, and turn thee eastward, and hide thyself by the brook Cherith, that is before Jordan.",
+      "highlightedWords": [
+        {
+          "word": "brook",
+          "strongNumber": "H5158",
+          "lemma": "nachal",
+          "meaning": "A wadi or seasonal watercourse; a brook."
+        },
+        {
+          "word": "Jordan",
+          "strongNumber": "H3383",
+          "lemma": "Yarden",
+          "meaning": "The Jordan River."
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And it shall be, that thou shalt drink of the brook; and I have commanded the ravens to feed thee there.",
+      "highlightedWords": [
+        {
+          "word": "ravens",
+          "strongNumber": "H6158",
+          "lemma": "'oreb",
+          "meaning": "Raven, a scavenging bird."
+        },
+        {
+          "word": "feed",
+          "strongNumber": "H3557",
+          "lemma": "kul",
+          "meaning": "To sustain, provide, or support."
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "So he went and did according unto the word of the LORD: for he went and dwelt by the brook Cherith, that is before Jordan.",
+      "highlightedWords": [
+        {
+          "word": "dwelt",
+          "strongNumber": "H3427",
+          "lemma": "yashab",
+          "meaning": "To dwell, sit, or remain."
+        },
+        {
+          "word": "brook",
+          "strongNumber": "H5158",
+          "lemma": "nachal",
+          "meaning": "A wadi or seasonal watercourse; a brook."
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And the ravens brought him bread and flesh in the morning, and bread and flesh in the evening; and he drank of the brook.",
+      "highlightedWords": [
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "Bread, food."
+        },
+        {
+          "word": "flesh",
+          "strongNumber": "H1320",
+          "lemma": "basar",
+          "meaning": "Flesh, meat."
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And it came to pass after a while, that the brook dried up, because there had been no rain in the land.",
+      "highlightedWords": [
+        {
+          "word": "rain",
+          "strongNumber": "H4306",
+          "lemma": "matar",
+          "meaning": "Rain."
+        },
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "'erets",
+          "meaning": "Land, earth."
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And the word of the LORD came unto him, saying,",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "Word, matter, message, or command."
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The personal covenant name of Israel's God, the LORD."
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Arise, get thee to Zarephath, which belongeth to Zidon, and dwell there: behold, I have commanded a widow woman there to sustain thee.",
+      "highlightedWords": [
+        {
+          "word": "Zarephath",
+          "strongNumber": "H6886",
+          "lemma": "Tsarephath",
+          "meaning": "Zarephath, a town near Sidon."
+        },
+        {
+          "word": "widow",
+          "strongNumber": "H490",
+          "lemma": "'almanah",
+          "meaning": "A woman bereft of her husband; a widow."
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "So he arose and went to Zarephath. And when he came to the gate of the city, behold, the widow woman was there gathering of sticks: and he called to her, and said, Fetch me, I pray thee, a little water in a vessel, that I may drink.",
+      "highlightedWords": [
+        {
+          "word": "gate",
+          "strongNumber": "H8179",
+          "lemma": "sha'ar",
+          "meaning": "Gate, city entrance."
+        },
+        {
+          "word": "water",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "Water."
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And as she was going to fetch it, he called to her, and said, Bring me, I pray thee, a morsel of bread in thine hand.",
+      "highlightedWords": [
+        {
+          "word": "morsel",
+          "strongNumber": "H6595",
+          "lemma": "path",
+          "meaning": "A morsel, piece, or fragment (of bread)."
+        },
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "Bread, food."
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And she said, As the LORD thy God liveth, I have not a cake, but an handful of meal in a barrel, and a little oil in a cruse: and, behold, I am gathering two sticks, that I may go in and dress it for me and my son, that we may eat it, and die.",
+      "highlightedWords": [
+        {
+          "word": "meal",
+          "strongNumber": "H7058",
+          "lemma": "qemach",
+          "meaning": "Ground meal or flour."
+        },
+        {
+          "word": "oil",
+          "strongNumber": "H8081",
+          "lemma": "shemen",
+          "meaning": "Oil, fat."
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And Elijah said unto her, Fear not; go and do as thou hast said: but make me thereof a little cake first, and bring it unto me, and after make for thee and for thy son.",
+      "highlightedWords": [
+        {
+          "word": "Fear",
+          "strongNumber": "H3372",
+          "lemma": "yare'",
+          "meaning": "To fear, revere; be afraid."
+        },
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "Son, descendant."
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "For thus saith the LORD God of Israel, The barrel of meal shall not waste, neither shall the cruse of oil fail, until the day that the LORD sendeth rain upon the earth.",
+      "highlightedWords": [
+        {
+          "word": "barrel",
+          "strongNumber": "H3537",
+          "lemma": "kad",
+          "meaning": "Jar, pitcher, large vessel."
+        },
+        {
+          "word": "rain",
+          "strongNumber": "H4306",
+          "lemma": "matar",
+          "meaning": "Rain."
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And she went and did according to the saying of Elijah: and she, and he, and her house, did eat many days.",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayit",
+          "meaning": "House, household."
+        },
+        {
+          "word": "days",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "Day; a period of time."
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And the barrel of meal wasted not, neither did the cruse of oil fail, according to the word of the LORD, which he spake by Elijah.",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "Word, matter, message, or command."
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The personal covenant name of Israel's God, the LORD."
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And it came to pass after these things, that the son of the woman, the mistress of the house, fell sick; and his sickness was so sore, that there was no breath left in him.",
+      "highlightedWords": [
+        {
+          "word": "sick",
+          "strongNumber": "H2470",
+          "lemma": "chalah",
+          "meaning": "To be or become sick, weak."
+        },
+        {
+          "word": "breath",
+          "strongNumber": "H5397",
+          "lemma": "neshamah",
+          "meaning": "Breath, vital breath."
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And she said unto Elijah, What have I to do with thee, O thou man of God? art thou come unto me to call my sin to remembrance, and to slay my son?",
+      "highlightedWords": [
+        {
+          "word": "sin",
+          "strongNumber": "H5771",
+          "lemma": "'avon",
+          "meaning": "Iniquity, guilt, wrongdoing."
+        },
+        {
+          "word": "slay",
+          "strongNumber": "H4191",
+          "lemma": "muwth",
+          "meaning": "To die; to cause to die, to kill."
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And he said unto her, Give me thy son. And he took him out of her bosom, and carried him up into a loft, where he abode, and laid him upon his own bed.",
+      "highlightedWords": [
+        {
+          "word": "bosom",
+          "strongNumber": "H2436",
+          "lemma": "cheq",
+          "meaning": "Bosom, lap."
+        },
+        {
+          "word": "bed",
+          "strongNumber": "H4296",
+          "lemma": "mittah",
+          "meaning": "Bed, couch."
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And he cried unto the LORD, and said, O LORD my God, hast thou also brought evil upon the widow with whom I sojourn, by slaying her son?",
+      "highlightedWords": [
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra'",
+          "meaning": "Evil, calamity, adversity."
+        },
+        {
+          "word": "sojourn",
+          "strongNumber": "H1481",
+          "lemma": "gur",
+          "meaning": "To sojourn, dwell as a foreigner."
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And he stretched himself upon the child three times, and cried unto the LORD, and said, O LORD my God, I pray thee, let this child's soul come into him again.",
+      "highlightedWords": [
+        {
+          "word": "child",
+          "strongNumber": "H3206",
+          "lemma": "yeled",
+          "meaning": "Child, boy."
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "Soul, life, person."
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And the LORD heard the voice of Elijah; and the soul of the child came into him again, and he revived.",
+      "highlightedWords": [
+        {
+          "word": "heard",
+          "strongNumber": "H8085",
+          "lemma": "shama'",
+          "meaning": "To hear, listen, obey."
+        },
+        {
+          "word": "revived",
+          "strongNumber": "H2421",
+          "lemma": "chayah",
+          "meaning": "To live, revive."
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And Elijah took the child, and brought him down out of the chamber into the house, and delivered him unto his mother: and Elijah said, See, thy son liveth.",
+      "highlightedWords": [
+        {
+          "word": "chamber",
+          "strongNumber": "H5944",
+          "lemma": "'aliyah",
+          "meaning": "Upper room, chamber."
+        },
+        {
+          "word": "mother",
+          "strongNumber": "H517",
+          "lemma": "'em",
+          "meaning": "Mother."
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And the woman said to Elijah, Now by this I know that thou art a man of God, that the word of the LORD in thy mouth is truth.",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "Word, matter, message, or command."
+        },
+        {
+          "word": "truth",
+          "strongNumber": "H571",
+          "lemma": "'emeth",
+          "meaning": "Truth, firmness, faithfulness."
+        }
+      ]
+    }
+  ]
+}

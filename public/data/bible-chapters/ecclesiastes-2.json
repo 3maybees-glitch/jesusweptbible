@@ -1,0 +1,492 @@
+{
+  "book": "Ecclesiastes",
+  "chapter": 2,
+  "chapterTheme": {
+    "twoWordSummary": "Futile Toil",
+    "themeWords": [
+      {
+        "word": "vanity",
+        "strongNumber": "H1892",
+        "lemma": "hebel",
+        "meaning": "breath, vapor; futility, emptiness"
+      },
+      {
+        "word": "wisdom",
+        "strongNumber": "H2451",
+        "lemma": "chokmah",
+        "meaning": "wisdom, skill, practical insight"
+      }
+    ]
+  },
+  "sentenceTheme": "Solomon tests pleasure, projects, and wisdom, yet finds them vanity under the sun and commends receiving and enjoying God’s gifts.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "I said in mine heart, Go to now, I will prove thee with mirth, therefore enjoy pleasure: and, behold, this also is vanity.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner self, mind"
+        },
+        {
+          "word": "vanity",
+          "strongNumber": "H1892",
+          "lemma": "hebel",
+          "meaning": "breath, vapor; futility, emptiness"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "I said of laughter, It is mad: and of mirth, What doeth it?",
+      "highlightedWords": [
+        {
+          "word": "laughter",
+          "strongNumber": "H7814",
+          "lemma": "sechoq",
+          "meaning": "laughter, derision"
+        },
+        {
+          "word": "mirth",
+          "strongNumber": "H8057",
+          "lemma": "simchah",
+          "meaning": "joy, gladness, mirth"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "I sought in mine heart to give myself unto wine, yet acquainting mine heart with wisdom; and to lay hold on folly, till I might see what was that good for the sons of men, which they should do under the heaven all the days of their life.",
+      "highlightedWords": [
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "wisdom, skill, practical insight"
+        },
+        {
+          "word": "folly",
+          "strongNumber": "H5531",
+          "lemma": "sikluth",
+          "meaning": "folly, foolishness"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "I made me great works; I builded me houses; I planted me vineyards:",
+      "highlightedWords": [
+        {
+          "word": "houses",
+          "strongNumber": "H1004",
+          "lemma": "bayit",
+          "meaning": "house, dwelling"
+        },
+        {
+          "word": "vineyards",
+          "strongNumber": "H3754",
+          "lemma": "kerem",
+          "meaning": "vineyard"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "I made me gardens and orchards, and I planted trees in them of all kind of fruits:",
+      "highlightedWords": [
+        {
+          "word": "gardens",
+          "strongNumber": "H1588",
+          "lemma": "gan",
+          "meaning": "garden, enclosed garden"
+        },
+        {
+          "word": "orchards",
+          "strongNumber": "H6508",
+          "lemma": "pardes",
+          "meaning": "park, orchard"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "I made me pools of water, to water therewith the wood that bringeth forth trees:",
+      "highlightedWords": [
+        {
+          "word": "pools",
+          "strongNumber": "H1295",
+          "lemma": "berekah",
+          "meaning": "pool, reservoir"
+        },
+        {
+          "word": "water",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "water"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "I got me servants and maidens, and had servants born in my house; also I had great possessions of great and small cattle above all that were in Jerusalem before me:",
+      "highlightedWords": [
+        {
+          "word": "servants",
+          "strongNumber": "H5650",
+          "lemma": "ebed",
+          "meaning": "servant, slave"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "I gathered me also silver and gold, and the peculiar treasure of kings and of the provinces: I gat me men singers and women singers, and the delights of the sons of men, as musical instruments, and that of all sorts.",
+      "highlightedWords": [
+        {
+          "word": "silver",
+          "strongNumber": "H3701",
+          "lemma": "keseph",
+          "meaning": "silver, money"
+        },
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "zahav",
+          "meaning": "gold"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "So I was great, and increased more than all that were before me in Jerusalem: also my wisdom remained with me.",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem"
+        },
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "wisdom, skill, practical insight"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And whatsoever mine eyes desired I kept not from them, I withheld not my heart from any joy; for my heart rejoiced in all my labour: and this was my portion of all my labour.",
+      "highlightedWords": [
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "ayin",
+          "meaning": "eye"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner self, mind"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Then I looked on all the works that my hands had wrought, and on the labour that I had laboured to do: and, behold, all was vanity and vexation of spirit, and there was no profit under the sun.",
+      "highlightedWords": [
+        {
+          "word": "vanity",
+          "strongNumber": "H1892",
+          "lemma": "hebel",
+          "meaning": "breath, vapor; futility, emptiness"
+        },
+        {
+          "word": "spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "spirit, wind, breath"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And I turned myself to behold wisdom, and madness, and folly: for what can the man do that cometh after the king? even that which hath been already done.",
+      "highlightedWords": [
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "wisdom, skill, practical insight"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Then I saw that wisdom excelleth folly, as far as light excelleth darkness.",
+      "highlightedWords": [
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "wisdom, skill, practical insight"
+        },
+        {
+          "word": "light",
+          "strongNumber": "H216",
+          "lemma": "or",
+          "meaning": "light"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "The wise man's eyes are in his head; but the fool walketh in darkness: and I myself perceived also that one event happeneth to them all.",
+      "highlightedWords": [
+        {
+          "word": "wise",
+          "strongNumber": "H2450",
+          "lemma": "chakam",
+          "meaning": "wise, skillful"
+        },
+        {
+          "word": "event",
+          "strongNumber": "H4745",
+          "lemma": "miqreh",
+          "meaning": "event, occurrence"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Then said I in my heart, As it happeneth to the fool, so it happeneth even to me; and why was I then more wise? Then I said in my heart, that this also is vanity.",
+      "highlightedWords": [
+        {
+          "word": "fool",
+          "strongNumber": "H3684",
+          "lemma": "kesil",
+          "meaning": "fool, dullard"
+        },
+        {
+          "word": "vanity",
+          "strongNumber": "H1892",
+          "lemma": "hebel",
+          "meaning": "breath, vapor; futility, emptiness"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "For there is no remembrance of the wise more than of the fool for ever; seeing that which now is in the days to come shall all be forgotten. And how dieth the wise man? as the fool.",
+      "highlightedWords": [
+        {
+          "word": "wise",
+          "strongNumber": "H2450",
+          "lemma": "chakam",
+          "meaning": "wise, skillful"
+        },
+        {
+          "word": "fool",
+          "strongNumber": "H3684",
+          "lemma": "kesil",
+          "meaning": "fool, dullard"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Therefore I hated life; because the work that is wrought under the sun is grievous unto me: for all is vanity and vexation of spirit.",
+      "highlightedWords": [
+        {
+          "word": "life",
+          "strongNumber": "H2416",
+          "lemma": "chay",
+          "meaning": "life, living"
+        },
+        {
+          "word": "vanity",
+          "strongNumber": "H1892",
+          "lemma": "hebel",
+          "meaning": "breath, vapor; futility, emptiness"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Yea, I hated all my labour which I had taken under the sun: because I should leave it unto the man that shall be after me.",
+      "highlightedWords": [
+        {
+          "word": "labour",
+          "strongNumber": "H5999",
+          "lemma": "amal",
+          "meaning": "toil, labor, trouble"
+        },
+        {
+          "word": "sun",
+          "strongNumber": "H8121",
+          "lemma": "shemesh",
+          "meaning": "sun"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And who knoweth whether he shall be a wise man or a fool? yet shall he have rule over all my labour wherein I have laboured, and wherein I have shewed myself wise under the sun. This is also vanity.",
+      "highlightedWords": [
+        {
+          "word": "wise",
+          "strongNumber": "H2450",
+          "lemma": "chakam",
+          "meaning": "wise, skillful"
+        },
+        {
+          "word": "fool",
+          "strongNumber": "H3684",
+          "lemma": "kesil",
+          "meaning": "fool, dullard"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Therefore I went about to cause my heart to despair of all the labour which I took under the sun.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner self, mind"
+        },
+        {
+          "word": "labour",
+          "strongNumber": "H5999",
+          "lemma": "amal",
+          "meaning": "toil, labor, trouble"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "For there is a man whose labour is in wisdom, and in knowledge, and in equity; yet to a man that hath not laboured therein shall he leave it for his portion. This also is vanity and a great evil.",
+      "highlightedWords": [
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "wisdom, skill, practical insight"
+        },
+        {
+          "word": "equity",
+          "strongNumber": "H3788",
+          "lemma": "kishron",
+          "meaning": "success, skill, excellence"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "For what hath man of all his labour, and of the vexation of his heart, wherein he hath laboured under the sun?",
+      "highlightedWords": [
+        {
+          "word": "man",
+          "strongNumber": "H120",
+          "lemma": "adam",
+          "meaning": "man, humankind"
+        },
+        {
+          "word": "labour",
+          "strongNumber": "H5999",
+          "lemma": "amal",
+          "meaning": "toil, labor, trouble"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "For all his days are sorrows, and his travail grief; yea, his heart taketh not rest in the night. This is also vanity.",
+      "highlightedWords": [
+        {
+          "word": "days",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day"
+        },
+        {
+          "word": "vanity",
+          "strongNumber": "H1892",
+          "lemma": "hebel",
+          "meaning": "breath, vapor; futility, emptiness"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "There is nothing better for a man, than that he should eat and drink, and that he should make his soul enjoy good in his labour. This also I saw, that it was from the hand of God.",
+      "highlightedWords": [
+        {
+          "word": "eat",
+          "strongNumber": "H398",
+          "lemma": "akal",
+          "meaning": "to eat, consume"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "For who can eat, or who else can hasten hereunto, more than I?",
+      "highlightedWords": [
+        {
+          "word": "eat",
+          "strongNumber": "H398",
+          "lemma": "akal",
+          "meaning": "to eat, consume"
+        },
+        {
+          "word": "hasten",
+          "strongNumber": "H2363",
+          "lemma": "chush",
+          "meaning": "to hasten, hurry"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "For God giveth to a man that is good in his sight wisdom, and knowledge, and joy: but to the sinner he giveth travail, to gather and to heap up, that he may give to him that is good before God. This also is vanity and vexation of spirit.",
+      "highlightedWords": [
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "wisdom, skill, practical insight"
+        },
+        {
+          "word": "travail",
+          "strongNumber": "H6045",
+          "lemma": "inyan",
+          "meaning": "toil, business, task"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,600 @@
+{
+  "book": "Joel",
+  "chapter": 2,
+  "chapterTheme": {
+    "twoWordSummary": "Repentance Outpouring",
+    "themeWords": [
+      {
+        "word": "turn",
+        "strongNumber": "H7725",
+        "lemma": "shuv",
+        "meaning": "to return, turn back (repent)"
+      },
+      {
+        "word": "spirit",
+        "strongNumber": "H7307",
+        "lemma": "ruach",
+        "meaning": "spirit, breath, wind"
+      }
+    ]
+  },
+  "sentenceTheme": "God calls Judah to heartfelt repentance, promises restoration and blessing, and foretells the outpouring of His Spirit before the great day of the LORD.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Blow ye the trumpet in Zion, and sound an alarm in my holy mountain: let all the inhabitants of the land tremble: for the day of the LORD cometh, for it is nigh at hand;",
+      "highlightedWords": [
+        {
+          "word": "trumpet",
+          "strongNumber": "H7782",
+          "lemma": "shofar",
+          "meaning": "ram's horn, trumpet"
+        },
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyyon",
+          "meaning": "Zion, a hill in Jerusalem"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "A day of darkness and of gloominess, a day of clouds and of thick darkness, as the morning spread upon the mountains: a great people and a strong; there hath not been ever the like, neither shall be any more after it, even to the years of many generations.",
+      "highlightedWords": [
+        {
+          "word": "darkness",
+          "strongNumber": "H2822",
+          "lemma": "choshek",
+          "meaning": "darkness"
+        },
+        {
+          "word": "day",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day, period of time"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "A fire devoureth before them; and behind them a flame burneth: the land is as the garden of Eden before them, and behind them a desolate wilderness; yea, and nothing shall escape them.",
+      "highlightedWords": [
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "esh",
+          "meaning": "fire"
+        },
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbar",
+          "meaning": "wilderness, desert"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "The appearance of them is as the appearance of horses; and as horsemen, so shall they run.",
+      "highlightedWords": [
+        {
+          "word": "horses",
+          "strongNumber": "H5483",
+          "lemma": "sus",
+          "meaning": "horse"
+        },
+        {
+          "word": "horsemen",
+          "strongNumber": "H6571",
+          "lemma": "parash",
+          "meaning": "horseman, rider"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Like the noise of chariots on the tops of mountains shall they leap, like the noise of a flame of fire that devoureth the stubble, as a strong people set in battle array.",
+      "highlightedWords": [
+        {
+          "word": "chariots",
+          "strongNumber": "H7393",
+          "lemma": "rekeb",
+          "meaning": "chariot(s)"
+        },
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "esh",
+          "meaning": "fire"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Before their face the people shall be much pained: all faces shall gather blackness.",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "am",
+          "meaning": "people, nation"
+        },
+        {
+          "word": "faces",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "face, presence"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "They shall run like mighty men; they shall climb the wall like men of war; and they shall march every one on his ways, and they shall not break their ranks:",
+      "highlightedWords": [
+        {
+          "word": "mighty",
+          "strongNumber": "H1368",
+          "lemma": "gibbor",
+          "meaning": "mighty, strong (man), warrior"
+        },
+        {
+          "word": "wall",
+          "strongNumber": "H2346",
+          "lemma": "chomah",
+          "meaning": "wall, fortification"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Neither shall one thrust another; they shall walk every one in his path: and when they fall upon the sword, they shall not be wounded.",
+      "highlightedWords": [
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword"
+        },
+        {
+          "word": "walk",
+          "strongNumber": "H1980",
+          "lemma": "halak",
+          "meaning": "to go, walk"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "They shall run to and fro in the city; they shall run upon the wall, they shall climb up upon the houses; they shall enter in at the windows like a thief.",
+      "highlightedWords": [
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "iyr",
+          "meaning": "city, town"
+        },
+        {
+          "word": "houses",
+          "strongNumber": "H1004",
+          "lemma": "bayit",
+          "meaning": "house, household"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "The earth shall quake before them; the heavens shall tremble: the sun and the moon shall be dark, and the stars shall withdraw their shining:",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "land, earth"
+        },
+        {
+          "word": "heavens",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens, sky"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And the LORD shall utter his voice before his army: for his camp is very great: for he is strong that executeth his word: for the day of the LORD is great and very terrible; and who can abide it?",
+      "highlightedWords": [
+        {
+          "word": "voice",
+          "strongNumber": "H6963",
+          "lemma": "qol",
+          "meaning": "voice, sound"
+        },
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, thing"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Therefore also now, saith the LORD, turn ye even to me with all your heart, and with fasting, and with weeping, and with mourning:",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3824",
+          "lemma": "lebab",
+          "meaning": "heart, inner man"
+        },
+        {
+          "word": "fasting",
+          "strongNumber": "H6685",
+          "lemma": "tsom",
+          "meaning": "fasting, abstaining from food"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And rend your heart, and not your garments, and turn unto the LORD your God: for he is gracious and merciful, slow to anger, and of great kindness, and repenteth him of the evil.",
+      "highlightedWords": [
+        {
+          "word": "gracious",
+          "strongNumber": "H2587",
+          "lemma": "channun",
+          "meaning": "gracious, compassionate"
+        },
+        {
+          "word": "merciful",
+          "strongNumber": "H7349",
+          "lemma": "rachum",
+          "meaning": "merciful, compassionate"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Who knoweth if he will return and repent, and leave a blessing behind him; even a meat offering and a drink offering unto the LORD your God?",
+      "highlightedWords": [
+        {
+          "word": "blessing",
+          "strongNumber": "H1293",
+          "lemma": "berakah",
+          "meaning": "blessing, gift"
+        },
+        {
+          "word": "meat offering",
+          "strongNumber": "H4503",
+          "lemma": "minchah",
+          "meaning": "grain offering, tribute"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Blow the trumpet in Zion, sanctify a fast, call a solemn assembly:",
+      "highlightedWords": [
+        {
+          "word": "trumpet",
+          "strongNumber": "H7782",
+          "lemma": "shofar",
+          "meaning": "ram's horn, trumpet"
+        },
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyyon",
+          "meaning": "Zion, a hill in Jerusalem"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Gather the people, sanctify the congregation, assemble the elders, gather the children, and those that suck the breasts: let the bridegroom go forth of his chamber, and the bride out of her closet.",
+      "highlightedWords": [
+        {
+          "word": "elders",
+          "strongNumber": "H2205",
+          "lemma": "zaqen",
+          "meaning": "elder, aged man"
+        },
+        {
+          "word": "bridegroom",
+          "strongNumber": "H2860",
+          "lemma": "chathan",
+          "meaning": "bridegroom, son-in-law"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Let the priests, the ministers of the LORD, weep between the porch and the altar, and let them say, Spare thy people, O LORD, and give not thine heritage to reproach, that the heathen should rule over them: wherefore should they say among the people, Where is their God?",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest"
+        },
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Then will the LORD be jealous for his land, and pity his people.",
+      "highlightedWords": [
+        {
+          "word": "jealous",
+          "strongNumber": "H7065",
+          "lemma": "qana",
+          "meaning": "to be zealous or jealous"
+        },
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "land, earth"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Yea, the LORD will answer and say unto his people, Behold, I will send you corn, and wine, and oil, and ye shall be satisfied therewith: and I will no more make you a reproach among the heathen:",
+      "highlightedWords": [
+        {
+          "word": "corn",
+          "strongNumber": "H1715",
+          "lemma": "dagan",
+          "meaning": "grain, corn"
+        },
+        {
+          "word": "reproach",
+          "strongNumber": "H2781",
+          "lemma": "cherpah",
+          "meaning": "reproach, disgrace"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "But I will remove far off from you the northern army, and will drive him into a land barren and desolate, with his face toward the east sea, and his hinder part toward the utmost sea, and his stink shall come up, and his ill savour shall come up, because he hath done great things.",
+      "highlightedWords": [
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "land, earth"
+        },
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "sea"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Fear not, O land; be glad and rejoice: for the LORD will do great things.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the proper name of the God of Israel"
+        },
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "land, earth"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Be not afraid, ye beasts of the field: for the pastures of the wilderness do spring, for the tree beareth her fruit, the fig tree and the vine do yield their strength.",
+      "highlightedWords": [
+        {
+          "word": "beasts",
+          "strongNumber": "H929",
+          "lemma": "behemah",
+          "meaning": "beast, animal"
+        },
+        {
+          "word": "tree",
+          "strongNumber": "H6086",
+          "lemma": "ets",
+          "meaning": "tree, wood"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Be glad then, ye children of Zion, and rejoice in the LORD your God: for he hath given you the former rain moderately, and he will cause to come down for you the rain, the former rain, and the latter rain in the first month.",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And the floors shall be full of wheat, and the vats shall overflow with wine and oil.",
+      "highlightedWords": [
+        {
+          "word": "wheat",
+          "strongNumber": "H2406",
+          "lemma": "chittah",
+          "meaning": "wheat"
+        },
+        {
+          "word": "vats",
+          "strongNumber": "H3342",
+          "lemma": "yeqeb",
+          "meaning": "wine vat"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And I will restore to you the years that the locust hath eaten, the cankerworm, and the caterpiller, and the palmerworm, my great army which I sent among you.",
+      "highlightedWords": [
+        {
+          "word": "locust",
+          "strongNumber": "H0697",
+          "lemma": "arbeh",
+          "meaning": "locust"
+        },
+        {
+          "word": "cankerworm",
+          "strongNumber": "H3218",
+          "lemma": "yeleq",
+          "meaning": "cankerworm (young locust)"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And ye shall eat in plenty, and be satisfied, and praise the name of the LORD your God, that hath dealt wondrously with you: and my people shall never be ashamed.",
+      "highlightedWords": [
+        {
+          "word": "praise",
+          "strongNumber": "H1984",
+          "lemma": "halal",
+          "meaning": "to praise, boast"
+        },
+        {
+          "word": "ashamed",
+          "strongNumber": "H0954",
+          "lemma": "bosh",
+          "meaning": "to be ashamed"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And ye shall know that I am in the midst of Israel, and that I am the LORD your God, and none else: and my people shall never be ashamed.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel"
+        },
+        {
+          "word": "ashamed",
+          "strongNumber": "H0954",
+          "lemma": "bosh",
+          "meaning": "to be ashamed"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And it shall come to pass afterward, that I will pour out my spirit upon all flesh; and your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions:",
+      "highlightedWords": [
+        {
+          "word": "spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "spirit, breath, wind"
+        },
+        {
+          "word": "prophesy",
+          "strongNumber": "H5012",
+          "lemma": "naba'",
+          "meaning": "to prophesy"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "And also upon the servants and upon the handmaids in those days will I pour out my spirit.",
+      "highlightedWords": [
+        {
+          "word": "servants",
+          "strongNumber": "H5650",
+          "lemma": "eved",
+          "meaning": "servant, slave"
+        },
+        {
+          "word": "handmaids",
+          "strongNumber": "H8198",
+          "lemma": "shiphchah",
+          "meaning": "maidservant"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "And I will shew wonders in the heavens and in the earth, blood, and fire, and pillars of smoke.",
+      "highlightedWords": [
+        {
+          "word": "wonders",
+          "strongNumber": "H4159",
+          "lemma": "mopheth",
+          "meaning": "wonder, sign"
+        },
+        {
+          "word": "smoke",
+          "strongNumber": "H6227",
+          "lemma": "ashan",
+          "meaning": "smoke"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "The sun shall be turned into darkness, and the moon into blood, before the great and terrible day of the LORD come.",
+      "highlightedWords": [
+        {
+          "word": "sun",
+          "strongNumber": "H8121",
+          "lemma": "shemesh",
+          "meaning": "sun"
+        },
+        {
+          "word": "moon",
+          "strongNumber": "H3394",
+          "lemma": "yareach",
+          "meaning": "moon"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "And it shall come to pass, that whosoever shall call on the name of the LORD shall be delivered: for in mount Zion and in Jerusalem shall be deliverance, as the LORD hath said, and in the remnant whom the LORD shall call.",
+      "highlightedWords": [
+        {
+          "word": "call",
+          "strongNumber": "H7121",
+          "lemma": "qara'",
+          "meaning": "to call, proclaim"
+        },
+        {
+          "word": "deliverance",
+          "strongNumber": "H6413",
+          "lemma": "peletah",
+          "meaning": "deliverance, escape"
+        }
+      ]
+    }
+  ]
+}

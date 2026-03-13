@@ -1,0 +1,276 @@
+{
+  "book": "Amos",
+  "chapter": 6,
+  "chapterTheme": {
+    "twoWordSummary": "Complacent Pride",
+    "themeWords": [
+      {
+        "word": "Woe",
+        "strongNumber": "H1945",
+        "lemma": "hoy",
+        "meaning": "an interjection expressing grief or doom; woe, alas"
+      },
+      {
+        "word": "Excellency",
+        "strongNumber": "H1347",
+        "lemma": "ga'on",
+        "meaning": "pride, majesty, excellence; lofty self-exaltation"
+      }
+    ]
+  },
+  "sentenceTheme": "Amos condemns the complacent leaders of Israel for their pride, luxury, and injustice, warning that exile and affliction will come by the hand of the LORD of hosts.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Woe to them that are at ease in Zion, and trust in the mountain of Samaria, which are named chief of the nations, to whom the house of Israel came!",
+      "highlightedWords": [
+        {
+          "word": "Woe",
+          "strongNumber": "H1945",
+          "lemma": "hoy",
+          "meaning": "an interjection expressing grief or doom; woe, alas"
+        },
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyyon",
+          "meaning": "Zion, the hill in Jerusalem; by extension, Jerusalem or the people"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Pass ye unto Calneh, and see; and from thence go ye to Hamath the great: then go down to Gath of the Philistines: be they better than these kingdoms? or their border greater than your border?",
+      "highlightedWords": [
+        {
+          "word": "Hamath",
+          "strongNumber": "H2574",
+          "lemma": "Chammath",
+          "meaning": "Hamath, a principal city/region of Syria"
+        },
+        {
+          "word": "Gath",
+          "strongNumber": "H1661",
+          "lemma": "Gath",
+          "meaning": "Gath, a Philistine city; literally “winepress”"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Ye that put far away the evil day, and cause the seat of violence to come near;",
+      "highlightedWords": [
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra'",
+          "meaning": "bad, evil, calamity, disaster"
+        },
+        {
+          "word": "violence",
+          "strongNumber": "H2555",
+          "lemma": "chamas",
+          "meaning": "violence, wrong, cruelty, injustice"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "That lie upon beds of ivory, and stretch themselves upon their couches, and eat the lambs out of the flock, and the calves out of the midst of the stall;",
+      "highlightedWords": [
+        {
+          "word": "ivory",
+          "strongNumber": "H8127",
+          "lemma": "shen",
+          "meaning": "tooth; ivory (as material from teeth/tusks)"
+        },
+        {
+          "word": "lambs",
+          "strongNumber": "H3532",
+          "lemma": "keves",
+          "meaning": "a male lamb"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "That chant to the sound of the viol, and invent to themselves instruments of musick, like David;",
+      "highlightedWords": [
+        {
+          "word": "viol",
+          "strongNumber": "H5035",
+          "lemma": "nebel",
+          "meaning": "a harp, lute, or psaltery"
+        },
+        {
+          "word": "musick",
+          "strongNumber": "H7892",
+          "lemma": "shir",
+          "meaning": "song, music"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "That drink wine in bowls, and anoint themselves with the chief ointments: but they are not grieved for the affliction of Joseph.",
+      "highlightedWords": [
+        {
+          "word": "anoint",
+          "strongNumber": "H4886",
+          "lemma": "mashach",
+          "meaning": "to smear, anoint; to consecrate by anointing"
+        },
+        {
+          "word": "Joseph",
+          "strongNumber": "H3130",
+          "lemma": "Yosef",
+          "meaning": "Joseph; ‘He increases’; the patriarch’s name representing the northern tribes"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Therefore now shall they go captive with the first that go captive, and the banquet of them that stretched themselves shall be removed.",
+      "highlightedWords": [
+        {
+          "word": "captive",
+          "strongNumber": "H1540",
+          "lemma": "galah",
+          "meaning": "to uncover; to be exiled, go into captivity"
+        },
+        {
+          "word": "banquet",
+          "strongNumber": "H4797",
+          "lemma": "marzeach",
+          "meaning": "a festal gathering, revelry, banquet"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "The Lord GOD hath sworn by himself, saith the LORD the God of hosts, I abhor the excellency of Jacob, and hate his palaces: therefore will I deliver up the city with all that is therein.",
+      "highlightedWords": [
+        {
+          "word": "Jacob",
+          "strongNumber": "H3290",
+          "lemma": "Ya'aqov",
+          "meaning": "Jacob; heel-catcher; the patriarch and by extension the nation"
+        },
+        {
+          "word": "hosts",
+          "strongNumber": "H6635",
+          "lemma": "tsaba'",
+          "meaning": "army, warfare, hosts; heavenly or earthly armies"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And it shall come to pass, if there remain ten men in one house, that they shall die.",
+      "highlightedWords": [
+        {
+          "word": "ten",
+          "strongNumber": "H6235",
+          "lemma": "'eser",
+          "meaning": "ten (the number)"
+        },
+        {
+          "word": "die",
+          "strongNumber": "H4191",
+          "lemma": "muwth",
+          "meaning": "to die, perish"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And a man's uncle shall take him up, and he that burneth him, to bring out the bones out of the house, and shall say unto him that is by the sides of the house, Is there yet any with thee? and he shall say, No. Then shall he say, Hold thy tongue: for we may not make mention of the name of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "uncle",
+          "strongNumber": "H1730",
+          "lemma": "dod",
+          "meaning": "beloved; kinsman; paternal uncle"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God, the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "For, behold, the LORD commandeth, and he will smite the great house with breaches, and the little house with clefts.",
+      "highlightedWords": [
+        {
+          "word": "smite",
+          "strongNumber": "H5221",
+          "lemma": "nakah",
+          "meaning": "to strike, smite, beat, slay"
+        },
+        {
+          "word": "breaches",
+          "strongNumber": "H6556",
+          "lemma": "perets",
+          "meaning": "a breach, gap, rupture"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Shall horses run upon the rock? will one plow there with oxen? for ye have turned judgment into gall, and the fruit of righteousness into hemlock:",
+      "highlightedWords": [
+        {
+          "word": "horses",
+          "strongNumber": "H5483",
+          "lemma": "sus",
+          "meaning": "a horse"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "tsedaqah",
+          "meaning": "righteousness, justice"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Ye which rejoice in a thing of nought, which say, Have we not taken to us horns by our own strength?",
+      "highlightedWords": [
+        {
+          "word": "rejoice",
+          "strongNumber": "H8055",
+          "lemma": "samach",
+          "meaning": "to rejoice, be glad"
+        },
+        {
+          "word": "horns",
+          "strongNumber": "H7161",
+          "lemma": "qeren",
+          "meaning": "horn; symbol of strength or power"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "But, behold, I will raise up against you a nation, O house of Israel, saith the LORD the God of hosts; and they shall afflict you from the entering in of Hamath unto the river of the wilderness.",
+      "highlightedWords": [
+        {
+          "word": "nation",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation, people"
+        },
+        {
+          "word": "Hamath",
+          "strongNumber": "H2574",
+          "lemma": "Chammath",
+          "meaning": "Hamath, a principal city/region of Syria"
+        }
+      ]
+    }
+  ]
+}

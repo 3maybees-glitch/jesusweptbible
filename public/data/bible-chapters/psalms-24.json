@@ -1,0 +1,204 @@
+{
+  "book": "Psalms",
+  "chapter": 24,
+  "chapterTheme": {
+    "twoWordSummary": "Glorious King",
+    "themeWords": [
+      {
+        "word": "King",
+        "strongNumber": "H4428",
+        "lemma": "melek",
+        "meaning": "king, ruler, sovereign"
+      },
+      {
+        "word": "glory",
+        "strongNumber": "H3519",
+        "lemma": "kabod",
+        "meaning": "glory, honor, weighty splendor"
+      }
+    ]
+  },
+  "sentenceTheme": "The earth belongs to the LORD, who invites the pure in heart to His presence, and He enters as the King of glory through the everlasting doors.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "The earth is the LORD's, and the fulness thereof; the world, and they that dwell therein.",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "land, earth, territory"
+        },
+        {
+          "word": "fulness",
+          "strongNumber": "H4393",
+          "lemma": "melo",
+          "meaning": "fullness, that which fills, contents"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "For he hath founded it upon the seas, and established it upon the floods.",
+      "highlightedWords": [
+        {
+          "word": "seas",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "sea, seas"
+        },
+        {
+          "word": "floods",
+          "strongNumber": "H5104",
+          "lemma": "nahar",
+          "meaning": "rivers, streams"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Who shall ascend into the hill of the LORD? or who shall stand in his holy place?",
+      "highlightedWords": [
+        {
+          "word": "ascend",
+          "strongNumber": "H5927",
+          "lemma": "alah",
+          "meaning": "to go up, ascend"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of God, the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "He that hath clean hands, and a pure heart; who hath not lifted up his soul unto vanity, nor sworn deceitfully.",
+      "highlightedWords": [
+        {
+          "word": "clean",
+          "strongNumber": "H5355",
+          "lemma": "naqiy",
+          "meaning": "clean, innocent, free from guilt"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3824",
+          "lemma": "lebab",
+          "meaning": "heart, inner person, mind"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "He shall receive the blessing from the LORD, and righteousness from the God of his salvation.",
+      "highlightedWords": [
+        {
+          "word": "blessing",
+          "strongNumber": "H1293",
+          "lemma": "berakah",
+          "meaning": "blessing, benediction, gift"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "tsedaqah",
+          "meaning": "righteousness, justice"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "This is the generation of them that seek him, that seek thy face, O Jacob. Selah.",
+      "highlightedWords": [
+        {
+          "word": "generation",
+          "strongNumber": "H1755",
+          "lemma": "dor",
+          "meaning": "generation, age, community"
+        },
+        {
+          "word": "face",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "face, presence"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Lift up your heads, O ye gates; and be ye lift up, ye everlasting doors; and the King of glory shall come in.",
+      "highlightedWords": [
+        {
+          "word": "King",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        },
+        {
+          "word": "glory",
+          "strongNumber": "H3519",
+          "lemma": "kabod",
+          "meaning": "glory, honor, splendor"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Who is this King of glory? The LORD strong and mighty, the LORD mighty in battle.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of God, the LORD"
+        },
+        {
+          "word": "mighty",
+          "strongNumber": "H1368",
+          "lemma": "gibbor",
+          "meaning": "mighty, strong, warrior"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Lift up your heads, O ye gates; even lift them up, ye everlasting doors; and the King of glory shall come in.",
+      "highlightedWords": [
+        {
+          "word": "doors",
+          "strongNumber": "H6607",
+          "lemma": "pethach",
+          "meaning": "opening, entrance (doors)"
+        },
+        {
+          "word": "glory",
+          "strongNumber": "H3519",
+          "lemma": "kabod",
+          "meaning": "glory, honor, splendor"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Who is this King of glory? The LORD of hosts, he is the King of glory. Selah.",
+      "highlightedWords": [
+        {
+          "word": "hosts",
+          "strongNumber": "H6635",
+          "lemma": "tsaba",
+          "meaning": "armies, hosts"
+        },
+        {
+          "word": "King",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        }
+      ]
+    }
+  ]
+}

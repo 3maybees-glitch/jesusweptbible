@@ -1,0 +1,402 @@
+{
+  "book": "Jeremiah",
+  "chapter": 37,
+  "chapterTheme": {
+    "twoWordSummary": "False Hope",
+    "themeWords": [
+      {
+        "word": "Zedekiah",
+        "strongNumber": "H6667",
+        "lemma": "Tsidqiyyahu",
+        "meaning": "Zedekiah; 'Yah is righteousness', last king of Judah"
+      },
+      {
+        "word": "Chaldeans",
+        "strongNumber": "H3778",
+        "lemma": "Kasdiy",
+        "meaning": "Chaldeans; Babylonians of Chaldea"
+      }
+    ]
+  },
+  "sentenceTheme": "Zedekiah seeks Jeremiah’s counsel as the Chaldean siege briefly lifts due to Pharaoh’s army, but the LORD affirms Babylon’s victory and Jeremiah is imprisoned yet preserved.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And king Zedekiah the son of Josiah reigned instead of Coniah the son of Jehoiakim, whom Nebuchadrezzar king of Babylon made king in the land of Judah.",
+      "highlightedWords": [
+        {
+          "word": "Zedekiah",
+          "strongNumber": "H6667",
+          "lemma": "Tsidqiyyahu",
+          "meaning": "Zedekiah; 'Yah is righteousness', last king of Judah"
+        },
+        {
+          "word": "Babylon",
+          "strongNumber": "H894",
+          "lemma": "Babel",
+          "meaning": "Babylon; the chief city/empire of Mesopotamia"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "But neither he, nor his servants, nor the people of the land, did hearken unto the words of the LORD, which he spake by the prophet Jeremiah.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah (YHWH)",
+          "meaning": "The personal name of Israel’s God"
+        },
+        {
+          "word": "Jeremiah",
+          "strongNumber": "H3414",
+          "lemma": "Yirmeyahu",
+          "meaning": "Jeremiah; the prophet"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And Zedekiah the king sent Jehucal the son of Shelemiah and Zephaniah the son of Maaseiah the priest to the prophet Jeremiah, saying, Pray now unto the LORD our God for us.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah (YHWH)",
+          "meaning": "The personal name of Israel’s God"
+        },
+        {
+          "word": "Zedekiah",
+          "strongNumber": "H6667",
+          "lemma": "Tsidqiyyahu",
+          "meaning": "Zedekiah; 'Yah is righteousness', last king of Judah"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Now Jeremiah came in and went out among the people: for they had not put him into prison.",
+      "highlightedWords": [
+        {
+          "word": "Jeremiah",
+          "strongNumber": "H3414",
+          "lemma": "Yirmeyahu",
+          "meaning": "Jeremiah; the prophet"
+        },
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "'am",
+          "meaning": "people; a nation or community"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Then Pharaoh's army was come forth out of Egypt: and when the Chaldeans that besieged Jerusalem heard tidings of them, they departed from Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "Pharaoh's",
+          "strongNumber": "H6547",
+          "lemma": "Par'oh",
+          "meaning": "Pharaoh; title of the Egyptian king"
+        },
+        {
+          "word": "Chaldeans",
+          "strongNumber": "H3778",
+          "lemma": "Kasdiy",
+          "meaning": "Chaldeans; Babylonians of Chaldea"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Then came the word of the LORD unto the prophet Jeremiah, saying,",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah (YHWH)",
+          "meaning": "The personal name of Israel’s God"
+        },
+        {
+          "word": "Jeremiah",
+          "strongNumber": "H3414",
+          "lemma": "Yirmeyahu",
+          "meaning": "Jeremiah; the prophet"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Thus saith the LORD, the God of Israel; Thus shall ye say to the king of Judah, that sent you unto me to enquire of me; Behold, Pharaoh's army, which is come forth to help you, shall return to Egypt into their own land.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah (YHWH)",
+          "meaning": "The personal name of Israel’s God"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And the Chaldeans shall come again, and fight against this city, and take it, and burn it with fire.",
+      "highlightedWords": [
+        {
+          "word": "Chaldeans",
+          "strongNumber": "H3778",
+          "lemma": "Kasdiy",
+          "meaning": "Chaldeans; Babylonians of Chaldea"
+        },
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "ir",
+          "meaning": "city, town"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Thus saith the LORD; Deceive not yourselves, saying, The Chaldeans shall surely depart from us: for they shall not depart.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah (YHWH)",
+          "meaning": "The personal name of Israel’s God"
+        },
+        {
+          "word": "Chaldeans",
+          "strongNumber": "H3778",
+          "lemma": "Kasdiy",
+          "meaning": "Chaldeans; Babylonians of Chaldea"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "For though ye had smitten the whole army of the Chaldeans that fight against you, and there remained but wounded men among them, yet should they rise up every man in his tent, and burn this city with fire.",
+      "highlightedWords": [
+        {
+          "word": "Chaldeans",
+          "strongNumber": "H3778",
+          "lemma": "Kasdiy",
+          "meaning": "Chaldeans; Babylonians of Chaldea"
+        },
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "ir",
+          "meaning": "city, town"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And it came to pass, that when the army of the Chaldeans was broken up from Jerusalem for fear of Pharaoh's army,",
+      "highlightedWords": [
+        {
+          "word": "Chaldeans",
+          "strongNumber": "H3778",
+          "lemma": "Kasdiy",
+          "meaning": "Chaldeans; Babylonians of Chaldea"
+        },
+        {
+          "word": "Pharaoh's",
+          "strongNumber": "H6547",
+          "lemma": "Par'oh",
+          "meaning": "Pharaoh; title of the Egyptian king"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Then Jeremiah went forth out of Jerusalem to go into the land of Benjamin, to separate himself thence in the midst of the people.",
+      "highlightedWords": [
+        {
+          "word": "Jeremiah",
+          "strongNumber": "H3414",
+          "lemma": "Yirmeyahu",
+          "meaning": "Jeremiah; the prophet"
+        },
+        {
+          "word": "Benjamin",
+          "strongNumber": "H1144",
+          "lemma": "Binyamin",
+          "meaning": "Benjamin; son of Jacob, also the tribe/territory"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And when he was in the gate of Benjamin, a captain of the ward was there, whose name was Irijah, the son of Shelemiah, the son of Hananiah; and he took Jeremiah the prophet, saying, Thou fallest away to the Chaldeans.",
+      "highlightedWords": [
+        {
+          "word": "gate",
+          "strongNumber": "H8179",
+          "lemma": "sha'ar",
+          "meaning": "gate, gate entrance"
+        },
+        {
+          "word": "Chaldeans",
+          "strongNumber": "H3778",
+          "lemma": "Kasdiy",
+          "meaning": "Chaldeans; Babylonians of Chaldea"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Then said Jeremiah, It is false; I fall not away to the Chaldeans. But he hearkened not to him: so Irijah took Jeremiah, and brought him to the princes.",
+      "highlightedWords": [
+        {
+          "word": "Jeremiah",
+          "strongNumber": "H3414",
+          "lemma": "Yirmeyahu",
+          "meaning": "Jeremiah; the prophet"
+        },
+        {
+          "word": "princes",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "prince, ruler, official"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Wherefore the princes were wroth with Jeremiah, and smote him, and put him in prison in the house of Jonathan the scribe: for they had made that the prison.",
+      "highlightedWords": [
+        {
+          "word": "princes",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "prince, ruler, official"
+        },
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayit",
+          "meaning": "house, household, building"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "When Jeremiah was entered into the dungeon, and into the cabins, and Jeremiah had remained there many days;",
+      "highlightedWords": [
+        {
+          "word": "Jeremiah",
+          "strongNumber": "H3414",
+          "lemma": "Yirmeyahu",
+          "meaning": "Jeremiah; the prophet"
+        },
+        {
+          "word": "days",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day; period of time"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Then Zedekiah the king sent, and took him out: and the king asked him secretly in his house, and said, Is there any word from the LORD? And Jeremiah said, There is: for, said he, thou shalt be delivered into the hand of the king of Babylon.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah (YHWH)",
+          "meaning": "The personal name of Israel’s God"
+        },
+        {
+          "word": "Babylon",
+          "strongNumber": "H894",
+          "lemma": "Babel",
+          "meaning": "Babylon; the chief city/empire of Mesopotamia"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Moreover Jeremiah said unto king Zedekiah, What have I offended against thee, or against thy servants, or against this people, that ye have put me in prison?",
+      "highlightedWords": [
+        {
+          "word": "Jeremiah",
+          "strongNumber": "H3414",
+          "lemma": "Yirmeyahu",
+          "meaning": "Jeremiah; the prophet"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Where are now your prophets which prophesied unto you, saying, The king of Babylon shall not come against you, nor against this land?",
+      "highlightedWords": [
+        {
+          "word": "prophets",
+          "strongNumber": "H5030",
+          "lemma": "nabi'",
+          "meaning": "prophet; spokesman"
+        },
+        {
+          "word": "Babylon",
+          "strongNumber": "H894",
+          "lemma": "Babel",
+          "meaning": "Babylon; the chief city/empire of Mesopotamia"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Therefore hear now, I pray thee, O my lord the king: let my supplication, I pray thee, be accepted before thee; that thou cause me not to return to the house of Jonathan the scribe, lest I die there.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        },
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayit",
+          "meaning": "house, household, building"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Then Zedekiah the king commanded that they should commit Jeremiah into the court of the prison, and that they should give him daily a piece of bread out of the bakers' street, until all the bread in the city were spent. Thus Jeremiah remained in the court of the prison.",
+      "highlightedWords": [
+        {
+          "word": "court",
+          "strongNumber": "H2691",
+          "lemma": "chatser",
+          "meaning": "court, courtyard, enclosure"
+        },
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread, food"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,456 @@
+{
+  "book": "1 Samuel",
+  "chapter": 19,
+  "chapterTheme": {
+    "twoWordSummary": "Pursuit Thwarted",
+    "themeWords": [
+      {
+        "word": "Saul",
+        "strongNumber": "H7586",
+        "lemma": "Sha'ul",
+        "meaning": "asked (for); Saul, first king of Israel"
+      },
+      {
+        "word": "David",
+        "strongNumber": "H1732",
+        "lemma": "Dawid",
+        "meaning": "beloved; David, second king of Israel"
+      }
+    ]
+  },
+  "sentenceTheme": "Saul seeks David’s life, but Jonathan and Michal protect him, and the Spirit of God overpowers Saul’s pursuit.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And Saul spake to Jonathan his son, and to all his servants, that they should kill David.",
+      "highlightedWords": [
+        {
+          "word": "Saul",
+          "strongNumber": "H7586",
+          "lemma": "Sha'ul",
+          "meaning": "asked (for); Saul, first king of Israel"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dawid",
+          "meaning": "beloved; David, second king of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "But Jonathan Saul's son delighted much in David: and Jonathan told David, saying, Saul my father seeketh to kill thee: now therefore, I pray thee, take heed to thyself until the morning, and abide in a secret place, and hide thyself:",
+      "highlightedWords": [
+        {
+          "word": "Jonathan",
+          "strongNumber": "H3083",
+          "lemma": "Yehonathan",
+          "meaning": "Yahweh has given; Jonathan"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dawid",
+          "meaning": "beloved; David, second king of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And I will go out and stand beside my father in the field where thou art, and I will commune with my father of thee; and what I see, that I will tell thee.",
+      "highlightedWords": [
+        {
+          "word": "father",
+          "strongNumber": "H1",
+          "lemma": "'ab",
+          "meaning": "father, ancestor"
+        },
+        {
+          "word": "field",
+          "strongNumber": "H7704",
+          "lemma": "sadeh",
+          "meaning": "field, open country"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And Jonathan spake good of David unto Saul his father, and said unto him, Let not the king sin against his servant, against David; because he hath not sinned against thee, and because his works have been to thee-ward very good:",
+      "highlightedWords": [
+        {
+          "word": "Jonathan",
+          "strongNumber": "H3083",
+          "lemma": "Yehonathan",
+          "meaning": "Yahweh has given; Jonathan"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dawid",
+          "meaning": "beloved; David, second king of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "For he did put his life in his hand, and slew the Philistine, and the LORD wrought a great salvation for all Israel: thou sawest it, and didst rejoice: wherefore then wilt thou sin against innocent blood, to slay David without a cause?",
+      "highlightedWords": [
+        {
+          "word": "Philistine",
+          "strongNumber": "H6430",
+          "lemma": "Pelishtiy",
+          "meaning": "Philistine; person of Philistia"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And Saul hearkened unto the voice of Jonathan: and Saul sware, As the LORD liveth, he shall not be slain.",
+      "highlightedWords": [
+        {
+          "word": "Saul",
+          "strongNumber": "H7586",
+          "lemma": "Sha'ul",
+          "meaning": "asked (for); Saul, first king of Israel"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And Jonathan called David, and Jonathan shewed him all those things. And Jonathan brought David to Saul, and he was in his presence, as in times past.",
+      "highlightedWords": [
+        {
+          "word": "Jonathan",
+          "strongNumber": "H3083",
+          "lemma": "Yehonathan",
+          "meaning": "Yahweh has given; Jonathan"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dawid",
+          "meaning": "beloved; David, second king of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And there was war again: and David went out, and fought with the Philistines, and slew them with a great slaughter; and they fled from him.",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dawid",
+          "meaning": "beloved; David, second king of Israel"
+        },
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pelishtiy",
+          "meaning": "Philistines; people of Philistia"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And the evil spirit from the LORD was upon Saul, as he sat in his house with his javelin in his hand: and David played with his hand.",
+      "highlightedWords": [
+        {
+          "word": "spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "breath, wind, spirit"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And Saul sought to smite David even to the wall with the javelin; but he slipped away out of Saul's presence: and he smote the javelin into the wall: and David fled, and escaped that night.",
+      "highlightedWords": [
+        {
+          "word": "Saul",
+          "strongNumber": "H7586",
+          "lemma": "Sha'ul",
+          "meaning": "asked (for); Saul, first king of Israel"
+        },
+        {
+          "word": "javelin",
+          "strongNumber": "H2595",
+          "lemma": "chanith",
+          "meaning": "spear, javelin"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Saul also sent messengers unto David's house, to watch him, and to slay him in the morning: and Michal David's wife told him, saying, If thou save not thy life to night, to morrow thou shalt be slain.",
+      "highlightedWords": [
+        {
+          "word": "Saul",
+          "strongNumber": "H7586",
+          "lemma": "Sha'ul",
+          "meaning": "asked (for); Saul, first king of Israel"
+        },
+        {
+          "word": "Michal",
+          "strongNumber": "H4324",
+          "lemma": "Mikhal",
+          "meaning": "Michal, Saul's daughter"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "So Michal let David down through a window: and he went, and fled, and escaped.",
+      "highlightedWords": [
+        {
+          "word": "Michal",
+          "strongNumber": "H4324",
+          "lemma": "Mikhal",
+          "meaning": "Michal, Saul's daughter"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dawid",
+          "meaning": "beloved; David, second king of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And Michal took an image, and laid it in the bed, and put a pillow of goats' hair for his bolster, and covered it with a cloth.",
+      "highlightedWords": [
+        {
+          "word": "Michal",
+          "strongNumber": "H4324",
+          "lemma": "Mikhal",
+          "meaning": "Michal, Saul's daughter"
+        },
+        {
+          "word": "image",
+          "strongNumber": "H8655",
+          "lemma": "teraphim",
+          "meaning": "household idol"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And when Saul sent messengers to take David, she said, He is sick.",
+      "highlightedWords": [
+        {
+          "word": "Saul",
+          "strongNumber": "H7586",
+          "lemma": "Sha'ul",
+          "meaning": "asked (for); Saul, first king of Israel"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dawid",
+          "meaning": "beloved; David, second king of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And Saul sent the messengers again to see David, saying, Bring him up to me in the bed, that I may slay him.",
+      "highlightedWords": [
+        {
+          "word": "Saul",
+          "strongNumber": "H7586",
+          "lemma": "Sha'ul",
+          "meaning": "asked (for); Saul, first king of Israel"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dawid",
+          "meaning": "beloved; David, second king of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And when the messengers were come in, behold, there was an image in the bed, with a pillow of goats' hair for his bolster.",
+      "highlightedWords": [
+        {
+          "word": "image",
+          "strongNumber": "H8655",
+          "lemma": "teraphim",
+          "meaning": "household idol"
+        },
+        {
+          "word": "messengers",
+          "strongNumber": "H4397",
+          "lemma": "mal'ak",
+          "meaning": "messenger, envoy, angel"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And Saul said unto Michal, Why hast thou deceived me so, and sent away mine enemy, that he is escaped? And Michal answered Saul, He said unto me, Let me go; why should I kill thee?",
+      "highlightedWords": [
+        {
+          "word": "Saul",
+          "strongNumber": "H7586",
+          "lemma": "Sha'ul",
+          "meaning": "asked (for); Saul, first king of Israel"
+        },
+        {
+          "word": "Michal",
+          "strongNumber": "H4324",
+          "lemma": "Mikhal",
+          "meaning": "Michal, Saul's daughter"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "So David fled, and escaped, and came to Samuel to Ramah, and told him all that Saul had done to him. And he and Samuel went and dwelt in Naioth.",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dawid",
+          "meaning": "beloved; David, second king of Israel"
+        },
+        {
+          "word": "Samuel",
+          "strongNumber": "H8050",
+          "lemma": "Shemu'el",
+          "meaning": "Samuel; name meaning 'name of God'"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And it was told Saul, saying, Behold, David is at Naioth in Ramah.",
+      "highlightedWords": [
+        {
+          "word": "Saul",
+          "strongNumber": "H7586",
+          "lemma": "Sha'ul",
+          "meaning": "asked (for); Saul, first king of Israel"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dawid",
+          "meaning": "beloved; David, second king of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And Saul sent messengers to take David: and when they saw the company of the prophets prophesying, and Samuel standing as appointed over them, the Spirit of God was upon the messengers of Saul, and they also prophesied.",
+      "highlightedWords": [
+        {
+          "word": "Spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "breath, wind, spirit"
+        },
+        {
+          "word": "prophesied",
+          "strongNumber": "H5012",
+          "lemma": "naba'",
+          "meaning": "to prophesy, speak by divine inspiration"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And when it was told Saul, he sent other messengers, and they prophesied likewise. And Saul sent messengers again the third time, and they prophesied also.",
+      "highlightedWords": [
+        {
+          "word": "Saul",
+          "strongNumber": "H7586",
+          "lemma": "Sha'ul",
+          "meaning": "asked (for); Saul, first king of Israel"
+        },
+        {
+          "word": "prophesied",
+          "strongNumber": "H5012",
+          "lemma": "naba'",
+          "meaning": "to prophesy, speak by divine inspiration"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Then went he also to Ramah, and came to a great well that is in Sechu: and he asked and said, Where are Samuel and David? And one said, Behold, they be at Naioth in Ramah.",
+      "highlightedWords": [
+        {
+          "word": "Ramah",
+          "strongNumber": "H7414",
+          "lemma": "Ramah",
+          "meaning": "height; a town in Benjamin"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dawid",
+          "meaning": "beloved; David, second king of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And he went thither to Naioth in Ramah: and the Spirit of God was upon him also, and he went on, and prophesied, until he came to Naioth in Ramah.",
+      "highlightedWords": [
+        {
+          "word": "Spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "breath, wind, spirit"
+        },
+        {
+          "word": "prophesied",
+          "strongNumber": "H5012",
+          "lemma": "naba'",
+          "meaning": "to prophesy, speak by divine inspiration"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And he stripped off his clothes also, and prophesied before Samuel in like manner, and lay down naked all that day and all that night. Wherefore they say, Is Saul also among the prophets?",
+      "highlightedWords": [
+        {
+          "word": "Saul",
+          "strongNumber": "H7586",
+          "lemma": "Sha'ul",
+          "meaning": "asked (for); Saul, first king of Israel"
+        },
+        {
+          "word": "prophets",
+          "strongNumber": "H5030",
+          "lemma": "nabi'",
+          "meaning": "prophet, spokesman"
+        }
+      ]
+    }
+  ]
+}

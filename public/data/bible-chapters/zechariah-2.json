@@ -1,0 +1,258 @@
+{
+  "book": "Zechariah",
+  "chapter": 2,
+  "chapterTheme": {
+    "twoWordSummary": "Measuring Jerusalem",
+    "themeWords": [
+      {
+        "word": "Jerusalem",
+        "strongNumber": "H3389",
+        "lemma": "Yerushalayim",
+        "meaning": "Jerusalem, the chief city of Israel; foundation of peace"
+      },
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH (Yahweh)",
+        "meaning": "The personal name of the God of Israel"
+      }
+    ]
+  },
+  "sentenceTheme": "A man with a measuring line reveals Jerusalem’s expansion and the LORD’s fiery protection, calling exiles to flee and foretelling that many nations will join the LORD as His people.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "I lifted up mine eyes again, and looked, and behold a man with a measuring line in his hand.",
+      "highlightedWords": [
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "ʿayin",
+          "meaning": "eye; by extension sight or appearance"
+        },
+        {
+          "word": "man",
+          "strongNumber": "H376",
+          "lemma": "ʾish",
+          "meaning": "man, male, person"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Then said I, Whither goest thou? And he said unto me, To measure Jerusalem, to see what is the breadth thereof, and what is the length thereof.",
+      "highlightedWords": [
+        {
+          "word": "measure",
+          "strongNumber": "H4058",
+          "lemma": "madad",
+          "meaning": "to measure, stretch out"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem, the chief city of Israel; foundation of peace"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And, behold, the angel that talked with me went forth, and another angel went out to meet him,",
+      "highlightedWords": [
+        {
+          "word": "angel",
+          "strongNumber": "H4397",
+          "lemma": "malʾak",
+          "meaning": "messenger, angel"
+        },
+        {
+          "word": "meet",
+          "strongNumber": "H7122",
+          "lemma": "qaraʾ",
+          "meaning": "to encounter, meet, befall"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And said unto him, Run, speak to this young man, saying, Jerusalem shall be inhabited as towns without walls for the multitude of men and cattle therein:",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem, the chief city of Israel; foundation of peace"
+        },
+        {
+          "word": "walls",
+          "strongNumber": "H2346",
+          "lemma": "chomah",
+          "meaning": "wall, especially of a city"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "For I, saith the LORD, will be unto her a wall of fire round about, and will be the glory in the midst of her.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yahweh)",
+          "meaning": "The personal name of the God of Israel"
+        },
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "ʾesh",
+          "meaning": "fire"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Ho, ho, come forth, and flee from the land of the north, saith the LORD: for I have spread you abroad as the four winds of the heaven, saith the LORD.",
+      "highlightedWords": [
+        {
+          "word": "north",
+          "strongNumber": "H6828",
+          "lemma": "tsafon",
+          "meaning": "north, northern"
+        },
+        {
+          "word": "winds",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "wind, breath, spirit"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Deliver thyself, O Zion, that dwellest with the daughter of Babylon.",
+      "highlightedWords": [
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyyon",
+          "meaning": "Zion, a designation for Jerusalem"
+        },
+        {
+          "word": "Babylon",
+          "strongNumber": "H894",
+          "lemma": "Bavel",
+          "meaning": "Babylon, Babel"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "For thus saith the LORD of hosts; After the glory hath he sent me unto the nations which spoiled you: for he that toucheth you toucheth the apple of his eye.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yahweh)",
+          "meaning": "The personal name of the God of Israel"
+        },
+        {
+          "word": "toucheth",
+          "strongNumber": "H5060",
+          "lemma": "nagaʿ",
+          "meaning": "to touch, strike, reach"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "For, behold, I will shake mine hand upon them, and they shall be a spoil to their servants: and ye shall know that the LORD of hosts hath sent me.",
+      "highlightedWords": [
+        {
+          "word": "shake",
+          "strongNumber": "H5130",
+          "lemma": "nuʿa",
+          "meaning": "to shake, wave, brandish"
+        },
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Sing and rejoice, O daughter of Zion: for, lo, I come, and I will dwell in the midst of thee, saith the LORD.",
+      "highlightedWords": [
+        {
+          "word": "dwell",
+          "strongNumber": "H7931",
+          "lemma": "shakan",
+          "meaning": "to settle down, dwell, abide"
+        },
+        {
+          "word": "midst",
+          "strongNumber": "H8432",
+          "lemma": "tavek",
+          "meaning": "midst, middle, among"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And many nations shall be joined to the LORD in that day, and shall be my people: and I will dwell in the midst of thee, and thou shalt know that the LORD of hosts hath sent me unto thee.",
+      "highlightedWords": [
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation, people, Gentiles"
+        },
+        {
+          "word": "joined",
+          "strongNumber": "H3867",
+          "lemma": "lavah",
+          "meaning": "to join, be joined, attach oneself"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And the LORD shall inherit Judah his portion in the holy land, and shall choose Jerusalem again.",
+      "highlightedWords": [
+        {
+          "word": "inherit",
+          "strongNumber": "H5157",
+          "lemma": "nachal",
+          "meaning": "to inherit, take possession"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah, the southern kingdom; also the tribe"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Be silent, O all flesh, before the LORD: for he is raised up out of his holy habitation.",
+      "highlightedWords": [
+        {
+          "word": "flesh",
+          "strongNumber": "H1320",
+          "lemma": "basar",
+          "meaning": "flesh, body; by extension humankind"
+        },
+        {
+          "word": "habitation",
+          "strongNumber": "H4583",
+          "lemma": "maʿon",
+          "meaning": "dwelling, habitation"
+        }
+      ]
+    }
+  ]
+}

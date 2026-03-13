@@ -1,0 +1,420 @@
+{
+  "book": "Job",
+  "chapter": 8,
+  "chapterTheme": {
+    "twoWordSummary": "Retributive Justice",
+    "themeWords": [
+      {
+        "word": "judgment",
+        "strongNumber": "H4941",
+        "lemma": "mishpat",
+        "meaning": "justice, legal decision"
+      },
+      {
+        "word": "Almighty",
+        "strongNumber": "H7706",
+        "lemma": "Shaddai",
+        "meaning": "the Almighty"
+      }
+    ]
+  },
+  "sentenceTheme": "Bildad contends that God is just, urges Job to seek Him, and contrasts the fleeting hope of the godless with the vindication of the upright.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Then answered Bildad the Shuhite, and said,",
+      "highlightedWords": [
+        {
+          "word": "answered",
+          "strongNumber": "H6030",
+          "lemma": "ʿanah",
+          "meaning": "to answer, respond"
+        },
+        {
+          "word": "said",
+          "strongNumber": "H559",
+          "lemma": "ʾamar",
+          "meaning": "to say, declare"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "How long wilt thou speak these things? and how long shall the words of thy mouth be like a strong wind?",
+      "highlightedWords": [
+        {
+          "word": "speak",
+          "strongNumber": "H1696",
+          "lemma": "dabar",
+          "meaning": "to speak, talk"
+        },
+        {
+          "word": "wind",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "wind, breath, spirit"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Doth God pervert judgment? or doth the Almighty pervert justice?",
+      "highlightedWords": [
+        {
+          "word": "Almighty",
+          "strongNumber": "H7706",
+          "lemma": "Shaddai",
+          "meaning": "the Almighty"
+        },
+        {
+          "word": "justice",
+          "strongNumber": "H6664",
+          "lemma": "tsedeq",
+          "meaning": "righteousness, justice"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "If thy children have sinned against him, and he have cast them away for their transgression;",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child"
+        },
+        {
+          "word": "sinned",
+          "strongNumber": "H2398",
+          "lemma": "chataʾ",
+          "meaning": "to sin, miss the mark"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "If thou wouldest seek unto God betimes, and make thy supplication to the Almighty;",
+      "highlightedWords": [
+        {
+          "word": "seek",
+          "strongNumber": "H7836",
+          "lemma": "shachar",
+          "meaning": "to seek early, diligently"
+        },
+        {
+          "word": "Almighty",
+          "strongNumber": "H7706",
+          "lemma": "Shaddai",
+          "meaning": "the Almighty"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "If thou wert pure and upright; surely now he would awake for thee, and make the habitation of thy righteousness prosperous.",
+      "highlightedWords": [
+        {
+          "word": "pure",
+          "strongNumber": "H2134",
+          "lemma": "zak",
+          "meaning": "pure, clean"
+        },
+        {
+          "word": "upright",
+          "strongNumber": "H3477",
+          "lemma": "yashar",
+          "meaning": "upright, straight"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Though thy beginning was small, yet thy latter end should greatly increase.",
+      "highlightedWords": [
+        {
+          "word": "beginning",
+          "strongNumber": "H7225",
+          "lemma": "reshith",
+          "meaning": "beginning, first part"
+        },
+        {
+          "word": "increase",
+          "strongNumber": "H7235",
+          "lemma": "rabah",
+          "meaning": "to become many, increase"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "For enquire, I pray thee, of the former age, and prepare thyself to the search of their fathers:",
+      "highlightedWords": [
+        {
+          "word": "enquire",
+          "strongNumber": "H7592",
+          "lemma": "shaʾal",
+          "meaning": "to ask, inquire"
+        },
+        {
+          "word": "fathers",
+          "strongNumber": "H1",
+          "lemma": "ʾab",
+          "meaning": "father, ancestor"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "(For we are but of yesterday, and know nothing, because our days upon earth are a shadow:)",
+      "highlightedWords": [
+        {
+          "word": "yesterday",
+          "strongNumber": "H8543",
+          "lemma": "temol",
+          "meaning": "yesterday, recently"
+        },
+        {
+          "word": "shadow",
+          "strongNumber": "H6738",
+          "lemma": "tsel",
+          "meaning": "shadow, shade"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Shall not they teach thee, and tell thee, and utter words out of their heart?",
+      "highlightedWords": [
+        {
+          "word": "teach",
+          "strongNumber": "H3384",
+          "lemma": "yarah",
+          "meaning": "to teach, instruct"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3824",
+          "lemma": "lebab",
+          "meaning": "heart, inner person"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Can the rush grow up without mire? can the flag grow without water?",
+      "highlightedWords": [
+        {
+          "word": "rush",
+          "strongNumber": "H1570",
+          "lemma": "gomeʾ",
+          "meaning": "papyrus, rush, reed"
+        },
+        {
+          "word": "water",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "water"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Whilst it is yet in his greenness, and not cut down, it withereth before any other herb.",
+      "highlightedWords": [
+        {
+          "word": "herb",
+          "strongNumber": "H6212",
+          "lemma": "ʿesev",
+          "meaning": "grass, herb"
+        },
+        {
+          "word": "other",
+          "strongNumber": "H312",
+          "lemma": "ʾacher",
+          "meaning": "another, other"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "So are the paths of all that forget God; and the hypocrite's hope shall perish:",
+      "highlightedWords": [
+        {
+          "word": "paths",
+          "strongNumber": "H734",
+          "lemma": "orach",
+          "meaning": "path, way"
+        },
+        {
+          "word": "hypocrite's",
+          "strongNumber": "H2611",
+          "lemma": "chaneph",
+          "meaning": "godless, profane, hypocrite"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Whose hope shall be cut off, and whose trust shall be a spider's web.",
+      "highlightedWords": [
+        {
+          "word": "trust",
+          "strongNumber": "H4009",
+          "lemma": "mibtach",
+          "meaning": "trust, confidence"
+        },
+        {
+          "word": "spider's",
+          "strongNumber": "H5908",
+          "lemma": "ʿakkabish",
+          "meaning": "spider"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "He shall lean upon his house, but it shall not stand: he shall hold it fast, but it shall not endure.",
+      "highlightedWords": [
+        {
+          "word": "lean",
+          "strongNumber": "H8172",
+          "lemma": "shaʿan",
+          "meaning": "to lean, rely"
+        },
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayit",
+          "meaning": "house, household"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "He is green before the sun, and his branch shooteth forth in his garden.",
+      "highlightedWords": [
+        {
+          "word": "sun",
+          "strongNumber": "H8121",
+          "lemma": "shemesh",
+          "meaning": "sun"
+        },
+        {
+          "word": "garden",
+          "strongNumber": "H1588",
+          "lemma": "gan",
+          "meaning": "garden"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "His roots are wrapped about the heap, and seeth the place of stones.",
+      "highlightedWords": [
+        {
+          "word": "roots",
+          "strongNumber": "H8328",
+          "lemma": "shoresh",
+          "meaning": "root"
+        },
+        {
+          "word": "stones",
+          "strongNumber": "H68",
+          "lemma": "ʾeben",
+          "meaning": "stone"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "If he destroy him from his place, then it shall deny him, saying, I have not seen thee.",
+      "highlightedWords": [
+        {
+          "word": "place",
+          "strongNumber": "H4725",
+          "lemma": "maqom",
+          "meaning": "place, location"
+        },
+        {
+          "word": "seen",
+          "strongNumber": "H7200",
+          "lemma": "raʾah",
+          "meaning": "to see"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Behold, this is the joy of his way, and out of the earth shall others grow.",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "ʾerets",
+          "meaning": "earth, land"
+        },
+        {
+          "word": "grow",
+          "strongNumber": "H6779",
+          "lemma": "tsamach",
+          "meaning": "to sprout, grow"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Behold, God will not cast away a perfect man, neither will he help the evil doers:",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H410",
+          "lemma": "ʾEl",
+          "meaning": "God, Mighty One"
+        },
+        {
+          "word": "perfect",
+          "strongNumber": "H8535",
+          "lemma": "tam",
+          "meaning": "blameless, perfect"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Till he fill thy mouth with laughing, and thy lips with rejoicing.",
+      "highlightedWords": [
+        {
+          "word": "mouth",
+          "strongNumber": "H6310",
+          "lemma": "peh",
+          "meaning": "mouth"
+        },
+        {
+          "word": "lips",
+          "strongNumber": "H8193",
+          "lemma": "saphah",
+          "meaning": "lip, speech"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "They that hate thee shall be clothed with shame; and the dwelling place of the wicked shall come to nought.",
+      "highlightedWords": [
+        {
+          "word": "hate",
+          "strongNumber": "H8130",
+          "lemma": "saneʾ",
+          "meaning": "to hate"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rashaʿ",
+          "meaning": "wicked, guilty"
+        }
+      ]
+    }
+  ]
+}

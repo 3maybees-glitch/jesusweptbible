@@ -1,0 +1,276 @@
+{
+  "book": "Psalms",
+  "chapter": 27,
+  "chapterTheme": {
+    "twoWordSummary": "Fearless Confidence",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "Yehovah",
+        "meaning": "the covenant name of the God of Israel; the LORD"
+      },
+      {
+        "word": "wait",
+        "strongNumber": "H6960",
+        "lemma": "qavah",
+        "meaning": "to wait for, look eagerly for, hope"
+      }
+    ]
+  },
+  "sentenceTheme": "David proclaims fearless trust in the LORD, longs to dwell in His presence, seeks His face, and waits confidently for His deliverance amid enemies.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "The LORD is my light and my salvation; whom shall I fear? the LORD is the strength of my life; of whom shall I be afraid?",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the covenant name of the God of Israel; the LORD"
+        },
+        {
+          "word": "light",
+          "strongNumber": "H216",
+          "lemma": "or",
+          "meaning": "light, illumination"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "When the wicked, even mine enemies and my foes, came upon me to eat up my flesh, they stumbled and fell.",
+      "highlightedWords": [
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "oyev",
+          "meaning": "enemy, foe"
+        },
+        {
+          "word": "fell",
+          "strongNumber": "H5307",
+          "lemma": "naphal",
+          "meaning": "to fall, collapse"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Though an host should encamp against me, my heart shall not fear: though war should rise against me, in this will I be confident.",
+      "highlightedWords": [
+        {
+          "word": "host",
+          "strongNumber": "H4264",
+          "lemma": "machaneh",
+          "meaning": "camp, army, host"
+        },
+        {
+          "word": "fear",
+          "strongNumber": "H3372",
+          "lemma": "yare",
+          "meaning": "to fear, be afraid, revere"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "One thing have I desired of the LORD, that will I seek after; that I may dwell in the house of the LORD all the days of my life, to behold the beauty of the LORD, and to enquire in his temple.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the covenant name of the God of Israel; the LORD"
+        },
+        {
+          "word": "beauty",
+          "strongNumber": "H5278",
+          "lemma": "noam",
+          "meaning": "pleasantness, beauty, delightfulness"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "For in the time of trouble he shall hide me in his pavilion: in the secret of his tabernacle shall he hide me; he shall set me up upon a rock.",
+      "highlightedWords": [
+        {
+          "word": "pavilion",
+          "strongNumber": "H5521",
+          "lemma": "sukkah",
+          "meaning": "booth, shelter, pavilion"
+        },
+        {
+          "word": "rock",
+          "strongNumber": "H6697",
+          "lemma": "tsur",
+          "meaning": "rock, cliff; figuratively a refuge"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And now shall mine head be lifted up above mine enemies round about me: therefore will I offer in his tabernacle sacrifices of joy; I will sing, yea, I will sing praises unto the LORD.",
+      "highlightedWords": [
+        {
+          "word": "tabernacle",
+          "strongNumber": "H168",
+          "lemma": "ohel",
+          "meaning": "tent, dwelling, tabernacle"
+        },
+        {
+          "word": "praises",
+          "strongNumber": "H2167",
+          "lemma": "zamar",
+          "meaning": "to make music, sing praise"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Hear, O LORD, when I cry with my voice: have mercy also upon me, and answer me.",
+      "highlightedWords": [
+        {
+          "word": "Hear",
+          "strongNumber": "H8085",
+          "lemma": "shama",
+          "meaning": "to hear, listen, give heed"
+        },
+        {
+          "word": "answer",
+          "strongNumber": "H6030",
+          "lemma": "anah",
+          "meaning": "to answer, respond"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "When thou saidst, Seek ye my face; my heart said unto thee, Thy face, LORD, will I seek.",
+      "highlightedWords": [
+        {
+          "word": "Seek",
+          "strongNumber": "H1245",
+          "lemma": "baqash",
+          "meaning": "to seek, search for, strive after"
+        },
+        {
+          "word": "face",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "face, presence"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Hide not thy face far from me; put not thy servant away in anger: thou hast been my help; leave me not, neither forsake me, O God of my salvation.",
+      "highlightedWords": [
+        {
+          "word": "servant",
+          "strongNumber": "H5650",
+          "lemma": "ebed",
+          "meaning": "servant, slave, bondman"
+        },
+        {
+          "word": "salvation",
+          "strongNumber": "H3468",
+          "lemma": "yesha",
+          "meaning": "deliverance, salvation, victory"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "When my father and my mother forsake me, then the LORD will take me up.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the covenant name of the God of Israel; the LORD"
+        },
+        {
+          "word": "father",
+          "strongNumber": "H1",
+          "lemma": "ab",
+          "meaning": "father"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Teach me thy way, O LORD, and lead me in a plain path, because of mine enemies.",
+      "highlightedWords": [
+        {
+          "word": "way",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way, road, path, manner"
+        },
+        {
+          "word": "lead",
+          "strongNumber": "H5148",
+          "lemma": "nachah",
+          "meaning": "to lead, guide"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Deliver me not over unto the will of mine enemies: for false witnesses are risen up against me, and such as breathe out cruelty.",
+      "highlightedWords": [
+        {
+          "word": "witnesses",
+          "strongNumber": "H5707",
+          "lemma": "ed",
+          "meaning": "witness, testimony"
+        },
+        {
+          "word": "cruelty",
+          "strongNumber": "H2555",
+          "lemma": "chamas",
+          "meaning": "violence, wrong, cruelty"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "I had fainted, unless I had believed to see the goodness of the LORD in the land of the living.",
+      "highlightedWords": [
+        {
+          "word": "believed",
+          "strongNumber": "H539",
+          "lemma": "aman",
+          "meaning": "to believe, trust, be faithful"
+        },
+        {
+          "word": "goodness",
+          "strongNumber": "H2898",
+          "lemma": "tuwb",
+          "meaning": "goodness, bounty"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Wait on the LORD: be of good courage, and he shall strengthen thine heart: wait, I say, on the LORD.",
+      "highlightedWords": [
+        {
+          "word": "Wait",
+          "strongNumber": "H6960",
+          "lemma": "qavah",
+          "meaning": "to wait for, hope, look eagerly"
+        },
+        {
+          "word": "strengthen",
+          "strongNumber": "H553",
+          "lemma": "amats",
+          "meaning": "to make strong, strengthen, encourage"
+        }
+      ]
+    }
+  ]
+}

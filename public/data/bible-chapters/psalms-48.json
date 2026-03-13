@@ -1,0 +1,276 @@
+{
+  "book": "Psalms",
+  "chapter": 48,
+  "chapterTheme": {
+    "twoWordSummary": "Zion's Security",
+    "themeWords": [
+      {
+        "word": "Zion",
+        "strongNumber": "H6726",
+        "lemma": "Tsiyyon",
+        "meaning": "Zion; a mountain in Jerusalem; by extension the city/people of God"
+      },
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "Yehovah",
+        "meaning": "The personal name of Israel's God (YHWH)"
+      }
+    ]
+  },
+  "sentenceTheme": "God’s steadfast presence makes Zion a place of joy and safety, confounding hostile kings and calling His people to remember and proclaim His covenant love through all generations.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Great is the LORD, and greatly to be praised in the city of our God, in the mountain of his holiness.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "The personal name of Israel's God (YHWH)"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’Elohim",
+          "meaning": "God; the true God; mighty one"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Beautiful for situation, the joy of the whole earth, is mount Zion, on the sides of the north, the city of the great King.",
+      "highlightedWords": [
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyyon",
+          "meaning": "Zion; a mountain in Jerusalem; by extension the city/people of God"
+        },
+        {
+          "word": "King",
+          "strongNumber": "H4428",
+          "lemma": "melekh",
+          "meaning": "King; ruler"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "God is known in her palaces for a refuge.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’Elohim",
+          "meaning": "God; the true God; mighty one"
+        },
+        {
+          "word": "refuge",
+          "strongNumber": "H4869",
+          "lemma": "misgab",
+          "meaning": "High place; stronghold; refuge"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "For, lo, the kings were assembled, they passed by together.",
+      "highlightedWords": [
+        {
+          "word": "kings",
+          "strongNumber": "H4428",
+          "lemma": "melekh",
+          "meaning": "Kings; rulers"
+        },
+        {
+          "word": "together",
+          "strongNumber": "H3162",
+          "lemma": "yachdav",
+          "meaning": "Together; as one; unitedly"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "They saw it, and so they marvelled; they were troubled, and hasted away.",
+      "highlightedWords": [
+        {
+          "word": "saw",
+          "strongNumber": "H7200",
+          "lemma": "ra’ah",
+          "meaning": "To see; perceive"
+        },
+        {
+          "word": "troubled",
+          "strongNumber": "H926",
+          "lemma": "bahal",
+          "meaning": "To be disturbed; terrified; troubled"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Fear took hold upon them there, and pain, as of a woman in travail.",
+      "highlightedWords": [
+        {
+          "word": "Fear",
+          "strongNumber": "H6343",
+          "lemma": "pachad",
+          "meaning": "Dread; terror; fear"
+        },
+        {
+          "word": "woman",
+          "strongNumber": "H802",
+          "lemma": "’ishshah",
+          "meaning": "Woman; wife; female"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Thou breakest the ships of Tarshish with an east wind.",
+      "highlightedWords": [
+        {
+          "word": "ships",
+          "strongNumber": "H591",
+          "lemma": "’oniyah",
+          "meaning": "Ship; vessel"
+        },
+        {
+          "word": "wind",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "Wind; breath; spirit"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "As we have heard, so have we seen in the city of the LORD of hosts, in the city of our God: God will establish it for ever. Selah.",
+      "highlightedWords": [
+        {
+          "word": "hosts",
+          "strongNumber": "H6635",
+          "lemma": "tsaba’",
+          "meaning": "Host; army; heavenly bodies"
+        },
+        {
+          "word": "ever",
+          "strongNumber": "H5769",
+          "lemma": "‘olam",
+          "meaning": "Everlasting; perpetuity; forever"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "We have thought of thy lovingkindness, O God, in the midst of thy temple.",
+      "highlightedWords": [
+        {
+          "word": "lovingkindness",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "Steadfast love; covenant loyalty; kindness"
+        },
+        {
+          "word": "temple",
+          "strongNumber": "H1964",
+          "lemma": "heykal",
+          "meaning": "Temple; palace"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "According to thy name, O God, so is thy praise unto the ends of the earth: thy right hand is full of righteousness.",
+      "highlightedWords": [
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "Name; reputation; renown"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "tsedaqah",
+          "meaning": "Righteousness; justice"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Let mount Zion rejoice, let the daughters of Judah be glad, because of thy judgments.",
+      "highlightedWords": [
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyyon",
+          "meaning": "Zion; a mountain in Jerusalem; by extension the city/people of God"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah; praised; the tribe/territory of Judah"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Walk about Zion, and go round about her: tell the towers thereof.",
+      "highlightedWords": [
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyyon",
+          "meaning": "Zion; a mountain in Jerusalem; by extension the city/people of God"
+        },
+        {
+          "word": "towers",
+          "strongNumber": "H4026",
+          "lemma": "migdal",
+          "meaning": "Tower; elevated structure"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Mark ye well her bulwarks, consider her palaces; that ye may tell it to the generation following.",
+      "highlightedWords": [
+        {
+          "word": "bulwarks",
+          "strongNumber": "H2426",
+          "lemma": "cheyl",
+          "meaning": "Rampart; strength; bulwark"
+        },
+        {
+          "word": "generation",
+          "strongNumber": "H1755",
+          "lemma": "dor",
+          "meaning": "Generation; age; period"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "For this God is our God for ever and ever: he will be our guide even unto death.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’Elohim",
+          "meaning": "God; the true God; mighty one"
+        },
+        {
+          "word": "death",
+          "strongNumber": "H4194",
+          "lemma": "maveth",
+          "meaning": "Death"
+        }
+      ]
+    }
+  ]
+}

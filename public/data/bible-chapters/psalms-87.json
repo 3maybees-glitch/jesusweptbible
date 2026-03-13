@@ -1,0 +1,150 @@
+{
+  "book": "Psalms",
+  "chapter": 87,
+  "chapterTheme": {
+    "twoWordSummary": "Zion Births",
+    "themeWords": [
+      {
+        "word": "Zion",
+        "strongNumber": "H6726",
+        "lemma": "Tsiyyon",
+        "meaning": "Zion; the hill in Jerusalem, often representing the city and God’s people"
+      },
+      {
+        "word": "born",
+        "strongNumber": "H3205",
+        "lemma": "yalad",
+        "meaning": "to bear, beget, bring forth; to be born"
+      }
+    ]
+  },
+  "sentenceTheme": "A hymn exalting Zion as God’s chosen city, where nations are registered as born and which the LORD establishes.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "His foundation is in the holy mountains.",
+      "highlightedWords": [
+        {
+          "word": "holy",
+          "strongNumber": "H6944",
+          "lemma": "qodesh",
+          "meaning": "holiness; something sacred or set apart"
+        },
+        {
+          "word": "mountains",
+          "strongNumber": "H2022",
+          "lemma": "har",
+          "meaning": "mountain, hill, range of hills"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "The LORD loveth the gates of Zion more than all the dwellings of Jacob.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal, covenant name of the God of Israel"
+        },
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyyon",
+          "meaning": "Zion; the hill in Jerusalem, often representing the city and God’s people"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Glorious things are spoken of thee, O city of God. Selah.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; the supreme God"
+        },
+        {
+          "word": "Selah",
+          "strongNumber": "H5542",
+          "lemma": "Selah",
+          "meaning": "a liturgical or musical pause; a marker to pause and reflect"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "I will make mention of Rahab and Babylon to them that know me: behold Philistia, and Tyre, with Ethiopia; this man was born there.",
+      "highlightedWords": [
+        {
+          "word": "Babylon",
+          "strongNumber": "H894",
+          "lemma": "Babel",
+          "meaning": "Babylon; capital of Babylonia"
+        },
+        {
+          "word": "Ethiopia",
+          "strongNumber": "H3568",
+          "lemma": "Kuwsh",
+          "meaning": "Cush; Ethiopia, a region south of Egypt"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And of Zion it shall be said, This and that man was born in her: and the highest himself shall establish her.",
+      "highlightedWords": [
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyyon",
+          "meaning": "Zion; the hill in Jerusalem, often representing the city and God’s people"
+        },
+        {
+          "word": "establish",
+          "strongNumber": "H3559",
+          "lemma": "kun",
+          "meaning": "to establish, set up, make firm"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "The LORD shall count, when he writeth up the people, that this man was born there. Selah.",
+      "highlightedWords": [
+        {
+          "word": "count",
+          "strongNumber": "H5608",
+          "lemma": "caphar",
+          "meaning": "to count, number, recount"
+        },
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "am",
+          "meaning": "people, nation, populace"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "As well the singers as the players on instruments shall be there: all my springs are in thee.",
+      "highlightedWords": [
+        {
+          "word": "all",
+          "strongNumber": "H3605",
+          "lemma": "kol",
+          "meaning": "all, the whole, every"
+        },
+        {
+          "word": "springs",
+          "strongNumber": "H4599",
+          "lemma": "ma'yan",
+          "meaning": "fountain, spring, source"
+        }
+      ]
+    }
+  ]
+}

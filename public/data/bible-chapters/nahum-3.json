@@ -1,0 +1,366 @@
+{
+  "book": "Nahum",
+  "chapter": 3,
+  "chapterTheme": {
+    "twoWordSummary": "Nineveh Judged",
+    "themeWords": [
+      {
+        "word": "Nineveh",
+        "strongNumber": "H5210",
+        "lemma": "Ninveh",
+        "meaning": "the capital city of Assyria"
+      },
+      {
+        "word": "Assyria",
+        "strongNumber": "H804",
+        "lemma": "Ashshur",
+        "meaning": "Assyria; the Assyrian empire/people"
+      }
+    ]
+  },
+  "sentenceTheme": "God declares a final woe upon Nineveh for its bloodshed, sorceries, and oppression, foretelling its complete devastation and the collapse of Assyria.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Woe to the bloody city! it is all full of lies and robbery; the prey departeth not;",
+      "highlightedWords": [
+        {
+          "word": "Woe",
+          "strongNumber": "H1945",
+          "lemma": "hoy",
+          "meaning": "ah!, woe, alas (a cry of lament or threat)"
+        },
+        {
+          "word": "bloody",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "blood; bloodshed"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "The noise of a whip, and the noise of the rattling of the wheels, and of the pransing horses, and of the jumping chariots.",
+      "highlightedWords": [
+        {
+          "word": "horses",
+          "strongNumber": "H5483",
+          "lemma": "sus",
+          "meaning": "horse; warhorse"
+        },
+        {
+          "word": "chariots",
+          "strongNumber": "H7393",
+          "lemma": "rekeb",
+          "meaning": "chariot; chariotry"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "The horseman lifteth up both the bright sword and the glittering spear: and there is a multitude of slain, and a great number of carcases; and there is none end of their corpses; they stumble upon their corpses:",
+      "highlightedWords": [
+        {
+          "word": "horseman",
+          "strongNumber": "H6571",
+          "lemma": "parash",
+          "meaning": "horseman; cavalry"
+        },
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword; weapon"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Because of the multitude of the whoredoms of the wellfavoured harlot, the mistress of witchcrafts, that selleth nations through her whoredoms, and families through her witchcrafts.",
+      "highlightedWords": [
+        {
+          "word": "whoredoms",
+          "strongNumber": "H2183",
+          "lemma": "zenunim",
+          "meaning": "fornication; prostitution; idolatry"
+        },
+        {
+          "word": "witchcrafts",
+          "strongNumber": "H3785",
+          "lemma": "kesheph",
+          "meaning": "sorcery; witchcraft"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Behold, I am against thee, saith the LORD of hosts; and I will discover thy skirts upon thy face, and I will shew the nations thy nakedness, and the kingdoms thy shame.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the divine name; the LORD"
+        },
+        {
+          "word": "hosts",
+          "strongNumber": "H6635",
+          "lemma": "tseba'oth",
+          "meaning": "armies; hosts; celestial or military forces"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And I will cast abominable filth upon thee, and make thee vile, and will set thee as a gazingstock.",
+      "highlightedWords": [
+        {
+          "word": "cast",
+          "strongNumber": "H7993",
+          "lemma": "shalak",
+          "meaning": "to throw; hurl; cast"
+        },
+        {
+          "word": "filth",
+          "strongNumber": "H8251",
+          "lemma": "shiqquts",
+          "meaning": "abomination; detestable filth"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And it shall come to pass, that all they that look upon thee shall flee from thee, and say, Nineveh is laid waste: who will bemoan her? whence shall I seek comforters for thee?",
+      "highlightedWords": [
+        {
+          "word": "Nineveh",
+          "strongNumber": "H5210",
+          "lemma": "Ninveh",
+          "meaning": "the capital city of Assyria"
+        },
+        {
+          "word": "comforters",
+          "strongNumber": "H5162",
+          "lemma": "nacham",
+          "meaning": "to comfort; those who console"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Art thou better than populous No, that was situate among the rivers, that had the waters round about it, whose rampart was the sea, and her wall was from the sea?",
+      "highlightedWords": [
+        {
+          "word": "rivers",
+          "strongNumber": "H5104",
+          "lemma": "nahar",
+          "meaning": "river; stream"
+        },
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "sea; large body of water"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Ethiopia and Egypt were her strength, and it was infinite; Put and Lubim were thy helpers.",
+      "highlightedWords": [
+        {
+          "word": "Ethiopia",
+          "strongNumber": "H3568",
+          "lemma": "Kush",
+          "meaning": "Cush; Ethiopia"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Yet was she carried away, she went into captivity: her young children also were dashed in pieces at the top of all the streets: and they cast lots for her honourable men, and all her great men were bound in chains.",
+      "highlightedWords": [
+        {
+          "word": "captivity",
+          "strongNumber": "H7628",
+          "lemma": "shebiy",
+          "meaning": "captivity; exile"
+        },
+        {
+          "word": "lots",
+          "strongNumber": "H1486",
+          "lemma": "goral",
+          "meaning": "lot; portion decided by casting lots"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Thou also shalt be drunken: thou shalt be hid, thou also shalt seek strength because of the enemy.",
+      "highlightedWords": [
+        {
+          "word": "drunken",
+          "strongNumber": "H7937",
+          "lemma": "shakar",
+          "meaning": "to become drunk; intoxicated"
+        },
+        {
+          "word": "enemy",
+          "strongNumber": "H341",
+          "lemma": "oyev",
+          "meaning": "enemy; adversary"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "All thy strong holds shall be like fig trees with the firstripe figs: if they be shaken, they shall even fall into the mouth of the eater.",
+      "highlightedWords": [
+        {
+          "word": "figs",
+          "strongNumber": "H8384",
+          "lemma": "te'enah",
+          "meaning": "fig; fig fruit/tree"
+        },
+        {
+          "word": "mouth",
+          "strongNumber": "H6310",
+          "lemma": "peh",
+          "meaning": "mouth; opening"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Behold, thy people in the midst of thee are women: the gates of thy land shall be set wide open unto thine enemies: the fire shall devour thy bars.",
+      "highlightedWords": [
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "oyev",
+          "meaning": "enemies; adversaries"
+        },
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "esh",
+          "meaning": "fire"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Draw thee waters for the siege, fortify thy strong holds: go into clay, and tread the morter, make strong the brickkiln.",
+      "highlightedWords": [
+        {
+          "word": "clay",
+          "strongNumber": "H2563",
+          "lemma": "chomer",
+          "meaning": "clay; mortar"
+        },
+        {
+          "word": "brickkiln",
+          "strongNumber": "H4404",
+          "lemma": "malben",
+          "meaning": "brick-mold; brickkiln; brickwork"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "There shall the fire devour thee; the sword shall cut thee off, it shall eat thee up like the cankerworm: make thyself many as the cankerworm, make thyself many as the locusts.",
+      "highlightedWords": [
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "esh",
+          "meaning": "fire"
+        },
+        {
+          "word": "locusts",
+          "strongNumber": "H0697",
+          "lemma": "arbeh",
+          "meaning": "locust"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Thou hast multiplied thy merchants above the stars of heaven: the cankerworm spoileth, and flieth away.",
+      "highlightedWords": [
+        {
+          "word": "merchants",
+          "strongNumber": "H7402",
+          "lemma": "rakal",
+          "meaning": "to trade; merchant/trader"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens; sky"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Thy crowned are as the locusts, and thy captains as the great grasshoppers, which camp in the hedges in the cold day, but when the sun ariseth they flee away, and their place is not known where they are.",
+      "highlightedWords": [
+        {
+          "word": "locusts",
+          "strongNumber": "H0697",
+          "lemma": "arbeh",
+          "meaning": "locust"
+        },
+        {
+          "word": "sun",
+          "strongNumber": "H8121",
+          "lemma": "shemesh",
+          "meaning": "sun"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Thy shepherds slumber, O king of Assyria: thy nobles shall dwell in the dust: thy people is scattered upon the mountains, and no man gathereth them.",
+      "highlightedWords": [
+        {
+          "word": "Assyria",
+          "strongNumber": "H804",
+          "lemma": "Ashshur",
+          "meaning": "Assyria; the Assyrian empire/people"
+        },
+        {
+          "word": "shepherds",
+          "strongNumber": "H7462",
+          "lemma": "ro'eh",
+          "meaning": "shepherd; one who tends a flock"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "There is no healing of thy bruise; thy wound is grievous: all that hear the bruit of thee shall clap the hands over thee: for upon whom hath not thy wickedness passed continually?",
+      "highlightedWords": [
+        {
+          "word": "wound",
+          "strongNumber": "H4347",
+          "lemma": "makkah",
+          "meaning": "wound; blow; stroke"
+        },
+        {
+          "word": "wickedness",
+          "strongNumber": "H7451",
+          "lemma": "ra'",
+          "meaning": "evil; wickedness; calamity"
+        }
+      ]
+    }
+  ]
+}

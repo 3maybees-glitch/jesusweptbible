@@ -1,0 +1,384 @@
+{
+  "book": "Isaiah",
+  "chapter": 32,
+  "chapterTheme": {
+    "twoWordSummary": "Righteous Reign",
+    "themeWords": [
+      {
+        "word": "righteousness",
+        "strongNumber": "H6666",
+        "lemma": "tsedaqah",
+        "meaning": "righteousness; justice, rightness"
+      },
+      {
+        "word": "peace",
+        "strongNumber": "H7965",
+        "lemma": "shalom",
+        "meaning": "peace; wholeness, well-being"
+      }
+    ]
+  },
+  "sentenceTheme": "Isaiah foretells a righteous king whose just rule brings protection, clarity, and lasting peace after judgment, as the Spirit renews the land and people.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Behold, a king shall reign in righteousness, and princes shall rule in judgment.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king; ruler"
+        },
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "justice; legal decision"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And a man shall be as an hiding place from the wind, and a covert from the tempest; as rivers of water in a dry place, as the shadow of a great rock in a weary land.",
+      "highlightedWords": [
+        {
+          "word": "wind",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "wind; breath; spirit"
+        },
+        {
+          "word": "rock",
+          "strongNumber": "H6697",
+          "lemma": "tsur",
+          "meaning": "rock; cliff"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And the eyes of them that see shall not be dim, and the ears of them that hear shall hearken.",
+      "highlightedWords": [
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "ayin",
+          "meaning": "eye; sight"
+        },
+        {
+          "word": "ears",
+          "strongNumber": "H0241",
+          "lemma": "ozen",
+          "meaning": "ear; hearing"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "The heart also of the rash shall understand knowledge, and the tongue of the stammerers shall be ready to speak plainly.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart; inner person"
+        },
+        {
+          "word": "tongue",
+          "strongNumber": "H3956",
+          "lemma": "lashon",
+          "meaning": "tongue; language"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "The vile person shall be no more called liberal, nor the churl said to be bountiful.",
+      "highlightedWords": [
+        {
+          "word": "vile",
+          "strongNumber": "H5036",
+          "lemma": "nabal",
+          "meaning": "foolish; worthless"
+        },
+        {
+          "word": "liberal",
+          "strongNumber": "H5081",
+          "lemma": "nadib",
+          "meaning": "noble; generous, willing"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "For the vile person will speak villany, and his heart will work iniquity, to practise hypocrisy, and to utter error against the LORD, to make empty the soul of the hungry, and he will cause the drink of the thirsty to fail.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul; life; person"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "The instruments also of the churl are evil: he deviseth wicked devices to destroy the poor with lying words, even when the needy speaketh right.",
+      "highlightedWords": [
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra'",
+          "meaning": "evil; bad, harmful"
+        },
+        {
+          "word": "words",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word; matter, thing"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "But the liberal deviseth liberal things; and by liberal things shall he stand.",
+      "highlightedWords": [
+        {
+          "word": "liberal",
+          "strongNumber": "H5081",
+          "lemma": "nadib",
+          "meaning": "noble; generous, willing"
+        },
+        {
+          "word": "stand",
+          "strongNumber": "H6965",
+          "lemma": "qum",
+          "meaning": "to arise; stand, endure"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Rise up, ye women that are at ease; hear my voice, ye careless daughters; give ear unto my speech.",
+      "highlightedWords": [
+        {
+          "word": "women",
+          "strongNumber": "H802",
+          "lemma": "ishshah",
+          "meaning": "woman; wife"
+        },
+        {
+          "word": "daughters",
+          "strongNumber": "H1323",
+          "lemma": "bat",
+          "meaning": "daughter; female descendant"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Many days and years shall ye be troubled, ye careless women: for the vintage shall fail, the gathering shall not come.",
+      "highlightedWords": [
+        {
+          "word": "years",
+          "strongNumber": "H8141",
+          "lemma": "shanah",
+          "meaning": "year; a cycle of time"
+        },
+        {
+          "word": "vintage",
+          "strongNumber": "H1210",
+          "lemma": "batsir",
+          "meaning": "vintage; grape harvest"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Tremble, ye women that are at ease; be troubled, ye careless ones: strip you, and make you bare, and gird sackcloth upon your loins.",
+      "highlightedWords": [
+        {
+          "word": "sackcloth",
+          "strongNumber": "H8242",
+          "lemma": "saq",
+          "meaning": "sackcloth; coarse mourning cloth"
+        },
+        {
+          "word": "loins",
+          "strongNumber": "H4975",
+          "lemma": "mothen",
+          "meaning": "loins; waist, hips"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "They shall lament for the teats, for the pleasant fields, for the fruitful vine.",
+      "highlightedWords": [
+        {
+          "word": "lament",
+          "strongNumber": "H5594",
+          "lemma": "saphad",
+          "meaning": "to wail; lament, mourn"
+        },
+        {
+          "word": "vine",
+          "strongNumber": "H1612",
+          "lemma": "gefen",
+          "meaning": "vine; grapevine"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Upon the land of my people shall come up thorns and briers; yea, upon all the houses of joy in the joyous city:",
+      "highlightedWords": [
+        {
+          "word": "land",
+          "strongNumber": "H0776",
+          "lemma": "erets",
+          "meaning": "land; earth, territory"
+        },
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "iyr",
+          "meaning": "city; town"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Because the palaces shall be forsaken; the multitude of the city shall be left; the forts and towers shall be for dens for ever, a joy of wild asses, a pasture of flocks;",
+      "highlightedWords": [
+        {
+          "word": "asses",
+          "strongNumber": "H6501",
+          "lemma": "pere",
+          "meaning": "wild donkey"
+        },
+        {
+          "word": "flocks",
+          "strongNumber": "H6629",
+          "lemma": "tson",
+          "meaning": "flock; small livestock"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Until the spirit be poured upon us from on high, and the wilderness be a fruitful field, and the fruitful field be counted for a forest.",
+      "highlightedWords": [
+        {
+          "word": "spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "spirit; wind, breath"
+        },
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbar",
+          "meaning": "wilderness; desert"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Then judgment shall dwell in the wilderness, and righteousness remain in the fruitful field.",
+      "highlightedWords": [
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "justice; legal decision"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "tsedaqah",
+          "meaning": "righteousness; justice, rightness"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And the work of righteousness shall be peace; and the effect of righteousness quietness and assurance for ever.",
+      "highlightedWords": [
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace; wholeness, well-being"
+        },
+        {
+          "word": "assurance",
+          "strongNumber": "H0983",
+          "lemma": "betach",
+          "meaning": "security; confidence"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And my people shall dwell in a peaceable habitation, and in sure dwellings, and in quiet resting places;",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "'am",
+          "meaning": "people; nation"
+        },
+        {
+          "word": "resting",
+          "strongNumber": "H4496",
+          "lemma": "menuchah",
+          "meaning": "rest; resting place"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "When it shall hail, coming down on the forest; and the city shall be low in a low place.",
+      "highlightedWords": [
+        {
+          "word": "hail",
+          "strongNumber": "H1259",
+          "lemma": "barad",
+          "meaning": "hail; hailstones"
+        },
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "iyr",
+          "meaning": "city; town"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Blessed are ye that sow beside all waters, that send forth thither the feet of the ox and the ass.",
+      "highlightedWords": [
+        {
+          "word": "Blessed",
+          "strongNumber": "H835",
+          "lemma": "esher",
+          "meaning": "blessedness; happiness"
+        },
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters; water, liquid"
+        }
+      ]
+    }
+  ]
+}

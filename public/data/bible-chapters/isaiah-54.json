@@ -1,0 +1,330 @@
+{
+  "book": "Isaiah",
+  "chapter": 54,
+  "chapterTheme": {
+    "twoWordSummary": "Restored Zion",
+    "themeWords": [
+      {
+        "word": "covenant",
+        "strongNumber": "H1285",
+        "lemma": "berith",
+        "meaning": "binding agreement; divine pact"
+      },
+      {
+        "word": "peace",
+        "strongNumber": "H7965",
+        "lemma": "shalom",
+        "meaning": "peace, wholeness, well-being"
+      }
+    ]
+  },
+  "sentenceTheme": "God promises restored favor, everlasting covenant peace, protection, and righteousness for Zion after a brief season of affliction.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Sing, O barren, thou that didst not bear; break forth into singing, and cry aloud, thou that didst not travail with child: for more are the children of the desolate than the children of the married wife, saith the LORD.",
+      "highlightedWords": [
+        {
+          "word": "barren",
+          "strongNumber": "H6135",
+          "lemma": "aqarah",
+          "meaning": "barren woman; one unable to bear children"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yahweh",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Enlarge the place of thy tent, and let them stretch forth the curtains of thine habitations: spare not, lengthen thy cords, and strengthen thy stakes;",
+      "highlightedWords": [
+        {
+          "word": "tent",
+          "strongNumber": "H168",
+          "lemma": "ohel",
+          "meaning": "tent; dwelling place"
+        },
+        {
+          "word": "stakes",
+          "strongNumber": "H3489",
+          "lemma": "yathed",
+          "meaning": "peg; tent-stake used for securing"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "For thou shalt break forth on the right hand and on the left; and thy seed shall inherit the Gentiles, and make the desolate cities to be inhabited.",
+      "highlightedWords": [
+        {
+          "word": "seed",
+          "strongNumber": "H2233",
+          "lemma": "zeraʿ",
+          "meaning": "offspring; descendants"
+        },
+        {
+          "word": "Gentiles",
+          "strongNumber": "H1471",
+          "lemma": "goyim",
+          "meaning": "nations; non-Israelite peoples"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Fear not; for thou shalt not be ashamed: neither be thou confounded; for thou shalt not be put to shame: for thou shalt forget the shame of thy youth, and shalt not remember the reproach of thy widowhood any more.",
+      "highlightedWords": [
+        {
+          "word": "Fear",
+          "strongNumber": "H3372",
+          "lemma": "yareʾ",
+          "meaning": "to fear; be afraid; revere"
+        },
+        {
+          "word": "ashamed",
+          "strongNumber": "H954",
+          "lemma": "bosh",
+          "meaning": "to be put to shame; feel disgrace"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "For thy Maker is thine husband; the LORD of hosts is his name; and thy Redeemer the Holy One of Israel; The God of the whole earth shall he be called.",
+      "highlightedWords": [
+        {
+          "word": "Maker",
+          "strongNumber": "H6213",
+          "lemma": "ʿasah",
+          "meaning": "to make; maker (as one who forms/creates)"
+        },
+        {
+          "word": "Redeemer",
+          "strongNumber": "H1350",
+          "lemma": "goʾel",
+          "meaning": "kinsman-redeemer; one who rescues or vindicates"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "For the LORD hath called thee as a woman forsaken and grieved in spirit, and a wife of youth, when thou wast refused, saith thy God.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yahweh",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "called",
+          "strongNumber": "H7121",
+          "lemma": "qaraʾ",
+          "meaning": "to call; summon; name"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "For a small moment have I forsaken thee; but with great mercies will I gather thee.",
+      "highlightedWords": [
+        {
+          "word": "mercies",
+          "strongNumber": "H7356",
+          "lemma": "rachamim",
+          "meaning": "compassion; tender mercies"
+        },
+        {
+          "word": "gather",
+          "strongNumber": "H6908",
+          "lemma": "qavats",
+          "meaning": "to collect; assemble; gather in"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "In a little wrath I hid my face from thee for a moment; but with everlasting kindness will I have mercy on thee, saith the LORD thy Redeemer.",
+      "highlightedWords": [
+        {
+          "word": "everlasting",
+          "strongNumber": "H5769",
+          "lemma": "ʿolam",
+          "meaning": "everlasting; perpetual; ancient time"
+        },
+        {
+          "word": "Redeemer",
+          "strongNumber": "H1350",
+          "lemma": "goʾel",
+          "meaning": "kinsman-redeemer; one who rescues or vindicates"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "For this is as the waters of Noah unto me: for as I have sworn that the waters of Noah should no more go over the earth; so have I sworn that I would not be wroth with thee, nor rebuke thee.",
+      "highlightedWords": [
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters"
+        },
+        {
+          "word": "sworn",
+          "strongNumber": "H7650",
+          "lemma": "shavaʿ",
+          "meaning": "to swear; take an oath"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "For the mountains shall depart, and the hills be removed; but my kindness shall not depart from thee, neither shall the covenant of my peace be removed, saith the LORD that hath mercy on thee.",
+      "highlightedWords": [
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "binding agreement; divine pact"
+        },
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace; completeness; welfare"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "O thou afflicted, tossed with tempest, and not comforted, behold, I will lay thy stones with fair colours, and lay thy foundations with sapphires.",
+      "highlightedWords": [
+        {
+          "word": "stones",
+          "strongNumber": "H68",
+          "lemma": "ʾeben",
+          "meaning": "stone; building stone"
+        },
+        {
+          "word": "sapphires",
+          "strongNumber": "H5601",
+          "lemma": "sappir",
+          "meaning": "sapphire (precious stone)"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And I will make thy windows of agates, and thy gates of carbuncles, and all thy borders of pleasant stones.",
+      "highlightedWords": [
+        {
+          "word": "gates",
+          "strongNumber": "H8179",
+          "lemma": "shaʿar",
+          "meaning": "gate; city entrance"
+        },
+        {
+          "word": "stones",
+          "strongNumber": "H68",
+          "lemma": "ʾeben",
+          "meaning": "stone; building stone"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And all thy children shall be taught of the LORD; and great shall be the peace of thy children.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yahweh",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace; completeness; welfare"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "In righteousness shalt thou be established: thou shalt be far from oppression; for thou shalt not fear: and from terror; for it shall not come near thee.",
+      "highlightedWords": [
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "tsedaqah",
+          "meaning": "righteousness; justice"
+        },
+        {
+          "word": "fear",
+          "strongNumber": "H3372",
+          "lemma": "yareʾ",
+          "meaning": "to fear; be afraid; revere"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Behold, they shall surely gather together, but not by me: whosoever shall gather together against thee shall fall for thy sake.",
+      "highlightedWords": [
+        {
+          "word": "gather together",
+          "strongNumber": "H1481",
+          "lemma": "gur",
+          "meaning": "to assemble; stir up (against); encamp"
+        },
+        {
+          "word": "fall",
+          "strongNumber": "H5307",
+          "lemma": "naphal",
+          "meaning": "to fall; be overthrown"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Behold, I have created the smith that bloweth the coals in the fire, and that bringeth forth an instrument for his work; and I have created the waster to destroy.",
+      "highlightedWords": [
+        {
+          "word": "created",
+          "strongNumber": "H1254",
+          "lemma": "baraʾ",
+          "meaning": "to create; shape; form"
+        },
+        {
+          "word": "destroy",
+          "strongNumber": "H7843",
+          "lemma": "shachath",
+          "meaning": "to ruin; corrupt; destroy"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "No weapon that is formed against thee shall prosper; and every tongue that shall rise against thee in judgment thou shalt condemn. This is the heritage of the servants of the LORD, and their righteousness is of me, saith the LORD.",
+      "highlightedWords": [
+        {
+          "word": "heritage",
+          "strongNumber": "H5159",
+          "lemma": "nachalah",
+          "meaning": "inheritance; heritage; allotted portion"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "tsedaqah",
+          "meaning": "righteousness; justice"
+        }
+      ]
+    }
+  ]
+}

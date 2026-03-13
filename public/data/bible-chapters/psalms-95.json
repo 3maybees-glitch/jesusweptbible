@@ -1,0 +1,222 @@
+{
+  "book": "Psalms",
+  "chapter": 95,
+  "chapterTheme": {
+    "twoWordSummary": "Worship Obedience",
+    "themeWords": [
+      {
+        "word": "worship",
+        "strongNumber": "H7812",
+        "lemma": "shachah",
+        "meaning": "to bow down, prostrate oneself in reverence"
+      },
+      {
+        "word": "rest",
+        "strongNumber": "H4496",
+        "lemma": "menuchah",
+        "meaning": "resting place, repose, quiet rest"
+      }
+    ]
+  },
+  "sentenceTheme": "A call to joyful worship of the LORD and a solemn warning to hear His voice and not harden the heart, lest His promised rest be missed.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "O come, let us sing unto the LORD: let us make a joyful noise to the rock of our salvation.",
+      "highlightedWords": [
+        {
+          "word": "sing",
+          "strongNumber": "H7442",
+          "lemma": "ranan",
+          "meaning": "to shout for joy, sing aloud"
+        },
+        {
+          "word": "rock",
+          "strongNumber": "H6697",
+          "lemma": "tsur",
+          "meaning": "rock, cliff; metaphorically a refuge"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Let us come before his presence with thanksgiving, and make a joyful noise unto him with psalms.",
+      "highlightedWords": [
+        {
+          "word": "presence",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "face, presence, before"
+        },
+        {
+          "word": "thanksgiving",
+          "strongNumber": "H8426",
+          "lemma": "todah",
+          "meaning": "thanksgiving, praise, confession"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "For the LORD is a great God, and a great King above all gods.",
+      "highlightedWords": [
+        {
+          "word": "King",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        },
+        {
+          "word": "gods",
+          "strongNumber": "H430",
+          "lemma": "elohim",
+          "meaning": "gods; deity, divine beings"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "In his hand are the deep places of the earth: the strength of the hills is his also.",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand; power, control"
+        },
+        {
+          "word": "hills",
+          "strongNumber": "H2022",
+          "lemma": "har",
+          "meaning": "mountain, hill"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "The sea is his, and he made it: and his hands formed the dry land.",
+      "highlightedWords": [
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "sea"
+        },
+        {
+          "word": "dry land",
+          "strongNumber": "H3004",
+          "lemma": "yabbashah",
+          "meaning": "dry land, dry ground"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "O come, let us worship and bow down: let us kneel before the LORD our maker.",
+      "highlightedWords": [
+        {
+          "word": "worship",
+          "strongNumber": "H7812",
+          "lemma": "shachah",
+          "meaning": "to bow down, prostrate oneself in reverence"
+        },
+        {
+          "word": "kneel",
+          "strongNumber": "H1288",
+          "lemma": "barak",
+          "meaning": "to kneel; to bless"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "For he is our God; and we are the people of his pasture, and the sheep of his hand. To day if ye will hear his voice,",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "am",
+          "meaning": "people, nation"
+        },
+        {
+          "word": "voice",
+          "strongNumber": "H6963",
+          "lemma": "qol",
+          "meaning": "voice, sound"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Harden not your heart, as in the provocation, and as in the day of temptation in the wilderness:",
+      "highlightedWords": [
+        {
+          "word": "Harden",
+          "strongNumber": "H7185",
+          "lemma": "qashah",
+          "meaning": "to harden, be stubborn"
+        },
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbar",
+          "meaning": "wilderness, desert"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "When your fathers tempted me, proved me, and saw my work.",
+      "highlightedWords": [
+        {
+          "word": "fathers",
+          "strongNumber": "H1",
+          "lemma": "ab",
+          "meaning": "father, ancestor"
+        },
+        {
+          "word": "tempted",
+          "strongNumber": "H5254",
+          "lemma": "nasah",
+          "meaning": "to test, try, prove"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Forty years long was I grieved with this generation, and said, It is a people that do err in their heart, and they have not known my ways:",
+      "highlightedWords": [
+        {
+          "word": "Forty",
+          "strongNumber": "H705",
+          "lemma": "arba'im",
+          "meaning": "forty"
+        },
+        {
+          "word": "err",
+          "strongNumber": "H8582",
+          "lemma": "ta'ah",
+          "meaning": "to wander, go astray, err"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Unto whom I sware in my wrath that they should not enter into my rest.",
+      "highlightedWords": [
+        {
+          "word": "sware",
+          "strongNumber": "H7650",
+          "lemma": "shaba'",
+          "meaning": "to swear, take an oath"
+        },
+        {
+          "word": "rest",
+          "strongNumber": "H4496",
+          "lemma": "menuchah",
+          "meaning": "resting place, rest"
+        }
+      ]
+    }
+  ]
+}

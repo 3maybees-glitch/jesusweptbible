@@ -1,0 +1,330 @@
+{
+  "book": "Song of Solomon",
+  "chapter": 2,
+  "chapterTheme": {
+    "twoWordSummary": "Spring Invitation",
+    "themeWords": [
+      {
+        "word": "beloved",
+        "strongNumber": "H1730",
+        "lemma": "dod",
+        "meaning": "beloved, lover"
+      },
+      {
+        "word": "lily",
+        "strongNumber": "H7799",
+        "lemma": "shoshan",
+        "meaning": "lily, lotus-like flower"
+      }
+    ]
+  },
+  "sentenceTheme": "The beloved calls his love to arise as spring blossoms, celebrating mutual affection and urging the guarding of their growing relationship.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "I am the rose of Sharon, and the lily of the valleys.",
+      "highlightedWords": [
+        {
+          "word": "rose",
+          "strongNumber": "H2261",
+          "lemma": "chabatstseleth",
+          "meaning": "meadow-saffron, crocus (rendered 'rose')"
+        },
+        {
+          "word": "lily",
+          "strongNumber": "H7799",
+          "lemma": "shoshan",
+          "meaning": "lily, lotus-like flower"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "As the lily among thorns, so is my love among the daughters.",
+      "highlightedWords": [
+        {
+          "word": "lily",
+          "strongNumber": "H7799",
+          "lemma": "shoshan",
+          "meaning": "lily, lotus-like flower"
+        },
+        {
+          "word": "daughters",
+          "strongNumber": "H1323",
+          "lemma": "bath",
+          "meaning": "daughter, young woman"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "As the apple tree among the trees of the wood, so is my beloved among the sons: I sat down under his shadow with great delight, and his fruit was sweet to my taste.",
+      "highlightedWords": [
+        {
+          "word": "beloved",
+          "strongNumber": "H1730",
+          "lemma": "dod",
+          "meaning": "beloved, lover"
+        },
+        {
+          "word": "shadow",
+          "strongNumber": "H6738",
+          "lemma": "tsel",
+          "meaning": "shade, protection"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "He brought me to the banqueting house, and his banner over me was love.",
+      "highlightedWords": [
+        {
+          "word": "banner",
+          "strongNumber": "H1714",
+          "lemma": "degel",
+          "meaning": "banner, standard"
+        },
+        {
+          "word": "love",
+          "strongNumber": "H160",
+          "lemma": "ahabah",
+          "meaning": "love, affection"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Stay me with flagons, comfort me with apples: for I am sick of love.",
+      "highlightedWords": [
+        {
+          "word": "flagons",
+          "strongNumber": "H0809",
+          "lemma": "ashishah",
+          "meaning": "raisin-cakes; flagons"
+        },
+        {
+          "word": "apples",
+          "strongNumber": "H8598",
+          "lemma": "tappuach",
+          "meaning": "apple; apple-fragrance"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "His left hand is under my head, and his right hand doth embrace me.",
+      "highlightedWords": [
+        {
+          "word": "left",
+          "strongNumber": "H8040",
+          "lemma": "semol",
+          "meaning": "left hand/side"
+        },
+        {
+          "word": "right",
+          "strongNumber": "H3225",
+          "lemma": "yamin",
+          "meaning": "right hand/side"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "I charge you, O ye daughters of Jerusalem, by the roes, and by the hinds of the field, that ye stir not up, nor awake my love, till he please.",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem, city of peace"
+        },
+        {
+          "word": "field",
+          "strongNumber": "H7704",
+          "lemma": "sadeh",
+          "meaning": "field, open country"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "The voice of my beloved! behold, he cometh leaping upon the mountains, skipping upon the hills.",
+      "highlightedWords": [
+        {
+          "word": "voice",
+          "strongNumber": "H6963",
+          "lemma": "qol",
+          "meaning": "voice, sound"
+        },
+        {
+          "word": "mountains",
+          "strongNumber": "H2022",
+          "lemma": "har",
+          "meaning": "mountain, hill country"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "My beloved is like a roe or a young hart: behold, he standeth behind our wall, he looketh forth at the windows, shewing himself through the lattice.",
+      "highlightedWords": [
+        {
+          "word": "roe",
+          "strongNumber": "H6643",
+          "lemma": "tsevi",
+          "meaning": "gazelle, roe"
+        },
+        {
+          "word": "windows",
+          "strongNumber": "H2474",
+          "lemma": "chalon",
+          "meaning": "window, opening"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "My beloved spake, and said unto me, Rise up, my love, my fair one, and come away.",
+      "highlightedWords": [
+        {
+          "word": "beloved",
+          "strongNumber": "H1730",
+          "lemma": "dod",
+          "meaning": "beloved, lover"
+        },
+        {
+          "word": "Rise",
+          "strongNumber": "H6965",
+          "lemma": "qum",
+          "meaning": "arise, stand up"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "For, lo, the winter is past, the rain is over and gone;",
+      "highlightedWords": [
+        {
+          "word": "winter",
+          "strongNumber": "H5638",
+          "lemma": "sethav",
+          "meaning": "winter, rainy season"
+        },
+        {
+          "word": "rain",
+          "strongNumber": "H1653",
+          "lemma": "geshem",
+          "meaning": "rain, shower"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "The flowers appear on the earth; the time of the singing of birds is come, and the voice of the turtle is heard in our land;",
+      "highlightedWords": [
+        {
+          "word": "flowers",
+          "strongNumber": "H6525",
+          "lemma": "perach",
+          "meaning": "flower, blossom"
+        },
+        {
+          "word": "turtle",
+          "strongNumber": "H8449",
+          "lemma": "tor",
+          "meaning": "turtledove"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "The fig tree putteth forth her green figs, and the vines with the tender grape give a good smell. Arise, my love, my fair one, and come away.",
+      "highlightedWords": [
+        {
+          "word": "figs",
+          "strongNumber": "H6291",
+          "lemma": "pag",
+          "meaning": "unripe fig"
+        },
+        {
+          "word": "vines",
+          "strongNumber": "H1612",
+          "lemma": "gefen",
+          "meaning": "vine"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "O my dove, that art in the clefts of the rock, in the secret places of the stairs, let me see thy countenance, let me hear thy voice; for sweet is thy voice, and thy countenance is comely.",
+      "highlightedWords": [
+        {
+          "word": "dove",
+          "strongNumber": "H3123",
+          "lemma": "yownah",
+          "meaning": "dove"
+        },
+        {
+          "word": "voice",
+          "strongNumber": "H6963",
+          "lemma": "qol",
+          "meaning": "voice, sound"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Take us the foxes, the little foxes, that spoil the vines: for our vines have tender grapes.",
+      "highlightedWords": [
+        {
+          "word": "foxes",
+          "strongNumber": "H7776",
+          "lemma": "shu'al",
+          "meaning": "fox, jackal"
+        },
+        {
+          "word": "vines",
+          "strongNumber": "H1612",
+          "lemma": "gefen",
+          "meaning": "vine"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "My beloved is mine, and I am his: he feedeth among the lilies.",
+      "highlightedWords": [
+        {
+          "word": "beloved",
+          "strongNumber": "H1730",
+          "lemma": "dod",
+          "meaning": "beloved, lover"
+        },
+        {
+          "word": "lilies",
+          "strongNumber": "H7799",
+          "lemma": "shoshan",
+          "meaning": "lily, lotus-like flowers"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Until the day break, and the shadows flee away, turn, my beloved, and be thou like a roe or a young hart upon the mountains of Bether.",
+      "highlightedWords": [
+        {
+          "word": "roe",
+          "strongNumber": "H6643",
+          "lemma": "tsevi",
+          "meaning": "gazelle, roe"
+        },
+        {
+          "word": "mountains",
+          "strongNumber": "H2022",
+          "lemma": "har",
+          "meaning": "mountain, hill country"
+        }
+      ]
+    }
+  ]
+}

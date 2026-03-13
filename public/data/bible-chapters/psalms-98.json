@@ -1,0 +1,186 @@
+{
+  "book": "Psalms",
+  "chapter": 98,
+  "chapterTheme": {
+    "twoWordSummary": "Joyful Reign",
+    "themeWords": [
+      {
+        "word": "salvation",
+        "strongNumber": "H3444",
+        "lemma": "yeshuah",
+        "meaning": "salvation, deliverance"
+      },
+      {
+        "word": "judge",
+        "strongNumber": "H8199",
+        "lemma": "shaphat",
+        "meaning": "to judge, govern"
+      }
+    ]
+  },
+  "sentenceTheme": "All creation rejoices as the LORD reveals salvation and comes to judge the world with righteousness and equity.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "O sing unto the LORD a new song; for he hath done marvellous things: his right hand, and his holy arm, hath gotten him the victory.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God, the LORD"
+        },
+        {
+          "word": "arm",
+          "strongNumber": "H2220",
+          "lemma": "zeroa",
+          "meaning": "arm, strength, power"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "The LORD hath made known his salvation: his righteousness hath he openly shewed in the sight of the heathen.",
+      "highlightedWords": [
+        {
+          "word": "salvation",
+          "strongNumber": "H3444",
+          "lemma": "yeshuah",
+          "meaning": "salvation, deliverance"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "tsedaqah",
+          "meaning": "righteousness, justice"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "He hath remembered his mercy and his truth toward the house of Israel: all the ends of the earth have seen the salvation of our God.",
+      "highlightedWords": [
+        {
+          "word": "mercy",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "steadfast love, covenant loyalty"
+        },
+        {
+          "word": "truth",
+          "strongNumber": "H0571",
+          "lemma": "emeth",
+          "meaning": "truth, faithfulness"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Make a joyful noise unto the LORD, all the earth: make a loud noise, and rejoice, and sing praise.",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "H0776",
+          "lemma": "erets",
+          "meaning": "earth, land"
+        },
+        {
+          "word": "rejoice",
+          "strongNumber": "H8055",
+          "lemma": "samach",
+          "meaning": "to rejoice, be glad"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Sing unto the LORD with the harp; with the harp, and the voice of a psalm.",
+      "highlightedWords": [
+        {
+          "word": "harp",
+          "strongNumber": "H3658",
+          "lemma": "kinnor",
+          "meaning": "lyre, harp"
+        },
+        {
+          "word": "psalm",
+          "strongNumber": "H2172",
+          "lemma": "zimrah",
+          "meaning": "melody, song of praise"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "With trumpets and sound of cornet make a joyful noise before the LORD, the King.",
+      "highlightedWords": [
+        {
+          "word": "trumpets",
+          "strongNumber": "H2689",
+          "lemma": "chatsotsrah",
+          "meaning": "trumpet"
+        },
+        {
+          "word": "King",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Let the sea roar, and the fulness thereof; the world, and they that dwell therein.",
+      "highlightedWords": [
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "sea"
+        },
+        {
+          "word": "world",
+          "strongNumber": "H8398",
+          "lemma": "tebel",
+          "meaning": "world, habitable earth"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Let the floods clap their hands: let the hills be joyful together",
+      "highlightedWords": [
+        {
+          "word": "floods",
+          "strongNumber": "H5104",
+          "lemma": "nahar",
+          "meaning": "river, stream"
+        },
+        {
+          "word": "hills",
+          "strongNumber": "H2022",
+          "lemma": "har",
+          "meaning": "mountain, hill"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Before the LORD; for he cometh to judge the earth: with righteousness shall he judge the world, and the people with equity.",
+      "highlightedWords": [
+        {
+          "word": "judge",
+          "strongNumber": "H8199",
+          "lemma": "shaphat",
+          "meaning": "to judge, govern"
+        },
+        {
+          "word": "equity",
+          "strongNumber": "H4339",
+          "lemma": "meyshar",
+          "meaning": "uprightness, equity"
+        }
+      ]
+    }
+  ]
+}

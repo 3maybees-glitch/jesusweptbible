@@ -1,0 +1,132 @@
+{
+  "book": "Malachi",
+  "chapter": 4,
+  "chapterTheme": {
+    "twoWordSummary": "Judgment Restoration",
+    "themeWords": [
+      {
+        "word": "day",
+        "strongNumber": "H3117",
+        "lemma": "yom",
+        "meaning": "day, time, period"
+      },
+      {
+        "word": "turn",
+        "strongNumber": "H7725",
+        "lemma": "shuv",
+        "meaning": "to return, turn back, restore"
+      }
+    ]
+  },
+  "sentenceTheme": "The coming day of the LORD brings burning judgment upon the wicked and healing, remembrance, and restored hearts for the faithful.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "For, behold, the day cometh, that shall burn as an oven; and all the proud, yea, and all that do wickedly, shall be stubble: and the day that cometh shall burn them up, saith the LORD of hosts, that it shall leave them neither root nor branch.",
+      "highlightedWords": [
+        {
+          "word": "day",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day, time, period"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the personal name of Israel’s God; the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "But unto you that fear my name shall the Sun of righteousness arise with healing in his wings; and ye shall go forth, and grow up as calves of the stall.",
+      "highlightedWords": [
+        {
+          "word": "Sun",
+          "strongNumber": "H8121",
+          "lemma": "shemesh",
+          "meaning": "sun"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "tsedaqah",
+          "meaning": "righteousness, justice"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And ye shall tread down the wicked; for they shall be ashes under the soles of your feet in the day that I shall do this, saith the LORD of hosts.",
+      "highlightedWords": [
+        {
+          "word": "ashes",
+          "strongNumber": "H665",
+          "lemma": "epher",
+          "meaning": "ashes, dust"
+        },
+        {
+          "word": "feet",
+          "strongNumber": "H7272",
+          "lemma": "regel",
+          "meaning": "foot, feet"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Remember ye the law of Moses my servant, which I commanded unto him in Horeb for all Israel, with the statutes and judgments.",
+      "highlightedWords": [
+        {
+          "word": "law",
+          "strongNumber": "H8451",
+          "lemma": "torah",
+          "meaning": "instruction, law"
+        },
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses, the lawgiver and leader of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the LORD:",
+      "highlightedWords": [
+        {
+          "word": "Elijah",
+          "strongNumber": "H452",
+          "lemma": "Eliyah",
+          "meaning": "Elijah, ‘my God is Yahweh’"
+        },
+        {
+          "word": "prophet",
+          "strongNumber": "H5030",
+          "lemma": "nabi'",
+          "meaning": "spokesman, prophet"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers, lest I come and smite the earth with a curse.",
+      "highlightedWords": [
+        {
+          "word": "turn",
+          "strongNumber": "H7725",
+          "lemma": "shuv",
+          "meaning": "to return, turn back, restore"
+        },
+        {
+          "word": "fathers",
+          "strongNumber": "H1",
+          "lemma": "ab",
+          "meaning": "father, ancestor"
+        }
+      ]
+    }
+  ]
+}

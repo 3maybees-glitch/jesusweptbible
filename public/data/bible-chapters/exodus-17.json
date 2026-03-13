@@ -1,0 +1,312 @@
+{
+  "book": "Exodus",
+  "chapter": 17,
+  "chapterTheme": {
+    "twoWordSummary": "Water Warfare",
+    "themeWords": [
+      {
+        "word": "water",
+        "strongNumber": "H4325",
+        "lemma": "mayim",
+        "meaning": "water; waters"
+      },
+      {
+        "word": "Amalek",
+        "strongNumber": "H6002",
+        "lemma": "Amaleq",
+        "meaning": "Amalek; a descendant of Esau and his people"
+      }
+    ]
+  },
+  "sentenceTheme": "God provides water from the rock at Horeb and grants Israel victory over Amalek as Moses intercedes, leading to a memorial record and an altar named Jehovah-nissi.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And all the congregation of the children of Israel journeyed from the wilderness of Sin, after their journeys, according to the commandment of the LORD, and pitched in Rephidim: and there was no water for the people to drink.",
+      "highlightedWords": [
+        {
+          "word": "congregation",
+          "strongNumber": "H5712",
+          "lemma": "ʿēdāh",
+          "meaning": "assembly; congregation; community"
+        },
+        {
+          "word": "water",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "water; waters"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Wherefore the people did chide with Moses, and said, Give us water that we may drink. And Moses said unto them, Why chide ye with me? wherefore do ye tempt the LORD?",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "ʿam",
+          "meaning": "people; nation; kin"
+        },
+        {
+          "word": "tempt",
+          "strongNumber": "H5254",
+          "lemma": "nāsāh",
+          "meaning": "to test; to try; to prove"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And the people thirsted there for water; and the people murmured against Moses, and said, Wherefore is this that thou hast brought us up out of Egypt, to kill us and our children and our cattle with thirst?",
+      "highlightedWords": [
+        {
+          "word": "murmured",
+          "strongNumber": "H3885",
+          "lemma": "lûn",
+          "meaning": "to murmur; to complain; to grumble"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Miṣrayim",
+          "meaning": "Egypt; the land of the Nile"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And Moses cried unto the LORD, saying, What shall I do unto this people? they be almost ready to stone me.",
+      "highlightedWords": [
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mōsheh",
+          "meaning": "Moses; leader and lawgiver of Israel"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yahweh)",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And the LORD said unto Moses, Go on before the people, and take with thee of the elders of Israel; and thy rod, wherewith thou smotest the river, take in thine hand, and go.",
+      "highlightedWords": [
+        {
+          "word": "rod",
+          "strongNumber": "H4294",
+          "lemma": "maṭṭeh",
+          "meaning": "rod; staff"
+        },
+        {
+          "word": "river",
+          "strongNumber": "H2975",
+          "lemma": "ye'or",
+          "meaning": "river; stream (esp. the Nile)"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Behold, I will stand before thee there upon the rock in Horeb; and thou shalt smite the rock, and there shall come water out of it, that the people may drink. And Moses did so in the sight of the elders of Israel.",
+      "highlightedWords": [
+        {
+          "word": "rock",
+          "strongNumber": "H6697",
+          "lemma": "ṣûr",
+          "meaning": "rock; cliff; boulder"
+        },
+        {
+          "word": "Horeb",
+          "strongNumber": "H2722",
+          "lemma": "Chōrēb",
+          "meaning": "Horeb; a mountain region in Sinai"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And he called the name of the place Massah, and Meribah, because of the chiding of the children of Israel, and because they tempted the LORD, saying, Is the LORD among us, or not?",
+      "highlightedWords": [
+        {
+          "word": "Massah",
+          "strongNumber": "H4532",
+          "lemma": "Massāh",
+          "meaning": "Massah; place name meaning testing"
+        },
+        {
+          "word": "Meribah",
+          "strongNumber": "H4809",
+          "lemma": "Mērîbāh",
+          "meaning": "Meribah; place name meaning quarreling/strife"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Then came Amalek, and fought with Israel in Rephidim.",
+      "highlightedWords": [
+        {
+          "word": "Amalek",
+          "strongNumber": "H6002",
+          "lemma": "Amaleq",
+          "meaning": "Amalek; a descendant of Esau and his people"
+        },
+        {
+          "word": "Rephidim",
+          "strongNumber": "H7508",
+          "lemma": "Rephîdîm",
+          "meaning": "Rephidim; a place in the wilderness"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And Moses said unto Joshua, Choose us out men, and go out, fight with Amalek: to morrow I will stand on the top of the hill with the rod of God in mine hand.",
+      "highlightedWords": [
+        {
+          "word": "Joshua",
+          "strongNumber": "H3091",
+          "lemma": "Yĕhōshuaʿ",
+          "meaning": "Joshua; Yahweh is salvation"
+        },
+        {
+          "word": "rod",
+          "strongNumber": "H4294",
+          "lemma": "maṭṭeh",
+          "meaning": "rod; staff"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "So Joshua did as Moses had said to him, and fought with Amalek: and Moses, Aaron, and Hur went up to the top of the hill.",
+      "highlightedWords": [
+        {
+          "word": "Aaron",
+          "strongNumber": "H175",
+          "lemma": "Aharon",
+          "meaning": "Aaron; brother of Moses and Israel’s first high priest"
+        },
+        {
+          "word": "Hur",
+          "strongNumber": "H2354",
+          "lemma": "Chur",
+          "meaning": "Hur; an Israelite leader"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And it came to pass, when Moses held up his hand, that Israel prevailed: and when he let down his hand, Amalek prevailed.",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yād",
+          "meaning": "hand; power"
+        },
+        {
+          "word": "prevailed",
+          "strongNumber": "H1396",
+          "lemma": "gābar",
+          "meaning": "to be strong; to prevail"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "But Moses' hands were heavy; and they took a stone, and put it under him, and he sat thereon; and Aaron and Hur stayed up his hands, the one on the one side, and the other on the other side; and his hands were steady until the going down of the sun.",
+      "highlightedWords": [
+        {
+          "word": "stone",
+          "strongNumber": "H68",
+          "lemma": "ʾeben",
+          "meaning": "stone"
+        },
+        {
+          "word": "sun",
+          "strongNumber": "H8121",
+          "lemma": "shemesh",
+          "meaning": "sun"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And Joshua discomfited Amalek and his people with the edge of the sword.",
+      "highlightedWords": [
+        {
+          "word": "Joshua",
+          "strongNumber": "H3091",
+          "lemma": "Yĕhōshuaʿ",
+          "meaning": "Joshua; Yahweh is salvation"
+        },
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And the LORD said unto Moses, Write this for a memorial in a book, and rehearse it in the ears of Joshua: for I will utterly put out the remembrance of Amalek from under heaven.",
+      "highlightedWords": [
+        {
+          "word": "memorial",
+          "strongNumber": "H2146",
+          "lemma": "zeker",
+          "meaning": "memorial; remembrance"
+        },
+        {
+          "word": "book",
+          "strongNumber": "H5612",
+          "lemma": "sēpher",
+          "meaning": "book; scroll; written document"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And Moses built an altar, and called the name of it Jehovah-nissi:",
+      "highlightedWords": [
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbēach",
+          "meaning": "altar"
+        },
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "name; reputation"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "For he said, Because the LORD hath sworn that the LORD will have war with Amalek from generation to generation.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yahweh)",
+          "meaning": "the proper name of the God of Israel"
+        },
+        {
+          "word": "Amalek",
+          "strongNumber": "H6002",
+          "lemma": "Amaleq",
+          "meaning": "Amalek; a descendant of Esau and his people"
+        }
+      ]
+    }
+  ]
+}

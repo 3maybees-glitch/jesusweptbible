@@ -1,0 +1,330 @@
+{
+  "book": "Psalms",
+  "chapter": 90,
+  "chapterTheme": {
+    "twoWordSummary": "Eternal Refuge",
+    "themeWords": [
+      {
+        "word": "Lord",
+        "strongNumber": "H136",
+        "lemma": "’Adonay",
+        "meaning": "Lord, master"
+      },
+      {
+        "word": "wisdom",
+        "strongNumber": "H2451",
+        "lemma": "chokmah",
+        "meaning": "wisdom, skill"
+      }
+    ]
+  },
+  "sentenceTheme": "Moses contrasts God’s eternity with human frailty and pleads for mercy, wisdom, joy, and the establishment of our work.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Lord, thou hast been our dwelling place in all generations.",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "H136",
+          "lemma": "’Adonay",
+          "meaning": "Lord, master"
+        },
+        {
+          "word": "generations",
+          "strongNumber": "H1755",
+          "lemma": "dor",
+          "meaning": "generation, age, period"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Before the mountains were brought forth, or ever thou hadst formed the earth and the world, even from everlasting to everlasting, thou art God.",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "’erets",
+          "meaning": "earth, land"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’Elohim",
+          "meaning": "God, mighty one"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Thou turnest man to destruction; and sayest, Return, ye children of men.",
+      "highlightedWords": [
+        {
+          "word": "Return",
+          "strongNumber": "H7725",
+          "lemma": "shuv",
+          "meaning": "to return, turn back, restore"
+        },
+        {
+          "word": "men",
+          "strongNumber": "H120",
+          "lemma": "’adam",
+          "meaning": "man, mankind, humanity"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "For a thousand years in thy sight are but as yesterday when it is past, and as a watch in the night.",
+      "highlightedWords": [
+        {
+          "word": "thousand",
+          "strongNumber": "H505",
+          "lemma": "’eleph",
+          "meaning": "a thousand"
+        },
+        {
+          "word": "watch",
+          "strongNumber": "H821",
+          "lemma": "’ashmura",
+          "meaning": "a watch of the night"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Thou carriest them away as with a flood; they are as a sleep: in the morning they are like grass which groweth up.",
+      "highlightedWords": [
+        {
+          "word": "sleep",
+          "strongNumber": "H8142",
+          "lemma": "shenah",
+          "meaning": "sleep"
+        },
+        {
+          "word": "grass",
+          "strongNumber": "H2682",
+          "lemma": "chatsir",
+          "meaning": "grass, herbage"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "In the morning it flourisheth, and groweth up; in the evening it is cut down, and withereth.",
+      "highlightedWords": [
+        {
+          "word": "morning",
+          "strongNumber": "H1242",
+          "lemma": "boqer",
+          "meaning": "morning"
+        },
+        {
+          "word": "evening",
+          "strongNumber": "H6153",
+          "lemma": "’ereb",
+          "meaning": "evening"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "For we are consumed by thine anger, and by thy wrath are we troubled.",
+      "highlightedWords": [
+        {
+          "word": "anger",
+          "strongNumber": "H639",
+          "lemma": "’aph",
+          "meaning": "anger, wrath"
+        },
+        {
+          "word": "wrath",
+          "strongNumber": "H2534",
+          "lemma": "chemah",
+          "meaning": "heat, rage, wrath"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Thou hast set our iniquities before thee, our secret sins in the light of thy countenance.",
+      "highlightedWords": [
+        {
+          "word": "iniquities",
+          "strongNumber": "H5771",
+          "lemma": "’avon",
+          "meaning": "iniquity, guilt"
+        },
+        {
+          "word": "countenance",
+          "strongNumber": "H6440",
+          "lemma": "paniym",
+          "meaning": "face, presence, countenance"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "For all our days are passed away in thy wrath: we spend our years as a tale that is told.",
+      "highlightedWords": [
+        {
+          "word": "days",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day"
+        },
+        {
+          "word": "years",
+          "strongNumber": "H8141",
+          "lemma": "shanah",
+          "meaning": "year"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "The days of our years are threescore years and ten; and if by reason of strength they be fourscore years, yet is their strength labour and sorrow; for it is soon cut off, and we fly away.",
+      "highlightedWords": [
+        {
+          "word": "years",
+          "strongNumber": "H8141",
+          "lemma": "shanah",
+          "meaning": "year"
+        },
+        {
+          "word": "fly",
+          "strongNumber": "H5774",
+          "lemma": "uph",
+          "meaning": "to fly"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Who knoweth the power of thine anger? even according to thy fear, so is thy wrath.",
+      "highlightedWords": [
+        {
+          "word": "anger",
+          "strongNumber": "H639",
+          "lemma": "’aph",
+          "meaning": "anger, wrath"
+        },
+        {
+          "word": "fear",
+          "strongNumber": "H3374",
+          "lemma": "yirah",
+          "meaning": "fear, reverence"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "So teach us to number our days, that we may apply our hearts unto wisdom.",
+      "highlightedWords": [
+        {
+          "word": "number",
+          "strongNumber": "H4487",
+          "lemma": "manah",
+          "meaning": "to count, number, appoint"
+        },
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "wisdom, skill"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Return, O LORD, how long? and let it repent thee concerning thy servants.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the proper name of the God of Israel"
+        },
+        {
+          "word": "Return",
+          "strongNumber": "H7725",
+          "lemma": "shuv",
+          "meaning": "to return, turn back, restore"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "O satisfy us early with thy mercy; that we may rejoice and be glad all our days.",
+      "highlightedWords": [
+        {
+          "word": "satisfy",
+          "strongNumber": "H7646",
+          "lemma": "saba",
+          "meaning": "to satisfy, fill, be sated"
+        },
+        {
+          "word": "mercy",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "steadfast love, mercy, kindness"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Make us glad according to the days wherein thou hast afflicted us, and the years wherein we have seen evil.",
+      "highlightedWords": [
+        {
+          "word": "afflicted",
+          "strongNumber": "H6031",
+          "lemma": "’anah",
+          "meaning": "to afflict, humble"
+        },
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra‘",
+          "meaning": "evil, misery, adversity"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Let thy work appear unto thy servants, and thy glory unto their children.",
+      "highlightedWords": [
+        {
+          "word": "work",
+          "strongNumber": "H4639",
+          "lemma": "ma‘aseh",
+          "meaning": "work, deed, accomplishment"
+        },
+        {
+          "word": "glory",
+          "strongNumber": "H3519",
+          "lemma": "kabod",
+          "meaning": "glory, honor, weight"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And let the beauty of the LORD our God be upon us: and establish thou the work of our hands upon us; yea, the work of our hands establish thou it.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the proper name of the God of Israel"
+        },
+        {
+          "word": "establish",
+          "strongNumber": "H3559",
+          "lemma": "kun",
+          "meaning": "to establish, prepare, make firm"
+        }
+      ]
+    }
+  ]
+}

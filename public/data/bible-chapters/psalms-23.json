@@ -1,0 +1,132 @@
+{
+  "book": "Psalms",
+  "chapter": 23,
+  "chapterTheme": {
+    "twoWordSummary": "Shepherd Care",
+    "themeWords": [
+      {
+        "word": "shepherd",
+        "strongNumber": "H7462",
+        "lemma": "ra'ah",
+        "meaning": "to shepherd, tend, feed"
+      },
+      {
+        "word": "mercy",
+        "strongNumber": "H2617",
+        "lemma": "chesed",
+        "meaning": "steadfast love, covenant loyalty, mercy"
+      }
+    ]
+  },
+  "sentenceTheme": "Confidence in the LORD’s shepherding care, provision, guidance, protection, and faithful love throughout life and beyond.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "The LORD is my shepherd; I shall not want.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God; the LORD"
+        },
+        {
+          "word": "shepherd",
+          "strongNumber": "H7462",
+          "lemma": "ra'ah",
+          "meaning": "to shepherd, tend, feed"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "He maketh me to lie down in green pastures: he leadeth me beside the still waters.",
+      "highlightedWords": [
+        {
+          "word": "green",
+          "strongNumber": "H1877",
+          "lemma": "desheʾ",
+          "meaning": "grass, green vegetation"
+        },
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "He restoreth my soul: he leadeth me in the paths of righteousness for his name's sake.",
+      "highlightedWords": [
+        {
+          "word": "restoreth",
+          "strongNumber": "H7725",
+          "lemma": "shuv",
+          "meaning": "to turn back, restore, refresh"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "tsedaqah",
+          "meaning": "righteousness, justice"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.",
+      "highlightedWords": [
+        {
+          "word": "shadow of death",
+          "strongNumber": "H6757",
+          "lemma": "tsalmaveth",
+          "meaning": "deep darkness, shadow of death"
+        },
+        {
+          "word": "rod",
+          "strongNumber": "H7626",
+          "lemma": "shebet",
+          "meaning": "rod, staff, scepter"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.",
+      "highlightedWords": [
+        {
+          "word": "table",
+          "strongNumber": "H7979",
+          "lemma": "shulchan",
+          "meaning": "table"
+        },
+        {
+          "word": "oil",
+          "strongNumber": "H8081",
+          "lemma": "shemen",
+          "meaning": "oil, fatness"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever.",
+      "highlightedWords": [
+        {
+          "word": "mercy",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "steadfast love, mercy"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God; the LORD"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,672 @@
+{
+  "book": "Leviticus",
+  "chapter": 8,
+  "chapterTheme": {
+    "twoWordSummary": "Priestly Consecration",
+    "themeWords": [
+      {
+        "word": "consecration",
+        "strongNumber": "H4394",
+        "lemma": "millu'im",
+        "meaning": "consecration; filling of the hands for priestly service"
+      },
+      {
+        "word": "anointing",
+        "strongNumber": "H4888",
+        "lemma": "mishchah",
+        "meaning": "anointing; sacred anointing oil"
+      }
+    ]
+  },
+  "sentenceTheme": "Moses consecrates Aaron and his sons through washing, vesting, anointing, and sacrificial rites as the LORD commanded.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And the LORD spake unto Moses, saying,",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel; the LORD"
+        },
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses, leader and lawgiver of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Take Aaron and his sons with him, and the garments, and the anointing oil, and a bullock for the sin offering, and two rams, and a basket of unleavened bread;",
+      "highlightedWords": [
+        {
+          "word": "Aaron",
+          "strongNumber": "H175",
+          "lemma": "Aharon",
+          "meaning": "Aaron, brother of Moses; first high priest"
+        },
+        {
+          "word": "oil",
+          "strongNumber": "H8081",
+          "lemma": "shemen",
+          "meaning": "oil; fat; anointing oil"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And gather thou all the congregation together unto the door of the tabernacle of the congregation.",
+      "highlightedWords": [
+        {
+          "word": "congregation",
+          "strongNumber": "H5712",
+          "lemma": "ʿedah",
+          "meaning": "assembly; congregation"
+        },
+        {
+          "word": "tabernacle",
+          "strongNumber": "H4908",
+          "lemma": "mishkan",
+          "meaning": "dwelling place; the tabernacle"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And Moses did as the LORD commanded him; and the assembly was gathered together unto the door of the tabernacle of the congregation.",
+      "highlightedWords": [
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses, leader and lawgiver of Israel"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel; the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And Moses said unto the congregation, This is the thing which the LORD commanded to be done.",
+      "highlightedWords": [
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses, leader and lawgiver of Israel"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel; the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And Moses brought Aaron and his sons, and washed them with water.",
+      "highlightedWords": [
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses, leader and lawgiver of Israel"
+        },
+        {
+          "word": "Aaron",
+          "strongNumber": "H175",
+          "lemma": "Aharon",
+          "meaning": "Aaron, brother of Moses; first high priest"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And he put upon him the coat, and girded him with the girdle, and clothed him with the robe, and put the ephod upon him, and he girded him with the curious girdle of the ephod, and bound it unto him therewith.",
+      "highlightedWords": [
+        {
+          "word": "robe",
+          "strongNumber": "H4598",
+          "lemma": "me'il",
+          "meaning": "robe; mantle"
+        },
+        {
+          "word": "ephod",
+          "strongNumber": "H646",
+          "lemma": "ephod",
+          "meaning": "priestly vestment (ephod)"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And he put the breastplate upon him: also he put in the breastplate the Urim and the Thummim.",
+      "highlightedWords": [
+        {
+          "word": "breastplate",
+          "strongNumber": "H2833",
+          "lemma": "choshen",
+          "meaning": "breastpiece of the high priest"
+        },
+        {
+          "word": "Urim",
+          "strongNumber": "H224",
+          "lemma": "Urim",
+          "meaning": "Urim; sacred lots used for decision"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And he put the mitre upon his head; also upon the mitre, even upon his forefront, did he put the golden plate, the holy crown; as the LORD commanded Moses.",
+      "highlightedWords": [
+        {
+          "word": "mitre",
+          "strongNumber": "H4701",
+          "lemma": "mitsnepheth",
+          "meaning": "turban; priestly headdress"
+        },
+        {
+          "word": "crown",
+          "strongNumber": "H5145",
+          "lemma": "nezer",
+          "meaning": "diadem; sacred crown of consecration"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And Moses took the anointing oil, and anointed the tabernacle and all that was therein, and sanctified them.",
+      "highlightedWords": [
+        {
+          "word": "anointing",
+          "strongNumber": "H4888",
+          "lemma": "mishchah",
+          "meaning": "anointing; sacred anointing oil"
+        },
+        {
+          "word": "tabernacle",
+          "strongNumber": "H4908",
+          "lemma": "mishkan",
+          "meaning": "dwelling place; the tabernacle"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And he sprinkled thereof upon the altar seven times, and anointed the altar and all his vessels, both the laver and his foot, to sanctify them.",
+      "highlightedWords": [
+        {
+          "word": "sprinkled",
+          "strongNumber": "H5137",
+          "lemma": "nazah",
+          "meaning": "to sprinkle; spatter"
+        },
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And he poured of the anointing oil upon Aaron's head, and anointed him, to sanctify him.",
+      "highlightedWords": [
+        {
+          "word": "anointed",
+          "strongNumber": "H4886",
+          "lemma": "mashach",
+          "meaning": "to anoint; smear with oil"
+        },
+        {
+          "word": "oil",
+          "strongNumber": "H8081",
+          "lemma": "shemen",
+          "meaning": "oil; fat; anointing oil"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And Moses brought Aaron's sons, and put coats upon them, and girded them with girdles, and put bonnets upon them; as the LORD commanded Moses.",
+      "highlightedWords": [
+        {
+          "word": "coats",
+          "strongNumber": "H3801",
+          "lemma": "kethoneth",
+          "meaning": "tunic; coat"
+        },
+        {
+          "word": "bonnets",
+          "strongNumber": "H4021",
+          "lemma": "migba'ah",
+          "meaning": "headdress; turban; bonnet"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And he brought the bullock for the sin offering: and Aaron and his sons laid their hands upon the head of the bullock for the sin offering.",
+      "highlightedWords": [
+        {
+          "word": "bullock",
+          "strongNumber": "H6499",
+          "lemma": "par",
+          "meaning": "young bull; bullock"
+        },
+        {
+          "word": "hands",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand; power"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And he slew it; and Moses took the blood, and put it upon the horns of the altar round about with his finger, and purified the altar, and poured the blood at the bottom of the altar, and sanctified it, to make reconciliation upon it.",
+      "highlightedWords": [
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "blood; bloodshed"
+        },
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And he took all the fat that was upon the inwards, and the caul above the liver, and the two kidneys, and their fat, and Moses burned it upon the altar.",
+      "highlightedWords": [
+        {
+          "word": "fat",
+          "strongNumber": "H2459",
+          "lemma": "cheleb",
+          "meaning": "fat; the choicest part"
+        },
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "But the bullock, and his hide, his flesh, and his dung, he burnt with fire without the camp; as the LORD commanded Moses.",
+      "highlightedWords": [
+        {
+          "word": "camp",
+          "strongNumber": "H4264",
+          "lemma": "machaneh",
+          "meaning": "camp; encampment"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel; the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And he brought the ram for the burnt offering: and Aaron and his sons laid their hands upon the head of the ram.",
+      "highlightedWords": [
+        {
+          "word": "ram",
+          "strongNumber": "H352",
+          "lemma": "ayil",
+          "meaning": "ram; male sheep"
+        },
+        {
+          "word": "hands",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand; power"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And he killed it; and Moses sprinkled the blood upon the altar round about.",
+      "highlightedWords": [
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "blood; bloodshed"
+        },
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And he cut the ram into pieces; and Moses burnt the head, and the pieces, and the fat.",
+      "highlightedWords": [
+        {
+          "word": "ram",
+          "strongNumber": "H352",
+          "lemma": "ayil",
+          "meaning": "ram; male sheep"
+        },
+        {
+          "word": "fat",
+          "strongNumber": "H2459",
+          "lemma": "cheleb",
+          "meaning": "fat; the choicest part"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And he washed the inwards and the legs in water; and Moses burnt the whole ram upon the altar: it was a burnt sacrifice for a sweet savour, and an offering made by fire unto the LORD; as the LORD commanded Moses.",
+      "highlightedWords": [
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel; the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And he brought the other ram, the ram of consecration: and Aaron and his sons laid their hands upon the head of the ram.",
+      "highlightedWords": [
+        {
+          "word": "ram",
+          "strongNumber": "H352",
+          "lemma": "ayil",
+          "meaning": "ram; male sheep"
+        },
+        {
+          "word": "consecration",
+          "strongNumber": "H4394",
+          "lemma": "millu'im",
+          "meaning": "consecration; ordination rite (filling of hands)"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And he slew it; and Moses took of the blood of it, and put it upon the tip of Aaron's right ear, and upon the thumb of his right hand, and upon the great toe of his right foot.",
+      "highlightedWords": [
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "blood; bloodshed"
+        },
+        {
+          "word": "ear",
+          "strongNumber": "H241",
+          "lemma": "ozen",
+          "meaning": "ear"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And he brought Aaron's sons, and Moses put of the blood upon the tip of their right ear, and upon the thumbs of their right hands, and upon the great toes of their right feet: and Moses sprinkled the blood upon the altar round about.",
+      "highlightedWords": [
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "blood; bloodshed"
+        },
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And he took the fat, and the rump, and all the fat that was upon the inwards, and the caul above the liver, and the two kidneys, and their fat, and the right shoulder:",
+      "highlightedWords": [
+        {
+          "word": "fat",
+          "strongNumber": "H2459",
+          "lemma": "cheleb",
+          "meaning": "fat; the choicest part"
+        },
+        {
+          "word": "kidneys",
+          "strongNumber": "H3629",
+          "lemma": "kilyah",
+          "meaning": "kidneys (fatty organs)"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And out of the basket of unleavened bread, that was before the LORD, he took one unleavened cake, and a cake of oiled bread, and one wafer, and put them on the fat, and upon the right shoulder:",
+      "highlightedWords": [
+        {
+          "word": "basket",
+          "strongNumber": "H5536",
+          "lemma": "sal",
+          "meaning": "basket (for bread/cakes)"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel; the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And he put all upon Aaron's hands, and upon his sons' hands, and waved them for a wave offering before the LORD.",
+      "highlightedWords": [
+        {
+          "word": "waved",
+          "strongNumber": "H5130",
+          "lemma": "nuph",
+          "meaning": "to wave; swing; present as a wave offering"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel; the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And Moses took them from off their hands, and burnt them on the altar upon the burnt offering: they were consecrations for a sweet savour: it is an offering made by fire unto the LORD.",
+      "highlightedWords": [
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel; the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "And Moses took the breast, and waved it for a wave offering before the LORD: for of the ram of consecration it was Moses' part; as the LORD commanded Moses.",
+      "highlightedWords": [
+        {
+          "word": "consecration",
+          "strongNumber": "H4394",
+          "lemma": "millu'im",
+          "meaning": "consecration; ordination rite (filling of hands)"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel; the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "And Moses took of the anointing oil, and of the blood which was upon the altar, and sprinkled it upon Aaron, and upon his garments, and upon his sons, and upon his sons' garments with him; and sanctified Aaron, and his garments, and his sons, and his sons' garments with him.",
+      "highlightedWords": [
+        {
+          "word": "anointing",
+          "strongNumber": "H4888",
+          "lemma": "mishchah",
+          "meaning": "anointing; sacred anointing oil"
+        },
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "blood; bloodshed"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "And Moses said unto Aaron and to his sons, Boil the flesh at the door of the tabernacle of the congregation: and there eat it with the bread that is in the basket of consecrations, as I commanded, saying, Aaron and his sons shall eat it.",
+      "highlightedWords": [
+        {
+          "word": "tabernacle",
+          "strongNumber": "H4908",
+          "lemma": "mishkan",
+          "meaning": "dwelling place; the tabernacle"
+        },
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread; food"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "And that which remaineth of the flesh and of the bread shall ye burn with fire.",
+      "highlightedWords": [
+        {
+          "word": "burn",
+          "strongNumber": "H8313",
+          "lemma": "saraph",
+          "meaning": "to burn up; consume by fire"
+        },
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "esh",
+          "meaning": "fire"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "And ye shall not go out of the door of the tabernacle of the congregation in seven days, until the days of your consecration be at an end: for seven days shall he consecrate you.",
+      "highlightedWords": [
+        {
+          "word": "tabernacle",
+          "strongNumber": "H4908",
+          "lemma": "mishkan",
+          "meaning": "dwelling place; the tabernacle"
+        },
+        {
+          "word": "consecration",
+          "strongNumber": "H4394",
+          "lemma": "millu'im",
+          "meaning": "consecration; ordination rite (filling of hands)"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "As he hath done this day, so the LORD hath commanded to do, to make an atonement for you.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel; the LORD"
+        },
+        {
+          "word": "atonement",
+          "strongNumber": "H3722",
+          "lemma": "kaphar",
+          "meaning": "to make atonement; cover; expiate"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "Therefore shall ye abide at the door of the tabernacle of the congregation day and night seven days, and keep the charge of the LORD, that ye die not: for so I am commanded.",
+      "highlightedWords": [
+        {
+          "word": "tabernacle",
+          "strongNumber": "H4908",
+          "lemma": "mishkan",
+          "meaning": "dwelling place; the tabernacle"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel; the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "So Aaron and his sons did all things which the LORD commanded by the hand of Moses.",
+      "highlightedWords": [
+        {
+          "word": "Aaron",
+          "strongNumber": "H175",
+          "lemma": "Aharon",
+          "meaning": "Aaron, brother of Moses; first high priest"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel; the LORD"
+        }
+      ]
+    }
+  ]
+}

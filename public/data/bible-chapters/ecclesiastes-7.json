@@ -1,0 +1,546 @@
+{
+  "book": "Ecclesiastes",
+  "chapter": 7,
+  "chapterTheme": {
+    "twoWordSummary": "Sober Wisdom",
+    "themeWords": [
+      {
+        "word": "wisdom",
+        "strongNumber": "H2451",
+        "lemma": "chokmah",
+        "meaning": "wisdom, skill"
+      },
+      {
+        "word": "vanity",
+        "strongNumber": "H1892",
+        "lemma": "hebel",
+        "meaning": "vapor, futility"
+      }
+    ]
+  },
+  "sentenceTheme": "Solomon contrasts wise sobriety with folly, urging balanced righteousness, the fear of God, and humble acceptance of God’s providence.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "A good name is better than precious ointment; and the day of death than the day of one's birth.",
+      "highlightedWords": [
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "name, reputation"
+        },
+        {
+          "word": "death",
+          "strongNumber": "H4194",
+          "lemma": "maveth",
+          "meaning": "death"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "It is better to go to the house of mourning, than to go to the house of feasting: for that is the end of all men; and the living will lay it to his heart.",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, dwelling"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner person"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Sorrow is better than laughter: for by the sadness of the countenance the heart is made better.",
+      "highlightedWords": [
+        {
+          "word": "countenance",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "face, presence"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner person"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "The heart of the wise is in the house of mourning; but the heart of fools is in the house of mirth.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner person"
+        },
+        {
+          "word": "wise",
+          "strongNumber": "H2450",
+          "lemma": "chakam",
+          "meaning": "wise, skillful"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "It is better to hear the rebuke of the wise, than for a man to hear the song of fools.",
+      "highlightedWords": [
+        {
+          "word": "rebuke",
+          "strongNumber": "H1606",
+          "lemma": "ga'arah",
+          "meaning": "rebuke, reproof"
+        },
+        {
+          "word": "wise",
+          "strongNumber": "H2450",
+          "lemma": "chakam",
+          "meaning": "wise, skillful"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "For as the crackling of thorns under a pot, so is the laughter of the fool: this also is vanity.",
+      "highlightedWords": [
+        {
+          "word": "fool",
+          "strongNumber": "H3684",
+          "lemma": "kesil",
+          "meaning": "fool, dullard"
+        },
+        {
+          "word": "vanity",
+          "strongNumber": "H1892",
+          "lemma": "hebel",
+          "meaning": "vapor, futility"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Surely oppression maketh a wise man mad; and a gift destroyeth the heart.",
+      "highlightedWords": [
+        {
+          "word": "oppression",
+          "strongNumber": "H6233",
+          "lemma": "osheq",
+          "meaning": "oppression, extortion"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner person"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Better is the end of a thing than the beginning thereof: and the patient in spirit is better than the proud in spirit.",
+      "highlightedWords": [
+        {
+          "word": "better",
+          "strongNumber": "H2896",
+          "lemma": "tov",
+          "meaning": "good, pleasant"
+        },
+        {
+          "word": "spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "spirit, wind, breath"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Be not hasty in thy spirit to be angry: for anger resteth in the bosom of fools.",
+      "highlightedWords": [
+        {
+          "word": "spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "spirit, wind, breath"
+        },
+        {
+          "word": "anger",
+          "strongNumber": "H3708",
+          "lemma": "ka'as",
+          "meaning": "anger, vexation"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Say not thou, What is the cause that the former days were better than these? for thou dost not enquire wisely concerning this.",
+      "highlightedWords": [
+        {
+          "word": "days",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day"
+        },
+        {
+          "word": "better",
+          "strongNumber": "H2896",
+          "lemma": "tov",
+          "meaning": "good, pleasant"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Wisdom is good with an inheritance: and by it there is profit to them that see the sun.",
+      "highlightedWords": [
+        {
+          "word": "Wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "wisdom, skill"
+        },
+        {
+          "word": "inheritance",
+          "strongNumber": "H5159",
+          "lemma": "nachalah",
+          "meaning": "inheritance, possession"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "For wisdom is a defence, and money is a defence: but the excellency of knowledge is, that wisdom giveth life to them that have it.",
+      "highlightedWords": [
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "wisdom, skill"
+        },
+        {
+          "word": "life",
+          "strongNumber": "H2416",
+          "lemma": "chay",
+          "meaning": "life, living"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Consider the work of God: for who can make that straight, which he hath made crooked?",
+      "highlightedWords": [
+        {
+          "word": "work",
+          "strongNumber": "H4639",
+          "lemma": "ma'aseh",
+          "meaning": "work, deed"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "In the day of prosperity be joyful, but in the day of adversity consider: God also hath set the one over against the other, to the end that man should find nothing after him.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God"
+        },
+        {
+          "word": "man",
+          "strongNumber": "H120",
+          "lemma": "adam",
+          "meaning": "man, humanity"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "All things have I seen in the days of my vanity: there is a just man that perisheth in his righteousness, and there is a wicked man that prolongeth his life in his wickedness.",
+      "highlightedWords": [
+        {
+          "word": "vanity",
+          "strongNumber": "H1892",
+          "lemma": "hebel",
+          "meaning": "vapor, futility"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "tsedaqah",
+          "meaning": "righteousness, justice"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Be not righteous over much; neither make thyself over wise: why shouldest thou destroy thyself?",
+      "highlightedWords": [
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just"
+        },
+        {
+          "word": "wise",
+          "strongNumber": "H2450",
+          "lemma": "chakam",
+          "meaning": "wise, skillful"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Be not over much wicked, neither be thou foolish: why shouldest thou die before thy time?",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha",
+          "meaning": "wicked, guilty"
+        },
+        {
+          "word": "die",
+          "strongNumber": "H4191",
+          "lemma": "muwth",
+          "meaning": "to die"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "It is good that thou shouldest take hold of this; yea, also from this withdraw not thine hand: for he that feareth God shall come forth of them all.",
+      "highlightedWords": [
+        {
+          "word": "good",
+          "strongNumber": "H2896",
+          "lemma": "tov",
+          "meaning": "good, pleasant"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Wisdom strengtheneth the wise more than ten mighty men which are in the city.",
+      "highlightedWords": [
+        {
+          "word": "Wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "wisdom, skill"
+        },
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "iyr",
+          "meaning": "city, town"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "For there is not a just man upon earth, that doeth good, and sinneth not.",
+      "highlightedWords": [
+        {
+          "word": "man",
+          "strongNumber": "H120",
+          "lemma": "adam",
+          "meaning": "man, humanity"
+        },
+        {
+          "word": "sinneth",
+          "strongNumber": "H2398",
+          "lemma": "chata",
+          "meaning": "to sin, miss the mark"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Also take no heed unto all words that are spoken; lest thou hear thy servant curse thee:",
+      "highlightedWords": [
+        {
+          "word": "words",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter"
+        },
+        {
+          "word": "servant",
+          "strongNumber": "H5650",
+          "lemma": "ebed",
+          "meaning": "servant, slave"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "For oftentimes also thine own heart knoweth that thou thyself likewise hast cursed others.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner person"
+        },
+        {
+          "word": "cursed",
+          "strongNumber": "H7043",
+          "lemma": "qalal",
+          "meaning": "to curse, treat lightly"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "All this have I proved by wisdom: I said, I will be wise; but it was far from me.",
+      "highlightedWords": [
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "wisdom, skill"
+        },
+        {
+          "word": "wise",
+          "strongNumber": "H2450",
+          "lemma": "chakam",
+          "meaning": "wise, skillful"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "That which is far off, and exceeding deep, who can find it out?",
+      "highlightedWords": [
+        {
+          "word": "deep",
+          "strongNumber": "H6013",
+          "lemma": "amoq",
+          "meaning": "deep, unsearchable"
+        },
+        {
+          "word": "find",
+          "strongNumber": "H4672",
+          "lemma": "matsa",
+          "meaning": "to find"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "I applied mine heart to know, and to search, and to seek out wisdom, and the reason of things, and to know the wickedness of folly, even of foolishness and madness:",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner person"
+        },
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "wisdom, skill"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And I find more bitter than death the woman, whose heart is snares and nets, and her hands as bands: whoso pleaseth God shall escape from her; but the sinner shall be taken by her.",
+      "highlightedWords": [
+        {
+          "word": "woman",
+          "strongNumber": "H802",
+          "lemma": "ishshah",
+          "meaning": "woman, wife"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "Behold, this have I found, saith the preacher, counting one by one, to find out the account:",
+      "highlightedWords": [
+        {
+          "word": "preacher",
+          "strongNumber": "H6953",
+          "lemma": "Qoheleth",
+          "meaning": "assembler, preacher"
+        },
+        {
+          "word": "account",
+          "strongNumber": "H2808",
+          "lemma": "cheshbon",
+          "meaning": "account, calculation"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "Which yet my soul seeketh, but I find not: one man among a thousand have I found; but a woman among all those have I not found.",
+      "highlightedWords": [
+        {
+          "word": "woman",
+          "strongNumber": "H802",
+          "lemma": "ishshah",
+          "meaning": "woman, wife"
+        },
+        {
+          "word": "thousand",
+          "strongNumber": "H505",
+          "lemma": "eleph",
+          "meaning": "thousand"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "Lo, this only have I found, that God hath made man upright; but they have sought out many inventions.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God"
+        },
+        {
+          "word": "upright",
+          "strongNumber": "H3477",
+          "lemma": "yashar",
+          "meaning": "upright, straight"
+        }
+      ]
+    }
+  ]
+}

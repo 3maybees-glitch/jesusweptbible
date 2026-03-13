@@ -1,0 +1,240 @@
+{
+  "book": "Psalms",
+  "chapter": 84,
+  "chapterTheme": {
+    "twoWordSummary": "Dwelling Delight",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH",
+        "meaning": "the covenant name of the God of Israel"
+      },
+      {
+        "word": "courts",
+        "strongNumber": "H2691",
+        "lemma": "chatser",
+        "meaning": "enclosure, court (of the temple)"
+      }
+    ]
+  },
+  "sentenceTheme": "A pilgrim rejoices in God’s dwelling, finds strength on the journey, and receives blessing for trusting Him.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "How amiable are thy tabernacles, O LORD of hosts!",
+      "highlightedWords": [
+        {
+          "word": "tabernacles",
+          "strongNumber": "H4908",
+          "lemma": "mishkan",
+          "meaning": "dwelling place, tabernacle"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "My soul longeth, yea, even fainteth for the courts of the LORD: my heart and my flesh crieth out for the living God.",
+      "highlightedWords": [
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, self"
+        },
+        {
+          "word": "courts",
+          "strongNumber": "H2691",
+          "lemma": "chatser",
+          "meaning": "enclosure, court (of the temple)"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Yea, the sparrow hath found an house, and the swallow a nest for herself, where she may lay her young, even thine altars, O LORD of hosts, my King, and my God.",
+      "highlightedWords": [
+        {
+          "word": "sparrow",
+          "strongNumber": "H6833",
+          "lemma": "tsippor",
+          "meaning": "sparrow, small bird"
+        },
+        {
+          "word": "altars",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Blessed are they that dwell in thy house: they will be still praising thee. Selah.",
+      "highlightedWords": [
+        {
+          "word": "Blessed",
+          "strongNumber": "H835",
+          "lemma": "esher",
+          "meaning": "happiness, blessedness"
+        },
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, household"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Blessed is the man whose strength is in thee; in whose heart are the ways of them.",
+      "highlightedWords": [
+        {
+          "word": "strength",
+          "strongNumber": "H5797",
+          "lemma": "oz",
+          "meaning": "strength, might"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner person"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Who passing through the valley of Baca make it a well; the rain also filleth the pools.",
+      "highlightedWords": [
+        {
+          "word": "valley",
+          "strongNumber": "H6010",
+          "lemma": "emeq",
+          "meaning": "valley, lowland"
+        },
+        {
+          "word": "Baca",
+          "strongNumber": "H1056",
+          "lemma": "Bakaʿ",
+          "meaning": "Baca; weeping"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "They go from strength to strength, every one of them in Zion appeareth before God.",
+      "highlightedWords": [
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyyon",
+          "meaning": "Zion, the hill of Jerusalem"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God (plural of majesty), the true God"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "O LORD God of hosts, hear my prayer: give ear, O God of Jacob. Selah.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of the God of Israel"
+        },
+        {
+          "word": "Jacob",
+          "strongNumber": "H3290",
+          "lemma": "Yaʿaqov",
+          "meaning": "Jacob; heel-catcher, supplanter"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Behold, O God our shield, and look upon the face of thine anointed.",
+      "highlightedWords": [
+        {
+          "word": "shield",
+          "strongNumber": "H4043",
+          "lemma": "magen",
+          "meaning": "shield, buckler"
+        },
+        {
+          "word": "anointed",
+          "strongNumber": "H4899",
+          "lemma": "Mashiach",
+          "meaning": "anointed one, messiah"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "For a day in thy courts is better than a thousand. I had rather be a doorkeeper in the house of my God, than to dwell in the tents of wickedness.",
+      "highlightedWords": [
+        {
+          "word": "courts",
+          "strongNumber": "H2691",
+          "lemma": "chatser",
+          "meaning": "enclosure, court (of the temple)"
+        },
+        {
+          "word": "wickedness",
+          "strongNumber": "H7562",
+          "lemma": "reshaʿ",
+          "meaning": "wickedness, guilt"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "For the LORD God is a sun and shield: the LORD will give grace and glory: no good thing will he withhold from them that walk uprightly.",
+      "highlightedWords": [
+        {
+          "word": "grace",
+          "strongNumber": "H2580",
+          "lemma": "chen",
+          "meaning": "favor, grace"
+        },
+        {
+          "word": "glory",
+          "strongNumber": "H3519",
+          "lemma": "kavod",
+          "meaning": "glory, honor"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "O LORD of hosts, blessed is the man that trusteth in thee.",
+      "highlightedWords": [
+        {
+          "word": "hosts",
+          "strongNumber": "H6635",
+          "lemma": "tsabaʿ",
+          "meaning": "armies, hosts"
+        },
+        {
+          "word": "trusteth",
+          "strongNumber": "H982",
+          "lemma": "batach",
+          "meaning": "to trust, be confident"
+        }
+      ]
+    }
+  ]
+}

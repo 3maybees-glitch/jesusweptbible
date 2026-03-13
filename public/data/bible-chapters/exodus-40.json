@@ -1,0 +1,708 @@
+{
+  "book": "Exodus",
+  "chapter": 40,
+  "chapterTheme": {
+    "twoWordSummary": "Tabernacle Raised",
+    "themeWords": [
+      {
+        "word": "tabernacle",
+        "strongNumber": "H4908",
+        "lemma": "mishkan",
+        "meaning": "dwelling place; tabernacle"
+      },
+      {
+        "word": "glory",
+        "strongNumber": "H3519",
+        "lemma": "kabod",
+        "meaning": "glory, honor, weight; divine presence"
+      }
+    ]
+  },
+  "sentenceTheme": "Moses sets up and anoints the tabernacle exactly as the LORD commands, and the glory-cloud fills it to guide Israel.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And the LORD spake unto Moses, saying,",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        },
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses; drawn out"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "On the first day of the first month shalt thou set up the tabernacle of the tent of the congregation.",
+      "highlightedWords": [
+        {
+          "word": "tabernacle",
+          "strongNumber": "H4908",
+          "lemma": "mishkan",
+          "meaning": "dwelling place; tabernacle"
+        },
+        {
+          "word": "congregation",
+          "strongNumber": "H4150",
+          "lemma": "moed",
+          "meaning": "appointed meeting; meeting place (tent of meeting)"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And thou shalt put therein the ark of the testimony, and cover the ark with the vail.",
+      "highlightedWords": [
+        {
+          "word": "ark",
+          "strongNumber": "H727",
+          "lemma": "aron",
+          "meaning": "ark, chest"
+        },
+        {
+          "word": "vail",
+          "strongNumber": "H6532",
+          "lemma": "paroketh",
+          "meaning": "veil, inner curtain"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And thou shalt bring in the table, and set in order the things that are to be set in order upon it; and thou shalt bring in the candlestick, and light the lamps thereof.",
+      "highlightedWords": [
+        {
+          "word": "table",
+          "strongNumber": "H7979",
+          "lemma": "shulchan",
+          "meaning": "table"
+        },
+        {
+          "word": "candlestick",
+          "strongNumber": "H4501",
+          "lemma": "menorah",
+          "meaning": "lampstand, candlestick"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And thou shalt set the altar of gold for the incense before the ark of the testimony, and put the hanging of the door to the tabernacle.",
+      "highlightedWords": [
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar"
+        },
+        {
+          "word": "incense",
+          "strongNumber": "H7004",
+          "lemma": "qetoreth",
+          "meaning": "incense"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And thou shalt set the altar of the burnt offering before the door of the tabernacle of the tent of the congregation.",
+      "highlightedWords": [
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar"
+        },
+        {
+          "word": "tabernacle",
+          "strongNumber": "H4908",
+          "lemma": "mishkan",
+          "meaning": "dwelling place; tabernacle"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And thou shalt set the laver between the tent of the congregation and the altar, and shalt put water therein.",
+      "highlightedWords": [
+        {
+          "word": "laver",
+          "strongNumber": "H3595",
+          "lemma": "kiyyor",
+          "meaning": "basin, laver"
+        },
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And thou shalt set up the court round about, and hang up the hanging at the court gate.",
+      "highlightedWords": [
+        {
+          "word": "court",
+          "strongNumber": "H2691",
+          "lemma": "chatser",
+          "meaning": "court, courtyard"
+        },
+        {
+          "word": "gate",
+          "strongNumber": "H8179",
+          "lemma": "sha'ar",
+          "meaning": "gate, entrance"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And thou shalt take the anointing oil, and anoint the tabernacle, and all that is therein, and shalt hallow it, and all the vessels thereof: and it shall be holy.",
+      "highlightedWords": [
+        {
+          "word": "anointing",
+          "strongNumber": "H4888",
+          "lemma": "mishchah",
+          "meaning": "anointing oil"
+        },
+        {
+          "word": "holy",
+          "strongNumber": "H6944",
+          "lemma": "qodesh",
+          "meaning": "holy, sacred, set apart"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And thou shalt anoint the altar of the burnt offering, and all his vessels, and sanctify the altar: and it shall be an altar most holy.",
+      "highlightedWords": [
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar"
+        },
+        {
+          "word": "holy",
+          "strongNumber": "H6944",
+          "lemma": "qodesh",
+          "meaning": "holy, sacred, set apart"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And thou shalt anoint the laver and his foot, and sanctify it.",
+      "highlightedWords": [
+        {
+          "word": "anoint",
+          "strongNumber": "H4886",
+          "lemma": "mashach",
+          "meaning": "to anoint, smear"
+        },
+        {
+          "word": "laver",
+          "strongNumber": "H3595",
+          "lemma": "kiyyor",
+          "meaning": "basin, laver"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And thou shalt bring Aaron and his sons unto the door of the tabernacle of the congregation, and wash them with water.",
+      "highlightedWords": [
+        {
+          "word": "Aaron",
+          "strongNumber": "H175",
+          "lemma": "Aharon",
+          "meaning": "Aaron; Israel's first high priest"
+        },
+        {
+          "word": "tabernacle",
+          "strongNumber": "H4908",
+          "lemma": "mishkan",
+          "meaning": "dwelling place; tabernacle"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And thou shalt put upon Aaron the holy garments, and anoint him, and sanctify him; that he may minister unto me in the priest's office.",
+      "highlightedWords": [
+        {
+          "word": "garments",
+          "strongNumber": "H899",
+          "lemma": "beged",
+          "meaning": "garment, clothing"
+        },
+        {
+          "word": "anoint",
+          "strongNumber": "H4886",
+          "lemma": "mashach",
+          "meaning": "to anoint, smear"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And thou shalt bring his sons, and clothe them with coats:",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, descendant"
+        },
+        {
+          "word": "coats",
+          "strongNumber": "H3801",
+          "lemma": "kethoneth",
+          "meaning": "tunic, coat"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And thou shalt anoint them, as thou didst anoint their father, that they may minister unto me in the priest's office: for their anointing shall surely be an everlasting priesthood throughout their generations.",
+      "highlightedWords": [
+        {
+          "word": "anoint",
+          "strongNumber": "H4886",
+          "lemma": "mashach",
+          "meaning": "to anoint, smear"
+        },
+        {
+          "word": "priesthood",
+          "strongNumber": "H3550",
+          "lemma": "kehunnah",
+          "meaning": "priesthood, office of priest"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Thus did Moses: according to all that the LORD commanded him, so did he.",
+      "highlightedWords": [
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses; drawn out"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And it came to pass in the first month in the second year, on the first day of the month, that the tabernacle was reared up.",
+      "highlightedWords": [
+        {
+          "word": "month",
+          "strongNumber": "H2320",
+          "lemma": "chodesh",
+          "meaning": "month, new moon"
+        },
+        {
+          "word": "tabernacle",
+          "strongNumber": "H4908",
+          "lemma": "mishkan",
+          "meaning": "dwelling place; tabernacle"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And Moses reared up the tabernacle, and fastened his sockets, and set up the boards thereof, and put in the bars thereof, and reared up his pillars.",
+      "highlightedWords": [
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses; drawn out"
+        },
+        {
+          "word": "tabernacle",
+          "strongNumber": "H4908",
+          "lemma": "mishkan",
+          "meaning": "dwelling place; tabernacle"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And he spread abroad the tent over the tabernacle, and put the covering of the tent above upon it; as the LORD commanded Moses.",
+      "highlightedWords": [
+        {
+          "word": "tent",
+          "strongNumber": "H168",
+          "lemma": "ohel",
+          "meaning": "tent"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And he took and put the testimony into the ark, and set the staves on the ark, and put the mercy seat above upon the ark:",
+      "highlightedWords": [
+        {
+          "word": "testimony",
+          "strongNumber": "H5715",
+          "lemma": "eduth",
+          "meaning": "testimony, witness"
+        },
+        {
+          "word": "ark",
+          "strongNumber": "H727",
+          "lemma": "aron",
+          "meaning": "ark, chest"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And he brought the ark into the tabernacle, and set up the vail of the covering, and covered the ark of the testimony; as the LORD commanded Moses.",
+      "highlightedWords": [
+        {
+          "word": "tabernacle",
+          "strongNumber": "H4908",
+          "lemma": "mishkan",
+          "meaning": "dwelling place; tabernacle"
+        },
+        {
+          "word": "vail",
+          "strongNumber": "H6532",
+          "lemma": "paroketh",
+          "meaning": "veil, inner curtain"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And he put the table in the tent of the congregation, upon the side of the tabernacle northward, without the vail.",
+      "highlightedWords": [
+        {
+          "word": "table",
+          "strongNumber": "H7979",
+          "lemma": "shulchan",
+          "meaning": "table"
+        },
+        {
+          "word": "vail",
+          "strongNumber": "H6532",
+          "lemma": "paroketh",
+          "meaning": "veil, inner curtain"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And he set the bread in order upon it before the LORD; as the LORD had commanded Moses.",
+      "highlightedWords": [
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread, food"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And he put the candlestick in the tent of the congregation, over against the table, on the side of the tabernacle southward.",
+      "highlightedWords": [
+        {
+          "word": "candlestick",
+          "strongNumber": "H4501",
+          "lemma": "menorah",
+          "meaning": "lampstand, candlestick"
+        },
+        {
+          "word": "tabernacle",
+          "strongNumber": "H4908",
+          "lemma": "mishkan",
+          "meaning": "dwelling place; tabernacle"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And he lighted the lamps before the LORD; as the LORD commanded Moses.",
+      "highlightedWords": [
+        {
+          "word": "lamps",
+          "strongNumber": "H5216",
+          "lemma": "ner",
+          "meaning": "lamp"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And he put the golden altar in the tent of the congregation before the vail:",
+      "highlightedWords": [
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar"
+        },
+        {
+          "word": "vail",
+          "strongNumber": "H6532",
+          "lemma": "paroketh",
+          "meaning": "veil, inner curtain"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And he burnt sweet incense thereon; as the LORD commanded Moses.",
+      "highlightedWords": [
+        {
+          "word": "incense",
+          "strongNumber": "H7004",
+          "lemma": "qetoreth",
+          "meaning": "incense"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And he set up the hanging at the door of the tabernacle.",
+      "highlightedWords": [
+        {
+          "word": "hanging",
+          "strongNumber": "H4539",
+          "lemma": "masak",
+          "meaning": "screen, curtain, hanging"
+        },
+        {
+          "word": "tabernacle",
+          "strongNumber": "H4908",
+          "lemma": "mishkan",
+          "meaning": "dwelling place; tabernacle"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "And he put the altar of burnt offering by the door of the tabernacle of the tent of the congregation, and offered upon it the burnt offering and the meat offering; as the LORD commanded Moses.",
+      "highlightedWords": [
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar"
+        },
+        {
+          "word": "tabernacle",
+          "strongNumber": "H4908",
+          "lemma": "mishkan",
+          "meaning": "dwelling place; tabernacle"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "And he set the laver between the tent of the congregation and the altar, and put water there, to wash withal.",
+      "highlightedWords": [
+        {
+          "word": "laver",
+          "strongNumber": "H3595",
+          "lemma": "kiyyor",
+          "meaning": "basin, laver"
+        },
+        {
+          "word": "wash",
+          "strongNumber": "H7364",
+          "lemma": "rachats",
+          "meaning": "to wash, bathe"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "And Moses and Aaron and his sons washed their hands and their feet thereat:",
+      "highlightedWords": [
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses; drawn out"
+        },
+        {
+          "word": "Aaron",
+          "strongNumber": "H175",
+          "lemma": "Aharon",
+          "meaning": "Aaron; Israel's first high priest"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "When they went into the tent of the congregation, and when they came near unto the altar, they washed; as the LORD commanded Moses.",
+      "highlightedWords": [
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "And he reared up the court round about the tabernacle and the altar, and set up the hanging of the court gate. So Moses finished the work.",
+      "highlightedWords": [
+        {
+          "word": "court",
+          "strongNumber": "H2691",
+          "lemma": "chatser",
+          "meaning": "court, courtyard"
+        },
+        {
+          "word": "work",
+          "strongNumber": "H4399",
+          "lemma": "melakah",
+          "meaning": "work, craftsmanship, occupation"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "Then a cloud covered the tent of the congregation, and the glory of the LORD filled the tabernacle.",
+      "highlightedWords": [
+        {
+          "word": "cloud",
+          "strongNumber": "H6051",
+          "lemma": "anan",
+          "meaning": "cloud"
+        },
+        {
+          "word": "glory",
+          "strongNumber": "H3519",
+          "lemma": "kabod",
+          "meaning": "glory, honor; radiant presence"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "And Moses was not able to enter into the tent of the congregation, because the cloud abode thereon, and the glory of the LORD filled the tabernacle.",
+      "highlightedWords": [
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses; drawn out"
+        },
+        {
+          "word": "glory",
+          "strongNumber": "H3519",
+          "lemma": "kabod",
+          "meaning": "glory, honor; radiant presence"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "And when the cloud was taken up from over the tabernacle, the children of Israel went onward in all their journeys:",
+      "highlightedWords": [
+        {
+          "word": "cloud",
+          "strongNumber": "H6051",
+          "lemma": "anan",
+          "meaning": "cloud"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisrael",
+          "meaning": "Israel; God strives/Prince with God"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "But if the cloud were not taken up, then they journeyed not till the day that it was taken up.",
+      "highlightedWords": [
+        {
+          "word": "cloud",
+          "strongNumber": "H6051",
+          "lemma": "anan",
+          "meaning": "cloud"
+        },
+        {
+          "word": "day",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "For the cloud of the LORD was upon the tabernacle by day, and fire was on it by night, in the sight of all the house of Israel, throughout all their journeys.",
+      "highlightedWords": [
+        {
+          "word": "cloud",
+          "strongNumber": "H6051",
+          "lemma": "anan",
+          "meaning": "cloud"
+        },
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "esh",
+          "meaning": "fire"
+        }
+      ]
+    }
+  ]
+}

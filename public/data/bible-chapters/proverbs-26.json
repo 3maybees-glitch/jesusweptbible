@@ -1,0 +1,528 @@
+{
+  "book": "Proverbs",
+  "chapter": 26,
+  "chapterTheme": {
+    "twoWordSummary": "Folly Exposed",
+    "themeWords": [
+      {
+        "word": "fool",
+        "strongNumber": "H3684",
+        "lemma": "kesil",
+        "meaning": "a foolish, dull, or stupid person"
+      },
+      {
+        "word": "strife",
+        "strongNumber": "H4066",
+        "lemma": "madon",
+        "meaning": "contention, quarrel, or dispute"
+      }
+    ]
+  },
+  "sentenceTheme": "Contrasting wisdom with folly, the chapter warns against foolishness, sloth, deceit, and quarrels while urging prudent speech and conduct.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "As snow in summer, and as rain in harvest, so honour is not seemly for a fool.",
+      "highlightedWords": [
+        {
+          "word": "honour",
+          "strongNumber": "H3519",
+          "lemma": "kabod",
+          "meaning": "glory, honor, weightiness"
+        },
+        {
+          "word": "fool",
+          "strongNumber": "H3684",
+          "lemma": "kesil",
+          "meaning": "a dull, stupid, or foolish person"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "As the bird by wandering, as the swallow by flying, so the curse causeless shall not come.",
+      "highlightedWords": [
+        {
+          "word": "swallow",
+          "strongNumber": "H1866",
+          "lemma": "deror",
+          "meaning": "a swallow (bird)"
+        },
+        {
+          "word": "curse",
+          "strongNumber": "H7045",
+          "lemma": "qelalah",
+          "meaning": "a curse or malediction"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "A whip for the horse, a bridle for the ass, and a rod for the fool's back.",
+      "highlightedWords": [
+        {
+          "word": "rod",
+          "strongNumber": "H7626",
+          "lemma": "shebet",
+          "meaning": "a rod, staff, or scepter"
+        },
+        {
+          "word": "horse",
+          "strongNumber": "H5483",
+          "lemma": "sus",
+          "meaning": "a horse"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Answer not a fool according to his folly, lest thou also be like unto him.",
+      "highlightedWords": [
+        {
+          "word": "Answer",
+          "strongNumber": "H6030",
+          "lemma": "anah",
+          "meaning": "to answer or respond"
+        },
+        {
+          "word": "folly",
+          "strongNumber": "H200",
+          "lemma": "ivveleth",
+          "meaning": "foolishness, stupidity"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Answer a fool according to his folly, lest he be wise in his own conceit.",
+      "highlightedWords": [
+        {
+          "word": "Answer",
+          "strongNumber": "H6030",
+          "lemma": "anah",
+          "meaning": "to answer or respond"
+        },
+        {
+          "word": "wise",
+          "strongNumber": "H2450",
+          "lemma": "chakam",
+          "meaning": "wise, skillful, prudent"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "He that sendeth a message by the hand of a fool cutteth off the feet, and drinketh damage.",
+      "highlightedWords": [
+        {
+          "word": "message",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "a word, matter, or message"
+        },
+        {
+          "word": "fool",
+          "strongNumber": "H3684",
+          "lemma": "kesil",
+          "meaning": "a dull, stupid, or foolish person"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "The legs of the lame are not equal: so is a parable in the mouth of fools.",
+      "highlightedWords": [
+        {
+          "word": "parable",
+          "strongNumber": "H4912",
+          "lemma": "mashal",
+          "meaning": "a proverb, parable, or comparison"
+        },
+        {
+          "word": "fools",
+          "strongNumber": "H3684",
+          "lemma": "kesil",
+          "meaning": "foolish or dull persons"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "As he that bindeth a stone in a sling, so is he that giveth honour to a fool.",
+      "highlightedWords": [
+        {
+          "word": "stone",
+          "strongNumber": "H68",
+          "lemma": "eben",
+          "meaning": "a stone"
+        },
+        {
+          "word": "sling",
+          "strongNumber": "H7050",
+          "lemma": "qela",
+          "meaning": "a sling"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "As a thorn goeth up into the hand of a drunkard, so is a parable in the mouth of fools.",
+      "highlightedWords": [
+        {
+          "word": "drunkard",
+          "strongNumber": "H7910",
+          "lemma": "shikkor",
+          "meaning": "a drunken person"
+        },
+        {
+          "word": "parable",
+          "strongNumber": "H4912",
+          "lemma": "mashal",
+          "meaning": "a proverb, parable, or comparison"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "The great God that formed all things both rewardeth the fool, and rewardeth transgressors.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; the supreme deity"
+        },
+        {
+          "word": "formed",
+          "strongNumber": "H3335",
+          "lemma": "yatsar",
+          "meaning": "to form, fashion, or shape"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "As a dog returneth to his vomit, so a fool returneth to his folly.",
+      "highlightedWords": [
+        {
+          "word": "dog",
+          "strongNumber": "H3611",
+          "lemma": "keleb",
+          "meaning": "a dog"
+        },
+        {
+          "word": "vomit",
+          "strongNumber": "H6892",
+          "lemma": "qi",
+          "meaning": "vomit"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Seest thou a man wise in his own conceit? there is more hope of a fool than of him.",
+      "highlightedWords": [
+        {
+          "word": "wise",
+          "strongNumber": "H2450",
+          "lemma": "chakam",
+          "meaning": "wise, skillful, prudent"
+        },
+        {
+          "word": "fool",
+          "strongNumber": "H3684",
+          "lemma": "kesil",
+          "meaning": "a dull, stupid, or foolish person"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "The slothful man saith, There is a lion in the way; a lion is in the streets.",
+      "highlightedWords": [
+        {
+          "word": "slothful",
+          "strongNumber": "H6102",
+          "lemma": "atsel",
+          "meaning": "sluggish, lazy, slothful"
+        },
+        {
+          "word": "lion",
+          "strongNumber": "H738",
+          "lemma": "ari",
+          "meaning": "a lion"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "As the door turneth upon his hinges, so doth the slothful upon his bed.",
+      "highlightedWords": [
+        {
+          "word": "door",
+          "strongNumber": "H1817",
+          "lemma": "deleth",
+          "meaning": "a door or gate-leaf"
+        },
+        {
+          "word": "bed",
+          "strongNumber": "H4296",
+          "lemma": "mittah",
+          "meaning": "a bed or couch"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "The slothful hideth his hand in his bosom; it grieveth him to bring it again to his mouth.",
+      "highlightedWords": [
+        {
+          "word": "bosom",
+          "strongNumber": "H2436",
+          "lemma": "cheq",
+          "meaning": "bosom, lap"
+        },
+        {
+          "word": "mouth",
+          "strongNumber": "H6310",
+          "lemma": "peh",
+          "meaning": "mouth"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "The sluggard is wiser in his own conceit than seven men that can render a reason.",
+      "highlightedWords": [
+        {
+          "word": "sluggard",
+          "strongNumber": "H6102",
+          "lemma": "atsel",
+          "meaning": "a lazy or slothful person"
+        },
+        {
+          "word": "seven",
+          "strongNumber": "H7651",
+          "lemma": "sheba",
+          "meaning": "the number seven"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "He that passeth by, and meddleth with strife belonging not to him, is like one that taketh a dog by the ears.",
+      "highlightedWords": [
+        {
+          "word": "dog",
+          "strongNumber": "H3611",
+          "lemma": "keleb",
+          "meaning": "a dog"
+        },
+        {
+          "word": "ears",
+          "strongNumber": "H241",
+          "lemma": "ozen",
+          "meaning": "ear"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "As a mad man who casteth firebrands, arrows, and death,",
+      "highlightedWords": [
+        {
+          "word": "mad",
+          "strongNumber": "H7696",
+          "lemma": "meshugga",
+          "meaning": "insane, maddened"
+        },
+        {
+          "word": "arrows",
+          "strongNumber": "H2671",
+          "lemma": "chets",
+          "meaning": "an arrow"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "So is the man that deceiveth his neighbour, and saith, Am not I in sport?",
+      "highlightedWords": [
+        {
+          "word": "deceiveth",
+          "strongNumber": "H7411",
+          "lemma": "rama",
+          "meaning": "to deceive, beguile"
+        },
+        {
+          "word": "neighbour",
+          "strongNumber": "H7453",
+          "lemma": "rea",
+          "meaning": "friend, companion, neighbor"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Where no wood is, there the fire goeth out: so where there is no talebearer, the strife ceaseth.",
+      "highlightedWords": [
+        {
+          "word": "wood",
+          "strongNumber": "H6086",
+          "lemma": "ets",
+          "meaning": "wood, tree"
+        },
+        {
+          "word": "strife",
+          "strongNumber": "H4066",
+          "lemma": "madon",
+          "meaning": "contention, strife"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "As coals are to burning coals, and wood to fire; so is a contentious man to kindle strife.",
+      "highlightedWords": [
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "esh",
+          "meaning": "fire"
+        },
+        {
+          "word": "strife",
+          "strongNumber": "H4066",
+          "lemma": "madon",
+          "meaning": "contention, strife"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "The words of a talebearer are as wounds, and they go down into the innermost parts of the belly.",
+      "highlightedWords": [
+        {
+          "word": "words",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "a word, matter, or speech"
+        },
+        {
+          "word": "belly",
+          "strongNumber": "H990",
+          "lemma": "beten",
+          "meaning": "belly, womb"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Burning lips and a wicked heart are like a potsherd covered with silver dross.",
+      "highlightedWords": [
+        {
+          "word": "lips",
+          "strongNumber": "H8193",
+          "lemma": "saphah",
+          "meaning": "lip, speech"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner person"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "He that hateth dissembleth with his lips, and layeth up deceit within him;",
+      "highlightedWords": [
+        {
+          "word": "hateth",
+          "strongNumber": "H8130",
+          "lemma": "sane",
+          "meaning": "to hate"
+        },
+        {
+          "word": "deceit",
+          "strongNumber": "H4820",
+          "lemma": "mirmah",
+          "meaning": "deceit, treachery"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "When he speaketh fair, believe him not: for there are seven abominations in his heart.",
+      "highlightedWords": [
+        {
+          "word": "abominations",
+          "strongNumber": "H8441",
+          "lemma": "toebah",
+          "meaning": "abomination, detestable thing"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner person"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "Whose hatred is covered by deceit, his wickedness shall be shewed before the whole congregation.",
+      "highlightedWords": [
+        {
+          "word": "hatred",
+          "strongNumber": "H8135",
+          "lemma": "sinah",
+          "meaning": "hatred"
+        },
+        {
+          "word": "congregation",
+          "strongNumber": "H6951",
+          "lemma": "qahal",
+          "meaning": "assembly, congregation"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "Whoso diggeth a pit shall fall therein: and he that rolleth a stone, it will return upon him.",
+      "highlightedWords": [
+        {
+          "word": "pit",
+          "strongNumber": "H953",
+          "lemma": "bor",
+          "meaning": "a pit, cistern"
+        },
+        {
+          "word": "stone",
+          "strongNumber": "H68",
+          "lemma": "eben",
+          "meaning": "a stone"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "A lying tongue hateth those that are afflicted by it; and a flattering mouth worketh ruin.",
+      "highlightedWords": [
+        {
+          "word": "lying",
+          "strongNumber": "H8267",
+          "lemma": "sheqer",
+          "meaning": "falsehood, lie"
+        },
+        {
+          "word": "tongue",
+          "strongNumber": "H3956",
+          "lemma": "lashon",
+          "meaning": "tongue, language"
+        }
+      ]
+    }
+  ]
+}

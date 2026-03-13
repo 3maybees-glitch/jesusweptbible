@@ -1,0 +1,276 @@
+{
+  "book": "Ecclesiastes",
+  "chapter": 12,
+  "chapterTheme": {
+    "twoWordSummary": "Remember Creator",
+    "themeWords": [
+      {
+        "word": "Remember",
+        "strongNumber": "H2142",
+        "lemma": "zakar",
+        "meaning": "to remember, call to mind"
+      },
+      {
+        "word": "God",
+        "strongNumber": "H430",
+        "lemma": "Elohim",
+        "meaning": "God; the true God"
+      }
+    ]
+  },
+  "sentenceTheme": "In life’s twilight, remember your Creator, for all is fleeting; fear God and keep His commandments, for He will judge every work.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Remember now thy Creator in the days of thy youth, while the evil days come not, nor the years draw nigh, when thou shalt say, I have no pleasure in them;",
+      "highlightedWords": [
+        {
+          "word": "Remember",
+          "strongNumber": "H2142",
+          "lemma": "zakar",
+          "meaning": "to remember, call to mind"
+        },
+        {
+          "word": "Creator",
+          "strongNumber": "H1254",
+          "lemma": "baraʾ",
+          "meaning": "to create; the Creator"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "While the sun, or the light, or the moon, or the stars, be not darkened, nor the clouds return after the rain:",
+      "highlightedWords": [
+        {
+          "word": "sun",
+          "strongNumber": "H8121",
+          "lemma": "shemesh",
+          "meaning": "sun"
+        },
+        {
+          "word": "moon",
+          "strongNumber": "H3394",
+          "lemma": "yareach",
+          "meaning": "moon"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "In the day when the keepers of the house shall tremble, and the strong men shall bow themselves, and the grinders cease because they are few, and those that look out of the windows be darkened,",
+      "highlightedWords": [
+        {
+          "word": "keepers",
+          "strongNumber": "H8104",
+          "lemma": "shamar",
+          "meaning": "to keep, watch, guard"
+        },
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, household"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And the doors shall be shut in the streets, when the sound of the grinding is low, and he shall rise up at the voice of the bird, and all the daughters of musick shall be brought low;",
+      "highlightedWords": [
+        {
+          "word": "doors",
+          "strongNumber": "H1817",
+          "lemma": "deleth",
+          "meaning": "door, gate"
+        },
+        {
+          "word": "streets",
+          "strongNumber": "H2351",
+          "lemma": "chuts",
+          "meaning": "the outside, street"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Also when they shall be afraid of that which is high, and fears shall be in the way, and the almond tree shall flourish, and the grasshopper shall be a burden, and desire shall fail: because man goeth to his long home, and the mourners go about the streets:",
+      "highlightedWords": [
+        {
+          "word": "man",
+          "strongNumber": "H120",
+          "lemma": "’adam",
+          "meaning": "man, humankind"
+        },
+        {
+          "word": "way",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way, road, path"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Or ever the silver cord be loosed, or the golden bowl be broken, or the pitcher be broken at the fountain, or the wheel broken at the cistern.",
+      "highlightedWords": [
+        {
+          "word": "silver",
+          "strongNumber": "H3701",
+          "lemma": "kesef",
+          "meaning": "silver, money"
+        },
+        {
+          "word": "golden",
+          "strongNumber": "H2091",
+          "lemma": "zahab",
+          "meaning": "gold; made of gold"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Then shall the dust return to the earth as it was: and the spirit shall return unto God who gave it.",
+      "highlightedWords": [
+        {
+          "word": "dust",
+          "strongNumber": "H6083",
+          "lemma": "ʿaphar",
+          "meaning": "dust, dry earth"
+        },
+        {
+          "word": "spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "spirit, breath, wind"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Vanity of vanities, saith the preacher; all is vanity.",
+      "highlightedWords": [
+        {
+          "word": "Vanity",
+          "strongNumber": "H1892",
+          "lemma": "hebel",
+          "meaning": "breath, vapor; vanity"
+        },
+        {
+          "word": "preacher",
+          "strongNumber": "H6953",
+          "lemma": "Qoheleth",
+          "meaning": "assembler; Preacher"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And moreover, because the preacher was wise, he still taught the people knowledge; yea, he gave good heed, and sought out, and set in order many proverbs.",
+      "highlightedWords": [
+        {
+          "word": "wise",
+          "strongNumber": "H2450",
+          "lemma": "chakam",
+          "meaning": "wise, skillful"
+        },
+        {
+          "word": "proverbs",
+          "strongNumber": "H4912",
+          "lemma": "mashal",
+          "meaning": "proverb, saying, parable"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "The preacher sought to find out acceptable words: and that which was written was upright, even words of truth.",
+      "highlightedWords": [
+        {
+          "word": "words",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, thing"
+        },
+        {
+          "word": "truth",
+          "strongNumber": "H571",
+          "lemma": "’emeth",
+          "meaning": "truth, firmness, faithfulness"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "The words of the wise are as goads, and as nails fastened by the masters of assemblies, which are given from one shepherd.",
+      "highlightedWords": [
+        {
+          "word": "wise",
+          "strongNumber": "H2450",
+          "lemma": "chakam",
+          "meaning": "wise, skillful"
+        },
+        {
+          "word": "shepherd",
+          "strongNumber": "H7462",
+          "lemma": "roʿeh (raʿah)",
+          "meaning": "shepherd; to pasture, tend"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And further, by these, my son, be admonished: of making many books there is no end; and much study is a weariness of the flesh.",
+      "highlightedWords": [
+        {
+          "word": "books",
+          "strongNumber": "H5612",
+          "lemma": "sefer",
+          "meaning": "book, scroll, document"
+        },
+        {
+          "word": "flesh",
+          "strongNumber": "H1320",
+          "lemma": "basar",
+          "meaning": "flesh, body"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man.",
+      "highlightedWords": [
+        {
+          "word": "Fear",
+          "strongNumber": "H3372",
+          "lemma": "yareʾ",
+          "meaning": "to fear, revere"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; the true God"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; the true God"
+        },
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "judgment, justice, decision"
+        }
+      ]
+    }
+  ]
+}

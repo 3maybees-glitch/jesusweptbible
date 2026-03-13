@@ -1,0 +1,402 @@
+{
+  "book": "Ezekiel",
+  "chapter": 29,
+  "chapterTheme": {
+    "twoWordSummary": "Egypt Judged",
+    "themeWords": [
+      {
+        "word": "Egypt",
+        "strongNumber": "H4714",
+        "lemma": "Mitsrayim",
+        "meaning": "Egypt, the land of the Nile"
+      },
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH (Yehovah)",
+        "meaning": "the proper/covenant name of the God of Israel"
+      }
+    ]
+  },
+  "sentenceTheme": "Prophecy against Pharaoh and Egypt: their desolation for forty years, restoration as a lowly kingdom, and Egypt given to Nebuchadrezzar as wages, while Israel’s hope is renewed.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "In the tenth year, in the tenth month, in the twelfth day of the month, the word of the LORD came unto me, saying,",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "speech, word, matter"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Son of man, set thy face against Pharaoh king of Egypt, and prophesy against him, and against all Egypt:",
+      "highlightedWords": [
+        {
+          "word": "Pharaoh",
+          "strongNumber": "H6547",
+          "lemma": "Par‘oh",
+          "meaning": "Pharaoh, title of Egypt’s king"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Speak, and say, Thus saith the Lord GOD; Behold, I am against thee, Pharaoh king of Egypt, the great dragon that lieth in the midst of his rivers, which hath said, My river is mine own, and I have made it for myself.",
+      "highlightedWords": [
+        {
+          "word": "dragon",
+          "strongNumber": "H8577",
+          "lemma": "tannin",
+          "meaning": "dragon, serpent, sea monster"
+        },
+        {
+          "word": "rivers",
+          "strongNumber": "H2975",
+          "lemma": "ye'or",
+          "meaning": "Nile, river, canal"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "But I will put hooks in thy jaws, and I will cause the fish of thy rivers to stick unto thy scales, and I will bring thee up out of the midst of thy rivers, and all the fish of thy rivers shall stick unto thy scales.",
+      "highlightedWords": [
+        {
+          "word": "hooks",
+          "strongNumber": "H2397",
+          "lemma": "chach",
+          "meaning": "hook"
+        },
+        {
+          "word": "jaws",
+          "strongNumber": "H3895",
+          "lemma": "lechi",
+          "meaning": "jaw, cheek"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And I will leave thee thrown into the wilderness, thee and all the fish of thy rivers: thou shalt fall upon the open fields; thou shalt not be brought together, nor gathered: I have given thee for meat to the beasts of the field and to the fowls of the heaven.",
+      "highlightedWords": [
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbar",
+          "meaning": "wilderness, desert"
+        },
+        {
+          "word": "fowls",
+          "strongNumber": "H5775",
+          "lemma": "'owph",
+          "meaning": "birds, fowl"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And all the inhabitants of Egypt shall know that I am the LORD, because they have been a staff of reed to the house of Israel.",
+      "highlightedWords": [
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "When they took hold of thee by thy hand, thou didst break, and rend all their shoulder: and when they leaned upon thee, thou brakest, and madest all their loins to be at a stand.",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        },
+        {
+          "word": "loins",
+          "strongNumber": "H4975",
+          "lemma": "mothen",
+          "meaning": "loins, hips"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Therefore thus saith the Lord GOD; Behold, I will bring a sword upon thee, and cut off man and beast out of thee.",
+      "highlightedWords": [
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword"
+        },
+        {
+          "word": "beast",
+          "strongNumber": "H2416",
+          "lemma": "chay",
+          "meaning": "living thing, animal"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And the land of Egypt shall be desolate and waste; and they shall know that I am the LORD: because he hath said, The river is mine, and I have made it.",
+      "highlightedWords": [
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "land, earth"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Behold, therefore I am against thee, and against thy rivers, and I will make the land of Egypt utterly waste and desolate, from the tower of Syene even unto the border of Ethiopia.",
+      "highlightedWords": [
+        {
+          "word": "rivers",
+          "strongNumber": "H2975",
+          "lemma": "ye'or",
+          "meaning": "Nile, river, canal"
+        },
+        {
+          "word": "Ethiopia",
+          "strongNumber": "H3568",
+          "lemma": "Cush",
+          "meaning": "Cush, Ethiopia"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "No foot of man shall pass through it, nor foot of beast shall pass through it, neither shall it be inhabited forty years.",
+      "highlightedWords": [
+        {
+          "word": "foot",
+          "strongNumber": "H7272",
+          "lemma": "regel",
+          "meaning": "foot"
+        },
+        {
+          "word": "inhabited",
+          "strongNumber": "H3427",
+          "lemma": "yashab",
+          "meaning": "to dwell, sit, inhabit"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And I will make the land of Egypt desolate in the midst of the countries that are desolate, and her cities among the cities that are laid waste shall be desolate forty years: and I will scatter the Egyptians among the nations, and will disperse them through the countries.",
+      "highlightedWords": [
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt"
+        },
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation, people (often non-Israelites)"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Yet thus saith the Lord GOD; At the end of forty years will I gather the Egyptians from the people whither they were scattered:",
+      "highlightedWords": [
+        {
+          "word": "forty",
+          "strongNumber": "H705",
+          "lemma": "arba'im",
+          "meaning": "forty"
+        },
+        {
+          "word": "Egyptians",
+          "strongNumber": "H4713",
+          "lemma": "Mitsriy",
+          "meaning": "Egyptian(s)"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And I will bring again the captivity of Egypt, and will cause them to return into the land of Pathros, into the land of their habitation; and they shall be there a base kingdom.",
+      "highlightedWords": [
+        {
+          "word": "Pathros",
+          "strongNumber": "H6624",
+          "lemma": "Pathros",
+          "meaning": "Pathros, a region of Upper Egypt"
+        },
+        {
+          "word": "captivity",
+          "strongNumber": "H7622",
+          "lemma": "shebuth",
+          "meaning": "captivity, exile, fortunes"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "It shall be the basest of the kingdoms; neither shall it exalt itself any more above the nations: for I will diminish them, that they shall no more rule over the nations.",
+      "highlightedWords": [
+        {
+          "word": "kingdoms",
+          "strongNumber": "H4467",
+          "lemma": "mamlakah",
+          "meaning": "kingdom, dominion"
+        },
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation, people (often non-Israelites)"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And it shall be no more the confidence of the house of Israel, which bringeth their iniquity to remembrance, when they shall look after them: but they shall know that I am the Lord GOD.",
+      "highlightedWords": [
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "avon",
+          "meaning": "iniquity, guilt, punishment of iniquity"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And it came to pass in the seven and twentieth year, in the first month, in the first day of the month, the word of the LORD came unto me, saying,",
+      "highlightedWords": [
+        {
+          "word": "year",
+          "strongNumber": "H8141",
+          "lemma": "shanah",
+          "meaning": "year"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Son of man, Nebuchadrezzar king of Babylon caused his army to serve a great service against Tyrus: every head was made bald, and every shoulder was peeled: yet had he no wages, nor his army, for Tyrus, for the service that he had served against it:",
+      "highlightedWords": [
+        {
+          "word": "Nebuchadrezzar",
+          "strongNumber": "H5019",
+          "lemma": "Nebukadretstsar",
+          "meaning": "Nebuchadrezzar, king of Babylon"
+        },
+        {
+          "word": "Babylon",
+          "strongNumber": "H894",
+          "lemma": "Babel",
+          "meaning": "Babylon"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Therefore thus saith the Lord GOD; Behold, I will give the land of Egypt unto Nebuchadrezzar king of Babylon; and he shall take her multitude, and take her spoil, and take her prey; and it shall be the wages for his army.",
+      "highlightedWords": [
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt"
+        },
+        {
+          "word": "Nebuchadrezzar",
+          "strongNumber": "H5019",
+          "lemma": "Nebukadretstsar",
+          "meaning": "Nebuchadrezzar, king of Babylon"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "I have given him the land of Egypt for his labour wherewith he served against it, because they wrought for me, saith the Lord GOD.",
+      "highlightedWords": [
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt"
+        },
+        {
+          "word": "saith",
+          "strongNumber": "H5002",
+          "lemma": "ne'um",
+          "meaning": "utterance, declaration (especially of the LORD)"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "In that day will I cause the horn of the house of Israel to bud forth, and I will give thee the opening of the mouth in the midst of them; and they shall know that I am the LORD.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    }
+  ]
+}

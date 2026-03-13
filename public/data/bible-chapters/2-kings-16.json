@@ -1,0 +1,384 @@
+{
+  "book": "2 Kings",
+  "chapter": 16,
+  "chapterTheme": {
+    "twoWordSummary": "Ahaz's Apostasy",
+    "themeWords": [
+      {
+        "word": "Ahaz",
+        "strongNumber": "H271",
+        "lemma": "Achaz",
+        "meaning": "Ahaz, a king of Judah"
+      },
+      {
+        "word": "altar",
+        "strongNumber": "H4196",
+        "lemma": "mizbeach",
+        "meaning": "altar"
+      }
+    ]
+  },
+  "sentenceTheme": "Ahaz of Judah seeks Assyrian help, imitates a foreign altar at Damascus, alters temple worship, and leads Judah deeper into idolatry.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "In the seventeenth year of Pekah the son of Remaliah Ahaz the son of Jotham king of Judah began to reign.",
+      "highlightedWords": [
+        {
+          "word": "Ahaz",
+          "strongNumber": "H271",
+          "lemma": "Achaz",
+          "meaning": "Ahaz, a king of Judah"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah; the southern kingdom"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Twenty years old was Ahaz when he began to reign, and reigned sixteen years in Jerusalem, and did not that which was right in the sight of the LORD his God, like David his father.",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem, the capital city"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of God"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "But he walked in the way of the kings of Israel, yea, and made his son to pass through the fire, according to the abominations of the heathen, whom the LORD cast out from before the children of Israel.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; the nation of Israel"
+        },
+        {
+          "word": "abominations",
+          "strongNumber": "H8441",
+          "lemma": "to'evah",
+          "meaning": "abomination, detestable thing"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And he sacrificed and burnt incense in the high places, and on the hills, and under every green tree.",
+      "highlightedWords": [
+        {
+          "word": "sacrificed",
+          "strongNumber": "H2076",
+          "lemma": "zabach",
+          "meaning": "to sacrifice"
+        },
+        {
+          "word": "high places",
+          "strongNumber": "H1116",
+          "lemma": "bamah",
+          "meaning": "high place, place of worship on heights"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Then Rezin king of Syria and Pekah son of Remaliah king of Israel came up to Jerusalem to war: and they besieged Ahaz, but could not overcome him.",
+      "highlightedWords": [
+        {
+          "word": "Syria",
+          "strongNumber": "H758",
+          "lemma": "Aram",
+          "meaning": "Aram, Syria"
+        },
+        {
+          "word": "besieged",
+          "strongNumber": "H6696",
+          "lemma": "tsur",
+          "meaning": "to lay siege, confine"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "At that time Rezin king of Syria recovered Elath to Syria, and drave the Jews from Elath: and the Syrians came to Elath, and dwelt there unto this day.",
+      "highlightedWords": [
+        {
+          "word": "Syria",
+          "strongNumber": "H758",
+          "lemma": "Aram",
+          "meaning": "Aram, Syria"
+        },
+        {
+          "word": "Jews",
+          "strongNumber": "H3064",
+          "lemma": "Yehudi",
+          "meaning": "a Jew, Judean"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "So Ahaz sent messengers to Tiglath-pileser king of Assyria, saying, I am thy servant and thy son: come up, and save me out of the hand of the king of Syria, and out of the hand of the king of Israel, which rise up against me.",
+      "highlightedWords": [
+        {
+          "word": "Assyria",
+          "strongNumber": "H804",
+          "lemma": "Ashshur",
+          "meaning": "Assyria; the Assyrian empire"
+        },
+        {
+          "word": "servant",
+          "strongNumber": "H5650",
+          "lemma": "ebed",
+          "meaning": "servant, slave"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And Ahaz took the silver and gold that was found in the house of the LORD, and in the treasures of the king's house, and sent it for a present to the king of Assyria.",
+      "highlightedWords": [
+        {
+          "word": "silver",
+          "strongNumber": "H3701",
+          "lemma": "keseph",
+          "meaning": "silver, money"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of God"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And the king of Assyria hearkened unto him: for the king of Assyria went up against Damascus, and took it, and carried the people of it captive to Kir, and slew Rezin.",
+      "highlightedWords": [
+        {
+          "word": "Damascus",
+          "strongNumber": "H1834",
+          "lemma": "Dammeseq",
+          "meaning": "Damascus, capital of Syria"
+        },
+        {
+          "word": "Kir",
+          "strongNumber": "H7024",
+          "lemma": "Qir",
+          "meaning": "Kir, a region/place in Mesopotamia"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And king Ahaz went to Damascus to meet Tiglath-pileser king of Assyria, and saw an altar that was at Damascus: and king Ahaz sent to Urijah the priest the fashion of the altar, and the pattern of it, according to all the workmanship thereof.",
+      "highlightedWords": [
+        {
+          "word": "Urijah",
+          "strongNumber": "H223",
+          "lemma": "Uriyah",
+          "meaning": "Urijah, 'Yah is my light'"
+        },
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And Urijah the priest built an altar according to all that king Ahaz had sent from Damascus: so Urijah the priest made it against king Ahaz came from Damascus.",
+      "highlightedWords": [
+        {
+          "word": "built",
+          "strongNumber": "H1129",
+          "lemma": "banah",
+          "meaning": "to build"
+        },
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And when the king was come from Damascus, the king saw the altar: and the king approached to the altar, and offered thereon.",
+      "highlightedWords": [
+        {
+          "word": "approached",
+          "strongNumber": "H5066",
+          "lemma": "nagash",
+          "meaning": "to approach, come near"
+        },
+        {
+          "word": "offered",
+          "strongNumber": "H5927",
+          "lemma": "'alah",
+          "meaning": "to go up, offer up"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And he burnt his burnt offering and his meat offering, and poured his drink offering, and sprinkled the blood of his peace offerings, upon the altar.",
+      "highlightedWords": [
+        {
+          "word": "burnt offering",
+          "strongNumber": "H5930",
+          "lemma": "'olah",
+          "meaning": "burnt offering"
+        },
+        {
+          "word": "peace offerings",
+          "strongNumber": "H8002",
+          "lemma": "shelamim",
+          "meaning": "peace offerings, fellowship offerings"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And he brought also the brasen altar, which was before the LORD, from the forefront of the house, from between the altar and the house of the LORD, and put it on the north side of the altar.",
+      "highlightedWords": [
+        {
+          "word": "brasen",
+          "strongNumber": "H5178",
+          "lemma": "nechosheth",
+          "meaning": "bronze, brass, copper"
+        },
+        {
+          "word": "north",
+          "strongNumber": "H6828",
+          "lemma": "tsaphon",
+          "meaning": "north, northern side"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And king Ahaz commanded Urijah the priest, saying, Upon the great altar burn the morning burnt offering, and the evening meat offering, and the king's burnt sacrifice, and his meat offering, with the burnt offering of all the people of the land, and their meat offering, and their drink offerings; and sprinkle upon it all the blood of the burnt offering, and all the blood of the sacrifice: and the brasen altar shall be for me to enquire by.",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "'am",
+          "meaning": "people, nation"
+        },
+        {
+          "word": "burnt offering",
+          "strongNumber": "H5930",
+          "lemma": "'olah",
+          "meaning": "burnt offering"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Thus did Urijah the priest, according to all that king Ahaz commanded.",
+      "highlightedWords": [
+        {
+          "word": "Urijah",
+          "strongNumber": "H223",
+          "lemma": "Uriyah",
+          "meaning": "Urijah, 'Yah is my light'"
+        },
+        {
+          "word": "commanded",
+          "strongNumber": "H6680",
+          "lemma": "tsavah",
+          "meaning": "to command"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And king Ahaz cut off the borders of the bases, and removed the laver from off them; and took down the sea from off the brasen oxen that were under it, and put it upon a pavement of stones.",
+      "highlightedWords": [
+        {
+          "word": "laver",
+          "strongNumber": "H3595",
+          "lemma": "kiyyor",
+          "meaning": "basin, laver"
+        },
+        {
+          "word": "oxen",
+          "strongNumber": "H1241",
+          "lemma": "baqar",
+          "meaning": "ox, cattle"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And the covert for the sabbath that they had built in the house, and the king's entry without, turned he from the house of the LORD for the king of Assyria.",
+      "highlightedWords": [
+        {
+          "word": "sabbath",
+          "strongNumber": "H7676",
+          "lemma": "shabbath",
+          "meaning": "Sabbath, day of rest"
+        },
+        {
+          "word": "Assyria",
+          "strongNumber": "H804",
+          "lemma": "Ashshur",
+          "meaning": "Assyria; the Assyrian empire"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Now the rest of the acts of Ahaz which he did, are they not written in the book of the chronicles of the kings of Judah?",
+      "highlightedWords": [
+        {
+          "word": "book",
+          "strongNumber": "H5612",
+          "lemma": "sepher",
+          "meaning": "book, scroll"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah; the southern kingdom"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And Ahaz slept with his fathers, and was buried with his fathers in the city of David: and Hezekiah his son reigned in his stead.",
+      "highlightedWords": [
+        {
+          "word": "Hezekiah",
+          "strongNumber": "H3169",
+          "lemma": "Chizqiyah",
+          "meaning": "Hezekiah, 'Yah strengthens'"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "David",
+          "meaning": "David, beloved; second king of Israel"
+        }
+      ]
+    }
+  ]
+}

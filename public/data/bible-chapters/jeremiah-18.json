@@ -1,0 +1,438 @@
+{
+  "book": "Jeremiah",
+  "chapter": 18,
+  "chapterTheme": {
+    "twoWordSummary": "Potter Parable",
+    "themeWords": [
+      {
+        "word": "potter",
+        "strongNumber": "H3335",
+        "lemma": "yatsar",
+        "meaning": "to form, fashion; potter (one who forms)"
+      },
+      {
+        "word": "repent",
+        "strongNumber": "H5162",
+        "lemma": "nacham",
+        "meaning": "to relent, be sorry, repent"
+      }
+    ]
+  },
+  "sentenceTheme": "God, as the sovereign potter, warns Judah that He can reshape or judge nations, calls them to repent, and Jeremiah prays for justice against those plotting his harm.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "The word which came to Jeremiah from the LORD, saying,",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, speech"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Arise, and go down to the potter's house, and there I will cause thee to hear my words.",
+      "highlightedWords": [
+        {
+          "word": "potter's",
+          "strongNumber": "H3335",
+          "lemma": "yatsar",
+          "meaning": "to form, fashion; potter (one who forms)"
+        },
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayit",
+          "meaning": "house, household"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Then I went down to the potter's house, and, behold, he wrought a work on the wheels.",
+      "highlightedWords": [
+        {
+          "word": "potter's",
+          "strongNumber": "H3335",
+          "lemma": "yatsar",
+          "meaning": "to form, fashion; potter (one who forms)"
+        },
+        {
+          "word": "wheels",
+          "strongNumber": "H212",
+          "lemma": "ofan",
+          "meaning": "wheel"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And the vessel that he made of clay was marred in the hand of the potter: so he made it again another vessel, as seemed good to the potter to make it.",
+      "highlightedWords": [
+        {
+          "word": "vessel",
+          "strongNumber": "H3627",
+          "lemma": "keli",
+          "meaning": "vessel, utensil, article"
+        },
+        {
+          "word": "clay",
+          "strongNumber": "H2563",
+          "lemma": "chomer",
+          "meaning": "clay"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Then the word of the LORD came to me, saying,",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, speech"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "O house of Israel, cannot I do with you as this potter? saith the LORD. Behold, as the clay is in the potter's hand, so are ye in mine hand, O house of Israel.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisrael",
+          "meaning": "Israel; he strives with God"
+        },
+        {
+          "word": "clay",
+          "strongNumber": "H2563",
+          "lemma": "chomer",
+          "meaning": "clay"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "At what instant I shall speak concerning a nation, and concerning a kingdom, to pluck up, and to pull down, and to destroy it;",
+      "highlightedWords": [
+        {
+          "word": "nation",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation, people"
+        },
+        {
+          "word": "kingdom",
+          "strongNumber": "H4467",
+          "lemma": "mamlakah",
+          "meaning": "kingdom, dominion"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "If that nation, against whom I have pronounced, turn from their evil, I will repent of the evil that I thought to do unto them.",
+      "highlightedWords": [
+        {
+          "word": "repent",
+          "strongNumber": "H5162",
+          "lemma": "nacham",
+          "meaning": "to relent, be sorry, repent"
+        },
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra‘",
+          "meaning": "evil, bad, disaster"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And at what instant I shall speak concerning a nation, and concerning a kingdom, to build and to plant it;",
+      "highlightedWords": [
+        {
+          "word": "build",
+          "strongNumber": "H1129",
+          "lemma": "banah",
+          "meaning": "to build, rebuild"
+        },
+        {
+          "word": "plant",
+          "strongNumber": "H5193",
+          "lemma": "nata",
+          "meaning": "to plant"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "If it do evil in my sight, that it obey not my voice, then I will repent of the good, wherewith I said I would benefit them.",
+      "highlightedWords": [
+        {
+          "word": "voice",
+          "strongNumber": "H6963",
+          "lemma": "qol",
+          "meaning": "voice, sound"
+        },
+        {
+          "word": "good",
+          "strongNumber": "H2896",
+          "lemma": "tov",
+          "meaning": "good, pleasant, beneficial"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Now therefore go to, speak to the men of Judah, and to the inhabitants of Jerusalem, saying, Thus saith the LORD; Behold, I frame evil against you, and devise a device against you: return ye now every one from his evil way, and make your ways and your doings good.",
+      "highlightedWords": [
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And they said, There is no hope: but we will walk after our own devices, and we will every one do the imagination of his evil heart.",
+      "highlightedWords": [
+        {
+          "word": "devices",
+          "strongNumber": "H4284",
+          "lemma": "machashevet",
+          "meaning": "plan, thought, device"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "lev",
+          "meaning": "heart, inner person, mind"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Therefore thus saith the LORD; Ask ye now among the heathen, who hath heard such things: the virgin of Israel hath done a very horrible thing.",
+      "highlightedWords": [
+        {
+          "word": "heathen",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation(s), Gentiles"
+        },
+        {
+          "word": "virgin",
+          "strongNumber": "H1330",
+          "lemma": "betulah",
+          "meaning": "virgin, maiden"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Will a man leave the snow of Lebanon which cometh from the rock of the field? or shall the cold flowing waters that come from another place be forsaken?",
+      "highlightedWords": [
+        {
+          "word": "Lebanon",
+          "strongNumber": "H3844",
+          "lemma": "Levanon",
+          "meaning": "Lebanon"
+        },
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Because my people hath forgotten me, they have burned incense to vanity, and they have caused them to stumble in their ways from the ancient paths, to walk in paths, in a way not cast up;",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "am",
+          "meaning": "people, nation"
+        },
+        {
+          "word": "ways",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way, road, manner"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "To make their land desolate, and a perpetual hissing; every one that passeth thereby shall be astonished, and wag his head.",
+      "highlightedWords": [
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "eretz",
+          "meaning": "land, earth"
+        },
+        {
+          "word": "head",
+          "strongNumber": "H7218",
+          "lemma": "rosh",
+          "meaning": "head, top, chief"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "I will scatter them as with an east wind before the enemy; I will shew them the back, and not the face, in the day of their calamity.",
+      "highlightedWords": [
+        {
+          "word": "enemy",
+          "strongNumber": "H6862",
+          "lemma": "tsar",
+          "meaning": "adversary, enemy"
+        },
+        {
+          "word": "face",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "face, presence"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Then said they, Come, and let us devise devices against Jeremiah; for the law shall not perish from the priest, nor counsel from the wise, nor the word from the prophet. Come, and let us smite him with the tongue, and let us not give heed to any of his words.",
+      "highlightedWords": [
+        {
+          "word": "Jeremiah",
+          "strongNumber": "H3414",
+          "lemma": "Yirmeyahu",
+          "meaning": "Jeremiah; Yahweh exalts"
+        },
+        {
+          "word": "law",
+          "strongNumber": "H8451",
+          "lemma": "torah",
+          "meaning": "law, instruction"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Give heed to me, O LORD, and hearken to the voice of them that contend with me.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "voice",
+          "strongNumber": "H6963",
+          "lemma": "qol",
+          "meaning": "voice, sound"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Shall evil be recompensed for good? for they have digged a pit for my soul. Remember that I stood before thee to speak good for them, and to turn away thy wrath from them.",
+      "highlightedWords": [
+        {
+          "word": "Remember",
+          "strongNumber": "H2142",
+          "lemma": "zakar",
+          "meaning": "to remember, call to mind"
+        },
+        {
+          "word": "wrath",
+          "strongNumber": "H2534",
+          "lemma": "chemah",
+          "meaning": "wrath, heat, rage"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Therefore deliver up their children to the famine, and pour out their blood by the force of the sword; and let their wives be bereaved of their children, and be widows; and let their men be put to death; let their young men be slain by the sword in battle.",
+      "highlightedWords": [
+        {
+          "word": "famine",
+          "strongNumber": "H7458",
+          "lemma": "raav",
+          "meaning": "famine, hunger"
+        },
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Let a cry be heard from their houses, when thou shalt bring a troop suddenly upon them: for they have digged a pit to take me, and hid snares for my feet.",
+      "highlightedWords": [
+        {
+          "word": "troop",
+          "strongNumber": "H1416",
+          "lemma": "gedud",
+          "meaning": "troop, band, raiding party"
+        },
+        {
+          "word": "snares",
+          "strongNumber": "H4170",
+          "lemma": "moqesh",
+          "meaning": "snare, trap"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Yet, LORD, thou knowest all their counsel against me to slay me: forgive not their iniquity, neither blot out their sin from thy sight, but let them be overthrown before thee; deal thus with them in the time of thine anger.",
+      "highlightedWords": [
+        {
+          "word": "counsel",
+          "strongNumber": "H6098",
+          "lemma": "etsah",
+          "meaning": "counsel, advice, plan"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "avon",
+          "meaning": "iniquity, guilt"
+        }
+      ]
+    }
+  ]
+}

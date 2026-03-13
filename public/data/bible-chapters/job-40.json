@@ -1,0 +1,456 @@
+{
+  "book": "Job",
+  "chapter": 40,
+  "chapterTheme": {
+    "twoWordSummary": "Divine Challenge",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH",
+        "meaning": "the proper name of the God of Israel"
+      },
+      {
+        "word": "behemoth",
+        "strongNumber": "H930",
+        "lemma": "behemoth",
+        "meaning": "a great beast; a large, powerful animal"
+      }
+    ]
+  },
+  "sentenceTheme": "The LORD challenges Job’s presumption and describes the unmatched strength of Behemoth, leading Job to humble silence.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Moreover the LORD answered Job, and said,",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the proper name of the God of Israel"
+        },
+        {
+          "word": "Job",
+          "strongNumber": "H347",
+          "lemma": "Iyyob",
+          "meaning": "Job; a man of Uz"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Shall he that contendeth with the Almighty instruct him? he that reproveth God, let him answer it.",
+      "highlightedWords": [
+        {
+          "word": "Almighty",
+          "strongNumber": "H7706",
+          "lemma": "Shaddai",
+          "meaning": "the Almighty"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H410",
+          "lemma": "El",
+          "meaning": "God, mighty one"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Then Job answered the LORD, and said,",
+      "highlightedWords": [
+        {
+          "word": "Job",
+          "strongNumber": "H347",
+          "lemma": "Iyyob",
+          "meaning": "Job; a man of Uz"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Behold, I am vile; what shall I answer thee? I will lay mine hand upon my mouth.",
+      "highlightedWords": [
+        {
+          "word": "Behold",
+          "strongNumber": "H2009",
+          "lemma": "hinneh",
+          "meaning": "behold, look"
+        },
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Once have I spoken; but I will not answer: yea, twice; but I will proceed no further.",
+      "highlightedWords": [
+        {
+          "word": "spoken",
+          "strongNumber": "H1696",
+          "lemma": "dabar",
+          "meaning": "to speak, declare"
+        },
+        {
+          "word": "answer",
+          "strongNumber": "H6030",
+          "lemma": "anah",
+          "meaning": "to answer, respond"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Then answered the LORD unto Job out of the whirlwind, and said,",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the proper name of the God of Israel"
+        },
+        {
+          "word": "whirlwind",
+          "strongNumber": "H5591",
+          "lemma": "se'arah",
+          "meaning": "storm, tempest, whirlwind"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Gird up thy loins now like a man: I will demand of thee, and declare thou unto me.",
+      "highlightedWords": [
+        {
+          "word": "loins",
+          "strongNumber": "H4975",
+          "lemma": "motnayim",
+          "meaning": "loins, hips"
+        },
+        {
+          "word": "man",
+          "strongNumber": "H1397",
+          "lemma": "geber",
+          "meaning": "man, strong man, warrior"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Wilt thou also disannul my judgment? wilt thou condemn me, that thou mayest be righteous?",
+      "highlightedWords": [
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "justice, judgment, legal decision"
+        },
+        {
+          "word": "righteous",
+          "strongNumber": "H6663",
+          "lemma": "tsadaq",
+          "meaning": "to be just, to be in the right"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Hast thou an arm like God? or canst thou thunder with a voice like him?",
+      "highlightedWords": [
+        {
+          "word": "arm",
+          "strongNumber": "H2220",
+          "lemma": "zeroa'",
+          "meaning": "arm, strength"
+        },
+        {
+          "word": "thunder",
+          "strongNumber": "H7481",
+          "lemma": "ra'am",
+          "meaning": "to thunder"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Deck thyself now with majesty and excellency; and array thyself with glory and beauty.",
+      "highlightedWords": [
+        {
+          "word": "majesty",
+          "strongNumber": "H1935",
+          "lemma": "hod",
+          "meaning": "majesty, splendor"
+        },
+        {
+          "word": "glory",
+          "strongNumber": "H3519",
+          "lemma": "kabod",
+          "meaning": "glory, honor, abundance"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Cast abroad the rage of thy wrath: and behold every one that is proud, and abase him.",
+      "highlightedWords": [
+        {
+          "word": "wrath",
+          "strongNumber": "H2534",
+          "lemma": "chemah",
+          "meaning": "wrath, heat, rage"
+        },
+        {
+          "word": "proud",
+          "strongNumber": "H1343",
+          "lemma": "ge'eh",
+          "meaning": "proud, lofty"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Look on every one that is proud, and bring him low; and tread down the wicked in their place.",
+      "highlightedWords": [
+        {
+          "word": "proud",
+          "strongNumber": "H1343",
+          "lemma": "ge'eh",
+          "meaning": "proud, lofty"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha'",
+          "meaning": "wicked, criminal, guilty one"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Hide them in the dust together; and bind their faces in secret.",
+      "highlightedWords": [
+        {
+          "word": "dust",
+          "strongNumber": "H6083",
+          "lemma": "aphar",
+          "meaning": "dust, dry earth"
+        },
+        {
+          "word": "bind",
+          "strongNumber": "H631",
+          "lemma": "asar",
+          "meaning": "to bind, tie, imprison"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Then will I also confess unto thee that thine own right hand can save thee.",
+      "highlightedWords": [
+        {
+          "word": "right hand",
+          "strongNumber": "H3225",
+          "lemma": "yamin",
+          "meaning": "right hand, right side"
+        },
+        {
+          "word": "save",
+          "strongNumber": "H3467",
+          "lemma": "yasha'",
+          "meaning": "to save, deliver"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Behold now behemoth, which I made with thee; he eateth grass as an ox.",
+      "highlightedWords": [
+        {
+          "word": "behemoth",
+          "strongNumber": "H930",
+          "lemma": "behemoth",
+          "meaning": "a great beast; a large, powerful animal"
+        },
+        {
+          "word": "ox",
+          "strongNumber": "H7794",
+          "lemma": "shor",
+          "meaning": "ox, bull"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Lo now, his strength is in his loins, and his force is in the navel of his belly.",
+      "highlightedWords": [
+        {
+          "word": "loins",
+          "strongNumber": "H4975",
+          "lemma": "motnayim",
+          "meaning": "loins, hips"
+        },
+        {
+          "word": "belly",
+          "strongNumber": "H990",
+          "lemma": "beten",
+          "meaning": "belly, womb, body"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "He moveth his tail like a cedar: the sinews of his stones are wrapped together.",
+      "highlightedWords": [
+        {
+          "word": "tail",
+          "strongNumber": "H2180",
+          "lemma": "zanab",
+          "meaning": "tail"
+        },
+        {
+          "word": "cedar",
+          "strongNumber": "H730",
+          "lemma": "erez",
+          "meaning": "cedar tree"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "His bones are as strong pieces of brass; his bones are like bars of iron.",
+      "highlightedWords": [
+        {
+          "word": "bones",
+          "strongNumber": "H6106",
+          "lemma": "etsem",
+          "meaning": "bone, substance"
+        },
+        {
+          "word": "iron",
+          "strongNumber": "H1270",
+          "lemma": "barzel",
+          "meaning": "iron"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "He is the chief of the ways of God: he that made him can make his sword to approach unto him.",
+      "highlightedWords": [
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword, dagger"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H410",
+          "lemma": "El",
+          "meaning": "God, mighty one"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Surely the mountains bring him forth food, where all the beasts of the field play.",
+      "highlightedWords": [
+        {
+          "word": "mountains",
+          "strongNumber": "H2022",
+          "lemma": "har",
+          "meaning": "mountain, hill"
+        },
+        {
+          "word": "beasts",
+          "strongNumber": "H2416",
+          "lemma": "chayyah",
+          "meaning": "living thing, animal, beast"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "He lieth under the shady trees, in the covert of the reed, and fens.",
+      "highlightedWords": [
+        {
+          "word": "reed",
+          "strongNumber": "H7070",
+          "lemma": "qaneh",
+          "meaning": "reed, stalk"
+        },
+        {
+          "word": "fens",
+          "strongNumber": "H1207",
+          "lemma": "bitstsah",
+          "meaning": "fen, marsh, swamp"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "The shady trees cover him with their shadow; the willows of the brook compass him about.",
+      "highlightedWords": [
+        {
+          "word": "willows",
+          "strongNumber": "H6155",
+          "lemma": "aravah",
+          "meaning": "willow tree"
+        },
+        {
+          "word": "brook",
+          "strongNumber": "H5158",
+          "lemma": "nachal",
+          "meaning": "wadi, stream, brook"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Behold, he drinketh up a river, and hasteth not: he trusteth that he can draw up Jordan into his mouth.",
+      "highlightedWords": [
+        {
+          "word": "river",
+          "strongNumber": "H5104",
+          "lemma": "nahar",
+          "meaning": "river, stream"
+        },
+        {
+          "word": "Jordan",
+          "strongNumber": "H3383",
+          "lemma": "Yarden",
+          "meaning": "the Jordan River"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "He taketh it with his eyes: his nose pierceth through snares.",
+      "highlightedWords": [
+        {
+          "word": "nose",
+          "strongNumber": "H639",
+          "lemma": "aph",
+          "meaning": "nose, nostril, face"
+        },
+        {
+          "word": "snares",
+          "strongNumber": "H4170",
+          "lemma": "moqesh",
+          "meaning": "snare, trap"
+        }
+      ]
+    }
+  ]
+}

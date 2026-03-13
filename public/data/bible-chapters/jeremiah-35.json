@@ -1,0 +1,366 @@
+{
+  "book": "Jeremiah",
+  "chapter": 35,
+  "chapterTheme": {
+    "twoWordSummary": "Rechabite Obedience",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH (Yehovah)",
+        "meaning": "the LORD, the proper name of the God of Israel"
+      },
+      {
+        "word": "wine",
+        "strongNumber": "H3196",
+        "lemma": "yayin",
+        "meaning": "wine"
+      }
+    ]
+  },
+  "sentenceTheme": "The steadfast obedience of the Rechabites contrasts Judah’s refusal to heed the LORD, bringing judgment but a lasting promise to Jonadab’s line.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "The word which came unto Jeremiah from the LORD in the days of Jehoiakim the son of Josiah king of Judah, saying,",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, thing, message"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the LORD, the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Go unto the house of the Rechabites, and speak unto them, and bring them into the house of the LORD, into one of the chambers, and give them wine to drink.",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayit (bayith)",
+          "meaning": "house, dwelling, temple, household"
+        },
+        {
+          "word": "wine",
+          "strongNumber": "H3196",
+          "lemma": "yayin",
+          "meaning": "wine"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Then I took Jaazaniah the son of Jeremiah, the son of Habaziniah, and his brethren, and all his sons, and the whole house of the Rechabites;",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, grandson, descendant"
+        },
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayit (bayith)",
+          "meaning": "house, dwelling, temple, household"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And I brought them into the house of the LORD, into the chamber of the sons of Hanan, the son of Igdaliah, a man of God, which was by the chamber of the princes, which was above the chamber of Maaseiah the son of Shallum, the keeper of the door:",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayit (bayith)",
+          "meaning": "house, dwelling, temple, household"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the LORD, the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And I set before the sons of the house of the Rechabites pots full of wine, and cups, and I said unto them, Drink ye wine.",
+      "highlightedWords": [
+        {
+          "word": "wine",
+          "strongNumber": "H3196",
+          "lemma": "yayin",
+          "meaning": "wine"
+        },
+        {
+          "word": "Drink",
+          "strongNumber": "H8354",
+          "lemma": "shathah",
+          "meaning": "to drink"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "But they said, We will drink no wine: for Jonadab the son of Rechab our father commanded us, saying, Ye shall drink no wine, neither ye, nor your sons for ever:",
+      "highlightedWords": [
+        {
+          "word": "wine",
+          "strongNumber": "H3196",
+          "lemma": "yayin",
+          "meaning": "wine"
+        },
+        {
+          "word": "father",
+          "strongNumber": "H0001",
+          "lemma": "’ab",
+          "meaning": "father, ancestor, forefather"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Neither shall ye build house, nor sow seed, nor plant vineyard, nor have any: but all your days ye shall dwell in tents; that ye may live many days in the land where ye be strangers.",
+      "highlightedWords": [
+        {
+          "word": "tents",
+          "strongNumber": "H0168",
+          "lemma": "’ohel",
+          "meaning": "tent, dwelling"
+        },
+        {
+          "word": "land",
+          "strongNumber": "H0776",
+          "lemma": "’erets",
+          "meaning": "land, earth, territory"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Thus have we obeyed the voice of Jonadab the son of Rechab our father in all that he hath charged us, to drink no wine all our days, we, our wives, our sons, nor our daughters;",
+      "highlightedWords": [
+        {
+          "word": "obeyed",
+          "strongNumber": "H8085",
+          "lemma": "shama‘",
+          "meaning": "to hear, listen to, obey"
+        },
+        {
+          "word": "wine",
+          "strongNumber": "H3196",
+          "lemma": "yayin",
+          "meaning": "wine"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Nor to build houses for us to dwell in: neither have we vineyard, nor field, nor seed:",
+      "highlightedWords": [
+        {
+          "word": "houses",
+          "strongNumber": "H1004",
+          "lemma": "bayit (bayith)",
+          "meaning": "houses, dwellings, households"
+        },
+        {
+          "word": "vineyard",
+          "strongNumber": "H3754",
+          "lemma": "kerem",
+          "meaning": "vineyard"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "But we have dwelt in tents, and have obeyed, and done according to all that Jonadab our father commanded us.",
+      "highlightedWords": [
+        {
+          "word": "tents",
+          "strongNumber": "H0168",
+          "lemma": "’ohel",
+          "meaning": "tent, dwelling"
+        },
+        {
+          "word": "commanded",
+          "strongNumber": "H6680",
+          "lemma": "tsavah",
+          "meaning": "to command, charge, order"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "But it came to pass, when Nebuchadrezzar king of Babylon came up into the land, that we said, Come, and let us go to Jerusalem for fear of the army of the Chaldeans, and for fear of the army of the Syrians: so we dwell at Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem, the chief city of Judah"
+        },
+        {
+          "word": "Chaldeans",
+          "strongNumber": "H3778",
+          "lemma": "Kasdiy (Kasdim)",
+          "meaning": "Chaldeans, Babylonians"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Then came the word of the LORD unto Jeremiah, saying,",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, thing, message"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the LORD, the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Thus saith the LORD of hosts, the God of Israel; Go and tell the men of Judah and the inhabitants of Jerusalem, Will ye not receive instruction to hearken to my words? saith the LORD.",
+      "highlightedWords": [
+        {
+          "word": "saith",
+          "strongNumber": "H559",
+          "lemma": "’amar",
+          "meaning": "to say, speak, declare"
+        },
+        {
+          "word": "hosts",
+          "strongNumber": "H6635",
+          "lemma": "tsaba’",
+          "meaning": "host, army, warfare"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "The words of Jonadab the son of Rechab, that he commanded his sons not to drink wine, are performed; for unto this day they drink none, but obey their father's commandment: notwithstanding I have spoken unto you, rising early and speaking; but ye hearkened not unto me.",
+      "highlightedWords": [
+        {
+          "word": "words",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "words, matters, messages"
+        },
+        {
+          "word": "hearkened",
+          "strongNumber": "H8085",
+          "lemma": "shama‘",
+          "meaning": "to hear, listen, obey"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "I have sent also unto you all my servants the prophets, rising up early and sending them, saying, Return ye now every man from his evil way, and amend your doings, and go not after other gods to serve them, and ye shall dwell in the land which I have given to you and to your fathers: but ye have not inclined your ear, nor hearkened unto me.",
+      "highlightedWords": [
+        {
+          "word": "prophets",
+          "strongNumber": "H5030",
+          "lemma": "nabi’",
+          "meaning": "prophet, spokesman"
+        },
+        {
+          "word": "gods",
+          "strongNumber": "H430",
+          "lemma": "’elohim",
+          "meaning": "God, gods, divine beings"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Because the sons of Jonadab the son of Rechab have performed the commandment of their father, which he commanded them; but this people hath not hearkened unto me:",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "‘am",
+          "meaning": "people, nation"
+        },
+        {
+          "word": "hearkened",
+          "strongNumber": "H8085",
+          "lemma": "shama‘",
+          "meaning": "to hear, listen, obey"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Therefore thus saith the LORD God of hosts, the God of Israel; Behold, I will bring upon Judah and upon all the inhabitants of Jerusalem all the evil that I have pronounced against them: because I have spoken unto them, but they have not heard; and I have called unto them, but they have not answered.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the LORD, the proper name of the God of Israel"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah, the southern kingdom of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And Jeremiah said unto the house of the Rechabites, Thus saith the LORD of hosts, the God of Israel; Because ye have obeyed the commandment of Jonadab your father, and kept all his precepts, and done according unto all that he hath commanded you:",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the LORD, the proper name of the God of Israel"
+        },
+        {
+          "word": "obeyed",
+          "strongNumber": "H8085",
+          "lemma": "shama‘",
+          "meaning": "to hear, listen to, obey"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Therefore thus saith the LORD of hosts, the God of Israel; Jonadab the son of Rechab shall not want a man to stand before me for ever.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the LORD, the proper name of the God of Israel"
+        },
+        {
+          "word": "stand",
+          "strongNumber": "H5975",
+          "lemma": "‘amad",
+          "meaning": "to stand, remain, endure"
+        }
+      ]
+    }
+  ]
+}

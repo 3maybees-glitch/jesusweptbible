@@ -1,0 +1,348 @@
+{
+  "book": "Psalms",
+  "chapter": 10,
+  "chapterTheme": {
+    "twoWordSummary": "Justice Plea",
+    "themeWords": [
+      {
+        "word": "wicked",
+        "strongNumber": "H7563",
+        "lemma": "rasha'",
+        "meaning": "wicked, criminal, guilty"
+      },
+      {
+        "word": "fatherless",
+        "strongNumber": "H3490",
+        "lemma": "yathom",
+        "meaning": "orphan, fatherless"
+      }
+    ]
+  },
+  "sentenceTheme": "A plea for God to arise against the wicked who oppress the poor and to defend the humble and fatherless, affirming the LORD’s enduring kingship and justice.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Why standest thou afar off, O LORD? why hidest thou thyself in times of trouble?",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the divine name, covenant God"
+        },
+        {
+          "word": "trouble",
+          "strongNumber": "H6869",
+          "lemma": "tsarah",
+          "meaning": "distress, trouble"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "The wicked in his pride doth persecute the poor: let them be taken in the devices that they have imagined.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha'",
+          "meaning": "wicked, criminal, guilty"
+        },
+        {
+          "word": "poor",
+          "strongNumber": "H6041",
+          "lemma": "'ani",
+          "meaning": "afflicted, humble, poor"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "For the wicked boasteth of his heart's desire, and blesseth the covetous, whom the LORD abhorreth.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha'",
+          "meaning": "wicked, criminal, guilty"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the divine name, covenant God"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "The wicked, through the pride of his countenance, will not seek after God: God is not in all his thoughts.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God, mighty one"
+        },
+        {
+          "word": "thoughts",
+          "strongNumber": "H4284",
+          "lemma": "machashabah",
+          "meaning": "thought, plan, device"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "His ways are always grievous; thy judgments are far above out of his sight: as for all his enemies, he puffeth at them.",
+      "highlightedWords": [
+        {
+          "word": "judgments",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "justice, legal decisions"
+        },
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "oyev",
+          "meaning": "enemy, foe"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "He hath said in his heart, I shall not be moved: for I shall never be in adversity.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "inner man, heart, mind"
+        },
+        {
+          "word": "moved",
+          "strongNumber": "H4131",
+          "lemma": "mowt",
+          "meaning": "to totter, be moved"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "His mouth is full of cursing and deceit and fraud: under his tongue is mischief and vanity.",
+      "highlightedWords": [
+        {
+          "word": "mouth",
+          "strongNumber": "H6310",
+          "lemma": "peh",
+          "meaning": "mouth, opening"
+        },
+        {
+          "word": "tongue",
+          "strongNumber": "H3956",
+          "lemma": "lashon",
+          "meaning": "tongue, language"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "He sitteth in the lurking places of the villages: in the secret places doth he murder the innocent: his eyes are privily set against the poor.",
+      "highlightedWords": [
+        {
+          "word": "innocent",
+          "strongNumber": "H5355",
+          "lemma": "naqiy",
+          "meaning": "innocent, clean, blameless"
+        },
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "ayin",
+          "meaning": "eye"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "He lieth in wait secretly as a lion in his den: he lieth in wait to catch the poor: he doth catch the poor, when he draweth him into his net.",
+      "highlightedWords": [
+        {
+          "word": "lion",
+          "strongNumber": "H0738",
+          "lemma": "ariy",
+          "meaning": "lion"
+        },
+        {
+          "word": "net",
+          "strongNumber": "H7568",
+          "lemma": "resheth",
+          "meaning": "net, snare"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "He croucheth, and humbleth himself, that the poor may fall by his strong ones.",
+      "highlightedWords": [
+        {
+          "word": "poor",
+          "strongNumber": "H6041",
+          "lemma": "'ani",
+          "meaning": "afflicted, humble, poor"
+        },
+        {
+          "word": "fall",
+          "strongNumber": "H5307",
+          "lemma": "naphal",
+          "meaning": "to fall"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "He hath said in his heart, God hath forgotten: he hideth his face; he will never see it.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God, mighty one"
+        },
+        {
+          "word": "face",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "face, presence"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Arise, O LORD; O God, lift up thine hand: forget not the humble.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the divine name, covenant God"
+        },
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Wherefore doth the wicked contemn God? he hath said in his heart, Thou wilt not require it.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha'",
+          "meaning": "wicked, criminal, guilty"
+        },
+        {
+          "word": "require",
+          "strongNumber": "H1875",
+          "lemma": "darash",
+          "meaning": "to seek, require"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Thou hast seen it; for thou beholdest mischief and spite, to requite it with thy hand: the poor committeth himself unto thee; thou art the helper of the fatherless.",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        },
+        {
+          "word": "fatherless",
+          "strongNumber": "H3490",
+          "lemma": "yathom",
+          "meaning": "orphan, fatherless"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Break thou the arm of the wicked and the evil man: seek out his wickedness till thou find none.",
+      "highlightedWords": [
+        {
+          "word": "arm",
+          "strongNumber": "H2220",
+          "lemma": "zeroa",
+          "meaning": "arm, strength"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha'",
+          "meaning": "wicked, criminal, guilty"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "The LORD is King for ever and ever: the heathen are perished out of his land.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the divine name, covenant God"
+        },
+        {
+          "word": "King",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "LORD, thou hast heard the desire of the humble: thou wilt prepare their heart, thou wilt cause thine ear to hear:",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the divine name, covenant God"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "inner man, heart, mind"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "To judge the fatherless and the oppressed, that the man of the earth may no more oppress.",
+      "highlightedWords": [
+        {
+          "word": "judge",
+          "strongNumber": "H8199",
+          "lemma": "shaphat",
+          "meaning": "to judge, govern"
+        },
+        {
+          "word": "oppress",
+          "strongNumber": "H6231",
+          "lemma": "ashaq",
+          "meaning": "to oppress, extort"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,582 @@
+{
+  "book": "2 Samuel",
+  "chapter": 12,
+  "chapterTheme": {
+    "twoWordSummary": "Sin Exposed",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "יהוה",
+        "meaning": "YHWH, the personal name of the God of Israel"
+      },
+      {
+        "word": "David",
+        "strongNumber": "H1732",
+        "lemma": "דָּוִד",
+        "meaning": "David; beloved; second king of Israel"
+      }
+    ]
+  },
+  "sentenceTheme": "Nathan confronts David’s sin; God pronounces judgment; David repents, the child dies, Solomon is born, and David leads Israel to capture Rabbah.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And the LORD sent Nathan unto David. And he came unto him, and said unto him, There were two men in one city; the one rich, and the other poor.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "יהוה",
+          "meaning": "YHWH, the personal name of the God of Israel"
+        },
+        {
+          "word": "Nathan",
+          "strongNumber": "H5416",
+          "lemma": "נָתָן",
+          "meaning": "Nathan; a prophet; given"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "The rich man had exceeding many flocks and herds:",
+      "highlightedWords": [
+        {
+          "word": "man",
+          "strongNumber": "H376",
+          "lemma": "אִישׁ",
+          "meaning": "man; male person"
+        },
+        {
+          "word": "flocks",
+          "strongNumber": "H6629",
+          "lemma": "צֹאן",
+          "meaning": "flock; small livestock (sheep and goats)"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "But the poor man had nothing, save one little ewe lamb, which he had bought and nourished up: and it grew up together with him, and with his children; it did eat of his own meat, and drank of his own cup, and lay in his bosom, and was unto him as a daughter.",
+      "highlightedWords": [
+        {
+          "word": "man",
+          "strongNumber": "H376",
+          "lemma": "אִישׁ",
+          "meaning": "man; male person"
+        },
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "בֵּן",
+          "meaning": "son; child; descendant"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And there came a traveller unto the rich man, and he spared to take of his own flock and of his own herd, to dress for the wayfaring man that was come unto him: but took the poor man's lamb, and dressed it for the man that was come to him.",
+      "highlightedWords": [
+        {
+          "word": "man",
+          "strongNumber": "H376",
+          "lemma": "אִישׁ",
+          "meaning": "man; male person"
+        },
+        {
+          "word": "flock",
+          "strongNumber": "H6629",
+          "lemma": "צֹאן",
+          "meaning": "flock; small livestock (sheep and goats)"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And David's anger was greatly kindled against the man; and he said to Nathan, As the LORD liveth, the man that hath done this thing shall surely die:",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "דָּוִד",
+          "meaning": "David; beloved; second king of Israel"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "יהוה",
+          "meaning": "YHWH, the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And he shall restore the lamb fourfold, because he did this thing, and because he had no pity.",
+      "highlightedWords": [
+        {
+          "word": "restore",
+          "strongNumber": "H7999",
+          "lemma": "שָׁלַם",
+          "meaning": "to repay; restore; make whole"
+        },
+        {
+          "word": "thing",
+          "strongNumber": "H1697",
+          "lemma": "דָּבָר",
+          "meaning": "word; matter; thing"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And Nathan said to David, Thou art the man. Thus saith the LORD God of Israel, I anointed thee king over Israel, and I delivered thee out of the hand of Saul;",
+      "highlightedWords": [
+        {
+          "word": "Nathan",
+          "strongNumber": "H5416",
+          "lemma": "נָתָן",
+          "meaning": "Nathan; a prophet; given"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "יהוה",
+          "meaning": "YHWH, the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And I gave thee thy master's house, and thy master's wives into thy bosom, and gave thee the house of Israel and of Judah; and if that had been too little, I would moreover have given unto thee such and such things.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "יִשְׂרָאֵל",
+          "meaning": "Israel; he who strives with God"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "יְהוּדָה",
+          "meaning": "Judah; praised"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Wherefore hast thou despised the commandment of the LORD, to do evil in his sight? thou hast killed Uriah the Hittite with the sword, and hast taken his wife to be thy wife, and hast slain him with the sword of the children of Ammon.",
+      "highlightedWords": [
+        {
+          "word": "Uriah",
+          "strongNumber": "H223",
+          "lemma": "אוּרִיָּה",
+          "meaning": "Uriah; Yah is my light"
+        },
+        {
+          "word": "Ammon",
+          "strongNumber": "H5983",
+          "lemma": "עַמּוֹן",
+          "meaning": "Ammon; descendants of Lot; the Ammonites"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Now therefore the sword shall never depart from thine house; because thou hast despised me, and hast taken the wife of Uriah the Hittite to be thy wife.",
+      "highlightedWords": [
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "חֶרֶב",
+          "meaning": "sword"
+        },
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "בַּיִת",
+          "meaning": "house; household"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Thus saith the LORD, Behold, I will raise up evil against thee out of thine own house, and I will take thy wives before thine eyes, and give them unto thy neighbour, and he shall lie with thy wives in the sight of this sun.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "יהוה",
+          "meaning": "YHWH, the personal name of the God of Israel"
+        },
+        {
+          "word": "wives",
+          "strongNumber": "H802",
+          "lemma": "אִשָּׁה",
+          "meaning": "woman; wife (plural here: wives)"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "For thou didst it secretly: but I will do this thing before all Israel, and before the sun.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "יִשְׂרָאֵל",
+          "meaning": "Israel; he who strives with God"
+        },
+        {
+          "word": "sun",
+          "strongNumber": "H8121",
+          "lemma": "שֶׁמֶשׁ",
+          "meaning": "sun"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And David said unto Nathan, I have sinned against the LORD. And Nathan said unto David, The LORD also hath put away thy sin; thou shalt not die.",
+      "highlightedWords": [
+        {
+          "word": "sinned",
+          "strongNumber": "H2398",
+          "lemma": "חָטָא",
+          "meaning": "to sin; miss the mark; be guilty"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "יהוה",
+          "meaning": "YHWH, the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Howbeit, because by this deed thou hast given great occasion to the enemies of the LORD to blaspheme, the child also that is born unto thee shall surely die.",
+      "highlightedWords": [
+        {
+          "word": "child",
+          "strongNumber": "H3206",
+          "lemma": "יֶלֶד",
+          "meaning": "child; boy; offspring"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "יהוה",
+          "meaning": "YHWH, the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And Nathan departed unto his house. And the LORD struck the child that Uriah's wife bare unto David, and it was very sick.",
+      "highlightedWords": [
+        {
+          "word": "Nathan",
+          "strongNumber": "H5416",
+          "lemma": "נָתָן",
+          "meaning": "Nathan; a prophet; given"
+        },
+        {
+          "word": "child",
+          "strongNumber": "H3206",
+          "lemma": "יֶלֶד",
+          "meaning": "child; boy; offspring"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "David therefore besought God for the child; and David fasted, and went in, and lay all night upon the earth.",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "דָּוִד",
+          "meaning": "David; beloved; second king of Israel"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "אֱלֹהִים",
+          "meaning": "God; the true God (plural of majesty)"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And the elders of his house arose, and went to him, to raise him up from the earth: but he would not, neither did he eat bread with them.",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "אֶרֶץ",
+          "meaning": "earth; land; ground"
+        },
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "לֶחֶם",
+          "meaning": "bread; food"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And it came to pass on the seventh day, that the child died. And the servants of David feared to tell him that the child was dead: for they said, Behold, while the child was yet alive, we spake unto him, and he would not hearken unto our voice: how will he then vex himself, if we tell him that the child is dead?",
+      "highlightedWords": [
+        {
+          "word": "seventh",
+          "strongNumber": "H7637",
+          "lemma": "שְׁבִיעִי",
+          "meaning": "seventh (ordinal number)"
+        },
+        {
+          "word": "dead",
+          "strongNumber": "H4191",
+          "lemma": "מוּת",
+          "meaning": "to die; be dead"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "But when David saw that his servants whispered, David perceived that the child was dead: therefore David said unto his servants, Is the child dead? And they said, He is dead.",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "דָּוִד",
+          "meaning": "David; beloved; second king of Israel"
+        },
+        {
+          "word": "dead",
+          "strongNumber": "H4191",
+          "lemma": "מוּת",
+          "meaning": "to die; be dead"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Then David arose from the earth, and washed, and anointed himself, and changed his apparel, and came into the house of the LORD, and worshipped: then he came to his own house; and when he required, they set bread before him, and he did eat.",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "בַּיִת",
+          "meaning": "house; household"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "יהוה",
+          "meaning": "YHWH, the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Then said his servants unto him, What thing is this that thou hast done? thou didst fast and weep for the child, while it was alive; but when the child was dead, thou didst rise and eat bread.",
+      "highlightedWords": [
+        {
+          "word": "servants",
+          "strongNumber": "H5650",
+          "lemma": "עֶבֶד",
+          "meaning": "servant; bondman"
+        },
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "לֶחֶם",
+          "meaning": "bread; food"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And he said, While the child was yet alive, I fasted and wept: for I said, Who can tell whether God will be gracious to me, that the child may live?",
+      "highlightedWords": [
+        {
+          "word": "gracious",
+          "strongNumber": "H2603",
+          "lemma": "חָנַן",
+          "meaning": "to be gracious; show favor"
+        },
+        {
+          "word": "live",
+          "strongNumber": "H2421",
+          "lemma": "חָיָה",
+          "meaning": "to live; be alive"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "But now he is dead, wherefore should I fast? can I bring him back again? I shall go to him, but he shall not return to me.",
+      "highlightedWords": [
+        {
+          "word": "go",
+          "strongNumber": "H1980",
+          "lemma": "הָלַךְ",
+          "meaning": "to go; walk; proceed"
+        },
+        {
+          "word": "return",
+          "strongNumber": "H7725",
+          "lemma": "שׁוּב",
+          "meaning": "to return; turn back; restore"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And David comforted Bathsheba his wife, and went in unto her, and lay with her: and she bare a son, and he called his name Solomon: and the LORD loved him.",
+      "highlightedWords": [
+        {
+          "word": "Solomon",
+          "strongNumber": "H8010",
+          "lemma": "שְׁלֹמֹה",
+          "meaning": "Solomon; peaceful"
+        },
+        {
+          "word": "loved",
+          "strongNumber": "H157",
+          "lemma": "אָהַב",
+          "meaning": "to love"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And he sent by the hand of Nathan the prophet; and he called his name Jedidiah, because of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "Nathan",
+          "strongNumber": "H5416",
+          "lemma": "נָתָן",
+          "meaning": "Nathan; a prophet; given"
+        },
+        {
+          "word": "Jedidiah",
+          "strongNumber": "H3041",
+          "lemma": "יְדִידְיָה",
+          "meaning": "Jedidiah; beloved of Yah"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And Joab fought against Rabbah of the children of Ammon, and took the royal city.",
+      "highlightedWords": [
+        {
+          "word": "Joab",
+          "strongNumber": "H3097",
+          "lemma": "יוֹאָב",
+          "meaning": "Joab; YHWH is father"
+        },
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "עִיר",
+          "meaning": "city; town"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And Joab sent messengers to David, and said, I have fought against Rabbah, and have taken the city of waters.",
+      "highlightedWords": [
+        {
+          "word": "Joab",
+          "strongNumber": "H3097",
+          "lemma": "יוֹאָב",
+          "meaning": "Joab; YHWH is father"
+        },
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "מַיִם",
+          "meaning": "waters; water"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "Now therefore gather the rest of the people together, and encamp against the city, and take it: lest I take the city, and it be called after my name.",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "עַם",
+          "meaning": "people; nation"
+        },
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "עִיר",
+          "meaning": "city; town"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "And David gathered all the people together, and went to Rabbah, and fought against it, and took it.",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "עַם",
+          "meaning": "people; nation"
+        },
+        {
+          "word": "fought",
+          "strongNumber": "H3898",
+          "lemma": "לָחַם",
+          "meaning": "to fight; wage war"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "And he took their king's crown from off his head, the weight whereof was a talent of gold with the precious stones: and it was set on David's head. And he brought forth the spoil of the city in great abundance.",
+      "highlightedWords": [
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "זָהָב",
+          "meaning": "gold"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "דָּוִד",
+          "meaning": "David; beloved; second king of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "And he brought forth the people that were therein, and put them under saws, and under harrows of iron, and under axes of iron, and made them pass through the brickkiln: and thus did he unto all the cities of the children of Ammon. So David and all the people returned unto Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "עַם",
+          "meaning": "people; nation"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "יְרוּשָׁלַ͏ִם",
+          "meaning": "Jerusalem; city of peace"
+        }
+      ]
+    }
+  ]
+}

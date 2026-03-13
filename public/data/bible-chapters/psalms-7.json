@@ -1,0 +1,330 @@
+{
+  "book": "Psalms",
+  "chapter": 7,
+  "chapterTheme": {
+    "twoWordSummary": "Righteous Judgment",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "יהוה",
+        "meaning": "The personal name of the God of Israel, YHWH."
+      },
+      {
+        "word": "judge",
+        "strongNumber": "H8199",
+        "lemma": "שָׁפַט",
+        "meaning": "To judge, govern, or decide a case."
+      }
+    ]
+  },
+  "sentenceTheme": "David appeals to the LORD for deliverance and asks the righteous Judge to end the wickedness of his enemies while vindicating the upright.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "O LORD my God, in thee do I put my trust: save me from all them that persecute me, and deliver me:",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "יהוה",
+          "meaning": "The personal name of the God of Israel, YHWH."
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "אֱלֹהִים",
+          "meaning": "God; the supreme deity."
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Lest he tear my soul like a lion, rending it in pieces, while there is none to deliver.",
+      "highlightedWords": [
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "נֶפֶשׁ",
+          "meaning": "Soul, life, self, person."
+        },
+        {
+          "word": "lion",
+          "strongNumber": "H0738",
+          "lemma": "אַרְיֵה",
+          "meaning": "A lion."
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "O LORD my God, if I have done this; if there be iniquity in my hands;",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "יהוה",
+          "meaning": "The personal name of the God of Israel, YHWH."
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "אֱלֹהִים",
+          "meaning": "God; the supreme deity."
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "If I have rewarded evil unto him that was at peace with me; (yea, I have delivered him that without cause is mine enemy:)",
+      "highlightedWords": [
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "רַע",
+          "meaning": "Bad, evil, wickedness, adversity."
+        },
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "שָׁלוֹם",
+          "meaning": "Peace, welfare, wholeness."
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Let the enemy persecute my soul, and take it; yea, let him tread down my life upon the earth, and lay mine honour in the dust. Selah.",
+      "highlightedWords": [
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "נֶפֶשׁ",
+          "meaning": "Soul, life, self, person."
+        },
+        {
+          "word": "Selah",
+          "strongNumber": "H5542",
+          "lemma": "סֶלָה",
+          "meaning": "A musical or liturgical pause or interlude."
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Arise, O LORD, in thine anger, lift up thyself because of the rage of mine enemies: and awake for me to the judgment that thou hast commanded.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "יהוה",
+          "meaning": "The personal name of the God of Israel, YHWH."
+        },
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "מִשְׁפָּט",
+          "meaning": "Justice, judgment, legal decision."
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "So shall the congregation of the people compass thee about: for their sakes therefore return thou on high.",
+      "highlightedWords": [
+        {
+          "word": "congregation",
+          "strongNumber": "H5712",
+          "lemma": "עֵדָה",
+          "meaning": "Assembly, congregation."
+        },
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "עַם",
+          "meaning": "People, nation."
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "The LORD shall judge the people: judge me, O LORD, according to my righteousness, and according to mine integrity that is in me.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "יהוה",
+          "meaning": "The personal name of the God of Israel, YHWH."
+        },
+        {
+          "word": "judge",
+          "strongNumber": "H8199",
+          "lemma": "שָׁפַט",
+          "meaning": "To judge, govern, or decide a case."
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Oh let the wickedness of the wicked come to an end; but establish the just: for the righteous God trieth the hearts and reins.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "אֱלֹהִים",
+          "meaning": "God; the supreme deity."
+        },
+        {
+          "word": "just",
+          "strongNumber": "H6662",
+          "lemma": "צַדִּיק",
+          "meaning": "Righteous, just, one in the right."
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "My defence is of God, which saveth the upright in heart.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "אֱלֹהִים",
+          "meaning": "God; the supreme deity."
+        },
+        {
+          "word": "upright",
+          "strongNumber": "H3477",
+          "lemma": "יָשָׁר",
+          "meaning": "Upright, straight, right."
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "God judgeth the righteous, and God is angry with the wicked every day.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "אֱלֹהִים",
+          "meaning": "God; the supreme deity."
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "רָשָׁע",
+          "meaning": "Wicked, guilty, criminal."
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "If he turn not, he will whet his sword; he hath bent his bow, and made it ready.",
+      "highlightedWords": [
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "חֶרֶב",
+          "meaning": "Sword."
+        },
+        {
+          "word": "bow",
+          "strongNumber": "H7198",
+          "lemma": "קֶשֶׁת",
+          "meaning": "Bow (for shooting), archery."
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "He hath also prepared for him the instruments of death; he ordaineth his arrows against the persecutors.",
+      "highlightedWords": [
+        {
+          "word": "arrows",
+          "strongNumber": "H2671",
+          "lemma": "חֵץ",
+          "meaning": "Arrow."
+        },
+        {
+          "word": "death",
+          "strongNumber": "H4194",
+          "lemma": "מָוֶת",
+          "meaning": "Death."
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Behold, he travaileth with iniquity, and hath conceived mischief, and brought forth falsehood.",
+      "highlightedWords": [
+        {
+          "word": "iniquity",
+          "strongNumber": "H0205",
+          "lemma": "אָוֶן",
+          "meaning": "Iniquity, trouble, wickedness."
+        },
+        {
+          "word": "falsehood",
+          "strongNumber": "H8267",
+          "lemma": "שֶׁקֶר",
+          "meaning": "Falsehood, lie, deception."
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "He made a pit, and digged it, and is fallen into the ditch which he made.",
+      "highlightedWords": [
+        {
+          "word": "pit",
+          "strongNumber": "H0953",
+          "lemma": "בּוֹר",
+          "meaning": "Pit, cistern."
+        },
+        {
+          "word": "fallen",
+          "strongNumber": "H5307",
+          "lemma": "נָפַל",
+          "meaning": "To fall."
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "His mischief shall return upon his own head, and his violent dealing shall come down upon his own pate.",
+      "highlightedWords": [
+        {
+          "word": "mischief",
+          "strongNumber": "H5999",
+          "lemma": "עָמָל",
+          "meaning": "Trouble, toil, mischief."
+        },
+        {
+          "word": "pate",
+          "strongNumber": "H6936",
+          "lemma": "קֹדְקֹד",
+          "meaning": "Crown of the head, scalp."
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "I will praise the LORD according to his righteousness: and will sing praise to the name of the LORD most high.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "יהוה",
+          "meaning": "The personal name of the God of Israel, YHWH."
+        },
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "שֵׁם",
+          "meaning": "Name, reputation, memorial."
+        }
+      ]
+    }
+  ]
+}

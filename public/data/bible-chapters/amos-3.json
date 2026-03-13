@@ -1,0 +1,294 @@
+{
+  "book": "Amos",
+  "chapter": 3,
+  "chapterTheme": {
+    "twoWordSummary": "Inevitable Judgment",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH",
+        "meaning": "The covenant name of Israel’s God"
+      },
+      {
+        "word": "Israel",
+        "strongNumber": "H3478",
+        "lemma": "Yisra'el",
+        "meaning": "Israel; he strives with God"
+      }
+    ]
+  },
+  "sentenceTheme": "God declares unavoidable judgment on Israel, illustrating cause and effect and summoning witnesses to their injustices.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Hear this word that the LORD hath spoken against you, O children of Israel, against the whole family which I brought up from the land of Egypt, saying,",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of Israel’s God"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; he strives with God"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "You only have I known of all the families of the earth: therefore I will punish you for all your iniquities.",
+      "highlightedWords": [
+        {
+          "word": "known",
+          "strongNumber": "H3045",
+          "lemma": "yada'",
+          "meaning": "to know, acknowledge, have intimate knowledge of"
+        },
+        {
+          "word": "iniquities",
+          "strongNumber": "H5771",
+          "lemma": "‘avon",
+          "meaning": "iniquity, guilt, wrongdoing"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Can two walk together, except they be agreed?",
+      "highlightedWords": [
+        {
+          "word": "walk",
+          "strongNumber": "H3212",
+          "lemma": "yalak",
+          "meaning": "to go, walk, proceed"
+        },
+        {
+          "word": "agreed",
+          "strongNumber": "H3259",
+          "lemma": "ya'ad",
+          "meaning": "to appoint, meet, agree"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Will a lion roar in the forest, when he hath no prey? will a young lion cry out of his den, if he have taken nothing?",
+      "highlightedWords": [
+        {
+          "word": "lion",
+          "strongNumber": "H738",
+          "lemma": "’aryeh",
+          "meaning": "lion"
+        },
+        {
+          "word": "young lion",
+          "strongNumber": "H3715",
+          "lemma": "kephir",
+          "meaning": "a young lion"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Can a bird fall in a snare upon the earth, where no gin is for him? shall one take up a snare from the earth, and have taken nothing at all?",
+      "highlightedWords": [
+        {
+          "word": "snare",
+          "strongNumber": "H6341",
+          "lemma": "pach",
+          "meaning": "a bird trap, snare"
+        },
+        {
+          "word": "gin",
+          "strongNumber": "H4170",
+          "lemma": "moqesh",
+          "meaning": "a snare, trap"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Shall a trumpet be blown in the city, and the people not be afraid? shall there be evil in a city, and the LORD hath not done it?",
+      "highlightedWords": [
+        {
+          "word": "trumpet",
+          "strongNumber": "H7782",
+          "lemma": "shofar",
+          "meaning": "ram’s horn, trumpet"
+        },
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra‘",
+          "meaning": "evil, disaster, calamity"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Surely the Lord GOD will do nothing, but he revealeth his secret unto his servants the prophets.",
+      "highlightedWords": [
+        {
+          "word": "GOD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of Israel’s God"
+        },
+        {
+          "word": "prophets",
+          "strongNumber": "H5030",
+          "lemma": "navi'",
+          "meaning": "prophet, spokesperson"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "The lion hath roared, who will not fear? the Lord GOD hath spoken, who can but prophesy?",
+      "highlightedWords": [
+        {
+          "word": "lion",
+          "strongNumber": "H738",
+          "lemma": "’aryeh",
+          "meaning": "lion"
+        },
+        {
+          "word": "prophesy",
+          "strongNumber": "H5012",
+          "lemma": "naba'",
+          "meaning": "to prophesy, speak by divine inspiration"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Publish in the palaces at Ashdod, and in the palaces in the land of Egypt, and say, Assemble yourselves upon the mountains of Samaria, and behold the great tumults in the midst thereof, and the oppressed in the midst thereof.",
+      "highlightedWords": [
+        {
+          "word": "Ashdod",
+          "strongNumber": "H795",
+          "lemma": "’Ashdod",
+          "meaning": "Ashdod, a Philistine city"
+        },
+        {
+          "word": "Samaria",
+          "strongNumber": "H8111",
+          "lemma": "Shomron",
+          "meaning": "Samaria, capital of the Northern Kingdom"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "For they know not to do right, saith the LORD, who store up violence and robbery in their palaces.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of Israel’s God"
+        },
+        {
+          "word": "violence",
+          "strongNumber": "H2555",
+          "lemma": "chamas",
+          "meaning": "violence, wrong, injustice"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Therefore thus saith the Lord GOD; An adversary there shall be even round about the land; and he shall bring down thy strength from thee, and thy palaces shall be spoiled.",
+      "highlightedWords": [
+        {
+          "word": "adversary",
+          "strongNumber": "H6862",
+          "lemma": "tsar",
+          "meaning": "adversary, foe, enemy"
+        },
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "’erets",
+          "meaning": "land, earth"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Thus saith the LORD; As the shepherd taketh out of the mouth of the lion two legs, or a piece of an ear; so shall the children of Israel be taken out that dwell in Samaria in the corner of a bed, and in Damascus in a couch.",
+      "highlightedWords": [
+        {
+          "word": "shepherd",
+          "strongNumber": "H7462",
+          "lemma": "ra‘ah",
+          "meaning": "to shepherd; one who tends flocks"
+        },
+        {
+          "word": "Damascus",
+          "strongNumber": "H1834",
+          "lemma": "Dammaseq",
+          "meaning": "Damascus, capital of Aram"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Hear ye, and testify in the house of Jacob, saith the Lord GOD, the God of hosts,",
+      "highlightedWords": [
+        {
+          "word": "Jacob",
+          "strongNumber": "H3290",
+          "lemma": "Ya‘aqov",
+          "meaning": "Jacob, Israel’s patriarch"
+        },
+        {
+          "word": "hosts",
+          "strongNumber": "H6635",
+          "lemma": "tsava'",
+          "meaning": "armies, hosts"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "That in the day that I shall visit the transgressions of Israel upon him I will also visit the altars of Beth-el: and the horns of the altar shall be cut off, and fall to the ground.",
+      "highlightedWords": [
+        {
+          "word": "altars",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar, place of sacrifice"
+        },
+        {
+          "word": "horns",
+          "strongNumber": "H7161",
+          "lemma": "qeren",
+          "meaning": "horn; projecting corner (of altar)"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And I will smite the winter house with the summer house; and the houses of ivory shall perish, and the great houses shall have an end, saith the LORD.",
+      "highlightedWords": [
+        {
+          "word": "smite",
+          "strongNumber": "H5221",
+          "lemma": "nakah",
+          "meaning": "to strike, smite"
+        },
+        {
+          "word": "ivory",
+          "strongNumber": "H8127",
+          "lemma": "shen",
+          "meaning": "tooth, ivory"
+        }
+      ]
+    }
+  ]
+}

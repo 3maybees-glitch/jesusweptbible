@@ -1,0 +1,996 @@
+{
+  "book": "Numbers",
+  "chapter": 1,
+  "chapterTheme": {
+    "twoWordSummary": "Wilderness Census",
+    "themeWords": [
+      {
+        "word": "number",
+        "strongNumber": "H6485",
+        "lemma": "pāqad",
+        "meaning": "to number, muster, appoint"
+      },
+      {
+        "word": "Levites",
+        "strongNumber": "H3881",
+        "lemma": "Lēwiyy",
+        "meaning": "Levites; members of the tribe of Levi set apart for sacred service"
+      }
+    ]
+  },
+  "sentenceTheme": "The LORD commands Moses and Aaron to number Israel’s fighting men by tribes, appoint tribal leaders, and set apart the Levites for the tabernacle.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And the LORD spake unto Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first day of the second month, in the second year after they were come out of the land of Egypt, saying,",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        },
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses, leader and lawgiver of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Take ye the sum of all the congregation of the children of Israel, after their families, by the house of their fathers, with the number of their names, every male by their polls;",
+      "highlightedWords": [
+        {
+          "word": "congregation",
+          "strongNumber": "H5712",
+          "lemma": "ʿēdāh",
+          "meaning": "assembly, congregation"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yiśrāʾēl",
+          "meaning": "Israel; the people descended from Jacob"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "From twenty years old and upward, all that are able to go forth to war in Israel: thou and Aaron shall number them by their armies.",
+      "highlightedWords": [
+        {
+          "word": "Aaron",
+          "strongNumber": "H175",
+          "lemma": "Aharon",
+          "meaning": "Aaron; brother of Moses and first high priest"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yiśrāʾēl",
+          "meaning": "Israel; the people descended from Jacob"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And with you there shall be a man of every tribe; every one head of the house of his fathers.",
+      "highlightedWords": [
+        {
+          "word": "man",
+          "strongNumber": "H376",
+          "lemma": "ʾish",
+          "meaning": "man, individual, male person"
+        },
+        {
+          "word": "tribe",
+          "strongNumber": "H4294",
+          "lemma": "maṭṭeh",
+          "meaning": "tribe; staff/rod representing a tribe"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And these are the names of the men that shall stand with you: of the tribe of Reuben; Elizur the son of Shedeur.",
+      "highlightedWords": [
+        {
+          "word": "tribe",
+          "strongNumber": "H4294",
+          "lemma": "maṭṭeh",
+          "meaning": "tribe; staff/rod representing a tribe"
+        },
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child, descendant"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Of Simeon; Shelumiel the son of Zurishaddai.",
+      "highlightedWords": [
+        {
+          "word": "Simeon",
+          "strongNumber": "H8095",
+          "lemma": "Shimʿon",
+          "meaning": "Simeon; one of the sons of Jacob; a tribe of Israel"
+        },
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child, descendant"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Of Judah; Nahshon the son of Amminadab.",
+      "highlightedWords": [
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah; a son of Jacob and the tribe descending from him"
+        },
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child, descendant"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Of Issachar; Nethaneel the son of Zuar.",
+      "highlightedWords": [
+        {
+          "word": "Issachar",
+          "strongNumber": "H3485",
+          "lemma": "Yissākhār",
+          "meaning": "Issachar; a son of Jacob and his tribe"
+        },
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child, descendant"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Of Zebulun; Eliab the son of Helon.",
+      "highlightedWords": [
+        {
+          "word": "Zebulun",
+          "strongNumber": "H2074",
+          "lemma": "Zevulun",
+          "meaning": "Zebulun; a son of Jacob and his tribe"
+        },
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child, descendant"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Of the children of Joseph: of Ephraim; Elishama the son of Ammihud: of Manasseh; Gamaliel the son of Pedahzur.",
+      "highlightedWords": [
+        {
+          "word": "Joseph",
+          "strongNumber": "H3130",
+          "lemma": "Yosef",
+          "meaning": "Joseph; son of Jacob and father of Ephraim and Manasseh"
+        },
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "sons, children, descendants"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Of Benjamin; Abidan the son of Gideoni.",
+      "highlightedWords": [
+        {
+          "word": "Benjamin",
+          "strongNumber": "H1144",
+          "lemma": "Binyamin",
+          "meaning": "Benjamin; son of Jacob and his tribe"
+        },
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child, descendant"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Of Dan; Ahiezer the son of Ammishaddai.",
+      "highlightedWords": [
+        {
+          "word": "Dan",
+          "strongNumber": "H1835",
+          "lemma": "Dan",
+          "meaning": "Dan; a son of Jacob and his tribe"
+        },
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child, descendant"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Of Asher; Pagiel the son of Ocran.",
+      "highlightedWords": [
+        {
+          "word": "Asher",
+          "strongNumber": "H836",
+          "lemma": "ʾAsher",
+          "meaning": "Asher; a son of Jacob and his tribe"
+        },
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child, descendant"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Of Gad; Eliasaph the son of Deuel.",
+      "highlightedWords": [
+        {
+          "word": "Gad",
+          "strongNumber": "H1410",
+          "lemma": "Gad",
+          "meaning": "Gad; a son of Jacob and his tribe"
+        },
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child, descendant"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Of Naphtali; Ahira the son of Enan.",
+      "highlightedWords": [
+        {
+          "word": "Naphtali",
+          "strongNumber": "H5321",
+          "lemma": "Naftali",
+          "meaning": "Naphtali; a son of Jacob and his tribe"
+        },
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child, descendant"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "These were the renowned of the congregation, princes of the tribes of their fathers, heads of thousands in Israel.",
+      "highlightedWords": [
+        {
+          "word": "congregation",
+          "strongNumber": "H5712",
+          "lemma": "ʿēdāh",
+          "meaning": "assembly, congregation"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yiśrāʾēl",
+          "meaning": "Israel; the people descended from Jacob"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And Moses and Aaron took these men which are expressed by their names:",
+      "highlightedWords": [
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses, leader and lawgiver of Israel"
+        },
+        {
+          "word": "Aaron",
+          "strongNumber": "H175",
+          "lemma": "Aharon",
+          "meaning": "Aaron; brother of Moses and first high priest"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And they assembled all the congregation together on the first day of the second month, and they declared their pedigrees after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, by their polls.",
+      "highlightedWords": [
+        {
+          "word": "congregation",
+          "strongNumber": "H5712",
+          "lemma": "ʿēdāh",
+          "meaning": "assembly, congregation"
+        },
+        {
+          "word": "names",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "name, reputation"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "As the LORD commanded Moses, so he numbered them in the wilderness of Sinai.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        },
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses, leader and lawgiver of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And the children of Reuben, Israel's eldest son, by their generations, after their families, by the house of their fathers, according to the number of the names, by their polls, every male from twenty years old and upward, all that were able to go forth to war;",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "sons, children, descendants"
+        },
+        {
+          "word": "Reuben",
+          "strongNumber": "H7205",
+          "lemma": "Reʾuven",
+          "meaning": "Reuben; a son of Jacob and his tribe"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Those that were numbered of them, even of the tribe of Reuben, were forty and six thousand and five hundred.",
+      "highlightedWords": [
+        {
+          "word": "tribe",
+          "strongNumber": "H4294",
+          "lemma": "maṭṭeh",
+          "meaning": "tribe; staff/rod representing a tribe"
+        },
+        {
+          "word": "Reuben",
+          "strongNumber": "H7205",
+          "lemma": "Reʾuven",
+          "meaning": "Reuben; a son of Jacob and his tribe"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Of the children of Simeon, by their generations, after their families, by the house of their fathers, those that were numbered of them, according to the number of the names, by their polls, every male from twenty years old and upward, all that were able to go forth to war;",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "sons, children, descendants"
+        },
+        {
+          "word": "Simeon",
+          "strongNumber": "H8095",
+          "lemma": "Shimʿon",
+          "meaning": "Simeon; one of the sons of Jacob; a tribe of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Those that were numbered of them, even of the tribe of Simeon, were fifty and nine thousand and three hundred.",
+      "highlightedWords": [
+        {
+          "word": "tribe",
+          "strongNumber": "H4294",
+          "lemma": "maṭṭeh",
+          "meaning": "tribe; staff/rod representing a tribe"
+        },
+        {
+          "word": "Simeon",
+          "strongNumber": "H8095",
+          "lemma": "Shimʿon",
+          "meaning": "Simeon; one of the sons of Jacob; a tribe of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Of the children of Gad, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "sons, children, descendants"
+        },
+        {
+          "word": "Gad",
+          "strongNumber": "H1410",
+          "lemma": "Gad",
+          "meaning": "Gad; a son of Jacob and his tribe"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Those that were numbered of them, even of the tribe of Gad, were forty and five thousand and six hundred and fifty.",
+      "highlightedWords": [
+        {
+          "word": "tribe",
+          "strongNumber": "H4294",
+          "lemma": "maṭṭeh",
+          "meaning": "tribe; staff/rod representing a tribe"
+        },
+        {
+          "word": "Gad",
+          "strongNumber": "H1410",
+          "lemma": "Gad",
+          "meaning": "Gad; a son of Jacob and his tribe"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "Of the children of Judah, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "sons, children, descendants"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah; a son of Jacob and the tribe descending from him"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "Those that were numbered of them, even of the tribe of Judah, were threescore and fourteen thousand and six hundred.",
+      "highlightedWords": [
+        {
+          "word": "tribe",
+          "strongNumber": "H4294",
+          "lemma": "maṭṭeh",
+          "meaning": "tribe; staff/rod representing a tribe"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah; a son of Jacob and the tribe descending from him"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "Of the children of Issachar, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "sons, children, descendants"
+        },
+        {
+          "word": "Issachar",
+          "strongNumber": "H3485",
+          "lemma": "Yissākhār",
+          "meaning": "Issachar; a son of Jacob and his tribe"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "Those that were numbered of them, even of the tribe of Issachar, were fifty and four thousand and four hundred.",
+      "highlightedWords": [
+        {
+          "word": "tribe",
+          "strongNumber": "H4294",
+          "lemma": "maṭṭeh",
+          "meaning": "tribe; staff/rod representing a tribe"
+        },
+        {
+          "word": "Issachar",
+          "strongNumber": "H3485",
+          "lemma": "Yissākhār",
+          "meaning": "Issachar; a son of Jacob and his tribe"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "Of the children of Zebulun, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "sons, children, descendants"
+        },
+        {
+          "word": "Zebulun",
+          "strongNumber": "H2074",
+          "lemma": "Zevulun",
+          "meaning": "Zebulun; a son of Jacob and his tribe"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "Those that were numbered of them, even of the tribe of Zebulun, were fifty and seven thousand and four hundred.",
+      "highlightedWords": [
+        {
+          "word": "tribe",
+          "strongNumber": "H4294",
+          "lemma": "maṭṭeh",
+          "meaning": "tribe; staff/rod representing a tribe"
+        },
+        {
+          "word": "Zebulun",
+          "strongNumber": "H2074",
+          "lemma": "Zevulun",
+          "meaning": "Zebulun; a son of Jacob and his tribe"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "Of the children of Joseph, namely, of the children of Ephraim, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "sons, children, descendants"
+        },
+        {
+          "word": "Ephraim",
+          "strongNumber": "H669",
+          "lemma": "Efrayim",
+          "meaning": "Ephraim; son of Joseph and a tribe of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "Those that were numbered of them, even of the tribe of Ephraim, were forty thousand and five hundred.",
+      "highlightedWords": [
+        {
+          "word": "tribe",
+          "strongNumber": "H4294",
+          "lemma": "maṭṭeh",
+          "meaning": "tribe; staff/rod representing a tribe"
+        },
+        {
+          "word": "Ephraim",
+          "strongNumber": "H669",
+          "lemma": "Efrayim",
+          "meaning": "Ephraim; son of Joseph and a tribe of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "Of the children of Manasseh, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "sons, children, descendants"
+        },
+        {
+          "word": "Manasseh",
+          "strongNumber": "H4519",
+          "lemma": "Menasheh",
+          "meaning": "Manasseh; son of Joseph and a tribe of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "Those that were numbered of them, even of the tribe of Manasseh, were thirty and two thousand and two hundred.",
+      "highlightedWords": [
+        {
+          "word": "tribe",
+          "strongNumber": "H4294",
+          "lemma": "maṭṭeh",
+          "meaning": "tribe; staff/rod representing a tribe"
+        },
+        {
+          "word": "Manasseh",
+          "strongNumber": "H4519",
+          "lemma": "Menasheh",
+          "meaning": "Manasseh; son of Joseph and a tribe of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "Of the children of Benjamin, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "sons, children, descendants"
+        },
+        {
+          "word": "Benjamin",
+          "strongNumber": "H1144",
+          "lemma": "Binyamin",
+          "meaning": "Benjamin; son of Jacob and his tribe"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "Those that were numbered of them, even of the tribe of Benjamin, were thirty and five thousand and four hundred.",
+      "highlightedWords": [
+        {
+          "word": "tribe",
+          "strongNumber": "H4294",
+          "lemma": "maṭṭeh",
+          "meaning": "tribe; staff/rod representing a tribe"
+        },
+        {
+          "word": "Benjamin",
+          "strongNumber": "H1144",
+          "lemma": "Binyamin",
+          "meaning": "Benjamin; son of Jacob and his tribe"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "Of the children of Dan, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "sons, children, descendants"
+        },
+        {
+          "word": "Dan",
+          "strongNumber": "H1835",
+          "lemma": "Dan",
+          "meaning": "Dan; a son of Jacob and his tribe"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "text": "Those that were numbered of them, even of the tribe of Dan, were threescore and two thousand and seven hundred.",
+      "highlightedWords": [
+        {
+          "word": "tribe",
+          "strongNumber": "H4294",
+          "lemma": "maṭṭeh",
+          "meaning": "tribe; staff/rod representing a tribe"
+        },
+        {
+          "word": "Dan",
+          "strongNumber": "H1835",
+          "lemma": "Dan",
+          "meaning": "Dan; a son of Jacob and his tribe"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "text": "Of the children of Asher, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "sons, children, descendants"
+        },
+        {
+          "word": "Asher",
+          "strongNumber": "H836",
+          "lemma": "ʾAsher",
+          "meaning": "Asher; a son of Jacob and his tribe"
+        }
+      ]
+    },
+    {
+      "verse": 41,
+      "text": "Those that were numbered of them, even of the tribe of Asher, were forty and one thousand and five hundred.",
+      "highlightedWords": [
+        {
+          "word": "tribe",
+          "strongNumber": "H4294",
+          "lemma": "maṭṭeh",
+          "meaning": "tribe; staff/rod representing a tribe"
+        },
+        {
+          "word": "Asher",
+          "strongNumber": "H836",
+          "lemma": "ʾAsher",
+          "meaning": "Asher; a son of Jacob and his tribe"
+        }
+      ]
+    },
+    {
+      "verse": 42,
+      "text": "Of the children of Naphtali, throughout their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "sons, children, descendants"
+        },
+        {
+          "word": "Naphtali",
+          "strongNumber": "H5321",
+          "lemma": "Naftali",
+          "meaning": "Naphtali; a son of Jacob and his tribe"
+        }
+      ]
+    },
+    {
+      "verse": 43,
+      "text": "Those that were numbered of them, even of the tribe of Naphtali, were forty and five thousand and four hundred.",
+      "highlightedWords": [
+        {
+          "word": "tribe",
+          "strongNumber": "H4294",
+          "lemma": "maṭṭeh",
+          "meaning": "tribe; staff/rod representing a tribe"
+        },
+        {
+          "word": "Naphtali",
+          "strongNumber": "H5321",
+          "lemma": "Naftali",
+          "meaning": "Naphtali; a son of Jacob and his tribe"
+        }
+      ]
+    },
+    {
+      "verse": 44,
+      "text": "These are those that were numbered, which Moses and Aaron numbered, and the princes of Israel, being twelve men: each one was for the house of his fathers.",
+      "highlightedWords": [
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses, leader and lawgiver of Israel"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yiśrāʾēl",
+          "meaning": "Israel; the people descended from Jacob"
+        }
+      ]
+    },
+    {
+      "verse": 45,
+      "text": "So were all those that were numbered of the children of Israel, by the house of their fathers, from twenty years old and upward, all that were able to go forth to war in Israel;",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "sons, children, descendants"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yiśrāʾēl",
+          "meaning": "Israel; the people descended from Jacob"
+        }
+      ]
+    },
+    {
+      "verse": 46,
+      "text": "Even all they that were numbered were six hundred thousand and three thousand and five hundred and fifty.",
+      "highlightedWords": [
+        {
+          "word": "numbered",
+          "strongNumber": "H6485",
+          "lemma": "pāqad",
+          "meaning": "to number, muster, appoint"
+        },
+        {
+          "word": "all",
+          "strongNumber": "H3605",
+          "lemma": "kol",
+          "meaning": "all, the whole"
+        }
+      ]
+    },
+    {
+      "verse": 47,
+      "text": "But the Levites after the tribe of their fathers were not numbered among them.",
+      "highlightedWords": [
+        {
+          "word": "Levites",
+          "strongNumber": "H3881",
+          "lemma": "Lēwiyy",
+          "meaning": "Levites; members of the tribe of Levi set apart for sacred service"
+        },
+        {
+          "word": "tribe",
+          "strongNumber": "H4294",
+          "lemma": "maṭṭeh",
+          "meaning": "tribe; staff/rod representing a tribe"
+        }
+      ]
+    },
+    {
+      "verse": 48,
+      "text": "For the LORD had spoken unto Moses, saying,",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        },
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses, leader and lawgiver of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 49,
+      "text": "Only thou shalt not number the tribe of Levi, neither take the sum of them among the children of Israel:",
+      "highlightedWords": [
+        {
+          "word": "number",
+          "strongNumber": "H6485",
+          "lemma": "pāqad",
+          "meaning": "to number, muster, appoint"
+        },
+        {
+          "word": "Levi",
+          "strongNumber": "H3878",
+          "lemma": "Lēwî",
+          "meaning": "Levi; son of Jacob; ancestor of the Levites"
+        }
+      ]
+    },
+    {
+      "verse": 50,
+      "text": "But thou shalt appoint the Levites over the tabernacle of testimony, and over all the vessels thereof, and over all things that belong to it: they shall bear the tabernacle, and all the vessels thereof; and they shall minister unto it, and shall encamp round about the tabernacle.",
+      "highlightedWords": [
+        {
+          "word": "Levites",
+          "strongNumber": "H3881",
+          "lemma": "Lēwiyy",
+          "meaning": "Levites; members of the tribe of Levi set apart for sacred service"
+        },
+        {
+          "word": "tabernacle",
+          "strongNumber": "H4908",
+          "lemma": "mishkān",
+          "meaning": "dwelling place, tabernacle"
+        }
+      ]
+    },
+    {
+      "verse": 51,
+      "text": "And when the tabernacle setteth forward, the Levites shall take it down: and when the tabernacle is to be pitched, the Levites shall set it up: and the stranger that cometh nigh shall be put to death.",
+      "highlightedWords": [
+        {
+          "word": "tabernacle",
+          "strongNumber": "H4908",
+          "lemma": "mishkān",
+          "meaning": "dwelling place, tabernacle"
+        },
+        {
+          "word": "Levites",
+          "strongNumber": "H3881",
+          "lemma": "Lēwiyy",
+          "meaning": "Levites; members of the tribe of Levi set apart for sacred service"
+        }
+      ]
+    },
+    {
+      "verse": 52,
+      "text": "And the children of Israel shall pitch their tents, every man by his own camp, and every man by his own standard, throughout their hosts.",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "sons, children, descendants"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yiśrāʾēl",
+          "meaning": "Israel; the people descended from Jacob"
+        }
+      ]
+    },
+    {
+      "verse": 53,
+      "text": "But the Levites shall pitch round about the tabernacle of testimony, that there be no wrath upon the congregation of the children of Israel: and the Levites shall keep the charge of the tabernacle of testimony.",
+      "highlightedWords": [
+        {
+          "word": "Levites",
+          "strongNumber": "H3881",
+          "lemma": "Lēwiyy",
+          "meaning": "Levites; members of the tribe of Levi set apart for sacred service"
+        },
+        {
+          "word": "tabernacle",
+          "strongNumber": "H4908",
+          "lemma": "mishkān",
+          "meaning": "dwelling place, tabernacle"
+        }
+      ]
+    },
+    {
+      "verse": 54,
+      "text": "And the children of Israel did according to all that the LORD commanded Moses, so did they.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yiśrāʾēl",
+          "meaning": "Israel; the people descended from Jacob"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,618 @@
+{
+  "book": "2 Samuel",
+  "chapter": 18,
+  "chapterTheme": {
+    "twoWordSummary": "Absalom's Death",
+    "themeWords": [
+      {
+        "word": "Absalom",
+        "strongNumber": "H53",
+        "lemma": "Avshalom",
+        "meaning": "father of peace"
+      },
+      {
+        "word": "king",
+        "strongNumber": "H4428",
+        "lemma": "melek",
+        "meaning": "king, ruler"
+      }
+    ]
+  },
+  "sentenceTheme": "David’s forces defeat Israel’s rebels, Absalom is slain despite David’s charge to spare him, and the king mourns deeply for his son.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And David numbered the people that were with him, and set captains of thousands and captains of hundreds over them.",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "David",
+          "meaning": "beloved"
+        },
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "'am",
+          "meaning": "people, nation"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And David sent forth a third part of the people under the hand of Joab, and a third part under the hand of Abishai the son of Zeruiah, Joab's brother, and a third part under the hand of Ittai the Gittite. And the king said unto the people, I will surely go forth with you myself also.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        },
+        {
+          "word": "Joab",
+          "strongNumber": "H3097",
+          "lemma": "Yo'av",
+          "meaning": "Yahweh is father"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "But the people answered, Thou shalt not go forth: for if we flee away, they will not care for us; neither if half of us die, will they care for us: but now thou art worth ten thousand of us: therefore now it is better that thou succour us out of the city.",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "'am",
+          "meaning": "people, nation"
+        },
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "'ir",
+          "meaning": "city, town"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And the king said unto them, What seemeth you best I will do. And the king stood by the gate side, and all the people came out by hundreds and by thousands.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        },
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "'am",
+          "meaning": "people, nation"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And the king commanded Joab and Abishai and Ittai, saying, Deal gently for my sake with the young man, even with Absalom. And all the people heard when the king gave all the captains charge concerning Absalom.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        },
+        {
+          "word": "Absalom",
+          "strongNumber": "H53",
+          "lemma": "Avshalom",
+          "meaning": "father of peace"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "So the people went out into the field against Israel: and the battle was in the wood of Ephraim;",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "God prevails"
+        },
+        {
+          "word": "wood",
+          "strongNumber": "H3293",
+          "lemma": "ya'ar",
+          "meaning": "forest, wood"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Where the people of Israel were slain before the servants of David, and there was there a great slaughter that day of twenty thousand men.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "God prevails"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "David",
+          "meaning": "beloved"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "For the battle was there scattered over the face of all the country: and the wood devoured more people that day than the sword devoured.",
+      "highlightedWords": [
+        {
+          "word": "wood",
+          "strongNumber": "H3293",
+          "lemma": "ya'ar",
+          "meaning": "forest, wood"
+        },
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "'am",
+          "meaning": "people, nation"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And Absalom met the servants of David. And Absalom rode upon a mule, and the mule went under the thick boughs of a great oak, and his head caught hold of the oak, and he was taken up between the heaven and the earth; and the mule that was under him went away.",
+      "highlightedWords": [
+        {
+          "word": "Absalom",
+          "strongNumber": "H53",
+          "lemma": "Avshalom",
+          "meaning": "father of peace"
+        },
+        {
+          "word": "oak",
+          "strongNumber": "H424",
+          "lemma": "'elah",
+          "meaning": "oak, terebinth"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And a certain man saw it, and told Joab, and said, Behold, I saw Absalom hanged in an oak.",
+      "highlightedWords": [
+        {
+          "word": "Absalom",
+          "strongNumber": "H53",
+          "lemma": "Avshalom",
+          "meaning": "father of peace"
+        },
+        {
+          "word": "oak",
+          "strongNumber": "H424",
+          "lemma": "'elah",
+          "meaning": "oak, terebinth"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And Joab said unto the man that told him, And, behold, thou sawest him, and why didst thou not smite him there to the ground? and I would have given thee ten shekels of silver, and a girdle.",
+      "highlightedWords": [
+        {
+          "word": "Joab",
+          "strongNumber": "H3097",
+          "lemma": "Yo'av",
+          "meaning": "Yahweh is father"
+        },
+        {
+          "word": "silver",
+          "strongNumber": "H3701",
+          "lemma": "kesef",
+          "meaning": "silver, money"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And the man said unto Joab, Though I should receive a thousand shekels of silver in mine hand, yet would I not put forth mine hand against the king's son: for in our hearing the king charged thee and Abishai and Ittai, saying, Beware that none touch the young man Absalom.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        },
+        {
+          "word": "Absalom",
+          "strongNumber": "H53",
+          "lemma": "Avshalom",
+          "meaning": "father of peace"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Otherwise I should have wrought falsehood against mine own life: for there is no matter hid from the king, and thou thyself wouldest have set thyself against me.",
+      "highlightedWords": [
+        {
+          "word": "life",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, self"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Then said Joab, I may not tarry thus with thee. And he took three darts in his hand, and thrust them through the heart of Absalom, while he was yet alive in the midst of the oak.",
+      "highlightedWords": [
+        {
+          "word": "Joab",
+          "strongNumber": "H3097",
+          "lemma": "Yo'av",
+          "meaning": "Yahweh is father"
+        },
+        {
+          "word": "Absalom",
+          "strongNumber": "H53",
+          "lemma": "Avshalom",
+          "meaning": "father of peace"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And ten young men that bare Joab's armour compassed about and smote Absalom, and slew him.",
+      "highlightedWords": [
+        {
+          "word": "young",
+          "strongNumber": "H5288",
+          "lemma": "na'ar",
+          "meaning": "youth, young man"
+        },
+        {
+          "word": "Absalom",
+          "strongNumber": "H53",
+          "lemma": "Avshalom",
+          "meaning": "father of peace"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And Joab blew the trumpet, and the people returned from pursuing after Israel: for Joab held back the people.",
+      "highlightedWords": [
+        {
+          "word": "trumpet",
+          "strongNumber": "H7782",
+          "lemma": "shofar",
+          "meaning": "ram's horn, trumpet"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "God prevails"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And they took Absalom, and cast him into a great pit in the wood, and laid a very great heap of stones upon him: and all Israel fled every one to his tent.",
+      "highlightedWords": [
+        {
+          "word": "Absalom",
+          "strongNumber": "H53",
+          "lemma": "Avshalom",
+          "meaning": "father of peace"
+        },
+        {
+          "word": "pit",
+          "strongNumber": "H953",
+          "lemma": "bor",
+          "meaning": "pit, cistern, dungeon"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Now Absalom in his lifetime had taken and reared up for himself a pillar, which is in the king's dale: for he said, I have no son to keep my name in remembrance: and he called the pillar after his own name: and it is called unto this day, Absalom's place.",
+      "highlightedWords": [
+        {
+          "word": "pillar",
+          "strongNumber": "H4676",
+          "lemma": "matstsevah",
+          "meaning": "pillar, monument"
+        },
+        {
+          "word": "dale",
+          "strongNumber": "H6010",
+          "lemma": "'emeq",
+          "meaning": "valley, dale"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Then said Ahimaaz the son of Zadok, Let me now run, and bear the king tidings, how that the LORD hath avenged him of his enemies.",
+      "highlightedWords": [
+        {
+          "word": "Ahimaaz",
+          "strongNumber": "H290",
+          "lemma": "Achima'ats",
+          "meaning": "brother of anger"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the divine name, LORD"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And Joab said unto him, Thou shalt not bear tidings this day, but thou shalt bear tidings another day: but this day thou shalt bear no tidings, because the king's son is dead.",
+      "highlightedWords": [
+        {
+          "word": "Joab",
+          "strongNumber": "H3097",
+          "lemma": "Yo'av",
+          "meaning": "Yahweh is father"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Then said Joab to Cushi, Go tell the king what thou hast seen. And Cushi bowed himself unto Joab, and ran.",
+      "highlightedWords": [
+        {
+          "word": "Cushi",
+          "strongNumber": "H3569",
+          "lemma": "Kushi",
+          "meaning": "Cushite, Ethiopian"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Then said Ahimaaz the son of Zadok yet again to Joab, But howsoever, let me, I pray thee, also run after Cushi. And Joab said, Wherefore wilt thou run, my son, seeing that thou hast no tidings ready?",
+      "highlightedWords": [
+        {
+          "word": "Ahimaaz",
+          "strongNumber": "H290",
+          "lemma": "Achima'ats",
+          "meaning": "brother of anger"
+        },
+        {
+          "word": "Cushi",
+          "strongNumber": "H3569",
+          "lemma": "Kushi",
+          "meaning": "Cushite, Ethiopian"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "But howsoever, said he, let me run. And he said unto him, Run. Then Ahimaaz ran by the way of the plain, and overran Cushi.",
+      "highlightedWords": [
+        {
+          "word": "Ahimaaz",
+          "strongNumber": "H290",
+          "lemma": "Achima'ats",
+          "meaning": "brother of anger"
+        },
+        {
+          "word": "Cushi",
+          "strongNumber": "H3569",
+          "lemma": "Kushi",
+          "meaning": "Cushite, Ethiopian"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And David sat between the two gates: and the watchman went up to the roof over the gate unto the wall, and lifted up his eyes, and looked, and behold a man running alone.",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "David",
+          "meaning": "beloved"
+        },
+        {
+          "word": "watchman",
+          "strongNumber": "H6822",
+          "lemma": "tsopheh",
+          "meaning": "watchman, lookout"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And the watchman cried, and told the king. And the king said, If he be alone, there is tidings in his mouth. And he came apace, and drew near.",
+      "highlightedWords": [
+        {
+          "word": "watchman",
+          "strongNumber": "H6822",
+          "lemma": "tsopheh",
+          "meaning": "watchman, lookout"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And the watchman saw another man running: and the watchman called unto the porter, and said, Behold another man running alone. And the king said, He also bringeth tidings.",
+      "highlightedWords": [
+        {
+          "word": "watchman",
+          "strongNumber": "H6822",
+          "lemma": "tsopheh",
+          "meaning": "watchman, lookout"
+        },
+        {
+          "word": "porter",
+          "strongNumber": "H7778",
+          "lemma": "sho'er",
+          "meaning": "gatekeeper"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And the watchman said, Me thinketh the running of the foremost is like the running of Ahimaaz the son of Zadok. And the king said, He is a good man, and cometh with good tidings.",
+      "highlightedWords": [
+        {
+          "word": "Ahimaaz",
+          "strongNumber": "H290",
+          "lemma": "Achima'ats",
+          "meaning": "brother of anger"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And Ahimaaz called, and said unto the king, All is well. And he fell down to the earth upon his face before the king, and said, Blessed be the LORD thy God, which hath delivered up the men that lifted up their hand against my lord the king.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the divine name, LORD"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "And the king said, Is the young man Absalom safe? And Ahimaaz answered, When Joab sent the king's servant, and me thy servant, I saw a great tumult, but I knew not what it was.",
+      "highlightedWords": [
+        {
+          "word": "Absalom",
+          "strongNumber": "H53",
+          "lemma": "Avshalom",
+          "meaning": "father of peace"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "And the king said unto him, Turn aside, and stand here. And he turned aside, and stood still.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        },
+        {
+          "word": "stood",
+          "strongNumber": "H5975",
+          "lemma": "'amad",
+          "meaning": "to stand, remain"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "And, behold, Cushi came; and Cushi said, Tidings, my lord the king: for the LORD hath avenged thee this day of all them that rose up against thee.",
+      "highlightedWords": [
+        {
+          "word": "Cushi",
+          "strongNumber": "H3569",
+          "lemma": "Kushi",
+          "meaning": "Cushite, Ethiopian"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the divine name, LORD"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "And the king said unto Cushi, Is the young man Absalom safe? And Cushi answered, The enemies of my lord the king, and all that rise against thee to do thee hurt, be as that young man is.",
+      "highlightedWords": [
+        {
+          "word": "Absalom",
+          "strongNumber": "H53",
+          "lemma": "Avshalom",
+          "meaning": "father of peace"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "And the king was much moved, and went up to the chamber over the gate, and wept: and as he went, thus he said, O my son Absalom, my son, my son Absalom! would God I had died for thee, O Absalom, my son, my son!",
+      "highlightedWords": [
+        {
+          "word": "wept",
+          "strongNumber": "H1058",
+          "lemma": "bakah",
+          "meaning": "to weep, lament"
+        },
+        {
+          "word": "Absalom",
+          "strongNumber": "H53",
+          "lemma": "Avshalom",
+          "meaning": "father of peace"
+        }
+      ]
+    }
+  ]
+}

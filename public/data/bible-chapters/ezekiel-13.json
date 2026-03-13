@@ -1,0 +1,438 @@
+{
+  "book": "Ezekiel",
+  "chapter": 13,
+  "chapterTheme": {
+    "twoWordSummary": "False Prophets",
+    "themeWords": [
+      {
+        "word": "prophets",
+        "strongNumber": "H5030",
+        "lemma": "nābîʾ",
+        "meaning": "prophet; one who speaks by divine inspiration"
+      },
+      {
+        "word": "divination",
+        "strongNumber": "H7081",
+        "lemma": "qesem",
+        "meaning": "divination; omen, soothsaying"
+      }
+    ]
+  },
+  "sentenceTheme": "God condemns false prophets and prophetesses who deceive His people with lies and whitewashed assurances, and He declares judgment while promising to deliver His people.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And the word of the LORD came unto me, saying,",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dābār",
+          "meaning": "word, matter, thing"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Son of man, prophesy against the prophets of Israel that prophesy, and say thou unto them that prophesy out of their own hearts, Hear ye the word of the LORD;",
+      "highlightedWords": [
+        {
+          "word": "prophesy",
+          "strongNumber": "H5012",
+          "lemma": "nābāʾ",
+          "meaning": "to prophesy, speak by inspiration"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Thus saith the Lord GOD; Woe unto the foolish prophets, that follow their own spirit, and have seen nothing!",
+      "highlightedWords": [
+        {
+          "word": "GOD",
+          "strongNumber": "H3069",
+          "lemma": "YHWH",
+          "meaning": "the divine name, rendered “GOD” after “Lord”"
+        },
+        {
+          "word": "prophets",
+          "strongNumber": "H5030",
+          "lemma": "nābîʾ",
+          "meaning": "prophets; inspired spokesmen"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "O Israel, thy prophets are like the foxes in the deserts.",
+      "highlightedWords": [
+        {
+          "word": "prophets",
+          "strongNumber": "H5030",
+          "lemma": "nābîʾ",
+          "meaning": "prophets; inspired spokesmen"
+        },
+        {
+          "word": "foxes",
+          "strongNumber": "H7776",
+          "lemma": "šûʿāl",
+          "meaning": "fox, jackal"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Ye have not gone up into the gaps, neither made up the hedge for the house of Israel to stand in the battle in the day of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "gaps",
+          "strongNumber": "H6556",
+          "lemma": "pereṣ",
+          "meaning": "breach, gap"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "They have seen vanity and lying divination, saying, The LORD saith: and the LORD hath not sent them: and they have made others to hope that they would confirm the word.",
+      "highlightedWords": [
+        {
+          "word": "divination",
+          "strongNumber": "H7081",
+          "lemma": "qesem",
+          "meaning": "divination; omen, soothsaying"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Have ye not seen a vain vision, and have ye not spoken a lying divination, whereas ye say, The LORD saith it; albeit I have not spoken?",
+      "highlightedWords": [
+        {
+          "word": "divination",
+          "strongNumber": "H7081",
+          "lemma": "qesem",
+          "meaning": "divination; omen, soothsaying"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Therefore thus saith the Lord GOD; Because ye have spoken vanity, and seen lies, therefore, behold, I am against you, saith the Lord GOD.",
+      "highlightedWords": [
+        {
+          "word": "GOD",
+          "strongNumber": "H3069",
+          "lemma": "YHWH",
+          "meaning": "the divine name, rendered “GOD” after “Lord”"
+        },
+        {
+          "word": "lies",
+          "strongNumber": "H3577",
+          "lemma": "kazāb",
+          "meaning": "lie, falsehood, deception"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And mine hand shall be upon the prophets that see vanity, and that divine lies: they shall not be in the assembly of my people, neither shall they be written in the writing of the house of Israel, neither shall they enter into the land of Israel; and ye shall know that I am the Lord GOD.",
+      "highlightedWords": [
+        {
+          "word": "prophets",
+          "strongNumber": "H5030",
+          "lemma": "nābîʾ",
+          "meaning": "prophets; inspired spokesmen"
+        },
+        {
+          "word": "divine",
+          "strongNumber": "H7080",
+          "lemma": "qāsam",
+          "meaning": "to practice divination"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Because, even because they have seduced my people, saying, Peace; and there was no peace; and one built up a wall, and, lo, others daubed it with untempered morter:",
+      "highlightedWords": [
+        {
+          "word": "seduced",
+          "strongNumber": "H6601",
+          "lemma": "pāthâ",
+          "meaning": "to entice, deceive, seduce"
+        },
+        {
+          "word": "Peace",
+          "strongNumber": "H7965",
+          "lemma": "šālôm",
+          "meaning": "peace, welfare, well-being"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Say unto them which daub it with untempered morter, that it shall fall: there shall be an overflowing shower; and ye, O great hailstones, shall fall; and a stormy wind shall rend it.",
+      "highlightedWords": [
+        {
+          "word": "wind",
+          "strongNumber": "H7307",
+          "lemma": "rûaḥ",
+          "meaning": "wind, breath, spirit"
+        },
+        {
+          "word": "rend",
+          "strongNumber": "H1234",
+          "lemma": "bāqaʿ",
+          "meaning": "to split, tear, rend"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Lo, when the wall is fallen, shall it not be said unto you, Where is the daubing wherewith ye have daubed it?",
+      "highlightedWords": [
+        {
+          "word": "fallen",
+          "strongNumber": "H5307",
+          "lemma": "nāpal",
+          "meaning": "to fall, collapse"
+        },
+        {
+          "word": "said",
+          "strongNumber": "H559",
+          "lemma": "ʾāmar",
+          "meaning": "to say, declare"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Therefore thus saith the Lord GOD; I will even rend it with a stormy wind in my fury; and there shall be an overflowing shower in mine anger, and great hailstones in my fury to consume it.",
+      "highlightedWords": [
+        {
+          "word": "GOD",
+          "strongNumber": "H3069",
+          "lemma": "YHWH",
+          "meaning": "the divine name, rendered “GOD” after “Lord”"
+        },
+        {
+          "word": "fury",
+          "strongNumber": "H2534",
+          "lemma": "ḥēmâ",
+          "meaning": "wrath, heat, fury"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "So will I break down the wall that ye have daubed with untempered morter, and bring it down to the ground, so that the foundation thereof shall be discovered, and it shall fall, and ye shall be consumed in the midst thereof: and ye shall know that I am the LORD.",
+      "highlightedWords": [
+        {
+          "word": "know",
+          "strongNumber": "H3045",
+          "lemma": "yādaʿ",
+          "meaning": "to know, recognize"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Thus will I accomplish my wrath upon the wall, and upon them that have daubed it with untempered morter, and will say unto you, The wall is no more, neither they that daubed it;",
+      "highlightedWords": [
+        {
+          "word": "wrath",
+          "strongNumber": "H2534",
+          "lemma": "ḥēmâ",
+          "meaning": "wrath, heat, fury"
+        },
+        {
+          "word": "say",
+          "strongNumber": "H559",
+          "lemma": "ʾāmar",
+          "meaning": "to say, declare"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "To wit, the prophets of Israel which prophesy concerning Jerusalem, and which see visions of peace for her, and there is no peace, saith the Lord GOD.",
+      "highlightedWords": [
+        {
+          "word": "prophets",
+          "strongNumber": "H5030",
+          "lemma": "nābîʾ",
+          "meaning": "prophets; inspired spokesmen"
+        },
+        {
+          "word": "GOD",
+          "strongNumber": "H3069",
+          "lemma": "YHWH",
+          "meaning": "the divine name, rendered “GOD” after “Lord”"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Likewise, thou son of man, set thy face against the daughters of thy people, which prophesy out of their own heart; and prophesy thou against them,",
+      "highlightedWords": [
+        {
+          "word": "prophesy",
+          "strongNumber": "H5012",
+          "lemma": "nābāʾ",
+          "meaning": "to prophesy, speak by inspiration"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "lēb",
+          "meaning": "heart, mind, inner person"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And say, Thus saith the Lord GOD; Woe to the women that sew pillows to all armholes, and make kerchiefs upon the head of every stature to hunt souls! Will ye hunt the souls of my people, and will ye save the souls alive that come unto you?",
+      "highlightedWords": [
+        {
+          "word": "women",
+          "strongNumber": "H802",
+          "lemma": "ʾiššâ",
+          "meaning": "woman, wife"
+        },
+        {
+          "word": "souls",
+          "strongNumber": "H5315",
+          "lemma": "nepeš",
+          "meaning": "soul, life, person"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And will ye pollute me among my people for handfuls of barley and for pieces of bread, to slay the souls that should not die, and to save the souls alive that should not live, by your lying to my people that hear your lies?",
+      "highlightedWords": [
+        {
+          "word": "pollute",
+          "strongNumber": "H2490",
+          "lemma": "ḥālal",
+          "meaning": "to profane, defile"
+        },
+        {
+          "word": "souls",
+          "strongNumber": "H5315",
+          "lemma": "nepeš",
+          "meaning": "soul, life, person"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Wherefore thus saith the Lord GOD; Behold, I am against your pillows, wherewith ye there hunt the souls to make them fly, and I will tear them from your arms, and will let the souls go, even the souls that ye hunt to make them fly.",
+      "highlightedWords": [
+        {
+          "word": "GOD",
+          "strongNumber": "H3069",
+          "lemma": "YHWH",
+          "meaning": "the divine name, rendered “GOD” after “Lord”"
+        },
+        {
+          "word": "souls",
+          "strongNumber": "H5315",
+          "lemma": "nepeš",
+          "meaning": "soul, life, person"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Your kerchiefs also will I tear, and deliver my people out of your hand, and they shall be no more in your hand to be hunted; and ye shall know that I am the LORD.",
+      "highlightedWords": [
+        {
+          "word": "deliver",
+          "strongNumber": "H5337",
+          "lemma": "nāṣal",
+          "meaning": "to deliver, rescue, snatch away"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Because with lies ye have made the heart of the righteous sad, whom I have not made sad; and strengthened the hands of the wicked, that he should not return from his wicked way, by promising him life:",
+      "highlightedWords": [
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "ṣaddîq",
+          "meaning": "righteous, just"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rāšāʿ",
+          "meaning": "wicked, guilty, criminal"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Therefore ye shall see no more vanity, nor divine divinations: for I will deliver my people out of your hand: and ye shall know that I am the LORD.",
+      "highlightedWords": [
+        {
+          "word": "divinations",
+          "strongNumber": "H7081",
+          "lemma": "qesem",
+          "meaning": "divinations; omens, soothsaying"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,474 @@
+{
+  "book": "2 Kings",
+  "chapter": 2,
+  "chapterTheme": {
+    "twoWordSummary": "Succession Sealed",
+    "themeWords": [
+      {
+        "word": "Elijah",
+        "strongNumber": "H0452",
+        "lemma": "’Eliyahu",
+        "meaning": "My God is Yahweh; the prophet taken up by God"
+      },
+      {
+        "word": "Elisha",
+        "strongNumber": "H0477",
+        "lemma": "’Elisha‘",
+        "meaning": "God is salvation; Elijah’s prophetic successor"
+      }
+    ]
+  },
+  "sentenceTheme": "Elijah is taken up to heaven and Elisha receives his spirit, confirming his prophetic authority through miracles of parting the Jordan, healing Jericho’s waters, and a solemn judgment at Bethel.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And it came to pass, when the LORD would take up Elijah into heaven by a whirlwind, that Elijah went with Elisha from Gilgal.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of God, the LORD"
+        },
+        {
+          "word": "Elijah",
+          "strongNumber": "H0452",
+          "lemma": "’Eliyahu",
+          "meaning": "My God is Yahweh; Israelite prophet"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And Elijah said unto Elisha, Tarry here, I pray thee; for the LORD hath sent me to Bethel. And Elisha said unto him, As the LORD liveth, and as thy soul liveth, I will not leave thee. So they went down to Bethel.",
+      "highlightedWords": [
+        {
+          "word": "Elijah",
+          "strongNumber": "H0452",
+          "lemma": "’Eliyahu",
+          "meaning": "My God is Yahweh; Israelite prophet"
+        },
+        {
+          "word": "Bethel",
+          "strongNumber": "H1008",
+          "lemma": "Bêt-’El",
+          "meaning": "House of God; a town north of Jerusalem"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And the sons of the prophets that were at Bethel came forth to Elisha, and said unto him, Knowest thou that the LORD will take away thy master from thy head to day? And he said, Yea, I know it; hold ye your peace.",
+      "highlightedWords": [
+        {
+          "word": "prophets",
+          "strongNumber": "H5030",
+          "lemma": "nâbî’",
+          "meaning": "Prophet, spokesman, one who proclaims"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of God, the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And Elijah said unto him, Elisha, tarry here, I pray thee; for the LORD hath sent me to Jericho. And he said, As the LORD liveth, and as thy soul liveth, I will not leave thee. So they came to Jericho.",
+      "highlightedWords": [
+        {
+          "word": "Jericho",
+          "strongNumber": "H3405",
+          "lemma": "Yerîchô",
+          "meaning": "Jericho; probably meaning fragrant or moon city"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of God, the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And the sons of the prophets that were at Jericho came to Elisha, and said unto him, Knowest thou that the LORD will take away thy master from thy head to day? And he answered, Yea, I know it; hold ye your peace.",
+      "highlightedWords": [
+        {
+          "word": "prophets",
+          "strongNumber": "H5030",
+          "lemma": "nâbî’",
+          "meaning": "Prophet, spokesman, one who proclaims"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of God, the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And Elijah said unto him, Tarry, I pray thee, here; for the LORD hath sent me to Jordan. And he said, As the LORD liveth, and as thy soul liveth, I will not leave thee. And they two went on.",
+      "highlightedWords": [
+        {
+          "word": "Jordan",
+          "strongNumber": "H3383",
+          "lemma": "Yardên",
+          "meaning": "Jordan; the descender, principal river of Palestine"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of God, the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And fifty men of the sons of the prophets went, and stood to view afar off: and they two stood by Jordan.",
+      "highlightedWords": [
+        {
+          "word": "fifty",
+          "strongNumber": "H2572",
+          "lemma": "chămishshîm",
+          "meaning": "Fifty; five tens"
+        },
+        {
+          "word": "Jordan",
+          "strongNumber": "H3383",
+          "lemma": "Yardên",
+          "meaning": "Jordan; the descender, principal river of Palestine"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And Elijah took his mantle, and wrapped it together, and smote the waters, and they were divided hither and thither, so that they two went over on dry ground.",
+      "highlightedWords": [
+        {
+          "word": "mantle",
+          "strongNumber": "H0155",
+          "lemma": "’addereth",
+          "meaning": "A cloak, mantle, or large outer garment"
+        },
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "Water, waters"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And it came to pass, when they were gone over, that Elijah said unto Elisha, Ask what I shall do for thee, before I be taken away from thee. And Elisha said, I pray thee, let a double portion of thy spirit be upon me.",
+      "highlightedWords": [
+        {
+          "word": "Elijah",
+          "strongNumber": "H0452",
+          "lemma": "’Eliyahu",
+          "meaning": "My God is Yahweh; Israelite prophet"
+        },
+        {
+          "word": "spirit",
+          "strongNumber": "H7307",
+          "lemma": "rûach",
+          "meaning": "Spirit, wind, breath"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And he said, Thou hast asked a hard thing: nevertheless, if thou see me when I am taken from thee, it shall be so unto thee; but if not, it shall not be so.",
+      "highlightedWords": [
+        {
+          "word": "see",
+          "strongNumber": "H7200",
+          "lemma": "râ’âh",
+          "meaning": "To see, perceive"
+        },
+        {
+          "word": "taken",
+          "strongNumber": "H3947",
+          "lemma": "lâqach",
+          "meaning": "To take, receive, remove"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And it came to pass, as they still went on, and talked, that, behold, there appeared a chariot of fire, and horses of fire, and parted them both asunder; and Elijah went up by a whirlwind into heaven.",
+      "highlightedWords": [
+        {
+          "word": "chariot",
+          "strongNumber": "H7393",
+          "lemma": "rekeb",
+          "meaning": "Chariot, war-chariot"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "shâmayim",
+          "meaning": "Heavens, sky"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And Elisha saw it, and he cried, My father, my father, the chariot of Israel, and the horsemen thereof. And he saw him no more: and he took hold of his own clothes, and rent them in two pieces.",
+      "highlightedWords": [
+        {
+          "word": "father",
+          "strongNumber": "H0001",
+          "lemma": "’âb",
+          "meaning": "Father, ancestor"
+        },
+        {
+          "word": "rent",
+          "strongNumber": "H7167",
+          "lemma": "qâra‘",
+          "meaning": "To tear, rend"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "He took up also the mantle of Elijah that fell from him, and went back, and stood by the bank of Jordan;",
+      "highlightedWords": [
+        {
+          "word": "mantle",
+          "strongNumber": "H0155",
+          "lemma": "’addereth",
+          "meaning": "A cloak, mantle, or large outer garment"
+        },
+        {
+          "word": "Jordan",
+          "strongNumber": "H3383",
+          "lemma": "Yardên",
+          "meaning": "Jordan; the descender, principal river of Palestine"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And he took the mantle of Elijah that fell from him, and smote the waters, and said, Where is the LORD God of Elijah? and when he also had smitten the waters, they parted hither and thither: and Elisha went over.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of God, the LORD"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’Elohim",
+          "meaning": "God; mighty one"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And when the sons of the prophets which were to view at Jericho saw him, they said, The spirit of Elijah doth rest on Elisha. And they came to meet him, and bowed themselves to the ground before him.",
+      "highlightedWords": [
+        {
+          "word": "prophets",
+          "strongNumber": "H5030",
+          "lemma": "nâbî’",
+          "meaning": "Prophet, spokesman, one who proclaims"
+        },
+        {
+          "word": "bowed",
+          "strongNumber": "H7812",
+          "lemma": "shâchâh",
+          "meaning": "To bow down, prostrate oneself"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And they said unto him, Behold now, there be with thy servants fifty strong men; let them go, we pray thee, and seek thy master: lest peradventure the Spirit of the LORD hath taken him up, and cast him upon some mountain, or into some valley. And he said, Ye shall not send.",
+      "highlightedWords": [
+        {
+          "word": "Spirit",
+          "strongNumber": "H7307",
+          "lemma": "rûach",
+          "meaning": "Spirit, wind, breath"
+        },
+        {
+          "word": "mountain",
+          "strongNumber": "H2022",
+          "lemma": "har",
+          "meaning": "Mountain, hill, hill country"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And when they urged him till he was ashamed, he said, Send. They sent therefore fifty men; and they sought three days, but found him not.",
+      "highlightedWords": [
+        {
+          "word": "three",
+          "strongNumber": "H7969",
+          "lemma": "shâlôsh",
+          "meaning": "Three"
+        },
+        {
+          "word": "found",
+          "strongNumber": "H4672",
+          "lemma": "mâtsâ’",
+          "meaning": "To find, attain to"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And when they came again to him, (for he tarried at Jericho,) he said unto them, Did I not say unto you, Go not?",
+      "highlightedWords": [
+        {
+          "word": "Jericho",
+          "strongNumber": "H3405",
+          "lemma": "Yerîchô",
+          "meaning": "Jericho; probably meaning fragrant or moon city"
+        },
+        {
+          "word": "say",
+          "strongNumber": "H559",
+          "lemma": "’âmar",
+          "meaning": "To say, speak"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And the men of the city said unto Elisha, Behold, I pray thee, the situation of this city is pleasant, as my lord seeth: but the water is naught, and the ground barren.",
+      "highlightedWords": [
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "‘îr",
+          "meaning": "City, town"
+        },
+        {
+          "word": "water",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "Water, waters"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And he said, Bring me a new cruse, and put salt therein. And they brought it to him.",
+      "highlightedWords": [
+        {
+          "word": "cruse",
+          "strongNumber": "H6746",
+          "lemma": "tselôchîyth",
+          "meaning": "A flask, jar, or cruse"
+        },
+        {
+          "word": "salt",
+          "strongNumber": "H4417",
+          "lemma": "melach",
+          "meaning": "Salt"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And he went forth unto the spring of the waters, and cast the salt in there, and said, Thus saith the LORD, I have healed these waters; there shall not be from thence any more death or barren land.",
+      "highlightedWords": [
+        {
+          "word": "spring",
+          "strongNumber": "H4161",
+          "lemma": "môtsâ’",
+          "meaning": "A going out, outlet; spring, source"
+        },
+        {
+          "word": "healed",
+          "strongNumber": "H7495",
+          "lemma": "râphâ’",
+          "meaning": "To heal, make healthful"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "So the waters were healed unto this day, according to the saying of Elisha which he spake.",
+      "highlightedWords": [
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "Water, waters"
+        },
+        {
+          "word": "day",
+          "strongNumber": "H3117",
+          "lemma": "yôm",
+          "meaning": "Day, time, period"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And he went up from thence unto Bethel: and as he was going up by the way, there came forth little children out of the city, and mocked him, and said unto him, Go up, thou bald head; go up, thou bald head.",
+      "highlightedWords": [
+        {
+          "word": "Bethel",
+          "strongNumber": "H1008",
+          "lemma": "Bêt-’El",
+          "meaning": "House of God; a town north of Jerusalem"
+        },
+        {
+          "word": "children",
+          "strongNumber": "H5288",
+          "lemma": "na‘ar",
+          "meaning": "Boy, youth; servant"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And he turned back, and looked on them, and cursed them in the name of the LORD. And there came forth two she bears out of the wood, and tare forty and two children of them.",
+      "highlightedWords": [
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "shêm",
+          "meaning": "Name, reputation"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of God, the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And he went from thence to mount Carmel, and from thence he returned to Samaria.",
+      "highlightedWords": [
+        {
+          "word": "Carmel",
+          "strongNumber": "H3760",
+          "lemma": "Karmel",
+          "meaning": "Carmel; garden-land, a mountain in northern Israel"
+        },
+        {
+          "word": "Samaria",
+          "strongNumber": "H8111",
+          "lemma": "Shomron",
+          "meaning": "Samaria; capital of the northern kingdom"
+        }
+      ]
+    }
+  ]
+}

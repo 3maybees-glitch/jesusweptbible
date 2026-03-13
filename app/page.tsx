@@ -1,6 +1,6 @@
 "use client"
 
-import { useState, useCallback } from "react"
+import { useState, useCallback, useEffect } from "react"
 import { ChapterView } from "@/components/chapter-view"
 import { NavigationBar } from "@/components/navigation-bar"
 import { BookSelector } from "@/components/book-selector"
@@ -8,7 +8,7 @@ import { BooksMenu } from "@/components/books-menu"
 import { AboutPage } from "@/components/about-page"
 import { ChaptersListView } from "@/components/chapters-list-view"
 import { ThemeSheet } from "@/components/theme-sheet"
-import { getChapter, getBookByName, sampleChapters } from "@/lib/bible-data"
+import { getChapter, getBookByName, sampleChapters, fetchChapter, fetchAllChapters } from "@/lib/bible-data"
 import { bookThemes, type BookTheme } from "@/lib/book-themes"
 
 export default function BibleApp() {
@@ -19,8 +19,36 @@ export default function BibleApp() {
   const [showChaptersList, setShowChaptersList] = useState(false)
   const [selectedTheme, setSelectedTheme] = useState<BookTheme | null>(null)
   const [showThemeSheet, setShowThemeSheet] = useState(false)
+  const [chapterData, setChapterData] = useState<any>(null)
+  const [isLoadingChapter, setIsLoadingChapter] = useState(false)
+  const [availableChapters, setAvailableChapters] = useState<string[]>([])
 
-  const chapter = currentBook ? getChapter(currentBook, currentChapter) : null
+  // Load available chapters on mount
+  useEffect(() => {
+    const loadChapters = async () => {
+      await fetchAllChapters()
+    }
+    loadChapters()
+  }, [])
+
+  // Load chapter when book or chapter number changes
+  useEffect(() => {
+    if (!currentBook) {
+      setChapterData(null)
+      return
+    }
+
+    const loadChapter = async () => {
+      setIsLoadingChapter(true)
+      const data = await fetchChapter(currentBook, currentChapter)
+      setChapterData(data)
+      setIsLoadingChapter(false)
+    }
+
+    loadChapter()
+  }, [currentBook, currentChapter])
+
+  const chapter = chapterData
   const book = currentBook ? getBookByName(currentBook) : null
   const bookTheme = currentBook ? bookThemes.find(t => t.book === currentBook) ?? null : null
 
@@ -120,21 +148,25 @@ export default function BibleApp() {
               >
                 Back to Books
               </button>
-              <p className="text-muted-foreground mb-4">This chapter is currently being built and is not yet available.</p>
+              <p className="text-muted-foreground mb-4">{isLoadingChapter ? 'Loading chapter...' : 'This chapter is currently being built and is not yet available.'}</p>
               <p className="text-sm text-muted-foreground mb-6">Available chapters:</p>
               <div className="flex flex-wrap gap-2 justify-center">
-                {Object.keys(sampleChapters).map((key) => {
-                  const [bookName, chap] = key.split("-")
-                  return (
-                    <button
-                      key={key}
-                      onClick={() => handleSelectChapter(bookName, Number.parseInt(chap))}
-                      className="px-3 py-2 bg-secondary hover:bg-accent hover:text-accent-foreground rounded-lg text-sm font-medium transition-colors"
-                    >
-                      {bookName} {chap}
-                    </button>
-                  )
-                })}
+                {availableChapters.length > 0 ? (
+                  availableChapters.map((chapterName) => {
+                    const [bookName, chap] = chapterName.split("-")
+                    return (
+                      <button
+                        key={chapterName}
+                        onClick={() => handleSelectChapter(bookName, Number.parseInt(chap))}
+                        className="px-3 py-2 bg-secondary hover:bg-accent hover:text-accent-foreground rounded-lg text-sm font-medium transition-colors"
+                      >
+                        {bookName} {chap}
+                      </button>
+                    )
+                  })
+                ) : (
+                  <p className="text-muted-foreground">No chapters available yet. Please upload JSON files to /public/data/bible-chapters/</p>
+                )}
               </div>
             </div>
           </main>

@@ -1,0 +1,438 @@
+{
+  "book": "Haggai",
+  "chapter": 2,
+  "chapterTheme": {
+    "twoWordSummary": "Temple Glory",
+    "themeWords": [
+      {
+        "word": "glory",
+        "strongNumber": "H3519",
+        "lemma": "kabod",
+        "meaning": "glory, honor, weight"
+      },
+      {
+        "word": "shake",
+        "strongNumber": "H7493",
+        "lemma": "ra'ash",
+        "meaning": "to quake, shake"
+      }
+    ]
+  },
+  "sentenceTheme": "The LORD encourages strength and work on the temple, promises to shake the nations and fill His house with greater glory and peace, calls the people to purity, and affirms His choice of Zerubbabel as His signet.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "In the seventh month, in the one and twentieth day of the month, came the word of the LORD by the prophet Haggai, saying,",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        },
+        {
+          "word": "prophet",
+          "strongNumber": "H5030",
+          "lemma": "nabiy",
+          "meaning": "a spokesperson; prophet"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Speak now to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, and to the residue of the people, saying,",
+      "highlightedWords": [
+        {
+          "word": "Zerubbabel",
+          "strongNumber": "H2216",
+          "lemma": "Zerubbabel",
+          "meaning": "born/sown in Babylon"
+        },
+        {
+          "word": "Joshua",
+          "strongNumber": "H3091",
+          "lemma": "Yehoshua",
+          "meaning": "Yahweh is salvation"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Who is left among you that saw this house in her first glory? and how do ye see it now? is it not in your eyes in comparison of it as nothing?",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, dwelling, temple"
+        },
+        {
+          "word": "glory",
+          "strongNumber": "H3519",
+          "lemma": "kabod",
+          "meaning": "glory, honor, weight"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Yet now be strong, O Zerubbabel, saith the LORD; and be strong, O Joshua, son of Josedech, the high priest; and be strong, all ye people of the land, saith the LORD, and work: for I am with you, saith the LORD of hosts:",
+      "highlightedWords": [
+        {
+          "word": "strong",
+          "strongNumber": "H2388",
+          "lemma": "chazaq",
+          "meaning": "to be/become strong; strengthen"
+        },
+        {
+          "word": "hosts",
+          "strongNumber": "H6635",
+          "lemma": "tsaba",
+          "meaning": "armies, hosts"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "According to the word that I covenanted with you when ye came out of Egypt, so my spirit remaineth among you: fear ye not.",
+      "highlightedWords": [
+        {
+          "word": "covenanted",
+          "strongNumber": "H3772",
+          "lemma": "karath",
+          "meaning": "to cut; make a covenant"
+        },
+        {
+          "word": "spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "spirit, wind, breath"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "For thus saith the LORD of hosts; Yet once, it is a little while, and I will shake the heavens, and the earth, and the sea, and the dry land;",
+      "highlightedWords": [
+        {
+          "word": "shake",
+          "strongNumber": "H7493",
+          "lemma": "ra'ash",
+          "meaning": "to quake, shake"
+        },
+        {
+          "word": "heavens",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens, sky"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And I will shake all nations, and the desire of all nations shall come: and I will fill this house with glory, saith the LORD of hosts.",
+      "highlightedWords": [
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation(s), peoples, Gentiles"
+        },
+        {
+          "word": "glory",
+          "strongNumber": "H3519",
+          "lemma": "kabod",
+          "meaning": "glory, honor, weight"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "The silver is mine, and the gold is mine, saith the LORD of hosts.",
+      "highlightedWords": [
+        {
+          "word": "silver",
+          "strongNumber": "H3701",
+          "lemma": "keseph",
+          "meaning": "silver, money"
+        },
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "zahab",
+          "meaning": "gold"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "The glory of this latter house shall be greater than of the former, saith the LORD of hosts: and in this place will I give peace, saith the LORD of hosts.",
+      "highlightedWords": [
+        {
+          "word": "glory",
+          "strongNumber": "H3519",
+          "lemma": "kabod",
+          "meaning": "glory, honor, weight"
+        },
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace, welfare, wholeness"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "In the four and twentieth day of the ninth month, in the second year of Darius, came the word of the LORD by Haggai the prophet, saying,",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, thing"
+        },
+        {
+          "word": "Darius",
+          "strongNumber": "H1867",
+          "lemma": "Daryavesh",
+          "meaning": "Darius, a Persian king"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Thus saith the LORD of hosts; Ask now the priests concerning the law, saying,",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest, officiant"
+        },
+        {
+          "word": "law",
+          "strongNumber": "H8451",
+          "lemma": "torah",
+          "meaning": "instruction, law"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "If one bear holy flesh in the skirt of his garment, and with his skirt do touch bread, or pottage, or wine, or oil, or any meat, shall it be holy? And the priests answered and said, No.",
+      "highlightedWords": [
+        {
+          "word": "holy",
+          "strongNumber": "H6944",
+          "lemma": "qodesh",
+          "meaning": "holiness; sacred"
+        },
+        {
+          "word": "flesh",
+          "strongNumber": "H1320",
+          "lemma": "basar",
+          "meaning": "flesh, meat"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Then said Haggai, If one that is unclean by a dead body touch any of these, shall it be unclean? And the priests answered and said, It shall be unclean.",
+      "highlightedWords": [
+        {
+          "word": "unclean",
+          "strongNumber": "H2931",
+          "lemma": "tame'",
+          "meaning": "unclean, impure"
+        },
+        {
+          "word": "touch",
+          "strongNumber": "H5060",
+          "lemma": "naga",
+          "meaning": "to touch, reach, strike"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Then answered Haggai, and said, So is this people, and so is this nation before me, saith the LORD; and so is every work of their hands; and that which they offer there is unclean.",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "am",
+          "meaning": "people, community"
+        },
+        {
+          "word": "unclean",
+          "strongNumber": "H2931",
+          "lemma": "tame'",
+          "meaning": "unclean, impure"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And now, I pray you, consider from this day and upward, from before a stone was laid upon a stone in the temple of the LORD:",
+      "highlightedWords": [
+        {
+          "word": "stone",
+          "strongNumber": "H68",
+          "lemma": "eben",
+          "meaning": "stone"
+        },
+        {
+          "word": "temple",
+          "strongNumber": "H1964",
+          "lemma": "hekal",
+          "meaning": "temple, palace"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Since those days were, when one came to an heap of twenty measures, there were but ten: when one came to the pressfat for to draw out fifty vessels out of the press, there were but twenty.",
+      "highlightedWords": [
+        {
+          "word": "pressfat",
+          "strongNumber": "H3342",
+          "lemma": "yeqeb",
+          "meaning": "winepress, press-vat"
+        },
+        {
+          "word": "twenty",
+          "strongNumber": "H6242",
+          "lemma": "esrim",
+          "meaning": "twenty"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "I smote you with blasting and with mildew and with hail in all the labours of your hands; yet ye turned not to me, saith the LORD.",
+      "highlightedWords": [
+        {
+          "word": "smote",
+          "strongNumber": "H5221",
+          "lemma": "nakah",
+          "meaning": "to strike, smite"
+        },
+        {
+          "word": "hail",
+          "strongNumber": "H1259",
+          "lemma": "barad",
+          "meaning": "hail"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Consider now from this day and upward, from the four and twentieth day of the ninth month, even from the day that the foundation of the LORD'S temple was laid, consider it.",
+      "highlightedWords": [
+        {
+          "word": "temple",
+          "strongNumber": "H1964",
+          "lemma": "hekal",
+          "meaning": "temple, palace"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Is the seed yet in the barn? yea, as yet the vine, and the fig tree, and the pomegranate, and the olive tree, hath not brought forth: from this day will I bless you.",
+      "highlightedWords": [
+        {
+          "word": "seed",
+          "strongNumber": "H2233",
+          "lemma": "zera",
+          "meaning": "seed, offspring"
+        },
+        {
+          "word": "bless",
+          "strongNumber": "H1288",
+          "lemma": "barak",
+          "meaning": "to bless"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And again the word of the LORD came unto Haggai in the four and twentieth day of the month, saying,",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, thing"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Speak to Zerubbabel, governor of Judah, saying, I will shake the heavens and the earth;",
+      "highlightedWords": [
+        {
+          "word": "shake",
+          "strongNumber": "H7493",
+          "lemma": "ra'ash",
+          "meaning": "to quake, shake"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "earth, land"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And I will overthrow the throne of kingdoms, and I will destroy the strength of the kingdoms of the heathen; and I will overthrow the chariots, and those that ride in them; and the horses and their riders shall come down, every one by the sword of his brother.",
+      "highlightedWords": [
+        {
+          "word": "chariots",
+          "strongNumber": "H7393",
+          "lemma": "rekeb",
+          "meaning": "chariotry, chariots"
+        },
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "In that day, saith the LORD of hosts, will I take thee, O Zerubbabel, my servant, the son of Shealtiel, saith the LORD, and will make thee as a signet: for I have chosen thee, saith the LORD of hosts.",
+      "highlightedWords": [
+        {
+          "word": "signet",
+          "strongNumber": "H2368",
+          "lemma": "chotham",
+          "meaning": "seal, signet"
+        },
+        {
+          "word": "chosen",
+          "strongNumber": "H977",
+          "lemma": "bachar",
+          "meaning": "to choose, select"
+        }
+      ]
+    }
+  ]
+}

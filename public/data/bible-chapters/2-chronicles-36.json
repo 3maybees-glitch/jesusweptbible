@@ -1,0 +1,438 @@
+{
+  "book": "2 Chronicles",
+  "chapter": 36,
+  "chapterTheme": {
+    "twoWordSummary": "Judah Exile",
+    "themeWords": [
+      {
+        "word": "Babylon",
+        "strongNumber": "H894",
+        "lemma": "Babel",
+        "meaning": "Babylon; the city/empire of Mesopotamia"
+      },
+      {
+        "word": "Cyrus",
+        "strongNumber": "H3566",
+        "lemma": "Koresh",
+        "meaning": "Cyrus; king of Persia who decreed the return"
+      }
+    ]
+  },
+  "sentenceTheme": "Judah’s final kings fall, Jerusalem is destroyed and the people exiled to Babylon, yet God stirs Cyrus of Persia to decree a return and the rebuilding of the LORD’s house.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Then the people of the land took Jehoahaz the son of Josiah, and made him king in his father's stead in Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "am",
+          "meaning": "people, nation, kin"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem, the chief city of Israel/Judah"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Jehoahaz was twenty and three years old when he began to reign, and he reigned three months in Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "reigned",
+          "strongNumber": "H4427",
+          "lemma": "malak",
+          "meaning": "to reign, become king, rule"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem, the chief city of Israel/Judah"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And the king of Egypt put him down at Jerusalem, and condemned the land in an hundred talents of silver and a talent of gold.",
+      "highlightedWords": [
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt, Mizraim; the land of the Nile"
+        },
+        {
+          "word": "silver",
+          "strongNumber": "H3701",
+          "lemma": "keseph",
+          "meaning": "silver; money"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And the king of Egypt made Eliakim his brother king over Judah and Jerusalem, and turned his name to Jehoiakim. And Necho took Jehoahaz his brother, and carried him to Egypt.",
+      "highlightedWords": [
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah; the southern kingdom and its people"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt, Mizraim; the land of the Nile"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Jehoiakim was twenty and five years old when he began to reign, and he reigned eleven years in Jerusalem: and he did that which was evil in the sight of the LORD his God.",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem, the chief city of Israel/Judah"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel, Yahweh"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Against him came up Nebuchadnezzar king of Babylon, and bound him in fetters, to carry him to Babylon.",
+      "highlightedWords": [
+        {
+          "word": "Nebuchadnezzar",
+          "strongNumber": "H5019",
+          "lemma": "Nebukadnetsar",
+          "meaning": "Nebuchadnezzar, king of Babylon"
+        },
+        {
+          "word": "Babylon",
+          "strongNumber": "H894",
+          "lemma": "Babel",
+          "meaning": "Babylon; the city/empire of Mesopotamia"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Nebuchadnezzar also carried of the vessels of the house of the LORD to Babylon, and put them in his temple at Babylon.",
+      "highlightedWords": [
+        {
+          "word": "vessels",
+          "strongNumber": "H3627",
+          "lemma": "keli",
+          "meaning": "vessel, article, implement"
+        },
+        {
+          "word": "Babylon",
+          "strongNumber": "H894",
+          "lemma": "Babel",
+          "meaning": "Babylon; the city/empire of Mesopotamia"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Now the rest of the acts of Jehoiakim, and his abominations which he did, and that which was found in him, behold, they are written in the book of the kings of Israel and Judah: and Jehoiachin his son reigned in his stead.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; the people/nation"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah; the southern kingdom and its people"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Jehoiachin was eight years old when he began to reign, and he reigned three months and ten days in Jerusalem: and he did that which was evil in the sight of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem, the chief city of Israel/Judah"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel, Yahweh"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And when the year was expired, king Nebuchadnezzar sent, and brought him to Babylon, with the goodly vessels of the house of the LORD, and made Zedekiah his brother king over Judah and Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "Babylon",
+          "strongNumber": "H894",
+          "lemma": "Babel",
+          "meaning": "Babylon; the city/empire of Mesopotamia"
+        },
+        {
+          "word": "Zedekiah",
+          "strongNumber": "H6667",
+          "lemma": "Tsidqiyyahu",
+          "meaning": "Zedekiah; 'Yahweh is righteousness'"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Zedekiah was one and twenty years old when he began to reign, and reigned eleven years in Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "Zedekiah",
+          "strongNumber": "H6667",
+          "lemma": "Tsidqiyyahu",
+          "meaning": "Zedekiah; 'Yahweh is righteousness'"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem, the chief city of Israel/Judah"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And he did that which was evil in the sight of the LORD his God, and humbled not himself before Jeremiah the prophet speaking from the mouth of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "Jeremiah",
+          "strongNumber": "H3414",
+          "lemma": "Yirmeyahu",
+          "meaning": "Jeremiah; the prophet"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel, Yahweh"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And he also rebelled against king Nebuchadnezzar, who had made him swear by God: but he stiffened his neck, and hardened his heart from turning unto the LORD God of Israel.",
+      "highlightedWords": [
+        {
+          "word": "Nebuchadnezzar",
+          "strongNumber": "H5019",
+          "lemma": "Nebukadnetsar",
+          "meaning": "Nebuchadnezzar, king of Babylon"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; the people/nation"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Moreover all the chief of the priests, and the people, transgressed very much after all the abominations of the heathen; and polluted the house of the LORD which he had hallowed in Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel, Yahweh"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And the LORD God of their fathers sent to them by his messengers, rising up betimes, and sending; because he had compassion on his people, and on his dwelling place:",
+      "highlightedWords": [
+        {
+          "word": "messengers",
+          "strongNumber": "H4397",
+          "lemma": "mal'ak",
+          "meaning": "messenger, envoy, angel"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel, Yahweh"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "But they mocked the messengers of God, and despised his words, and misused his prophets, until the wrath of the LORD arose against his people, till there was no remedy.",
+      "highlightedWords": [
+        {
+          "word": "prophets",
+          "strongNumber": "H5030",
+          "lemma": "nabi",
+          "meaning": "prophet, spokesman"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel, Yahweh"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Therefore he brought upon them the king of the Chaldees, who slew their young men with the sword in the house of their sanctuary, and had no compassion upon young man or maiden, old man, or him that stooped for age: he gave them all into his hand.",
+      "highlightedWords": [
+        {
+          "word": "Chaldees",
+          "strongNumber": "H3778",
+          "lemma": "Kasdiy",
+          "meaning": "Chaldeans; people of southern Babylon"
+        },
+        {
+          "word": "sanctuary",
+          "strongNumber": "H4720",
+          "lemma": "miqdash",
+          "meaning": "sanctuary, holy place"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And all the vessels of the house of God, great and small, and the treasures of the house of the LORD, and the treasures of the king, and of his princes; all these he brought to Babylon.",
+      "highlightedWords": [
+        {
+          "word": "vessels",
+          "strongNumber": "H3627",
+          "lemma": "keli",
+          "meaning": "vessel, article, implement"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel, Yahweh"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And they burnt the house of God, and brake down the wall of Jerusalem, and burnt all the palaces thereof with fire, and destroyed all the goodly vessels thereof.",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, household, temple"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem, the chief city of Israel/Judah"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And them that had escaped from the sword carried he away to Babylon; where they were servants to him and his sons until the reign of the kingdom of Persia:",
+      "highlightedWords": [
+        {
+          "word": "servants",
+          "strongNumber": "H5650",
+          "lemma": "ebed",
+          "meaning": "servant, slave, bondman"
+        },
+        {
+          "word": "Persia",
+          "strongNumber": "H6539",
+          "lemma": "Paras",
+          "meaning": "Persia"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "To fulfil the word of the LORD by the mouth of Jeremiah, until the land had enjoyed her sabbaths: for as long as she lay desolate she kept sabbath, to fulfil threescore and ten years.",
+      "highlightedWords": [
+        {
+          "word": "Jeremiah",
+          "strongNumber": "H3414",
+          "lemma": "Yirmeyahu",
+          "meaning": "Jeremiah; the prophet"
+        },
+        {
+          "word": "sabbaths",
+          "strongNumber": "H7676",
+          "lemma": "shabbath",
+          "meaning": "Sabbath, day of rest"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Now in the first year of Cyrus king of Persia, that the word of the LORD spoken by the mouth of Jeremiah might be accomplished, the LORD stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and put it also in writing, saying,",
+      "highlightedWords": [
+        {
+          "word": "Cyrus",
+          "strongNumber": "H3566",
+          "lemma": "Koresh",
+          "meaning": "Cyrus; king of Persia"
+        },
+        {
+          "word": "spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "spirit, wind, breath"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Thus saith Cyrus king of Persia, All the kingdoms of the earth hath the LORD God of heaven given me; and he hath charged me to build him an house in Jerusalem, which is in Judah. Who is there among you of all his people? The LORD his God be with him, and let him go up.",
+      "highlightedWords": [
+        {
+          "word": "Cyrus",
+          "strongNumber": "H3566",
+          "lemma": "Koresh",
+          "meaning": "Cyrus; king of Persia"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem, the chief city of Israel/Judah"
+        }
+      ]
+    }
+  ]
+}

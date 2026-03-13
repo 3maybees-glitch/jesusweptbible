@@ -1,0 +1,420 @@
+{
+  "book": "Ecclesiastes",
+  "chapter": 3,
+  "chapterTheme": {
+    "twoWordSummary": "Appointed Times",
+    "themeWords": [
+      {
+        "word": "time",
+        "strongNumber": "H6256",
+        "lemma": "‘eth",
+        "meaning": "appointed time; season"
+      },
+      {
+        "word": "season",
+        "strongNumber": "H2165",
+        "lemma": "zeman",
+        "meaning": "appointed season; set time"
+      }
+    ]
+  },
+  "sentenceTheme": "God ordains every season and time, calling people to rejoice in His gifts, fear Him, and recognize His sovereign work amid life’s cycles and judgments.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "To every thing there is a season, and a time to every purpose under the heaven:",
+      "highlightedWords": [
+        {
+          "word": "season",
+          "strongNumber": "H2165",
+          "lemma": "zeman",
+          "meaning": "appointed season; set time"
+        },
+        {
+          "word": "time",
+          "strongNumber": "H6256",
+          "lemma": "‘eth",
+          "meaning": "appointed time; season"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "A time to be born, and a time to die; a time to plant, and a time to pluck up that which is planted;",
+      "highlightedWords": [
+        {
+          "word": "born",
+          "strongNumber": "H3205",
+          "lemma": "yalad",
+          "meaning": "to bear; bring forth"
+        },
+        {
+          "word": "die",
+          "strongNumber": "H4191",
+          "lemma": "muwth",
+          "meaning": "to die; perish"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "A time to kill, and a time to heal; a time to break down, and a time to build up;",
+      "highlightedWords": [
+        {
+          "word": "kill",
+          "strongNumber": "H2026",
+          "lemma": "harag",
+          "meaning": "to kill; slay"
+        },
+        {
+          "word": "heal",
+          "strongNumber": "H7495",
+          "lemma": "rapha",
+          "meaning": "to heal; make whole"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "A time to weep, and a time to laugh; a time to mourn, and a time to dance;",
+      "highlightedWords": [
+        {
+          "word": "weep",
+          "strongNumber": "H1058",
+          "lemma": "bakah",
+          "meaning": "to weep; lament"
+        },
+        {
+          "word": "laugh",
+          "strongNumber": "H7832",
+          "lemma": "sachaq",
+          "meaning": "to laugh; play"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "A time to cast away stones, and a time to gather stones together; a time to embrace, and a time to refrain from embracing;",
+      "highlightedWords": [
+        {
+          "word": "cast",
+          "strongNumber": "H7993",
+          "lemma": "shalak",
+          "meaning": "to cast; throw"
+        },
+        {
+          "word": "embrace",
+          "strongNumber": "H2263",
+          "lemma": "chabaq",
+          "meaning": "to embrace; hug"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "A time to get, and a time to lose; a time to keep, and a time to cast away;",
+      "highlightedWords": [
+        {
+          "word": "lose",
+          "strongNumber": "H6",
+          "lemma": "’abad",
+          "meaning": "to perish; be lost"
+        },
+        {
+          "word": "keep",
+          "strongNumber": "H8104",
+          "lemma": "shamar",
+          "meaning": "to keep; guard"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "A time to rend, and a time to sew; a time to keep silence, and a time to speak;",
+      "highlightedWords": [
+        {
+          "word": "rend",
+          "strongNumber": "H7167",
+          "lemma": "qara",
+          "meaning": "to tear; rend"
+        },
+        {
+          "word": "speak",
+          "strongNumber": "H1696",
+          "lemma": "dabar",
+          "meaning": "to speak; declare"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "A time to love, and a time to hate; a time of war, and a time of peace.",
+      "highlightedWords": [
+        {
+          "word": "war",
+          "strongNumber": "H4421",
+          "lemma": "milchamah",
+          "meaning": "war; battle"
+        },
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace; welfare"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "What profit hath he that worketh in that wherein he laboureth?",
+      "highlightedWords": [
+        {
+          "word": "profit",
+          "strongNumber": "H3504",
+          "lemma": "yithron",
+          "meaning": "profit; advantage"
+        },
+        {
+          "word": "laboureth",
+          "strongNumber": "H5998",
+          "lemma": "‘amal",
+          "meaning": "to labor; toil"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "I have seen the travail, which God hath given to the sons of men to be exercised in it.",
+      "highlightedWords": [
+        {
+          "word": "travail",
+          "strongNumber": "H6045",
+          "lemma": "‘inyan",
+          "meaning": "task; travail"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; mighty one"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "He hath made every thing beautiful in his time: also he hath set the world in their heart, so that no man can find out the work that God maketh from the beginning to the end.",
+      "highlightedWords": [
+        {
+          "word": "world",
+          "strongNumber": "H5769",
+          "lemma": "‘olam",
+          "meaning": "everlasting; eternity"
+        },
+        {
+          "word": "work",
+          "strongNumber": "H4639",
+          "lemma": "ma'aseh",
+          "meaning": "work; deed"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "I know that there is no good in them, but for a man to rejoice, and to do good in his life.",
+      "highlightedWords": [
+        {
+          "word": "rejoice",
+          "strongNumber": "H8055",
+          "lemma": "samach",
+          "meaning": "to rejoice; be glad"
+        },
+        {
+          "word": "good",
+          "strongNumber": "H2896",
+          "lemma": "tov",
+          "meaning": "good; pleasant"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And also that every man should eat and drink, and enjoy the good of all his labour, it is the gift of God.",
+      "highlightedWords": [
+        {
+          "word": "eat",
+          "strongNumber": "H398",
+          "lemma": "akal",
+          "meaning": "to eat; consume"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; mighty one"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "I know that, whatsoever God doeth, it shall be for ever: nothing can be put to it, nor any thing taken from it: and God doeth it, that men should fear before him.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; mighty one"
+        },
+        {
+          "word": "fear",
+          "strongNumber": "H3372",
+          "lemma": "yare",
+          "meaning": "to fear; revere"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "That which hath been is now; and that which is to be hath already been; and God requireth that which is past.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; mighty one"
+        },
+        {
+          "word": "requireth",
+          "strongNumber": "H1245",
+          "lemma": "baqash",
+          "meaning": "to seek; require"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And moreover I saw under the sun the place of judgment, that wickedness was there; and the place of righteousness, that iniquity was there.",
+      "highlightedWords": [
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "judgment; justice"
+        },
+        {
+          "word": "wickedness",
+          "strongNumber": "H7562",
+          "lemma": "resha",
+          "meaning": "wickedness; wrongdoing"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "I said in mine heart, God shall judge the righteous and the wicked: for there is a time there for every purpose and for every work.",
+      "highlightedWords": [
+        {
+          "word": "judge",
+          "strongNumber": "H8199",
+          "lemma": "shaphat",
+          "meaning": "to judge; govern"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha",
+          "meaning": "wicked; guilty one"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "I said in mine heart concerning the estate of the sons of men, that God might manifest them, and that they might see that they themselves are beasts.",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant"
+        },
+        {
+          "word": "beasts",
+          "strongNumber": "H929",
+          "lemma": "behemah",
+          "meaning": "beast; animal"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "For that which befalleth the sons of men befalleth beasts; even one thing befalleth them: as the one dieth, so dieth the other; yea, they have all one breath; so that a man hath no preeminence above a beast: for all is vanity.",
+      "highlightedWords": [
+        {
+          "word": "breath",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "breath; spirit; wind"
+        },
+        {
+          "word": "vanity",
+          "strongNumber": "H1892",
+          "lemma": "hebel",
+          "meaning": "vanity; vapor"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "All go unto one place; all are of the dust, and all turn to dust again.",
+      "highlightedWords": [
+        {
+          "word": "dust",
+          "strongNumber": "H6083",
+          "lemma": "aphar",
+          "meaning": "dust; dry earth"
+        },
+        {
+          "word": "place",
+          "strongNumber": "H4725",
+          "lemma": "maqom",
+          "meaning": "place; location"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Who knoweth the spirit of man that goeth upward, and the spirit of the beast that goeth downward to the earth?",
+      "highlightedWords": [
+        {
+          "word": "spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "spirit; breath; wind"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "earth; land"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Wherefore I perceive that there is nothing better, than that a man should rejoice in his own works; for that is his portion: for who shall bring him to see what shall be after him?",
+      "highlightedWords": [
+        {
+          "word": "rejoice",
+          "strongNumber": "H8055",
+          "lemma": "samach",
+          "meaning": "to rejoice; be glad"
+        },
+        {
+          "word": "portion",
+          "strongNumber": "H2506",
+          "lemma": "cheleq",
+          "meaning": "portion; share"
+        }
+      ]
+    }
+  ]
+}

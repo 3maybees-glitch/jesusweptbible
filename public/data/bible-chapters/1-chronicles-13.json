@@ -1,0 +1,276 @@
+{
+  "book": "1 Chronicles",
+  "chapter": 13,
+  "chapterTheme": {
+    "twoWordSummary": "Ark Attempt",
+    "themeWords": [
+      {
+        "word": "ark",
+        "strongNumber": "H727",
+        "lemma": "aron",
+        "meaning": "a chest; the sacred Ark of the Covenant"
+      },
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH (Yehovah)",
+        "meaning": "the proper name of the God of Israel"
+      }
+    ]
+  },
+  "sentenceTheme": "David gathers Israel to bring the ark, but Uzza’s death halts the attempt, and the ark remains with Obed-edom, whom the LORD blesses.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And David consulted with the captains of thousands and hundreds, and with every leader.",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "David",
+          "meaning": "beloved; the second king of Israel"
+        },
+        {
+          "word": "captains",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "chief, ruler, official, captain"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And David said unto all the congregation of Israel, If it seem good unto you, and that it be of the LORD our God, let us send abroad unto our brethren every where, that are left in all the land of Israel, and with them also to the priests and Levites which are in their cities and suburbs, that they may gather themselves unto us:",
+      "highlightedWords": [
+        {
+          "word": "congregation",
+          "strongNumber": "H6951",
+          "lemma": "qahal",
+          "meaning": "assembly, convocation of people"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And let us bring again the ark of our God to us: for we enquired not at it in the days of Saul.",
+      "highlightedWords": [
+        {
+          "word": "ark",
+          "strongNumber": "H727",
+          "lemma": "aron",
+          "meaning": "a chest; the sacred Ark of the Covenant"
+        },
+        {
+          "word": "Saul",
+          "strongNumber": "H7586",
+          "lemma": "Shaul",
+          "meaning": "asked for; Saul, the first king of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And all the congregation said that they would do so: for the thing was right in the eyes of all the people.",
+      "highlightedWords": [
+        {
+          "word": "congregation",
+          "strongNumber": "H6951",
+          "lemma": "qahal",
+          "meaning": "assembly, convocation of people"
+        },
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "am",
+          "meaning": "people, nation, folk"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "So David gathered all Israel together, from Shihor of Egypt even unto the entering of Hamath, to bring the ark of God from Kirjath-jearim.",
+      "highlightedWords": [
+        {
+          "word": "Shihor",
+          "strongNumber": "H7883",
+          "lemma": "Shichor",
+          "meaning": "Shihor, a stream or canal of Egypt"
+        },
+        {
+          "word": "Hamath",
+          "strongNumber": "H2574",
+          "lemma": "Chamath",
+          "meaning": "Hamath, a principal city and district of Syria"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And David went up, and all Israel, to Baalah, that is, to Kirjath-jearim, which belonged to Judah, to bring up thence the ark of God the LORD, that dwelleth between the cherubims, whose name is called on it.",
+      "highlightedWords": [
+        {
+          "word": "Baalah",
+          "strongNumber": "H1173",
+          "lemma": "Baalah",
+          "meaning": "Baalah, a town in Judah (also called Kirjath-jearim)"
+        },
+        {
+          "word": "cherubims",
+          "strongNumber": "H3742",
+          "lemma": "keruv",
+          "meaning": "cherub, a celestial being associated with the divine presence"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And they carried the ark of God in a new cart out of the house of Abinadab: and Uzza and Ahio drave the cart.",
+      "highlightedWords": [
+        {
+          "word": "Abinadab",
+          "strongNumber": "H41",
+          "lemma": "Avinadav",
+          "meaning": "Abinadab, a personal name meaning 'my father is noble'"
+        },
+        {
+          "word": "Uzza",
+          "strongNumber": "H5798",
+          "lemma": "Uzza",
+          "meaning": "Uzza, a personal name meaning 'strength'"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And David and all Israel played before God with all their might, and with singing, and with harps, and with psalteries, and with timbrels, and with cymbals, and with trumpets.",
+      "highlightedWords": [
+        {
+          "word": "harps",
+          "strongNumber": "H3658",
+          "lemma": "kinnor",
+          "meaning": "lyre, harp; a stringed instrument"
+        },
+        {
+          "word": "trumpets",
+          "strongNumber": "H2689",
+          "lemma": "chatsotsrah",
+          "meaning": "trumpet; a metal wind instrument"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And when they came unto the threshingfloor of Chidon, Uzza put forth his hand to hold the ark; for the oxen stumbled.",
+      "highlightedWords": [
+        {
+          "word": "threshingfloor",
+          "strongNumber": "H1637",
+          "lemma": "goren",
+          "meaning": "threshing floor; a hard, level area for processing grain"
+        },
+        {
+          "word": "oxen",
+          "strongNumber": "H1241",
+          "lemma": "baqar",
+          "meaning": "cattle, oxen, herd"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And the anger of the LORD was kindled against Uzza, and he smote him, because he put his hand to the ark: and there he died before God.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the proper name of the God of Israel"
+        },
+        {
+          "word": "smote",
+          "strongNumber": "H5221",
+          "lemma": "nakah",
+          "meaning": "to strike, smite, slay"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And David was displeased, because the LORD had made a breach upon Uzza: wherefore that place is called Perez-uzza to this day.",
+      "highlightedWords": [
+        {
+          "word": "breach",
+          "strongNumber": "H6556",
+          "lemma": "perets",
+          "meaning": "a breach, breaking forth"
+        },
+        {
+          "word": "Uzza",
+          "strongNumber": "H5798",
+          "lemma": "Uzza",
+          "meaning": "Uzza, a personal name meaning 'strength'"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And David was afraid of God that day, saying, How shall I bring the ark of God home to me?",
+      "highlightedWords": [
+        {
+          "word": "afraid",
+          "strongNumber": "H3372",
+          "lemma": "yare",
+          "meaning": "to fear, be afraid, revere"
+        },
+        {
+          "word": "ark",
+          "strongNumber": "H727",
+          "lemma": "aron",
+          "meaning": "a chest; the sacred Ark of the Covenant"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "So David brought not the ark home to himself to the city of David, but carried it aside into the house of Obed-edom the Gittite.",
+      "highlightedWords": [
+        {
+          "word": "Obed-edom",
+          "strongNumber": "H5654",
+          "lemma": "Obed-Edom",
+          "meaning": "a personal name meaning 'servant of Edom'"
+        },
+        {
+          "word": "Gittite",
+          "strongNumber": "H1663",
+          "lemma": "Gittiy",
+          "meaning": "a native or inhabitant of Gath"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And the ark of God remained with the family of Obed-edom in his house three months. And the LORD blessed the house of Obed-edom, and all that he had.",
+      "highlightedWords": [
+        {
+          "word": "family",
+          "strongNumber": "H4940",
+          "lemma": "mishpachah",
+          "meaning": "family, clan, tribe"
+        },
+        {
+          "word": "blessed",
+          "strongNumber": "H1288",
+          "lemma": "barak",
+          "meaning": "to bless, praise, congratulate"
+        }
+      ]
+    }
+  ]
+}

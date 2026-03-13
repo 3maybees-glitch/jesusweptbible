@@ -1,0 +1,258 @@
+{
+  "book": "Isaiah",
+  "chapter": 55,
+  "chapterTheme": {
+    "twoWordSummary": "Abundant Mercy",
+    "themeWords": [
+      {
+        "word": "Covenant",
+        "strongNumber": "H1285",
+        "lemma": "berith",
+        "meaning": "a binding agreement or treaty; God's pledged relationship"
+      },
+      {
+        "word": "Mercies",
+        "strongNumber": "H2617",
+        "lemma": "chesed",
+        "meaning": "steadfast love, loyal kindness, covenantal mercy"
+      }
+    ]
+  },
+  "sentenceTheme": "God freely invites all to come, promising sure covenant mercies, powerful and effectual word, and a joyful, peaceful restoration.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Ho, every one that thirsteth, come ye to the waters, and he that hath no money; come ye, buy, and eat; yea, come, buy wine and milk without money and without price.",
+      "highlightedWords": [
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters; life-giving supply"
+        },
+        {
+          "word": "price",
+          "strongNumber": "H4242",
+          "lemma": "mechir",
+          "meaning": "price, cost, purchase value"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Wherefore do ye spend money for that which is not bread? and your labour for that which satisfieth not? hearken diligently unto me, and eat ye that which is good, and let your soul delight itself in fatness.",
+      "highlightedWords": [
+        {
+          "word": "hearken",
+          "strongNumber": "H8085",
+          "lemma": "shama",
+          "meaning": "to hear, listen, obey"
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, inner being"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Incline your ear, and come unto me: hear, and your soul shall live; and I will make an everlasting covenant with you, even the sure mercies of David.",
+      "highlightedWords": [
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "a binding agreement or treaty; God's pledged relationship"
+        },
+        {
+          "word": "mercies",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "steadfast love, loyal kindness, covenantal mercy"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Behold, I have given him for a witness to the people, a leader and commander to the people.",
+      "highlightedWords": [
+        {
+          "word": "witness",
+          "strongNumber": "H5707",
+          "lemma": "ed",
+          "meaning": "testimony, witness, evidence"
+        },
+        {
+          "word": "leader",
+          "strongNumber": "H5057",
+          "lemma": "nagid",
+          "meaning": "prince, ruler, leader"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Behold, thou shalt call a nation that thou knowest not, and nations that knew not thee shall run unto thee because of the LORD thy God, and for the Holy One of Israel; for he hath glorified thee.",
+      "highlightedWords": [
+        {
+          "word": "nation",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation, people group, Gentile"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Seek ye the LORD while he may be found, call ye upon him while he is near:",
+      "highlightedWords": [
+        {
+          "word": "Seek",
+          "strongNumber": "H1875",
+          "lemma": "darash",
+          "meaning": "to seek, inquire, resort to"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Let the wicked forsake his way, and the unrighteous man his thoughts: and let him return unto the LORD, and he will have mercy upon him; and to our God, for he will abundantly pardon.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha",
+          "meaning": "wicked, guilty, morally wrong"
+        },
+        {
+          "word": "pardon",
+          "strongNumber": "H5545",
+          "lemma": "salach",
+          "meaning": "to forgive, pardon"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "For my thoughts are not your thoughts, neither are your ways my ways, saith the LORD.",
+      "highlightedWords": [
+        {
+          "word": "thoughts",
+          "strongNumber": "H4284",
+          "lemma": "machashabah",
+          "meaning": "thought, plan, purpose, device"
+        },
+        {
+          "word": "ways",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way, road, manner, conduct"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "For as the heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than your thoughts.",
+      "highlightedWords": [
+        {
+          "word": "heavens",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens, sky"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "eretz",
+          "meaning": "earth, land"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "For as the rain cometh down, and the snow from heaven, and returneth not thither, but watereth the earth, and maketh it bring forth and bud, that it may give seed to the sower, and bread to the eater:",
+      "highlightedWords": [
+        {
+          "word": "seed",
+          "strongNumber": "H2233",
+          "lemma": "zera",
+          "meaning": "seed, offspring, what is sown"
+        },
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread, food"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "So shall my word be that goeth forth out of my mouth: it shall not return unto me void, but it shall accomplish that which I please, and it shall prosper in the thing whereto I sent it.",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, thing, message"
+        },
+        {
+          "word": "return",
+          "strongNumber": "H7725",
+          "lemma": "shuv",
+          "meaning": "to return, turn back"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "For ye shall go out with joy, and be led forth with peace: the mountains and the hills shall break forth before you into singing, and all the trees of the field shall clap their hands.",
+      "highlightedWords": [
+        {
+          "word": "joy",
+          "strongNumber": "H8057",
+          "lemma": "simchah",
+          "meaning": "joy, gladness"
+        },
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace, wholeness, well-being"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Instead of the thorn shall come up the fir tree, and instead of the brier shall come up the myrtle tree: and it shall be to the LORD for a name, for an everlasting sign that shall not be cut off.",
+      "highlightedWords": [
+        {
+          "word": "everlasting",
+          "strongNumber": "H5769",
+          "lemma": "olam",
+          "meaning": "everlasting, perpetual, indefinite time"
+        },
+        {
+          "word": "sign",
+          "strongNumber": "H226",
+          "lemma": "oth",
+          "meaning": "sign, token, pledge"
+        }
+      ]
+    }
+  ]
+}

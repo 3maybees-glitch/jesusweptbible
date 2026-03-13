@@ -1,0 +1,258 @@
+{
+  "book": "Psalms",
+  "chapter": 39,
+  "chapterTheme": {
+    "twoWordSummary": "Fleeting Life",
+    "themeWords": [
+      {
+        "word": "vanity",
+        "strongNumber": "H1892",
+        "lemma": "hebel",
+        "meaning": "emptiness; vapor; futility"
+      },
+      {
+        "word": "hope",
+        "strongNumber": "H8615",
+        "lemma": "tiqvah",
+        "meaning": "expectation; confident hope"
+      }
+    ]
+  },
+  "sentenceTheme": "David resolves to guard his speech, meditates on life’s brevity and human frailty, and places his hope for deliverance in the Lord.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "I said, I will take heed to my ways, that I sin not with my tongue: I will keep my mouth with a bridle, while the wicked is before me.",
+      "highlightedWords": [
+        {
+          "word": "tongue",
+          "strongNumber": "H3956",
+          "lemma": "lashon",
+          "meaning": "tongue; language; speech"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha",
+          "meaning": "wicked; guilty; criminal"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "I was dumb with silence, I held my peace, even from good; and my sorrow was stirred.",
+      "highlightedWords": [
+        {
+          "word": "dumb",
+          "strongNumber": "H0481",
+          "lemma": "alam",
+          "meaning": "to be bound or silent; to be dumb"
+        },
+        {
+          "word": "silence",
+          "strongNumber": "H1747",
+          "lemma": "dumiyyah",
+          "meaning": "silence; stillness; quietness"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "My heart was hot within me, while I was musing the fire burned: then spake I with my tongue,",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart; inner being; mind"
+        },
+        {
+          "word": "tongue",
+          "strongNumber": "H3956",
+          "lemma": "lashon",
+          "meaning": "tongue; language; speech"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Lord, make me to know mine end, and the measure of my days, what it is; that I may know how frail I am.",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of God; LORD"
+        },
+        {
+          "word": "end",
+          "strongNumber": "H7093",
+          "lemma": "qets",
+          "meaning": "end; limit; boundary"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Behold, thou hast made my days as an handbreadth; and mine age is as nothing before thee: verily every man at his best state is altogether vanity. Selah.",
+      "highlightedWords": [
+        {
+          "word": "handbreadth",
+          "strongNumber": "H2947",
+          "lemma": "tephach",
+          "meaning": "a span; handbreadth; small measure"
+        },
+        {
+          "word": "vanity",
+          "strongNumber": "H1892",
+          "lemma": "hebel",
+          "meaning": "breath; vapor; emptiness; vanity"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Surely every man walketh in a vain shew: surely they are disquieted in vain: he heapeth up riches, and knoweth not who shall gather them.",
+      "highlightedWords": [
+        {
+          "word": "vain",
+          "strongNumber": "H1892",
+          "lemma": "hebel",
+          "meaning": "emptiness; futility; vanity"
+        },
+        {
+          "word": "riches",
+          "strongNumber": "H6239",
+          "lemma": "osher",
+          "meaning": "riches; wealth"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And now, Lord, what wait I for? my hope is in thee.",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of God; LORD"
+        },
+        {
+          "word": "hope",
+          "strongNumber": "H8615",
+          "lemma": "tiqvah",
+          "meaning": "expectation; confident hope"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Deliver me from all my transgressions: make me not the reproach of the foolish.",
+      "highlightedWords": [
+        {
+          "word": "Deliver",
+          "strongNumber": "H5337",
+          "lemma": "natsal",
+          "meaning": "to snatch away; deliver; rescue"
+        },
+        {
+          "word": "transgressions",
+          "strongNumber": "H6588",
+          "lemma": "pesha",
+          "meaning": "rebellion; transgression; offense"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "I was dumb, I opened not my mouth; because thou didst it.",
+      "highlightedWords": [
+        {
+          "word": "dumb",
+          "strongNumber": "H0481",
+          "lemma": "alam",
+          "meaning": "to be bound or silent; to be dumb"
+        },
+        {
+          "word": "mouth",
+          "strongNumber": "H6310",
+          "lemma": "peh",
+          "meaning": "mouth; speech; edge"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Remove thy stroke away from me: I am consumed by the blow of thine hand.",
+      "highlightedWords": [
+        {
+          "word": "stroke",
+          "strongNumber": "H5061",
+          "lemma": "nega",
+          "meaning": "a blow; plague; stroke"
+        },
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand; power; strength"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "When thou with rebukes dost correct man for iniquity, thou makest his beauty to consume away like a moth: surely every man is vanity. Selah.",
+      "highlightedWords": [
+        {
+          "word": "rebukes",
+          "strongNumber": "H8433",
+          "lemma": "tokhechah",
+          "meaning": "rebuke; reproof; correction"
+        },
+        {
+          "word": "vanity",
+          "strongNumber": "H1892",
+          "lemma": "hebel",
+          "meaning": "breath; vapor; emptiness; vanity"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Hear my prayer, O Lord, and give ear unto my cry; hold not thy peace at my tears: for I am a stranger with thee, and a sojourner, as all my fathers were.",
+      "highlightedWords": [
+        {
+          "word": "prayer",
+          "strongNumber": "H8605",
+          "lemma": "tefillah",
+          "meaning": "prayer; petition; intercession"
+        },
+        {
+          "word": "sojourner",
+          "strongNumber": "H8453",
+          "lemma": "toshav",
+          "meaning": "resident alien; sojourner"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "O spare me, that I may recover strength, before I go hence, and be no more.",
+      "highlightedWords": [
+        {
+          "word": "spare",
+          "strongNumber": "H8159",
+          "lemma": "sha'ah",
+          "meaning": "to look away; to gaze; to spare"
+        },
+        {
+          "word": "go",
+          "strongNumber": "H3212",
+          "lemma": "yalak",
+          "meaning": "to go; walk; depart"
+        }
+      ]
+    }
+  ]
+}

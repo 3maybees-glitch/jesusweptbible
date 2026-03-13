@@ -1,0 +1,528 @@
+{
+  "book": "Psalms",
+  "chapter": 35,
+  "chapterTheme": {
+    "twoWordSummary": "Divine Vindication",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "Yehovah",
+        "meaning": "the personal name of the God of Israel (YHWH)"
+      },
+      {
+        "word": "salvation",
+        "strongNumber": "H3444",
+        "lemma": "yeshu'ah",
+        "meaning": "deliverance, victory, salvation"
+      }
+    ]
+  },
+  "sentenceTheme": "David appeals to the LORD for vindication and protection from unjust enemies, trusting God to judge righteously and bring salvation.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Plead my cause, O LORD, with them that strive with me: fight against them that fight against me.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the personal name of the God of Israel (YHWH)"
+        },
+        {
+          "word": "fight",
+          "strongNumber": "H3898",
+          "lemma": "lacham",
+          "meaning": "to fight, wage war, battle"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Take hold of shield and buckler, and stand up for mine help.",
+      "highlightedWords": [
+        {
+          "word": "shield",
+          "strongNumber": "H4043",
+          "lemma": "magen",
+          "meaning": "shield, protector"
+        },
+        {
+          "word": "buckler",
+          "strongNumber": "H6793",
+          "lemma": "tsinnah",
+          "meaning": "large shield, buckler"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Draw out also the spear, and stop the way against them that persecute me: say unto my soul, I am thy salvation.",
+      "highlightedWords": [
+        {
+          "word": "spear",
+          "strongNumber": "H2595",
+          "lemma": "chanith",
+          "meaning": "spear, javelin"
+        },
+        {
+          "word": "salvation",
+          "strongNumber": "H3444",
+          "lemma": "yeshu'ah",
+          "meaning": "deliverance, victory, salvation"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Let them be confounded and put to shame that seek after my soul: let them be turned back and brought to confusion that devise my hurt.",
+      "highlightedWords": [
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, self"
+        },
+        {
+          "word": "shame",
+          "strongNumber": "H954",
+          "lemma": "bosh",
+          "meaning": "to be ashamed, put to shame"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Let them be as chaff before the wind: and let the angel of the LORD chase them.",
+      "highlightedWords": [
+        {
+          "word": "wind",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "wind, breath, spirit"
+        },
+        {
+          "word": "angel",
+          "strongNumber": "H4397",
+          "lemma": "mal'ak",
+          "meaning": "messenger, angel"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Let their way be dark and slippery: and let the angel of the LORD persecute them.",
+      "highlightedWords": [
+        {
+          "word": "dark",
+          "strongNumber": "H2822",
+          "lemma": "choshek",
+          "meaning": "darkness, obscurity"
+        },
+        {
+          "word": "angel",
+          "strongNumber": "H4397",
+          "lemma": "mal'ak",
+          "meaning": "messenger, angel"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "For without cause have they hid for me their net in a pit, which without cause they have digged for my soul.",
+      "highlightedWords": [
+        {
+          "word": "net",
+          "strongNumber": "H7568",
+          "lemma": "resheth",
+          "meaning": "net, network"
+        },
+        {
+          "word": "pit",
+          "strongNumber": "H7845",
+          "lemma": "shachath",
+          "meaning": "pit, destruction, ditch"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Let destruction come upon him at unawares; and let his net that he hath hid catch himself: into that very destruction let him fall.",
+      "highlightedWords": [
+        {
+          "word": "destruction",
+          "strongNumber": "H7722",
+          "lemma": "sho'ah",
+          "meaning": "desolation, ruin, disaster"
+        },
+        {
+          "word": "net",
+          "strongNumber": "H7568",
+          "lemma": "resheth",
+          "meaning": "net, network"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And my soul shall be joyful in the LORD: it shall rejoice in his salvation.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the personal name of the God of Israel (YHWH)"
+        },
+        {
+          "word": "salvation",
+          "strongNumber": "H3444",
+          "lemma": "yeshu'ah",
+          "meaning": "deliverance, victory, salvation"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "All my bones shall say, LORD, who is like unto thee, which deliverest the poor from him that is too strong for him, yea, the poor and the needy from him that spoileth him?",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the personal name of the God of Israel (YHWH)"
+        },
+        {
+          "word": "deliverest",
+          "strongNumber": "H5337",
+          "lemma": "natsal",
+          "meaning": "to deliver, snatch away, rescue"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "False witnesses did rise up; they laid to my charge things that I knew not.",
+      "highlightedWords": [
+        {
+          "word": "False",
+          "strongNumber": "H8267",
+          "lemma": "sheqer",
+          "meaning": "falsehood, deceit, lie"
+        },
+        {
+          "word": "witnesses",
+          "strongNumber": "H5707",
+          "lemma": "'ed",
+          "meaning": "witness, testimony"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "They rewarded me evil for good to the spoiling of my soul.",
+      "highlightedWords": [
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra'",
+          "meaning": "evil, adversity, calamity"
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, self"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "But as for me, when they were sick, my clothing was sackcloth: I humbled my soul with fasting; and my prayer returned into mine own bosom.",
+      "highlightedWords": [
+        {
+          "word": "sackcloth",
+          "strongNumber": "H8242",
+          "lemma": "saq",
+          "meaning": "sackcloth, coarse cloth for mourning"
+        },
+        {
+          "word": "fasting",
+          "strongNumber": "H6685",
+          "lemma": "tsom",
+          "meaning": "fasting, abstaining from food"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "I behaved myself as though he had been my friend or brother: I bowed down heavily, as one that mourneth for his mother.",
+      "highlightedWords": [
+        {
+          "word": "brother",
+          "strongNumber": "H251",
+          "lemma": "'ach",
+          "meaning": "brother, kinsman"
+        },
+        {
+          "word": "mourneth",
+          "strongNumber": "H56",
+          "lemma": "'abal",
+          "meaning": "to mourn, lament"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "But in mine adversity they rejoiced, and gathered themselves together: yea, the abjects gathered themselves together against me, and I knew it not; they did tear me, and ceased not:",
+      "highlightedWords": [
+        {
+          "word": "rejoiced",
+          "strongNumber": "H8055",
+          "lemma": "samach",
+          "meaning": "to rejoice, be glad"
+        },
+        {
+          "word": "knew",
+          "strongNumber": "H3045",
+          "lemma": "yada'",
+          "meaning": "to know, perceive"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "With hypocritical mockers in feasts, they gnashed upon me with their teeth.",
+      "highlightedWords": [
+        {
+          "word": "gnashed",
+          "strongNumber": "H2786",
+          "lemma": "charak",
+          "meaning": "to gnash (the teeth)"
+        },
+        {
+          "word": "teeth",
+          "strongNumber": "H8127",
+          "lemma": "shen",
+          "meaning": "tooth, teeth"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Lord, how long wilt thou look on? rescue my soul from their destructions, my darling from the lions.",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "H136",
+          "lemma": "'Adonay",
+          "meaning": "Lord, Master"
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, self"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "I will give thee thanks in the great congregation: I will praise thee among much people.",
+      "highlightedWords": [
+        {
+          "word": "congregation",
+          "strongNumber": "H6951",
+          "lemma": "qahal",
+          "meaning": "assembly, congregation"
+        },
+        {
+          "word": "praise",
+          "strongNumber": "H1984",
+          "lemma": "halal",
+          "meaning": "to praise, boast, celebrate"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Let not them that are mine enemies wrongfully rejoice over me: neither let them wink with the eye that hate me without a cause.",
+      "highlightedWords": [
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "'oyev",
+          "meaning": "enemy, foe"
+        },
+        {
+          "word": "eye",
+          "strongNumber": "H5869",
+          "lemma": "'ayin",
+          "meaning": "eye, sight"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "For they speak not peace: but they devise deceitful matters against them that are quiet in the land.",
+      "highlightedWords": [
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace, welfare, well-being"
+        },
+        {
+          "word": "deceitful",
+          "strongNumber": "H4820",
+          "lemma": "mirmah",
+          "meaning": "deceit, treachery"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Yea, they opened their mouth wide against me, and said, Aha, aha, our eye hath seen it.",
+      "highlightedWords": [
+        {
+          "word": "mouth",
+          "strongNumber": "H6310",
+          "lemma": "peh",
+          "meaning": "mouth, opening"
+        },
+        {
+          "word": "eye",
+          "strongNumber": "H5869",
+          "lemma": "'ayin",
+          "meaning": "eye, sight"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "This thou hast seen, O LORD: keep not silence: O Lord, be not far from me.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the personal name of the God of Israel (YHWH)"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "H136",
+          "lemma": "'Adonay",
+          "meaning": "Lord, Master"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Stir up thyself, and awake to my judgment, even unto my cause, my God and my Lord.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God, mighty one"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "H136",
+          "lemma": "'Adonay",
+          "meaning": "Lord, Master"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Judge me, O LORD my God, according to thy righteousness; and let them not rejoice over me.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the personal name of the God of Israel (YHWH)"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "tsedaqah",
+          "meaning": "righteousness, justice"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Let them not say in their hearts, Ah, so would we have it: let them not say, We have swallowed him up.",
+      "highlightedWords": [
+        {
+          "word": "hearts",
+          "strongNumber": "H3820",
+          "lemma": "lev",
+          "meaning": "heart, inner man, mind"
+        },
+        {
+          "word": "swallowed",
+          "strongNumber": "H1104",
+          "lemma": "bala'",
+          "meaning": "to swallow, engulf"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "Let them be ashamed and brought to confusion together that rejoice at mine hurt: let them be clothed with shame and dishonour that magnify themselves against me.",
+      "highlightedWords": [
+        {
+          "word": "ashamed",
+          "strongNumber": "H954",
+          "lemma": "bosh",
+          "meaning": "to be ashamed, put to shame"
+        },
+        {
+          "word": "magnify",
+          "strongNumber": "H1431",
+          "lemma": "gadal",
+          "meaning": "to make great, magnify"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "Let them shout for joy, and be glad, that favour my righteous cause: yea, let them say continually, Let the LORD be magnified, which hath pleasure in the prosperity of his servant.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the personal name of the God of Israel (YHWH)"
+        },
+        {
+          "word": "prosperity",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace, welfare, prosperity"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And my tongue shall speak of thy righteousness and of thy praise all the day long.",
+      "highlightedWords": [
+        {
+          "word": "tongue",
+          "strongNumber": "H3956",
+          "lemma": "lashon",
+          "meaning": "tongue, language"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "tsedaqah",
+          "meaning": "righteousness, justice"
+        }
+      ]
+    }
+  ]
+}

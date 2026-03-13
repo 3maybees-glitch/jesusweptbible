@@ -1,0 +1,204 @@
+{
+  "book": "Psalms",
+  "chapter": 6,
+  "chapterTheme": {
+    "twoWordSummary": "Penitent Lament",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH",
+        "meaning": "The personal name of the God of Israel"
+      },
+      {
+        "word": "mercy",
+        "strongNumber": "H2617",
+        "lemma": "chesed",
+        "meaning": "Steadfast love; covenantal kindness"
+      }
+    ]
+  },
+  "sentenceTheme": "David pleads with the LORD for mercy, healing, and deliverance amid deep anguish, trusting that God hears and will overturn his enemies.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "O LORD, rebuke me not in thine anger, neither chasten me in thy hot displeasure.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The personal name of the God of Israel"
+        },
+        {
+          "word": "anger",
+          "strongNumber": "H639",
+          "lemma": "aph",
+          "meaning": "Nose, face; figuratively anger"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Have mercy upon me, O LORD; for I am weak: O LORD, heal me; for my bones are vexed.",
+      "highlightedWords": [
+        {
+          "word": "mercy",
+          "strongNumber": "H2603",
+          "lemma": "chanan",
+          "meaning": "To be gracious, show favor"
+        },
+        {
+          "word": "bones",
+          "strongNumber": "H6106",
+          "lemma": "etsem",
+          "meaning": "Bone; substance, self"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "My soul is also sore vexed: but thou, O LORD, how long?",
+      "highlightedWords": [
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "Soul, life, self"
+        },
+        {
+          "word": "vexed",
+          "strongNumber": "H926",
+          "lemma": "bahal",
+          "meaning": "To terrify, disturb, be troubled"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Return, O LORD, deliver my soul: oh save me for thy mercies' sake.",
+      "highlightedWords": [
+        {
+          "word": "Return",
+          "strongNumber": "H7725",
+          "lemma": "shub",
+          "meaning": "To turn back, return, restore"
+        },
+        {
+          "word": "save",
+          "strongNumber": "H3467",
+          "lemma": "yasha",
+          "meaning": "To deliver, save, give victory"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "For in death there is no remembrance of thee: in the grave who shall give thee thanks?",
+      "highlightedWords": [
+        {
+          "word": "death",
+          "strongNumber": "H4194",
+          "lemma": "maveth",
+          "meaning": "Death"
+        },
+        {
+          "word": "grave",
+          "strongNumber": "H7585",
+          "lemma": "sheol",
+          "meaning": "The realm of the dead; grave"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "I am weary with my groaning; all the night make I my bed to swim; I water my couch with my tears.",
+      "highlightedWords": [
+        {
+          "word": "weary",
+          "strongNumber": "H3021",
+          "lemma": "yaga",
+          "meaning": "To toil, be weary, grow tired"
+        },
+        {
+          "word": "tears",
+          "strongNumber": "H1832",
+          "lemma": "dim'ah",
+          "meaning": "Tears, weeping"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Mine eye is consumed because of grief; it waxeth old because of all mine enemies.",
+      "highlightedWords": [
+        {
+          "word": "eye",
+          "strongNumber": "H5869",
+          "lemma": "ayin",
+          "meaning": "Eye; spring; appearance"
+        },
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "oyev",
+          "meaning": "Enemy, foe"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Depart from me, all ye workers of iniquity; for the LORD hath heard the voice of my weeping.",
+      "highlightedWords": [
+        {
+          "word": "weeping",
+          "strongNumber": "H1065",
+          "lemma": "bekhi",
+          "meaning": "Weeping, lamentation"
+        },
+        {
+          "word": "heard",
+          "strongNumber": "H8085",
+          "lemma": "shama",
+          "meaning": "To hear, listen, obey"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "The LORD hath heard my supplication; the LORD will receive my prayer.",
+      "highlightedWords": [
+        {
+          "word": "supplication",
+          "strongNumber": "H8469",
+          "lemma": "techinnah",
+          "meaning": "Entreaty, plea for favor"
+        },
+        {
+          "word": "prayer",
+          "strongNumber": "H8605",
+          "lemma": "tephillah",
+          "meaning": "Prayer, intercession"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Let all mine enemies be ashamed and sore vexed: let them return and be ashamed suddenly.",
+      "highlightedWords": [
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "oyev",
+          "meaning": "Enemy, foe"
+        },
+        {
+          "word": "ashamed",
+          "strongNumber": "H954",
+          "lemma": "bosh",
+          "meaning": "To be ashamed, put to shame"
+        }
+      ]
+    }
+  ]
+}

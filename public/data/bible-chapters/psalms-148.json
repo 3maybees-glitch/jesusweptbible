@@ -1,0 +1,276 @@
+{
+  "book": "Psalms",
+  "chapter": 148,
+  "chapterTheme": {
+    "twoWordSummary": "Universal Praise",
+    "themeWords": [
+      {
+        "word": "praise",
+        "strongNumber": "H1984",
+        "lemma": "halal",
+        "meaning": "to praise, boast, celebrate"
+      },
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH",
+        "meaning": "the personal name of Israel’s God"
+      }
+    ]
+  },
+  "sentenceTheme": "All creation, from the highest heavens to the depths of the earth, is summoned to praise the LORD who created and sustains everything.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Praise ye the LORD. Praise ye the LORD from the heavens: praise him in the heights.",
+      "highlightedWords": [
+        {
+          "word": "Praise",
+          "strongNumber": "H1984",
+          "lemma": "halal",
+          "meaning": "to praise, boast, celebrate"
+        },
+        {
+          "word": "heavens",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "the heavens, sky"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Praise ye him, all his angels: praise ye him, all his hosts.",
+      "highlightedWords": [
+        {
+          "word": "angels",
+          "strongNumber": "H4397",
+          "lemma": "mal’akh",
+          "meaning": "messenger, angel"
+        },
+        {
+          "word": "hosts",
+          "strongNumber": "H6635",
+          "lemma": "tsaba’",
+          "meaning": "army, host"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Praise ye him, sun and moon: praise him, all ye stars of light.",
+      "highlightedWords": [
+        {
+          "word": "sun",
+          "strongNumber": "H8121",
+          "lemma": "shemesh",
+          "meaning": "sun"
+        },
+        {
+          "word": "moon",
+          "strongNumber": "H3394",
+          "lemma": "yareach",
+          "meaning": "moon"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Praise him, ye heavens of heavens, and ye waters that be above the heavens.",
+      "highlightedWords": [
+        {
+          "word": "heavens",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "the heavens, sky"
+        },
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Let them praise the name of the LORD: for he commanded and they were created.",
+      "highlightedWords": [
+        {
+          "word": "praise",
+          "strongNumber": "H1984",
+          "lemma": "halal",
+          "meaning": "to praise, boast, celebrate"
+        },
+        {
+          "word": "created",
+          "strongNumber": "H1254",
+          "lemma": "bara",
+          "meaning": "to create"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "He hath also stablished them for ever and ever: he hath made a decree which shall not pass.",
+      "highlightedWords": [
+        {
+          "word": "decree",
+          "strongNumber": "H2706",
+          "lemma": "choq",
+          "meaning": "statute, decree"
+        },
+        {
+          "word": "ever",
+          "strongNumber": "H5769",
+          "lemma": "‘olam",
+          "meaning": "everlasting, forever"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Praise the LORD from the earth, ye dragons, and all deeps:",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3050",
+          "lemma": "Yah",
+          "meaning": "the shortened form of the divine name"
+        },
+        {
+          "word": "dragons",
+          "strongNumber": "H8577",
+          "lemma": "tannin",
+          "meaning": "sea monster, dragon, serpent"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Fire, and hail; snow, and vapours; stormy wind fulfilling his word:",
+      "highlightedWords": [
+        {
+          "word": "Fire",
+          "strongNumber": "H784",
+          "lemma": "’esh",
+          "meaning": "fire"
+        },
+        {
+          "word": "hail",
+          "strongNumber": "H1259",
+          "lemma": "barad",
+          "meaning": "hail"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Mountains, and all hills; fruitful trees, and all cedars:",
+      "highlightedWords": [
+        {
+          "word": "Mountains",
+          "strongNumber": "H2022",
+          "lemma": "har",
+          "meaning": "mountain, hill country"
+        },
+        {
+          "word": "cedars",
+          "strongNumber": "H730",
+          "lemma": "’erez",
+          "meaning": "cedar tree"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Beasts, and all cattle; creeping things, and flying fowl:",
+      "highlightedWords": [
+        {
+          "word": "cattle",
+          "strongNumber": "H929",
+          "lemma": "behemah",
+          "meaning": "beast, cattle"
+        },
+        {
+          "word": "fowl",
+          "strongNumber": "H5775",
+          "lemma": "’owph",
+          "meaning": "bird, flying creature"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Kings of the earth, and all people; princes, and all judges of the earth:",
+      "highlightedWords": [
+        {
+          "word": "Kings",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king"
+        },
+        {
+          "word": "princes",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "prince, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Both young men, and maidens; old men, and children:",
+      "highlightedWords": [
+        {
+          "word": "maidens",
+          "strongNumber": "H1330",
+          "lemma": "betulah",
+          "meaning": "virgin, maiden"
+        },
+        {
+          "word": "children",
+          "strongNumber": "H5288",
+          "lemma": "na‘ar",
+          "meaning": "youth, child"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Let them praise the name of the LORD: for his name alone is excellent; his glory is above the earth and heaven.",
+      "highlightedWords": [
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "name, reputation"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "He also exalteth the horn of his people, the praise of all his saints; even of the children of Israel, a people near unto him. Praise ye the LORD.",
+      "highlightedWords": [
+        {
+          "word": "horn",
+          "strongNumber": "H7161",
+          "lemma": "qeren",
+          "meaning": "horn; symbol of strength"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3050",
+          "lemma": "Yah",
+          "meaning": "the shortened form of the divine name"
+        }
+      ]
+    }
+  ]
+}

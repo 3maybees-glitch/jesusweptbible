@@ -1,0 +1,312 @@
+{
+  "book": "Song of Solomon",
+  "chapter": 4,
+  "chapterTheme": {
+    "twoWordSummary": "Bridal Praise",
+    "themeWords": [
+      {
+        "word": "spouse",
+        "strongNumber": "H3618",
+        "lemma": "kallah",
+        "meaning": "bride; spouse"
+      },
+      {
+        "word": "garden",
+        "strongNumber": "H1588",
+        "lemma": "gan",
+        "meaning": "garden; enclosed place"
+      }
+    ]
+  },
+  "sentenceTheme": "The bridegroom extols the bride’s beauty and purity, inviting her from Lebanon and celebrating their love with rich garden and fragrance imagery.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Behold, thou art fair, my love; behold, thou art fair; thou hast doves' eyes within thy locks: thy hair is as a flock of goats, that appear from mount Gilead.",
+      "highlightedWords": [
+        {
+          "word": "doves'",
+          "strongNumber": "H3123",
+          "lemma": "yownah",
+          "meaning": "dove; pigeon"
+        },
+        {
+          "word": "Gilead",
+          "strongNumber": "H1568",
+          "lemma": "Gil'ad",
+          "meaning": "Gilead; a region east of the Jordan"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Thy teeth are like a flock of sheep that are even shorn, which came up from the washing; whereof every one bear twins, and none is barren among them.",
+      "highlightedWords": [
+        {
+          "word": "teeth",
+          "strongNumber": "H8127",
+          "lemma": "shen",
+          "meaning": "tooth; ivory (metaph.)"
+        },
+        {
+          "word": "sheep",
+          "strongNumber": "H7353",
+          "lemma": "rachel",
+          "meaning": "ewe; female sheep"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Thy lips are like a thread of scarlet, and thy speech is comely: thy temples are like a piece of a pomegranate within thy locks.",
+      "highlightedWords": [
+        {
+          "word": "lips",
+          "strongNumber": "H8193",
+          "lemma": "saphah",
+          "meaning": "lip; edge; language"
+        },
+        {
+          "word": "pomegranate",
+          "strongNumber": "H7416",
+          "lemma": "rimmon",
+          "meaning": "pomegranate (tree/fruit)"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Thy neck is like the tower of David builded for an armoury, whereon there hang a thousand bucklers, all shields of mighty men.",
+      "highlightedWords": [
+        {
+          "word": "tower",
+          "strongNumber": "H4026",
+          "lemma": "migdal",
+          "meaning": "tower; elevated structure"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "David",
+          "meaning": "David; beloved king of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Thy two breasts are like two young roes that are twins, which feed among the lilies.",
+      "highlightedWords": [
+        {
+          "word": "breasts",
+          "strongNumber": "H7699",
+          "lemma": "shad",
+          "meaning": "breast"
+        },
+        {
+          "word": "lilies",
+          "strongNumber": "H7799",
+          "lemma": "shoshannah",
+          "meaning": "lily"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Until the day break, and the shadows flee away, I will get me to the mountain of myrrh, and to the hill of frankincense.",
+      "highlightedWords": [
+        {
+          "word": "myrrh",
+          "strongNumber": "H4753",
+          "lemma": "mor",
+          "meaning": "myrrh; aromatic resin"
+        },
+        {
+          "word": "frankincense",
+          "strongNumber": "H3828",
+          "lemma": "levonah",
+          "meaning": "frankincense; incense resin"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Thou art all fair, my love; there is no spot in thee.",
+      "highlightedWords": [
+        {
+          "word": "fair",
+          "strongNumber": "H3303",
+          "lemma": "yapheh",
+          "meaning": "beautiful; fair"
+        },
+        {
+          "word": "spot",
+          "strongNumber": "H3971",
+          "lemma": "mum",
+          "meaning": "blemish; defect; spot"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Come with me from Lebanon, my spouse, with me from Lebanon: look from the top of Amana, from the top of Shenir and Hermon, from the lions' dens, from the mountains of the leopards.",
+      "highlightedWords": [
+        {
+          "word": "Lebanon",
+          "strongNumber": "H3844",
+          "lemma": "Levanon",
+          "meaning": "Lebanon; wooded mountain range"
+        },
+        {
+          "word": "spouse",
+          "strongNumber": "H3618",
+          "lemma": "kallah",
+          "meaning": "bride; spouse"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Thou hast ravished my heart, my sister, my spouse; thou hast ravished my heart with one of thine eyes, with one chain of thy neck.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "lev",
+          "meaning": "heart; inner person"
+        },
+        {
+          "word": "sister",
+          "strongNumber": "H0269",
+          "lemma": "achoth",
+          "meaning": "sister"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "How fair is thy love, my sister, my spouse! how much better is thy love than wine! and the smell of thine ointments than all spices!",
+      "highlightedWords": [
+        {
+          "word": "wine",
+          "strongNumber": "H3196",
+          "lemma": "yayin",
+          "meaning": "wine"
+        },
+        {
+          "word": "spices",
+          "strongNumber": "H1314",
+          "lemma": "bosem",
+          "meaning": "spice; balsam; perfume"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Thy lips, O my spouse, drop as the honeycomb: honey and milk are under thy tongue; and the smell of thy garments is like the smell of Lebanon.",
+      "highlightedWords": [
+        {
+          "word": "honey",
+          "strongNumber": "H1706",
+          "lemma": "debash",
+          "meaning": "honey"
+        },
+        {
+          "word": "tongue",
+          "strongNumber": "H3956",
+          "lemma": "lashon",
+          "meaning": "tongue; language"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "A garden inclosed is my sister, my spouse; a spring shut up, a fountain sealed.",
+      "highlightedWords": [
+        {
+          "word": "garden",
+          "strongNumber": "H1588",
+          "lemma": "gan",
+          "meaning": "garden"
+        },
+        {
+          "word": "spouse",
+          "strongNumber": "H3618",
+          "lemma": "kallah",
+          "meaning": "bride; spouse"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Thy plants are an orchard of pomegranates, with pleasant fruits; camphire, with spikenard,",
+      "highlightedWords": [
+        {
+          "word": "pomegranates",
+          "strongNumber": "H7416",
+          "lemma": "rimmon",
+          "meaning": "pomegranates (fruit)"
+        },
+        {
+          "word": "spikenard",
+          "strongNumber": "H5373",
+          "lemma": "nerd",
+          "meaning": "spikenard; nard"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Spikenard and saffron; calamus and cinnamon, with all trees of frankincense; myrrh and aloes, with all the chief spices:",
+      "highlightedWords": [
+        {
+          "word": "saffron",
+          "strongNumber": "H3750",
+          "lemma": "karkom",
+          "meaning": "saffron"
+        },
+        {
+          "word": "cinnamon",
+          "strongNumber": "H7076",
+          "lemma": "qinnamon",
+          "meaning": "cinnamon"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "A fountain of gardens, a well of living waters, and streams from Lebanon.",
+      "highlightedWords": [
+        {
+          "word": "well",
+          "strongNumber": "H0875",
+          "lemma": "be'er",
+          "meaning": "well; spring"
+        },
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Awake, O north wind; and come, thou south; blow upon my garden, that the spices thereof may flow out. Let my beloved come into his garden, and eat his pleasant fruits.",
+      "highlightedWords": [
+        {
+          "word": "north",
+          "strongNumber": "H6828",
+          "lemma": "tsaphon",
+          "meaning": "north"
+        },
+        {
+          "word": "garden",
+          "strongNumber": "H1588",
+          "lemma": "gan",
+          "meaning": "garden"
+        }
+      ]
+    }
+  ]
+}

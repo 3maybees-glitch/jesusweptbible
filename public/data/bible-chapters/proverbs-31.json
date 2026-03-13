@@ -1,0 +1,582 @@
+{
+  "book": "Proverbs",
+  "chapter": 31,
+  "chapterTheme": {
+    "twoWordSummary": "Virtuous Woman",
+    "themeWords": [
+      {
+        "word": "virtuous",
+        "strongNumber": "H2428",
+        "lemma": "chayil",
+        "meaning": "strength, valor, virtue"
+      },
+      {
+        "word": "wisdom",
+        "strongNumber": "H2451",
+        "lemma": "chokmah",
+        "meaning": "wisdom, skill, practical prudence"
+      }
+    ]
+  },
+  "sentenceTheme": "King Lemuel is counseled in justice and temperance, culminating in a portrait of the diligent, wise, God-fearing virtuous woman.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "The words of king Lemuel, the prophecy that his mother taught him.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        },
+        {
+          "word": "mother",
+          "strongNumber": "H517",
+          "lemma": "’em",
+          "meaning": "mother"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "What, my son? and what, the son of my womb? and what, the son of my vows?",
+      "highlightedWords": [
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child"
+        },
+        {
+          "word": "womb",
+          "strongNumber": "H990",
+          "lemma": "beten",
+          "meaning": "belly, womb"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Give not thy strength unto women, nor thy ways to that which destroyeth kings.",
+      "highlightedWords": [
+        {
+          "word": "strength",
+          "strongNumber": "H2428",
+          "lemma": "chayil",
+          "meaning": "strength, wealth, virtue"
+        },
+        {
+          "word": "kings",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "kings, rulers"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "It is not for kings, O Lemuel, it is not for kings to drink wine; nor for princes strong drink:",
+      "highlightedWords": [
+        {
+          "word": "kings",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "kings, rulers"
+        },
+        {
+          "word": "wine",
+          "strongNumber": "H3196",
+          "lemma": "yayin",
+          "meaning": "wine"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Lest they drink, and forget the law, and pervert the judgment of any of the afflicted.",
+      "highlightedWords": [
+        {
+          "word": "law",
+          "strongNumber": "H8451",
+          "lemma": "torah",
+          "meaning": "law, instruction"
+        },
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "justice, judgment"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Give strong drink unto him that is ready to perish, and wine unto those that be of heavy hearts.",
+      "highlightedWords": [
+        {
+          "word": "strong drink",
+          "strongNumber": "H7941",
+          "lemma": "shekar",
+          "meaning": "intoxicating drink"
+        },
+        {
+          "word": "wine",
+          "strongNumber": "H3196",
+          "lemma": "yayin",
+          "meaning": "wine"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Let him drink, and forget his poverty, and remember his misery no more.",
+      "highlightedWords": [
+        {
+          "word": "poverty",
+          "strongNumber": "H7389",
+          "lemma": "resh",
+          "meaning": "poverty, want"
+        },
+        {
+          "word": "misery",
+          "strongNumber": "H5999",
+          "lemma": "‘amal",
+          "meaning": "toil, trouble, misery"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Open thy mouth for the dumb in the cause of all such as are appointed to destruction.",
+      "highlightedWords": [
+        {
+          "word": "Open",
+          "strongNumber": "H6605",
+          "lemma": "pathach",
+          "meaning": "to open"
+        },
+        {
+          "word": "mouth",
+          "strongNumber": "H6310",
+          "lemma": "peh",
+          "meaning": "mouth"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Open thy mouth, judge righteously, and plead the cause of the poor and needy.",
+      "highlightedWords": [
+        {
+          "word": "judge",
+          "strongNumber": "H8199",
+          "lemma": "shaphat",
+          "meaning": "to judge, govern"
+        },
+        {
+          "word": "needy",
+          "strongNumber": "H34",
+          "lemma": "’ebyon",
+          "meaning": "needy, poor"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Who can find a virtuous woman? for her price is far above rubies.",
+      "highlightedWords": [
+        {
+          "word": "virtuous",
+          "strongNumber": "H2428",
+          "lemma": "chayil",
+          "meaning": "valor, virtue"
+        },
+        {
+          "word": "woman",
+          "strongNumber": "H802",
+          "lemma": "’ishshah",
+          "meaning": "woman, wife"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "The heart of her husband doth safely trust in her, so that he shall have no need of spoil.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "lev",
+          "meaning": "heart, inner person"
+        },
+        {
+          "word": "trust",
+          "strongNumber": "H982",
+          "lemma": "batach",
+          "meaning": "to trust, be confident"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "She will do him good and not evil all the days of her life.",
+      "highlightedWords": [
+        {
+          "word": "good",
+          "strongNumber": "H2896",
+          "lemma": "tov",
+          "meaning": "good, pleasant"
+        },
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra‘",
+          "meaning": "evil, bad"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "She seeketh wool, and flax, and worketh willingly with her hands.",
+      "highlightedWords": [
+        {
+          "word": "wool",
+          "strongNumber": "H6785",
+          "lemma": "tsemer",
+          "meaning": "wool"
+        },
+        {
+          "word": "flax",
+          "strongNumber": "H6593",
+          "lemma": "pishtah",
+          "meaning": "flax, linen"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "She is like the merchants' ships; she bringeth her food from afar.",
+      "highlightedWords": [
+        {
+          "word": "merchants'",
+          "strongNumber": "H5503",
+          "lemma": "sachar",
+          "meaning": "merchant, trader"
+        },
+        {
+          "word": "food",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread, food"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "She riseth also while it is yet night, and giveth meat to her household, and a portion to her maidens.",
+      "highlightedWords": [
+        {
+          "word": "night",
+          "strongNumber": "H3915",
+          "lemma": "laylah",
+          "meaning": "night"
+        },
+        {
+          "word": "household",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, household"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "She considereth a field, and buyeth it: with the fruit of her hands she planteth a vineyard.",
+      "highlightedWords": [
+        {
+          "word": "field",
+          "strongNumber": "H7704",
+          "lemma": "sadeh",
+          "meaning": "field, land"
+        },
+        {
+          "word": "vineyard",
+          "strongNumber": "H3754",
+          "lemma": "kerem",
+          "meaning": "vineyard"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "She girdeth her loins with strength, and strengtheneth her arms.",
+      "highlightedWords": [
+        {
+          "word": "loins",
+          "strongNumber": "H4975",
+          "lemma": "mothen",
+          "meaning": "loins, waist"
+        },
+        {
+          "word": "arms",
+          "strongNumber": "H2220",
+          "lemma": "zerôa‘",
+          "meaning": "arm, strength"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "She perceiveth that her merchandise is good: her candle goeth not out by night.",
+      "highlightedWords": [
+        {
+          "word": "candle",
+          "strongNumber": "H5216",
+          "lemma": "ner",
+          "meaning": "lamp, candle"
+        },
+        {
+          "word": "night",
+          "strongNumber": "H3915",
+          "lemma": "laylah",
+          "meaning": "night"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "She layeth her hands to the spindle, and her hands hold the distaff.",
+      "highlightedWords": [
+        {
+          "word": "spindle",
+          "strongNumber": "H6418",
+          "lemma": "pelek",
+          "meaning": "spindle"
+        },
+        {
+          "word": "distaff",
+          "strongNumber": "H3601",
+          "lemma": "kishor",
+          "meaning": "distaff"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "She stretcheth out her hand to the poor; yea, she reacheth forth her hands to the needy.",
+      "highlightedWords": [
+        {
+          "word": "poor",
+          "strongNumber": "H6041",
+          "lemma": "‘ani",
+          "meaning": "poor, afflicted"
+        },
+        {
+          "word": "needy",
+          "strongNumber": "H34",
+          "lemma": "’ebyon",
+          "meaning": "needy, poor"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "She is not afraid of the snow for her household: for all her household are clothed with scarlet.",
+      "highlightedWords": [
+        {
+          "word": "household",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, household"
+        },
+        {
+          "word": "scarlet",
+          "strongNumber": "H8144",
+          "lemma": "shani",
+          "meaning": "scarlet, crimson"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "She maketh herself coverings of tapestry; her clothing is silk and purple.",
+      "highlightedWords": [
+        {
+          "word": "silk",
+          "strongNumber": "H4897",
+          "lemma": "meshiy",
+          "meaning": "silk"
+        },
+        {
+          "word": "purple",
+          "strongNumber": "H713",
+          "lemma": "’argaman",
+          "meaning": "purple (dyed cloth)"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Her husband is known in the gates, when he sitteth among the elders of the land.",
+      "highlightedWords": [
+        {
+          "word": "gates",
+          "strongNumber": "H8179",
+          "lemma": "sha‘ar",
+          "meaning": "gate"
+        },
+        {
+          "word": "elders",
+          "strongNumber": "H2205",
+          "lemma": "zaqen",
+          "meaning": "elder, aged"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "She maketh fine linen, and selleth it; and delivereth girdles unto the merchant.",
+      "highlightedWords": [
+        {
+          "word": "linen",
+          "strongNumber": "H5466",
+          "lemma": "sadin",
+          "meaning": "fine linen garment"
+        },
+        {
+          "word": "merchant",
+          "strongNumber": "H3667",
+          "lemma": "Kena‘ani",
+          "meaning": "Canaanite; merchant/trader"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Strength and honour are her clothing; and she shall rejoice in time to come.",
+      "highlightedWords": [
+        {
+          "word": "Strength",
+          "strongNumber": "H5797",
+          "lemma": "‘oz",
+          "meaning": "strength, might"
+        },
+        {
+          "word": "honour",
+          "strongNumber": "H1926",
+          "lemma": "hadar",
+          "meaning": "honor, splendor"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "She openeth her mouth with wisdom; and in her tongue is the law of kindness.",
+      "highlightedWords": [
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "wisdom, skill"
+        },
+        {
+          "word": "kindness",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "kindness, loyal love"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "She looketh well to the ways of her household, and eateth not the bread of idleness.",
+      "highlightedWords": [
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread, food"
+        },
+        {
+          "word": "idleness",
+          "strongNumber": "H6104",
+          "lemma": "‘atslut",
+          "meaning": "idleness, laziness"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "Her children arise up, and call her blessed; her husband also, and he praiseth her.",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "sons, children"
+        },
+        {
+          "word": "blessed",
+          "strongNumber": "H833",
+          "lemma": "’ashar",
+          "meaning": "to call blessed, to deem happy"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "Many daughters have done virtuously, but thou excellest them all.",
+      "highlightedWords": [
+        {
+          "word": "daughters",
+          "strongNumber": "H1323",
+          "lemma": "bat",
+          "meaning": "daughter"
+        },
+        {
+          "word": "virtuously",
+          "strongNumber": "H2428",
+          "lemma": "chayil",
+          "meaning": "with valor/virtue"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "Favour is deceitful, and beauty is vain: but a woman that feareth the LORD, she shall be praised.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the divine name, the LORD"
+        },
+        {
+          "word": "beauty",
+          "strongNumber": "H3308",
+          "lemma": "yophi",
+          "meaning": "beauty"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "Give her of the fruit of her hands; and let her own works praise her in the gates.",
+      "highlightedWords": [
+        {
+          "word": "works",
+          "strongNumber": "H4639",
+          "lemma": "ma‘aseh",
+          "meaning": "work, deeds"
+        },
+        {
+          "word": "gates",
+          "strongNumber": "H8179",
+          "lemma": "sha‘ar",
+          "meaning": "gate"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "book": "Job",
+  "chapter": 26,
+  "chapterTheme": {
+    "twoWordSummary": "Divine Majesty",
+    "themeWords": [
+      {
+        "word": "power",
+        "strongNumber": "H3581",
+        "lemma": "koach",
+        "meaning": "strength, power"
+      },
+      {
+        "word": "wisdom",
+        "strongNumber": "H2451",
+        "lemma": "chokmah",
+        "meaning": "skill, wisdom"
+      }
+    ]
+  },
+  "sentenceTheme": "Job rebukes empty counsel and extols God’s unfathomable power over creation, the heavens, and the unseen realm.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "But Job answered and said,",
+      "highlightedWords": [
+        {
+          "word": "Job",
+          "strongNumber": "H0347",
+          "lemma": "Iyowb",
+          "meaning": "Job (the patriarch)"
+        },
+        {
+          "word": "answered",
+          "strongNumber": "H6030",
+          "lemma": "anah",
+          "meaning": "to answer, respond"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "How hast thou helped him that is without power? how savest thou the arm that hath no strength?",
+      "highlightedWords": [
+        {
+          "word": "helped",
+          "strongNumber": "H5826",
+          "lemma": "azar",
+          "meaning": "to help, support"
+        },
+        {
+          "word": "strength",
+          "strongNumber": "H3581",
+          "lemma": "koach",
+          "meaning": "strength, power"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "How hast thou counselled him that hath no wisdom? and how hast thou plentifully declared the thing as it is?",
+      "highlightedWords": [
+        {
+          "word": "counselled",
+          "strongNumber": "H3289",
+          "lemma": "ya'ats",
+          "meaning": "to advise, counsel"
+        },
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "wisdom, skill"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "To whom hast thou uttered words? and whose spirit came from thee?",
+      "highlightedWords": [
+        {
+          "word": "uttered",
+          "strongNumber": "H5046",
+          "lemma": "nagad",
+          "meaning": "to declare, announce"
+        },
+        {
+          "word": "spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "spirit, wind, breath"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Dead things are formed from under the waters, and the inhabitants thereof.",
+      "highlightedWords": [
+        {
+          "word": "Dead",
+          "strongNumber": "H7496",
+          "lemma": "Rephaim",
+          "meaning": "shades, departed spirits"
+        },
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Hell is naked before him, and destruction hath no covering.",
+      "highlightedWords": [
+        {
+          "word": "Hell",
+          "strongNumber": "H7585",
+          "lemma": "Sheol",
+          "meaning": "the grave, underworld"
+        },
+        {
+          "word": "destruction",
+          "strongNumber": "H0011",
+          "lemma": "Abaddon",
+          "meaning": "destruction, ruin"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "He stretcheth out the north over the empty place, and hangeth the earth upon nothing.",
+      "highlightedWords": [
+        {
+          "word": "north",
+          "strongNumber": "H6828",
+          "lemma": "tsaphon",
+          "meaning": "north"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H0776",
+          "lemma": "erets",
+          "meaning": "earth, land"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "He bindeth up the waters in his thick clouds; and the cloud is not rent under them.",
+      "highlightedWords": [
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters"
+        },
+        {
+          "word": "clouds",
+          "strongNumber": "H5645",
+          "lemma": "ab",
+          "meaning": "thick cloud, cloud-mass"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "He holdeth back the face of his throne, and spreadeth his cloud upon it.",
+      "highlightedWords": [
+        {
+          "word": "throne",
+          "strongNumber": "H3678",
+          "lemma": "kisse'",
+          "meaning": "throne, seat"
+        },
+        {
+          "word": "cloud",
+          "strongNumber": "H6051",
+          "lemma": "anan",
+          "meaning": "cloud"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "He hath compassed the waters with bounds, until the day and night come to an end.",
+      "highlightedWords": [
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters"
+        },
+        {
+          "word": "day",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "The pillars of heaven tremble and are astonished at his reproof.",
+      "highlightedWords": [
+        {
+          "word": "pillars",
+          "strongNumber": "H5982",
+          "lemma": "ammud",
+          "meaning": "pillar, column"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens, sky"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "He divideth the sea with his power, and by his understanding he smiteth through the proud.",
+      "highlightedWords": [
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "sea"
+        },
+        {
+          "word": "understanding",
+          "strongNumber": "H8394",
+          "lemma": "tebunah",
+          "meaning": "understanding, insight"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "By his spirit he hath garnished the heavens; his hand hath formed the crooked serpent.",
+      "highlightedWords": [
+        {
+          "word": "spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "spirit, wind, breath"
+        },
+        {
+          "word": "serpent",
+          "strongNumber": "H5175",
+          "lemma": "nachash",
+          "meaning": "serpent"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Lo, these are parts of his ways: but how little a portion is heard of him? but the thunder of his power who can understand?",
+      "highlightedWords": [
+        {
+          "word": "thunder",
+          "strongNumber": "H7482",
+          "lemma": "ra'am",
+          "meaning": "thunder, roaring"
+        },
+        {
+          "word": "power",
+          "strongNumber": "H1369",
+          "lemma": "geburah",
+          "meaning": "might, power"
+        }
+      ]
+    }
+  ]
+}

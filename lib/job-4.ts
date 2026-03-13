@@ -1,0 +1,86 @@
+export const jobChapter4 = {
+  '4:1': {
+    verse: 1,
+    text: 'Then Eliphaz the Temanite answered and said,',
+  },
+  '4:2': {
+    verse: 2,
+    text: 'If we assay to commune with thee, wilt thou be grieved? but who can withhold himself from speaking?',
+  },
+  '4:3': {
+    verse: 3,
+    text: 'Behold, thou hast instructed many, and thou hast strengthened the weak hands.',
+  },
+  '4:4': {
+    verse: 4,
+    text: 'Thy words have upholden him that was falling, and thou hast strengthened the feeble knees.',
+  },
+  '4:5': {
+    verse: 5,
+    text: 'But now it is come upon thee, and thou faintest; it toucheth thee, and thou art troubled.',
+  },
+  '4:6': {
+    verse: 6,
+    text: 'Is not this thy fear, thy confidence, thy hope, and the uprightness of thy ways?',
+  },
+  '4:7': {
+    verse: 7,
+    text: 'Remember, I pray thee, who ever perished, being innocent? or where were the righteous cut off?',
+  },
+  '4:8': {
+    verse: 8,
+    text: 'Even as I have seen, they that plow iniquity, and sow wickedness, reap the same.',
+  },
+  '4:9': {
+    verse: 9,
+    text: 'By the blast of God they perish, and by the breath of his nostrils are they consumed.',
+  },
+  '4:10': {
+    verse: 10,
+    text: 'The roaring of the lion, and the voice of the fierce lion, and the teeth of the young lions, are broken.',
+  },
+  '4:11': {
+    verse: 11,
+    text: 'The old lion perisheth for lack of prey, and the stout lion\'s whelps are scattered abroad.',
+  },
+  '4:12': {
+    verse: 12,
+    text: 'Now a thing was secretly brought to me, and mine ear received a little thereof.',
+  },
+  '4:13': {
+    verse: 13,
+    text: 'In thoughts from the visions of the night, when deep sleep falleth on men,',
+  },
+  '4:14': {
+    verse: 14,
+    text: 'Fear came upon me, and trembling, which made all my bones to shake.',
+  },
+  '4:15': {
+    verse: 15,
+    text: 'Then a spirit passed before my face; the hair of my flesh stood up:',
+  },
+  '4:16': {
+    verse: 16,
+    text: 'It stood still, but I could not discern the form thereof: an image was before mine eyes, there was silence, and I heard a voice, saying,',
+  },
+  '4:17': {
+    verse: 17,
+    text: 'Shall mortal man be more just than God? shall a man be more pure than his maker?',
+  },
+  '4:18': {
+    verse: 18,
+    text: 'Behold, he put no trust in his servants; and his angels he charged with folly:',
+  },
+  '4:19': {
+    verse: 19,
+    text: 'How much less in them that dwell in houses of clay, whose foundation is in the dust, which are crushed before the moth?',
+  },
+  '4:20': {
+    verse: 20,
+    text: 'They are destroyed from morning to evening: they perish for ever without any regarding it.',
+  },
+  '4:21': {
+    verse: 21,
+    text: 'Doth not their excellency which is in them go away? they die, even without wisdom.',
+  },
+}

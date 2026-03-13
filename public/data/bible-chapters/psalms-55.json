@@ -1,0 +1,438 @@
+{
+  "book": "Psalms",
+  "chapter": 55,
+  "chapterTheme": {
+    "twoWordSummary": "Betrayal Lament",
+    "themeWords": [
+      {
+        "word": "God",
+        "strongNumber": "H430",
+        "lemma": "’elohim",
+        "meaning": "God, mighty one"
+      },
+      {
+        "word": "trust",
+        "strongNumber": "H982",
+        "lemma": "batach",
+        "meaning": "to trust, be confident"
+      }
+    ]
+  },
+  "sentenceTheme": "David laments oppression and the betrayal of a close friend, crying to God for deliverance and placing his trust in the LORD.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Give ear to my prayer, O God; and hide not thyself from my supplication.",
+      "highlightedWords": [
+        {
+          "word": "prayer",
+          "strongNumber": "H8605",
+          "lemma": "tephillah",
+          "meaning": "prayer, supplication"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’elohim",
+          "meaning": "God, mighty one"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Attend unto me, and hear me: I mourn in my complaint, and make a noise;",
+      "highlightedWords": [
+        {
+          "word": "hear",
+          "strongNumber": "H8085",
+          "lemma": "shama'",
+          "meaning": "to hear, listen"
+        },
+        {
+          "word": "complaint",
+          "strongNumber": "H7879",
+          "lemma": "siyach",
+          "meaning": "complaint, meditation"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Because of the voice of the enemy, because of the oppression of the wicked: for they cast iniquity upon me, and in wrath they hate me.",
+      "highlightedWords": [
+        {
+          "word": "enemy",
+          "strongNumber": "H341",
+          "lemma": "’oyev",
+          "meaning": "enemy, foe"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "’avon",
+          "meaning": "iniquity, guilt"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "My heart is sore pained within me: and the terrors of death are fallen upon me.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "lev",
+          "meaning": "heart, inner man"
+        },
+        {
+          "word": "death",
+          "strongNumber": "H4194",
+          "lemma": "maveth",
+          "meaning": "death"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Fearfulness and trembling are come upon me, and horror hath overwhelmed me.",
+      "highlightedWords": [
+        {
+          "word": "Fearfulness",
+          "strongNumber": "H6343",
+          "lemma": "pachad",
+          "meaning": "dread, terror"
+        },
+        {
+          "word": "trembling",
+          "strongNumber": "H7461",
+          "lemma": "ra'ad",
+          "meaning": "trembling, quaking"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And I said, Oh that I had wings like a dove! for then would I fly away, and be at rest.",
+      "highlightedWords": [
+        {
+          "word": "wings",
+          "strongNumber": "H3671",
+          "lemma": "kanaph",
+          "meaning": "wing"
+        },
+        {
+          "word": "dove",
+          "strongNumber": "H3123",
+          "lemma": "yownah",
+          "meaning": "dove"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Lo, then would I wander far off, and remain in the wilderness. Selah.",
+      "highlightedWords": [
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbar",
+          "meaning": "wilderness, desert"
+        },
+        {
+          "word": "Selah",
+          "strongNumber": "H5542",
+          "lemma": "selah",
+          "meaning": "musical pause"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "I would hasten my escape from the windy storm and tempest.",
+      "highlightedWords": [
+        {
+          "word": "hasten",
+          "strongNumber": "H2363",
+          "lemma": "chush",
+          "meaning": "to hurry, hasten"
+        },
+        {
+          "word": "tempest",
+          "strongNumber": "H5591",
+          "lemma": "se'arah",
+          "meaning": "storm, tempest"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Destroy, O Lord, and divide their tongues: for I have seen violence and strife in the city.",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "H136",
+          "lemma": "’Adonai",
+          "meaning": "Lord, master"
+        },
+        {
+          "word": "violence",
+          "strongNumber": "H2555",
+          "lemma": "chamas",
+          "meaning": "violence, wrong"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Day and night they go about it upon the walls thereof: mischief also and sorrow are in the midst of it.",
+      "highlightedWords": [
+        {
+          "word": "walls",
+          "strongNumber": "H2346",
+          "lemma": "chomah",
+          "meaning": "wall, fortification"
+        },
+        {
+          "word": "mischief",
+          "strongNumber": "H205",
+          "lemma": "’aven",
+          "meaning": "iniquity, mischief"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Wickedness is in the midst thereof: deceit and guile depart not from her streets.",
+      "highlightedWords": [
+        {
+          "word": "Wickedness",
+          "strongNumber": "H7564",
+          "lemma": "rish'ah",
+          "meaning": "wickedness"
+        },
+        {
+          "word": "deceit",
+          "strongNumber": "H4820",
+          "lemma": "mirmah",
+          "meaning": "deceit, treachery"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "For it was not an enemy that reproached me; then I could have borne it: neither was it he that hated me that did magnify himself against me; then I would have hid myself from him:",
+      "highlightedWords": [
+        {
+          "word": "enemy",
+          "strongNumber": "H341",
+          "lemma": "’oyev",
+          "meaning": "enemy, foe"
+        },
+        {
+          "word": "hated",
+          "strongNumber": "H8130",
+          "lemma": "sane'",
+          "meaning": "to hate"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "But it was thou, a man mine equal, my guide, and mine acquaintance.",
+      "highlightedWords": [
+        {
+          "word": "man",
+          "strongNumber": "H376",
+          "lemma": "’ish",
+          "meaning": "man"
+        },
+        {
+          "word": "guide",
+          "strongNumber": "H441",
+          "lemma": "alluph",
+          "meaning": "chief, friend, guide"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "We took sweet counsel together, and walked unto the house of God in company.",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’elohim",
+          "meaning": "God, mighty one"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Let death seize upon them, and let them go down quick into hell: for wickedness is in their dwellings, and among them.",
+      "highlightedWords": [
+        {
+          "word": "death",
+          "strongNumber": "H4194",
+          "lemma": "maveth",
+          "meaning": "death"
+        },
+        {
+          "word": "hell",
+          "strongNumber": "H7585",
+          "lemma": "She'ol",
+          "meaning": "Sheol, the grave"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "As for me, I will call upon God; and the LORD shall save me.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’elohim",
+          "meaning": "God, mighty one"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the LORD, the divine name"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Evening, and morning, and at noon, will I pray, and cry aloud: and he shall hear my voice.",
+      "highlightedWords": [
+        {
+          "word": "Evening",
+          "strongNumber": "H6153",
+          "lemma": "‘erev",
+          "meaning": "evening"
+        },
+        {
+          "word": "morning",
+          "strongNumber": "H1242",
+          "lemma": "boqer",
+          "meaning": "morning"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "He hath delivered my soul in peace from the battle that was against me: for there were many with me.",
+      "highlightedWords": [
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life"
+        },
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace, wholeness"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "God shall hear, and afflict them, even he that abideth of old. Selah. Because they have no changes, therefore they fear not God.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’elohim",
+          "meaning": "God, mighty one"
+        },
+        {
+          "word": "Selah",
+          "strongNumber": "H5542",
+          "lemma": "selah",
+          "meaning": "musical pause"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "He hath put forth his hands against such as be at peace with him: he hath broken his covenant.",
+      "highlightedWords": [
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace, wholeness"
+        },
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "covenant, treaty"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "The words of his mouth were smoother than butter, but war was in his heart: his words were softer than oil, yet were they drawn swords.",
+      "highlightedWords": [
+        {
+          "word": "words",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "lev",
+          "meaning": "heart, inner being"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Cast thy burden upon the LORD, and he shall sustain thee: he shall never suffer the righteous to be moved.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the LORD, the divine name"
+        },
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "But thou, O God, shalt bring them down into the pit of destruction: bloody and deceitful men shall not live out half their days; but I will trust in thee.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’elohim",
+          "meaning": "God, mighty one"
+        },
+        {
+          "word": "trust",
+          "strongNumber": "H982",
+          "lemma": "batach",
+          "meaning": "to trust, be confident"
+        }
+      ]
+    }
+  ]
+}

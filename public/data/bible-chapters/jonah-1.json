@@ -1,0 +1,330 @@
+{
+  "book": "Jonah",
+  "chapter": 1,
+  "chapterTheme": {
+    "twoWordSummary": "Prophet Pursued",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH",
+        "meaning": "The covenant name of the God of Israel"
+      },
+      {
+        "word": "sea",
+        "strongNumber": "H3220",
+        "lemma": "yam",
+        "meaning": "Sea, large body of water"
+      }
+    ]
+  },
+  "sentenceTheme": "Jonah flees God's call, but the LORD sends a storm that leads the sailors to fear and worship Him.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Now the word of the LORD came unto Jonah the son of Amittai, saying,",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "Word, matter, message"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The personal name of Israel's God"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Arise, go to Nineveh, that great city, and cry against it; for their wickedness is come up before me.",
+      "highlightedWords": [
+        {
+          "word": "Arise",
+          "strongNumber": "H6965",
+          "lemma": "qum",
+          "meaning": "To arise, stand up"
+        },
+        {
+          "word": "Nineveh",
+          "strongNumber": "H5210",
+          "lemma": "Nineveh",
+          "meaning": "Capital city of Assyria"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "But Jonah rose up to flee unto Tarshish from the presence of the LORD, and went down to Joppa; and he found a ship going to Tarshish: so he paid the fare thereof, and went down into it, to go with them unto Tarshish from the presence of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "flee",
+          "strongNumber": "H1272",
+          "lemma": "barach",
+          "meaning": "To flee, run away, escape"
+        },
+        {
+          "word": "presence",
+          "strongNumber": "H6440",
+          "lemma": "paneh",
+          "meaning": "Face, presence"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "But the LORD sent out a great wind into the sea, and there was a mighty tempest in the sea, so that the ship was like to be broken.",
+      "highlightedWords": [
+        {
+          "word": "wind",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "Wind, breath, spirit"
+        },
+        {
+          "word": "tempest",
+          "strongNumber": "H5591",
+          "lemma": "se'arah",
+          "meaning": "Storm, tempest"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Then the mariners were afraid, and cried every man unto his god, and cast forth the wares that were in the ship into the sea, to lighten it of them. But Jonah was gone down into the sides of the ship; and he lay, and was fast asleep.",
+      "highlightedWords": [
+        {
+          "word": "mariners",
+          "strongNumber": "H4419",
+          "lemma": "mallach",
+          "meaning": "Sailor, seaman"
+        },
+        {
+          "word": "cast",
+          "strongNumber": "H2904",
+          "lemma": "tuwl",
+          "meaning": "To hurl, throw, cast"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "So the shipmaster came to him, and said unto him, What meanest thou, O sleeper? arise, call upon thy God, if so be that God will think upon us, that we perish not.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "elohim",
+          "meaning": "God, mighty one"
+        },
+        {
+          "word": "perish",
+          "strongNumber": "H6",
+          "lemma": "abad",
+          "meaning": "To perish, be destroyed"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And they said every one to his fellow, Come, and let us cast lots, that we may know for whose cause this evil is upon us. So they cast lots, and the lot fell upon Jonah.",
+      "highlightedWords": [
+        {
+          "word": "cast",
+          "strongNumber": "H5307",
+          "lemma": "naphal",
+          "meaning": "To fall; to cause to fall, cast"
+        },
+        {
+          "word": "lots",
+          "strongNumber": "H1486",
+          "lemma": "goral",
+          "meaning": "Lot, allotment, casting lots"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Then said they unto him, Tell us, we pray thee, for whose cause this evil is upon us; What is thine occupation? and whence comest thou? what is thy country? and of what people art thou?",
+      "highlightedWords": [
+        {
+          "word": "country",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "Land, earth, country"
+        },
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "am",
+          "meaning": "People, nation"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And he said unto them, I am an Hebrew; and I fear the LORD, the God of heaven, which hath made the sea and the dry land.",
+      "highlightedWords": [
+        {
+          "word": "Hebrew",
+          "strongNumber": "H5680",
+          "lemma": "Ivri",
+          "meaning": "A Hebrew, one from beyond (the river)"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "Heavens, sky"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Then were the men exceedingly afraid, and said unto him, Why hast thou done this? For the men knew that he fled from the presence of the LORD, because he had told them.",
+      "highlightedWords": [
+        {
+          "word": "afraid",
+          "strongNumber": "H3372",
+          "lemma": "yare",
+          "meaning": "To fear, be afraid, revere"
+        },
+        {
+          "word": "presence",
+          "strongNumber": "H6440",
+          "lemma": "paneh",
+          "meaning": "Face, presence"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Then said they unto him, What shall we do unto thee, that the sea may be calm unto us? for the sea wrought, and was tempestuous.",
+      "highlightedWords": [
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "Sea"
+        },
+        {
+          "word": "calm",
+          "strongNumber": "H8252",
+          "lemma": "shaqat",
+          "meaning": "To be quiet or still; to calm, pacify"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And he said unto them, Take me up, and cast me forth into the sea; so shall the sea be calm unto you: for I know that for my sake this great tempest is upon you.",
+      "highlightedWords": [
+        {
+          "word": "cast",
+          "strongNumber": "H2904",
+          "lemma": "tuwl",
+          "meaning": "To hurl, throw, cast"
+        },
+        {
+          "word": "tempest",
+          "strongNumber": "H5591",
+          "lemma": "se'arah",
+          "meaning": "Storm, tempest"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Nevertheless the men rowed hard to bring it to the land; but they could not: for the sea wrought, and was tempestuous against them.",
+      "highlightedWords": [
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "Land, ground, country"
+        },
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "Sea"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Wherefore they cried unto the LORD, and said, We beseech thee, O LORD, we beseech thee, let us not perish for this man's life, and lay not upon us innocent blood: for thou, O LORD, hast done as it pleased thee.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of the God of Israel"
+        },
+        {
+          "word": "perish",
+          "strongNumber": "H6",
+          "lemma": "abad",
+          "meaning": "To perish, be destroyed"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "So they took up Jonah, and cast him forth into the sea: and the sea ceased from her raging.",
+      "highlightedWords": [
+        {
+          "word": "Jonah",
+          "strongNumber": "H3124",
+          "lemma": "Yonah",
+          "meaning": "Jonah; literally, 'dove'"
+        },
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "Sea"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Then the men feared the LORD exceedingly, and offered a sacrifice unto the LORD, and made vows.",
+      "highlightedWords": [
+        {
+          "word": "sacrifice",
+          "strongNumber": "H2077",
+          "lemma": "zebach",
+          "meaning": "Sacrifice, offering"
+        },
+        {
+          "word": "vows",
+          "strongNumber": "H5088",
+          "lemma": "neder",
+          "meaning": "Vow, votive offering"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Now the LORD had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights.",
+      "highlightedWords": [
+        {
+          "word": "prepared",
+          "strongNumber": "H4487",
+          "lemma": "manah",
+          "meaning": "To appoint, prepare, ordain"
+        },
+        {
+          "word": "fish",
+          "strongNumber": "H1709",
+          "lemma": "dag",
+          "meaning": "Fish"
+        }
+      ]
+    }
+  ]
+}

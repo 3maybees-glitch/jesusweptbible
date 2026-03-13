@@ -1,0 +1,330 @@
+{
+  "book": "Psalms",
+  "chapter": 40,
+  "chapterTheme": {
+    "twoWordSummary": "Patient Deliverance",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH",
+        "meaning": "the personal name of the God of Israel"
+      },
+      {
+        "word": "salvation",
+        "strongNumber": "H3444",
+        "lemma": "yeshu'ah",
+        "meaning": "salvation, deliverance, victory"
+      }
+    ]
+  },
+  "sentenceTheme": "David praises the LORD for deliverance, commits to faithful obedience, proclaims God’s righteousness, and pleads for help amid overwhelming troubles.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "I waited patiently for the LORD; and he inclined unto me, and heard my cry.",
+      "highlightedWords": [
+        {
+          "word": "waited",
+          "strongNumber": "H6960",
+          "lemma": "qavah",
+          "meaning": "to wait for, hope in"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "He brought me up also out of an horrible pit, out of the miry clay, and set my feet upon a rock, and established my goings.",
+      "highlightedWords": [
+        {
+          "word": "pit",
+          "strongNumber": "H953",
+          "lemma": "bor",
+          "meaning": "pit, cistern, dungeon"
+        },
+        {
+          "word": "rock",
+          "strongNumber": "H6697",
+          "lemma": "tsur",
+          "meaning": "rock, cliff, stronghold"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And he hath put a new song in my mouth, even praise unto our God: many shall see it, and fear, and shall trust in the LORD.",
+      "highlightedWords": [
+        {
+          "word": "trust",
+          "strongNumber": "H982",
+          "lemma": "batach",
+          "meaning": "to trust, be confident, rely"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Blessed is that man that maketh the LORD his trust, and respecteth not the proud, nor such as turn aside to lies.",
+      "highlightedWords": [
+        {
+          "word": "Blessed",
+          "strongNumber": "H835",
+          "lemma": "’esher",
+          "meaning": "happiness, blessedness"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Many, O LORD my God, are thy wonderful works which thou hast done, and thy thoughts which are to us-ward: they cannot be reckoned up in order unto thee: if I would declare and speak of them, they are more than can be numbered.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        },
+        {
+          "word": "thoughts",
+          "strongNumber": "H4284",
+          "lemma": "machashabah",
+          "meaning": "thought, device, plan"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Sacrifice and offering thou didst not desire; mine ears hast thou opened: burnt offering and sin offering hast thou not required.",
+      "highlightedWords": [
+        {
+          "word": "Sacrifice",
+          "strongNumber": "H2077",
+          "lemma": "zebach",
+          "meaning": "sacrifice, slaughter offering"
+        },
+        {
+          "word": "offering",
+          "strongNumber": "H4503",
+          "lemma": "minchah",
+          "meaning": "gift, grain offering, tribute"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Then said I, Lo, I come: in the volume of the book it is written of me,",
+      "highlightedWords": [
+        {
+          "word": "book",
+          "strongNumber": "H5612",
+          "lemma": "sepher",
+          "meaning": "book, scroll, document"
+        },
+        {
+          "word": "written",
+          "strongNumber": "H3789",
+          "lemma": "kathab",
+          "meaning": "to write, inscribe"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "I delight to do thy will, O my God: yea, thy law is within my heart.",
+      "highlightedWords": [
+        {
+          "word": "delight",
+          "strongNumber": "H2654",
+          "lemma": "chaphats",
+          "meaning": "to take pleasure in, desire"
+        },
+        {
+          "word": "law",
+          "strongNumber": "H8451",
+          "lemma": "torah",
+          "meaning": "instruction, law"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "I have preached righteousness in the great congregation: lo, I have not refrained my lips, O LORD, thou knowest.",
+      "highlightedWords": [
+        {
+          "word": "righteousness",
+          "strongNumber": "H6664",
+          "lemma": "tsedeq",
+          "meaning": "righteousness, justice"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "I have not hid thy righteousness within my heart; I have declared thy faithfulness and thy salvation: I have not concealed thy lovingkindness and thy truth from the great congregation.",
+      "highlightedWords": [
+        {
+          "word": "lovingkindness",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "steadfast love, kindness, covenant loyalty"
+        },
+        {
+          "word": "truth",
+          "strongNumber": "H571",
+          "lemma": "’emeth",
+          "meaning": "firmness, faithfulness, truth"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Withhold not thou thy tender mercies from me, O LORD: let thy lovingkindness and thy truth continually preserve me.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        },
+        {
+          "word": "mercies",
+          "strongNumber": "H7356",
+          "lemma": "rachamim",
+          "meaning": "compassion, tender mercies"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "For innumerable evils have compassed me about: mine iniquities have taken hold upon me, so that I am not able to look up; they are more than the hairs of mine head: therefore my heart faileth me.",
+      "highlightedWords": [
+        {
+          "word": "evils",
+          "strongNumber": "H7451",
+          "lemma": "ra‘",
+          "meaning": "evil, trouble, calamity"
+        },
+        {
+          "word": "iniquities",
+          "strongNumber": "H5771",
+          "lemma": "’avon",
+          "meaning": "iniquity, guilt, punishment of iniquity"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Be pleased, O LORD, to deliver me: O LORD, make haste to help me.",
+      "highlightedWords": [
+        {
+          "word": "deliver",
+          "strongNumber": "H5337",
+          "lemma": "natsal",
+          "meaning": "to snatch away, deliver, rescue"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Let them be ashamed and confounded together that seek after my soul to destroy it; let them be driven backward and put to shame that wish me evil.",
+      "highlightedWords": [
+        {
+          "word": "ashamed",
+          "strongNumber": "H954",
+          "lemma": "bosh",
+          "meaning": "to be put to shame, be confounded"
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, self"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Let them be desolate for a reward of their shame that say unto me, Aha, aha.",
+      "highlightedWords": [
+        {
+          "word": "desolate",
+          "strongNumber": "H8074",
+          "lemma": "shamem",
+          "meaning": "to be appalled, desolated, laid waste"
+        },
+        {
+          "word": "shame",
+          "strongNumber": "H1322",
+          "lemma": "bosheth",
+          "meaning": "shame, disgrace"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Let all those that seek thee rejoice and be glad in thee: let such as love thy salvation say continually, The LORD be magnified.",
+      "highlightedWords": [
+        {
+          "word": "salvation",
+          "strongNumber": "H3444",
+          "lemma": "yeshu'ah",
+          "meaning": "salvation, deliverance, victory"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "But I am poor and needy; yet the Lord thinketh upon me: thou art my help and my deliverer; make no tarrying, O my God.",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "H136",
+          "lemma": "’Adonay",
+          "meaning": "Lord, Master (as a divine title)"
+        },
+        {
+          "word": "help",
+          "strongNumber": "H5828",
+          "lemma": "’ezer",
+          "meaning": "help, aid, support"
+        }
+      ]
+    }
+  ]
+}

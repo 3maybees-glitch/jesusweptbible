@@ -1,0 +1,276 @@
+{
+  "book": "Esther",
+  "chapter": 6,
+  "chapterTheme": {
+    "twoWordSummary": "Mordecai Honored",
+    "themeWords": [
+      {
+        "word": "honour",
+        "strongNumber": "H3366",
+        "lemma": "yeqar",
+        "meaning": "honour; dignity; preciousness"
+      },
+      {
+        "word": "king",
+        "strongNumber": "H4428",
+        "lemma": "melek",
+        "meaning": "king; ruler"
+      }
+    ]
+  },
+  "sentenceTheme": "A sleepless king discovers Mordecai’s loyalty and publicly honors him, overturning Haman’s plot.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "On that night could not the king sleep, and he commanded to bring the book of records of the chronicles; and they were read before the king.",
+      "highlightedWords": [
+        {
+          "word": "sleep",
+          "strongNumber": "H8142",
+          "lemma": "shenah",
+          "meaning": "sleep; slumber"
+        },
+        {
+          "word": "book",
+          "strongNumber": "H5612",
+          "lemma": "sepher",
+          "meaning": "book; scroll; document"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And it was found written, that Mordecai had told of Bigthana and Teresh, two of the king's chamberlains, the keepers of the door, who sought to lay hand on the king Ahasuerus.",
+      "highlightedWords": [
+        {
+          "word": "Mordecai",
+          "strongNumber": "H4782",
+          "lemma": "Mordekai",
+          "meaning": "Mordecai; a Jew in the Persian court"
+        },
+        {
+          "word": "chamberlains",
+          "strongNumber": "H5631",
+          "lemma": "saris",
+          "meaning": "eunuchs; court officials; chamberlains"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And the king said, What honour and dignity hath been done to Mordecai for this? Then said the king's servants that ministered unto him, There is nothing done for him.",
+      "highlightedWords": [
+        {
+          "word": "honour",
+          "strongNumber": "H3366",
+          "lemma": "yeqar",
+          "meaning": "honour; dignity; preciousness"
+        },
+        {
+          "word": "Mordecai",
+          "strongNumber": "H4782",
+          "lemma": "Mordekai",
+          "meaning": "Mordecai; a Jew in the Persian court"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And the king said, Who is in the court? Now Haman was come into the outward court of the king's house, to speak unto the king to hang Mordecai on the gallows that he had prepared for him.",
+      "highlightedWords": [
+        {
+          "word": "Haman",
+          "strongNumber": "H2001",
+          "lemma": "Haman",
+          "meaning": "Haman; an Agagite official of Persia"
+        },
+        {
+          "word": "gallows",
+          "strongNumber": "H6086",
+          "lemma": "‘ets",
+          "meaning": "tree; wood; timber; gallows"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And the king's servants said unto him, Behold, Haman standeth in the court. And the king said, Let him come in.",
+      "highlightedWords": [
+        {
+          "word": "Haman",
+          "strongNumber": "H2001",
+          "lemma": "Haman",
+          "meaning": "Haman; an Agagite official of Persia"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king; ruler"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "So Haman came in. And the king said unto him, What shall be done unto the man whom the king delighteth to honour? Now Haman thought in his heart, To whom would the king delight to do honour more than to myself?",
+      "highlightedWords": [
+        {
+          "word": "Haman",
+          "strongNumber": "H2001",
+          "lemma": "Haman",
+          "meaning": "Haman; an Agagite official of Persia"
+        },
+        {
+          "word": "honour",
+          "strongNumber": "H3366",
+          "lemma": "yeqar",
+          "meaning": "honour; dignity; preciousness"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And Haman answered the king, For the man whom the king delighteth to honour,",
+      "highlightedWords": [
+        {
+          "word": "Haman",
+          "strongNumber": "H2001",
+          "lemma": "Haman",
+          "meaning": "Haman; an Agagite official of Persia"
+        },
+        {
+          "word": "honour",
+          "strongNumber": "H3366",
+          "lemma": "yeqar",
+          "meaning": "honour; dignity; preciousness"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Let the royal apparel be brought which the king useth to wear, and the horse that the king rideth upon, and the crown royal which is set upon his head:",
+      "highlightedWords": [
+        {
+          "word": "horse",
+          "strongNumber": "H5483",
+          "lemma": "sus",
+          "meaning": "horse; warhorse"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king; ruler"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And let this apparel and horse be delivered to the hand of one of the king's most noble princes, that they may array the man withal whom the king delighteth to honour, and bring him on horseback through the street of the city, and proclaim before him, Thus shall it be done to the man whom the king delighteth to honour.",
+      "highlightedWords": [
+        {
+          "word": "proclaim",
+          "strongNumber": "H7121",
+          "lemma": "qara'",
+          "meaning": "to call; proclaim; announce"
+        },
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "‘iyr",
+          "meaning": "city; town"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Then the king said to Haman, Make haste, and take the apparel and the horse, as thou hast said, and do even so to Mordecai the Jew, that sitteth at the king's gate: let nothing fail of all that thou hast spoken.",
+      "highlightedWords": [
+        {
+          "word": "Mordecai",
+          "strongNumber": "H4782",
+          "lemma": "Mordekai",
+          "meaning": "Mordecai; a Jew in the Persian court"
+        },
+        {
+          "word": "Jew",
+          "strongNumber": "H3064",
+          "lemma": "Yehudiy",
+          "meaning": "a Jew; Judean"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Then took Haman the apparel and the horse, and arrayed Mordecai, and brought him on horseback through the street of the city, and proclaimed before him, Thus shall it be done unto the man whom the king delighteth to honour.",
+      "highlightedWords": [
+        {
+          "word": "Haman",
+          "strongNumber": "H2001",
+          "lemma": "Haman",
+          "meaning": "Haman; an Agagite official of Persia"
+        },
+        {
+          "word": "Mordecai",
+          "strongNumber": "H4782",
+          "lemma": "Mordekai",
+          "meaning": "Mordecai; a Jew in the Persian court"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And Mordecai came again to the king's gate. But Haman hasted to his house mourning, and having his head covered.",
+      "highlightedWords": [
+        {
+          "word": "Haman",
+          "strongNumber": "H2001",
+          "lemma": "Haman",
+          "meaning": "Haman; an Agagite official of Persia"
+        },
+        {
+          "word": "head",
+          "strongNumber": "H7218",
+          "lemma": "rosh",
+          "meaning": "head; top; chief"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And Haman told Zeresh his wife and all his friends every thing that had befallen him. Then said his wise men and Zeresh his wife unto him, If Mordecai be of the seed of the Jews, before whom thou hast begun to fall, thou shalt not prevail against him, but shalt surely fall before him.",
+      "highlightedWords": [
+        {
+          "word": "Mordecai",
+          "strongNumber": "H4782",
+          "lemma": "Mordekai",
+          "meaning": "Mordecai; a Jew in the Persian court"
+        },
+        {
+          "word": "Jews",
+          "strongNumber": "H3064",
+          "lemma": "Yehudiy",
+          "meaning": "Jews; Judeans"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And while they were yet talking with him, came the king's chamberlains, and hasted to bring Haman unto the banquet that Esther had prepared.",
+      "highlightedWords": [
+        {
+          "word": "banquet",
+          "strongNumber": "H4960",
+          "lemma": "mishteh",
+          "meaning": "banquet; feast; drinking feast"
+        },
+        {
+          "word": "Esther",
+          "strongNumber": "H635",
+          "lemma": "Esther",
+          "meaning": "Esther; Persian queen"
+        }
+      ]
+    }
+  ]
+}

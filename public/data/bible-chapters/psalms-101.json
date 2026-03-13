@@ -1,0 +1,168 @@
+{
+  "book": "Psalms",
+  "chapter": 101,
+  "chapterTheme": {
+    "twoWordSummary": "Mercy Integrity",
+    "themeWords": [
+      {
+        "word": "mercy",
+        "strongNumber": "H2617",
+        "lemma": "chesed",
+        "meaning": "steadfast love; covenant loyalty"
+      },
+      {
+        "word": "perfect",
+        "strongNumber": "H8549",
+        "lemma": "tamim",
+        "meaning": "blameless, complete; integrity"
+      }
+    ]
+  },
+  "sentenceTheme": "David pledges to rule and live with blameless integrity, upholding justice and purging wickedness under the LORD.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "I will sing of mercy and judgment: unto thee, O LORD, will I sing.",
+      "highlightedWords": [
+        {
+          "word": "mercy",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "steadfast love; covenant loyalty"
+        },
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "justice; legal decision; right"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "I will behave myself wisely in a perfect way. O when wilt thou come unto me? I will walk within my house with a perfect heart.",
+      "highlightedWords": [
+        {
+          "word": "perfect",
+          "strongNumber": "H8549",
+          "lemma": "tamim",
+          "meaning": "blameless, complete; of integrity"
+        },
+        {
+          "word": "walk",
+          "strongNumber": "H1980",
+          "lemma": "halak",
+          "meaning": "to go, walk; to conduct oneself"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "I will set no wicked thing before mine eyes: I hate the work of them that turn aside; it shall not cleave to me.",
+      "highlightedWords": [
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "ayin",
+          "meaning": "eye; sight; appearance"
+        },
+        {
+          "word": "hate",
+          "strongNumber": "H8130",
+          "lemma": "sane",
+          "meaning": "to hate; to be an enemy to"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "A froward heart shall depart from me: I will not know a wicked person.",
+      "highlightedWords": [
+        {
+          "word": "froward",
+          "strongNumber": "H6141",
+          "lemma": "iqqesh",
+          "meaning": "perverse, crooked, twisted"
+        },
+        {
+          "word": "know",
+          "strongNumber": "H3045",
+          "lemma": "yada",
+          "meaning": "to know, perceive, acknowledge"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Whoso privily slandereth his neighbour, him will I cut off: him that hath an high look and a proud heart will not I suffer.",
+      "highlightedWords": [
+        {
+          "word": "neighbour",
+          "strongNumber": "H7453",
+          "lemma": "rea",
+          "meaning": "friend, companion, neighbor"
+        },
+        {
+          "word": "cut off",
+          "strongNumber": "H3772",
+          "lemma": "karath",
+          "meaning": "to cut off; to destroy; to make a covenant by cutting"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Mine eyes shall be upon the faithful of the land, that they may dwell with me: he that walketh in a perfect way, he shall serve me.",
+      "highlightedWords": [
+        {
+          "word": "faithful",
+          "strongNumber": "H539",
+          "lemma": "aman",
+          "meaning": "faithful, trustworthy; to be firm"
+        },
+        {
+          "word": "serve",
+          "strongNumber": "H8334",
+          "lemma": "sharath",
+          "meaning": "to minister, serve, attend"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "He that worketh deceit shall not dwell within my house: he that telleth lies shall not tarry in my sight.",
+      "highlightedWords": [
+        {
+          "word": "deceit",
+          "strongNumber": "H4820",
+          "lemma": "mirmah",
+          "meaning": "deceit, treachery, fraud"
+        },
+        {
+          "word": "lies",
+          "strongNumber": "H8267",
+          "lemma": "sheqer",
+          "meaning": "falsehood; deception; lie"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "I will early destroy all the wicked of the land; that I may cut off all wicked doers from the city of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha",
+          "meaning": "wicked, guilty; criminal"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    }
+  ]
+}

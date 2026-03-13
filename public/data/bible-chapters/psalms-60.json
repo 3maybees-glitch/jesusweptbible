@@ -1,0 +1,240 @@
+{
+  "book": "Psalms",
+  "chapter": 60,
+  "chapterTheme": {
+    "twoWordSummary": "Restoration Deliverance",
+    "themeWords": [
+      {
+        "word": "save",
+        "strongNumber": "H3467",
+        "lemma": "yashaʿ",
+        "meaning": "to save; deliver"
+      },
+      {
+        "word": "banner",
+        "strongNumber": "H5251",
+        "lemma": "nēs",
+        "meaning": "a banner; standard; signal"
+      }
+    ]
+  },
+  "sentenceTheme": "A national lament turns into confident faith as David pleads for God’s restoration and deliverance, trusting the Lord’s sovereign claim over the nations and His power to tread down enemies.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "O God, thou hast cast us off, thou hast scattered us, thou hast been displeased; O turn thyself to us again.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’Elohim",
+          "meaning": "God; the true God; mighty one"
+        },
+        {
+          "word": "turn",
+          "strongNumber": "H7725",
+          "lemma": "shuv",
+          "meaning": "to return, turn back, restore"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Thou hast made the earth to tremble; thou hast broken it: heal the breaches thereof; for it shaketh.",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "’erets",
+          "meaning": "earth; land; ground"
+        },
+        {
+          "word": "heal",
+          "strongNumber": "H7495",
+          "lemma": "raphaʾ",
+          "meaning": "to heal; make healthy; restore"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Thou hast shewed thy people hard things: thou hast made us to drink the wine of astonishment.",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "ʿam",
+          "meaning": "people; nation; kinsfolk"
+        },
+        {
+          "word": "wine",
+          "strongNumber": "H3196",
+          "lemma": "yayin",
+          "meaning": "wine"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Thou hast given a banner to them that fear thee, that it may be displayed because of the truth. Selah.",
+      "highlightedWords": [
+        {
+          "word": "banner",
+          "strongNumber": "H5251",
+          "lemma": "nēs",
+          "meaning": "a banner; standard; signal"
+        },
+        {
+          "word": "truth",
+          "strongNumber": "H571",
+          "lemma": "’emeth",
+          "meaning": "truth; firmness; faithfulness"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "That thy beloved may be delivered; save with thy right hand, and hear me.",
+      "highlightedWords": [
+        {
+          "word": "beloved",
+          "strongNumber": "H3039",
+          "lemma": "yediyd",
+          "meaning": "beloved; loved one; dear friend"
+        },
+        {
+          "word": "save",
+          "strongNumber": "H3467",
+          "lemma": "yashaʿ",
+          "meaning": "to save; deliver; give victory"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "God hath spoken in his holiness; I will rejoice, I will divide Shechem, and mete out the valley of Succoth.",
+      "highlightedWords": [
+        {
+          "word": "Shechem",
+          "strongNumber": "H7927",
+          "lemma": "Shekem",
+          "meaning": "Shechem; a city in the hill-country of Ephraim"
+        },
+        {
+          "word": "Succoth",
+          "strongNumber": "H5523",
+          "lemma": "Sukkoth",
+          "meaning": "Succoth; booths; a place east of the Jordan"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Gilead is mine, and Manasseh is mine; Ephraim also is the strength of mine head; Judah is my lawgiver;",
+      "highlightedWords": [
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah; praise; the tribe/kingdom of Judah"
+        },
+        {
+          "word": "lawgiver",
+          "strongNumber": "H2710",
+          "lemma": "choqeq",
+          "meaning": "lawgiver; ruler; one who decrees"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Moab is my washpot; over Edom will I cast out my shoe: Philistia, triumph thou because of me.",
+      "highlightedWords": [
+        {
+          "word": "Moab",
+          "strongNumber": "H4124",
+          "lemma": "Moʾab",
+          "meaning": "Moab; a nation east of the Dead Sea"
+        },
+        {
+          "word": "Edom",
+          "strongNumber": "H123",
+          "lemma": "ʾEdom",
+          "meaning": "Edom; red; the nation descended from Esau"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Who will bring me into the strong city? who will lead me into Edom?",
+      "highlightedWords": [
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "ʿir",
+          "meaning": "city; town"
+        },
+        {
+          "word": "Edom",
+          "strongNumber": "H123",
+          "lemma": "ʾEdom",
+          "meaning": "Edom; red; the nation descended from Esau"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Wilt not thou, O God, which hadst cast us off? and thou, O God, which didst not go out with our armies?",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’Elohim",
+          "meaning": "God; the true God; mighty one"
+        },
+        {
+          "word": "armies",
+          "strongNumber": "H6635",
+          "lemma": "tsavaʾ",
+          "meaning": "army; host; warfare"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Give us help from trouble: for vain is the help of man.",
+      "highlightedWords": [
+        {
+          "word": "vain",
+          "strongNumber": "H7723",
+          "lemma": "shavʾ",
+          "meaning": "emptiness; vanity; falsehood"
+        },
+        {
+          "word": "man",
+          "strongNumber": "H120",
+          "lemma": "’adam",
+          "meaning": "man; humankind; humanity"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Through God we shall do valiantly: for he it is that shall tread down our enemies.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’Elohim",
+          "meaning": "God; the true God; mighty one"
+        },
+        {
+          "word": "enemies",
+          "strongNumber": "H6862",
+          "lemma": "tsar",
+          "meaning": "enemy; adversary; foe"
+        }
+      ]
+    }
+  ]
+}

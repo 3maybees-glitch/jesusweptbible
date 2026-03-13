@@ -1,0 +1,528 @@
+{
+  "book": "Proverbs",
+  "chapter": 12,
+  "chapterTheme": {
+    "twoWordSummary": "Righteous Conduct",
+    "themeWords": [
+      {
+        "word": "righteous",
+        "strongNumber": "H6662",
+        "lemma": "tsaddiyq",
+        "meaning": "righteous, just"
+      },
+      {
+        "word": "wicked",
+        "strongNumber": "H7563",
+        "lemma": "rasha'",
+        "meaning": "wicked, criminal"
+      }
+    ]
+  },
+  "sentenceTheme": "Contrasting the ways and outcomes of the righteous and the wicked, this chapter urges wise, truthful, diligent living under the LORD’s favor.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Whoso loveth instruction loveth knowledge: but he that hateth reproof is brutish.",
+      "highlightedWords": [
+        {
+          "word": "instruction",
+          "strongNumber": "H4148",
+          "lemma": "musar",
+          "meaning": "discipline, correction, instruction"
+        },
+        {
+          "word": "knowledge",
+          "strongNumber": "H1847",
+          "lemma": "da'ath",
+          "meaning": "knowledge"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "A good man obtaineth favour of the LORD: but a man of wicked devices will he condemn.",
+      "highlightedWords": [
+        {
+          "word": "good",
+          "strongNumber": "H2896",
+          "lemma": "tov",
+          "meaning": "good, pleasant, beneficial"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the divine name, the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "A man shall not be established by wickedness: but the root of the righteous shall not be moved.",
+      "highlightedWords": [
+        {
+          "word": "wickedness",
+          "strongNumber": "H7562",
+          "lemma": "resha'",
+          "meaning": "wickedness, evil"
+        },
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiyq",
+          "meaning": "righteous, just"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "A virtuous woman is a crown to her husband: but she that maketh ashamed is as rottenness in his bones.",
+      "highlightedWords": [
+        {
+          "word": "woman",
+          "strongNumber": "H802",
+          "lemma": "ishshah",
+          "meaning": "woman, wife"
+        },
+        {
+          "word": "crown",
+          "strongNumber": "H5850",
+          "lemma": "atarah",
+          "meaning": "crown, wreath"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "The thoughts of the righteous are right: but the counsels of the wicked are deceit.",
+      "highlightedWords": [
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiyq",
+          "meaning": "righteous, just"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha'",
+          "meaning": "wicked, criminal"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "The words of the wicked are to lie in wait for blood: but the mouth of the upright shall deliver them.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha'",
+          "meaning": "wicked, criminal"
+        },
+        {
+          "word": "upright",
+          "strongNumber": "H3477",
+          "lemma": "yashar",
+          "meaning": "upright, straight"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "The wicked are overthrown, and are not: but the house of the righteous shall stand.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha'",
+          "meaning": "wicked, criminal"
+        },
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiyq",
+          "meaning": "righteous, just"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "A man shall be commended according to his wisdom: but he that is of a perverse heart shall be despised.",
+      "highlightedWords": [
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "wisdom, skill"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner person"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "He that is despised, and hath a servant, is better than he that honoureth himself, and lacketh bread.",
+      "highlightedWords": [
+        {
+          "word": "servant",
+          "strongNumber": "H5650",
+          "lemma": "ebed",
+          "meaning": "servant, slave"
+        },
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread, food"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "A righteous man regardeth the life of his beast: but the tender mercies of the wicked are cruel.",
+      "highlightedWords": [
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiyq",
+          "meaning": "righteous, just"
+        },
+        {
+          "word": "beast",
+          "strongNumber": "H929",
+          "lemma": "behemah",
+          "meaning": "beast, animal"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "He that tilleth his land shall be satisfied with bread: but he that followeth vain persons is void of understanding.",
+      "highlightedWords": [
+        {
+          "word": "tilleth",
+          "strongNumber": "H5647",
+          "lemma": "'abad",
+          "meaning": "to work, serve, till"
+        },
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread, food"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "The wicked desireth the net of evil men: but the root of the righteous yieldeth fruit.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha'",
+          "meaning": "wicked, criminal"
+        },
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiyq",
+          "meaning": "righteous, just"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "The wicked is snared by the transgression of his lips: but the just shall come out of trouble.",
+      "highlightedWords": [
+        {
+          "word": "lips",
+          "strongNumber": "H8193",
+          "lemma": "saphah",
+          "meaning": "lip, speech, language"
+        },
+        {
+          "word": "just",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiyq",
+          "meaning": "just, righteous"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "A man shall be satisfied with good by the fruit of his mouth: and the recompence of a man's hands shall be rendered unto him.",
+      "highlightedWords": [
+        {
+          "word": "mouth",
+          "strongNumber": "H6310",
+          "lemma": "peh",
+          "meaning": "mouth"
+        },
+        {
+          "word": "hands",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "The way of a fool is right in his own eyes: but he that hearkeneth unto counsel is wise.",
+      "highlightedWords": [
+        {
+          "word": "way",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way, road, path"
+        },
+        {
+          "word": "counsel",
+          "strongNumber": "H6098",
+          "lemma": "'etsah",
+          "meaning": "counsel, advice"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "A fool's wrath is presently known: but a prudent man covereth shame.",
+      "highlightedWords": [
+        {
+          "word": "prudent",
+          "strongNumber": "H6175",
+          "lemma": "arum",
+          "meaning": "prudent, shrewd"
+        },
+        {
+          "word": "covereth",
+          "strongNumber": "H3680",
+          "lemma": "kasah",
+          "meaning": "to cover, conceal"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "He that speaketh truth sheweth forth righteousness: but a false witness deceit.",
+      "highlightedWords": [
+        {
+          "word": "truth",
+          "strongNumber": "H571",
+          "lemma": "emeth",
+          "meaning": "truth, faithfulness"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "tsedaqah",
+          "meaning": "righteousness, justice"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "There is that speaketh like the piercings of a sword: but the tongue of the wise is health.",
+      "highlightedWords": [
+        {
+          "word": "tongue",
+          "strongNumber": "H3956",
+          "lemma": "lashon",
+          "meaning": "tongue, language"
+        },
+        {
+          "word": "health",
+          "strongNumber": "H4832",
+          "lemma": "marpe'",
+          "meaning": "healing, health"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "The lip of truth shall be established for ever: but a lying tongue is but for a moment.",
+      "highlightedWords": [
+        {
+          "word": "truth",
+          "strongNumber": "H571",
+          "lemma": "emeth",
+          "meaning": "truth, faithfulness"
+        },
+        {
+          "word": "lying",
+          "strongNumber": "H8267",
+          "lemma": "sheqer",
+          "meaning": "lie, falsehood, deception"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Deceit is in the heart of them that imagine evil: but to the counsellors of peace is joy.",
+      "highlightedWords": [
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace, welfare, wholeness"
+        },
+        {
+          "word": "joy",
+          "strongNumber": "H8057",
+          "lemma": "simchah",
+          "meaning": "joy, gladness"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "There shall no evil happen to the just: but the wicked shall be filled with mischief.",
+      "highlightedWords": [
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra'",
+          "meaning": "evil, bad, calamity"
+        },
+        {
+          "word": "just",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiyq",
+          "meaning": "just, righteous"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Lying lips are abomination to the LORD: but they that deal truly are his delight.",
+      "highlightedWords": [
+        {
+          "word": "abomination",
+          "strongNumber": "H8441",
+          "lemma": "to'evah",
+          "meaning": "abomination, detestable thing"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the divine name, the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "A prudent man concealeth knowledge: but the heart of fools proclaimeth foolishness.",
+      "highlightedWords": [
+        {
+          "word": "prudent",
+          "strongNumber": "H6175",
+          "lemma": "arum",
+          "meaning": "prudent, shrewd"
+        },
+        {
+          "word": "knowledge",
+          "strongNumber": "H1847",
+          "lemma": "da'ath",
+          "meaning": "knowledge"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "The hand of the diligent shall bear rule: but the slothful shall be under tribute.",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        },
+        {
+          "word": "tribute",
+          "strongNumber": "H4522",
+          "lemma": "mas",
+          "meaning": "forced labor, tribute"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Heaviness in the heart of man maketh it stoop: but a good word maketh it glad.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner person"
+        },
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "The righteous is more excellent than his neighbour: but the way of the wicked seduceth them.",
+      "highlightedWords": [
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiyq",
+          "meaning": "righteous, just"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha'",
+          "meaning": "wicked, criminal"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "The slothful man roasteth not that which he took in hunting: but the substance of a diligent man is precious.",
+      "highlightedWords": [
+        {
+          "word": "hunting",
+          "strongNumber": "H6718",
+          "lemma": "tsayid",
+          "meaning": "hunting, game, prey"
+        },
+        {
+          "word": "precious",
+          "strongNumber": "H3368",
+          "lemma": "yaqar",
+          "meaning": "precious, valuable, costly"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "In the way of righteousness is life: and in the pathway thereof there is no death.",
+      "highlightedWords": [
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "tsedaqah",
+          "meaning": "righteousness, justice"
+        },
+        {
+          "word": "life",
+          "strongNumber": "H2416",
+          "lemma": "chay",
+          "meaning": "life, living, alive"
+        }
+      ]
+    }
+  ]
+}

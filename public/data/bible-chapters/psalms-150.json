@@ -1,0 +1,132 @@
+{
+  "book": "Psalms",
+  "chapter": 150,
+  "chapterTheme": {
+    "twoWordSummary": "Universal Praise",
+    "themeWords": [
+      {
+        "word": "Praise",
+        "strongNumber": "H1984",
+        "lemma": "halal",
+        "meaning": "to praise, boast, celebrate; to shine forth"
+      },
+      {
+        "word": "breath",
+        "strongNumber": "H5397",
+        "lemma": "neshamah",
+        "meaning": "breath; life-breath; spirit"
+      }
+    ]
+  },
+  "sentenceTheme": "All creation is called to praise God everywhere and with every instrument, even with every breath.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Praise ye the LORD. Praise God in his sanctuary: praise him in the firmament of his power.",
+      "highlightedWords": [
+        {
+          "word": "sanctuary",
+          "strongNumber": "H6944",
+          "lemma": "qodesh",
+          "meaning": "holiness; a holy place, sanctuary"
+        },
+        {
+          "word": "firmament",
+          "strongNumber": "H7549",
+          "lemma": "raqia",
+          "meaning": "an expanse, firmament; the vault of the sky"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Praise him for his mighty acts: praise him according to his excellent greatness.",
+      "highlightedWords": [
+        {
+          "word": "Praise",
+          "strongNumber": "H1984",
+          "lemma": "halal",
+          "meaning": "to praise, boast, celebrate; to shine forth"
+        },
+        {
+          "word": "greatness",
+          "strongNumber": "H1420",
+          "lemma": "godel",
+          "meaning": "greatness, magnitude, majesty"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Praise him with the sound of the trumpet: praise him with the psaltery and harp.",
+      "highlightedWords": [
+        {
+          "word": "trumpet",
+          "strongNumber": "H7782",
+          "lemma": "shofar",
+          "meaning": "a ram’s horn; trumpet"
+        },
+        {
+          "word": "harp",
+          "strongNumber": "H3658",
+          "lemma": "kinnor",
+          "meaning": "a lyre, harp"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Praise him with the timbrel and dance: praise him with stringed instruments and organs.",
+      "highlightedWords": [
+        {
+          "word": "timbrel",
+          "strongNumber": "H8596",
+          "lemma": "toph",
+          "meaning": "hand drum, tambourine"
+        },
+        {
+          "word": "dance",
+          "strongNumber": "H4234",
+          "lemma": "machol",
+          "meaning": "a dance; dancing (often a round dance)"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Praise him upon the loud cymbals: praise him upon the high sounding cymbals.",
+      "highlightedWords": [
+        {
+          "word": "Praise",
+          "strongNumber": "H1984",
+          "lemma": "halal",
+          "meaning": "to praise, boast, celebrate; to shine forth"
+        },
+        {
+          "word": "cymbals",
+          "strongNumber": "H6767",
+          "lemma": "tseltselim",
+          "meaning": "a pair of cymbals"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Let every thing that hath breath praise the LORD. Praise ye the LORD.",
+      "highlightedWords": [
+        {
+          "word": "breath",
+          "strongNumber": "H5397",
+          "lemma": "neshamah",
+          "meaning": "breath; life-breath; spirit"
+        },
+        {
+          "word": "Praise",
+          "strongNumber": "H1984",
+          "lemma": "halal",
+          "meaning": "to praise, boast, celebrate; to shine forth"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "book": "Song of Solomon",
+  "chapter": 3,
+  "chapterTheme": {
+    "twoWordSummary": "Seeking Beloved",
+    "themeWords": [
+      {
+        "word": "seek",
+        "strongNumber": "H1245",
+        "lemma": "baqash",
+        "meaning": "to search for, seek earnestly"
+      },
+      {
+        "word": "beloved",
+        "strongNumber": "H1730",
+        "lemma": "dod",
+        "meaning": "beloved, loved one"
+      }
+    ]
+  },
+  "sentenceTheme": "The bride earnestly seeks and finds her beloved, and a royal procession celebrates Solomon’s splendor.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "By night on my bed I sought him whom my soul loveth: I sought him, but I found him not.",
+      "highlightedWords": [
+        {
+          "word": "night",
+          "strongNumber": "H3915",
+          "lemma": "layil",
+          "meaning": "night, nighttime"
+        },
+        {
+          "word": "loveth",
+          "strongNumber": "H157",
+          "lemma": "ahab",
+          "meaning": "to love"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "I will rise now, and go about the city in the streets, and in the broad ways I will seek him whom my soul loveth: I sought him, but I found him not.",
+      "highlightedWords": [
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "ʿiyr",
+          "meaning": "city, town"
+        },
+        {
+          "word": "seek",
+          "strongNumber": "H1245",
+          "lemma": "baqash",
+          "meaning": "to search for, seek"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "The watchmen that go about the city found me: to whom I said, Saw ye him whom my soul loveth?",
+      "highlightedWords": [
+        {
+          "word": "watchmen",
+          "strongNumber": "H8104",
+          "lemma": "shamar",
+          "meaning": "to keep, guard; watchman (keeper)"
+        },
+        {
+          "word": "loveth",
+          "strongNumber": "H157",
+          "lemma": "ahab",
+          "meaning": "to love"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "It was but a little that I passed from them, but I found him whom my soul loveth: I held him, and would not let him go, until I had brought him into my mother's house, and into the chamber of her that conceived me.",
+      "highlightedWords": [
+        {
+          "word": "mother's",
+          "strongNumber": "H517",
+          "lemma": "’em",
+          "meaning": "mother"
+        },
+        {
+          "word": "chamber",
+          "strongNumber": "H2315",
+          "lemma": "cheder",
+          "meaning": "inner room, chamber"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "I charge you, O ye daughters of Jerusalem, by the roes, and by the hinds of the field, that ye stir not up, nor awake my love, till he please.",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem, the chief city of Israel"
+        },
+        {
+          "word": "awake",
+          "strongNumber": "H5782",
+          "lemma": "‘ur",
+          "meaning": "to rouse, awaken, stir up"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Who is this that cometh out of the wilderness like pillars of smoke, perfumed with myrrh and frankincense, with all powders of the merchant?",
+      "highlightedWords": [
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbar",
+          "meaning": "wilderness, desert"
+        },
+        {
+          "word": "frankincense",
+          "strongNumber": "H3828",
+          "lemma": "lebonah",
+          "meaning": "frankincense"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Behold his bed, which is Solomon's; threescore valiant men are about it, of the valiant of Israel.",
+      "highlightedWords": [
+        {
+          "word": "Solomon's",
+          "strongNumber": "H8010",
+          "lemma": "Shelomoh",
+          "meaning": "Solomon, king of Israel"
+        },
+        {
+          "word": "valiant",
+          "strongNumber": "H1368",
+          "lemma": "gibbor",
+          "meaning": "mighty, valiant, strong"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "They all hold swords, being expert in war: every man hath his sword upon his thigh because of fear in the night.",
+      "highlightedWords": [
+        {
+          "word": "swords",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword"
+        },
+        {
+          "word": "war",
+          "strongNumber": "H4421",
+          "lemma": "milchamah",
+          "meaning": "war, battle"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "King Solomon made himself a chariot of the wood of Lebanon.",
+      "highlightedWords": [
+        {
+          "word": "Solomon",
+          "strongNumber": "H8010",
+          "lemma": "Shelomoh",
+          "meaning": "Solomon, king of Israel"
+        },
+        {
+          "word": "Lebanon",
+          "strongNumber": "H3844",
+          "lemma": "Levanon",
+          "meaning": "Lebanon"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "He made the pillars thereof of silver, the bottom thereof of gold, the covering of it of purple, the midst thereof being paved with love, for the daughters of Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "silver",
+          "strongNumber": "H3701",
+          "lemma": "kesef",
+          "meaning": "silver"
+        },
+        {
+          "word": "love",
+          "strongNumber": "H160",
+          "lemma": "’ahavah",
+          "meaning": "love, affection"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Go forth, O ye daughters of Zion, and behold king Solomon with the crown wherewith his mother crowned him in the day of his espousals, and in the day of the gladness of his heart.",
+      "highlightedWords": [
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyon",
+          "meaning": "Zion"
+        },
+        {
+          "word": "crown",
+          "strongNumber": "H5850",
+          "lemma": "‘atarah",
+          "meaning": "crown, wreath"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,438 @@
+{
+  "book": "Judges",
+  "chapter": 2,
+  "chapterTheme": {
+    "twoWordSummary": "Covenant Broken",
+    "themeWords": [
+      {
+        "word": "covenant",
+        "strongNumber": "H1285",
+        "lemma": "בְּרִית",
+        "meaning": "covenant, treaty"
+      },
+      {
+        "word": "judges",
+        "strongNumber": "H8199",
+        "lemma": "שֹׁפֵט",
+        "meaning": "judge, ruler"
+      }
+    ]
+  },
+  "sentenceTheme": "After Joshua's death, Israel forsakes the LORD, prompting God to raise judges while leaving surrounding nations to test them.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And an angel of the LORD came up from Gilgal to Bochim, and said, I made you to go up out of Egypt, and have brought you unto the land which I sware unto your fathers; and I said, I will never break my covenant with you.",
+      "highlightedWords": [
+        {
+          "word": "angel",
+          "strongNumber": "H4397",
+          "lemma": "מַלְאָךְ",
+          "meaning": "messenger, angel"
+        },
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "בְּרִית",
+          "meaning": "covenant, treaty"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And ye shall make no league with the inhabitants of this land; ye shall throw down their altars: but ye have not obeyed my voice: why have ye done this?",
+      "highlightedWords": [
+        {
+          "word": "altars",
+          "strongNumber": "H4196",
+          "lemma": "מִזְבֵּחַ",
+          "meaning": "altar"
+        },
+        {
+          "word": "voice",
+          "strongNumber": "H6963",
+          "lemma": "קוֹל",
+          "meaning": "voice, sound"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Wherefore I also said, I will not drive them out from before you; but they shall be as thorns in your sides, and their gods shall be a snare unto you.",
+      "highlightedWords": [
+        {
+          "word": "gods",
+          "strongNumber": "H430",
+          "lemma": "אֱלֹהִים",
+          "meaning": "God, gods"
+        },
+        {
+          "word": "snare",
+          "strongNumber": "H4170",
+          "lemma": "מוֹקֵשׁ",
+          "meaning": "snare, trap"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And it came to pass, when the angel of the LORD spake these words unto all the children of Israel, that the people lifted up their voice, and wept.",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "בֵּן",
+          "meaning": "son, child"
+        },
+        {
+          "word": "wept",
+          "strongNumber": "H1058",
+          "lemma": "בָּכָה",
+          "meaning": "to weep"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And they called the name of that place Bochim: and they sacrificed there unto the LORD.",
+      "highlightedWords": [
+        {
+          "word": "sacrificed",
+          "strongNumber": "H2076",
+          "lemma": "זָבַח",
+          "meaning": "to sacrifice, slaughter"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "יְהוָה",
+          "meaning": "Yahweh, the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And when Joshua had let the people go, the children of Israel went every man unto his inheritance to possess the land.",
+      "highlightedWords": [
+        {
+          "word": "inheritance",
+          "strongNumber": "H5159",
+          "lemma": "נַחֲלָה",
+          "meaning": "inheritance, portion"
+        },
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "אֶרֶץ",
+          "meaning": "land, earth"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And the people served the LORD all the days of Joshua, and all the days of the elders that outlived Joshua, who had seen all the great works of the LORD, that he did for Israel.",
+      "highlightedWords": [
+        {
+          "word": "served",
+          "strongNumber": "H5647",
+          "lemma": "עָבַד",
+          "meaning": "to serve, work"
+        },
+        {
+          "word": "works",
+          "strongNumber": "H4639",
+          "lemma": "מַעֲשֶׂה",
+          "meaning": "work, deed"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And Joshua the son of Nun, the servant of the LORD, died, being an hundred and ten years old.",
+      "highlightedWords": [
+        {
+          "word": "servant",
+          "strongNumber": "H5650",
+          "lemma": "עֶבֶד",
+          "meaning": "servant, slave"
+        },
+        {
+          "word": "died",
+          "strongNumber": "H4191",
+          "lemma": "מוּת",
+          "meaning": "to die"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And they buried him in the border of his inheritance in Timnath-heres, in the mount of Ephraim, on the north side of the hill Gaash.",
+      "highlightedWords": [
+        {
+          "word": "buried",
+          "strongNumber": "H6912",
+          "lemma": "קָבַר",
+          "meaning": "to bury"
+        },
+        {
+          "word": "mount",
+          "strongNumber": "H2022",
+          "lemma": "הַר",
+          "meaning": "mountain, hill country"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And also all that generation were gathered unto their fathers: and there arose another generation after them, which knew not the LORD, nor yet the works which he had done for Israel.",
+      "highlightedWords": [
+        {
+          "word": "generation",
+          "strongNumber": "H1755",
+          "lemma": "דּוֹר",
+          "meaning": "generation"
+        },
+        {
+          "word": "knew",
+          "strongNumber": "H3045",
+          "lemma": "יָדַע",
+          "meaning": "to know"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And the children of Israel did evil in the sight of the LORD, and served Baalim:",
+      "highlightedWords": [
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "רַע",
+          "meaning": "evil, bad"
+        },
+        {
+          "word": "Baalim",
+          "strongNumber": "H1168",
+          "lemma": "בַּעַל",
+          "meaning": "Baal(s), Canaanite deities"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And they forsook the LORD God of their fathers, which brought them out of the land of Egypt, and followed other gods, of the gods of the people that were round about them, and bowed themselves unto them, and provoked the LORD to anger.",
+      "highlightedWords": [
+        {
+          "word": "forsook",
+          "strongNumber": "H5800",
+          "lemma": "עָזַב",
+          "meaning": "to forsake, abandon"
+        },
+        {
+          "word": "bowed",
+          "strongNumber": "H7812",
+          "lemma": "שָׁחָה",
+          "meaning": "to bow down, prostrate"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And they forsook the LORD, and served Baal and Ashtaroth.",
+      "highlightedWords": [
+        {
+          "word": "Baal",
+          "strongNumber": "H1168",
+          "lemma": "בַּעַל",
+          "meaning": "Baal, lord (Canaanite deity)"
+        },
+        {
+          "word": "Ashtaroth",
+          "strongNumber": "H6252",
+          "lemma": "עַשְׁתָּרוֹת",
+          "meaning": "Ashtaroth, Astarte (goddess)"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And the anger of the LORD was hot against Israel, and he delivered them into the hands of spoilers that spoiled them, and he sold them into the hands of their enemies round about, so that they could not any longer stand before their enemies.",
+      "highlightedWords": [
+        {
+          "word": "anger",
+          "strongNumber": "H639",
+          "lemma": "אַף",
+          "meaning": "nose, anger"
+        },
+        {
+          "word": "sold",
+          "strongNumber": "H4376",
+          "lemma": "מָכַר",
+          "meaning": "to sell"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Whithersoever they went out, the hand of the LORD was against them for evil, as the LORD had said, and as the LORD had sworn unto them: and they were greatly distressed.",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "יָד",
+          "meaning": "hand, power"
+        },
+        {
+          "word": "sworn",
+          "strongNumber": "H7650",
+          "lemma": "שָׁבַע",
+          "meaning": "to swear, take an oath"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Nevertheless the LORD raised up judges, which delivered them out of the hand of those that spoiled them.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "יְהוָה",
+          "meaning": "Yahweh, the LORD"
+        },
+        {
+          "word": "judges",
+          "strongNumber": "H8199",
+          "lemma": "שֹׁפֵט",
+          "meaning": "judge, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And yet they would not hearken unto their judges, but they went a whoring after other gods, and bowed themselves unto them: they turned quickly out of the way which their fathers walked in, obeying the commandments of the LORD; but they did not so.",
+      "highlightedWords": [
+        {
+          "word": "hearken",
+          "strongNumber": "H8085",
+          "lemma": "שָׁמַע",
+          "meaning": "to hear, listen, obey"
+        },
+        {
+          "word": "commandments",
+          "strongNumber": "H4687",
+          "lemma": "מִצְוָה",
+          "meaning": "commandment"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And when the LORD raised them up judges, then the LORD was with the judge, and delivered them out of the hand of their enemies all the days of the judge: for it repented the LORD because of their groanings by reason of them that oppressed them and vexed them.",
+      "highlightedWords": [
+        {
+          "word": "judge",
+          "strongNumber": "H8199",
+          "lemma": "שֹׁפֵט",
+          "meaning": "judge, ruler"
+        },
+        {
+          "word": "groanings",
+          "strongNumber": "H5009",
+          "lemma": "נַאֲקָה",
+          "meaning": "groaning, lamentation"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And it came to pass, when the judge was dead, that they returned, and corrupted themselves more than their fathers, in following other gods to serve them, and to bow down unto them; they ceased not from their own doings, nor from their stubborn way.",
+      "highlightedWords": [
+        {
+          "word": "corrupted",
+          "strongNumber": "H7843",
+          "lemma": "שָׁחַת",
+          "meaning": "to ruin, corrupt, destroy"
+        },
+        {
+          "word": "stubborn",
+          "strongNumber": "H7186",
+          "lemma": "קָשֶׁה",
+          "meaning": "hard, stubborn"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And the anger of the LORD was hot against Israel; and he said, Because that this people hath transgressed my covenant which I commanded their fathers, and have not hearkened unto my voice;",
+      "highlightedWords": [
+        {
+          "word": "transgressed",
+          "strongNumber": "H5674",
+          "lemma": "עָבַר",
+          "meaning": "to pass over, transgress"
+        },
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "בְּרִית",
+          "meaning": "covenant, treaty"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "I also will not henceforth drive out any from before them of the nations which Joshua left when he died:",
+      "highlightedWords": [
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "גּוֹי",
+          "meaning": "nation, people"
+        },
+        {
+          "word": "Joshua",
+          "strongNumber": "H3091",
+          "lemma": "יְהוֹשֻׁעַ",
+          "meaning": "Joshua, Yahweh is salvation"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "That through them I may prove Israel, whether they will keep the way of the LORD to walk therein, as their fathers did keep it, or not.",
+      "highlightedWords": [
+        {
+          "word": "prove",
+          "strongNumber": "H5254",
+          "lemma": "נָסָה",
+          "meaning": "to test, try"
+        },
+        {
+          "word": "keep",
+          "strongNumber": "H8104",
+          "lemma": "שָׁמַר",
+          "meaning": "to keep, guard, observe"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Therefore the LORD left those nations, without driving them out hastily; neither delivered he them into the hand of Joshua.",
+      "highlightedWords": [
+        {
+          "word": "left",
+          "strongNumber": "H3240",
+          "lemma": "יָנַח",
+          "meaning": "to leave, let remain"
+        },
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "גּוֹי",
+          "meaning": "nation, people"
+        }
+      ]
+    }
+  ]
+}

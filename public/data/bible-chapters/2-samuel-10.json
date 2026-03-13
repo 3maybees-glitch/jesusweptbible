@@ -1,0 +1,366 @@
+{
+  "book": "2 Samuel",
+  "chapter": 10,
+  "chapterTheme": {
+    "twoWordSummary": "Ammonite War",
+    "themeWords": [
+      {
+        "word": "Ammon",
+        "strongNumber": "H5983",
+        "lemma": "ʿAmmôn",
+        "meaning": "Ammonites; descendants of Lot"
+      },
+      {
+        "word": "Syrians",
+        "strongNumber": "H0758",
+        "lemma": "’Aram",
+        "meaning": "Arameans/Syrians"
+      }
+    ]
+  },
+  "sentenceTheme": "Ammon shames David’s envoys, hiring Syrian allies for war, but Joab and David rout them, leading to peace and Syrian withdrawal from aiding Ammon.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And it came to pass after this, that the king of the children of Ammon died, and Hanun his son reigned in his stead.",
+      "highlightedWords": [
+        {
+          "word": "Ammon",
+          "strongNumber": "H5983",
+          "lemma": "ʿAmmôn",
+          "meaning": "Ammonites; descendants of Lot"
+        },
+        {
+          "word": "Hanun",
+          "strongNumber": "H2586",
+          "lemma": "Chānūn",
+          "meaning": "gracious, favored"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Then said David, I will shew kindness unto Hanun the son of Nahash, as his father shewed kindness unto me. And David sent to comfort him by the hand of his servants for his father. And David's servants came into the land of the children of Ammon.",
+      "highlightedWords": [
+        {
+          "word": "kindness",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "covenant loyalty; steadfast love; kindness"
+        },
+        {
+          "word": "Nahash",
+          "strongNumber": "H5176",
+          "lemma": "Nāchāsh",
+          "meaning": "serpent"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And the princes of the children of Ammon said unto Hanun their lord, Thinkest thou that David doth honour thy father, that he hath sent comforters unto thee? hath not David rather sent his servants unto thee, to search the city, and to spy it out, and to overthrow it?",
+      "highlightedWords": [
+        {
+          "word": "princes",
+          "strongNumber": "H8269",
+          "lemma": "śar",
+          "meaning": "prince, ruler, official"
+        },
+        {
+          "word": "spy",
+          "strongNumber": "H7270",
+          "lemma": "rāgal",
+          "meaning": "to spy out; explore"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Wherefore Hanun took David's servants, and shaved off the one half of their beards, and cut off their garments in the middle, even to their buttocks, and sent them away.",
+      "highlightedWords": [
+        {
+          "word": "beards",
+          "strongNumber": "H2206",
+          "lemma": "zāqān",
+          "meaning": "beard"
+        },
+        {
+          "word": "garments",
+          "strongNumber": "H0899",
+          "lemma": "beged",
+          "meaning": "garment, clothing"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "When they told it unto David, he sent to meet them, because the men were greatly ashamed: and the king said, Tarry at Jericho until your beards be grown, and then return.",
+      "highlightedWords": [
+        {
+          "word": "Jericho",
+          "strongNumber": "H3405",
+          "lemma": "Yerîchô",
+          "meaning": "Jericho; possibly 'fragrant' or 'moon city'"
+        },
+        {
+          "word": "ashamed",
+          "strongNumber": "H0954",
+          "lemma": "bôsh",
+          "meaning": "to be ashamed; put to shame"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And when the children of Ammon saw that they stank before David, the children of Ammon sent and hired the Syrians of Beth-rehob, and the Syrians of Zoba, twenty thousand footmen, and of king Maacah a thousand men, and of Ish-tob twelve thousand men.",
+      "highlightedWords": [
+        {
+          "word": "stank",
+          "strongNumber": "H0887",
+          "lemma": "bā’ash",
+          "meaning": "to stink; become odious"
+        },
+        {
+          "word": "Syrians",
+          "strongNumber": "H0758",
+          "lemma": "’Aram",
+          "meaning": "Arameans/Syrians"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And when David heard of it, he sent Joab, and all the host of the mighty men.",
+      "highlightedWords": [
+        {
+          "word": "Joab",
+          "strongNumber": "H3097",
+          "lemma": "Yô’āb",
+          "meaning": "Yahweh is father"
+        },
+        {
+          "word": "mighty",
+          "strongNumber": "H1368",
+          "lemma": "gibbôr",
+          "meaning": "mighty, valiant, warrior"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And the children of Ammon came out, and put the battle in array at the entering in of the gate: and the Syrians of Zoba, and of Rehob, and Ish-tob, and Maacah, were by themselves in the field.",
+      "highlightedWords": [
+        {
+          "word": "gate",
+          "strongNumber": "H8179",
+          "lemma": "shaʿar",
+          "meaning": "gate; entrance"
+        },
+        {
+          "word": "field",
+          "strongNumber": "H7704",
+          "lemma": "sādeh",
+          "meaning": "field; open country"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "When Joab saw that the front of the battle was against him before and behind, he chose of all the choice men of Israel, and put them in array against the Syrians:",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yiśrā’ēl",
+          "meaning": "Israel; God contends"
+        },
+        {
+          "word": "Syrians",
+          "strongNumber": "H0758",
+          "lemma": "’Aram",
+          "meaning": "Arameans/Syrians"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And the rest of the people he delivered into the hand of Abishai his brother, that he might put them in array against the children of Ammon.",
+      "highlightedWords": [
+        {
+          "word": "Abishai",
+          "strongNumber": "H0052",
+          "lemma": "’Avishai",
+          "meaning": "my father is a gift"
+        },
+        {
+          "word": "Ammon",
+          "strongNumber": "H5983",
+          "lemma": "ʿAmmôn",
+          "meaning": "Ammonites; descendants of Lot"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And he said, If the Syrians be too strong for me, then thou shalt help me: but if the children of Ammon be too strong for thee, then I will come and help thee.",
+      "highlightedWords": [
+        {
+          "word": "Syrians",
+          "strongNumber": "H0758",
+          "lemma": "’Aram",
+          "meaning": "Arameans/Syrians"
+        },
+        {
+          "word": "Ammon",
+          "strongNumber": "H5983",
+          "lemma": "ʿAmmôn",
+          "meaning": "Ammonites; descendants of Lot"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Be of good courage, and let us play the men for our people, and for the cities of our God: and the LORD do that which seemeth him good.",
+      "highlightedWords": [
+        {
+          "word": "courage",
+          "strongNumber": "H2388",
+          "lemma": "chāzaq",
+          "meaning": "be strong; strengthen"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the divine name; the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And Joab drew nigh, and the people that were with him, unto the battle against the Syrians: and they fled before him.",
+      "highlightedWords": [
+        {
+          "word": "Syrians",
+          "strongNumber": "H0758",
+          "lemma": "’Aram",
+          "meaning": "Arameans/Syrians"
+        },
+        {
+          "word": "fled",
+          "strongNumber": "H5127",
+          "lemma": "nūs",
+          "meaning": "to flee"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And when the children of Ammon saw that the Syrians were fled, then fled they also before Abishai, and entered into the city. So Joab returned from the children of Ammon, and came to Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "ʿîr",
+          "meaning": "city, town"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerûshālayim",
+          "meaning": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And when the Syrians saw that they were smitten before Israel, they gathered themselves together.",
+      "highlightedWords": [
+        {
+          "word": "smitten",
+          "strongNumber": "H5221",
+          "lemma": "nāḵāh",
+          "meaning": "to strike; smite"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yiśrā’ēl",
+          "meaning": "Israel; God contends"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And Hadarezer sent, and brought out the Syrians that were beyond the river: and they came to Helam; and Shobach the captain of the host of Hadarezer went before them.",
+      "highlightedWords": [
+        {
+          "word": "Syrians",
+          "strongNumber": "H0758",
+          "lemma": "’Aram",
+          "meaning": "Arameans/Syrians"
+        },
+        {
+          "word": "river",
+          "strongNumber": "H5104",
+          "lemma": "nāhār",
+          "meaning": "river"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And when it was told David, he gathered all Israel together, and passed over Jordan, and came to Helam. And the Syrians set themselves in array against David, and fought with him.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yiśrā’ēl",
+          "meaning": "Israel; God contends"
+        },
+        {
+          "word": "Jordan",
+          "strongNumber": "H3383",
+          "lemma": "Yardēn",
+          "meaning": "Jordan; the descender"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And the Syrians fled before Israel; and David slew the men of seven hundred chariots of the Syrians, and forty thousand horsemen, and smote Shobach the captain of their host, who died there.",
+      "highlightedWords": [
+        {
+          "word": "chariots",
+          "strongNumber": "H7393",
+          "lemma": "rekhev",
+          "meaning": "chariot(s), chariotry"
+        },
+        {
+          "word": "horsemen",
+          "strongNumber": "H6571",
+          "lemma": "pārāsh",
+          "meaning": "horseman; cavalry"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And when all the kings that were servants to Hadarezer saw that they were smitten before Israel, they made peace with Israel, and served them. So the Syrians feared to help the children of Ammon any more.",
+      "highlightedWords": [
+        {
+          "word": "kings",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        },
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace; wholeness; well-being"
+        }
+      ]
+    }
+  ]
+}

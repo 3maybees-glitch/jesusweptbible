@@ -1,0 +1,456 @@
+{
+  "book": "1 Chronicles",
+  "chapter": 3,
+  "chapterTheme": {
+    "twoWordSummary": "Davidic Lineage",
+    "themeWords": [
+      {
+        "word": "sons",
+        "strongNumber": "H1121",
+        "lemma": "ben",
+        "meaning": "son; descendant; child"
+      },
+      {
+        "word": "king",
+        "strongNumber": "H4428",
+        "lemma": "melek",
+        "meaning": "king; ruler"
+      }
+    ]
+  },
+  "sentenceTheme": "The genealogy of David’s house from his sons in Hebron and Jerusalem through the kings of Judah to post-exilic descendants.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Now these were the sons of David, which were born unto him in Hebron; the firstborn Amnon, of Ahinoam the Jezreelitess; the second Daniel, of Abigail the Carmelitess:",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant; child"
+        },
+        {
+          "word": "born",
+          "strongNumber": "H3205",
+          "lemma": "yalad",
+          "meaning": "to beget; to bring forth; to bear"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "The third, Absalom the son of Maachah the daughter of Talmai king of Geshur: the fourth, Adonijah the son of Haggith:",
+      "highlightedWords": [
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant; child"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king; ruler"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "The fifth, Shephatiah of Abital: the sixth, Ithream by Eglah his wife.",
+      "highlightedWords": [
+        {
+          "word": "sixth",
+          "strongNumber": "H8345",
+          "lemma": "shishshi",
+          "meaning": "sixth (ordinal)"
+        },
+        {
+          "word": "wife",
+          "strongNumber": "H802",
+          "lemma": "ishshah",
+          "meaning": "woman; wife"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "These six were born unto him in Hebron; and there he reigned seven years and six months: and in Jerusalem he reigned thirty and three years.",
+      "highlightedWords": [
+        {
+          "word": "reigned",
+          "strongNumber": "H4427",
+          "lemma": "malak",
+          "meaning": "to reign; to rule as king"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And these were born unto him in Jerusalem; Shimea, and Shobab, and Nathan, and Solomon, four, of Bathshua the daughter of Ammiel:",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem"
+        },
+        {
+          "word": "daughter",
+          "strongNumber": "H1323",
+          "lemma": "bat",
+          "meaning": "daughter; girl"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Ibhar also, and Elishama, and Eliphelet,",
+      "highlightedWords": [
+        {
+          "word": "also",
+          "strongNumber": "H1571",
+          "lemma": "gam",
+          "meaning": "also; indeed; even"
+        },
+        {
+          "word": "Elishama",
+          "strongNumber": "H8018",
+          "lemma": "Elishama",
+          "meaning": "My God has heard"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And Nogah, and Nepheg, and Japhia,",
+      "highlightedWords": [
+        {
+          "word": "Nogah",
+          "strongNumber": "H5051",
+          "lemma": "Nogah",
+          "meaning": "brightness; splendor"
+        },
+        {
+          "word": "Japhia",
+          "strongNumber": "H3309",
+          "lemma": "Yaphia",
+          "meaning": "splendid; shining"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And Elishama, and Eliada, and Eliphelet, nine.",
+      "highlightedWords": [
+        {
+          "word": "Elishama",
+          "strongNumber": "H8018",
+          "lemma": "Elishama",
+          "meaning": "My God has heard"
+        },
+        {
+          "word": "nine",
+          "strongNumber": "H8672",
+          "lemma": "tesha",
+          "meaning": "nine"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "These were all the sons of David, beside the sons of the concubines, and Tamar their sister.",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant; child"
+        },
+        {
+          "word": "concubines",
+          "strongNumber": "H6370",
+          "lemma": "pilegesh",
+          "meaning": "concubine"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And Solomon's son was Rehoboam, Abia his son, Asa his son, Jehoshaphat his son,",
+      "highlightedWords": [
+        {
+          "word": "Solomon's",
+          "strongNumber": "H8010",
+          "lemma": "Shelomoh",
+          "meaning": "Solomon; peaceful"
+        },
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant; child"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Joram his son, Ahaziah his son, Joash his son,",
+      "highlightedWords": [
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant; child"
+        },
+        {
+          "word": "Joash",
+          "strongNumber": "H3101",
+          "lemma": "Yoash",
+          "meaning": "Yahweh has given"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Amaziah his son, Azariah his son, Jotham his son,",
+      "highlightedWords": [
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant; child"
+        },
+        {
+          "word": "Azariah",
+          "strongNumber": "H5838",
+          "lemma": "Azaryah",
+          "meaning": "Yah has helped"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Ahaz his son, Hezekiah his son, Manasseh his son,",
+      "highlightedWords": [
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant; child"
+        },
+        {
+          "word": "Hezekiah",
+          "strongNumber": "H3169",
+          "lemma": "Chizqiyahu",
+          "meaning": "Yah strengthens"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Amon his son, Josiah his son.",
+      "highlightedWords": [
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant; child"
+        },
+        {
+          "word": "Josiah",
+          "strongNumber": "H2977",
+          "lemma": "Yoshiyahu",
+          "meaning": "Yah supports"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And the sons of Josiah were, the firstborn Johanan, the second Jehoiakim, the third Zedekiah, the fourth Shallum.",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant; child"
+        },
+        {
+          "word": "firstborn",
+          "strongNumber": "H1060",
+          "lemma": "bekor",
+          "meaning": "firstborn"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And the sons of Jehoiakim: Jeconiah his son, Zedekiah his son.",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant; child"
+        },
+        {
+          "word": "Jeconiah",
+          "strongNumber": "H3204",
+          "lemma": "Yekonyah",
+          "meaning": "Yah will establish"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And the sons of Jeconiah; Assir, Salathiel his son,",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant; child"
+        },
+        {
+          "word": "Salathiel",
+          "strongNumber": "H7597",
+          "lemma": "She'altiel",
+          "meaning": "I have asked of God"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Malchiram also, and Pedaiah, and Shenazar, Jecamiah, Hoshama, and Nedabiah.",
+      "highlightedWords": [
+        {
+          "word": "also",
+          "strongNumber": "H1571",
+          "lemma": "gam",
+          "meaning": "also; indeed; even"
+        },
+        {
+          "word": "Pedaiah",
+          "strongNumber": "H6305",
+          "lemma": "Pedayah",
+          "meaning": "Yah has ransomed"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And the sons of Pedaiah were, Zerubbabel, and Shimei: and the sons of Zerubbabel; Meshullam, and Hananiah, and Shelomith their sister:",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant; child"
+        },
+        {
+          "word": "sister",
+          "strongNumber": "H269",
+          "lemma": "achot",
+          "meaning": "sister"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And Hashubah, and Ohel, and Berechiah, and Hasadiah, Jushabhesed, five.",
+      "highlightedWords": [
+        {
+          "word": "five",
+          "strongNumber": "H2568",
+          "lemma": "chamesh",
+          "meaning": "five"
+        },
+        {
+          "word": "Berechiah",
+          "strongNumber": "H1296",
+          "lemma": "Berekhyah",
+          "meaning": "Yah has blessed"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And the sons of Hananiah; Pelatiah, and Jesaiah: the sons of Rephaiah, the sons of Arnan, the sons of Obadiah, the sons of Shechaniah.",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant; child"
+        },
+        {
+          "word": "Obadiah",
+          "strongNumber": "H5662",
+          "lemma": "Obadyah",
+          "meaning": "servant of Yahweh"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And the sons of Shechaniah; Shemaiah: and the sons of Shemaiah; Hattush, and Igeal, and Bariah, and Neariah, and Shaphat, six.",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant; child"
+        },
+        {
+          "word": "six",
+          "strongNumber": "H8337",
+          "lemma": "shesh",
+          "meaning": "six"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And the sons of Neariah; Elioenai, and Hezekiah, and Azrikam, three.",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant; child"
+        },
+        {
+          "word": "three",
+          "strongNumber": "H7969",
+          "lemma": "shalosh",
+          "meaning": "three"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And the sons of Elioenai were, Hodaiah, and Eliashib, and Pelaiah, and Akkub, and Johanan, and Dalaiah, and Anani, seven.",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant; child"
+        },
+        {
+          "word": "seven",
+          "strongNumber": "H7651",
+          "lemma": "sheba",
+          "meaning": "seven"
+        }
+      ]
+    }
+  ]
+}

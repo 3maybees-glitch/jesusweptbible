@@ -1,0 +1,510 @@
+{
+  "book": "Proverbs",
+  "chapter": 7,
+  "chapterTheme": {
+    "twoWordSummary": "Adultery's Snare",
+    "themeWords": [
+      {
+        "word": "wisdom",
+        "strongNumber": "H2451",
+        "lemma": "chokmah",
+        "meaning": "wisdom, skill, practical insight"
+      },
+      {
+        "word": "strange",
+        "strongNumber": "H2114",
+        "lemma": "zuwr",
+        "meaning": "to be a stranger; foreign, estranged"
+      }
+    ]
+  },
+  "sentenceTheme": "A fatherly warning urges wholehearted devotion to wisdom to avoid the seductive trap of the adulterous woman, whose path leads down to death.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "My son, keep my words, and lay up my commandments with thee.",
+      "highlightedWords": [
+        {
+          "word": "keep",
+          "strongNumber": "H8104",
+          "lemma": "shamar",
+          "meaning": "to keep, guard, observe"
+        },
+        {
+          "word": "commandments",
+          "strongNumber": "H4687",
+          "lemma": "mitsvah",
+          "meaning": "commandment, precept"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Keep my commandments, and live; and my law as the apple of thine eye.",
+      "highlightedWords": [
+        {
+          "word": "law",
+          "strongNumber": "H8451",
+          "lemma": "torah",
+          "meaning": "instruction, law"
+        },
+        {
+          "word": "apple",
+          "strongNumber": "H0380",
+          "lemma": "ishon",
+          "meaning": "pupil (of the eye), little man"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Bind them upon thy fingers, write them upon the table of thine heart.",
+      "highlightedWords": [
+        {
+          "word": "Bind",
+          "strongNumber": "H7194",
+          "lemma": "qashar",
+          "meaning": "to bind, tie, join together"
+        },
+        {
+          "word": "write",
+          "strongNumber": "H3789",
+          "lemma": "kathab",
+          "meaning": "to write, inscribe"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Say unto wisdom, Thou art my sister; and call understanding thy kinswoman:",
+      "highlightedWords": [
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "wisdom, skill, practical insight"
+        },
+        {
+          "word": "understanding",
+          "strongNumber": "H0998",
+          "lemma": "binah",
+          "meaning": "understanding, insight, discernment"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "That they may keep thee from the strange woman, from the stranger which flattereth with her words.",
+      "highlightedWords": [
+        {
+          "word": "strange",
+          "strongNumber": "H2114",
+          "lemma": "zuwr",
+          "meaning": "foreign, estranged, adulterous"
+        },
+        {
+          "word": "stranger",
+          "strongNumber": "H5237",
+          "lemma": "nokriyah",
+          "meaning": "foreign woman, strange woman"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "For at the window of my house I looked through my casement,",
+      "highlightedWords": [
+        {
+          "word": "window",
+          "strongNumber": "H2474",
+          "lemma": "challon",
+          "meaning": "a window"
+        },
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, home, household"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And beheld among the simple ones, I discerned among the youths, a young man void of understanding,",
+      "highlightedWords": [
+        {
+          "word": "simple",
+          "strongNumber": "H6612",
+          "lemma": "pethiy",
+          "meaning": "simple, naive, inexperienced"
+        },
+        {
+          "word": "youths",
+          "strongNumber": "H5288",
+          "lemma": "na'ar",
+          "meaning": "boy, youth, lad"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Passing through the street near her corner; and he went the way to her house,",
+      "highlightedWords": [
+        {
+          "word": "street",
+          "strongNumber": "H2351",
+          "lemma": "chuts",
+          "meaning": "outside, street"
+        },
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, home, household"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "In the twilight, in the evening, in the black and dark night:",
+      "highlightedWords": [
+        {
+          "word": "twilight",
+          "strongNumber": "H5399",
+          "lemma": "nesheph",
+          "meaning": "twilight, dusk"
+        },
+        {
+          "word": "night",
+          "strongNumber": "H3915",
+          "lemma": "laylah",
+          "meaning": "night"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And, behold, there met him a woman with the attire of an harlot, and subtil of heart.",
+      "highlightedWords": [
+        {
+          "word": "woman",
+          "strongNumber": "H802",
+          "lemma": "ishshah",
+          "meaning": "woman, wife, female"
+        },
+        {
+          "word": "harlot",
+          "strongNumber": "H2181",
+          "lemma": "zonah",
+          "meaning": "prostitute, harlot"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "(She is loud and stubborn; her feet abide not in her house:",
+      "highlightedWords": [
+        {
+          "word": "feet",
+          "strongNumber": "H7272",
+          "lemma": "regel",
+          "meaning": "foot, feet"
+        },
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, home, household"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Now is she without, now in the streets, and lieth in wait at every corner.)",
+      "highlightedWords": [
+        {
+          "word": "without",
+          "strongNumber": "H2351",
+          "lemma": "chuts",
+          "meaning": "outside, in the open"
+        },
+        {
+          "word": "corner",
+          "strongNumber": "H6438",
+          "lemma": "pinnah",
+          "meaning": "corner, angle"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "So she caught him, and kissed him, and with an impudent face said unto him,",
+      "highlightedWords": [
+        {
+          "word": "kissed",
+          "strongNumber": "H5401",
+          "lemma": "nashaq",
+          "meaning": "to kiss"
+        },
+        {
+          "word": "face",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "face, presence"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "I have peace offerings with me; this day have I payed my vows.",
+      "highlightedWords": [
+        {
+          "word": "offerings",
+          "strongNumber": "H8002",
+          "lemma": "shelamim",
+          "meaning": "peace offerings, sacrifices of well-being"
+        },
+        {
+          "word": "vows",
+          "strongNumber": "H5088",
+          "lemma": "neder",
+          "meaning": "vow"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Therefore came I forth to meet thee, diligently to seek thy face, and I have found thee.",
+      "highlightedWords": [
+        {
+          "word": "seek",
+          "strongNumber": "H1245",
+          "lemma": "baqash",
+          "meaning": "to seek, search for"
+        },
+        {
+          "word": "found",
+          "strongNumber": "H4672",
+          "lemma": "matsa",
+          "meaning": "to find"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "I have decked my bed with coverings of tapestry, with carved works, with fine linen of Egypt.",
+      "highlightedWords": [
+        {
+          "word": "linen",
+          "strongNumber": "H8336",
+          "lemma": "shesh",
+          "meaning": "fine linen"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "I have perfumed my bed with myrrh, aloes, and cinnamon.",
+      "highlightedWords": [
+        {
+          "word": "myrrh",
+          "strongNumber": "H4753",
+          "lemma": "mor",
+          "meaning": "myrrh"
+        },
+        {
+          "word": "cinnamon",
+          "strongNumber": "H7076",
+          "lemma": "qinnamon",
+          "meaning": "cinnamon"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Come, let us take our fill of love until the morning: let us solace ourselves with loves.",
+      "highlightedWords": [
+        {
+          "word": "love",
+          "strongNumber": "H1730",
+          "lemma": "dod",
+          "meaning": "beloved; love (intimate affection)"
+        },
+        {
+          "word": "loves",
+          "strongNumber": "H1730",
+          "lemma": "dodim",
+          "meaning": "lovemaking; caresses"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "For the goodman is not at home, he is gone a long journey:",
+      "highlightedWords": [
+        {
+          "word": "goodman",
+          "strongNumber": "H0376",
+          "lemma": "ish",
+          "meaning": "man, husband"
+        },
+        {
+          "word": "journey",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way, road, journey"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "He hath taken a bag of money with him, and will come home at the day appointed.",
+      "highlightedWords": [
+        {
+          "word": "bag",
+          "strongNumber": "H6872",
+          "lemma": "tseror",
+          "meaning": "bundle, bag, purse"
+        },
+        {
+          "word": "money",
+          "strongNumber": "H3701",
+          "lemma": "keseph",
+          "meaning": "silver, money"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "With her much fair speech she caused him to yield, with the flattering of her lips she forced him.",
+      "highlightedWords": [
+        {
+          "word": "yield",
+          "strongNumber": "H5186",
+          "lemma": "natah",
+          "meaning": "to stretch out, incline, cause to yield"
+        },
+        {
+          "word": "lips",
+          "strongNumber": "H8193",
+          "lemma": "saphah",
+          "meaning": "lip, speech"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "He goeth after her straightway, as an ox goeth to the slaughter, or as a fool to the correction of the stocks;",
+      "highlightedWords": [
+        {
+          "word": "ox",
+          "strongNumber": "H7794",
+          "lemma": "shor",
+          "meaning": "ox, bull"
+        },
+        {
+          "word": "slaughter",
+          "strongNumber": "H2874",
+          "lemma": "tebach",
+          "meaning": "slaughter, butchery"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Till a dart strike through his liver; as a bird hasteth to the snare, and knoweth not that it is for his life.",
+      "highlightedWords": [
+        {
+          "word": "dart",
+          "strongNumber": "H2671",
+          "lemma": "chets",
+          "meaning": "arrow, dart"
+        },
+        {
+          "word": "snare",
+          "strongNumber": "H6341",
+          "lemma": "pach",
+          "meaning": "snare, trap"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Hearken unto me now therefore, O ye children, and attend to the words of my mouth.",
+      "highlightedWords": [
+        {
+          "word": "Hearken",
+          "strongNumber": "H8085",
+          "lemma": "shama",
+          "meaning": "to hear, listen, obey"
+        },
+        {
+          "word": "mouth",
+          "strongNumber": "H6310",
+          "lemma": "peh",
+          "meaning": "mouth"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Let not thine heart decline to her ways, go not astray in her paths.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, mind, inner being"
+        },
+        {
+          "word": "ways",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way, road, manner"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "For she hath cast down many wounded: yea, many strong men have been slain by her.",
+      "highlightedWords": [
+        {
+          "word": "wounded",
+          "strongNumber": "H2491",
+          "lemma": "chalal",
+          "meaning": "wounded, slain"
+        },
+        {
+          "word": "slain",
+          "strongNumber": "H2026",
+          "lemma": "harag",
+          "meaning": "to slay, kill"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "Her house is the way to hell, going down to the chambers of death.",
+      "highlightedWords": [
+        {
+          "word": "hell",
+          "strongNumber": "H7585",
+          "lemma": "Sheol",
+          "meaning": "the grave, the underworld"
+        },
+        {
+          "word": "death",
+          "strongNumber": "H4194",
+          "lemma": "maveth",
+          "meaning": "death"
+        }
+      ]
+    }
+  ]
+}

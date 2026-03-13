@@ -1,0 +1,510 @@
+{
+  "book": "1 Samuel",
+  "chapter": 10,
+  "chapterTheme": {
+    "twoWordSummary": "Saul Anointed",
+    "themeWords": [
+      {
+        "word": "anointed",
+        "strongNumber": "H4886",
+        "lemma": "mashach",
+        "meaning": "to smear, anoint; consecrate"
+      },
+      {
+        "word": "king",
+        "strongNumber": "H4428",
+        "lemma": "melek",
+        "meaning": "king; one who rules"
+      }
+    ]
+  },
+  "sentenceTheme": "Samuel anoints Saul and foretells confirming signs; God changes Saul’s heart, and he is publicly chosen by lot as king, though some despise him.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Then Samuel took a vial of oil, and poured it upon his head, and kissed him, and said, Is it not because the LORD hath anointed thee to be captain over his inheritance?",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the personal name of the God of Israel"
+        },
+        {
+          "word": "anointed",
+          "strongNumber": "H4886",
+          "lemma": "mashach",
+          "meaning": "to anoint, consecrate by applying oil"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "When thou art departed from me to day, then thou shalt find two men by Rachel's sepulchre in the border of Benjamin at Zelzah; and they will say unto thee, The asses which thou wentest to seek are found: and, lo, thy father hath left the care of the asses, and sorroweth for you, saying, What shall I do for my son?",
+      "highlightedWords": [
+        {
+          "word": "Benjamin",
+          "strongNumber": "H1144",
+          "lemma": "Binyamin",
+          "meaning": "Benjamin; son of the right hand; a tribe of Israel"
+        },
+        {
+          "word": "asses",
+          "strongNumber": "H0860",
+          "lemma": "’aton",
+          "meaning": "female donkeys"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Then shalt thou go on forward from thence, and thou shalt come to the plain of Tabor, and there shall meet thee three men going up to God to Bethel, one carrying three kids, and another carrying three loaves of bread, and another carrying a bottle of wine:",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H0430",
+          "lemma": "’Elohim",
+          "meaning": "God; mighty one"
+        },
+        {
+          "word": "Bethel",
+          "strongNumber": "H1008",
+          "lemma": "Bet-El",
+          "meaning": "Bethel; house of God"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And they will salute thee, and give thee two loaves of bread; which thou shalt receive of their hands.",
+      "highlightedWords": [
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread, food"
+        },
+        {
+          "word": "hands",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand; power"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "After that thou shalt come to the hill of God, where is the garrison of the Philistines: and it shall come to pass, when thou art come thither to the city, that thou shalt meet a company of prophets coming down from the high place with a psaltery, and a tabret, and a pipe, and a harp, before them; and they shall prophesy:",
+      "highlightedWords": [
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pelishtiy",
+          "meaning": "Philistines; inhabitants of Philistia"
+        },
+        {
+          "word": "prophets",
+          "strongNumber": "H5030",
+          "lemma": "nabi’",
+          "meaning": "prophets; spokespersons of God"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And the Spirit of the LORD will come upon thee, and thou shalt prophesy with them, and shalt be turned into another man.",
+      "highlightedWords": [
+        {
+          "word": "Spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "breath, wind, spirit"
+        },
+        {
+          "word": "prophesy",
+          "strongNumber": "H5012",
+          "lemma": "naba’",
+          "meaning": "to prophesy; speak by divine inspiration"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And let it be, when these signs are come unto thee, that thou do as occasion serve thee; for God is with thee.",
+      "highlightedWords": [
+        {
+          "word": "signs",
+          "strongNumber": "H0226",
+          "lemma": "’oth",
+          "meaning": "sign, token, portent"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H0430",
+          "lemma": "’Elohim",
+          "meaning": "God; mighty one"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And thou shalt go down before me to Gilgal; and, behold, I will come down unto thee, to offer burnt offerings, and to sacrifice sacrifices of peace offerings: seven days shalt thou tarry, till I come to thee, and shew thee what thou shalt do.",
+      "highlightedWords": [
+        {
+          "word": "burnt offerings",
+          "strongNumber": "H5930",
+          "lemma": "‘olah",
+          "meaning": "burnt offering; that which goes up"
+        },
+        {
+          "word": "peace offerings",
+          "strongNumber": "H8002",
+          "lemma": "shelamim",
+          "meaning": "peace offerings; fellowship sacrifices"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And it was so, that when he had turned his back to go from Samuel, God gave him another heart: and all those signs came to pass that day.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "lev",
+          "meaning": "heart, inner man, mind"
+        },
+        {
+          "word": "signs",
+          "strongNumber": "H0226",
+          "lemma": "’oth",
+          "meaning": "sign, token, portent"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And when they came thither to the hill, behold, a company of prophets met him; and the Spirit of God came upon him, and he prophesied among them.",
+      "highlightedWords": [
+        {
+          "word": "Spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "breath, wind, spirit"
+        },
+        {
+          "word": "prophesied",
+          "strongNumber": "H5012",
+          "lemma": "naba’",
+          "meaning": "to prophesy; speak by divine inspiration"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And it came to pass, when all that knew him beforetime saw that, behold, he prophesied among the prophets, then the people said one to another, What is this that is come unto the son of Kish? Is Saul also among the prophets?",
+      "highlightedWords": [
+        {
+          "word": "prophets",
+          "strongNumber": "H5030",
+          "lemma": "nabi’",
+          "meaning": "prophets; spokespersons of God"
+        },
+        {
+          "word": "Kish",
+          "strongNumber": "H7027",
+          "lemma": "Qish",
+          "meaning": "Kish; Saul’s father"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And one of the same place answered and said, But who is their father? Therefore it became a proverb, Is Saul also among the prophets?",
+      "highlightedWords": [
+        {
+          "word": "proverb",
+          "strongNumber": "H4912",
+          "lemma": "mashal",
+          "meaning": "proverb, parable, saying"
+        },
+        {
+          "word": "prophets",
+          "strongNumber": "H5030",
+          "lemma": "nabi’",
+          "meaning": "prophets; spokespersons of God"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And when he had made an end of prophesying, he came to the high place.",
+      "highlightedWords": [
+        {
+          "word": "prophesying",
+          "strongNumber": "H5012",
+          "lemma": "naba’",
+          "meaning": "to prophesy; speak by divine inspiration"
+        },
+        {
+          "word": "high place",
+          "strongNumber": "H1116",
+          "lemma": "bamah",
+          "meaning": "high place; place of worship"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And Saul's uncle said unto him and to his servant, Whither went ye? And he said, To seek the asses: and when we saw that they were no where, we came to Samuel.",
+      "highlightedWords": [
+        {
+          "word": "uncle",
+          "strongNumber": "H1730",
+          "lemma": "dod",
+          "meaning": "uncle; beloved relative"
+        },
+        {
+          "word": "asses",
+          "strongNumber": "H0860",
+          "lemma": "’aton",
+          "meaning": "female donkeys"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And Saul's uncle said, Tell me, I pray thee, what Samuel said unto you.",
+      "highlightedWords": [
+        {
+          "word": "I pray thee",
+          "strongNumber": "H4994",
+          "lemma": "na’",
+          "meaning": "please; particle of entreaty"
+        },
+        {
+          "word": "Samuel",
+          "strongNumber": "H8050",
+          "lemma": "Shemu’el",
+          "meaning": "Samuel; name of God; prophet"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And Saul said unto his uncle, He told us plainly that the asses were found. But of the matter of the kingdom, whereof Samuel spake, he told him not.",
+      "highlightedWords": [
+        {
+          "word": "kingdom",
+          "strongNumber": "H4467",
+          "lemma": "mamlakah",
+          "meaning": "kingdom, dominion, realm"
+        },
+        {
+          "word": "asses",
+          "strongNumber": "H0860",
+          "lemma": "’aton",
+          "meaning": "female donkeys"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And Samuel called the people together unto the LORD to Mizpeh;",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the personal name of the God of Israel"
+        },
+        {
+          "word": "Mizpeh",
+          "strongNumber": "H4709",
+          "lemma": "Mitspeh (Mizpah)",
+          "meaning": "watchtower; a place name"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And said unto the children of Israel, Thus saith the LORD God of Israel, I brought up Israel out of Egypt, and delivered you out of the hand of the Egyptians, and out of the hand of all kingdoms, and of them that oppressed you:",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra’el",
+          "meaning": "Israel; he strives with God; the nation"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt; land of the Nile"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And ye have this day rejected your God, who himself saved you out of all your adversities and your tribulations; and ye have said unto him, Nay, but set a king over us. Now therefore present yourselves before the LORD by your tribes, and by your thousands.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king; one who rules"
+        },
+        {
+          "word": "tribes",
+          "strongNumber": "H7626",
+          "lemma": "shevet",
+          "meaning": "tribe; clan; staff"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And when Samuel had caused all the tribes of Israel to come near, the tribe of Benjamin was taken.",
+      "highlightedWords": [
+        {
+          "word": "tribes",
+          "strongNumber": "H7626",
+          "lemma": "shevet",
+          "meaning": "tribe; clan; staff"
+        },
+        {
+          "word": "Benjamin",
+          "strongNumber": "H1144",
+          "lemma": "Binyamin",
+          "meaning": "Benjamin; son of the right hand; a tribe of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "When he had caused the tribe of Benjamin to come near by their families, the family of Matri was taken, and Saul the son of Kish was taken: and when they sought him, he could not be found.",
+      "highlightedWords": [
+        {
+          "word": "families",
+          "strongNumber": "H4940",
+          "lemma": "mishpachah",
+          "meaning": "family, clan"
+        },
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Therefore they enquired of the LORD further, if the man should yet come thither. And the LORD answered, Behold, he hath hid himself among the stuff.",
+      "highlightedWords": [
+        {
+          "word": "enquired",
+          "strongNumber": "H7592",
+          "lemma": "sha’al",
+          "meaning": "to ask, enquire, request"
+        },
+        {
+          "word": "stuff",
+          "strongNumber": "H3627",
+          "lemma": "keli",
+          "meaning": "articles, equipment, baggage"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And they ran and fetched him thence: and when he stood among the people, he was higher than any of the people from his shoulders and upward.",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "‘am",
+          "meaning": "people, nation"
+        },
+        {
+          "word": "shoulders",
+          "strongNumber": "H7926",
+          "lemma": "shekhem",
+          "meaning": "shoulder, back"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And Samuel said to all the people, See ye him whom the LORD hath chosen, that there is none like him among all the people? And all the people shouted, and said, God save the king.",
+      "highlightedWords": [
+        {
+          "word": "chosen",
+          "strongNumber": "H0977",
+          "lemma": "bachar",
+          "meaning": "to choose, elect, select"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king; one who rules"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Then Samuel told the people the manner of the kingdom, and wrote it in a book, and laid it up before the LORD. And Samuel sent all the people away, every man to his house.",
+      "highlightedWords": [
+        {
+          "word": "book",
+          "strongNumber": "H5612",
+          "lemma": "sepher",
+          "meaning": "book, scroll, document"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And Saul also went home to Gibeah; and there went with him a band of men, whose hearts God had touched.",
+      "highlightedWords": [
+        {
+          "word": "Gibeah",
+          "strongNumber": "H1390",
+          "lemma": "Giv‘ah",
+          "meaning": "Gibeah; hill; a city in Benjamin"
+        },
+        {
+          "word": "hearts",
+          "strongNumber": "H3820",
+          "lemma": "lev",
+          "meaning": "heart, inner man, mind"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "But the children of Belial said, How shall this man save us? And they despised him, and brought him no presents. But he held his peace.",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "children; sons; descendants"
+        },
+        {
+          "word": "despised",
+          "strongNumber": "H0959",
+          "lemma": "bazah",
+          "meaning": "to despise, hold in contempt"
+        }
+      ]
+    }
+  ]
+}

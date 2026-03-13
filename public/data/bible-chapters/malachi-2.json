@@ -1,0 +1,330 @@
+{
+  "book": "Malachi",
+  "chapter": 2,
+  "chapterTheme": {
+    "twoWordSummary": "Priestly Corruption",
+    "themeWords": [
+      {
+        "word": "covenant",
+        "strongNumber": "H1285",
+        "lemma": "berith",
+        "meaning": "covenant, treaty, agreement"
+      },
+      {
+        "word": "treacherously",
+        "strongNumber": "H0898",
+        "lemma": "bagad",
+        "meaning": "to act treacherously, deal faithlessly"
+      }
+    ]
+  },
+  "sentenceTheme": "God rebukes unfaithful priests for corrupting His covenant and condemns treacherous dealings, especially against marriage vows, calling His people back to faithfulness and justice.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And now, O ye priests, this commandment is for you.",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest, minister"
+        },
+        {
+          "word": "commandment",
+          "strongNumber": "H4687",
+          "lemma": "mitsvah",
+          "meaning": "command, precept"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "If ye will not hear, and if ye will not lay it to heart, to give glory unto my name, saith the LORD of hosts, I will even send a curse upon you, and I will curse your blessings: yea, I have cursed them already, because ye do not lay it to heart.",
+      "highlightedWords": [
+        {
+          "word": "glory",
+          "strongNumber": "H3519",
+          "lemma": "kabod",
+          "meaning": "glory, honor, weight"
+        },
+        {
+          "word": "curse",
+          "strongNumber": "H3994",
+          "lemma": "me'erah",
+          "meaning": "a curse"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Behold, I will corrupt your seed, and spread dung upon your faces, even the dung of your solemn feasts; and one shall take you away with it.",
+      "highlightedWords": [
+        {
+          "word": "seed",
+          "strongNumber": "H2233",
+          "lemma": "zera'",
+          "meaning": "seed, offspring"
+        },
+        {
+          "word": "feasts",
+          "strongNumber": "H2282",
+          "lemma": "chag",
+          "meaning": "festival, feast"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And ye shall know that I have sent this commandment unto you, that my covenant might be with Levi, saith the LORD of hosts.",
+      "highlightedWords": [
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "covenant, treaty, agreement"
+        },
+        {
+          "word": "Levi",
+          "strongNumber": "H3878",
+          "lemma": "Lewi",
+          "meaning": "Levi, progenitor of the Levites"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "My covenant was with him of life and peace; and I gave them to him for the fear wherewith he feared me, and was afraid before my name.",
+      "highlightedWords": [
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace, welfare, completeness"
+        },
+        {
+          "word": "fear",
+          "strongNumber": "H3374",
+          "lemma": "yirah",
+          "meaning": "fear, reverence"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "The law of truth was in his mouth, and iniquity was not found in his lips: he walked with me in peace and equity, and did turn many away from iniquity.",
+      "highlightedWords": [
+        {
+          "word": "law",
+          "strongNumber": "H8451",
+          "lemma": "torah",
+          "meaning": "instruction, law"
+        },
+        {
+          "word": "truth",
+          "strongNumber": "H0571",
+          "lemma": "emeth",
+          "meaning": "firmness, faithfulness, truth"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "For the priest's lips should keep knowledge, and they should seek the law at his mouth: for he is the messenger of the LORD of hosts.",
+      "highlightedWords": [
+        {
+          "word": "knowledge",
+          "strongNumber": "H1847",
+          "lemma": "da'ath",
+          "meaning": "knowledge, understanding"
+        },
+        {
+          "word": "messenger",
+          "strongNumber": "H4397",
+          "lemma": "mal'ak",
+          "meaning": "messenger, angel"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "But ye are departed out of the way; ye have caused many to stumble at the law; ye have corrupted the covenant of Levi, saith the LORD of hosts.",
+      "highlightedWords": [
+        {
+          "word": "stumble",
+          "strongNumber": "H3782",
+          "lemma": "kashal",
+          "meaning": "to stumble, stagger"
+        },
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "covenant, treaty, agreement"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Therefore have I also made you contemptible and base before all the people, according as ye have not kept my ways, but have been partial in the law.",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "'am",
+          "meaning": "people, nation"
+        },
+        {
+          "word": "law",
+          "strongNumber": "H8451",
+          "lemma": "torah",
+          "meaning": "instruction, law"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Have we not all one father? hath not one God created us? why do we deal treacherously every man against his brother, by profaning the covenant of our fathers?",
+      "highlightedWords": [
+        {
+          "word": "father",
+          "strongNumber": "H0001",
+          "lemma": "'ab",
+          "meaning": "father, ancestor"
+        },
+        {
+          "word": "created",
+          "strongNumber": "H1254",
+          "lemma": "bara'",
+          "meaning": "to create"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Judah hath dealt treacherously, and an abomination is committed in Israel and in Jerusalem; for Judah hath profaned the holiness of the LORD which he loved, and hath married the daughter of a strange god.",
+      "highlightedWords": [
+        {
+          "word": "abomination",
+          "strongNumber": "H8441",
+          "lemma": "to'evah",
+          "meaning": "abomination, detestable thing"
+        },
+        {
+          "word": "holiness",
+          "strongNumber": "H6944",
+          "lemma": "qodesh",
+          "meaning": "holiness, sacredness"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "The LORD will cut off the man that doeth this, the master and the scholar, out of the tabernacles of Jacob, and him that offereth an offering unto the LORD of hosts.",
+      "highlightedWords": [
+        {
+          "word": "offering",
+          "strongNumber": "H4503",
+          "lemma": "minchah",
+          "meaning": "tribute, grain offering, gift"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And this have ye done again, covering the altar of the LORD with tears, with weeping, and with crying out, insomuch that he regardeth not the offering any more, or receiveth it with good will at your hand.",
+      "highlightedWords": [
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar"
+        },
+        {
+          "word": "offering",
+          "strongNumber": "H4503",
+          "lemma": "minchah",
+          "meaning": "tribute, grain offering, gift"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Yet ye say, Wherefore? Because the LORD hath been witness between thee and the wife of thy youth, against whom thou hast dealt treacherously: yet is she thy companion, and the wife of thy covenant.",
+      "highlightedWords": [
+        {
+          "word": "wife",
+          "strongNumber": "H0802",
+          "lemma": "ishshah",
+          "meaning": "woman, wife"
+        },
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "covenant, treaty, agreement"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And did not he make one? Yet had he the residue of the spirit. And wherefore one? That he might seek a godly seed. Therefore take heed to your spirit, and let none deal treacherously against the wife of his youth.",
+      "highlightedWords": [
+        {
+          "word": "spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "breath, wind, spirit"
+        },
+        {
+          "word": "seed",
+          "strongNumber": "H2233",
+          "lemma": "zera'",
+          "meaning": "seed, offspring"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "For the LORD, the God of Israel, saith that he hateth putting away: for one covereth violence with his garment, saith the LORD of hosts: therefore take heed to your spirit, that ye deal not treacherously.",
+      "highlightedWords": [
+        {
+          "word": "violence",
+          "strongNumber": "H2555",
+          "lemma": "chamas",
+          "meaning": "violence, wrong"
+        },
+        {
+          "word": "garment",
+          "strongNumber": "H3830",
+          "lemma": "beged",
+          "meaning": "garment, clothing"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Ye have wearied the LORD with your words. Yet ye say, Wherein have we wearied him? When ye say, Every one that doeth evil is good in the sight of the LORD, and he delighteth in them; or, Where is the God of judgment?",
+      "highlightedWords": [
+        {
+          "word": "wearied",
+          "strongNumber": "H3021",
+          "lemma": "yaga'",
+          "meaning": "to be weary, toil"
+        },
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "justice, judgment"
+        }
+      ]
+    }
+  ]
+}

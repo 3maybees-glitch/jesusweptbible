@@ -1,0 +1,474 @@
+{
+  "book": "Job",
+  "chapter": 12,
+  "chapterTheme": {
+    "twoWordSummary": "Sovereign Wisdom",
+    "themeWords": [
+      {
+        "word": "wisdom",
+        "strongNumber": "H2451",
+        "lemma": "chokmah",
+        "meaning": "skill, wisdom, practical insight"
+      },
+      {
+        "word": "nations",
+        "strongNumber": "H1471",
+        "lemma": "goy",
+        "meaning": "nation, people, Gentile"
+      }
+    ]
+  },
+  "sentenceTheme": "Job asserts God's unrivaled wisdom and sovereign rule over creation, rulers, and nations.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And Job answered and said,",
+      "highlightedWords": [
+        {
+          "word": "Job",
+          "strongNumber": "H0347",
+          "lemma": "Iyowb",
+          "meaning": "Job; the name of the afflicted patriarch"
+        },
+        {
+          "word": "answered",
+          "strongNumber": "H6030",
+          "lemma": "anah",
+          "meaning": "to answer, respond"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "No doubt but ye are the people, and wisdom shall die with you.",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "'am",
+          "meaning": "people, nation, kinsfolk"
+        },
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "skill, wisdom, practical insight"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "But I have understanding as well as you; I am not inferior to you: yea, who knoweth not such things as these?",
+      "highlightedWords": [
+        {
+          "word": "knoweth",
+          "strongNumber": "H3045",
+          "lemma": "yada'",
+          "meaning": "to know, perceive, understand"
+        },
+        {
+          "word": "things",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, thing"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "I am as one mocked of his neighbour, who calleth upon God, and he answereth him: the just upright man is laughed to scorn.",
+      "highlightedWords": [
+        {
+          "word": "just",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just"
+        },
+        {
+          "word": "upright",
+          "strongNumber": "H8535",
+          "lemma": "tam",
+          "meaning": "blameless, upright, complete"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "He that is ready to slip with his feet is as a lamp despised in the thought of him that is at ease.",
+      "highlightedWords": [
+        {
+          "word": "feet",
+          "strongNumber": "H7272",
+          "lemma": "regel",
+          "meaning": "foot, feet"
+        },
+        {
+          "word": "lamp",
+          "strongNumber": "H5216",
+          "lemma": "ner",
+          "meaning": "lamp, light"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "The tabernacles of robbers prosper, and they that provoke God are secure; into whose hand God bringeth abundantly.",
+      "highlightedWords": [
+        {
+          "word": "tabernacles",
+          "strongNumber": "H0168",
+          "lemma": "ohel",
+          "meaning": "tent, dwelling, tabernacle"
+        },
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "But ask now the beasts, and they shall teach thee; and the fowls of the air, and they shall tell thee:",
+      "highlightedWords": [
+        {
+          "word": "beasts",
+          "strongNumber": "H0929",
+          "lemma": "behemah",
+          "meaning": "beast, animal, cattle"
+        },
+        {
+          "word": "fowls",
+          "strongNumber": "H5775",
+          "lemma": "'owph",
+          "meaning": "bird, flying creature"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Or speak to the earth, and it shall teach thee: and the fishes of the sea shall declare unto thee.",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "H0776",
+          "lemma": "'erets",
+          "meaning": "earth, land"
+        },
+        {
+          "word": "fishes",
+          "strongNumber": "H1709",
+          "lemma": "dag",
+          "meaning": "fish"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Who knoweth not in all these that the hand of the LORD hath wrought this?",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "In whose hand is the soul of every living thing, and the breath of all mankind.",
+      "highlightedWords": [
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, living being"
+        },
+        {
+          "word": "breath",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "breath, wind, spirit"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Doth not the ear try words? and the mouth taste his meat?",
+      "highlightedWords": [
+        {
+          "word": "ear",
+          "strongNumber": "H0241",
+          "lemma": "ozen",
+          "meaning": "ear"
+        },
+        {
+          "word": "mouth",
+          "strongNumber": "H6310",
+          "lemma": "peh",
+          "meaning": "mouth"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "With the ancient is wisdom; and in length of days understanding.",
+      "highlightedWords": [
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "skill, wisdom, practical insight"
+        },
+        {
+          "word": "days",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day, days, time"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "With him is wisdom and strength, he hath counsel and understanding.",
+      "highlightedWords": [
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "skill, wisdom, practical insight"
+        },
+        {
+          "word": "counsel",
+          "strongNumber": "H6098",
+          "lemma": "'etsah",
+          "meaning": "counsel, advice, plan"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Behold, he breaketh down, and it cannot be built again: he shutteth up a man, and there can be no opening.",
+      "highlightedWords": [
+        {
+          "word": "breaketh",
+          "strongNumber": "H2040",
+          "lemma": "haras",
+          "meaning": "to pull down, break down, demolish"
+        },
+        {
+          "word": "built",
+          "strongNumber": "H1129",
+          "lemma": "banah",
+          "meaning": "to build, rebuild"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Behold, he withholdeth the waters, and they dry up: also he sendeth them out, and they overturn the earth.",
+      "highlightedWords": [
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters, water"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H0776",
+          "lemma": "'erets",
+          "meaning": "earth, land"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "With him is strength and wisdom: the deceived and the deceiver are his.",
+      "highlightedWords": [
+        {
+          "word": "strength",
+          "strongNumber": "H5797",
+          "lemma": "'oz",
+          "meaning": "strength, might"
+        },
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "skill, wisdom, practical insight"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "He leadeth counsellors away spoiled, and maketh the judges fools.",
+      "highlightedWords": [
+        {
+          "word": "counsellors",
+          "strongNumber": "H3289",
+          "lemma": "ya'ats",
+          "meaning": "to advise; counselor (one who gives counsel)"
+        },
+        {
+          "word": "judges",
+          "strongNumber": "H8199",
+          "lemma": "shaphat",
+          "meaning": "judge, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "He looseth the bond of kings, and girdeth their loins with a girdle.",
+      "highlightedWords": [
+        {
+          "word": "kings",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        },
+        {
+          "word": "loins",
+          "strongNumber": "H4975",
+          "lemma": "mothen",
+          "meaning": "loins, waist"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "He leadeth princes away spoiled, and overthroweth the mighty.",
+      "highlightedWords": [
+        {
+          "word": "princes",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "prince, chief, ruler"
+        },
+        {
+          "word": "mighty",
+          "strongNumber": "H1368",
+          "lemma": "gibbor",
+          "meaning": "mighty, strong, valiant"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "He removeth away the speech of the trusty, and taketh away the understanding of the aged.",
+      "highlightedWords": [
+        {
+          "word": "speech",
+          "strongNumber": "H8193",
+          "lemma": "saphah",
+          "meaning": "lip, language, speech"
+        },
+        {
+          "word": "aged",
+          "strongNumber": "H2205",
+          "lemma": "zaqen",
+          "meaning": "aged, elder"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "He poureth contempt upon princes, and weakeneth the strength of the mighty.",
+      "highlightedWords": [
+        {
+          "word": "princes",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "prince, chief, ruler"
+        },
+        {
+          "word": "mighty",
+          "strongNumber": "H1368",
+          "lemma": "gibbor",
+          "meaning": "mighty, strong, valiant"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "He discovereth deep things out of darkness, and bringeth out to light the shadow of death.",
+      "highlightedWords": [
+        {
+          "word": "darkness",
+          "strongNumber": "H2822",
+          "lemma": "choshek",
+          "meaning": "darkness, obscurity"
+        },
+        {
+          "word": "light",
+          "strongNumber": "H0216",
+          "lemma": "'or",
+          "meaning": "light"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "He increaseth the nations, and destroyeth them: he enlargeth the nations, and straiteneth them again.",
+      "highlightedWords": [
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation, people, Gentile"
+        },
+        {
+          "word": "increaseth",
+          "strongNumber": "H7235",
+          "lemma": "rabah",
+          "meaning": "to become many, increase"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "He taketh away the heart of the chief of the people of the earth, and causeth them to wander in a wilderness where there is no way.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, mind, inner being"
+        },
+        {
+          "word": "way",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way, road, path"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "They grope in the dark without light, and he maketh them to stagger like a drunken man.",
+      "highlightedWords": [
+        {
+          "word": "light",
+          "strongNumber": "H0216",
+          "lemma": "'or",
+          "meaning": "light"
+        },
+        {
+          "word": "stagger",
+          "strongNumber": "H5128",
+          "lemma": "nuwa'",
+          "meaning": "to sway, totter, stagger"
+        }
+      ]
+    }
+  ]
+}

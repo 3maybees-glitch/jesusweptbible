@@ -1,0 +1,438 @@
+{
+  "book": "Isaiah",
+  "chapter": 24,
+  "chapterTheme": {
+    "twoWordSummary": "Global Judgment",
+    "themeWords": [
+      {
+        "word": "earth",
+        "strongNumber": "H776",
+        "lemma": "ʼerets",
+        "meaning": "land, earth, ground"
+      },
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH",
+        "meaning": "the proper name of the God of Israel"
+      }
+    ]
+  },
+  "sentenceTheme": "God judges the whole earth for its transgression, bringing desolation yet preserving a remnant who glorify Him as He reigns in Zion.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Behold, the LORD maketh the earth empty, and maketh it waste, and turneth it upside down, and scattereth abroad the inhabitants thereof.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the proper name of the God of Israel"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "ʼerets",
+          "meaning": "land, earth, ground"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And it shall be, as with the people, so with the priest; as with the servant, so with his master; as with the maid, so with her mistress; as with the buyer, so with the seller; as with the lender, so with the borrower; as with the taker of usury, so with the giver of usury to him.",
+      "highlightedWords": [
+        {
+          "word": "servant",
+          "strongNumber": "H5650",
+          "lemma": "ʼebed",
+          "meaning": "servant, slave, bondman"
+        },
+        {
+          "word": "master",
+          "strongNumber": "H113",
+          "lemma": "ʼadon",
+          "meaning": "lord, master"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "The land shall be utterly emptied, and utterly spoiled: for the LORD hath spoken this word.",
+      "highlightedWords": [
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "ʼerets",
+          "meaning": "land, earth, ground"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "The earth mourneth and fadeth away, the world languisheth and fadeth away, the haughty people of the earth do languish.",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "ʼerets",
+          "meaning": "land, earth, ground"
+        },
+        {
+          "word": "world",
+          "strongNumber": "H8398",
+          "lemma": "tēbēl",
+          "meaning": "inhabited world"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "The earth also is defiled under the inhabitants thereof; because they have transgressed the laws, changed the ordinance, broken the everlasting covenant.",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "ʼerets",
+          "meaning": "land, earth, ground"
+        },
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "covenant, treaty, alliance"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Therefore hath the curse devoured the earth, and they that dwell therein are desolate: therefore the inhabitants of the earth are burned, and few men left.",
+      "highlightedWords": [
+        {
+          "word": "curse",
+          "strongNumber": "H423",
+          "lemma": "ʼalah",
+          "meaning": "oath, curse"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "ʼerets",
+          "meaning": "land, earth, ground"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "The new wine mourneth, the vine languisheth, all the merryhearted do sigh.",
+      "highlightedWords": [
+        {
+          "word": "new wine",
+          "strongNumber": "H8492",
+          "lemma": "tîrōsh",
+          "meaning": "new wine, must"
+        },
+        {
+          "word": "vine",
+          "strongNumber": "H1612",
+          "lemma": "gephen",
+          "meaning": "vine, grapevine"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "The mirth of tabrets ceaseth, the noise of them that rejoice endeth, the joy of the harp ceaseth.",
+      "highlightedWords": [
+        {
+          "word": "tabrets",
+          "strongNumber": "H8596",
+          "lemma": "tōph",
+          "meaning": "tambourine, timbrel"
+        },
+        {
+          "word": "harp",
+          "strongNumber": "H3658",
+          "lemma": "kinnor",
+          "meaning": "lyre, harp"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "They shall not drink wine with a song; strong drink shall be bitter to them that drink it.",
+      "highlightedWords": [
+        {
+          "word": "wine",
+          "strongNumber": "H3196",
+          "lemma": "yayin",
+          "meaning": "wine"
+        },
+        {
+          "word": "song",
+          "strongNumber": "H7892",
+          "lemma": "shîr",
+          "meaning": "song, music"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "The city of confusion is broken down: every house is shut up, that no man may come in.",
+      "highlightedWords": [
+        {
+          "word": "confusion",
+          "strongNumber": "H8414",
+          "lemma": "tōhû",
+          "meaning": "formlessness, confusion, chaos"
+        },
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, household"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "There is a crying for wine in the streets; all joy is darkened, the mirth of the land is gone.",
+      "highlightedWords": [
+        {
+          "word": "wine",
+          "strongNumber": "H3196",
+          "lemma": "yayin",
+          "meaning": "wine"
+        },
+        {
+          "word": "joy",
+          "strongNumber": "H8057",
+          "lemma": "simchah",
+          "meaning": "joy, gladness"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "In the city is left desolation, and the gate is smitten with destruction.",
+      "highlightedWords": [
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "ʿîr",
+          "meaning": "city, town"
+        },
+        {
+          "word": "gate",
+          "strongNumber": "H8179",
+          "lemma": "shaʿar",
+          "meaning": "gate, entrance"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "When thus it shall be in the midst of the land among the people, there shall be as the shaking of an olive tree, and as the gleaning grapes when the vintage is done.",
+      "highlightedWords": [
+        {
+          "word": "olive tree",
+          "strongNumber": "H2132",
+          "lemma": "zayith",
+          "meaning": "olive tree"
+        },
+        {
+          "word": "vintage",
+          "strongNumber": "H1210",
+          "lemma": "batsiyr",
+          "meaning": "vintage, grape harvest"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "They shall lift up their voice, they shall sing for the majesty of the LORD, they shall cry aloud from the sea.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the proper name of the God of Israel"
+        },
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "sea"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Wherefore glorify ye the LORD in the fires, even the name of the LORD God of Israel in the isles of the sea.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the proper name of the God of Israel"
+        },
+        {
+          "word": "isles",
+          "strongNumber": "H339",
+          "lemma": "ʾî",
+          "meaning": "coastlands, islands"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "From the uttermost part of the earth have we heard songs, even glory to the righteous. But I said, My leanness, my leanness, woe unto me! the treacherous dealers have dealt treacherously; yea, the treacherous dealers have dealt very treacherously.",
+      "highlightedWords": [
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddîq",
+          "meaning": "righteous, just"
+        },
+        {
+          "word": "treacherous dealers",
+          "strongNumber": "H898",
+          "lemma": "bagad",
+          "meaning": "to act treacherously, deal faithlessly"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Fear, and the pit, and the snare, are upon thee, O inhabitant of the earth.",
+      "highlightedWords": [
+        {
+          "word": "Fear",
+          "strongNumber": "H6343",
+          "lemma": "pachad",
+          "meaning": "dread, terror"
+        },
+        {
+          "word": "snare",
+          "strongNumber": "H6341",
+          "lemma": "pach",
+          "meaning": "snare, trap"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And it shall come to pass, that he who fleeth from the noise of the fear shall fall into the pit; and he that cometh up out of the midst of the pit shall be taken in the snare: for the windows from on high are open, and the foundations of the earth do shake.",
+      "highlightedWords": [
+        {
+          "word": "pit",
+          "strongNumber": "H6354",
+          "lemma": "pachath",
+          "meaning": "pit, trap"
+        },
+        {
+          "word": "windows",
+          "strongNumber": "H699",
+          "lemma": "ʿarubbah",
+          "meaning": "lattice, window, sluice"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "The earth is utterly broken down, the earth is clean dissolved, the earth is moved exceedingly.",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "ʼerets",
+          "meaning": "land, earth, ground"
+        },
+        {
+          "word": "moved",
+          "strongNumber": "H4131",
+          "lemma": "môt",
+          "meaning": "to totter, shake, slip"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "The earth shall reel to and fro like a drunkard, and shall be removed like a cottage; and the transgression thereof shall be heavy upon it; and it shall fall, and not rise again.",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "ʼerets",
+          "meaning": "land, earth, ground"
+        },
+        {
+          "word": "transgression",
+          "strongNumber": "H6588",
+          "lemma": "peshaʿ",
+          "meaning": "transgression, rebellion"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And it shall come to pass in that day, that the LORD shall punish the host of the high ones that are on high, and the kings of the earth upon the earth.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the proper name of the God of Israel"
+        },
+        {
+          "word": "kings",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And they shall be gathered together, as prisoners are gathered in the pit, and shall be shut up in the prison, and after many days shall they be visited.",
+      "highlightedWords": [
+        {
+          "word": "prisoners",
+          "strongNumber": "H615",
+          "lemma": "ʼasir",
+          "meaning": "prisoner, captive"
+        },
+        {
+          "word": "pit",
+          "strongNumber": "H953",
+          "lemma": "bor",
+          "meaning": "pit, cistern, dungeon"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Then the moon shall be confounded, and the sun ashamed, when the LORD of hosts shall reign in mount Zion, and in Jerusalem, and before his ancients gloriously.",
+      "highlightedWords": [
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyyon",
+          "meaning": "Zion, a hill in Jerusalem"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem"
+        }
+      ]
+    }
+  ]
+}

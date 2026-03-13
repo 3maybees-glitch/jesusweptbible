@@ -1,0 +1,204 @@
+{
+  "book": "Ecclesiastes",
+  "chapter": 11,
+  "chapterTheme": {
+    "twoWordSummary": "Sow Boldly",
+    "themeWords": [
+      {
+        "word": "sow",
+        "strongNumber": "H2232",
+        "lemma": "zara'",
+        "meaning": "to scatter seed, to sow"
+      },
+      {
+        "word": "light",
+        "strongNumber": "H216",
+        "lemma": "'or",
+        "meaning": "light, brightness"
+      }
+    ]
+  },
+  "sentenceTheme": "Act with diligence amid uncertainty and rejoice responsibly before God.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Cast thy bread upon the waters: for thou shalt find it after many days.",
+      "highlightedWords": [
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread, food"
+        },
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Give a portion to seven, and also to eight; for thou knowest not what evil shall be upon the earth.",
+      "highlightedWords": [
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "raʿ",
+          "meaning": "evil, calamity"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "ʾerets",
+          "meaning": "earth, land"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "If the clouds be full of rain, they empty themselves upon the earth: and if the tree fall toward the south, or toward the north, in the place where the tree falleth, there it shall be.",
+      "highlightedWords": [
+        {
+          "word": "clouds",
+          "strongNumber": "H5645",
+          "lemma": "ʿab",
+          "meaning": "cloud, cloud-mass"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "ʾerets",
+          "meaning": "earth, land"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "He that observeth the wind shall not sow; and he that regardeth the clouds shall not reap.",
+      "highlightedWords": [
+        {
+          "word": "wind",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "wind, breath, spirit"
+        },
+        {
+          "word": "sow",
+          "strongNumber": "H2232",
+          "lemma": "zara'",
+          "meaning": "to scatter seed, to sow"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "As thou knowest not what is the way of the spirit, nor how the bones do grow in the womb of her that is with child: even so thou knowest not the works of God who maketh all.",
+      "highlightedWords": [
+        {
+          "word": "spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "spirit, wind, breath"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "ʾElohim",
+          "meaning": "God"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "In the morning sow thy seed, and in the evening withhold not thine hand: for thou knowest not whether shall prosper, either this or that, or whether they both shall be alike good.",
+      "highlightedWords": [
+        {
+          "word": "seed",
+          "strongNumber": "H2233",
+          "lemma": "zera'",
+          "meaning": "seed, offspring"
+        },
+        {
+          "word": "prosper",
+          "strongNumber": "H6743",
+          "lemma": "tsalach",
+          "meaning": "to succeed, prosper"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Truly the light is sweet, and a pleasant thing it is for the eyes to behold the sun:",
+      "highlightedWords": [
+        {
+          "word": "light",
+          "strongNumber": "H216",
+          "lemma": "'or",
+          "meaning": "light, brightness"
+        },
+        {
+          "word": "sun",
+          "strongNumber": "H8121",
+          "lemma": "shemesh",
+          "meaning": "sun"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "But if a man live many years, and rejoice in them all; yet let him remember the days of darkness; for they shall be many. All that cometh is vanity.",
+      "highlightedWords": [
+        {
+          "word": "darkness",
+          "strongNumber": "H2822",
+          "lemma": "choshekh",
+          "meaning": "darkness, gloom"
+        },
+        {
+          "word": "vanity",
+          "strongNumber": "H1892",
+          "lemma": "hebel",
+          "meaning": "vanity, vapor, breath"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Rejoice, O young man, in thy youth; and let thy heart cheer thee in the days of thy youth, and walk in the ways of thine heart, and in the sight of thine eyes: but know thou, that for all these things God will bring thee into judgment.",
+      "highlightedWords": [
+        {
+          "word": "Rejoice",
+          "strongNumber": "H8055",
+          "lemma": "samach",
+          "meaning": "to rejoice, be glad"
+        },
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "judgment, justice"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Therefore remove sorrow from thy heart, and put away evil from thy flesh: for childhood and youth are vanity.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, mind, inner being"
+        },
+        {
+          "word": "vanity",
+          "strongNumber": "H1892",
+          "lemma": "hebel",
+          "meaning": "vanity, vapor, breath"
+        }
+      ]
+    }
+  ]
+}

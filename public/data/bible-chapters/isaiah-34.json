@@ -1,0 +1,330 @@
+{
+  "book": "Isaiah",
+  "chapter": 34,
+  "chapterTheme": {
+    "twoWordSummary": "Edom Judged",
+    "themeWords": [
+      {
+        "word": "vengeance",
+        "strongNumber": "H5359",
+        "lemma": "naqam",
+        "meaning": "vengeance, retribution"
+      },
+      {
+        "word": "Idumea",
+        "strongNumber": "H123",
+        "lemma": "Edom",
+        "meaning": "Edom/Idumea, nation descended from Esau"
+      }
+    ]
+  },
+  "sentenceTheme": "The LORD summons all nations to hear His decree of cosmic judgment, highlighting the ruin of Idumea (Edom) and the everlasting desolation of its land.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Come near, ye nations, to hear; and hearken, ye people: let the earth hear, and all that is therein; the world, and all things that come forth of it.",
+      "highlightedWords": [
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation, people, Gentile"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "’erets",
+          "meaning": "land, earth"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "For the indignation of the LORD is upon all nations, and his fury upon all their armies: he hath utterly destroyed them, he hath delivered them to the slaughter.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the proper name of the God of Israel"
+        },
+        {
+          "word": "armies",
+          "strongNumber": "H6635",
+          "lemma": "tsaba",
+          "meaning": "army, host"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Their slain also shall be cast out, and their stink shall come up out of their carcases, and the mountains shall be melted with their blood.",
+      "highlightedWords": [
+        {
+          "word": "mountains",
+          "strongNumber": "H2022",
+          "lemma": "har",
+          "meaning": "mountain, hill"
+        },
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "blood"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And all the host of heaven shall be dissolved, and the heavens shall be rolled together as a scroll: and all their host shall fall down, as the leaf falleth off from the vine, and as a falling fig from the fig tree.",
+      "highlightedWords": [
+        {
+          "word": "host",
+          "strongNumber": "H6635",
+          "lemma": "tsaba",
+          "meaning": "host, army"
+        },
+        {
+          "word": "heavens",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens, sky"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "For my sword shall be bathed in heaven: behold, it shall come down upon Idumea, and upon the people of my curse, to judgment.",
+      "highlightedWords": [
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword"
+        },
+        {
+          "word": "Idumea",
+          "strongNumber": "H123",
+          "lemma": "Edom",
+          "meaning": "Edom/Idumea, nation descended from Esau"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "The sword of the LORD is filled with blood, it is made fat with fatness, and with the blood of lambs and goats, with the fat of the kidneys of rams: for the LORD hath a sacrifice in Bozrah, and a great slaughter in the land of Idumea.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the proper name of the God of Israel"
+        },
+        {
+          "word": "Bozrah",
+          "strongNumber": "H1224",
+          "lemma": "Botsrah",
+          "meaning": "Bozrah, chief city of Edom"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And the unicorns shall come down with them, and the bullocks with the bulls; and their land shall be soaked with blood, and their dust made fat with fatness.",
+      "highlightedWords": [
+        {
+          "word": "unicorns",
+          "strongNumber": "H7214",
+          "lemma": "re'em",
+          "meaning": "wild ox (KJV unicorn)"
+        },
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "blood"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "For it is the day of the LORD's vengeance, and the year of recompences for the controversy of Zion.",
+      "highlightedWords": [
+        {
+          "word": "LORD's",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the proper name of the God of Israel"
+        },
+        {
+          "word": "vengeance",
+          "strongNumber": "H5359",
+          "lemma": "naqam",
+          "meaning": "vengeance, retribution"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And the streams thereof shall be turned into pitch, and the dust thereof into brimstone, and the land thereof shall become burning pitch.",
+      "highlightedWords": [
+        {
+          "word": "pitch",
+          "strongNumber": "H2203",
+          "lemma": "zepheth",
+          "meaning": "pitch, bitumen"
+        },
+        {
+          "word": "brimstone",
+          "strongNumber": "H1614",
+          "lemma": "gophrith",
+          "meaning": "brimstone, sulfur"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "It shall not be quenched night nor day; the smoke thereof shall go up for ever: from generation to generation it shall lie waste; none shall pass through it for ever and ever.",
+      "highlightedWords": [
+        {
+          "word": "night",
+          "strongNumber": "H3915",
+          "lemma": "laylah",
+          "meaning": "night"
+        },
+        {
+          "word": "day",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "But the cormorant and the bittern shall possess it; the owl also and the raven shall dwell in it: and he shall stretch out upon it the line of confusion, and the stones of emptiness.",
+      "highlightedWords": [
+        {
+          "word": "raven",
+          "strongNumber": "H6158",
+          "lemma": "’oreb",
+          "meaning": "raven"
+        },
+        {
+          "word": "confusion",
+          "strongNumber": "H8414",
+          "lemma": "tohu",
+          "meaning": "formlessness, chaos, confusion"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "They shall call the nobles thereof to the kingdom, but none shall be there, and all her princes shall be nothing.",
+      "highlightedWords": [
+        {
+          "word": "princes",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "prince, chief, ruler"
+        },
+        {
+          "word": "nothing",
+          "strongNumber": "H657",
+          "lemma": "’ephes",
+          "meaning": "nothing, end, ceasing"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And thorns shall come up in her palaces, nettles and brambles in the fortresses thereof: and it shall be an habitation of dragons, and a court for owls.",
+      "highlightedWords": [
+        {
+          "word": "palaces",
+          "strongNumber": "H759",
+          "lemma": "’armon",
+          "meaning": "palace, citadel"
+        },
+        {
+          "word": "dragons",
+          "strongNumber": "H8565",
+          "lemma": "tannim",
+          "meaning": "jackals (KJV dragons)"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "The wild beasts of the desert shall also meet with the wild beasts of the island, and the satyr shall cry to his fellow; the screech owl also shall rest there, and find for herself a place of rest.",
+      "highlightedWords": [
+        {
+          "word": "satyr",
+          "strongNumber": "H8163",
+          "lemma": "sa'ir",
+          "meaning": "he-goat, satyr"
+        },
+        {
+          "word": "screech owl",
+          "strongNumber": "H3917",
+          "lemma": "lilith",
+          "meaning": "night creature"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "There shall the great owl make her nest, and lay, and hatch, and gather under her shadow: there shall the vultures also be gathered, every one with her mate.",
+      "highlightedWords": [
+        {
+          "word": "nest",
+          "strongNumber": "H7064",
+          "lemma": "qen",
+          "meaning": "nest"
+        },
+        {
+          "word": "shadow",
+          "strongNumber": "H6738",
+          "lemma": "tsel",
+          "meaning": "shadow, shade"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Seek ye out of the book of the LORD, and read: no one of these shall fail, none shall want her mate: for my mouth it hath commanded, and his spirit it hath gathered them.",
+      "highlightedWords": [
+        {
+          "word": "book",
+          "strongNumber": "H5612",
+          "lemma": "sefer",
+          "meaning": "book, scroll"
+        },
+        {
+          "word": "spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "spirit, wind, breath"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And he hath cast the lot for them, and his hand hath divided it unto them by line: they shall possess it for ever, from generation to generation shall they dwell therein.",
+      "highlightedWords": [
+        {
+          "word": "lot",
+          "strongNumber": "H1486",
+          "lemma": "goral",
+          "meaning": "lot, allotment"
+        },
+        {
+          "word": "line",
+          "strongNumber": "H6957",
+          "lemma": "qav",
+          "meaning": "measuring line, cord"
+        }
+      ]
+    }
+  ]
+}

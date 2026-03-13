@@ -1,0 +1,384 @@
+{
+  "book": "Psalms",
+  "chapter": 66,
+  "chapterTheme": {
+    "twoWordSummary": "Praise Deliverance",
+    "themeWords": [
+      {
+        "word": "praise",
+        "strongNumber": "H8416",
+        "lemma": "tehillah",
+        "meaning": "praise, song of praise"
+      },
+      {
+        "word": "God",
+        "strongNumber": "H430",
+        "lemma": "’elohim",
+        "meaning": "God, the true God"
+      }
+    ]
+  },
+  "sentenceTheme": "All the earth is called to praise God who tests, preserves, and delivers His people, and the psalmist vows and proclaims His answered prayer.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Make a joyful noise unto God, all ye lands:",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’elohim",
+          "meaning": "God, the true God"
+        },
+        {
+          "word": "lands",
+          "strongNumber": "H776",
+          "lemma": "’erets",
+          "meaning": "land, earth"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Sing forth the honour of his name: make his praise glorious.",
+      "highlightedWords": [
+        {
+          "word": "honour",
+          "strongNumber": "H3519",
+          "lemma": "kabod",
+          "meaning": "glory, honor"
+        },
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "name, reputation"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Say unto God, How terrible art thou in thy works! Through the greatness of thy power shall thine enemies submit themselves unto thee.",
+      "highlightedWords": [
+        {
+          "word": "power",
+          "strongNumber": "H5797",
+          "lemma": "’oz",
+          "meaning": "strength, power"
+        },
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "’oyev",
+          "meaning": "enemy, foe"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "All the earth shall worship thee, and shall sing unto thee; they shall sing to thy name. Selah.",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "’erets",
+          "meaning": "land, earth"
+        },
+        {
+          "word": "worship",
+          "strongNumber": "H7812",
+          "lemma": "shachah",
+          "meaning": "to bow down, worship"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Come and see the works of God: he is terrible in his doing toward the children of men.",
+      "highlightedWords": [
+        {
+          "word": "works",
+          "strongNumber": "H4639",
+          "lemma": "ma‘aseh",
+          "meaning": "deed, work"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’elohim",
+          "meaning": "God, the true God"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "He turned the sea into dry land: they went through the flood on foot: there did we rejoice in him.",
+      "highlightedWords": [
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "sea"
+        },
+        {
+          "word": "rejoice",
+          "strongNumber": "H8055",
+          "lemma": "samach",
+          "meaning": "to rejoice, be glad"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "He ruleth by his power for ever; his eyes behold the nations: let not the rebellious exalt themselves. Selah.",
+      "highlightedWords": [
+        {
+          "word": "ruleth",
+          "strongNumber": "H4910",
+          "lemma": "mashal",
+          "meaning": "to rule, govern"
+        },
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation, people"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "O bless our God, ye people, and make the voice of his praise to be heard:",
+      "highlightedWords": [
+        {
+          "word": "bless",
+          "strongNumber": "H1288",
+          "lemma": "barak",
+          "meaning": "to bless"
+        },
+        {
+          "word": "praise",
+          "strongNumber": "H8416",
+          "lemma": "tehillah",
+          "meaning": "praise, song of praise"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Which holdeth our soul in life, and suffereth not our feet to be moved.",
+      "highlightedWords": [
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, self"
+        },
+        {
+          "word": "moved",
+          "strongNumber": "H4131",
+          "lemma": "mot",
+          "meaning": "to totter, be moved"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "For thou, O God, hast proved us: thou hast tried us, as silver is tried.",
+      "highlightedWords": [
+        {
+          "word": "proved",
+          "strongNumber": "H974",
+          "lemma": "bachan",
+          "meaning": "to test, examine"
+        },
+        {
+          "word": "silver",
+          "strongNumber": "H3701",
+          "lemma": "keseph",
+          "meaning": "silver"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Thou broughtest us into the net; thou laidst affliction upon our loins.",
+      "highlightedWords": [
+        {
+          "word": "net",
+          "strongNumber": "H7568",
+          "lemma": "resheth",
+          "meaning": "net, network"
+        },
+        {
+          "word": "loins",
+          "strongNumber": "H4975",
+          "lemma": "mothen",
+          "meaning": "loins, waist"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Thou hast caused men to ride over our heads; we went through fire and through water: but thou broughtest us out into a wealthy place.",
+      "highlightedWords": [
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "’esh",
+          "meaning": "fire"
+        },
+        {
+          "word": "water",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "water"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "I will go into thy house with burnt offerings: I will pay thee my vows,",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayit",
+          "meaning": "house, dwelling"
+        },
+        {
+          "word": "vows",
+          "strongNumber": "H5088",
+          "lemma": "neder",
+          "meaning": "vow"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Which my lips have uttered, and my mouth hath spoken, when I was in trouble.",
+      "highlightedWords": [
+        {
+          "word": "lips",
+          "strongNumber": "H8193",
+          "lemma": "saphah",
+          "meaning": "lip, speech"
+        },
+        {
+          "word": "trouble",
+          "strongNumber": "H6869",
+          "lemma": "tsarah",
+          "meaning": "distress, trouble"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "I will offer unto thee burnt sacrifices of fatlings, with the incense of rams; I will offer bullocks with goats. Selah.",
+      "highlightedWords": [
+        {
+          "word": "rams",
+          "strongNumber": "H352",
+          "lemma": "’ayil",
+          "meaning": "ram"
+        },
+        {
+          "word": "goats",
+          "strongNumber": "H5795",
+          "lemma": "’ez",
+          "meaning": "goat"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Come and hear, all ye that fear God, and I will declare what he hath done for my soul.",
+      "highlightedWords": [
+        {
+          "word": "fear",
+          "strongNumber": "H3372",
+          "lemma": "yareʾ",
+          "meaning": "to fear, revere"
+        },
+        {
+          "word": "declare",
+          "strongNumber": "H5046",
+          "lemma": "nagad",
+          "meaning": "to declare, make known"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "I cried unto him with my mouth, and he was extolled with my tongue.",
+      "highlightedWords": [
+        {
+          "word": "cried",
+          "strongNumber": "H7121",
+          "lemma": "qaraʾ",
+          "meaning": "to call, cry out"
+        },
+        {
+          "word": "tongue",
+          "strongNumber": "H3956",
+          "lemma": "lashon",
+          "meaning": "tongue, language"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "If I regard iniquity in my heart, the Lord will not hear me:",
+      "highlightedWords": [
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "ʿavon",
+          "meaning": "iniquity, guilt"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "H136",
+          "lemma": "Adonay",
+          "meaning": "Lord, Master"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "But verily God hath heard me; he hath attended to the voice of my prayer.",
+      "highlightedWords": [
+        {
+          "word": "prayer",
+          "strongNumber": "H8605",
+          "lemma": "tephillah",
+          "meaning": "prayer"
+        },
+        {
+          "word": "heard",
+          "strongNumber": "H8085",
+          "lemma": "shamaʿ",
+          "meaning": "to hear, listen"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Blessed be God, which hath not turned away my prayer, nor his mercy from me.",
+      "highlightedWords": [
+        {
+          "word": "Blessed",
+          "strongNumber": "H1288",
+          "lemma": "barak",
+          "meaning": "to bless"
+        },
+        {
+          "word": "mercy",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "steadfast love, mercy"
+        }
+      ]
+    }
+  ]
+}

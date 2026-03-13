@@ -1,0 +1,348 @@
+{
+  "book": "Nehemiah",
+  "chapter": 8,
+  "chapterTheme": {
+    "twoWordSummary": "Law Renewal",
+    "themeWords": [
+      {
+        "word": "law",
+        "strongNumber": "H8451",
+        "lemma": "torah",
+        "meaning": "instruction; the law given by God"
+      },
+      {
+        "word": "joy",
+        "strongNumber": "H8057",
+        "lemma": "simchah",
+        "meaning": "gladness, joy, rejoicing"
+      }
+    ]
+  },
+  "sentenceTheme": "Ezra publicly reads the law, the Levites give understanding, the people turn their grief into holy joy, and they keep the Feast of Booths as written.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And all the people gathered themselves together as one man into the street that was before the water gate; and they spake unto Ezra the scribe to bring the book of the law of Moses, which the LORD had commanded to Israel.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the proper name of the God of Israel"
+        },
+        {
+          "word": "law",
+          "strongNumber": "H8451",
+          "lemma": "torah",
+          "meaning": "instruction; the law given by God"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And Ezra the priest brought the law before the congregation both of men and women, and all that could hear with understanding, upon the first day of the seventh month.",
+      "highlightedWords": [
+        {
+          "word": "congregation",
+          "strongNumber": "H6951",
+          "lemma": "qahal",
+          "meaning": "assembly, congregation"
+        },
+        {
+          "word": "seventh",
+          "strongNumber": "H7637",
+          "lemma": "shebi'i",
+          "meaning": "seventh (ordinal number)"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And he read therein before the street that was before the water gate from the morning until midday, before the men and the women, and those that could understand; and the ears of all the people were attentive unto the book of the law.",
+      "highlightedWords": [
+        {
+          "word": "read",
+          "strongNumber": "H7121",
+          "lemma": "qara",
+          "meaning": "to call, read, proclaim"
+        },
+        {
+          "word": "book",
+          "strongNumber": "H5612",
+          "lemma": "sepher",
+          "meaning": "scroll, book, document"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And Ezra the scribe stood upon a pulpit of wood, which they had made for the purpose; and beside him stood Mattithiah, and Shema, and Anaiah, and Urijah, and Hilkiah, and Maaseiah, on his right hand; and on his left hand, Pedaiah, and Mishael, and Malchiah, and Hashum, and Hashbadana, Zechariah, and Meshullam.",
+      "highlightedWords": [
+        {
+          "word": "scribe",
+          "strongNumber": "H5608",
+          "lemma": "sopher",
+          "meaning": "scribe, secretary"
+        },
+        {
+          "word": "wood",
+          "strongNumber": "H6086",
+          "lemma": "‘ets",
+          "meaning": "tree, wood, timber"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And Ezra opened the book in the sight of all the people; (for he was above all the people;) and when he opened it, all the people stood up:",
+      "highlightedWords": [
+        {
+          "word": "opened",
+          "strongNumber": "H6605",
+          "lemma": "pathach",
+          "meaning": "to open"
+        },
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "‘am",
+          "meaning": "people, nation"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And Ezra blessed the LORD, the great God. And all the people answered, Amen, Amen, with lifting up their hands: and they bowed their heads, and worshipped the LORD with their faces to the ground.",
+      "highlightedWords": [
+        {
+          "word": "blessed",
+          "strongNumber": "H1288",
+          "lemma": "barak",
+          "meaning": "to bless, praise"
+        },
+        {
+          "word": "Amen",
+          "strongNumber": "H543",
+          "lemma": "amen",
+          "meaning": "verily, truly; so be it"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Also Jeshua, and Bani, and Sherebiah, Jamin, Akkub, Shabbethai, Hodijah, Maaseiah, Kelita, Azariah, Jozabad, Hanan, Pelaiah, and the Levites, caused the people to understand the law: and the people stood in their place.",
+      "highlightedWords": [
+        {
+          "word": "Levites",
+          "strongNumber": "H3881",
+          "lemma": "Lewiy",
+          "meaning": "Levites; members of the tribe of Levi"
+        },
+        {
+          "word": "understand",
+          "strongNumber": "H995",
+          "lemma": "bin",
+          "meaning": "to understand, discern"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "So they read in the book in the law of God distinctly, and gave the sense, and caused them to understand the reading.",
+      "highlightedWords": [
+        {
+          "word": "law",
+          "strongNumber": "H8451",
+          "lemma": "torah",
+          "meaning": "instruction; the law given by God"
+        },
+        {
+          "word": "understand",
+          "strongNumber": "H995",
+          "lemma": "bin",
+          "meaning": "to understand, discern"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And Nehemiah, which is the Tirshatha, and Ezra the priest the scribe, and the Levites that taught the people, said unto all the people, This day is holy unto the LORD your God; mourn not, nor weep. For all the people wept, when they heard the words of the law.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the proper name of the God of Israel"
+        },
+        {
+          "word": "wept",
+          "strongNumber": "H1058",
+          "lemma": "bakah",
+          "meaning": "to weep, lament"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Then he said unto them, Go your way, eat the fat, and drink the sweet, and send portions unto them for whom nothing is prepared: for this day is holy unto our Lord: neither be ye sorry; for the joy of the LORD is your strength.",
+      "highlightedWords": [
+        {
+          "word": "joy",
+          "strongNumber": "H8057",
+          "lemma": "simchah",
+          "meaning": "gladness, joy, rejoicing"
+        },
+        {
+          "word": "strength",
+          "strongNumber": "H4581",
+          "lemma": "ma'oz",
+          "meaning": "stronghold, strength"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "So the Levites stilled all the people, saying, Hold your peace, for the day is holy; neither be ye grieved.",
+      "highlightedWords": [
+        {
+          "word": "Levites",
+          "strongNumber": "H3881",
+          "lemma": "Lewiy",
+          "meaning": "Levites; members of the tribe of Levi"
+        },
+        {
+          "word": "day",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day, time"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And all the people went their way to eat, and to drink, and to send portions, and to make great mirth, because they had understood the words that were declared unto them.",
+      "highlightedWords": [
+        {
+          "word": "mirth",
+          "strongNumber": "H8057",
+          "lemma": "simchah",
+          "meaning": "gladness, mirth, joy"
+        },
+        {
+          "word": "understood",
+          "strongNumber": "H995",
+          "lemma": "bin",
+          "meaning": "to understand, discern"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And on the second day were gathered together the chief of the fathers of all the people, the priests and the Levites, unto Ezra the scribe, even to understand the words of the law.",
+      "highlightedWords": [
+        {
+          "word": "second",
+          "strongNumber": "H8145",
+          "lemma": "sheniy",
+          "meaning": "second (ordinal number)"
+        },
+        {
+          "word": "law",
+          "strongNumber": "H8451",
+          "lemma": "torah",
+          "meaning": "instruction; the law given by God"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And they found written in the law which the LORD had commanded by Moses, that the children of Israel should dwell in booths in the feast of the seventh month:",
+      "highlightedWords": [
+        {
+          "word": "written",
+          "strongNumber": "H3789",
+          "lemma": "kathab",
+          "meaning": "to write, inscribe"
+        },
+        {
+          "word": "booths",
+          "strongNumber": "H5521",
+          "lemma": "sukkah",
+          "meaning": "booth, shelter, tabernacle"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And that they should publish and proclaim in all their cities, and in Jerusalem, saying, Go forth unto the mount, and fetch olive branches, and pine branches, and myrtle branches, and palm branches, and branches of thick trees, to make booths, as it is written.",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem, the chief city of Israel"
+        },
+        {
+          "word": "booths",
+          "strongNumber": "H5521",
+          "lemma": "sukkah",
+          "meaning": "booth, shelter, tabernacle"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "So the people went forth, and brought them, and made themselves booths, every one upon the roof of his house, and in their courts, and in the courts of the house of God, and in the street of the water gate, and in the street of the gate of Ephraim.",
+      "highlightedWords": [
+        {
+          "word": "water",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "water(s)"
+        },
+        {
+          "word": "gate",
+          "strongNumber": "H8179",
+          "lemma": "sha'ar",
+          "meaning": "gate, entrance"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And all the congregation of them that were come again out of the captivity made booths, and sat under the booths: for since the days of Jeshua the son of Nun unto that day had not the children of Israel done so. And there was very great gladness.",
+      "highlightedWords": [
+        {
+          "word": "captivity",
+          "strongNumber": "H1473",
+          "lemma": "golah",
+          "meaning": "exile, captivity"
+        },
+        {
+          "word": "gladness",
+          "strongNumber": "H8057",
+          "lemma": "simchah",
+          "meaning": "gladness, joy"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Also day by day, from the first day unto the last day, he read in the book of the law of God. And they kept the feast seven days; and on the eighth day was a solemn assembly, according unto the manner.",
+      "highlightedWords": [
+        {
+          "word": "feast",
+          "strongNumber": "H2282",
+          "lemma": "chag",
+          "meaning": "festival, feast"
+        },
+        {
+          "word": "eighth",
+          "strongNumber": "H8066",
+          "lemma": "shemini",
+          "meaning": "eighth (ordinal number)"
+        }
+      ]
+    }
+  ]
+}

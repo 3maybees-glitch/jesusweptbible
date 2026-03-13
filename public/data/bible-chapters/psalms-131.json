@@ -1,0 +1,78 @@
+{
+  "book": "Psalms",
+  "chapter": 131,
+  "chapterTheme": {
+    "twoWordSummary": "Humble Trust",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH",
+        "meaning": "The covenant name of God; the LORD"
+      },
+      {
+        "word": "hope",
+        "strongNumber": "H3176",
+        "lemma": "yachal",
+        "meaning": "To wait for, hope in, expect"
+      }
+    ]
+  },
+  "sentenceTheme": "A brief psalm of humble contentment that calls Israel to place enduring hope in the LORD.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "LORD, my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great matters, or in things too high for me.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of God; the LORD"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "Heart; inner person, mind, will"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Surely I have behaved and quieted myself, as a child that is weaned of his mother: my soul is even as a weaned child.",
+      "highlightedWords": [
+        {
+          "word": "weaned",
+          "strongNumber": "H1580",
+          "lemma": "gamal",
+          "meaning": "To wean; to deal fully with"
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "Soul; life; self"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Let Israel hope in the LORD from henceforth and for ever.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; he strives with God"
+        },
+        {
+          "word": "hope",
+          "strongNumber": "H3176",
+          "lemma": "yachal",
+          "meaning": "To wait for, hope in, expect"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "book": "Isaiah",
+  "chapter": 4,
+  "chapterTheme": {
+    "twoWordSummary": "Purified Zion",
+    "themeWords": [
+      {
+        "word": "branch",
+        "strongNumber": "H6780",
+        "lemma": "tsemach",
+        "meaning": "sprout, branch; a future shoot"
+      },
+      {
+        "word": "glory",
+        "strongNumber": "H3519",
+        "lemma": "kavod",
+        "meaning": "weight, honor, splendor, glory"
+      }
+    ]
+  },
+  "sentenceTheme": "After judgment cleanses Jerusalem, the Branch of the LORD will display beauty and glory, and God will provide protective covering and refuge for Zion.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And in that day seven women shall take hold of one man, saying, We will eat our own bread, and wear our own apparel: only let us be called by thy name, to take away our reproach.",
+      "highlightedWords": [
+        {
+          "word": "seven",
+          "strongNumber": "H7651",
+          "lemma": "shebaʿ",
+          "meaning": "the number seven; completeness"
+        },
+        {
+          "word": "reproach",
+          "strongNumber": "H2781",
+          "lemma": "cherpah",
+          "meaning": "disgrace, shame, scorn"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "In that day shall the branch of the LORD be beautiful and glorious, and the fruit of the earth shall be excellent and comely for them that are escaped of Israel.",
+      "highlightedWords": [
+        {
+          "word": "branch",
+          "strongNumber": "H6780",
+          "lemma": "tsemach",
+          "meaning": "sprout, branch; a promised shoot"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of God"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And it shall come to pass, that he that is left in Zion, and he that remaineth in Jerusalem, shall be called holy, even every one that is written among the living in Jerusalem:",
+      "highlightedWords": [
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyyôn",
+          "meaning": "Zion; the hill of Jerusalem; the city of God"
+        },
+        {
+          "word": "holy",
+          "strongNumber": "H6918",
+          "lemma": "qadosh",
+          "meaning": "holy, sacred, set apart"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "When the Lord shall have washed away the filth of the daughters of Zion, and shall have purged the blood of Jerusalem from the midst thereof by the spirit of judgment, and by the spirit of burning.",
+      "highlightedWords": [
+        {
+          "word": "spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "breath, wind, spirit"
+        },
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "justice, legal decision, judgment"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And the LORD will create upon every dwelling place of mount Zion, and upon her assemblies, a cloud and smoke by day, and the shining of a flaming fire by night: for upon all the glory shall be a defence.",
+      "highlightedWords": [
+        {
+          "word": "glory",
+          "strongNumber": "H3519",
+          "lemma": "kavod",
+          "meaning": "glory, honor, splendor"
+        },
+        {
+          "word": "defence",
+          "strongNumber": "H2646",
+          "lemma": "chuppah",
+          "meaning": "canopy, covering, shelter"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And there shall be a tabernacle for a shadow in the daytime from the heat, and for a place of refuge, and for a covert from storm and from rain.",
+      "highlightedWords": [
+        {
+          "word": "tabernacle",
+          "strongNumber": "H5521",
+          "lemma": "sukkah",
+          "meaning": "booth, hut, shelter"
+        },
+        {
+          "word": "shadow",
+          "strongNumber": "H6738",
+          "lemma": "tsel",
+          "meaning": "shade, shadow; protection"
+        }
+      ]
+    }
+  ]
+}

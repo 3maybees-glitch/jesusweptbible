@@ -1,0 +1,510 @@
+{
+  "book": "2 Kings",
+  "chapter": 3,
+  "chapterTheme": {
+    "twoWordSummary": "Miraculous Water",
+    "themeWords": [
+      {
+        "word": "water",
+        "strongNumber": "H4325",
+        "lemma": "mayim",
+        "meaning": "water"
+      },
+      {
+        "word": "Moab",
+        "strongNumber": "H4124",
+        "lemma": "Mo'av",
+        "meaning": "from father; the nation of Moab"
+      }
+    ]
+  },
+  "sentenceTheme": "Jehoram allies with Jehoshaphat and the king of Edom against Moab; through Elisha, the LORD miraculously provides water and grants victory, though the siege ends with Moab’s king offering his son and Israel withdrawing.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Now Jehoram the son of Ahab began to reign over Israel in Samaria the eighteenth year of Jehoshaphat king of Judah, and reigned twelve years.",
+      "highlightedWords": [
+        {
+          "word": "Jehoram",
+          "strongNumber": "H3088",
+          "lemma": "Yehoram",
+          "meaning": "Yahweh is exalted"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "God strives; the nation of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And he wrought evil in the sight of the LORD; but not like his father, nor like his mother: for he put away the image of Baal that his father had made.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "Baal",
+          "strongNumber": "H1168",
+          "lemma": "Ba'al",
+          "meaning": "lord; a Canaanite deity"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Nevertheless he cleaved unto the sins of Jeroboam the son of Nebat, which made Israel to sin; he departed not therefrom.",
+      "highlightedWords": [
+        {
+          "word": "Jeroboam",
+          "strongNumber": "H3379",
+          "lemma": "Yerov'am",
+          "meaning": "the people contend"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "God strives; the nation of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And Mesha king of Moab was a sheepmaster, and rendered unto the king of Israel an hundred thousand lambs, and an hundred thousand rams, with the wool.",
+      "highlightedWords": [
+        {
+          "word": "Mesha",
+          "strongNumber": "H4339",
+          "lemma": "Mesha'",
+          "meaning": "deliverance; a Moabite king"
+        },
+        {
+          "word": "Moab",
+          "strongNumber": "H4124",
+          "lemma": "Mo'av",
+          "meaning": "from father; the nation of Moab"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "But it came to pass, when Ahab was dead, that the king of Moab rebelled against the king of Israel.",
+      "highlightedWords": [
+        {
+          "word": "Ahab",
+          "strongNumber": "H256",
+          "lemma": "Ach'av",
+          "meaning": "father’s brother; a king of Israel"
+        },
+        {
+          "word": "Moab",
+          "strongNumber": "H4124",
+          "lemma": "Mo'av",
+          "meaning": "from father; the nation of Moab"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And king Jehoram went out of Samaria the same time, and numbered all Israel.",
+      "highlightedWords": [
+        {
+          "word": "Jehoram",
+          "strongNumber": "H3088",
+          "lemma": "Yehoram",
+          "meaning": "Yahweh is exalted"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "God strives; the nation of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And he went and sent to Jehoshaphat the king of Judah, saying, The king of Moab hath rebelled against me: wilt thou go with me against Moab to battle? And he said, I will go up: I am as thou art, my people as thy people, and my horses as thy horses.",
+      "highlightedWords": [
+        {
+          "word": "Jehoshaphat",
+          "strongNumber": "H3092",
+          "lemma": "Yehoshaphat",
+          "meaning": "Yahweh has judged"
+        },
+        {
+          "word": "Moab",
+          "strongNumber": "H4124",
+          "lemma": "Mo'av",
+          "meaning": "from father; the nation of Moab"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And he said, Which way shall we go up? And he answered, By the way of the wilderness of Edom.",
+      "highlightedWords": [
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbar",
+          "meaning": "wilderness, desert"
+        },
+        {
+          "word": "Edom",
+          "strongNumber": "H123",
+          "lemma": "'Edom",
+          "meaning": "red; Edom/Idumea"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "So the king of Israel went, and the king of Judah, and the king of Edom: and they fetched a compass of seven days' journey: and there was no water for the host, and for the cattle that followed them.",
+      "highlightedWords": [
+        {
+          "word": "Edom",
+          "strongNumber": "H123",
+          "lemma": "'Edom",
+          "meaning": "red; Edom/Idumea"
+        },
+        {
+          "word": "water",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "water"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And the king of Israel said, Alas! that the LORD hath called these three kings together, to deliver them into the hand of Moab!",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "Moab",
+          "strongNumber": "H4124",
+          "lemma": "Mo'av",
+          "meaning": "from father; the nation of Moab"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "But Jehoshaphat said, Is there not here a prophet of the LORD, that we may enquire of the LORD by him? And one of the king of Israel's servants answered and said, Here is Elisha the son of Shaphat, which poured water on the hands of Elijah.",
+      "highlightedWords": [
+        {
+          "word": "prophet",
+          "strongNumber": "H5030",
+          "lemma": "navi'",
+          "meaning": "prophet, spokesman"
+        },
+        {
+          "word": "Elisha",
+          "strongNumber": "H477",
+          "lemma": "'Elisha'",
+          "meaning": "God is salvation"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And Jehoshaphat said, The word of the LORD is with him. So the king of Israel and Jehoshaphat and the king of Edom went down to him.",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, thing"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And Elisha said unto the king of Israel, What have I to do with thee? get thee to the prophets of thy father, and to the prophets of thy mother. And the king of Israel said unto him, Nay: for the LORD hath called these three kings together, to deliver them into the hand of Moab.",
+      "highlightedWords": [
+        {
+          "word": "prophets",
+          "strongNumber": "H5030",
+          "lemma": "navi'",
+          "meaning": "prophets, spokesmen"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And Elisha said, As the LORD of hosts liveth, before whom I stand, surely, were it not that I regard the presence of Jehoshaphat the king of Judah, I would not look toward thee, nor see thee.",
+      "highlightedWords": [
+        {
+          "word": "hosts",
+          "strongNumber": "H6635",
+          "lemma": "tsava'",
+          "meaning": "armies, hosts"
+        },
+        {
+          "word": "Jehoshaphat",
+          "strongNumber": "H3092",
+          "lemma": "Yehoshaphat",
+          "meaning": "Yahweh has judged"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "But now bring me a minstrel. And it came to pass, when the minstrel played, that the hand of the LORD came upon him.",
+      "highlightedWords": [
+        {
+          "word": "minstrel",
+          "strongNumber": "H5059",
+          "lemma": "nagan",
+          "meaning": "to play music; musician"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And he said, Thus saith the LORD, Make this valley full of ditches.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "valley",
+          "strongNumber": "H1516",
+          "lemma": "gay'",
+          "meaning": "valley, ravine"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "For thus saith the LORD, Ye shall not see wind, neither shall ye see rain; yet that valley shall be filled with water, that ye may drink, both ye, and your cattle, and your beasts.",
+      "highlightedWords": [
+        {
+          "word": "wind",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "wind, breath, spirit"
+        },
+        {
+          "word": "water",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "water"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And this is but a light thing in the sight of the LORD: he will deliver the Moabites also into your hand.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "Moabites",
+          "strongNumber": "H4125",
+          "lemma": "Mo'abi",
+          "meaning": "Moabites; people of Moab"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And ye shall smite every fenced city, and every choice city, and shall fell every good tree, and stop all wells of water, and mar every good piece of land with stones.",
+      "highlightedWords": [
+        {
+          "word": "wells",
+          "strongNumber": "H875",
+          "lemma": "be'er",
+          "meaning": "well, spring"
+        },
+        {
+          "word": "tree",
+          "strongNumber": "H6086",
+          "lemma": "'ets",
+          "meaning": "tree, wood"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And it came to pass in the morning, when the meat offering was offered, that, behold, there came water by the way of Edom, and the country was filled with water.",
+      "highlightedWords": [
+        {
+          "word": "meat offering",
+          "strongNumber": "H4503",
+          "lemma": "minchah",
+          "meaning": "grain/meal offering"
+        },
+        {
+          "word": "Edom",
+          "strongNumber": "H123",
+          "lemma": "'Edom",
+          "meaning": "red; Edom/Idumea"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And when all the Moabites heard that the kings were come up to fight against them, they gathered all that were able to put on armour, and upward, and stood in the border.",
+      "highlightedWords": [
+        {
+          "word": "Moabites",
+          "strongNumber": "H4125",
+          "lemma": "Mo'abi",
+          "meaning": "Moabites; people of Moab"
+        },
+        {
+          "word": "kings",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And they rose up early in the morning, and the sun shone upon the water, and the Moabites saw the water on the other side as red as blood:",
+      "highlightedWords": [
+        {
+          "word": "sun",
+          "strongNumber": "H8121",
+          "lemma": "shemesh",
+          "meaning": "sun"
+        },
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "blood"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And they said, This is blood: the kings are surely slain, and they have smitten one another: now therefore, Moab, to the spoil.",
+      "highlightedWords": [
+        {
+          "word": "kings",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        },
+        {
+          "word": "spoil",
+          "strongNumber": "H7998",
+          "lemma": "shalal",
+          "meaning": "plunder, spoil"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And when they came to the camp of Israel, the Israelites rose up and smote the Moabites, so that they fled before them: but they went forward smiting the Moabites, even in their country.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "God strives; the nation of Israel"
+        },
+        {
+          "word": "Moabites",
+          "strongNumber": "H4125",
+          "lemma": "Mo'abi",
+          "meaning": "Moabites; people of Moab"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And they beat down the cities, and on every good piece of land cast every man his stone, and filled it; and they stopped all the wells of water, and felled all the good trees: only in Kir-haraseth left they the stones thereof; howbeit the slingers went about it, and smote it.",
+      "highlightedWords": [
+        {
+          "word": "wells",
+          "strongNumber": "H875",
+          "lemma": "be'er",
+          "meaning": "well, spring"
+        },
+        {
+          "word": "trees",
+          "strongNumber": "H6086",
+          "lemma": "'ets",
+          "meaning": "trees, wood"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And when the king of Moab saw that the battle was too sore for him, he took with him seven hundred men that drew swords, to break through even unto the king of Edom: but they could not.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        },
+        {
+          "word": "Edom",
+          "strongNumber": "H123",
+          "lemma": "'Edom",
+          "meaning": "red; Edom/Idumea"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "Then he took his eldest son that should have reigned in his stead, and offered him for a burnt offering upon the wall. And there was great indignation against Israel: and they departed from him, and returned to their own land.",
+      "highlightedWords": [
+        {
+          "word": "burnt offering",
+          "strongNumber": "H5930",
+          "lemma": "'olah",
+          "meaning": "burnt offering, that which goes up"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "God strives; the nation of Israel"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,654 @@
+{
+  "book": "Proverbs",
+  "chapter": 3,
+  "chapterTheme": {
+    "twoWordSummary": "Trust Wisdom",
+    "themeWords": [
+      {
+        "word": "trust",
+        "strongNumber": "H982",
+        "lemma": "batach",
+        "meaning": "to trust, be confident, feel secure"
+      },
+      {
+        "word": "wisdom",
+        "strongNumber": "H2451",
+        "lemma": "chokmah",
+        "meaning": "wisdom, skill, practical insight"
+      }
+    ]
+  },
+  "sentenceTheme": "Trust in the LORD, prize wisdom above wealth, and live righteously with generosity, humility, and integrity for God’s guidance and blessing.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "My son, forget not my law; but let thine heart keep my commandments:",
+      "highlightedWords": [
+        {
+          "word": "law",
+          "strongNumber": "H8451",
+          "lemma": "torah",
+          "meaning": "instruction, law"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner person, mind"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "For length of days, and long life, and peace, shall they add to thee.",
+      "highlightedWords": [
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace, completeness, welfare"
+        },
+        {
+          "word": "life",
+          "strongNumber": "H2416",
+          "lemma": "chay",
+          "meaning": "life, living"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Let not mercy and truth forsake thee: bind them about thy neck; write them upon the table of thine heart:",
+      "highlightedWords": [
+        {
+          "word": "mercy",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "steadfast love, kindness, mercy"
+        },
+        {
+          "word": "truth",
+          "strongNumber": "H571",
+          "lemma": "emeth",
+          "meaning": "truth, faithfulness, reliability"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "So shalt thou find favour and good understanding in the sight of God and man.",
+      "highlightedWords": [
+        {
+          "word": "favour",
+          "strongNumber": "H2580",
+          "lemma": "chen",
+          "meaning": "favor, grace, charm"
+        },
+        {
+          "word": "understanding",
+          "strongNumber": "H7922",
+          "lemma": "sekhel",
+          "meaning": "insight, prudence, understanding"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Trust in the LORD with all thine heart; and lean not unto thine own understanding.",
+      "highlightedWords": [
+        {
+          "word": "Trust",
+          "strongNumber": "H982",
+          "lemma": "batach",
+          "meaning": "to trust, be confident, feel secure"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yahweh)",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "In all thy ways acknowledge him, and he shall direct thy paths.",
+      "highlightedWords": [
+        {
+          "word": "acknowledge",
+          "strongNumber": "H3045",
+          "lemma": "yada",
+          "meaning": "to know, acknowledge, recognize"
+        },
+        {
+          "word": "paths",
+          "strongNumber": "H734",
+          "lemma": "orach",
+          "meaning": "path, way, track"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Be not wise in thine own eyes: fear the LORD, and depart from evil.",
+      "highlightedWords": [
+        {
+          "word": "fear",
+          "strongNumber": "H3372",
+          "lemma": "yare",
+          "meaning": "to fear, revere, stand in awe"
+        },
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra'",
+          "meaning": "evil, bad, calamity"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "It shall be health to thy navel, and marrow to thy bones.",
+      "highlightedWords": [
+        {
+          "word": "health",
+          "strongNumber": "H4832",
+          "lemma": "marpe'",
+          "meaning": "healing, health, remedy"
+        },
+        {
+          "word": "bones",
+          "strongNumber": "H6106",
+          "lemma": "etsem",
+          "meaning": "bone, substance, self"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Honour the LORD with thy substance, and with the firstfruits of all thine increase:",
+      "highlightedWords": [
+        {
+          "word": "Honour",
+          "strongNumber": "H3513",
+          "lemma": "kabed",
+          "meaning": "to honor, glorify, make weighty"
+        },
+        {
+          "word": "firstfruits",
+          "strongNumber": "H7225",
+          "lemma": "reshith",
+          "meaning": "first, beginning, firstfruits"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "So shall thy barns be filled with plenty, and thy presses shall burst out with new wine.",
+      "highlightedWords": [
+        {
+          "word": "presses",
+          "strongNumber": "H3342",
+          "lemma": "yeqeb",
+          "meaning": "winepress, vat"
+        },
+        {
+          "word": "wine",
+          "strongNumber": "H8492",
+          "lemma": "tirosh",
+          "meaning": "new wine, freshly pressed juice"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "My son, despise not the chastening of the LORD; neither be weary of his correction:",
+      "highlightedWords": [
+        {
+          "word": "chastening",
+          "strongNumber": "H4148",
+          "lemma": "musar",
+          "meaning": "discipline, chastening, instruction"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yahweh)",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "For whom the LORD loveth he correcteth; even as a father the son in whom he delighteth.",
+      "highlightedWords": [
+        {
+          "word": "loveth",
+          "strongNumber": "H157",
+          "lemma": "ahab",
+          "meaning": "to love"
+        },
+        {
+          "word": "father",
+          "strongNumber": "H1",
+          "lemma": "ab",
+          "meaning": "father"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Happy is the man that findeth wisdom, and the man that getteth understanding.",
+      "highlightedWords": [
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "wisdom, skill"
+        },
+        {
+          "word": "understanding",
+          "strongNumber": "H8394",
+          "lemma": "tebunah",
+          "meaning": "understanding, intelligence"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "For the merchandise of it is better than the merchandise of silver, and the gain thereof than fine gold.",
+      "highlightedWords": [
+        {
+          "word": "merchandise",
+          "strongNumber": "H5505",
+          "lemma": "sachar",
+          "meaning": "trade, profit, merchandise"
+        },
+        {
+          "word": "gold",
+          "strongNumber": "H2742",
+          "lemma": "charuts",
+          "meaning": "fine gold, precious metal"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "She is more precious than rubies: and all the things thou canst desire are not to be compared unto her.",
+      "highlightedWords": [
+        {
+          "word": "precious",
+          "strongNumber": "H3368",
+          "lemma": "yaqar",
+          "meaning": "precious, valuable, costly"
+        },
+        {
+          "word": "rubies",
+          "strongNumber": "H6443",
+          "lemma": "peninim",
+          "meaning": "rubies, coral, red gems"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Length of days is in her right hand; and in her left hand riches and honour.",
+      "highlightedWords": [
+        {
+          "word": "riches",
+          "strongNumber": "H6239",
+          "lemma": "osher",
+          "meaning": "riches, wealth"
+        },
+        {
+          "word": "honour",
+          "strongNumber": "H3519",
+          "lemma": "kabod",
+          "meaning": "honor, glory"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Her ways are ways of pleasantness, and all her paths are peace.",
+      "highlightedWords": [
+        {
+          "word": "ways",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way, road, manner"
+        },
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace, wholeness, prosperity"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "She is a tree of life to them that lay hold upon her: and happy is every one that retaineth her.",
+      "highlightedWords": [
+        {
+          "word": "tree",
+          "strongNumber": "H6086",
+          "lemma": "etz",
+          "meaning": "tree, wood"
+        },
+        {
+          "word": "life",
+          "strongNumber": "H2416",
+          "lemma": "chay",
+          "meaning": "life, living"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "The LORD by wisdom hath founded the earth; by understanding hath he established the heavens.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yahweh)",
+          "meaning": "the personal name of the God of Israel"
+        },
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "wisdom, skill"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "By his knowledge the depths are broken up, and the clouds drop down the dew.",
+      "highlightedWords": [
+        {
+          "word": "knowledge",
+          "strongNumber": "H1847",
+          "lemma": "da'ath",
+          "meaning": "knowledge"
+        },
+        {
+          "word": "dew",
+          "strongNumber": "H2919",
+          "lemma": "tal",
+          "meaning": "dew, night moisture"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "My son, let not them depart from thine eyes: keep sound wisdom and discretion:",
+      "highlightedWords": [
+        {
+          "word": "wisdom",
+          "strongNumber": "H8454",
+          "lemma": "tushiyyah",
+          "meaning": "sound wisdom, efficient counsel"
+        },
+        {
+          "word": "discretion",
+          "strongNumber": "H4209",
+          "lemma": "mezimmah",
+          "meaning": "discretion, purpose, thoughtful planning"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "So shall they be life unto thy soul, and grace to thy neck.",
+      "highlightedWords": [
+        {
+          "word": "life",
+          "strongNumber": "H2416",
+          "lemma": "chay",
+          "meaning": "life, living"
+        },
+        {
+          "word": "grace",
+          "strongNumber": "H2580",
+          "lemma": "chen",
+          "meaning": "grace, favor"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Then shalt thou walk in thy way safely, and thy foot shall not stumble.",
+      "highlightedWords": [
+        {
+          "word": "safely",
+          "strongNumber": "H983",
+          "lemma": "betach",
+          "meaning": "security, safety, confidence"
+        },
+        {
+          "word": "foot",
+          "strongNumber": "H7272",
+          "lemma": "regel",
+          "meaning": "foot"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "When thou liest down, thou shalt not be afraid: yea, thou shalt lie down, and thy sleep shall be sweet.",
+      "highlightedWords": [
+        {
+          "word": "lie",
+          "strongNumber": "H7901",
+          "lemma": "shakab",
+          "meaning": "to lie down, rest"
+        },
+        {
+          "word": "sleep",
+          "strongNumber": "H8142",
+          "lemma": "shenah",
+          "meaning": "sleep"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Be not afraid of sudden fear, neither of the desolation of the wicked, when it cometh.",
+      "highlightedWords": [
+        {
+          "word": "fear",
+          "strongNumber": "H6343",
+          "lemma": "pachad",
+          "meaning": "terror, dread"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha'",
+          "meaning": "wicked, guilty person"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "For the LORD shall be thy confidence, and shall keep thy foot from being taken.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yahweh)",
+          "meaning": "the personal name of the God of Israel"
+        },
+        {
+          "word": "confidence",
+          "strongNumber": "H3689",
+          "lemma": "kesel",
+          "meaning": "confidence, trust, hope"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "Withhold not good from them to whom it is due, when it is in the power of thine hand to do it.",
+      "highlightedWords": [
+        {
+          "word": "good",
+          "strongNumber": "H2896",
+          "lemma": "tov",
+          "meaning": "good, pleasant, beneficial"
+        },
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "Say not unto thy neighbour, Go, and come again, and to morrow I will give; when thou hast it by thee.",
+      "highlightedWords": [
+        {
+          "word": "neighbour",
+          "strongNumber": "H7453",
+          "lemma": "rea'",
+          "meaning": "neighbor, friend, companion"
+        },
+        {
+          "word": "to morrow",
+          "strongNumber": "H4279",
+          "lemma": "machar",
+          "meaning": "tomorrow, the morrow"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "Devise not evil against thy neighbour, seeing he dwelleth securely by thee.",
+      "highlightedWords": [
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra'",
+          "meaning": "evil, harm"
+        },
+        {
+          "word": "neighbour",
+          "strongNumber": "H7453",
+          "lemma": "rea'",
+          "meaning": "neighbor, friend, companion"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "Strive not with a man without cause, if he have done thee no harm.",
+      "highlightedWords": [
+        {
+          "word": "Strive",
+          "strongNumber": "H7378",
+          "lemma": "rib",
+          "meaning": "to contend, strive, dispute"
+        },
+        {
+          "word": "man",
+          "strongNumber": "H376",
+          "lemma": "ish",
+          "meaning": "man, male, person"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "Envy thou not the oppressor, and choose none of his ways.",
+      "highlightedWords": [
+        {
+          "word": "Envy",
+          "strongNumber": "H7065",
+          "lemma": "qana'",
+          "meaning": "to be jealous, envy"
+        },
+        {
+          "word": "ways",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way, road, manner"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "For the froward is abomination to the LORD: but his secret is with the righteous.",
+      "highlightedWords": [
+        {
+          "word": "abomination",
+          "strongNumber": "H8441",
+          "lemma": "to'evah",
+          "meaning": "abomination, detestable thing"
+        },
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "The curse of the LORD is in the house of the wicked: but he blesseth the habitation of the just.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha'",
+          "meaning": "wicked, guilty person"
+        },
+        {
+          "word": "just",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "Surely he scorneth the scorners: but he giveth grace unto the lowly.",
+      "highlightedWords": [
+        {
+          "word": "scorners",
+          "strongNumber": "H3917",
+          "lemma": "lets",
+          "meaning": "scorner, mocker"
+        },
+        {
+          "word": "grace",
+          "strongNumber": "H2580",
+          "lemma": "chen",
+          "meaning": "grace, favor"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "The wise shall inherit glory: but shame shall be the promotion of fools.",
+      "highlightedWords": [
+        {
+          "word": "wise",
+          "strongNumber": "H2450",
+          "lemma": "chakam",
+          "meaning": "wise, skillful, prudent"
+        },
+        {
+          "word": "fools",
+          "strongNumber": "H3684",
+          "lemma": "kesil",
+          "meaning": "fool, dullard"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1338 @@
+{
+  "book": "Nehemiah",
+  "chapter": 7,
+  "chapterTheme": {
+    "twoWordSummary": "Genealogical Register",
+    "themeWords": [
+      {
+        "word": "genealogy",
+        "strongNumber": "H3187",
+        "lemma": "yachas",
+        "meaning": "to enroll by genealogy; to be registered by lineage"
+      },
+      {
+        "word": "Jerusalem",
+        "strongNumber": "H3389",
+        "lemma": "Yerushalayim",
+        "meaning": "the chief city of Judah; foundation/abode of peace"
+      }
+    ]
+  },
+  "sentenceTheme": "Nehemiah secures Jerusalem, appoints faithful oversight, and records the returned exiles’ genealogical register with totals and contributions, as the people resettle in their cities.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Now it came to pass, when the wall was built, and I had set up the doors, and the porters and the singers and the Levites were appointed,",
+      "highlightedWords": [
+        {
+          "word": "wall",
+          "strongNumber": "H2346",
+          "lemma": "chomah",
+          "meaning": "a wall or protective barrier"
+        },
+        {
+          "word": "porters",
+          "strongNumber": "H7778",
+          "lemma": "sho‘er",
+          "meaning": "gatekeepers; doorkeepers"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "That I gave my brother Hanani, and Hananiah the ruler of the palace, charge over Jerusalem: for he was a faithful man, and feared God above many.",
+      "highlightedWords": [
+        {
+          "word": "faithful",
+          "strongNumber": "H571",
+          "lemma": "’emun",
+          "meaning": "trustworthy; reliable"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "the chief city of Judah; foundation/abode of peace"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And I said unto them, Let not the gates of Jerusalem be opened until the sun be hot; and while they stand by, let them shut the doors, and bar them: and appoint watches of the inhabitants of Jerusalem, every one in his watch, and every one to be over against his house.",
+      "highlightedWords": [
+        {
+          "word": "gates",
+          "strongNumber": "H8179",
+          "lemma": "sha‘ar",
+          "meaning": "gate; entrance to a city"
+        },
+        {
+          "word": "watches",
+          "strongNumber": "H4931",
+          "lemma": "mishmereth",
+          "meaning": "a guard, watch, or charge"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Now the city was large and great: but the people were few therein, and the houses were not builded.",
+      "highlightedWords": [
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "‘iyr",
+          "meaning": "city; town"
+        },
+        {
+          "word": "builded",
+          "strongNumber": "H1129",
+          "lemma": "banah",
+          "meaning": "to build; to rebuild"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And my God put into mine heart to gather together the nobles, and the rulers, and the people, that they might be reckoned by genealogy. And I found a register of the genealogy of them which came up at the first, and found written therein,",
+      "highlightedWords": [
+        {
+          "word": "genealogy",
+          "strongNumber": "H3187",
+          "lemma": "yachas",
+          "meaning": "to enroll by genealogy; to be registered by lineage"
+        },
+        {
+          "word": "register",
+          "strongNumber": "H5612",
+          "lemma": "sepher",
+          "meaning": "book; scroll; written record"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "These are the children of the province, that went up out of the captivity, of those that had been carried away, whom Nebuchadnezzar the king of Babylon had carried away, and came again to Jerusalem and to Judah, every one unto his city;",
+      "highlightedWords": [
+        {
+          "word": "captivity",
+          "strongNumber": "H7628",
+          "lemma": "golah",
+          "meaning": "exile; the exiled community"
+        },
+        {
+          "word": "province",
+          "strongNumber": "H4082",
+          "lemma": "medinah",
+          "meaning": "province; district"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Who came with Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Nehum, Baanah. The number, I say, of the men of the people of Israel was this;",
+      "highlightedWords": [
+        {
+          "word": "Zerubbabel",
+          "strongNumber": "H2216",
+          "lemma": "Zĕrubabel",
+          "meaning": "seed/offspring of Babylon"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra’el",
+          "meaning": "God strives; Israel"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "The children of Parosh, two thousand an hundred seventy and two.",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant; member"
+        },
+        {
+          "word": "Parosh",
+          "strongNumber": "H6551",
+          "lemma": "Parosh",
+          "meaning": "Parosh; a family name meaning flea"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "The children of Shephatiah, three hundred seventy and two.",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant; member"
+        },
+        {
+          "word": "Shephatiah",
+          "strongNumber": "H8203",
+          "lemma": "Shephatyah",
+          "meaning": "Yah has judged"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "The children of Arah, six hundred fifty and two.",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant; member"
+        },
+        {
+          "word": "Arah",
+          "strongNumber": "H733",
+          "lemma": "’Arah",
+          "meaning": "wayfarer; traveler"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "The children of Pahath–moab, of the children of Jeshua and Joab, two thousand and eight hundred and eighteen.",
+      "highlightedWords": [
+        {
+          "word": "Pahath-moab",
+          "strongNumber": "H6355",
+          "lemma": "Pachath-Mo’ab",
+          "meaning": "governor of Moab"
+        },
+        {
+          "word": "Jeshua",
+          "strongNumber": "H3442",
+          "lemma": "Yeshua",
+          "meaning": "Yah is salvation"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "The children of Elam, a thousand two hundred fifty and four.",
+      "highlightedWords": [
+        {
+          "word": "Elam",
+          "strongNumber": "H5867",
+          "lemma": "‘Elam",
+          "meaning": "Elam; a region east of Babylon"
+        },
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant; member"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "The children of Zattu, eight hundred forty and five.",
+      "highlightedWords": [
+        {
+          "word": "Zattu",
+          "strongNumber": "H2240",
+          "lemma": "Zattu",
+          "meaning": "olive tree; one of the returnees’ families"
+        },
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant; member"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "The children of Zaccai, seven hundred and threescore.",
+      "highlightedWords": [
+        {
+          "word": "Zaccai",
+          "strongNumber": "H2140",
+          "lemma": "Zakkay",
+          "meaning": "pure; one of the returnees"
+        },
+        {
+          "word": "threescore",
+          "strongNumber": "H8346",
+          "lemma": "shishshiym",
+          "meaning": "sixty"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "The children of Binnui, six hundred forty and eight.",
+      "highlightedWords": [
+        {
+          "word": "Binnui",
+          "strongNumber": "H1131",
+          "lemma": "Binnuy",
+          "meaning": "built up; a returnee"
+        },
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant; member"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "The children of Bebai, six hundred twenty and eight.",
+      "highlightedWords": [
+        {
+          "word": "Bebai",
+          "strongNumber": "H893",
+          "lemma": "Bebay",
+          "meaning": "pupil (of the eye); a family name"
+        },
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant; member"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "The children of Azgad, two thousand three hundred twenty and two.",
+      "highlightedWords": [
+        {
+          "word": "Azgad",
+          "strongNumber": "H5803",
+          "lemma": "‘Azgad",
+          "meaning": "strong is Gad"
+        },
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant; member"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "The children of Adonikam, six hundred threescore and seven.",
+      "highlightedWords": [
+        {
+          "word": "Adonikam",
+          "strongNumber": "H140",
+          "lemma": "’Adoniyqam",
+          "meaning": "my Lord has arisen"
+        },
+        {
+          "word": "threescore",
+          "strongNumber": "H8346",
+          "lemma": "shishshiym",
+          "meaning": "sixty"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "The children of Bigvai, two thousand threescore and seven.",
+      "highlightedWords": [
+        {
+          "word": "Bigvai",
+          "strongNumber": "H902",
+          "lemma": "Bigvay",
+          "meaning": "happy; fortunate"
+        },
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant; member"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "The children of Adin, six hundred fifty and five.",
+      "highlightedWords": [
+        {
+          "word": "Adin",
+          "strongNumber": "H5720",
+          "lemma": "‘Adin",
+          "meaning": "voluptuous; a returnee"
+        },
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant; member"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "The children of Ater of Hezekiah, ninety and eight.",
+      "highlightedWords": [
+        {
+          "word": "Hezekiah",
+          "strongNumber": "H2396",
+          "lemma": "Chizqiyah",
+          "meaning": "Yah strengthens"
+        },
+        {
+          "word": "Ater",
+          "strongNumber": "H333",
+          "lemma": "’Ater",
+          "meaning": "bound; shut; a family name"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "The children of Hashum, three hundred twenty and eight.",
+      "highlightedWords": [
+        {
+          "word": "Hashum",
+          "strongNumber": "H2828",
+          "lemma": "Chashum",
+          "meaning": "wealthy; opulent"
+        },
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant; member"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "The children of Bezai, three hundred twenty and four.",
+      "highlightedWords": [
+        {
+          "word": "Bezai",
+          "strongNumber": "H1203",
+          "lemma": "Bezay",
+          "meaning": "shining; a returnee"
+        },
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant; member"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "The children of Hariph, an hundred and twelve.",
+      "highlightedWords": [
+        {
+          "word": "Hariph",
+          "strongNumber": "H2756",
+          "lemma": "Chariph",
+          "meaning": "autumnal; harvest-time"
+        },
+        {
+          "word": "hundred",
+          "strongNumber": "H3967",
+          "lemma": "me’ah",
+          "meaning": "one hundred"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "The children of Gibeon, ninety and five.",
+      "highlightedWords": [
+        {
+          "word": "Gibeon",
+          "strongNumber": "H1391",
+          "lemma": "Giv‘on",
+          "meaning": "hill; a Benjaminite city"
+        },
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant; member"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "The men of Bethlehem and Netophah, an hundred fourscore and eight.",
+      "highlightedWords": [
+        {
+          "word": "Bethlehem",
+          "strongNumber": "H1035",
+          "lemma": "Beyth Lechem",
+          "meaning": "house of bread"
+        },
+        {
+          "word": "Netophah",
+          "strongNumber": "H5199",
+          "lemma": "Nĕtophah",
+          "meaning": "a town near Bethlehem"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "The men of Anathoth, an hundred twenty and eight.",
+      "highlightedWords": [
+        {
+          "word": "Anathoth",
+          "strongNumber": "H6068",
+          "lemma": "‘Anathoth",
+          "meaning": "town of Anath; a Levitical city of Benjamin"
+        },
+        {
+          "word": "hundred",
+          "strongNumber": "H3967",
+          "lemma": "me’ah",
+          "meaning": "one hundred"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "The men of Beth–azmaveth, forty and two.",
+      "highlightedWords": [
+        {
+          "word": "Beth-azmaveth",
+          "strongNumber": "H1041",
+          "lemma": "Beyth ‘Azmaveth",
+          "meaning": "house of Azmaveth"
+        },
+        {
+          "word": "forty",
+          "strongNumber": "H705",
+          "lemma": "’arba‘im",
+          "meaning": "forty"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "The men of Kirjath–jearim, Chephirah, and Beeroth, seven hundred forty and three.",
+      "highlightedWords": [
+        {
+          "word": "Kirjath-jearim",
+          "strongNumber": "H7157",
+          "lemma": "Qiryath Ye‘arim",
+          "meaning": "city of forests"
+        },
+        {
+          "word": "Beeroth",
+          "strongNumber": "H881",
+          "lemma": "Be’eroth",
+          "meaning": "wells; a Gibeonite city"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "The men of Ramah and Gaba, six hundred twenty and one.",
+      "highlightedWords": [
+        {
+          "word": "Ramah",
+          "strongNumber": "H7414",
+          "lemma": "Ramah",
+          "meaning": "height; a town in Benjamin"
+        },
+        {
+          "word": "Gaba",
+          "strongNumber": "H1387",
+          "lemma": "Geba/Gaba‘",
+          "meaning": "hill; a town of Benjamin"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "The men of Michmas, an hundred and twenty and two.",
+      "highlightedWords": [
+        {
+          "word": "Michmas",
+          "strongNumber": "H4363",
+          "lemma": "Mikmas/Michmas",
+          "meaning": "hidden; a Benjaminite town"
+        },
+        {
+          "word": "hundred",
+          "strongNumber": "H3967",
+          "lemma": "me’ah",
+          "meaning": "one hundred"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "The men of Bethel and Ai, an hundred twenty and three.",
+      "highlightedWords": [
+        {
+          "word": "Bethel",
+          "strongNumber": "H1008",
+          "lemma": "Beyth-’El",
+          "meaning": "house of God"
+        },
+        {
+          "word": "Ai",
+          "strongNumber": "H5857",
+          "lemma": "Ha‘ay",
+          "meaning": "ruin; a city near Bethel"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "The men of the other Nebo, fifty and two.",
+      "highlightedWords": [
+        {
+          "word": "Nebo",
+          "strongNumber": "H5015",
+          "lemma": "Nebo",
+          "meaning": "a town or the deity Nebo"
+        },
+        {
+          "word": "fifty",
+          "strongNumber": "H2572",
+          "lemma": "chamishshim",
+          "meaning": "fifty"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "The children of the other Elam, a thousand two hundred fifty and four.",
+      "highlightedWords": [
+        {
+          "word": "Elam",
+          "strongNumber": "H5867",
+          "lemma": "‘Elam",
+          "meaning": "Elam; a region east of Babylon"
+        },
+        {
+          "word": "thousand",
+          "strongNumber": "H505",
+          "lemma": "’eleph",
+          "meaning": "a thousand"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "The children of Harim, three hundred and twenty.",
+      "highlightedWords": [
+        {
+          "word": "Harim",
+          "strongNumber": "H2766",
+          "lemma": "Charim",
+          "meaning": "consecrated; devoted"
+        },
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant; member"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "The children of Jericho, three hundred forty and five.",
+      "highlightedWords": [
+        {
+          "word": "Jericho",
+          "strongNumber": "H3405",
+          "lemma": "Yericho",
+          "meaning": "fragrant; a city near the Jordan"
+        },
+        {
+          "word": "three hundred",
+          "strongNumber": "H7969|H3967",
+          "lemma": "shalosh|me’ah",
+          "meaning": "three hundred"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "The children of Lod, Hadid, and Ono, seven hundred twenty and one.",
+      "highlightedWords": [
+        {
+          "word": "Lod",
+          "strongNumber": "H3850",
+          "lemma": "Lod",
+          "meaning": "a town in Benjamin (Lydda)"
+        },
+        {
+          "word": "Ono",
+          "strongNumber": "H207",
+          "lemma": "’Ono",
+          "meaning": "vigour; a town near Lod"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "The children of Senaah, three thousand nine hundred and thirty.",
+      "highlightedWords": [
+        {
+          "word": "Senaah",
+          "strongNumber": "H5570",
+          "lemma": "Sĕna’ah",
+          "meaning": "thorny; a family of returnees"
+        },
+        {
+          "word": "thousand",
+          "strongNumber": "H505",
+          "lemma": "’eleph",
+          "meaning": "a thousand"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "text": "The priests: the children of Jedaiah, of the house of Jeshua, nine hundred seventy and three.",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest; officiant"
+        },
+        {
+          "word": "Jedaiah",
+          "strongNumber": "H3048",
+          "lemma": "Yĕda‘yah",
+          "meaning": "Yah knows"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "text": "The children of Immer, a thousand fifty and two.",
+      "highlightedWords": [
+        {
+          "word": "Immer",
+          "strongNumber": "H564",
+          "lemma": "’Immer",
+          "meaning": "talkative; a priestly family"
+        },
+        {
+          "word": "thousand",
+          "strongNumber": "H505",
+          "lemma": "’eleph",
+          "meaning": "a thousand"
+        }
+      ]
+    },
+    {
+      "verse": 41,
+      "text": "The children of Pashur, a thousand two hundred forty and seven.",
+      "highlightedWords": [
+        {
+          "word": "Pashur",
+          "strongNumber": "H6583",
+          "lemma": "Pashchur",
+          "meaning": "freedom; a priestly family"
+        },
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant; member"
+        }
+      ]
+    },
+    {
+      "verse": 42,
+      "text": "The children of Harim, a thousand and seventeen.",
+      "highlightedWords": [
+        {
+          "word": "Harim",
+          "strongNumber": "H2766",
+          "lemma": "Charim",
+          "meaning": "consecrated; devoted"
+        },
+        {
+          "word": "thousand",
+          "strongNumber": "H505",
+          "lemma": "’eleph",
+          "meaning": "a thousand"
+        }
+      ]
+    },
+    {
+      "verse": 43,
+      "text": "The Levites: the children of Jeshua, of Kadmiel, and of the children of Hodevah, seventy and four.",
+      "highlightedWords": [
+        {
+          "word": "Levites",
+          "strongNumber": "H3881",
+          "lemma": "Leviy",
+          "meaning": "members of the Levitical tribe"
+        },
+        {
+          "word": "Kadmiel",
+          "strongNumber": "H6934",
+          "lemma": "Qadmiy’el",
+          "meaning": "God is before; a Levite"
+        }
+      ]
+    },
+    {
+      "verse": 44,
+      "text": "The singers: the children of Asaph, an hundred forty and eight.",
+      "highlightedWords": [
+        {
+          "word": "singers",
+          "strongNumber": "H7891",
+          "lemma": "shiyr (part.)",
+          "meaning": "singers; those who sing"
+        },
+        {
+          "word": "Asaph",
+          "strongNumber": "H623",
+          "lemma": "’Asaph",
+          "meaning": "collector; leader of temple singers"
+        }
+      ]
+    },
+    {
+      "verse": 45,
+      "text": "The porters: the children of Shallum, the children of Ater, the children of Talmon, the children of Akkub, the children of Hatita, the children of Shobai, an hundred thirty and eight.",
+      "highlightedWords": [
+        {
+          "word": "porters",
+          "strongNumber": "H7778",
+          "lemma": "sho‘er",
+          "meaning": "gatekeepers; doorkeepers"
+        },
+        {
+          "word": "Akkub",
+          "strongNumber": "H6126",
+          "lemma": "‘Aqqub",
+          "meaning": "insidious; a temple servant/gatekeeper name"
+        }
+      ]
+    },
+    {
+      "verse": 46,
+      "text": "The Nethinims: the children of Ziha, the children of Hasupha, the children of Tabbaoth,",
+      "highlightedWords": [
+        {
+          "word": "Nethinims",
+          "strongNumber": "H5411",
+          "lemma": "Nĕthinim",
+          "meaning": "temple servants; given ones"
+        },
+        {
+          "word": "Ziha",
+          "strongNumber": "H6727",
+          "lemma": "Tzicha",
+          "meaning": "drought; parched"
+        }
+      ]
+    },
+    {
+      "verse": 47,
+      "text": "The children of Keros, the children of Sia, the children of Padon,",
+      "highlightedWords": [
+        {
+          "word": "Keros",
+          "strongNumber": "H7026",
+          "lemma": "Qeross",
+          "meaning": "crooked; a temple servant"
+        },
+        {
+          "word": "Padon",
+          "strongNumber": "H6303",
+          "lemma": "Padon",
+          "meaning": "redemption"
+        }
+      ]
+    },
+    {
+      "verse": 48,
+      "text": "The children of Lebana, the children of Hagaba, the children of Shalmai,",
+      "highlightedWords": [
+        {
+          "word": "Lebana",
+          "strongNumber": "H3828",
+          "lemma": "Lĕbana",
+          "meaning": "whiteness"
+        },
+        {
+          "word": "Shalmai",
+          "strongNumber": "H8019",
+          "lemma": "Shalmai",
+          "meaning": "peaceful"
+        }
+      ]
+    },
+    {
+      "verse": 49,
+      "text": "The children of Hanan, the children of Giddel, the children of Gahar,",
+      "highlightedWords": [
+        {
+          "word": "Hanan",
+          "strongNumber": "H2605",
+          "lemma": "Chanan",
+          "meaning": "gracious"
+        },
+        {
+          "word": "Giddel",
+          "strongNumber": "H1435",
+          "lemma": "Giddel",
+          "meaning": "very great"
+        }
+      ]
+    },
+    {
+      "verse": 50,
+      "text": "The children of Reaiah, the children of Rezin, the children of Nekoda,",
+      "highlightedWords": [
+        {
+          "word": "Reaiah",
+          "strongNumber": "H7211",
+          "lemma": "Rea‘yah",
+          "meaning": "seen of Yah"
+        },
+        {
+          "word": "Nekoda",
+          "strongNumber": "H5353",
+          "lemma": "Neqoda",
+          "meaning": "marked; pierced"
+        }
+      ]
+    },
+    {
+      "verse": 51,
+      "text": "The children of Gazzam, the children of Uzza, the children of Phaseah,",
+      "highlightedWords": [
+        {
+          "word": "Gazzam",
+          "strongNumber": "H1502",
+          "lemma": "Gazzam",
+          "meaning": "feller; destroyer"
+        },
+        {
+          "word": "Uzza",
+          "strongNumber": "H5798",
+          "lemma": "‘Uzza",
+          "meaning": "strength"
+        }
+      ]
+    },
+    {
+      "verse": 52,
+      "text": "The children of Besai, the children of Meunim, the children of Nephishesim,",
+      "highlightedWords": [
+        {
+          "word": "Meunim",
+          "strongNumber": "H4586",
+          "lemma": "Me‘unim",
+          "meaning": "afflicted; Maonites"
+        },
+        {
+          "word": "Nephishesim",
+          "strongNumber": "H5300",
+          "lemma": "Nephishesim",
+          "meaning": "serpent people (uncertain)"
+        }
+      ]
+    },
+    {
+      "verse": 53,
+      "text": "The children of Bakbuk, the children of Hakupha, the children of Harhur,",
+      "highlightedWords": [
+        {
+          "word": "Bakbuk",
+          "strongNumber": "H1227",
+          "lemma": "Baqbuq",
+          "meaning": "bottle; flask"
+        },
+        {
+          "word": "Hakupha",
+          "strongNumber": "H2709",
+          "lemma": "Chaqupha",
+          "meaning": "a rounding; curved"
+        }
+      ]
+    },
+    {
+      "verse": 54,
+      "text": "The children of Bazlith, the children of Mehida, the children of Harsha,",
+      "highlightedWords": [
+        {
+          "word": "Bazlith",
+          "strongNumber": "H1213",
+          "lemma": "Bazlith/Bazluth",
+          "meaning": "stripping; despoiling"
+        },
+        {
+          "word": "Harsha",
+          "strongNumber": "H2797",
+          "lemma": "Charsa",
+          "meaning": "workman; craftsman"
+        }
+      ]
+    },
+    {
+      "verse": 55,
+      "text": "The children of Barkos, the children of Sisera, the children of Tamah,",
+      "highlightedWords": [
+        {
+          "word": "Barkos",
+          "strongNumber": "H1302",
+          "lemma": "Barqos",
+          "meaning": "lightning"
+        },
+        {
+          "word": "Sisera",
+          "strongNumber": "H5516",
+          "lemma": "Cicera/Sisera",
+          "meaning": "battle array (uncertain)"
+        }
+      ]
+    },
+    {
+      "verse": 56,
+      "text": "The children of Neziah, the children of Hatipha.",
+      "highlightedWords": [
+        {
+          "word": "Neziah",
+          "strongNumber": "H5335",
+          "lemma": "Neziah",
+          "meaning": "conqueror"
+        },
+        {
+          "word": "Hatipha",
+          "strongNumber": "H2410",
+          "lemma": "Chatipha",
+          "meaning": "captive"
+        }
+      ]
+    },
+    {
+      "verse": 57,
+      "text": "The children of Solomon’s servants: the children of Sotai, the children of Sophereth, the children of Perida,",
+      "highlightedWords": [
+        {
+          "word": "Solomon",
+          "strongNumber": "H8010",
+          "lemma": "Shelomoh",
+          "meaning": "peaceful; Solomon"
+        },
+        {
+          "word": "Sophereth",
+          "strongNumber": "H5618",
+          "lemma": "Sophereth",
+          "meaning": "scribe (fem.); a family name"
+        }
+      ]
+    },
+    {
+      "verse": 58,
+      "text": "The children of Jaala, the children of Darkon, the children of Giddel,",
+      "highlightedWords": [
+        {
+          "word": "Jaala",
+          "strongNumber": "H3279",
+          "lemma": "Ya‘alah/Ya‘la",
+          "meaning": "wild goat; ibex"
+        },
+        {
+          "word": "Darkon",
+          "strongNumber": "H1874",
+          "lemma": "Darkon",
+          "meaning": "bearer; carrier"
+        }
+      ]
+    },
+    {
+      "verse": 59,
+      "text": "The children of Shephatiah, the children of Hattil, the children of Pochereth of Zebaim, the children of Amon.",
+      "highlightedWords": [
+        {
+          "word": "Hattil",
+          "strongNumber": "H2411",
+          "lemma": "Chattil",
+          "meaning": "terror; dread"
+        },
+        {
+          "word": "Pochereth",
+          "strongNumber": "H6320",
+          "lemma": "Pokhereth",
+          "meaning": "gazelle catcher (of Zebaim)"
+        }
+      ]
+    },
+    {
+      "verse": 60,
+      "text": "All the Nethinims, and the children of Solomon’s servants, were three hundred ninety and two.",
+      "highlightedWords": [
+        {
+          "word": "Nethinims",
+          "strongNumber": "H5411",
+          "lemma": "Nĕthinim",
+          "meaning": "temple servants; given ones"
+        },
+        {
+          "word": "servants",
+          "strongNumber": "H5650",
+          "lemma": "‘ebed",
+          "meaning": "servant; bondman"
+        }
+      ]
+    },
+    {
+      "verse": 61,
+      "text": "And these were they which went up also from Tel–melah, Tel–haresha, Cherub, Addon, and Immer: but they could not shew their father’s house, nor their seed, whether they were of Israel.",
+      "highlightedWords": [
+        {
+          "word": "Tel-harethsa",
+          "strongNumber": "H8521",
+          "lemma": "Tel-Haresha",
+          "meaning": "mound of the forest"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra’el",
+          "meaning": "God strives; Israel"
+        }
+      ]
+    },
+    {
+      "verse": 62,
+      "text": "The children of Delaiah, the children of Tobiah, the children of Nekoda, six hundred forty and two.",
+      "highlightedWords": [
+        {
+          "word": "Delaiah",
+          "strongNumber": "H1806",
+          "lemma": "Dĕla‘yah",
+          "meaning": "Yah has drawn"
+        },
+        {
+          "word": "Tobiah",
+          "strongNumber": "H2900",
+          "lemma": "Toviyah",
+          "meaning": "Yah is good"
+        }
+      ]
+    },
+    {
+      "verse": 63,
+      "text": "And of the priests: the children of Habaiah, the children of Koz, the children of Barzillai, which took one of the daughters of Barzillai the Gileadite to wife, and was called after their name.",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest; officiant"
+        },
+        {
+          "word": "Barzillai",
+          "strongNumber": "H1271",
+          "lemma": "Barzillay",
+          "meaning": "man of iron"
+        }
+      ]
+    },
+    {
+      "verse": 64,
+      "text": "These sought their register among those that were reckoned by genealogy, but it was not found: therefore were they, as polluted, put from the priesthood.",
+      "highlightedWords": [
+        {
+          "word": "register",
+          "strongNumber": "H3187",
+          "lemma": "yachas",
+          "meaning": "genealogical record; enrollment"
+        },
+        {
+          "word": "priesthood",
+          "strongNumber": "H3550",
+          "lemma": "kehunnah",
+          "meaning": "the office of priest; priesthood"
+        }
+      ]
+    },
+    {
+      "verse": 65,
+      "text": "And the Tirshatha said unto them, that they should not eat of the most holy things, till there stood up a priest with Urim and Thummim.",
+      "highlightedWords": [
+        {
+          "word": "Tirshatha",
+          "strongNumber": "H8660",
+          "lemma": "Tirshatha’",
+          "meaning": "the governor (Persian title)"
+        },
+        {
+          "word": "Urim",
+          "strongNumber": "H224",
+          "lemma": "’Urim",
+          "meaning": "lights; sacred lots for decision"
+        }
+      ]
+    },
+    {
+      "verse": 66,
+      "text": "The whole congregation together was forty and two thousand three hundred and threescore,",
+      "highlightedWords": [
+        {
+          "word": "congregation",
+          "strongNumber": "H6951",
+          "lemma": "qahal",
+          "meaning": "assembly; congregation"
+        },
+        {
+          "word": "threescore",
+          "strongNumber": "H8346",
+          "lemma": "shishshiym",
+          "meaning": "sixty"
+        }
+      ]
+    },
+    {
+      "verse": 67,
+      "text": "Beside their manservants and their maidservants, of whom there were seven thousand three hundred thirty and seven: and they had two hundred forty and five singing men and singing women.",
+      "highlightedWords": [
+        {
+          "word": "manservants",
+          "strongNumber": "H5650",
+          "lemma": "‘ebed",
+          "meaning": "male servants"
+        },
+        {
+          "word": "singing",
+          "strongNumber": "H7891",
+          "lemma": "shiyr",
+          "meaning": "to sing; singers"
+        }
+      ]
+    },
+    {
+      "verse": 68,
+      "text": "Their horses, seven hundred thirty and six: their mules, two hundred forty and five:",
+      "highlightedWords": [
+        {
+          "word": "horses",
+          "strongNumber": "H5483",
+          "lemma": "sus",
+          "meaning": "horse"
+        },
+        {
+          "word": "mules",
+          "strongNumber": "H6505",
+          "lemma": "pered",
+          "meaning": "mule"
+        }
+      ]
+    },
+    {
+      "verse": 69,
+      "text": "Their camels, four hundred thirty and five: six thousand seven hundred and twenty asses.",
+      "highlightedWords": [
+        {
+          "word": "camels",
+          "strongNumber": "H1581",
+          "lemma": "gamal",
+          "meaning": "camel"
+        },
+        {
+          "word": "asses",
+          "strongNumber": "H2543",
+          "lemma": "chamor",
+          "meaning": "donkey"
+        }
+      ]
+    },
+    {
+      "verse": 70,
+      "text": "And some of the chief of the fathers gave unto the work. The Tirshatha gave to the treasure a thousand drams of gold, fifty basons, five hundred and thirty priests’ garments.",
+      "highlightedWords": [
+        {
+          "word": "drams",
+          "strongNumber": "H1871",
+          "lemma": "darkemon",
+          "meaning": "a Persian gold coin; drachma"
+        },
+        {
+          "word": "basons",
+          "strongNumber": "H5542",
+          "lemma": "mizrāq",
+          "meaning": "bowl; basin"
+        }
+      ]
+    },
+    {
+      "verse": 71,
+      "text": "And some of the chief of the fathers gave to the treasure of the work twenty thousand drams of gold, and two thousand and two hundred pound of silver.",
+      "highlightedWords": [
+        {
+          "word": "treasure",
+          "strongNumber": "H214",
+          "lemma": "’otsar",
+          "meaning": "storehouse; treasury"
+        },
+        {
+          "word": "silver",
+          "strongNumber": "H3701",
+          "lemma": "kesef",
+          "meaning": "silver; money"
+        }
+      ]
+    },
+    {
+      "verse": 72,
+      "text": "And that which the rest of the people gave was twenty thousand drams of gold, and two thousand pound of silver, and threescore and seven priests’ garments.",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "‘am",
+          "meaning": "people; nation"
+        },
+        {
+          "word": "garments",
+          "strongNumber": "H3801",
+          "lemma": "kĕthoneth",
+          "meaning": "tunic; garment"
+        }
+      ]
+    },
+    {
+      "verse": 73,
+      "text": "So the priests, and the Levites, and the porters, and the singers, and some of the people, and the Nethinims, and all Israel, dwelt in their cities; and when the seventh month came, the children of Israel were in their cities.",
+      "highlightedWords": [
+        {
+          "word": "seventh",
+          "strongNumber": "H7637",
+          "lemma": "shĕbiy‘iy",
+          "meaning": "seventh (ordinal)"
+        },
+        {
+          "word": "dwelt",
+          "strongNumber": "H3427",
+          "lemma": "yashab",
+          "meaning": "to sit; dwell; remain"
+        }
+      ]
+    }
+  ]
+}

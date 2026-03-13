@@ -1,0 +1,186 @@
+{
+  "book": "Psalms",
+  "chapter": 47,
+  "chapterTheme": {
+    "twoWordSummary": "Universal Kingship",
+    "themeWords": [
+      {
+        "word": "God",
+        "strongNumber": "H430",
+        "lemma": "Elohim",
+        "meaning": "God; mighty one; the true God of Israel"
+      },
+      {
+        "word": "King",
+        "strongNumber": "H4428",
+        "lemma": "melek",
+        "meaning": "king; ruler; sovereign"
+      }
+    ]
+  },
+  "sentenceTheme": "All peoples are called to rejoice as God ascends and reigns as King over the whole earth.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "O clap your hands, all ye people; shout unto God with the voice of triumph.",
+      "highlightedWords": [
+        {
+          "word": "shout",
+          "strongNumber": "H7321",
+          "lemma": "ruaʿ",
+          "meaning": "to shout loudly; raise a cry"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; mighty one; the true God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "For the LORD most high is terrible; he is a great King over all the earth.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal, covenant name of God; the LORD"
+        },
+        {
+          "word": "King",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king; ruler; sovereign"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "He shall subdue the people under us, and the nations under our feet.",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "ʿam",
+          "meaning": "people; nation; kinsfolk"
+        },
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation; Gentiles; non-Israelite peoples"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "He shall choose our inheritance for us, the excellency of Jacob whom he loved. Selah.",
+      "highlightedWords": [
+        {
+          "word": "inheritance",
+          "strongNumber": "H5159",
+          "lemma": "nachalah",
+          "meaning": "inheritance; heritage; allotted possession"
+        },
+        {
+          "word": "Jacob",
+          "strongNumber": "H3290",
+          "lemma": "yaaqob",
+          "meaning": "Jacob; heel-catcher; supplanter (patriarch of Israel)"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "God is gone up with a shout, the LORD with the sound of a trumpet.",
+      "highlightedWords": [
+        {
+          "word": "shout",
+          "strongNumber": "H8643",
+          "lemma": "teruah",
+          "meaning": "a loud shout; alarm; trumpet blast; joyful sound"
+        },
+        {
+          "word": "trumpet",
+          "strongNumber": "H7782",
+          "lemma": "shofar",
+          "meaning": "ram’s horn; trumpet"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Sing praises to God, sing praises: sing praises unto our King, sing praises.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; mighty one; the true God of Israel"
+        },
+        {
+          "word": "King",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king; ruler; sovereign"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "For God is the King of all the earth: sing ye praises with understanding.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; mighty one; the true God of Israel"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "earth; land; territory"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "God reigneth over the heathen: God sitteth upon the throne of his holiness.",
+      "highlightedWords": [
+        {
+          "word": "reigneth",
+          "strongNumber": "H4427",
+          "lemma": "malak",
+          "meaning": "to reign; be king; exercise dominion"
+        },
+        {
+          "word": "throne",
+          "strongNumber": "H3678",
+          "lemma": "kisse",
+          "meaning": "throne; seat of honor; royal seat"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "The princes of the people are gathered together, even the people of the God of Abraham: for the shields of the earth belong unto God: he is greatly exalted.",
+      "highlightedWords": [
+        {
+          "word": "princes",
+          "strongNumber": "H5081",
+          "lemma": "nadib",
+          "meaning": "noble; prince; one willing and generous"
+        },
+        {
+          "word": "shields",
+          "strongNumber": "H4043",
+          "lemma": "magen",
+          "meaning": "shield; buckler; protective covering"
+        }
+      ]
+    }
+  ]
+}

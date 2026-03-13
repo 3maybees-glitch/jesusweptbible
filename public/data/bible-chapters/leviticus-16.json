@@ -1,0 +1,636 @@
+{
+  "book": "Leviticus",
+  "chapter": 16,
+  "chapterTheme": {
+    "twoWordSummary": "Atonement Day",
+    "themeWords": [
+      {
+        "word": "atonement",
+        "strongNumber": "H3722",
+        "lemma": "kaphar",
+        "meaning": "to cover, make atonement, appease, reconcile"
+      },
+      {
+        "word": "scapegoat",
+        "strongNumber": "H5799",
+        "lemma": "ʿazazel",
+        "meaning": "scapegoat; goat of removal for bearing away iniquities"
+      }
+    ]
+  },
+  "sentenceTheme": "The LORD prescribes the Day of Atonement: Aaron’s purification, sacrificial blood rites, incense before the mercy seat, and sending the scapegoat into the wilderness to bear Israel’s sins.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And the LORD spake unto Moses after the death of the two sons of Aaron, when they offered before the LORD, and died;",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Jehovah)",
+          "meaning": "the covenant name of the God of Israel"
+        },
+        {
+          "word": "Aaron",
+          "strongNumber": "H175",
+          "lemma": "Aharon",
+          "meaning": "Moses’ brother; Israel’s first high priest"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And the LORD said unto Moses, Speak unto Aaron thy brother, that he come not at all times into the holy place within the vail before the mercy seat, which is upon the ark; that he die not: for I will appear in the cloud upon the mercy seat.",
+      "highlightedWords": [
+        {
+          "word": "vail",
+          "strongNumber": "H6532",
+          "lemma": "paroketh",
+          "meaning": "inner veil/curtain separating the Holy Place from the Most Holy"
+        },
+        {
+          "word": "ark",
+          "strongNumber": "H727",
+          "lemma": "aron",
+          "meaning": "ark, chest; the ark of the covenant"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Thus shall Aaron come into the holy place: with a young bullock for a sin offering, and a ram for a burnt offering.",
+      "highlightedWords": [
+        {
+          "word": "Aaron",
+          "strongNumber": "H175",
+          "lemma": "Aharon",
+          "meaning": "Moses’ brother; Israel’s first high priest"
+        },
+        {
+          "word": "bullock",
+          "strongNumber": "H6499",
+          "lemma": "par",
+          "meaning": "a young bull, steer"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "He shall put on the holy linen coat, and he shall have the linen breeches upon his flesh, and shall be girded with a linen girdle, and with the linen mitre shall he be attired: these are holy garments; therefore shall he wash his flesh in water, and so put them on.",
+      "highlightedWords": [
+        {
+          "word": "linen",
+          "strongNumber": "H906",
+          "lemma": "bad",
+          "meaning": "fine linen (garment material)"
+        },
+        {
+          "word": "holy",
+          "strongNumber": "H6944",
+          "lemma": "qodesh",
+          "meaning": "holiness; something sacred or set apart"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And he shall take of the congregation of the children of Israel two kids of the goats for a sin offering, and one ram for a burnt offering.",
+      "highlightedWords": [
+        {
+          "word": "congregation",
+          "strongNumber": "H5712",
+          "lemma": "ʿedah",
+          "meaning": "assembly, congregation"
+        },
+        {
+          "word": "ram",
+          "strongNumber": "H352",
+          "lemma": "ayil",
+          "meaning": "ram, male sheep"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And Aaron shall offer his bullock of the sin offering, which is for himself, and make an atonement for himself, and for his house.",
+      "highlightedWords": [
+        {
+          "word": "atonement",
+          "strongNumber": "H3722",
+          "lemma": "kaphar",
+          "meaning": "to cover, make atonement, appease, reconcile"
+        },
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, household, family"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And he shall take the two goats, and present them before the LORD at the door of the tabernacle of the congregation.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Jehovah)",
+          "meaning": "the covenant name of the God of Israel"
+        },
+        {
+          "word": "tabernacle",
+          "strongNumber": "H4908",
+          "lemma": "mishkan",
+          "meaning": "dwelling, tabernacle"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And Aaron shall cast lots upon the two goats; one lot for the LORD, and the other lot for the scapegoat.",
+      "highlightedWords": [
+        {
+          "word": "lots",
+          "strongNumber": "H1486",
+          "lemma": "goral",
+          "meaning": "lot, portion decided by casting lots"
+        },
+        {
+          "word": "scapegoat",
+          "strongNumber": "H5799",
+          "lemma": "ʿazazel",
+          "meaning": "scapegoat; goat of removal for bearing away iniquities"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And Aaron shall bring the goat upon which the LORD's lot fell, and offer him for a sin offering.",
+      "highlightedWords": [
+        {
+          "word": "goat",
+          "strongNumber": "H8163",
+          "lemma": "saʿir",
+          "meaning": "male goat"
+        },
+        {
+          "word": "sin",
+          "strongNumber": "H2403",
+          "lemma": "chattath",
+          "meaning": "sin; sin offering"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "But the goat, on which the lot fell to be the scapegoat, shall be presented alive before the LORD, to make an atonement with him, and to let him go for a scapegoat into the wilderness.",
+      "highlightedWords": [
+        {
+          "word": "scapegoat",
+          "strongNumber": "H5799",
+          "lemma": "ʿazazel",
+          "meaning": "scapegoat; goat of removal for bearing away iniquities"
+        },
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbar",
+          "meaning": "wilderness, desert"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And Aaron shall bring the bullock of the sin offering, which is for himself, and shall make an atonement for himself, and for his house, and shall kill the bullock of the sin offering which is for himself:",
+      "highlightedWords": [
+        {
+          "word": "bullock",
+          "strongNumber": "H6499",
+          "lemma": "par",
+          "meaning": "a young bull, steer"
+        },
+        {
+          "word": "atonement",
+          "strongNumber": "H3722",
+          "lemma": "kaphar",
+          "meaning": "to cover, make atonement, appease, reconcile"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And he shall take a censer full of burning coals of fire from off the altar before the LORD, and his hands full of sweet incense beaten small, and bring it within the vail:",
+      "highlightedWords": [
+        {
+          "word": "censer",
+          "strongNumber": "H4289",
+          "lemma": "machtah",
+          "meaning": "censer, firepan"
+        },
+        {
+          "word": "incense",
+          "strongNumber": "H7004",
+          "lemma": "qetoreth",
+          "meaning": "incense, fragrant smoke"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And he shall put the incense upon the fire before the LORD, that the cloud of the incense may cover the mercy seat that is upon the testimony, that he die not:",
+      "highlightedWords": [
+        {
+          "word": "incense",
+          "strongNumber": "H7004",
+          "lemma": "qetoreth",
+          "meaning": "incense, fragrant smoke"
+        },
+        {
+          "word": "testimony",
+          "strongNumber": "H5715",
+          "lemma": "ʿeduth",
+          "meaning": "testimony, witness; tablets of the covenant"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And he shall take of the blood of the bullock, and sprinkle it with his finger upon the mercy seat eastward; and before the mercy seat shall he sprinkle of the blood with his finger seven times.",
+      "highlightedWords": [
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "blood"
+        },
+        {
+          "word": "finger",
+          "strongNumber": "H676",
+          "lemma": "ʾetsbaʿ",
+          "meaning": "finger"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Then shall he kill the goat of the sin offering, that is for the people, and bring his blood within the vail, and do with that blood as he did with the blood of the bullock, and sprinkle it upon the mercy seat, and before the mercy seat:",
+      "highlightedWords": [
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "blood"
+        },
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "ʿam",
+          "meaning": "people, nation"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And he shall make an atonement for the holy place, because of the uncleanness of the children of Israel, and because of their transgressions in all their sins: and so shall he do for the tabernacle of the congregation, that remaineth among them in the midst of their uncleanness.",
+      "highlightedWords": [
+        {
+          "word": "atonement",
+          "strongNumber": "H3722",
+          "lemma": "kaphar",
+          "meaning": "to cover, make atonement, appease, reconcile"
+        },
+        {
+          "word": "uncleanness",
+          "strongNumber": "H2932",
+          "lemma": "tumʾah",
+          "meaning": "uncleanness, impurity"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And there shall be no man in the tabernacle of the congregation when he goeth in to make an atonement in the holy place, until he come out, and have made an atonement for himself, and for his household, and for all the congregation of Israel.",
+      "highlightedWords": [
+        {
+          "word": "atonement",
+          "strongNumber": "H3722",
+          "lemma": "kaphar",
+          "meaning": "to cover, make atonement, appease, reconcile"
+        },
+        {
+          "word": "congregation",
+          "strongNumber": "H5712",
+          "lemma": "ʿedah",
+          "meaning": "assembly, congregation"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And he shall go out unto the altar that is before the LORD, and make an atonement for it; and shall take of the blood of the bullock, and of the blood of the goat, and put it upon the horns of the altar round about.",
+      "highlightedWords": [
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar"
+        },
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "blood"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And he shall sprinkle of the blood upon it with his finger seven times, and cleanse it, and hallow it from the uncleanness of the children of Israel.",
+      "highlightedWords": [
+        {
+          "word": "sprinkle",
+          "strongNumber": "H5137",
+          "lemma": "nazah",
+          "meaning": "to sprinkle"
+        },
+        {
+          "word": "cleanse",
+          "strongNumber": "H2891",
+          "lemma": "taher",
+          "meaning": "to cleanse, purify"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And when he hath made an end of reconciling the holy place, and the tabernacle of the congregation, and the altar, he shall bring the live goat:",
+      "highlightedWords": [
+        {
+          "word": "tabernacle",
+          "strongNumber": "H4908",
+          "lemma": "mishkan",
+          "meaning": "dwelling, tabernacle"
+        },
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And Aaron shall lay both his hands upon the head of the live goat, and confess over him all the iniquities of the children of Israel, and all their transgressions in all their sins, putting them upon the head of the goat, and shall send him away by the hand of a fit man into the wilderness:",
+      "highlightedWords": [
+        {
+          "word": "iniquities",
+          "strongNumber": "H5771",
+          "lemma": "ʿavon",
+          "meaning": "iniquity, guilt, consequence of iniquity"
+        },
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbar",
+          "meaning": "wilderness, desert"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And the goat shall bear upon him all their iniquities unto a land not inhabited: and he shall let go the goat in the wilderness.",
+      "highlightedWords": [
+        {
+          "word": "iniquities",
+          "strongNumber": "H5771",
+          "lemma": "ʿavon",
+          "meaning": "iniquity, guilt, consequence of iniquity"
+        },
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbar",
+          "meaning": "wilderness, desert"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And Aaron shall come into the tabernacle of the congregation, and shall put off the linen garments, which he put on when he went into the holy place, and shall leave them there:",
+      "highlightedWords": [
+        {
+          "word": "tabernacle",
+          "strongNumber": "H4908",
+          "lemma": "mishkan",
+          "meaning": "dwelling, tabernacle"
+        },
+        {
+          "word": "garments",
+          "strongNumber": "H899",
+          "lemma": "beged",
+          "meaning": "garment, clothing"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And he shall wash his flesh with water in the holy place, and put on his garments, and come forth, and offer his burnt offering, and the burnt offering of the people, and make an atonement for himself, and for the people.",
+      "highlightedWords": [
+        {
+          "word": "water",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "water"
+        },
+        {
+          "word": "atonement",
+          "strongNumber": "H3722",
+          "lemma": "kaphar",
+          "meaning": "to cover, make atonement, appease, reconcile"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And the fat of the sin offering shall he burn upon the altar.",
+      "highlightedWords": [
+        {
+          "word": "fat",
+          "strongNumber": "H2459",
+          "lemma": "cheleb",
+          "meaning": "fat, choicest part"
+        },
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And he that let go the goat for the scapegoat shall wash his clothes, and bathe his flesh in water, and afterward come into the camp.",
+      "highlightedWords": [
+        {
+          "word": "scapegoat",
+          "strongNumber": "H5799",
+          "lemma": "ʿazazel",
+          "meaning": "scapegoat; goat of removal for bearing away iniquities"
+        },
+        {
+          "word": "camp",
+          "strongNumber": "H4264",
+          "lemma": "machaneh",
+          "meaning": "camp, encampment"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And the bullock for the sin offering, and the goat for the sin offering, whose blood was brought in to make an atonement in the holy place, shall one carry forth without the camp; and they shall burn in the fire their skins, and their flesh, and their dung.",
+      "highlightedWords": [
+        {
+          "word": "camp",
+          "strongNumber": "H4264",
+          "lemma": "machaneh",
+          "meaning": "camp, encampment"
+        },
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "ʾesh",
+          "meaning": "fire"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And he that burneth them shall wash his clothes, and bathe his flesh in water, and afterward he shall come into the camp.",
+      "highlightedWords": [
+        {
+          "word": "wash",
+          "strongNumber": "H7364",
+          "lemma": "rachats",
+          "meaning": "to wash, bathe"
+        },
+        {
+          "word": "camp",
+          "strongNumber": "H4264",
+          "lemma": "machaneh",
+          "meaning": "camp, encampment"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "And this shall be a statute for ever unto you: that in the seventh month, on the tenth day of the month, ye shall afflict your souls, and do no work at all, whether it be one of your own country, or a stranger that sojourneth among you:",
+      "highlightedWords": [
+        {
+          "word": "statute",
+          "strongNumber": "H2708",
+          "lemma": "chuqqah",
+          "meaning": "statute, ordinance"
+        },
+        {
+          "word": "afflict",
+          "strongNumber": "H6031",
+          "lemma": "ʿanah",
+          "meaning": "to afflict, humble"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "For on that day shall the priest make an atonement for you, to cleanse you, that ye may be clean from all your sins before the LORD.",
+      "highlightedWords": [
+        {
+          "word": "priest",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest"
+        },
+        {
+          "word": "cleanse",
+          "strongNumber": "H2891",
+          "lemma": "taher",
+          "meaning": "to cleanse, purify"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "It shall be a sabbath of rest unto you, and ye shall afflict your souls, by a statute for ever.",
+      "highlightedWords": [
+        {
+          "word": "sabbath",
+          "strongNumber": "H7676",
+          "lemma": "shabbath",
+          "meaning": "Sabbath, day of rest"
+        },
+        {
+          "word": "afflict",
+          "strongNumber": "H6031",
+          "lemma": "ʿanah",
+          "meaning": "to afflict, humble"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "And the priest, whom he shall anoint, and whom he shall consecrate to minister in the priest's office in his father's stead, shall make the atonement, and shall put on the linen clothes, even the holy garments:",
+      "highlightedWords": [
+        {
+          "word": "priest",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest"
+        },
+        {
+          "word": "anoint",
+          "strongNumber": "H4886",
+          "lemma": "mashach",
+          "meaning": "to anoint"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "And he shall make an atonement for the holy sanctuary, and he shall make an atonement for the tabernacle of the congregation, and for the altar, and he shall make an atonement for the priests, and for all the people of the congregation.",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priests"
+        },
+        {
+          "word": "atonement",
+          "strongNumber": "H3722",
+          "lemma": "kaphar",
+          "meaning": "to cover, make atonement, appease, reconcile"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "And this shall be an everlasting statute unto you, to make an atonement for the children of Israel for all their sins once a year. And he did as the LORD commanded Moses.",
+      "highlightedWords": [
+        {
+          "word": "everlasting",
+          "strongNumber": "H5769",
+          "lemma": "ʿolam",
+          "meaning": "everlasting, perpetual, forever"
+        },
+        {
+          "word": "commanded",
+          "strongNumber": "H6680",
+          "lemma": "tsavah",
+          "meaning": "to command, order"
+        }
+      ]
+    }
+  ]
+}

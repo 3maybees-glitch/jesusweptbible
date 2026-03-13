@@ -1,0 +1,798 @@
+{
+  "book": "Exodus",
+  "chapter": 39,
+  "chapterTheme": {
+    "twoWordSummary": "Priestly Garments",
+    "themeWords": [
+      {
+        "word": "ephod",
+        "strongNumber": "H646",
+        "lemma": "’ephod",
+        "meaning": "a priestly apron/garment"
+      },
+      {
+        "word": "breastplate",
+        "strongNumber": "H2833",
+        "lemma": "ḥōshen",
+        "meaning": "a jeweled breastpiece worn by the high priest"
+      }
+    ]
+  },
+  "sentenceTheme": "Skilled craftsmen complete the priestly garments and all tabernacle items as the LORD commanded, and Moses inspects the work and blesses the people.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And of the blue, and purple, and scarlet, they made cloths of service, to do service in the holy place, and made the holy garments for Aaron; as the LORD commanded Moses.",
+      "highlightedWords": [
+        {
+          "word": "blue",
+          "strongNumber": "H8504",
+          "lemma": "tekhelet",
+          "meaning": "blue (violet) dye"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And he made the ephod of gold, blue, and purple, and scarlet, and fine twined linen.",
+      "highlightedWords": [
+        {
+          "word": "ephod",
+          "strongNumber": "H646",
+          "lemma": "’ephod",
+          "meaning": "a priestly apron/garment"
+        },
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "zahab",
+          "meaning": "gold"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And they did beat the gold into thin plates, and cut it into wires, to work it in the blue, and in the purple, and in the scarlet, and in the fine linen, with cunning work.",
+      "highlightedWords": [
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "zahab",
+          "meaning": "gold"
+        },
+        {
+          "word": "blue",
+          "strongNumber": "H8504",
+          "lemma": "tekhelet",
+          "meaning": "blue (violet) dye"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "They made shoulderpieces for it, to couple it together: by the two edges was it coupled together.",
+      "highlightedWords": [
+        {
+          "word": "shoulderpieces",
+          "strongNumber": "H3802",
+          "lemma": "katheph",
+          "meaning": "shoulder; shoulder-piece"
+        },
+        {
+          "word": "coupled",
+          "strongNumber": "H2266",
+          "lemma": "ḥabar",
+          "meaning": "to join, couple, unite"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And the curious girdle of his ephod, that was upon it, was of the same, according to the work thereof; of gold, blue, and purple, and scarlet, and fine twined linen; as the LORD commanded Moses.",
+      "highlightedWords": [
+        {
+          "word": "girdle",
+          "strongNumber": "H73",
+          "lemma": "’abnet",
+          "meaning": "a belt or sash (priestly girdle)"
+        },
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "zahab",
+          "meaning": "gold"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And they wrought onyx stones inclosed in ouches of gold, graven, as signets are graven, with the names of the children of Israel.",
+      "highlightedWords": [
+        {
+          "word": "onyx",
+          "strongNumber": "H7718",
+          "lemma": "shoham",
+          "meaning": "onyx stone"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And he put them on the shoulders of the ephod, that they should be stones for a memorial to the children of Israel; as the LORD commanded Moses.",
+      "highlightedWords": [
+        {
+          "word": "ephod",
+          "strongNumber": "H646",
+          "lemma": "’ephod",
+          "meaning": "a priestly apron/garment"
+        },
+        {
+          "word": "memorial",
+          "strongNumber": "H2146",
+          "lemma": "zikkaron",
+          "meaning": "remembrance, memorial"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And he made the breastplate of cunning work, like the work of the ephod; of gold, blue, and purple, and scarlet, and fine twined linen.",
+      "highlightedWords": [
+        {
+          "word": "breastplate",
+          "strongNumber": "H2833",
+          "lemma": "ḥōshen",
+          "meaning": "jeweled breastpiece"
+        },
+        {
+          "word": "linen",
+          "strongNumber": "H8336",
+          "lemma": "shesh",
+          "meaning": "fine linen"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "It was foursquare; they made the breastplate double: a span was the length thereof, and a span the breadth thereof, being doubled.",
+      "highlightedWords": [
+        {
+          "word": "breastplate",
+          "strongNumber": "H2833",
+          "lemma": "ḥōshen",
+          "meaning": "jeweled breastpiece"
+        },
+        {
+          "word": "span",
+          "strongNumber": "H2239",
+          "lemma": "zereth",
+          "meaning": "a handbreadth (about 9 inches/22 cm)"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And they set in it four rows of stones: the first row was a sardius, a topaz, and a carbuncle: this was the first row.",
+      "highlightedWords": [
+        {
+          "word": "stones",
+          "strongNumber": "H68",
+          "lemma": "’eben",
+          "meaning": "stone(s)"
+        },
+        {
+          "word": "row",
+          "strongNumber": "H2905",
+          "lemma": "tur",
+          "meaning": "a row or arranged order"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And the second row, an emerald, a sapphire, and a diamond.",
+      "highlightedWords": [
+        {
+          "word": "sapphire",
+          "strongNumber": "H5601",
+          "lemma": "sappir",
+          "meaning": "sapphire (lapis lazuli)"
+        },
+        {
+          "word": "diamond",
+          "strongNumber": "H3095",
+          "lemma": "yahalom",
+          "meaning": "diamond"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And the third row, a ligure, an agate, and an amethyst.",
+      "highlightedWords": [
+        {
+          "word": "agate",
+          "strongNumber": "H7618",
+          "lemma": "shebo",
+          "meaning": "agate"
+        },
+        {
+          "word": "amethyst",
+          "strongNumber": "H306",
+          "lemma": "’achlamah",
+          "meaning": "amethyst"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And the fourth row, a beryl, an onyx, and a jasper: they were inclosed in ouches of gold in their inclosings.",
+      "highlightedWords": [
+        {
+          "word": "onyx",
+          "strongNumber": "H7718",
+          "lemma": "shoham",
+          "meaning": "onyx stone"
+        },
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "zahab",
+          "meaning": "gold"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And the stones were according to the names of the children of Israel, twelve, according to their names, like the engravings of a signet, every one with his name, according to the twelve tribes.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel"
+        },
+        {
+          "word": "tribes",
+          "strongNumber": "H7626",
+          "lemma": "shebet",
+          "meaning": "tribe; clan; also a staff/rod"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And they made upon the breastplate chains at the ends, of wreathen work of pure gold.",
+      "highlightedWords": [
+        {
+          "word": "breastplate",
+          "strongNumber": "H2833",
+          "lemma": "ḥōshen",
+          "meaning": "jeweled breastpiece"
+        },
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "zahab",
+          "meaning": "gold"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And they made two ouches of gold, and two gold rings; and put the two rings in the two ends of the breastplate.",
+      "highlightedWords": [
+        {
+          "word": "rings",
+          "strongNumber": "H2885",
+          "lemma": "tabba‘ath",
+          "meaning": "a ring or signet"
+        },
+        {
+          "word": "breastplate",
+          "strongNumber": "H2833",
+          "lemma": "ḥōshen",
+          "meaning": "jeweled breastpiece"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And they put the two wreathen chains of gold in the two rings on the ends of the breastplate.",
+      "highlightedWords": [
+        {
+          "word": "chains",
+          "strongNumber": "H8333",
+          "lemma": "sharsherah",
+          "meaning": "a chain"
+        },
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "zahab",
+          "meaning": "gold"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And the two ends of the two wreathen chains they fastened in the two ouches, and put them on the shoulderpieces of the ephod, before it.",
+      "highlightedWords": [
+        {
+          "word": "shoulderpieces",
+          "strongNumber": "H3802",
+          "lemma": "katheph",
+          "meaning": "shoulder; shoulder-piece"
+        },
+        {
+          "word": "ephod",
+          "strongNumber": "H646",
+          "lemma": "’ephod",
+          "meaning": "a priestly apron/garment"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And they made two rings of gold, and put them on the two ends of the breastplate, upon the border of it, which was on the side of the ephod inward.",
+      "highlightedWords": [
+        {
+          "word": "rings",
+          "strongNumber": "H2885",
+          "lemma": "tabba‘ath",
+          "meaning": "a ring or signet"
+        },
+        {
+          "word": "breastplate",
+          "strongNumber": "H2833",
+          "lemma": "ḥōshen",
+          "meaning": "jeweled breastpiece"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And they made two other golden rings, and put them on the two sides of the ephod underneath, toward the forepart of it, over against the other coupling thereof, above the curious girdle of the ephod.",
+      "highlightedWords": [
+        {
+          "word": "ephod",
+          "strongNumber": "H646",
+          "lemma": "’ephod",
+          "meaning": "a priestly apron/garment"
+        },
+        {
+          "word": "girdle",
+          "strongNumber": "H73",
+          "lemma": "’abnet",
+          "meaning": "a belt or sash (priestly girdle)"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And they did bind the breastplate by his rings unto the rings of the ephod with a lace of blue, that it might be above the curious girdle of the ephod, and that the breastplate might not be loosed from the ephod; as the LORD commanded Moses.",
+      "highlightedWords": [
+        {
+          "word": "breastplate",
+          "strongNumber": "H2833",
+          "lemma": "ḥōshen",
+          "meaning": "jeweled breastpiece"
+        },
+        {
+          "word": "blue",
+          "strongNumber": "H8504",
+          "lemma": "tekhelet",
+          "meaning": "blue (violet) dye"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And he made the robe of the ephod of woven work, all of blue.",
+      "highlightedWords": [
+        {
+          "word": "robe",
+          "strongNumber": "H4598",
+          "lemma": "me‘il",
+          "meaning": "a robe or outer garment"
+        },
+        {
+          "word": "blue",
+          "strongNumber": "H8504",
+          "lemma": "tekhelet",
+          "meaning": "blue (violet) dye"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And there was an hole in the midst of the robe, as the hole of an habergeon, with a band round about the hole, that it should not rend.",
+      "highlightedWords": [
+        {
+          "word": "robe",
+          "strongNumber": "H4598",
+          "lemma": "me‘il",
+          "meaning": "a robe or outer garment"
+        },
+        {
+          "word": "rend",
+          "strongNumber": "H7167",
+          "lemma": "qara‘",
+          "meaning": "to tear, rend"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And they made upon the hems of the robe pomegranates of blue, and purple, and scarlet, and twined linen.",
+      "highlightedWords": [
+        {
+          "word": "pomegranates",
+          "strongNumber": "H7416",
+          "lemma": "rimmon",
+          "meaning": "pomegranate (fruit/ornament)"
+        },
+        {
+          "word": "blue",
+          "strongNumber": "H8504",
+          "lemma": "tekhelet",
+          "meaning": "blue (violet) dye"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And they made bells of pure gold, and put the bells between the pomegranates upon the hem of the robe, round about between the pomegranates;",
+      "highlightedWords": [
+        {
+          "word": "bells",
+          "strongNumber": "H6472",
+          "lemma": "pa‘amon",
+          "meaning": "a small bell"
+        },
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "zahab",
+          "meaning": "gold"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "A bell and a pomegranate, a bell and a pomegranate, round about the hem of the robe to minister in; as the LORD commanded Moses.",
+      "highlightedWords": [
+        {
+          "word": "bell",
+          "strongNumber": "H6472",
+          "lemma": "pa‘amon",
+          "meaning": "a small bell"
+        },
+        {
+          "word": "robe",
+          "strongNumber": "H4598",
+          "lemma": "me‘il",
+          "meaning": "a robe or outer garment"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And they made coats of fine linen of woven work for Aaron, and for his sons,",
+      "highlightedWords": [
+        {
+          "word": "coats",
+          "strongNumber": "H3801",
+          "lemma": "ketonet",
+          "meaning": "a tunic or coat"
+        },
+        {
+          "word": "linen",
+          "strongNumber": "H8336",
+          "lemma": "shesh",
+          "meaning": "fine linen"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And a mitre of fine linen, and goodly bonnets of fine linen, and linen breeches of fine twined linen,",
+      "highlightedWords": [
+        {
+          "word": "mitre",
+          "strongNumber": "H4701",
+          "lemma": "mitsnepheth",
+          "meaning": "a turban (high priest’s headdress)"
+        },
+        {
+          "word": "breeches",
+          "strongNumber": "H4370",
+          "lemma": "miknas",
+          "meaning": "trousers, breeches"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "And a girdle of fine twined linen, and blue, and purple, and scarlet, of needlework; as the LORD commanded Moses.",
+      "highlightedWords": [
+        {
+          "word": "girdle",
+          "strongNumber": "H73",
+          "lemma": "’abnet",
+          "meaning": "a belt or sash (priestly girdle)"
+        },
+        {
+          "word": "blue",
+          "strongNumber": "H8504",
+          "lemma": "tekhelet",
+          "meaning": "blue (violet) dye"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "And they made the plate of the holy crown of pure gold, and wrote upon it a writing, like to the engravings of a signet, HOLINESS TO THE LORD.",
+      "highlightedWords": [
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "zahab",
+          "meaning": "gold"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "And they tied unto it a lace of blue, to fasten it on high upon the mitre; as the LORD commanded Moses.",
+      "highlightedWords": [
+        {
+          "word": "blue",
+          "strongNumber": "H8504",
+          "lemma": "tekhelet",
+          "meaning": "blue (violet) dye"
+        },
+        {
+          "word": "mitre",
+          "strongNumber": "H4701",
+          "lemma": "mitsnepheth",
+          "meaning": "a turban (high priest’s headdress)"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "Thus was all the work of the tabernacle of the tent of the congregation finished: and the children of Israel did according to all that the LORD commanded Moses, so did they.",
+      "highlightedWords": [
+        {
+          "word": "tabernacle",
+          "strongNumber": "H4908",
+          "lemma": "mishkan",
+          "meaning": "dwelling, tabernacle"
+        },
+        {
+          "word": "congregation",
+          "strongNumber": "H4150",
+          "lemma": "mo‘ed",
+          "meaning": "appointed meeting, assembly"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "And they brought the tabernacle unto Moses, the tent, and all his furniture, his taches, his boards, his bars, and his pillars, and his sockets,",
+      "highlightedWords": [
+        {
+          "word": "tabernacle",
+          "strongNumber": "H4908",
+          "lemma": "mishkan",
+          "meaning": "dwelling, tabernacle"
+        },
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "And the covering of rams' skins dyed red, and the covering of badgers' skins, and the vail of the covering,",
+      "highlightedWords": [
+        {
+          "word": "covering",
+          "strongNumber": "H4372",
+          "lemma": "mikseh",
+          "meaning": "a covering"
+        },
+        {
+          "word": "vail",
+          "strongNumber": "H6532",
+          "lemma": "paroketh",
+          "meaning": "veil, curtain (of the sanctuary)"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "The ark of the testimony, and the staves thereof, and the mercy seat,",
+      "highlightedWords": [
+        {
+          "word": "ark",
+          "strongNumber": "H727",
+          "lemma": "’aron",
+          "meaning": "ark, chest"
+        },
+        {
+          "word": "staves",
+          "strongNumber": "H905",
+          "lemma": "bad",
+          "meaning": "poles, staves"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "The table, and all the vessels thereof, and the shewbread,",
+      "highlightedWords": [
+        {
+          "word": "table",
+          "strongNumber": "H7979",
+          "lemma": "shulchan",
+          "meaning": "table"
+        },
+        {
+          "word": "vessels",
+          "strongNumber": "H3627",
+          "lemma": "keli",
+          "meaning": "vessel, utensil, article"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "The pure candlestick, with the lamps thereof, even with the lamps to be set in order, and all the vessels thereof, and the oil for light,",
+      "highlightedWords": [
+        {
+          "word": "candlestick",
+          "strongNumber": "H4501",
+          "lemma": "menorah",
+          "meaning": "lampstand"
+        },
+        {
+          "word": "oil",
+          "strongNumber": "H8081",
+          "lemma": "shemen",
+          "meaning": "oil"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "And the golden altar, and the anointing oil, and the sweet incense, and the hanging for the tabernacle door,",
+      "highlightedWords": [
+        {
+          "word": "anointing",
+          "strongNumber": "H4888",
+          "lemma": "mishchah",
+          "meaning": "anointing oil"
+        },
+        {
+          "word": "incense",
+          "strongNumber": "H7004",
+          "lemma": "qetoreth",
+          "meaning": "incense"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "text": "The brazen altar, and his grate of brass, his staves, and all his vessels, the laver and his foot,",
+      "highlightedWords": [
+        {
+          "word": "brass",
+          "strongNumber": "H5178",
+          "lemma": "nechosheth",
+          "meaning": "bronze, brass, copper"
+        },
+        {
+          "word": "laver",
+          "strongNumber": "H3595",
+          "lemma": "kiyyor",
+          "meaning": "a basin or laver"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "text": "The hangings of the court, his pillars, and his sockets, and the hanging for the court gate, his cords, and his pins, and all the vessels of the service of the tabernacle, for the tent of the congregation,",
+      "highlightedWords": [
+        {
+          "word": "court",
+          "strongNumber": "H2691",
+          "lemma": "ḥatser",
+          "meaning": "courtyard, enclosure"
+        },
+        {
+          "word": "cords",
+          "strongNumber": "H4340",
+          "lemma": "meitar",
+          "meaning": "cord, rope"
+        }
+      ]
+    },
+    {
+      "verse": 41,
+      "text": "The cloths of service to do service in the holy place, and the holy garments for Aaron the priest, and his sons' garments, to minister in the priest's office,",
+      "highlightedWords": [
+        {
+          "word": "garments",
+          "strongNumber": "H899",
+          "lemma": "beged",
+          "meaning": "garment, clothing"
+        },
+        {
+          "word": "priest",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest"
+        }
+      ]
+    },
+    {
+      "verse": 42,
+      "text": "According to all that the LORD commanded Moses, so the children of Israel made all the work.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel"
+        }
+      ]
+    },
+    {
+      "verse": 43,
+      "text": "And Moses did look upon all the work, and, behold, they had done it as the LORD had commanded, even so had they done it: and Moses blessed them.",
+      "highlightedWords": [
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses"
+        },
+        {
+          "word": "blessed",
+          "strongNumber": "H1288",
+          "lemma": "barak",
+          "meaning": "to bless"
+        }
+      ]
+    }
+  ]
+}

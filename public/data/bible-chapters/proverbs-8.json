@@ -1,0 +1,672 @@
+{
+  "book": "Proverbs",
+  "chapter": 8,
+  "chapterTheme": {
+    "twoWordSummary": "Wisdom Personified",
+    "themeWords": [
+      {
+        "word": "wisdom",
+        "strongNumber": "H2451",
+        "lemma": "ḥokmāh",
+        "meaning": "skill, wisdom, practical and moral insight"
+      },
+      {
+        "word": "understanding",
+        "strongNumber": "H8394",
+        "lemma": "tĕbûnāh",
+        "meaning": "understanding, intelligence, discretion"
+      }
+    ]
+  },
+  "sentenceTheme": "Lady Wisdom calls all people to heed her righteous, ancient, and life-giving counsel, present from creation and rewarding all who love and seek her.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Doth not wisdom cry? and understanding put forth her voice?",
+      "highlightedWords": [
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "ḥokmāh",
+          "meaning": "skill, wisdom, practical and moral insight"
+        },
+        {
+          "word": "understanding",
+          "strongNumber": "H8394",
+          "lemma": "tĕbûnāh",
+          "meaning": "understanding, intelligence, discretion"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "She standeth in the top of high places, by the way in the places of the paths.",
+      "highlightedWords": [
+        {
+          "word": "way",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way, road, manner, conduct"
+        },
+        {
+          "word": "paths",
+          "strongNumber": "H5410",
+          "lemma": "nathiyb",
+          "meaning": "path, track, byway"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "She crieth at the gates, at the entry of the city, at the coming in at the doors.",
+      "highlightedWords": [
+        {
+          "word": "gates",
+          "strongNumber": "H8179",
+          "lemma": "sha'ar",
+          "meaning": "gate, city gate, entrance"
+        },
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "ʿiyr",
+          "meaning": "city, town"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Unto you, O men, I call; and my voice is to the sons of man.",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child, descendant"
+        },
+        {
+          "word": "man",
+          "strongNumber": "H120",
+          "lemma": "ʾadam",
+          "meaning": "man, humankind"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "O ye simple, understand wisdom: and, ye fools, be ye of an understanding heart.",
+      "highlightedWords": [
+        {
+          "word": "simple",
+          "strongNumber": "H6612",
+          "lemma": "pethiy",
+          "meaning": "simple, naive, inexperienced"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "lēb",
+          "meaning": "heart, inner person, mind"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Hear; for I will speak of excellent things; and the opening of my lips shall be right things.",
+      "highlightedWords": [
+        {
+          "word": "Hear",
+          "strongNumber": "H8085",
+          "lemma": "shāmaʿ",
+          "meaning": "to hear, listen, obey"
+        },
+        {
+          "word": "lips",
+          "strongNumber": "H8193",
+          "lemma": "saphah",
+          "meaning": "lip, speech, language"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "For my mouth shall speak truth; and wickedness is an abomination to my lips.",
+      "highlightedWords": [
+        {
+          "word": "truth",
+          "strongNumber": "H571",
+          "lemma": "ʾemeth",
+          "meaning": "truth, firmness, faithfulness"
+        },
+        {
+          "word": "wickedness",
+          "strongNumber": "H7562",
+          "lemma": "reshaʿ",
+          "meaning": "wickedness, guilt, injustice"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "All the words of my mouth are in righteousness; there is nothing froward or perverse in them.",
+      "highlightedWords": [
+        {
+          "word": "words",
+          "strongNumber": "H1697",
+          "lemma": "dābār",
+          "meaning": "word, matter, thing"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "H6664",
+          "lemma": "tsedeq",
+          "meaning": "righteousness, justice, rightness"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "They are all plain to him that understandeth, and right to them that find knowledge.",
+      "highlightedWords": [
+        {
+          "word": "understandeth",
+          "strongNumber": "H995",
+          "lemma": "bin",
+          "meaning": "to understand, perceive, discern"
+        },
+        {
+          "word": "knowledge",
+          "strongNumber": "H1847",
+          "lemma": "daʿath",
+          "meaning": "knowledge, perception, skill"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Receive my instruction, and not silver; and knowledge rather than choice gold.",
+      "highlightedWords": [
+        {
+          "word": "instruction",
+          "strongNumber": "H4148",
+          "lemma": "mûsār",
+          "meaning": "discipline, correction, instruction"
+        },
+        {
+          "word": "silver",
+          "strongNumber": "H3701",
+          "lemma": "keseph",
+          "meaning": "silver, money"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "For wisdom is better than rubies; and all the things that may be desired are not to be compared to it.",
+      "highlightedWords": [
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "ḥokmāh",
+          "meaning": "skill, wisdom, practical and moral insight"
+        },
+        {
+          "word": "rubies",
+          "strongNumber": "H6443",
+          "lemma": "penînîm",
+          "meaning": "rubies, precious coral, gems"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "I wisdom dwell with prudence, and find out knowledge of witty inventions.",
+      "highlightedWords": [
+        {
+          "word": "prudence",
+          "strongNumber": "H6195",
+          "lemma": "ʿormāh",
+          "meaning": "shrewdness, prudence, craftiness (positive sense here)"
+        },
+        {
+          "word": "inventions",
+          "strongNumber": "H4209",
+          "lemma": "mezimmāh",
+          "meaning": "purpose, discretion, plans, devices"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "The fear of the LORD is to hate evil: pride, and arrogancy, and the evil way, and the froward mouth, do I hate.",
+      "highlightedWords": [
+        {
+          "word": "fear",
+          "strongNumber": "H3374",
+          "lemma": "yirʾāh",
+          "meaning": "fear, awe, reverence"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Counsel is mine, and sound wisdom: I am understanding; I have strength.",
+      "highlightedWords": [
+        {
+          "word": "Counsel",
+          "strongNumber": "H6098",
+          "lemma": "ʿētsāh",
+          "meaning": "counsel, advice, purpose"
+        },
+        {
+          "word": "strength",
+          "strongNumber": "H1369",
+          "lemma": "gĕbûrāh",
+          "meaning": "strength, might, power"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "By me kings reign, and princes decree justice.",
+      "highlightedWords": [
+        {
+          "word": "kings",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        },
+        {
+          "word": "justice",
+          "strongNumber": "H4941",
+          "lemma": "mishpāṭ",
+          "meaning": "justice, judgment, legal decision"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "By me princes rule, and nobles, even all the judges of the earth.",
+      "highlightedWords": [
+        {
+          "word": "princes",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "prince, ruler, official"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "ʾeretz",
+          "meaning": "land, earth"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "I love them that love me; and those that seek me early shall find me.",
+      "highlightedWords": [
+        {
+          "word": "love",
+          "strongNumber": "H157",
+          "lemma": "ʾahab",
+          "meaning": "to love"
+        },
+        {
+          "word": "seek",
+          "strongNumber": "H7836",
+          "lemma": "shāchar",
+          "meaning": "to seek early, diligently"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Riches and honour are with me; yea, durable riches and righteousness.",
+      "highlightedWords": [
+        {
+          "word": "Riches",
+          "strongNumber": "H1952",
+          "lemma": "hōn",
+          "meaning": "wealth, riches, substance"
+        },
+        {
+          "word": "honour",
+          "strongNumber": "H3519",
+          "lemma": "kābōd",
+          "meaning": "glory, honour, splendor"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "My fruit is better than gold, yea, than fine gold; and my revenue than choice silver.",
+      "highlightedWords": [
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "zāhāv",
+          "meaning": "gold"
+        },
+        {
+          "word": "silver",
+          "strongNumber": "H3701",
+          "lemma": "keseph",
+          "meaning": "silver, money"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "I lead in the way of righteousness, in the midst of the paths of judgment:",
+      "highlightedWords": [
+        {
+          "word": "way",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way, road, manner, conduct"
+        },
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mishpāṭ",
+          "meaning": "judgment, justice, legal case"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "That I may cause those that love me to inherit substance; and I will fill their treasures.",
+      "highlightedWords": [
+        {
+          "word": "inherit",
+          "strongNumber": "H5157",
+          "lemma": "nāchal",
+          "meaning": "to inherit, possess, cause to inherit"
+        },
+        {
+          "word": "treasures",
+          "strongNumber": "H0214",
+          "lemma": "ʾōtsār",
+          "meaning": "treasure, storehouse, treasury"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "The LORD possessed me in the beginning of his way, before his works of old.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the proper name of the God of Israel"
+        },
+        {
+          "word": "beginning",
+          "strongNumber": "H7225",
+          "lemma": "rēʾshith",
+          "meaning": "beginning, first, chief"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "I was set up from everlasting, from the beginning, or ever the earth was.",
+      "highlightedWords": [
+        {
+          "word": "everlasting",
+          "strongNumber": "H5769",
+          "lemma": "ʿōlām",
+          "meaning": "everlasting, eternity, antiquity"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "ʾeretz",
+          "meaning": "land, earth"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "When there were no depths, I was brought forth; when there were no fountains abounding with water.",
+      "highlightedWords": [
+        {
+          "word": "depths",
+          "strongNumber": "H8415",
+          "lemma": "tĕhōm",
+          "meaning": "deep, abyss, primeval ocean"
+        },
+        {
+          "word": "water",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Before the mountains were settled, before the hills was I brought forth:",
+      "highlightedWords": [
+        {
+          "word": "mountains",
+          "strongNumber": "H2022",
+          "lemma": "har",
+          "meaning": "mountain, hill country"
+        },
+        {
+          "word": "hills",
+          "strongNumber": "H1389",
+          "lemma": "givʿāh",
+          "meaning": "hill, height"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "While as yet he had not made the earth, nor the fields, nor the highest part of the dust of the world.",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "ʾeretz",
+          "meaning": "land, earth"
+        },
+        {
+          "word": "world",
+          "strongNumber": "H8398",
+          "lemma": "tēbēl",
+          "meaning": "world, habitable earth"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "When he prepared the heavens, I was there: when he set a compass upon the face of the depth:",
+      "highlightedWords": [
+        {
+          "word": "heavens",
+          "strongNumber": "H8064",
+          "lemma": "shāmayim",
+          "meaning": "heavens, sky"
+        },
+        {
+          "word": "depth",
+          "strongNumber": "H8415",
+          "lemma": "tĕhōm",
+          "meaning": "deep, abyss"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "When he established the clouds above: when he strengthened the fountains of the deep:",
+      "highlightedWords": [
+        {
+          "word": "established",
+          "strongNumber": "H3559",
+          "lemma": "kûn",
+          "meaning": "to establish, prepare, make firm"
+        },
+        {
+          "word": "deep",
+          "strongNumber": "H8415",
+          "lemma": "tĕhōm",
+          "meaning": "deep, abyss"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "When he gave to the sea his decree, that the waters should not pass his commandment: when he appointed the foundations of the earth:",
+      "highlightedWords": [
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yām",
+          "meaning": "sea"
+        },
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "Then I was by him, as one brought up with him: and I was daily his delight, rejoicing always before him;",
+      "highlightedWords": [
+        {
+          "word": "daily",
+          "strongNumber": "H3117",
+          "lemma": "yôm",
+          "meaning": "day; daily (idiomatically, day by day)"
+        },
+        {
+          "word": "delight",
+          "strongNumber": "H8191",
+          "lemma": "shaʿashûʿîm",
+          "meaning": "delight, pleasures"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "Rejoicing in the habitable part of his earth; and my delights were with the sons of men.",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "ʾeretz",
+          "meaning": "land, earth"
+        },
+        {
+          "word": "men",
+          "strongNumber": "H120",
+          "lemma": "ʾadam",
+          "meaning": "man, humankind"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "Now therefore hearken unto me, O ye children: for blessed are they that keep my ways.",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, children, descendants"
+        },
+        {
+          "word": "ways",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "ways, paths, conduct"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "Hear instruction, and be wise, and refuse it not.",
+      "highlightedWords": [
+        {
+          "word": "instruction",
+          "strongNumber": "H4148",
+          "lemma": "mûsār",
+          "meaning": "discipline, correction, instruction"
+        },
+        {
+          "word": "wise",
+          "strongNumber": "H2450",
+          "lemma": "ḥākām",
+          "meaning": "wise, skillful, prudent"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "Blessed is the man that heareth me, watching daily at my gates, waiting at the posts of my doors.",
+      "highlightedWords": [
+        {
+          "word": "Blessed",
+          "strongNumber": "H835",
+          "lemma": "ʾesher",
+          "meaning": "happiness, blessedness"
+        },
+        {
+          "word": "gates",
+          "strongNumber": "H8179",
+          "lemma": "sha'ar",
+          "meaning": "gate, city gate, entrance"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "For whoso findeth me findeth life, and shall obtain favour of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "life",
+          "strongNumber": "H2416",
+          "lemma": "ḥay",
+          "meaning": "life, living"
+        },
+        {
+          "word": "favour",
+          "strongNumber": "H7522",
+          "lemma": "rātsôn",
+          "meaning": "favor, goodwill, acceptance"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "But he that sinneth against me wrongeth his own soul: all they that hate me love death.",
+      "highlightedWords": [
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, self"
+        },
+        {
+          "word": "death",
+          "strongNumber": "H4194",
+          "lemma": "māvet",
+          "meaning": "death"
+        }
+      ]
+    }
+  ]
+}

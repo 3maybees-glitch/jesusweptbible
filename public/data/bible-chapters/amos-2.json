@@ -1,0 +1,312 @@
+{
+  "book": "Amos",
+  "chapter": 2,
+  "chapterTheme": {
+    "twoWordSummary": "Judgment Oracles",
+    "themeWords": [
+      {
+        "word": "transgressions",
+        "strongNumber": "H6588",
+        "lemma": "peshaʿ",
+        "meaning": "rebellion, breach of trust; transgression against God or man"
+      },
+      {
+        "word": "fire",
+        "strongNumber": "H784",
+        "lemma": "ʾēsh",
+        "meaning": "fire; often symbolic of divine judgment"
+      }
+    ]
+  },
+  "sentenceTheme": "God pronounces judgment on Moab, Judah, and Israel for their transgressions, detailing their sins and declaring unavoidable consequences.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Thus saith the LORD; For three transgressions of Moab, and for four, I will not turn away the punishment thereof; because he burned the bones of the king of Edom into lime:",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel, the LORD"
+        },
+        {
+          "word": "Moab",
+          "strongNumber": "H4124",
+          "lemma": "Moʾab",
+          "meaning": "Moab; a nation descended from Lot, east of the Dead Sea"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "But I will send a fire upon Moab, and it shall devour the palaces of Kirioth: and Moab shall die with tumult, with shouting, and with the sound of the trumpet:",
+      "highlightedWords": [
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "ʾēsh",
+          "meaning": "fire; often symbolic of divine judgment"
+        },
+        {
+          "word": "Kirioth",
+          "strongNumber": "H7152",
+          "lemma": "Qiryoth",
+          "meaning": "Kirioth; a town or complex of towns in Moab"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And I will cut off the judge from the midst thereof, and will slay all the princes thereof with him, saith the LORD.",
+      "highlightedWords": [
+        {
+          "word": "judge",
+          "strongNumber": "H8199",
+          "lemma": "shaphat",
+          "meaning": "judge, ruler; one who decides or governs"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel, the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Thus saith the LORD; For three transgressions of Judah, and for four, I will not turn away the punishment thereof; because they have despised the law of the LORD, and have not kept his commandments, and their lies caused them to err, after the which their fathers have walked:",
+      "highlightedWords": [
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah; the southern kingdom and tribe of Israel"
+        },
+        {
+          "word": "law",
+          "strongNumber": "H8451",
+          "lemma": "torah",
+          "meaning": "instruction, law; divine teaching"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "But I will send a fire upon Judah, and it shall devour the palaces of Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "ʾēsh",
+          "meaning": "fire; often symbolic of divine judgment"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem; the chief city of Israel/Judah"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Thus saith the LORD; For three transgressions of Israel, and for four, I will not turn away the punishment thereof; because they sold the righteous for silver, and the poor for a pair of shoes;",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisraʾel",
+          "meaning": "Israel; the covenant people and nation"
+        },
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just; one in the right"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "That pant after the dust of the earth on the head of the poor, and turn aside the way of the meek: and a man and his father will go in unto the same maid, to profane my holy name:",
+      "highlightedWords": [
+        {
+          "word": "holy",
+          "strongNumber": "H6944",
+          "lemma": "qodesh",
+          "meaning": "holy, set apart; sacred"
+        },
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "name, reputation, renown"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And they lay themselves down upon clothes laid to pledge by every altar, and they drink the wine of the condemned in the house of their god.",
+      "highlightedWords": [
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar; place of sacrifice"
+        },
+        {
+          "word": "wine",
+          "strongNumber": "H3196",
+          "lemma": "yayin",
+          "meaning": "wine"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Yet destroyed I the Amorite before them, whose height was like the height of the cedars, and he was strong as the oaks; yet I destroyed his fruit from above, and his roots from beneath.",
+      "highlightedWords": [
+        {
+          "word": "Amorite",
+          "strongNumber": "H567",
+          "lemma": "ʾEmori",
+          "meaning": "Amorite; a Canaanite people"
+        },
+        {
+          "word": "cedars",
+          "strongNumber": "H730",
+          "lemma": "ʾerez",
+          "meaning": "cedar trees"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Also I brought you up from the land of Egypt, and led you forty years through the wilderness, to possess the land of the Amorite.",
+      "highlightedWords": [
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt; the land of the Nile"
+        },
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbar",
+          "meaning": "wilderness, desert"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And I raised up of your sons for prophets, and of your young men for Nazarites. Is it not even thus, O ye children of Israel? saith the LORD.",
+      "highlightedWords": [
+        {
+          "word": "prophets",
+          "strongNumber": "H5030",
+          "lemma": "nabiʾ",
+          "meaning": "prophet; spokesperson for God"
+        },
+        {
+          "word": "Nazarites",
+          "strongNumber": "H5139",
+          "lemma": "nazir",
+          "meaning": "Nazirite; one consecrated by vow"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "But ye gave the Nazarites wine to drink; and commanded the prophets, saying, Prophesy not.",
+      "highlightedWords": [
+        {
+          "word": "wine",
+          "strongNumber": "H3196",
+          "lemma": "yayin",
+          "meaning": "wine"
+        },
+        {
+          "word": "Prophesy",
+          "strongNumber": "H5012",
+          "lemma": "nabaʾ",
+          "meaning": "to prophesy, speak by divine inspiration"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Behold, I am pressed under you, as a cart is pressed that is full of sheaves.",
+      "highlightedWords": [
+        {
+          "word": "Behold",
+          "strongNumber": "H2009",
+          "lemma": "hinneh",
+          "meaning": "behold; an attention-getting interjection"
+        },
+        {
+          "word": "cart",
+          "strongNumber": "H5699",
+          "lemma": "ʿagalah",
+          "meaning": "cart, wagon"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Therefore the flight shall perish from the swift, and the strong shall not strengthen his force, neither shall the mighty deliver himself:",
+      "highlightedWords": [
+        {
+          "word": "strong",
+          "strongNumber": "H2389",
+          "lemma": "chazaq",
+          "meaning": "strong, mighty, firm"
+        },
+        {
+          "word": "mighty",
+          "strongNumber": "H1368",
+          "lemma": "gibbor",
+          "meaning": "mighty, valiant warrior"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Neither shall he stand that handleth the bow; and he that is swift of foot shall not deliver himself: neither shall he that rideth the horse deliver himself.",
+      "highlightedWords": [
+        {
+          "word": "bow",
+          "strongNumber": "H7198",
+          "lemma": "qeshet",
+          "meaning": "bow (weapon)"
+        },
+        {
+          "word": "horse",
+          "strongNumber": "H5483",
+          "lemma": "sus",
+          "meaning": "horse"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And he that is courageous among the mighty shall flee away naked in that day, saith the LORD.",
+      "highlightedWords": [
+        {
+          "word": "mighty",
+          "strongNumber": "H1368",
+          "lemma": "gibbor",
+          "meaning": "mighty, valiant warrior"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel, the LORD"
+        }
+      ]
+    }
+  ]
+}

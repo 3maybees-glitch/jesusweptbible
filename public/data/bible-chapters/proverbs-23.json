@@ -1,0 +1,654 @@
+{
+  "book": "Proverbs",
+  "chapter": 23,
+  "chapterTheme": {
+    "twoWordSummary": "Wise Restraint",
+    "themeWords": [
+      {
+        "word": "wisdom",
+        "strongNumber": "H2451",
+        "lemma": "chokmah",
+        "meaning": "skill, practical wisdom for godly living"
+      },
+      {
+        "word": "heart",
+        "strongNumber": "H3820",
+        "lemma": "leb",
+        "meaning": "inner person, mind, will, heart"
+      }
+    ]
+  },
+  "sentenceTheme": "Proverbs 23 counsels disciplined self-control, honest dealings, teachable humility, family wisdom, and sobriety in the fear of the LORD.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "When thou sittest to eat with a ruler, consider diligently what is before thee:",
+      "highlightedWords": [
+        {
+          "word": "eat",
+          "strongNumber": "H398",
+          "lemma": "akal",
+          "meaning": "to eat, consume"
+        },
+        {
+          "word": "ruler",
+          "strongNumber": "H4910",
+          "lemma": "moshel (from mashal)",
+          "meaning": "one who rules, governor"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And put a knife to thy throat, if thou be a man given to appetite.",
+      "highlightedWords": [
+        {
+          "word": "man",
+          "strongNumber": "H376",
+          "lemma": "ish",
+          "meaning": "man, individual, person"
+        },
+        {
+          "word": "appetite",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, desire, appetite"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Be not desirous of his dainties: for they are deceitful meat.",
+      "highlightedWords": [
+        {
+          "word": "dainties",
+          "strongNumber": "H4574",
+          "lemma": "maʿadan",
+          "meaning": "delicacies, dainty foods"
+        },
+        {
+          "word": "deceitful",
+          "strongNumber": "H8267",
+          "lemma": "sheqer",
+          "meaning": "deception, falsehood, lie"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Labour not to be rich: cease from thine own wisdom.",
+      "highlightedWords": [
+        {
+          "word": "Labour",
+          "strongNumber": "H3021",
+          "lemma": "yagaʿ",
+          "meaning": "to toil, labor, grow weary"
+        },
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "wisdom, skill, good judgment"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Wilt thou set thine eyes upon that which is not? for riches certainly make themselves wings; they fly away as an eagle toward heaven.",
+      "highlightedWords": [
+        {
+          "word": "riches",
+          "strongNumber": "H6239",
+          "lemma": "osher",
+          "meaning": "riches, wealth"
+        },
+        {
+          "word": "eagle",
+          "strongNumber": "H5404",
+          "lemma": "nesher",
+          "meaning": "eagle, vulture"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Eat thou not the bread of him that hath an evil eye, neither desire thou his dainty meats:",
+      "highlightedWords": [
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread, food"
+        },
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "raʿ",
+          "meaning": "evil, bad, harmful"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "For as he thinketh in his heart, so is he: Eat and drink, saith he to thee; but his heart is not with thee.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "inner person, heart, mind"
+        },
+        {
+          "word": "drink",
+          "strongNumber": "H8354",
+          "lemma": "shathah",
+          "meaning": "to drink"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "The morsel which thou hast eaten shalt thou vomit up, and lose thy sweet words.",
+      "highlightedWords": [
+        {
+          "word": "morsel",
+          "strongNumber": "H6595",
+          "lemma": "path",
+          "meaning": "morsel, piece (of food)"
+        },
+        {
+          "word": "words",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, thing"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Speak not in the ears of a fool: for he will despise the wisdom of thy words.",
+      "highlightedWords": [
+        {
+          "word": "ears",
+          "strongNumber": "H0241",
+          "lemma": "ozen",
+          "meaning": "ear"
+        },
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "wisdom, skill, good sense"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Remove not the old landmark; and enter not into the fields of the fatherless:",
+      "highlightedWords": [
+        {
+          "word": "landmark",
+          "strongNumber": "H1366",
+          "lemma": "gebul",
+          "meaning": "boundary, border, landmark"
+        },
+        {
+          "word": "fatherless",
+          "strongNumber": "H3490",
+          "lemma": "yathom",
+          "meaning": "orphan, fatherless"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "For their redeemer is mighty; he shall plead their cause with thee.",
+      "highlightedWords": [
+        {
+          "word": "redeemer",
+          "strongNumber": "H1350",
+          "lemma": "goʾel",
+          "meaning": "kinsman-redeemer, one who buys back"
+        },
+        {
+          "word": "plead",
+          "strongNumber": "H7378",
+          "lemma": "riv",
+          "meaning": "to contend, plead a case"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Apply thine heart unto instruction, and thine ears to the words of knowledge.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "inner person, heart"
+        },
+        {
+          "word": "instruction",
+          "strongNumber": "H4148",
+          "lemma": "musar",
+          "meaning": "discipline, correction, instruction"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Withhold not correction from the child: for if thou beatest him with the rod, he shall not die.",
+      "highlightedWords": [
+        {
+          "word": "child",
+          "strongNumber": "H5288",
+          "lemma": "naʿar",
+          "meaning": "youth, lad"
+        },
+        {
+          "word": "rod",
+          "strongNumber": "H7626",
+          "lemma": "shebet",
+          "meaning": "rod, staff"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Thou shalt beat him with the rod, and shalt deliver his soul from hell.",
+      "highlightedWords": [
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, self"
+        },
+        {
+          "word": "hell",
+          "strongNumber": "H7585",
+          "lemma": "Sheol",
+          "meaning": "the grave, the realm of the dead"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "My son, if thine heart be wise, my heart shall rejoice, even mine.",
+      "highlightedWords": [
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child"
+        },
+        {
+          "word": "wise",
+          "strongNumber": "H2450",
+          "lemma": "chakam",
+          "meaning": "wise, skillful"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Yea, my reins shall rejoice, when thy lips speak right things.",
+      "highlightedWords": [
+        {
+          "word": "reins",
+          "strongNumber": "H3629",
+          "lemma": "kilyah",
+          "meaning": "kidneys; figuratively, innermost being"
+        },
+        {
+          "word": "lips",
+          "strongNumber": "H8193",
+          "lemma": "saphah",
+          "meaning": "lip, speech"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Let not thine heart envy sinners: but be thou in the fear of the LORD all the day long.",
+      "highlightedWords": [
+        {
+          "word": "fear",
+          "strongNumber": "H3374",
+          "lemma": "yirʾah",
+          "meaning": "fear, reverence"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yahweh)",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "For surely there is an end; and thine expectation shall not be cut off.",
+      "highlightedWords": [
+        {
+          "word": "end",
+          "strongNumber": "H319",
+          "lemma": "acharith",
+          "meaning": "latter end, future, outcome"
+        },
+        {
+          "word": "expectation",
+          "strongNumber": "H8615",
+          "lemma": "tiqvah",
+          "meaning": "hope, expectation"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Hear thou, my son, and be wise, and guide thine heart in the way.",
+      "highlightedWords": [
+        {
+          "word": "Hear",
+          "strongNumber": "H8085",
+          "lemma": "shamaʿ",
+          "meaning": "to hear, listen, obey"
+        },
+        {
+          "word": "way",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way, road, path, manner"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Be not among winebibbers; among riotous eaters of flesh:",
+      "highlightedWords": [
+        {
+          "word": "winebibbers",
+          "strongNumber": "H5433",
+          "lemma": "sobe",
+          "meaning": "drunkard, winebibber"
+        },
+        {
+          "word": "flesh",
+          "strongNumber": "H1320",
+          "lemma": "basar",
+          "meaning": "flesh, meat"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "For the drunkard and the glutton shall come to poverty: and drowsiness shall clothe a man with rags.",
+      "highlightedWords": [
+        {
+          "word": "drunkard",
+          "strongNumber": "H5433",
+          "lemma": "sobe",
+          "meaning": "drunkard"
+        },
+        {
+          "word": "glutton",
+          "strongNumber": "H2151",
+          "lemma": "zalal",
+          "meaning": "to be worthless; a prodigal, glutton"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Hearken unto thy father that begat thee, and despise not thy mother when she is old.",
+      "highlightedWords": [
+        {
+          "word": "father",
+          "strongNumber": "H0001",
+          "lemma": "ʾab",
+          "meaning": "father"
+        },
+        {
+          "word": "mother",
+          "strongNumber": "H0517",
+          "lemma": "ʾem",
+          "meaning": "mother"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Buy the truth, and sell it not; also wisdom, and instruction, and understanding.",
+      "highlightedWords": [
+        {
+          "word": "truth",
+          "strongNumber": "H0571",
+          "lemma": "ʾemeth",
+          "meaning": "truth, faithfulness"
+        },
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "wisdom, skill"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "The father of the righteous shall greatly rejoice: and he that begetteth a wise child shall have joy of him.",
+      "highlightedWords": [
+        {
+          "word": "father",
+          "strongNumber": "H0001",
+          "lemma": "ʾab",
+          "meaning": "father"
+        },
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Thy father and thy mother shall be glad, and she that bare thee shall rejoice.",
+      "highlightedWords": [
+        {
+          "word": "father",
+          "strongNumber": "H0001",
+          "lemma": "ʾab",
+          "meaning": "father"
+        },
+        {
+          "word": "mother",
+          "strongNumber": "H0517",
+          "lemma": "ʾem",
+          "meaning": "mother"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "My son, give me thine heart, and let thine eyes observe my ways.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "inner person, heart"
+        },
+        {
+          "word": "ways",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "ways, paths, conduct"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "For a whore is a deep ditch; and a strange woman is a narrow pit.",
+      "highlightedWords": [
+        {
+          "word": "whore",
+          "strongNumber": "H2181",
+          "lemma": "zanah",
+          "meaning": "to commit fornication; a prostitute"
+        },
+        {
+          "word": "woman",
+          "strongNumber": "H0802",
+          "lemma": "ishshah",
+          "meaning": "woman, wife"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "She also lieth in wait as for a prey, and increaseth the transgressors among men.",
+      "highlightedWords": [
+        {
+          "word": "prey",
+          "strongNumber": "H2964",
+          "lemma": "teref",
+          "meaning": "prey, spoil"
+        },
+        {
+          "word": "transgressors",
+          "strongNumber": "H6586",
+          "lemma": "pashaʿ",
+          "meaning": "transgressor, rebel"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "Who hath woe? who hath sorrow? who hath contentions? who hath babbling? who hath wounds without cause? who hath redness of eyes?",
+      "highlightedWords": [
+        {
+          "word": "woe",
+          "strongNumber": "H0188",
+          "lemma": "oy",
+          "meaning": "woe, alas"
+        },
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "ʿayin",
+          "meaning": "eye"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "They that tarry long at the wine; they that go to seek mixed wine.",
+      "highlightedWords": [
+        {
+          "word": "wine",
+          "strongNumber": "H3196",
+          "lemma": "yayin",
+          "meaning": "wine"
+        },
+        {
+          "word": "seek",
+          "strongNumber": "H1245",
+          "lemma": "baqash",
+          "meaning": "to seek, search for"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "Look not thou upon the wine when it is red, when it giveth his colour in the cup, when it moveth itself aright.",
+      "highlightedWords": [
+        {
+          "word": "wine",
+          "strongNumber": "H3196",
+          "lemma": "yayin",
+          "meaning": "wine"
+        },
+        {
+          "word": "cup",
+          "strongNumber": "H3563",
+          "lemma": "kos",
+          "meaning": "cup"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "At the last it biteth like a serpent, and stingeth like an adder.",
+      "highlightedWords": [
+        {
+          "word": "serpent",
+          "strongNumber": "H5175",
+          "lemma": "nachash",
+          "meaning": "serpent, snake"
+        },
+        {
+          "word": "adder",
+          "strongNumber": "H6620",
+          "lemma": "tsephaʿ",
+          "meaning": "viper, adder"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "Thine eyes shall behold strange women, and thine heart shall utter perverse things.",
+      "highlightedWords": [
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "ʿayin",
+          "meaning": "eyes"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner person"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "Yea, thou shalt be as he that lieth down in the midst of the sea, or as he that lieth upon the top of a mast.",
+      "highlightedWords": [
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "sea"
+        },
+        {
+          "word": "mast",
+          "strongNumber": "H8650",
+          "lemma": "toren",
+          "meaning": "mast, flagstaff"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "They have stricken me, shalt thou say, and I was not sick; they have beaten me, and I felt it not: when shall I awake? I will seek it yet again.",
+      "highlightedWords": [
+        {
+          "word": "awake",
+          "strongNumber": "H6974",
+          "lemma": "qiyts",
+          "meaning": "to awake, rouse"
+        },
+        {
+          "word": "seek",
+          "strongNumber": "H1245",
+          "lemma": "baqash",
+          "meaning": "to seek, search for"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "book": "Isaiah",
+  "chapter": 35,
+  "chapterTheme": {
+    "twoWordSummary": "Joyful Restoration",
+    "themeWords": [
+      {
+        "word": "joy",
+        "strongNumber": "H8057",
+        "lemma": "simchah",
+        "meaning": "joy, gladness"
+      },
+      {
+        "word": "redeemed",
+        "strongNumber": "H1350",
+        "lemma": "ga'al",
+        "meaning": "to redeem, act as kinsman-redeemer"
+      }
+    ]
+  },
+  "sentenceTheme": "God promises the joyful restoration of creation and a holy highway by which the redeemed return to Zion.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "The wilderness and the solitary place shall be glad for them; and the desert shall rejoice, and blossom as the rose.",
+      "highlightedWords": [
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbar",
+          "meaning": "wilderness, desert, steppe"
+        },
+        {
+          "word": "rose",
+          "strongNumber": "H2261",
+          "lemma": "chabatstseleth",
+          "meaning": "meadow-saffron, crocus (rose)"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "It shall blossom abundantly, and rejoice even with joy and singing: the glory of Lebanon shall be given unto it, the excellency of Carmel and Sharon, they shall see the glory of the LORD, and the excellency of our God.",
+      "highlightedWords": [
+        {
+          "word": "Lebanon",
+          "strongNumber": "H3844",
+          "lemma": "Levanon",
+          "meaning": "Lebanon, the white mountain range"
+        },
+        {
+          "word": "excellency",
+          "strongNumber": "H1926",
+          "lemma": "hadar",
+          "meaning": "splendor, majesty, honor"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Strengthen ye the weak hands, and confirm the feeble knees.",
+      "highlightedWords": [
+        {
+          "word": "Strengthen",
+          "strongNumber": "H2388",
+          "lemma": "chazaq",
+          "meaning": "to be strong; to strengthen, make firm"
+        },
+        {
+          "word": "feeble",
+          "strongNumber": "H3782",
+          "lemma": "kashal",
+          "meaning": "to stumble, totter; be feeble"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Say to them that are of a fearful heart, Be strong, fear not: behold, your God will come with vengeance, even God with a recompence; he will come and save you.",
+      "highlightedWords": [
+        {
+          "word": "vengeance",
+          "strongNumber": "H5359",
+          "lemma": "naqam",
+          "meaning": "vengeance, avenging"
+        },
+        {
+          "word": "save",
+          "strongNumber": "H3467",
+          "lemma": "yasha'",
+          "meaning": "to save, deliver, give victory"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Then the eyes of the blind shall be opened, and the ears of the deaf shall be unstopped.",
+      "highlightedWords": [
+        {
+          "word": "blind",
+          "strongNumber": "H5787",
+          "lemma": "ivver",
+          "meaning": "blind"
+        },
+        {
+          "word": "deaf",
+          "strongNumber": "H2795",
+          "lemma": "cheresh",
+          "meaning": "deaf"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Then shall the lame man leap as an hart, and the tongue of the dumb sing: for in the wilderness shall waters break out, and streams in the desert.",
+      "highlightedWords": [
+        {
+          "word": "lame",
+          "strongNumber": "H6455",
+          "lemma": "pisseach",
+          "meaning": "lame"
+        },
+        {
+          "word": "streams",
+          "strongNumber": "H5158",
+          "lemma": "nachal",
+          "meaning": "torrent-valley, wadi; stream"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And the parched ground shall become a pool, and the thirsty land springs of water: in the habitation of dragons, where each lay, shall be grass with reeds and rushes.",
+      "highlightedWords": [
+        {
+          "word": "parched ground",
+          "strongNumber": "H8273",
+          "lemma": "sharab",
+          "meaning": "parched ground, mirage, heat shimmer"
+        },
+        {
+          "word": "dragons",
+          "strongNumber": "H8577",
+          "lemma": "tannin",
+          "meaning": "dragon, serpent; sea monster/jackal"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And an highway shall be there, and a way, and it shall be called The way of holiness; the unclean shall not pass over it; but it shall be for those: the wayfaring men, though fools, shall not err therein.",
+      "highlightedWords": [
+        {
+          "word": "highway",
+          "strongNumber": "H4546",
+          "lemma": "mesillah",
+          "meaning": "highway, raised road"
+        },
+        {
+          "word": "holiness",
+          "strongNumber": "H6944",
+          "lemma": "qodesh",
+          "meaning": "holiness, sacredness"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "No lion shall be there, nor any ravenous beast shall go up thereon, it shall not be found there; but the redeemed shall walk there:",
+      "highlightedWords": [
+        {
+          "word": "lion",
+          "strongNumber": "H738",
+          "lemma": "ariy",
+          "meaning": "lion"
+        },
+        {
+          "word": "redeemed",
+          "strongNumber": "H1350",
+          "lemma": "ga'al",
+          "meaning": "to redeem; kinsman-redeemer"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And the ransomed of the LORD shall return, and come to Zion with songs and everlasting joy upon their heads: they shall obtain joy and gladness, and sorrow and sighing shall flee away.",
+      "highlightedWords": [
+        {
+          "word": "ransomed",
+          "strongNumber": "H6299",
+          "lemma": "padah",
+          "meaning": "to ransom, redeem by payment"
+        },
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyyon",
+          "meaning": "Zion; the hill/city of Jerusalem"
+        }
+      ]
+    }
+  ]
+}

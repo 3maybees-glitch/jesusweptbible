@@ -1,0 +1,366 @@
+{
+  "book": "1 Chronicles",
+  "chapter": 22,
+  "chapterTheme": {
+    "twoWordSummary": "Temple Preparation",
+    "themeWords": [
+      {
+        "word": "house",
+        "strongNumber": "H1004",
+        "lemma": "bayith",
+        "meaning": "house, dwelling, temple"
+      },
+      {
+        "word": "build",
+        "strongNumber": "H1129",
+        "lemma": "banah",
+        "meaning": "to build, establish"
+      }
+    ]
+  },
+  "sentenceTheme": "David amasses materials, charges Solomon to build the temple, and commands Israel’s leaders to support the work under the LORD’s promise of peace.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Then David said, This is the house of the LORD God, and this is the altar of the burnt offering for Israel.",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, dwelling, temple"
+        },
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar, place of sacrifice"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And David commanded to gather together the strangers that were in the land of Israel; and he set masons to hew wrought stones to build the house of God.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel"
+        },
+        {
+          "word": "build",
+          "strongNumber": "H1129",
+          "lemma": "banah",
+          "meaning": "to build, establish"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And David prepared iron in abundance for the nails for the doors of the gates, and for the joinings; and brass in abundance without weight;",
+      "highlightedWords": [
+        {
+          "word": "iron",
+          "strongNumber": "H1270",
+          "lemma": "barzel",
+          "meaning": "iron"
+        },
+        {
+          "word": "brass",
+          "strongNumber": "H5178",
+          "lemma": "nechosheth",
+          "meaning": "bronze, brass, copper"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Also cedar trees in abundance: for the Zidonians and they of Tyre brought much cedar wood to David.",
+      "highlightedWords": [
+        {
+          "word": "cedar",
+          "strongNumber": "H730",
+          "lemma": "erez",
+          "meaning": "cedar tree, cedar wood"
+        },
+        {
+          "word": "Tyre",
+          "strongNumber": "H6865",
+          "lemma": "Tsor",
+          "meaning": "Tyre, a Phoenician city"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And David said, Solomon my son is young and tender, and the house that is to be builded for the LORD must be exceeding magnifical, of fame and of glory throughout all countries: I will therefore now make preparation for it. So David prepared abundantly before his death.",
+      "highlightedWords": [
+        {
+          "word": "Solomon",
+          "strongNumber": "H8010",
+          "lemma": "Shelomoh",
+          "meaning": "Solomon, peaceful"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the proper name of the God of Israel; the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Then he called for Solomon his son, and charged him to build an house for the LORD God of Israel.",
+      "highlightedWords": [
+        {
+          "word": "build",
+          "strongNumber": "H1129",
+          "lemma": "banah",
+          "meaning": "to build, establish"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the proper name of the God of Israel; the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And David said to Solomon, My son, as for me, it was in my mind to build an house unto the name of the LORD my God:",
+      "highlightedWords": [
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "name, reputation, renown"
+        },
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, dwelling, temple"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "But the word of the LORD came to me, saying, Thou hast shed blood abundantly, and hast made great wars: thou shalt not build an house unto my name, because thou hast shed much blood upon the earth in my sight.",
+      "highlightedWords": [
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "blood"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "land, earth"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Behold, a son shall be born to thee, who shall be a man of rest; and I will give him rest from all his enemies round about: for his name shall be Solomon, and I will give peace and quietness unto Israel in his days.",
+      "highlightedWords": [
+        {
+          "word": "Solomon",
+          "strongNumber": "H8010",
+          "lemma": "Shelomoh",
+          "meaning": "Solomon, peaceful"
+        },
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace, welfare, completeness"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "He shall build an house for my name; and he shall be my son, and I will be his father; and I will establish the throne of his kingdom over Israel for ever.",
+      "highlightedWords": [
+        {
+          "word": "throne",
+          "strongNumber": "H3678",
+          "lemma": "kisse'",
+          "meaning": "throne, seat of honor"
+        },
+        {
+          "word": "father",
+          "strongNumber": "H1",
+          "lemma": "ab",
+          "meaning": "father"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Now, my son, the LORD be with thee; and prosper thou, and build the house of the LORD thy God, as he hath said of thee.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the proper name of the God of Israel; the LORD"
+        },
+        {
+          "word": "prosper",
+          "strongNumber": "H6743",
+          "lemma": "tsalach",
+          "meaning": "to prosper, succeed"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Only the LORD give thee wisdom and understanding, and give thee charge concerning Israel, that thou mayest keep the law of the LORD thy God.",
+      "highlightedWords": [
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "wisdom, skill"
+        },
+        {
+          "word": "law",
+          "strongNumber": "H8451",
+          "lemma": "torah",
+          "meaning": "law, instruction"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Then shalt thou prosper, if thou takest heed to fulfil the statutes and judgments which the LORD charged Moses with concerning Israel: be strong, and of good courage; dread not, nor be dismayed.",
+      "highlightedWords": [
+        {
+          "word": "statutes",
+          "strongNumber": "H2706",
+          "lemma": "choq",
+          "meaning": "statute, decree"
+        },
+        {
+          "word": "judgments",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "judgment, justice"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Now, behold, in my trouble I have prepared for the house of the LORD an hundred thousand talents of gold, and a thousand thousand talents of silver; and of brass and iron without weight; for it is in abundance: timber also and stone have I prepared; and thou mayest add thereto.",
+      "highlightedWords": [
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "zahab",
+          "meaning": "gold"
+        },
+        {
+          "word": "silver",
+          "strongNumber": "H3701",
+          "lemma": "keseph",
+          "meaning": "silver, money"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Moreover there are workmen with thee in abundance, hewers and workers of stone and timber, and all manner of cunning men for every manner of work.",
+      "highlightedWords": [
+        {
+          "word": "stone",
+          "strongNumber": "H68",
+          "lemma": "eben",
+          "meaning": "stone"
+        },
+        {
+          "word": "timber",
+          "strongNumber": "H6086",
+          "lemma": "ets",
+          "meaning": "tree, wood, timber"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Of the gold, the silver, and the brass, and the iron, there is no number. Arise therefore, and be doing, and the LORD be with thee.",
+      "highlightedWords": [
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "zahab",
+          "meaning": "gold"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the proper name of the God of Israel; the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "David also commanded all the princes of Israel to help Solomon his son, saying,",
+      "highlightedWords": [
+        {
+          "word": "princes",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "prince, ruler"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Is not the LORD your God with you? and hath he not given you rest on every side? for he hath given the inhabitants of the land into mine hand; and the land is subdued before the LORD, and before his people.",
+      "highlightedWords": [
+        {
+          "word": "rest",
+          "strongNumber": "H5117",
+          "lemma": "nuach",
+          "meaning": "to rest, settle"
+        },
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "land, earth"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Now set your heart and your soul to seek the LORD your God; arise therefore, and build ye the sanctuary of the LORD God, to bring the ark of the covenant of the LORD, and the holy vessels of God, into the house that is to be built to the name of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "sanctuary",
+          "strongNumber": "H4720",
+          "lemma": "miqdash",
+          "meaning": "sanctuary, holy place"
+        },
+        {
+          "word": "ark",
+          "strongNumber": "H727",
+          "lemma": "aron",
+          "meaning": "ark, chest"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "book": "Psalms",
+  "chapter": 76,
+  "chapterTheme": {
+    "twoWordSummary": "Majestic Judgment",
+    "themeWords": [
+      {
+        "word": "judgment",
+        "strongNumber": "H4941",
+        "lemma": "mishpat",
+        "meaning": "justice, legal decision, ordinance"
+      },
+      {
+        "word": "Zion",
+        "strongNumber": "H6726",
+        "lemma": "Tsiyyon",
+        "meaning": "Zion, the hill in Jerusalem symbolizing God's dwelling and rule"
+      }
+    ]
+  },
+  "sentenceTheme": "In Zion, God reveals His awe-inspiring judgment, subduing the proud and prompting all to fear, praise, and bring Him tribute.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "In Judah is God known: his name is great in Israel.",
+      "highlightedWords": [
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "praised; the tribe/territory of Judah"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "God strives; the covenant people/nation"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "In Salem also is his tabernacle, and his dwelling place in Zion.",
+      "highlightedWords": [
+        {
+          "word": "Salem",
+          "strongNumber": "H8004",
+          "lemma": "Shalem",
+          "meaning": "peace; ancient name associated with Jerusalem"
+        },
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyyon",
+          "meaning": "Zion; the hill in Jerusalem, emblem of God's presence"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "There brake he the arrows of the bow, the shield, and the sword, and the battle. Selah.",
+      "highlightedWords": [
+        {
+          "word": "arrows",
+          "strongNumber": "H2671",
+          "lemma": "chets",
+          "meaning": "arrow; missile shot from a bow"
+        },
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword; weapon of war"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Thou art more glorious and excellent than the mountains of prey.",
+      "highlightedWords": [
+        {
+          "word": "excellent",
+          "strongNumber": "H0117",
+          "lemma": "addir",
+          "meaning": "majestic, mighty, noble"
+        },
+        {
+          "word": "prey",
+          "strongNumber": "H2964",
+          "lemma": "teref",
+          "meaning": "prey, spoil, something torn"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "The stouthearted are spoiled, they have slept their sleep: and none of the men of might have found their hands.",
+      "highlightedWords": [
+        {
+          "word": "sleep",
+          "strongNumber": "H8142",
+          "lemma": "shenah",
+          "meaning": "sleep, slumber"
+        },
+        {
+          "word": "mighty",
+          "strongNumber": "H1368",
+          "lemma": "gibbor",
+          "meaning": "strong, mighty man, warrior"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "At thy rebuke, O God of Jacob, both the chariot and horse are cast into a dead sleep.",
+      "highlightedWords": [
+        {
+          "word": "rebuke",
+          "strongNumber": "H1606",
+          "lemma": "ge'arah",
+          "meaning": "rebuke, reproof"
+        },
+        {
+          "word": "chariot",
+          "strongNumber": "H7393",
+          "lemma": "rekeb",
+          "meaning": "chariot, war-chariot"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Thou, even thou, art to be feared: and who may stand in thy sight when once thou art angry?",
+      "highlightedWords": [
+        {
+          "word": "feared",
+          "strongNumber": "H3372",
+          "lemma": "yare'",
+          "meaning": "to fear, revere, be in awe of"
+        },
+        {
+          "word": "angry",
+          "strongNumber": "H639",
+          "lemma": "aph",
+          "meaning": "nose, anger; wrath, anger"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Thou didst cause judgment to be heard from heaven; the earth feared, and was still,",
+      "highlightedWords": [
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "justice, judgment, legal decision"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H0776",
+          "lemma": "erets",
+          "meaning": "earth, land"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "When God arose to judgment, to save all the meek of the earth. Selah.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; the true God"
+        },
+        {
+          "word": "meek",
+          "strongNumber": "H6035",
+          "lemma": "anav",
+          "meaning": "humble, meek"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Surely the wrath of man shall praise thee: the remainder of wrath shalt thou restrain.",
+      "highlightedWords": [
+        {
+          "word": "wrath",
+          "strongNumber": "H2534",
+          "lemma": "chemah",
+          "meaning": "wrath, heat, rage"
+        },
+        {
+          "word": "praise",
+          "strongNumber": "H1984",
+          "lemma": "halal",
+          "meaning": "to praise, boast, celebrate"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Vow, and pay unto the LORD your God: let all that be round about him bring presents unto him that ought to be feared.",
+      "highlightedWords": [
+        {
+          "word": "Vow",
+          "strongNumber": "H5087",
+          "lemma": "nadar",
+          "meaning": "to vow, make a vow"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "He shall cut off the spirit of princes: he is terrible to the kings of the earth.",
+      "highlightedWords": [
+        {
+          "word": "princes",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "prince, ruler, chief"
+        },
+        {
+          "word": "kings",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, sovereign"
+        }
+      ]
+    }
+  ]
+}

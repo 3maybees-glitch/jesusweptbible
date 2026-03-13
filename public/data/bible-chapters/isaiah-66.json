@@ -1,0 +1,456 @@
+{
+  "book": "Isaiah",
+  "chapter": 66,
+  "chapterTheme": {
+    "twoWordSummary": "New Creation",
+    "themeWords": [
+      {
+        "word": "glory",
+        "strongNumber": "H3519",
+        "lemma": "kabod",
+        "meaning": "weight, honor, glory"
+      },
+      {
+        "word": "nations",
+        "strongNumber": "H1471",
+        "lemma": "goyim",
+        "meaning": "peoples, Gentile nations"
+      }
+    ]
+  },
+  "sentenceTheme": "The Lord contrasts empty ritual with humble obedience, promises comfort and glory to Jerusalem, gathers the nations, judges the wicked, and establishes enduring new heavens and a new earth.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Thus saith the LORD, The heaven is my throne, and the earth is my footstool: where is the house that ye build unto me? and where is the place of my rest?",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "the heavens, sky; abode of God"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "For all those things hath mine hand made, and all those things have been, saith the LORD: but to this man will I look, even to him that is poor and of a contrite spirit, and trembleth at my word.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "breath, wind, spirit"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "He that killeth an ox is as if he slew a man; he that sacrificeth a lamb, as if he cut off a dog's neck; he that offereth an oblation, as if he offered swine's blood; he that burneth incense, as if he blessed an idol. Yea, they have chosen their own ways, and their soul delighteth in their abominations.",
+      "highlightedWords": [
+        {
+          "word": "ox",
+          "strongNumber": "H7794",
+          "lemma": "shor",
+          "meaning": "an ox, bull"
+        },
+        {
+          "word": "abominations",
+          "strongNumber": "H8441",
+          "lemma": "to‘ebah",
+          "meaning": "detestable things, abominations"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "I also will choose their delusions, and will bring their fears upon them; because when I called, none did answer; when I spake, they did not hear: but they did evil before mine eyes, and chose that in which I delighted not.",
+      "highlightedWords": [
+        {
+          "word": "called",
+          "strongNumber": "H7121",
+          "lemma": "qaraʾ",
+          "meaning": "to call, summon, proclaim"
+        },
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "ʿayin",
+          "meaning": "eye; by extension, sight"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Hear the word of the LORD, ye that tremble at his word; Your brethren that hated you, that cast you out for my name's sake, said, Let the LORD be glorified: but he shall appear to your joy, and they shall be ashamed.",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, thing"
+        },
+        {
+          "word": "brethren",
+          "strongNumber": "H251",
+          "lemma": "ʾach",
+          "meaning": "brother; kinsman (collective: brethren)"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "A voice of noise from the city, a voice from the temple, a voice of the LORD that rendereth recompence to his enemies.",
+      "highlightedWords": [
+        {
+          "word": "voice",
+          "strongNumber": "H6963",
+          "lemma": "qol",
+          "meaning": "voice, sound"
+        },
+        {
+          "word": "temple",
+          "strongNumber": "H1964",
+          "lemma": "heykal",
+          "meaning": "palace, temple"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Before she travailed, she brought forth; before her pain came, she was delivered of a man child.",
+      "highlightedWords": [
+        {
+          "word": "brought forth",
+          "strongNumber": "H3205",
+          "lemma": "yalad",
+          "meaning": "to bear, beget, bring forth"
+        },
+        {
+          "word": "man child",
+          "strongNumber": "H2145",
+          "lemma": "zakar",
+          "meaning": "male, a male child"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Who hath heard such a thing? who hath seen such things? Shall the earth be made to bring forth in one day? or shall a nation be born at once? for as soon as Zion travailed, she brought forth her children.",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "ʾerets",
+          "meaning": "land, earth"
+        },
+        {
+          "word": "nation",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation, people (often Gentile)"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Shall I bring to the birth, and not cause to bring forth? saith the LORD: shall I cause to bring forth, and shut the womb? saith thy God.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "womb",
+          "strongNumber": "H7358",
+          "lemma": "rechem",
+          "meaning": "womb, uterus, compassion (figurative)"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Rejoice ye with Jerusalem, and be glad with her, all ye that love her: rejoice for joy with her, all ye that mourn for her:",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem, the chief city of Israel"
+        },
+        {
+          "word": "love",
+          "strongNumber": "H157",
+          "lemma": "ʾahab",
+          "meaning": "to love"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "That ye may suck, and be satisfied with the breasts of her consolations; that ye may milk out, and be delighted with the abundance of her glory.",
+      "highlightedWords": [
+        {
+          "word": "breasts",
+          "strongNumber": "H7699",
+          "lemma": "shad",
+          "meaning": "breast (female), bosom"
+        },
+        {
+          "word": "glory",
+          "strongNumber": "H3519",
+          "lemma": "kabod",
+          "meaning": "weight, honor, glory"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "For thus saith the LORD, Behold, I will extend peace to her like a river, and the glory of the Gentiles like a flowing stream: then shall ye suck, ye shall be borne upon her sides, and be dandled upon her knees.",
+      "highlightedWords": [
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace, completeness, well-being"
+        },
+        {
+          "word": "Gentiles",
+          "strongNumber": "H1471",
+          "lemma": "goyim",
+          "meaning": "nations, Gentiles"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "As one whom his mother comforteth, so will I comfort you; and ye shall be comforted in Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "mother",
+          "strongNumber": "H517",
+          "lemma": "ʾem",
+          "meaning": "mother"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem, the chief city of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And when ye see this, your heart shall rejoice, and your bones shall flourish like an herb: and the hand of the LORD shall be known toward his servants, and his indignation toward his enemies.",
+      "highlightedWords": [
+        {
+          "word": "servants",
+          "strongNumber": "H5650",
+          "lemma": "ʿebed",
+          "meaning": "servant, bondman"
+        },
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "ʾoyev",
+          "meaning": "enemy, adversary"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "For, behold, the LORD will come with fire, and with his chariots like a whirlwind, to render his anger with fury, and his rebuke with flames of fire.",
+      "highlightedWords": [
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "ʾesh",
+          "meaning": "fire"
+        },
+        {
+          "word": "anger",
+          "strongNumber": "H639",
+          "lemma": "ʾaph",
+          "meaning": "nose, nostril; anger (figurative)"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "For by fire and by his sword will the LORD plead with all flesh: and the slain of the LORD shall be many.",
+      "highlightedWords": [
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword"
+        },
+        {
+          "word": "flesh",
+          "strongNumber": "H1320",
+          "lemma": "basar",
+          "meaning": "flesh, mankind"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "They that sanctify themselves, and purify themselves in the gardens behind one tree in the midst, eating swine's flesh, and the abomination, and the mouse, shall be consumed together, saith the LORD.",
+      "highlightedWords": [
+        {
+          "word": "gardens",
+          "strongNumber": "H1593",
+          "lemma": "gan",
+          "meaning": "garden, enclosure"
+        },
+        {
+          "word": "mouse",
+          "strongNumber": "H5909",
+          "lemma": "ʿakhbar",
+          "meaning": "mouse"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "For I know their works and their thoughts: it shall come, that I will gather all nations and tongues; and they shall come, and see my glory.",
+      "highlightedWords": [
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "goyim",
+          "meaning": "peoples, Gentile nations"
+        },
+        {
+          "word": "glory",
+          "strongNumber": "H3519",
+          "lemma": "kabod",
+          "meaning": "weight, honor, glory"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And I will set a sign among them, and I will send those that escape of them unto the nations, to Tarshish, Pul, and Lud, that draw the bow, to Tubal, and Javan, to the isles afar off, that have not heard my fame, neither have seen my glory; and they shall declare my glory among the Gentiles.",
+      "highlightedWords": [
+        {
+          "word": "sign",
+          "strongNumber": "H226",
+          "lemma": "ʾot",
+          "meaning": "sign, token, portent"
+        },
+        {
+          "word": "isles",
+          "strongNumber": "H339",
+          "lemma": "ʾiy",
+          "meaning": "coastlands, islands"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And they shall bring all your brethren for an offering unto the LORD out of all nations upon horses, and in chariots, and in litters, and upon mules, and upon swift beasts, to my holy mountain Jerusalem, saith the LORD, as the children of Israel bring an offering in a clean vessel into the house of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "horses",
+          "strongNumber": "H5483",
+          "lemma": "sus",
+          "meaning": "horse"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem, the chief city of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And I will also take of them for priests and for Levites, saith the LORD.",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest"
+        },
+        {
+          "word": "Levites",
+          "strongNumber": "H3881",
+          "lemma": "Leviy",
+          "meaning": "Levites, descendants of Levi set apart for temple service"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "For as the new heavens and the new earth, which I will make, shall remain before me, saith the LORD, so shall your seed and your name remain.",
+      "highlightedWords": [
+        {
+          "word": "heavens",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "the heavens, sky"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "ʾerets",
+          "meaning": "land, earth"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And it shall come to pass, that from one new moon to another, and from one sabbath to another, shall all flesh come to worship before me, saith the LORD.",
+      "highlightedWords": [
+        {
+          "word": "sabbath",
+          "strongNumber": "H7676",
+          "lemma": "shabbath",
+          "meaning": "Sabbath, day of rest"
+        },
+        {
+          "word": "worship",
+          "strongNumber": "H7812",
+          "lemma": "shachah",
+          "meaning": "to bow down, prostrate; worship"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And they shall go forth, and look upon the carcases of the men that have transgressed against me: for their worm shall not die, neither shall their fire be quenched; and they shall be an abhorring unto all flesh.",
+      "highlightedWords": [
+        {
+          "word": "carcases",
+          "strongNumber": "H6297",
+          "lemma": "peger",
+          "meaning": "corpse, dead body"
+        },
+        {
+          "word": "worm",
+          "strongNumber": "H8438",
+          "lemma": "tolaʿ",
+          "meaning": "worm; scarlet worm (coccus)"
+        }
+      ]
+    }
+  ]
+}

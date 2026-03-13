@@ -1,0 +1,132 @@
+{
+  "book": "Psalms",
+  "chapter": 126,
+  "chapterTheme": {
+    "twoWordSummary": "Restored Joy",
+    "themeWords": [
+      {
+        "word": "Turn",
+        "strongNumber": "H7725",
+        "lemma": "shuwb",
+        "meaning": "to turn back, return, restore"
+      },
+      {
+        "word": "rejoicing",
+        "strongNumber": "H7440",
+        "lemma": "rinnah",
+        "meaning": "shout of joy, rejoicing"
+      }
+    ]
+  },
+  "sentenceTheme": "The LORD restores Zion’s fortunes, transforming sorrow into joyful harvest.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "When the LORD turned again the captivity of Zion, we were like them that dream.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel"
+        },
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyyon",
+          "meaning": "Zion, a hill and poetic name for Jerusalem"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Then was our mouth filled with laughter, and our tongue with singing: then said they among the heathen, The LORD hath done great things for them.",
+      "highlightedWords": [
+        {
+          "word": "mouth",
+          "strongNumber": "H6310",
+          "lemma": "peh",
+          "meaning": "mouth, speech, opening"
+        },
+        {
+          "word": "heathen",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation, people; Gentiles"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "The LORD hath done great things for us; whereof we are glad.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel"
+        },
+        {
+          "word": "glad",
+          "strongNumber": "H8055",
+          "lemma": "samach",
+          "meaning": "to rejoice, be glad"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Turn again our captivity, O LORD, as the streams in the south.",
+      "highlightedWords": [
+        {
+          "word": "Turn",
+          "strongNumber": "H7725",
+          "lemma": "shuwb",
+          "meaning": "to turn back, return, restore"
+        },
+        {
+          "word": "south",
+          "strongNumber": "H5045",
+          "lemma": "Negeb",
+          "meaning": "the south country; the Negev desert region"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "They that sow in tears shall reap in joy.",
+      "highlightedWords": [
+        {
+          "word": "sow",
+          "strongNumber": "H2232",
+          "lemma": "zara'",
+          "meaning": "to sow, scatter seed"
+        },
+        {
+          "word": "tears",
+          "strongNumber": "H1832",
+          "lemma": "dim'ah",
+          "meaning": "tears, weeping"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "He that goeth forth and weepeth, bearing precious seed, shall doubtless come again with rejoicing, bringing his sheaves with him.",
+      "highlightedWords": [
+        {
+          "word": "weepeth",
+          "strongNumber": "H1058",
+          "lemma": "bakah",
+          "meaning": "to weep, bewail"
+        },
+        {
+          "word": "seed",
+          "strongNumber": "H2233",
+          "lemma": "zera'",
+          "meaning": "seed, sowing; offspring"
+        }
+      ]
+    }
+  ]
+}

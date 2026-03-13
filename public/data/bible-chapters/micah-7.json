@@ -1,0 +1,384 @@
+{
+  "book": "Micah",
+  "chapter": 7,
+  "chapterTheme": {
+    "twoWordSummary": "Lament Hope",
+    "themeWords": [
+      {
+        "word": "iniquity",
+        "strongNumber": "H5771",
+        "lemma": "avon",
+        "meaning": "iniquity, guilt, perversity"
+      },
+      {
+        "word": "mercy",
+        "strongNumber": "H2617",
+        "lemma": "chesed",
+        "meaning": "steadfast love, covenant loyalty, mercy"
+      }
+    ]
+  },
+  "sentenceTheme": "Micah laments pervasive corruption yet confidently hopes in the LORD, who will pardon iniquity, show mercy, and restore His people.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Woe is me! for I am as when they have gathered the summer fruits, as the grape gleanings of the vintage: there is no cluster to eat: my soul desired the firstripe fruit.",
+      "highlightedWords": [
+        {
+          "word": "summer",
+          "strongNumber": "H7019",
+          "lemma": "qayits",
+          "meaning": "summer; summer fruit"
+        },
+        {
+          "word": "vintage",
+          "strongNumber": "H1210",
+          "lemma": "batsiyr",
+          "meaning": "vintage, grape harvest"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "The good man is perished out of the earth: and there is none upright among men: they all lie in wait for blood; they hunt every man his brother with a net.",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "land, earth"
+        },
+        {
+          "word": "men",
+          "strongNumber": "H120",
+          "lemma": "adam",
+          "meaning": "man, humankind"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "That they may do evil with both hands earnestly, the prince asketh, and the judge asketh for a reward; and the great man, he uttereth his mischievous desire: so they wrap it up.",
+      "highlightedWords": [
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra'",
+          "meaning": "evil, bad, wickedness"
+        },
+        {
+          "word": "prince",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "prince, ruler, official"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "The best of them is as a brier: the most upright is sharper than a thorn hedge: the day of thy watchmen and thy visitation cometh; now shall be their perplexity.",
+      "highlightedWords": [
+        {
+          "word": "day",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day, time, period"
+        },
+        {
+          "word": "visitation",
+          "strongNumber": "H6486",
+          "lemma": "pequddah",
+          "meaning": "visitation, oversight, punishment"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Trust ye not in a friend, put ye not confidence in a guide: keep the doors of thy mouth from her that lieth in thy bosom.",
+      "highlightedWords": [
+        {
+          "word": "Trust",
+          "strongNumber": "H982",
+          "lemma": "batach",
+          "meaning": "to trust, be confident"
+        },
+        {
+          "word": "friend",
+          "strongNumber": "H7453",
+          "lemma": "rea'",
+          "meaning": "friend, companion, neighbor"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "For the son dishonoureth the father, the daughter riseth up against her mother, the daughter in law against her mother in law; a man's enemies are the men of his own house.",
+      "highlightedWords": [
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child"
+        },
+        {
+          "word": "father",
+          "strongNumber": "H1",
+          "lemma": "'ab",
+          "meaning": "father, ancestor"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Therefore I will look unto the LORD; I will wait for the God of my salvation: my God will hear me.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "elohim",
+          "meaning": "God, mighty one"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Rejoice not against me, O mine enemy: when I fall, I shall arise; when I sit in darkness, the LORD shall be a light unto me.",
+      "highlightedWords": [
+        {
+          "word": "darkness",
+          "strongNumber": "H2822",
+          "lemma": "choshek",
+          "meaning": "darkness, obscurity"
+        },
+        {
+          "word": "light",
+          "strongNumber": "H216",
+          "lemma": "'or",
+          "meaning": "light, illumination"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "I will bear the indignation of the LORD, because I have sinned against him, until he plead my cause, and execute judgment for me: he will bring me forth to the light, and I shall behold his righteousness.",
+      "highlightedWords": [
+        {
+          "word": "indignation",
+          "strongNumber": "H2195",
+          "lemma": "za'am",
+          "meaning": "indignation, rage"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "tsedaqah",
+          "meaning": "righteousness, justice"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Then she that is mine enemy shall see it, and shame shall cover her which said unto me, Where is the LORD thy God? mine eyes shall behold her: now shall she be trodden down as the mire of the streets.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        },
+        {
+          "word": "mire",
+          "strongNumber": "H2916",
+          "lemma": "tit",
+          "meaning": "mud, mire, clay"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "In the day that thy walls are to be built, in that day shall the decree be far removed.",
+      "highlightedWords": [
+        {
+          "word": "walls",
+          "strongNumber": "H2346",
+          "lemma": "chomah",
+          "meaning": "wall, city wall"
+        },
+        {
+          "word": "decree",
+          "strongNumber": "H2706",
+          "lemma": "choq",
+          "meaning": "statute, decree, ordinance"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "In that day also he shall come even to thee from Assyria, and from the fortified cities, and from the fortress even to the river, and from sea to sea, and from mountain to mountain.",
+      "highlightedWords": [
+        {
+          "word": "Assyria",
+          "strongNumber": "H804",
+          "lemma": "Ashshur",
+          "meaning": "Assyria; Assyrian empire/people"
+        },
+        {
+          "word": "river",
+          "strongNumber": "H5104",
+          "lemma": "nahar",
+          "meaning": "river, stream"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Notwithstanding the land shall be desolate because of them that dwell therein, for the fruit of their doings.",
+      "highlightedWords": [
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "land, earth"
+        },
+        {
+          "word": "desolate",
+          "strongNumber": "H8074",
+          "lemma": "shamem",
+          "meaning": "to be desolate, appalled, devastated"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Feed thy people with thy rod, the flock of thine heritage, which dwell solitarily in the wood, in the midst of Carmel: let them feed in Bashan and Gilead, as in the days of old.",
+      "highlightedWords": [
+        {
+          "word": "Feed",
+          "strongNumber": "H7462",
+          "lemma": "ra'ah",
+          "meaning": "to pasture, shepherd, feed"
+        },
+        {
+          "word": "flock",
+          "strongNumber": "H6629",
+          "lemma": "tson",
+          "meaning": "flock (sheep and goats)"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "According to the days of thy coming out of the land of Egypt will I shew unto him marvellous things.",
+      "highlightedWords": [
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt"
+        },
+        {
+          "word": "marvellous",
+          "strongNumber": "H6381",
+          "lemma": "pala'",
+          "meaning": "to be wonderful, extraordinary, marvelous"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "The nations shall see and be confounded at all their might: they shall lay their hand upon their mouth, their ears shall be deaf.",
+      "highlightedWords": [
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation, people"
+        },
+        {
+          "word": "confounded",
+          "strongNumber": "H954",
+          "lemma": "bosh",
+          "meaning": "to be ashamed, confounded"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "They shall lick the dust like a serpent, they shall move out of their holes like worms of the earth: they shall be afraid of the LORD our God, and shall fear because of thee.",
+      "highlightedWords": [
+        {
+          "word": "serpent",
+          "strongNumber": "H5175",
+          "lemma": "nachash",
+          "meaning": "serpent, snake"
+        },
+        {
+          "word": "fear",
+          "strongNumber": "H3372",
+          "lemma": "yare'",
+          "meaning": "to fear, revere, be afraid"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Who is a God like unto thee, that pardoneth iniquity, and passeth by the transgression of the remnant of his heritage? he retaineth not his anger for ever, because he delighteth in mercy.",
+      "highlightedWords": [
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "avon",
+          "meaning": "iniquity, guilt, wrongdoing"
+        },
+        {
+          "word": "mercy",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "kindness, loyal love, mercy"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "He will turn again, he will have compassion upon us; he will subdue our iniquities; and thou wilt cast all their sins into the depths of the sea.",
+      "highlightedWords": [
+        {
+          "word": "compassion",
+          "strongNumber": "H7355",
+          "lemma": "racham",
+          "meaning": "to have compassion, show mercy"
+        },
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "sea"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Thou wilt perform the truth to Jacob, and the mercy to Abraham, which thou hast sworn unto our fathers from the days of old.",
+      "highlightedWords": [
+        {
+          "word": "truth",
+          "strongNumber": "H571",
+          "lemma": "emet",
+          "meaning": "truth, firmness, faithfulness"
+        },
+        {
+          "word": "Abraham",
+          "strongNumber": "H85",
+          "lemma": "Avraham",
+          "meaning": "Abraham, father of the multitude"
+        }
+      ]
+    }
+  ]
+}

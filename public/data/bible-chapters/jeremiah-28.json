@@ -1,0 +1,330 @@
+{
+  "book": "Jeremiah",
+  "chapter": 28,
+  "chapterTheme": {
+    "twoWordSummary": "False Prophecy",
+    "themeWords": [
+      {
+        "word": "prophet",
+        "strongNumber": "H5030",
+        "lemma": "nabi'",
+        "meaning": "a prophet; spokesman inspired by God"
+      },
+      {
+        "word": "yoke",
+        "strongNumber": "H4133",
+        "lemma": "motah",
+        "meaning": "a bar of a yoke; a yoke"
+      }
+    ]
+  },
+  "sentenceTheme": "Hananiah’s false prophecy promising quick deliverance is opposed by Jeremiah, who declares the LORD’s judgment of an iron yoke and foretells Hananiah’s death.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And it came to pass the same year, in the beginning of the reign of Zedekiah king of Judah, in the fourth year, and in the fifth month, that Hananiah the son of Azur the prophet, which was of Gibeon, spake unto me in the house of the LORD, in the presence of the priests and of all the people, saying,",
+      "highlightedWords": [
+        {
+          "word": "prophet",
+          "strongNumber": "H5030",
+          "lemma": "nabi'",
+          "meaning": "a prophet; spokesman inspired by God"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God, the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Thus speaketh the LORD of hosts, the God of Israel, saying, I have broken the yoke of the king of Babylon.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God, the LORD"
+        },
+        {
+          "word": "Babylon",
+          "strongNumber": "H0894",
+          "lemma": "Babel",
+          "meaning": "Babylon; the empire/city of Babylonia"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Within two full years will I bring again into this place all the vessels of the LORD'S house, that Nebuchadnezzar king of Babylon took away from this place, and carried them to Babylon:",
+      "highlightedWords": [
+        {
+          "word": "vessels",
+          "strongNumber": "H3627",
+          "lemma": "keli",
+          "meaning": "articles, utensils, vessels"
+        },
+        {
+          "word": "Babylon",
+          "strongNumber": "H0894",
+          "lemma": "Babel",
+          "meaning": "Babylon; the empire/city of Babylonia"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And I will bring again to this place Jeconiah the son of Jehoiakim king of Judah, with all the captives of Judah, that went into Babylon, saith the LORD: for I will break the yoke of the king of Babylon.",
+      "highlightedWords": [
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah; the southern kingdom/tribe"
+        },
+        {
+          "word": "break",
+          "strongNumber": "H7665",
+          "lemma": "shabar",
+          "meaning": "to break in pieces, shatter"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Then the prophet Jeremiah said unto the prophet Hananiah in the presence of the priests, and in the presence of all the people that stood in the house of the LORD,",
+      "highlightedWords": [
+        {
+          "word": "prophet",
+          "strongNumber": "H5030",
+          "lemma": "nabi'",
+          "meaning": "a prophet; spokesman inspired by God"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God, the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Even the prophet Jeremiah said, Amen: the LORD do so: the LORD perform thy words which thou hast prophesied, to bring again the vessels of the LORD'S house, and all that is carried away captive, from Babylon into this place.",
+      "highlightedWords": [
+        {
+          "word": "Amen",
+          "strongNumber": "H0543",
+          "lemma": "amen",
+          "meaning": "truly, so be it"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God, the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Nevertheless hear thou now this word that I speak in thine ears, and in the ears of all the people;",
+      "highlightedWords": [
+        {
+          "word": "hear",
+          "strongNumber": "H8085",
+          "lemma": "shama'",
+          "meaning": "to hear, listen, obey"
+        },
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "'am",
+          "meaning": "people, nation"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "The prophets that have been before me and before thee of old prophesied both against many countries, and against great kingdoms, of war, and of evil, and of pestilence.",
+      "highlightedWords": [
+        {
+          "word": "prophets",
+          "strongNumber": "H5030",
+          "lemma": "nabi'",
+          "meaning": "prophets; inspired spokespersons"
+        },
+        {
+          "word": "war",
+          "strongNumber": "H4421",
+          "lemma": "milchamah",
+          "meaning": "war, battle"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "The prophet which prophesieth of peace, when the word of the prophet shall come to pass, then shall the prophet be known, that the LORD hath truly sent him.",
+      "highlightedWords": [
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace, welfare, completeness"
+        },
+        {
+          "word": "sent",
+          "strongNumber": "H7971",
+          "lemma": "shalach",
+          "meaning": "to send, dispatch"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Then Hananiah the prophet took the yoke from off the prophet Jeremiah's neck, and brake it.",
+      "highlightedWords": [
+        {
+          "word": "yoke",
+          "strongNumber": "H4133",
+          "lemma": "motah",
+          "meaning": "a bar of a yoke; a yoke"
+        },
+        {
+          "word": "brake",
+          "strongNumber": "H7665",
+          "lemma": "shabar",
+          "meaning": "to break in pieces, shatter"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And Hananiah spake in the presence of all the people, saying, Thus saith the LORD; Even so will I break the yoke of Nebuchadnezzar king of Babylon from the neck of all nations within the space of two full years. And the prophet Jeremiah went his way.",
+      "highlightedWords": [
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation, people"
+        },
+        {
+          "word": "Babylon",
+          "strongNumber": "H0894",
+          "lemma": "Babel",
+          "meaning": "Babylon; the empire/city of Babylonia"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Then the word of the LORD came unto Jeremiah the prophet, after that Hananiah the prophet had broken the yoke from off the neck of the prophet Jeremiah, saying,",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, thing"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God, the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Go and tell Hananiah, saying, Thus saith the LORD; Thou hast broken the yokes of wood; but thou shalt make for them yokes of iron.",
+      "highlightedWords": [
+        {
+          "word": "wood",
+          "strongNumber": "H6086",
+          "lemma": "'ets",
+          "meaning": "tree, wood, timber"
+        },
+        {
+          "word": "iron",
+          "strongNumber": "H1270",
+          "lemma": "barzel",
+          "meaning": "iron"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "For thus saith the LORD of hosts, the God of Israel; I have put a yoke of iron upon the neck of all these nations, that they may serve Nebuchadnezzar king of Babylon; and they shall serve him: and I have given him the beasts of the field also.",
+      "highlightedWords": [
+        {
+          "word": "serve",
+          "strongNumber": "H5647",
+          "lemma": "'abad",
+          "meaning": "to serve, work"
+        },
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation, people"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Then said the prophet Jeremiah unto Hananiah the prophet, Hear now, Hananiah; The LORD hath not sent thee; but thou makest this people to trust in a lie.",
+      "highlightedWords": [
+        {
+          "word": "trust",
+          "strongNumber": "H0982",
+          "lemma": "batach",
+          "meaning": "to trust, be confident, rely upon"
+        },
+        {
+          "word": "lie",
+          "strongNumber": "H8267",
+          "lemma": "sheqer",
+          "meaning": "falsehood, lie, deception"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Therefore thus saith the LORD; Behold, I will cast thee from off the face of the earth: this year thou shalt die, because thou hast taught rebellion against the LORD.",
+      "highlightedWords": [
+        {
+          "word": "die",
+          "strongNumber": "H4191",
+          "lemma": "muth",
+          "meaning": "to die, perish"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God, the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "So Hananiah the prophet died the same year in the seventh month.",
+      "highlightedWords": [
+        {
+          "word": "died",
+          "strongNumber": "H4191",
+          "lemma": "muth",
+          "meaning": "to die, perish"
+        },
+        {
+          "word": "month",
+          "strongNumber": "H2320",
+          "lemma": "chodesh",
+          "meaning": "month, new moon"
+        }
+      ]
+    }
+  ]
+}

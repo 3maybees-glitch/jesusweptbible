@@ -1,0 +1,240 @@
+{
+  "book": "Psalms",
+  "chapter": 143,
+  "chapterTheme": {
+    "twoWordSummary": "Earnest Plea",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "יהוה (YHWH)",
+        "meaning": "The personal name of the God of Israel; the covenant name, often rendered LORD."
+      },
+      {
+        "word": "mercy",
+        "strongNumber": "H2617",
+        "lemma": "חֶסֶד (chesed)",
+        "meaning": "Lovingkindness; steadfast, covenantal love and mercy."
+      }
+    ]
+  },
+  "sentenceTheme": "David pleads for God's mercy, guidance, and deliverance, trusting in His righteousness.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Hear my prayer, O LORD, give ear to my supplications: in thy faithfulness answer me, and in thy righteousness.",
+      "highlightedWords": [
+        {
+          "word": "Hear",
+          "strongNumber": "H8085",
+          "lemma": "שָׁמַע (shamaʿ)",
+          "meaning": "To hear, listen to, pay attention, obey."
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "צְדָקָה (tsedaqah)",
+          "meaning": "Righteousness; justice, rightness according to God’s standard."
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And enter not into judgment with thy servant: for in thy sight shall no man living be justified.",
+      "highlightedWords": [
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "מִשְׁפָּט (mishpat)",
+          "meaning": "Judgment; justice, legal decision, right."
+        },
+        {
+          "word": "servant",
+          "strongNumber": "H5650",
+          "lemma": "עֶבֶד (ʿebed)",
+          "meaning": "Servant; slave, bondman, one in service."
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "For the enemy hath persecuted my soul; he hath smitten my life down to the ground; he hath made me to dwell in darkness, as those that have been long dead.",
+      "highlightedWords": [
+        {
+          "word": "enemy",
+          "strongNumber": "H341",
+          "lemma": "אוֹיֵב (’oyev)",
+          "meaning": "Enemy; adversary, foe, one who is hostile."
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "נֶפֶשׁ (nephesh)",
+          "meaning": "Soul; life, self, inner being."
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Therefore is my spirit overwhelmed within me; my heart within me is desolate.",
+      "highlightedWords": [
+        {
+          "word": "spirit",
+          "strongNumber": "H7307",
+          "lemma": "רוּחַ (ruach)",
+          "meaning": "Spirit; wind, breath; the inner person."
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "לֵב (lev)",
+          "meaning": "Heart; inner man, mind, will."
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "I remember the days of old; I meditate on all thy works; I muse on the work of thy hands.",
+      "highlightedWords": [
+        {
+          "word": "remember",
+          "strongNumber": "H2142",
+          "lemma": "זָכַר (zakar)",
+          "meaning": "To remember; recall, call to mind."
+        },
+        {
+          "word": "meditate",
+          "strongNumber": "H1897",
+          "lemma": "הָגָה (hagah)",
+          "meaning": "To meditate; muse, ponder, utter softly."
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "I stretch forth my hands unto thee: my soul thirsteth after thee, as a thirsty land. Selah.",
+      "highlightedWords": [
+        {
+          "word": "hands",
+          "strongNumber": "H3027",
+          "lemma": "יָד (yad)",
+          "meaning": "Hand; by extension power or control."
+        },
+        {
+          "word": "thirsteth",
+          "strongNumber": "H6770",
+          "lemma": "צָמֵא (tsame)",
+          "meaning": "To thirst; to long for water or relief."
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Hear me speedily, O LORD: my spirit faileth: hide not thy face from me, lest I be like unto them that go down into the pit.",
+      "highlightedWords": [
+        {
+          "word": "face",
+          "strongNumber": "H6440",
+          "lemma": "פָּנִים (panim)",
+          "meaning": "Face; presence, countenance."
+        },
+        {
+          "word": "pit",
+          "strongNumber": "H953",
+          "lemma": "בּוֹר (bor)",
+          "meaning": "Pit; cistern, dungeon, grave-like pit."
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Cause me to hear thy lovingkindness in the morning; for in thee do I trust: cause me to know the way wherein I should walk; for I lift up my soul unto thee.",
+      "highlightedWords": [
+        {
+          "word": "lovingkindness",
+          "strongNumber": "H2617",
+          "lemma": "חֶסֶד (chesed)",
+          "meaning": "Lovingkindness; steadfast love, mercy, loyalty."
+        },
+        {
+          "word": "trust",
+          "strongNumber": "H982",
+          "lemma": "בָּטַח (batach)",
+          "meaning": "To trust; be confident, rely upon."
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Deliver me, O LORD, from mine enemies: I flee unto thee to hide me.",
+      "highlightedWords": [
+        {
+          "word": "Deliver",
+          "strongNumber": "H5337",
+          "lemma": "נָצַל (natsal)",
+          "meaning": "To deliver; snatch away, rescue, save."
+        },
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "אוֹיֵב (’oyev)",
+          "meaning": "Enemies; adversaries, foes."
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Teach me to do thy will; for thou art my God: thy spirit is good; lead me into the land of uprightness.",
+      "highlightedWords": [
+        {
+          "word": "Teach",
+          "strongNumber": "H3925",
+          "lemma": "לָמַד (lamad)",
+          "meaning": "To teach; train, learn, cause to know."
+        },
+        {
+          "word": "lead",
+          "strongNumber": "H5148",
+          "lemma": "נָחָה (nachah)",
+          "meaning": "To lead; guide, conduct."
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Quicken me, O LORD, for thy name's sake: for thy righteousness' sake bring my soul out of trouble.",
+      "highlightedWords": [
+        {
+          "word": "Quicken",
+          "strongNumber": "H2421",
+          "lemma": "חָיָה (chayah)",
+          "meaning": "To live; revive, restore to life, quicken."
+        },
+        {
+          "word": "name's",
+          "strongNumber": "H8034",
+          "lemma": "שֵׁם (shem)",
+          "meaning": "Name; reputation, fame, memorial."
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And of thy mercy cut off mine enemies, and destroy all them that afflict my soul: for I am thy servant.",
+      "highlightedWords": [
+        {
+          "word": "mercy",
+          "strongNumber": "H2617",
+          "lemma": "חֶסֶד (chesed)",
+          "meaning": "Mercy; steadfast love, kindness, loyalty."
+        },
+        {
+          "word": "servant",
+          "strongNumber": "H5650",
+          "lemma": "עֶבֶד (ʿebed)",
+          "meaning": "Servant; slave, bondman, one devoted to service."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,492 @@
+{
+  "book": "Exodus",
+  "chapter": 20,
+  "chapterTheme": {
+    "twoWordSummary": "Ten Commandments",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH",
+        "meaning": "The personal name of Israel's God, the covenant LORD"
+      },
+      {
+        "word": "commandments",
+        "strongNumber": "H4687",
+        "lemma": "mitsvah",
+        "meaning": "command; ordinance; authoritative directive"
+      }
+    ]
+  },
+  "sentenceTheme": "At Mount Sinai, God proclaims the Ten Commandments and related worship instructions, calling Israel to exclusive devotion and holy living.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And God spake all these words, saying,",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’elohim",
+          "meaning": "God; mighty one; deity"
+        },
+        {
+          "word": "spake",
+          "strongNumber": "H1696",
+          "lemma": "dabar",
+          "meaning": "to speak; declare; converse"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "I am the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of God, the LORD"
+        },
+        {
+          "word": "bondage",
+          "strongNumber": "H5650",
+          "lemma": "’ebed",
+          "meaning": "servitude; slavery; service"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Thou shalt have no other gods before me.",
+      "highlightedWords": [
+        {
+          "word": "gods",
+          "strongNumber": "H430",
+          "lemma": "’elohim",
+          "meaning": "gods; deities; mighty ones"
+        },
+        {
+          "word": "before",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "face; presence; before"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth:",
+      "highlightedWords": [
+        {
+          "word": "graven image",
+          "strongNumber": "H6459",
+          "lemma": "pesel",
+          "meaning": "carved image; idol"
+        },
+        {
+          "word": "likeness",
+          "strongNumber": "H8544",
+          "lemma": "temunah",
+          "meaning": "form; likeness; representation"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Thou shalt not bow down thyself to them, nor serve them: for I the LORD thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me;",
+      "highlightedWords": [
+        {
+          "word": "jealous",
+          "strongNumber": "H7067",
+          "lemma": "qanna",
+          "meaning": "jealous; zealous for exclusive devotion"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "’avon",
+          "meaning": "iniquity; guilt; punishment for sin"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And shewing mercy unto thousands of them that love me, and keep my commandments.",
+      "highlightedWords": [
+        {
+          "word": "mercy",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "steadfast love; covenant loyalty; mercy"
+        },
+        {
+          "word": "commandments",
+          "strongNumber": "H4687",
+          "lemma": "mitsvah",
+          "meaning": "command; ordinance; directive"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Thou shalt not take the name of the LORD thy God in vain; for the LORD will not hold him guiltless that taketh his name in vain.",
+      "highlightedWords": [
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "name; reputation; renown"
+        },
+        {
+          "word": "vain",
+          "strongNumber": "H7723",
+          "lemma": "shav",
+          "meaning": "emptiness; vanity; falsehood"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Remember the sabbath day, to keep it holy.",
+      "highlightedWords": [
+        {
+          "word": "sabbath",
+          "strongNumber": "H7676",
+          "lemma": "shabbath",
+          "meaning": "Sabbath; day of rest; cessation"
+        },
+        {
+          "word": "holy",
+          "strongNumber": "H6942",
+          "lemma": "qadash",
+          "meaning": "to set apart; consecrate; make holy"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Six days shalt thou labour, and do all thy work:",
+      "highlightedWords": [
+        {
+          "word": "labour",
+          "strongNumber": "H5647",
+          "lemma": "’abad",
+          "meaning": "to work; serve; labor"
+        },
+        {
+          "word": "work",
+          "strongNumber": "H4399",
+          "lemma": "melakah",
+          "meaning": "work; occupation; craftsmanship"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "But the seventh day is the sabbath of the LORD thy God: in it thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that is within thy gates:",
+      "highlightedWords": [
+        {
+          "word": "sabbath",
+          "strongNumber": "H7676",
+          "lemma": "shabbath",
+          "meaning": "Sabbath; day of rest; cessation"
+        },
+        {
+          "word": "stranger",
+          "strongNumber": "H1616",
+          "lemma": "ger",
+          "meaning": "sojourner; resident alien; foreigner"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "For in six days the LORD made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the LORD blessed the sabbath day, and hallowed it.",
+      "highlightedWords": [
+        {
+          "word": "blessed",
+          "strongNumber": "H1288",
+          "lemma": "barak",
+          "meaning": "to bless; praise; bestow favor"
+        },
+        {
+          "word": "hallowed",
+          "strongNumber": "H6942",
+          "lemma": "qadash",
+          "meaning": "to consecrate; sanctify; set apart"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Honour thy father and thy mother: that thy days may be long upon the land which the LORD thy God giveth thee.",
+      "highlightedWords": [
+        {
+          "word": "Honour",
+          "strongNumber": "H3513",
+          "lemma": "kabad",
+          "meaning": "to honor; make weighty; glorify"
+        },
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "’erets",
+          "meaning": "land; earth; territory"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Thou shalt not kill.",
+      "highlightedWords": [
+        {
+          "word": "not",
+          "strongNumber": "H3808",
+          "lemma": "lo",
+          "meaning": "not; no; negation"
+        },
+        {
+          "word": "kill",
+          "strongNumber": "H7523",
+          "lemma": "ratsach",
+          "meaning": "to murder; slay unlawfully"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Thou shalt not commit adultery.",
+      "highlightedWords": [
+        {
+          "word": "not",
+          "strongNumber": "H3808",
+          "lemma": "lo",
+          "meaning": "not; no; negation"
+        },
+        {
+          "word": "adultery",
+          "strongNumber": "H5003",
+          "lemma": "na’aph",
+          "meaning": "to commit adultery; break marriage covenant"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Thou shalt not steal.",
+      "highlightedWords": [
+        {
+          "word": "not",
+          "strongNumber": "H3808",
+          "lemma": "lo",
+          "meaning": "not; no; negation"
+        },
+        {
+          "word": "steal",
+          "strongNumber": "H1589",
+          "lemma": "ganab",
+          "meaning": "to steal; carry away secretly"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Thou shalt not bear false witness against thy neighbour.",
+      "highlightedWords": [
+        {
+          "word": "false",
+          "strongNumber": "H8267",
+          "lemma": "sheqer",
+          "meaning": "falsehood; lie; deception"
+        },
+        {
+          "word": "witness",
+          "strongNumber": "H5707",
+          "lemma": "’ed",
+          "meaning": "witness; testimony; evidence"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Thou shalt not covet thy neighbour's house, thou shalt not covet thy neighbour's wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that is thy neighbour's.",
+      "highlightedWords": [
+        {
+          "word": "covet",
+          "strongNumber": "H2530",
+          "lemma": "chamad",
+          "meaning": "to desire; covet; take pleasure in"
+        },
+        {
+          "word": "neighbour",
+          "strongNumber": "H7453",
+          "lemma": "rea‘",
+          "meaning": "friend; neighbor; companion"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And all the people saw the thunderings, and the lightnings, and the noise of the trumpet, and the mountain smoking: and when the people saw it, they removed, and stood afar off.",
+      "highlightedWords": [
+        {
+          "word": "thunderings",
+          "strongNumber": "H6963",
+          "lemma": "qol",
+          "meaning": "voice; sound; thunder"
+        },
+        {
+          "word": "trumpet",
+          "strongNumber": "H7782",
+          "lemma": "shofar",
+          "meaning": "ram’s horn; trumpet"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And they said unto Moses, Speak thou with us, and we will hear: but let not God speak with us, lest we die.",
+      "highlightedWords": [
+        {
+          "word": "Speak",
+          "strongNumber": "H1696",
+          "lemma": "dabar",
+          "meaning": "to speak; declare; converse"
+        },
+        {
+          "word": "die",
+          "strongNumber": "H4191",
+          "lemma": "muth",
+          "meaning": "to die; perish"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And Moses said unto the people, Fear not: for God is come to prove you, and that his fear may be before your faces, that ye sin not.",
+      "highlightedWords": [
+        {
+          "word": "Fear",
+          "strongNumber": "H3374",
+          "lemma": "yirah",
+          "meaning": "fear; reverence; awe"
+        },
+        {
+          "word": "prove",
+          "strongNumber": "H5254",
+          "lemma": "nasah",
+          "meaning": "to test; try; prove"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And the people stood afar off, and Moses drew near unto the thick darkness where God was.",
+      "highlightedWords": [
+        {
+          "word": "drew near",
+          "strongNumber": "H5066",
+          "lemma": "nagash",
+          "meaning": "to draw near; approach"
+        },
+        {
+          "word": "thick darkness",
+          "strongNumber": "H6205",
+          "lemma": "’araphel",
+          "meaning": "thick cloud; deep darkness; gloom"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And the LORD said unto Moses, Thus thou shalt say unto the children of Israel, Ye have seen that I have talked with you from heaven.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of God, the LORD"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens; sky; abode of God"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Ye shall not make with me gods of silver, neither shall ye make unto you gods of gold.",
+      "highlightedWords": [
+        {
+          "word": "silver",
+          "strongNumber": "H3701",
+          "lemma": "keseph",
+          "meaning": "silver; money"
+        },
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "zahab",
+          "meaning": "gold; precious metal"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "An altar of earth thou shalt make unto me, and shalt sacrifice thereon thy burnt offerings, and thy peace offerings, thy sheep, and thine oxen: in all places where I record my name I will come unto thee, and I will bless thee.",
+      "highlightedWords": [
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar; place of sacrifice"
+        },
+        {
+          "word": "burnt offerings",
+          "strongNumber": "H5930",
+          "lemma": "‘olah",
+          "meaning": "burnt offering; that which goes up"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And if thou wilt make me an altar of stone, thou shalt not build it of hewn stone: for if thou lift up thy tool upon it, thou hast polluted it.",
+      "highlightedWords": [
+        {
+          "word": "stone",
+          "strongNumber": "H68",
+          "lemma": "’eben",
+          "meaning": "stone; building stone"
+        },
+        {
+          "word": "tool",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword; tool of cutting"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "Neither shalt thou go up by steps unto mine altar, that thy nakedness be not discovered thereon.",
+      "highlightedWords": [
+        {
+          "word": "steps",
+          "strongNumber": "H4609",
+          "lemma": "ma‘alah",
+          "meaning": "step; stair; ascent"
+        },
+        {
+          "word": "nakedness",
+          "strongNumber": "H6172",
+          "lemma": "‘ervah",
+          "meaning": "nakedness; indecency; exposure"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,636 @@
+{
+  "book": "Job",
+  "chapter": 21,
+  "chapterTheme": {
+    "twoWordSummary": "Wicked Prosperity",
+    "themeWords": [
+      {
+        "word": "wicked",
+        "strongNumber": "H7563",
+        "lemma": "rashaʿ",
+        "meaning": "wicked, guilty, ungodly person"
+      },
+      {
+        "word": "Almighty",
+        "strongNumber": "H7706",
+        "lemma": "Shaddai",
+        "meaning": "the Almighty; all-powerful God"
+      }
+    ]
+  },
+  "sentenceTheme": "Job challenges his friends by observing that the wicked often prosper and die in peace, questioning simplistic views of divine retribution.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "But Job answered and said,",
+      "highlightedWords": [
+        {
+          "word": "Job",
+          "strongNumber": "H347",
+          "lemma": "ʼIyyōḇ",
+          "meaning": "Job; the persecuted one"
+        },
+        {
+          "word": "answered",
+          "strongNumber": "H6030",
+          "lemma": "ʿanah",
+          "meaning": "to answer, respond"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Hear diligently my speech, and let this be your consolations.",
+      "highlightedWords": [
+        {
+          "word": "Hear",
+          "strongNumber": "H8085",
+          "lemma": "shāmaʿ",
+          "meaning": "to hear, listen, obey"
+        },
+        {
+          "word": "consolations",
+          "strongNumber": "H8575",
+          "lemma": "tanchumah",
+          "meaning": "consolation, comfort"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Suffer me that I may speak; and after that I have spoken, mock on.",
+      "highlightedWords": [
+        {
+          "word": "speak",
+          "strongNumber": "H1696",
+          "lemma": "dābar",
+          "meaning": "to speak, declare"
+        },
+        {
+          "word": "mock",
+          "strongNumber": "H3932",
+          "lemma": "lāʿag",
+          "meaning": "to mock, deride"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "As for me, is my complaint to man? and if it were so, why should not my spirit be troubled?",
+      "highlightedWords": [
+        {
+          "word": "complaint",
+          "strongNumber": "H7879",
+          "lemma": "sīaḥ",
+          "meaning": "complaint, meditation"
+        },
+        {
+          "word": "spirit",
+          "strongNumber": "H7307",
+          "lemma": "rūaḥ",
+          "meaning": "spirit, wind, breath"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Mark me, and be astonished, and lay your hand upon your mouth.",
+      "highlightedWords": [
+        {
+          "word": "astonished",
+          "strongNumber": "H8074",
+          "lemma": "shāmēm",
+          "meaning": "to be desolated, appalled, astonished"
+        },
+        {
+          "word": "mouth",
+          "strongNumber": "H6310",
+          "lemma": "peh",
+          "meaning": "mouth, speech, opening"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Even when I remember I am afraid, and trembling taketh hold on my flesh.",
+      "highlightedWords": [
+        {
+          "word": "trembling",
+          "strongNumber": "H7461",
+          "lemma": "raʿad",
+          "meaning": "trembling, quaking"
+        },
+        {
+          "word": "flesh",
+          "strongNumber": "H1320",
+          "lemma": "bāśār",
+          "meaning": "flesh, body"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Wherefore do the wicked live, become old, yea, are mighty in power?",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rashaʿ",
+          "meaning": "wicked, guilty, ungodly person"
+        },
+        {
+          "word": "power",
+          "strongNumber": "H1369",
+          "lemma": "gĕbūrāh",
+          "meaning": "strength, power, might"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Their seed is established in their sight with them, and their offspring before their eyes.",
+      "highlightedWords": [
+        {
+          "word": "seed",
+          "strongNumber": "H2233",
+          "lemma": "zeraʿ",
+          "meaning": "seed, offspring, descendants"
+        },
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "ʿayin",
+          "meaning": "eye; appearance"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Their houses are safe from fear, neither is the rod of God upon them.",
+      "highlightedWords": [
+        {
+          "word": "houses",
+          "strongNumber": "H1004",
+          "lemma": "bayit",
+          "meaning": "house, household"
+        },
+        {
+          "word": "rod",
+          "strongNumber": "H7626",
+          "lemma": "šēḇeṭ",
+          "meaning": "rod, staff, scepter"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Their bull gendereth, and faileth not; their cow calveth, and casteth not her calf.",
+      "highlightedWords": [
+        {
+          "word": "bull",
+          "strongNumber": "H7794",
+          "lemma": "šôr",
+          "meaning": "bull, ox"
+        },
+        {
+          "word": "cow",
+          "strongNumber": "H6510",
+          "lemma": "pārāh",
+          "meaning": "cow, heifer"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "They send forth their little ones like a flock, and their children dance.",
+      "highlightedWords": [
+        {
+          "word": "flock",
+          "strongNumber": "H6629",
+          "lemma": "ṣōʾn",
+          "meaning": "small cattle, flock (sheep/goats)"
+        },
+        {
+          "word": "dance",
+          "strongNumber": "H7540",
+          "lemma": "rāqad",
+          "meaning": "to dance, skip"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "They take the timbrel and harp, and rejoice at the sound of the organ.",
+      "highlightedWords": [
+        {
+          "word": "harp",
+          "strongNumber": "H3658",
+          "lemma": "kinnōr",
+          "meaning": "harp, lyre"
+        },
+        {
+          "word": "organ",
+          "strongNumber": "H5748",
+          "lemma": "ʿūḡāḇ",
+          "meaning": "pipe, reed instrument"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "They spend their days in wealth, and in a moment go down to the grave.",
+      "highlightedWords": [
+        {
+          "word": "days",
+          "strongNumber": "H3117",
+          "lemma": "yōm",
+          "meaning": "day, time, lifetime"
+        },
+        {
+          "word": "grave",
+          "strongNumber": "H7585",
+          "lemma": "sheʾōl",
+          "meaning": "Sheol, the grave, the underworld"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Therefore they say unto God, Depart from us; for we desire not the knowledge of thy ways.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H433",
+          "lemma": "ʾĕlōah",
+          "meaning": "God (singular), deity"
+        },
+        {
+          "word": "knowledge",
+          "strongNumber": "H1847",
+          "lemma": "daʿath",
+          "meaning": "knowledge, understanding"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "What is the Almighty, that we should serve him? and what profit should we have, if we pray unto him?",
+      "highlightedWords": [
+        {
+          "word": "Almighty",
+          "strongNumber": "H7706",
+          "lemma": "Shaddai",
+          "meaning": "the Almighty; all-powerful God"
+        },
+        {
+          "word": "serve",
+          "strongNumber": "H5647",
+          "lemma": "ʿābad",
+          "meaning": "to serve, work, worship"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Lo, their good is not in their hand: the counsel of the wicked is far from me.",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rashaʿ",
+          "meaning": "wicked, guilty, ungodly person"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "How oft is the candle of the wicked put out! and how oft cometh their destruction upon them! God distributeth sorrows in his anger.",
+      "highlightedWords": [
+        {
+          "word": "candle",
+          "strongNumber": "H5216",
+          "lemma": "nēr",
+          "meaning": "lamp, candle"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rashaʿ",
+          "meaning": "wicked, guilty, ungodly person"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "They are as stubble before the wind, and as chaff that the storm carrieth away.",
+      "highlightedWords": [
+        {
+          "word": "stubble",
+          "strongNumber": "H7179",
+          "lemma": "qash",
+          "meaning": "stubble, chaff"
+        },
+        {
+          "word": "wind",
+          "strongNumber": "H7307",
+          "lemma": "rūaḥ",
+          "meaning": "wind, spirit, breath"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "God layeth up his iniquity for his children: he rewardeth him, and he shall know it.",
+      "highlightedWords": [
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "ʿāwōn",
+          "meaning": "iniquity, guilt, punishment"
+        },
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child, descendant"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "His eyes shall see his destruction, and he shall drink of the wrath of the Almighty.",
+      "highlightedWords": [
+        {
+          "word": "wrath",
+          "strongNumber": "H2534",
+          "lemma": "ḥēmāh",
+          "meaning": "wrath, heat, rage"
+        },
+        {
+          "word": "Almighty",
+          "strongNumber": "H7706",
+          "lemma": "Shaddai",
+          "meaning": "the Almighty; all-powerful God"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "For what pleasure hath he in his house after him, when the number of his months is cut off in the midst?",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayit",
+          "meaning": "house, household"
+        },
+        {
+          "word": "months",
+          "strongNumber": "H2320",
+          "lemma": "ḥōdesh",
+          "meaning": "month, new moon"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Shall any teach God knowledge? seeing he judgeth those that are high.",
+      "highlightedWords": [
+        {
+          "word": "teach",
+          "strongNumber": "H3925",
+          "lemma": "lāmad",
+          "meaning": "to teach, learn"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H410",
+          "lemma": "ʾEl",
+          "meaning": "God, mighty one"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "One dieth in his full strength, being wholly at ease and quiet.",
+      "highlightedWords": [
+        {
+          "word": "dieth",
+          "strongNumber": "H4191",
+          "lemma": "mūth",
+          "meaning": "to die"
+        },
+        {
+          "word": "ease",
+          "strongNumber": "H7961",
+          "lemma": "šālēw",
+          "meaning": "prosperity, ease, security"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "His breasts are full of milk, and his bones are moistened with marrow.",
+      "highlightedWords": [
+        {
+          "word": "bones",
+          "strongNumber": "H6106",
+          "lemma": "ʿeṣem",
+          "meaning": "bone, substance"
+        },
+        {
+          "word": "marrow",
+          "strongNumber": "H4221",
+          "lemma": "mōaḥ",
+          "meaning": "marrow, brain"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And another dieth in the bitterness of his soul, and never eateth with pleasure.",
+      "highlightedWords": [
+        {
+          "word": "bitterness",
+          "strongNumber": "H4751",
+          "lemma": "mārāh",
+          "meaning": "bitterness"
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, person"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "They shall lie down alike in the dust, and the worms shall cover them.",
+      "highlightedWords": [
+        {
+          "word": "dust",
+          "strongNumber": "H6083",
+          "lemma": "ʿāphār",
+          "meaning": "dust, dry earth"
+        },
+        {
+          "word": "worms",
+          "strongNumber": "H7415",
+          "lemma": "rimmah",
+          "meaning": "worms, maggots"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "Behold, I know your thoughts, and the devices which ye wrongfully imagine against me.",
+      "highlightedWords": [
+        {
+          "word": "thoughts",
+          "strongNumber": "H4284",
+          "lemma": "maḥăshāḇāh",
+          "meaning": "thought, plan, purpose"
+        },
+        {
+          "word": "devices",
+          "strongNumber": "H4209",
+          "lemma": "mezimmāh",
+          "meaning": "device, plan, scheme"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "For ye say, Where is the house of the prince? and where are the dwelling places of the wicked?",
+      "highlightedWords": [
+        {
+          "word": "prince",
+          "strongNumber": "H5057",
+          "lemma": "nāgîd",
+          "meaning": "leader, ruler, prince"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rashaʿ",
+          "meaning": "wicked, guilty, ungodly person"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "Have ye not asked them that go by the way? and do ye not know their tokens,",
+      "highlightedWords": [
+        {
+          "word": "way",
+          "strongNumber": "H1870",
+          "lemma": "déreḵ",
+          "meaning": "way, road, path"
+        },
+        {
+          "word": "know",
+          "strongNumber": "H3045",
+          "lemma": "yādaʿ",
+          "meaning": "to know, perceive"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "That the wicked is reserved to the day of destruction? they shall be brought forth to the day of wrath.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rashaʿ",
+          "meaning": "wicked, guilty, ungodly person"
+        },
+        {
+          "word": "wrath",
+          "strongNumber": "H5678",
+          "lemma": "ʿebrāh",
+          "meaning": "overflow, fury, wrath"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "Who shall declare his way to his face? and who shall repay him what he hath done?",
+      "highlightedWords": [
+        {
+          "word": "declare",
+          "strongNumber": "H5046",
+          "lemma": "nāgad",
+          "meaning": "to declare, announce, tell"
+        },
+        {
+          "word": "repay",
+          "strongNumber": "H7999",
+          "lemma": "shālam",
+          "meaning": "to repay, recompense, restore"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "Yet shall he be brought to the grave, and shall remain in the tomb.",
+      "highlightedWords": [
+        {
+          "word": "brought",
+          "strongNumber": "H2986",
+          "lemma": "yābal",
+          "meaning": "to bring, lead"
+        },
+        {
+          "word": "grave",
+          "strongNumber": "H6913",
+          "lemma": "qeḇer",
+          "meaning": "grave, burial place"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "The clods of the valley shall be sweet unto him, and every man shall draw after him, as there are innumerable before him.",
+      "highlightedWords": [
+        {
+          "word": "valley",
+          "strongNumber": "H1516",
+          "lemma": "gāy",
+          "meaning": "valley, lowland"
+        },
+        {
+          "word": "man",
+          "strongNumber": "H376",
+          "lemma": "ʾish",
+          "meaning": "man, individual, person"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "How then comfort ye me in vain, seeing in your answers there remaineth falsehood?",
+      "highlightedWords": [
+        {
+          "word": "comfort",
+          "strongNumber": "H5162",
+          "lemma": "nāḥam",
+          "meaning": "to comfort, console"
+        },
+        {
+          "word": "falsehood",
+          "strongNumber": "H8267",
+          "lemma": "šeqer",
+          "meaning": "deceit, falsehood, lie"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "book": "Psalms",
+  "chapter": 121,
+  "chapterTheme": {
+    "twoWordSummary": "Divine Protection",
+    "themeWords": [
+      {
+        "word": "help",
+        "strongNumber": "H5828",
+        "lemma": "'ezer",
+        "meaning": "help, support, assistance"
+      },
+      {
+        "word": "keeper",
+        "strongNumber": "H8104",
+        "lemma": "shamar",
+        "meaning": "to keep, guard, watch over"
+      }
+    ]
+  },
+  "sentenceTheme": "The LORD, vigilant and unfailing, guards His people day and night, providing steadfast help and preservation in all their ways.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "I will lift up mine eyes unto the hills, from whence cometh my help.",
+      "highlightedWords": [
+        {
+          "word": "hills",
+          "strongNumber": "H2022",
+          "lemma": "har",
+          "meaning": "mountain, hill"
+        },
+        {
+          "word": "help",
+          "strongNumber": "H5828",
+          "lemma": "'ezer",
+          "meaning": "help, support, assistance"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "My help cometh from the LORD, which made heaven and earth.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens, sky"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "He will not suffer thy foot to be moved: he that keepeth thee will not slumber.",
+      "highlightedWords": [
+        {
+          "word": "foot",
+          "strongNumber": "H7272",
+          "lemma": "regel",
+          "meaning": "foot"
+        },
+        {
+          "word": "moved",
+          "strongNumber": "H4131",
+          "lemma": "mowt",
+          "meaning": "to totter, slip, be moved"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Behold, he that keepeth Israel shall neither slumber nor sleep.",
+      "highlightedWords": [
+        {
+          "word": "keepeth",
+          "strongNumber": "H8104",
+          "lemma": "shamar",
+          "meaning": "to keep, guard, watch"
+        },
+        {
+          "word": "sleep",
+          "strongNumber": "H8142",
+          "lemma": "shenah",
+          "meaning": "sleep"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "The LORD is thy keeper: the LORD is thy shade upon thy right hand.",
+      "highlightedWords": [
+        {
+          "word": "keeper",
+          "strongNumber": "H8104",
+          "lemma": "shamar",
+          "meaning": "one who keeps, guards"
+        },
+        {
+          "word": "shade",
+          "strongNumber": "H6738",
+          "lemma": "tsel",
+          "meaning": "shade, shadow, protection"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "The sun shall not smite thee by day, nor the moon by night.",
+      "highlightedWords": [
+        {
+          "word": "sun",
+          "strongNumber": "H8121",
+          "lemma": "shemesh",
+          "meaning": "sun"
+        },
+        {
+          "word": "moon",
+          "strongNumber": "H3394",
+          "lemma": "yareach",
+          "meaning": "moon"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "The LORD shall preserve thee from all evil: he shall preserve thy soul.",
+      "highlightedWords": [
+        {
+          "word": "preserve",
+          "strongNumber": "H8104",
+          "lemma": "shamar",
+          "meaning": "to keep, guard, preserve"
+        },
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra'",
+          "meaning": "evil, harm, trouble"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "The LORD shall preserve thy going out and thy coming in from this time forth, and even for evermore.",
+      "highlightedWords": [
+        {
+          "word": "going",
+          "strongNumber": "H3318",
+          "lemma": "yatsa'",
+          "meaning": "to go out, depart"
+        },
+        {
+          "word": "coming",
+          "strongNumber": "H935",
+          "lemma": "bo'",
+          "meaning": "to come in, enter"
+        }
+      ]
+    }
+  ]
+}

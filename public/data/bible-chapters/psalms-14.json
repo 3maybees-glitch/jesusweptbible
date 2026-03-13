@@ -1,0 +1,150 @@
+{
+  "book": "Psalms",
+  "chapter": 14,
+  "chapterTheme": {
+    "twoWordSummary": "Human Depravity",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH",
+        "meaning": "The personal name of Israel’s God, the covenant LORD"
+      },
+      {
+        "word": "righteous",
+        "strongNumber": "H6662",
+        "lemma": "tsaddiq",
+        "meaning": "Righteous, just, in the right"
+      }
+    ]
+  },
+  "sentenceTheme": "David laments universal human corruption, affirms the LORD’s presence with the righteous, and longs for Israel’s salvation from Zion.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "The fool hath said in his heart, There is no God. They are corrupt, they have done abominable works, there is none that doeth good.",
+      "highlightedWords": [
+        {
+          "word": "fool",
+          "strongNumber": "H5036",
+          "lemma": "nabal",
+          "meaning": "Foolish, senseless, morally vile person"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God, mighty one; the true God"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "The LORD looked down from heaven upon the children of men, to see if there were any that did understand, and seek God.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of God, the LORD"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "Heavens, sky, the abode above"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "They are all gone aside, they are all together become filthy: there is none that doeth good, no, not one.",
+      "highlightedWords": [
+        {
+          "word": "good",
+          "strongNumber": "H2896",
+          "lemma": "tov",
+          "meaning": "Good, pleasant, beneficial"
+        },
+        {
+          "word": "one",
+          "strongNumber": "H259",
+          "lemma": "’echad",
+          "meaning": "One, single, united one"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Have all the workers of iniquity no knowledge? who eat up my people as they eat bread, and call not upon the LORD.",
+      "highlightedWords": [
+        {
+          "word": "iniquity",
+          "strongNumber": "H205",
+          "lemma": "’aven",
+          "meaning": "Iniquity, trouble, wickedness"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of God, the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "There were they in great fear: for God is in the generation of the righteous.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God, mighty one; the true God"
+        },
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "Righteous, just, in the right"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Ye have shamed the counsel of the poor, because the LORD is his refuge.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of God, the LORD"
+        },
+        {
+          "word": "refuge",
+          "strongNumber": "H4268",
+          "lemma": "machseh",
+          "meaning": "Refuge, shelter, place of trust"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Oh that the salvation of Israel were come out of Zion! when the LORD bringeth back the captivity of his people, Jacob shall rejoice, and Israel shall be glad.",
+      "highlightedWords": [
+        {
+          "word": "salvation",
+          "strongNumber": "H3444",
+          "lemma": "yeshu‘ah",
+          "meaning": "Salvation, deliverance, victory"
+        },
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyyon",
+          "meaning": "Zion, the hill of Jerusalem; by extension, Jerusalem"
+        }
+      ]
+    }
+  ]
+}

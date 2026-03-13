@@ -1,0 +1,582 @@
+{
+  "book": "Ezekiel",
+  "chapter": 22,
+  "chapterTheme": {
+    "twoWordSummary": "Bloody City",
+    "themeWords": [
+      {
+        "word": "blood",
+        "strongNumber": "H1818",
+        "lemma": "dam",
+        "meaning": "blood; bloodshed"
+      },
+      {
+        "word": "abominations",
+        "strongNumber": "H8441",
+        "lemma": "to'evah",
+        "meaning": "abomination; detestable thing"
+      }
+    ]
+  },
+  "sentenceTheme": "God indicts Jerusalem for bloodshed, idolatry, and systemic corruption among princes, priests, prophets, and people, and declares a refining judgment that will pour out His wrath.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Moreover the word of the LORD came unto me, saying,",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word; matter; message"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the personal, covenant name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Now, thou son of man, wilt thou judge, wilt thou judge the bloody city? yea, thou shalt shew her all her abominations.",
+      "highlightedWords": [
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant; member"
+        },
+        {
+          "word": "abominations",
+          "strongNumber": "H8441",
+          "lemma": "to'evah",
+          "meaning": "abomination; detestable thing; idolatry"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Then say thou, Thus saith the Lord GOD; The city sheddeth blood in the midst of it, that her time may come, and maketh idols against herself to defile herself.",
+      "highlightedWords": [
+        {
+          "word": "GOD",
+          "strongNumber": "H3069",
+          "lemma": "Yehovih",
+          "meaning": "form of the divine name used with Adonai; Lord GOD"
+        },
+        {
+          "word": "idols",
+          "strongNumber": "H1544",
+          "lemma": "gillulim",
+          "meaning": "idols; dungy things; detestable images"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Thou art become guilty in thy blood that thou hast shed; and hast defiled thyself in thine idols which thou hast made; and thou hast caused thy days to draw near, and art come even unto thy years: therefore have I made thee a reproach unto the heathen, and a mocking to all countries.",
+      "highlightedWords": [
+        {
+          "word": "reproach",
+          "strongNumber": "H2781",
+          "lemma": "cherpah",
+          "meaning": "reproach; disgrace; shame"
+        },
+        {
+          "word": "heathen",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation; peoples; Gentiles"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Those that be near, and those that be far from thee, shall mock thee, which art infamous and much vexed.",
+      "highlightedWords": [
+        {
+          "word": "near",
+          "strongNumber": "H7138",
+          "lemma": "qarob",
+          "meaning": "near; close; neighbor"
+        },
+        {
+          "word": "far",
+          "strongNumber": "H7350",
+          "lemma": "rachowq",
+          "meaning": "far; distant; remote"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Behold, the princes of Israel, every one were in thee to their power to shed blood.",
+      "highlightedWords": [
+        {
+          "word": "princes",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "prince; ruler; official"
+        },
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "blood; bloodshed"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "In thee have they set light by father and mother: in the midst of thee have they dealt by oppression with the stranger: in thee have they vexed the fatherless and the widow.",
+      "highlightedWords": [
+        {
+          "word": "stranger",
+          "strongNumber": "H1616",
+          "lemma": "ger",
+          "meaning": "sojourner; resident alien; stranger"
+        },
+        {
+          "word": "fatherless",
+          "strongNumber": "H3490",
+          "lemma": "yathom",
+          "meaning": "orphan; fatherless child"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Thou hast despised mine holy things, and hast profaned my sabbaths.",
+      "highlightedWords": [
+        {
+          "word": "holy",
+          "strongNumber": "H6944",
+          "lemma": "qodesh",
+          "meaning": "holy; sacred; set-apart"
+        },
+        {
+          "word": "sabbaths",
+          "strongNumber": "H7676",
+          "lemma": "shabbath",
+          "meaning": "Sabbath; day of rest"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "In thee are men that carry tales to shed blood: and in thee they eat upon the mountains: in the midst of thee they commit lewdness.",
+      "highlightedWords": [
+        {
+          "word": "mountains",
+          "strongNumber": "H2022",
+          "lemma": "har",
+          "meaning": "mountain; hill country"
+        },
+        {
+          "word": "lewdness",
+          "strongNumber": "H2154",
+          "lemma": "zimmah",
+          "meaning": "lewdness; wicked plan; infamy"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "In thee have they discovered their fathers' nakedness: in thee have they humbled her that was set apart for pollution.",
+      "highlightedWords": [
+        {
+          "word": "nakedness",
+          "strongNumber": "H6172",
+          "lemma": "ervah",
+          "meaning": "nakedness; shame; indecency"
+        },
+        {
+          "word": "pollution",
+          "strongNumber": "H5079",
+          "lemma": "niddah",
+          "meaning": "impurity; menstruation; ceremonial uncleanness"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And one hath committed abomination with his neighbour's wife; and another hath lewdly defiled his daughter in law; and another in thee hath humbled his sister, his father's daughter.",
+      "highlightedWords": [
+        {
+          "word": "abomination",
+          "strongNumber": "H8441",
+          "lemma": "to'evah",
+          "meaning": "abomination; detestable thing"
+        },
+        {
+          "word": "sister",
+          "strongNumber": "H269",
+          "lemma": "achoth",
+          "meaning": "sister; female relative"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "In thee have they taken gifts to shed blood; thou hast taken usury and increase, and thou hast greedily gained of thy neighbours by extortion, and hast forgotten me, saith the Lord GOD.",
+      "highlightedWords": [
+        {
+          "word": "usury",
+          "strongNumber": "H5392",
+          "lemma": "neshek",
+          "meaning": "interest; usury"
+        },
+        {
+          "word": "neighbours",
+          "strongNumber": "H7453",
+          "lemma": "rea'",
+          "meaning": "friend; companion; neighbor"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Behold, therefore I have smitten mine hand at thy dishonest gain which thou hast made, and at thy blood which hath been in the midst of thee.",
+      "highlightedWords": [
+        {
+          "word": "gain",
+          "strongNumber": "H1215",
+          "lemma": "betsa'",
+          "meaning": "unjust gain; profit; plunder"
+        },
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "blood; bloodshed"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Can thine heart endure, or can thine hands be strong, in the days that I shall deal with thee? I the LORD have spoken it, and will do it.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart; inner person; mind"
+        },
+        {
+          "word": "hands",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand; power; strength"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And I will scatter thee among the heathen, and disperse thee in the countries, and will consume thy filthiness out of thee.",
+      "highlightedWords": [
+        {
+          "word": "heathen",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation; peoples; Gentiles"
+        },
+        {
+          "word": "countries",
+          "strongNumber": "H776",
+          "lemma": "eretz",
+          "meaning": "land; earth; territory"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And thou shalt take thine inheritance in thyself in the sight of the heathen, and thou shalt know that I am the LORD.",
+      "highlightedWords": [
+        {
+          "word": "inheritance",
+          "strongNumber": "H5159",
+          "lemma": "nachalah",
+          "meaning": "inheritance; possession; heritage"
+        },
+        {
+          "word": "heathen",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation; peoples; Gentiles"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And the word of the LORD came unto me, saying,",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word; matter; message"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the personal, covenant name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Son of man, the house of Israel is to me become dross: all they are brass, and tin, and iron, and lead, in the midst of the furnace; they are even the dross of silver.",
+      "highlightedWords": [
+        {
+          "word": "dross",
+          "strongNumber": "H5509",
+          "lemma": "sig",
+          "meaning": "dross; refuse from smelting"
+        },
+        {
+          "word": "silver",
+          "strongNumber": "H3701",
+          "lemma": "keseph",
+          "meaning": "silver; money"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Therefore thus saith the Lord GOD; Because ye are all become dross, behold, therefore I will gather you into the midst of Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "GOD",
+          "strongNumber": "H3069",
+          "lemma": "Yehovih",
+          "meaning": "form of the divine name used with Adonai; Lord GOD"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem, the chief city of Israel/Judah"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "As they gather silver, and brass, and iron, and lead, and tin, into the midst of the furnace, to blow the fire upon it, to melt it; so will I gather you in mine anger and in my fury, and I will leave you there, and melt you.",
+      "highlightedWords": [
+        {
+          "word": "anger",
+          "strongNumber": "H639",
+          "lemma": "aph",
+          "meaning": "nostril; anger; wrath"
+        },
+        {
+          "word": "fury",
+          "strongNumber": "H2534",
+          "lemma": "chemah",
+          "meaning": "heat; rage; fury; wrath"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Yea, I will gather you, and blow upon you in the fire of my wrath, and ye shall be melted in the midst thereof.",
+      "highlightedWords": [
+        {
+          "word": "wrath",
+          "strongNumber": "H2534",
+          "lemma": "chemah",
+          "meaning": "heat; rage; fury; wrath"
+        },
+        {
+          "word": "midst",
+          "strongNumber": "H8432",
+          "lemma": "tavek",
+          "meaning": "midst; middle; among"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "As silver is melted in the midst of the furnace, so shall ye be melted in the midst thereof; and ye shall know that I the LORD have poured out my fury upon you.",
+      "highlightedWords": [
+        {
+          "word": "silver",
+          "strongNumber": "H3701",
+          "lemma": "keseph",
+          "meaning": "silver; money"
+        },
+        {
+          "word": "poured",
+          "strongNumber": "H8210",
+          "lemma": "shaphak",
+          "meaning": "to pour out; to shed"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And the word of the LORD came unto me, saying,",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word; matter; message"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the personal, covenant name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Son of man, say unto her, Thou art the land that is not cleansed, nor rained upon in the day of indignation.",
+      "highlightedWords": [
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "eretz",
+          "meaning": "land; earth; country"
+        },
+        {
+          "word": "indignation",
+          "strongNumber": "H2195",
+          "lemma": "za'am",
+          "meaning": "indignation; anger; wrath"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "There is a conspiracy of her prophets in the midst thereof, like a roaring lion ravening the prey; they have devoured souls; they have taken the treasure and precious things; they have made her many widows in the midst thereof.",
+      "highlightedWords": [
+        {
+          "word": "prophets",
+          "strongNumber": "H5030",
+          "lemma": "navi'",
+          "meaning": "prophet; spokesperson"
+        },
+        {
+          "word": "widows",
+          "strongNumber": "H490",
+          "lemma": "almanah",
+          "meaning": "widow; bereaved woman"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "Her priests have violated my law, and have profaned mine holy things: they have put no difference between the holy and profane, neither have they shewed difference between the unclean and the clean, and have hid their eyes from my sabbaths, and I am profaned among them.",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest; minister"
+        },
+        {
+          "word": "sabbaths",
+          "strongNumber": "H7676",
+          "lemma": "shabbath",
+          "meaning": "Sabbath; day of rest"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "Her princes in the midst thereof are like wolves ravening the prey, to shed blood, and to destroy souls, to get dishonest gain.",
+      "highlightedWords": [
+        {
+          "word": "princes",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "prince; ruler; official"
+        },
+        {
+          "word": "wolves",
+          "strongNumber": "H2061",
+          "lemma": "ze'ev",
+          "meaning": "wolf"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And her prophets have daubed them with untempered morter, seeing vanity, and divining lies unto them, saying, Thus saith the Lord GOD, when the LORD hath not spoken.",
+      "highlightedWords": [
+        {
+          "word": "prophets",
+          "strongNumber": "H5030",
+          "lemma": "navi'",
+          "meaning": "prophet; spokesperson"
+        },
+        {
+          "word": "lies",
+          "strongNumber": "H3577",
+          "lemma": "kazab",
+          "meaning": "lie; falsehood; deception"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "The people of the land have used oppression, and exercised robbery, and have vexed the poor and needy: yea, they have oppressed the stranger wrongfully.",
+      "highlightedWords": [
+        {
+          "word": "oppression",
+          "strongNumber": "H6233",
+          "lemma": "osheq",
+          "meaning": "oppression; extortion; injustice"
+        },
+        {
+          "word": "stranger",
+          "strongNumber": "H1616",
+          "lemma": "ger",
+          "meaning": "sojourner; resident alien; stranger"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "And I sought for a man among them, that should make up the hedge, and stand in the gap before me for the land, that I should not destroy it: but I found none.",
+      "highlightedWords": [
+        {
+          "word": "hedge",
+          "strongNumber": "H1447",
+          "lemma": "gader",
+          "meaning": "wall; fence; hedge"
+        },
+        {
+          "word": "gap",
+          "strongNumber": "H6556",
+          "lemma": "perets",
+          "meaning": "breach; gap; rupture"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "Therefore have I poured out mine indignation upon them; I have consumed them with the fire of my wrath: their own way have I recompensed upon their heads, saith the Lord GOD.",
+      "highlightedWords": [
+        {
+          "word": "indignation",
+          "strongNumber": "H2195",
+          "lemma": "za'am",
+          "meaning": "indignation; anger; wrath"
+        },
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "esh",
+          "meaning": "fire"
+        }
+      ]
+    }
+  ]
+}

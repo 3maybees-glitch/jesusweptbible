@@ -1,0 +1,150 @@
+{
+  "book": "Jeremiah",
+  "chapter": 47,
+  "chapterTheme": {
+    "twoWordSummary": "Philistine Judgment",
+    "themeWords": [
+      {
+        "word": "Philistines",
+        "strongNumber": "H6430",
+        "lemma": "Pelishtiy",
+        "meaning": "Philistines; people of Philistia"
+      },
+      {
+        "word": "sword",
+        "strongNumber": "H2719",
+        "lemma": "chereb",
+        "meaning": "sword; instrument of war"
+      }
+    ]
+  },
+  "sentenceTheme": "A prophecy declares devastating judgment from the north upon the Philistines—Gaza and Ashkelon included—by the LORD’s unsheathed sword.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "The word of the LORD that came to Jeremiah the prophet against the Philistines, before that Pharaoh smote Gaza.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yahweh)",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pelishtiy",
+          "meaning": "Philistines; people of Philistia"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Thus saith the LORD; Behold, waters rise up out of the north, and shall be an overflowing flood, and shall overflow the land, and all that is therein; the city, and them that dwell therein: then the men shall cry, and all the inhabitants of the land shall howl.",
+      "highlightedWords": [
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters; floods"
+        },
+        {
+          "word": "north",
+          "strongNumber": "H6828",
+          "lemma": "tsaphon",
+          "meaning": "north; northern region"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "At the noise of the stamping of the hoofs of his strong horses, at the rushing of his chariots, and at the rumbling of his wheels, the fathers shall not look back to their children for feebleness of hands;",
+      "highlightedWords": [
+        {
+          "word": "horses",
+          "strongNumber": "H5483",
+          "lemma": "sus",
+          "meaning": "horse; warhorse"
+        },
+        {
+          "word": "chariots",
+          "strongNumber": "H7393",
+          "lemma": "rekeb",
+          "meaning": "chariot; chariotry"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Because of the day that cometh to spoil all the Philistines, and to cut off from Tyrus and Zidon every helper that remaineth: for the LORD will spoil the Philistines, the remnant of the country of Caphtor.",
+      "highlightedWords": [
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pelishtiy",
+          "meaning": "Philistines; people of Philistia"
+        },
+        {
+          "word": "Caphtor",
+          "strongNumber": "H3731",
+          "lemma": "Kaphtor",
+          "meaning": "Caphtor; region associated with the origin of the Philistines"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Baldness is come upon Gaza; Ashkelon is cut off with the remnant of their valley: how long wilt thou cut thyself?",
+      "highlightedWords": [
+        {
+          "word": "Gaza",
+          "strongNumber": "H5804",
+          "lemma": "Azzah",
+          "meaning": "Gaza; Philistine city"
+        },
+        {
+          "word": "Ashkelon",
+          "strongNumber": "H831",
+          "lemma": "Ashqelon",
+          "meaning": "Ashkelon; Philistine city"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "O thou sword of the LORD, how long will it be ere thou be quiet? put up thyself into thy scabbard, rest, and be still.",
+      "highlightedWords": [
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword; weapon"
+        },
+        {
+          "word": "scabbard",
+          "strongNumber": "H8593",
+          "lemma": "nadan",
+          "meaning": "sheath; scabbard"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "How can it be quiet, seeing the LORD hath given it a charge against Ashkelon, and against the sea shore? there hath he appointed it.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yahweh)",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "Ashkelon",
+          "strongNumber": "H831",
+          "lemma": "Ashqelon",
+          "meaning": "Ashkelon; Philistine city"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "book": "Psalms",
+  "chapter": 5,
+  "chapterTheme": {
+    "twoWordSummary": "Morning Prayer",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "יהוה",
+        "meaning": "The personal name of Israel’s God; rendered as LORD (Yahweh/Jehovah)."
+      },
+      {
+        "word": "righteousness",
+        "strongNumber": "H6664",
+        "lemma": "צֶדֶק",
+        "meaning": "Righteousness, justice, rightness; conformity to God’s standard."
+      }
+    ]
+  },
+  "sentenceTheme": "David offers a morning plea for the LORD’s righteous guidance and protective favor against the wicked.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Give ear to my words, O LORD, consider my meditation.",
+      "highlightedWords": [
+        {
+          "word": "words",
+          "strongNumber": "H1697",
+          "lemma": "דָּבָר",
+          "meaning": "Word, matter, message; spoken or written communication."
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "יהוה",
+          "meaning": "The personal name of Israel’s God; rendered as LORD (Yahweh/Jehovah)."
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Hearken unto the voice of my cry, my King, and my God: for unto thee will I pray.",
+      "highlightedWords": [
+        {
+          "word": "King",
+          "strongNumber": "H4428",
+          "lemma": "מֶלֶךְ",
+          "meaning": "King, ruler; one who reigns with authority."
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "אֱלֹהִים",
+          "meaning": "God; the supreme God (also used of gods/judges in some contexts)."
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "My voice shalt thou hear in the morning, O LORD; in the morning will I direct my prayer unto thee, and will look up.",
+      "highlightedWords": [
+        {
+          "word": "morning",
+          "strongNumber": "H1242",
+          "lemma": "בֹּקֶר",
+          "meaning": "Morning, dawn; the early part of the day."
+        },
+        {
+          "word": "prayer",
+          "strongNumber": "H8605",
+          "lemma": "תְּפִלָּה",
+          "meaning": "Prayer, supplication; a petition addressed to God."
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "For thou art not a God that hath pleasure in wickedness: neither shall evil dwell with thee.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "אֱלֹהִים",
+          "meaning": "God; the supreme God (also used of gods/judges in some contexts)."
+        },
+        {
+          "word": "wickedness",
+          "strongNumber": "H7562",
+          "lemma": "רֶשַׁע",
+          "meaning": "Wickedness, injustice, wrong; moral evil or guilt."
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "The foolish shall not stand in thy sight: thou hatest all workers of iniquity.",
+      "highlightedWords": [
+        {
+          "word": "hatest",
+          "strongNumber": "H8130",
+          "lemma": "שָׂנֵא",
+          "meaning": "To hate, detest; to regard with aversion."
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H205",
+          "lemma": "אָוֶן",
+          "meaning": "Iniquity, trouble, vanity; perversity or wickedness."
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Thou shalt destroy them that speak leasing: the LORD will abhor the bloody and deceitful man.",
+      "highlightedWords": [
+        {
+          "word": "leasing",
+          "strongNumber": "H3577",
+          "lemma": "כָּזָב",
+          "meaning": "Falsehood, lie, deceit."
+        },
+        {
+          "word": "abhor",
+          "strongNumber": "H8581",
+          "lemma": "תָּעַב",
+          "meaning": "To abhor, detest; to regard as abominable."
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "But as for me, I will come into thy house in the multitude of thy mercy: and in thy fear will I worship toward thy holy temple.",
+      "highlightedWords": [
+        {
+          "word": "mercy",
+          "strongNumber": "H2617",
+          "lemma": "חֶסֶד",
+          "meaning": "Lovingkindness, covenant loyalty, mercy."
+        },
+        {
+          "word": "worship",
+          "strongNumber": "H7812",
+          "lemma": "שָׁחָה",
+          "meaning": "To bow down, prostrate oneself; to worship."
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Lead me, O LORD, in thy righteousness because of mine enemies; make thy way straight before my face.",
+      "highlightedWords": [
+        {
+          "word": "righteousness",
+          "strongNumber": "H6664",
+          "lemma": "צֶדֶק",
+          "meaning": "Righteousness, justice, rightness; conformity to God’s standard."
+        },
+        {
+          "word": "way",
+          "strongNumber": "H1870",
+          "lemma": "דֶּרֶךְ",
+          "meaning": "Way, road, path; manner or course of life."
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "For there is no faithfulness in their mouth; their inward part is very wickedness; their throat is an open sepulchre; they flatter with their tongue.",
+      "highlightedWords": [
+        {
+          "word": "throat",
+          "strongNumber": "H1627",
+          "lemma": "גָּרוֹן",
+          "meaning": "Throat; the organ of speech and breathing."
+        },
+        {
+          "word": "tongue",
+          "strongNumber": "H3956",
+          "lemma": "לָשׁוֹן",
+          "meaning": "Tongue; language or speech."
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Destroy thou them, O God; let them fall by their own counsels; cast them out in the multitude of their transgressions; for they have rebelled against thee.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "אֱלֹהִים",
+          "meaning": "God; the supreme God (also used of gods/judges in some contexts)."
+        },
+        {
+          "word": "transgressions",
+          "strongNumber": "H6588",
+          "lemma": "פֶּשַׁע",
+          "meaning": "Transgression, rebellion; willful breach of law."
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "But let all those that put their trust in thee rejoice: let them ever shout for joy, because thou defendest them: let them also that love thy name be joyful in thee.",
+      "highlightedWords": [
+        {
+          "word": "trust",
+          "strongNumber": "H2620",
+          "lemma": "חָסָה",
+          "meaning": "To seek refuge, take shelter; to trust."
+        },
+        {
+          "word": "defendest",
+          "strongNumber": "H5526",
+          "lemma": "סָכַךְ",
+          "meaning": "To cover, hedge in; to protect or defend."
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "For thou, LORD, wilt bless the righteous; with favour wilt thou compass him as with a shield.",
+      "highlightedWords": [
+        {
+          "word": "bless",
+          "strongNumber": "H1288",
+          "lemma": "בָּרַךְ",
+          "meaning": "To bless, endue with power for prosperity and well-being."
+        },
+        {
+          "word": "shield",
+          "strongNumber": "H6793",
+          "lemma": "צִנָּה",
+          "meaning": "Large shield, buckler; protective covering in battle."
+        }
+      ]
+    }
+  ]
+}

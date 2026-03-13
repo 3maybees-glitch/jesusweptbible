@@ -1,0 +1,492 @@
+{
+  "book": "Ezekiel",
+  "chapter": 28,
+  "chapterTheme": {
+    "twoWordSummary": "Tyre Judged",
+    "themeWords": [
+      {
+        "word": "Tyrus",
+        "strongNumber": "H6865",
+        "lemma": "Tsor",
+        "meaning": "Tyre, a Phoenician city; rock"
+      },
+      {
+        "word": "cherub",
+        "strongNumber": "H3742",
+        "lemma": "kerub",
+        "meaning": "cherub, an angelic/heavenly being"
+      }
+    ]
+  },
+  "sentenceTheme": "God pronounces judgment on the proud ruler of Tyre, laments over the king of Tyre’s fall from exalted beauty to ruin, warns Zidon, and promises Israel’s future security.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "The word of the LORD came again unto me, saying,",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, thing, utterance"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Son of man, say unto the prince of Tyrus, Thus saith the Lord GOD; Because thine heart is lifted up, and thou hast said, I am a God, I sit in the seat of God, in the midst of the seas; yet thou art a man, and not God, though thou set thine heart as the heart of God:",
+      "highlightedWords": [
+        {
+          "word": "Tyrus",
+          "strongNumber": "H6865",
+          "lemma": "Tsor",
+          "meaning": "Tyre, a Phoenician city; rock"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner being, mind, will"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Behold, thou art wiser than Daniel; there is no secret that they can hide from thee:",
+      "highlightedWords": [
+        {
+          "word": "Behold",
+          "strongNumber": "H2009",
+          "lemma": "hinneh",
+          "meaning": "behold!, look!, see!"
+        },
+        {
+          "word": "Daniel",
+          "strongNumber": "H1840",
+          "lemma": "Daniyyel",
+          "meaning": "Daniel; God is my judge"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "With thy wisdom and with thine understanding thou hast gotten thee riches, and hast gotten gold and silver into thy treasures:",
+      "highlightedWords": [
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "wisdom, skill"
+        },
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "zahab",
+          "meaning": "gold"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "By thy great wisdom and by thy traffick hast thou increased thy riches, and thine heart is lifted up because of thy riches:",
+      "highlightedWords": [
+        {
+          "word": "traffick",
+          "strongNumber": "H7404",
+          "lemma": "rekullah",
+          "meaning": "trade, traffic, merchandise"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner being, mind, will"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Therefore thus saith the Lord GOD; Because thou hast set thine heart as the heart of God;",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "H136",
+          "lemma": "Adonay",
+          "meaning": "Lord, master (used as a proper name of God)"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner being, mind, will"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Behold, therefore I will bring strangers upon thee, the terrible of the nations: and they shall draw their swords against the beauty of thy wisdom, and they shall defile thy brightness.",
+      "highlightedWords": [
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "goyim",
+          "meaning": "nations, peoples, Gentiles"
+        },
+        {
+          "word": "swords",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "They shall bring thee down to the pit, and thou shalt die the deaths of them that are slain in the midst of the seas.",
+      "highlightedWords": [
+        {
+          "word": "midst",
+          "strongNumber": "H8432",
+          "lemma": "tavek",
+          "meaning": "midst, among"
+        },
+        {
+          "word": "seas",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "sea"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Wilt thou yet say before him that slayeth thee, I am God? but thou shalt be a man, and no God, in the hand of him that slayeth thee.",
+      "highlightedWords": [
+        {
+          "word": "man",
+          "strongNumber": "H120",
+          "lemma": "adam",
+          "meaning": "man, mankind"
+        },
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Thou shalt die the deaths of the uncircumcised by the hand of strangers: for I have spoken it, saith the Lord GOD.",
+      "highlightedWords": [
+        {
+          "word": "uncircumcised",
+          "strongNumber": "H6189",
+          "lemma": "arel",
+          "meaning": "uncircumcised"
+        },
+        {
+          "word": "strangers",
+          "strongNumber": "H2114",
+          "lemma": "zur",
+          "meaning": "strangers, foreigners"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Moreover the word of the LORD came unto me, saying,",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, thing, utterance"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Son of man, take up a lamentation upon the king of Tyrus, and say unto him, Thus saith the Lord GOD; Thou sealest up the sum, full of wisdom, and perfect in beauty.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        },
+        {
+          "word": "Tyrus",
+          "strongNumber": "H6865",
+          "lemma": "Tsor",
+          "meaning": "Tyre, a Phoenician city; rock"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Thou hast been in Eden the garden of God; every precious stone was thy covering, the sardius, topaz, and the diamond, the beryl, the onyx, and the jasper, the sapphire, the emerald, and the carbuncle, and gold: the workmanship of thy tabrets and of thy pipes was prepared in thee in the day that thou wast created.",
+      "highlightedWords": [
+        {
+          "word": "Eden",
+          "strongNumber": "H5731",
+          "lemma": "Eden",
+          "meaning": "Eden, place of delight"
+        },
+        {
+          "word": "garden",
+          "strongNumber": "H1588",
+          "lemma": "gan",
+          "meaning": "garden, enclosure"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Thou art the anointed cherub that covereth; and I have set thee so: thou wast upon the holy mountain of God; thou hast walked up and down in the midst of the stones of fire.",
+      "highlightedWords": [
+        {
+          "word": "cherub",
+          "strongNumber": "H3742",
+          "lemma": "kerub",
+          "meaning": "cherub, an angelic/heavenly being"
+        },
+        {
+          "word": "mountain",
+          "strongNumber": "H2022",
+          "lemma": "har",
+          "meaning": "mountain, hill"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Thou wast perfect in thy ways from the day that thou wast created, till iniquity was found in thee.",
+      "highlightedWords": [
+        {
+          "word": "perfect",
+          "strongNumber": "H8549",
+          "lemma": "tamim",
+          "meaning": "complete, blameless, perfect"
+        },
+        {
+          "word": "ways",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way, path, manner"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "By the multitude of thy merchandise they have filled the midst of thee with violence, and thou hast sinned: therefore I will cast thee as profane out of the mountain of God: and I will destroy thee, O covering cherub, from the midst of the stones of fire.",
+      "highlightedWords": [
+        {
+          "word": "merchandise",
+          "strongNumber": "H7404",
+          "lemma": "rekullah",
+          "meaning": "trade, traffic, merchandise"
+        },
+        {
+          "word": "violence",
+          "strongNumber": "H2555",
+          "lemma": "chamas",
+          "meaning": "violence, wrong, cruelty"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Thine heart was lifted up because of thy beauty, thou hast corrupted thy wisdom by reason of thy brightness: I will cast thee to the ground, I will lay thee before kings, that they may behold thee.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner being, mind, will"
+        },
+        {
+          "word": "kings",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Thou hast defiled thy sanctuaries by the multitude of thine iniquities, by the iniquity of thy traffick; therefore will I bring forth a fire from the midst of thee, it shall devour thee, and I will bring thee to ashes upon the earth in the sight of all them that behold thee.",
+      "highlightedWords": [
+        {
+          "word": "sanctuaries",
+          "strongNumber": "H4720",
+          "lemma": "miqdash",
+          "meaning": "sanctuary, holy place"
+        },
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "’esh",
+          "meaning": "fire"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "All they that know thee among the people shall be astonished at thee: thou shalt be a terror, and never shalt thou be any more.",
+      "highlightedWords": [
+        {
+          "word": "know",
+          "strongNumber": "H3045",
+          "lemma": "yada‘",
+          "meaning": "to know, perceive"
+        },
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "‘am",
+          "meaning": "people, nation"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Again the word of the LORD came unto me, saying,",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, thing, utterance"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Son of man, set thy face against Zidon, and prophesy against it,",
+      "highlightedWords": [
+        {
+          "word": "Son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son"
+        },
+        {
+          "word": "Zidon",
+          "strongNumber": "H6721",
+          "lemma": "Tsidon",
+          "meaning": "Sidon, a Phoenician city"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And say, Thus saith the Lord GOD; Behold, I am against thee, O Zidon; and I will be glorified in the midst of thee: and they shall know that I am the LORD, when I shall have executed judgments in her, and shall be sanctified in her.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the proper name of the God of Israel"
+        },
+        {
+          "word": "judgments",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "judgment, justice, legal decision"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "For I will send into her pestilence, and blood into her streets; and the wounded shall be judged in the midst of her by the sword upon her on every side; and they shall know that I am the LORD.",
+      "highlightedWords": [
+        {
+          "word": "pestilence",
+          "strongNumber": "H1698",
+          "lemma": "deber",
+          "meaning": "pestilence, plague"
+        },
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And there shall be no more a pricking brier unto the house of Israel, nor any grieving thorn of all that are round about them, that despised them; and they shall know that I am the Lord GOD.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra’el",
+          "meaning": "Israel"
+        },
+        {
+          "word": "know",
+          "strongNumber": "H3045",
+          "lemma": "yada‘",
+          "meaning": "to know, perceive"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Thus saith the Lord GOD; When I shall have gathered the house of Israel from the people among whom they are scattered, and shall be sanctified in them in the sight of the heathen, then shall they dwell in their land that I have given to my servant Jacob.",
+      "highlightedWords": [
+        {
+          "word": "gathered",
+          "strongNumber": "H6908",
+          "lemma": "qabats",
+          "meaning": "to gather, collect, assemble"
+        },
+        {
+          "word": "Jacob",
+          "strongNumber": "H3290",
+          "lemma": "Ya‘aqob",
+          "meaning": "Jacob"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And they shall dwell safely therein, and shall build houses, and plant vineyards; yea, they shall dwell with confidence, when I have executed judgments upon all those that despise them round about them; and they shall know that I am the LORD their God.",
+      "highlightedWords": [
+        {
+          "word": "vineyards",
+          "strongNumber": "H3754",
+          "lemma": "kerem",
+          "meaning": "vineyard"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    }
+  ]
+}

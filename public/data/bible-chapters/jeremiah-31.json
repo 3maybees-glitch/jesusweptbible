@@ -1,0 +1,744 @@
+{
+  "book": "Jeremiah",
+  "chapter": 31,
+  "chapterTheme": {
+    "twoWordSummary": "New Covenant",
+    "themeWords": [
+      {
+        "word": "covenant",
+        "strongNumber": "H1285",
+        "lemma": "berith",
+        "meaning": "a binding agreement; treaty; divine pact"
+      },
+      {
+        "word": "heart",
+        "strongNumber": "H3820",
+        "lemma": "lev",
+        "meaning": "inner person; mind; will; feelings"
+      }
+    ]
+  },
+  "sentenceTheme": "Jeremiah proclaims Israel’s restoration and the promise of a new covenant written on the heart, assuring enduring mercy and the city’s future holiness.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "At the same time, saith the LORD, will I be the God of all the families of Israel, and they shall be my people.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; Jacob’s descendants; the covenant people"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Thus saith the LORD, The people which were left of the sword found grace in the wilderness; even Israel, when I went to cause him to rest.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbar",
+          "meaning": "desert; uninhabited land; pasture"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "The LORD hath appeared of old unto me, saying, Yea, I have loved thee with an everlasting love: therefore with lovingkindness have I drawn thee.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "everlasting",
+          "strongNumber": "H5769",
+          "lemma": "olam",
+          "meaning": "eternal; perpetual; without end"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Again I will build thee, and thou shalt be built, O virgin of Israel: thou shalt again be adorned with thy tabrets, and shalt go forth in the dances of them that make merry.",
+      "highlightedWords": [
+        {
+          "word": "virgin",
+          "strongNumber": "H1330",
+          "lemma": "betulah",
+          "meaning": "maiden; unmarried young woman"
+        },
+        {
+          "word": "tabrets",
+          "strongNumber": "H8596",
+          "lemma": "toph",
+          "meaning": "hand-drum; timbrel"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Thou shalt yet plant vines upon the mountains of Samaria: the planters shall plant, and shall eat them as common things.",
+      "highlightedWords": [
+        {
+          "word": "plant",
+          "strongNumber": "H5193",
+          "lemma": "nata'",
+          "meaning": "to plant; set in the ground"
+        },
+        {
+          "word": "vines",
+          "strongNumber": "H1612",
+          "lemma": "gephen",
+          "meaning": "vine; grapevine"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "For there shall be a day, that the watchmen upon the mount Ephraim shall cry, Arise ye, and let us go up to Zion unto the LORD our God.",
+      "highlightedWords": [
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyon",
+          "meaning": "Zion; the hill/city of Jerusalem; spiritual center"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "For thus saith the LORD; Sing with gladness for Jacob, and shout among the chief of the nations: publish ye, praise ye, and say, O LORD, save thy people, the remnant of Israel.",
+      "highlightedWords": [
+        {
+          "word": "Jacob",
+          "strongNumber": "H3290",
+          "lemma": "Ya'aqov",
+          "meaning": "Jacob; Israel the patriarch; by extension the nation"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Behold, I will bring them from the north country, and gather them from the coasts of the earth, and with them the blind and the lame, the woman with child and her that travaileth with child together: a great company shall return thither.",
+      "highlightedWords": [
+        {
+          "word": "north",
+          "strongNumber": "H6828",
+          "lemma": "tsaphon",
+          "meaning": "north; northern region"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H0776",
+          "lemma": "eretz",
+          "meaning": "land; earth; ground"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "They shall come with weeping, and with supplications will I lead them: I will cause them to walk by the rivers of waters in a straight way, wherein they shall not stumble: for I am a father to Israel, and Ephraim is my firstborn.",
+      "highlightedWords": [
+        {
+          "word": "weeping",
+          "strongNumber": "H1065",
+          "lemma": "bekhi",
+          "meaning": "weeping; lamentation"
+        },
+        {
+          "word": "Ephraim",
+          "strongNumber": "H0669",
+          "lemma": "Ephrayim",
+          "meaning": "Ephraim; a tribe and the northern kingdom by extension"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Hear the word of the LORD, O ye nations, and declare it in the isles afar off, and say, He that scattered Israel will gather him, and keep him, as a shepherd doth his flock.",
+      "highlightedWords": [
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "goyim",
+          "meaning": "nations; peoples; Gentiles"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "For the LORD hath redeemed Jacob, and ransomed him from the hand of him that was stronger than he.",
+      "highlightedWords": [
+        {
+          "word": "redeemed",
+          "strongNumber": "H1350",
+          "lemma": "ga'al",
+          "meaning": "to redeem; act as kinsman-redeemer"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Therefore they shall come and sing in the height of Zion, and shall flow together to the goodness of the LORD, for wheat, and for wine, and for oil, and for the young of the flock and of the herd: and their soul shall be as a watered garden; and they shall not sorrow any more at all.",
+      "highlightedWords": [
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyon",
+          "meaning": "Zion; the hill/city of Jerusalem; spiritual center"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Then shall the virgin rejoice in the dance, both young men and old together: for I will turn their mourning into joy, and will comfort them, and make them rejoice from their sorrow.",
+      "highlightedWords": [
+        {
+          "word": "virgin",
+          "strongNumber": "H1330",
+          "lemma": "betulah",
+          "meaning": "maiden; unmarried young woman"
+        },
+        {
+          "word": "mourning",
+          "strongNumber": "H0060",
+          "lemma": "'ebel",
+          "meaning": "mourning; grief"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And I will satiate the soul of the priests with fatness, and my people shall be satisfied with my goodness, saith the LORD.",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest; minister in sacred service"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Thus saith the LORD; A voice was heard in Ramah, lamentation, and bitter weeping; Rahel weeping for her children refused to be comforted for her children, because they were not.",
+      "highlightedWords": [
+        {
+          "word": "Rahel",
+          "strongNumber": "H7354",
+          "lemma": "Rachel",
+          "meaning": "Rachel; Jacob’s wife; matriarch of Israel"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Thus saith the LORD; Refrain thy voice from weeping, and thine eyes from tears: for thy work shall be rewarded, saith the LORD; and they shall come again from the land of the enemy.",
+      "highlightedWords": [
+        {
+          "word": "enemy",
+          "strongNumber": "H0341",
+          "lemma": "oyev",
+          "meaning": "enemy; foe"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And there is hope in thine end, saith the LORD, that thy children shall come again to their own border.",
+      "highlightedWords": [
+        {
+          "word": "hope",
+          "strongNumber": "H8615",
+          "lemma": "tiqvah",
+          "meaning": "hope; expectation"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "I have surely heard Ephraim bemoaning himself thus; Thou hast chastised me, and I was chastised, as a bullock unaccustomed to the yoke: turn thou me, and I shall be turned; for thou art the LORD my God.",
+      "highlightedWords": [
+        {
+          "word": "Ephraim",
+          "strongNumber": "H0669",
+          "lemma": "Ephrayim",
+          "meaning": "Ephraim; a tribe and the northern kingdom by extension"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Surely after that I was turned, I repented; and after that I was instructed, I smote upon my thigh: I was ashamed, yea, even confounded, because I did bear the reproach of my youth.",
+      "highlightedWords": [
+        {
+          "word": "repented",
+          "strongNumber": "H5162",
+          "lemma": "nacham",
+          "meaning": "to be sorry; repent; be comforted"
+        },
+        {
+          "word": "ashamed",
+          "strongNumber": "H0954",
+          "lemma": "bosh",
+          "meaning": "to be ashamed; confounded"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Is Ephraim my dear son? is he a pleasant child? for since I spake against him, I do earnestly remember him still: therefore my bowels are troubled for him; I will surely have mercy upon him, saith the LORD.",
+      "highlightedWords": [
+        {
+          "word": "Ephraim",
+          "strongNumber": "H0669",
+          "lemma": "Ephrayim",
+          "meaning": "Ephraim; a tribe and the northern kingdom by extension"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Set thee up waymarks, make thee high heaps: set thine heart toward the highway, even the way which thou wentest: turn again, O virgin of Israel, turn again to these thy cities.",
+      "highlightedWords": [
+        {
+          "word": "waymarks",
+          "strongNumber": "H6725",
+          "lemma": "tsiyun",
+          "meaning": "signpost; marker; monument"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "lev",
+          "meaning": "inner person; mind; will; feelings"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "How long wilt thou go about, O thou backsliding daughter? for the LORD hath created a new thing in the earth, A woman shall compass a man.",
+      "highlightedWords": [
+        {
+          "word": "new",
+          "strongNumber": "H2319",
+          "lemma": "chadash",
+          "meaning": "new; fresh"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Thus saith the LORD of hosts, the God of Israel; As yet they shall use this speech in the land of Judah and in the cities thereof, when I shall bring again their captivity; The LORD bless thee, O habitation of justice, and mountain of holiness.",
+      "highlightedWords": [
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah; the southern kingdom/tribe"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And there shall dwell in Judah itself, and in all the cities thereof together, husbandmen, and they that go forth with flocks.",
+      "highlightedWords": [
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah; the southern kingdom/tribe"
+        },
+        {
+          "word": "cities",
+          "strongNumber": "H5892",
+          "lemma": "iyr",
+          "meaning": "city; town"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "For I have satiated the weary soul, and I have replenished every sorrowful soul.",
+      "highlightedWords": [
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul; life; person"
+        },
+        {
+          "word": "weary",
+          "strongNumber": "H5889",
+          "lemma": "ayeph",
+          "meaning": "weary; faint; exhausted"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "Upon this I awaked, and beheld; and my sleep was sweet unto me.",
+      "highlightedWords": [
+        {
+          "word": "sleep",
+          "strongNumber": "H8142",
+          "lemma": "shenah",
+          "meaning": "sleep; slumber"
+        },
+        {
+          "word": "beheld",
+          "strongNumber": "H7200",
+          "lemma": "ra'ah",
+          "meaning": "to see; behold"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "Behold, the days come, saith the LORD, that I will sow the house of Israel and the house of Judah with the seed of man, and with the seed of beast.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; Jacob’s descendants; the covenant people"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And it shall come to pass, that like as I have watched over them, to pluck up, and to break down, and to throw down, and to destroy, and to afflict; so will I watch over them, to build, and to plant, saith the LORD.",
+      "highlightedWords": [
+        {
+          "word": "build",
+          "strongNumber": "H1129",
+          "lemma": "banah",
+          "meaning": "to build; establish"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "In those days they shall say no more, The fathers have eaten a sour grape, and the children's teeth are set on edge.",
+      "highlightedWords": [
+        {
+          "word": "fathers",
+          "strongNumber": "H0001",
+          "lemma": "'ab",
+          "meaning": "father; ancestor"
+        },
+        {
+          "word": "children's",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; child; descendants"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "But every one shall die for his own iniquity: every man that eateth the sour grape, his teeth shall be set on edge.",
+      "highlightedWords": [
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "avon",
+          "meaning": "iniquity; guilt; punishment of iniquity"
+        },
+        {
+          "word": "man",
+          "strongNumber": "H0376",
+          "lemma": "'ish",
+          "meaning": "man; individual; person"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "Behold, the days come, saith the LORD, that I will make a new covenant with the house of Israel, and with the house of Judah:",
+      "highlightedWords": [
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "a binding agreement; treaty; divine pact"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "Not according to the covenant that I made with their fathers in the day that I took them by the hand to bring them out of the land of Egypt; which my covenant they brake, although I was an husband unto them, saith the LORD:",
+      "highlightedWords": [
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "a binding agreement; treaty; divine pact"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt; the land of bondage"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "But this shall be the covenant that I will make with the house of Israel; After those days, saith the LORD, I will put my law in their inward parts, and write it in their hearts; and will be their God, and they shall be my people.",
+      "highlightedWords": [
+        {
+          "word": "law",
+          "strongNumber": "H8451",
+          "lemma": "torah",
+          "meaning": "instruction; law; divine teaching"
+        },
+        {
+          "word": "hearts",
+          "strongNumber": "H3820",
+          "lemma": "lev",
+          "meaning": "inner person; mind; will; feelings"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "And they shall teach no more every man his neighbour, and every man his brother, saying, Know the LORD: for they shall all know me, from the least of them unto the greatest of them, saith the LORD: for I will forgive their iniquity, and I will remember their sin no more.",
+      "highlightedWords": [
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "avon",
+          "meaning": "iniquity; guilt; punishment of iniquity"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "Thus saith the LORD, which giveth the sun for a light by day, and the ordinances of the moon and of the stars for a light by night, which divideth the sea when the waves thereof roar; The LORD of hosts is his name:",
+      "highlightedWords": [
+        {
+          "word": "hosts",
+          "strongNumber": "H6635",
+          "lemma": "tsava'",
+          "meaning": "armies; hosts; heavenly bodies"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "If those ordinances depart from before me, saith the LORD, then the seed of Israel also shall cease from being a nation before me for ever.",
+      "highlightedWords": [
+        {
+          "word": "ordinances",
+          "strongNumber": "H2708",
+          "lemma": "chuqqah",
+          "meaning": "statute; fixed order; ordinance"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; Jacob’s descendants; the covenant people"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "Thus saith the LORD; If heaven above can be measured, and the foundations of the earth searched out beneath, I will also cast off all the seed of Israel for all that they have done, saith the LORD.",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "H0776",
+          "lemma": "eretz",
+          "meaning": "land; earth; ground"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "Behold, the days come, saith the LORD, that the city shall be built to the LORD from the tower of Hananeel unto the gate of the corner.",
+      "highlightedWords": [
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "iyr",
+          "meaning": "city; town"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "text": "And the measuring line shall yet go forth over against it upon the hill Gareb, and shall compass about to Goath.",
+      "highlightedWords": [
+        {
+          "word": "line",
+          "strongNumber": "H6957",
+          "lemma": "qav",
+          "meaning": "measuring line; cord"
+        },
+        {
+          "word": "hill",
+          "strongNumber": "H1389",
+          "lemma": "giv'ah",
+          "meaning": "hill; height"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "text": "And the whole valley of the dead bodies, and of the ashes, and all the fields unto the brook of Kidron, unto the corner of the horse gate toward the east, shall be holy unto the LORD; it shall not be plucked up, nor thrown down any more for ever.",
+      "highlightedWords": [
+        {
+          "word": "holy",
+          "strongNumber": "H6944",
+          "lemma": "qodesh",
+          "meaning": "holiness; sacredness; set-apart"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    }
+  ]
+}

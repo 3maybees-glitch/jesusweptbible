@@ -1,0 +1,168 @@
+{
+  "book": "Psalms",
+  "chapter": 12,
+  "chapterTheme": {
+    "twoWordSummary": "Pure Words",
+    "themeWords": [
+      {
+        "word": "words",
+        "strongNumber": "H565",
+        "lemma": "imrah",
+        "meaning": "utterance, word, speech"
+      },
+      {
+        "word": "pure",
+        "strongNumber": "H2889",
+        "lemma": "tahor",
+        "meaning": "clean, pure, unadulterated"
+      }
+    ]
+  },
+  "sentenceTheme": "A plea for help amid widespread deceit, trusting the LORD whose pure words and protection preserve the faithful.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Help, LORD; for the godly man ceaseth; for the faithful fail from among the children of men.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of God; the LORD"
+        },
+        {
+          "word": "godly",
+          "strongNumber": "H2623",
+          "lemma": "chasid",
+          "meaning": "pious, faithful, godly one"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "They speak vanity every one with his neighbour: with flattering lips and with a double heart do they speak.",
+      "highlightedWords": [
+        {
+          "word": "vanity",
+          "strongNumber": "H7723",
+          "lemma": "shav",
+          "meaning": "emptiness, worthlessness, falsehood"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "inner man, mind, heart"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "The LORD shall cut off all flattering lips, and the tongue that speaketh proud things:",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of God; the LORD"
+        },
+        {
+          "word": "tongue",
+          "strongNumber": "H3956",
+          "lemma": "lashon",
+          "meaning": "tongue, language, speech"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Who have said, With our tongue will we prevail; our lips are our own: who is lord over us?",
+      "highlightedWords": [
+        {
+          "word": "tongue",
+          "strongNumber": "H3956",
+          "lemma": "lashon",
+          "meaning": "tongue, language, speech"
+        },
+        {
+          "word": "lord",
+          "strongNumber": "H113",
+          "lemma": "adon",
+          "meaning": "lord, master"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "For the oppression of the poor, for the sighing of the needy, now will I arise, saith the LORD; I will set him in safety from him that puffeth at him.",
+      "highlightedWords": [
+        {
+          "word": "poor",
+          "strongNumber": "H6041",
+          "lemma": "ani",
+          "meaning": "poor, afflicted, humble"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of God; the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "The words of the LORD are pure words: as silver tried in a furnace of earth, purified seven times.",
+      "highlightedWords": [
+        {
+          "word": "words",
+          "strongNumber": "H565",
+          "lemma": "imrah",
+          "meaning": "utterance, word, speech"
+        },
+        {
+          "word": "silver",
+          "strongNumber": "H3701",
+          "lemma": "kesef",
+          "meaning": "silver, money"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Thou shalt keep them, O LORD, thou shalt preserve them from this generation for ever.",
+      "highlightedWords": [
+        {
+          "word": "keep",
+          "strongNumber": "H8104",
+          "lemma": "shamar",
+          "meaning": "to keep, guard, watch over"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of God; the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "The wicked walk on every side, when the vilest men are exalted.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rashaʿ",
+          "meaning": "wicked, guilty, criminal"
+        },
+        {
+          "word": "exalted",
+          "strongNumber": "H7311",
+          "lemma": "rum",
+          "meaning": "to be high, exalted, lifted up"
+        }
+      ]
+    }
+  ]
+}

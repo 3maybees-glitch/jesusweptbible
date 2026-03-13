@@ -1,0 +1,492 @@
+{
+  "book": "Ezekiel",
+  "chapter": 30,
+  "chapterTheme": {
+    "twoWordSummary": "Egypt Judged",
+    "themeWords": [
+      {
+        "word": "Egypt",
+        "strongNumber": "H4714",
+        "lemma": "Mitsrayim",
+        "meaning": "Egypt"
+      },
+      {
+        "word": "sword",
+        "strongNumber": "H2719",
+        "lemma": "chereb",
+        "meaning": "sword, warfare"
+      }
+    ]
+  },
+  "sentenceTheme": "God announces the imminent day of judgment on Egypt and her allies through Babylon, breaking Pharaoh’s power and scattering the Egyptians so that all will know He is the LORD.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "The word of the LORD came again unto me, saying,",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Son of man, prophesy and say, Thus saith the Lord GOD; Howl ye, Woe worth the day!",
+      "highlightedWords": [
+        {
+          "word": "prophesy",
+          "strongNumber": "H5012",
+          "lemma": "naba",
+          "meaning": "to speak by divine inspiration"
+        },
+        {
+          "word": "day",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day, time"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "For the day is near, even the day of the LORD is near, a cloudy day; it shall be the time of the heathen.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "heathen",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nations, Gentiles"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And the sword shall come upon Egypt, and great pain shall be in Ethiopia, when the slain shall fall in Egypt, and they shall take away her multitude, and her foundations shall be broken down.",
+      "highlightedWords": [
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword, warfare"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Ethiopia, and Libya, and Lydia, and all the mingled people, and Chub, and the men of the land that is in league, shall fall with them by the sword.",
+      "highlightedWords": [
+        {
+          "word": "Ethiopia",
+          "strongNumber": "H3568",
+          "lemma": "Cush",
+          "meaning": "Ethiopia, Cush"
+        },
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword, warfare"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Thus saith the LORD; They also that uphold Egypt shall fall; and the pride of her power shall come down: from the tower of Syene shall they fall in it by the sword, saith the Lord GOD.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And they shall be desolate in the midst of the countries that are desolate, and her cities shall be in the midst of the cities that are wasted.",
+      "highlightedWords": [
+        {
+          "word": "countries",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "land, country"
+        },
+        {
+          "word": "cities",
+          "strongNumber": "H5892",
+          "lemma": "ir",
+          "meaning": "city, town"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And they shall know that I am the LORD, when I have set a fire in Egypt, and when all her helpers shall be destroyed.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "esh",
+          "meaning": "fire"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "In that day shall messengers go forth from me in ships to make the careless Ethiopians afraid, and great pain shall come upon them, as in the day of Egypt: for, lo, it cometh.",
+      "highlightedWords": [
+        {
+          "word": "messengers",
+          "strongNumber": "H4397",
+          "lemma": "malak",
+          "meaning": "messenger, envoy"
+        },
+        {
+          "word": "ships",
+          "strongNumber": "H591",
+          "lemma": "oniyah",
+          "meaning": "ship, vessel"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Thus saith the Lord GOD; I will also make the multitude of Egypt to cease by the hand of Nebuchadrezzar king of Babylon.",
+      "highlightedWords": [
+        {
+          "word": "Nebuchadrezzar",
+          "strongNumber": "H5019",
+          "lemma": "Nebukadretstsar",
+          "meaning": "Nebuchadrezzar, king of Babylon"
+        },
+        {
+          "word": "Babylon",
+          "strongNumber": "H894",
+          "lemma": "Babel",
+          "meaning": "Babylon"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "He and his people with him, the terrible of the nations, shall be brought to destroy the land: and they shall draw their swords against Egypt, and fill the land with the slain.",
+      "highlightedWords": [
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nations, Gentiles"
+        },
+        {
+          "word": "swords",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword, warfare"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And I will make the rivers dry, and sell the land into the hand of the wicked: and I will make the land waste, and all that is therein, by the hand of strangers: I the LORD have spoken it.",
+      "highlightedWords": [
+        {
+          "word": "rivers",
+          "strongNumber": "H2975",
+          "lemma": "yeor",
+          "meaning": "river, Nile canal"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Thus saith the Lord GOD; I will also destroy the idols, and I will cause their images to cease out of Noph; and there shall be no more a prince of the land of Egypt: and I will put a fear in the land of Egypt.",
+      "highlightedWords": [
+        {
+          "word": "idols",
+          "strongNumber": "H1544",
+          "lemma": "gillulim",
+          "meaning": "idols, worthless images"
+        },
+        {
+          "word": "Noph",
+          "strongNumber": "H5297",
+          "lemma": "Noph",
+          "meaning": "Memphis, a chief city of Egypt"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And I will make Pathros desolate, and will set fire in Zoan, and will execute judgments in No.",
+      "highlightedWords": [
+        {
+          "word": "Pathros",
+          "strongNumber": "H6624",
+          "lemma": "Pathros",
+          "meaning": "Upper Egypt region"
+        },
+        {
+          "word": "Zoan",
+          "strongNumber": "H6814",
+          "lemma": "Tso'an",
+          "meaning": "Zoan/Tanis, a city in Egypt"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And I will pour my fury upon Sin, the strength of Egypt; and I will cut off the multitude of No.",
+      "highlightedWords": [
+        {
+          "word": "Sin",
+          "strongNumber": "H5512",
+          "lemma": "Sin",
+          "meaning": "Pelusium, a fortress city of Egypt"
+        },
+        {
+          "word": "No",
+          "strongNumber": "H4996",
+          "lemma": "No",
+          "meaning": "No (Thebes), an Egyptian city"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And I will set fire in Egypt: Sin shall have great pain, and No shall be rent asunder, and Noph shall have distresses daily.",
+      "highlightedWords": [
+        {
+          "word": "Noph",
+          "strongNumber": "H5297",
+          "lemma": "Noph",
+          "meaning": "Memphis, a chief city of Egypt"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "The young men of Aven and of Pibeseth shall fall by the sword: and these cities shall go into captivity.",
+      "highlightedWords": [
+        {
+          "word": "young men",
+          "strongNumber": "H970",
+          "lemma": "bachur",
+          "meaning": "choice one, young man"
+        },
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword, warfare"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "At Tehaphnehes also the day shall be darkened, when I shall break there the yokes of Egypt: and the pomp of her strength shall cease in her: as for her, a cloud shall cover her, and her daughters shall go into captivity.",
+      "highlightedWords": [
+        {
+          "word": "cloud",
+          "strongNumber": "H6051",
+          "lemma": "anan",
+          "meaning": "cloud, covering"
+        },
+        {
+          "word": "captivity",
+          "strongNumber": "H7628",
+          "lemma": "shebhi",
+          "meaning": "captivity, exile"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Thus will I execute judgments in Egypt: and they shall know that I am the LORD.",
+      "highlightedWords": [
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And it came to pass in the eleventh year, in the first month, in the seventh day of the month, that the word of the LORD came unto me, saying,",
+      "highlightedWords": [
+        {
+          "word": "month",
+          "strongNumber": "H2320",
+          "lemma": "chodesh",
+          "meaning": "month, new moon"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Son of man, I have broken the arm of Pharaoh king of Egypt; and, lo, it shall not be bound up to be healed, to put a roller to bind it, to make it strong to hold the sword.",
+      "highlightedWords": [
+        {
+          "word": "Pharaoh",
+          "strongNumber": "H6547",
+          "lemma": "Paroh",
+          "meaning": "Pharaoh, title of Egypt’s king"
+        },
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword, warfare"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Therefore thus saith the Lord GOD; Behold, I am against Pharaoh king of Egypt, and will break his arms, the strong, and that which was broken; and I will cause the sword to fall out of his hand.",
+      "highlightedWords": [
+        {
+          "word": "Pharaoh",
+          "strongNumber": "H6547",
+          "lemma": "Paroh",
+          "meaning": "Pharaoh, title of Egypt’s king"
+        },
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword, warfare"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And I will scatter the Egyptians among the nations, and will disperse them through the countries.",
+      "highlightedWords": [
+        {
+          "word": "Egyptians",
+          "strongNumber": "H4713",
+          "lemma": "Mitsriy",
+          "meaning": "an Egyptian"
+        },
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nations, Gentiles"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And I will strengthen the arms of the king of Babylon, and put my sword in his hand: but I will break Pharaoh's arms, and he shall groan before him with the groanings of a deadly wounded man.",
+      "highlightedWords": [
+        {
+          "word": "Babylon",
+          "strongNumber": "H894",
+          "lemma": "Babel",
+          "meaning": "Babylon"
+        },
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword, warfare"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "But I will strengthen the arms of the king of Babylon, and the arms of Pharaoh shall fall down; and they shall know that I am the LORD, when I shall put my sword into the hand of the king of Babylon, and he shall stretch it out upon the land of Egypt.",
+      "highlightedWords": [
+        {
+          "word": "Babylon",
+          "strongNumber": "H894",
+          "lemma": "Babel",
+          "meaning": "Babylon"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And I will scatter the Egyptians among the nations, and disperse them among the countries; and they shall know that I am the LORD.",
+      "highlightedWords": [
+        {
+          "word": "Egyptians",
+          "strongNumber": "H4713",
+          "lemma": "Mitsriy",
+          "meaning": "an Egyptian"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    }
+  ]
+}

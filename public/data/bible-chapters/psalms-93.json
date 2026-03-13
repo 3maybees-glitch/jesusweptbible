@@ -1,0 +1,114 @@
+{
+  "book": "Psalms",
+  "chapter": 93,
+  "chapterTheme": {
+    "twoWordSummary": "Majestic Reign",
+    "themeWords": [
+      {
+        "word": "reigneth",
+        "strongNumber": "H4427",
+        "lemma": "malak",
+        "meaning": "to reign, be king, exercise dominion"
+      },
+      {
+        "word": "holiness",
+        "strongNumber": "H6944",
+        "lemma": "qodesh",
+        "meaning": "holiness, sacredness, set-apartness"
+      }
+    ]
+  },
+  "sentenceTheme": "The LORD reigns in unshakable majesty over the raging floods, and His holy testimonies stand firm forever.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "The LORD reigneth, he is clothed with majesty; the LORD is clothed with strength, wherewith he hath girded himself: the world also is stablished, that it cannot be moved.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the personal name of the God of Israel (YHWH)"
+        },
+        {
+          "word": "world",
+          "strongNumber": "H8398",
+          "lemma": "tebel",
+          "meaning": "the inhabited world, productive earth"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Thy throne is established of old: thou art from everlasting.",
+      "highlightedWords": [
+        {
+          "word": "throne",
+          "strongNumber": "H3678",
+          "lemma": "kisse'",
+          "meaning": "seat of honor, royal throne"
+        },
+        {
+          "word": "everlasting",
+          "strongNumber": "H5769",
+          "lemma": "olam",
+          "meaning": "everlasting, eternity, perpetuity"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "The floods have lifted up, O LORD, the floods have lifted up their voice; the floods lift up their waves.",
+      "highlightedWords": [
+        {
+          "word": "floods",
+          "strongNumber": "H5104",
+          "lemma": "nahar",
+          "meaning": "river, stream; flowing waters"
+        },
+        {
+          "word": "voice",
+          "strongNumber": "H6963",
+          "lemma": "qol",
+          "meaning": "voice, sound, noise"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "The LORD on high is mightier than the noise of many waters, yea, than the mighty waves of the sea.",
+      "highlightedWords": [
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters, water mass"
+        },
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "sea, large body of water"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Thy testimonies are very sure: holiness becometh thine house, O LORD, for ever.",
+      "highlightedWords": [
+        {
+          "word": "testimonies",
+          "strongNumber": "H5715",
+          "lemma": "eduth",
+          "meaning": "testimony, decree, witness"
+        },
+        {
+          "word": "holiness",
+          "strongNumber": "H6944",
+          "lemma": "qodesh",
+          "meaning": "holiness, sacredness, set-apartness"
+        }
+      ]
+    }
+  ]
+}

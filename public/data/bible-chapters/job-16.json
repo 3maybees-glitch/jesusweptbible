@@ -1,0 +1,420 @@
+{
+  "book": "Job",
+  "chapter": 16,
+  "chapterTheme": {
+    "twoWordSummary": "Bitter Lament",
+    "themeWords": [
+      {
+        "word": "witness",
+        "strongNumber": "H5707",
+        "lemma": "ʿed",
+        "meaning": "testimony; one who gives evidence"
+      },
+      {
+        "word": "plead",
+        "strongNumber": "H3198",
+        "lemma": "yakach",
+        "meaning": "to argue, reprove, or plead a case"
+      }
+    ]
+  },
+  "sentenceTheme": "Job rebukes his friends’ empty consolations, laments God’s crushing afflictions, and appeals to a heavenly witness to plead his cause.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Then Job answered and said,",
+      "highlightedWords": [
+        {
+          "word": "Job",
+          "strongNumber": "H0347",
+          "lemma": "Iyowb",
+          "meaning": "Job; possibly ‘persecuted’"
+        },
+        {
+          "word": "answered",
+          "strongNumber": "H6030",
+          "lemma": "anah",
+          "meaning": "to answer or respond"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "I have heard many such things: miserable comforters are ye all.",
+      "highlightedWords": [
+        {
+          "word": "heard",
+          "strongNumber": "H8085",
+          "lemma": "shama",
+          "meaning": "to hear, listen, obey"
+        },
+        {
+          "word": "comforters",
+          "strongNumber": "H5162",
+          "lemma": "nacham",
+          "meaning": "to comfort; those who attempt to console"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Shall vain words have an end? or what emboldeneth thee that thou answerest?",
+      "highlightedWords": [
+        {
+          "word": "words",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, thing"
+        },
+        {
+          "word": "end",
+          "strongNumber": "H7093",
+          "lemma": "qets",
+          "meaning": "end, limit, conclusion"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "I also could speak as ye do: if your soul were in my soul's stead, I could heap up words against you, and shake mine head at you.",
+      "highlightedWords": [
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, self"
+        },
+        {
+          "word": "head",
+          "strongNumber": "H7218",
+          "lemma": "rosh",
+          "meaning": "head, chief, top"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "But I would strengthen you with my mouth, and the moving of my lips should asswage your grief.",
+      "highlightedWords": [
+        {
+          "word": "mouth",
+          "strongNumber": "H6310",
+          "lemma": "peh",
+          "meaning": "mouth, speech, edge"
+        },
+        {
+          "word": "lips",
+          "strongNumber": "H8193",
+          "lemma": "saphah",
+          "meaning": "lip, language, edge"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Though I speak, my grief is not asswaged: and though I forbear, what am I eased?",
+      "highlightedWords": [
+        {
+          "word": "speak",
+          "strongNumber": "H1696",
+          "lemma": "dabar",
+          "meaning": "to speak, declare"
+        },
+        {
+          "word": "forbear",
+          "strongNumber": "H2308",
+          "lemma": "chadal",
+          "meaning": "to cease, desist, refrain"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "But now he hath made me weary: thou hast made desolate all my company.",
+      "highlightedWords": [
+        {
+          "word": "weary",
+          "strongNumber": "H3811",
+          "lemma": "laah",
+          "meaning": "to be weary or exhausted"
+        },
+        {
+          "word": "company",
+          "strongNumber": "H5712",
+          "lemma": "edah",
+          "meaning": "assembly, congregation, company"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And thou hast filled me with wrinkles, which is a witness against me: and my leanness rising up in me beareth witness to my face.",
+      "highlightedWords": [
+        {
+          "word": "witness",
+          "strongNumber": "H5707",
+          "lemma": "ed",
+          "meaning": "witness, testimony"
+        },
+        {
+          "word": "face",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "face, presence"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "He teareth me in his wrath, who hateth me: he gnasheth upon me with his teeth; mine enemy sharpeneth his eyes upon me.",
+      "highlightedWords": [
+        {
+          "word": "teeth",
+          "strongNumber": "H8127",
+          "lemma": "shen",
+          "meaning": "tooth; teeth"
+        },
+        {
+          "word": "enemy",
+          "strongNumber": "H0340",
+          "lemma": "oyev",
+          "meaning": "enemy, foe"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "They have gaped upon me with their mouth; they have smitten me upon the cheek reproachfully; they have gathered themselves together against me.",
+      "highlightedWords": [
+        {
+          "word": "mouth",
+          "strongNumber": "H6310",
+          "lemma": "peh",
+          "meaning": "mouth, speech, edge"
+        },
+        {
+          "word": "cheek",
+          "strongNumber": "H3895",
+          "lemma": "lechi",
+          "meaning": "cheek, jawbone"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "God hath delivered me to the ungodly, and turned me over into the hands of the wicked.",
+      "highlightedWords": [
+        {
+          "word": "ungodly",
+          "strongNumber": "H7563",
+          "lemma": "rasha",
+          "meaning": "wicked, guilty, lawless"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha",
+          "meaning": "wicked, guilty, lawless"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "I was at ease, but he hath broken me asunder: he hath also taken me by my neck, and shaken me to pieces, and set me up for his mark.",
+      "highlightedWords": [
+        {
+          "word": "neck",
+          "strongNumber": "H6203",
+          "lemma": "oreph",
+          "meaning": "neck, back of the neck"
+        },
+        {
+          "word": "mark",
+          "strongNumber": "H4307",
+          "lemma": "mattarah",
+          "meaning": "target, mark"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "His archers compass me round about, he cleaveth my reins asunder, and doth not spare; he poureth out my gall upon the ground.",
+      "highlightedWords": [
+        {
+          "word": "reins",
+          "strongNumber": "H3629",
+          "lemma": "kilyah",
+          "meaning": "kidneys; the inmost parts"
+        },
+        {
+          "word": "gall",
+          "strongNumber": "H4840",
+          "lemma": "mererah",
+          "meaning": "gall, bile"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "He breaketh me with breach upon breach, he runneth upon me like a giant.",
+      "highlightedWords": [
+        {
+          "word": "breach",
+          "strongNumber": "H6556",
+          "lemma": "perets",
+          "meaning": "breach, rupture, breaking forth"
+        },
+        {
+          "word": "giant",
+          "strongNumber": "H1368",
+          "lemma": "gibbor",
+          "meaning": "mighty man, warrior (giant in KJV rendering)"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "I have sewed sackcloth upon my skin, and defiled my horn in the dust.",
+      "highlightedWords": [
+        {
+          "word": "sackcloth",
+          "strongNumber": "H8242",
+          "lemma": "saq",
+          "meaning": "sackcloth, coarse cloth of mourning"
+        },
+        {
+          "word": "dust",
+          "strongNumber": "H6083",
+          "lemma": "aphar",
+          "meaning": "dust, dry earth"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "My face is foul with weeping, and on my eyelids is the shadow of death;",
+      "highlightedWords": [
+        {
+          "word": "face",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "face, presence"
+        },
+        {
+          "word": "shadow of death",
+          "strongNumber": "H6757",
+          "lemma": "tsalmaveth",
+          "meaning": "deep darkness, shadow of death"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Not for any injustice in mine hands: also my prayer is pure.",
+      "highlightedWords": [
+        {
+          "word": "hands",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        },
+        {
+          "word": "prayer",
+          "strongNumber": "H8605",
+          "lemma": "tephillah",
+          "meaning": "prayer, supplication"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "O earth, cover not thou my blood, and let my cry have no place.",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "H0776",
+          "lemma": "erets",
+          "meaning": "earth, land"
+        },
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "blood"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Also now, behold, my witness is in heaven, and my record is on high.",
+      "highlightedWords": [
+        {
+          "word": "witness",
+          "strongNumber": "H5707",
+          "lemma": "ed",
+          "meaning": "witness, testimony"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens, sky"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "My friends scorn me: but mine eye poureth out tears unto God.",
+      "highlightedWords": [
+        {
+          "word": "friends",
+          "strongNumber": "H7453",
+          "lemma": "rea",
+          "meaning": "friend, companion, neighbor"
+        },
+        {
+          "word": "tears",
+          "strongNumber": "H1832",
+          "lemma": "dimah",
+          "meaning": "tears"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "O that one might plead for a man with God, as a man pleadeth for his neighbour!",
+      "highlightedWords": [
+        {
+          "word": "plead",
+          "strongNumber": "H3198",
+          "lemma": "yakach",
+          "meaning": "to argue, reprove, or plead"
+        },
+        {
+          "word": "neighbour",
+          "strongNumber": "H7453",
+          "lemma": "rea",
+          "meaning": "neighbor, friend, companion"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "When a few years are come, then I shall go the way whence I shall not return.",
+      "highlightedWords": [
+        {
+          "word": "years",
+          "strongNumber": "H8141",
+          "lemma": "shanah",
+          "meaning": "year"
+        },
+        {
+          "word": "return",
+          "strongNumber": "H7725",
+          "lemma": "shuv",
+          "meaning": "to return, go back"
+        }
+      ]
+    }
+  ]
+}

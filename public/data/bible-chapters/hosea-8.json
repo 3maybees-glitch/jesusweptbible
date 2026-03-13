@@ -1,0 +1,276 @@
+{
+  "book": "Hosea",
+  "chapter": 8,
+  "chapterTheme": {
+    "twoWordSummary": "Judgment Idolatry",
+    "themeWords": [
+      {
+        "word": "Israel",
+        "strongNumber": "H3478",
+        "lemma": "Yisra'el",
+        "meaning": "Israel; the covenant people and land"
+      },
+      {
+        "word": "covenant",
+        "strongNumber": "H1285",
+        "lemma": "berith",
+        "meaning": "covenant, treaty, binding agreement"
+      }
+    ]
+  },
+  "sentenceTheme": "Hosea announces that Israel’s idolatry and alliances will bring the LORD’s judgment, scattering them among the nations.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Set the trumpet to thy mouth. He shall come as an eagle against the house of the LORD, because they have transgressed my covenant, and trespassed against my law.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the personal name of Israel’s God (YHWH), the LORD"
+        },
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "covenant, treaty, binding agreement"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Israel shall cry unto me, My God, we know thee.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; the covenant people and land"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; the true God, deity"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Israel hath cast off the thing that is good: the enemy shall pursue him.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; the covenant people and land"
+        },
+        {
+          "word": "enemy",
+          "strongNumber": "H341",
+          "lemma": "oyev",
+          "meaning": "enemy, foe, adversary"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "They have set up kings, but not by me: they have made princes, and I knew it not: of their silver and their gold have they made them idols, that they may be cut off.",
+      "highlightedWords": [
+        {
+          "word": "kings",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        },
+        {
+          "word": "silver",
+          "strongNumber": "H3701",
+          "lemma": "kesef",
+          "meaning": "silver, money, wealth"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Thy calf, O Samaria, hath cast thee off; mine anger is kindled against them: how long will it be ere they attain to innocency?",
+      "highlightedWords": [
+        {
+          "word": "calf",
+          "strongNumber": "H5695",
+          "lemma": "'egel",
+          "meaning": "calf, young bull"
+        },
+        {
+          "word": "Samaria",
+          "strongNumber": "H8111",
+          "lemma": "Shomron",
+          "meaning": "Samaria, capital of the northern kingdom"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "For from Israel was it also: the workman made it; therefore it is not God: but the calf of Samaria shall be broken in pieces.",
+      "highlightedWords": [
+        {
+          "word": "workman",
+          "strongNumber": "H2796",
+          "lemma": "charash",
+          "meaning": "craftsman, artisan, engraver"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; the true God, deity"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "For they have sown the wind, and they shall reap the whirlwind: it hath no stalk: the bud shall yield no meal: if so be it yield, the strangers shall swallow it up.",
+      "highlightedWords": [
+        {
+          "word": "sown",
+          "strongNumber": "H2232",
+          "lemma": "zara'",
+          "meaning": "to sow, scatter seed"
+        },
+        {
+          "word": "reap",
+          "strongNumber": "H7114",
+          "lemma": "qatsar",
+          "meaning": "to reap, harvest"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Israel is swallowed up: now shall they be among the Gentiles as a vessel wherein is no pleasure.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; the covenant people and land"
+        },
+        {
+          "word": "Gentiles",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation, people; Gentiles"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "For they are gone up to Assyria, a wild ass alone by himself: Ephraim hath hired lovers.",
+      "highlightedWords": [
+        {
+          "word": "Assyria",
+          "strongNumber": "H804",
+          "lemma": "Ashshur",
+          "meaning": "Assyria; Asshur, empire to Israel’s northeast"
+        },
+        {
+          "word": "Ephraim",
+          "strongNumber": "H669",
+          "lemma": "'Ephrayim",
+          "meaning": "Ephraim; the northern kingdom (by synecdoche)"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Yea, though they have hired among the nations, now will I gather them, and they shall sorrow a little for the burden of the king of princes.",
+      "highlightedWords": [
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation, people; Gentiles"
+        },
+        {
+          "word": "gather",
+          "strongNumber": "H6908",
+          "lemma": "qavats",
+          "meaning": "to gather, collect, assemble"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Because Ephraim hath made many altars to sin, altars shall be unto him to sin.",
+      "highlightedWords": [
+        {
+          "word": "Ephraim",
+          "strongNumber": "H669",
+          "lemma": "'Ephrayim",
+          "meaning": "Ephraim; the northern kingdom (by synecdoche)"
+        },
+        {
+          "word": "altars",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar for sacrifice"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "I have written to him the great things of my law, but they were counted as a strange thing.",
+      "highlightedWords": [
+        {
+          "word": "written",
+          "strongNumber": "H3789",
+          "lemma": "kathab",
+          "meaning": "to write, inscribe"
+        },
+        {
+          "word": "law",
+          "strongNumber": "H8451",
+          "lemma": "torah",
+          "meaning": "instruction, law, Torah"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "They sacrifice flesh for the sacrifices of mine offerings, and eat it; but the LORD accepteth them not; now will he remember their iniquity, and visit their sins: they shall return to Egypt.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the personal name of Israel’s God (YHWH), the LORD"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "'avon",
+          "meaning": "iniquity, guilt, moral wrongdoing"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "For Israel hath forgotten his Maker, and buildeth temples; and Judah hath multiplied fenced cities: but I will send a fire upon his cities, and it shall devour the palaces thereof.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; the covenant people and land"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah; the southern kingdom/tribe"
+        }
+      ]
+    }
+  ]
+}

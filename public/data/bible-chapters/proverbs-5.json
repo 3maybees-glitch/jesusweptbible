@@ -1,0 +1,438 @@
+{
+  "book": "Proverbs",
+  "chapter": 5,
+  "chapterTheme": {
+    "twoWordSummary": "Avoid Adultery",
+    "themeWords": [
+      {
+        "word": "wisdom",
+        "strongNumber": "H2451",
+        "lemma": "chokmah",
+        "meaning": "wisdom, skill, practical insight"
+      },
+      {
+        "word": "strange",
+        "strongNumber": "H2114",
+        "lemma": "zur",
+        "meaning": "foreign, alien, unauthorized"
+      }
+    ]
+  },
+  "sentenceTheme": "A father warns his son to shun the seductress, cherish his own wife, and remember that the LORD weighs every path and will judge folly.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "My son, attend unto my wisdom, and bow thine ear to my understanding:",
+      "highlightedWords": [
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child, descendant"
+        },
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "wisdom, skill, practical insight"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "That thou mayest regard discretion, and that thy lips may keep knowledge.",
+      "highlightedWords": [
+        {
+          "word": "lips",
+          "strongNumber": "H8193",
+          "lemma": "saphah",
+          "meaning": "lip, speech, language"
+        },
+        {
+          "word": "knowledge",
+          "strongNumber": "H1847",
+          "lemma": "da'ath",
+          "meaning": "knowledge, understanding"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "For the lips of a strange woman drop as an honeycomb, and her mouth is smoother than oil:",
+      "highlightedWords": [
+        {
+          "word": "strange",
+          "strongNumber": "H2114",
+          "lemma": "zur",
+          "meaning": "foreign, alien, outsider"
+        },
+        {
+          "word": "oil",
+          "strongNumber": "H8081",
+          "lemma": "shemen",
+          "meaning": "oil, fat, ointment"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "But her end is bitter as wormwood, sharp as a twoedged sword.",
+      "highlightedWords": [
+        {
+          "word": "bitter",
+          "strongNumber": "H4751",
+          "lemma": "mar",
+          "meaning": "bitter, bitter thing"
+        },
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword, dagger"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Her feet go down to death; her steps take hold on hell.",
+      "highlightedWords": [
+        {
+          "word": "death",
+          "strongNumber": "H4194",
+          "lemma": "maveth",
+          "meaning": "death"
+        },
+        {
+          "word": "hell",
+          "strongNumber": "H7585",
+          "lemma": "Sheol",
+          "meaning": "the grave, the realm of the dead"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Lest thou shouldest ponder the path of life, her ways are moveable, that thou canst not know them.",
+      "highlightedWords": [
+        {
+          "word": "path",
+          "strongNumber": "H734",
+          "lemma": "orach",
+          "meaning": "path, way, course"
+        },
+        {
+          "word": "life",
+          "strongNumber": "H2416",
+          "lemma": "chay",
+          "meaning": "life, living, alive"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Hear me now therefore, O ye children, and depart not from the words of my mouth.",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "sons, children, descendants"
+        },
+        {
+          "word": "mouth",
+          "strongNumber": "H6310",
+          "lemma": "peh",
+          "meaning": "mouth, speech, edge"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Remove thy way far from her, and come not nigh the door of her house:",
+      "highlightedWords": [
+        {
+          "word": "Remove",
+          "strongNumber": "H7368",
+          "lemma": "rachaq",
+          "meaning": "to be far, remove, put far away"
+        },
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayit",
+          "meaning": "house, household, dwelling"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Lest thou give thine honour unto others, and thy years unto the cruel:",
+      "highlightedWords": [
+        {
+          "word": "give",
+          "strongNumber": "H5414",
+          "lemma": "nathan",
+          "meaning": "to give, put, set"
+        },
+        {
+          "word": "years",
+          "strongNumber": "H8141",
+          "lemma": "shanah",
+          "meaning": "year, years"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Lest strangers be filled with thy wealth; and thy labours be in the house of a stranger;",
+      "highlightedWords": [
+        {
+          "word": "wealth",
+          "strongNumber": "H1952",
+          "lemma": "hown",
+          "meaning": "wealth, substance, riches"
+        },
+        {
+          "word": "labours",
+          "strongNumber": "H3018",
+          "lemma": "yegi'a",
+          "meaning": "toil, labor, product of labor"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And thou mourn at the last, when thy flesh and thy body are consumed,",
+      "highlightedWords": [
+        {
+          "word": "flesh",
+          "strongNumber": "H1320",
+          "lemma": "basar",
+          "meaning": "flesh, body"
+        },
+        {
+          "word": "consumed",
+          "strongNumber": "H3615",
+          "lemma": "kalah",
+          "meaning": "to be finished, completed, consumed"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And say, How have I hated instruction, and my heart despised reproof;",
+      "highlightedWords": [
+        {
+          "word": "instruction",
+          "strongNumber": "H4148",
+          "lemma": "musar",
+          "meaning": "discipline, instruction, correction"
+        },
+        {
+          "word": "reproof",
+          "strongNumber": "H8433",
+          "lemma": "tokhachah",
+          "meaning": "rebuke, reproof, correction"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And have not obeyed the voice of my teachers, nor inclined mine ear to them that instructed me!",
+      "highlightedWords": [
+        {
+          "word": "obeyed",
+          "strongNumber": "H8085",
+          "lemma": "shama'",
+          "meaning": "to hear, listen, obey"
+        },
+        {
+          "word": "ear",
+          "strongNumber": "H241",
+          "lemma": "ozen",
+          "meaning": "ear, hearing"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "I was almost in all evil in the midst of the congregation and assembly.",
+      "highlightedWords": [
+        {
+          "word": "congregation",
+          "strongNumber": "H6951",
+          "lemma": "qahal",
+          "meaning": "assembly, congregation"
+        },
+        {
+          "word": "assembly",
+          "strongNumber": "H5712",
+          "lemma": "edah",
+          "meaning": "assembly, company, congregation"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Drink waters out of thine own cistern, and running waters out of thine own well.",
+      "highlightedWords": [
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters, water"
+        },
+        {
+          "word": "well",
+          "strongNumber": "H875",
+          "lemma": "be'er",
+          "meaning": "well, pit, spring"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Let thy fountains be dispersed abroad, and rivers of waters in the streets.",
+      "highlightedWords": [
+        {
+          "word": "fountains",
+          "strongNumber": "H4599",
+          "lemma": "maqor",
+          "meaning": "spring, fountain, source"
+        },
+        {
+          "word": "rivers",
+          "strongNumber": "H5104",
+          "lemma": "nahar",
+          "meaning": "river, stream"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Let them be only thine own, and not strangers' with thee.",
+      "highlightedWords": [
+        {
+          "word": "strangers'",
+          "strongNumber": "H2114",
+          "lemma": "zur",
+          "meaning": "foreigners, outsiders"
+        },
+        {
+          "word": "with",
+          "strongNumber": "H5973",
+          "lemma": "'im",
+          "meaning": "with, together with"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Let thy fountain be blessed: and rejoice with the wife of thy youth.",
+      "highlightedWords": [
+        {
+          "word": "wife",
+          "strongNumber": "H802",
+          "lemma": "ishshah",
+          "meaning": "woman, wife"
+        },
+        {
+          "word": "youth",
+          "strongNumber": "H5271",
+          "lemma": "ne'urim",
+          "meaning": "youth, early life"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Let her be as the loving hind and pleasant roe; let her breasts satisfy thee at all times; and be thou ravished always with her love.",
+      "highlightedWords": [
+        {
+          "word": "breasts",
+          "strongNumber": "H7699",
+          "lemma": "shad",
+          "meaning": "breast (female), bosom"
+        },
+        {
+          "word": "love",
+          "strongNumber": "H160",
+          "lemma": "ahabah",
+          "meaning": "love, affection"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And why wilt thou, my son, be ravished with a strange woman, and embrace the bosom of a stranger?",
+      "highlightedWords": [
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child"
+        },
+        {
+          "word": "bosom",
+          "strongNumber": "H2436",
+          "lemma": "cheq",
+          "meaning": "bosom, lap"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "For the ways of man are before the eyes of the LORD, and he pondereth all his goings.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the divine name, the LORD"
+        },
+        {
+          "word": "ways",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way, road, manner"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "His own iniquities shall take the wicked himself, and he shall be holden with the cords of his sins.",
+      "highlightedWords": [
+        {
+          "word": "iniquities",
+          "strongNumber": "H5771",
+          "lemma": "avon",
+          "meaning": "iniquity, guilt, punishment of iniquity"
+        },
+        {
+          "word": "sins",
+          "strongNumber": "H2403",
+          "lemma": "chatta'ah",
+          "meaning": "sin, sin offering, offense"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "He shall die without instruction; and in the greatness of his folly he shall go astray.",
+      "highlightedWords": [
+        {
+          "word": "die",
+          "strongNumber": "H4191",
+          "lemma": "muwth",
+          "meaning": "to die, perish"
+        },
+        {
+          "word": "instruction",
+          "strongNumber": "H4148",
+          "lemma": "musar",
+          "meaning": "discipline, instruction"
+        }
+      ]
+    }
+  ]
+}

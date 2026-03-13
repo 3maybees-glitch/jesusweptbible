@@ -1,0 +1,528 @@
+{
+  "book": "Job",
+  "chapter": 13,
+  "chapterTheme": {
+    "twoWordSummary": "Bold Plea",
+    "themeWords": [
+      {
+        "word": "Almighty",
+        "strongNumber": "H7706",
+        "lemma": "Shadday",
+        "meaning": "the Almighty; the all-powerful God"
+      },
+      {
+        "word": "justified",
+        "strongNumber": "H6663",
+        "lemma": "tsadaq",
+        "meaning": "to be declared righteous; proven right"
+      }
+    ]
+  },
+  "sentenceTheme": "Job rebukes his friends, pleads to reason his case before the Almighty, and resolves to trust God even if He slays him.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Lo, mine eye hath seen all this, mine ear hath heard and understood it.",
+      "highlightedWords": [
+        {
+          "word": "eye",
+          "strongNumber": "H5869",
+          "lemma": "ayin",
+          "meaning": "eye; sight"
+        },
+        {
+          "word": "ear",
+          "strongNumber": "H0241",
+          "lemma": "ozen",
+          "meaning": "ear; hearing"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "What ye know, the same do I know also: I am not inferior unto you.",
+      "highlightedWords": [
+        {
+          "word": "know",
+          "strongNumber": "H3045",
+          "lemma": "yada",
+          "meaning": "to know; to understand"
+        },
+        {
+          "word": "not",
+          "strongNumber": "H3808",
+          "lemma": "lo",
+          "meaning": "not; no"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Surely I would speak to the Almighty, and I desire to reason with God.",
+      "highlightedWords": [
+        {
+          "word": "Almighty",
+          "strongNumber": "H7706",
+          "lemma": "Shadday",
+          "meaning": "the Almighty; the all-powerful God"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H0433",
+          "lemma": "eloah",
+          "meaning": "God; the Deity"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "But ye are forgers of lies, ye are all physicians of no value.",
+      "highlightedWords": [
+        {
+          "word": "lies",
+          "strongNumber": "H8267",
+          "lemma": "sheqer",
+          "meaning": "falsehood; deception"
+        },
+        {
+          "word": "physicians",
+          "strongNumber": "H7495",
+          "lemma": "rophe",
+          "meaning": "healer; physician"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "O that ye would altogether hold your peace! and it should be your wisdom.",
+      "highlightedWords": [
+        {
+          "word": "peace",
+          "strongNumber": "H2790",
+          "lemma": "charash",
+          "meaning": "to be silent; keep quiet"
+        },
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "wisdom; skillful prudence"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Hear now my reasoning, and hearken to the pleadings of my lips.",
+      "highlightedWords": [
+        {
+          "word": "Hear",
+          "strongNumber": "H8085",
+          "lemma": "shama",
+          "meaning": "to hear; listen attentively"
+        },
+        {
+          "word": "lips",
+          "strongNumber": "H8193",
+          "lemma": "saphah",
+          "meaning": "lip; speech"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Will ye speak wickedly for God? and talk deceitfully for him?",
+      "highlightedWords": [
+        {
+          "word": "speak",
+          "strongNumber": "H1696",
+          "lemma": "dabar",
+          "meaning": "to speak; declare"
+        },
+        {
+          "word": "deceitfully",
+          "strongNumber": "H4820",
+          "lemma": "mirmah",
+          "meaning": "deceit; treachery"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Will ye accept his person? will ye contend for God?",
+      "highlightedWords": [
+        {
+          "word": "accept",
+          "strongNumber": "H5375",
+          "lemma": "nasa",
+          "meaning": "to lift up; to show favor"
+        },
+        {
+          "word": "contend",
+          "strongNumber": "H7378",
+          "lemma": "riv",
+          "meaning": "to contend; dispute"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Is it good that he should search you out? or as one man mocketh another, do ye so mock him?",
+      "highlightedWords": [
+        {
+          "word": "good",
+          "strongNumber": "H2896",
+          "lemma": "tov",
+          "meaning": "good; beneficial"
+        },
+        {
+          "word": "search",
+          "strongNumber": "H2713",
+          "lemma": "chaqar",
+          "meaning": "to search; examine thoroughly"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "He will surely reprove you, if ye do secretly accept persons.",
+      "highlightedWords": [
+        {
+          "word": "reprove",
+          "strongNumber": "H3198",
+          "lemma": "yakach",
+          "meaning": "to reprove; decide; correct"
+        },
+        {
+          "word": "secretly",
+          "strongNumber": "H5643",
+          "lemma": "seter",
+          "meaning": "a secret place; in secret"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Shall not his excellency make you afraid? and his dread fall upon you?",
+      "highlightedWords": [
+        {
+          "word": "afraid",
+          "strongNumber": "H1204",
+          "lemma": "baath",
+          "meaning": "to terrify; make afraid"
+        },
+        {
+          "word": "dread",
+          "strongNumber": "H6343",
+          "lemma": "pachad",
+          "meaning": "dread; fear; terror"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Your remembrances are like unto ashes, your bodies to bodies of clay.",
+      "highlightedWords": [
+        {
+          "word": "remembrances",
+          "strongNumber": "H2146",
+          "lemma": "zeker",
+          "meaning": "remembrance; memorial"
+        },
+        {
+          "word": "ashes",
+          "strongNumber": "H0665",
+          "lemma": "epher",
+          "meaning": "ashes; dust"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Hold your peace, let me alone, that I may speak, and let come on me what will.",
+      "highlightedWords": [
+        {
+          "word": "peace",
+          "strongNumber": "H2790",
+          "lemma": "charash",
+          "meaning": "to be silent; keep quiet"
+        },
+        {
+          "word": "speak",
+          "strongNumber": "H1696",
+          "lemma": "dabar",
+          "meaning": "to speak; declare"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Wherefore do I take my flesh in my teeth, and put my life in mine hand?",
+      "highlightedWords": [
+        {
+          "word": "flesh",
+          "strongNumber": "H1320",
+          "lemma": "basar",
+          "meaning": "flesh; body"
+        },
+        {
+          "word": "life",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul; life; person"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Though he slay me, yet will I trust in him: but I will maintain mine own ways before him.",
+      "highlightedWords": [
+        {
+          "word": "slay",
+          "strongNumber": "H2026",
+          "lemma": "harag",
+          "meaning": "to kill; slay"
+        },
+        {
+          "word": "trust",
+          "strongNumber": "H3176",
+          "lemma": "yachal",
+          "meaning": "to hope; wait expectantly"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "He also shall be my salvation: for an hypocrite shall not come before him.",
+      "highlightedWords": [
+        {
+          "word": "salvation",
+          "strongNumber": "H3444",
+          "lemma": "yeshuah",
+          "meaning": "salvation; deliverance"
+        },
+        {
+          "word": "hypocrite",
+          "strongNumber": "H2611",
+          "lemma": "chaneph",
+          "meaning": "godless; profane; hypocrite"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Hear diligently my speech, and my declaration with your ears.",
+      "highlightedWords": [
+        {
+          "word": "Hear",
+          "strongNumber": "H8085",
+          "lemma": "shama",
+          "meaning": "to hear; listen attentively"
+        },
+        {
+          "word": "speech",
+          "strongNumber": "H4405",
+          "lemma": "millah",
+          "meaning": "utterance; speech"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Behold now, I have ordered my cause; I know that I shall be justified.",
+      "highlightedWords": [
+        {
+          "word": "cause",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "judgment; legal case"
+        },
+        {
+          "word": "justified",
+          "strongNumber": "H6663",
+          "lemma": "tsadaq",
+          "meaning": "to be declared righteous"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Who is he that will plead with me? for now, if I hold my tongue, I shall give up the ghost.",
+      "highlightedWords": [
+        {
+          "word": "plead",
+          "strongNumber": "H7378",
+          "lemma": "riv",
+          "meaning": "to contend; litigate"
+        },
+        {
+          "word": "tongue",
+          "strongNumber": "H3956",
+          "lemma": "lashon",
+          "meaning": "tongue; language"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Only do not two things unto me: then will I not hide myself from thee.",
+      "highlightedWords": [
+        {
+          "word": "not",
+          "strongNumber": "H3808",
+          "lemma": "lo",
+          "meaning": "not; no"
+        },
+        {
+          "word": "hide",
+          "strongNumber": "H5641",
+          "lemma": "satar",
+          "meaning": "to hide; conceal"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Withdraw thine hand far from me: and let not thy dread make me afraid.",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand; power"
+        },
+        {
+          "word": "dread",
+          "strongNumber": "H6343",
+          "lemma": "pachad",
+          "meaning": "dread; fear; terror"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Then call thou, and I will answer: or let me speak, and answer thou me.",
+      "highlightedWords": [
+        {
+          "word": "call",
+          "strongNumber": "H7121",
+          "lemma": "qara",
+          "meaning": "to call; summon"
+        },
+        {
+          "word": "answer",
+          "strongNumber": "H6030",
+          "lemma": "anah",
+          "meaning": "to answer; respond"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "How many are mine iniquities and sins? make me to know my transgression and my sin.",
+      "highlightedWords": [
+        {
+          "word": "iniquities",
+          "strongNumber": "H5771",
+          "lemma": "avon",
+          "meaning": "iniquity; guilt"
+        },
+        {
+          "word": "transgression",
+          "strongNumber": "H6588",
+          "lemma": "pesha",
+          "meaning": "transgression; rebellion"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Wherefore hidest thou thy face, and holdest me for thine enemy?",
+      "highlightedWords": [
+        {
+          "word": "face",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "face; presence"
+        },
+        {
+          "word": "enemy",
+          "strongNumber": "H0341",
+          "lemma": "oyev",
+          "meaning": "enemy; foe"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Wilt thou break a leaf driven to and fro? and wilt thou pursue the dry stubble?",
+      "highlightedWords": [
+        {
+          "word": "leaf",
+          "strongNumber": "H5929",
+          "lemma": "aleh",
+          "meaning": "leaf; foliage"
+        },
+        {
+          "word": "stubble",
+          "strongNumber": "H7179",
+          "lemma": "qash",
+          "meaning": "stubble; chaff"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "For thou writest bitter things against me, and makest me to possess the iniquities of my youth.",
+      "highlightedWords": [
+        {
+          "word": "bitter",
+          "strongNumber": "H4751",
+          "lemma": "mar",
+          "meaning": "bitter; grievous"
+        },
+        {
+          "word": "iniquities",
+          "strongNumber": "H5771",
+          "lemma": "avon",
+          "meaning": "iniquity; guilt"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "Thou puttest my feet also in the stocks, and lookest narrowly unto all my paths; thou settest a print upon the heels of my feet.",
+      "highlightedWords": [
+        {
+          "word": "feet",
+          "strongNumber": "H7272",
+          "lemma": "regel",
+          "meaning": "foot; feet"
+        },
+        {
+          "word": "paths",
+          "strongNumber": "H0734",
+          "lemma": "orach",
+          "meaning": "path; way"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And he, as a rotten thing, consumeth, as a garment that is moth eaten.",
+      "highlightedWords": [
+        {
+          "word": "garment",
+          "strongNumber": "H899",
+          "lemma": "beged",
+          "meaning": "garment; clothing"
+        },
+        {
+          "word": "moth",
+          "strongNumber": "H6211",
+          "lemma": "ash",
+          "meaning": "moth"
+        }
+      ]
+    }
+  ]
+}

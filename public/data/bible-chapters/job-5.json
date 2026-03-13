@@ -1,0 +1,510 @@
+{
+  "book": "Job",
+  "chapter": 5,
+  "chapterTheme": {
+    "twoWordSummary": "Divine Deliverance",
+    "themeWords": [
+      {
+        "word": "Almighty",
+        "strongNumber": "H7706",
+        "lemma": "Shaddai",
+        "meaning": "the Almighty, all-powerful God"
+      },
+      {
+        "word": "deliver",
+        "strongNumber": "H5337",
+        "lemma": "natsal",
+        "meaning": "to deliver, rescue, save"
+      }
+    ]
+  },
+  "sentenceTheme": "Eliphaz counsels seeking God, who both wounds and heals, and promises deliverance, protection, and restoration to the afflicted who trust Him.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Call now, if there be any that will answer thee; and to which of the saints wilt thou turn?",
+      "highlightedWords": [
+        {
+          "word": "answer",
+          "strongNumber": "H6030",
+          "lemma": "anah",
+          "meaning": "to answer, respond"
+        },
+        {
+          "word": "saints",
+          "strongNumber": "H6918",
+          "lemma": "qadosh",
+          "meaning": "holy ones, consecrated persons"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "For wrath killeth the foolish man, and envy slayeth the silly one.",
+      "highlightedWords": [
+        {
+          "word": "wrath",
+          "strongNumber": "H3707",
+          "lemma": "ka'as",
+          "meaning": "anger, vexation, provocation"
+        },
+        {
+          "word": "foolish",
+          "strongNumber": "H3684",
+          "lemma": "kesil",
+          "meaning": "foolish, stupid fellow"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "I have seen the foolish taking root: but suddenly I cursed his habitation.",
+      "highlightedWords": [
+        {
+          "word": "foolish",
+          "strongNumber": "H3684",
+          "lemma": "kesil",
+          "meaning": "foolish, stupid fellow"
+        },
+        {
+          "word": "habitation",
+          "strongNumber": "H5116",
+          "lemma": "naveh",
+          "meaning": "dwelling, habitation, pasture"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "His children are far from safety, and they are crushed in the gate, neither is there any to deliver them.",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child, descendant"
+        },
+        {
+          "word": "deliver",
+          "strongNumber": "H5337",
+          "lemma": "natsal",
+          "meaning": "to deliver, rescue, save"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Whose harvest the hungry eateth up, and taketh it even out of the thorns, and the robber swalloweth up their substance.",
+      "highlightedWords": [
+        {
+          "word": "harvest",
+          "strongNumber": "H7105",
+          "lemma": "qatsiyr",
+          "meaning": "harvest, crop"
+        },
+        {
+          "word": "hungry",
+          "strongNumber": "H7456",
+          "lemma": "ra'ev",
+          "meaning": "hungry, famished"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Although affliction cometh not forth of the dust, neither doth trouble spring out of the ground;",
+      "highlightedWords": [
+        {
+          "word": "affliction",
+          "strongNumber": "H5999",
+          "lemma": "'amal",
+          "meaning": "trouble, labor, toil, misery"
+        },
+        {
+          "word": "dust",
+          "strongNumber": "H6083",
+          "lemma": "ʿaphar",
+          "meaning": "dust, dry earth"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Yet man is born unto trouble, as the sparks fly upward.",
+      "highlightedWords": [
+        {
+          "word": "man",
+          "strongNumber": "H120",
+          "lemma": "ʾadam",
+          "meaning": "man, humankind"
+        },
+        {
+          "word": "sparks",
+          "strongNumber": "H7565",
+          "lemma": "resheph",
+          "meaning": "flame, fiery spark"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "I would seek unto God, and unto God would I commit my cause:",
+      "highlightedWords": [
+        {
+          "word": "seek",
+          "strongNumber": "H1875",
+          "lemma": "darash",
+          "meaning": "to seek, inquire, consult"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H433",
+          "lemma": "ʾeloah",
+          "meaning": "God, deity"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Which doeth great things and unsearchable; marvellous things without number:",
+      "highlightedWords": [
+        {
+          "word": "marvellous",
+          "strongNumber": "H6381",
+          "lemma": "palaʾ",
+          "meaning": "to be wonderful, extraordinary"
+        },
+        {
+          "word": "number",
+          "strongNumber": "H4557",
+          "lemma": "mispar",
+          "meaning": "number, count"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Who giveth rain upon the earth, and sendeth waters upon the fields:",
+      "highlightedWords": [
+        {
+          "word": "rain",
+          "strongNumber": "H4306",
+          "lemma": "matar",
+          "meaning": "rain"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "ʾerets",
+          "meaning": "earth, land"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "To set up on high those that be low; that those which mourn may be exalted to safety.",
+      "highlightedWords": [
+        {
+          "word": "high",
+          "strongNumber": "H7311",
+          "lemma": "rum",
+          "meaning": "to raise, exalt"
+        },
+        {
+          "word": "mourn",
+          "strongNumber": "H56",
+          "lemma": "ʾabal",
+          "meaning": "to mourn, lament"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "He disappointeth the devices of the crafty, so that their hands cannot perform their enterprise.",
+      "highlightedWords": [
+        {
+          "word": "devices",
+          "strongNumber": "H4284",
+          "lemma": "machashabah",
+          "meaning": "thought, plan, device"
+        },
+        {
+          "word": "crafty",
+          "strongNumber": "H6175",
+          "lemma": "ʿarum",
+          "meaning": "crafty, shrewd, cunning"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "He taketh the wise in their own craftiness: and the counsel of the froward is carried headlong.",
+      "highlightedWords": [
+        {
+          "word": "wise",
+          "strongNumber": "H2450",
+          "lemma": "chakam",
+          "meaning": "wise, skillful"
+        },
+        {
+          "word": "craftiness",
+          "strongNumber": "H6195",
+          "lemma": "ʿormah",
+          "meaning": "craftiness, prudence, shrewdness"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "They meet with darkness in the daytime, and grope in the noonday as in the night.",
+      "highlightedWords": [
+        {
+          "word": "darkness",
+          "strongNumber": "H2822",
+          "lemma": "choshekh",
+          "meaning": "darkness, obscurity"
+        },
+        {
+          "word": "noonday",
+          "strongNumber": "H6672",
+          "lemma": "tsohorayim",
+          "meaning": "noon, midday"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "But he saveth the poor from the sword, from their mouth, and from the hand of the mighty.",
+      "highlightedWords": [
+        {
+          "word": "poor",
+          "strongNumber": "H6041",
+          "lemma": "ʿani",
+          "meaning": "poor, afflicted, humble"
+        },
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "So the poor hath hope, and iniquity stoppeth her mouth.",
+      "highlightedWords": [
+        {
+          "word": "hope",
+          "strongNumber": "H8615",
+          "lemma": "tiqvah",
+          "meaning": "hope, expectation"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H5766",
+          "lemma": "ʿevel",
+          "meaning": "injustice, iniquity"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Behold, happy is the man whom God correcteth: therefore despise not thou the chastening of the Almighty:",
+      "highlightedWords": [
+        {
+          "word": "happy",
+          "strongNumber": "H835",
+          "lemma": "ʾesher",
+          "meaning": "happiness, blessedness"
+        },
+        {
+          "word": "Almighty",
+          "strongNumber": "H7706",
+          "lemma": "Shaddai",
+          "meaning": "the Almighty"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "For he maketh sore, and bindeth up: he woundeth, and his hands make whole.",
+      "highlightedWords": [
+        {
+          "word": "bindeth",
+          "strongNumber": "H2280",
+          "lemma": "chabash",
+          "meaning": "to bind, bandage, heal"
+        },
+        {
+          "word": "whole",
+          "strongNumber": "H7495",
+          "lemma": "raphaʾ",
+          "meaning": "to heal, make whole"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "He shall deliver thee in six troubles: yea, in seven there shall no evil touch thee.",
+      "highlightedWords": [
+        {
+          "word": "deliver",
+          "strongNumber": "H5337",
+          "lemma": "natsal",
+          "meaning": "to deliver, rescue"
+        },
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "raʿ",
+          "meaning": "evil, calamity, disaster"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "In famine he shall redeem thee from death: and in war from the power of the sword.",
+      "highlightedWords": [
+        {
+          "word": "redeem",
+          "strongNumber": "H6299",
+          "lemma": "padah",
+          "meaning": "to ransom, redeem"
+        },
+        {
+          "word": "death",
+          "strongNumber": "H4194",
+          "lemma": "mavet",
+          "meaning": "death"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Thou shalt be hid from the scourge of the tongue: neither shalt thou be afraid of destruction when it cometh.",
+      "highlightedWords": [
+        {
+          "word": "tongue",
+          "strongNumber": "H3956",
+          "lemma": "lashon",
+          "meaning": "tongue, language, speech"
+        },
+        {
+          "word": "destruction",
+          "strongNumber": "H7701",
+          "lemma": "shod",
+          "meaning": "violence, havoc, destruction"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "At destruction and famine thou shalt laugh: neither shalt thou be afraid of the beasts of the earth.",
+      "highlightedWords": [
+        {
+          "word": "beasts",
+          "strongNumber": "H2416",
+          "lemma": "chayyah",
+          "meaning": "beast, animal"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "ʾerets",
+          "meaning": "earth, land"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "For thou shalt be in league with the stones of the field: and the beasts of the field shall be at peace with thee.",
+      "highlightedWords": [
+        {
+          "word": "league",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "covenant, treaty, league"
+        },
+        {
+          "word": "field",
+          "strongNumber": "H7704",
+          "lemma": "sadeh",
+          "meaning": "field, open country"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And thou shalt know that thy tabernacle shall be in peace; and thou shalt visit thy habitation, and shalt not sin.",
+      "highlightedWords": [
+        {
+          "word": "tabernacle",
+          "strongNumber": "H168",
+          "lemma": "ʾohel",
+          "meaning": "tent, dwelling, tabernacle"
+        },
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace, well-being, wholeness"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Thou shalt know also that thy seed shall be great, and thine offspring as the grass of the earth.",
+      "highlightedWords": [
+        {
+          "word": "seed",
+          "strongNumber": "H2233",
+          "lemma": "zeraʿ",
+          "meaning": "seed, offspring, descendants"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "ʾerets",
+          "meaning": "earth, land"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "Thou shalt come to thy grave in a full age, like as a shock of corn cometh in in his season.",
+      "highlightedWords": [
+        {
+          "word": "grave",
+          "strongNumber": "H6913",
+          "lemma": "qeber",
+          "meaning": "grave, burial place"
+        },
+        {
+          "word": "season",
+          "strongNumber": "H6256",
+          "lemma": "ʿeth",
+          "meaning": "time, appointed season"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "Lo this, we have searched it, so it is; hear it, and know thou it for thy good.",
+      "highlightedWords": [
+        {
+          "word": "hear",
+          "strongNumber": "H8085",
+          "lemma": "shamaʿ",
+          "meaning": "to hear, listen, obey"
+        },
+        {
+          "word": "good",
+          "strongNumber": "H2896",
+          "lemma": "tov",
+          "meaning": "good, beneficial, pleasing"
+        }
+      ]
+    }
+  ]
+}

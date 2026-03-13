@@ -1,0 +1,150 @@
+{
+  "book": "Psalms",
+  "chapter": 142,
+  "chapterTheme": {
+    "twoWordSummary": "Cave Prayer",
+    "themeWords": [
+      {
+        "word": "refuge",
+        "strongNumber": "H4268",
+        "lemma": "מַחְסֶה (machseh)",
+        "meaning": "refuge, shelter"
+      },
+      {
+        "word": "deliver",
+        "strongNumber": "H5337",
+        "lemma": "נָצַל (natsal)",
+        "meaning": "to deliver, rescue"
+      }
+    ]
+  },
+  "sentenceTheme": "David cries to the LORD from the cave, pouring out his complaint and seeking refuge and deliverance while trusting God to act.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "I cried unto the LORD with my voice; with my voice unto the LORD did I make my supplication.",
+      "highlightedWords": [
+        {
+          "word": "cried",
+          "strongNumber": "H2199",
+          "lemma": "זָעַק (za'aq)",
+          "meaning": "to cry out, call for help"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "יהוה (YHWH)",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "I poured out my complaint before him; I shewed before him my trouble.",
+      "highlightedWords": [
+        {
+          "word": "complaint",
+          "strongNumber": "H7879",
+          "lemma": "שִׂיחַ (siach)",
+          "meaning": "complaint, meditation"
+        },
+        {
+          "word": "trouble",
+          "strongNumber": "H6869",
+          "lemma": "צָרָה (tsarah)",
+          "meaning": "distress, trouble"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "When my spirit was overwhelmed within me, then thou knewest my path. In the way wherein I walked have they privily laid a snare for me.",
+      "highlightedWords": [
+        {
+          "word": "spirit",
+          "strongNumber": "H7307",
+          "lemma": "רוּחַ (ruach)",
+          "meaning": "spirit, breath, wind"
+        },
+        {
+          "word": "snare",
+          "strongNumber": "H4170",
+          "lemma": "מוֹקֵשׁ (moqesh)",
+          "meaning": "snare, trap"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "I looked on my right hand, and beheld, but there was no man that would know me: refuge failed me; no man cared for my soul.",
+      "highlightedWords": [
+        {
+          "word": "refuge",
+          "strongNumber": "H4498",
+          "lemma": "מָנוֹס (manos)",
+          "meaning": "refuge, place of escape"
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "נֶפֶשׁ (nephesh)",
+          "meaning": "soul, life, self"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "I cried unto thee, O LORD: I said, Thou art my refuge and my portion in the land of the living.",
+      "highlightedWords": [
+        {
+          "word": "refuge",
+          "strongNumber": "H4268",
+          "lemma": "מַחְסֶה (machseh)",
+          "meaning": "refuge, shelter"
+        },
+        {
+          "word": "portion",
+          "strongNumber": "H2506",
+          "lemma": "חֵלֶק (cheleq)",
+          "meaning": "portion, share"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Attend unto my cry; for I am brought very low: deliver me from my persecutors; for they are stronger than I.",
+      "highlightedWords": [
+        {
+          "word": "deliver",
+          "strongNumber": "H5337",
+          "lemma": "נָצַל (natsal)",
+          "meaning": "to deliver, rescue"
+        },
+        {
+          "word": "persecutors",
+          "strongNumber": "H7291",
+          "lemma": "רָדַף (radaph)",
+          "meaning": "to pursue, chase; persecutors"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Bring my soul out of prison, that I may praise thy name: the righteous shall compass me about; for thou shalt deal bountifully with me.",
+      "highlightedWords": [
+        {
+          "word": "prison",
+          "strongNumber": "H4525",
+          "lemma": "מַסְגֵּר (masger)",
+          "meaning": "prison, confinement"
+        },
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "צַדִּיק (tsaddiq)",
+          "meaning": "righteous, just"
+        }
+      ]
+    }
+  ]
+}

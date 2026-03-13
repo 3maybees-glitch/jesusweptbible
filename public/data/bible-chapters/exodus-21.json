@@ -1,0 +1,672 @@
+{
+  "book": "Exodus",
+  "chapter": 21,
+  "chapterTheme": {
+    "twoWordSummary": "Civil Judgments",
+    "themeWords": [
+      {
+        "word": "servant",
+        "strongNumber": "H5650",
+        "lemma": "ʿeved",
+        "meaning": "servant, slave, bondman"
+      },
+      {
+        "word": "ox",
+        "strongNumber": "H7794",
+        "lemma": "shor",
+        "meaning": "ox, bull"
+      }
+    ]
+  },
+  "sentenceTheme": "Laws for servants, personal injuries, and property responsibility establish justice among Israel.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Now these are the judgments which thou shalt set before them.",
+      "highlightedWords": [
+        {
+          "word": "judgments",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "judgment, justice, ordinance"
+        },
+        {
+          "word": "set",
+          "strongNumber": "H7760",
+          "lemma": "sim",
+          "meaning": "to set, put, place"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "If thou buy an Hebrew servant, six years he shall serve: and in the seventh he shall go out free for nothing.",
+      "highlightedWords": [
+        {
+          "word": "Hebrew",
+          "strongNumber": "H5680",
+          "lemma": "Ibri",
+          "meaning": "a Hebrew, descendant of Eber"
+        },
+        {
+          "word": "servant",
+          "strongNumber": "H5650",
+          "lemma": "ʿeved",
+          "meaning": "servant, slave, bondman"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "If he came in by himself, he shall go out by himself: if he were married, then his wife shall go out with him.",
+      "highlightedWords": [
+        {
+          "word": "go",
+          "strongNumber": "H3318",
+          "lemma": "yatsa",
+          "meaning": "to go out, depart"
+        },
+        {
+          "word": "wife",
+          "strongNumber": "H802",
+          "lemma": "ishshah",
+          "meaning": "woman, wife"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "If his master have given him a wife, and she have born him sons or daughters; the wife and her children shall be her master's, and he shall go out by himself.",
+      "highlightedWords": [
+        {
+          "word": "master",
+          "strongNumber": "H113",
+          "lemma": "adon",
+          "meaning": "lord, master"
+        },
+        {
+          "word": "wife",
+          "strongNumber": "H802",
+          "lemma": "ishshah",
+          "meaning": "woman, wife"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And if the servant shall plainly say, I love my master, my wife, and my children; I will not go out free:",
+      "highlightedWords": [
+        {
+          "word": "servant",
+          "strongNumber": "H5650",
+          "lemma": "ʿeved",
+          "meaning": "servant, slave, bondman"
+        },
+        {
+          "word": "love",
+          "strongNumber": "H157",
+          "lemma": "ahab",
+          "meaning": "to love"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Then his master shall bring him unto the judges; he shall also bring him to the door, or unto the door post; and his master shall bore his ear through with an aul; and he shall serve him for ever.",
+      "highlightedWords": [
+        {
+          "word": "judges",
+          "strongNumber": "H430",
+          "lemma": "elohim",
+          "meaning": "God, gods; here, judges"
+        },
+        {
+          "word": "ear",
+          "strongNumber": "H241",
+          "lemma": "ozen",
+          "meaning": "ear"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And if a man sell his daughter to be a maidservant, she shall not go out as the menservants do.",
+      "highlightedWords": [
+        {
+          "word": "daughter",
+          "strongNumber": "H1323",
+          "lemma": "bat",
+          "meaning": "daughter"
+        },
+        {
+          "word": "maidservant",
+          "strongNumber": "H519",
+          "lemma": "amah",
+          "meaning": "maidservant, maid"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "If she please not her master, who hath betrothed her to himself, then shall he let her be redeemed: to sell her unto a strange nation he shall have no power; seeing he hath dealt deceitfully with her.",
+      "highlightedWords": [
+        {
+          "word": "master",
+          "strongNumber": "H113",
+          "lemma": "adon",
+          "meaning": "lord, master"
+        },
+        {
+          "word": "redeemed",
+          "strongNumber": "H1350",
+          "lemma": "gaal",
+          "meaning": "to redeem, act as kinsman"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And if he have betrothed her unto his son, he shall deal with her after the manner of daughters.",
+      "highlightedWords": [
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son"
+        },
+        {
+          "word": "daughters",
+          "strongNumber": "H1323",
+          "lemma": "bat",
+          "meaning": "daughter"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "If he take him another wife; her food, her raiment, and her duty of marriage, shall he not diminish.",
+      "highlightedWords": [
+        {
+          "word": "wife",
+          "strongNumber": "H802",
+          "lemma": "ishshah",
+          "meaning": "woman, wife"
+        },
+        {
+          "word": "raiment",
+          "strongNumber": "H899",
+          "lemma": "beged",
+          "meaning": "garment, clothing, raiment"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And if he do not these three unto her, then shall she go out free without money.",
+      "highlightedWords": [
+        {
+          "word": "free",
+          "strongNumber": "H2670",
+          "lemma": "chophshi",
+          "meaning": "free, liberty"
+        },
+        {
+          "word": "money",
+          "strongNumber": "H3701",
+          "lemma": "keseph",
+          "meaning": "silver, money"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "He that smiteth a man, so that he die, shall be surely put to death.",
+      "highlightedWords": [
+        {
+          "word": "smiteth",
+          "strongNumber": "H5221",
+          "lemma": "nakah",
+          "meaning": "to strike, smite"
+        },
+        {
+          "word": "die",
+          "strongNumber": "H4191",
+          "lemma": "muth",
+          "meaning": "to die"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And if a man lie not in wait, but God deliver him into his hand; then I will appoint thee a place whither he shall flee.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "elohim",
+          "meaning": "God"
+        },
+        {
+          "word": "place",
+          "strongNumber": "H4725",
+          "lemma": "maqom",
+          "meaning": "place"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "But if a man come presumptuously upon his neighbour, to slay him with guile; thou shalt take him from mine altar, that he may die.",
+      "highlightedWords": [
+        {
+          "word": "neighbour",
+          "strongNumber": "H7453",
+          "lemma": "rea",
+          "meaning": "neighbor, friend"
+        },
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And he that smiteth his father, or his mother, shall be surely put to death.",
+      "highlightedWords": [
+        {
+          "word": "father",
+          "strongNumber": "H1",
+          "lemma": "ʾab",
+          "meaning": "father"
+        },
+        {
+          "word": "mother",
+          "strongNumber": "H517",
+          "lemma": "ʾem",
+          "meaning": "mother"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And he that stealeth a man, and selleth him, or if he be found in his hand, he shall surely be put to death.",
+      "highlightedWords": [
+        {
+          "word": "stealeth",
+          "strongNumber": "H1589",
+          "lemma": "ganab",
+          "meaning": "to steal"
+        },
+        {
+          "word": "man",
+          "strongNumber": "H376",
+          "lemma": "ish",
+          "meaning": "man"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And he that curseth his father, or his mother, shall surely be put to death.",
+      "highlightedWords": [
+        {
+          "word": "father",
+          "strongNumber": "H1",
+          "lemma": "ʾab",
+          "meaning": "father"
+        },
+        {
+          "word": "mother",
+          "strongNumber": "H517",
+          "lemma": "ʾem",
+          "meaning": "mother"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And if men strive together, and one smite another with a stone, or with his fist, and he die not, but keepeth his bed:",
+      "highlightedWords": [
+        {
+          "word": "stone",
+          "strongNumber": "H68",
+          "lemma": "even",
+          "meaning": "stone"
+        },
+        {
+          "word": "fist",
+          "strongNumber": "H106",
+          "lemma": "egrof",
+          "meaning": "fist"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "If he rise again, and walk abroad upon his staff, then shall he that smote him be quit: only he shall pay for the loss of his time, and shall cause him to be thoroughly healed.",
+      "highlightedWords": [
+        {
+          "word": "staff",
+          "strongNumber": "H4938",
+          "lemma": "mish'eneth",
+          "meaning": "staff, support"
+        },
+        {
+          "word": "healed",
+          "strongNumber": "H7495",
+          "lemma": "rapha",
+          "meaning": "to heal, make whole"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And if a man smite his servant, or his maid, with a rod, and he die under his hand; he shall be surely punished.",
+      "highlightedWords": [
+        {
+          "word": "servant",
+          "strongNumber": "H5650",
+          "lemma": "ʿeved",
+          "meaning": "servant, slave, bondman"
+        },
+        {
+          "word": "rod",
+          "strongNumber": "H7626",
+          "lemma": "shebet",
+          "meaning": "rod, staff, scepter"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Notwithstanding, if he continue a day or two, he shall not be punished: for he is his money.",
+      "highlightedWords": [
+        {
+          "word": "day",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day"
+        },
+        {
+          "word": "money",
+          "strongNumber": "H3701",
+          "lemma": "keseph",
+          "meaning": "silver, money"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "If men strive, and hurt a woman with child, so that her fruit depart from her, and yet no mischief follow: he shall be surely punished, according as the woman's husband will lay upon him; and he shall pay as the judges determine.",
+      "highlightedWords": [
+        {
+          "word": "woman",
+          "strongNumber": "H802",
+          "lemma": "ishshah",
+          "meaning": "woman, wife"
+        },
+        {
+          "word": "judges",
+          "strongNumber": "H430",
+          "lemma": "elohim",
+          "meaning": "God; here, judges"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And if any mischief follow, then thou shalt give life for life,",
+      "highlightedWords": [
+        {
+          "word": "give",
+          "strongNumber": "H5414",
+          "lemma": "natan",
+          "meaning": "to give, put, set"
+        },
+        {
+          "word": "life",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "life, soul"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Eye for eye, tooth for tooth, hand for hand, foot for foot,",
+      "highlightedWords": [
+        {
+          "word": "Eye",
+          "strongNumber": "H5869",
+          "lemma": "ayin",
+          "meaning": "eye"
+        },
+        {
+          "word": "tooth",
+          "strongNumber": "H8127",
+          "lemma": "shen",
+          "meaning": "tooth"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Burning for burning, wound for wound, stripe for stripe.",
+      "highlightedWords": [
+        {
+          "word": "wound",
+          "strongNumber": "H6482",
+          "lemma": "petsaʿ",
+          "meaning": "wound, injury"
+        },
+        {
+          "word": "stripe",
+          "strongNumber": "H2250",
+          "lemma": "chabburah",
+          "meaning": "stripe, bruise, blow"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And if a man smite the eye of his servant, or the eye of his maid, that it perish; he shall let him go free for his eye's sake.",
+      "highlightedWords": [
+        {
+          "word": "eye",
+          "strongNumber": "H5869",
+          "lemma": "ayin",
+          "meaning": "eye"
+        },
+        {
+          "word": "free",
+          "strongNumber": "H2670",
+          "lemma": "chophshi",
+          "meaning": "free, liberty"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And if he smite out his manservant's tooth, or his maidservant's tooth; he shall let him go free for his tooth's sake.",
+      "highlightedWords": [
+        {
+          "word": "tooth",
+          "strongNumber": "H8127",
+          "lemma": "shen",
+          "meaning": "tooth"
+        },
+        {
+          "word": "free",
+          "strongNumber": "H2670",
+          "lemma": "chophshi",
+          "meaning": "free, liberty"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "If an ox gore a man or a woman, that they die: then the ox shall be surely stoned, and his flesh shall not be eaten; but the owner of the ox shall be quit.",
+      "highlightedWords": [
+        {
+          "word": "ox",
+          "strongNumber": "H7794",
+          "lemma": "shor",
+          "meaning": "ox, bull"
+        },
+        {
+          "word": "owner",
+          "strongNumber": "H1167",
+          "lemma": "baʿal",
+          "meaning": "owner, master, lord"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "But if the ox were wont to push with his horn in time past, and it hath been testified to his owner, and he hath not kept him in, but that he hath killed a man or a woman; the ox shall be stoned, and his owner also shall be put to death.",
+      "highlightedWords": [
+        {
+          "word": "horn",
+          "strongNumber": "H7161",
+          "lemma": "qeren",
+          "meaning": "horn"
+        },
+        {
+          "word": "owner",
+          "strongNumber": "H1167",
+          "lemma": "baʿal",
+          "meaning": "owner, master, lord"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "If there be laid on him a sum of money, then he shall give for the ransom of his life whatsoever is laid upon him.",
+      "highlightedWords": [
+        {
+          "word": "ransom",
+          "strongNumber": "H3724",
+          "lemma": "koper",
+          "meaning": "ransom, price of a life"
+        },
+        {
+          "word": "life",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "life, soul"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "Whether he have gored a son, or have gored a daughter, according to this judgment shall it be done unto him.",
+      "highlightedWords": [
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son"
+        },
+        {
+          "word": "daughter",
+          "strongNumber": "H1323",
+          "lemma": "bat",
+          "meaning": "daughter"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "If the ox shall push a manservant or a maidservant; he shall give unto their master thirty shekels of silver, and the ox shall be stoned.",
+      "highlightedWords": [
+        {
+          "word": "manservant",
+          "strongNumber": "H5650",
+          "lemma": "ʿeved",
+          "meaning": "servant, bondman"
+        },
+        {
+          "word": "shekels",
+          "strongNumber": "H8255",
+          "lemma": "sheqel",
+          "meaning": "shekel (weight/currency)"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "And if a man shall open a pit, or if a man shall dig a pit, and not cover it, and an ox or an ass fall therein;",
+      "highlightedWords": [
+        {
+          "word": "pit",
+          "strongNumber": "H953",
+          "lemma": "bor",
+          "meaning": "pit, cistern"
+        },
+        {
+          "word": "ass",
+          "strongNumber": "H2543",
+          "lemma": "chamor",
+          "meaning": "donkey, ass"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "The owner of the pit shall make it good, and give money unto the owner of them; and the dead beast shall be his.",
+      "highlightedWords": [
+        {
+          "word": "owner",
+          "strongNumber": "H1167",
+          "lemma": "baʿal",
+          "meaning": "owner, master, lord"
+        },
+        {
+          "word": "money",
+          "strongNumber": "H3701",
+          "lemma": "keseph",
+          "meaning": "silver, money"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "And if one man's ox hurt another's, that he die; then they shall sell the live ox, and divide the money of it; and the dead ox also they shall divide.",
+      "highlightedWords": [
+        {
+          "word": "ox",
+          "strongNumber": "H7794",
+          "lemma": "shor",
+          "meaning": "ox, bull"
+        },
+        {
+          "word": "money",
+          "strongNumber": "H3701",
+          "lemma": "keseph",
+          "meaning": "silver, money"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "Or if it be known that the ox hath used to push in time past, and his owner hath not kept him in; he shall surely pay ox for ox; and the dead shall be his own.",
+      "highlightedWords": [
+        {
+          "word": "known",
+          "strongNumber": "H3045",
+          "lemma": "yada",
+          "meaning": "to know"
+        },
+        {
+          "word": "pay",
+          "strongNumber": "H7999",
+          "lemma": "shalam",
+          "meaning": "to make whole, repay"
+        }
+      ]
+    }
+  ]
+}

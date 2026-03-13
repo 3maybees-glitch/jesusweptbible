@@ -1,0 +1,456 @@
+{
+  "book": "Genesis",
+  "chapter": 22,
+  "chapterTheme": {
+    "twoWordSummary": "Tested Provision",
+    "themeWords": [
+      {
+        "word": "tempt",
+        "strongNumber": "H5254",
+        "lemma": "nasah",
+        "meaning": "to test, try, prove"
+      },
+      {
+        "word": "provide",
+        "strongNumber": "H7200",
+        "lemma": "ra'ah",
+        "meaning": "to see, look, provide"
+      }
+    ]
+  },
+  "sentenceTheme": "God tests Abraham by commanding him to offer Isaac, then provides a ram and reaffirms His covenant promises.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, here I am.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "elohim",
+          "meaning": "God; mighty ones"
+        },
+        {
+          "word": "tempt",
+          "strongNumber": "H5254",
+          "lemma": "nasah",
+          "meaning": "to test, try, prove"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And he said, Take now thy son, thine only son Isaac, whom thou lovest, and get thee into the land of Moriah; and offer him there for a burnt offering upon one of the mountains which I will tell thee of.",
+      "highlightedWords": [
+        {
+          "word": "Isaac",
+          "strongNumber": "H3327",
+          "lemma": "yitschaq",
+          "meaning": "he laughs"
+        },
+        {
+          "word": "Moriah",
+          "strongNumber": "H4179",
+          "lemma": "moriyyah",
+          "meaning": "seen by Yahweh; Moriah"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And Abraham rose up early in the morning, and saddled his ass, and took two of his young men with him, and Isaac his son, and clave the wood for the burnt offering, and rose up, and went unto the place of which God had told him.",
+      "highlightedWords": [
+        {
+          "word": "Abraham",
+          "strongNumber": "H85",
+          "lemma": "Abraham",
+          "meaning": "father of a multitude"
+        },
+        {
+          "word": "Isaac",
+          "strongNumber": "H3327",
+          "lemma": "yitschaq",
+          "meaning": "he laughs"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Then on the third day Abraham lifted up his eyes, and saw the place afar off.",
+      "highlightedWords": [
+        {
+          "word": "Abraham",
+          "strongNumber": "H85",
+          "lemma": "Abraham",
+          "meaning": "father of a multitude"
+        },
+        {
+          "word": "third",
+          "strongNumber": "H7992",
+          "lemma": "shlishiy",
+          "meaning": "third"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And Abraham said unto his young men, Abide ye here with the ass; and I and the lad will go yonder and worship, and come again to you.",
+      "highlightedWords": [
+        {
+          "word": "lad",
+          "strongNumber": "H5288",
+          "lemma": "na'ar",
+          "meaning": "youth, lad; servant"
+        },
+        {
+          "word": "worship",
+          "strongNumber": "H7812",
+          "lemma": "shachah",
+          "meaning": "to bow down, worship"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And Abraham took the wood of the burnt offering, and laid it upon Isaac his son; and he took the fire in his hand, and a knife; and they went both of them together.",
+      "highlightedWords": [
+        {
+          "word": "wood",
+          "strongNumber": "H6086",
+          "lemma": "'ets",
+          "meaning": "tree, wood"
+        },
+        {
+          "word": "knife",
+          "strongNumber": "H3979",
+          "lemma": "ma'akeleth",
+          "meaning": "knife"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And Isaac spake unto Abraham his father, and said, My father: and he said, Here am I, my son. And he said, Behold the fire and the wood: but where is the lamb for a burnt offering?",
+      "highlightedWords": [
+        {
+          "word": "lamb",
+          "strongNumber": "H7716",
+          "lemma": "seh",
+          "meaning": "lamb; young of small livestock"
+        },
+        {
+          "word": "father",
+          "strongNumber": "H1",
+          "lemma": "'ab",
+          "meaning": "father"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And Abraham said, My son, God will provide himself a lamb for a burnt offering: so they went both of them together.",
+      "highlightedWords": [
+        {
+          "word": "provide",
+          "strongNumber": "H7200",
+          "lemma": "ra'ah",
+          "meaning": "to see, look, provide"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "elohim",
+          "meaning": "God; mighty ones"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And they came to the place which God had told him of; and Abraham built an altar there, and laid the wood in order, and bound Isaac his son, and laid him on the altar upon the wood.",
+      "highlightedWords": [
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar"
+        },
+        {
+          "word": "bound",
+          "strongNumber": "H6123",
+          "lemma": "'aqad",
+          "meaning": "to bind"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And Abraham stretched forth his hand, and took the knife to slay his son.",
+      "highlightedWords": [
+        {
+          "word": "knife",
+          "strongNumber": "H3979",
+          "lemma": "ma'akeleth",
+          "meaning": "knife"
+        },
+        {
+          "word": "slay",
+          "strongNumber": "H7819",
+          "lemma": "shachat",
+          "meaning": "to slaughter, slay"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And the angel of the LORD called unto him out of heaven, and said, Abraham, Abraham: and he said, Here am I.",
+      "highlightedWords": [
+        {
+          "word": "angel",
+          "strongNumber": "H4397",
+          "lemma": "mal'ak",
+          "meaning": "messenger, angel"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of God"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And he said, Lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou fearest God, seeing thou hast not withheld thy son, thine only son from me.",
+      "highlightedWords": [
+        {
+          "word": "fearest",
+          "strongNumber": "H3372",
+          "lemma": "yare'",
+          "meaning": "to fear, revere"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "elohim",
+          "meaning": "God; mighty ones"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And Abraham lifted up his eyes, and looked, and behold behind him a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son.",
+      "highlightedWords": [
+        {
+          "word": "ram",
+          "strongNumber": "H352",
+          "lemma": "'ayil",
+          "meaning": "ram"
+        },
+        {
+          "word": "thicket",
+          "strongNumber": "H5442",
+          "lemma": "sebak",
+          "meaning": "thicket, tangled growth"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And Abraham called the name of that place Jehovahjireh: as it is said to this day, In the mount of the LORD it shall be seen.",
+      "highlightedWords": [
+        {
+          "word": "Jehovahjireh",
+          "strongNumber": "H3070",
+          "lemma": "YHWH yireh",
+          "meaning": "The LORD will provide"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of God"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And the angel of the LORD called unto Abraham out of heaven the second time,",
+      "highlightedWords": [
+        {
+          "word": "angel",
+          "strongNumber": "H4397",
+          "lemma": "mal'ak",
+          "meaning": "messenger, angel"
+        },
+        {
+          "word": "second",
+          "strongNumber": "H8145",
+          "lemma": "sheniy",
+          "meaning": "second"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And said, By myself have I sworn, saith the LORD, for because thou hast done this thing, and hast not withheld thy son, thine only son:",
+      "highlightedWords": [
+        {
+          "word": "sworn",
+          "strongNumber": "H7650",
+          "lemma": "shaba'",
+          "meaning": "to swear, take an oath"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of God"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "That in blessing I will bless thee, and in multiplying I will multiply thy seed as the stars of the heaven, and as the sand which is upon the sea shore; and thy seed shall possess the gate of his enemies;",
+      "highlightedWords": [
+        {
+          "word": "seed",
+          "strongNumber": "H2233",
+          "lemma": "zera'",
+          "meaning": "seed, offspring, descendants"
+        },
+        {
+          "word": "bless",
+          "strongNumber": "H1288",
+          "lemma": "barak",
+          "meaning": "to bless"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And in thy seed shall all the nations of the earth be blessed; because thou hast obeyed my voice.",
+      "highlightedWords": [
+        {
+          "word": "seed",
+          "strongNumber": "H2233",
+          "lemma": "zera'",
+          "meaning": "seed, offspring, descendants"
+        },
+        {
+          "word": "blessed",
+          "strongNumber": "H1288",
+          "lemma": "barak",
+          "meaning": "to bless"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "So Abraham returned unto his young men, and they rose up and went together to Beersheba; and Abraham dwelt at Beersheba.",
+      "highlightedWords": [
+        {
+          "word": "Beersheba",
+          "strongNumber": "H884",
+          "lemma": "Be'er Sheba'",
+          "meaning": "well of seven/oath"
+        },
+        {
+          "word": "returned",
+          "strongNumber": "H7725",
+          "lemma": "shuv",
+          "meaning": "to return, turn back"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And it came to pass after these things, that it was told Abraham, saying, Behold, Milcah, she hath also born children unto thy brother Nahor;",
+      "highlightedWords": [
+        {
+          "word": "Milcah",
+          "strongNumber": "H4435",
+          "lemma": "Milkah",
+          "meaning": "queen"
+        },
+        {
+          "word": "Nahor",
+          "strongNumber": "H5152",
+          "lemma": "Nachor",
+          "meaning": "snorting"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Huz his firstborn, and Buz his brother, and Kemuel the father of Aram,",
+      "highlightedWords": [
+        {
+          "word": "Huz",
+          "strongNumber": "H5780",
+          "lemma": "'Uts",
+          "meaning": "Uz/Huz; counsel"
+        },
+        {
+          "word": "Buz",
+          "strongNumber": "H938",
+          "lemma": "Buwz",
+          "meaning": "contempt"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And Chesed, and Hazo, and Pildash, and Jidlaph, and Bethuel.",
+      "highlightedWords": [
+        {
+          "word": "Chesed",
+          "strongNumber": "H3777",
+          "lemma": "Kesed",
+          "meaning": "Chesed; increase"
+        },
+        {
+          "word": "Bethuel",
+          "strongNumber": "H1328",
+          "lemma": "Bethu'el",
+          "meaning": "Bethuel; man of God"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And Bethuel begat Rebekah: these eight Milcah did bear to Nahor, Abraham's brother.",
+      "highlightedWords": [
+        {
+          "word": "Rebekah",
+          "strongNumber": "H7259",
+          "lemma": "Ribqah",
+          "meaning": "to tie, captivating"
+        },
+        {
+          "word": "Bethuel",
+          "strongNumber": "H1328",
+          "lemma": "Bethu'el",
+          "meaning": "Bethuel; man of God"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And his concubine, whose name was Reumah, she bare also Tebah, and Gaham, and Thahash, and Maachah.",
+      "highlightedWords": [
+        {
+          "word": "concubine",
+          "strongNumber": "H6370",
+          "lemma": "pilegesh",
+          "meaning": "concubine"
+        },
+        {
+          "word": "Reumah",
+          "strongNumber": "H7207",
+          "lemma": "Re'umah",
+          "meaning": "elevation; raised"
+        }
+      ]
+    }
+  ]
+}

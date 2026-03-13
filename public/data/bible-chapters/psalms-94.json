@@ -1,0 +1,438 @@
+{
+  "book": "Psalms",
+  "chapter": 94,
+  "chapterTheme": {
+    "twoWordSummary": "Divine Justice",
+    "themeWords": [
+      {
+        "word": "vengeance",
+        "strongNumber": "H5359",
+        "lemma": "naqamah",
+        "meaning": "vengeance; retribution"
+      },
+      {
+        "word": "judgment",
+        "strongNumber": "H4941",
+        "lemma": "mishpat",
+        "meaning": "justice; legal decision"
+      }
+    ]
+  },
+  "sentenceTheme": "A plea for the LORD to execute justice on the wicked, defend and comfort the righteous, and restore judgment to righteousness.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "O LORD God, to whom vengeance belongeth; O God, to whom vengeance belongeth, shew thyself.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "vengeance",
+          "strongNumber": "H5359",
+          "lemma": "naqamah",
+          "meaning": "vengeance; retribution"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Lift up thyself, thou judge of the earth: render a reward to the proud.",
+      "highlightedWords": [
+        {
+          "word": "judge",
+          "strongNumber": "H8199",
+          "lemma": "shaphat",
+          "meaning": "to judge; to govern"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H0776",
+          "lemma": "’erets",
+          "meaning": "land; earth"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "LORD, how long shall the wicked, how long shall the wicked triumph?",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha‘",
+          "meaning": "wicked; guilty; criminal"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "How long shall they utter and speak hard things? and all the workers of iniquity boast themselves?",
+      "highlightedWords": [
+        {
+          "word": "iniquity",
+          "strongNumber": "H0205",
+          "lemma": "’aven",
+          "meaning": "iniquity; trouble; wickedness"
+        },
+        {
+          "word": "boast",
+          "strongNumber": "H1984",
+          "lemma": "halal",
+          "meaning": "to boast; praise; glory"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "They break in pieces thy people, O LORD, and afflict thine heritage.",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "‘am",
+          "meaning": "people; nation"
+        },
+        {
+          "word": "heritage",
+          "strongNumber": "H5159",
+          "lemma": "nachalah",
+          "meaning": "inheritance; heritage; possession"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "They slay the widow and the stranger, and murder the fatherless.",
+      "highlightedWords": [
+        {
+          "word": "widow",
+          "strongNumber": "H0490",
+          "lemma": "’almanah",
+          "meaning": "widow"
+        },
+        {
+          "word": "fatherless",
+          "strongNumber": "H3490",
+          "lemma": "yathom",
+          "meaning": "orphan; fatherless child"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Yet they say, The LORD shall not see, neither shall the God of Jacob regard it.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "Jacob",
+          "strongNumber": "H3290",
+          "lemma": "Ya‘aqov",
+          "meaning": "Jacob; heel-catcher; Israel’s patriarch"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Understand, ye brutish among the people: and ye fools, when will ye be wise?",
+      "highlightedWords": [
+        {
+          "word": "brutish",
+          "strongNumber": "H1198",
+          "lemma": "ba‘ar",
+          "meaning": "stupid; brutish; senseless"
+        },
+        {
+          "word": "fools",
+          "strongNumber": "H3684",
+          "lemma": "kesil",
+          "meaning": "fool; dullard"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "He that planted the ear, shall he not hear? he that formed the eye, shall he not see?",
+      "highlightedWords": [
+        {
+          "word": "ear",
+          "strongNumber": "H0241",
+          "lemma": "’ozen",
+          "meaning": "ear"
+        },
+        {
+          "word": "eye",
+          "strongNumber": "H5869",
+          "lemma": "‘ayin",
+          "meaning": "eye; appearance; spring"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "He that chastiseth the heathen, shall not he correct? he that teacheth man knowledge, shall not he know?",
+      "highlightedWords": [
+        {
+          "word": "heathen",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation; Gentiles; peoples"
+        },
+        {
+          "word": "knowledge",
+          "strongNumber": "H1847",
+          "lemma": "da‘ath",
+          "meaning": "knowledge; understanding"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "The LORD knoweth the thoughts of man, that they are vanity.",
+      "highlightedWords": [
+        {
+          "word": "thoughts",
+          "strongNumber": "H4284",
+          "lemma": "machashavah",
+          "meaning": "thought; plan; device"
+        },
+        {
+          "word": "vanity",
+          "strongNumber": "H1892",
+          "lemma": "hevel",
+          "meaning": "breath; vapor; vanity"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Blessed is the man whom thou chastenest, O LORD, and teachest him out of thy law;",
+      "highlightedWords": [
+        {
+          "word": "Blessed",
+          "strongNumber": "H0835",
+          "lemma": "’esher",
+          "meaning": "happiness; blessedness"
+        },
+        {
+          "word": "law",
+          "strongNumber": "H8451",
+          "lemma": "torah",
+          "meaning": "instruction; law; teaching"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "That thou mayest give him rest from the days of adversity, until the pit be digged for the wicked.",
+      "highlightedWords": [
+        {
+          "word": "pit",
+          "strongNumber": "H7845",
+          "lemma": "shachath",
+          "meaning": "pit; destruction; grave"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha‘",
+          "meaning": "wicked; guilty; criminal"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "For the LORD will not cast off his people, neither will he forsake his inheritance.",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "‘am",
+          "meaning": "people; nation"
+        },
+        {
+          "word": "inheritance",
+          "strongNumber": "H5159",
+          "lemma": "nachalah",
+          "meaning": "inheritance; heritage; possession"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "But judgment shall return unto righteousness: and all the upright in heart shall follow it.",
+      "highlightedWords": [
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "justice; judgment"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "H6664",
+          "lemma": "tsedeq",
+          "meaning": "righteousness; rightness"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Who will rise up for me against the evildoers? or who will stand up for me against the workers of iniquity?",
+      "highlightedWords": [
+        {
+          "word": "stand",
+          "strongNumber": "H5975",
+          "lemma": "‘amad",
+          "meaning": "to stand; take one’s stand"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H0205",
+          "lemma": "’aven",
+          "meaning": "iniquity; trouble; wickedness"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Unless the LORD had been my help, my soul had almost dwelt in silence.",
+      "highlightedWords": [
+        {
+          "word": "help",
+          "strongNumber": "H5828",
+          "lemma": "‘ezer",
+          "meaning": "help; support"
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul; life; self"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "When I said, My foot slippeth; thy mercy, O LORD, held me up.",
+      "highlightedWords": [
+        {
+          "word": "foot",
+          "strongNumber": "H7272",
+          "lemma": "regel",
+          "meaning": "foot"
+        },
+        {
+          "word": "mercy",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "steadfast love; covenant mercy"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "In the multitude of my thoughts within me thy comforts delight my soul.",
+      "highlightedWords": [
+        {
+          "word": "thoughts",
+          "strongNumber": "H4284",
+          "lemma": "machashavah",
+          "meaning": "thought; plan; device"
+        },
+        {
+          "word": "comforts",
+          "strongNumber": "H8575",
+          "lemma": "tanchumim",
+          "meaning": "consolations; comforts"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Shall the throne of iniquity have fellowship with thee, which frameth mischief by a law?",
+      "highlightedWords": [
+        {
+          "word": "throne",
+          "strongNumber": "H3678",
+          "lemma": "kisse",
+          "meaning": "throne; seat"
+        },
+        {
+          "word": "law",
+          "strongNumber": "H8451",
+          "lemma": "torah",
+          "meaning": "instruction; law; teaching"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "They gather themselves together against the soul of the righteous, and condemn the innocent blood.",
+      "highlightedWords": [
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous; just"
+        },
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "blood"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "But the LORD is my defence; and my God is the rock of my refuge.",
+      "highlightedWords": [
+        {
+          "word": "defence",
+          "strongNumber": "H4869",
+          "lemma": "misgav",
+          "meaning": "high place; stronghold; refuge"
+        },
+        {
+          "word": "rock",
+          "strongNumber": "H6697",
+          "lemma": "tsur",
+          "meaning": "rock; cliff"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And he shall bring upon them their own iniquity, and shall cut them off in their own wickedness; yea, the LORD our God shall cut them off.",
+      "highlightedWords": [
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "‘avon",
+          "meaning": "iniquity; guilt; punishment of iniquity"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    }
+  ]
+}

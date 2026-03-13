@@ -1,0 +1,348 @@
+{
+  "book": "Psalms",
+  "chapter": 88,
+  "chapterTheme": {
+    "twoWordSummary": "Desolate Lament",
+    "themeWords": [
+      {
+        "word": "darkness",
+        "strongNumber": "H2822",
+        "lemma": "choshek",
+        "meaning": "darkness, obscurity"
+      },
+      {
+        "word": "prayer",
+        "strongNumber": "H8605",
+        "lemma": "tephillah",
+        "meaning": "prayer, supplication"
+      }
+    ]
+  },
+  "sentenceTheme": "A relentless cry from the depths, pleading with the LORD amid unending darkness and isolation.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "O LORD God of my salvation, I have cried day and night before thee:",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God; the LORD"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; mighty one(s)"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Let my prayer come before thee: incline thine ear unto my cry;",
+      "highlightedWords": [
+        {
+          "word": "prayer",
+          "strongNumber": "H8605",
+          "lemma": "tephillah",
+          "meaning": "prayer, supplication"
+        },
+        {
+          "word": "ear",
+          "strongNumber": "H0241",
+          "lemma": "ozen",
+          "meaning": "ear"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "For my soul is full of troubles: and my life draweth nigh unto the grave.",
+      "highlightedWords": [
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, self"
+        },
+        {
+          "word": "grave",
+          "strongNumber": "H7585",
+          "lemma": "Sheol",
+          "meaning": "the grave, realm of the dead"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "I am counted with them that go down into the pit: I am as a man that hath no strength:",
+      "highlightedWords": [
+        {
+          "word": "pit",
+          "strongNumber": "H0953",
+          "lemma": "bor",
+          "meaning": "pit, cistern"
+        },
+        {
+          "word": "strength",
+          "strongNumber": "H3581",
+          "lemma": "koach",
+          "meaning": "strength, power"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Free among the dead, like the slain that lie in the grave, whom thou rememberest no more: and they are cut off from thy hand.",
+      "highlightedWords": [
+        {
+          "word": "rememberest",
+          "strongNumber": "H2142",
+          "lemma": "zakar",
+          "meaning": "to remember, recall"
+        },
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Thou hast laid me in the lowest pit, in darkness, in the deeps.",
+      "highlightedWords": [
+        {
+          "word": "darkness",
+          "strongNumber": "H2822",
+          "lemma": "choshek",
+          "meaning": "darkness, obscurity"
+        },
+        {
+          "word": "deeps",
+          "strongNumber": "H8415",
+          "lemma": "tehom",
+          "meaning": "the deep, abyss"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Thy wrath lieth hard upon me, and thou hast afflicted me with all thy waves. Selah.",
+      "highlightedWords": [
+        {
+          "word": "wrath",
+          "strongNumber": "H2534",
+          "lemma": "chemah",
+          "meaning": "wrath, heat, rage"
+        },
+        {
+          "word": "afflicted",
+          "strongNumber": "H6031",
+          "lemma": "anah",
+          "meaning": "to afflict, humble, oppress"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Thou hast put away mine acquaintance far from me; thou hast made me an abomination unto them: I am shut up, and I cannot come forth.",
+      "highlightedWords": [
+        {
+          "word": "abomination",
+          "strongNumber": "H8441",
+          "lemma": "toebah",
+          "meaning": "abomination, detestable thing"
+        },
+        {
+          "word": "come",
+          "strongNumber": "H3318",
+          "lemma": "yatsaʿ",
+          "meaning": "to go out, come forth"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Mine eye mourneth by reason of affliction: LORD, I have called daily upon thee, I have stretched out my hands unto thee.",
+      "highlightedWords": [
+        {
+          "word": "eye",
+          "strongNumber": "H5869",
+          "lemma": "ayin",
+          "meaning": "eye"
+        },
+        {
+          "word": "hands",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Wilt thou shew wonders to the dead? shall the dead arise and praise thee? Selah.",
+      "highlightedWords": [
+        {
+          "word": "wonders",
+          "strongNumber": "H6382",
+          "lemma": "pele",
+          "meaning": "wonder, marvel"
+        },
+        {
+          "word": "praise",
+          "strongNumber": "H1984",
+          "lemma": "halal",
+          "meaning": "to praise, boast"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Shall thy lovingkindness be declared in the grave? or thy faithfulness in destruction?",
+      "highlightedWords": [
+        {
+          "word": "lovingkindness",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "steadfast love, lovingkindness"
+        },
+        {
+          "word": "faithfulness",
+          "strongNumber": "H0530",
+          "lemma": "emunah",
+          "meaning": "faithfulness, steadfastness"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Shall thy wonders be known in the dark? and thy righteousness in the land of forgetfulness?",
+      "highlightedWords": [
+        {
+          "word": "dark",
+          "strongNumber": "H2822",
+          "lemma": "choshek",
+          "meaning": "darkness, obscurity"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "tsedaqah",
+          "meaning": "righteousness, justice"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "But unto thee have I cried, O LORD; and in the morning shall my prayer prevent thee.",
+      "highlightedWords": [
+        {
+          "word": "morning",
+          "strongNumber": "H1242",
+          "lemma": "boqer",
+          "meaning": "morning, dawn"
+        },
+        {
+          "word": "prayer",
+          "strongNumber": "H8605",
+          "lemma": "tephillah",
+          "meaning": "prayer, supplication"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "LORD, why castest thou off my soul? why hidest thou thy face from me?",
+      "highlightedWords": [
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, self"
+        },
+        {
+          "word": "face",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "face, presence"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "I am afflicted and ready to die from my youth up: while I suffer thy terrors I am distracted.",
+      "highlightedWords": [
+        {
+          "word": "youth",
+          "strongNumber": "H5271",
+          "lemma": "naʾuwr",
+          "meaning": "youth, early life"
+        },
+        {
+          "word": "terrors",
+          "strongNumber": "H0367",
+          "lemma": "emah",
+          "meaning": "terror, dread"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Thy fierce wrath goeth over me; thy terrors have cut me off.",
+      "highlightedWords": [
+        {
+          "word": "wrath",
+          "strongNumber": "H2740",
+          "lemma": "charon",
+          "meaning": "burning anger, fierce wrath"
+        },
+        {
+          "word": "terrors",
+          "strongNumber": "H0367",
+          "lemma": "emah",
+          "meaning": "terror, dread"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "They came round about me daily like water; they compassed me about together.",
+      "highlightedWords": [
+        {
+          "word": "water",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters, water"
+        },
+        {
+          "word": "compassed",
+          "strongNumber": "H5437",
+          "lemma": "sabab",
+          "meaning": "to surround, encompass"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Lover and friend hast thou put far from me, and mine acquaintance into darkness.",
+      "highlightedWords": [
+        {
+          "word": "friend",
+          "strongNumber": "H7453",
+          "lemma": "reaʿ",
+          "meaning": "friend, companion"
+        },
+        {
+          "word": "darkness",
+          "strongNumber": "H2822",
+          "lemma": "choshek",
+          "meaning": "darkness, obscurity"
+        }
+      ]
+    }
+  ]
+}

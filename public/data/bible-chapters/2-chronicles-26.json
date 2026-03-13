@@ -1,0 +1,438 @@
+{
+  "book": "2 Chronicles",
+  "chapter": 26,
+  "chapterTheme": {
+    "twoWordSummary": "Uzziah’s Pride",
+    "themeWords": [
+      {
+        "word": "Uzziah",
+        "strongNumber": "H5818",
+        "lemma": "ʿUzziyyāh",
+        "meaning": "my strength is Yah"
+      },
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH (Yehovah)",
+        "meaning": "the proper name of the God of Israel"
+      }
+    ]
+  },
+  "sentenceTheme": "Uzziah prospers while seeking God, but pride leads him to unlawfully burn incense, resulting in leprosy and his son Jotham ruling after him.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Then all the people of Judah took Uzziah, who was sixteen years old, and made him king in the room of his father Amaziah.",
+      "highlightedWords": [
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "praised; the southern kingdom, its people or territory"
+        },
+        {
+          "word": "Uzziah",
+          "strongNumber": "H5818",
+          "lemma": "ʿUzziyyāh",
+          "meaning": "my strength is Yah"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "He built Eloth, and restored it to Judah, after that the king slept with his fathers.",
+      "highlightedWords": [
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "praised; the southern kingdom, its people or territory"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Sixteen years old was Uzziah when he began to reign, and he reigned fifty and two years in Jerusalem. His mother's name also was Jecoliah of Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "Uzziah",
+          "strongNumber": "H5818",
+          "lemma": "ʿUzziyyāh",
+          "meaning": "my strength is Yah"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem; foundation of peace"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And he did that which was right in the sight of the LORD, according to all that his father Amaziah did.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the proper name of the God of Israel"
+        },
+        {
+          "word": "Amaziah",
+          "strongNumber": "H5580",
+          "lemma": "Amatsyah",
+          "meaning": "Yah has strengthened"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And he sought God in the days of Zechariah, who had understanding in the visions of God: and as long as he sought the LORD, God made him to prosper.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’Elohim",
+          "meaning": "God; mighty one(s)"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And he went forth and warred against the Philistines, and brake down the wall of Gath, and the wall of Jabneh, and the wall of Ashdod, and built cities about Ashdod, and among the Philistines.",
+      "highlightedWords": [
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pelistiy",
+          "meaning": "Philistines; inhabitants of Philistia"
+        },
+        {
+          "word": "wall",
+          "strongNumber": "H2346",
+          "lemma": "chomah",
+          "meaning": "wall, city wall, fortification"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And God helped him against the Philistines, and against the Arabians that dwelt in Gur-baal, and the Mehunims.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’Elohim",
+          "meaning": "God; mighty one(s)"
+        },
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pelistiy",
+          "meaning": "Philistines; inhabitants of Philistia"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And the Ammonites gave gifts to Uzziah: and his name spread abroad even to the entering in of Egypt; for he strengthened himself exceedingly.",
+      "highlightedWords": [
+        {
+          "word": "Uzziah",
+          "strongNumber": "H5818",
+          "lemma": "ʿUzziyyāh",
+          "meaning": "my strength is Yah"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Moreover Uzziah built towers in Jerusalem at the corner gate, and at the valley gate, and at the turning of the wall, and fortified them.",
+      "highlightedWords": [
+        {
+          "word": "Uzziah",
+          "strongNumber": "H5818",
+          "lemma": "ʿUzziyyāh",
+          "meaning": "my strength is Yah"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem; foundation of peace"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Also he built towers in the desert, and digged many wells: for he had much cattle, both in the low country, and in the plains: husbandmen also, and vinedressers in the mountains, and in Carmel: for he loved husbandry.",
+      "highlightedWords": [
+        {
+          "word": "cattle",
+          "strongNumber": "H4735",
+          "lemma": "miqneh",
+          "meaning": "livestock, cattle, property"
+        },
+        {
+          "word": "mountains",
+          "strongNumber": "H2022",
+          "lemma": "har",
+          "meaning": "mountain, hill country"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Moreover Uzziah had an host of fighting men, that went out to war by bands, according to the number of their account by the hand of Jeiel the scribe and Maaseiah the ruler, under the hand of Hananiah, one of the king's captains.",
+      "highlightedWords": [
+        {
+          "word": "Uzziah",
+          "strongNumber": "H5818",
+          "lemma": "ʿUzziyyāh",
+          "meaning": "my strength is Yah"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "The whole number of the chief of the fathers of the mighty men of valour were two thousand and six hundred.",
+      "highlightedWords": [
+        {
+          "word": "mighty",
+          "strongNumber": "H1368",
+          "lemma": "gibbôr",
+          "meaning": "mighty, strong, valiant, warrior"
+        },
+        {
+          "word": "fathers",
+          "strongNumber": "H1",
+          "lemma": "’ab",
+          "meaning": "father, ancestor"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And under their hand was an army, three hundred thousand and seven thousand and five hundred, that made war with mighty power, to help the king against the enemy.",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And Uzziah prepared for them throughout all the host shields, and spears, and helmets, and habergeons, and bows, and slings to cast stones.",
+      "highlightedWords": [
+        {
+          "word": "Uzziah",
+          "strongNumber": "H5818",
+          "lemma": "ʿUzziyyāh",
+          "meaning": "my strength is Yah"
+        },
+        {
+          "word": "bows",
+          "strongNumber": "H7198",
+          "lemma": "qeshet",
+          "meaning": "bow (for shooting)"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And he made in Jerusalem engines, invented by cunning men, to be on the towers and upon the bulwarks, to shoot arrows and great stones withal. And his name spread far abroad; for he was marvellously helped, till he was strong.",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem; foundation of peace"
+        },
+        {
+          "word": "arrows",
+          "strongNumber": "H2671",
+          "lemma": "chets",
+          "meaning": "arrow"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "But when he was strong, his heart was lifted up to his destruction: for he transgressed against the LORD his God, and went into the temple of the LORD to burn incense upon the altar of incense.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the proper name of the God of Israel"
+        },
+        {
+          "word": "temple",
+          "strongNumber": "H1964",
+          "lemma": "hêykāl",
+          "meaning": "palace, temple"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And Azariah the priest went in after him, and with him fourscore priests of the LORD, that were valiant men:",
+      "highlightedWords": [
+        {
+          "word": "priest",
+          "strongNumber": "H3548",
+          "lemma": "kōhēn",
+          "meaning": "priest, officiant"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And they withstood Uzziah the king, and said unto him, It appertaineth not unto thee, Uzziah, to burn incense unto the LORD, but to the priests the sons of Aaron, that are consecrated to burn incense: go out of the sanctuary; for thou hast trespassed; neither shall it be for thine honour from the LORD God.",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "H3548",
+          "lemma": "kōhănîm",
+          "meaning": "priests, officiants"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Then Uzziah was wroth, and had a censer in his hand to burn incense: and while he was wroth with the priests, the leprosy even rose up in his forehead before the priests in the house of the LORD, from beside the incense altar.",
+      "highlightedWords": [
+        {
+          "word": "leprosy",
+          "strongNumber": "H6883",
+          "lemma": "tsāra‘ath",
+          "meaning": "leprous disease"
+        },
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbēach",
+          "meaning": "altar (for sacrifice or incense)"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And Azariah the chief priest, and all the priests, looked upon him, and, behold, he was leprous in his forehead, and they thrust him out from thence; yea, himself hasted also to go out, because the LORD had smitten him.",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "H3548",
+          "lemma": "kōhănîm",
+          "meaning": "priests, officiants"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And Uzziah the king was a leper unto the day of his death, and dwelt in a several house, being a leper; for he was cut off from the house of the LORD: and Jotham his son was over the king's house, judging the people of the land.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the proper name of the God of Israel"
+        },
+        {
+          "word": "Jotham",
+          "strongNumber": "H3147",
+          "lemma": "Yôthām",
+          "meaning": "Yah is upright/perfect"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Now the rest of the acts of Uzziah, first and last, did Isaiah the prophet, the son of Amoz, write.",
+      "highlightedWords": [
+        {
+          "word": "prophet",
+          "strongNumber": "H5030",
+          "lemma": "nābî’",
+          "meaning": "prophet, spokesperson"
+        },
+        {
+          "word": "Isaiah",
+          "strongNumber": "H3470",
+          "lemma": "Yĕsha‘yāhû (Yeshayahu)",
+          "meaning": "Yah is salvation"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "So Uzziah slept with his fathers, and they buried him with his fathers in the field of the burial which belonged to the kings; for they said, He is a leper: and Jotham his son reigned in his stead.",
+      "highlightedWords": [
+        {
+          "word": "kings",
+          "strongNumber": "H4428",
+          "lemma": "mĕlākîm (from melek)",
+          "meaning": "kings, rulers"
+        },
+        {
+          "word": "Jotham",
+          "strongNumber": "H3147",
+          "lemma": "Yôthām",
+          "meaning": "Yah is upright/perfect"
+        }
+      ]
+    }
+  ]
+}

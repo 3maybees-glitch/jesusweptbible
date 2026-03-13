@@ -1,0 +1,348 @@
+{
+  "book": "Malachi",
+  "chapter": 3,
+  "chapterTheme": {
+    "twoWordSummary": "Refining Faithfulness",
+    "themeWords": [
+      {
+        "word": "covenant",
+        "strongNumber": "H1285",
+        "lemma": "beriyth",
+        "meaning": "a covenant, treaty, pledge; a solemn agreement"
+      },
+      {
+        "word": "tithes",
+        "strongNumber": "H4643",
+        "lemma": "maʿăśēr",
+        "meaning": "a tenth part; tithe given as an offering"
+      }
+    ]
+  },
+  "sentenceTheme": "The LORD comes to refine His people, calls them to return through justice and faithful tithes, and declares a final distinction between the righteous and the wicked.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Behold, I will send my messenger, and he shall prepare the way before me: and the Lord, whom ye seek, shall suddenly come to his temple, even the messenger of the covenant, whom ye delight in: behold, he shall come, saith the LORD of hosts.",
+      "highlightedWords": [
+        {
+          "word": "messenger",
+          "strongNumber": "H4397",
+          "lemma": "malʾak",
+          "meaning": "messenger, angel, envoy"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "But who may abide the day of his coming? and who shall stand when he appeareth? for he is like a refiner's fire, and like fullers' soap:",
+      "highlightedWords": [
+        {
+          "word": "refiner's",
+          "strongNumber": "H6884",
+          "lemma": "ṣārap̄",
+          "meaning": "to smelt, refine; a refiner"
+        },
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "ʾēš",
+          "meaning": "fire"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And he shall sit as a refiner and purifier of silver: and he shall purify the sons of Levi, and purge them as gold and silver, that they may offer unto the LORD an offering in righteousness.",
+      "highlightedWords": [
+        {
+          "word": "purify",
+          "strongNumber": "H2891",
+          "lemma": "ṭāhēr",
+          "meaning": "to make clean, purify"
+        },
+        {
+          "word": "Levi",
+          "strongNumber": "H3878",
+          "lemma": "Lēwî",
+          "meaning": "Levi; the tribe descended from Levi"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Then shall the offering of Judah and Jerusalem be pleasant unto the LORD, as in the days of old, and as in former years.",
+      "highlightedWords": [
+        {
+          "word": "offering",
+          "strongNumber": "H4503",
+          "lemma": "minḥāh",
+          "meaning": "offering, tribute, grain offering"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yəhûdāh",
+          "meaning": "Judah; the southern kingdom, a son of Jacob"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And I will come near to you to judgment; and I will be a swift witness against the sorcerers, and against the adulterers, and against false swearers, and against those that oppress the hireling in his wages, the widow, and the fatherless, and that turn aside the stranger from his right, and fear not me, saith the LORD of hosts.",
+      "highlightedWords": [
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mišpāṭ",
+          "meaning": "justice, judgment, legal decision"
+        },
+        {
+          "word": "sorcerers",
+          "strongNumber": "H3784",
+          "lemma": "kāšap̄",
+          "meaning": "to practice sorcery or witchcraft"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "For I am the LORD, I change not; therefore ye sons of Jacob are not consumed.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        },
+        {
+          "word": "Jacob",
+          "strongNumber": "H3290",
+          "lemma": "Yaʿăqōb",
+          "meaning": "Jacob; Israel, the patriarch and his descendants"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Even from the days of your fathers ye are gone away from mine ordinances, and have not kept them. Return unto me, and I will return unto you, saith the LORD of hosts. But ye said, Wherein shall we return?",
+      "highlightedWords": [
+        {
+          "word": "Return",
+          "strongNumber": "H7725",
+          "lemma": "šûb",
+          "meaning": "to turn back, return, repent"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Will a man rob God? Yet ye have robbed me. But ye say, Wherein have we robbed thee? In tithes and offerings.",
+      "highlightedWords": [
+        {
+          "word": "rob",
+          "strongNumber": "H6906",
+          "lemma": "qābaʿ",
+          "meaning": "to rob, defraud"
+        },
+        {
+          "word": "tithes",
+          "strongNumber": "H4643",
+          "lemma": "maʿăśēr",
+          "meaning": "a tenth part; tithe"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Ye are cursed with a curse: for ye have robbed me, even this whole nation.",
+      "highlightedWords": [
+        {
+          "word": "curse",
+          "strongNumber": "H3994",
+          "lemma": "məʾērāh",
+          "meaning": "a curse, cursing"
+        },
+        {
+          "word": "nation",
+          "strongNumber": "H1471",
+          "lemma": "gôy",
+          "meaning": "nation, people"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Bring ye all the tithes into the storehouse, that there may be meat in mine house, and prove me now herewith, saith the LORD of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it.",
+      "highlightedWords": [
+        {
+          "word": "tithes",
+          "strongNumber": "H4643",
+          "lemma": "maʿăśēr",
+          "meaning": "a tenth part; tithe"
+        },
+        {
+          "word": "windows",
+          "strongNumber": "H699",
+          "lemma": "ʾărubbāh",
+          "meaning": "lattice, window, sluice"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And I will rebuke the devourer for your sakes, and he shall not destroy the fruits of your ground; neither shall your vine cast her fruit before the time in the field, saith the LORD of hosts.",
+      "highlightedWords": [
+        {
+          "word": "rebuke",
+          "strongNumber": "H1605",
+          "lemma": "gāʿar",
+          "meaning": "to rebuke, reprove"
+        },
+        {
+          "word": "devourer",
+          "strongNumber": "H398",
+          "lemma": "ʾākal",
+          "meaning": "to eat, consume; devourer"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And all nations shall call you blessed: for ye shall be a delightsome land, saith the LORD of hosts.",
+      "highlightedWords": [
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "gôy",
+          "meaning": "nations, peoples"
+        },
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "ʾereṣ",
+          "meaning": "land, earth"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Your words have been stout against me, saith the LORD. Yet ye say, What have we spoken so much against thee?",
+      "highlightedWords": [
+        {
+          "word": "words",
+          "strongNumber": "H1697",
+          "lemma": "dābār",
+          "meaning": "word, matter, thing"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Ye have said, It is vain to serve God: and what profit is it that we have kept his ordinance, and that we have walked mournfully before the LORD of hosts?",
+      "highlightedWords": [
+        {
+          "word": "serve",
+          "strongNumber": "H5647",
+          "lemma": "ʿābad",
+          "meaning": "to serve, work, worship"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And now we call the proud happy; yea, they that work wickedness are set up; yea, they that tempt God are even delivered.",
+      "highlightedWords": [
+        {
+          "word": "proud",
+          "strongNumber": "H2086",
+          "lemma": "zēd",
+          "meaning": "insolent, arrogant, proud"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "ʾĕlōhîm",
+          "meaning": "God; gods; the true God"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Then they that feared the LORD spake often one to another: and the LORD hearkened, and heard it, and a book of remembrance was written before him for them that feared the LORD, and that thought upon his name.",
+      "highlightedWords": [
+        {
+          "word": "book",
+          "strongNumber": "H5612",
+          "lemma": "sēper",
+          "meaning": "book, scroll, document"
+        },
+        {
+          "word": "feared",
+          "strongNumber": "H3372",
+          "lemma": "yārēʾ",
+          "meaning": "to fear, revere, be in awe"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And they shall be mine, saith the LORD of hosts, in that day when I make up my jewels; and I will spare them, as a man spareth his own son that serveth him.",
+      "highlightedWords": [
+        {
+          "word": "jewels",
+          "strongNumber": "H5459",
+          "lemma": "segullāh",
+          "meaning": "personal possession, treasured property"
+        },
+        {
+          "word": "spare",
+          "strongNumber": "H2550",
+          "lemma": "ḥûs",
+          "meaning": "to pity, spare, have compassion"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Then shall ye return, and discern between the righteous and the wicked, between him that serveth God and him that serveth him not.",
+      "highlightedWords": [
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "ṣaddîq",
+          "meaning": "righteous, just, in the right"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rāšāʿ",
+          "meaning": "wicked, guilty, one in the wrong"
+        }
+      ]
+    }
+  ]
+}

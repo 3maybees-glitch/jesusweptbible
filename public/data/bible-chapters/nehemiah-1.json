@@ -1,0 +1,222 @@
+{
+  "book": "Nehemiah",
+  "chapter": 1,
+  "chapterTheme": {
+    "twoWordSummary": "Confession Prayer",
+    "themeWords": [
+      {
+        "word": "covenant",
+        "strongNumber": "H1285",
+        "lemma": "berith",
+        "meaning": "covenant, treaty, agreement"
+      },
+      {
+        "word": "prayer",
+        "strongNumber": "H8605",
+        "lemma": "tephillah",
+        "meaning": "prayer, supplication"
+      }
+    ]
+  },
+  "sentenceTheme": "Nehemiah hears of Jerusalem’s devastation and offers a humble, covenant-grounded confession, seeking God’s mercy and favor before the king.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "The words of Nehemiah the son of Hachaliah. And it came to pass in the month Chisleu, in the twentieth year, as I was in Shushan the palace,",
+      "highlightedWords": [
+        {
+          "word": "Nehemiah",
+          "strongNumber": "H5166",
+          "lemma": "Nechemyah",
+          "meaning": "Yahweh comforts"
+        },
+        {
+          "word": "Shushan",
+          "strongNumber": "H7800",
+          "lemma": "Shushan",
+          "meaning": "Susa; lily"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "That Hanani, one of my brethren, came, he and certain men of Judah; and I asked them concerning the Jews that had escaped, which were left of the captivity, and concerning Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "Hanani",
+          "strongNumber": "H2607",
+          "lemma": "Chanani",
+          "meaning": "gracious; my grace"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem; city of peace"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And they said unto me, The remnant that are left of the captivity there in the province are in great affliction and reproach: the wall of Jerusalem also is broken down, and the gates thereof are burned with fire.",
+      "highlightedWords": [
+        {
+          "word": "wall",
+          "strongNumber": "H2346",
+          "lemma": "chomah",
+          "meaning": "wall, fortification"
+        },
+        {
+          "word": "gates",
+          "strongNumber": "H8179",
+          "lemma": "sha'ar",
+          "meaning": "gate, entrance"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And it came to pass, when I heard these words, that I sat down and wept, and mourned certain days, and fasted, and prayed before the God of heaven,",
+      "highlightedWords": [
+        {
+          "word": "wept",
+          "strongNumber": "H1058",
+          "lemma": "bakah",
+          "meaning": "to weep, wail"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens, sky"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And said, I beseech thee, O LORD God of heaven, the great and terrible God, that keepeth covenant and mercy for them that love him and observe his commandments:",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "Yahweh, the covenant name of God"
+        },
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "covenant, treaty, agreement"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Let thine ear now be attentive, and thine eyes open, that thou mayest hear the prayer of thy servant, which I pray before thee now, day and night, for the children of Israel thy servants, and confess the sins of the children of Israel, which we have sinned against thee: both I and my father's house have sinned.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God prevails"
+        },
+        {
+          "word": "sinned",
+          "strongNumber": "H2398",
+          "lemma": "chata'",
+          "meaning": "to sin, miss the mark"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "We have dealt very corruptly against thee, and have not kept the commandments, nor the statutes, nor the judgments, which thou commandedst thy servant Moses.",
+      "highlightedWords": [
+        {
+          "word": "commandments",
+          "strongNumber": "H4687",
+          "lemma": "mitsvah",
+          "meaning": "commandment, precept"
+        },
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses; drawn out"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Remember, I beseech thee, the word that thou commandedst thy servant Moses, saying, If ye transgress, I will scatter you abroad among the nations:",
+      "highlightedWords": [
+        {
+          "word": "Remember",
+          "strongNumber": "H2142",
+          "lemma": "zakar",
+          "meaning": "to remember, call to mind"
+        },
+        {
+          "word": "scatter",
+          "strongNumber": "H6327",
+          "lemma": "puwts",
+          "meaning": "to scatter, disperse"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "But if ye turn unto me, and keep my commandments, and do them; though there were of you cast out unto the uttermost part of the heaven, yet will I gather them from thence, and will bring them unto the place that I have chosen to set my name there.",
+      "highlightedWords": [
+        {
+          "word": "turn",
+          "strongNumber": "H7725",
+          "lemma": "shuv",
+          "meaning": "to turn back, return"
+        },
+        {
+          "word": "gather",
+          "strongNumber": "H6908",
+          "lemma": "qabats",
+          "meaning": "to gather, collect"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Now these are thy servants and thy people, whom thou hast redeemed by thy great power, and by thy strong hand.",
+      "highlightedWords": [
+        {
+          "word": "redeemed",
+          "strongNumber": "H1350",
+          "lemma": "ga'al",
+          "meaning": "to redeem, act as kinsman-redeemer"
+        },
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "O Lord, I beseech thee, let now thine ear be attentive to the prayer of thy servant, and to the prayer of thy servants, who desire to fear thy name: and prosper, I pray thee, thy servant this day, and grant him mercy in the sight of this man. For I was the king's cupbearer.",
+      "highlightedWords": [
+        {
+          "word": "prosper",
+          "strongNumber": "H6743",
+          "lemma": "tsalach",
+          "meaning": "to prosper, succeed"
+        },
+        {
+          "word": "cupbearer",
+          "strongNumber": "H4945",
+          "lemma": "mashqeh",
+          "meaning": "cupbearer, butler"
+        }
+      ]
+    }
+  ]
+}

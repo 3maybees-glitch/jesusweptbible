@@ -1,0 +1,834 @@
+{
+  "book": "Psalms",
+  "chapter": 105,
+  "chapterTheme": {
+    "twoWordSummary": "Covenant Faithfulness",
+    "themeWords": [
+      {
+        "word": "covenant",
+        "strongNumber": "H1285",
+        "lemma": "berith",
+        "meaning": "a binding agreement; divine pledge or treaty"
+      },
+      {
+        "word": "remembered",
+        "strongNumber": "H2142",
+        "lemma": "zakar",
+        "meaning": "to remember, call to mind, act on behalf of"
+      }
+    ]
+  },
+  "sentenceTheme": "A call to praise the LORD for His covenant faithfulness, remembering His mighty works from the patriarchs through the Exodus to giving Israel the land.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "O give thanks unto the LORD; call upon his name: make known his deeds among the people.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the personal, covenant name of God; the LORD"
+        },
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "name, reputation, renown"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Sing unto him, sing psalms unto him: talk ye of all his wondrous works.",
+      "highlightedWords": [
+        {
+          "word": "Sing",
+          "strongNumber": "H7891",
+          "lemma": "shar",
+          "meaning": "to sing"
+        },
+        {
+          "word": "psalms",
+          "strongNumber": "H2167",
+          "lemma": "zamar",
+          "meaning": "to make music, sing praise"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Glory ye in his holy name: let the heart of them rejoice that seek the LORD.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "lev",
+          "meaning": "inner man, mind, will, heart"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the personal, covenant name of God; the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Seek the LORD, and his strength: seek his face evermore.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the personal, covenant name of God; the LORD"
+        },
+        {
+          "word": "strength",
+          "strongNumber": "H5797",
+          "lemma": "oz",
+          "meaning": "strength, might, power"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Remember his marvellous works that he hath done; his wonders, and the judgments of his mouth;",
+      "highlightedWords": [
+        {
+          "word": "Remember",
+          "strongNumber": "H2142",
+          "lemma": "zakar",
+          "meaning": "to remember, recall, call to mind"
+        },
+        {
+          "word": "judgments",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "judgment, decision, justice"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "O ye seed of Abraham his servant, ye children of Jacob his chosen.",
+      "highlightedWords": [
+        {
+          "word": "seed",
+          "strongNumber": "H2233",
+          "lemma": "zera",
+          "meaning": "seed, offspring, descendants"
+        },
+        {
+          "word": "Abraham",
+          "strongNumber": "H85",
+          "lemma": "Avraham",
+          "meaning": "Abraham; patriarch of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "He is the LORD our God: his judgments are in all the earth.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; mighty one"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "eretz",
+          "meaning": "land, earth, territory"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "He hath remembered his covenant for ever, the word which he commanded to a thousand generations.",
+      "highlightedWords": [
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "a binding agreement; divine pledge or treaty"
+        },
+        {
+          "word": "generations",
+          "strongNumber": "H1755",
+          "lemma": "dor",
+          "meaning": "generation, age, period"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Which covenant he made with Abraham, and his oath unto Isaac;",
+      "highlightedWords": [
+        {
+          "word": "oath",
+          "strongNumber": "H7621",
+          "lemma": "shevuah",
+          "meaning": "oath, sworn promise"
+        },
+        {
+          "word": "Isaac",
+          "strongNumber": "H3327",
+          "lemma": "Yitschaq",
+          "meaning": "Isaac; son of Abraham"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And confirmed the same unto Jacob for a law, and to Israel for an everlasting covenant:",
+      "highlightedWords": [
+        {
+          "word": "Jacob",
+          "strongNumber": "H3290",
+          "lemma": "Ya'aqov",
+          "meaning": "Jacob; also called Israel"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisrael",
+          "meaning": "Israel; the people and nation"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Saying, Unto thee will I give the land of Canaan, the lot of your inheritance:",
+      "highlightedWords": [
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "eretz",
+          "meaning": "land, earth, territory"
+        },
+        {
+          "word": "Canaan",
+          "strongNumber": "H3667",
+          "lemma": "Kena'an",
+          "meaning": "Canaan; the land west of the Jordan"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "When they were but a few men in number; yea, very few, and strangers in it.",
+      "highlightedWords": [
+        {
+          "word": "number",
+          "strongNumber": "H4557",
+          "lemma": "mispar",
+          "meaning": "number, count"
+        },
+        {
+          "word": "strangers",
+          "strongNumber": "H1616",
+          "lemma": "ger",
+          "meaning": "sojourner, foreigner"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "When they went from one nation to another, from one kingdom to another people;",
+      "highlightedWords": [
+        {
+          "word": "nation",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation, people"
+        },
+        {
+          "word": "kingdom",
+          "strongNumber": "H4467",
+          "lemma": "mamlakah",
+          "meaning": "kingdom, dominion"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "He suffered no man to do them wrong: yea, he reproved kings for their sakes;",
+      "highlightedWords": [
+        {
+          "word": "reproved",
+          "strongNumber": "H3198",
+          "lemma": "yakach",
+          "meaning": "to rebuke, reprove, correct"
+        },
+        {
+          "word": "kings",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Saying, Touch not mine anointed, and do my prophets no harm.",
+      "highlightedWords": [
+        {
+          "word": "anointed",
+          "strongNumber": "H4899",
+          "lemma": "mashiach",
+          "meaning": "anointed one"
+        },
+        {
+          "word": "prophets",
+          "strongNumber": "H5030",
+          "lemma": "nabi",
+          "meaning": "prophet, spokesperson"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Moreover he called for a famine upon the land: he brake the whole staff of bread.",
+      "highlightedWords": [
+        {
+          "word": "famine",
+          "strongNumber": "H7458",
+          "lemma": "ra'av",
+          "meaning": "famine, hunger"
+        },
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread, food"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "He sent a man before them, even Joseph, who was sold for a servant:",
+      "highlightedWords": [
+        {
+          "word": "Joseph",
+          "strongNumber": "H3130",
+          "lemma": "Yosef",
+          "meaning": "Joseph; son of Jacob"
+        },
+        {
+          "word": "servant",
+          "strongNumber": "H5650",
+          "lemma": "eved",
+          "meaning": "servant, slave"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Whose feet they hurt with fetters: he was laid in iron:",
+      "highlightedWords": [
+        {
+          "word": "fetters",
+          "strongNumber": "H3525",
+          "lemma": "kebel",
+          "meaning": "fetters, shackles"
+        },
+        {
+          "word": "iron",
+          "strongNumber": "H1270",
+          "lemma": "barzel",
+          "meaning": "iron"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Until the time that his word came: the word of the LORD tried him.",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, decree"
+        },
+        {
+          "word": "tried",
+          "strongNumber": "H6884",
+          "lemma": "tsaraph",
+          "meaning": "to refine, test, smelt"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "The king sent and loosed him; even the ruler of the people, and let him go free.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        },
+        {
+          "word": "ruler",
+          "strongNumber": "H4910",
+          "lemma": "mashal",
+          "meaning": "to rule, govern; one who rules"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "He made him lord of his house, and ruler of all his substance:",
+      "highlightedWords": [
+        {
+          "word": "lord",
+          "strongNumber": "H113",
+          "lemma": "adon",
+          "meaning": "lord, master"
+        },
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayit",
+          "meaning": "house, household"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "To bind his princes at his pleasure; and teach his senators wisdom.",
+      "highlightedWords": [
+        {
+          "word": "princes",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "prince, ruler, official"
+        },
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "wisdom, skill"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Israel also came into Egypt; and Jacob sojourned in the land of Ham.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisrael",
+          "meaning": "Israel; the people and nation"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And he increased his people greatly; and made them stronger than their enemies.",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "am",
+          "meaning": "people, nation"
+        },
+        {
+          "word": "enemies",
+          "strongNumber": "H6862",
+          "lemma": "tsar",
+          "meaning": "adversary, enemy"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "He turned their heart to hate his people, to deal subtilly with his servants.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "lev",
+          "meaning": "inner man, mind, will, heart"
+        },
+        {
+          "word": "servants",
+          "strongNumber": "H5650",
+          "lemma": "eved",
+          "meaning": "servants, bondmen"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "He sent Moses his servant; and Aaron whom he had chosen.",
+      "highlightedWords": [
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses; leader and lawgiver of Israel"
+        },
+        {
+          "word": "Aaron",
+          "strongNumber": "H175",
+          "lemma": "Aharon",
+          "meaning": "Aaron; brother of Moses, first high priest"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "They shewed his signs among them, and wonders in the land of Ham.",
+      "highlightedWords": [
+        {
+          "word": "signs",
+          "strongNumber": "H226",
+          "lemma": "oth",
+          "meaning": "sign, token, miracle"
+        },
+        {
+          "word": "wonders",
+          "strongNumber": "H4159",
+          "lemma": "mopheth",
+          "meaning": "wonder, portent, miracle"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "He sent darkness, and made it dark; and they rebelled not against his word.",
+      "highlightedWords": [
+        {
+          "word": "darkness",
+          "strongNumber": "H2822",
+          "lemma": "choshekh",
+          "meaning": "darkness, obscurity"
+        },
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, decree, command"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "He turned their waters into blood, and slew their fish.",
+      "highlightedWords": [
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters"
+        },
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "blood"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "Their land brought forth frogs in abundance, in the chambers of their kings.",
+      "highlightedWords": [
+        {
+          "word": "frogs",
+          "strongNumber": "H6854",
+          "lemma": "tsephardea",
+          "meaning": "frogs"
+        },
+        {
+          "word": "kings",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "kings, rulers"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "He spake, and there came divers sorts of flies, and lice in all their coasts.",
+      "highlightedWords": [
+        {
+          "word": "flies",
+          "strongNumber": "H6157",
+          "lemma": "arob",
+          "meaning": "swarms of flies"
+        },
+        {
+          "word": "lice",
+          "strongNumber": "H3654",
+          "lemma": "kinnim",
+          "meaning": "gnats, lice"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "He gave them hail for rain, and flaming fire in their land.",
+      "highlightedWords": [
+        {
+          "word": "hail",
+          "strongNumber": "H1259",
+          "lemma": "barad",
+          "meaning": "hail"
+        },
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "esh",
+          "meaning": "fire"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "He smote their vines also and their fig trees; and brake the trees of their coasts.",
+      "highlightedWords": [
+        {
+          "word": "vines",
+          "strongNumber": "H1612",
+          "lemma": "gefen",
+          "meaning": "vine"
+        },
+        {
+          "word": "trees",
+          "strongNumber": "H6086",
+          "lemma": "ets",
+          "meaning": "tree, wood"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "He spake, and the locusts came, and caterpillers, and that without number,",
+      "highlightedWords": [
+        {
+          "word": "locusts",
+          "strongNumber": "H697",
+          "lemma": "arbeh",
+          "meaning": "locust"
+        },
+        {
+          "word": "number",
+          "strongNumber": "H4557",
+          "lemma": "mispar",
+          "meaning": "number, countless quantity"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "And did eat up all the herbs in their land, and devoured the fruit of their ground.",
+      "highlightedWords": [
+        {
+          "word": "herbs",
+          "strongNumber": "H6212",
+          "lemma": "eseb",
+          "meaning": "grass, herbs, vegetation"
+        },
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "eretz",
+          "meaning": "land, earth"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "He smote also all the firstborn in their land, the chief of all their strength.",
+      "highlightedWords": [
+        {
+          "word": "firstborn",
+          "strongNumber": "H1060",
+          "lemma": "bekor",
+          "meaning": "firstborn"
+        },
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "eretz",
+          "meaning": "land, earth"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "He brought them forth also with silver and gold: and there was not one feeble person among their tribes.",
+      "highlightedWords": [
+        {
+          "word": "silver",
+          "strongNumber": "H3701",
+          "lemma": "keseph",
+          "meaning": "silver, money"
+        },
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "zahav",
+          "meaning": "gold"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "Egypt was glad when they departed: for the fear of them fell upon them.",
+      "highlightedWords": [
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt"
+        },
+        {
+          "word": "fear",
+          "strongNumber": "H6343",
+          "lemma": "pachad",
+          "meaning": "dread, fear, terror"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "text": "He spread a cloud for a covering; and fire to give light in the night.",
+      "highlightedWords": [
+        {
+          "word": "cloud",
+          "strongNumber": "H6051",
+          "lemma": "anan",
+          "meaning": "cloud"
+        },
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "esh",
+          "meaning": "fire"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "text": "The people asked, and he brought quails, and satisfied them with the bread of heaven.",
+      "highlightedWords": [
+        {
+          "word": "quails",
+          "strongNumber": "H7958",
+          "lemma": "selav",
+          "meaning": "quail"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens, sky"
+        }
+      ]
+    },
+    {
+      "verse": 41,
+      "text": "He opened the rock, and the waters gushed out; they ran in the dry places like a river.",
+      "highlightedWords": [
+        {
+          "word": "rock",
+          "strongNumber": "H6697",
+          "lemma": "tsur",
+          "meaning": "rock, cliff"
+        },
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters"
+        }
+      ]
+    },
+    {
+      "verse": 42,
+      "text": "For he remembered his holy promise, and Abraham his servant.",
+      "highlightedWords": [
+        {
+          "word": "promise",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter; here, a promised word"
+        },
+        {
+          "word": "Abraham",
+          "strongNumber": "H85",
+          "lemma": "Avraham",
+          "meaning": "Abraham; patriarch of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 43,
+      "text": "And he brought forth his people with joy, and his chosen with gladness:",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "am",
+          "meaning": "people, nation"
+        },
+        {
+          "word": "joy",
+          "strongNumber": "H8342",
+          "lemma": "simchah",
+          "meaning": "joy, gladness"
+        }
+      ]
+    },
+    {
+      "verse": 44,
+      "text": "And gave them the lands of the heathen: and they inherited the labour of the people;",
+      "highlightedWords": [
+        {
+          "word": "heathen",
+          "strongNumber": "H1471",
+          "lemma": "goyim",
+          "meaning": "nations, Gentiles"
+        },
+        {
+          "word": "inherited",
+          "strongNumber": "H3423",
+          "lemma": "yarash",
+          "meaning": "to possess, inherit, occupy"
+        }
+      ]
+    },
+    {
+      "verse": 45,
+      "text": "That they might observe his statutes, and keep his laws. Praise ye the LORD.",
+      "highlightedWords": [
+        {
+          "word": "statutes",
+          "strongNumber": "H2706",
+          "lemma": "choq",
+          "meaning": "statute, decree, ordinance"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the personal, covenant name of God; the LORD"
+        }
+      ]
+    }
+  ]
+}

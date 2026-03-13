@@ -1,0 +1,150 @@
+{
+  "book": "Isaiah",
+  "chapter": 18,
+  "chapterTheme": {
+    "twoWordSummary": "Distant Warning",
+    "themeWords": [
+      {
+        "word": "land",
+        "strongNumber": "H776",
+        "lemma": "ʾerets",
+        "meaning": "land; earth; territory"
+      },
+      {
+        "word": "ensign",
+        "strongNumber": "H5251",
+        "lemma": "nēs",
+        "meaning": "banner; signal raised for rallying or warning"
+      }
+    ]
+  },
+  "sentenceTheme": "A prophetic warning to a distant, powerful nation across the rivers, calling all the world to watch God’s signal and timing, for He will act decisively and receive tribute in Zion.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Woe to the land shadowing with wings, which is beyond the rivers of Ethiopia:",
+      "highlightedWords": [
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "ʾerets",
+          "meaning": "land; earth; territory"
+        },
+        {
+          "word": "Ethiopia",
+          "strongNumber": "H3568",
+          "lemma": "Kûš",
+          "meaning": "Cush; region south of Egypt (Ethiopia/Nubia)"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "That sendeth ambassadors by the sea, even in vessels of bulrushes upon the waters, saying, Go, ye swift messengers, to a nation scattered and peeled, to a people terrible from their beginning hitherto; a nation meted out and trodden down, whose land the rivers have spoiled!",
+      "highlightedWords": [
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yām",
+          "meaning": "sea; large body of water"
+        },
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters; liquid; floods"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "All ye inhabitants of the world, and dwellers on the earth, see ye, when he lifteth up an ensign on the mountains; and when he bloweth a trumpet, hear ye.",
+      "highlightedWords": [
+        {
+          "word": "ensign",
+          "strongNumber": "H5251",
+          "lemma": "nēs",
+          "meaning": "banner; signal raised for rallying or warning"
+        },
+        {
+          "word": "trumpet",
+          "strongNumber": "H7782",
+          "lemma": "šōfār",
+          "meaning": "ram’s horn; trumpet"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "For so the LORD said unto me, I will take my rest, and I will consider in my dwelling place like a clear heat upon herbs, and like a cloud of dew in the heat of harvest.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "harvest",
+          "strongNumber": "H7105",
+          "lemma": "qāṣîr",
+          "meaning": "harvest; time of reaping"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "For afore the harvest, when the bud is perfect, and the sour grape is ripening in the flower, he shall both cut off the sprigs with pruning hooks, and take away and cut down the branches.",
+      "highlightedWords": [
+        {
+          "word": "cut off",
+          "strongNumber": "H3772",
+          "lemma": "kārat",
+          "meaning": "to cut off; cut down"
+        },
+        {
+          "word": "pruning hooks",
+          "strongNumber": "H4211",
+          "lemma": "mazmērāh",
+          "meaning": "pruning-knife; pruning hook"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "They shall be left together unto the fowls of the mountains, and to the beasts of the earth: and the fowls shall summer upon them, and all the beasts of the earth shall winter upon them.",
+      "highlightedWords": [
+        {
+          "word": "fowls",
+          "strongNumber": "H5775",
+          "lemma": "ʿôp",
+          "meaning": "birds; flying creatures"
+        },
+        {
+          "word": "beasts",
+          "strongNumber": "H2416",
+          "lemma": "ḥay",
+          "meaning": "living creature; animal; beast"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "In that time shall the present be brought unto the LORD of hosts of a people scattered and peeled, and from a people terrible from their beginning hitherto; a nation meted out and trodden under foot, whose land the rivers have spoiled, to the place of the name of the LORD of hosts, the mount Zion.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Ṣiyyôn",
+          "meaning": "Zion; the hill and city of Jerusalem"
+        }
+      ]
+    }
+  ]
+}

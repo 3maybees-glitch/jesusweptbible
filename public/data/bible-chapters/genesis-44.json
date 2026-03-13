@@ -1,0 +1,636 @@
+{
+  "book": "Genesis",
+  "chapter": 44,
+  "chapterTheme": {
+    "twoWordSummary": "Silver Cup",
+    "themeWords": [
+      {
+        "word": "cup",
+        "strongNumber": "H1375",
+        "lemma": "gabiya",
+        "meaning": "cup; goblet"
+      },
+      {
+        "word": "Benjamin",
+        "strongNumber": "H1144",
+        "lemma": "Binyamin",
+        "meaning": "son of the right hand"
+      }
+    ]
+  },
+  "sentenceTheme": "Joseph tests his brothers by hiding his silver cup in Benjamin's sack, prompting Judah’s heartfelt plea to spare Benjamin by offering himself in his place.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And he commanded the steward of his house, saying, Fill the men's sacks with food, as much as they can carry, and put every man's money in his sack's mouth.",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house; household"
+        },
+        {
+          "word": "money",
+          "strongNumber": "H3701",
+          "lemma": "kesef",
+          "meaning": "silver; money"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And put my cup, the silver cup, in the sack's mouth of the youngest, and his corn money. And he did according to the word that Joseph had spoken.",
+      "highlightedWords": [
+        {
+          "word": "cup",
+          "strongNumber": "H1375",
+          "lemma": "gabiya",
+          "meaning": "cup; goblet"
+        },
+        {
+          "word": "silver",
+          "strongNumber": "H3701",
+          "lemma": "kesef",
+          "meaning": "silver; money"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "As soon as the morning was light, the men were sent away, they and their asses.",
+      "highlightedWords": [
+        {
+          "word": "morning",
+          "strongNumber": "H1242",
+          "lemma": "boqer",
+          "meaning": "morning"
+        },
+        {
+          "word": "asses",
+          "strongNumber": "H2543",
+          "lemma": "chamor",
+          "meaning": "donkey; ass"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And when they were gone out of the city, and not yet far off, Joseph said unto his steward, Up, follow after the men; and when thou dost overtake them, say unto them, Wherefore have ye rewarded evil for good?",
+      "highlightedWords": [
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "iyr",
+          "meaning": "city; town"
+        },
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra'",
+          "meaning": "evil; bad"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Is not this it in which my lord drinketh, and whereby indeed he divineth? ye have done evil in so doing.",
+      "highlightedWords": [
+        {
+          "word": "lord",
+          "strongNumber": "H113",
+          "lemma": "adon",
+          "meaning": "lord; master"
+        },
+        {
+          "word": "divineth",
+          "strongNumber": "H5172",
+          "lemma": "nachash",
+          "meaning": "to practice divination"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And he overtook them, and he spake unto them these same words.",
+      "highlightedWords": [
+        {
+          "word": "overtook",
+          "strongNumber": "H5381",
+          "lemma": "nasag",
+          "meaning": "to reach; overtake"
+        },
+        {
+          "word": "words",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word; matter"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And they said unto him, Wherefore saith my lord these words? God forbid that thy servants should do according to this thing:",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God"
+        },
+        {
+          "word": "servants",
+          "strongNumber": "H5650",
+          "lemma": "'ebed",
+          "meaning": "servant; slave"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Behold, the money, which we found in our sacks' mouths, we brought again unto thee out of the land of Canaan: how then should we steal out of thy lord's house silver or gold?",
+      "highlightedWords": [
+        {
+          "word": "Canaan",
+          "strongNumber": "H3667",
+          "lemma": "Kena'an",
+          "meaning": "Canaan"
+        },
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "zahab",
+          "meaning": "gold"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "With whomsoever of thy servants it be found, both let him die, and we also will be my lord's bondmen.",
+      "highlightedWords": [
+        {
+          "word": "die",
+          "strongNumber": "H4191",
+          "lemma": "muth",
+          "meaning": "to die"
+        },
+        {
+          "word": "bondmen",
+          "strongNumber": "H5650",
+          "lemma": "'ebed",
+          "meaning": "servant; slave"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And he said, Now also let it be according unto your words: he with whom it is found shall be my servant; and ye shall be blameless.",
+      "highlightedWords": [
+        {
+          "word": "servant",
+          "strongNumber": "H5650",
+          "lemma": "'ebed",
+          "meaning": "servant; slave"
+        },
+        {
+          "word": "found",
+          "strongNumber": "H4672",
+          "lemma": "matsa",
+          "meaning": "to find"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Then they speedily took down every man his sack to the ground, and opened every man his sack.",
+      "highlightedWords": [
+        {
+          "word": "sack",
+          "strongNumber": "H572",
+          "lemma": "amtachath",
+          "meaning": "sack; bag"
+        },
+        {
+          "word": "ground",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "land; ground; earth"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And he searched, and began at the eldest, and left at the youngest: and the cup was found in Benjamin's sack.",
+      "highlightedWords": [
+        {
+          "word": "cup",
+          "strongNumber": "H1375",
+          "lemma": "gabiya",
+          "meaning": "cup; goblet"
+        },
+        {
+          "word": "sack",
+          "strongNumber": "H572",
+          "lemma": "amtachath",
+          "meaning": "sack; bag"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Then they rent their clothes, and laded every man his ass, and returned to the city.",
+      "highlightedWords": [
+        {
+          "word": "rent",
+          "strongNumber": "H7167",
+          "lemma": "qara'",
+          "meaning": "to tear; rend"
+        },
+        {
+          "word": "ass",
+          "strongNumber": "H2543",
+          "lemma": "chamor",
+          "meaning": "donkey; ass"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And Judah and his brethren came to Joseph's house; for he was yet there: and they fell before him on the ground.",
+      "highlightedWords": [
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah"
+        },
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house; household"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And Joseph said unto them, What deed is this that ye have done? wot ye not that such a man as I can certainly divine?",
+      "highlightedWords": [
+        {
+          "word": "deed",
+          "strongNumber": "H4639",
+          "lemma": "ma'aseh",
+          "meaning": "deed; work"
+        },
+        {
+          "word": "divine",
+          "strongNumber": "H5172",
+          "lemma": "nachash",
+          "meaning": "to practice divination"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And Judah said, What shall we say unto my lord? what shall we speak? or how shall we clear ourselves? God hath found out the iniquity of thy servants: behold, we are my lord's servants, both we, and he also with whom the cup is found.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "'avon",
+          "meaning": "iniquity; guilt"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And he said, God forbid that I should do so: but the man in whose hand the cup is found, he shall be my servant; and as for you, get you up in peace unto your father.",
+      "highlightedWords": [
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace; welfare"
+        },
+        {
+          "word": "servant",
+          "strongNumber": "H5650",
+          "lemma": "'ebed",
+          "meaning": "servant; slave"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Then Judah came near unto him, and said, Oh my lord, let thy servant, I pray thee, speak a word in my lord's ears, and let not thine anger burn against thy servant: for thou art even as Pharaoh.",
+      "highlightedWords": [
+        {
+          "word": "Pharaoh",
+          "strongNumber": "H6547",
+          "lemma": "Par'oh",
+          "meaning": "Pharaoh"
+        },
+        {
+          "word": "anger",
+          "strongNumber": "H639",
+          "lemma": "'aph",
+          "meaning": "nostril; anger"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "My lord asked his servants, saying, Have ye a father, or a brother?",
+      "highlightedWords": [
+        {
+          "word": "father",
+          "strongNumber": "H1",
+          "lemma": "'ab",
+          "meaning": "father"
+        },
+        {
+          "word": "brother",
+          "strongNumber": "H251",
+          "lemma": "'ach",
+          "meaning": "brother"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And we said unto my lord, We have a father, an old man, and a child of his old age, a little one; and his brother is dead, and he alone is left of his mother, and his father loveth him.",
+      "highlightedWords": [
+        {
+          "word": "child",
+          "strongNumber": "H3206",
+          "lemma": "yeled",
+          "meaning": "child; boy"
+        },
+        {
+          "word": "loveth",
+          "strongNumber": "H157",
+          "lemma": "'ahab",
+          "meaning": "to love"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And thou saidst unto thy servants, Bring him down unto me, that I may set mine eyes upon him.",
+      "highlightedWords": [
+        {
+          "word": "servants",
+          "strongNumber": "H5650",
+          "lemma": "'ebed",
+          "meaning": "servant; slave"
+        },
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "'ayin",
+          "meaning": "eye"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And we said unto my lord, The lad cannot leave his father: for if he should leave his father, his father would die.",
+      "highlightedWords": [
+        {
+          "word": "lad",
+          "strongNumber": "H5288",
+          "lemma": "na'ar",
+          "meaning": "boy; youth; lad"
+        },
+        {
+          "word": "die",
+          "strongNumber": "H4191",
+          "lemma": "muth",
+          "meaning": "to die"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And thou saidst unto thy servants, Except your youngest brother come down with you, ye shall see my face no more.",
+      "highlightedWords": [
+        {
+          "word": "youngest",
+          "strongNumber": "H6996",
+          "lemma": "qatan",
+          "meaning": "small; youngest"
+        },
+        {
+          "word": "face",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "face; presence"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And it came to pass when we came up unto thy servant my father, we told him the words of my lord.",
+      "highlightedWords": [
+        {
+          "word": "servant",
+          "strongNumber": "H5650",
+          "lemma": "'ebed",
+          "meaning": "servant; slave"
+        },
+        {
+          "word": "father",
+          "strongNumber": "H1",
+          "lemma": "'ab",
+          "meaning": "father"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And our father said, Go again, and buy us a little food.",
+      "highlightedWords": [
+        {
+          "word": "father",
+          "strongNumber": "H1",
+          "lemma": "'ab",
+          "meaning": "father"
+        },
+        {
+          "word": "food",
+          "strongNumber": "H400",
+          "lemma": "'okel",
+          "meaning": "food"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And we said, We cannot go down: if our youngest brother be with us, then will we go down: for we may not see the man's face, except our youngest brother be with us.",
+      "highlightedWords": [
+        {
+          "word": "youngest",
+          "strongNumber": "H6996",
+          "lemma": "qatan",
+          "meaning": "small; youngest"
+        },
+        {
+          "word": "face",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "face; presence"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And thy servant my father said unto us, Ye know that my wife bare me two sons:",
+      "highlightedWords": [
+        {
+          "word": "wife",
+          "strongNumber": "H802",
+          "lemma": "ishshah",
+          "meaning": "woman; wife"
+        },
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And the one went out from me, and I said, Surely he is torn in pieces; and I saw him not since:",
+      "highlightedWords": [
+        {
+          "word": "torn",
+          "strongNumber": "H2963",
+          "lemma": "taraph",
+          "meaning": "to tear; rend"
+        },
+        {
+          "word": "saw",
+          "strongNumber": "H7200",
+          "lemma": "ra'ah",
+          "meaning": "to see"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "And if ye take this also from me, and mischief befall him, ye shall bring down my gray hairs with sorrow to the grave.",
+      "highlightedWords": [
+        {
+          "word": "sorrow",
+          "strongNumber": "H3015",
+          "lemma": "yagon",
+          "meaning": "sorrow; grief"
+        },
+        {
+          "word": "grave",
+          "strongNumber": "H7585",
+          "lemma": "Sheol",
+          "meaning": "grave; underworld"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "Now therefore when I come to thy servant my father, and the lad be not with us; seeing that his life is bound up in the lad's life;",
+      "highlightedWords": [
+        {
+          "word": "life",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul; life"
+        },
+        {
+          "word": "lad",
+          "strongNumber": "H5288",
+          "lemma": "na'ar",
+          "meaning": "boy; youth; lad"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "It shall come to pass, when he seeth that the lad is not with us, that he will die: and thy servants shall bring down the gray hairs of thy servant our father with sorrow to the grave.",
+      "highlightedWords": [
+        {
+          "word": "die",
+          "strongNumber": "H4191",
+          "lemma": "muth",
+          "meaning": "to die"
+        },
+        {
+          "word": "grave",
+          "strongNumber": "H7585",
+          "lemma": "Sheol",
+          "meaning": "grave; underworld"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "For thy servant became surety for the lad unto my father, saying, If I bring him not unto thee, then I shall bear the blame to my father for ever.",
+      "highlightedWords": [
+        {
+          "word": "surety",
+          "strongNumber": "H6148",
+          "lemma": "'arab",
+          "meaning": "to pledge; become surety"
+        },
+        {
+          "word": "father",
+          "strongNumber": "H1",
+          "lemma": "'ab",
+          "meaning": "father"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "Now therefore, I pray thee, let thy servant abide instead of the lad a bondman to my lord; and let the lad go up with his brethren.",
+      "highlightedWords": [
+        {
+          "word": "abide",
+          "strongNumber": "H3427",
+          "lemma": "yashab",
+          "meaning": "to dwell; remain; abide"
+        },
+        {
+          "word": "bondman",
+          "strongNumber": "H5650",
+          "lemma": "'ebed",
+          "meaning": "servant; slave"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "For how shall I go up to my father, and the lad be not with me? lest peradventure I see the evil that shall come on my father.",
+      "highlightedWords": [
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra'",
+          "meaning": "evil; bad"
+        },
+        {
+          "word": "father",
+          "strongNumber": "H1",
+          "lemma": "'ab",
+          "meaning": "father"
+        }
+      ]
+    }
+  ]
+}

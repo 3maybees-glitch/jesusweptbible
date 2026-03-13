@@ -1,0 +1,258 @@
+{
+  "book": "Psalms",
+  "chapter": 140,
+  "chapterTheme": {
+    "twoWordSummary": "Deliverance Protection",
+    "themeWords": [
+      {
+        "word": "Deliver",
+        "strongNumber": "H5337",
+        "lemma": "natsal",
+        "meaning": "to deliver, rescue"
+      },
+      {
+        "word": "Violence",
+        "strongNumber": "H2555",
+        "lemma": "chamas",
+        "meaning": "violence, wrong, cruelty"
+      }
+    ]
+  },
+  "sentenceTheme": "David pleads for the LORD's protection from violent and wicked men, trusting God to judge evil and defend the afflicted.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Deliver me, O LORD, from the evil man: preserve me from the violent man;",
+      "highlightedWords": [
+        {
+          "word": "Deliver",
+          "strongNumber": "H5337",
+          "lemma": "natsal",
+          "meaning": "to deliver, rescue"
+        },
+        {
+          "word": "violent",
+          "strongNumber": "H2555",
+          "lemma": "chamas",
+          "meaning": "violence, wrong, cruelty"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Which imagine mischiefs in their heart; continually are they gathered together for war.",
+      "highlightedWords": [
+        {
+          "word": "imagine",
+          "strongNumber": "H2803",
+          "lemma": "chashab",
+          "meaning": "to think, plan, devise"
+        },
+        {
+          "word": "war",
+          "strongNumber": "H4421",
+          "lemma": "milchamah",
+          "meaning": "battle, war"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "They have sharpened their tongues like a serpent; adders' poison is under their lips. Selah.",
+      "highlightedWords": [
+        {
+          "word": "tongues",
+          "strongNumber": "H3956",
+          "lemma": "lashon",
+          "meaning": "tongue, language, speech"
+        },
+        {
+          "word": "serpent",
+          "strongNumber": "H5175",
+          "lemma": "nachash",
+          "meaning": "serpent, snake"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Keep me, O LORD, from the hands of the wicked; preserve me from the violent man; who have purposed to overthrow my goings.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha'",
+          "meaning": "wicked, guilty, criminal"
+        },
+        {
+          "word": "hands",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "The proud have hid a snare for me, and cords; they have spread a net by the wayside; they have set gins for me. Selah.",
+      "highlightedWords": [
+        {
+          "word": "snare",
+          "strongNumber": "H4170",
+          "lemma": "moqesh",
+          "meaning": "snare, trap"
+        },
+        {
+          "word": "net",
+          "strongNumber": "H7568",
+          "lemma": "resheth",
+          "meaning": "net, network"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "I said unto the LORD, Thou art my God: hear the voice of my supplications, O LORD.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God, the LORD"
+        },
+        {
+          "word": "supplications",
+          "strongNumber": "H8469",
+          "lemma": "tachanun",
+          "meaning": "supplications, pleas for mercy"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "O GOD the Lord, the strength of my salvation, thou hast covered my head in the day of battle.",
+      "highlightedWords": [
+        {
+          "word": "salvation",
+          "strongNumber": "H3444",
+          "lemma": "yeshu'ah",
+          "meaning": "salvation, deliverance"
+        },
+        {
+          "word": "battle",
+          "strongNumber": "H4421",
+          "lemma": "milchamah",
+          "meaning": "battle, war"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Grant not, O LORD, the desires of the wicked: further not his wicked device; lest they exalt themselves. Selah.",
+      "highlightedWords": [
+        {
+          "word": "desires",
+          "strongNumber": "H8378",
+          "lemma": "ta'avah",
+          "meaning": "desire, longing, appetite"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha'",
+          "meaning": "wicked, guilty, criminal"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "As for the head of those that compass me about, let the mischief of their own lips cover them.",
+      "highlightedWords": [
+        {
+          "word": "head",
+          "strongNumber": "H7218",
+          "lemma": "rosh",
+          "meaning": "head, chief, top"
+        },
+        {
+          "word": "lips",
+          "strongNumber": "H8193",
+          "lemma": "saphah",
+          "meaning": "lip, speech, language"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Let burning coals fall upon them: let them be cast into the fire; into deep pits, that they rise not up again.",
+      "highlightedWords": [
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "esh",
+          "meaning": "fire"
+        },
+        {
+          "word": "fall",
+          "strongNumber": "H5307",
+          "lemma": "naphal",
+          "meaning": "to fall, be cast down"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Let not an evil speaker be established in the earth: evil shall hunt the violent man to overthrow him.",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "earth, land"
+        },
+        {
+          "word": "violent",
+          "strongNumber": "H2555",
+          "lemma": "chamas",
+          "meaning": "violence, wrong, cruelty"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "I know that the LORD will maintain the cause of the afflicted, and the right of the poor.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God, the LORD"
+        },
+        {
+          "word": "afflicted",
+          "strongNumber": "H6041",
+          "lemma": "ani",
+          "meaning": "afflicted, humble, poor"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Surely the righteous shall give thanks unto thy name: the upright shall dwell in thy presence.",
+      "highlightedWords": [
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just"
+        },
+        {
+          "word": "presence",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "face, presence"
+        }
+      ]
+    }
+  ]
+}

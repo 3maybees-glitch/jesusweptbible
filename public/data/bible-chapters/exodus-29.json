@@ -1,0 +1,852 @@
+{
+  "book": "Exodus",
+  "chapter": 29,
+  "chapterTheme": {
+    "twoWordSummary": "Priest Consecration",
+    "themeWords": [
+      {
+        "word": "consecrate",
+        "strongNumber": "H6942",
+        "lemma": "qadash",
+        "meaning": "to set apart as holy, consecrate, sanctify"
+      },
+      {
+        "word": "altar",
+        "strongNumber": "H4196",
+        "lemma": "mizbeach",
+        "meaning": "altar for sacrifices"
+      }
+    ]
+  },
+  "sentenceTheme": "Instructions for consecrating Aaron and his sons, sanctifying the altar, and instituting the continual daily offerings before the LORD.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And this is the thing that thou shalt do unto them to hallow them, to minister unto me in the priest's office: Take one young bullock, and two rams without blemish,",
+      "highlightedWords": [
+        {
+          "word": "bullock",
+          "strongNumber": "H6499",
+          "lemma": "par",
+          "meaning": "a young bull, bullock"
+        },
+        {
+          "word": "rams",
+          "strongNumber": "H0352",
+          "lemma": "’ayil",
+          "meaning": "a ram"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And unleavened bread, and cakes unleavened tempered with oil, and wafers unleavened anointed with oil: of wheaten flour shalt thou make them.",
+      "highlightedWords": [
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread, food"
+        },
+        {
+          "word": "oil",
+          "strongNumber": "H8081",
+          "lemma": "shemen",
+          "meaning": "oil, fat"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And thou shalt put them into one basket, and bring them in the basket, with the bullock and the two rams.",
+      "highlightedWords": [
+        {
+          "word": "basket",
+          "strongNumber": "H5536",
+          "lemma": "sal",
+          "meaning": "a basket"
+        },
+        {
+          "word": "rams",
+          "strongNumber": "H0352",
+          "lemma": "’ayil",
+          "meaning": "a ram"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And Aaron and his sons thou shalt bring unto the door of the tabernacle of the congregation, and shalt wash them with water.",
+      "highlightedWords": [
+        {
+          "word": "Aaron",
+          "strongNumber": "H0175",
+          "lemma": "Aharon",
+          "meaning": "Aaron, brother of Moses and first high priest"
+        },
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And thou shalt take the garments, and put upon Aaron the coat, and the robe of the ephod, and the ephod, and the breastplate, and gird him with the curious girdle of the ephod:",
+      "highlightedWords": [
+        {
+          "word": "ephod",
+          "strongNumber": "H0646",
+          "lemma": "’ephod",
+          "meaning": "a priestly apron"
+        },
+        {
+          "word": "breastplate",
+          "strongNumber": "H2833",
+          "lemma": "choshen",
+          "meaning": "a breastpiece worn by the high priest"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And thou shalt put the mitre upon his head, and put the holy crown upon the mitre.",
+      "highlightedWords": [
+        {
+          "word": "mitre",
+          "strongNumber": "H4701",
+          "lemma": "mitsnepheth",
+          "meaning": "turban, headdress of the high priest"
+        },
+        {
+          "word": "crown",
+          "strongNumber": "H5145",
+          "lemma": "nezer",
+          "meaning": "consecrated diadem, crown"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Then shalt thou take the anointing oil, and pour it upon his head, and anoint him.",
+      "highlightedWords": [
+        {
+          "word": "anointing",
+          "strongNumber": "H4888",
+          "lemma": "mishchah",
+          "meaning": "anointing, consecrated oil"
+        },
+        {
+          "word": "anoint",
+          "strongNumber": "H4886",
+          "lemma": "mashach",
+          "meaning": "to anoint, smear, consecrate"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And thou shalt bring his sons, and put coats upon them.",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child"
+        },
+        {
+          "word": "coats",
+          "strongNumber": "H3801",
+          "lemma": "kethoneth",
+          "meaning": "a tunic, coat"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And thou shalt gird them with girdles, Aaron and his sons, and put the bonnets on them: and the priest's office shall be theirs for a perpetual statute: and thou shalt consecrate Aaron and his sons.",
+      "highlightedWords": [
+        {
+          "word": "girdles",
+          "strongNumber": "H0073",
+          "lemma": "’abnet",
+          "meaning": "a priestly sash or girdle"
+        },
+        {
+          "word": "bonnets",
+          "strongNumber": "H4021",
+          "lemma": "migba‘ah",
+          "meaning": "a turban, bonnet of a priest"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And thou shalt cause a bullock to be brought before the tabernacle of the congregation: and Aaron and his sons shall put their hands upon the head of the bullock.",
+      "highlightedWords": [
+        {
+          "word": "bullock",
+          "strongNumber": "H6499",
+          "lemma": "par",
+          "meaning": "a young bull, bullock"
+        },
+        {
+          "word": "hands",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And thou shalt kill the bullock before the LORD, by the door of the tabernacle of the congregation.",
+      "highlightedWords": [
+        {
+          "word": "kill",
+          "strongNumber": "H7819",
+          "lemma": "shachat",
+          "meaning": "to slaughter, kill for sacrifice"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And thou shalt take of the blood of the bullock, and put it upon the horns of the altar with thy finger, and pour all the blood beside the bottom of the altar.",
+      "highlightedWords": [
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "blood"
+        },
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar for sacrifices"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And thou shalt take all the fat that covereth the inwards, and the caul above the liver, and the two kidneys, and the fat that is upon them, and burn them upon the altar.",
+      "highlightedWords": [
+        {
+          "word": "fat",
+          "strongNumber": "H2459",
+          "lemma": "cheleb",
+          "meaning": "fat"
+        },
+        {
+          "word": "kidneys",
+          "strongNumber": "H3629",
+          "lemma": "kilyah",
+          "meaning": "kidneys, inner organs"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "But the flesh of the bullock, and his skin, and his dung, shalt thou burn with fire without the camp: it is a sin offering.",
+      "highlightedWords": [
+        {
+          "word": "flesh",
+          "strongNumber": "H1320",
+          "lemma": "basar",
+          "meaning": "flesh, meat"
+        },
+        {
+          "word": "camp",
+          "strongNumber": "H4264",
+          "lemma": "machaneh",
+          "meaning": "camp, encampment"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Thou shalt also take one ram; and Aaron and his sons shall put their hands upon the head of the ram.",
+      "highlightedWords": [
+        {
+          "word": "ram",
+          "strongNumber": "H0352",
+          "lemma": "’ayil",
+          "meaning": "a ram"
+        },
+        {
+          "word": "hands",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And thou shalt slay the ram, and thou shalt take his blood, and sprinkle it round about upon the altar.",
+      "highlightedWords": [
+        {
+          "word": "slay",
+          "strongNumber": "H7819",
+          "lemma": "shachat",
+          "meaning": "to slaughter, kill for sacrifice"
+        },
+        {
+          "word": "sprinkle",
+          "strongNumber": "H2236",
+          "lemma": "zaraq",
+          "meaning": "to sprinkle, toss"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And thou shalt cut the ram in pieces, and wash the inwards of him, and his legs, and put them unto his pieces, and unto his head.",
+      "highlightedWords": [
+        {
+          "word": "wash",
+          "strongNumber": "H7364",
+          "lemma": "rachats",
+          "meaning": "to wash, bathe"
+        },
+        {
+          "word": "head",
+          "strongNumber": "H7218",
+          "lemma": "rosh",
+          "meaning": "head, chief"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And thou shalt burn the whole ram upon the altar: it is a burnt offering unto the LORD: it is a sweet savour, an offering made by fire unto the LORD.",
+      "highlightedWords": [
+        {
+          "word": "burn",
+          "strongNumber": "H6999",
+          "lemma": "qatar",
+          "meaning": "to burn (as incense or sacrifice), cause to smoke"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And thou shalt take the other ram; and Aaron and his sons shall put their hands upon the head of the ram.",
+      "highlightedWords": [
+        {
+          "word": "ram",
+          "strongNumber": "H0352",
+          "lemma": "’ayil",
+          "meaning": "a ram"
+        },
+        {
+          "word": "hands",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Then shalt thou kill the ram, and take of his blood, and put it upon the tip of the right ear of Aaron, and upon the tip of the right ear of his sons, and upon the thumb of their right hand, and upon the great toe of their right foot, and sprinkle the blood upon the altar round about.",
+      "highlightedWords": [
+        {
+          "word": "ear",
+          "strongNumber": "H0241",
+          "lemma": "’ozen",
+          "meaning": "ear"
+        },
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "blood"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And thou shalt take of the blood that is upon the altar, and of the anointing oil, and sprinkle it upon Aaron, and upon his garments, and upon his sons, and upon the garments of his sons with him: and he shall be hallowed, and his garments, and his sons, and his sons' garments with him.",
+      "highlightedWords": [
+        {
+          "word": "garments",
+          "strongNumber": "H0899",
+          "lemma": "beged",
+          "meaning": "garment, clothing"
+        },
+        {
+          "word": "hallowed",
+          "strongNumber": "H6942",
+          "lemma": "qadash",
+          "meaning": "to consecrate, declare holy"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Also thou shalt take of the ram the fat and the rump, and the fat that covereth the inwards, and the caul above the liver, and the two kidneys, and the fat that is upon them, and the right shoulder; for it is a ram of consecration:",
+      "highlightedWords": [
+        {
+          "word": "fat",
+          "strongNumber": "H2459",
+          "lemma": "cheleb",
+          "meaning": "fat"
+        },
+        {
+          "word": "right",
+          "strongNumber": "H3225",
+          "lemma": "yamin",
+          "meaning": "right side, right hand"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And one loaf of bread, and one cake of oiled bread, and one wafer out of the basket of the unleavened bread that is before the LORD:",
+      "highlightedWords": [
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread, food"
+        },
+        {
+          "word": "wafer",
+          "strongNumber": "H7550",
+          "lemma": "raqiq",
+          "meaning": "a thin cake, wafer"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And thou shalt put all in the hands of Aaron, and in the hands of his sons; and shalt wave them for a wave offering before the LORD.",
+      "highlightedWords": [
+        {
+          "word": "hands",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand"
+        },
+        {
+          "word": "wave",
+          "strongNumber": "H5130",
+          "lemma": "nuph",
+          "meaning": "to wave (an offering)"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And thou shalt receive them of their hands, and burn them upon the altar for a burnt offering, for a sweet savour before the LORD: it is an offering made by fire unto the LORD.",
+      "highlightedWords": [
+        {
+          "word": "burn",
+          "strongNumber": "H6999",
+          "lemma": "qatar",
+          "meaning": "to burn (as incense or sacrifice), cause to smoke"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And thou shalt take the breast of the ram of Aaron's consecration, and wave it for a wave offering before the LORD: and it shall be thy part.",
+      "highlightedWords": [
+        {
+          "word": "Aaron's",
+          "strongNumber": "H0175",
+          "lemma": "Aharon",
+          "meaning": "Aaron, brother of Moses and first high priest"
+        },
+        {
+          "word": "wave",
+          "strongNumber": "H5130",
+          "lemma": "nuph",
+          "meaning": "to wave (an offering)"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And thou shalt sanctify the breast of the wave offering, and the shoulder of the heave offering, which is waved, and which is heaved up, of the ram of the consecration, even of that which is for Aaron, and of that which is for his sons:",
+      "highlightedWords": [
+        {
+          "word": "sanctify",
+          "strongNumber": "H6942",
+          "lemma": "qadash",
+          "meaning": "to consecrate, set apart as holy"
+        },
+        {
+          "word": "waved",
+          "strongNumber": "H5130",
+          "lemma": "nuph",
+          "meaning": "to wave (as an offering)"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And it shall be Aaron's and his sons' by a statute for ever from the children of Israel: for it is an heave offering: and it shall be an heave offering from the children of Israel of the sacrifice of their peace offerings, even their heave offering unto the LORD.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel"
+        },
+        {
+          "word": "heave",
+          "strongNumber": "H8641",
+          "lemma": "terumah",
+          "meaning": "a contribution, heave offering"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "And the holy garments of Aaron shall be his sons' after him, to be anointed therein, and to be consecrated in them.",
+      "highlightedWords": [
+        {
+          "word": "holy",
+          "strongNumber": "H6944",
+          "lemma": "qodesh",
+          "meaning": "holiness, holy thing"
+        },
+        {
+          "word": "garments",
+          "strongNumber": "H0899",
+          "lemma": "beged",
+          "meaning": "garment, clothing"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "And that son that is priest in his stead shall put them on seven days, when he cometh into the tabernacle of the congregation to minister in the holy place.",
+      "highlightedWords": [
+        {
+          "word": "priest",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest"
+        },
+        {
+          "word": "seven",
+          "strongNumber": "H7651",
+          "lemma": "sheba‘",
+          "meaning": "seven"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "And thou shalt take the ram of the consecration, and seethe his flesh in the holy place.",
+      "highlightedWords": [
+        {
+          "word": "seethe",
+          "strongNumber": "H1310",
+          "lemma": "bashal",
+          "meaning": "to boil, cook"
+        },
+        {
+          "word": "holy",
+          "strongNumber": "H6944",
+          "lemma": "qodesh",
+          "meaning": "holiness, holy thing"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "And Aaron and his sons shall eat the flesh of the ram, and the bread that is in the basket, by the door of the tabernacle of the congregation.",
+      "highlightedWords": [
+        {
+          "word": "eat",
+          "strongNumber": "H0398",
+          "lemma": "’akal",
+          "meaning": "to eat, consume"
+        },
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread, food"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "And they shall eat those things wherewith the atonement was made, to consecrate and to sanctify them: but a stranger shall not eat thereof, because they are holy.",
+      "highlightedWords": [
+        {
+          "word": "stranger",
+          "strongNumber": "H2114",
+          "lemma": "zur",
+          "meaning": "a stranger, foreigner"
+        },
+        {
+          "word": "holy",
+          "strongNumber": "H6944",
+          "lemma": "qodesh",
+          "meaning": "holiness, holy thing"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "And if ought of the flesh of the consecrations, or of the bread, remain unto the morning, then thou shalt burn the remainder with fire: it shall not be eaten, because it is holy.",
+      "highlightedWords": [
+        {
+          "word": "morning",
+          "strongNumber": "H1242",
+          "lemma": "boqer",
+          "meaning": "morning"
+        },
+        {
+          "word": "fire",
+          "strongNumber": "H0784",
+          "lemma": "’esh",
+          "meaning": "fire"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "And thus shalt thou do unto Aaron, and to his sons, according to all things which I have commanded thee: seven days shalt thou consecrate them.",
+      "highlightedWords": [
+        {
+          "word": "commanded",
+          "strongNumber": "H6680",
+          "lemma": "tsavah",
+          "meaning": "to command, charge"
+        },
+        {
+          "word": "seven",
+          "strongNumber": "H7651",
+          "lemma": "sheba‘",
+          "meaning": "seven"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "And thou shalt offer every day a bullock for a sin offering for atonement: and thou shalt cleanse the altar, when thou hast made an atonement for it, and thou shalt anoint it, to sanctify it.",
+      "highlightedWords": [
+        {
+          "word": "bullock",
+          "strongNumber": "H6499",
+          "lemma": "par",
+          "meaning": "a young bull, bullock"
+        },
+        {
+          "word": "anoint",
+          "strongNumber": "H4886",
+          "lemma": "mashach",
+          "meaning": "to anoint, smear, consecrate"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "Seven days thou shalt make an atonement for the altar, and sanctify it; and it shall be an altar most holy: whatsoever toucheth the altar shall be holy.",
+      "highlightedWords": [
+        {
+          "word": "Seven",
+          "strongNumber": "H7651",
+          "lemma": "sheba‘",
+          "meaning": "seven"
+        },
+        {
+          "word": "holy",
+          "strongNumber": "H6944",
+          "lemma": "qodesh",
+          "meaning": "holiness, holy thing"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "Now this is that which thou shalt offer upon the altar; two lambs of the first year day by day continually.",
+      "highlightedWords": [
+        {
+          "word": "lambs",
+          "strongNumber": "H3532",
+          "lemma": "kebes",
+          "meaning": "a lamb (one year old)"
+        },
+        {
+          "word": "continually",
+          "strongNumber": "H8548",
+          "lemma": "tamid",
+          "meaning": "continuity, continually"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "text": "The one lamb thou shalt offer in the morning; and the other lamb thou shalt offer at even:",
+      "highlightedWords": [
+        {
+          "word": "morning",
+          "strongNumber": "H1242",
+          "lemma": "boqer",
+          "meaning": "morning"
+        },
+        {
+          "word": "even",
+          "strongNumber": "H6153",
+          "lemma": "‘ereb",
+          "meaning": "evening"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "text": "And with the one lamb a tenth deal of flour mingled with the fourth part of an hin of beaten oil; and the fourth part of an hin of wine for a drink offering.",
+      "highlightedWords": [
+        {
+          "word": "flour",
+          "strongNumber": "H5560",
+          "lemma": "solet",
+          "meaning": "fine flour"
+        },
+        {
+          "word": "wine",
+          "strongNumber": "H3196",
+          "lemma": "yayin",
+          "meaning": "wine"
+        }
+      ]
+    },
+    {
+      "verse": 41,
+      "text": "And the other lamb thou shalt offer at even, and shalt do thereto according to the meat offering of the morning, and according to the drink offering thereof, for a sweet savour, an offering made by fire unto the LORD.",
+      "highlightedWords": [
+        {
+          "word": "meat",
+          "strongNumber": "H4503",
+          "lemma": "minchah",
+          "meaning": "a grain/cereal offering"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 42,
+      "text": "This shall be a continual burnt offering throughout your generations at the door of the tabernacle of the congregation before the LORD: where I will meet you, to speak there unto thee.",
+      "highlightedWords": [
+        {
+          "word": "tabernacle",
+          "strongNumber": "H0168",
+          "lemma": "’ohel",
+          "meaning": "tent, tabernacle"
+        },
+        {
+          "word": "generations",
+          "strongNumber": "H1755",
+          "lemma": "dor",
+          "meaning": "generation, lifetime"
+        }
+      ]
+    },
+    {
+      "verse": 43,
+      "text": "And there I will meet with the children of Israel, and the tabernacle shall be sanctified by my glory.",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child; by extension descendants"
+        },
+        {
+          "word": "glory",
+          "strongNumber": "H3519",
+          "lemma": "kabod",
+          "meaning": "glory, honor"
+        }
+      ]
+    },
+    {
+      "verse": 44,
+      "text": "And I will sanctify the tabernacle of the congregation, and the altar: I will sanctify also both Aaron and his sons, to minister to me in the priest's office.",
+      "highlightedWords": [
+        {
+          "word": "sanctify",
+          "strongNumber": "H6942",
+          "lemma": "qadash",
+          "meaning": "to consecrate, set apart as holy"
+        },
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar for sacrifices"
+        }
+      ]
+    },
+    {
+      "verse": 45,
+      "text": "And I will dwell among the children of Israel, and will be their God.",
+      "highlightedWords": [
+        {
+          "word": "dwell",
+          "strongNumber": "H7931",
+          "lemma": "shakan",
+          "meaning": "to dwell, settle, abide"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H0430",
+          "lemma": "’Elohim",
+          "meaning": "God"
+        }
+      ]
+    },
+    {
+      "verse": 46,
+      "text": "And they shall know that I am the LORD their God, that brought them forth out of the land of Egypt, that I may dwell among them: I am the LORD their God.",
+      "highlightedWords": [
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    }
+  ]
+}

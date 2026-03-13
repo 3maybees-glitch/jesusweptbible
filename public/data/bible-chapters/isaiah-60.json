@@ -1,0 +1,420 @@
+{
+  "book": "Isaiah",
+  "chapter": 60,
+  "chapterTheme": {
+    "twoWordSummary": "Zion Shines",
+    "themeWords": [
+      {
+        "word": "light",
+        "strongNumber": "H216",
+        "lemma": "’owr",
+        "meaning": "light; illumination, brightness"
+      },
+      {
+        "word": "nations",
+        "strongNumber": "H1471",
+        "lemma": "goy",
+        "meaning": "nation, people; often of non-Israelites (Gentiles)"
+      }
+    ]
+  },
+  "sentenceTheme": "God’s glory rises on Zion, drawing nations and kings to its light and bringing restoration, peace, and enduring righteousness.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Arise, shine; for thy light is come, and the glory of the LORD is risen upon thee.",
+      "highlightedWords": [
+        {
+          "word": "light",
+          "strongNumber": "H216",
+          "lemma": "’owr",
+          "meaning": "light; illumination, brightness"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the personal, covenant name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "For, behold, the darkness shall cover the earth, and gross darkness the people: but the LORD shall arise upon thee, and his glory shall be seen upon thee.",
+      "highlightedWords": [
+        {
+          "word": "darkness",
+          "strongNumber": "H2822",
+          "lemma": "choshek",
+          "meaning": "darkness, obscurity"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the personal, covenant name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And the Gentiles shall come to thy light, and kings to the brightness of thy rising.",
+      "highlightedWords": [
+        {
+          "word": "Gentiles",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation, people; the non-Israelite nations"
+        },
+        {
+          "word": "kings",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Lift up thine eyes round about, and see: all they gather themselves together, they come to thee: thy sons shall come from far, and thy daughters shall be nursed at thy side.",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child, descendant"
+        },
+        {
+          "word": "daughters",
+          "strongNumber": "H1323",
+          "lemma": "bat",
+          "meaning": "daughter, girl"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Then thou shalt see, and flow together, and thine heart shall fear, and be enlarged; because the abundance of the sea shall be converted unto thee, the forces of the Gentiles shall come unto thee.",
+      "highlightedWords": [
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "sea, large body of water"
+        },
+        {
+          "word": "Gentiles",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation, people; the non-Israelite nations"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "The multitude of camels shall cover thee, the dromedaries of Midian and Ephah; all they from Sheba shall come: they shall bring gold and incense; and they shall shew forth the praises of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "zahab",
+          "meaning": "gold (metal, ornaments, wealth)"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the personal, covenant name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "All the flocks of Kedar shall be gathered together unto thee, the rams of Nebaioth shall minister unto thee: they shall come up with acceptance on mine altar, and I will glorify the house of my glory.",
+      "highlightedWords": [
+        {
+          "word": "Kedar",
+          "strongNumber": "H6938",
+          "lemma": "Qedar",
+          "meaning": "Kedar; a nomadic Arabian tribe/region"
+        },
+        {
+          "word": "Nebaioth",
+          "strongNumber": "H5032",
+          "lemma": "Nebayoth",
+          "meaning": "Nebaioth; son of Ishmael; his people/region"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Who are these that fly as a cloud, and as the doves to their windows?",
+      "highlightedWords": [
+        {
+          "word": "fly",
+          "strongNumber": "H5774",
+          "lemma": "’uwph",
+          "meaning": "to fly, flutter, soar"
+        },
+        {
+          "word": "doves",
+          "strongNumber": "H3123",
+          "lemma": "yownah",
+          "meaning": "dove, pigeon"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Surely the isles shall wait for me, and the ships of Tarshish first, to bring thy sons from far, their silver and their gold with them, unto the name of the LORD thy God, and to the Holy One of Israel, because he hath glorified thee.",
+      "highlightedWords": [
+        {
+          "word": "isles",
+          "strongNumber": "H339",
+          "lemma": "’iy",
+          "meaning": "coastlands, islands"
+        },
+        {
+          "word": "Tarshish",
+          "strongNumber": "H8659",
+          "lemma": "Tarshiysh",
+          "meaning": "Tarshish; a distant maritime place/port"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And the sons of strangers shall build up thy walls, and their kings shall minister unto thee: for in my wrath I smote thee, but in my favour have I had mercy on thee.",
+      "highlightedWords": [
+        {
+          "word": "walls",
+          "strongNumber": "H2346",
+          "lemma": "chomah",
+          "meaning": "wall, city wall, protective barrier"
+        },
+        {
+          "word": "kings",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Therefore thy gates shall be open continually; they shall not be shut day nor night; that men may bring unto thee the forces of the Gentiles, and that their kings may be brought.",
+      "highlightedWords": [
+        {
+          "word": "gates",
+          "strongNumber": "H8179",
+          "lemma": "sha‘ar",
+          "meaning": "gate, city gate, entrance"
+        },
+        {
+          "word": "Gentiles",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation, people; the non-Israelite nations"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "For the nation and kingdom that will not serve thee shall perish; yea, those nations shall be utterly wasted.",
+      "highlightedWords": [
+        {
+          "word": "nation",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation, people"
+        },
+        {
+          "word": "kingdom",
+          "strongNumber": "H4467",
+          "lemma": "mamlakah",
+          "meaning": "kingdom, dominion, realm"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "The glory of Lebanon shall come unto thee, the fir tree, the pine tree, and the box together, to beautify the place of my sanctuary; and I will make the place of my feet glorious.",
+      "highlightedWords": [
+        {
+          "word": "Lebanon",
+          "strongNumber": "H3844",
+          "lemma": "Levanon",
+          "meaning": "Lebanon; the wooded mountain range north of Israel"
+        },
+        {
+          "word": "sanctuary",
+          "strongNumber": "H4720",
+          "lemma": "miqdash",
+          "meaning": "sanctuary, holy place"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "The sons also of them that afflicted thee shall come bending unto thee; and all they that despised thee shall bow themselves down at the soles of thy feet; and they shall call thee, The city of the LORD, The Zion of the Holy One of Israel.",
+      "highlightedWords": [
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyon",
+          "meaning": "Zion; the hill of Jerusalem, symbol of God’s people"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra’el",
+          "meaning": "Israel; name of the nation descended from Jacob"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Whereas thou hast been forsaken and hated, so that no man went through thee, I will make thee an eternal excellency, a joy of many generations.",
+      "highlightedWords": [
+        {
+          "word": "eternal",
+          "strongNumber": "H5769",
+          "lemma": "‘olam",
+          "meaning": "everlasting, perpetual"
+        },
+        {
+          "word": "generations",
+          "strongNumber": "H1755",
+          "lemma": "dor",
+          "meaning": "generation, age"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Thou shalt also suck the milk of the Gentiles, and shalt suck the breast of kings: and thou shalt know that I the LORD am thy Saviour and thy Redeemer, the mighty One of Jacob.",
+      "highlightedWords": [
+        {
+          "word": "Redeemer",
+          "strongNumber": "H1350",
+          "lemma": "ga’al",
+          "meaning": "to redeem; kinsman-redeemer, vindicator"
+        },
+        {
+          "word": "Jacob",
+          "strongNumber": "H3290",
+          "lemma": "Ya‘aqov",
+          "meaning": "Jacob; the patriarch, later called Israel"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "For brass I will bring gold, and for iron I will bring silver, and for wood brass, and for stones iron: I will also make thy officers peace, and thine exactors righteousness.",
+      "highlightedWords": [
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "zahab",
+          "meaning": "gold (metal, ornaments, wealth)"
+        },
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace, wholeness, well-being"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Violence shall no more be heard in thy land, wasting nor destruction within thy borders; but thou shalt call thy walls Salvation, and thy gates Praise.",
+      "highlightedWords": [
+        {
+          "word": "Salvation",
+          "strongNumber": "H3444",
+          "lemma": "yeshu‘ah",
+          "meaning": "salvation, deliverance, victory"
+        },
+        {
+          "word": "Praise",
+          "strongNumber": "H8416",
+          "lemma": "tehillah",
+          "meaning": "praise, song of praise"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "The sun shall be no more thy light by day; neither for brightness shall the moon give light unto thee: but the LORD shall be unto thee an everlasting light, and thy God thy glory.",
+      "highlightedWords": [
+        {
+          "word": "sun",
+          "strongNumber": "H8121",
+          "lemma": "shemesh",
+          "meaning": "sun"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’Elohim",
+          "meaning": "God; the true God"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Thy sun shall no more go down; neither shall thy moon withdraw itself: for the LORD shall be thine everlasting light, and the days of thy mourning shall be ended.",
+      "highlightedWords": [
+        {
+          "word": "moon",
+          "strongNumber": "H3394",
+          "lemma": "yareach",
+          "meaning": "moon"
+        },
+        {
+          "word": "mourning",
+          "strongNumber": "H60",
+          "lemma": "’ebel",
+          "meaning": "mourning, lamentation"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Thy people also shall be all righteous: they shall inherit the land for ever, the branch of my planting, the work of my hands, that I may be glorified.",
+      "highlightedWords": [
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just"
+        },
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "’erets",
+          "meaning": "land, earth"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "A little one shall become a thousand, and a small one a strong nation: I the LORD will hasten it in his time.",
+      "highlightedWords": [
+        {
+          "word": "nation",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation, people"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the personal, covenant name of Israel’s God"
+        }
+      ]
+    }
+  ]
+}

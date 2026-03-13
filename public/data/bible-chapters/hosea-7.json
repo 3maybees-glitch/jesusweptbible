@@ -1,0 +1,312 @@
+{
+  "book": "Hosea",
+  "chapter": 7,
+  "chapterTheme": {
+    "twoWordSummary": "Heated Apostasy",
+    "themeWords": [
+      {
+        "word": "Ephraim",
+        "strongNumber": "H669",
+        "lemma": "Ephrayim",
+        "meaning": "Ephraim; doubly fruitful"
+      },
+      {
+        "word": "Return",
+        "strongNumber": "H7725",
+        "lemma": "shuv",
+        "meaning": "to turn back, return"
+      }
+    ]
+  },
+  "sentenceTheme": "Israel, inflamed with sin like a hot oven, refuses to return to the LORD and seeks help from Egypt and Assyria, bringing judgment upon themselves.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "When I would have healed Israel, then the iniquity of Ephraim was discovered, and the wickedness of Samaria: for they commit falsehood; and the thief cometh in, and the troop of robbers spoileth without.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God prevails"
+        },
+        {
+          "word": "Ephraim",
+          "strongNumber": "H669",
+          "lemma": "Ephrayim",
+          "meaning": "Ephraim; doubly fruitful"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And they consider not in their hearts that I remember all their wickedness: now their own doings have beset them about; they are before my face.",
+      "highlightedWords": [
+        {
+          "word": "remember",
+          "strongNumber": "H2142",
+          "lemma": "zakar",
+          "meaning": "to remember, recall"
+        },
+        {
+          "word": "face",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "face, presence"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "They make the king glad with their wickedness, and the princes with their lies.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king"
+        },
+        {
+          "word": "princes",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "prince, ruler, official"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "They are all adulterers, as an oven heated by the baker, who ceaseth from raising after he hath kneaded the dough, until it be leavened.",
+      "highlightedWords": [
+        {
+          "word": "adulterers",
+          "strongNumber": "H5003",
+          "lemma": "na'aph",
+          "meaning": "to commit adultery; adulterer"
+        },
+        {
+          "word": "oven",
+          "strongNumber": "H8574",
+          "lemma": "tannur",
+          "meaning": "oven, furnace"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "In the day of our king the princes have made him sick with bottles of wine; he stretched out his hand with scorners.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king"
+        },
+        {
+          "word": "wine",
+          "strongNumber": "H3196",
+          "lemma": "yayin",
+          "meaning": "wine"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "For they have made ready their heart like an oven, whiles they lie in wait: their baker sleepeth all the night; in the morning it burneth as a flaming fire.",
+      "highlightedWords": [
+        {
+          "word": "oven",
+          "strongNumber": "H8574",
+          "lemma": "tannur",
+          "meaning": "oven, furnace"
+        },
+        {
+          "word": "morning",
+          "strongNumber": "H1242",
+          "lemma": "boqer",
+          "meaning": "morning, dawn"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "They are all hot as an oven, and have devoured their judges; all their kings are fallen: there is none among them that calleth unto me.",
+      "highlightedWords": [
+        {
+          "word": "judges",
+          "strongNumber": "H8199",
+          "lemma": "shaphat",
+          "meaning": "judge, one who judges"
+        },
+        {
+          "word": "kings",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Ephraim, he hath mixed himself among the people; Ephraim is a cake not turned.",
+      "highlightedWords": [
+        {
+          "word": "Ephraim",
+          "strongNumber": "H669",
+          "lemma": "Ephrayim",
+          "meaning": "Ephraim; doubly fruitful"
+        },
+        {
+          "word": "cake",
+          "strongNumber": "H5692",
+          "lemma": "uggah",
+          "meaning": "cake"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Strangers have devoured his strength, and he knoweth it not: yea, gray hairs are here and there upon him, yet he knoweth not.",
+      "highlightedWords": [
+        {
+          "word": "Strangers",
+          "strongNumber": "H2114",
+          "lemma": "zur",
+          "meaning": "stranger, foreigner"
+        },
+        {
+          "word": "strength",
+          "strongNumber": "H3581",
+          "lemma": "koach",
+          "meaning": "strength, power"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And the pride of Israel testifieth to his face: and they do not return to the LORD their God, nor seek him for all this.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God prevails"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the divine name, the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Ephraim also is like a silly dove without heart: they call to Egypt, they go to Assyria.",
+      "highlightedWords": [
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt"
+        },
+        {
+          "word": "Assyria",
+          "strongNumber": "H804",
+          "lemma": "Ashshur",
+          "meaning": "Assyria"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "When they shall go, I will spread my net upon them; I will bring them down as the fowls of the heaven; I will chastise them, as their congregation hath heard.",
+      "highlightedWords": [
+        {
+          "word": "net",
+          "strongNumber": "H7568",
+          "lemma": "resheth",
+          "meaning": "net"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens, sky"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Woe unto them! for they have fled from me: destruction unto them! because they have transgressed against me: though I have redeemed them, yet they have spoken lies against me.",
+      "highlightedWords": [
+        {
+          "word": "Woe",
+          "strongNumber": "H1945",
+          "lemma": "hoy",
+          "meaning": "woe! alas!"
+        },
+        {
+          "word": "redeemed",
+          "strongNumber": "H1350",
+          "lemma": "ga'al",
+          "meaning": "to redeem, act as kinsman-redeemer"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And they have not cried unto me with their heart, when they howled upon their beds: they assemble themselves for corn and wine, and they rebel against me.",
+      "highlightedWords": [
+        {
+          "word": "corn",
+          "strongNumber": "H1715",
+          "lemma": "dagan",
+          "meaning": "grain, corn"
+        },
+        {
+          "word": "wine",
+          "strongNumber": "H3196",
+          "lemma": "yayin",
+          "meaning": "wine"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Though I have bound and strengthened their arms, yet do they imagine mischief against me.",
+      "highlightedWords": [
+        {
+          "word": "strengthened",
+          "strongNumber": "H2388",
+          "lemma": "chazaq",
+          "meaning": "to be/become strong; strengthen"
+        },
+        {
+          "word": "arms",
+          "strongNumber": "H2220",
+          "lemma": "zeroa'",
+          "meaning": "arm, strength"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "They return, but not to the most High: they are like a deceitful bow: their princes shall fall by the sword for the rage of their tongue: this shall be their derision in the land of Egypt.",
+      "highlightedWords": [
+        {
+          "word": "most High",
+          "strongNumber": "H5945",
+          "lemma": "elyon",
+          "meaning": "Most High"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt"
+        }
+      ]
+    }
+  ]
+}

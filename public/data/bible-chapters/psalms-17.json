@@ -1,0 +1,294 @@
+{
+  "book": "Psalms",
+  "chapter": 17,
+  "chapterTheme": {
+    "twoWordSummary": "Righteous Plea",
+    "themeWords": [
+      {
+        "word": "Hear",
+        "strongNumber": "H8085",
+        "lemma": "shamaʿ",
+        "meaning": "to hear, listen to, give heed"
+      },
+      {
+        "word": "righteousness",
+        "strongNumber": "H6664",
+        "lemma": "tsedeq",
+        "meaning": "righteousness, justice, what is right"
+      }
+    ]
+  },
+  "sentenceTheme": "David offers a righteous plea, asking the LORD to hear, protect, judge justly, and finally satisfy him with God’s presence.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Hear the right, O LORD, attend unto my cry, give ear unto my prayer, that goeth not out of feigned lips.",
+      "highlightedWords": [
+        {
+          "word": "Hear",
+          "strongNumber": "H8085",
+          "lemma": "shamaʿ",
+          "meaning": "to hear, listen to, give heed"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Let my sentence come forth from thy presence; let thine eyes behold the things that are equal.",
+      "highlightedWords": [
+        {
+          "word": "sentence",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "judgment, decision, justice"
+        },
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "ʿayin",
+          "meaning": "eye; appearance, sight"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Thou hast proved mine heart; thou hast visited me in the night; thou hast tried me, and shalt find nothing; I am purposed that my mouth shall not transgress.",
+      "highlightedWords": [
+        {
+          "word": "proved",
+          "strongNumber": "H974",
+          "lemma": "bachan",
+          "meaning": "to examine, try, prove"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "lev",
+          "meaning": "heart, inner man, mind, will"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Concerning the works of men, by the word of thy lips I have kept me from the paths of the destroyer.",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H565",
+          "lemma": "imrah",
+          "meaning": "utterance, speech, word"
+        },
+        {
+          "word": "paths",
+          "strongNumber": "H0734",
+          "lemma": "orach",
+          "meaning": "path, way, course of life"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Hold up my goings in thy paths, that my footsteps slip not.",
+      "highlightedWords": [
+        {
+          "word": "paths",
+          "strongNumber": "H0734",
+          "lemma": "orach",
+          "meaning": "path, way, course of life"
+        },
+        {
+          "word": "slip",
+          "strongNumber": "H4131",
+          "lemma": "mot",
+          "meaning": "to totter, shake, slip"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "I have called upon thee, for thou wilt hear me, O God: incline thine ear unto me, and hear my speech.",
+      "highlightedWords": [
+        {
+          "word": "called",
+          "strongNumber": "H7121",
+          "lemma": "qaraʾ",
+          "meaning": "to call, cry out, proclaim"
+        },
+        {
+          "word": "ear",
+          "strongNumber": "H0241",
+          "lemma": "ozen",
+          "meaning": "ear; hearing, attention"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Shew thy marvellous lovingkindness, O thou that savest by thy right hand them which put their trust in thee from those that rise up against them.",
+      "highlightedWords": [
+        {
+          "word": "lovingkindness",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "steadfast love, covenant loyalty, mercy"
+        },
+        {
+          "word": "trust",
+          "strongNumber": "H2620",
+          "lemma": "chasah",
+          "meaning": "to take refuge, seek shelter, trust"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Keep me as the apple of the eye, hide me under the shadow of thy wings,",
+      "highlightedWords": [
+        {
+          "word": "apple",
+          "strongNumber": "H0380",
+          "lemma": "ʾiyshon",
+          "meaning": "pupil of the eye; apple"
+        },
+        {
+          "word": "wings",
+          "strongNumber": "H3671",
+          "lemma": "kanaph",
+          "meaning": "wing; extremity, edge, shelter"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "From the wicked that oppress me, from my deadly enemies, who compass me about.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rashaʿ",
+          "meaning": "wicked, guilty, criminal"
+        },
+        {
+          "word": "enemies",
+          "strongNumber": "H0341",
+          "lemma": "ʾoyev",
+          "meaning": "enemy, foe"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "They are inclosed in their own fat: with their mouth they speak proudly.",
+      "highlightedWords": [
+        {
+          "word": "mouth",
+          "strongNumber": "H6310",
+          "lemma": "peh",
+          "meaning": "mouth, speech"
+        },
+        {
+          "word": "speak",
+          "strongNumber": "H1696",
+          "lemma": "dabar",
+          "meaning": "to speak, declare"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "They have now compassed us in our steps: they have set their eyes bowing down to the earth;",
+      "highlightedWords": [
+        {
+          "word": "compassed",
+          "strongNumber": "H5437",
+          "lemma": "sabab",
+          "meaning": "to surround, encircle"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H0776",
+          "lemma": "ʾerets",
+          "meaning": "earth, land"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Like as a lion that is greedy of his prey, and as it were a young lion lurking in secret places.",
+      "highlightedWords": [
+        {
+          "word": "lion",
+          "strongNumber": "H0738",
+          "lemma": "ʾariy",
+          "meaning": "lion"
+        },
+        {
+          "word": "prey",
+          "strongNumber": "H2964",
+          "lemma": "teref",
+          "meaning": "prey, plunder"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Arise, O LORD, disappoint him, cast him down: deliver my soul from the wicked, which is thy sword:",
+      "highlightedWords": [
+        {
+          "word": "Arise",
+          "strongNumber": "H6965",
+          "lemma": "qum",
+          "meaning": "to arise, stand up"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "From men which are thy hand, O LORD, from men of the world, which have their portion in this life, and whose belly thou fillest with thy hid treasure: they are full of children, and leave the rest of their substance to their babes.",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        },
+        {
+          "word": "portion",
+          "strongNumber": "H2506",
+          "lemma": "cheleq",
+          "meaning": "portion, share, allotment"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "As for me, I will behold thy face in righteousness: I shall be satisfied, when I awake, with thy likeness.",
+      "highlightedWords": [
+        {
+          "word": "righteousness",
+          "strongNumber": "H6664",
+          "lemma": "tsedeq",
+          "meaning": "righteousness, justice, what is right"
+        },
+        {
+          "word": "likeness",
+          "strongNumber": "H8544",
+          "lemma": "temunah",
+          "meaning": "likeness, form, appearance"
+        }
+      ]
+    }
+  ]
+}

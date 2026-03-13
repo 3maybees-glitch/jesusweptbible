@@ -1,0 +1,420 @@
+{
+  "book": "Isaiah",
+  "chapter": 48,
+  "chapterTheme": {
+    "twoWordSummary": "Stubborn Israel",
+    "themeWords": [
+      {
+        "word": "Redeemer",
+        "strongNumber": "H1350",
+        "lemma": "go'el",
+        "meaning": "kinsman-redeemer; one who rescues or vindicates"
+      },
+      {
+        "word": "Babylon",
+        "strongNumber": "H0894",
+        "lemma": "Bavel (Babel)",
+        "meaning": "Babylon; the chief city/empire opposing God's people"
+      }
+    ]
+  },
+  "sentenceTheme": "God rebukes Israel’s obstinacy, affirms His foretelling power, and promises redemption and leading, calling them to depart Babylon and find peace in obedience.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Hear ye this, O house of Jacob, which are called by the name of Israel, and are come forth out of the waters of Judah, which swear by the name of the LORD, and make mention of the God of Israel, but not in truth, nor in righteousness.",
+      "highlightedWords": [
+        {
+          "word": "Jacob",
+          "strongNumber": "H3290",
+          "lemma": "Ya'aqov",
+          "meaning": "Jacob; supplanter"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the personal name of Israel’s God (YHWH)"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "For they call themselves of the holy city, and stay themselves upon the God of Israel; The LORD of hosts is his name.",
+      "highlightedWords": [
+        {
+          "word": "holy",
+          "strongNumber": "H6944",
+          "lemma": "qodesh",
+          "meaning": "holiness; sacred"
+        },
+        {
+          "word": "hosts",
+          "strongNumber": "H6635",
+          "lemma": "tsava'",
+          "meaning": "armies; heavenly or earthly forces"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "I have declared the former things from the beginning; and they went forth out of my mouth, and I shewed them; I did them suddenly, and they came to pass.",
+      "highlightedWords": [
+        {
+          "word": "declared",
+          "strongNumber": "H5046",
+          "lemma": "nagad",
+          "meaning": "to announce; make known"
+        },
+        {
+          "word": "mouth",
+          "strongNumber": "H6310",
+          "lemma": "peh",
+          "meaning": "mouth; speech"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Because I knew that thou art obstinate, and thy neck is an iron sinew, and thy brow brass;",
+      "highlightedWords": [
+        {
+          "word": "iron",
+          "strongNumber": "H1270",
+          "lemma": "barzel",
+          "meaning": "iron; hardness, strength"
+        },
+        {
+          "word": "sinew",
+          "strongNumber": "H1517",
+          "lemma": "gid",
+          "meaning": "tendon; sinew"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "I have even from the beginning declared it to thee; before it came to pass I shewed it thee: lest thou shouldest say, Mine idol hath done them, and my graven image, and my molten image, hath commanded them.",
+      "highlightedWords": [
+        {
+          "word": "graven image",
+          "strongNumber": "H6459",
+          "lemma": "pesel",
+          "meaning": "carved image; idol"
+        },
+        {
+          "word": "molten image",
+          "strongNumber": "H4541",
+          "lemma": "massekhah",
+          "meaning": "cast image; molten idol"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Thou hast heard, see all this; and will not ye declare it? I have shewed thee new things from this time, even hidden things, and thou didst not know them.",
+      "highlightedWords": [
+        {
+          "word": "declare",
+          "strongNumber": "H5046",
+          "lemma": "nagad",
+          "meaning": "to announce; proclaim"
+        },
+        {
+          "word": "new",
+          "strongNumber": "H2319",
+          "lemma": "chadash",
+          "meaning": "new; fresh, unheard-of"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "They are created now, and not from the beginning; even before the day when thou heardest them not; lest thou shouldest say, Behold, I knew them.",
+      "highlightedWords": [
+        {
+          "word": "created",
+          "strongNumber": "H1254",
+          "lemma": "bara'",
+          "meaning": "to create; bring into existence"
+        },
+        {
+          "word": "knew",
+          "strongNumber": "H3045",
+          "lemma": "yada'",
+          "meaning": "to know; recognize"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Yea, thou heardest not; yea, thou knewest not; yea, from that time that thine ear was not opened: for I knew that thou wouldest deal very treacherously, and wast called a transgressor from the womb.",
+      "highlightedWords": [
+        {
+          "word": "ear",
+          "strongNumber": "H0241",
+          "lemma": "ozen",
+          "meaning": "ear; hearing"
+        },
+        {
+          "word": "transgressor",
+          "strongNumber": "H6586",
+          "lemma": "pasha'",
+          "meaning": "transgressor; rebel"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "For my name's sake will I defer mine anger, and for my praise will I refrain for thee, that I cut thee not off.",
+      "highlightedWords": [
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "name; reputation, renown"
+        },
+        {
+          "word": "anger",
+          "strongNumber": "H0639",
+          "lemma": "aph",
+          "meaning": "anger; nostril, wrath"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Behold, I have refined thee, but not with silver; I have chosen thee in the furnace of affliction.",
+      "highlightedWords": [
+        {
+          "word": "refined",
+          "strongNumber": "H6884",
+          "lemma": "tsaraph",
+          "meaning": "to smelt; refine, test"
+        },
+        {
+          "word": "furnace",
+          "strongNumber": "H3564",
+          "lemma": "kur",
+          "meaning": "furnace; crucible"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "For mine own sake, even for mine own sake, will I do it: for how should my name be polluted? and I will not give my glory unto another.",
+      "highlightedWords": [
+        {
+          "word": "polluted",
+          "strongNumber": "H2490",
+          "lemma": "chalal",
+          "meaning": "to profane; defile, pollute"
+        },
+        {
+          "word": "glory",
+          "strongNumber": "H3519",
+          "lemma": "kavod",
+          "meaning": "glory; honor, weight"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Hearken unto me, O Jacob and Israel, my called; I am he; I am the first, I also am the last.",
+      "highlightedWords": [
+        {
+          "word": "first",
+          "strongNumber": "H7223",
+          "lemma": "rishon",
+          "meaning": "first; former"
+        },
+        {
+          "word": "last",
+          "strongNumber": "H0314",
+          "lemma": "acharon",
+          "meaning": "last; latter, coming after"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Mine hand also hath laid the foundation of the earth, and my right hand hath spanned the heavens: when I call unto them, they stand up together.",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "H0776",
+          "lemma": "erets",
+          "meaning": "earth; land"
+        },
+        {
+          "word": "heavens",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens; sky"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "All ye, assemble yourselves, and hear; which among them hath declared these things? The LORD hath loved him: he will do his pleasure on Babylon, and his arm shall be on the Chaldeans.",
+      "highlightedWords": [
+        {
+          "word": "Babylon",
+          "strongNumber": "H0894",
+          "lemma": "Bavel (Babel)",
+          "meaning": "Babylon; empire/city of Babel"
+        },
+        {
+          "word": "Chaldeans",
+          "strongNumber": "H3778",
+          "lemma": "Kasdim",
+          "meaning": "Chaldeans; people of Babylon"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "I, even I, have spoken; yea, I have called him: I have brought him, and he shall make his way prosperous.",
+      "highlightedWords": [
+        {
+          "word": "called",
+          "strongNumber": "H7121",
+          "lemma": "qara'",
+          "meaning": "to call; summon"
+        },
+        {
+          "word": "prosperous",
+          "strongNumber": "H6743",
+          "lemma": "tsalach",
+          "meaning": "to prosper; succeed"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Come ye near unto me, hear ye this; I have not spoken in secret from the beginning; from the time that it was, there am I: and now the Lord GOD, and his Spirit, hath sent me.",
+      "highlightedWords": [
+        {
+          "word": "Spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "spirit; wind, breath"
+        },
+        {
+          "word": "sent",
+          "strongNumber": "H7971",
+          "lemma": "shalach",
+          "meaning": "to send; dispatch"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Thus saith the LORD, thy Redeemer, the Holy One of Israel; I am the LORD thy God which teacheth thee to profit, which leadeth thee by the way that thou shouldest go.",
+      "highlightedWords": [
+        {
+          "word": "Redeemer",
+          "strongNumber": "H1350",
+          "lemma": "go'el",
+          "meaning": "kinsman-redeemer; vindicator"
+        },
+        {
+          "word": "leadeth",
+          "strongNumber": "H5148",
+          "lemma": "nachah",
+          "meaning": "to lead; guide"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "O that thou hadst hearkened to my commandments! then had thy peace been as a river, and thy righteousness as the waves of the sea:",
+      "highlightedWords": [
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace; wholeness, well-being"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "tsedaqah",
+          "meaning": "righteousness; justice"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Thy seed also had been as the sand, and the offspring of thy bowels like the gravel thereof; his name should not have been cut off nor destroyed from before me.",
+      "highlightedWords": [
+        {
+          "word": "seed",
+          "strongNumber": "H2233",
+          "lemma": "zera'",
+          "meaning": "seed; offspring, descendants"
+        },
+        {
+          "word": "cut off",
+          "strongNumber": "H3772",
+          "lemma": "karath",
+          "meaning": "to cut off; cut down"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Go ye forth of Babylon, flee ye from the Chaldeans, with a voice of singing declare ye, tell this, utter it even to the end of the earth; say ye, The LORD hath redeemed his servant Jacob.",
+      "highlightedWords": [
+        {
+          "word": "Babylon",
+          "strongNumber": "H0894",
+          "lemma": "Bavel (Babel)",
+          "meaning": "Babylon; empire/city of Babel"
+        },
+        {
+          "word": "redeemed",
+          "strongNumber": "H1350",
+          "lemma": "ga'al",
+          "meaning": "to redeem; act as kinsman-redeemer"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And they thirsted not when he led them through the deserts: he caused the waters to flow out of the rock for them: he clave the rock also, and the waters gushed out.",
+      "highlightedWords": [
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters; water"
+        },
+        {
+          "word": "rock",
+          "strongNumber": "H6697",
+          "lemma": "tsur",
+          "meaning": "rock; cliff, crag"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "There is no peace, saith the LORD, unto the wicked.",
+      "highlightedWords": [
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace; wholeness, well-being"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha'",
+          "meaning": "wicked; guilty, criminal"
+        }
+      ]
+    }
+  ]
+}

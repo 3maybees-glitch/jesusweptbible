@@ -1,0 +1,384 @@
+{
+  "book": "Psalms",
+  "chapter": 147,
+  "chapterTheme": {
+    "twoWordSummary": "Praise Provision",
+    "themeWords": [
+      {
+        "word": "Praise",
+        "strongNumber": "H1984",
+        "lemma": "halal",
+        "meaning": "to praise, boast, celebrate"
+      },
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH",
+        "meaning": "the personal name of the God of Israel; the LORD"
+      }
+    ]
+  },
+  "sentenceTheme": "A hymn calling God’s people to praise the LORD for His powerful care over creation and His gracious provision and revelation to Israel.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Praise ye the LORD: for it is good to sing praises unto our God; for it is pleasant; and praise is comely.",
+      "highlightedWords": [
+        {
+          "word": "Praise",
+          "strongNumber": "H1984",
+          "lemma": "halal",
+          "meaning": "to praise, boast, celebrate"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel; the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "The LORD doth build up Jerusalem: he gathereth together the outcasts of Israel.",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem, the chief city of Israel"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisrael",
+          "meaning": "Israel, the people/nation descended from Jacob"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "He healeth the broken in heart, and bindeth up their wounds.",
+      "highlightedWords": [
+        {
+          "word": "healeth",
+          "strongNumber": "H7495",
+          "lemma": "rapha",
+          "meaning": "to heal, make healthy, cure"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner person, mind"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "He telleth the number of the stars; he calleth them all by their names.",
+      "highlightedWords": [
+        {
+          "word": "stars",
+          "strongNumber": "H3556",
+          "lemma": "kokab",
+          "meaning": "star, celestial body"
+        },
+        {
+          "word": "names",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "name, reputation, memorial"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Great is our Lord, and of great power: his understanding is infinite.",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "H113",
+          "lemma": "adon",
+          "meaning": "lord, master, sovereign"
+        },
+        {
+          "word": "power",
+          "strongNumber": "H3581",
+          "lemma": "koach",
+          "meaning": "strength, power, ability"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "The LORD lifteth up the meek: he casteth the wicked down to the ground.",
+      "highlightedWords": [
+        {
+          "word": "meek",
+          "strongNumber": "H6035",
+          "lemma": "anav",
+          "meaning": "humble, meek, lowly"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha",
+          "meaning": "wicked, guilty, criminal"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Sing unto the LORD with thanksgiving; sing praise upon the harp unto our God:",
+      "highlightedWords": [
+        {
+          "word": "Sing",
+          "strongNumber": "H7891",
+          "lemma": "shir",
+          "meaning": "to sing, sing praise"
+        },
+        {
+          "word": "thanksgiving",
+          "strongNumber": "H8426",
+          "lemma": "todah",
+          "meaning": "thanksgiving, praise, confession"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Who covereth the heaven with clouds, who prepareth rain for the earth, who maketh grass to grow upon the mountains.",
+      "highlightedWords": [
+        {
+          "word": "rain",
+          "strongNumber": "H4306",
+          "lemma": "matar",
+          "meaning": "rain"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "earth, land"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "He giveth to the beast his food, and to the young ravens which cry.",
+      "highlightedWords": [
+        {
+          "word": "beast",
+          "strongNumber": "H929",
+          "lemma": "behemah",
+          "meaning": "beast, cattle, animal"
+        },
+        {
+          "word": "ravens",
+          "strongNumber": "H6158",
+          "lemma": "oreb",
+          "meaning": "raven"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "He delighteth not in the strength of the horse: he taketh not pleasure in the legs of a man.",
+      "highlightedWords": [
+        {
+          "word": "strength",
+          "strongNumber": "H1369",
+          "lemma": "geburah",
+          "meaning": "strength, might, power"
+        },
+        {
+          "word": "horse",
+          "strongNumber": "H5483",
+          "lemma": "sus",
+          "meaning": "horse, warhorse"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "The LORD taketh pleasure in them that fear him, in those that hope in his mercy.",
+      "highlightedWords": [
+        {
+          "word": "fear",
+          "strongNumber": "H3373",
+          "lemma": "yare'",
+          "meaning": "fearing, reverent; one who fears"
+        },
+        {
+          "word": "mercy",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "lovingkindness, mercy, covenant loyalty"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Praise the LORD, O Jerusalem; praise thy God, O Zion.",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem, the chief city of Israel"
+        },
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyon",
+          "meaning": "Zion, the hill in Jerusalem; figuratively, the people of God"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "For he hath strengthened the bars of thy gates; he hath blessed thy children within thee.",
+      "highlightedWords": [
+        {
+          "word": "gates",
+          "strongNumber": "H8179",
+          "lemma": "sha'ar",
+          "meaning": "gate, entrance"
+        },
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child, descendant"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "He maketh peace in thy borders, and filleth thee with the finest of the wheat.",
+      "highlightedWords": [
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace, wholeness, wellbeing"
+        },
+        {
+          "word": "wheat",
+          "strongNumber": "H2406",
+          "lemma": "chittah",
+          "meaning": "wheat"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "He sendeth forth his commandment upon earth: his word runneth very swiftly.",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "earth, land"
+        },
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, decree"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "He giveth snow like wool: he scattereth the hoarfrost like ashes.",
+      "highlightedWords": [
+        {
+          "word": "snow",
+          "strongNumber": "H7950",
+          "lemma": "sheleg",
+          "meaning": "snow"
+        },
+        {
+          "word": "wool",
+          "strongNumber": "H6785",
+          "lemma": "tsemer",
+          "meaning": "wool"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "He casteth forth his ice like morsels: who can stand before his cold?",
+      "highlightedWords": [
+        {
+          "word": "ice",
+          "strongNumber": "H7140",
+          "lemma": "qerach",
+          "meaning": "ice, frost"
+        },
+        {
+          "word": "stand",
+          "strongNumber": "H5975",
+          "lemma": "amad",
+          "meaning": "to stand, remain, endure"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "He sendeth out his word, and melteth them: he causeth his wind to blow, and the waters flow.",
+      "highlightedWords": [
+        {
+          "word": "wind",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "wind, breath, spirit"
+        },
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "He sheweth his word unto Jacob, his statutes and his judgments unto Israel.",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, decree"
+        },
+        {
+          "word": "statutes",
+          "strongNumber": "H2706",
+          "lemma": "choq",
+          "meaning": "statute, ordinance, decree"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "He hath not dealt so with any nation: and as for his judgments, they have not known them. Praise ye the LORD.",
+      "highlightedWords": [
+        {
+          "word": "nation",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation, people"
+        },
+        {
+          "word": "judgments",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "judgment, justice, legal decision"
+        }
+      ]
+    }
+  ]
+}

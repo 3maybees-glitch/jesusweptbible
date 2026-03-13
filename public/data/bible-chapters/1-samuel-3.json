@@ -1,0 +1,402 @@
+{
+  "book": "1 Samuel",
+  "chapter": 3,
+  "chapterTheme": {
+    "twoWordSummary": "Divine Calling",
+    "themeWords": [
+      {
+        "word": "called",
+        "strongNumber": "H7121",
+        "lemma": "qaraʾ",
+        "meaning": "to call, summon, proclaim"
+      },
+      {
+        "word": "prophet",
+        "strongNumber": "H5030",
+        "lemma": "nabiʾ",
+        "meaning": "a prophet, spokesman"
+      }
+    ]
+  },
+  "sentenceTheme": "God calls Samuel and announces judgment on Eli's house, establishing Samuel as His prophet.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And the child Samuel ministered unto the LORD before Eli. And the word of the LORD was precious in those days; there was no open vision.",
+      "highlightedWords": [
+        {
+          "word": "Samuel",
+          "strongNumber": "H8050",
+          "lemma": "Shemuʾel",
+          "meaning": "heard of God"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And it came to pass at that time, when Eli was laid down in his place, and his eyes began to wax dim, that he could not see;",
+      "highlightedWords": [
+        {
+          "word": "Eli",
+          "strongNumber": "H5941",
+          "lemma": "ʿEli",
+          "meaning": "ascension; lofty"
+        },
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "ʿayin",
+          "meaning": "eye; by extension, sight"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And ere the lamp of God went out in the temple of the LORD, where the ark of God was, and Samuel was laid down to sleep;",
+      "highlightedWords": [
+        {
+          "word": "lamp",
+          "strongNumber": "H5216",
+          "lemma": "ner",
+          "meaning": "lamp"
+        },
+        {
+          "word": "ark",
+          "strongNumber": "H727",
+          "lemma": "ʾaron",
+          "meaning": "ark, chest"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "That the LORD called Samuel: and he answered, Here am I.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        },
+        {
+          "word": "called",
+          "strongNumber": "H7121",
+          "lemma": "qaraʾ",
+          "meaning": "to call, summon, proclaim"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And he ran unto Eli, and said, Here am I; for thou calledst me. And he said, I called not; lie down again. And he went and lay down.",
+      "highlightedWords": [
+        {
+          "word": "Eli",
+          "strongNumber": "H5941",
+          "lemma": "ʿEli",
+          "meaning": "ascension; lofty"
+        },
+        {
+          "word": "calledst",
+          "strongNumber": "H7121",
+          "lemma": "qaraʾ",
+          "meaning": "to call, summon, proclaim"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And the LORD called yet again, Samuel. And Samuel arose and went to Eli, and said, Here am I; for thou didst call me. And he answered, I called not, my son; lie down again.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        },
+        {
+          "word": "called",
+          "strongNumber": "H7121",
+          "lemma": "qaraʾ",
+          "meaning": "to call, summon, proclaim"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Now Samuel did not yet know the LORD, neither was the word of the LORD yet revealed unto him.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        },
+        {
+          "word": "revealed",
+          "strongNumber": "H1540",
+          "lemma": "galah",
+          "meaning": "to uncover, reveal"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And the LORD called Samuel again the third time. And he arose and went to Eli, and said, Here am I; for thou didst call me. And Eli perceived that the LORD had called the child.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        },
+        {
+          "word": "perceived",
+          "strongNumber": "H995",
+          "lemma": "bin",
+          "meaning": "to understand, perceive"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Therefore Eli said unto Samuel, Go, lie down: and it shall be, if he call thee, that thou shalt say, Speak, LORD; for thy servant heareth. So Samuel went and lay down in his place.",
+      "highlightedWords": [
+        {
+          "word": "Speak",
+          "strongNumber": "H1696",
+          "lemma": "dabar",
+          "meaning": "to speak, declare"
+        },
+        {
+          "word": "servant",
+          "strongNumber": "H5650",
+          "lemma": "ʿebed",
+          "meaning": "servant, slave"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And the LORD came, and stood, and called as at other times, Samuel, Samuel. Then Samuel answered, Speak; for thy servant heareth.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        },
+        {
+          "word": "Speak",
+          "strongNumber": "H1696",
+          "lemma": "dabar",
+          "meaning": "to speak, declare"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And the LORD said to Samuel, Behold, I will do a thing in Israel, at which both the ears of every one that heareth it shall tingle.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisraʾel",
+          "meaning": "Israel; God strives"
+        },
+        {
+          "word": "ears",
+          "strongNumber": "H241",
+          "lemma": "ʾozen",
+          "meaning": "ear; hearing"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "In that day I will perform against Eli all things which I have spoken concerning his house: when I begin, I will also make an end.",
+      "highlightedWords": [
+        {
+          "word": "Eli",
+          "strongNumber": "H5941",
+          "lemma": "ʿEli",
+          "meaning": "ascension; lofty"
+        },
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, household"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "For I have told him that I will judge his house for ever for the iniquity which he knoweth; because his sons made themselves vile, and he restrained them not.",
+      "highlightedWords": [
+        {
+          "word": "judge",
+          "strongNumber": "H8199",
+          "lemma": "shaphat",
+          "meaning": "to judge, govern"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "ʿavon",
+          "meaning": "iniquity, guilt"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And therefore I have sworn unto the house of Eli, that the iniquity of Eli's house shall not be purged with sacrifice nor offering for ever.",
+      "highlightedWords": [
+        {
+          "word": "sacrifice",
+          "strongNumber": "H2077",
+          "lemma": "zebach",
+          "meaning": "sacrifice"
+        },
+        {
+          "word": "offering",
+          "strongNumber": "H4503",
+          "lemma": "minchah",
+          "meaning": "gift, grain offering"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And Samuel lay until the morning, and opened the doors of the house of the LORD. And Samuel feared to shew Eli the vision.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        },
+        {
+          "word": "feared",
+          "strongNumber": "H3372",
+          "lemma": "yareʾ",
+          "meaning": "to fear, revere"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Then Eli called Samuel, and said, Samuel, my son. And he answered, Here am I.",
+      "highlightedWords": [
+        {
+          "word": "Eli",
+          "strongNumber": "H5941",
+          "lemma": "ʿEli",
+          "meaning": "ascension; lofty"
+        },
+        {
+          "word": "called",
+          "strongNumber": "H7121",
+          "lemma": "qaraʾ",
+          "meaning": "to call, summon, proclaim"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And he said, What is the thing that the LORD hath said unto thee? I pray thee, hide it not from me: God do so to thee, and more also, if thou hide any thing from me of all the things that he said unto thee.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        },
+        {
+          "word": "hide",
+          "strongNumber": "H3582",
+          "lemma": "kachad",
+          "meaning": "to hide, conceal"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And Samuel told him every whit, and hid nothing from him. And he said, It is the LORD: let him do what seemeth him good.",
+      "highlightedWords": [
+        {
+          "word": "Samuel",
+          "strongNumber": "H8050",
+          "lemma": "Shemuʾel",
+          "meaning": "heard of God"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And Samuel grew, and the LORD was with him, and did let none of his words fall to the ground.",
+      "highlightedWords": [
+        {
+          "word": "Samuel",
+          "strongNumber": "H8050",
+          "lemma": "Shemuʾel",
+          "meaning": "heard of God"
+        },
+        {
+          "word": "words",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And all Israel from Dan even to Beer-sheba knew that Samuel was established to be a prophet of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "prophet",
+          "strongNumber": "H5030",
+          "lemma": "nabiʾ",
+          "meaning": "a prophet, spokesman"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And the LORD appeared again in Shiloh: for the LORD revealed himself to Samuel in Shiloh by the word of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "Shiloh",
+          "strongNumber": "H7887",
+          "lemma": "Shiloh",
+          "meaning": "a sanctuary town in Ephraim"
+        },
+        {
+          "word": "revealed",
+          "strongNumber": "H1540",
+          "lemma": "galah",
+          "meaning": "to uncover, reveal"
+        }
+      ]
+    }
+  ]
+}

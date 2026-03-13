@@ -1,0 +1,474 @@
+{
+  "book": "Job",
+  "chapter": 29,
+  "chapterTheme": {
+    "twoWordSummary": "Former Glory",
+    "themeWords": [
+      {
+        "word": "righteousness",
+        "strongNumber": "H6666",
+        "lemma": "tsedaqah",
+        "meaning": "righteousness, justice"
+      },
+      {
+        "word": "counsel",
+        "strongNumber": "H6098",
+        "lemma": "etsah",
+        "meaning": "counsel, advice"
+      }
+    ]
+  },
+  "sentenceTheme": "Job reminisces about the honor, prosperity, and justice he once enjoyed and exercised before his suffering.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Moreover Job continued his parable, and said,",
+      "highlightedWords": [
+        {
+          "word": "Job",
+          "strongNumber": "H347",
+          "lemma": "’Iyowb",
+          "meaning": "Job; a patriarch; ‘persecuted’"
+        },
+        {
+          "word": "parable",
+          "strongNumber": "H4912",
+          "lemma": "mashal",
+          "meaning": "proverb, parable, byword"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Oh that I were as in months past, as in the days when God preserved me;",
+      "highlightedWords": [
+        {
+          "word": "months",
+          "strongNumber": "H2320",
+          "lemma": "chodesh",
+          "meaning": "new moon, month"
+        },
+        {
+          "word": "days",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day, time, period"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "When his candle shined upon my head, and when by his light I walked through darkness;",
+      "highlightedWords": [
+        {
+          "word": "candle",
+          "strongNumber": "H5216",
+          "lemma": "ner",
+          "meaning": "lamp, candle"
+        },
+        {
+          "word": "darkness",
+          "strongNumber": "H2822",
+          "lemma": "choshek",
+          "meaning": "darkness, obscurity"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "As I was in the days of my youth, when the secret of God was upon my tabernacle;",
+      "highlightedWords": [
+        {
+          "word": "secret",
+          "strongNumber": "H5475",
+          "lemma": "sod",
+          "meaning": "confidential counsel, secret"
+        },
+        {
+          "word": "tabernacle",
+          "strongNumber": "H168",
+          "lemma": "’ohel",
+          "meaning": "tent, dwelling, tabernacle"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "When the Almighty was yet with me, when my children were about me;",
+      "highlightedWords": [
+        {
+          "word": "Almighty",
+          "strongNumber": "H7706",
+          "lemma": "Shadday",
+          "meaning": "the Almighty"
+        },
+        {
+          "word": "with",
+          "strongNumber": "H5973",
+          "lemma": "‘im",
+          "meaning": "with, together with"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "When I washed my steps with butter, and the rock poured me out rivers of oil;",
+      "highlightedWords": [
+        {
+          "word": "butter",
+          "strongNumber": "H2529",
+          "lemma": "chem’ah",
+          "meaning": "butter, curds, cream"
+        },
+        {
+          "word": "oil",
+          "strongNumber": "H8081",
+          "lemma": "shemen",
+          "meaning": "oil, fat"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "When I went out to the gate through the city, when I prepared my seat in the street!",
+      "highlightedWords": [
+        {
+          "word": "gate",
+          "strongNumber": "H8179",
+          "lemma": "sha‘ar",
+          "meaning": "gate, entrance"
+        },
+        {
+          "word": "street",
+          "strongNumber": "H7339",
+          "lemma": "rechov",
+          "meaning": "broad place, street"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "The young men saw me, and hid themselves: and the aged arose, and stood up.",
+      "highlightedWords": [
+        {
+          "word": "young",
+          "strongNumber": "H5288",
+          "lemma": "na‘ar",
+          "meaning": "youth, young man"
+        },
+        {
+          "word": "aged",
+          "strongNumber": "H2205",
+          "lemma": "zaqen",
+          "meaning": "old, aged, elder"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "The princes refrained talking, and laid their hand on their mouth.",
+      "highlightedWords": [
+        {
+          "word": "princes",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "prince, ruler, chief"
+        },
+        {
+          "word": "mouth",
+          "strongNumber": "H6310",
+          "lemma": "peh",
+          "meaning": "mouth"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "The nobles held their peace, and their tongue cleaved to the roof of their mouth.",
+      "highlightedWords": [
+        {
+          "word": "nobles",
+          "strongNumber": "H5081",
+          "lemma": "nadib",
+          "meaning": "noble, princely, generous"
+        },
+        {
+          "word": "tongue",
+          "strongNumber": "H3956",
+          "lemma": "lashon",
+          "meaning": "tongue, language"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "When the ear heard me, then it blessed me; and when the eye saw me, it gave witness to me:",
+      "highlightedWords": [
+        {
+          "word": "ear",
+          "strongNumber": "H241",
+          "lemma": "’ozen",
+          "meaning": "ear"
+        },
+        {
+          "word": "eye",
+          "strongNumber": "H5869",
+          "lemma": "‘ayin",
+          "meaning": "eye"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Because I delivered the poor that cried, and the fatherless, and him that had none to help him.",
+      "highlightedWords": [
+        {
+          "word": "fatherless",
+          "strongNumber": "H3490",
+          "lemma": "yathom",
+          "meaning": "orphan, fatherless"
+        },
+        {
+          "word": "help",
+          "strongNumber": "H5826",
+          "lemma": "‘azar",
+          "meaning": "to help, support"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "The blessing of him that was ready to perish came upon me: and I caused the widow's heart to sing for joy.",
+      "highlightedWords": [
+        {
+          "word": "blessing",
+          "strongNumber": "H1293",
+          "lemma": "berakah",
+          "meaning": "blessing, benefit"
+        },
+        {
+          "word": "widow's",
+          "strongNumber": "H490",
+          "lemma": "’almanah",
+          "meaning": "widow"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "I put on righteousness, and it clothed me: my judgment was as a robe and a diadem.",
+      "highlightedWords": [
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "tsedaqah",
+          "meaning": "righteousness, justice"
+        },
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "judgment, decision, justice"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "I was eyes to the blind, and feet was I to the lame.",
+      "highlightedWords": [
+        {
+          "word": "blind",
+          "strongNumber": "H5787",
+          "lemma": "‘ivver",
+          "meaning": "blind"
+        },
+        {
+          "word": "lame",
+          "strongNumber": "H6455",
+          "lemma": "pisseach",
+          "meaning": "lame, limping"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "I was a father to the poor: and the cause which I knew not I searched out.",
+      "highlightedWords": [
+        {
+          "word": "father",
+          "strongNumber": "H1",
+          "lemma": "’ab",
+          "meaning": "father"
+        },
+        {
+          "word": "searched",
+          "strongNumber": "H2713",
+          "lemma": "chaqar",
+          "meaning": "to search out, investigate"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And I brake the jaws of the wicked, and plucked the spoil out of his teeth.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha‘",
+          "meaning": "wicked, guilty, criminal"
+        },
+        {
+          "word": "teeth",
+          "strongNumber": "H8127",
+          "lemma": "shen",
+          "meaning": "tooth, teeth"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Then I said, I shall die in my nest, and I shall multiply my days as the sand.",
+      "highlightedWords": [
+        {
+          "word": "nest",
+          "strongNumber": "H7064",
+          "lemma": "qen",
+          "meaning": "nest"
+        },
+        {
+          "word": "sand",
+          "strongNumber": "H2344",
+          "lemma": "chol",
+          "meaning": "sand"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "My root was spread out by the waters, and the dew lay all night upon my branch.",
+      "highlightedWords": [
+        {
+          "word": "root",
+          "strongNumber": "H8328",
+          "lemma": "shoresh",
+          "meaning": "root"
+        },
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters, water"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "My glory was fresh in me, and my bow was renewed in my hand.",
+      "highlightedWords": [
+        {
+          "word": "glory",
+          "strongNumber": "H3519",
+          "lemma": "kabod",
+          "meaning": "glory, honor"
+        },
+        {
+          "word": "bow",
+          "strongNumber": "H7198",
+          "lemma": "qeshet",
+          "meaning": "bow (weapon), arch"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Unto me men gave ear, and waited, and kept silence at my counsel.",
+      "highlightedWords": [
+        {
+          "word": "ear",
+          "strongNumber": "H241",
+          "lemma": "’ozen",
+          "meaning": "ear"
+        },
+        {
+          "word": "counsel",
+          "strongNumber": "H6098",
+          "lemma": "etsah",
+          "meaning": "counsel, advice, purpose"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "After my words they spake not again; and my speech dropped upon them.",
+      "highlightedWords": [
+        {
+          "word": "words",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, thing"
+        },
+        {
+          "word": "speech",
+          "strongNumber": "H4405",
+          "lemma": "milah",
+          "meaning": "speech, utterance, word"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And they waited for me as for the rain; and they opened their mouth wide as for the latter rain.",
+      "highlightedWords": [
+        {
+          "word": "rain",
+          "strongNumber": "H4306",
+          "lemma": "matar",
+          "meaning": "rain"
+        },
+        {
+          "word": "latter",
+          "strongNumber": "H4456",
+          "lemma": "malqosh",
+          "meaning": "latter (spring) rain"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "If I laughed on them, they believed it not; and the light of my countenance they cast not down.",
+      "highlightedWords": [
+        {
+          "word": "laughed",
+          "strongNumber": "H7832",
+          "lemma": "sachaq",
+          "meaning": "to laugh, play"
+        },
+        {
+          "word": "countenance",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "face, countenance, presence"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "I chose out their way, and sat chief, and dwelt as a king in the army, as one that comforteth the mourners.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king"
+        },
+        {
+          "word": "comforteth",
+          "strongNumber": "H5162",
+          "lemma": "nacham",
+          "meaning": "to comfort, console"
+        }
+      ]
+    }
+  ]
+}

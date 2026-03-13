@@ -1,0 +1,366 @@
+{
+  "book": "Nehemiah",
+  "chapter": 5,
+  "chapterTheme": {
+    "twoWordSummary": "Justice Restored",
+    "themeWords": [
+      {
+        "word": "usury",
+        "strongNumber": "H5392",
+        "lemma": "neshek",
+        "meaning": "interest, usury"
+      },
+      {
+        "word": "Restore",
+        "strongNumber": "H7725",
+        "lemma": "shuv",
+        "meaning": "return, restore"
+      }
+    ]
+  },
+  "sentenceTheme": "Nehemiah confronts economic oppression, commands restitution, and models sacrificial leadership in the fear of God.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And there was a great cry of the people and of their wives against their brethren the Jews.",
+      "highlightedWords": [
+        {
+          "word": "cry",
+          "strongNumber": "H6818",
+          "lemma": "tsa'aqah",
+          "meaning": "cry, outcry, complaint"
+        },
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "'am",
+          "meaning": "people, nation"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "For there were that said, We, our sons, and our daughters, are many: therefore we take up corn for them, that we may eat, and live.",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child"
+        },
+        {
+          "word": "daughters",
+          "strongNumber": "H1323",
+          "lemma": "bat",
+          "meaning": "daughter"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Some also there were that said, We have mortgaged our lands, vineyards, and houses, that we might buy corn, because of the dearth.",
+      "highlightedWords": [
+        {
+          "word": "lands",
+          "strongNumber": "H7704",
+          "lemma": "sadeh",
+          "meaning": "field, land"
+        },
+        {
+          "word": "vineyards",
+          "strongNumber": "H3754",
+          "lemma": "kerem",
+          "meaning": "vineyard"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "There were also that said, We have borrowed money for the king's tribute, and that upon our lands and vineyards.",
+      "highlightedWords": [
+        {
+          "word": "money",
+          "strongNumber": "H3701",
+          "lemma": "keseph",
+          "meaning": "silver, money"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Yet now our flesh is as the flesh of our brethren, our children as their children: and, lo, we bring into bondage our sons and our daughters to be servants, and some of our daughters are brought unto bondage already: neither is it in our power to redeem them; for other men have our lands and vineyards.",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child"
+        },
+        {
+          "word": "daughters",
+          "strongNumber": "H1323",
+          "lemma": "bat",
+          "meaning": "daughter"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And I was very angry when I heard their cry and these words.",
+      "highlightedWords": [
+        {
+          "word": "angry",
+          "strongNumber": "H2734",
+          "lemma": "charah",
+          "meaning": "to be hot, to be angry"
+        },
+        {
+          "word": "cry",
+          "strongNumber": "H6818",
+          "lemma": "tsa'aqah",
+          "meaning": "cry, outcry, complaint"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Then I consulted with myself, and I rebuked the nobles, and the rulers, and said unto them, Ye exact usury, every one of his brother. And I set a great assembly against them.",
+      "highlightedWords": [
+        {
+          "word": "usury",
+          "strongNumber": "H5392",
+          "lemma": "neshek",
+          "meaning": "interest, usury"
+        },
+        {
+          "word": "assembly",
+          "strongNumber": "H6951",
+          "lemma": "qahal",
+          "meaning": "assembly, congregation"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And I said unto them, We after our ability have redeemed our brethren the Jews, which were sold unto the heathen; and will ye even sell your brethren? or shall they be sold unto us? Then held they their peace, and found nothing to answer.",
+      "highlightedWords": [
+        {
+          "word": "redeemed",
+          "strongNumber": "H1350",
+          "lemma": "ga'al",
+          "meaning": "to redeem, act as kinsman"
+        },
+        {
+          "word": "brethren",
+          "strongNumber": "H251",
+          "lemma": "ach",
+          "meaning": "brother, kinsman"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Also I said, It is not good that ye do: ought ye not to walk in the fear of our God because of the reproach of the heathen our enemies?",
+      "highlightedWords": [
+        {
+          "word": "fear",
+          "strongNumber": "H3374",
+          "lemma": "yir'ah",
+          "meaning": "fear, reverence"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "elohim",
+          "meaning": "God, mighty one"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "I likewise, and my brethren, and my servants, might exact of them money and corn: I pray you, let us leave off this usury.",
+      "highlightedWords": [
+        {
+          "word": "money",
+          "strongNumber": "H3701",
+          "lemma": "keseph",
+          "meaning": "silver, money"
+        },
+        {
+          "word": "usury",
+          "strongNumber": "H5392",
+          "lemma": "neshek",
+          "meaning": "interest, usury"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Restore, I pray you, to them, even this day, their lands, their vineyards, their oliveyards, and their houses, also the hundredth part of the money, and of the corn, the wine, and the oil, that ye exact of them.",
+      "highlightedWords": [
+        {
+          "word": "Restore",
+          "strongNumber": "H7725",
+          "lemma": "shuv",
+          "meaning": "return, restore"
+        },
+        {
+          "word": "oil",
+          "strongNumber": "H8081",
+          "lemma": "shemen",
+          "meaning": "oil, fat"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Then said they, We will restore them, and will require nothing of them; so will we do as thou sayest. Then I called the priests, and took an oath of them, that they should do according to this promise.",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest"
+        },
+        {
+          "word": "oath",
+          "strongNumber": "H7621",
+          "lemma": "shevu'ah",
+          "meaning": "oath"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Also I shook my lap, and said, So God shake out every man from his house, and from his labour, that performeth not this promise, even thus be he shaken out, and emptied. And all the congregation said, Amen, and praised the LORD. And the people did according to this promise.",
+      "highlightedWords": [
+        {
+          "word": "congregation",
+          "strongNumber": "H6951",
+          "lemma": "qahal",
+          "meaning": "assembly, congregation"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the divine name, LORD"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Moreover from the time that I was appointed to be their governor in the land of Judah, from the twentieth year even unto the two and thirtieth year of Artaxerxes the king, that is, twelve years, I and my brethren have not eaten the bread of the governor.",
+      "highlightedWords": [
+        {
+          "word": "governor",
+          "strongNumber": "H6346",
+          "lemma": "pechah",
+          "meaning": "governor, prefect"
+        },
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread, food"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "But the former governors that had been before me were chargeable unto the people, and had taken of them bread and wine, beside forty shekels of silver; yea, even their servants bare rule over the people: but so did not I, because of the fear of God.",
+      "highlightedWords": [
+        {
+          "word": "silver",
+          "strongNumber": "H3701",
+          "lemma": "keseph",
+          "meaning": "silver, money"
+        },
+        {
+          "word": "fear",
+          "strongNumber": "H3374",
+          "lemma": "yir'ah",
+          "meaning": "fear, reverence"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Yea, also I continued in the work of this wall, neither bought we any land: and all my servants were gathered thither unto the work.",
+      "highlightedWords": [
+        {
+          "word": "wall",
+          "strongNumber": "H2346",
+          "lemma": "chomah",
+          "meaning": "wall"
+        },
+        {
+          "word": "land",
+          "strongNumber": "H7704",
+          "lemma": "sadeh",
+          "meaning": "field, land"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Moreover there were at my table an hundred and fifty of the Jews and rulers, beside those that came unto us from among the heathen that are about us.",
+      "highlightedWords": [
+        {
+          "word": "table",
+          "strongNumber": "H7979",
+          "lemma": "shulchan",
+          "meaning": "table"
+        },
+        {
+          "word": "Jews",
+          "strongNumber": "H3064",
+          "lemma": "yehudi",
+          "meaning": "Jew, Judean"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Now that which was prepared for me daily was one ox and six choice sheep; also fowls were prepared for me, and once in ten days store of all sorts of wine: yet for all this required not I the bread of the governor, because the bondage was heavy upon this people.",
+      "highlightedWords": [
+        {
+          "word": "wine",
+          "strongNumber": "H3196",
+          "lemma": "yayin",
+          "meaning": "wine"
+        },
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "'am",
+          "meaning": "people, nation"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Think upon me, my God, for good, according to all that I have done for this people.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "elohim",
+          "meaning": "God, mighty one"
+        },
+        {
+          "word": "good",
+          "strongNumber": "H2896",
+          "lemma": "tov",
+          "meaning": "good, pleasant"
+        }
+      ]
+    }
+  ]
+}

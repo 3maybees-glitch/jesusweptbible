@@ -1,0 +1,258 @@
+{
+  "book": "1 Samuel",
+  "chapter": 31,
+  "chapterTheme": {
+    "twoWordSummary": "Saul's Fall",
+    "themeWords": [
+      {
+        "word": "Saul",
+        "strongNumber": "H7586",
+        "lemma": "Sha'ul",
+        "meaning": "Saul; asked (for)"
+      },
+      {
+        "word": "Philistines",
+        "strongNumber": "H6430",
+        "lemma": "Pĕlishtiy",
+        "meaning": "Philistines; people of Philistia"
+      }
+    ]
+  },
+  "sentenceTheme": "The Philistines defeat Israel on Mount Gilboa, Saul and his sons die, and the men of Jabesh-gilead later recover and bury their remains.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Now the Philistines fought against Israel: and the men of Israel fled from before the Philistines, and fell down slain in mount Gilboa.",
+      "highlightedWords": [
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pĕlishtiy",
+          "meaning": "Philistines; people of Philistia"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God prevails"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And the Philistines followed hard upon Saul and upon his sons; and the Philistines slew Jonathan, and Abinadab, and Malchishua, Saul's sons.",
+      "highlightedWords": [
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pĕlishtiy",
+          "meaning": "Philistines; people of Philistia"
+        },
+        {
+          "word": "Saul",
+          "strongNumber": "H7586",
+          "lemma": "Sha'ul",
+          "meaning": "Saul; asked (for)"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And the battle went sore against Saul, and the archers hit him; and he was sore wounded of the archers.",
+      "highlightedWords": [
+        {
+          "word": "battle",
+          "strongNumber": "H4421",
+          "lemma": "milchamah",
+          "meaning": "battle; war; warfare"
+        },
+        {
+          "word": "Saul",
+          "strongNumber": "H7586",
+          "lemma": "Sha'ul",
+          "meaning": "Saul; asked (for)"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Then said Saul unto his armourbearer, Draw thy sword, and thrust me through therewith; lest these uncircumcised come and thrust me through, and abuse me. But his armourbearer would not; for he was sore afraid. Therefore Saul took a sword, and fell upon it.",
+      "highlightedWords": [
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword"
+        },
+        {
+          "word": "Saul",
+          "strongNumber": "H7586",
+          "lemma": "Sha'ul",
+          "meaning": "Saul; asked (for)"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And when his armourbearer saw that Saul was dead, he fell likewise upon his sword, and died with him.",
+      "highlightedWords": [
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword"
+        },
+        {
+          "word": "died",
+          "strongNumber": "H4191",
+          "lemma": "muwth",
+          "meaning": "to die; be dead"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "So Saul died, and his three sons, and his armourbearer, and all his men, that same day together.",
+      "highlightedWords": [
+        {
+          "word": "died",
+          "strongNumber": "H4191",
+          "lemma": "muwth",
+          "meaning": "to die; be dead"
+        },
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And when the men of Israel that were on the other side of the valley, and they that were on the other side Jordan, saw that the men of Israel fled, and that Saul and his sons were dead, they forsook the cities, and fled; and the Philistines came and dwelt in them.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God prevails"
+        },
+        {
+          "word": "Jordan",
+          "strongNumber": "H3383",
+          "lemma": "Yarden",
+          "meaning": "Jordan; the descender (river)"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And it came to pass on the morrow, when the Philistines came to strip the slain, that they found Saul and his three sons fallen in mount Gilboa.",
+      "highlightedWords": [
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pĕlishtiy",
+          "meaning": "Philistines; people of Philistia"
+        },
+        {
+          "word": "Saul",
+          "strongNumber": "H7586",
+          "lemma": "Sha'ul",
+          "meaning": "Saul; asked (for)"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And they cut off his head, and stripped off his armour, and sent into the land of the Philistines round about, to publish it in the house of their idols, and among the people.",
+      "highlightedWords": [
+        {
+          "word": "head",
+          "strongNumber": "H7218",
+          "lemma": "ro'sh",
+          "meaning": "head; chief; top"
+        },
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "’erets",
+          "meaning": "land; earth; territory"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And they put his armour in the house of Ashtaroth: and they fastened his body to the wall of Bethshan.",
+      "highlightedWords": [
+        {
+          "word": "Ashtaroth",
+          "strongNumber": "H6252",
+          "lemma": "Ashtaroth",
+          "meaning": "Ashtaroth; a Canaanite goddess (and her shrines)"
+        },
+        {
+          "word": "Bethshan",
+          "strongNumber": "H1052",
+          "lemma": "Beth-shan",
+          "meaning": "Beth-shan; a city in Manasseh"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And when the inhabitants of Jabeshgilead heard of that which the Philistines had done to Saul;",
+      "highlightedWords": [
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pĕlishtiy",
+          "meaning": "Philistines; people of Philistia"
+        },
+        {
+          "word": "Saul",
+          "strongNumber": "H7586",
+          "lemma": "Sha'ul",
+          "meaning": "Saul; asked (for)"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "All the valiant men arose, and went all night, and took the body of Saul and the bodies of his sons from the wall of Bethshan, and came to Jabesh, and burnt them there.",
+      "highlightedWords": [
+        {
+          "word": "valiant",
+          "strongNumber": "H2428",
+          "lemma": "chayil",
+          "meaning": "valor; strength; might"
+        },
+        {
+          "word": "burnt",
+          "strongNumber": "H8313",
+          "lemma": "saraph",
+          "meaning": "to burn (with fire)"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And they took their bones, and buried them under a tree at Jabesh, and fasted seven days.",
+      "highlightedWords": [
+        {
+          "word": "bones",
+          "strongNumber": "H6106",
+          "lemma": "'etsem",
+          "meaning": "bone; bones"
+        },
+        {
+          "word": "fasted",
+          "strongNumber": "H6684",
+          "lemma": "tsuwm",
+          "meaning": "to fast; abstain from food"
+        }
+      ]
+    }
+  ]
+}

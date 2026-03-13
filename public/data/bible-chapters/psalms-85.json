@@ -1,0 +1,258 @@
+{
+  "book": "Psalms",
+  "chapter": 85,
+  "chapterTheme": {
+    "twoWordSummary": "Restoration Peace",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "יהוה (Yehovah)",
+        "meaning": "The personal name of the God of Israel"
+      },
+      {
+        "word": "righteousness",
+        "strongNumber": "H6666",
+        "lemma": "צדקה (tsedaqah)",
+        "meaning": "Righteousness, justice, rightness"
+      }
+    ]
+  },
+  "sentenceTheme": "A prayer recalling God's past favor and seeking renewed restoration, mercy, and righteousness so that peace and glory may dwell in the land.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "LORD, thou hast been favourable unto thy land: thou hast brought back the captivity of Jacob.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "יהוה (Yehovah)",
+          "meaning": "The personal name of the God of Israel"
+        },
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "ארץ (erets)",
+          "meaning": "Land, earth, territory"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Thou hast forgiven the iniquity of thy people, thou hast covered all their sin. Selah.",
+      "highlightedWords": [
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "עון (avon)",
+          "meaning": "Iniquity, guilt, punishment of iniquity"
+        },
+        {
+          "word": "sin",
+          "strongNumber": "H2403",
+          "lemma": "חטאת (chattath)",
+          "meaning": "Sin, sin offering, guilt of sin"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Thou hast taken away all thy wrath: thou hast turned thyself from the fierceness of thine anger.",
+      "highlightedWords": [
+        {
+          "word": "turned",
+          "strongNumber": "H7725",
+          "lemma": "שוב (shub)",
+          "meaning": "To turn back, return, restore"
+        },
+        {
+          "word": "anger",
+          "strongNumber": "H639",
+          "lemma": "אף (aph)",
+          "meaning": "Nose, nostril; anger, wrath (figuratively)"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Turn us, O God of our salvation, and cause thine anger toward us to cease.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "אלהים (Elohim)",
+          "meaning": "God, gods; the true God"
+        },
+        {
+          "word": "anger",
+          "strongNumber": "H639",
+          "lemma": "אף (aph)",
+          "meaning": "Nose, nostril; anger, wrath (figuratively)"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Wilt thou be angry with us for ever? wilt thou draw out thine anger to all generations?",
+      "highlightedWords": [
+        {
+          "word": "for ever",
+          "strongNumber": "H5769",
+          "lemma": "עולם (olam)",
+          "meaning": "Forever, everlasting, perpetual"
+        },
+        {
+          "word": "generations",
+          "strongNumber": "H1755",
+          "lemma": "דור (dor)",
+          "meaning": "Generation, age, period"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Wilt thou not revive us again: that thy people may rejoice in thee?",
+      "highlightedWords": [
+        {
+          "word": "revive",
+          "strongNumber": "H2421",
+          "lemma": "חיה (chayah)",
+          "meaning": "To live, give life, revive"
+        },
+        {
+          "word": "rejoice",
+          "strongNumber": "H8055",
+          "lemma": "שמח (samach)",
+          "meaning": "To rejoice, be glad"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Shew us thy mercy, O LORD, and grant us thy salvation.",
+      "highlightedWords": [
+        {
+          "word": "mercy",
+          "strongNumber": "H2617",
+          "lemma": "חסד (chesed)",
+          "meaning": "Lovingkindness, steadfast love, mercy"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "יהוה (Yehovah)",
+          "meaning": "The personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "I will hear what God the LORD will speak: for he will speak peace unto his people, and to his saints: but let them not turn again to folly.",
+      "highlightedWords": [
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "שלום (shalom)",
+          "meaning": "Peace, welfare, wholeness"
+        },
+        {
+          "word": "saints",
+          "strongNumber": "H2623",
+          "lemma": "חסיד (chasid)",
+          "meaning": "Godly, faithful, devout; saint"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Surely his salvation is nigh them that fear him; that glory may dwell in our land.",
+      "highlightedWords": [
+        {
+          "word": "glory",
+          "strongNumber": "H3519",
+          "lemma": "כבוד (kavod)",
+          "meaning": "Glory, honor, weight"
+        },
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "ארץ (erets)",
+          "meaning": "Land, earth, territory"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Mercy and truth are met together; righteousness and peace have kissed each other.",
+      "highlightedWords": [
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "צדקה (tsedaqah)",
+          "meaning": "Righteousness, justice, rightness"
+        },
+        {
+          "word": "truth",
+          "strongNumber": "H571",
+          "lemma": "אמת (emeth)",
+          "meaning": "Truth, firmness, faithfulness"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Truth shall spring out of the earth; and righteousness shall look down from heaven.",
+      "highlightedWords": [
+        {
+          "word": "Truth",
+          "strongNumber": "H571",
+          "lemma": "אמת (emeth)",
+          "meaning": "Truth, firmness, faithfulness"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "שמים (shamayim)",
+          "meaning": "Heavens, sky"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Yea, the LORD shall give that which is good; and our land shall yield her increase.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "יהוה (Yehovah)",
+          "meaning": "The personal name of the God of Israel"
+        },
+        {
+          "word": "increase",
+          "strongNumber": "H8393",
+          "lemma": "תבואה (tevuah)",
+          "meaning": "Produce, yield, increase"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Righteousness shall go before him; and shall set us in the way of his steps.",
+      "highlightedWords": [
+        {
+          "word": "Righteousness",
+          "strongNumber": "H6666",
+          "lemma": "צדקה (tsedaqah)",
+          "meaning": "Righteousness, justice, rightness"
+        },
+        {
+          "word": "way",
+          "strongNumber": "H1870",
+          "lemma": "דרך (derek)",
+          "meaning": "Way, road, path, manner"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "book": "Psalms",
+  "chapter": 110,
+  "chapterTheme": {
+    "twoWordSummary": "Priestly King",
+    "themeWords": [
+      {
+        "word": "priest",
+        "strongNumber": "H3548",
+        "lemma": "kōhēn",
+        "meaning": "a priest; one who officiates in sacred rites"
+      },
+      {
+        "word": "king",
+        "strongNumber": "H4428",
+        "lemma": "melek",
+        "meaning": "a king; ruler, sovereign"
+      }
+    ]
+  },
+  "sentenceTheme": "A messianic psalm proclaiming the enthroned priest-king who rules from Zion and judges the nations.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "The LORD said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the personal name of Israel’s God (YHWH)"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "H113",
+          "lemma": "’adon",
+          "meaning": "lord, master; one with authority"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "The LORD shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies.",
+      "highlightedWords": [
+        {
+          "word": "rod",
+          "strongNumber": "H4294",
+          "lemma": "matteh",
+          "meaning": "staff, rod; scepter of authority"
+        },
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyyon",
+          "meaning": "Zion; the hill in Jerusalem, symbol of God’s rule"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Thy people shall be willing in the day of thy power, in the beauties of holiness from the womb of the morning: thou hast the dew of thy youth.",
+      "highlightedWords": [
+        {
+          "word": "holiness",
+          "strongNumber": "H6944",
+          "lemma": "qōdesh",
+          "meaning": "holiness; sacredness, set-apartness"
+        },
+        {
+          "word": "dew",
+          "strongNumber": "H2919",
+          "lemma": "ṭal",
+          "meaning": "dew; gentle moisture signifying freshness and blessing"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "The LORD hath sworn, and will not repent, Thou art a priest for ever after the order of Melchizedek.",
+      "highlightedWords": [
+        {
+          "word": "priest",
+          "strongNumber": "H3548",
+          "lemma": "kōhēn",
+          "meaning": "a priest; one who serves in sacred office"
+        },
+        {
+          "word": "Melchizedek",
+          "strongNumber": "H4442",
+          "lemma": "Malkiy-Tsedeq",
+          "meaning": "Melchizedek; ‘King of Righteousness,’ priest-king of Salem"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "The Lord at thy right hand shall strike through kings in the day of his wrath.",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "H136",
+          "lemma": "’Adonay",
+          "meaning": "Lord; a divine title emphasizing sovereignty"
+        },
+        {
+          "word": "wrath",
+          "strongNumber": "H639",
+          "lemma": "’aph",
+          "meaning": "nose, anger; fierce wrath"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "He shall judge among the heathen, he shall fill the places with the dead bodies; he shall wound the heads over many countries.",
+      "highlightedWords": [
+        {
+          "word": "judge",
+          "strongNumber": "H1777",
+          "lemma": "dîn/diyn",
+          "meaning": "to judge, govern, execute justice"
+        },
+        {
+          "word": "heathen",
+          "strongNumber": "H1471",
+          "lemma": "gôy",
+          "meaning": "nation, people; often Gentile nations"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "He shall drink of the brook in the way: therefore shall he lift up the head.",
+      "highlightedWords": [
+        {
+          "word": "brook",
+          "strongNumber": "H5158",
+          "lemma": "naḥal",
+          "meaning": "stream, wadi, brook"
+        },
+        {
+          "word": "head",
+          "strongNumber": "H7218",
+          "lemma": "rō’š",
+          "meaning": "head; chief, summit"
+        }
+      ]
+    }
+  ]
+}

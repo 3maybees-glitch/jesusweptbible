@@ -1,0 +1,240 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 34,
+  "chapterTheme": {
+    "twoWordSummary": "Moses Dies",
+    "themeWords": [
+      {
+        "word": "Moses",
+        "strongNumber": "H4872",
+        "lemma": "Mosheh",
+        "meaning": "Moses, leader of Israel"
+      },
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "Yehovah",
+        "meaning": "the proper name of the God of Israel"
+      }
+    ]
+  },
+  "sentenceTheme": "From Mount Nebo Moses views the Promised Land, dies in Moab and is buried by God; Joshua receives wisdom, and no prophet like Moses arises in Israel.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And Moses went up from the plains of Moab unto the mountain of Nebo, to the top of Pisgah, that is over against Jericho. And the LORD shewed him all the land of Gilead, unto Dan,",
+      "highlightedWords": [
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses, leader of Israel"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And all Naphtali, and the land of Ephraim, and Manasseh, and all the land of Judah, unto the utmost sea,",
+      "highlightedWords": [
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah, the southern tribe/territory"
+        },
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "sea"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And the south, and the plain of the valley of Jericho, the city of palm trees, unto Zoar.",
+      "highlightedWords": [
+        {
+          "word": "south",
+          "strongNumber": "H5045",
+          "lemma": "negeb",
+          "meaning": "south, Negev region"
+        },
+        {
+          "word": "Jericho",
+          "strongNumber": "H3405",
+          "lemma": "Yericho",
+          "meaning": "Jericho, city near the Jordan"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And the LORD said unto him, This is the land which I sware unto Abraham, unto Isaac, and unto Jacob, saying, I will give it unto thy seed: I have caused thee to see it with thine eyes, but thou shalt not go over thither.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel"
+        },
+        {
+          "word": "seed",
+          "strongNumber": "H2233",
+          "lemma": "zeraʿ",
+          "meaning": "seed, offspring, descendants"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "So Moses the servant of the LORD died there in the land of Moab, according to the word of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses, leader of Israel"
+        },
+        {
+          "word": "servant",
+          "strongNumber": "H5650",
+          "lemma": "ʿebed",
+          "meaning": "servant, bondman"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And he buried him in a valley in the land of Moab, over against Bethpeor: but no man knoweth of his sepulchre unto this day.",
+      "highlightedWords": [
+        {
+          "word": "buried",
+          "strongNumber": "H6912",
+          "lemma": "qabar",
+          "meaning": "to bury"
+        },
+        {
+          "word": "sepulchre",
+          "strongNumber": "H6913",
+          "lemma": "qeber",
+          "meaning": "grave, tomb"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And Moses was an hundred and twenty years old when he died: his eye was not dim, nor his natural force abated.",
+      "highlightedWords": [
+        {
+          "word": "died",
+          "strongNumber": "H4191",
+          "lemma": "muwth",
+          "meaning": "to die, perish"
+        },
+        {
+          "word": "eye",
+          "strongNumber": "H5869",
+          "lemma": "ʿayin",
+          "meaning": "eye"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And the children of Israel wept for Moses in the plains of Moab thirty days: so the days of weeping and mourning for Moses were ended.",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child (descendant)"
+        },
+        {
+          "word": "wept",
+          "strongNumber": "H1058",
+          "lemma": "bakah",
+          "meaning": "to weep, bewail"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And Joshua the son of Nun was full of the spirit of wisdom; for Moses had laid his hands upon him: and the children of Israel hearkened unto him, and did as the LORD commanded Moses.",
+      "highlightedWords": [
+        {
+          "word": "Joshua",
+          "strongNumber": "H3091",
+          "lemma": "Yehoshuaʿ",
+          "meaning": "Joshua; Yahweh is salvation"
+        },
+        {
+          "word": "spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "spirit, wind, breath"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And there arose not a prophet since in Israel like unto Moses, whom the LORD knew face to face,",
+      "highlightedWords": [
+        {
+          "word": "prophet",
+          "strongNumber": "H5030",
+          "lemma": "nabiʾ",
+          "meaning": "prophet, spokesperson"
+        },
+        {
+          "word": "face",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "face, presence"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "In all the signs and the wonders, which the LORD sent him to do in the land of Egypt to Pharaoh, and to all his servants, and to all his land,",
+      "highlightedWords": [
+        {
+          "word": "signs",
+          "strongNumber": "H226",
+          "lemma": "ʾoth",
+          "meaning": "sign, token"
+        },
+        {
+          "word": "wonders",
+          "strongNumber": "H4159",
+          "lemma": "mopheth",
+          "meaning": "wonder, portent, miracle"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And in all that mighty hand, and in all the great terror which Moses shewed in the sight of all Israel.",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisraʾel",
+          "meaning": "Israel"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,636 @@
+{
+  "book": "1 Chronicles",
+  "chapter": 27,
+  "chapterTheme": {
+    "twoWordSummary": "Royal Organization",
+    "themeWords": [
+      {
+        "word": "courses",
+        "strongNumber": "H4256",
+        "lemma": "machalowqeth",
+        "meaning": "division; course (rotational service)"
+      },
+      {
+        "word": "captains",
+        "strongNumber": "H8269",
+        "lemma": "sar",
+        "meaning": "prince; leader; captain"
+      }
+    ]
+  },
+  "sentenceTheme": "David organizes Israel with monthly military divisions, tribal rulers, and overseers of the king’s resources.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Now the children of Israel after their number, to wit, the chief fathers and captains of thousands and hundreds, and their officers that served the king in any matter of the courses, which came in and went out month by month throughout all the months of the year, of every course were twenty and four thousand.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God prevails"
+        },
+        {
+          "word": "courses",
+          "strongNumber": "H4256",
+          "lemma": "machalowqeth",
+          "meaning": "division; course (rotational service)"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Over the first course for the first month was Jashobeam the son of Zabdiel: and in his course were twenty and four thousand.",
+      "highlightedWords": [
+        {
+          "word": "course",
+          "strongNumber": "H4256",
+          "lemma": "machalowqeth",
+          "meaning": "division; course (rotational service)"
+        },
+        {
+          "word": "month",
+          "strongNumber": "H2320",
+          "lemma": "chodesh",
+          "meaning": "new moon; month"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Of the children of Perez was the chief of all the captains of the host for the first month.",
+      "highlightedWords": [
+        {
+          "word": "captains",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "prince; leader; captain"
+        },
+        {
+          "word": "host",
+          "strongNumber": "H6635",
+          "lemma": "tsaba'",
+          "meaning": "army; warfare; host"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And over the course of the second month was Dodai an Ahohite, and of his course was Mikloth also the ruler: in his course likewise were twenty and four thousand.",
+      "highlightedWords": [
+        {
+          "word": "course",
+          "strongNumber": "H4256",
+          "lemma": "machalowqeth",
+          "meaning": "division; course (rotational service)"
+        },
+        {
+          "word": "month",
+          "strongNumber": "H2320",
+          "lemma": "chodesh",
+          "meaning": "new moon; month"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "The third captain of the host for the third month was Benaiah the son of Jehoiada, a chief priest: and in his course were twenty and four thousand.",
+      "highlightedWords": [
+        {
+          "word": "captain",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "prince; leader; captain"
+        },
+        {
+          "word": "host",
+          "strongNumber": "H6635",
+          "lemma": "tsaba'",
+          "meaning": "army; warfare; host"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "This is that Benaiah, who was mighty among the thirty, and above the thirty: and in his course was Ammizabad his son.",
+      "highlightedWords": [
+        {
+          "word": "mighty",
+          "strongNumber": "H1368",
+          "lemma": "gibbor",
+          "meaning": "mighty; valiant warrior"
+        },
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "The fourth captain for the fourth month was Asahel the brother of Joab, and Zebadiah his son after him: and in his course were twenty and four thousand.",
+      "highlightedWords": [
+        {
+          "word": "brother",
+          "strongNumber": "H251",
+          "lemma": "ach",
+          "meaning": "brother; kinsman"
+        },
+        {
+          "word": "course",
+          "strongNumber": "H4256",
+          "lemma": "machalowqeth",
+          "meaning": "division; course (rotational service)"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "The fifth captain for the fifth month was Shamhuth the Izrahite: and in his course were twenty and four thousand.",
+      "highlightedWords": [
+        {
+          "word": "captain",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "prince; leader; captain"
+        },
+        {
+          "word": "month",
+          "strongNumber": "H2320",
+          "lemma": "chodesh",
+          "meaning": "new moon; month"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "The sixth captain for the sixth month was Ira the son of Ikkesh the Tekoite: and in his course were twenty and four thousand.",
+      "highlightedWords": [
+        {
+          "word": "month",
+          "strongNumber": "H2320",
+          "lemma": "chodesh",
+          "meaning": "new moon; month"
+        },
+        {
+          "word": "course",
+          "strongNumber": "H4256",
+          "lemma": "machalowqeth",
+          "meaning": "division; course (rotational service)"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "The seventh captain for the seventh month was Helez the Pelonite, of the children of Ephraim: and in his course were twenty and four thousand.",
+      "highlightedWords": [
+        {
+          "word": "month",
+          "strongNumber": "H2320",
+          "lemma": "chodesh",
+          "meaning": "new moon; month"
+        },
+        {
+          "word": "Ephraim",
+          "strongNumber": "H669",
+          "lemma": "Ephrayim",
+          "meaning": "Ephraim; fruitful"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "The eighth captain for the eighth month was Sibbecai the Hushathite, of the Zarhites: and in his course were twenty and four thousand.",
+      "highlightedWords": [
+        {
+          "word": "month",
+          "strongNumber": "H2320",
+          "lemma": "chodesh",
+          "meaning": "new moon; month"
+        },
+        {
+          "word": "course",
+          "strongNumber": "H4256",
+          "lemma": "machalowqeth",
+          "meaning": "division; course (rotational service)"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "The ninth captain for the ninth month was Abiezer the Anethothite, of the Benjamites: and in his course were twenty and four thousand.",
+      "highlightedWords": [
+        {
+          "word": "month",
+          "strongNumber": "H2320",
+          "lemma": "chodesh",
+          "meaning": "new moon; month"
+        },
+        {
+          "word": "course",
+          "strongNumber": "H4256",
+          "lemma": "machalowqeth",
+          "meaning": "division; course (rotational service)"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "The tenth captain for the tenth month was Maharai the Netophathite, of the Zarhites: and in his course were twenty and four thousand.",
+      "highlightedWords": [
+        {
+          "word": "month",
+          "strongNumber": "H2320",
+          "lemma": "chodesh",
+          "meaning": "new moon; month"
+        },
+        {
+          "word": "course",
+          "strongNumber": "H4256",
+          "lemma": "machalowqeth",
+          "meaning": "division; course (rotational service)"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "The eleventh captain for the eleventh month was Benaiah the Pirathonite, of the children of Ephraim: and in his course were twenty and four thousand.",
+      "highlightedWords": [
+        {
+          "word": "month",
+          "strongNumber": "H2320",
+          "lemma": "chodesh",
+          "meaning": "new moon; month"
+        },
+        {
+          "word": "Ephraim",
+          "strongNumber": "H669",
+          "lemma": "Ephrayim",
+          "meaning": "Ephraim; fruitful"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "The twelfth captain for the twelfth month was Heldai the Netophathite, of Othniel: and in his course were twenty and four thousand.",
+      "highlightedWords": [
+        {
+          "word": "month",
+          "strongNumber": "H2320",
+          "lemma": "chodesh",
+          "meaning": "new moon; month"
+        },
+        {
+          "word": "course",
+          "strongNumber": "H4256",
+          "lemma": "machalowqeth",
+          "meaning": "division; course (rotational service)"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Furthermore over the tribes of Israel: the ruler of the Reubenites was Eliezer the son of Zichri: of the Simeonites, Shephatiah the son of Maachah:",
+      "highlightedWords": [
+        {
+          "word": "tribes",
+          "strongNumber": "H7626",
+          "lemma": "shebet",
+          "meaning": "tribe; staff; scepter"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God prevails"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Of the Levites, Hashabiah the son of Kemuel: of the Aaronites, Zadok:",
+      "highlightedWords": [
+        {
+          "word": "Levites",
+          "strongNumber": "H3881",
+          "lemma": "Lewiym",
+          "meaning": "Levites; members of the tribe of Levi"
+        },
+        {
+          "word": "Zadok",
+          "strongNumber": "H6659",
+          "lemma": "Tsadowq",
+          "meaning": "Zadok; righteous"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Of Judah, Elihu, one of the brethren of David: of Issachar, Omri the son of Michael:",
+      "highlightedWords": [
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah; praise"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "David",
+          "meaning": "David; beloved"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Of Zebulun, Ishmaiah the son of Obadiah: of Naphtali, Jerimoth the son of Azriel:",
+      "highlightedWords": [
+        {
+          "word": "Zebulun",
+          "strongNumber": "H2074",
+          "lemma": "Zebulun",
+          "meaning": "Zebulun; dwelling"
+        },
+        {
+          "word": "Naphtali",
+          "strongNumber": "H5321",
+          "lemma": "Naphtali",
+          "meaning": "Naphtali; my wrestling"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Of the children of Ephraim, Hoshea the son of Azaziah: of the half tribe of Manasseh, Joel the son of Pedaiah:",
+      "highlightedWords": [
+        {
+          "word": "Ephraim",
+          "strongNumber": "H669",
+          "lemma": "Ephrayim",
+          "meaning": "Ephraim; fruitful"
+        },
+        {
+          "word": "Manasseh",
+          "strongNumber": "H4519",
+          "lemma": "Menasheh",
+          "meaning": "Manasseh; causing to forget"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Of the half tribe of Manasseh in Gilead, Iddo the son of Zechariah: of Benjamin, Jaasiel the son of Abner:",
+      "highlightedWords": [
+        {
+          "word": "Gilead",
+          "strongNumber": "H1568",
+          "lemma": "Gil'ad",
+          "meaning": "Gilead; a rocky region east of the Jordan"
+        },
+        {
+          "word": "Benjamin",
+          "strongNumber": "H1144",
+          "lemma": "Binyamin",
+          "meaning": "Benjamin; son of the right hand"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Of Dan, Azareel the son of Jeroham. These were the princes of the tribes of Israel.",
+      "highlightedWords": [
+        {
+          "word": "Dan",
+          "strongNumber": "H1835",
+          "lemma": "Dan",
+          "meaning": "Dan; judge"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God prevails"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "But David took not the number of them from twenty years old and under: because the LORD had said he would increase Israel like to the stars of the heavens.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The LORD; the covenant name of God"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God prevails"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Joab the son of Zeruiah began to number, but he finished not, because there fell wrath for it against Israel; neither was the number put in the account of the chronicles of king David.",
+      "highlightedWords": [
+        {
+          "word": "wrath",
+          "strongNumber": "H7110",
+          "lemma": "qetseph",
+          "meaning": "wrath; indignation"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God prevails"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And over the king's treasures was Azmaveth the son of Adiel: and over the storehouses in the fields, in the cities, and in the villages, and in the castles, was Jehonathan the son of Uzziah:",
+      "highlightedWords": [
+        {
+          "word": "treasures",
+          "strongNumber": "H214",
+          "lemma": "otsar",
+          "meaning": "storehouse; treasure"
+        },
+        {
+          "word": "cities",
+          "strongNumber": "H5892",
+          "lemma": "ir",
+          "meaning": "city; town"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And over them that did the work of the field for tillage of the ground was Ezri the son of Chelub:",
+      "highlightedWords": [
+        {
+          "word": "field",
+          "strongNumber": "H7704",
+          "lemma": "sadeh",
+          "meaning": "field; open country"
+        },
+        {
+          "word": "ground",
+          "strongNumber": "H127",
+          "lemma": "adamah",
+          "meaning": "ground; soil; land"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And over the vineyards was Shimei the Ramathite: over the increase of the vineyards for the wine cellars was Zabdi the Shiphmite:",
+      "highlightedWords": [
+        {
+          "word": "vineyards",
+          "strongNumber": "H3754",
+          "lemma": "kerem",
+          "meaning": "vineyard"
+        },
+        {
+          "word": "wine",
+          "strongNumber": "H3196",
+          "lemma": "yayin",
+          "meaning": "wine"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And over the olive trees and the sycomore trees that were in the low plains was Baal-hanan the Gederite: and over the cellars of oil was Joash:",
+      "highlightedWords": [
+        {
+          "word": "olive",
+          "strongNumber": "H2132",
+          "lemma": "zayith",
+          "meaning": "olive tree; olive"
+        },
+        {
+          "word": "sycomore",
+          "strongNumber": "H8256",
+          "lemma": "shiqmah",
+          "meaning": "sycomore-fig tree"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "And over the herds that fed in Sharon was Shitrai the Sharonite: and over the herds that were in the valleys was Shaphat the son of Adlai:",
+      "highlightedWords": [
+        {
+          "word": "herds",
+          "strongNumber": "H1241",
+          "lemma": "baqar",
+          "meaning": "herd; cattle"
+        },
+        {
+          "word": "valleys",
+          "strongNumber": "H6010",
+          "lemma": "emeq",
+          "meaning": "valley; lowland"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "Over the camels also was Obil the Ishmaelite: and over the asses was Jehdeiah the Meronothite:",
+      "highlightedWords": [
+        {
+          "word": "camels",
+          "strongNumber": "H1581",
+          "lemma": "gamal",
+          "meaning": "camel"
+        },
+        {
+          "word": "asses",
+          "strongNumber": "H2543",
+          "lemma": "chamor",
+          "meaning": "donkey; ass"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "And over the flocks was Jaziz the Hagerite. All these were the rulers of the substance which was king David's.",
+      "highlightedWords": [
+        {
+          "word": "flocks",
+          "strongNumber": "H6629",
+          "lemma": "tson",
+          "meaning": "flock (small livestock)"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king; ruler"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "Also Jonathan David's uncle was a counsellor, a wise man, and a scribe: and Jehiel the son of Hachmoni was with the king's sons:",
+      "highlightedWords": [
+        {
+          "word": "counsellor",
+          "strongNumber": "H3289",
+          "lemma": "yo'etz",
+          "meaning": "counsellor; adviser"
+        },
+        {
+          "word": "king's",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king; ruler"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "And Ahithophel was the king's counsellor: and Hushai the Archite was the king's companion:",
+      "highlightedWords": [
+        {
+          "word": "king's",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king; ruler"
+        },
+        {
+          "word": "counsellor",
+          "strongNumber": "H3289",
+          "lemma": "yo'etz",
+          "meaning": "counsellor; adviser"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "And after Ahithophel was Jehoiada the son of Benaiah, and Abiathar: and the captain of the king's host was Joab.",
+      "highlightedWords": [
+        {
+          "word": "captain",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "prince; leader; captain"
+        },
+        {
+          "word": "host",
+          "strongNumber": "H6635",
+          "lemma": "tsaba'",
+          "meaning": "army; warfare; host"
+        }
+      ]
+    }
+  ]
+}

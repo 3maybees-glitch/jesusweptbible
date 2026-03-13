@@ -1,0 +1,186 @@
+{
+  "book": "Psalms",
+  "chapter": 28,
+  "chapterTheme": {
+    "twoWordSummary": "Plea Deliverance",
+    "themeWords": [
+      {
+        "word": "strength",
+        "strongNumber": "H5797",
+        "lemma": "'oz",
+        "meaning": "strength, might, power"
+      },
+      {
+        "word": "supplications",
+        "strongNumber": "H8469",
+        "lemma": "techinnah",
+        "meaning": "supplication, entreaty, earnest plea"
+      }
+    ]
+  },
+  "sentenceTheme": "David pleads for God’s mercy, trusts in the LORD as his strength and shield, and prays for blessing upon His people.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Unto thee will I cry, O LORD my rock; be not silent to me: lest, if thou be silent to me, I become like them that go down into the pit.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "rock",
+          "strongNumber": "H6697",
+          "lemma": "tsur",
+          "meaning": "rock, cliff; a secure refuge"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Hear the voice of my supplications, when I cry unto thee, when I lift up my hands toward thy holy oracle.",
+      "highlightedWords": [
+        {
+          "word": "Hear",
+          "strongNumber": "H8085",
+          "lemma": "shama'",
+          "meaning": "to hear, listen, heed"
+        },
+        {
+          "word": "oracle",
+          "strongNumber": "H1687",
+          "lemma": "debir",
+          "meaning": "inner sanctuary, holy place; oracle"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Draw me not away with the wicked, and with the workers of iniquity, which speak peace to their neighbours, but mischief is in their hearts.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha'",
+          "meaning": "wicked, guilty, criminal"
+        },
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace, well-being, wholeness"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Give them according to their deeds, and according to the wickedness of their endeavours: give them after the work of their hands; render to them their desert.",
+      "highlightedWords": [
+        {
+          "word": "wickedness",
+          "strongNumber": "H7451",
+          "lemma": "ra'",
+          "meaning": "evil, badness, calamity"
+        },
+        {
+          "word": "hands",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand; by extension, power or control"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Because they regard not the works of the LORD, nor the operation of his hands, he shall destroy them, and not build them up.",
+      "highlightedWords": [
+        {
+          "word": "works",
+          "strongNumber": "H4639",
+          "lemma": "ma'aseh",
+          "meaning": "work, deed, action"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Blessed be the LORD, because he hath heard the voice of my supplications.",
+      "highlightedWords": [
+        {
+          "word": "Blessed",
+          "strongNumber": "H1288",
+          "lemma": "barak",
+          "meaning": "to bless, praise, speak well of"
+        },
+        {
+          "word": "supplications",
+          "strongNumber": "H8469",
+          "lemma": "techinnah",
+          "meaning": "supplication, entreaty, earnest plea"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "The LORD is my strength and my shield; my heart trusted in him, and I am helped: therefore my heart greatly rejoiceth; and with my song will I praise him.",
+      "highlightedWords": [
+        {
+          "word": "strength",
+          "strongNumber": "H5797",
+          "lemma": "'oz",
+          "meaning": "strength, might, power"
+        },
+        {
+          "word": "shield",
+          "strongNumber": "H4043",
+          "lemma": "magen",
+          "meaning": "shield, buckler; protector"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "The LORD is their strength, and he is the saving strength of his anointed.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "anointed",
+          "strongNumber": "H4899",
+          "lemma": "mashiach",
+          "meaning": "anointed one; messiah"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Save thy people, and bless thine inheritance: feed them also, and lift them up for ever.",
+      "highlightedWords": [
+        {
+          "word": "Save",
+          "strongNumber": "H3467",
+          "lemma": "yasha'",
+          "meaning": "to deliver, save, give victory"
+        },
+        {
+          "word": "inheritance",
+          "strongNumber": "H5159",
+          "lemma": "nachalah",
+          "meaning": "inheritance, heritage, possession"
+        }
+      ]
+    }
+  ]
+}

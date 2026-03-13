@@ -1,0 +1,492 @@
+{
+  "book": "Isaiah",
+  "chapter": 49,
+  "chapterTheme": {
+    "twoWordSummary": "Servant Salvation",
+    "themeWords": [
+      {
+        "word": "servant",
+        "strongNumber": "H5650",
+        "lemma": "ʿeḇed",
+        "meaning": "servant; bondman; one who serves"
+      },
+      {
+        "word": "salvation",
+        "strongNumber": "H3444",
+        "lemma": "yešûʿâ",
+        "meaning": "salvation; deliverance; rescue"
+      }
+    ]
+  },
+  "sentenceTheme": "The LORD’s Servant is called to restore Israel and bring salvation to the nations, assuring Zion of God’s unfailing compassion and mighty redemption.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Listen, O isles, unto me; and hearken, ye people, from far; The LORD hath called me from the womb; from the bowels of my mother hath he made mention of my name.",
+      "highlightedWords": [
+        {
+          "word": "isles",
+          "strongNumber": "H339",
+          "lemma": "’î",
+          "meaning": "coastlands; distant islands"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the self-existent, covenant name of God"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And he hath made my mouth like a sharp sword; in the shadow of his hand hath he hid me, and made me a polished shaft; in his quiver hath he hid me;",
+      "highlightedWords": [
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "ḥereb",
+          "meaning": "sword; dagger"
+        },
+        {
+          "word": "quiver",
+          "strongNumber": "H827",
+          "lemma": "’ašpâ",
+          "meaning": "quiver for arrows"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And said unto me, Thou art my servant, O Israel, in whom I will be glorified.",
+      "highlightedWords": [
+        {
+          "word": "servant",
+          "strongNumber": "H5650",
+          "lemma": "ʿeḇed",
+          "meaning": "servant; bondman; one who serves"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yiśrā’ēl",
+          "meaning": "Israel; God strives; the covenant people"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Then I said, I have laboured in vain, I have spent my strength for nought, and in vain: yet surely my judgment is with the LORD, and my work with my God.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the self-existent, covenant name of God"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’ĕlōhîm",
+          "meaning": "God; the mighty one"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And now, saith the LORD that formed me from the womb to be his servant, to bring Jacob again to him, Though Israel be not gathered, yet shall I be glorious in the eyes of the LORD, and my God shall be my strength.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the self-existent, covenant name of God"
+        },
+        {
+          "word": "Jacob",
+          "strongNumber": "H3290",
+          "lemma": "Yaʿăqōḇ",
+          "meaning": "Jacob; heel-catcher; patriarch of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And he said, It is a light thing that thou shouldest be my servant to raise up the tribes of Jacob, and to restore the preserved of Israel: I will also give thee for a light to the Gentiles, that thou mayest be my salvation unto the end of the earth.",
+      "highlightedWords": [
+        {
+          "word": "Gentiles",
+          "strongNumber": "H1471",
+          "lemma": "gôy",
+          "meaning": "nation; people; Gentiles"
+        },
+        {
+          "word": "salvation",
+          "strongNumber": "H3444",
+          "lemma": "yešûʿâ",
+          "meaning": "salvation; deliverance; rescue"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Thus saith the LORD, the Redeemer of Israel, and his Holy One, to him whom man despiseth, to him whom the nation abhorreth, to a servant of rulers, Kings shall see and arise, princes also shall worship, because of the LORD that is faithful, and the Holy One of Israel, and he shall choose thee.",
+      "highlightedWords": [
+        {
+          "word": "Redeemer",
+          "strongNumber": "H1350",
+          "lemma": "gō’ēl",
+          "meaning": "kinsman-redeemer; one who ransoms or vindicates"
+        },
+        {
+          "word": "Holy One",
+          "strongNumber": "H6918",
+          "lemma": "qādôš",
+          "meaning": "holy; sacred; the Holy One"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Thus saith the LORD, In an acceptable time have I heard thee, and in a day of salvation have I helped thee: and I will preserve thee, and give thee for a covenant of the people, to establish the earth, to cause to inherit the desolate heritages;",
+      "highlightedWords": [
+        {
+          "word": "salvation",
+          "strongNumber": "H3444",
+          "lemma": "yešûʿâ",
+          "meaning": "salvation; deliverance; rescue"
+        },
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berît",
+          "meaning": "covenant; treaty; agreement"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "That thou mayest say to the prisoners, Go forth; to them that are in darkness, Shew yourselves. They shall feed in the ways, and their pastures shall be in all high places.",
+      "highlightedWords": [
+        {
+          "word": "prisoners",
+          "strongNumber": "H615",
+          "lemma": "’āsîr",
+          "meaning": "prisoner; captive"
+        },
+        {
+          "word": "darkness",
+          "strongNumber": "H2822",
+          "lemma": "ḥōšeḵ",
+          "meaning": "darkness; obscurity"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "They shall not hunger nor thirst; neither shall the heat nor sun smite them: for he that hath mercy on them shall lead them, even by the springs of water shall he guide them.",
+      "highlightedWords": [
+        {
+          "word": "mercy",
+          "strongNumber": "H7355",
+          "lemma": "raḥam",
+          "meaning": "to have compassion; show mercy"
+        },
+        {
+          "word": "springs",
+          "strongNumber": "H4599",
+          "lemma": "maʿyān",
+          "meaning": "spring; fountain"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And I will make all my mountains a way, and my highways shall be exalted.",
+      "highlightedWords": [
+        {
+          "word": "mountains",
+          "strongNumber": "H2022",
+          "lemma": "hār",
+          "meaning": "mountain; hill country"
+        },
+        {
+          "word": "highways",
+          "strongNumber": "H4546",
+          "lemma": "mesillâ",
+          "meaning": "highway; raised road"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Behold, these shall come from far: and, lo, these from the north and from the west; and these from the land of Sinim.",
+      "highlightedWords": [
+        {
+          "word": "north",
+          "strongNumber": "H6828",
+          "lemma": "ṣāfôn",
+          "meaning": "north; northern region"
+        },
+        {
+          "word": "Sinim",
+          "strongNumber": "H5515",
+          "lemma": "Sînîm",
+          "meaning": "Sinim; a distant land (exact location uncertain)"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Sing, O heavens; and be joyful, O earth; and break forth into singing, O mountains: for the LORD hath comforted his people, and will have mercy upon his afflicted.",
+      "highlightedWords": [
+        {
+          "word": "heavens",
+          "strongNumber": "H8064",
+          "lemma": "šāmayim",
+          "meaning": "heavens; sky"
+        },
+        {
+          "word": "comforted",
+          "strongNumber": "H5162",
+          "lemma": "nāḥam",
+          "meaning": "to comfort; console"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "But Zion said, The LORD hath forsaken me, and my Lord hath forgotten me.",
+      "highlightedWords": [
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Ṣiyyôn",
+          "meaning": "Zion; the hill/city of Jerusalem"
+        },
+        {
+          "word": "forsaken",
+          "strongNumber": "H5800",
+          "lemma": "ʿāzaḇ",
+          "meaning": "to forsake; abandon"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Can a woman forget her sucking child, that she should not have compassion on the son of her womb? yea, they may forget, yet will I not forget thee.",
+      "highlightedWords": [
+        {
+          "word": "woman",
+          "strongNumber": "H802",
+          "lemma": "’iššâ",
+          "meaning": "woman; wife"
+        },
+        {
+          "word": "compassion",
+          "strongNumber": "H7356",
+          "lemma": "raḥamîm",
+          "meaning": "compassion; tender mercy"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Behold, I have graven thee upon the palms of my hands; thy walls are continually before me.",
+      "highlightedWords": [
+        {
+          "word": "graven",
+          "strongNumber": "H2710",
+          "lemma": "ḥāqaq",
+          "meaning": "to inscribe; engrave"
+        },
+        {
+          "word": "palms",
+          "strongNumber": "H3709",
+          "lemma": "kaph",
+          "meaning": "palm of the hand"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Thy children shall make haste; thy destroyers and they that made thee waste shall go forth of thee.",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; children; descendant"
+        },
+        {
+          "word": "waste",
+          "strongNumber": "H2717",
+          "lemma": "ḥārab",
+          "meaning": "to lay waste; make desolate"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Lift up thine eyes round about, and behold: all these gather themselves together, and come to thee. As I live, saith the LORD, thou shalt surely clothe thee with them all, as with an ornament, and bind them on thee, as a bride doeth.",
+      "highlightedWords": [
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "ʿayin",
+          "meaning": "eye; sight"
+        },
+        {
+          "word": "bride",
+          "strongNumber": "H3618",
+          "lemma": "kallâ",
+          "meaning": "bride; daughter-in-law"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "For thy waste and thy desolate places, and the land of thy destruction, shall even now be too narrow by reason of the inhabitants, and they that swallowed thee up shall be far away.",
+      "highlightedWords": [
+        {
+          "word": "desolate",
+          "strongNumber": "H8074",
+          "lemma": "šāmēm",
+          "meaning": "to be desolate; astonished; devastated"
+        },
+        {
+          "word": "inhabitants",
+          "strongNumber": "H3427",
+          "lemma": "yāšaḇ",
+          "meaning": "to dwell; inhabit; those who dwell"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "The children which thou shalt have, after thou hast lost the other, shall say again in thine ears, The place is too strait for me: give place to me that I may dwell.",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; children; descendant"
+        },
+        {
+          "word": "strait",
+          "strongNumber": "H6862",
+          "lemma": "ṣar",
+          "meaning": "narrow; tight; constrained"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Then shalt thou say in thine heart, Who hath begotten me these, seeing I have lost my children, and am desolate, a captive, and removing to and fro? and who hath brought up these? Behold, I was left alone; these, where had they been?",
+      "highlightedWords": [
+        {
+          "word": "desolate",
+          "strongNumber": "H8074",
+          "lemma": "šāmēm",
+          "meaning": "to be desolate; devastated"
+        },
+        {
+          "word": "captive",
+          "strongNumber": "H7628",
+          "lemma": "šeḇî",
+          "meaning": "captivity; captive"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Thus saith the Lord GOD, Behold, I will lift up mine hand to the Gentiles, and set up my standard to the people: and they shall bring thy sons in their arms, and thy daughters shall be carried upon their shoulders.",
+      "highlightedWords": [
+        {
+          "word": "Gentiles",
+          "strongNumber": "H1471",
+          "lemma": "gôy",
+          "meaning": "nation; people; Gentiles"
+        },
+        {
+          "word": "standard",
+          "strongNumber": "H5251",
+          "lemma": "nēs",
+          "meaning": "banner; standard; signal pole"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And kings shall be thy nursing fathers, and their queens thy nursing mothers: they shall bow down to thee with their face toward the earth, and lick up the dust of thy feet; and thou shalt know that I am the LORD: for they shall not be ashamed that wait for me.",
+      "highlightedWords": [
+        {
+          "word": "kings",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king; ruler"
+        },
+        {
+          "word": "wait",
+          "strongNumber": "H6960",
+          "lemma": "qāvâ",
+          "meaning": "to wait; hope; look eagerly"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Shall the prey be taken from the mighty, or the lawful captive delivered?",
+      "highlightedWords": [
+        {
+          "word": "prey",
+          "strongNumber": "H2964",
+          "lemma": "ṭerep̄",
+          "meaning": "prey; plunder"
+        },
+        {
+          "word": "mighty",
+          "strongNumber": "H1368",
+          "lemma": "gibbôr",
+          "meaning": "mighty; strong; warrior"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "But thus saith the LORD, Even the captives of the mighty shall be taken away, and the prey of the terrible shall be delivered: for I will contend with him that contendeth with thee, and I will save thy children.",
+      "highlightedWords": [
+        {
+          "word": "contend",
+          "strongNumber": "H7378",
+          "lemma": "rîḇ",
+          "meaning": "to contend; plead a cause"
+        },
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; children; descendant"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And I will feed them that oppress thee with their own flesh; and they shall be drunken with their own blood, as with sweet wine: and all flesh shall know that I the LORD am thy Saviour and thy Redeemer, the mighty One of Jacob.",
+      "highlightedWords": [
+        {
+          "word": "Saviour",
+          "strongNumber": "H3467",
+          "lemma": "yāšaʿ (môšîaʿ)",
+          "meaning": "deliverer; one who saves"
+        },
+        {
+          "word": "Redeemer",
+          "strongNumber": "H1350",
+          "lemma": "gō’ēl",
+          "meaning": "kinsman-redeemer; one who ransoms or vindicates"
+        }
+      ]
+    }
+  ]
+}

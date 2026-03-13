@@ -1,0 +1,204 @@
+{
+  "book": "Psalms",
+  "chapter": 111,
+  "chapterTheme": {
+    "twoWordSummary": "Covenant Praise",
+    "themeWords": [
+      {
+        "word": "praise",
+        "strongNumber": "H1984",
+        "lemma": "halal",
+        "meaning": "to praise, boast, celebrate"
+      },
+      {
+        "word": "covenant",
+        "strongNumber": "H1285",
+        "lemma": "berith",
+        "meaning": "a solemn agreement, treaty, or pledge"
+      }
+    ]
+  },
+  "sentenceTheme": "A hymn exalting the LORD for His great works, faithful covenant, and the wisdom found in fearing Him.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Praise ye the LORD. I will praise the LORD with my whole heart, in the assembly of the upright, and in the congregation.",
+      "highlightedWords": [
+        {
+          "word": "praise",
+          "strongNumber": "H3034",
+          "lemma": "yadah",
+          "meaning": "to give thanks, laud, confess"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of God"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "The works of the LORD are great, sought out of all them that have pleasure therein.",
+      "highlightedWords": [
+        {
+          "word": "works",
+          "strongNumber": "H4639",
+          "lemma": "ma'aseh",
+          "meaning": "a deed, work, or product"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of God"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "His work is honourable and glorious: and his righteousness endureth for ever.",
+      "highlightedWords": [
+        {
+          "word": "work",
+          "strongNumber": "H6467",
+          "lemma": "po'al",
+          "meaning": "a work, deed, or practice"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "tsedaqah",
+          "meaning": "righteousness, justice, rightness"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "He hath made his wonderful works to be remembered: the LORD is gracious and full of compassion.",
+      "highlightedWords": [
+        {
+          "word": "gracious",
+          "strongNumber": "H2587",
+          "lemma": "channun",
+          "meaning": "gracious, compassionate, showing favor"
+        },
+        {
+          "word": "compassion",
+          "strongNumber": "H7356",
+          "lemma": "rachamim",
+          "meaning": "compassion, tender mercy"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "He hath given meat unto them that fear him: he will ever be mindful of his covenant.",
+      "highlightedWords": [
+        {
+          "word": "fear",
+          "strongNumber": "H3374",
+          "lemma": "yir'ah",
+          "meaning": "fear, reverence, awe"
+        },
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "a solemn agreement, treaty, or pledge"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "He hath shewed his people the power of his works, that he may give them the heritage of the heathen.",
+      "highlightedWords": [
+        {
+          "word": "power",
+          "strongNumber": "H3581",
+          "lemma": "koach",
+          "meaning": "strength, power, might"
+        },
+        {
+          "word": "heritage",
+          "strongNumber": "H5159",
+          "lemma": "nachalah",
+          "meaning": "inheritance, possession, heritage"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "The works of his hands are verity and judgment; all his commandments are sure.",
+      "highlightedWords": [
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "justice, judgment, legal decision"
+        },
+        {
+          "word": "commandments",
+          "strongNumber": "H4687",
+          "lemma": "mitsvah",
+          "meaning": "commandment, law, ordinance"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "They stand fast for ever and ever, and are done in truth and uprightness.",
+      "highlightedWords": [
+        {
+          "word": "truth",
+          "strongNumber": "H571",
+          "lemma": "emeth",
+          "meaning": "firmness, faithfulness, truth"
+        },
+        {
+          "word": "uprightness",
+          "strongNumber": "H3477",
+          "lemma": "yosher",
+          "meaning": "uprightness, equity, rectitude"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "He sent redemption unto his people: he hath commanded his covenant for ever: holy and reverend is his name.",
+      "highlightedWords": [
+        {
+          "word": "redemption",
+          "strongNumber": "H6304",
+          "lemma": "peduth",
+          "meaning": "ransom, redemption, deliverance"
+        },
+        {
+          "word": "holy",
+          "strongNumber": "H6918",
+          "lemma": "qadosh",
+          "meaning": "holy, sacred, set apart"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "The fear of the LORD is the beginning of wisdom: a good understanding have all they that do his commandments: his praise endureth for ever.",
+      "highlightedWords": [
+        {
+          "word": "fear",
+          "strongNumber": "H3374",
+          "lemma": "yir'ah",
+          "meaning": "fear, reverence, awe"
+        },
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "wisdom, skill, applied knowledge"
+        }
+      ]
+    }
+  ]
+}

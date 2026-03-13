@@ -1,0 +1,114 @@
+{
+  "book": "Hosea",
+  "chapter": 3,
+  "chapterTheme": {
+    "twoWordSummary": "Redeeming love",
+    "themeWords": [
+      {
+        "word": "love",
+        "strongNumber": "H157",
+        "lemma": "ahab",
+        "meaning": "to love, have affection for"
+      },
+      {
+        "word": "return",
+        "strongNumber": "H7725",
+        "lemma": "shuv",
+        "meaning": "to turn back, return, restore"
+      }
+    ]
+  },
+  "sentenceTheme": "Hosea redeems his unfaithful wife as a sign that Israel will be restored after a period of deprivation, returning in the latter days to seek the LORD and His goodness.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Then said the LORD unto me, Go yet, love a woman beloved of her friend, yet an adulteress, according to the love of the LORD toward the children of Israel, who look to other gods, and love flagons of wine.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel"
+        },
+        {
+          "word": "love",
+          "strongNumber": "H157",
+          "lemma": "ahab",
+          "meaning": "to love, have affection for"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "So I bought her to me for fifteen pieces of silver, and for an homer of barley, and an half homer of barley:",
+      "highlightedWords": [
+        {
+          "word": "silver",
+          "strongNumber": "H3701",
+          "lemma": "kesef",
+          "meaning": "silver; by extension, money"
+        },
+        {
+          "word": "barley",
+          "strongNumber": "H8184",
+          "lemma": "seorah",
+          "meaning": "barley, a cereal grain"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And I said unto her, Thou shalt abide for me many days; thou shalt not play the harlot, and thou shalt not be for another man: so will I also be for thee.",
+      "highlightedWords": [
+        {
+          "word": "abide",
+          "strongNumber": "H3427",
+          "lemma": "yashab",
+          "meaning": "to sit, dwell, remain"
+        },
+        {
+          "word": "harlot",
+          "strongNumber": "H2181",
+          "lemma": "zanah",
+          "meaning": "to commit fornication, be a prostitute"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "For the children of Israel shall abide many days without a king, and without a prince, and without a sacrifice, and without an image, and without an ephod, and without teraphim:",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        },
+        {
+          "word": "teraphim",
+          "strongNumber": "H8655",
+          "lemma": "teraphim",
+          "meaning": "household gods, idols"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Afterward shall the children of Israel return, and seek the LORD their God, and David their king; and shall fear the LORD and his goodness in the latter days.",
+      "highlightedWords": [
+        {
+          "word": "return",
+          "strongNumber": "H7725",
+          "lemma": "shuv",
+          "meaning": "to turn back, return"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "David",
+          "meaning": "David; beloved; the second king of Israel"
+        }
+      ]
+    }
+  ]
+}

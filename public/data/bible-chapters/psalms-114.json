@@ -1,0 +1,168 @@
+{
+  "book": "Psalms",
+  "chapter": 114,
+  "chapterTheme": {
+    "twoWordSummary": "Deliverance Trembles",
+    "themeWords": [
+      {
+        "word": "Israel",
+        "strongNumber": "H3478",
+        "lemma": "Yisra'el",
+        "meaning": "God prevails; Israel"
+      },
+      {
+        "word": "sea",
+        "strongNumber": "H3220",
+        "lemma": "yam",
+        "meaning": "sea"
+      }
+    ]
+  },
+  "sentenceTheme": "Creation trembles and yields as Israel’s God leads His people out of Egypt.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "When Israel went out of Egypt, the house of Jacob from a people of strange language;",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "God prevails; Israel"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Judah was his sanctuary, and Israel his dominion.",
+      "highlightedWords": [
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah; praised"
+        },
+        {
+          "word": "sanctuary",
+          "strongNumber": "H6944",
+          "lemma": "qodesh",
+          "meaning": "holiness; sacred place; sanctuary"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "The sea saw it, and fled: Jordan was driven back.",
+      "highlightedWords": [
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "sea"
+        },
+        {
+          "word": "Jordan",
+          "strongNumber": "H3383",
+          "lemma": "Yarden",
+          "meaning": "Jordan; descender"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "The mountains skipped like rams, and the little hills like lambs.",
+      "highlightedWords": [
+        {
+          "word": "mountains",
+          "strongNumber": "H2022",
+          "lemma": "har",
+          "meaning": "mountain; hill"
+        },
+        {
+          "word": "rams",
+          "strongNumber": "H352",
+          "lemma": "'ayil",
+          "meaning": "ram; strong one"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "What ailed thee, O thou sea, that thou fleddest? thou Jordan, that thou wast driven back?",
+      "highlightedWords": [
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "sea"
+        },
+        {
+          "word": "Jordan",
+          "strongNumber": "H3383",
+          "lemma": "Yarden",
+          "meaning": "Jordan; descender"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Ye mountains, that ye skipped like rams; and ye little hills, like lambs?",
+      "highlightedWords": [
+        {
+          "word": "mountains",
+          "strongNumber": "H2022",
+          "lemma": "har",
+          "meaning": "mountain; hill"
+        },
+        {
+          "word": "lambs",
+          "strongNumber": "H3532",
+          "lemma": "keves",
+          "meaning": "lamb; young sheep"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Tremble, thou earth, at the presence of the Lord, at the presence of the God of Jacob;",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "'erets",
+          "meaning": "earth; land"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "H113",
+          "lemma": "'adon",
+          "meaning": "lord; master"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Which turned the rock into a standing water, the flint into a fountain of waters.",
+      "highlightedWords": [
+        {
+          "word": "rock",
+          "strongNumber": "H6697",
+          "lemma": "tsur",
+          "meaning": "rock"
+        },
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters"
+        }
+      ]
+    }
+  ]
+}

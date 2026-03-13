@@ -1,0 +1,240 @@
+{
+  "book": "1 Samuel",
+  "chapter": 27,
+  "chapterTheme": {
+    "twoWordSummary": "Philistine Refuge",
+    "themeWords": [
+      {
+        "word": "Ziklag",
+        "strongNumber": "H6860",
+        "lemma": "Tsiqlag",
+        "meaning": "Ziklag; a town in the Negev"
+      },
+      {
+        "word": "Philistines",
+        "strongNumber": "H6430",
+        "lemma": "Pelishtiy",
+        "meaning": "Philistines; people of Philistia"
+      }
+    ]
+  },
+  "sentenceTheme": "David finds refuge with Achish in Philistia, receives Ziklag, and raids nearby peoples while convincing Achish he is loyal.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And David said in his heart, I shall now perish one day by the hand of Saul: there is nothing better for me than that I should speedily escape into the land of the Philistines; and Saul shall despair of me, to seek me any more in any coast of Israel: so shall I escape out of his hand.",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dawid",
+          "meaning": "beloved"
+        },
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pelishtiy",
+          "meaning": "Philistines; people of Philistia"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And David arose, and he passed over with the six hundred men that were with him unto Achish, the son of Maoch, king of Gath.",
+      "highlightedWords": [
+        {
+          "word": "Achish",
+          "strongNumber": "H397",
+          "lemma": "Akhish",
+          "meaning": "a Philistine king of Gath"
+        },
+        {
+          "word": "Gath",
+          "strongNumber": "H1661",
+          "lemma": "Gath",
+          "meaning": "winepress; a Philistine city"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And David dwelt with Achish at Gath, he and his men, every man with his household, even David with his two wives, Ahinoam the Jezreelitess, and Abigail the Carmelitess, Nabal's wife.",
+      "highlightedWords": [
+        {
+          "word": "household",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, household"
+        },
+        {
+          "word": "Abigail",
+          "strongNumber": "H26",
+          "lemma": "Abigayil",
+          "meaning": "my father is joy"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And it was told Saul that David was fled to Gath: and he sought no more again for him.",
+      "highlightedWords": [
+        {
+          "word": "Saul",
+          "strongNumber": "H7586",
+          "lemma": "Sha'ul",
+          "meaning": "asked (of God)"
+        },
+        {
+          "word": "Gath",
+          "strongNumber": "H1661",
+          "lemma": "Gath",
+          "meaning": "winepress; a Philistine city"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And David said unto Achish, If I have now found grace in thine eyes, let them give me a place in some town in the country, that I may dwell there: for why should thy servant dwell in the royal city with thee?",
+      "highlightedWords": [
+        {
+          "word": "grace",
+          "strongNumber": "H2580",
+          "lemma": "chen",
+          "meaning": "favor, grace"
+        },
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "ʿir",
+          "meaning": "city, town"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Then Achish gave him Ziklag that day: wherefore Ziklag pertaineth unto the kings of Judah unto this day.",
+      "highlightedWords": [
+        {
+          "word": "Ziklag",
+          "strongNumber": "H6860",
+          "lemma": "Tsiqlag",
+          "meaning": "Ziklag; a town in the Negev"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah; praised"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And the time that David dwelt in the country of the Philistines was a full year and four months.",
+      "highlightedWords": [
+        {
+          "word": "year",
+          "strongNumber": "H8141",
+          "lemma": "shanah",
+          "meaning": "year"
+        },
+        {
+          "word": "months",
+          "strongNumber": "H2320",
+          "lemma": "chodesh",
+          "meaning": "month, new moon"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And David and his men went up, and invaded the Geshurites, and the Gezrites, and the Amalekites: for those nations were of old the inhabitants of the land, as thou goest to Shur, even unto the land of Egypt.",
+      "highlightedWords": [
+        {
+          "word": "Geshurites",
+          "strongNumber": "H1651",
+          "lemma": "Geshuriy",
+          "meaning": "inhabitants of Geshur"
+        },
+        {
+          "word": "Amalekites",
+          "strongNumber": "H6003",
+          "lemma": "ʿAmaleqi",
+          "meaning": "descendant of Amalek"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And David smote the land, and left neither man nor woman alive, and took away the sheep, and the oxen, and the asses, and the camels, and the apparel, and returned, and came to Achish.",
+      "highlightedWords": [
+        {
+          "word": "smote",
+          "strongNumber": "H5221",
+          "lemma": "nakah",
+          "meaning": "to strike, smite"
+        },
+        {
+          "word": "sheep",
+          "strongNumber": "H6629",
+          "lemma": "tson",
+          "meaning": "flock, sheep and goats"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And Achish said, Whither have ye made a road to day? And David said, Against the south of Judah, and against the south of the Jerahmeelites, and against the south of the Kenites.",
+      "highlightedWords": [
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah; praised"
+        },
+        {
+          "word": "Kenites",
+          "strongNumber": "H7017",
+          "lemma": "Qeni",
+          "meaning": "Kenites; smiths"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And David saved neither man nor woman alive, to bring tidings to Gath, saying, Lest they should tell on us, saying, So did David, and so will be his manner all the while he dwelleth in the country of the Philistines.",
+      "highlightedWords": [
+        {
+          "word": "Gath",
+          "strongNumber": "H1661",
+          "lemma": "Gath",
+          "meaning": "winepress; a Philistine city"
+        },
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pelishtiy",
+          "meaning": "Philistines; people of Philistia"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And Achish believed David, saying, He hath made his people Israel utterly to abhor him; therefore he shall be my servant for ever.",
+      "highlightedWords": [
+        {
+          "word": "abhor",
+          "strongNumber": "H887",
+          "lemma": "ba'ash",
+          "meaning": "to stink, be odious; to be abhorred"
+        },
+        {
+          "word": "servant",
+          "strongNumber": "H5650",
+          "lemma": "ʿebed",
+          "meaning": "servant, slave"
+        }
+      ]
+    }
+  ]
+}
