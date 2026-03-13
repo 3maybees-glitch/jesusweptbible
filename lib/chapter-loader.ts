@@ -1,3 +1,5 @@
+'use server'
+
 import fs from 'fs'
 import path from 'path'
 
@@ -51,6 +53,7 @@ export function loadChapter(fileName: string): Chapter | null {
 
 /**
  * Load all chapters from the data directory
+ * Returns object with keys like "Genesis1", "Exodus2", "Job5"
  */
 export function loadAllChapters(): Record<string, Chapter> {
   const chapters: Record<string, Chapter> = {}
@@ -68,10 +71,14 @@ export function loadAllChapters(): Record<string, Chapter> {
       const chapter = loadChapter(fileName)
       
       if (chapter) {
-        // Create a key in the format used by the app: "bookname-chapternumber"
-        const key = `${chapter.book.replace(/\s+/g, '')}-${chapter.chapter}`
+        // Create a key in the format used by the app: "BookName1" or "BookName2", etc.
+        const key = `${chapter.book}${chapter.chapter}`
         chapters[key] = chapter
       }
+    }
+
+    if (files.length > 0) {
+      console.log(`[v0] Loaded ${Object.keys(chapters).length} chapters from JSON files`)
     }
   } catch (error) {
     console.error('[v0] Error loading chapters directory:', error)
@@ -86,3 +93,4 @@ export function loadAllChapters(): Record<string, Chapter> {
 export function clearCache(): void {
   cache.clear()
 }
+
