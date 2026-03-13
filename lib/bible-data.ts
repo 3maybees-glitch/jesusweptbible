@@ -410,6 +410,7 @@ import { ezraChapter10 } from './ezra-10'
 import { jobChapter1 } from './job-1'
 import { jobChapter2 } from './job-2'
 import { jobChapter3 } from './job-3'
+import { jobChapter4 } from './job-4'
 import { kingsChapter7 } from './1-kings-7'
 import { markChapters18 } from './mark-1-8'
 import { markChapters916 } from './mark-9-16'
@@ -2298,7 +2299,7 @@ export const sampleChapters: Record<string, Chapter> = {
             word: "voice",
             strongNumber: "G5456",
             language: "Greek",
-            lemma: "phōnē",
+            lemma: "ph��nē",
             meaning: "sound, voice, utterance",
           },
           {
@@ -4777,6 +4778,7 @@ export const sampleChapters: Record<string, Chapter> = {
   ...jobChapter1,
   ...jobChapter2,
   ...jobChapter3,
+  ...jobChapter4,
 }
 
 export function getChapter(book: string, chapter: number): Chapter | null {
