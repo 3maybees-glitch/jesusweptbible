@@ -212,11 +212,12 @@ export default function CharactersPage() {
         {filteredCharacters.map((character) => (
           <div key={character.name}>
             <button
-              onClick={() =>
+              onClick={() => {
+                console.log("[v0] Clicked character:", character.name)
                 setExpandedCharacter(
                   expandedCharacter === character.name ? null : character.name
                 )
-              }
+              }}
               className="w-full text-left"
             >
               <Card className="cursor-pointer transition-all hover:shadow-md hover:border-accent/50">
