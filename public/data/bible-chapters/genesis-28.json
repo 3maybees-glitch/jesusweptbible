@@ -1,0 +1,420 @@
+{
+  "book": "Genesis",
+  "chapter": 28,
+  "chapterTheme": {
+    "twoWordSummary": "Jacobs Ladder",
+    "themeWords": [
+      {
+        "word": "ladder",
+        "strongNumber": "H5551",
+        "lemma": "sullam",
+        "meaning": "ladder; staircase"
+      },
+      {
+        "word": "Bethel",
+        "strongNumber": "H1008",
+        "lemma": "Beyth-El",
+        "meaning": "house of God"
+      }
+    ]
+  },
+  "sentenceTheme": "Isaac sends Jacob to Padan-aram; on the way Jacob dreams of a ladder at Bethel where the LORD reaffirms the Abrahamic promise, and Jacob vows devotion to God.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And Isaac called Jacob, and blessed him, and charged him, and said unto him, Thou shalt not take a wife of the daughters of Canaan.",
+      "highlightedWords": [
+        {
+          "word": "Isaac",
+          "strongNumber": "H3327",
+          "lemma": "Yitschaq",
+          "meaning": "he laughs"
+        },
+        {
+          "word": "Jacob",
+          "strongNumber": "H3290",
+          "lemma": "Ya'aqob",
+          "meaning": "heel-catcher; supplanter"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Arise, go to Padan-aram, to the house of Bethuel thy mother's father; and take thee a wife from thence of the daughters of Laban thy mother's brother.",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house; dwelling"
+        },
+        {
+          "word": "Laban",
+          "strongNumber": "H3837",
+          "lemma": "Laban",
+          "meaning": "white"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And God Almighty bless thee, and make thee fruitful, and multiply thee, that thou mayest be a multitude of people;",
+      "highlightedWords": [
+        {
+          "word": "bless",
+          "strongNumber": "H1288",
+          "lemma": "barak",
+          "meaning": "to bless"
+        },
+        {
+          "word": "multiply",
+          "strongNumber": "H7235",
+          "lemma": "rabah",
+          "meaning": "to multiply; become many"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And give thee the blessing of Abraham, to thee, and to thy seed with thee; that thou mayest inherit the land wherein thou art a stranger, which God gave unto Abraham.",
+      "highlightedWords": [
+        {
+          "word": "Abraham",
+          "strongNumber": "H85",
+          "lemma": "Avraham",
+          "meaning": "father of a multitude"
+        },
+        {
+          "word": "seed",
+          "strongNumber": "H2233",
+          "lemma": "zera",
+          "meaning": "seed; offspring; descendants"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And Isaac sent away Jacob: and he went to Padan-aram unto Laban, son of Bethuel the Syrian, the brother of Rebekah, Jacob's and Esau's mother.",
+      "highlightedWords": [
+        {
+          "word": "Rebekah",
+          "strongNumber": "H7259",
+          "lemma": "Ribqah",
+          "meaning": "Rebekah; to tie, ensnare"
+        },
+        {
+          "word": "Esau",
+          "strongNumber": "H6215",
+          "lemma": "Esav",
+          "meaning": "Esau; hairy"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "When Esau saw that Isaac had blessed Jacob, and sent him away to Padan-aram, to take him a wife from thence; and that as he blessed him he gave him a charge, saying, Thou shalt not take a wife of the daughters of Canaan;",
+      "highlightedWords": [
+        {
+          "word": "Esau",
+          "strongNumber": "H6215",
+          "lemma": "Esav",
+          "meaning": "Esau; hairy"
+        },
+        {
+          "word": "Canaan",
+          "strongNumber": "H3667",
+          "lemma": "Kena'an",
+          "meaning": "Canaan; lowland"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And that Jacob obeyed his father and his mother, and was gone to Padan-aram;",
+      "highlightedWords": [
+        {
+          "word": "Jacob",
+          "strongNumber": "H3290",
+          "lemma": "Ya'aqob",
+          "meaning": "heel-catcher; supplanter"
+        },
+        {
+          "word": "father",
+          "strongNumber": "H1",
+          "lemma": "'ab",
+          "meaning": "father; ancestor"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And Esau seeing that the daughters of Canaan pleased not Isaac his father;",
+      "highlightedWords": [
+        {
+          "word": "Esau",
+          "strongNumber": "H6215",
+          "lemma": "Esav",
+          "meaning": "Esau; hairy"
+        },
+        {
+          "word": "Isaac",
+          "strongNumber": "H3327",
+          "lemma": "Yitschaq",
+          "meaning": "he laughs"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Then went Esau unto Ishmael, and took unto the wives which he had Mahalath the daughter of Ishmael Abraham's son, the sister of Nebajoth, to be his wife.",
+      "highlightedWords": [
+        {
+          "word": "Ishmael",
+          "strongNumber": "H3458",
+          "lemma": "Yishma'el",
+          "meaning": "God hears"
+        },
+        {
+          "word": "Mahalath",
+          "strongNumber": "H4258",
+          "lemma": "Machalath",
+          "meaning": "Mahalath; a stringed instrument"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And Jacob went out from Beer-sheba, and went toward Haran.",
+      "highlightedWords": [
+        {
+          "word": "Beer-sheba",
+          "strongNumber": "H884",
+          "lemma": "Be'er Sheba'",
+          "meaning": "well of the oath/seven"
+        },
+        {
+          "word": "Haran",
+          "strongNumber": "H2771",
+          "lemma": "Charan",
+          "meaning": "Haran; parched, dry"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And he lighted upon a certain place, and tarried there all night, because the sun was set; and he took of the stones of that place, and put them for his pillows, and lay down in that place to sleep.",
+      "highlightedWords": [
+        {
+          "word": "place",
+          "strongNumber": "H4725",
+          "lemma": "maqom",
+          "meaning": "place; location"
+        },
+        {
+          "word": "stones",
+          "strongNumber": "H68",
+          "lemma": "'eben",
+          "meaning": "stone"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And he dreamed, and behold a ladder set up on the earth, and the top of it reached to heaven: and behold the angels of God ascending and descending on it.",
+      "highlightedWords": [
+        {
+          "word": "ladder",
+          "strongNumber": "H5551",
+          "lemma": "sullam",
+          "meaning": "ladder; staircase"
+        },
+        {
+          "word": "angels",
+          "strongNumber": "H4397",
+          "lemma": "mal'ak",
+          "meaning": "messenger; angel"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And, behold, the LORD stood above it, and said, I am the LORD God of Abraham thy father, and the God of Isaac: the land whereon thou liest, to thee will I give it, and to thy seed;",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of God"
+        },
+        {
+          "word": "Abraham",
+          "strongNumber": "H85",
+          "lemma": "Avraham",
+          "meaning": "father of a multitude"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And thy seed shall be as the dust of the earth, and thou shalt spread abroad to the west, and to the east, and to the north, and to the south: and in thee and in thy seed shall all the families of the earth be blessed.",
+      "highlightedWords": [
+        {
+          "word": "seed",
+          "strongNumber": "H2233",
+          "lemma": "zera",
+          "meaning": "seed; offspring; descendants"
+        },
+        {
+          "word": "families",
+          "strongNumber": "H4940",
+          "lemma": "mishpachah",
+          "meaning": "family; clan"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And, behold, I am with thee, and will keep thee in all places whither thou goest, and will bring thee again into this land; for I will not leave thee, until I have done that which I have spoken to thee of.",
+      "highlightedWords": [
+        {
+          "word": "keep",
+          "strongNumber": "H8104",
+          "lemma": "shamar",
+          "meaning": "to keep; guard"
+        },
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "'eretz",
+          "meaning": "land; earth"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And Jacob awaked out of his sleep, and he said, Surely the LORD is in this place; and I knew it not.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of God"
+        },
+        {
+          "word": "place",
+          "strongNumber": "H4725",
+          "lemma": "maqom",
+          "meaning": "place; location"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And he was afraid, and said, How dreadful is this place! this is none other but the house of God, and this is the gate of heaven.",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house; dwelling"
+        },
+        {
+          "word": "gate",
+          "strongNumber": "H8179",
+          "lemma": "sha'ar",
+          "meaning": "gate"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And Jacob rose up early in the morning, and took the stone that he had put for his pillows, and set it up for a pillar, and poured oil upon the top of it.",
+      "highlightedWords": [
+        {
+          "word": "pillar",
+          "strongNumber": "H4676",
+          "lemma": "matstsebah",
+          "meaning": "pillar; standing stone"
+        },
+        {
+          "word": "oil",
+          "strongNumber": "H8081",
+          "lemma": "shemen",
+          "meaning": "oil"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And he called the name of that place Bethel: but the name of that city was called Luz at the first.",
+      "highlightedWords": [
+        {
+          "word": "Bethel",
+          "strongNumber": "H1008",
+          "lemma": "Beyth-El",
+          "meaning": "house of God"
+        },
+        {
+          "word": "Luz",
+          "strongNumber": "H3870",
+          "lemma": "Luz",
+          "meaning": "Luz; almond tree"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And Jacob vowed a vow, saying, If God will be with me, and will keep me in this way that I go, and will give me bread to eat, and raiment to put on,",
+      "highlightedWords": [
+        {
+          "word": "vowed",
+          "strongNumber": "H5087",
+          "lemma": "nadar",
+          "meaning": "to vow"
+        },
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread; food"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "So that I come again to my father's house in peace; then shall the LORD be my God:",
+      "highlightedWords": [
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace; wholeness"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of God"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And this stone, which I have set for a pillar, shall be God's house: and of all that thou shalt give me I will surely give the tenth unto thee.",
+      "highlightedWords": [
+        {
+          "word": "stone",
+          "strongNumber": "H68",
+          "lemma": "'eben",
+          "meaning": "stone"
+        },
+        {
+          "word": "tenth",
+          "strongNumber": "H4643",
+          "lemma": "ma'aser",
+          "meaning": "tenth; tithe"
+        }
+      ]
+    }
+  ]
+}

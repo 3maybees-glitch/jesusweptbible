@@ -1,0 +1,654 @@
+{
+  "book": "Genesis",
+  "chapter": 26,
+  "chapterTheme": {
+    "twoWordSummary": "Wells Covenant",
+    "themeWords": [
+      {
+        "word": "well",
+        "strongNumber": "H875",
+        "lemma": "be'er",
+        "meaning": "a pit or water well"
+      },
+      {
+        "word": "covenant",
+        "strongNumber": "H1285",
+        "lemma": "berith",
+        "meaning": "a solemn agreement or treaty"
+      }
+    ]
+  },
+  "sentenceTheme": "Isaac remains in Gerar during famine, prospers under the LORD’s blessing, contends over wells, and makes a covenant at Beersheba.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And there was a famine in the land, beside the first famine that was in the days of Abraham. And Isaac went unto Abimelech king of the Philistines unto Gerar.",
+      "highlightedWords": [
+        {
+          "word": "famine",
+          "strongNumber": "H7458",
+          "lemma": "ra'ab",
+          "meaning": "scarcity of food; hunger"
+        },
+        {
+          "word": "Abimelech",
+          "strongNumber": "H0040",
+          "lemma": "'Abiymelek",
+          "meaning": "a Philistine king; name meaning my father is king"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And the LORD appeared unto him, and said, Go not down into Egypt; dwell in the land which I shall tell thee of:",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt; the land of the Nile"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Sojourn in this land, and I will be with thee, and will bless thee; for unto thee, and unto thy seed, I will give all these countries, and I will perform the oath which I sware unto Abraham thy father;",
+      "highlightedWords": [
+        {
+          "word": "bless",
+          "strongNumber": "H1288",
+          "lemma": "barak",
+          "meaning": "to bestow favor; to bless"
+        },
+        {
+          "word": "seed",
+          "strongNumber": "H2233",
+          "lemma": "zera'",
+          "meaning": "offspring; descendants"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And I will make thy seed to multiply as the stars of heaven, and will give unto thy seed all these countries; and in thy seed shall all the nations of the earth be blessed;",
+      "highlightedWords": [
+        {
+          "word": "seed",
+          "strongNumber": "H2233",
+          "lemma": "zera'",
+          "meaning": "offspring; descendants"
+        },
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "peoples; nations"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Because that Abraham obeyed my voice, and kept my charge, my commandments, my statutes, and my laws.",
+      "highlightedWords": [
+        {
+          "word": "commandments",
+          "strongNumber": "H4687",
+          "lemma": "mitsvah",
+          "meaning": "commands; precepts"
+        },
+        {
+          "word": "laws",
+          "strongNumber": "H8451",
+          "lemma": "torah",
+          "meaning": "instruction; law"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And Isaac dwelt in Gerar:",
+      "highlightedWords": [
+        {
+          "word": "dwelt",
+          "strongNumber": "H3427",
+          "lemma": "yashab",
+          "meaning": "to dwell; to reside"
+        },
+        {
+          "word": "Gerar",
+          "strongNumber": "H1642",
+          "lemma": "Gerar",
+          "meaning": "a Philistine town; lodging-place"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And the men of the place asked him of his wife; and he said, She is my sister: for he feared to say, My wife; lest, said he, the men of the place should kill me for Rebekah; because she was fair to look upon.",
+      "highlightedWords": [
+        {
+          "word": "wife",
+          "strongNumber": "H802",
+          "lemma": "ishshah",
+          "meaning": "woman; wife"
+        },
+        {
+          "word": "sister",
+          "strongNumber": "H269",
+          "lemma": "achot",
+          "meaning": "sister"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And it came to pass, when he had been there a long time, that Abimelech king of the Philistines looked out at a window, and saw, and, behold, Isaac was sporting with Rebekah his wife.",
+      "highlightedWords": [
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pelishtiy",
+          "meaning": "the Philistine people"
+        },
+        {
+          "word": "behold",
+          "strongNumber": "H2009",
+          "lemma": "hinneh",
+          "meaning": "look!; an expression drawing attention"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And Abimelech called Isaac, and said, Behold, of a surety she is thy wife: and how saidst thou, She is my sister? And Isaac said unto him, Because I said, Lest I die for her.",
+      "highlightedWords": [
+        {
+          "word": "said",
+          "strongNumber": "H559",
+          "lemma": "amar",
+          "meaning": "to say; to speak"
+        },
+        {
+          "word": "wife",
+          "strongNumber": "H802",
+          "lemma": "ishshah",
+          "meaning": "woman; wife"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And Abimelech said, What is this thou hast done unto us? one of the people might lightly have lien with thy wife, and thou shouldest have brought guiltiness upon us.",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "'am",
+          "meaning": "people; nation"
+        },
+        {
+          "word": "guiltiness",
+          "strongNumber": "H0819",
+          "lemma": "'ashmah",
+          "meaning": "guilt; offense"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And Abimelech charged all his people, saying, He that toucheth this man or his wife shall surely be put to death.",
+      "highlightedWords": [
+        {
+          "word": "toucheth",
+          "strongNumber": "H5060",
+          "lemma": "naga'",
+          "meaning": "to touch; to strike"
+        },
+        {
+          "word": "death",
+          "strongNumber": "H4191",
+          "lemma": "muth",
+          "meaning": "to die; death"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Then Isaac sowed in that land, and received in the same year an hundredfold: and the LORD blessed him.",
+      "highlightedWords": [
+        {
+          "word": "sowed",
+          "strongNumber": "H2232",
+          "lemma": "zara'",
+          "meaning": "to sow seed"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And the man waxed great, and went forward, and grew until he became very great:",
+      "highlightedWords": [
+        {
+          "word": "man",
+          "strongNumber": "H376",
+          "lemma": "'ish",
+          "meaning": "man; male person"
+        },
+        {
+          "word": "waxed",
+          "strongNumber": "H1431",
+          "lemma": "gadal",
+          "meaning": "to become great; to grow"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "For he had possession of flocks, and possession of herds, and great store of servants: and the Philistines envied him.",
+      "highlightedWords": [
+        {
+          "word": "flocks",
+          "strongNumber": "H6629",
+          "lemma": "tson",
+          "meaning": "small livestock; sheep and goats"
+        },
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pelishtiy",
+          "meaning": "the Philistine people"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "For all the wells which his father's servants had digged in the days of Abraham his father, the Philistines had stopped them, and filled them with earth.",
+      "highlightedWords": [
+        {
+          "word": "wells",
+          "strongNumber": "H875",
+          "lemma": "be'er",
+          "meaning": "a pit or water well"
+        },
+        {
+          "word": "stopped",
+          "strongNumber": "H5640",
+          "lemma": "satham",
+          "meaning": "to stop up; to plug"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And Abimelech said unto Isaac, Go from us; for thou art much mightier than we.",
+      "highlightedWords": [
+        {
+          "word": "mightier",
+          "strongNumber": "H6099",
+          "lemma": "'atsum",
+          "meaning": "mighty; powerful"
+        },
+        {
+          "word": "Isaac",
+          "strongNumber": "H3327",
+          "lemma": "Yitschaq",
+          "meaning": "Isaac; he laughs"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And Isaac departed thence, and pitched his tent in the valley of Gerar, and dwelt there.",
+      "highlightedWords": [
+        {
+          "word": "departed",
+          "strongNumber": "H5265",
+          "lemma": "nasa'",
+          "meaning": "to pull up; set out; depart"
+        },
+        {
+          "word": "tent",
+          "strongNumber": "H0168",
+          "lemma": "'ohel",
+          "meaning": "a tent; dwelling"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And Isaac digged again the wells of water, which they had digged in the days of Abraham his father; for the Philistines had stopped them after the death of Abraham: and he called their names after the names by which his father had called them.",
+      "highlightedWords": [
+        {
+          "word": "wells",
+          "strongNumber": "H875",
+          "lemma": "be'er",
+          "meaning": "a pit or water well"
+        },
+        {
+          "word": "water",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "water"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And Isaac's servants digged in the valley, and found there a well of springing water.",
+      "highlightedWords": [
+        {
+          "word": "well",
+          "strongNumber": "H875",
+          "lemma": "be'er",
+          "meaning": "a pit or water well"
+        },
+        {
+          "word": "water",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "water"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And the herdmen of Gerar did strive with Isaac's herdmen, saying, The water is ours: and he called the name of the well Esek; because they strove with him.",
+      "highlightedWords": [
+        {
+          "word": "strove",
+          "strongNumber": "H7378",
+          "lemma": "riv",
+          "meaning": "to contend; dispute"
+        },
+        {
+          "word": "Esek",
+          "strongNumber": "H6230",
+          "lemma": "'Eseq",
+          "meaning": "name meaning contention"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And they digged another well, and strove for that also: and he called the name of it Sitnah.",
+      "highlightedWords": [
+        {
+          "word": "well",
+          "strongNumber": "H875",
+          "lemma": "be'er",
+          "meaning": "a pit or water well"
+        },
+        {
+          "word": "Sitnah",
+          "strongNumber": "H7856",
+          "lemma": "Sitnah",
+          "meaning": "name meaning enmity"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And he removed from thence, and digged another well; and for that they strove not: and he called the name of it Rehoboth; and he said, For now the LORD hath made room for us, and we shall be fruitful in the land.",
+      "highlightedWords": [
+        {
+          "word": "Rehoboth",
+          "strongNumber": "H7344",
+          "lemma": "Rechoboth",
+          "meaning": "name meaning broad places"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And he went up from thence to Beersheba.",
+      "highlightedWords": [
+        {
+          "word": "went up",
+          "strongNumber": "H5927",
+          "lemma": "‘alah",
+          "meaning": "to go up; ascend"
+        },
+        {
+          "word": "Beersheba",
+          "strongNumber": "H0884",
+          "lemma": "Be'er Sheba'",
+          "meaning": "well of seven/oath; a city in the Negev"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And the LORD appeared unto him the same night, and said, I am the God of Abraham thy father: fear not, for I am with thee, and will bless thee, and multiply thy seed for my servant Abraham's sake.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "fear",
+          "strongNumber": "H3372",
+          "lemma": "yare'",
+          "meaning": "to fear; be afraid"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And he builded an altar there, and called upon the name of the LORD, and pitched his tent there: and there Isaac's servants digged a well.",
+      "highlightedWords": [
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar for sacrifice"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "Then Abimelech went to him from Gerar, and Ahuzzath one of his friends, and Phichol the chief captain of his army.",
+      "highlightedWords": [
+        {
+          "word": "Abimelech",
+          "strongNumber": "H0040",
+          "lemma": "'Abiymelek",
+          "meaning": "a Philistine king; name meaning my father is king"
+        },
+        {
+          "word": "Phichol",
+          "strongNumber": "H6369",
+          "lemma": "Pichol",
+          "meaning": "name of a Philistine commander"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And Isaac said unto them, Wherefore come ye to me, seeing ye hate me, and have sent me away from you?",
+      "highlightedWords": [
+        {
+          "word": "hate",
+          "strongNumber": "H8130",
+          "lemma": "sane'",
+          "meaning": "to hate"
+        },
+        {
+          "word": "sent",
+          "strongNumber": "H7971",
+          "lemma": "shalach",
+          "meaning": "to send; send away"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And they said, We saw certainly that the LORD was with thee: and we said, Let there be now an oath betwixt us, even betwixt us and thee, and let us make a covenant with thee;",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "a solemn agreement or treaty"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "That thou wilt do us no hurt, as we have not touched thee, and as we have done unto thee nothing but good, and have sent thee away in peace: thou art now the blessed of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace; well-being"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "And he made them a feast, and they did eat and drink.",
+      "highlightedWords": [
+        {
+          "word": "feast",
+          "strongNumber": "H4960",
+          "lemma": "mishteh",
+          "meaning": "a banquet; drinking-feast"
+        },
+        {
+          "word": "drink",
+          "strongNumber": "H8354",
+          "lemma": "shathah",
+          "meaning": "to drink"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "And they rose up betimes in the morning, and sware one to another: and Isaac sent them away, and they departed from him in peace.",
+      "highlightedWords": [
+        {
+          "word": "betimes",
+          "strongNumber": "H7925",
+          "lemma": "shakam",
+          "meaning": "to start or rise early"
+        },
+        {
+          "word": "sware",
+          "strongNumber": "H7650",
+          "lemma": "shaba'",
+          "meaning": "to swear; take an oath"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "And it came to pass the same day, that Isaac's servants came, and told him concerning the well which they had digged, and said unto him, We have found water.",
+      "highlightedWords": [
+        {
+          "word": "well",
+          "strongNumber": "H875",
+          "lemma": "be'er",
+          "meaning": "a pit or water well"
+        },
+        {
+          "word": "water",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "water"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "And he called it Shebah: therefore the name of the city is Beersheba unto this day.",
+      "highlightedWords": [
+        {
+          "word": "Shebah",
+          "strongNumber": "H7656",
+          "lemma": "Sheba'",
+          "meaning": "oath; seven"
+        },
+        {
+          "word": "Beersheba",
+          "strongNumber": "H0884",
+          "lemma": "Be'er Sheba'",
+          "meaning": "well of seven/oath; a city in the Negev"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "And Esau was forty years old when he took to wife Judith the daughter of Beeri the Hittite, and Bashemath the daughter of Elon the Hittite:",
+      "highlightedWords": [
+        {
+          "word": "Esau",
+          "strongNumber": "H6215",
+          "lemma": "Esav",
+          "meaning": "Esau; Edom"
+        },
+        {
+          "word": "Hittite",
+          "strongNumber": "H2850",
+          "lemma": "Chitti",
+          "meaning": "a Hittite; member of a Canaanite people"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "Which were a grief of mind unto Isaac and to Rebekah.",
+      "highlightedWords": [
+        {
+          "word": "Isaac",
+          "strongNumber": "H3327",
+          "lemma": "Yitschaq",
+          "meaning": "Isaac; he laughs"
+        },
+        {
+          "word": "Rebekah",
+          "strongNumber": "H7259",
+          "lemma": "Ribqah",
+          "meaning": "Rebekah; to tie or bind"
+        }
+      ]
+    }
+  ]
+}
