@@ -4,20 +4,29 @@ import { useState, useEffect } from "react"
 import { Card, CardContent } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 
+interface HighlightedWord {
+  word: string
+  strongNumber?: string
+  lemma?: string
+  meaning?: string
+}
+
+interface Character {
+  name: string
+  theme: string
+  ref: string
+  highlightedWords?: HighlightedWord[]
+}
+
 interface CharacterGroup {
   name: string
   description?: string
 }
 
-interface TopCharacter {
-  name: string
-  theme: string
-  ref: string
-}
-
 interface CharactersData {
-  characterGroups: CharacterGroup[]
-  topCharacters: TopCharacter[]
+  characterGroups?: CharacterGroup[]
+  topCharacters?: Character[]
+  [key: string]: any
 }
 
 // Fallback data if JSON fails to load
@@ -52,7 +61,7 @@ export default function CharactersPage() {
   const [data, setData] = useState<CharactersData>(fallbackData)
   const [loading, setLoading] = useState(true)
   const [selectedGroup, setSelectedGroup] = useState<string | null>(null)
-  const [selectedCharacter, setSelectedCharacter] = useState<TopCharacter | null>(null)
+  const [selectedCharacter, setSelectedCharacter] = useState<Character | null>(null)
 
   useEffect(() => {
     const loadCharacters = async () => {
@@ -61,13 +70,13 @@ export default function CharactersPage() {
         if (response.ok) {
           const jsonData = await response.json() as CharactersData
           setData(jsonData)
-          console.log("[v0] Characters loaded from JSON:", jsonData)
+          console.log("[v0] Characters loaded from JSON")
         } else {
           console.log("[v0] JSON file not found, using fallback data")
           setData(fallbackData)
         }
       } catch (err) {
-        console.log("[v0] Could not load JSON file, using fallback data:", err)
+        console.log("[v0] Could not load JSON file, using fallback data")
         setData(fallbackData)
       } finally {
         setLoading(false)
@@ -76,6 +85,9 @@ export default function CharactersPage() {
 
     loadCharacters()
   }, [])
+
+  const characterGroups = data.characterGroups || fallbackData.characterGroups || []
+  const topCharacters = data.topCharacters || fallbackData.topCharacters || []
 
   if (loading) {
     return (
@@ -97,11 +109,11 @@ export default function CharactersPage() {
       </div>
 
       {/* Character Groups */}
-      {data.characterGroups && data.characterGroups.length > 0 && (
+      {characterGroups && characterGroups.length > 0 && (
         <div>
           <h2 className="text-2xl font-semibold mb-4">Browse Character Groups</h2>
           <div className="grid md:grid-cols-2 gap-4">
-            {data.characterGroups.map((group) => (
+            {characterGroups.map((group) => (
               <button
                 key={group.name}
                 onClick={() => setSelectedGroup(selectedGroup === group.name ? null : group.name)}
@@ -133,11 +145,11 @@ export default function CharactersPage() {
       )}
 
       {/* Top Characters */}
-      {data.topCharacters && data.topCharacters.length > 0 && (
+      {topCharacters && topCharacters.length > 0 && (
         <div>
           <h2 className="text-2xl font-semibold mb-4">Top Bible Characters</h2>
           <div className="grid md:grid-cols-3 gap-4">
-            {data.topCharacters.map((person) => (
+            {topCharacters.map((person) => (
               <button
                 key={person.name}
                 onClick={() => setSelectedCharacter(
@@ -176,7 +188,7 @@ export default function CharactersPage() {
       {/* Selected Character Details */}
       {selectedCharacter && (
         <Card className="bg-accent/10 border-accent/50">
-          <CardContent className="p-6 space-y-3">
+          <CardContent className="p-6 space-y-5">
             <div>
               <h3 className="text-2xl font-bold text-foreground">
                 {selectedCharacter.name}
@@ -185,12 +197,44 @@ export default function CharactersPage() {
                 {selectedCharacter.theme}
               </p>
               <p className="text-sm text-muted-foreground mt-2">
-                Scripture: {selectedCharacter.ref}
+                Scripture Reference: {selectedCharacter.ref}
               </p>
             </div>
+
+            {/* Highlighted Words with Strong's Numbers */}
+            {selectedCharacter.highlightedWords && selectedCharacter.highlightedWords.length > 0 && (
+              <div className="space-y-4 pt-4 border-t border-accent/20">
+                <h4 className="font-semibold text-foreground">Hebrew Lexical Study</h4>
+                {selectedCharacter.highlightedWords.map((word, idx) => (
+                  <div key={idx} className="bg-background/50 rounded-lg p-4 space-y-2">
+                    <div className="flex items-baseline gap-3">
+                      <span className="text-base font-semibold text-foreground">{word.word}</span>
+                      {word.strongNumber && (
+                        <span className="text-xs bg-accent/20 text-accent px-2 py-1 rounded font-mono">
+                          {word.strongNumber}
+                        </span>
+                      )}
+                    </div>
+                    {word.lemma && (
+                      <div className="text-sm">
+                        <span className="text-muted-foreground">Lemma: </span>
+                        <span className="font-mono text-foreground">{word.lemma}</span>
+                      </div>
+                    )}
+                    {word.meaning && (
+                      <div className="text-sm">
+                        <span className="text-muted-foreground">Meaning: </span>
+                        <span className="text-foreground">{word.meaning}</span>
+                      </div>
+                    )}
+                  </div>
+                ))}
+              </div>
+            )}
+
             <button
               onClick={() => setSelectedCharacter(null)}
-              className="text-sm text-muted-foreground hover:text-foreground transition-colors"
+              className="text-sm text-muted-foreground hover:text-foreground transition-colors pt-2"
             >
               ✕ Close details
             </button>
@@ -200,7 +244,7 @@ export default function CharactersPage() {
 
       <div className="pt-4">
         <Button className="w-full">
-          View All {data.characterGroups?.length ?? 8} Character Groups
+          View All {characterGroups?.length ?? 8} Character Groups
         </Button>
       </div>
     </div>
