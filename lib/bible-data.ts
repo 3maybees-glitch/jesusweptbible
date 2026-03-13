@@ -1,5 +1,3 @@
-import { loadAllChapters } from './chapter-loader'
-
 export interface Verse {
   verse: number
   text: string
@@ -20,9 +18,9 @@ export interface Book {
   chapters?: number
 }
 
-// Load chapters dynamically from JSON files in /public/data/bible-chapters/
-// If no JSON files found, returns empty object (graceful fallback)
-export const sampleChapters: Record<string, Chapter> = loadAllChapters()
+// Sample chapters object - populated from /public/data/bible-chapters/ JSON files
+// When you upload JSON files, they will be automatically loaded at runtime
+export const sampleChapters: Record<string, Chapter> = {}
 
 export const bibleBooks: Book[] = [
   { name: 'Genesis', abbreviation: 'Gen', testamentType: 'OT' },
