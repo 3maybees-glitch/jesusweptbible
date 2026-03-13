@@ -1,0 +1,708 @@
+{
+  "book": "Exodus",
+  "chapter": 30,
+  "chapterTheme": {
+    "twoWordSummary": "Incense Anointing",
+    "themeWords": [
+      {
+        "word": "incense",
+        "strongNumber": "H7004",
+        "lemma": "qetoreth",
+        "meaning": "incense; smoke of fragrant spices"
+      },
+      {
+        "word": "anointing",
+        "strongNumber": "H4888",
+        "lemma": "mishchah",
+        "meaning": "anointing oil; ointment"
+      }
+    ]
+  },
+  "sentenceTheme": "God instructs Moses on the golden altar of incense, atonement ransom, the bronze laver for priestly washing, and the holy anointing oil and incense, declaring them most holy for service before the LORD.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And thou shalt make an altar to burn incense upon: of shittim wood shalt thou make it.",
+      "highlightedWords": [
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar; place of sacrifice"
+        },
+        {
+          "word": "incense",
+          "strongNumber": "H7004",
+          "lemma": "qetoreth",
+          "meaning": "incense; smoke of fragrant spices"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "A cubit shall be the length thereof, and a cubit the breadth thereof; foursquare shall it be: and two cubits shall be the height thereof: the horns thereof shall be of the same.",
+      "highlightedWords": [
+        {
+          "word": "cubit",
+          "strongNumber": "H520",
+          "lemma": "ammah",
+          "meaning": "cubit; measure of length"
+        },
+        {
+          "word": "horns",
+          "strongNumber": "H7161",
+          "lemma": "qeren",
+          "meaning": "horn; projecting corner"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And thou shalt overlay it with pure gold, the top thereof, and the sides thereof round about, and the horns thereof; and thou shalt make unto it a crown of gold round about.",
+      "highlightedWords": [
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "zahab",
+          "meaning": "gold"
+        },
+        {
+          "word": "crown",
+          "strongNumber": "H2213",
+          "lemma": "zer",
+          "meaning": "crown; border molding"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And two golden rings shalt thou make to it under the crown of it, by the two corners thereof, upon the two sides of it shalt thou make it; and they shall be for places for the staves to bear it withal.",
+      "highlightedWords": [
+        {
+          "word": "rings",
+          "strongNumber": "H2885",
+          "lemma": "tabba'ath",
+          "meaning": "ring"
+        },
+        {
+          "word": "staves",
+          "strongNumber": "H905",
+          "lemma": "bad",
+          "meaning": "pole; staff"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And thou shalt make the staves of shittim wood, and overlay them with gold.",
+      "highlightedWords": [
+        {
+          "word": "staves",
+          "strongNumber": "H905",
+          "lemma": "bad",
+          "meaning": "pole; staff"
+        },
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "zahab",
+          "meaning": "gold"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And thou shalt put it before the vail that is by the ark of the testimony, before the mercy seat that is over the testimony, where I will meet with thee.",
+      "highlightedWords": [
+        {
+          "word": "vail",
+          "strongNumber": "H6532",
+          "lemma": "paroketh",
+          "meaning": "veil; inner curtain"
+        },
+        {
+          "word": "ark",
+          "strongNumber": "H727",
+          "lemma": "aron",
+          "meaning": "ark; chest"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And Aaron shall burn thereon sweet incense every morning: when he dresseth the lamps, he shall burn incense upon it.",
+      "highlightedWords": [
+        {
+          "word": "Aaron",
+          "strongNumber": "H175",
+          "lemma": "Aharon",
+          "meaning": "Aaron; brother of Moses, high priest"
+        },
+        {
+          "word": "incense",
+          "strongNumber": "H7004",
+          "lemma": "qetoreth",
+          "meaning": "incense; smoke of fragrant spices"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And when Aaron lighteth the lamps at even, he shall burn incense upon it, a perpetual incense before the LORD throughout your generations.",
+      "highlightedWords": [
+        {
+          "word": "even",
+          "strongNumber": "H6153",
+          "lemma": "ereb",
+          "meaning": "evening"
+        },
+        {
+          "word": "perpetual",
+          "strongNumber": "H8548",
+          "lemma": "tamid",
+          "meaning": "continual; perpetual"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Ye shall offer no strange incense thereon, nor burnt sacrifice, nor meat offering; neither shall ye pour drink offering thereon.",
+      "highlightedWords": [
+        {
+          "word": "strange",
+          "strongNumber": "H2114",
+          "lemma": "zur",
+          "meaning": "foreign; strange"
+        },
+        {
+          "word": "incense",
+          "strongNumber": "H7004",
+          "lemma": "qetoreth",
+          "meaning": "incense; smoke of fragrant spices"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And Aaron shall make an atonement upon the horns of it once in a year with the blood of the sin offering of atonements: once in the year shall he make atonement upon it throughout your generations: it is most holy unto the LORD.",
+      "highlightedWords": [
+        {
+          "word": "atonement",
+          "strongNumber": "H3722",
+          "lemma": "kaphar",
+          "meaning": "to atone; make propitiation"
+        },
+        {
+          "word": "holy",
+          "strongNumber": "H6944",
+          "lemma": "qodesh",
+          "meaning": "holy; set apart"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And the LORD spake unto Moses, saying,",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the divine name, the LORD"
+        },
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "When thou takest the sum of the children of Israel after their number, then shall they give every man a ransom for his soul unto the LORD, when thou numberest them; that there be no plague among them, when thou numberest them.",
+      "highlightedWords": [
+        {
+          "word": "ransom",
+          "strongNumber": "H3724",
+          "lemma": "kofer",
+          "meaning": "ransom; price of life"
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul; life"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "This they shall give, every one that passeth among them that are numbered, half a shekel after the shekel of the sanctuary: (a shekel is twenty gerahs:) an half shekel shall be the offering of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "shekel",
+          "strongNumber": "H8255",
+          "lemma": "sheqel",
+          "meaning": "shekel; weight/coin"
+        },
+        {
+          "word": "gerahs",
+          "strongNumber": "H1626",
+          "lemma": "gerah",
+          "meaning": "gerah; small weight/coin"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Every one that passeth among them that are numbered, from twenty years old and above, shall give an offering unto the LORD.",
+      "highlightedWords": [
+        {
+          "word": "years",
+          "strongNumber": "H8141",
+          "lemma": "shanah",
+          "meaning": "year"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the divine name, the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "The rich shall not give more, and the poor shall not give less than half a shekel, when they give an offering unto the LORD, to make an atonement for your souls.",
+      "highlightedWords": [
+        {
+          "word": "shekel",
+          "strongNumber": "H8255",
+          "lemma": "sheqel",
+          "meaning": "shekel; weight/coin"
+        },
+        {
+          "word": "atonement",
+          "strongNumber": "H3722",
+          "lemma": "kaphar",
+          "meaning": "to atone; make propitiation"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And thou shalt take the atonement money of the children of Israel, and shalt appoint it for the service of the tabernacle of the congregation; that it may be a memorial unto the children of Israel before the LORD, to make an atonement for your souls.",
+      "highlightedWords": [
+        {
+          "word": "tabernacle",
+          "strongNumber": "H168",
+          "lemma": "ohel",
+          "meaning": "tent; tabernacle"
+        },
+        {
+          "word": "memorial",
+          "strongNumber": "H2146",
+          "lemma": "zeker",
+          "meaning": "memorial; remembrance"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And the LORD spake unto Moses, saying,",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the divine name, the LORD"
+        },
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Thou shalt also make a laver of brass, and his foot also of brass, to wash withal: and thou shalt put it between the tabernacle of the congregation and the altar, and thou shalt put water therein.",
+      "highlightedWords": [
+        {
+          "word": "laver",
+          "strongNumber": "H3595",
+          "lemma": "kiyyor",
+          "meaning": "laver; basin"
+        },
+        {
+          "word": "brass",
+          "strongNumber": "H5178",
+          "lemma": "nechosheth",
+          "meaning": "bronze; copper"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "For Aaron and his sons shall wash their hands and their feet thereat:",
+      "highlightedWords": [
+        {
+          "word": "wash",
+          "strongNumber": "H7364",
+          "lemma": "rachats",
+          "meaning": "to wash; bathe"
+        },
+        {
+          "word": "hands",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "When they go into the tabernacle of the congregation, they shall wash with water, that they die not; or when they come near to the altar to minister, to burn offering made by fire unto the LORD:",
+      "highlightedWords": [
+        {
+          "word": "tabernacle",
+          "strongNumber": "H168",
+          "lemma": "ohel",
+          "meaning": "tent; tabernacle"
+        },
+        {
+          "word": "die",
+          "strongNumber": "H4191",
+          "lemma": "muwth",
+          "meaning": "to die"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "So they shall wash their hands and their feet, that they die not: and it shall be a statute for ever to them, even to him and to his seed throughout their generations.",
+      "highlightedWords": [
+        {
+          "word": "statute",
+          "strongNumber": "H2708",
+          "lemma": "chuqqah",
+          "meaning": "statute; ordinance"
+        },
+        {
+          "word": "seed",
+          "strongNumber": "H2233",
+          "lemma": "zera'",
+          "meaning": "seed; offspring"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Moreover the LORD spake unto Moses, saying,",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the divine name, the LORD"
+        },
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Take thou also unto thee principal spices, of pure myrrh five hundred shekels, and of sweet cinnamon half so much, even two hundred and fifty shekels, and of sweet calamus two hundred and fifty shekels,",
+      "highlightedWords": [
+        {
+          "word": "myrrh",
+          "strongNumber": "H4753",
+          "lemma": "mor",
+          "meaning": "myrrh"
+        },
+        {
+          "word": "cinnamon",
+          "strongNumber": "H7076",
+          "lemma": "qinnamon",
+          "meaning": "cinnamon"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And of cassia five hundred shekels, after the shekel of the sanctuary, and of oil olive an hin:",
+      "highlightedWords": [
+        {
+          "word": "cassia",
+          "strongNumber": "H7102",
+          "lemma": "qiddah",
+          "meaning": "cassia"
+        },
+        {
+          "word": "hin",
+          "strongNumber": "H1969",
+          "lemma": "hin",
+          "meaning": "a liquid measure"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And thou shalt make it an oil of holy ointment, an ointment compound after the art of the apothecary: it shall be an holy anointing oil.",
+      "highlightedWords": [
+        {
+          "word": "ointment",
+          "strongNumber": "H4888",
+          "lemma": "mishchah",
+          "meaning": "anointing oil; ointment"
+        },
+        {
+          "word": "apothecary",
+          "strongNumber": "H7543",
+          "lemma": "raqach",
+          "meaning": "apothecary; perfumer"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And thou shalt anoint the tabernacle of the congregation therewith, and the ark of the testimony,",
+      "highlightedWords": [
+        {
+          "word": "anoint",
+          "strongNumber": "H4886",
+          "lemma": "mashach",
+          "meaning": "to anoint; smear"
+        },
+        {
+          "word": "ark",
+          "strongNumber": "H727",
+          "lemma": "aron",
+          "meaning": "ark; chest"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And the table and all his vessels, and the candlestick and his vessels, and the altar of incense,",
+      "highlightedWords": [
+        {
+          "word": "table",
+          "strongNumber": "H7979",
+          "lemma": "shulchan",
+          "meaning": "table"
+        },
+        {
+          "word": "candlestick",
+          "strongNumber": "H4501",
+          "lemma": "menorah",
+          "meaning": "lampstand; candlestick"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And the altar of burnt offering with all his vessels, and the laver and his foot.",
+      "highlightedWords": [
+        {
+          "word": "laver",
+          "strongNumber": "H3595",
+          "lemma": "kiyyor",
+          "meaning": "laver; basin"
+        },
+        {
+          "word": "vessels",
+          "strongNumber": "H3627",
+          "lemma": "keli",
+          "meaning": "vessel; utensil"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "And thou shalt sanctify them, that they may be most holy: whatsoever toucheth them shall be holy.",
+      "highlightedWords": [
+        {
+          "word": "sanctify",
+          "strongNumber": "H6942",
+          "lemma": "qadash",
+          "meaning": "to consecrate; make holy"
+        },
+        {
+          "word": "holy",
+          "strongNumber": "H6944",
+          "lemma": "qodesh",
+          "meaning": "holy; set apart"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "And thou shalt anoint Aaron and his sons, and consecrate them, that they may minister unto me in the priest's office.",
+      "highlightedWords": [
+        {
+          "word": "anoint",
+          "strongNumber": "H4886",
+          "lemma": "mashach",
+          "meaning": "to anoint; smear"
+        },
+        {
+          "word": "Aaron",
+          "strongNumber": "H175",
+          "lemma": "Aharon",
+          "meaning": "Aaron; brother of Moses, high priest"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "And thou shalt speak unto the children of Israel, saying, This shall be an holy anointing oil unto me throughout your generations.",
+      "highlightedWords": [
+        {
+          "word": "anointing",
+          "strongNumber": "H4888",
+          "lemma": "mishchah",
+          "meaning": "anointing oil; ointment"
+        },
+        {
+          "word": "generations",
+          "strongNumber": "H1755",
+          "lemma": "dor",
+          "meaning": "generation; age"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "Upon man's flesh shall it not be poured, neither shall ye make any other like it, after the composition of it: it is holy, and it shall be holy unto you.",
+      "highlightedWords": [
+        {
+          "word": "flesh",
+          "strongNumber": "H1320",
+          "lemma": "basar",
+          "meaning": "flesh"
+        },
+        {
+          "word": "holy",
+          "strongNumber": "H6944",
+          "lemma": "qodesh",
+          "meaning": "holy; set apart"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "Whosoever compoundeth any like it, or whosoever putteth any of it upon a stranger, shall even be cut off from his people.",
+      "highlightedWords": [
+        {
+          "word": "stranger",
+          "strongNumber": "H2114",
+          "lemma": "zur",
+          "meaning": "stranger; foreign person"
+        },
+        {
+          "word": "cut off",
+          "strongNumber": "H3772",
+          "lemma": "karath",
+          "meaning": "to cut off"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "And the LORD said unto Moses, Take unto thee sweet spices, stacte, and onycha, and galbanum; these sweet spices with pure frankincense: of each shall there be a like weight:",
+      "highlightedWords": [
+        {
+          "word": "stacte",
+          "strongNumber": "H5198",
+          "lemma": "nataph",
+          "meaning": "stacte; aromatic gum drops"
+        },
+        {
+          "word": "frankincense",
+          "strongNumber": "H3828",
+          "lemma": "lebonah",
+          "meaning": "frankincense"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "And thou shalt make it a perfume, a confection after the art of the apothecary, tempered together, pure and holy:",
+      "highlightedWords": [
+        {
+          "word": "perfume",
+          "strongNumber": "H7004",
+          "lemma": "qetoreth",
+          "meaning": "incense; perfume"
+        },
+        {
+          "word": "apothecary",
+          "strongNumber": "H7543",
+          "lemma": "raqach",
+          "meaning": "apothecary; perfumer"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "And thou shalt beat some of it very small, and put of it before the testimony in the tabernacle of the congregation, where I will meet with thee: it shall be unto you most holy.",
+      "highlightedWords": [
+        {
+          "word": "testimony",
+          "strongNumber": "H5715",
+          "lemma": "eduth",
+          "meaning": "testimony; witness"
+        },
+        {
+          "word": "holy",
+          "strongNumber": "H6944",
+          "lemma": "qodesh",
+          "meaning": "holy; set apart"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "And as for the perfume which thou shalt make, ye shall not make to yourselves according to the composition thereof: it shall be unto thee holy for the LORD.",
+      "highlightedWords": [
+        {
+          "word": "holy",
+          "strongNumber": "H6944",
+          "lemma": "qodesh",
+          "meaning": "holy; set apart"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the divine name, the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "Whosoever shall make like unto that, to smell thereto, shall even be cut off from his people.",
+      "highlightedWords": [
+        {
+          "word": "cut off",
+          "strongNumber": "H3772",
+          "lemma": "karath",
+          "meaning": "to cut off"
+        },
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "am",
+          "meaning": "people; nation"
+        }
+      ]
+    }
+  ]
+}

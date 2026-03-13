@@ -1,0 +1,744 @@
+{
+  "book": "Exodus",
+  "chapter": 25,
+  "chapterTheme": {
+    "twoWordSummary": "Sanctuary Blueprint",
+    "themeWords": [
+      {
+        "word": "tabernacle",
+        "strongNumber": "H4908",
+        "lemma": "mishkan",
+        "meaning": "dwelling, tabernacle"
+      },
+      {
+        "word": "ark",
+        "strongNumber": "H727",
+        "lemma": "’aron",
+        "meaning": "chest, ark"
+      }
+    ]
+  },
+  "sentenceTheme": "God commands Israel to bring offerings and gives detailed instructions for making the ark with the mercy seat, the table, and the golden lampstand for His dwelling among them.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And the LORD spake unto Moses, saying,",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel"
+        },
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Speak unto the children of Israel, that they bring me an offering: of every man that giveth it willingly with his heart ye shall take my offering.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God prevails"
+        },
+        {
+          "word": "offering",
+          "strongNumber": "H8641",
+          "lemma": "terumah",
+          "meaning": "contribution, heave offering"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And this is the offering which ye shall take of them; gold, and silver, and brass,",
+      "highlightedWords": [
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "zahab",
+          "meaning": "gold"
+        },
+        {
+          "word": "brass",
+          "strongNumber": "H5178",
+          "lemma": "nechosheth",
+          "meaning": "bronze, copper"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And blue, and purple, and scarlet, and fine linen, and goats' hair,",
+      "highlightedWords": [
+        {
+          "word": "blue",
+          "strongNumber": "H8504",
+          "lemma": "tekelet",
+          "meaning": "blue (violet) dye"
+        },
+        {
+          "word": "linen",
+          "strongNumber": "H8336",
+          "lemma": "shesh",
+          "meaning": "fine linen"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And rams' skins dyed red, and badgers' skins, and shittim wood,",
+      "highlightedWords": [
+        {
+          "word": "rams'",
+          "strongNumber": "H352",
+          "lemma": "’ayil",
+          "meaning": "ram"
+        },
+        {
+          "word": "wood",
+          "strongNumber": "H6086",
+          "lemma": "’ets",
+          "meaning": "tree, wood"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Oil for the light, spices for anointing oil, and for sweet incense,",
+      "highlightedWords": [
+        {
+          "word": "Oil",
+          "strongNumber": "H8081",
+          "lemma": "shemen",
+          "meaning": "oil"
+        },
+        {
+          "word": "incense",
+          "strongNumber": "H7004",
+          "lemma": "qetoreth",
+          "meaning": "incense"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Onyx stones, and stones to be set in the ephod, and in the breastplate.",
+      "highlightedWords": [
+        {
+          "word": "ephod",
+          "strongNumber": "H646",
+          "lemma": "ephod",
+          "meaning": "priestly apron"
+        },
+        {
+          "word": "breastplate",
+          "strongNumber": "H2833",
+          "lemma": "choshen",
+          "meaning": "breastpiece"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And let them make me a sanctuary; that I may dwell among them.",
+      "highlightedWords": [
+        {
+          "word": "sanctuary",
+          "strongNumber": "H4720",
+          "lemma": "miqdash",
+          "meaning": "sanctuary, holy place"
+        },
+        {
+          "word": "dwell",
+          "strongNumber": "H7931",
+          "lemma": "shakan",
+          "meaning": "to dwell, abide"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "According to all that I shew thee, after the pattern of the tabernacle, and the pattern of all the instruments thereof, even so shall ye make it.",
+      "highlightedWords": [
+        {
+          "word": "pattern",
+          "strongNumber": "H8403",
+          "lemma": "tabnith",
+          "meaning": "pattern, form, model"
+        },
+        {
+          "word": "tabernacle",
+          "strongNumber": "H4908",
+          "lemma": "mishkan",
+          "meaning": "dwelling, tabernacle"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And they shall make an ark of shittim wood: two cubits and a half shall be the length thereof, and a cubit and a half the breadth thereof, and a cubit and a half the height thereof.",
+      "highlightedWords": [
+        {
+          "word": "ark",
+          "strongNumber": "H727",
+          "lemma": "’aron",
+          "meaning": "chest, ark"
+        },
+        {
+          "word": "cubit",
+          "strongNumber": "H520",
+          "lemma": "’ammah",
+          "meaning": "cubit (measure of length)"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And thou shalt overlay it with pure gold, within and without shalt thou overlay it, and shalt make upon it a crown of gold round about.",
+      "highlightedWords": [
+        {
+          "word": "overlay",
+          "strongNumber": "H6823",
+          "lemma": "tsaphah",
+          "meaning": "to overlay, plate"
+        },
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "zahab",
+          "meaning": "gold"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And thou shalt cast four rings of gold for it, and put them in the four corners thereof; and two rings shall be in the one side of it, and two rings in the other side of it.",
+      "highlightedWords": [
+        {
+          "word": "rings",
+          "strongNumber": "H2885",
+          "lemma": "taba‘ath",
+          "meaning": "ring"
+        },
+        {
+          "word": "side",
+          "strongNumber": "H6763",
+          "lemma": "tsela‘",
+          "meaning": "side, rib"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And thou shalt make staves of shittim wood, and overlay them with gold.",
+      "highlightedWords": [
+        {
+          "word": "staves",
+          "strongNumber": "H905",
+          "lemma": "bad",
+          "meaning": "pole, staff"
+        },
+        {
+          "word": "wood",
+          "strongNumber": "H6086",
+          "lemma": "’ets",
+          "meaning": "tree, wood"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And thou shalt put the staves into the rings by the sides of the ark, that the ark may be borne with them.",
+      "highlightedWords": [
+        {
+          "word": "ark",
+          "strongNumber": "H727",
+          "lemma": "’aron",
+          "meaning": "chest, ark"
+        },
+        {
+          "word": "borne",
+          "strongNumber": "H5375",
+          "lemma": "nasa’",
+          "meaning": "to lift, carry, bear"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "The staves shall be in the rings of the ark: they shall not be taken from it.",
+      "highlightedWords": [
+        {
+          "word": "staves",
+          "strongNumber": "H905",
+          "lemma": "bad",
+          "meaning": "pole, staff"
+        },
+        {
+          "word": "ark",
+          "strongNumber": "H727",
+          "lemma": "’aron",
+          "meaning": "chest, ark"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And thou shalt put into the ark the testimony which I shall give thee.",
+      "highlightedWords": [
+        {
+          "word": "ark",
+          "strongNumber": "H727",
+          "lemma": "’aron",
+          "meaning": "chest, ark"
+        },
+        {
+          "word": "testimony",
+          "strongNumber": "H5715",
+          "lemma": "‘eduth",
+          "meaning": "testimony, witness"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And thou shalt make a mercy seat of pure gold: two cubits and a half shall be the length thereof, and a cubit and a half the breadth thereof.",
+      "highlightedWords": [
+        {
+          "word": "mercy seat",
+          "strongNumber": "H3727",
+          "lemma": "kapporeth",
+          "meaning": "atonement cover, mercy seat"
+        },
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "zahab",
+          "meaning": "gold"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And thou shalt make two cherubims of gold, of beaten work shalt thou make them, in the two ends of the mercy seat.",
+      "highlightedWords": [
+        {
+          "word": "cherubims",
+          "strongNumber": "H3742",
+          "lemma": "keruv",
+          "meaning": "cherub"
+        },
+        {
+          "word": "ends",
+          "strongNumber": "H7098",
+          "lemma": "qatsah",
+          "meaning": "end, extremity"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And make one cherub on the one end, and the other cherub on the other end: even of the mercy seat shall ye make the cherubims on the two ends thereof.",
+      "highlightedWords": [
+        {
+          "word": "cherub",
+          "strongNumber": "H3742",
+          "lemma": "keruv",
+          "meaning": "cherub"
+        },
+        {
+          "word": "mercy seat",
+          "strongNumber": "H3727",
+          "lemma": "kapporeth",
+          "meaning": "atonement cover, mercy seat"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And the cherubims shall stretch forth their wings on high, covering the mercy seat with their wings, and their faces shall look one to another; toward the mercy seat shall the faces of the cherubims be.",
+      "highlightedWords": [
+        {
+          "word": "wings",
+          "strongNumber": "H3671",
+          "lemma": "kanaph",
+          "meaning": "wing, extremity"
+        },
+        {
+          "word": "faces",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "face, presence"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And thou shalt put the mercy seat above upon the ark; and in the ark thou shalt put the testimony that I shall give thee.",
+      "highlightedWords": [
+        {
+          "word": "mercy seat",
+          "strongNumber": "H3727",
+          "lemma": "kapporeth",
+          "meaning": "atonement cover, mercy seat"
+        },
+        {
+          "word": "testimony",
+          "strongNumber": "H5715",
+          "lemma": "‘eduth",
+          "meaning": "testimony, witness"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And there I will meet with thee, and I will commune with thee from above the mercy seat, from between the two cherubims which are upon the ark of the testimony, of all things which I will give thee in commandment unto the children of Israel.",
+      "highlightedWords": [
+        {
+          "word": "meet",
+          "strongNumber": "H3259",
+          "lemma": "ya‘ad",
+          "meaning": "to meet, appoint"
+        },
+        {
+          "word": "cherubims",
+          "strongNumber": "H3742",
+          "lemma": "keruv",
+          "meaning": "cherub"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Thou shalt also make a table of shittim wood: two cubits shall be the length thereof, and a cubit the breadth thereof, and a cubit and a half the height thereof.",
+      "highlightedWords": [
+        {
+          "word": "table",
+          "strongNumber": "H7979",
+          "lemma": "shulchan",
+          "meaning": "table"
+        },
+        {
+          "word": "wood",
+          "strongNumber": "H6086",
+          "lemma": "’ets",
+          "meaning": "tree, wood"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And thou shalt overlay it with pure gold, and make thereto a crown of gold round about.",
+      "highlightedWords": [
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "zahab",
+          "meaning": "gold"
+        },
+        {
+          "word": "crown",
+          "strongNumber": "H2213",
+          "lemma": "zer",
+          "meaning": "border, crown molding"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And thou shalt make unto it a border of an hand breadth round about, and thou shalt make a golden crown to the border thereof round about.",
+      "highlightedWords": [
+        {
+          "word": "golden",
+          "strongNumber": "H2091",
+          "lemma": "zahab",
+          "meaning": "made of gold"
+        },
+        {
+          "word": "crown",
+          "strongNumber": "H2213",
+          "lemma": "zer",
+          "meaning": "border, crown molding"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And thou shalt make for it four rings of gold, and put the rings in the four corners that are on the four feet thereof.",
+      "highlightedWords": [
+        {
+          "word": "rings",
+          "strongNumber": "H2885",
+          "lemma": "taba‘ath",
+          "meaning": "ring"
+        },
+        {
+          "word": "feet",
+          "strongNumber": "H7272",
+          "lemma": "regel",
+          "meaning": "foot"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "Over against the border shall the rings be for places of the staves to bear the table.",
+      "highlightedWords": [
+        {
+          "word": "rings",
+          "strongNumber": "H2885",
+          "lemma": "taba‘ath",
+          "meaning": "ring"
+        },
+        {
+          "word": "staves",
+          "strongNumber": "H905",
+          "lemma": "bad",
+          "meaning": "pole, staff"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And thou shalt make the staves of shittim wood, and overlay them with gold, that the table may be borne with them.",
+      "highlightedWords": [
+        {
+          "word": "staves",
+          "strongNumber": "H905",
+          "lemma": "bad",
+          "meaning": "pole, staff"
+        },
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "zahab",
+          "meaning": "gold"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "And thou shalt make the dishes thereof, and spoons thereof, and covers thereof, and bowls thereof, to cover withal: of pure gold shalt thou make them.",
+      "highlightedWords": [
+        {
+          "word": "dishes",
+          "strongNumber": "H7086",
+          "lemma": "qe‘arah",
+          "meaning": "large dish, platter"
+        },
+        {
+          "word": "spoons",
+          "strongNumber": "H3709",
+          "lemma": "kaph",
+          "meaning": "palm, spoon"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "And thou shalt set upon the table shewbread before me alway.",
+      "highlightedWords": [
+        {
+          "word": "table",
+          "strongNumber": "H7979",
+          "lemma": "shulchan",
+          "meaning": "table"
+        },
+        {
+          "word": "alway",
+          "strongNumber": "H8548",
+          "lemma": "tamid",
+          "meaning": "continually, regularly"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "And thou shalt make a candlestick of pure gold: of beaten work shall the candlestick be made: his shaft, and his branches, his bowls, his knops, and his flowers, shall be of the same.",
+      "highlightedWords": [
+        {
+          "word": "candlestick",
+          "strongNumber": "H4501",
+          "lemma": "menorah",
+          "meaning": "lampstand"
+        },
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "zahab",
+          "meaning": "gold"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "And six branches shall come out of the sides of it; three branches of the candlestick out of the one side, and three branches of the candlestick out of the other side:",
+      "highlightedWords": [
+        {
+          "word": "branches",
+          "strongNumber": "H7070",
+          "lemma": "qaneh",
+          "meaning": "branch, reed"
+        },
+        {
+          "word": "candlestick",
+          "strongNumber": "H4501",
+          "lemma": "menorah",
+          "meaning": "lampstand"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "Three bowls made like unto almonds, with a knop and a flower in one branch; and three bowls made like almonds in the other branch, with a knop and a flower: so in the six branches that come out of the candlestick.",
+      "highlightedWords": [
+        {
+          "word": "bowls",
+          "strongNumber": "H1375",
+          "lemma": "gĕbi‘a",
+          "meaning": "cup, goblet, bowl"
+        },
+        {
+          "word": "flower",
+          "strongNumber": "H6525",
+          "lemma": "perach",
+          "meaning": "flower, blossom"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "And in the candlestick shall be four bowls made like unto almonds, with their knops and their flowers.",
+      "highlightedWords": [
+        {
+          "word": "candlestick",
+          "strongNumber": "H4501",
+          "lemma": "menorah",
+          "meaning": "lampstand"
+        },
+        {
+          "word": "bowls",
+          "strongNumber": "H1375",
+          "lemma": "gĕbi‘a",
+          "meaning": "cup, goblet, bowl"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "And there shall be a knop under two branches of the same, and a knop under two branches of the same, and a knop under two branches of the same, according to the six branches that proceed out of the candlestick.",
+      "highlightedWords": [
+        {
+          "word": "knop",
+          "strongNumber": "H3730",
+          "lemma": "kaphtor",
+          "meaning": "knob, capital"
+        },
+        {
+          "word": "branches",
+          "strongNumber": "H7070",
+          "lemma": "qaneh",
+          "meaning": "branch, reed"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "Their knops and their branches shall be of the same: all it shall be one beaten work of pure gold.",
+      "highlightedWords": [
+        {
+          "word": "beaten work",
+          "strongNumber": "H4749",
+          "lemma": "miqshah",
+          "meaning": "hammered work"
+        },
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "zahab",
+          "meaning": "gold"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "And thou shalt make the seven lamps thereof: and they shall light the lamps thereof, that they may give light over against it.",
+      "highlightedWords": [
+        {
+          "word": "seven",
+          "strongNumber": "H7651",
+          "lemma": "sheba‘",
+          "meaning": "seven"
+        },
+        {
+          "word": "lamps",
+          "strongNumber": "H5216",
+          "lemma": "ner",
+          "meaning": "lamp"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "And the tongs thereof, and the snuffdishes thereof, shall be of pure gold.",
+      "highlightedWords": [
+        {
+          "word": "tongs",
+          "strongNumber": "H4457",
+          "lemma": "melqach",
+          "meaning": "tongs"
+        },
+        {
+          "word": "snuffdishes",
+          "strongNumber": "H4289",
+          "lemma": "machtah",
+          "meaning": "pan, censer, snuffdish"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "text": "Of a talent of pure gold shall he make it, with all these vessels.",
+      "highlightedWords": [
+        {
+          "word": "talent",
+          "strongNumber": "H3603",
+          "lemma": "kikkar",
+          "meaning": "talent (unit of weight)"
+        },
+        {
+          "word": "vessels",
+          "strongNumber": "H3627",
+          "lemma": "keli",
+          "meaning": "vessel, utensil"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "text": "And look that thou make them after their pattern, which was shewed thee in the mount.",
+      "highlightedWords": [
+        {
+          "word": "pattern",
+          "strongNumber": "H8403",
+          "lemma": "tabnith",
+          "meaning": "pattern, form, model"
+        },
+        {
+          "word": "mount",
+          "strongNumber": "H2022",
+          "lemma": "har",
+          "meaning": "mountain, mount"
+        }
+      ]
+    }
+  ]
+}

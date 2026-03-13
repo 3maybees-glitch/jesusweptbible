@@ -1,0 +1,654 @@
+{
+  "book": "Exodus",
+  "chapter": 34,
+  "chapterTheme": {
+    "twoWordSummary": "Renewed Covenant",
+    "themeWords": [
+      {
+        "word": "covenant",
+        "strongNumber": "H1285",
+        "lemma": "berith",
+        "meaning": "a covenant, treaty, alliance, or pledge"
+      },
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "Yehovah",
+        "meaning": "the proper name of the God of Israel (YHWH)"
+      }
+    ]
+  },
+  "sentenceTheme": "God renews His covenant with Israel, reveals His gracious character, reiterates key commandments, and causes Moses' face to shine after meeting with Him.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And the LORD said unto Moses, Hew thee two tables of stone like unto the first: and I will write upon these tables the words that were in the first tables, which thou brakest.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel (YHWH)"
+        },
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses, the Hebrew prophet and lawgiver"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And be ready in the morning, and come up in the morning unto mount Sinai, and present thyself there to me in the top of the mount.",
+      "highlightedWords": [
+        {
+          "word": "morning",
+          "strongNumber": "H1242",
+          "lemma": "boqer",
+          "meaning": "morning, break of day"
+        },
+        {
+          "word": "Sinai",
+          "strongNumber": "H5514",
+          "lemma": "Ciynay",
+          "meaning": "Sinai, the mountain where the law was given"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And no man shall come up with thee, neither let any man be seen throughout all the mount; neither let the flocks nor herds feed before that mount.",
+      "highlightedWords": [
+        {
+          "word": "flocks",
+          "strongNumber": "H6629",
+          "lemma": "tson",
+          "meaning": "small cattle; sheep and goats; a flock"
+        },
+        {
+          "word": "mount",
+          "strongNumber": "H2022",
+          "lemma": "har",
+          "meaning": "mountain, hill, hill country"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And he hewed two tables of stone like unto the first; and Moses rose up early in the morning, and went up unto mount Sinai, as the LORD had commanded him, and took in his hand the two tables of stone.",
+      "highlightedWords": [
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses, the Hebrew prophet and lawgiver"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel (YHWH)"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And the LORD descended in the cloud, and stood with him there, and proclaimed the name of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "name, reputation, fame"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel (YHWH)"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And the LORD passed by before him, and proclaimed, The LORD, The LORD God, merciful and gracious, longsuffering, and abundant in goodness and truth,",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel (YHWH)"
+        },
+        {
+          "word": "merciful",
+          "strongNumber": "H7349",
+          "lemma": "rachum",
+          "meaning": "compassionate, merciful"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Keeping mercy for thousands, forgiving iniquity and transgression and sin, and that will by no means clear the guilty; visiting the iniquity of the fathers upon the children, and upon the children's children, unto the third and to the fourth generation.",
+      "highlightedWords": [
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "avon",
+          "meaning": "iniquity, guilt, or punishment for iniquity"
+        },
+        {
+          "word": "fathers",
+          "strongNumber": "H1",
+          "lemma": "'ab",
+          "meaning": "father, ancestor"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And Moses made haste, and bowed his head toward the earth, and worshipped.",
+      "highlightedWords": [
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses, the Hebrew prophet and lawgiver"
+        },
+        {
+          "word": "worshipped",
+          "strongNumber": "H7812",
+          "lemma": "shachah",
+          "meaning": "to bow down, prostrate oneself, worship"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And he said, If now I have found grace in thy sight, O Lord, let my Lord, I pray thee, go among us; for it is a stiffnecked people; and pardon our iniquity and our sin, and take us for thine inheritance.",
+      "highlightedWords": [
+        {
+          "word": "grace",
+          "strongNumber": "H2580",
+          "lemma": "chen",
+          "meaning": "favor, grace"
+        },
+        {
+          "word": "inheritance",
+          "strongNumber": "H5159",
+          "lemma": "nachalah",
+          "meaning": "inheritance, possession"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And he said, Behold, I make a covenant: before all thy people I will do marvels, such as have not been done in all the earth, nor in any nation: and all the people among which thou art shall see the work of the LORD: for it is a terrible thing that I will do with thee.",
+      "highlightedWords": [
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "a covenant, treaty, alliance, or pledge"
+        },
+        {
+          "word": "marvels",
+          "strongNumber": "H6381",
+          "lemma": "pala'",
+          "meaning": "to be wonderful; wonders, marvelous things"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Observe thou that which I command thee this day: behold, I drive out before thee the Amorite, and the Canaanite, and the Hittite, and the Perizzite, and the Hivite, and the Jebusite.",
+      "highlightedWords": [
+        {
+          "word": "Amorite",
+          "strongNumber": "H567",
+          "lemma": "'Emori",
+          "meaning": "Amorite, a Canaanite people"
+        },
+        {
+          "word": "Canaanite",
+          "strongNumber": "H3669",
+          "lemma": "Kena'ani",
+          "meaning": "Canaanite, inhabitant of Canaan"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Take heed to thyself, lest thou make a covenant with the inhabitants of the land whither thou goest, lest it be for a snare in the midst of thee:",
+      "highlightedWords": [
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "a covenant, treaty, alliance, or pledge"
+        },
+        {
+          "word": "snare",
+          "strongNumber": "H4170",
+          "lemma": "moqesh",
+          "meaning": "snare, trap"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "But ye shall destroy their altars, break their images, and cut down their groves:",
+      "highlightedWords": [
+        {
+          "word": "altars",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar"
+        },
+        {
+          "word": "groves",
+          "strongNumber": "H842",
+          "lemma": "'Asherah",
+          "meaning": "Asherah pole; a sacred tree or pole"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "For thou shalt worship no other god: for the LORD, whose name is Jealous, is a jealous God:",
+      "highlightedWords": [
+        {
+          "word": "worship",
+          "strongNumber": "H7812",
+          "lemma": "shachah",
+          "meaning": "to bow down, prostrate oneself, worship"
+        },
+        {
+          "word": "Jealous",
+          "strongNumber": "H7067",
+          "lemma": "qanna'",
+          "meaning": "jealous, zealous"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Lest thou make a covenant with the inhabitants of the land, and they go a whoring after their gods, and do sacrifice unto their gods, and one call thee, and thou eat of his sacrifice;",
+      "highlightedWords": [
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "a covenant, treaty, alliance, or pledge"
+        },
+        {
+          "word": "sacrifice",
+          "strongNumber": "H2077",
+          "lemma": "zebach",
+          "meaning": "sacrifice, offering"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And thou take of their daughters unto thy sons, and their daughters go a whoring after their gods, and make thy sons go a whoring after their gods.",
+      "highlightedWords": [
+        {
+          "word": "daughters",
+          "strongNumber": "H1323",
+          "lemma": "bath",
+          "meaning": "daughter, girl"
+        },
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Thou shalt make thee no molten gods.",
+      "highlightedWords": [
+        {
+          "word": "molten",
+          "strongNumber": "H4541",
+          "lemma": "massekah",
+          "meaning": "a molten/cast image"
+        },
+        {
+          "word": "gods",
+          "strongNumber": "H430",
+          "lemma": "'elohim",
+          "meaning": "God, gods"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "The feast of unleavened bread shalt thou keep. Seven days thou shalt eat unleavened bread, as I commanded thee, in the time of the month Abib: for in the month Abib thou camest out from Egypt.",
+      "highlightedWords": [
+        {
+          "word": "feast",
+          "strongNumber": "H2282",
+          "lemma": "chag",
+          "meaning": "feast, festival"
+        },
+        {
+          "word": "Abib",
+          "strongNumber": "H24",
+          "lemma": "'Abib",
+          "meaning": "Abib, the first month of the Hebrew year (spring)"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "All that openeth the matrix is mine; and every firstling among thy cattle, whether ox or sheep, that is male.",
+      "highlightedWords": [
+        {
+          "word": "matrix",
+          "strongNumber": "H7358",
+          "lemma": "rechem",
+          "meaning": "womb, matrix"
+        },
+        {
+          "word": "cattle",
+          "strongNumber": "H4735",
+          "lemma": "miqneh",
+          "meaning": "livestock, cattle, property"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "But the firstling of an ass thou shalt redeem with a lamb: and if thou redeem him not, then shalt thou break his neck. All the firstborn of thy sons thou shalt redeem. And none shall appear before me empty.",
+      "highlightedWords": [
+        {
+          "word": "redeem",
+          "strongNumber": "H6299",
+          "lemma": "padah",
+          "meaning": "to redeem, ransom"
+        },
+        {
+          "word": "firstborn",
+          "strongNumber": "H1060",
+          "lemma": "bekor",
+          "meaning": "firstborn"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Six days thou shalt work, but on the seventh day thou shalt rest: in earing time and in harvest thou shalt rest.",
+      "highlightedWords": [
+        {
+          "word": "seventh",
+          "strongNumber": "H7637",
+          "lemma": "shebi'i",
+          "meaning": "seventh (ordinal)"
+        },
+        {
+          "word": "rest",
+          "strongNumber": "H7673",
+          "lemma": "shabath",
+          "meaning": "to cease, desist, rest"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And thou shalt observe the feast of weeks, of the firstfruits of wheat harvest, and the feast of ingathering at the year's end.",
+      "highlightedWords": [
+        {
+          "word": "weeks",
+          "strongNumber": "H7620",
+          "lemma": "shabua'",
+          "meaning": "a period of seven, a week"
+        },
+        {
+          "word": "ingathering",
+          "strongNumber": "H614",
+          "lemma": "'asiph",
+          "meaning": "ingathering, harvest"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Thrice in the year shall all your men children appear before the Lord GOD, the God of Israel.",
+      "highlightedWords": [
+        {
+          "word": "GOD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel (YHWH)"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "For I will cast out the nations before thee, and enlarge thy borders: neither shall any man desire thy land, when thou shalt go up to appear before the LORD thy God thrice in the year.",
+      "highlightedWords": [
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation, people"
+        },
+        {
+          "word": "borders",
+          "strongNumber": "H1366",
+          "lemma": "gebul",
+          "meaning": "boundary, border, territory"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Thou shalt not offer the blood of my sacrifice with leaven; neither shall the sacrifice of the feast of the passover be left unto the morning.",
+      "highlightedWords": [
+        {
+          "word": "leaven",
+          "strongNumber": "H2557",
+          "lemma": "chamets",
+          "meaning": "leaven, fermented dough"
+        },
+        {
+          "word": "passover",
+          "strongNumber": "H6453",
+          "lemma": "pesach",
+          "meaning": "Passover"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "The first of the firstfruits of thy land thou shalt bring unto the house of the LORD thy God. Thou shalt not seethe a kid in his mother's milk.",
+      "highlightedWords": [
+        {
+          "word": "firstfruits",
+          "strongNumber": "H1061",
+          "lemma": "bikkurim",
+          "meaning": "firstfruits"
+        },
+        {
+          "word": "milk",
+          "strongNumber": "H2461",
+          "lemma": "chalab",
+          "meaning": "milk"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And the LORD said unto Moses, Write thou these words: for after the tenor of these words I have made a covenant with thee and with Israel.",
+      "highlightedWords": [
+        {
+          "word": "Write",
+          "strongNumber": "H3789",
+          "lemma": "kathab",
+          "meaning": "to write, record"
+        },
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "a covenant, treaty, alliance, or pledge"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And he was there with the LORD forty days and forty nights; he did neither eat bread, nor drink water. And he wrote upon the tables the words of the covenant, the ten commandments.",
+      "highlightedWords": [
+        {
+          "word": "forty",
+          "strongNumber": "H705",
+          "lemma": "'arba'im",
+          "meaning": "forty"
+        },
+        {
+          "word": "tables",
+          "strongNumber": "H3871",
+          "lemma": "luach",
+          "meaning": "tablet, table"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "And it came to pass, when Moses came down from mount Sinai with the two tables of testimony in Moses' hand, when he came down from the mount, that Moses wist not that the skin of his face shone while he talked with him.",
+      "highlightedWords": [
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses, the Hebrew prophet and lawgiver"
+        },
+        {
+          "word": "shone",
+          "strongNumber": "H7160",
+          "lemma": "qaran",
+          "meaning": "to shine, emit rays"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "And when Aaron and all the children of Israel saw Moses, behold, the skin of his face shone; and they were afraid to come nigh him.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel"
+        },
+        {
+          "word": "afraid",
+          "strongNumber": "H3372",
+          "lemma": "yare'",
+          "meaning": "to fear, be afraid"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "And Moses called unto them; and Aaron and all the rulers of the congregation returned unto him: and Moses talked with them.",
+      "highlightedWords": [
+        {
+          "word": "rulers",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "prince, ruler"
+        },
+        {
+          "word": "congregation",
+          "strongNumber": "H5712",
+          "lemma": "'edah",
+          "meaning": "assembly, congregation"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "And afterward all the children of Israel came nigh: and he gave them in commandment all that the LORD had spoken with him in mount Sinai.",
+      "highlightedWords": [
+        {
+          "word": "spoken",
+          "strongNumber": "H1696",
+          "lemma": "dabar",
+          "meaning": "to speak"
+        },
+        {
+          "word": "Sinai",
+          "strongNumber": "H5514",
+          "lemma": "Ciynay",
+          "meaning": "Sinai, the mountain where the law was given"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "And till Moses had done speaking with them, he put a vail on his face.",
+      "highlightedWords": [
+        {
+          "word": "vail",
+          "strongNumber": "H4533",
+          "lemma": "masveh",
+          "meaning": "veil, covering"
+        },
+        {
+          "word": "face",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "face, presence"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "But when Moses went in before the LORD to speak with him, he took the vail off, until he came out. And he came out, and spake unto the children of Israel that which he was commanded.",
+      "highlightedWords": [
+        {
+          "word": "vail",
+          "strongNumber": "H4533",
+          "lemma": "masveh",
+          "meaning": "veil, covering"
+        },
+        {
+          "word": "spake",
+          "strongNumber": "H1696",
+          "lemma": "dabar",
+          "meaning": "to speak"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "And the children of Israel saw the face of Moses, that the skin of Moses' face shone: and Moses put the vail upon his face again, until he went in to speak with him.",
+      "highlightedWords": [
+        {
+          "word": "face",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "face, presence"
+        },
+        {
+          "word": "vail",
+          "strongNumber": "H4533",
+          "lemma": "masveh",
+          "meaning": "veil, covering"
+        }
+      ]
+    }
+  ]
+}
