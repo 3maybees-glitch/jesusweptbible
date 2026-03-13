@@ -1,0 +1,510 @@
+{
+  "book": "Joshua",
+  "chapter": 9,
+  "chapterTheme": {
+    "twoWordSummary": "Gibeonite Deception",
+    "themeWords": [
+      {
+        "word": "league",
+        "strongNumber": "H1285",
+        "lemma": "berith",
+        "meaning": "covenant; treaty; formal agreement"
+      },
+      {
+        "word": "Gibeon",
+        "strongNumber": "H1391",
+        "lemma": "Giv'on",
+        "meaning": "a hill city in Benjamin; chief city of the Gibeonites"
+      }
+    ]
+  },
+  "sentenceTheme": "The Gibeonites deceive Israel into making a league, and are spared but made servants.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And it came to pass, when all the kings which were on this side Jordan, in the hills, and in the valleys, and in all the coasts of the great sea over against Lebanon, the Hittite, and the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite, heard thereof;",
+      "highlightedWords": [
+        {
+          "word": "kings",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king; ruler"
+        },
+        {
+          "word": "Jordan",
+          "strongNumber": "H3383",
+          "lemma": "Yarden",
+          "meaning": "the Jordan River; descender"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "That they gathered themselves together, to fight with Joshua and with Israel, with one accord.",
+      "highlightedWords": [
+        {
+          "word": "Joshua",
+          "strongNumber": "H3091",
+          "lemma": "Yehoshua",
+          "meaning": "Yahweh is salvation"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God strives"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And when the inhabitants of Gibeon heard what Joshua had done unto Jericho and to Ai,",
+      "highlightedWords": [
+        {
+          "word": "Gibeon",
+          "strongNumber": "H1391",
+          "lemma": "Giv'on",
+          "meaning": "a hill city in Benjamin; chief city of the Gibeonites"
+        },
+        {
+          "word": "Joshua",
+          "strongNumber": "H3091",
+          "lemma": "Yehoshua",
+          "meaning": "Yahweh is salvation"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "They did work wilily, and went and made as if they had been ambassadors, and took old sacks upon their asses, and wine bottles, old, and rent, and bound up;",
+      "highlightedWords": [
+        {
+          "word": "wine",
+          "strongNumber": "H3196",
+          "lemma": "yayin",
+          "meaning": "wine; fermented drink"
+        },
+        {
+          "word": "asses",
+          "strongNumber": "H2543",
+          "lemma": "chamor",
+          "meaning": "donkeys; beasts of burden"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And old shoes and clouted and old garments upon them; and all the bread of their provision was dry and mouldy.",
+      "highlightedWords": [
+        {
+          "word": "shoes",
+          "strongNumber": "H5275",
+          "lemma": "na'al",
+          "meaning": "sandal; shoe"
+        },
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread; food; grain"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And they went to Joshua unto the camp at Gilgal, and said unto him, and to the men of Israel, We be come from a far country: now therefore make ye a league with us.",
+      "highlightedWords": [
+        {
+          "word": "league",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "covenant; treaty; formal agreement"
+        },
+        {
+          "word": "Joshua",
+          "strongNumber": "H3091",
+          "lemma": "Yehoshua",
+          "meaning": "Yahweh is salvation"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And the men of Israel said unto the Hivites, Peradventure ye dwell among us; and how shall we make a league with you?",
+      "highlightedWords": [
+        {
+          "word": "Hivites",
+          "strongNumber": "H2340",
+          "lemma": "Chivvi",
+          "meaning": "a Canaanite people group; Hivites"
+        },
+        {
+          "word": "league",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "covenant; treaty; formal agreement"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And they said unto Joshua, We are thy servants. And Joshua said unto them, Who are ye? and from whence come ye?",
+      "highlightedWords": [
+        {
+          "word": "servants",
+          "strongNumber": "H5650",
+          "lemma": "eved",
+          "meaning": "servant; slave; bondman"
+        },
+        {
+          "word": "Joshua",
+          "strongNumber": "H3091",
+          "lemma": "Yehoshua",
+          "meaning": "Yahweh is salvation"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And they said unto him, From a very far country thy servants are come because of the name of the LORD thy God: for we have heard the fame of him, and all that he did in Egypt,",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the personal name of the God of Israel (YHWH)"
+        },
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "name; reputation; renown"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And all that he did to the two kings of the Amorites, that were beyond Jordan, to Sihon king of Heshbon, and to Og king of Bashan, which was at Ashtaroth.",
+      "highlightedWords": [
+        {
+          "word": "Amorites",
+          "strongNumber": "H0567",
+          "lemma": "Emori",
+          "meaning": "Amorites; a Canaanite people"
+        },
+        {
+          "word": "Jordan",
+          "strongNumber": "H3383",
+          "lemma": "Yarden",
+          "meaning": "the Jordan River; descender"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Wherefore our elders and all the inhabitants of our country spake to us, saying, Take victuals with you for the journey, and go to meet them, and say unto them, We are your servants: therefore now make ye a league with us.",
+      "highlightedWords": [
+        {
+          "word": "elders",
+          "strongNumber": "H2205",
+          "lemma": "zaqen",
+          "meaning": "elder; aged; leader"
+        },
+        {
+          "word": "league",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "covenant; treaty; formal agreement"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "This our bread we took hot for our provision out of our houses on the day we came forth to go unto you; but now, behold, it is dry, and it is mouldy:",
+      "highlightedWords": [
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread; food; grain"
+        },
+        {
+          "word": "houses",
+          "strongNumber": "H1004",
+          "lemma": "bayit",
+          "meaning": "house; household; dwelling"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And these bottles of wine, which we filled, were new; and, behold, they be rent: and these our garments and our shoes are become old by reason of the very long journey.",
+      "highlightedWords": [
+        {
+          "word": "bottles",
+          "strongNumber": "H4997",
+          "lemma": "nod",
+          "meaning": "skin bottle; leather flask"
+        },
+        {
+          "word": "garments",
+          "strongNumber": "H0899",
+          "lemma": "beged",
+          "meaning": "garment; clothing"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And the men took of their victuals, and asked not counsel at the mouth of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "victuals",
+          "strongNumber": "H6720",
+          "lemma": "tsedah",
+          "meaning": "food for a journey; provisions"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the personal name of the God of Israel (YHWH)"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And Joshua made peace with them, and made a league with them, to let them live: and the princes of the congregation sware unto them.",
+      "highlightedWords": [
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace; welfare; completeness"
+        },
+        {
+          "word": "league",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "covenant; treaty; formal agreement"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And it came to pass at the end of three days after they had made a league with them, that they heard that they were their neighbours, and that they dwelt among them.",
+      "highlightedWords": [
+        {
+          "word": "three",
+          "strongNumber": "H7969",
+          "lemma": "shalosh",
+          "meaning": "three"
+        },
+        {
+          "word": "days",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day; days; time"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And the children of Israel journeyed, and came unto their cities on the third day. Now their cities were Gibeon, and Chephirah, and Beeroth, and Kirjathjearim.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God strives"
+        },
+        {
+          "word": "Gibeon",
+          "strongNumber": "H1391",
+          "lemma": "Giv'on",
+          "meaning": "a hill city in Benjamin; chief city of the Gibeonites"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And the children of Israel smote them not, because the princes of the congregation had sworn unto them by the LORD God of Israel. And all the congregation murmured against the princes.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the personal name of the God of Israel (YHWH)"
+        },
+        {
+          "word": "sworn",
+          "strongNumber": "H7650",
+          "lemma": "shaba'",
+          "meaning": "to swear; take an oath"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "But all the princes said unto all the congregation, We have sworn unto them by the LORD God of Israel: now therefore we may not touch them.",
+      "highlightedWords": [
+        {
+          "word": "princes",
+          "strongNumber": "H5387",
+          "lemma": "nasi'",
+          "meaning": "prince; chief; leader"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the personal name of the God of Israel (YHWH)"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "This we will do to them; we will even let them live, lest wrath be upon us, because of the oath which we sware unto them.",
+      "highlightedWords": [
+        {
+          "word": "oath",
+          "strongNumber": "H7621",
+          "lemma": "shevu'ah",
+          "meaning": "oath; sworn promise"
+        },
+        {
+          "word": "wrath",
+          "strongNumber": "H2534",
+          "lemma": "chemah",
+          "meaning": "wrath; heat; rage"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And the princes said unto them, Let them live; but let them be hewers of wood and drawers of water unto all the congregation; as the princes had promised them.",
+      "highlightedWords": [
+        {
+          "word": "congregation",
+          "strongNumber": "H5712",
+          "lemma": "edah",
+          "meaning": "assembly; congregation; community"
+        },
+        {
+          "word": "water",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "water; waters"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And Joshua called for them, and he spake unto them, saying, Wherefore have ye beguiled us, saying, We are very far from you; when ye dwell among us?",
+      "highlightedWords": [
+        {
+          "word": "Joshua",
+          "strongNumber": "H3091",
+          "lemma": "Yehoshua",
+          "meaning": "Yahweh is salvation"
+        },
+        {
+          "word": "dwell",
+          "strongNumber": "H3427",
+          "lemma": "yashab",
+          "meaning": "to dwell; remain; sit"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Now therefore ye are cursed, and there shall none of you be freed from being bondmen, and hewers of wood and drawers of water for the house of my God.",
+      "highlightedWords": [
+        {
+          "word": "cursed",
+          "strongNumber": "H0779",
+          "lemma": "arar",
+          "meaning": "to curse; ban"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; mighty one"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And they answered Joshua, and said, Because it was certainly told thy servants, how that the LORD thy God commanded his servant Moses to give you all the land, and to destroy all the inhabitants of the land from before you, therefore we were sore afraid of our lives because of you, and have done this thing.",
+      "highlightedWords": [
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses; drawn out"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the personal name of the God of Israel (YHWH)"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And now, behold, we are in thine hand: as it seemeth good and right unto thee to do unto us, do.",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand; power; control"
+        },
+        {
+          "word": "right",
+          "strongNumber": "H3477",
+          "lemma": "yashar",
+          "meaning": "upright; right; just"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And so did he unto them, and delivered them out of the hand of the children of Israel, that they slew them not.",
+      "highlightedWords": [
+        {
+          "word": "delivered",
+          "strongNumber": "H5337",
+          "lemma": "natsal",
+          "meaning": "to deliver; rescue; snatch away"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God strives"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And Joshua made them that day hewers of wood and drawers of water for the congregation, and for the altar of the LORD, even unto this day, in the place which he should choose.",
+      "highlightedWords": [
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar; place of sacrifice"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the personal name of the God of Israel (YHWH)"
+        }
+      ]
+    }
+  ]
+}

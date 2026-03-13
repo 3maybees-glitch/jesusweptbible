@@ -1,0 +1,618 @@
+{
+  "book": "Joshua",
+  "chapter": 13,
+  "chapterTheme": {
+    "twoWordSummary": "Allotments East",
+    "themeWords": [
+      {
+        "word": "inheritance",
+        "strongNumber": "H5159",
+        "lemma": "nachalah",
+        "meaning": "inheritance, possession, portion"
+      },
+      {
+        "word": "tribes",
+        "strongNumber": "H7626",
+        "lemma": "shebet",
+        "meaning": "tribe, clan; also a staff/rod as a symbol of authority"
+      }
+    ]
+  },
+  "sentenceTheme": "The LORD instructs Joshua to divide the remaining land, detailing the Transjordan inheritances for Reuben, Gad, and the half-tribe of Manasseh while reserving special provisions for Levi.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Now Joshua was old and stricken in years; and the LORD said unto him, Thou art old and stricken in years, and there remaineth yet very much land to be possessed.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        },
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "’erets",
+          "meaning": "land, earth, territory"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "This is the land that yet remaineth: all the borders of the Philistines, and all Geshuri,",
+      "highlightedWords": [
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "’erets",
+          "meaning": "land, earth, territory"
+        },
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pelishti",
+          "meaning": "Philistines, people of Philistia"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "From Sihor, which is before Egypt, even unto the borders of Ekron northward, which is counted to the Canaanite: five lords of the Philistines; the Gazathites, and the Ashdothites, the Ashkelonites, the Gittites, and the Ekronites; also the Avites:",
+      "highlightedWords": [
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt; the land and its people"
+        },
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pelishti",
+          "meaning": "Philistines, people of Philistia"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "From the south, all the land of the Canaanites, and Mearah that is beside the Sidonians unto Aphek, to the borders of the Amorites:",
+      "highlightedWords": [
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "’erets",
+          "meaning": "land, earth, territory"
+        },
+        {
+          "word": "Canaanites",
+          "strongNumber": "H3669",
+          "lemma": "Kena‘aniy",
+          "meaning": "Canaanite; inhabitant of Canaan"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And the land of the Giblites, and all Lebanon, toward the sunrising, from Baal-gad under mount Hermon unto the entering into Hamath.",
+      "highlightedWords": [
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "’erets",
+          "meaning": "land, earth, territory"
+        },
+        {
+          "word": "Lebanon",
+          "strongNumber": "H3844",
+          "lemma": "Levanon",
+          "meaning": "Lebanon; the white mountain range north of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "All the inhabitants of the hill country from Lebanon unto Misrephoth-maim, and all the Sidonians, them will I drive out from before the children of Israel: only divide thou it by lot unto the Israelites for an inheritance, as I have commanded thee.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra’el",
+          "meaning": "Israel; God strives; the nation and its people"
+        },
+        {
+          "word": "inheritance",
+          "strongNumber": "H5159",
+          "lemma": "nachalah",
+          "meaning": "inheritance, possession, allotted portion"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Now therefore divide this land for an inheritance unto the nine tribes, and the half tribe of Manasseh,",
+      "highlightedWords": [
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "’erets",
+          "meaning": "land, earth, territory"
+        },
+        {
+          "word": "Manasseh",
+          "strongNumber": "H4519",
+          "lemma": "Menashsheh",
+          "meaning": "Manasseh; Joseph’s firstborn; also the tribe"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "With whom the Reubenites and the Gadites have received their inheritance, which Moses gave them, beyond Jordan eastward, even as Moses the servant of the LORD gave them;",
+      "highlightedWords": [
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses; Israel’s lawgiver and leader"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "From Aroer, that is upon the bank of the river Arnon, and the city that is in the midst of the river, and all the plain of Medeba unto Dibon;",
+      "highlightedWords": [
+        {
+          "word": "river",
+          "strongNumber": "H5104",
+          "lemma": "nahar",
+          "meaning": "river, stream"
+        },
+        {
+          "word": "plain",
+          "strongNumber": "H4334",
+          "lemma": "mishor",
+          "meaning": "level place, plateau, plain"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And all the cities of Sihon king of the Amorites, which reigned in Heshbon, unto the border of the children of Ammon;",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        },
+        {
+          "word": "Amorites",
+          "strongNumber": "H567",
+          "lemma": "’Emori",
+          "meaning": "Amorites; a Canaanite people"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And Gilead, and the border of the Geshurites and Maachathites, and all mount Hermon, and all Bashan unto Salcah;",
+      "highlightedWords": [
+        {
+          "word": "Gilead",
+          "strongNumber": "H1568",
+          "lemma": "Gil‘ad",
+          "meaning": "Gilead; region east of the Jordan"
+        },
+        {
+          "word": "Bashan",
+          "strongNumber": "H1316",
+          "lemma": "Bashan",
+          "meaning": "Bashan; fertile region east of the Jordan"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "All the kingdom of Og in Bashan, which reigned in Ashtaroth and in Edrei, who remained of the remnant of the giants: for these did Moses smite, and cast them out.",
+      "highlightedWords": [
+        {
+          "word": "giants",
+          "strongNumber": "H7497",
+          "lemma": "Rephaim",
+          "meaning": "giants; ancient formidable people"
+        },
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses; Israel’s lawgiver and leader"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Nevertheless the children of Israel expelled not the Geshurites, nor the Maachathites: but the Geshurites and the Maachathites dwell among the Israelites until this day.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra’el",
+          "meaning": "Israel; God strives; the nation and its people"
+        },
+        {
+          "word": "dwell",
+          "strongNumber": "H3427",
+          "lemma": "yashav",
+          "meaning": "to dwell, sit, remain"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Only unto the tribe of Levi he gave none inheritance; the sacrifices of the LORD God of Israel made by fire are their inheritance, as he said unto them.",
+      "highlightedWords": [
+        {
+          "word": "Levi",
+          "strongNumber": "H3878",
+          "lemma": "Lewi",
+          "meaning": "Levi; the Levitical tribe"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And Moses gave unto the tribe of the children of Reuben inheritance according to their families.",
+      "highlightedWords": [
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses; Israel’s lawgiver and leader"
+        },
+        {
+          "word": "Reuben",
+          "strongNumber": "H7205",
+          "lemma": "Re’uven",
+          "meaning": "Reuben; Jacob’s firstborn; also the tribe"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And their coast was from Aroer, that is on the bank of the river Arnon, and the city that is in the midst of the river, and all the plain by Medeba;",
+      "highlightedWords": [
+        {
+          "word": "river",
+          "strongNumber": "H5104",
+          "lemma": "nahar",
+          "meaning": "river, stream"
+        },
+        {
+          "word": "plain",
+          "strongNumber": "H4334",
+          "lemma": "mishor",
+          "meaning": "level place, plateau, plain"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Heshbon, and all her cities that are in the plain; Dibon, and Bamoth-baal, and Beth-baal-meon,",
+      "highlightedWords": [
+        {
+          "word": "cities",
+          "strongNumber": "H5892",
+          "lemma": "’ir",
+          "meaning": "city, town"
+        },
+        {
+          "word": "plain",
+          "strongNumber": "H4334",
+          "lemma": "mishor",
+          "meaning": "level place, plateau, plain"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And Jahazah, and Kedemoth, and Mephaath,",
+      "highlightedWords": [
+        {
+          "word": "Jahazah",
+          "strongNumber": "H3096",
+          "lemma": "Yahatsah (Jahaz)",
+          "meaning": "a town in Moab/Ammonite territory"
+        },
+        {
+          "word": "Kedemoth",
+          "strongNumber": "H6932",
+          "lemma": "Qedemoth",
+          "meaning": "a Levitical city in Reuben"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And Kirjathaim, and Sibmah, and Zareth-shahar in the mount of the valley,",
+      "highlightedWords": [
+        {
+          "word": "Kirjathaim",
+          "strongNumber": "H7156",
+          "lemma": "Qiryathayim",
+          "meaning": "Kirjathaim; ‘double city’ in Moab"
+        },
+        {
+          "word": "mount",
+          "strongNumber": "H2022",
+          "lemma": "har",
+          "meaning": "mountain, hill country"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And Beth-peor, and Ashdoth-pisgah, and Beth-jeshimoth,",
+      "highlightedWords": [
+        {
+          "word": "Beth-peor",
+          "strongNumber": "H1047",
+          "lemma": "Beth Peor",
+          "meaning": "house/temple of Peor"
+        },
+        {
+          "word": "Beth-jeshimoth",
+          "strongNumber": "H1020",
+          "lemma": "Beth-yeshimoth",
+          "meaning": "house of the deserts"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And all the cities of the plain, and all the kingdom of Sihon king of the Amorites, which reigned in Heshbon, whom Moses smote with the princes of Midian, Evi, and Rekem, and Zur, and Hur, and Reba, which were dukes of Sihon, dwelling in the country.",
+      "highlightedWords": [
+        {
+          "word": "Midian",
+          "strongNumber": "H4080",
+          "lemma": "Midyan",
+          "meaning": "Midian; a nomadic people"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Balaam also the son of Beor, the soothsayer, did the children of Israel slay with the sword among them that were slain by them.",
+      "highlightedWords": [
+        {
+          "word": "Balaam",
+          "strongNumber": "H1109",
+          "lemma": "Bil‘am",
+          "meaning": "Balaam; non-Israelite diviner"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra’el",
+          "meaning": "Israel; the nation and its people"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And the border of the children of Reuben was Jordan, and the border thereof. This was the inheritance of the children of Reuben after their families, the cities and the villages thereof.",
+      "highlightedWords": [
+        {
+          "word": "Jordan",
+          "strongNumber": "H3383",
+          "lemma": "Yarden",
+          "meaning": "the Jordan River"
+        },
+        {
+          "word": "inheritance",
+          "strongNumber": "H5159",
+          "lemma": "nachalah",
+          "meaning": "inheritance, possession, allotted portion"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And Moses gave inheritance unto the tribe of Gad, even unto the children of Gad according to their families.",
+      "highlightedWords": [
+        {
+          "word": "Gad",
+          "strongNumber": "H1410",
+          "lemma": "Gad",
+          "meaning": "Gad; son of Jacob; also the tribe"
+        },
+        {
+          "word": "inheritance",
+          "strongNumber": "H5159",
+          "lemma": "nachalah",
+          "meaning": "inheritance, possession, allotted portion"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And their coast was Jazer, and all the cities of Gilead, and half the land of the children of Ammon, unto Aroer that is before Rabbah;",
+      "highlightedWords": [
+        {
+          "word": "Gilead",
+          "strongNumber": "H1568",
+          "lemma": "Gil‘ad",
+          "meaning": "Gilead; region east of the Jordan"
+        },
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "’erets",
+          "meaning": "land, earth, territory"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And from Heshbon unto Ramath-mizpeh, and Betonim; and from Mahanaim unto the border of Debir;",
+      "highlightedWords": [
+        {
+          "word": "Heshbon",
+          "strongNumber": "H2809",
+          "lemma": "Cheshbon",
+          "meaning": "Heshbon; a city in Moab/Ammon region"
+        },
+        {
+          "word": "Mahanaim",
+          "strongNumber": "H4266",
+          "lemma": "Machanayim",
+          "meaning": "Mahanaim; ‘two camps’ east of Jordan"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And in the valley, Beth-aram, and Beth-nimrah, and Succoth, and Zaphon, the rest of the kingdom of Sihon king of Heshbon, Jordan and his border, even unto the edge of the sea of Chinnereth on the other side Jordan eastward.",
+      "highlightedWords": [
+        {
+          "word": "Jordan",
+          "strongNumber": "H3383",
+          "lemma": "Yarden",
+          "meaning": "the Jordan River"
+        },
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "sea, large body of water"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "This is the inheritance of the children of Gad after their families, the cities, and their villages.",
+      "highlightedWords": [
+        {
+          "word": "Gad",
+          "strongNumber": "H1410",
+          "lemma": "Gad",
+          "meaning": "Gad; son of Jacob; also the tribe"
+        },
+        {
+          "word": "inheritance",
+          "strongNumber": "H5159",
+          "lemma": "nachalah",
+          "meaning": "inheritance, possession, allotted portion"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "And Moses gave inheritance unto the half tribe of Manasseh: and this was the possession of the half tribe of the children of Manasseh by their families.",
+      "highlightedWords": [
+        {
+          "word": "Manasseh",
+          "strongNumber": "H4519",
+          "lemma": "Menashsheh",
+          "meaning": "Manasseh; Joseph’s firstborn; also the tribe"
+        },
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses; Israel’s lawgiver and leader"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "And their coast was from Mahanaim, all Bashan, all the kingdom of Og king of Bashan, and all the towns of Jair, which are in Bashan, threescore cities:",
+      "highlightedWords": [
+        {
+          "word": "Og",
+          "strongNumber": "H5747",
+          "lemma": "‘Og",
+          "meaning": "Og; king of Bashan"
+        },
+        {
+          "word": "Bashan",
+          "strongNumber": "H1316",
+          "lemma": "Bashan",
+          "meaning": "Bashan; fertile region east of the Jordan"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "And half Gilead, and Ashtaroth, and Edrei, cities of the kingdom of Og in Bashan, were pertaining unto the children of Machir the son of Manasseh; even to the one half of the children of Machir by their families.",
+      "highlightedWords": [
+        {
+          "word": "Machir",
+          "strongNumber": "H4353",
+          "lemma": "Makhir",
+          "meaning": "Machir; son of Manasseh; ancestor of a clan"
+        },
+        {
+          "word": "Manasseh",
+          "strongNumber": "H4519",
+          "lemma": "Menashsheh",
+          "meaning": "Manasseh; Joseph’s firstborn; also the tribe"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "These are the countries which Moses did distribute for inheritance in the plains of Moab, on the other side Jordan, by Jericho, eastward.",
+      "highlightedWords": [
+        {
+          "word": "Moab",
+          "strongNumber": "H4124",
+          "lemma": "Mo’av",
+          "meaning": "Moab; people/land east of the Dead Sea"
+        },
+        {
+          "word": "Jordan",
+          "strongNumber": "H3383",
+          "lemma": "Yarden",
+          "meaning": "the Jordan River"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "But unto the tribe of Levi Moses gave not any inheritance: the LORD God of Israel was their inheritance, as he said unto them.",
+      "highlightedWords": [
+        {
+          "word": "Levi",
+          "strongNumber": "H3878",
+          "lemma": "Lewi",
+          "meaning": "Levi; the Levitical tribe"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    }
+  ]
+}

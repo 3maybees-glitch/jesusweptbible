@@ -1,0 +1,186 @@
+{
+  "book": "Joshua",
+  "chapter": 20,
+  "chapterTheme": {
+    "twoWordSummary": "Refuge Cities",
+    "themeWords": [
+      {
+        "word": "refuge",
+        "strongNumber": "H4733",
+        "lemma": "miqlat",
+        "meaning": "refuge, asylum; a place of safety"
+      },
+      {
+        "word": "avenger",
+        "strongNumber": "H1350",
+        "lemma": "go'el",
+        "meaning": "kinsman-redeemer; avenger of blood"
+      }
+    ]
+  },
+  "sentenceTheme": "God instructs Joshua to appoint the cities of refuge so accidental manslayers may find protection from the avenger until due judgment.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "The LORD also spake unto Joshua, saying,",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "Joshua",
+          "strongNumber": "H3091",
+          "lemma": "Yehoshua",
+          "meaning": "Yahweh is salvation; Joshua"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Speak to the children of Israel, saying, Appoint out for you cities of refuge, whereof I spake unto you by the hand of Moses:",
+      "highlightedWords": [
+        {
+          "word": "refuge",
+          "strongNumber": "H4733",
+          "lemma": "miqlat",
+          "meaning": "refuge, asylum; a place of safety"
+        },
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses; drawn out"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "That the slayer that killeth any person unawares and unwittingly may flee thither: and they shall be your refuge from the avenger of blood.",
+      "highlightedWords": [
+        {
+          "word": "slayer",
+          "strongNumber": "H7523",
+          "lemma": "rōtsēaḥ",
+          "meaning": "manslayer; one who kills, murderer"
+        },
+        {
+          "word": "avenger",
+          "strongNumber": "H1350",
+          "lemma": "go'el",
+          "meaning": "kinsman-redeemer; avenger of blood"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And when he that doth flee unto one of those cities shall stand at the entering of the gate of the city, and shall declare his cause in the ears of the elders of that city, they shall take him into the city unto them, and give him a place, that he may dwell among them.",
+      "highlightedWords": [
+        {
+          "word": "gate",
+          "strongNumber": "H8179",
+          "lemma": "shaʿar",
+          "meaning": "gate, entrance"
+        },
+        {
+          "word": "elders",
+          "strongNumber": "H2205",
+          "lemma": "zāqēn",
+          "meaning": "elder; old man, community leader"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And if the avenger of blood pursue after him, then they shall not deliver the slayer up into his hand; because he smote his neighbour unwittingly, and hated him not beforetime.",
+      "highlightedWords": [
+        {
+          "word": "avenger",
+          "strongNumber": "H1350",
+          "lemma": "go'el",
+          "meaning": "kinsman-redeemer; avenger of blood"
+        },
+        {
+          "word": "neighbour",
+          "strongNumber": "H7453",
+          "lemma": "rēaʿ",
+          "meaning": "neighbor, friend, companion"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And he shall dwell in that city, until he stand before the congregation for judgment, and until the death of the high priest that shall be in those days: then shall the slayer return, and come unto his own city, and unto his own house, unto the city from whence he fled.",
+      "highlightedWords": [
+        {
+          "word": "congregation",
+          "strongNumber": "H5712",
+          "lemma": "ʿēdāh",
+          "meaning": "assembly, congregation"
+        },
+        {
+          "word": "priest",
+          "strongNumber": "H3548",
+          "lemma": "kōhēn",
+          "meaning": "priest"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And they appointed Kedesh in Galilee in mount Naphtali, and Shechem in mount Ephraim, and Kirjatharba, which is Hebron, in the mountain of Judah.",
+      "highlightedWords": [
+        {
+          "word": "Kedesh",
+          "strongNumber": "H6943",
+          "lemma": "Qedesh",
+          "meaning": "Kedesh; holy place, a city name"
+        },
+        {
+          "word": "Hebron",
+          "strongNumber": "H2275",
+          "lemma": "Ḥebrōn",
+          "meaning": "Hebron; a city in Judah"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And on the other side Jordan by Jericho eastward, they assigned Bezer in the wilderness upon the plain out of the tribe of Reuben, and Ramoth in Gilead out of the tribe of Gad, and Golan in Bashan out of the tribe of Manasseh.",
+      "highlightedWords": [
+        {
+          "word": "Jordan",
+          "strongNumber": "H3383",
+          "lemma": "Yardēn",
+          "meaning": "Jordan; the descending (river)"
+        },
+        {
+          "word": "Manasseh",
+          "strongNumber": "H4519",
+          "lemma": "Mĕnashsheh",
+          "meaning": "Manasseh; a tribe of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "These were the cities appointed for all the children of Israel, and for the stranger that sojourneth among them, that whosoever killeth any person at unawares might flee thither, and not die by the hand of the avenger of blood, until he stood before the congregation.",
+      "highlightedWords": [
+        {
+          "word": "stranger",
+          "strongNumber": "H1616",
+          "lemma": "gēr",
+          "meaning": "sojourner, resident alien"
+        },
+        {
+          "word": "congregation",
+          "strongNumber": "H5712",
+          "lemma": "ʿēdāh",
+          "meaning": "assembly, congregation"
+        }
+      ]
+    }
+  ]
+}

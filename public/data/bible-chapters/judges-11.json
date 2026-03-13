@@ -1,0 +1,744 @@
+{
+  "book": "Judges",
+  "chapter": 11,
+  "chapterTheme": {
+    "twoWordSummary": "Jephthah's Vow",
+    "themeWords": [
+      {
+        "word": "Jephthah",
+        "strongNumber": "H3316",
+        "lemma": "Yiphtach",
+        "meaning": "Jephthah; he opens—Israelite judge and deliverer"
+      },
+      {
+        "word": "Vow",
+        "strongNumber": "H5088",
+        "lemma": "neder",
+        "meaning": "a vow, votive offering or promise made to God"
+      }
+    ]
+  },
+  "sentenceTheme": "Rejected by his brothers, Jephthah is called to lead Israel against Ammon, negotiates, wins by the Lord’s help, and tragically fulfills his vow concerning his daughter.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Now Jephthah the Gileadite was a mighty man of valour, and he was the son of an harlot: and Gilead begat Jephthah.",
+      "highlightedWords": [
+        {
+          "word": "Jephthah",
+          "strongNumber": "H3316",
+          "lemma": "Yiphtach",
+          "meaning": "Jephthah; he opens—Israelite judge and deliverer"
+        },
+        {
+          "word": "valour",
+          "strongNumber": "H2428",
+          "lemma": "chayil",
+          "meaning": "strength, might, efficiency; valor, army"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And Gilead's wife bare him sons; and his wife's sons grew up, and they thrust out Jephthah, and said unto him, Thou shalt not inherit in our father's house; for thou art the son of a strange woman.",
+      "highlightedWords": [
+        {
+          "word": "inherit",
+          "strongNumber": "H5157",
+          "lemma": "nachal",
+          "meaning": "to inherit, take possession of"
+        },
+        {
+          "word": "strange",
+          "strongNumber": "H5237",
+          "lemma": "nokriy",
+          "meaning": "foreign, alien, stranger"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Then Jephthah fled from his brethren, and dwelt in the land of Tob: and there were gathered vain men to Jephthah, and went out with him.",
+      "highlightedWords": [
+        {
+          "word": "brethren",
+          "strongNumber": "H251",
+          "lemma": "ach",
+          "meaning": "brother, kinsman, relative"
+        },
+        {
+          "word": "Tob",
+          "strongNumber": "H2897",
+          "lemma": "Towb",
+          "meaning": "Tob; a region east/northeast of Gilead"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And it came to pass in process of time, that the children of Ammon made war against Israel.",
+      "highlightedWords": [
+        {
+          "word": "Ammon",
+          "strongNumber": "H5983",
+          "lemma": "Ammon",
+          "meaning": "Ammon; descendants of Lot; nation east of the Jordan"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God prevails—the covenant people and land"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And it was so, that when the children of Ammon made war against Israel, the elders of Gilead went to fetch Jephthah out of the land of Tob:",
+      "highlightedWords": [
+        {
+          "word": "elders",
+          "strongNumber": "H2205",
+          "lemma": "zaqen",
+          "meaning": "elder; old man; leader of the community"
+        },
+        {
+          "word": "Tob",
+          "strongNumber": "H2897",
+          "lemma": "Towb",
+          "meaning": "Tob; a region east/northeast of Gilead"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And they said unto Jephthah, Come, and be our captain, that we may fight with the children of Ammon.",
+      "highlightedWords": [
+        {
+          "word": "Jephthah",
+          "strongNumber": "H3316",
+          "lemma": "Yiphtach",
+          "meaning": "Jephthah; he opens—Israelite judge and deliverer"
+        },
+        {
+          "word": "Ammon",
+          "strongNumber": "H5983",
+          "lemma": "Ammon",
+          "meaning": "Ammon; descendants of Lot; nation east of the Jordan"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And Jephthah said unto the elders of Gilead, Did not ye hate me, and expel me out of my father's house? and why are ye come unto me now when ye are in distress?",
+      "highlightedWords": [
+        {
+          "word": "hate",
+          "strongNumber": "H8130",
+          "lemma": "sane'",
+          "meaning": "to hate, be hateful"
+        },
+        {
+          "word": "distress",
+          "strongNumber": "H6869",
+          "lemma": "tsarah",
+          "meaning": "distress, trouble, anguish"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And the elders of Gilead said unto Jephthah, Therefore we turn again to thee now, that thou mayest go with us, and fight against the children of Ammon, and be our head over all the inhabitants of Gilead.",
+      "highlightedWords": [
+        {
+          "word": "head",
+          "strongNumber": "H7218",
+          "lemma": "ro'sh",
+          "meaning": "head; chief, leader"
+        },
+        {
+          "word": "Ammon",
+          "strongNumber": "H5983",
+          "lemma": "Ammon",
+          "meaning": "Ammon; descendants of Lot; nation east of the Jordan"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And Jephthah said unto the elders of Gilead, If ye bring me home again to fight against the children of Ammon, and the Lord deliver them before me, shall I be your head?",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        },
+        {
+          "word": "head",
+          "strongNumber": "H7218",
+          "lemma": "ro'sh",
+          "meaning": "head; chief, leader"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And the elders of Gilead said unto Jephthah, The Lord be witness between us, if we do not so according to thy words.",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        },
+        {
+          "word": "words",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, affair, thing"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Then Jephthah went with the elders of Gilead, and the people made him head and captain over them: and Jephthah uttered all his words before the Lord in Mizpeh.",
+      "highlightedWords": [
+        {
+          "word": "head",
+          "strongNumber": "H7218",
+          "lemma": "ro'sh",
+          "meaning": "head; chief, leader"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And Jephthah sent messengers unto the king of the children of Ammon, saying, What hast thou to do with me, that thou art come against me to fight in my land?",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        },
+        {
+          "word": "Ammon",
+          "strongNumber": "H5983",
+          "lemma": "Ammon",
+          "meaning": "Ammon; descendants of Lot; nation east of the Jordan"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And the king of the children of Ammon answered unto the messengers of Jephthah, Because Israel took away my land, when they came up out of Egypt, from Arnon even unto Jabbok, and unto Jordan: now therefore restore those lands again peaceably.",
+      "highlightedWords": [
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt; land of the Nile"
+        },
+        {
+          "word": "Jordan",
+          "strongNumber": "H3383",
+          "lemma": "Yarden",
+          "meaning": "the Jordan River"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And Jephthah sent messengers again unto the king of the children of Ammon:",
+      "highlightedWords": [
+        {
+          "word": "messengers",
+          "strongNumber": "H4397",
+          "lemma": "mal'ak",
+          "meaning": "messenger, envoy, angel"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And said unto him, Thus saith Jephthah, Israel took not away the land of Moab, nor the land of the children of Ammon:",
+      "highlightedWords": [
+        {
+          "word": "Moab",
+          "strongNumber": "H4124",
+          "lemma": "Mo'ab",
+          "meaning": "Moab; nation east of the Dead Sea"
+        },
+        {
+          "word": "Ammon",
+          "strongNumber": "H5983",
+          "lemma": "Ammon",
+          "meaning": "Ammon; descendants of Lot; nation east of the Jordan"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "But when Israel came up from Egypt, and walked through the wilderness unto the Red sea, and came to Kadesh;",
+      "highlightedWords": [
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbar",
+          "meaning": "wilderness, desert"
+        },
+        {
+          "word": "Kadesh",
+          "strongNumber": "H6946",
+          "lemma": "Qadesh",
+          "meaning": "Kadesh; a holy place in the Sinai/Negev region"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Then Israel sent messengers unto the king of Edom, saying, Let me, I pray thee, pass through thy land: but the king of Edom would not hearken thereto. And in like manner they sent unto the king of Moab: but he would not consent: and Israel abode in Kadesh.",
+      "highlightedWords": [
+        {
+          "word": "Edom",
+          "strongNumber": "H123",
+          "lemma": "Edom",
+          "meaning": "Edom; Esau’s descendants; region south of Judah"
+        },
+        {
+          "word": "Moab",
+          "strongNumber": "H4124",
+          "lemma": "Mo'ab",
+          "meaning": "Moab; nation east of the Dead Sea"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Then they went along through the wilderness, and compassed the land of Edom, and the land of Moab, and came by the east side of the land of Moab, and pitched on the other side of Arnon, but came not within the border of Moab: for Arnon was the border of Moab.",
+      "highlightedWords": [
+        {
+          "word": "border",
+          "strongNumber": "H1366",
+          "lemma": "gebul",
+          "meaning": "boundary, border, territory limit"
+        },
+        {
+          "word": "Moab",
+          "strongNumber": "H4124",
+          "lemma": "Mo'ab",
+          "meaning": "Moab; nation east of the Dead Sea"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And Israel sent messengers unto Sihon king of the Amorites, the king of Heshbon; and Israel said unto him, Let us pass, we pray thee, through thy land into my place.",
+      "highlightedWords": [
+        {
+          "word": "Sihon",
+          "strongNumber": "H5511",
+          "lemma": "Sichon",
+          "meaning": "Sihon; Amorite king of Heshbon"
+        },
+        {
+          "word": "Amorites",
+          "strongNumber": "H567",
+          "lemma": "Emori",
+          "meaning": "Amorites; inhabitants of the hill country of Canaan"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "But Sihon trusted not Israel to pass through his coast: but Sihon gathered all his people together, and pitched in Jahaz, and fought against Israel.",
+      "highlightedWords": [
+        {
+          "word": "Sihon",
+          "strongNumber": "H5511",
+          "lemma": "Sichon",
+          "meaning": "Sihon; Amorite king of Heshbon"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God prevails—the covenant people and land"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And the Lord God of Israel delivered Sihon and all his people into the hand of Israel, and they smote them: so Israel possessed all the land of the Amorites, the inhabitants of that country.",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        },
+        {
+          "word": "Amorites",
+          "strongNumber": "H567",
+          "lemma": "Emori",
+          "meaning": "Amorites; inhabitants of the hill country of Canaan"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And they possessed all the coasts of the Amorites, from Arnon even unto Jabbok, and from the wilderness even unto Jordan.",
+      "highlightedWords": [
+        {
+          "word": "coasts",
+          "strongNumber": "H1366",
+          "lemma": "gebul",
+          "meaning": "borders, boundary regions"
+        },
+        {
+          "word": "Amorites",
+          "strongNumber": "H567",
+          "lemma": "Emori",
+          "meaning": "Amorites; inhabitants of the hill country of Canaan"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "So now the Lord God of Israel hath dispossessed the Amorites from before his people Israel, and shouldest thou possess it?",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God prevails—the covenant people and land"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Wilt not thou possess that which Chemosh thy god giveth thee to possess? So whomsoever the Lord our God shall drive out from before us, them will we possess.",
+      "highlightedWords": [
+        {
+          "word": "Chemosh",
+          "strongNumber": "H3645",
+          "lemma": "Kemosh",
+          "meaning": "Chemosh; the national deity of Moab"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And now art thou any thing better than Balak the son of Zippor, king of Moab? did he ever strive against Israel, or did he ever fight against them,",
+      "highlightedWords": [
+        {
+          "word": "Balak",
+          "strongNumber": "H1111",
+          "lemma": "Balaq",
+          "meaning": "Balak; king of Moab in the time of Moses"
+        },
+        {
+          "word": "Moab",
+          "strongNumber": "H4124",
+          "lemma": "Mo'ab",
+          "meaning": "Moab; nation east of the Dead Sea"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "While Israel dwelt in Heshbon and her towns, and in Aroer and her towns, and in all the cities that be along by the coasts of Arnon, three hundred years? why therefore did ye not recover them within that time?",
+      "highlightedWords": [
+        {
+          "word": "Heshbon",
+          "strongNumber": "H2809",
+          "lemma": "Cheshbon",
+          "meaning": "Heshbon; chief city of Sihon, east of the Jordan"
+        },
+        {
+          "word": "Aroer",
+          "strongNumber": "H6177",
+          "lemma": "Aro'er",
+          "meaning": "Aroer; a city by the Arnon River"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "Wherefore I have not sinned against thee, but thou doest me wrong to war against me: the Lord the Judge be judge this day between the children of Israel and the children of Ammon.",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        },
+        {
+          "word": "Judge",
+          "strongNumber": "H8199",
+          "lemma": "shaphat",
+          "meaning": "to judge; one who judges"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "Howbeit the king of the children of Ammon hearkened not unto the words of Jephthah which he sent him.",
+      "highlightedWords": [
+        {
+          "word": "hearkened",
+          "strongNumber": "H8085",
+          "lemma": "shama'",
+          "meaning": "to hear, listen to, obey"
+        },
+        {
+          "word": "Jephthah",
+          "strongNumber": "H3316",
+          "lemma": "Yiphtach",
+          "meaning": "Jephthah; he opens—Israelite judge and deliverer"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "Then the Spirit of the Lord came upon Jephthah, and he passed over Gilead, and Manasseh, and passed over Mizpeh of Gilead, and from Mizpeh of Gilead he passed over unto the children of Ammon.",
+      "highlightedWords": [
+        {
+          "word": "Spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "spirit, wind, breath; Spirit of God"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "And Jephthah vowed a vow unto the Lord, and said, If thou shalt without fail deliver the children of Ammon into mine hands,",
+      "highlightedWords": [
+        {
+          "word": "vowed",
+          "strongNumber": "H5087",
+          "lemma": "nadar",
+          "meaning": "to vow, make a vow"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "Then it shall be, that whatsoever cometh forth of the doors of my house to meet me, when I return in peace from the children of Ammon, shall surely be the Lord's, and I will offer it up for a burnt offering.",
+      "highlightedWords": [
+        {
+          "word": "Lord's",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "belonging to the LORD, the God of Israel"
+        },
+        {
+          "word": "burnt offering",
+          "strongNumber": "H5930",
+          "lemma": "'olah",
+          "meaning": "whole burnt offering ascending in smoke"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "So Jephthah passed over unto the children of Ammon to fight against them; and the Lord delivered them into his hands.",
+      "highlightedWords": [
+        {
+          "word": "Ammon",
+          "strongNumber": "H5983",
+          "lemma": "Ammon",
+          "meaning": "Ammon; descendants of Lot; nation east of the Jordan"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "And he smote them from Aroer, even till thou come to Minnith, even twenty cities, and unto the plain of the vineyards, with a very great slaughter. Thus the children of Ammon were subdued before the children of Israel.",
+      "highlightedWords": [
+        {
+          "word": "Aroer",
+          "strongNumber": "H6177",
+          "lemma": "Aro'er",
+          "meaning": "Aroer; a city by the Arnon River"
+        },
+        {
+          "word": "Ammon",
+          "strongNumber": "H5983",
+          "lemma": "Ammon",
+          "meaning": "Ammon; descendants of Lot; nation east of the Jordan"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "And Jephthah came to Mizpeh unto his house, and, behold, his daughter came out to meet him with timbrels and with dances: and she was his only child; beside her he had neither son nor daughter.",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, household, dwelling"
+        },
+        {
+          "word": "daughter",
+          "strongNumber": "H1323",
+          "lemma": "bat",
+          "meaning": "daughter, girl"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "And it came to pass, when he saw her, that he rent his clothes, and said, Alas, my daughter! thou hast brought me very low, and thou art one of them that trouble me: for I have opened my mouth unto the Lord, and I cannot go back.",
+      "highlightedWords": [
+        {
+          "word": "rent",
+          "strongNumber": "H7167",
+          "lemma": "qara'",
+          "meaning": "to tear, rend"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "And she said unto him, My father, if thou hast opened thy mouth unto the Lord, do to me according to that which hath proceeded out of thy mouth; forasmuch as the Lord hath taken vengeance for thee of thine enemies, even of the children of Ammon.",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        },
+        {
+          "word": "vengeance",
+          "strongNumber": "H5359",
+          "lemma": "naqam",
+          "meaning": "vengeance, avenging"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "And she said unto her father, Let this thing be done for me: let me alone two months, that I may go up and down upon the mountains, and bewail my virginity, I and my fellows.",
+      "highlightedWords": [
+        {
+          "word": "mountains",
+          "strongNumber": "H2022",
+          "lemma": "har",
+          "meaning": "mountain, hill country"
+        },
+        {
+          "word": "virginity",
+          "strongNumber": "H1331",
+          "lemma": "bethulim",
+          "meaning": "virginity, maidenhood"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "And he said, Go. And he sent her away for two months: and she went with her companions, and bewailed her virginity upon the mountains.",
+      "highlightedWords": [
+        {
+          "word": "bewailed",
+          "strongNumber": "H1058",
+          "lemma": "bakah",
+          "meaning": "to weep, lament, bewail"
+        },
+        {
+          "word": "virginity",
+          "strongNumber": "H1331",
+          "lemma": "bethulim",
+          "meaning": "virginity, maidenhood"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "text": "And it came to pass at the end of two months, that she returned unto her father, who did with her according to his vow which he had vowed: and she knew no man. And it was a custom in Israel,",
+      "highlightedWords": [
+        {
+          "word": "vow",
+          "strongNumber": "H5088",
+          "lemma": "neder",
+          "meaning": "a vow, votive offering or promise"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God prevails—the covenant people and land"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "text": "That the daughters of Israel went yearly to lament the daughter of Jephthah the Gileadite four days in a year.",
+      "highlightedWords": [
+        {
+          "word": "daughters",
+          "strongNumber": "H1323",
+          "lemma": "banoth (pl. of bat)",
+          "meaning": "daughters, girls; young women"
+        },
+        {
+          "word": "Jephthah",
+          "strongNumber": "H3316",
+          "lemma": "Yiphtach",
+          "meaning": "Jephthah; he opens—Israelite judge and deliverer"
+        }
+      ]
+    }
+  ]
+}
