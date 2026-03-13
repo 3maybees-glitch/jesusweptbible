@@ -1,21 +1,18 @@
 "use client"
 
-import { useState, useEffect } from "react"
+import { useState } from "react"
 import { Card, CardContent } from "@/components/ui/card"
-import { ChevronDown, ChevronUp } from "lucide-react"
-
-interface NameEtymology {
-  language: string
-  original: string
-  lemma: string
-  meaning: string
-}
+import { X } from "lucide-react"
 
 interface Character {
   name: string
+  twoWordTheme?: string
   theme?: string
+  referenceRange?: string
   ref?: string
-  nameEtymology?: NameEtymology
+  strongNumber?: string
+  lemma?: string
+  meaning?: string
   highlightedWords?: Array<{
     word: string
     strongNumber?: string
@@ -24,284 +21,200 @@ interface Character {
   }>
 }
 
-interface CharactersData {
-  characterGroups?: Array<{ name: string; description?: string }>
-  topCharacters?: Character[]
-  allCharacters?: Character[]
-}
-
-// Sample data with enhanced structure
 const sampleCharacters: Character[] = [
   {
     name: "Adam",
-    theme: "First Man",
-    ref: "Genesis 1-5",
-    nameEtymology: {
-      language: "Hebrew",
-      original: "אָדָם",
-      lemma: "adam",
-      meaning: "Man, mankind; from the red earth from which he was formed"
-    }
+    twoWordTheme: "First Man",
+    referenceRange: "Genesis 1-5",
+    strongNumber: "H120",
+    lemma: "adam",
+    meaning: "Man, mankind; from the red earth"
   },
   {
     name: "Noah",
-    theme: "Ark Builder",
-    ref: "Genesis 5-10",
-    nameEtymology: {
-      language: "Hebrew",
-      original: "נֹחַ",
-      lemma: "noah",
-      meaning: "Rest, comfort; he shall comfort us concerning the work of our hands"
-    }
+    twoWordTheme: "Ark Builder",
+    referenceRange: "Genesis 5-10",
+    strongNumber: "H5146",
+    lemma: "noah",
+    meaning: "Rest, comfort; he shall comfort us"
   },
   {
     name: "Abraham",
-    theme: "Covenant Father",
-    ref: "Genesis 11-25",
-    nameEtymology: {
-      language: "Hebrew",
-      original: "אַבְרָהָם",
-      lemma: "abraham",
-      meaning: "Father of multitudes; exalted father"
-    }
+    twoWordTheme: "Covenant Father",
+    referenceRange: "Genesis 11-25",
+    strongNumber: "H85",
+    lemma: "abraham",
+    meaning: "Father of multitudes"
   },
   {
     name: "Isaac",
-    theme: "Son of Promise",
-    ref: "Genesis 21-35",
-    nameEtymology: {
-      language: "Hebrew",
-      original: "יִצְחָק",
-      lemma: "yitschaq",
-      meaning: "He laughs; laughter; joy and delight"
-    }
+    twoWordTheme: "Son Promise",
+    referenceRange: "Genesis 21-35",
+    strongNumber: "H3327",
+    lemma: "yitschaq",
+    meaning: "He laughs; laughter"
   },
   {
     name: "Jacob",
-    theme: "Israel",
-    ref: "Genesis 25-50",
-    nameEtymology: {
-      language: "Hebrew",
-      original: "יַעֲקֹב",
-      lemma: "ya'akov",
-      meaning: "Supplanter, heel-holder; one who takes the place of another"
-    }
+    twoWordTheme: "Israel",
+    referenceRange: "Genesis 25-50",
+    strongNumber: "H3290",
+    lemma: "ya'akov",
+    meaning: "Supplanter; heel-holder"
   },
   {
     name: "Joseph",
-    theme: "Dreamer",
-    ref: "Genesis 37-50",
-    nameEtymology: {
-      language: "Hebrew",
-      original: "יוֹסֵף",
-      lemma: "yosef",
-      meaning: "He shall add; the LORD will add to us another son"
-    }
+    twoWordTheme: "Dreamer",
+    referenceRange: "Genesis 37-50",
+    strongNumber: "H3130",
+    lemma: "yosef",
+    meaning: "He shall add"
   },
   {
     name: "Moses",
-    theme: "Law Giver",
-    ref: "Exodus - Deuteronomy",
-    nameEtymology: {
-      language: "Hebrew",
-      original: "מֹשֶׁה",
-      lemma: "mosheh",
-      meaning: "Drawn out; taken from the water"
-    }
+    twoWordTheme: "Law Giver",
+    referenceRange: "Exodus - Deuteronomy",
+    strongNumber: "H4872",
+    lemma: "mosheh",
+    meaning: "Drawn out; from water"
   },
   {
     name: "David",
-    theme: "Shepherd King",
-    ref: "1 Samuel 16 - 1 Kings 2",
-    nameEtymology: {
-      language: "Hebrew",
-      original: "דָּוִד",
-      lemma: "dawid",
-      meaning: "Beloved; beloved of the LORD"
-    }
+    twoWordTheme: "Shepherd King",
+    referenceRange: "1 Samuel 16 - 1 Kings 2",
+    strongNumber: "H1732",
+    lemma: "dawid",
+    meaning: "Beloved; beloved of the LORD"
   },
   {
     name: "Solomon",
-    theme: "Wise King",
-    ref: "1 Kings 1-11",
-    nameEtymology: {
-      language: "Hebrew",
-      original: "שְׁלֹמֹה",
-      lemma: "shlomoh",
-      meaning: "Peaceful; his peace; from shalom meaning peace and wholeness"
-    }
+    twoWordTheme: "Wise King",
+    referenceRange: "1 Kings 1-11",
+    strongNumber: "H8010",
+    lemma: "shlomoh",
+    meaning: "Peaceful; his peace"
   },
   {
     name: "Elijah",
-    theme: "Fire Prophet",
-    ref: "1 Kings 17 - 2 Kings 2",
-    nameEtymology: {
-      language: "Hebrew",
-      original: "אֵלִיָּהוּ",
-      lemma: "eliyahu",
-      meaning: "My God is Yahweh; God is strong"
-    }
+    twoWordTheme: "Fire Prophet",
+    referenceRange: "1 Kings 17 - 2 Kings 2",
+    strongNumber: "H452",
+    lemma: "eliyahu",
+    meaning: "My God is Yahweh"
   }
 ]
 
 export default function CharactersPage() {
-  const [characters, setCharacters] = useState<Character[]>(sampleCharacters)
-  const [loading, setLoading] = useState(true)
-  const [expandedCharacter, setExpandedCharacter] = useState<string | null>(null)
-  const [searchTerm, setSearchTerm] = useState("")
+  const [search, setSearch] = useState("")
+  const [selected, setSelected] = useState<Character | null>(null)
 
-  useEffect(() => {
-    const loadCharacters = async () => {
-      try {
-        const response = await fetch("/data/bible-characters.json")
-        if (response.ok) {
-          const jsonData = await response.json() as CharactersData
-          const allChars = jsonData.allCharacters || jsonData.topCharacters || sampleCharacters
-          setCharacters(allChars)
-          console.log("[v0] Loaded", allChars.length, "characters from JSON")
-        } else {
-          setCharacters(sampleCharacters)
-        }
-      } catch (err) {
-        console.log("[v0] Using sample characters")
-        setCharacters(sampleCharacters)
-      } finally {
-        setLoading(false)
-      }
-    }
-
-    loadCharacters()
-  }, [])
-
-  const filteredCharacters = characters.filter(char =>
-    char.name.toLowerCase().includes(searchTerm.toLowerCase())
+  const filtered = sampleCharacters.filter((c) =>
+    c.name.toLowerCase().includes(search.toLowerCase())
   )
 
-  if (loading) {
-    return (
-      <div className="p-6 max-w-4xl mx-auto">
-        <div className="text-center py-12">
-          <p className="text-muted-foreground">Loading Bible characters...</p>
-        </div>
-      </div>
-    )
-  }
-
   return (
-    <div className="p-6 max-w-4xl mx-auto space-y-6">
-      <div>
-        <h1 className="text-3xl font-bold mb-2">Bible Characters</h1>
-        <p className="text-muted-foreground">
-          Explore {characters.length} significant people from Scripture. Click any name to view Hebrew/Greek etymology and meaning.
-        </p>
-      </div>
+    <div className="max-w-6xl mx-auto p-6 space-y-6">
+      <h1 className="text-3xl font-bold">Bible Characters Explorer</h1>
 
-      {/* Search */}
-      <div>
-        <input
-          type="text"
-          placeholder="Search characters..."
-          value={searchTerm}
-          onChange={(e) => setSearchTerm(e.target.value)}
-          className="w-full px-4 py-2 rounded-lg border border-border bg-background text-foreground placeholder:text-muted-foreground focus:outline-none focus:ring-2 focus:ring-accent"
-        />
-      </div>
+      <input
+        type="text"
+        placeholder="Search Bible characters..."
+        value={search}
+        onChange={(e) => setSearch(e.target.value)}
+        className="w-full px-4 py-2 rounded-lg border border-border bg-background text-foreground placeholder:text-muted-foreground focus:outline-none focus:ring-2 focus:ring-accent"
+      />
 
-      {/* Characters List */}
-      <div className="space-y-2">
-        {filteredCharacters.map((character) => (
-          <div key={character.name}>
-            <button
-              onClick={() => {
-                console.log("[v0] Clicked character:", character.name)
-                setExpandedCharacter(
-                  expandedCharacter === character.name ? null : character.name
-                )
-              }}
-              className="w-full text-left"
-            >
-              <Card className="cursor-pointer transition-all hover:shadow-md hover:border-accent/50">
-                <CardContent className="p-3 flex items-center justify-between">
-                  <div className="flex-1 min-w-0">
-                    <h3 className="font-semibold text-foreground">{character.name}</h3>
-                    <p className="text-sm text-muted-foreground">{character.theme}</p>
-                  </div>
-                  <div className="flex items-center gap-2 flex-shrink-0 ml-4">
-                    <span className="text-xs text-muted-foreground">{character.ref}</span>
-                    {expandedCharacter === character.name ? (
-                      <ChevronUp className="w-5 h-5 text-accent" />
-                    ) : (
-                      <ChevronDown className="w-5 h-5 text-muted-foreground" />
-                    )}
-                  </div>
-                </CardContent>
-              </Card>
-            </button>
-
-            {/* Expanded Details */}
-            {expandedCharacter === character.name && character.nameEtymology && (
-              <Card className="mt-2 bg-accent/5 border-accent/30">
-                <CardContent className="p-4 space-y-4">
-                  <div className="space-y-2">
-                    <div className="flex items-baseline gap-3">
-                      <span className="text-lg font-semibold text-foreground">
-                        {character.nameEtymology.original}
-                      </span>
-                      <span className="text-xs text-muted-foreground">
-                        {character.nameEtymology.language}
-                      </span>
-                    </div>
-                    <div className="space-y-1 text-sm">
-                      <div>
-                        <span className="text-muted-foreground">Lemma: </span>
-                        <span className="font-mono text-foreground">
-                          {character.nameEtymology.lemma}
-                        </span>
-                      </div>
-                      <div>
-                        <span className="text-muted-foreground">Meaning: </span>
-                        <span className="text-foreground">
-                          {character.nameEtymology.meaning}
-                        </span>
-                      </div>
-                    </div>
-                  </div>
-
-                  {/* Additional Highlighted Words */}
-                  {character.highlightedWords && character.highlightedWords.length > 0 && (
-                    <div className="pt-3 border-t border-accent/20 space-y-2">
-                      <p className="text-xs font-semibold text-muted-foreground uppercase">
-                        Key Terms
-                      </p>
-                      {character.highlightedWords.map((word, idx) => (
-                        <div key={idx} className="text-sm">
-                          <div className="flex gap-2 items-start">
-                            <span className="font-medium text-foreground">{word.word}</span>
-                            {word.strongNumber && (
-                              <span className="text-xs bg-accent/20 text-accent px-2 py-0.5 rounded font-mono">
-                                {word.strongNumber}
-                              </span>
-                            )}
-                          </div>
-                          {word.meaning && (
-                            <p className="text-xs text-muted-foreground ml-0 mt-1">
-                              {word.meaning}
-                            </p>
-                          )}
-                        </div>
-                      ))}
-                    </div>
-                  )}
-                </CardContent>
-              </Card>
-            )}
-          </div>
+      <div className="grid md:grid-cols-3 lg:grid-cols-4 gap-4">
+        {filtered.map((person) => (
+          <Card
+            key={person.name}
+            className="cursor-pointer hover:shadow-lg transition-shadow"
+            onClick={() => setSelected(person)}
+          >
+            <CardContent className="p-4 space-y-1">
+              <h3 className="font-semibold text-foreground">{person.name}</h3>
+              <p className="text-sm text-muted-foreground">
+                {person.twoWordTheme || person.theme}
+              </p>
+              <p className="text-xs text-muted-foreground">
+                {person.referenceRange || person.ref}
+              </p>
+            </CardContent>
+          </Card>
         ))}
       </div>
 
-      {filteredCharacters.length === 0 && (
-        <div className="text-center py-12">
-          <p className="text-muted-foreground">No characters found matching "{searchTerm}"</p>
+      {/* Modal Dialog */}
+      {selected && (
+        <div className="fixed inset-0 bg-black/50 flex items-center justify-center p-4 z-50">
+          <div className="bg-background border border-border rounded-lg max-w-md w-full max-h-screen overflow-y-auto">
+            {/* Header */}
+            <div className="flex items-center justify-between p-6 border-b border-border">
+              <h2 className="text-2xl font-bold">{selected.name}</h2>
+              <button
+                onClick={() => setSelected(null)}
+                className="text-muted-foreground hover:text-foreground transition-colors"
+              >
+                <X className="w-5 h-5" />
+              </button>
+            </div>
+
+            {/* Content */}
+            <div className="p-6 space-y-4 text-sm">
+              <div>
+                <span className="font-semibold text-foreground">Theme: </span>
+                <span className="text-muted-foreground">{selected.twoWordTheme || selected.theme}</span>
+              </div>
+
+              {selected.strongNumber && (
+                <div>
+                  <span className="font-semibold text-foreground">Strong's Number: </span>
+                  <span className="text-muted-foreground font-mono">{selected.strongNumber}</span>
+                </div>
+              )}
+
+              {selected.lemma && (
+                <div>
+                  <span className="font-semibold text-foreground">Lemma: </span>
+                  <span className="text-muted-foreground font-mono">{selected.lemma}</span>
+                </div>
+              )}
+
+              {selected.meaning && (
+                <div>
+                  <span className="font-semibold text-foreground">Meaning: </span>
+                  <span className="text-muted-foreground">{selected.meaning}</span>
+                </div>
+              )}
+
+              <div>
+                <span className="font-semibold text-foreground">Story Arc: </span>
+                <span className="text-muted-foreground">{selected.referenceRange || selected.ref}</span>
+              </div>
+
+              {/* Key Terms if available */}
+              {selected.highlightedWords && selected.highlightedWords.length > 0 && (
+                <div className="pt-4 border-t border-border">
+                  <p className="font-semibold text-foreground mb-3">Key Terms</p>
+                  <div className="space-y-2">
+                    {selected.highlightedWords.map((word, idx) => (
+                      <div key={idx} className="text-xs">
+                        <div className="font-medium text-foreground">{word.word}</div>
+                        {word.strongNumber && (
+                          <div className="text-muted-foreground">
+                            Strong's: <span className="font-mono">{word.strongNumber}</span>
+                          </div>
+                        )}
+                        {word.meaning && (
+                          <div className="text-muted-foreground italic">{word.meaning}</div>
+                        )}
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              )}
+            </div>
+          </div>
         </div>
       )}
     </div>
