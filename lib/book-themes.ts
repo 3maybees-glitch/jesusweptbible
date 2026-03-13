@@ -21,6 +21,94 @@ export const bookThemes: BookTheme[] = [
       { word: "created", strongNumber: "H1254", lemma: "bara", meaning: "To create by divine power; bring into existence from nothing" },
     ],
   },
+  {
+    book: "Exodus",
+    theme: "Deliverance Covenant",
+    words: [
+      { word: "Deliverance", strongNumber: "H5337", lemma: "natsal", meaning: "to rescue or snatch away from danger; God's saving act." },
+      { word: "Covenant", strongNumber: "H1285", lemma: "berith", meaning: "a binding agreement establishing relationship between God and His people." },
+    ],
+  },
+  {
+    book: "Leviticus",
+    theme: "Holiness Sacrifice",
+    words: [
+      { word: "Holiness", strongNumber: "H6944", lemma: "qodesh", meaning: "that which is set apart, sacred, belonging to God." },
+      { word: "Sacrifice", strongNumber: "H2077", lemma: "zebach", meaning: "an offering presented to God as an act of worship." },
+    ],
+  },
+  {
+    book: "Numbers",
+    theme: "Wilderness Journey",
+    words: [
+      { word: "Wilderness", strongNumber: "H4057", lemma: "midbar", meaning: "desert region where Israel wandered under God's guidance." },
+      { word: "Journey", strongNumber: "H4550", lemma: "massa", meaning: "a departure, journey, or stage of travel." },
+    ],
+  },
+  {
+    book: "Deuteronomy",
+    theme: "Covenant Commandments",
+    words: [
+      { word: "Covenant", strongNumber: "H1285", lemma: "berith", meaning: "a solemn agreement binding God and Israel together." },
+      { word: "Commandments", strongNumber: "H4687", lemma: "mitsvah", meaning: "a command or authoritative instruction from God." },
+    ],
+  },
+  {
+    book: "Joshua",
+    theme: "Inheritance Land",
+    words: [
+      { word: "Inheritance", strongNumber: "H5159", lemma: "nachalah", meaning: "a possession given as a hereditary portion." },
+      { word: "Land", strongNumber: "H776", lemma: "erets", meaning: "earth, territory, or the promised land given to Israel." },
+    ],
+  },
+  {
+    book: "Judges",
+    theme: "Judges Deliverance",
+    words: [
+      { word: "Judges", strongNumber: "H8199", lemma: "shaphat", meaning: "to govern or rule as a judge." },
+      { word: "Deliverance", strongNumber: "H3467", lemma: "yasha", meaning: "to save or rescue from enemies." },
+    ],
+  },
+  {
+    book: "Ruth",
+    theme: "Redeemer Kindness",
+    words: [
+      { word: "Redeemer", strongNumber: "H1350", lemma: "gaal", meaning: "a kinsman who redeems family property or lineage." },
+      { word: "Kindness", strongNumber: "H2617", lemma: "chesed", meaning: "loyal love, covenant kindness, mercy." },
+    ],
+  },
+  {
+    book: "1 Samuel",
+    theme: "King Anointed",
+    words: [
+      { word: "King", strongNumber: "H4428", lemma: "melek", meaning: "a ruler or sovereign authority." },
+      { word: "Anointed", strongNumber: "H4899", lemma: "mashiach", meaning: "one consecrated with oil; the anointed ruler." },
+    ],
+  },
+  {
+    book: "2 Samuel",
+    theme: "Kingdom Throne",
+    words: [
+      { word: "Kingdom", strongNumber: "H4467", lemma: "mamlakah", meaning: "royal dominion or realm ruled by a king." },
+      { word: "Throne", strongNumber: "H3678", lemma: "kisse", meaning: "seat of royal authority and rule." },
+    ],
+  },
+  {
+    book: "1 Kings",
+    theme: "Temple Kingdom",
+    words: [
+      { word: "Temple", strongNumber: "H1964", lemma: "hekal", meaning: "the palace or sanctuary of God." },
+      { word: "Kingdom", strongNumber: "H4467", lemma: "mamlakah", meaning: "royal dominion or reign." },
+    ],
+  },
+  {
+    book: "2 Kings",
+    theme: "Captivity Judgment",
+    words: [
+      { word: "Captivity", strongNumber: "H7628", lemma: "shebi", meaning: "exile or removal from one's homeland." },
+      { word: "Judgment", strongNumber: "H4941", lemma: "mishpat", meaning: "justice, verdict, or divine decision." },
+    ],
+  },
   // Gospels
   {
     book: "Matthew",
