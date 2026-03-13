@@ -409,6 +409,7 @@ import { ezraChapter9 } from './ezra-9'
 import { ezraChapter10 } from './ezra-10'
 import { jobChapter1 } from './job-1'
 import { jobChapter2 } from './job-2'
+import { jobChapter3 } from './job-3'
 import { kingsChapter7 } from './1-kings-7'
 import { markChapters18 } from './mark-1-8'
 import { markChapters916 } from './mark-9-16'
@@ -2910,7 +2911,7 @@ export const sampleChapters: Record<string, Chapter> = {
         text: "And he opened his mouth, and taught them, saying,",
         highlightedWords: [
           { word: "opened", strongNumber: "G455", language: "Greek", lemma: "anoigō", meaning: "to open" },
-          { word: "taught", strongNumber: "G1321", language: "Greek", lemma: "didaskō", meaning: "to teach, instruct" },
+          { word: "taught", strongNumber: "G1321", language: "Greek", lemma: "didask��", meaning: "to teach, instruct" },
         ],
       },
       {
@@ -4775,6 +4776,7 @@ export const sampleChapters: Record<string, Chapter> = {
   ...ezraChapter10,
   ...jobChapter1,
   ...jobChapter2,
+  ...jobChapter3,
 }
 
 export function getChapter(book: string, chapter: number): Chapter | null {
