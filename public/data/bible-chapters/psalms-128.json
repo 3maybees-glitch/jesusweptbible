@@ -1,0 +1,132 @@
+{
+  "book": "Psalms",
+  "chapter": 128,
+  "chapterTheme": {
+    "twoWordSummary": "Family Blessing",
+    "themeWords": [
+      {
+        "word": "Blessed",
+        "strongNumber": "H835",
+        "lemma": "esher",
+        "meaning": "happiness, blessedness, how happy"
+      },
+      {
+        "word": "Zion",
+        "strongNumber": "H6726",
+        "lemma": "Tsiyyon",
+        "meaning": "Zion; the hill in Jerusalem, figuratively the center of God’s presence"
+      }
+    ]
+  },
+  "sentenceTheme": "Those who fear the LORD are blessed with fruitful family life and enduring peace from Zion.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Blessed is every one that feareth the LORD; that walketh in his ways.",
+      "highlightedWords": [
+        {
+          "word": "Blessed",
+          "strongNumber": "H835",
+          "lemma": "esher",
+          "meaning": "happiness, blessedness, how happy"
+        },
+        {
+          "word": "feareth",
+          "strongNumber": "H3372",
+          "lemma": "yare",
+          "meaning": "to fear, revere, stand in awe of"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "For thou shalt eat the labour of thine hands: happy shalt thou be, and it shall be well with thee.",
+      "highlightedWords": [
+        {
+          "word": "labour",
+          "strongNumber": "H3018",
+          "lemma": "yegia",
+          "meaning": "toil, product of labor, that which is gained by effort"
+        },
+        {
+          "word": "well",
+          "strongNumber": "H2896",
+          "lemma": "tob",
+          "meaning": "good, pleasant, beneficial"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Thy wife shall be as a fruitful vine by the sides of thine house: thy children like olive plants round about thy table.",
+      "highlightedWords": [
+        {
+          "word": "vine",
+          "strongNumber": "H1612",
+          "lemma": "gephen",
+          "meaning": "vine, grapevine; symbol of fruitfulness"
+        },
+        {
+          "word": "olive",
+          "strongNumber": "H2132",
+          "lemma": "zayith",
+          "meaning": "olive tree; source of oil, vitality, and blessing"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Behold, that thus shall the man be blessed that feareth the LORD.",
+      "highlightedWords": [
+        {
+          "word": "blessed",
+          "strongNumber": "H1288",
+          "lemma": "barak",
+          "meaning": "to bless, to endue with power for prosperity and well-being"
+        },
+        {
+          "word": "feareth",
+          "strongNumber": "H3372",
+          "lemma": "yare",
+          "meaning": "to fear, revere, stand in awe of"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "The LORD shall bless thee out of Zion: and thou shalt see the good of Jerusalem all the days of thy life.",
+      "highlightedWords": [
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyyon",
+          "meaning": "Zion; the hill in Jerusalem, figuratively the center of God’s presence"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem; the chief city of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Yea, thou shalt see thy children's children, and peace upon Israel.",
+      "highlightedWords": [
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace, wholeness, welfare"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisrael",
+          "meaning": "Israel; God strives, the covenant people"
+        }
+      ]
+    }
+  ]
+}

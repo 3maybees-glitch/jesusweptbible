@@ -1,0 +1,114 @@
+{
+  "book": "Psalms",
+  "chapter": 127,
+  "chapterTheme": {
+    "twoWordSummary": "Divine Dependence",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "Yehovah",
+        "meaning": "the personal name of Israel’s God; the LORD"
+      },
+      {
+        "word": "children",
+        "strongNumber": "H1121",
+        "lemma": "ben",
+        "meaning": "son, child; a descendant or member of a family"
+      }
+    ]
+  },
+  "sentenceTheme": "Human efforts are futile without the LORD’s blessing; children are His gracious reward and strength.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Except the LORD build the house, they labour in vain that build it: except the LORD keep the city, the watchman waketh but in vain.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the personal name of Israel’s God; the LORD"
+        },
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, household, dwelling; temple or family"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "It is vain for you to rise up early, to sit up late, to eat the bread of sorrows: for so he giveth his beloved sleep.",
+      "highlightedWords": [
+        {
+          "word": "vain",
+          "strongNumber": "H7723",
+          "lemma": "shavʿ",
+          "meaning": "emptiness, vanity; uselessness, worthlessness"
+        },
+        {
+          "word": "sleep",
+          "strongNumber": "H8142",
+          "lemma": "shenah",
+          "meaning": "sleep; rest, slumber"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Lo, children are an heritage of the LORD: and the fruit of the womb is his reward.",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child; a descendant or member of a family"
+        },
+        {
+          "word": "heritage",
+          "strongNumber": "H5159",
+          "lemma": "nachalah",
+          "meaning": "inheritance, heritage; allotted portion"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "As arrows are in the hand of a mighty man; so are children of the youth.",
+      "highlightedWords": [
+        {
+          "word": "arrows",
+          "strongNumber": "H2671",
+          "lemma": "chets",
+          "meaning": "arrow; a missile shot from a bow"
+        },
+        {
+          "word": "mighty",
+          "strongNumber": "H1368",
+          "lemma": "gibbor",
+          "meaning": "strong, mighty; a valiant warrior or hero"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Happy is the man that hath his quiver full of them: they shall not be ashamed, but they shall speak with the enemies in the gate.",
+      "highlightedWords": [
+        {
+          "word": "quiver",
+          "strongNumber": "H827",
+          "lemma": "’ashpah",
+          "meaning": "quiver; a case for arrows"
+        },
+        {
+          "word": "gate",
+          "strongNumber": "H8179",
+          "lemma": "shaʿar",
+          "meaning": "gate; entrance of a city where legal matters were decided"
+        }
+      ]
+    }
+  ]
+}

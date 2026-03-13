@@ -1,0 +1,402 @@
+{
+  "book": "Psalms",
+  "chapter": 135,
+  "chapterTheme": {
+    "twoWordSummary": "Praise Sovereignty",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "Yehovah (YHWH)",
+        "meaning": "the personal name of the God of Israel"
+      },
+      {
+        "word": "Praise",
+        "strongNumber": "H1984",
+        "lemma": "halal",
+        "meaning": "to praise, boast, celebrate"
+      }
+    ]
+  },
+  "sentenceTheme": "A call to praise the LORD for His goodness, supremacy, creative power, mighty acts in history, and the folly of idols.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Praise ye the LORD. Praise ye the name of the LORD; praise him, O ye servants of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "Praise",
+          "strongNumber": "H1984",
+          "lemma": "halal",
+          "meaning": "to praise, boast, celebrate"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah (YHWH)",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Ye that stand in the house of the LORD, in the courts of the house of our God,",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, household, temple"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah (YHWH)",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Praise the LORD; for the LORD is good: sing praises unto his name; for it is pleasant.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah (YHWH)",
+          "meaning": "the personal name of the God of Israel"
+        },
+        {
+          "word": "good",
+          "strongNumber": "H2896",
+          "lemma": "tov",
+          "meaning": "good, pleasant, agreeable"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "For the LORD hath chosen Jacob unto himself, and Israel for his peculiar treasure.",
+      "highlightedWords": [
+        {
+          "word": "chosen",
+          "strongNumber": "H977",
+          "lemma": "bachar",
+          "meaning": "to choose, elect"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "For I know that the LORD is great, and that our Lord is above all gods.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah (YHWH)",
+          "meaning": "the personal name of the God of Israel"
+        },
+        {
+          "word": "gods",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God, gods"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Whatsoever the LORD pleased, that did he in heaven, and in earth, in the seas, and all deep places.",
+      "highlightedWords": [
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens, sky"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "earth, land"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "He causeth the vapours to ascend from the ends of the earth; he maketh lightnings for the rain; he bringeth the wind out of his treasuries.",
+      "highlightedWords": [
+        {
+          "word": "rain",
+          "strongNumber": "H4306",
+          "lemma": "matar",
+          "meaning": "rain"
+        },
+        {
+          "word": "wind",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "wind, spirit, breath"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Who smote the firstborn of Egypt, both of man and beast.",
+      "highlightedWords": [
+        {
+          "word": "firstborn",
+          "strongNumber": "H1060",
+          "lemma": "bekor",
+          "meaning": "firstborn"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Who sent tokens and wonders into the midst of thee, O Egypt, upon Pharaoh, and upon all his servants.",
+      "highlightedWords": [
+        {
+          "word": "tokens",
+          "strongNumber": "H226",
+          "lemma": "oth",
+          "meaning": "sign, token"
+        },
+        {
+          "word": "Pharaoh",
+          "strongNumber": "H6547",
+          "lemma": "Par'oh",
+          "meaning": "Pharaoh"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Who smote great nations, and slew mighty kings;",
+      "highlightedWords": [
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation, people"
+        },
+        {
+          "word": "kings",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Sihon king of the Amorites, and Og king of Bashan, and all the kingdoms of Canaan:",
+      "highlightedWords": [
+        {
+          "word": "Sihon",
+          "strongNumber": "H5511",
+          "lemma": "Sichon",
+          "meaning": "Sihon, king of the Amorites"
+        },
+        {
+          "word": "Og",
+          "strongNumber": "H5747",
+          "lemma": "Og",
+          "meaning": "Og, king of Bashan"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And gave their land for an heritage, an heritage unto Israel his people.",
+      "highlightedWords": [
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "land, earth"
+        },
+        {
+          "word": "heritage",
+          "strongNumber": "H5159",
+          "lemma": "nachalah",
+          "meaning": "inheritance, heritage, possession"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Thy name, O LORD, endureth for ever; and thy memorial, O LORD, throughout all generations.",
+      "highlightedWords": [
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "name, reputation"
+        },
+        {
+          "word": "generations",
+          "strongNumber": "H1755",
+          "lemma": "dor",
+          "meaning": "generation, age"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "For the LORD will judge his people, and he will repent himself concerning his servants.",
+      "highlightedWords": [
+        {
+          "word": "judge",
+          "strongNumber": "H8199",
+          "lemma": "shaphat",
+          "meaning": "to judge, govern, execute justice"
+        },
+        {
+          "word": "repent",
+          "strongNumber": "H5162",
+          "lemma": "nacham",
+          "meaning": "to be sorry, relent, comfort, repent"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "The idols of the heathen are silver and gold, the work of men's hands.",
+      "highlightedWords": [
+        {
+          "word": "idols",
+          "strongNumber": "H6091",
+          "lemma": "atsab",
+          "meaning": "idol, image"
+        },
+        {
+          "word": "silver",
+          "strongNumber": "H3701",
+          "lemma": "keseph",
+          "meaning": "silver, money"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "They have mouths, but they speak not; eyes have they, but they see not;",
+      "highlightedWords": [
+        {
+          "word": "mouths",
+          "strongNumber": "H6310",
+          "lemma": "peh",
+          "meaning": "mouth"
+        },
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "ayin",
+          "meaning": "eye"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "They have ears, but they hear not; neither is there any breath in their mouths.",
+      "highlightedWords": [
+        {
+          "word": "ears",
+          "strongNumber": "H241",
+          "lemma": "ozen",
+          "meaning": "ear"
+        },
+        {
+          "word": "breath",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "breath, wind, spirit"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "They that make them are like unto them: so is every one that trusteth in them.",
+      "highlightedWords": [
+        {
+          "word": "make",
+          "strongNumber": "H6213",
+          "lemma": "asah",
+          "meaning": "to do, make, fashion"
+        },
+        {
+          "word": "trusteth",
+          "strongNumber": "H982",
+          "lemma": "batach",
+          "meaning": "to trust, be confident, rely upon"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Bless the LORD, O house of Israel: bless the LORD, O house of Aaron:",
+      "highlightedWords": [
+        {
+          "word": "Bless",
+          "strongNumber": "H1288",
+          "lemma": "barak",
+          "meaning": "to bless, praise"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Bless the LORD, O house of Levi: ye that fear the LORD, bless the LORD.",
+      "highlightedWords": [
+        {
+          "word": "Levi",
+          "strongNumber": "H3878",
+          "lemma": "Lewi",
+          "meaning": "Levi, a son of Jacob; the Levitical tribe"
+        },
+        {
+          "word": "fear",
+          "strongNumber": "H3373",
+          "lemma": "yare'",
+          "meaning": "one who fears, reveres"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Blessed be the LORD out of Zion, which dwelleth at Jerusalem. Praise ye the LORD.",
+      "highlightedWords": [
+        {
+          "word": "Blessed",
+          "strongNumber": "H1288",
+          "lemma": "barak",
+          "meaning": "to bless; blessed"
+        },
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyyon",
+          "meaning": "Zion, the hill/city in Jerusalem"
+        }
+      ]
+    }
+  ]
+}

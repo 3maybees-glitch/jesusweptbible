@@ -1,0 +1,348 @@
+{
+  "book": "Psalms",
+  "chapter": 132,
+  "chapterTheme": {
+    "twoWordSummary": "Davidic Covenant",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH",
+        "meaning": "the personal name of Israel’s God; the LORD"
+      },
+      {
+        "word": "Zion",
+        "strongNumber": "H6726",
+        "lemma": "Tsiyyon",
+        "meaning": "Zion; the hill in Jerusalem symbolizing God’s dwelling"
+      }
+    ]
+  },
+  "sentenceTheme": "A plea for the LORD to remember David’s vows, choose Zion as His resting place, and confirm the promises to David’s throne with enduring blessings.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "LORD, remember David, and all his afflictions:",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God; the LORD"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "David",
+          "meaning": "David; beloved"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "How he sware unto the LORD, and vowed unto the mighty God of Jacob;",
+      "highlightedWords": [
+        {
+          "word": "sware",
+          "strongNumber": "H7650",
+          "lemma": "shabaʿ",
+          "meaning": "to swear, take an oath"
+        },
+        {
+          "word": "Jacob",
+          "strongNumber": "H3290",
+          "lemma": "Yaʿaqob",
+          "meaning": "Jacob; supplanter"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Surely I will not come into the tabernacle of my house, nor go up into my bed;",
+      "highlightedWords": [
+        {
+          "word": "tabernacle",
+          "strongNumber": "H168",
+          "lemma": "ʾohel",
+          "meaning": "tent, tabernacle"
+        },
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayit",
+          "meaning": "house, household"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "I will not give sleep to mine eyes, or slumber to mine eyelids,",
+      "highlightedWords": [
+        {
+          "word": "sleep",
+          "strongNumber": "H8142",
+          "lemma": "shenah",
+          "meaning": "sleep"
+        },
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "ʿayin",
+          "meaning": "eye"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Until I find out a place for the LORD, an habitation for the mighty God of Jacob.",
+      "highlightedWords": [
+        {
+          "word": "place",
+          "strongNumber": "H4725",
+          "lemma": "maqom",
+          "meaning": "place, site"
+        },
+        {
+          "word": "habitation",
+          "strongNumber": "H4908",
+          "lemma": "mishkan",
+          "meaning": "dwelling, tabernacle, habitation"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Lo, we heard of it at Ephratah: we found it in the fields of the wood.",
+      "highlightedWords": [
+        {
+          "word": "Ephratah",
+          "strongNumber": "H0672",
+          "lemma": "Ephrath/Ephrathah",
+          "meaning": "Ephrathah; fruitfulness"
+        },
+        {
+          "word": "wood",
+          "strongNumber": "H3293",
+          "lemma": "yaʿar",
+          "meaning": "forest, wood"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "We will go into his tabernacles: we will worship at his footstool.",
+      "highlightedWords": [
+        {
+          "word": "tabernacles",
+          "strongNumber": "H4908",
+          "lemma": "mishkan",
+          "meaning": "dwelling places, tabernacles"
+        },
+        {
+          "word": "footstool",
+          "strongNumber": "H1916",
+          "lemma": "hadom",
+          "meaning": "footstool"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Arise, O LORD, into thy rest; thou, and the ark of thy strength.",
+      "highlightedWords": [
+        {
+          "word": "ark",
+          "strongNumber": "H0727",
+          "lemma": "ʾaron",
+          "meaning": "ark, chest"
+        },
+        {
+          "word": "strength",
+          "strongNumber": "H5797",
+          "lemma": "ʿoz",
+          "meaning": "strength, might"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Let thy priests be clothed with righteousness; and let thy saints shout for joy.",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "tsedaqah",
+          "meaning": "righteousness"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "For thy servant David's sake turn not away the face of thine anointed.",
+      "highlightedWords": [
+        {
+          "word": "servant",
+          "strongNumber": "H5650",
+          "lemma": "ʿeved",
+          "meaning": "servant"
+        },
+        {
+          "word": "anointed",
+          "strongNumber": "H4899",
+          "lemma": "mashiach",
+          "meaning": "anointed one, messiah"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "The LORD hath sworn in truth unto David; he will not turn from it; Of the fruit of thy body will I set upon thy throne.",
+      "highlightedWords": [
+        {
+          "word": "sworn",
+          "strongNumber": "H7650",
+          "lemma": "shabaʿ",
+          "meaning": "to swear, take an oath"
+        },
+        {
+          "word": "throne",
+          "strongNumber": "H3678",
+          "lemma": "kisse",
+          "meaning": "seat, throne"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "If thy children will keep my covenant and my testimony that I shall teach them, their children shall also sit upon thy throne for evermore.",
+      "highlightedWords": [
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berit",
+          "meaning": "covenant, treaty"
+        },
+        {
+          "word": "testimony",
+          "strongNumber": "H5715",
+          "lemma": "ʿeduth",
+          "meaning": "testimony, witness"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "For the LORD hath chosen Zion; he hath desired it for his habitation.",
+      "highlightedWords": [
+        {
+          "word": "chosen",
+          "strongNumber": "H0977",
+          "lemma": "bachar",
+          "meaning": "to choose"
+        },
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyyon",
+          "meaning": "Zion; the hill in Jerusalem"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "This is my rest for ever: here will I dwell; for I have desired it.",
+      "highlightedWords": [
+        {
+          "word": "rest",
+          "strongNumber": "H4496",
+          "lemma": "menuchah",
+          "meaning": "resting place, rest"
+        },
+        {
+          "word": "dwell",
+          "strongNumber": "H3427",
+          "lemma": "yashab",
+          "meaning": "to dwell, sit"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "I will abundantly bless her provision: I will satisfy her poor with bread.",
+      "highlightedWords": [
+        {
+          "word": "bless",
+          "strongNumber": "H1288",
+          "lemma": "barak",
+          "meaning": "to bless"
+        },
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread, food"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "I will also clothe her priests with salvation: and her saints shall shout aloud for joy.",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest"
+        },
+        {
+          "word": "saints",
+          "strongNumber": "H2623",
+          "lemma": "chasid",
+          "meaning": "faithful, godly ones, saints"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "There will I make the horn of David to bud: I have ordained a lamp for mine anointed.",
+      "highlightedWords": [
+        {
+          "word": "horn",
+          "strongNumber": "H7161",
+          "lemma": "qeren",
+          "meaning": "horn; symbol of strength"
+        },
+        {
+          "word": "lamp",
+          "strongNumber": "H5216",
+          "lemma": "ner",
+          "meaning": "lamp, light"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "His enemies will I clothe with shame: but upon himself shall his crown flourish.",
+      "highlightedWords": [
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "ʾoyev",
+          "meaning": "enemy"
+        },
+        {
+          "word": "crown",
+          "strongNumber": "H5145",
+          "lemma": "nezer",
+          "meaning": "crown, consecration"
+        }
+      ]
+    }
+  ]
+}

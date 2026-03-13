@@ -1,0 +1,168 @@
+{
+  "book": "Psalms",
+  "chapter": 129,
+  "chapterTheme": {
+    "twoWordSummary": "Afflicted Israel",
+    "themeWords": [
+      {
+        "word": "afflicted",
+        "strongNumber": "H6887",
+        "lemma": "צָרַר (tsarar)",
+        "meaning": "to press, oppress, or cause distress; to afflict"
+      },
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "יהוה (YHWH)",
+        "meaning": "the personal name of the God of Israel; the LORD"
+      }
+    ]
+  },
+  "sentenceTheme": "Israel recalls repeated youth-long affliction yet trusts the righteous LORD to cut the cords of the wicked and render their plots fruitless.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Many a time have they afflicted me from my youth, may Israel now say:",
+      "highlightedWords": [
+        {
+          "word": "afflicted",
+          "strongNumber": "H6887",
+          "lemma": "צָרַר (tsarar)",
+          "meaning": "to press, oppress, or cause distress; to afflict"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "יִשְׂרָאֵל (Yisra'el)",
+          "meaning": "Israel; the people/nation descended from Jacob"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Many a time have they afflicted me from my youth: yet they have not prevailed against me.",
+      "highlightedWords": [
+        {
+          "word": "afflicted",
+          "strongNumber": "H6887",
+          "lemma": "צָרַר (tsarar)",
+          "meaning": "to press, oppress, or cause distress; to afflict"
+        },
+        {
+          "word": "prevailed",
+          "strongNumber": "H3201",
+          "lemma": "יָכֹל (yakol)",
+          "meaning": "to be able, to overcome, to prevail"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "The plowers plowed upon my back: they made long their furrows.",
+      "highlightedWords": [
+        {
+          "word": "plowed",
+          "strongNumber": "H2790",
+          "lemma": "חָרַשׁ (charash)",
+          "meaning": "to cut in, engrave; to plow"
+        },
+        {
+          "word": "upon",
+          "strongNumber": "H5921",
+          "lemma": "עַל (ʿal)",
+          "meaning": "upon, on, over, above"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "The LORD is righteous: he hath cut asunder the cords of the wicked.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "יהוה (YHWH)",
+          "meaning": "the personal name of the God of Israel; the LORD"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "רָשָׁע (rasha')",
+          "meaning": "wicked, guilty, ungodly person"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Let them all be confounded and turned back that hate Zion.",
+      "highlightedWords": [
+        {
+          "word": "hate",
+          "strongNumber": "H8130",
+          "lemma": "שָׂנֵא (sane')",
+          "meaning": "to hate, be hostile toward"
+        },
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "צִיּוֹן (Tsiyyon)",
+          "meaning": "Zion; the hill in Jerusalem, by extension Jerusalem"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Let them be as the grass upon the housetops, which withereth afore it groweth up:",
+      "highlightedWords": [
+        {
+          "word": "grass",
+          "strongNumber": "H2682",
+          "lemma": "חָצִיר (chatsir)",
+          "meaning": "grass, herbage"
+        },
+        {
+          "word": "housetops",
+          "strongNumber": "H1406",
+          "lemma": "גַּג (gag)",
+          "meaning": "roof, housetop"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Wherewith the mower filleth not his hand; nor he that bindeth sheaves his bosom.",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "H3709",
+          "lemma": "כַּף (kaph)",
+          "meaning": "hand, palm"
+        },
+        {
+          "word": "bosom",
+          "strongNumber": "H2436",
+          "lemma": "חֵיק (cheq)",
+          "meaning": "bosom, lap, fold of a garment"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Neither do they which go by say, The blessing of the LORD be upon you: we bless you in the name of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "blessing",
+          "strongNumber": "H1293",
+          "lemma": "בְּרָכָה (berakah)",
+          "meaning": "blessing, benediction, gift of favor"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "יהוה (YHWH)",
+          "meaning": "the personal name of the God of Israel; the LORD"
+        }
+      ]
+    }
+  ]
+}

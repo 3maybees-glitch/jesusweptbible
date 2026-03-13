@@ -1,0 +1,186 @@
+{
+  "book": "Psalms",
+  "chapter": 122,
+  "chapterTheme": {
+    "twoWordSummary": "Jerusalem Peace",
+    "themeWords": [
+      {
+        "word": "Jerusalem",
+        "strongNumber": "H3389",
+        "lemma": "Yerushalayim",
+        "meaning": "Jerusalem; the chief city, traditionally understood as city/foundation of peace"
+      },
+      {
+        "word": "Peace",
+        "strongNumber": "H7965",
+        "lemma": "shalom",
+        "meaning": "peace, welfare, completeness, well-being"
+      }
+    ]
+  },
+  "sentenceTheme": "Joy in going to the house of the LORD and a prayer for the peace and prosperity of Jerusalem.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "I was glad when they said unto me, Let us go into the house of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "glad",
+          "strongNumber": "H8055",
+          "lemma": "samach",
+          "meaning": "to rejoice, be glad"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Our feet shall stand within thy gates, O Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "gates",
+          "strongNumber": "H8179",
+          "lemma": "sha'ar",
+          "meaning": "gate, entrance"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem; the chief city, traditionally understood as city/foundation of peace"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Jerusalem is builded as a city that is compact together:",
+      "highlightedWords": [
+        {
+          "word": "builded",
+          "strongNumber": "H1129",
+          "lemma": "banah",
+          "meaning": "to build, rebuild, establish"
+        },
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "iyr",
+          "meaning": "city, town, urban area"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Whither the tribes go up, the tribes of the LORD, unto the testimony of Israel, to give thanks unto the name of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "tribes",
+          "strongNumber": "H7626",
+          "lemma": "shebet",
+          "meaning": "tribe, clan; also rod or staff as a symbol of authority"
+        },
+        {
+          "word": "thanks",
+          "strongNumber": "H8426",
+          "lemma": "todah",
+          "meaning": "thanksgiving, praise, thank-offering"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "For there are set thrones of judgment, the thrones of the house of David.",
+      "highlightedWords": [
+        {
+          "word": "thrones",
+          "strongNumber": "H3678",
+          "lemma": "kisse",
+          "meaning": "seat, throne"
+        },
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "judgment, justice, legal decision"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Pray for the peace of Jerusalem: they shall prosper that love thee.",
+      "highlightedWords": [
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace, welfare, completeness, well-being"
+        },
+        {
+          "word": "prosper",
+          "strongNumber": "H7951",
+          "lemma": "shalah",
+          "meaning": "to be at ease, to prosper, to be secure"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Peace be within thy walls, and prosperity within thy palaces.",
+      "highlightedWords": [
+        {
+          "word": "Peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace, welfare, completeness, well-being"
+        },
+        {
+          "word": "palaces",
+          "strongNumber": "H759",
+          "lemma": "armon",
+          "meaning": "palace, citadel, fortress"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "For my brethren and companions' sakes, I will now say, Peace be within thee.",
+      "highlightedWords": [
+        {
+          "word": "brethren",
+          "strongNumber": "H251",
+          "lemma": "ach",
+          "meaning": "brother, kinsman, fellow countryman"
+        },
+        {
+          "word": "Peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace, welfare, completeness, well-being"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Because of the house of the LORD our God I will seek thy good.",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, household, temple"
+        },
+        {
+          "word": "good",
+          "strongNumber": "H2896",
+          "lemma": "tov",
+          "meaning": "good, pleasant, beneficial"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "book": "Psalms",
+  "chapter": 141,
+  "chapterTheme": {
+    "twoWordSummary": "Guarded Prayer",
+    "themeWords": [
+      {
+        "word": "prayer",
+        "strongNumber": "H8605",
+        "lemma": "tephillah",
+        "meaning": "prayer, intercession, supplication"
+      },
+      {
+        "word": "keep",
+        "strongNumber": "H8104",
+        "lemma": "shamar",
+        "meaning": "to keep, guard, watch over"
+      }
+    ]
+  },
+  "sentenceTheme": "David urgently pleads for the LORD to guard his speech and heart, to protect him from the wicked and their traps, and to judge evildoers while preserving him.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "LORD, I cry unto thee: make haste unto me; give ear unto my voice, when I cry unto thee.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel"
+        },
+        {
+          "word": "voice",
+          "strongNumber": "H6963",
+          "lemma": "qol",
+          "meaning": "voice, sound, noise"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Let my prayer be set forth before thee as incense; and the lifting up of my hands as the evening sacrifice.",
+      "highlightedWords": [
+        {
+          "word": "incense",
+          "strongNumber": "H7004",
+          "lemma": "qetoreth",
+          "meaning": "incense, fragrant smoke of sacrifice"
+        },
+        {
+          "word": "sacrifice",
+          "strongNumber": "H4503",
+          "lemma": "minchah",
+          "meaning": "offering, gift, tribute"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Set a watch, O LORD, before my mouth; keep the door of my lips.",
+      "highlightedWords": [
+        {
+          "word": "mouth",
+          "strongNumber": "H6310",
+          "lemma": "peh",
+          "meaning": "mouth, opening, speech"
+        },
+        {
+          "word": "lips",
+          "strongNumber": "H8193",
+          "lemma": "saphah",
+          "meaning": "lip, speech, edge"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Incline not my heart to any evil thing, to practise wicked works with men that work iniquity: and let me not eat of their dainties.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, mind, inner person"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H205",
+          "lemma": "aven",
+          "meaning": "iniquity, trouble, wickedness"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Let the righteous smite me; it shall be a kindness: and let him reprove me; it shall be an excellent oil, which shall not break my head: for yet my prayer also shall be in their calamities.",
+      "highlightedWords": [
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "just, righteous"
+        },
+        {
+          "word": "oil",
+          "strongNumber": "H8081",
+          "lemma": "shemen",
+          "meaning": "oil, fat, rich ointment"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "When their judges are overthrown in stony places, they shall hear my words; for they are sweet.",
+      "highlightedWords": [
+        {
+          "word": "judges",
+          "strongNumber": "H8199",
+          "lemma": "shophet",
+          "meaning": "judge, ruler"
+        },
+        {
+          "word": "words",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, speech"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Our bones are scattered at the grave's mouth, as when one cutteth and cleaveth wood upon the earth.",
+      "highlightedWords": [
+        {
+          "word": "bones",
+          "strongNumber": "H6106",
+          "lemma": "etsem",
+          "meaning": "bone, self, substance"
+        },
+        {
+          "word": "grave",
+          "strongNumber": "H7585",
+          "lemma": "Sheol",
+          "meaning": "the grave, the underworld, realm of the dead"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "But mine eyes are unto thee, O GOD the Lord: in thee is my trust; leave not my soul destitute.",
+      "highlightedWords": [
+        {
+          "word": "trust",
+          "strongNumber": "H2620",
+          "lemma": "chasah",
+          "meaning": "to seek refuge, take shelter"
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, self"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Keep me from the snares which they have laid for me, and the gins of the workers of iniquity.",
+      "highlightedWords": [
+        {
+          "word": "snares",
+          "strongNumber": "H4170",
+          "lemma": "moqesh",
+          "meaning": "snare, trap, bait"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H205",
+          "lemma": "aven",
+          "meaning": "iniquity, trouble, wickedness"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Let the wicked fall into their own nets, whilst that I withal escape.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha'",
+          "meaning": "wicked, guilty, criminal"
+        },
+        {
+          "word": "escape",
+          "strongNumber": "H4422",
+          "lemma": "malat",
+          "meaning": "to escape, deliver oneself"
+        }
+      ]
+    }
+  ]
+}

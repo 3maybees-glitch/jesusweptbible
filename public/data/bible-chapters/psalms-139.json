@@ -1,0 +1,456 @@
+{
+  "book": "Psalms",
+  "chapter": 139,
+  "chapterTheme": {
+    "twoWordSummary": "Omniscient Presence",
+    "themeWords": [
+      {
+        "word": "know",
+        "strongNumber": "H3045",
+        "lemma": "yadaʿ",
+        "meaning": "to know, perceive, acknowledge"
+      },
+      {
+        "word": "presence",
+        "strongNumber": "H6440",
+        "lemma": "panim",
+        "meaning": "face, presence"
+      }
+    ]
+  },
+  "sentenceTheme": "God’s intimate knowledge, ever-present nearness, and holy guidance surround and shape the psalmist’s life.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "O LORD, thou hast searched me, and known me.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "searched",
+          "strongNumber": "H2713",
+          "lemma": "chaqar",
+          "meaning": "to search out, examine thoroughly"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Thou knowest my downsitting and mine uprising, thou understandest my thought afar off.",
+      "highlightedWords": [
+        {
+          "word": "knowest",
+          "strongNumber": "H3045",
+          "lemma": "yadaʿ",
+          "meaning": "to know, perceive, acknowledge"
+        },
+        {
+          "word": "understandest",
+          "strongNumber": "H995",
+          "lemma": "bin",
+          "meaning": "to understand, discern"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Thou compassest my path and my lying down, and art acquainted with all my ways.",
+      "highlightedWords": [
+        {
+          "word": "path",
+          "strongNumber": "H734",
+          "lemma": "ʾorach",
+          "meaning": "path, way"
+        },
+        {
+          "word": "ways",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way, road, manner"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "For there is not a word in my tongue, but, lo, O LORD, thou knowest it altogether.",
+      "highlightedWords": [
+        {
+          "word": "tongue",
+          "strongNumber": "H3956",
+          "lemma": "lashon",
+          "meaning": "tongue, language"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Thou hast beset me behind and before, and laid thine hand upon me.",
+      "highlightedWords": [
+        {
+          "word": "behind",
+          "strongNumber": "H268",
+          "lemma": "ʾachor",
+          "meaning": "back, behind, rear"
+        },
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Such knowledge is too wonderful for me; it is high, I cannot attain unto it.",
+      "highlightedWords": [
+        {
+          "word": "knowledge",
+          "strongNumber": "H1847",
+          "lemma": "daʿath",
+          "meaning": "knowledge, knowing"
+        },
+        {
+          "word": "wonderful",
+          "strongNumber": "H6381",
+          "lemma": "palaʾ",
+          "meaning": "to be wonderful, extraordinary"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Whither shall I go from thy spirit? or whither shall I flee from thy presence?",
+      "highlightedWords": [
+        {
+          "word": "spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "spirit, wind, breath"
+        },
+        {
+          "word": "presence",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "face, presence"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "If I ascend up into heaven, thou art there: if I make my bed in hell, behold, thou art there.",
+      "highlightedWords": [
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens, sky"
+        },
+        {
+          "word": "hell",
+          "strongNumber": "H7585",
+          "lemma": "Sheol",
+          "meaning": "the realm of the dead"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "If I take the wings of the morning, and dwell in the uttermost parts of the sea;",
+      "highlightedWords": [
+        {
+          "word": "wings",
+          "strongNumber": "H3671",
+          "lemma": "kanaph",
+          "meaning": "wing, edge, extremity"
+        },
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "sea"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Even there shall thy hand lead me, and thy right hand shall hold me.",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        },
+        {
+          "word": "right",
+          "strongNumber": "H3225",
+          "lemma": "yamin",
+          "meaning": "right hand, right side"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "If I say, Surely the darkness shall cover me; even the night shall be light about me.",
+      "highlightedWords": [
+        {
+          "word": "darkness",
+          "strongNumber": "H2822",
+          "lemma": "choshek",
+          "meaning": "darkness"
+        },
+        {
+          "word": "night",
+          "strongNumber": "H3915",
+          "lemma": "laylah",
+          "meaning": "night"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Yea, the darkness hideth not from thee; but the night shineth as the day: the darkness and the light are both alike to thee.",
+      "highlightedWords": [
+        {
+          "word": "darkness",
+          "strongNumber": "H2822",
+          "lemma": "choshek",
+          "meaning": "darkness"
+        },
+        {
+          "word": "light",
+          "strongNumber": "H216",
+          "lemma": "ʾor",
+          "meaning": "light, illumination"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "For thou hast possessed my reins: thou hast covered me in my mother's womb.",
+      "highlightedWords": [
+        {
+          "word": "reins",
+          "strongNumber": "H3629",
+          "lemma": "kilyah",
+          "meaning": "kidneys, reins (inner self)"
+        },
+        {
+          "word": "womb",
+          "strongNumber": "H990",
+          "lemma": "beten",
+          "meaning": "belly, womb"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well.",
+      "highlightedWords": [
+        {
+          "word": "works",
+          "strongNumber": "H4639",
+          "lemma": "maʿaseh",
+          "meaning": "deed, work"
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, self"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "My substance was not hid from thee, when I was made in secret, and curiously wrought in the lowest parts of the earth.",
+      "highlightedWords": [
+        {
+          "word": "secret",
+          "strongNumber": "H5643",
+          "lemma": "sether",
+          "meaning": "secret place, hiding place"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "ʾerets",
+          "meaning": "earth, land"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Thine eyes did see my substance, yet being unperfect; and in thy book all my members were written, which in continuance were fashioned, when as yet there was none of them.",
+      "highlightedWords": [
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "ʿayin",
+          "meaning": "eye"
+        },
+        {
+          "word": "book",
+          "strongNumber": "H5612",
+          "lemma": "sefer",
+          "meaning": "book, scroll, document"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "How precious also are thy thoughts unto me, O God! how great is the sum of them!",
+      "highlightedWords": [
+        {
+          "word": "precious",
+          "strongNumber": "H3368",
+          "lemma": "yakar",
+          "meaning": "precious, valuable, costly"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; the true God (plural of majesty)"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "If I should count them, they are more in number than the sand: when I awake, I am still with thee.",
+      "highlightedWords": [
+        {
+          "word": "sand",
+          "strongNumber": "H2344",
+          "lemma": "chol",
+          "meaning": "sand"
+        },
+        {
+          "word": "awake",
+          "strongNumber": "H6974",
+          "lemma": "quwts",
+          "meaning": "to awake, rouse oneself"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Surely thou wilt slay the wicked, O God: depart from me therefore, ye bloody men.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rashaʿ",
+          "meaning": "wicked, guilty, criminal"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; the true God (plural of majesty)"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "For they speak against thee wickedly, and thine enemies take thy name in vain.",
+      "highlightedWords": [
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "ʾoyev",
+          "meaning": "enemy, foe"
+        },
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "name, reputation"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Do not I hate them, O LORD, that hate thee? and am not I grieved with those that rise up against thee?",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "hate",
+          "strongNumber": "H8130",
+          "lemma": "saneʾ",
+          "meaning": "to hate, be hostile to"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "I hate them with perfect hatred: I count them mine enemies.",
+      "highlightedWords": [
+        {
+          "word": "hate",
+          "strongNumber": "H8130",
+          "lemma": "saneʾ",
+          "meaning": "to hate, be hostile to"
+        },
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "ʾoyev",
+          "meaning": "enemy, foe"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Search me, O God, and know my heart: try me, and know my thoughts:",
+      "highlightedWords": [
+        {
+          "word": "Search",
+          "strongNumber": "H2713",
+          "lemma": "chaqar",
+          "meaning": "to search out, examine thoroughly"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "lev",
+          "meaning": "heart, inner person, mind"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And see if there be any wicked way in me, and lead me in the way everlasting.",
+      "highlightedWords": [
+        {
+          "word": "way",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way, road, manner"
+        },
+        {
+          "word": "everlasting",
+          "strongNumber": "H5769",
+          "lemma": "ʿolam",
+          "meaning": "everlasting, perpetual, forever"
+        }
+      ]
+    }
+  ]
+}

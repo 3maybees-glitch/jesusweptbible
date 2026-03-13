@@ -1,0 +1,78 @@
+{
+  "book": "Psalms",
+  "chapter": 133,
+  "chapterTheme": {
+    "twoWordSummary": "Brotherly Unity",
+    "themeWords": [
+      {
+        "word": "brethren",
+        "strongNumber": "H251",
+        "lemma": "ach",
+        "meaning": "brother; kinsman; fellow Israelite"
+      },
+      {
+        "word": "unity",
+        "strongNumber": "H3162",
+        "lemma": "yachad",
+        "meaning": "togetherness; union; in oneness"
+      }
+    ]
+  },
+  "sentenceTheme": "A song celebrating the goodness and blessing when brothers dwell together in unity under the LORD’s favor.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Behold, how good and how pleasant it is for brethren to dwell together in unity!",
+      "highlightedWords": [
+        {
+          "word": "brethren",
+          "strongNumber": "H251",
+          "lemma": "ach",
+          "meaning": "brothers; kinsmen; compatriots"
+        },
+        {
+          "word": "unity",
+          "strongNumber": "H3162",
+          "lemma": "yachad",
+          "meaning": "togetherness; union; in oneness"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "It is like the precious ointment upon the head, that ran down upon the beard, even Aaron's beard: that went down to the skirts of his garments;",
+      "highlightedWords": [
+        {
+          "word": "ointment",
+          "strongNumber": "H8081",
+          "lemma": "shemen",
+          "meaning": "oil; anointing oil; richly perfumed oil"
+        },
+        {
+          "word": "Aaron's",
+          "strongNumber": "H175",
+          "lemma": "Aharon",
+          "meaning": "Aaron; brother of Moses and Israel’s first high priest"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "As the dew of Hermon, and as the dew that descended upon the mountains of Zion: for there the LORD commanded the blessing, even life for evermore.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the personal name of Israel’s God (YHWH)"
+        },
+        {
+          "word": "blessing",
+          "strongNumber": "H1293",
+          "lemma": "berakah",
+          "meaning": "blessing; benediction; prosperity bestowed"
+        }
+      ]
+    }
+  ]
+}

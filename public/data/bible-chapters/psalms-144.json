@@ -1,0 +1,294 @@
+{
+  "book": "Psalms",
+  "chapter": 144,
+  "chapterTheme": {
+    "twoWordSummary": "Divine Deliverance",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "Yehovah",
+        "meaning": "the proper name of the God of Israel"
+      },
+      {
+        "word": "deliver",
+        "strongNumber": "H5337",
+        "lemma": "natsal",
+        "meaning": "to snatch away, rescue, deliver"
+      }
+    ]
+  },
+  "sentenceTheme": "David blesses the LORD who trains him for battle, pleads for deliverance from foreign oppressors, and envisions a flourishing, happy people under God’s favor.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Blessed be the LORD my strength, which teacheth my hands to war, and my fingers to fight:",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel"
+        },
+        {
+          "word": "war",
+          "strongNumber": "H4421",
+          "lemma": "milchamah",
+          "meaning": "battle, war"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "My goodness, and my fortress; my high tower, and my deliverer; my shield, and he in whom I trust; who subdueth my people under me.",
+      "highlightedWords": [
+        {
+          "word": "fortress",
+          "strongNumber": "H4686",
+          "lemma": "metsudah",
+          "meaning": "mountain stronghold, fortress"
+        },
+        {
+          "word": "shield",
+          "strongNumber": "H4043",
+          "lemma": "magen",
+          "meaning": "shield, buckler"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "LORD, what is man, that thou takest knowledge of him! or the son of man, that thou makest account of him!",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel"
+        },
+        {
+          "word": "man",
+          "strongNumber": "H582",
+          "lemma": "enosh",
+          "meaning": "man, mortal, humanity"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Man is like to vanity: his days are as a shadow that passeth away.",
+      "highlightedWords": [
+        {
+          "word": "vanity",
+          "strongNumber": "H1892",
+          "lemma": "hebel",
+          "meaning": "vapor, breath, emptiness, vanity"
+        },
+        {
+          "word": "shadow",
+          "strongNumber": "H6738",
+          "lemma": "tsel",
+          "meaning": "shadow, shade"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Bow thy heavens, O LORD, and come down: touch the mountains, and they shall smoke.",
+      "highlightedWords": [
+        {
+          "word": "heavens",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens, sky"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Cast forth lightning, and scatter them: shoot out thine arrows, and destroy them.",
+      "highlightedWords": [
+        {
+          "word": "lightning",
+          "strongNumber": "H1300",
+          "lemma": "baraq",
+          "meaning": "lightning, flash"
+        },
+        {
+          "word": "arrows",
+          "strongNumber": "H2671",
+          "lemma": "chets",
+          "meaning": "arrow"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Send thine hand from above; rid me, and deliver me out of great waters, from the hand of strange children;",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        },
+        {
+          "word": "deliver",
+          "strongNumber": "H5337",
+          "lemma": "natsal",
+          "meaning": "to snatch away, rescue, deliver"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Whose mouth speaketh vanity, and their right hand is a right hand of falsehood.",
+      "highlightedWords": [
+        {
+          "word": "mouth",
+          "strongNumber": "H6310",
+          "lemma": "peh",
+          "meaning": "mouth, speech"
+        },
+        {
+          "word": "falsehood",
+          "strongNumber": "H8267",
+          "lemma": "sheqer",
+          "meaning": "deception, lie, falsehood"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "I will sing a new song unto thee, O God: upon a psaltery and an instrument of ten strings will I sing praises unto thee.",
+      "highlightedWords": [
+        {
+          "word": "new",
+          "strongNumber": "H2319",
+          "lemma": "chadash",
+          "meaning": "new, fresh"
+        },
+        {
+          "word": "psaltery",
+          "strongNumber": "H5035",
+          "lemma": "nebel",
+          "meaning": "a stringed instrument, psaltery/lyre"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "It is he that giveth salvation unto kings: who delivereth David his servant from the hurtful sword.",
+      "highlightedWords": [
+        {
+          "word": "salvation",
+          "strongNumber": "H8668",
+          "lemma": "teshuah",
+          "meaning": "deliverance, salvation, victory"
+        },
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Rid me, and deliver me from the hand of strange children, whose mouth speaketh vanity, and their right hand is a right hand of falsehood:",
+      "highlightedWords": [
+        {
+          "word": "deliver",
+          "strongNumber": "H5337",
+          "lemma": "natsal",
+          "meaning": "to snatch away, rescue, deliver"
+        },
+        {
+          "word": "strange",
+          "strongNumber": "H5237",
+          "lemma": "nokri",
+          "meaning": "foreign, alien, strange"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "That our sons may be as plants grown up in their youth; that our daughters may be as corner stones, polished after the similitude of a palace:",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, descendant"
+        },
+        {
+          "word": "daughters",
+          "strongNumber": "H1323",
+          "lemma": "bath",
+          "meaning": "daughter, girl"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "That our garners may be full, affording all manner of store: that our sheep may bring forth thousands and ten thousands in our streets:",
+      "highlightedWords": [
+        {
+          "word": "sheep",
+          "strongNumber": "H6629",
+          "lemma": "tson",
+          "meaning": "flock, sheep, small livestock"
+        },
+        {
+          "word": "thousands",
+          "strongNumber": "H505",
+          "lemma": "eleph",
+          "meaning": "a thousand"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "That our oxen may be strong to labour; that there be no breaking in, nor going out; that there be no complaining in our streets.",
+      "highlightedWords": [
+        {
+          "word": "oxen",
+          "strongNumber": "H1241",
+          "lemma": "bakar",
+          "meaning": "cattle, oxen, herd"
+        },
+        {
+          "word": "streets",
+          "strongNumber": "H7339",
+          "lemma": "rechov",
+          "meaning": "broad place, open square, street"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Happy is that people, that is in such a case: yea, happy is that people, whose God is the LORD.",
+      "highlightedWords": [
+        {
+          "word": "Happy",
+          "strongNumber": "H835",
+          "lemma": "esher",
+          "meaning": "happiness, blessedness; happy, blessed"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    }
+  ]
+}

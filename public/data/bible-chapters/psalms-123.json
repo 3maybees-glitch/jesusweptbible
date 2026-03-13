@@ -1,0 +1,96 @@
+{
+  "book": "Psalms",
+  "chapter": 123,
+  "chapterTheme": {
+    "twoWordSummary": "Pleading Mercy",
+    "themeWords": [
+      {
+        "word": "mercy",
+        "strongNumber": "H2603",
+        "lemma": "chanan",
+        "meaning": "to be gracious, show favor, have mercy"
+      },
+      {
+        "word": "eyes",
+        "strongNumber": "H5869",
+        "lemma": "ayin",
+        "meaning": "eye; eyesight; appearance"
+      }
+    ]
+  },
+  "sentenceTheme": "The psalmist lifts his eyes to the Lord, pleading for mercy amid scorn and contempt from the proud.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Unto thee lift I up mine eyes, O thou that dwellest in the heavens.",
+      "highlightedWords": [
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "ayin",
+          "meaning": "eye; eyesight; appearance"
+        },
+        {
+          "word": "heavens",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens, sky, abode of the stars"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Behold, as the eyes of servants look unto the hand of their masters, and as the eyes of a maiden unto the hand of her mistress; so our eyes wait upon the LORD our God, until that he have mercy upon us.",
+      "highlightedWords": [
+        {
+          "word": "servants",
+          "strongNumber": "H5650",
+          "lemma": "ʿebed",
+          "meaning": "servant, slave, bondman"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Have mercy upon us, O LORD, have mercy upon us: for we are exceedingly filled with contempt.",
+      "highlightedWords": [
+        {
+          "word": "mercy",
+          "strongNumber": "H2603",
+          "lemma": "chanan",
+          "meaning": "to be gracious, show favor, have mercy"
+        },
+        {
+          "word": "contempt",
+          "strongNumber": "H937",
+          "lemma": "buz",
+          "meaning": "contempt, scorn, despising"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Our soul is exceedingly filled with the scorning of those that are at ease, and with the contempt of the proud.",
+      "highlightedWords": [
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, self, person"
+        },
+        {
+          "word": "proud",
+          "strongNumber": "H2086",
+          "lemma": "zed",
+          "meaning": "insolent, presumptuous, arrogant"
+        }
+      ]
+    }
+  ]
+}

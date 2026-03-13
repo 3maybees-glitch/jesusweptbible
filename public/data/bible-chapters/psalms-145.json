@@ -1,0 +1,402 @@
+{
+  "book": "Psalms",
+  "chapter": 145,
+  "chapterTheme": {
+    "twoWordSummary": "Praise Kingship",
+    "themeWords": [
+      {
+        "word": "praise",
+        "strongNumber": "H8416",
+        "lemma": "tehillah",
+        "meaning": "praise, song of praise"
+      },
+      {
+        "word": "kingdom",
+        "strongNumber": "H4438",
+        "lemma": "malkuth",
+        "meaning": "kingdom, reign"
+      }
+    ]
+  },
+  "sentenceTheme": "David exalts the LORD’s greatness and goodness, calling all creation to praise His everlasting kingship and faithful care.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "I will extol thee, my God, O king; and I will bless thy name for ever and ever.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’elohim",
+          "meaning": "God; the true God"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Every day will I bless thee; and I will praise thy name for ever and ever.",
+      "highlightedWords": [
+        {
+          "word": "bless",
+          "strongNumber": "H1288",
+          "lemma": "barak",
+          "meaning": "to bless, praise"
+        },
+        {
+          "word": "praise",
+          "strongNumber": "H1984",
+          "lemma": "halal",
+          "meaning": "to praise, boast"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Great is the LORD, and greatly to be praised; and his greatness is unsearchable.",
+      "highlightedWords": [
+        {
+          "word": "Great",
+          "strongNumber": "H1419",
+          "lemma": "gadol",
+          "meaning": "great, large, important"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God, the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "One generation shall praise thy works to another, and shall declare thy mighty acts.",
+      "highlightedWords": [
+        {
+          "word": "generation",
+          "strongNumber": "H1755",
+          "lemma": "dor",
+          "meaning": "generation, age"
+        },
+        {
+          "word": "works",
+          "strongNumber": "H4639",
+          "lemma": "ma'aseh",
+          "meaning": "work, deed, act"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "I will speak of the glorious honour of thy majesty, and of thy wondrous works.",
+      "highlightedWords": [
+        {
+          "word": "majesty",
+          "strongNumber": "H1935",
+          "lemma": "hod",
+          "meaning": "majesty, splendor"
+        },
+        {
+          "word": "works",
+          "strongNumber": "H4639",
+          "lemma": "ma'aseh",
+          "meaning": "work, deed, act"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And men shall speak of the might of thy terrible acts: and I will declare thy greatness.",
+      "highlightedWords": [
+        {
+          "word": "might",
+          "strongNumber": "H1369",
+          "lemma": "geburah",
+          "meaning": "might, strength, power"
+        },
+        {
+          "word": "greatness",
+          "strongNumber": "H1420",
+          "lemma": "gedullah",
+          "meaning": "greatness, magnitude"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "They shall abundantly utter the memory of thy great goodness, and shall sing of thy righteousness.",
+      "highlightedWords": [
+        {
+          "word": "great",
+          "strongNumber": "H1419",
+          "lemma": "gadol",
+          "meaning": "great, large, important"
+        },
+        {
+          "word": "goodness",
+          "strongNumber": "H2898",
+          "lemma": "tuwb",
+          "meaning": "goodness, bounty"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "The LORD is gracious, and full of compassion; slow to anger, and of great mercy.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God, the LORD"
+        },
+        {
+          "word": "gracious",
+          "strongNumber": "H2587",
+          "lemma": "channun",
+          "meaning": "gracious, favor-showing"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "The LORD is good to all: and his tender mercies are over all his works.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God, the LORD"
+        },
+        {
+          "word": "good",
+          "strongNumber": "H2896",
+          "lemma": "tov",
+          "meaning": "good, beneficial"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "All thy works shall praise thee, O LORD; and thy saints shall bless thee.",
+      "highlightedWords": [
+        {
+          "word": "works",
+          "strongNumber": "H4639",
+          "lemma": "ma'aseh",
+          "meaning": "work, deed, act"
+        },
+        {
+          "word": "saints",
+          "strongNumber": "H2623",
+          "lemma": "chasid",
+          "meaning": "faithful, godly one"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "They shall speak of the glory of thy kingdom, and talk of thy power;",
+      "highlightedWords": [
+        {
+          "word": "glory",
+          "strongNumber": "H3519",
+          "lemma": "kabod",
+          "meaning": "glory, honor, weight"
+        },
+        {
+          "word": "kingdom",
+          "strongNumber": "H4438",
+          "lemma": "malkuth",
+          "meaning": "kingdom, reign"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "To make known to the sons of men his mighty acts, and the glorious majesty of his kingdom.",
+      "highlightedWords": [
+        {
+          "word": "mighty",
+          "strongNumber": "H1369",
+          "lemma": "geburah",
+          "meaning": "might, strength, power"
+        },
+        {
+          "word": "kingdom",
+          "strongNumber": "H4438",
+          "lemma": "malkuth",
+          "meaning": "kingdom, reign"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Thy kingdom is an everlasting kingdom, and thy dominion endureth throughout all generations.",
+      "highlightedWords": [
+        {
+          "word": "kingdom",
+          "strongNumber": "H4438",
+          "lemma": "malkuth",
+          "meaning": "kingdom, reign"
+        },
+        {
+          "word": "dominion",
+          "strongNumber": "H4475",
+          "lemma": "memshalah",
+          "meaning": "dominion, rule, sovereignty"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "The LORD upholdeth all that fall, and raiseth up all those that be bowed down.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God, the LORD"
+        },
+        {
+          "word": "upholdeth",
+          "strongNumber": "H5564",
+          "lemma": "samak",
+          "meaning": "to support, uphold"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "The eyes of all wait upon thee; and thou givest them their meat in due season.",
+      "highlightedWords": [
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "ayin",
+          "meaning": "eye"
+        },
+        {
+          "word": "season",
+          "strongNumber": "H6256",
+          "lemma": "‘eth",
+          "meaning": "appointed time, season"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Thou openest thine hand, and satisfiest the desire of every living thing.",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand"
+        },
+        {
+          "word": "living",
+          "strongNumber": "H2416",
+          "lemma": "chay",
+          "meaning": "living, alive"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "The LORD is righteous in all his ways, and holy in all his works.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God, the LORD"
+        },
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "The LORD is nigh unto all them that call upon him, to all that call upon him in truth.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God, the LORD"
+        },
+        {
+          "word": "truth",
+          "strongNumber": "H571",
+          "lemma": "’emet",
+          "meaning": "truth, faithfulness"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "He will fulfil the desire of them that fear him: he also will hear their cry, and will save them.",
+      "highlightedWords": [
+        {
+          "word": "fear",
+          "strongNumber": "H3373",
+          "lemma": "yare'",
+          "meaning": "fearful, reverent (one who fears)"
+        },
+        {
+          "word": "save",
+          "strongNumber": "H3467",
+          "lemma": "yasha'",
+          "meaning": "to save, deliver"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "The LORD preserveth all them that love him: but all the wicked will he destroy.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God, the LORD"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha'",
+          "meaning": "wicked, guilty, criminal"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "My mouth shall speak the praise of the LORD: and let all flesh bless his holy name for ever and ever.",
+      "highlightedWords": [
+        {
+          "word": "praise",
+          "strongNumber": "H8416",
+          "lemma": "tehillah",
+          "meaning": "praise, song of praise"
+        },
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "name, reputation"
+        }
+      ]
+    }
+  ]
+}

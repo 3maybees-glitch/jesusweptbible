@@ -1,0 +1,186 @@
+{
+  "book": "Psalms",
+  "chapter": 137,
+  "chapterTheme": {
+    "twoWordSummary": "Exile Lament",
+    "themeWords": [
+      {
+        "word": "Babylon",
+        "strongNumber": "H894",
+        "lemma": "Babel",
+        "meaning": "Babylon; 'confusion'; capital of Babylonia"
+      },
+      {
+        "word": "Zion",
+        "strongNumber": "H6726",
+        "lemma": "Tsiyyon",
+        "meaning": "Zion; the hill/city in Jerusalem; figuratively God's people"
+      }
+    ]
+  },
+  "sentenceTheme": "Exiled Israelites mourn by Babylon’s rivers, pledge never to forget Jerusalem, and call upon the LORD for just recompense against their oppressors.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "By the rivers of Babylon, there we sat down, yea, we wept, when we remembered Zion.",
+      "highlightedWords": [
+        {
+          "word": "Babylon",
+          "strongNumber": "H894",
+          "lemma": "Babel",
+          "meaning": "Babylon; 'confusion'; capital of Babylonia"
+        },
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyyon",
+          "meaning": "Zion; the hill/city in Jerusalem; figuratively God's people"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "We hanged our harps upon the willows in the midst thereof.",
+      "highlightedWords": [
+        {
+          "word": "harps",
+          "strongNumber": "H3658",
+          "lemma": "kinnor",
+          "meaning": "Lyre/harp, a stringed instrument"
+        },
+        {
+          "word": "willows",
+          "strongNumber": "H6155",
+          "lemma": "aravim",
+          "meaning": "Willow trees"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "For there they that carried us away captive required of us a song; and they that wasted us required of us mirth, saying, Sing us one of the songs of Zion.",
+      "highlightedWords": [
+        {
+          "word": "song",
+          "strongNumber": "H7892",
+          "lemma": "shir",
+          "meaning": "Song, music, praise"
+        },
+        {
+          "word": "mirth",
+          "strongNumber": "H8057",
+          "lemma": "simchah",
+          "meaning": "Joy, gladness, mirth"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "How shall we sing the LORD'S song in a strange land?",
+      "highlightedWords": [
+        {
+          "word": "LORD'S",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The personal name of Israel’s God; the LORD"
+        },
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "eretz",
+          "meaning": "Land, earth, territory"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "If I forget thee, O Jerusalem, let my right hand forget her cunning.",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem, the holy city"
+        },
+        {
+          "word": "forget",
+          "strongNumber": "H7911",
+          "lemma": "shakach",
+          "meaning": "To forget, ignore"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "If I do not remember thee, let my tongue cleave to the roof of my mouth; if I prefer not Jerusalem above my chief joy.",
+      "highlightedWords": [
+        {
+          "word": "tongue",
+          "strongNumber": "H3956",
+          "lemma": "lashon",
+          "meaning": "Tongue; language; speech"
+        },
+        {
+          "word": "roof",
+          "strongNumber": "H2441",
+          "lemma": "chek",
+          "meaning": "Palate; roof of the mouth"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Remember, O LORD, the children of Edom in the day of Jerusalem; who said, Rase it, rase it, even to the foundation thereof.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The personal name of Israel’s God; the LORD"
+        },
+        {
+          "word": "Edom",
+          "strongNumber": "H123",
+          "lemma": "Edom",
+          "meaning": "Edom; descendants of Esau; 'red'"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "O daughter of Babylon, who art to be destroyed; happy shall he be, that rewardeth thee as thou hast served us.",
+      "highlightedWords": [
+        {
+          "word": "Babylon",
+          "strongNumber": "H894",
+          "lemma": "Babel",
+          "meaning": "Babylon; 'confusion'; capital of Babylonia"
+        },
+        {
+          "word": "happy",
+          "strongNumber": "H835",
+          "lemma": "esher",
+          "meaning": "Happiness, blessedness"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Happy shall he be, that taketh and dasheth thy little ones against the stones.",
+      "highlightedWords": [
+        {
+          "word": "little ones",
+          "strongNumber": "H5768",
+          "lemma": "olel",
+          "meaning": "Infant, little child"
+        },
+        {
+          "word": "stones",
+          "strongNumber": "H68",
+          "lemma": "eben",
+          "meaning": "Stone, rock"
+        }
+      ]
+    }
+  ]
+}

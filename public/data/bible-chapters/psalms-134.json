@@ -1,0 +1,78 @@
+{
+  "book": "Psalms",
+  "chapter": 134,
+  "chapterTheme": {
+    "twoWordSummary": "Night Blessing",
+    "themeWords": [
+      {
+        "word": "bless",
+        "strongNumber": "H1288",
+        "lemma": "barak",
+        "meaning": "to bless; to praise"
+      },
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH",
+        "meaning": "the personal name of Israel’s God"
+      }
+    ]
+  },
+  "sentenceTheme": "A call for the servants of the LORD to bless Him through the night, with a benediction from Zion by the Maker of heaven and earth.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Behold, bless ye the LORD, all ye servants of the LORD, which by night stand in the house of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "bless",
+          "strongNumber": "H1288",
+          "lemma": "barak",
+          "meaning": "to bless; to praise"
+        },
+        {
+          "word": "servants",
+          "strongNumber": "H5650",
+          "lemma": "ebed",
+          "meaning": "servant; bondservant"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Lift up your hands in the sanctuary, and bless the LORD.",
+      "highlightedWords": [
+        {
+          "word": "hands",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand; power"
+        },
+        {
+          "word": "sanctuary",
+          "strongNumber": "H6944",
+          "lemma": "qodesh",
+          "meaning": "holiness; holy place; sanctuary"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "The LORD that made heaven and earth bless thee out of Zion.",
+      "highlightedWords": [
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens; sky"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "earth; land"
+        }
+      ]
+    }
+  ]
+}

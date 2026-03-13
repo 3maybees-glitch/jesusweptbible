@@ -1,0 +1,168 @@
+{
+  "book": "Psalms",
+  "chapter": 130,
+  "chapterTheme": {
+    "twoWordSummary": "Waiting Redemption",
+    "themeWords": [
+      {
+        "word": "wait",
+        "strongNumber": "H6960",
+        "lemma": "qavah",
+        "meaning": "to wait for, to look eagerly, to hope"
+      },
+      {
+        "word": "redemption",
+        "strongNumber": "H6304",
+        "lemma": "peduth",
+        "meaning": "ransom, deliverance, redemption"
+      }
+    ]
+  },
+  "sentenceTheme": "From the depths the psalmist cries to the LORD, waiting in hope for His forgiving mercy and abundant redemption.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Out of the depths have I cried unto thee, O LORD.",
+      "highlightedWords": [
+        {
+          "word": "depths",
+          "strongNumber": "H4615",
+          "lemma": "ma'amaq",
+          "meaning": "deep places; depths"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the divine name, the LORD (Yahweh)"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Lord, hear my voice: let thine ears be attentive to the voice of my supplications.",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "H136",
+          "lemma": "Adonai",
+          "meaning": "Lord, Master; a title of God"
+        },
+        {
+          "word": "supplications",
+          "strongNumber": "H8469",
+          "lemma": "tachanun",
+          "meaning": "supplication, earnest plea for mercy"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "If thou, LORD, shouldest mark iniquities, O Lord, who shall stand?",
+      "highlightedWords": [
+        {
+          "word": "mark",
+          "strongNumber": "H8104",
+          "lemma": "shamar",
+          "meaning": "to keep, watch, guard; to take account of"
+        },
+        {
+          "word": "iniquities",
+          "strongNumber": "H5771",
+          "lemma": "avon",
+          "meaning": "iniquity, guilt, wickedness"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "But there is forgiveness with thee, that thou mayest be feared.",
+      "highlightedWords": [
+        {
+          "word": "forgiveness",
+          "strongNumber": "H5547",
+          "lemma": "selichah",
+          "meaning": "pardon, forgiveness"
+        },
+        {
+          "word": "feared",
+          "strongNumber": "H3372",
+          "lemma": "yare",
+          "meaning": "to fear, revere, stand in awe"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "I wait for the LORD, my soul doth wait, and in his word do I hope.",
+      "highlightedWords": [
+        {
+          "word": "wait",
+          "strongNumber": "H6960",
+          "lemma": "qavah",
+          "meaning": "to wait for, look eagerly, hope"
+        },
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, speech, matter"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "My soul waiteth for the Lord more than they that watch for the morning: I say, more than they that watch for the morning.",
+      "highlightedWords": [
+        {
+          "word": "watch",
+          "strongNumber": "H8104",
+          "lemma": "shamar",
+          "meaning": "to keep, guard, watch"
+        },
+        {
+          "word": "morning",
+          "strongNumber": "H1242",
+          "lemma": "boqer",
+          "meaning": "morning, dawn"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Let Israel hope in the LORD: for with the LORD there is mercy, and with him is plenteous redemption.",
+      "highlightedWords": [
+        {
+          "word": "mercy",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "steadfast love, kindness, mercy"
+        },
+        {
+          "word": "redemption",
+          "strongNumber": "H6304",
+          "lemma": "peduth",
+          "meaning": "ransom, deliverance, redemption"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And he shall redeem Israel from all his iniquities.",
+      "highlightedWords": [
+        {
+          "word": "redeem",
+          "strongNumber": "H6299",
+          "lemma": "padah",
+          "meaning": "to ransom, redeem, rescue"
+        },
+        {
+          "word": "iniquities",
+          "strongNumber": "H5771",
+          "lemma": "avon",
+          "meaning": "iniquity, guilt, wickedness"
+        }
+      ]
+    }
+  ]
+}

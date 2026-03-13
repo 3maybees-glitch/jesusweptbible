@@ -1,0 +1,186 @@
+{
+  "book": "Psalms",
+  "chapter": 149,
+  "chapterTheme": {
+    "twoWordSummary": "Victorious Praise",
+    "themeWords": [
+      {
+        "word": "praise",
+        "strongNumber": "H1984",
+        "lemma": "halal",
+        "meaning": "to praise, boast, celebrate"
+      },
+      {
+        "word": "judgment",
+        "strongNumber": "H4941",
+        "lemma": "mishpat",
+        "meaning": "judgment, justice, legal decision"
+      }
+    ]
+  },
+  "sentenceTheme": "God’s saints joyfully praise Him and execute His righteous judgments over the nations.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Praise ye the LORD. Sing unto the LORD a new song, and his praise in the congregation of saints.",
+      "highlightedWords": [
+        {
+          "word": "Praise",
+          "strongNumber": "H1984",
+          "lemma": "halal",
+          "meaning": "to praise, boast, celebrate"
+        },
+        {
+          "word": "saints",
+          "strongNumber": "H2623",
+          "lemma": "chasid",
+          "meaning": "faithful, godly one; pious person"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Let Israel rejoice in him that made him: let the children of Zion be joyful in their King.",
+      "highlightedWords": [
+        {
+          "word": "rejoice",
+          "strongNumber": "H8055",
+          "lemma": "samach",
+          "meaning": "to rejoice, be glad"
+        },
+        {
+          "word": "King",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Let them praise his name in the dance: let them sing praises unto him with the timbrel and harp.",
+      "highlightedWords": [
+        {
+          "word": "dance",
+          "strongNumber": "H4234",
+          "lemma": "machol",
+          "meaning": "dance, round dance"
+        },
+        {
+          "word": "harp",
+          "strongNumber": "H3658",
+          "lemma": "kinnor",
+          "meaning": "harp, lyre"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "For the LORD taketh pleasure in his people: he will beautify the meek with salvation.",
+      "highlightedWords": [
+        {
+          "word": "meek",
+          "strongNumber": "H6035",
+          "lemma": "anaw",
+          "meaning": "humble, meek, lowly"
+        },
+        {
+          "word": "salvation",
+          "strongNumber": "H3444",
+          "lemma": "yeshuah",
+          "meaning": "salvation, deliverance, victory"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Let the saints be joyful in glory: let them sing aloud upon their beds.",
+      "highlightedWords": [
+        {
+          "word": "glory",
+          "strongNumber": "H3519",
+          "lemma": "kabod",
+          "meaning": "glory, honor, weight"
+        },
+        {
+          "word": "beds",
+          "strongNumber": "H4904",
+          "lemma": "mishkab",
+          "meaning": "bed, couch, place of lying down"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Let the high praises of God be in their mouth, and a twoedged sword in their hand;",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H410",
+          "lemma": "El",
+          "meaning": "God, mighty one"
+        },
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword, dagger"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "To execute vengeance upon the heathen, and punishments upon the people;",
+      "highlightedWords": [
+        {
+          "word": "vengeance",
+          "strongNumber": "H5359",
+          "lemma": "naqamah",
+          "meaning": "vengeance, revenge, retribution"
+        },
+        {
+          "word": "heathen",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation, Gentile, people"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "To bind their kings with chains, and their nobles with fetters of iron;",
+      "highlightedWords": [
+        {
+          "word": "kings",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        },
+        {
+          "word": "iron",
+          "strongNumber": "H1270",
+          "lemma": "barzel",
+          "meaning": "iron"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "To execute upon them the judgment written: this honour have all his saints. Praise ye the LORD.",
+      "highlightedWords": [
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "judgment, justice, legal decision"
+        },
+        {
+          "word": "saints",
+          "strongNumber": "H2623",
+          "lemma": "chasid",
+          "meaning": "faithful, godly one; pious person"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "book": "Psalms",
+  "chapter": 124,
+  "chapterTheme": {
+    "twoWordSummary": "Divine Deliverance",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "Yehovah",
+        "meaning": "The personal name of Israel’s God; the LORD."
+      },
+      {
+        "word": "help",
+        "strongNumber": "H5828",
+        "lemma": "ezer",
+        "meaning": "Help, aid, support."
+      }
+    ]
+  },
+  "sentenceTheme": "Israel testifies that the LORD defended them from overwhelming enemies; our help is in His name.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "If it had not been the LORD who was on our side, now may Israel say;",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "The personal name of Israel’s God; the LORD."
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; the name of Jacob and the nation descended from him."
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "If it had not been the LORD who was on our side, when men rose up against us:",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "The personal name of Israel’s God; the LORD."
+        },
+        {
+          "word": "men",
+          "strongNumber": "H120",
+          "lemma": "adam",
+          "meaning": "Man, mankind, humans collectively."
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Then they had swallowed us up quick, when their wrath was kindled against us:",
+      "highlightedWords": [
+        {
+          "word": "swallowed",
+          "strongNumber": "H1104",
+          "lemma": "bala‘",
+          "meaning": "To swallow up, engulf, consume."
+        },
+        {
+          "word": "wrath",
+          "strongNumber": "H639",
+          "lemma": "aph",
+          "meaning": "Anger, wrath (lit. nose, nostrils as a figure for anger)."
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Then the waters had overwhelmed us, the stream had gone over our soul:",
+      "highlightedWords": [
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "Waters, floods."
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "Soul, life, person, self."
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Then the proud waters had gone over our soul.",
+      "highlightedWords": [
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "Waters, floods."
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "Soul, life, person, self."
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Blessed be the LORD, who hath not given us as a prey to their teeth.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "The personal name of Israel’s God; the LORD."
+        },
+        {
+          "word": "prey",
+          "strongNumber": "H2964",
+          "lemma": "teref",
+          "meaning": "Prey, torn meat; that which is seized by a predator."
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Our soul is escaped as a bird out of the snare of the fowlers: the snare is broken, and we are escaped.",
+      "highlightedWords": [
+        {
+          "word": "snare",
+          "strongNumber": "H6341",
+          "lemma": "pach",
+          "meaning": "A snare or trap, especially for birds."
+        },
+        {
+          "word": "escaped",
+          "strongNumber": "H4422",
+          "lemma": "malat",
+          "meaning": "To escape, slip away, be delivered."
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Our help is in the name of the LORD, who made heaven and earth.",
+      "highlightedWords": [
+        {
+          "word": "help",
+          "strongNumber": "H5828",
+          "lemma": "ezer",
+          "meaning": "Help, aid, support."
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "The personal name of Israel’s God; the LORD."
+        }
+      ]
+    }
+  ]
+}
