@@ -369,6 +369,7 @@ import { twoChroniclesChapter14 } from './2-chronicles-14'
 import { twoChroniclesChapter15 } from './2-chronicles-15'
 import { twoChroniclesChapter16 } from './2-chronicles-16'
 import { twoChroniclesChapter17 } from './2-chronicles-17'
+import { twoChroniclesChapter18 } from './2-chronicles-18'
 import { kingsChapter7 } from './1-kings-7'
 import { markChapters18 } from './mark-1-8'
 import { markChapters916 } from './mark-9-16'
@@ -3149,7 +3150,7 @@ export const sampleChapters: Record<string, Chapter> = {
         verse: 30,
         text: "And if thy right hand offend thee, cut it off, and cast it from thee: for it is profitable for thee that one of thy members should perish, and not that thy whole body should be cast into hell.",
         highlightedWords: [
-          { word: "offend", strongNumber: "G4624", language: "Greek", lemma: "skandalizō", meaning: "to offend, cause to stumble" },
+          { word: "offend", strongNumber: "G4624", language: "Greek", lemma: "skandaliz��", meaning: "to offend, cause to stumble" },
           { word: "hell", strongNumber: "G1067", language: "Greek", lemma: "geenna", meaning: "hell, place of torment" },
         ],
       },
@@ -4695,6 +4696,7 @@ export const sampleChapters: Record<string, Chapter> = {
   ...twoChroniclesChapter15,
   ...twoChroniclesChapter16,
   ...twoChroniclesChapter17,
+  ...twoChroniclesChapter18,
 }
 
 export function getChapter(book: string, chapter: number): Chapter | null {
