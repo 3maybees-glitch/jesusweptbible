@@ -209,18 +209,6 @@ import { judgesChapter5 } from './judges-5'
 import { judgesChapter6 } from './judges-6'
 import { judgesChapter7 } from './judges-7'
 import { judgesChapter8 } from './judges-8'
-import { judgesChapter9 } from './judges-9'
-import { judgesChapter10 } from './judges-10'
-import { judgesChapter11 } from './judges-11'
-import { judgesChapter12 } from './judges-12'
-import { judgesChapter13 } from './judges-13'
-import { judgesChapter14 } from './judges-14'
-import { judgesChapter15 } from './judges-15'
-import { judgesChapter16 } from './judges-16'
-import { judgesChapter17 } from './judges-17'
-import { judgesChapter18 } from './judges-18'
-import { judgesChapter19 } from './judges-19'
-import { judgesChapter20 } from './judges-20'
 import { ruthChapter1 } from './ruth-1'
 import { ruthChapter2 } from './ruth-2'
 import { ruthChapter3 } from './ruth-3'
@@ -4579,18 +4567,6 @@ export const sampleChapters: Record<string, Chapter> = {
   ...judgesChapter6,
   ...judgesChapter7,
   ...judgesChapter8,
-  ...judgesChapter9,
-  ...judgesChapter10,
-  ...judgesChapter11,
-  ...judgesChapter12,
-  ...judgesChapter13,
-  ...judgesChapter14,
-  ...judgesChapter15,
-  ...judgesChapter16,
-  ...judgesChapter17,
-  ...judgesChapter18,
-  ...judgesChapter19,
-  ...judgesChapter20,
   ...ruthChapter1,
   ...ruthChapter2,
   ...ruthChapter3,
