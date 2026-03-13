@@ -1,0 +1,438 @@
+{
+  "book": "Job",
+  "chapter": 27,
+  "chapterTheme": {
+    "twoWordSummary": "Steadfast Integrity",
+    "themeWords": [
+      {
+        "word": "integrity",
+        "strongNumber": "H8538",
+        "lemma": "tummah",
+        "meaning": "integrity, innocence, completeness"
+      },
+      {
+        "word": "wicked",
+        "strongNumber": "H7563",
+        "lemma": "rasha",
+        "meaning": "wicked, guilty, criminal"
+      }
+    ]
+  },
+  "sentenceTheme": "Job steadfastly maintains his integrity and teaches that the Almighty will judge the wicked.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Moreover Job continued his parable, and said,",
+      "highlightedWords": [
+        {
+          "word": "Job",
+          "strongNumber": "H347",
+          "lemma": "’Iyowb",
+          "meaning": "Job; a man of Uz; meaning possibly 'persecuted'"
+        },
+        {
+          "word": "parable",
+          "strongNumber": "H4912",
+          "lemma": "mashal",
+          "meaning": "proverb, parable, saying"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "As God liveth, who hath taken away my judgment; and the Almighty, who hath vexed my soul;",
+      "highlightedWords": [
+        {
+          "word": "Almighty",
+          "strongNumber": "H7706",
+          "lemma": "Shadday",
+          "meaning": "the Almighty; All-Powerful One"
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, self, person"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "All the while my breath is in me, and the spirit of God is in my nostrils;",
+      "highlightedWords": [
+        {
+          "word": "breath",
+          "strongNumber": "H5397",
+          "lemma": "neshamah",
+          "meaning": "breath, life-breath"
+        },
+        {
+          "word": "spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "spirit, wind, breath"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "My lips shall not speak wickedness, nor my tongue utter deceit.",
+      "highlightedWords": [
+        {
+          "word": "lips",
+          "strongNumber": "H8193",
+          "lemma": "saphah",
+          "meaning": "lip, speech, language"
+        },
+        {
+          "word": "tongue",
+          "strongNumber": "H3956",
+          "lemma": "lashon",
+          "meaning": "tongue, language, speech"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "God forbid that I should justify you: till I die I will not remove mine integrity from me.",
+      "highlightedWords": [
+        {
+          "word": "justify",
+          "strongNumber": "H6663",
+          "lemma": "tsadaq",
+          "meaning": "to declare righteous, justify"
+        },
+        {
+          "word": "integrity",
+          "strongNumber": "H8538",
+          "lemma": "tummah",
+          "meaning": "integrity, innocence, completeness"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "My righteousness I hold fast, and will not let it go: my heart shall not reproach me so long as I live.",
+      "highlightedWords": [
+        {
+          "word": "righteousness",
+          "strongNumber": "H6664",
+          "lemma": "tsedeq",
+          "meaning": "righteousness, justice, rightness"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner man, mind"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Let mine enemy be as the wicked, and he that riseth up against me as the unrighteous.",
+      "highlightedWords": [
+        {
+          "word": "enemy",
+          "strongNumber": "H341",
+          "lemma": "’oyev",
+          "meaning": "enemy, foe"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha",
+          "meaning": "wicked, guilty person"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "For what is the hope of the hypocrite, though he hath gained, when God taketh away his soul?",
+      "highlightedWords": [
+        {
+          "word": "hope",
+          "strongNumber": "H8615",
+          "lemma": "tiqvah",
+          "meaning": "hope, expectation"
+        },
+        {
+          "word": "hypocrite",
+          "strongNumber": "H2611",
+          "lemma": "chaneph",
+          "meaning": "godless, profane, hypocrite"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Will God hear his cry when trouble cometh upon him?",
+      "highlightedWords": [
+        {
+          "word": "hear",
+          "strongNumber": "H8085",
+          "lemma": "shama",
+          "meaning": "to hear, listen, obey"
+        },
+        {
+          "word": "trouble",
+          "strongNumber": "H6869",
+          "lemma": "tsarah",
+          "meaning": "distress, trouble, affliction"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Will he delight himself in the Almighty? will he always call upon God?",
+      "highlightedWords": [
+        {
+          "word": "Almighty",
+          "strongNumber": "H7706",
+          "lemma": "Shadday",
+          "meaning": "the Almighty; All-Powerful One"
+        },
+        {
+          "word": "call",
+          "strongNumber": "H7121",
+          "lemma": "qara",
+          "meaning": "to call, proclaim, cry out"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "I will teach you by the hand of God: that which is with the Almighty will I not conceal.",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        },
+        {
+          "word": "Almighty",
+          "strongNumber": "H7706",
+          "lemma": "Shadday",
+          "meaning": "the Almighty; All-Powerful One"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Behold, all ye yourselves have seen it; why then are ye thus altogether vain?",
+      "highlightedWords": [
+        {
+          "word": "seen",
+          "strongNumber": "H7200",
+          "lemma": "ra'ah",
+          "meaning": "to see, perceive"
+        },
+        {
+          "word": "vain",
+          "strongNumber": "H1892",
+          "lemma": "hebel",
+          "meaning": "vapor, vanity, emptiness"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "This is the portion of a wicked man with God, and the heritage of oppressors, which they shall receive of the Almighty.",
+      "highlightedWords": [
+        {
+          "word": "portion",
+          "strongNumber": "H2506",
+          "lemma": "cheleq",
+          "meaning": "portion, share"
+        },
+        {
+          "word": "heritage",
+          "strongNumber": "H5159",
+          "lemma": "nachalah",
+          "meaning": "inheritance, heritage"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "If his children be multiplied, it is for the sword: and his offspring shall not be satisfied with bread.",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child, descendant"
+        },
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Those that remain of him shall be buried in death: and his widows shall not weep.",
+      "highlightedWords": [
+        {
+          "word": "buried",
+          "strongNumber": "H6912",
+          "lemma": "qabar",
+          "meaning": "to bury"
+        },
+        {
+          "word": "widows",
+          "strongNumber": "H490",
+          "lemma": "almanah",
+          "meaning": "widow"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Though he heap up silver as the dust, and prepare raiment as the clay;",
+      "highlightedWords": [
+        {
+          "word": "silver",
+          "strongNumber": "H3701",
+          "lemma": "keseph",
+          "meaning": "silver, money"
+        },
+        {
+          "word": "raiment",
+          "strongNumber": "H8071",
+          "lemma": "simlah",
+          "meaning": "garment, raiment"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "He may prepare it, but the just shall put it on, and the innocent shall divide the silver.",
+      "highlightedWords": [
+        {
+          "word": "just",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just"
+        },
+        {
+          "word": "innocent",
+          "strongNumber": "H5355",
+          "lemma": "naqiy",
+          "meaning": "innocent, free from guilt"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "He buildeth his house as a moth, and as a booth that the keeper maketh.",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, household"
+        },
+        {
+          "word": "booth",
+          "strongNumber": "H5521",
+          "lemma": "sukkah",
+          "meaning": "booth, hut, shelter"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "The rich man shall lie down, but he shall not be gathered: he openeth his eyes, and he is not.",
+      "highlightedWords": [
+        {
+          "word": "rich",
+          "strongNumber": "H6223",
+          "lemma": "’ashir",
+          "meaning": "rich, wealthy"
+        },
+        {
+          "word": "lie down",
+          "strongNumber": "H7901",
+          "lemma": "shakab",
+          "meaning": "to lie down, rest"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Terrors take hold on him as waters, a tempest stealeth him away in the night.",
+      "highlightedWords": [
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters"
+        },
+        {
+          "word": "tempest",
+          "strongNumber": "H5591",
+          "lemma": "se'arah",
+          "meaning": "storm, tempest, whirlwind"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "The east wind carrieth him away, and he departeth: and as a storm hurleth him out of his place.",
+      "highlightedWords": [
+        {
+          "word": "east wind",
+          "strongNumber": "H6921",
+          "lemma": "qadim",
+          "meaning": "east wind"
+        },
+        {
+          "word": "place",
+          "strongNumber": "H4725",
+          "lemma": "maqom",
+          "meaning": "place, standing, location"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "For God shall cast upon him, and not spare: he would fain flee out of his hand.",
+      "highlightedWords": [
+        {
+          "word": "cast",
+          "strongNumber": "H7993",
+          "lemma": "shalak",
+          "meaning": "to cast, throw"
+        },
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Men shall clap their hands at him, and shall hiss him out of his place.",
+      "highlightedWords": [
+        {
+          "word": "clap",
+          "strongNumber": "H5606",
+          "lemma": "saphak",
+          "meaning": "to clap, strike together"
+        },
+        {
+          "word": "hiss",
+          "strongNumber": "H8319",
+          "lemma": "sharaq",
+          "meaning": "to hiss, whistle in scorn"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,600 @@
+{
+  "book": "1 Chronicles",
+  "chapter": 23,
+  "chapterTheme": {
+    "twoWordSummary": "Levite Organization",
+    "themeWords": [
+      {
+        "word": "Levites",
+        "strongNumber": "H3881",
+        "lemma": "Leviyiy",
+        "meaning": "members of the tribe of Levi; Levitical descendants"
+      },
+      {
+        "word": "Service",
+        "strongNumber": "H5656",
+        "lemma": "ʿabodah",
+        "meaning": "service, work, ministry performed for the sanctuary"
+      }
+    ]
+  },
+  "sentenceTheme": "David appoints Solomon king and organizes the Levites by families and duties for the continual service of the LORD.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "So when David was old and full of days, he made Solomon his son king over Israel.",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dawid",
+          "meaning": "David; beloved"
+        },
+        {
+          "word": "Solomon",
+          "strongNumber": "H8010",
+          "lemma": "Shelomoh",
+          "meaning": "Solomon; peaceful"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And he gathered together all the princes of Israel, with the priests and the Levites.",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest, Levitical priest"
+        },
+        {
+          "word": "Levites",
+          "strongNumber": "H3881",
+          "lemma": "Leviyiy",
+          "meaning": "Levites; descendants of Levi"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Now the Levites were numbered from the age of thirty years and upward: and their number by their polls, man by man, was thirty and eight thousand.",
+      "highlightedWords": [
+        {
+          "word": "Levites",
+          "strongNumber": "H3881",
+          "lemma": "Leviyiy",
+          "meaning": "Levites; descendants of Levi"
+        },
+        {
+          "word": "polls",
+          "strongNumber": "H1538",
+          "lemma": "gulgoleth",
+          "meaning": "head, poll; headcount"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Of which, twenty and four thousand were to set forward the work of the house of the LORD; and six thousand were officers and judges:",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayit",
+          "meaning": "house, temple"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Moreover four thousand were porters; and four thousand praised the LORD with the instruments which I made, said David, to praise therewith.",
+      "highlightedWords": [
+        {
+          "word": "porters",
+          "strongNumber": "H7778",
+          "lemma": "shoʿer",
+          "meaning": "gatekeeper, doorkeeper"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And David divided them into courses among the sons of Levi, namely, Gershon, Kohath, and Merari.",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dawid",
+          "meaning": "David; beloved"
+        },
+        {
+          "word": "Levi",
+          "strongNumber": "H3878",
+          "lemma": "Levi",
+          "meaning": "Levi; joined; eponymous ancestor of the Levites"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Of the Gershonites were, Laadan, and Shimei.",
+      "highlightedWords": [
+        {
+          "word": "Gershonites",
+          "strongNumber": "H1649",
+          "lemma": "Gershoni",
+          "meaning": "Gershonite; descendant of Gershon"
+        },
+        {
+          "word": "Shimei",
+          "strongNumber": "H8096",
+          "lemma": "Shimʿi",
+          "meaning": "Shimei; a personal name meaning ‘hearing’"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "The sons of Laadan; the chief was Jehiel, and Zetham, and Joel, three.",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant"
+        },
+        {
+          "word": "chief",
+          "strongNumber": "H7218",
+          "lemma": "roʾsh",
+          "meaning": "head, chief, leader"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "The sons of Shimei; Shelomith, and Haziel, and Haran, three. These were the chief of the fathers of Laadan.",
+      "highlightedWords": [
+        {
+          "word": "Shimei",
+          "strongNumber": "H8096",
+          "lemma": "Shimʿi",
+          "meaning": "Shimei; a personal name meaning ‘hearing’"
+        },
+        {
+          "word": "fathers",
+          "strongNumber": "H0001",
+          "lemma": "ʾab",
+          "meaning": "father, ancestor, head of a household"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And the sons of Shimei were, Jahath, Zina, and Jeush, and Beriah. These four were the sons of Shimei.",
+      "highlightedWords": [
+        {
+          "word": "Shimei",
+          "strongNumber": "H8096",
+          "lemma": "Shimʿi",
+          "meaning": "Shimei; a personal name meaning ‘hearing’"
+        },
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And Jahath was the chief, and Ziza the second: but Jeush and Beriah had not many sons; therefore they were in one reckoning, according to their father's house.",
+      "highlightedWords": [
+        {
+          "word": "chief",
+          "strongNumber": "H7218",
+          "lemma": "roʾsh",
+          "meaning": "head, chief, leader"
+        },
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "The sons of Kohath; Amram, Izhar, Hebron, and Uzziel, four.",
+      "highlightedWords": [
+        {
+          "word": "Kohath",
+          "strongNumber": "H6955",
+          "lemma": "Qehath",
+          "meaning": "Kohath; a son of Levi"
+        },
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "The sons of Amram; Aaron and Moses: and Aaron was separated, that he should sanctify the most holy things, he and his sons for ever, to burn incense before the LORD, to minister unto him, and to bless in his name for ever.",
+      "highlightedWords": [
+        {
+          "word": "Aaron",
+          "strongNumber": "H0175",
+          "lemma": "Aharon",
+          "meaning": "Aaron; brother of Moses, first high priest"
+        },
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses; drawn out (from the water)"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Now concerning Moses the man of God, his sons were named of the tribe of Levi.",
+      "highlightedWords": [
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses; drawn out (from the water)"
+        },
+        {
+          "word": "Levi",
+          "strongNumber": "H3878",
+          "lemma": "Levi",
+          "meaning": "Levi; joined; eponymous ancestor of the Levites"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "The sons of Moses were, Gershom, and Eliezer.",
+      "highlightedWords": [
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses; drawn out (from the water)"
+        },
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Of the sons of Gershom, Shebuel was the chief.",
+      "highlightedWords": [
+        {
+          "word": "Gershom",
+          "strongNumber": "H1647",
+          "lemma": "Gershom",
+          "meaning": "Gershom; ‘a sojourner there’"
+        },
+        {
+          "word": "chief",
+          "strongNumber": "H7218",
+          "lemma": "roʾsh",
+          "meaning": "head, chief, leader"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And the sons of Eliezer were, Rehabiah the chief. And Eliezer had none other sons; but the sons of Rehabiah were very many.",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant"
+        },
+        {
+          "word": "chief",
+          "strongNumber": "H7218",
+          "lemma": "roʾsh",
+          "meaning": "head, chief, leader"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Of the sons of Izhar; Shelomith the chief.",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant"
+        },
+        {
+          "word": "chief",
+          "strongNumber": "H7218",
+          "lemma": "roʾsh",
+          "meaning": "head, chief, leader"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Of the sons of Hebron; Jeriah the first, Amariah the second, Jahaziel the third, and Jekameam the fourth.",
+      "highlightedWords": [
+        {
+          "word": "first",
+          "strongNumber": "H7223",
+          "lemma": "riʾshon",
+          "meaning": "first, chief, former"
+        },
+        {
+          "word": "fourth",
+          "strongNumber": "H7243",
+          "lemma": "reviʿi",
+          "meaning": "fourth"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Of the sons of Uzziel; Micah the first, and Jesiah the second.",
+      "highlightedWords": [
+        {
+          "word": "first",
+          "strongNumber": "H7223",
+          "lemma": "riʾshon",
+          "meaning": "first, chief, former"
+        },
+        {
+          "word": "second",
+          "strongNumber": "H8145",
+          "lemma": "sheni",
+          "meaning": "second"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "The sons of Merari; Mahli, and Mushi. The sons of Mahli; Eleazar, and Kish.",
+      "highlightedWords": [
+        {
+          "word": "Merari",
+          "strongNumber": "H4847",
+          "lemma": "Merari",
+          "meaning": "Merari; a son of Levi"
+        },
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And Eleazar died, and had no sons, but daughters: and their brethren the sons of Kish took them.",
+      "highlightedWords": [
+        {
+          "word": "brethren",
+          "strongNumber": "H0251",
+          "lemma": "ʾach",
+          "meaning": "brother, kinsman"
+        },
+        {
+          "word": "daughters",
+          "strongNumber": "H1323",
+          "lemma": "bat",
+          "meaning": "daughter, girl"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "The sons of Mushi; Mahli, and Eder, and Jeremoth, three.",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant"
+        },
+        {
+          "word": "Mushi",
+          "strongNumber": "H4187",
+          "lemma": "Mushi",
+          "meaning": "Mushi; a descendant of Levi (son of Merari)"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "These were the sons of Levi after the house of their fathers; even the chief of the fathers, as they were counted by number of names by their polls, that did the work for the service of the house of the LORD, from the age of twenty years and upward.",
+      "highlightedWords": [
+        {
+          "word": "service",
+          "strongNumber": "H5656",
+          "lemma": "ʿabodah",
+          "meaning": "service, work, ministry"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "For David said, The LORD God of Israel hath given rest unto his people, that they may dwell in Jerusalem for ever:",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dawid",
+          "meaning": "David; beloved"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And also unto the Levites; they shall no more carry the tabernacle, nor any vessels of it for the service thereof.",
+      "highlightedWords": [
+        {
+          "word": "Levites",
+          "strongNumber": "H3881",
+          "lemma": "Leviyiy",
+          "meaning": "Levites; descendants of Levi"
+        },
+        {
+          "word": "tabernacle",
+          "strongNumber": "H4908",
+          "lemma": "mishkan",
+          "meaning": "tabernacle, dwelling"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "For by the last words of David the Levites were numbered from twenty years old and above:",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dawid",
+          "meaning": "David; beloved"
+        },
+        {
+          "word": "Levites",
+          "strongNumber": "H3881",
+          "lemma": "Leviyiy",
+          "meaning": "Levites; descendants of Levi"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "Because their office was to wait on the sons of Aaron for the service of the house of the LORD, in the courts, and in the chambers, and in the purifying of all holy things, and the work of the service of the house of God;",
+      "highlightedWords": [
+        {
+          "word": "Aaron",
+          "strongNumber": "H0175",
+          "lemma": "Aharon",
+          "meaning": "Aaron; brother of Moses, first high priest"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "Both for the shewbread, and for the fine flour for meat offering, and for the unleavened cakes, and for that which is baked in the pan, and for that which is fried, and for all manner of measure and size;",
+      "highlightedWords": [
+        {
+          "word": "shewbread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread; showbread (bread of the Presence)"
+        },
+        {
+          "word": "meat offering",
+          "strongNumber": "H4503",
+          "lemma": "minchah",
+          "meaning": "grain (meal) offering"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "And to stand every morning to thank and praise the LORD, and likewise at even;",
+      "highlightedWords": [
+        {
+          "word": "praise",
+          "strongNumber": "H1984",
+          "lemma": "halal",
+          "meaning": "to praise, celebrate"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "And to offer all burnt offerings unto the LORD in the sabbaths, in the new moons, and on the set feasts, by number, according to the order commanded unto them, continually before the LORD:",
+      "highlightedWords": [
+        {
+          "word": "sabbaths",
+          "strongNumber": "H7676",
+          "lemma": "shabbat",
+          "meaning": "Sabbath, day of rest"
+        },
+        {
+          "word": "feasts",
+          "strongNumber": "H4150",
+          "lemma": "moʿed",
+          "meaning": "appointed time, feast"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "And that they should keep the charge of the tabernacle of the congregation, and the charge of the holy place, and the charge of the sons of Aaron their brethren, in the service of the house of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "charge",
+          "strongNumber": "H4931",
+          "lemma": "mishmeret",
+          "meaning": "charge, duty, responsibility"
+        },
+        {
+          "word": "tabernacle",
+          "strongNumber": "H4908",
+          "lemma": "mishkan",
+          "meaning": "tabernacle, dwelling"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,384 @@
+{
+  "book": "Job",
+  "chapter": 11,
+  "chapterTheme": {
+    "twoWordSummary": "Wisdom Unsearchable",
+    "themeWords": [
+      {
+        "word": "wisdom",
+        "strongNumber": "H2451",
+        "lemma": "chokmah",
+        "meaning": "wisdom, skill"
+      },
+      {
+        "word": "iniquity",
+        "strongNumber": "H5771",
+        "lemma": "avon",
+        "meaning": "iniquity, guilt"
+      }
+    ]
+  },
+  "sentenceTheme": "Zophar rebukes Job, declaring God’s wisdom beyond searching and urging him to put away iniquity for restored security.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Then answered Zophar the Naamathite, and said,",
+      "highlightedWords": [
+        {
+          "word": "answered",
+          "strongNumber": "H6030",
+          "lemma": "anah",
+          "meaning": "to answer, respond"
+        },
+        {
+          "word": "said",
+          "strongNumber": "H559",
+          "lemma": "amar",
+          "meaning": "to say, speak"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Should not the multitude of words be answered? and should a man full of talk be justified?",
+      "highlightedWords": [
+        {
+          "word": "words",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, thing"
+        },
+        {
+          "word": "justified",
+          "strongNumber": "H6663",
+          "lemma": "tsadaq",
+          "meaning": "to be righteous, be justified"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Should thy lies make men hold their peace? and when thou mockest, shall no man make thee ashamed?",
+      "highlightedWords": [
+        {
+          "word": "mockest",
+          "strongNumber": "H3932",
+          "lemma": "la'ag",
+          "meaning": "to mock, deride"
+        },
+        {
+          "word": "ashamed",
+          "strongNumber": "H954",
+          "lemma": "bosh",
+          "meaning": "to be ashamed"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "For thou hast said, My doctrine is pure, and I am clean in thine eyes.",
+      "highlightedWords": [
+        {
+          "word": "doctrine",
+          "strongNumber": "H3948",
+          "lemma": "leqach",
+          "meaning": "teaching, instruction"
+        },
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "ayin",
+          "meaning": "eye"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "But oh that God would speak, and open his lips against thee;",
+      "highlightedWords": [
+        {
+          "word": "open",
+          "strongNumber": "H6605",
+          "lemma": "pathach",
+          "meaning": "to open, unlock"
+        },
+        {
+          "word": "lips",
+          "strongNumber": "H8193",
+          "lemma": "saphah",
+          "meaning": "lip, speech"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And that he would shew thee the secrets of wisdom, that they are double to that which is! Know therefore that God exacteth of thee less than thine iniquity deserveth.",
+      "highlightedWords": [
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "wisdom, skill"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "avon",
+          "meaning": "iniquity, guilt"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Canst thou by searching find out God? canst thou find out the Almighty unto perfection?",
+      "highlightedWords": [
+        {
+          "word": "searching",
+          "strongNumber": "H2714",
+          "lemma": "cheqer",
+          "meaning": "searching, investigation"
+        },
+        {
+          "word": "Almighty",
+          "strongNumber": "H7706",
+          "lemma": "Shaddai",
+          "meaning": "the Almighty"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "It is as high as heaven; what canst thou do? deeper than hell; what canst thou know?",
+      "highlightedWords": [
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens, sky"
+        },
+        {
+          "word": "hell",
+          "strongNumber": "H7585",
+          "lemma": "sheol",
+          "meaning": "the grave, underworld"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "The measure thereof is longer than the earth, and broader than the sea.",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "earth, land"
+        },
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "sea"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "If he cut off, and shut up, or gather together, then who can hinder him?",
+      "highlightedWords": [
+        {
+          "word": "shut",
+          "strongNumber": "H5462",
+          "lemma": "sagar",
+          "meaning": "to shut, close"
+        },
+        {
+          "word": "gather",
+          "strongNumber": "H6908",
+          "lemma": "qabats",
+          "meaning": "to gather, collect"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "For he knoweth vain men: he seeth wickedness also; will he not then consider it?",
+      "highlightedWords": [
+        {
+          "word": "knoweth",
+          "strongNumber": "H3045",
+          "lemma": "yada",
+          "meaning": "to know"
+        },
+        {
+          "word": "seeth",
+          "strongNumber": "H7200",
+          "lemma": "ra'ah",
+          "meaning": "to see"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "For vain man would be wise, though man be born like a wild ass's colt.",
+      "highlightedWords": [
+        {
+          "word": "born",
+          "strongNumber": "H3205",
+          "lemma": "yalad",
+          "meaning": "to bear, bring forth"
+        },
+        {
+          "word": "colt",
+          "strongNumber": "H5895",
+          "lemma": "ayir",
+          "meaning": "colt, young donkey"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "If thou prepare thine heart, and stretch out thine hands toward him;",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner man"
+        },
+        {
+          "word": "hands",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "If iniquity be in thine hand, put it far away, and let not wickedness dwell in thy tabernacles.",
+      "highlightedWords": [
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "avon",
+          "meaning": "iniquity, guilt"
+        },
+        {
+          "word": "tabernacles",
+          "strongNumber": "H0168",
+          "lemma": "ohel",
+          "meaning": "tent, tabernacle"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "For then shalt thou lift up thy face without spot; yea, thou shalt be stedfast, and shalt not fear:",
+      "highlightedWords": [
+        {
+          "word": "face",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "face, presence"
+        },
+        {
+          "word": "fear",
+          "strongNumber": "H3372",
+          "lemma": "yare",
+          "meaning": "to fear, revere"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Because thou shalt forget thy misery, and remember it as waters that pass away:",
+      "highlightedWords": [
+        {
+          "word": "forget",
+          "strongNumber": "H7911",
+          "lemma": "shakach",
+          "meaning": "to forget"
+        },
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And thine age shall be clearer than the noonday; thou shalt shine forth, thou shalt be as the morning.",
+      "highlightedWords": [
+        {
+          "word": "noonday",
+          "strongNumber": "H6672",
+          "lemma": "tsoharayim",
+          "meaning": "noonday, midday"
+        },
+        {
+          "word": "morning",
+          "strongNumber": "H1242",
+          "lemma": "boqer",
+          "meaning": "morning"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And thou shalt be secure, because there is hope; yea, thou shalt dig about thee, and thou shalt take thy rest in safety.",
+      "highlightedWords": [
+        {
+          "word": "secure",
+          "strongNumber": "H0982",
+          "lemma": "batach",
+          "meaning": "to be secure, trust"
+        },
+        {
+          "word": "hope",
+          "strongNumber": "H8615",
+          "lemma": "tiqvah",
+          "meaning": "hope, expectation"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Also thou shalt lie down, and none shall make thee afraid; yea, many shall make suit unto thee.",
+      "highlightedWords": [
+        {
+          "word": "lie",
+          "strongNumber": "H7901",
+          "lemma": "shakab",
+          "meaning": "to lie down, rest"
+        },
+        {
+          "word": "suit",
+          "strongNumber": "H2470",
+          "lemma": "chalah",
+          "meaning": "to entreat, seek favor"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "But the eyes of the wicked shall fail, and they shall not escape, and their hope shall be as the giving up of the ghost.",
+      "highlightedWords": [
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "ayin",
+          "meaning": "eyes"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha",
+          "meaning": "wicked, criminal"
+        }
+      ]
+    }
+  ]
+}

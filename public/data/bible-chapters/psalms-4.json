@@ -1,0 +1,168 @@
+{
+  "book": "Psalms",
+  "chapter": 4,
+  "chapterTheme": {
+    "twoWordSummary": "Confident Prayer",
+    "themeWords": [
+      {
+        "word": "trust",
+        "strongNumber": "H982",
+        "lemma": "batach",
+        "meaning": "to trust, be confident, rely"
+      },
+      {
+        "word": "righteousness",
+        "strongNumber": "H6664",
+        "lemma": "tsedeq",
+        "meaning": "righteousness, justice, rightness"
+      }
+    ]
+  },
+  "sentenceTheme": "David calls on God with confidence, warns against vain falsehood, and finds peaceful rest in the LORD’s righteous care.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Hear me when I call, O God of my righteousness: thou hast enlarged me when I was in distress; have mercy upon me, and hear my prayer.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; mighty one (plural of majesty)"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "H6664",
+          "lemma": "tsedeq",
+          "meaning": "righteousness, justice, rightness"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "O ye sons of men, how long will ye turn my glory into shame? how long will ye love vanity, and seek after leasing? Selah.",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child, descendant"
+        },
+        {
+          "word": "leasing",
+          "strongNumber": "H3577",
+          "lemma": "kazab",
+          "meaning": "lie, falsehood, deception"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "But know that the LORD hath set apart him that is godly for himself: the LORD will hear when I call unto him.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "godly",
+          "strongNumber": "H2623",
+          "lemma": "chasid",
+          "meaning": "faithful, pious, godly one"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Stand in awe, and sin not: commune with your own heart upon your bed, and be still. Selah.",
+      "highlightedWords": [
+        {
+          "word": "sin",
+          "strongNumber": "H2398",
+          "lemma": "chata'",
+          "meaning": "to sin, miss the mark, do wrong"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3824",
+          "lemma": "lebab",
+          "meaning": "heart, inner person, mind, will"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Offer the sacrifices of righteousness, and put your trust in the LORD.",
+      "highlightedWords": [
+        {
+          "word": "sacrifices",
+          "strongNumber": "H2077",
+          "lemma": "zebach",
+          "meaning": "sacrifice, ritual offering"
+        },
+        {
+          "word": "trust",
+          "strongNumber": "H982",
+          "lemma": "batach",
+          "meaning": "to trust, be secure, feel safe"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "There be many that say, Who will shew us any good? LORD, lift thou up the light of thy countenance upon us.",
+      "highlightedWords": [
+        {
+          "word": "light",
+          "strongNumber": "H216",
+          "lemma": "or",
+          "meaning": "light, illumination"
+        },
+        {
+          "word": "countenance",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "face, presence"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Thou hast put gladness in my heart, more than in the time that their corn and their wine increased.",
+      "highlightedWords": [
+        {
+          "word": "gladness",
+          "strongNumber": "H8057",
+          "lemma": "simchah",
+          "meaning": "gladness, joy"
+        },
+        {
+          "word": "corn",
+          "strongNumber": "H1715",
+          "lemma": "dagan",
+          "meaning": "grain, corn"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "I will both lay me down in peace, and sleep: for thou, LORD, only makest me dwell in safety.",
+      "highlightedWords": [
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace, completeness, welfare"
+        },
+        {
+          "word": "safety",
+          "strongNumber": "H983",
+          "lemma": "betach",
+          "meaning": "safety, security, confidence"
+        }
+      ]
+    }
+  ]
+}

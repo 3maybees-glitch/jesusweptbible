@@ -1,0 +1,258 @@
+{
+  "book": "Psalms",
+  "chapter": 79,
+  "chapterTheme": {
+    "twoWordSummary": "Desolation Lament",
+    "themeWords": [
+      {
+        "word": "heathen",
+        "strongNumber": "H1471",
+        "lemma": "goy",
+        "meaning": "nations, Gentiles"
+      },
+      {
+        "word": "mercies",
+        "strongNumber": "H7356",
+        "lemma": "rachamim",
+        "meaning": "compassion, tender mercies"
+      }
+    ]
+  },
+  "sentenceTheme": "Asaph laments Jerusalem’s desecration and pleads for God’s merciful forgiveness and just vengeance on the nations.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "O God, the heathen are come into thine inheritance; thy holy temple have they defiled; they have laid Jerusalem on heaps.",
+      "highlightedWords": [
+        {
+          "word": "heathen",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nations, Gentiles"
+        },
+        {
+          "word": "inheritance",
+          "strongNumber": "H5159",
+          "lemma": "nachalah",
+          "meaning": "inheritance, heritage, possession"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "The dead bodies of thy servants have they given to be meat unto the fowls of the heaven, the flesh of thy saints unto the beasts of the earth.",
+      "highlightedWords": [
+        {
+          "word": "saints",
+          "strongNumber": "H2623",
+          "lemma": "chasid",
+          "meaning": "faithful, godly one"
+        },
+        {
+          "word": "beasts",
+          "strongNumber": "H2416",
+          "lemma": "chay",
+          "meaning": "living creature, animal"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Their blood have they shed like water round about Jerusalem; and there was none to bury them.",
+      "highlightedWords": [
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "blood"
+        },
+        {
+          "word": "bury",
+          "strongNumber": "H6912",
+          "lemma": "qabar",
+          "meaning": "to bury, inter"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "We are become a reproach to our neighbours, a scorn and derision to them that are round about us.",
+      "highlightedWords": [
+        {
+          "word": "reproach",
+          "strongNumber": "H2781",
+          "lemma": "cherpah",
+          "meaning": "reproach, disgrace"
+        },
+        {
+          "word": "neighbours",
+          "strongNumber": "H7934",
+          "lemma": "shaken",
+          "meaning": "neighbor, inhabitant, dweller"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "How long, LORD? wilt thou be angry for ever? shall thy jealousy burn like fire?",
+      "highlightedWords": [
+        {
+          "word": "angry",
+          "strongNumber": "H2734",
+          "lemma": "charah",
+          "meaning": "to burn, be incensed"
+        },
+        {
+          "word": "jealousy",
+          "strongNumber": "H7068",
+          "lemma": "qinah",
+          "meaning": "ardor, zeal, jealousy"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Pour out thy wrath upon the heathen that have not known thee, and upon the kingdoms that have not called upon thy name.",
+      "highlightedWords": [
+        {
+          "word": "wrath",
+          "strongNumber": "H2534",
+          "lemma": "chemah",
+          "meaning": "wrath, heat, rage"
+        },
+        {
+          "word": "kingdoms",
+          "strongNumber": "H4467",
+          "lemma": "mamlakah",
+          "meaning": "kingdom, dominion"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "For they have devoured Jacob, and laid waste his dwelling place.",
+      "highlightedWords": [
+        {
+          "word": "devoured",
+          "strongNumber": "H398",
+          "lemma": "akal",
+          "meaning": "to eat, consume, devour"
+        },
+        {
+          "word": "waste",
+          "strongNumber": "H8074",
+          "lemma": "shamem",
+          "meaning": "to be desolate, lay waste"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "O remember not against us former iniquities: let thy tender mercies speedily prevent us: for we are brought very low.",
+      "highlightedWords": [
+        {
+          "word": "iniquities",
+          "strongNumber": "H5771",
+          "lemma": "avon",
+          "meaning": "iniquity, guilt, punishment"
+        },
+        {
+          "word": "mercies",
+          "strongNumber": "H7356",
+          "lemma": "rachamim",
+          "meaning": "compassion, tender mercies"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Help us, O God of our salvation, for the glory of thy name: and deliver us, and purge away our sins, for thy name's sake.",
+      "highlightedWords": [
+        {
+          "word": "salvation",
+          "strongNumber": "H3468",
+          "lemma": "yesha'",
+          "meaning": "deliverance, salvation, victory"
+        },
+        {
+          "word": "deliver",
+          "strongNumber": "H5337",
+          "lemma": "natsal",
+          "meaning": "to deliver, rescue, snatch away"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Wherefore should the heathen say, Where is their God? let him be known among the heathen in our sight by the revenging of the blood of thy servants which is shed.",
+      "highlightedWords": [
+        {
+          "word": "revenging",
+          "strongNumber": "H5358",
+          "lemma": "naqam",
+          "meaning": "to avenge, take vengeance"
+        },
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "blood"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Let the sighing of the prisoner come before thee; according to the greatness of thy power preserve thou those that are appointed to die;",
+      "highlightedWords": [
+        {
+          "word": "prisoner",
+          "strongNumber": "H615",
+          "lemma": "asir",
+          "meaning": "bound one, prisoner"
+        },
+        {
+          "word": "power",
+          "strongNumber": "H2220",
+          "lemma": "zeroa",
+          "meaning": "arm, strength, power"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And render unto our neighbours sevenfold into their bosom their reproach, wherewith they have reproached thee, O Lord.",
+      "highlightedWords": [
+        {
+          "word": "bosom",
+          "strongNumber": "H2436",
+          "lemma": "cheq",
+          "meaning": "bosom, lap"
+        },
+        {
+          "word": "neighbours",
+          "strongNumber": "H7934",
+          "lemma": "shaken",
+          "meaning": "neighbor, inhabitant, dweller"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "So we thy people and sheep of thy pasture will give thee thanks for ever: we will shew forth thy praise to all generations.",
+      "highlightedWords": [
+        {
+          "word": "sheep",
+          "strongNumber": "H6629",
+          "lemma": "tson",
+          "meaning": "flock, sheep"
+        },
+        {
+          "word": "praise",
+          "strongNumber": "H8416",
+          "lemma": "tehillah",
+          "meaning": "praise, song of praise"
+        }
+      ]
+    }
+  ]
+}

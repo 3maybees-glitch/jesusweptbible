@@ -1,0 +1,186 @@
+{
+  "book": "Psalms",
+  "chapter": 52,
+  "chapterTheme": {
+    "twoWordSummary": "Boastful Downfall",
+    "themeWords": [
+      {
+        "word": "tongue",
+        "strongNumber": "H3956",
+        "lemma": "lashon",
+        "meaning": "tongue, language"
+      },
+      {
+        "word": "mercy",
+        "strongNumber": "H2617",
+        "lemma": "chesed",
+        "meaning": "lovingkindness, covenant mercy"
+      }
+    ]
+  },
+  "sentenceTheme": "God exposes and judges the boastful, deceitful tongue, while the righteous trust in His enduring mercy and praise His name.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Why boastest thou thyself in mischief, O mighty man? the goodness of God endureth continually.",
+      "highlightedWords": [
+        {
+          "word": "boastest",
+          "strongNumber": "H1984",
+          "lemma": "halal",
+          "meaning": "to praise, boast"
+        },
+        {
+          "word": "goodness",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "lovingkindness, covenant mercy"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Thy tongue deviseth mischiefs; like a sharp razor, working deceitfully.",
+      "highlightedWords": [
+        {
+          "word": "tongue",
+          "strongNumber": "H3956",
+          "lemma": "lashon",
+          "meaning": "tongue, language"
+        },
+        {
+          "word": "razor",
+          "strongNumber": "H8593",
+          "lemma": "ta'ar",
+          "meaning": "razor"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Thou lovest evil more than good; and lying rather than to speak righteousness. Selah.",
+      "highlightedWords": [
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra'",
+          "meaning": "evil, bad"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "tsedaqah",
+          "meaning": "righteousness"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Thou lovest all devouring words, O thou deceitful tongue.",
+      "highlightedWords": [
+        {
+          "word": "devouring",
+          "strongNumber": "H1105",
+          "lemma": "bela'",
+          "meaning": "devouring, swallowing"
+        },
+        {
+          "word": "tongue",
+          "strongNumber": "H3956",
+          "lemma": "lashon",
+          "meaning": "tongue, language"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "God shall likewise destroy thee for ever, he shall take thee away, and pluck thee out of thy dwelling place, and root thee out of the land of the living. Selah.",
+      "highlightedWords": [
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "land, earth"
+        },
+        {
+          "word": "living",
+          "strongNumber": "H2416",
+          "lemma": "chay",
+          "meaning": "living, alive"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "The righteous also shall see, and fear, and shall laugh at him:",
+      "highlightedWords": [
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just"
+        },
+        {
+          "word": "fear",
+          "strongNumber": "H3372",
+          "lemma": "yare'",
+          "meaning": "to fear, revere"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Lo, this is the man that made not God his strength; but trusted in the abundance of his riches, and strengthened himself in his wickedness.",
+      "highlightedWords": [
+        {
+          "word": "trusted",
+          "strongNumber": "H982",
+          "lemma": "batach",
+          "meaning": "to trust, be confident"
+        },
+        {
+          "word": "riches",
+          "strongNumber": "H6239",
+          "lemma": "osher",
+          "meaning": "riches, wealth"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "But I am like a green olive tree in the house of God: I trust in the mercy of God for ever and ever.",
+      "highlightedWords": [
+        {
+          "word": "olive",
+          "strongNumber": "H2132",
+          "lemma": "zayith",
+          "meaning": "olive tree"
+        },
+        {
+          "word": "mercy",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "lovingkindness, covenant mercy"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "I will praise thee for ever, because thou hast done it: and I will wait on thy name; for it is good before thy saints.",
+      "highlightedWords": [
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "name, reputation"
+        },
+        {
+          "word": "saints",
+          "strongNumber": "H2623",
+          "lemma": "chasid",
+          "meaning": "faithful, godly one"
+        }
+      ]
+    }
+  ]
+}

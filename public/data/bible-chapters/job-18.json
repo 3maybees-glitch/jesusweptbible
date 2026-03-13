@@ -1,0 +1,402 @@
+{
+  "book": "Job",
+  "chapter": 18,
+  "chapterTheme": {
+    "twoWordSummary": "Wicked End",
+    "themeWords": [
+      {
+        "word": "wicked",
+        "strongNumber": "H7563",
+        "lemma": "rashaʿ",
+        "meaning": "wicked, guilty person"
+      },
+      {
+        "word": "darkness",
+        "strongNumber": "H2822",
+        "lemma": "choshekh",
+        "meaning": "darkness, gloom"
+      }
+    ]
+  },
+  "sentenceTheme": "Bildad depicts the certain downfall of the wicked: their light is extinguished, they are trapped and terrified, their legacy erased, and their dwelling judged.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Then answered Bildad the Shuhite, and said,",
+      "highlightedWords": [
+        {
+          "word": "answered",
+          "strongNumber": "H6030",
+          "lemma": "ʿanah",
+          "meaning": "to answer, respond"
+        },
+        {
+          "word": "said",
+          "strongNumber": "H559",
+          "lemma": "ʾamar",
+          "meaning": "to say, declare"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "How long will it be ere ye make an end of words? mark, and afterwards we will speak.",
+      "highlightedWords": [
+        {
+          "word": "words",
+          "strongNumber": "H1697",
+          "lemma": "davar",
+          "meaning": "word, matter, thing"
+        },
+        {
+          "word": "speak",
+          "strongNumber": "H1696",
+          "lemma": "dabar",
+          "meaning": "to speak, declare"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Wherefore are we counted as beasts, and reputed vile in your sight?",
+      "highlightedWords": [
+        {
+          "word": "counted",
+          "strongNumber": "H2803",
+          "lemma": "chashav",
+          "meaning": "to reckon, consider, account"
+        },
+        {
+          "word": "beasts",
+          "strongNumber": "H929",
+          "lemma": "behemah",
+          "meaning": "beast, animal"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "He teareth himself in his anger: shall the earth be forsaken for thee? and shall the rock be removed out of his place?",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "ʾerets",
+          "meaning": "earth, land"
+        },
+        {
+          "word": "rock",
+          "strongNumber": "H6697",
+          "lemma": "tsur",
+          "meaning": "rock, cliff"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Yea, the light of the wicked shall be put out, and the spark of his fire shall not shine.",
+      "highlightedWords": [
+        {
+          "word": "light",
+          "strongNumber": "H216",
+          "lemma": "ʾor",
+          "meaning": "light"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rashaʿ",
+          "meaning": "wicked, guilty person"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "The light shall be dark in his tabernacle, and his candle shall be put out with him.",
+      "highlightedWords": [
+        {
+          "word": "tabernacle",
+          "strongNumber": "H168",
+          "lemma": "ʾohel",
+          "meaning": "tent, dwelling, tabernacle"
+        },
+        {
+          "word": "candle",
+          "strongNumber": "H5216",
+          "lemma": "ner",
+          "meaning": "lamp, candle"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "The steps of his strength shall be straitened, and his own counsel shall cast him down.",
+      "highlightedWords": [
+        {
+          "word": "steps",
+          "strongNumber": "H6806",
+          "lemma": "tsaʿad",
+          "meaning": "step, pace"
+        },
+        {
+          "word": "counsel",
+          "strongNumber": "H6098",
+          "lemma": "ʿetsah",
+          "meaning": "counsel, advice, plan"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "For he is cast into a net by his own feet, and he walketh upon a snare.",
+      "highlightedWords": [
+        {
+          "word": "net",
+          "strongNumber": "H7568",
+          "lemma": "resheth",
+          "meaning": "net"
+        },
+        {
+          "word": "walketh",
+          "strongNumber": "H1980",
+          "lemma": "halak",
+          "meaning": "to go, walk"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "The gin shall take him by the heel, and the robber shall prevail against him.",
+      "highlightedWords": [
+        {
+          "word": "take",
+          "strongNumber": "H3920",
+          "lemma": "lakad",
+          "meaning": "to capture, seize"
+        },
+        {
+          "word": "heel",
+          "strongNumber": "H6119",
+          "lemma": "ʿaqeb",
+          "meaning": "heel"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "The snare is laid for him in the ground, and a trap for him in the way.",
+      "highlightedWords": [
+        {
+          "word": "ground",
+          "strongNumber": "H127",
+          "lemma": "ʾadamah",
+          "meaning": "ground, soil"
+        },
+        {
+          "word": "way",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way, road, path"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Terrors shall make him afraid on every side, and shall drive him to his feet.",
+      "highlightedWords": [
+        {
+          "word": "side",
+          "strongNumber": "H5439",
+          "lemma": "sabib",
+          "meaning": "round about, on every side"
+        },
+        {
+          "word": "feet",
+          "strongNumber": "H7272",
+          "lemma": "regel",
+          "meaning": "foot, feet"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "His strength shall be hungerbitten, and destruction shall be ready at his side.",
+      "highlightedWords": [
+        {
+          "word": "strength",
+          "strongNumber": "H3581",
+          "lemma": "koach",
+          "meaning": "strength, power"
+        },
+        {
+          "word": "destruction",
+          "strongNumber": "H343",
+          "lemma": "ʾeyd",
+          "meaning": "calamity, destruction"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "It shall devour the strength of his skin: even the firstborn of death shall devour his strength.",
+      "highlightedWords": [
+        {
+          "word": "skin",
+          "strongNumber": "H5785",
+          "lemma": "ʿor",
+          "meaning": "skin, hide"
+        },
+        {
+          "word": "death",
+          "strongNumber": "H4194",
+          "lemma": "mavet",
+          "meaning": "death"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "His confidence shall be rooted out of his tabernacle, and it shall bring him to the king of terrors.",
+      "highlightedWords": [
+        {
+          "word": "tabernacle",
+          "strongNumber": "H168",
+          "lemma": "ʾohel",
+          "meaning": "tent, dwelling, tabernacle"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "It shall dwell in his tabernacle, because it is none of his: brimstone shall be scattered upon his habitation.",
+      "highlightedWords": [
+        {
+          "word": "brimstone",
+          "strongNumber": "H1614",
+          "lemma": "gophrith",
+          "meaning": "brimstone, sulfur"
+        },
+        {
+          "word": "habitation",
+          "strongNumber": "H5116",
+          "lemma": "navah",
+          "meaning": "abode, habitation, pasture"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "His roots shall be dried up beneath, and above shall his branch be cut off.",
+      "highlightedWords": [
+        {
+          "word": "beneath",
+          "strongNumber": "H8478",
+          "lemma": "tachat",
+          "meaning": "under, beneath"
+        },
+        {
+          "word": "above",
+          "strongNumber": "H4605",
+          "lemma": "maʿal",
+          "meaning": "above, upward"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "His remembrance shall perish from the earth, and he shall have no name in the street.",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "ʾerets",
+          "meaning": "earth, land"
+        },
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "name, reputation"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "He shall be driven from light into darkness, and chased out of the world.",
+      "highlightedWords": [
+        {
+          "word": "light",
+          "strongNumber": "H216",
+          "lemma": "ʾor",
+          "meaning": "light"
+        },
+        {
+          "word": "darkness",
+          "strongNumber": "H2822",
+          "lemma": "choshekh",
+          "meaning": "darkness, gloom"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "He shall neither have son nor nephew among his people, nor any remaining in his dwellings.",
+      "highlightedWords": [
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son"
+        },
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "ʿam",
+          "meaning": "people, nation"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "They that come after him shall be astonied at his day, as they that went before were affrighted.",
+      "highlightedWords": [
+        {
+          "word": "astonied",
+          "strongNumber": "H8074",
+          "lemma": "shamem",
+          "meaning": "to be appalled, astonished, desolate"
+        },
+        {
+          "word": "day",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Surely such are the dwellings of the wicked, and this is the place of him that knoweth not God.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rashaʿ",
+          "meaning": "wicked, guilty person"
+        },
+        {
+          "word": "place",
+          "strongNumber": "H4725",
+          "lemma": "maqom",
+          "meaning": "place, standing"
+        }
+      ]
+    }
+  ]
+}

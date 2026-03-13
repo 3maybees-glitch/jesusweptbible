@@ -1,0 +1,582 @@
+{
+  "book": "Psalms",
+  "chapter": 109,
+  "chapterTheme": {
+    "twoWordSummary": "Imprecatory Plea",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "Yehovah",
+        "meaning": "The proper name of the God of Israel (YHWH)."
+      },
+      {
+        "word": "mercy",
+        "strongNumber": "H2617",
+        "lemma": "chesed",
+        "meaning": "Lovingkindness, steadfast love, covenantal mercy."
+      }
+    ]
+  },
+  "sentenceTheme": "David pleads for God’s justice against false accusers while trusting the LORD’s mercy to deliver the poor and needy.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Hold not thy peace, O God of my praise;",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; mighty one."
+        },
+        {
+          "word": "praise",
+          "strongNumber": "H8416",
+          "lemma": "tehillah",
+          "meaning": "Praise, song of adoration."
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "For the mouth of the wicked and the mouth of the deceitful are opened against me: they have spoken against me with a lying tongue.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rashaʿ",
+          "meaning": "Wicked, guilty, criminal."
+        },
+        {
+          "word": "lying",
+          "strongNumber": "H8267",
+          "lemma": "sheqer",
+          "meaning": "Lie, falsehood, deception."
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "They compassed me about also with words of hatred; and fought against me without a cause.",
+      "highlightedWords": [
+        {
+          "word": "compassed",
+          "strongNumber": "H5437",
+          "lemma": "sabab",
+          "meaning": "To surround, encircle."
+        },
+        {
+          "word": "hatred",
+          "strongNumber": "H8135",
+          "lemma": "sinʼah",
+          "meaning": "Hatred, enmity."
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "For my love they are my adversaries: but I give myself unto prayer.",
+      "highlightedWords": [
+        {
+          "word": "love",
+          "strongNumber": "H160",
+          "lemma": "’ahabah",
+          "meaning": "Love, affection."
+        },
+        {
+          "word": "prayer",
+          "strongNumber": "H8605",
+          "lemma": "tephillah",
+          "meaning": "Prayer, intercession."
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And they have rewarded me evil for good, and hatred for my love.",
+      "highlightedWords": [
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "raʿ",
+          "meaning": "Bad, evil, adversity."
+        },
+        {
+          "word": "good",
+          "strongNumber": "H2896",
+          "lemma": "tov",
+          "meaning": "Good, pleasant, beneficial."
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Set thou a wicked man over him: and let Satan stand at his right hand.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rashaʿ",
+          "meaning": "Wicked, guilty, criminal."
+        },
+        {
+          "word": "Satan",
+          "strongNumber": "H7854",
+          "lemma": "satan",
+          "meaning": "Adversary, accuser (proper name)."
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "When he shall be judged, let him be condemned: and let his prayer become sin.",
+      "highlightedWords": [
+        {
+          "word": "judged",
+          "strongNumber": "H8199",
+          "lemma": "shaphat",
+          "meaning": "To judge, govern, decide."
+        },
+        {
+          "word": "sin",
+          "strongNumber": "H2403",
+          "lemma": "chattaʼah",
+          "meaning": "Sin, offense, purification offering."
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Let his days be few; and let another take his office.",
+      "highlightedWords": [
+        {
+          "word": "days",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "Day, time, period."
+        },
+        {
+          "word": "office",
+          "strongNumber": "H6486",
+          "lemma": "pequddah",
+          "meaning": "Oversight, office, charge."
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Let his children be fatherless, and his wife a widow.",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "Son, child, descendant."
+        },
+        {
+          "word": "widow",
+          "strongNumber": "H490",
+          "lemma": "’almanah",
+          "meaning": "Widow."
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Let his children be continually vagabonds, and beg: let them seek their bread also out of their desolate places.",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "Son, child, descendant."
+        },
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "Bread, food."
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Let the extortioner catch all that he hath; and let the strangers spoil his labour.",
+      "highlightedWords": [
+        {
+          "word": "strangers",
+          "strongNumber": "H2114",
+          "lemma": "zur",
+          "meaning": "Stranger, foreigner, alien."
+        },
+        {
+          "word": "labour",
+          "strongNumber": "H3018",
+          "lemma": "yegiʿa",
+          "meaning": "Labor, toil, product of work."
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Let there be none to extend mercy unto him: neither let there be any to favour his fatherless children.",
+      "highlightedWords": [
+        {
+          "word": "mercy",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "Lovingkindness, steadfast love, mercy."
+        },
+        {
+          "word": "fatherless",
+          "strongNumber": "H3490",
+          "lemma": "yathom",
+          "meaning": "Orphan, fatherless child."
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Let his posterity be cut off; and in the generation following let their name be blotted out.",
+      "highlightedWords": [
+        {
+          "word": "posterity",
+          "strongNumber": "H319",
+          "lemma": "’acharith",
+          "meaning": "Latter time, future, posterity."
+        },
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "Name, reputation, renown."
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Let the iniquity of his fathers be remembered with the LORD; and let not the sin of his mother be blotted out.",
+      "highlightedWords": [
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "ʿavon",
+          "meaning": "Iniquity, guilt, punishment of iniquity."
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "The proper name of the God of Israel (YHWH)."
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Let them be before the LORD continually, that he may cut off the memory of them from the earth.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "The proper name of the God of Israel (YHWH)."
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "’erets",
+          "meaning": "Land, earth, ground."
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Because that he remembered not to shew mercy, but persecuted the poor and needy man, that he might even slay the broken in heart.",
+      "highlightedWords": [
+        {
+          "word": "mercy",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "Lovingkindness, steadfast love, mercy."
+        },
+        {
+          "word": "poor",
+          "strongNumber": "H6041",
+          "lemma": "ʿani",
+          "meaning": "Poor, afflicted, humble."
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "As he loved cursing, so let it come unto him: as he delighted not in blessing, so let it be far from him.",
+      "highlightedWords": [
+        {
+          "word": "cursing",
+          "strongNumber": "H7045",
+          "lemma": "qelalah",
+          "meaning": "Curse, vilification."
+        },
+        {
+          "word": "blessing",
+          "strongNumber": "H1293",
+          "lemma": "berakah",
+          "meaning": "Blessing, benefit, gift."
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "As he clothed himself with cursing like as with his garment, so let it come into his bowels like water, and like oil into his bones.",
+      "highlightedWords": [
+        {
+          "word": "garment",
+          "strongNumber": "H899",
+          "lemma": "beged",
+          "meaning": "Garment, clothing."
+        },
+        {
+          "word": "bones",
+          "strongNumber": "H6106",
+          "lemma": "ʿetsem",
+          "meaning": "Bone, substance, self."
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Let it be unto him as the garment which covereth him, and for a girdle wherewith he is girded continually.",
+      "highlightedWords": [
+        {
+          "word": "garment",
+          "strongNumber": "H899",
+          "lemma": "beged",
+          "meaning": "Garment, clothing."
+        },
+        {
+          "word": "covereth",
+          "strongNumber": "H3680",
+          "lemma": "kasah",
+          "meaning": "To cover, conceal."
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Let this be the reward of mine adversaries from the LORD, and of them that speak evil against my soul.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "The proper name of the God of Israel (YHWH)."
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "Soul, life, self, person."
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "But do thou for me, O GOD the Lord, for thy name's sake: because thy mercy is good, deliver thou me.",
+      "highlightedWords": [
+        {
+          "word": "GOD",
+          "strongNumber": "H3069",
+          "lemma": "Yehovih",
+          "meaning": "A form of the divine name used when combined with Adonai (rendered GOD)."
+        },
+        {
+          "word": "deliver",
+          "strongNumber": "H5337",
+          "lemma": "natsal",
+          "meaning": "To snatch away, deliver, rescue."
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "For I am poor and needy, and my heart is wounded within me.",
+      "highlightedWords": [
+        {
+          "word": "poor",
+          "strongNumber": "H6041",
+          "lemma": "ʿani",
+          "meaning": "Poor, afflicted, humble."
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "Heart, inner man, mind, will."
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "I am gone like the shadow when it declineth: I am tossed up and down as the locust.",
+      "highlightedWords": [
+        {
+          "word": "shadow",
+          "strongNumber": "H6738",
+          "lemma": "tsel",
+          "meaning": "Shadow, shade, protection."
+        },
+        {
+          "word": "locust",
+          "strongNumber": "H697",
+          "lemma": "’arbeh",
+          "meaning": "Locust."
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "My knees are weak through fasting; and my flesh faileth of fatness.",
+      "highlightedWords": [
+        {
+          "word": "knees",
+          "strongNumber": "H1290",
+          "lemma": "berek",
+          "meaning": "Knee."
+        },
+        {
+          "word": "fasting",
+          "strongNumber": "H6685",
+          "lemma": "tsom",
+          "meaning": "Fasting, fast."
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "I became also a reproach unto them: when they looked upon me they shaked their heads.",
+      "highlightedWords": [
+        {
+          "word": "reproach",
+          "strongNumber": "H2781",
+          "lemma": "cherpah",
+          "meaning": "Reproach, disgrace, taunt."
+        },
+        {
+          "word": "heads",
+          "strongNumber": "H7218",
+          "lemma": "roʾsh",
+          "meaning": "Head, chief, top."
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "Help me, O LORD my God: O save me according to thy mercy:",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "The proper name of the God of Israel (YHWH)."
+        },
+        {
+          "word": "save",
+          "strongNumber": "H3467",
+          "lemma": "yashaʿ",
+          "meaning": "To save, deliver, give victory."
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "That they may know that this is thy hand; that thou, LORD, hast done it.",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "Hand, power, strength."
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "The proper name of the God of Israel (YHWH)."
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "Let them curse, but bless thou: when they arise, let them be ashamed; but let thy servant rejoice.",
+      "highlightedWords": [
+        {
+          "word": "ashamed",
+          "strongNumber": "H954",
+          "lemma": "bosh",
+          "meaning": "To be ashamed, confounded, disappointed."
+        },
+        {
+          "word": "servant",
+          "strongNumber": "H5650",
+          "lemma": "ʿebed",
+          "meaning": "Servant, slave, bondman."
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "Let mine adversaries be clothed with shame, and let them cover themselves with their own confusion, as with a mantle.",
+      "highlightedWords": [
+        {
+          "word": "shame",
+          "strongNumber": "H1322",
+          "lemma": "bosheth",
+          "meaning": "Shame, shameful thing."
+        },
+        {
+          "word": "mantle",
+          "strongNumber": "H4598",
+          "lemma": "meʿil",
+          "meaning": "Robe, mantle, cloak."
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "I will greatly praise the LORD with my mouth; yea, I will praise him among the multitude.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "The proper name of the God of Israel (YHWH)."
+        },
+        {
+          "word": "mouth",
+          "strongNumber": "H6310",
+          "lemma": "peh",
+          "meaning": "Mouth, speech, edge."
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "For he shall stand at the right hand of the poor, to save him from those that condemn his soul.",
+      "highlightedWords": [
+        {
+          "word": "poor",
+          "strongNumber": "H34",
+          "lemma": "’ebyown",
+          "meaning": "Poor, needy."
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "Soul, life, self, person."
+        }
+      ]
+    }
+  ]
+}

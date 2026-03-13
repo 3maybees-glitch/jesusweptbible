@@ -1,0 +1,474 @@
+{
+  "book": "Job",
+  "chapter": 24,
+  "chapterTheme": {
+    "twoWordSummary": "Hidden Injustice",
+    "themeWords": [
+      {
+        "word": "Almighty",
+        "strongNumber": "H7706",
+        "lemma": "Šadday (שַׁדַּי)",
+        "meaning": "the Almighty (God)"
+      },
+      {
+        "word": "wicked",
+        "strongNumber": "H7563",
+        "lemma": "rāšāʿ (רָשָׁע)",
+        "meaning": "a wicked or guilty person"
+      }
+    ]
+  },
+  "sentenceTheme": "Job laments that the wicked oppress the vulnerable while justice appears delayed under God’s sovereignty.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Why, seeing times are not hidden from the Almighty, do they that know him not see his days?",
+      "highlightedWords": [
+        {
+          "word": "times",
+          "strongNumber": "H6256",
+          "lemma": "ʿēt (עֵת)",
+          "meaning": "appointed time; season"
+        },
+        {
+          "word": "Almighty",
+          "strongNumber": "H7706",
+          "lemma": "Šadday (שַׁדַּי)",
+          "meaning": "the Almighty (God)"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Some remove the landmarks; they violently take away flocks, and feed thereof.",
+      "highlightedWords": [
+        {
+          "word": "flocks",
+          "strongNumber": "H6629",
+          "lemma": "ṣōn (צֹאן)",
+          "meaning": "small livestock; sheep and goats"
+        },
+        {
+          "word": "feed",
+          "strongNumber": "H7462",
+          "lemma": "rāʿāh (רָעָה)",
+          "meaning": "to pasture, tend, shepherd"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "They drive away the ass of the fatherless, they take the widow's ox for a pledge.",
+      "highlightedWords": [
+        {
+          "word": "ass",
+          "strongNumber": "H2543",
+          "lemma": "ḥămôr (חֲמוֹר)",
+          "meaning": "donkey"
+        },
+        {
+          "word": "widow",
+          "strongNumber": "H490",
+          "lemma": "’almānāh (אַלְמָנָה)",
+          "meaning": "widow"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "They turn the needy out of the way: the poor of the earth hide themselves together.",
+      "highlightedWords": [
+        {
+          "word": "needy",
+          "strongNumber": "H34",
+          "lemma": "’ebyôn (אֶבְיוֹן)",
+          "meaning": "needy, poor, destitute"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "’ereṣ (אֶרֶץ)",
+          "meaning": "earth, land"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Behold, as wild asses in the desert, go they forth to their work; rising betimes for a prey: the wilderness yieldeth food for them and for their children.",
+      "highlightedWords": [
+        {
+          "word": "asses",
+          "strongNumber": "H6501",
+          "lemma": "pereʾ (פֶּרֶא)",
+          "meaning": "wild donkey"
+        },
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbār (מִדְבָּר)",
+          "meaning": "wilderness, desert"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "They reap every one his corn in the field: and they gather the vintage of the wicked.",
+      "highlightedWords": [
+        {
+          "word": "reap",
+          "strongNumber": "H7114",
+          "lemma": "qāṣar (קָצַר)",
+          "meaning": "to reap, harvest"
+        },
+        {
+          "word": "vintage",
+          "strongNumber": "H1210",
+          "lemma": "bāṣîr (בָּצִיר)",
+          "meaning": "vintage; grape harvest"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "They cause the naked to lodge without clothing, that they have no covering in the cold.",
+      "highlightedWords": [
+        {
+          "word": "naked",
+          "strongNumber": "H6174",
+          "lemma": "ʿārôm (עָרוֹם)",
+          "meaning": "naked, unclothed"
+        },
+        {
+          "word": "cold",
+          "strongNumber": "H7135",
+          "lemma": "qar (קַר)",
+          "meaning": "cold"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "They are wet with the showers of the mountains, and embrace the rock for want of a shelter.",
+      "highlightedWords": [
+        {
+          "word": "mountains",
+          "strongNumber": "H2022",
+          "lemma": "har (הַר)",
+          "meaning": "mountain, hill"
+        },
+        {
+          "word": "rock",
+          "strongNumber": "H5553",
+          "lemma": "selaʿ (סֶלַע)",
+          "meaning": "rock, cliff"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "They pluck the fatherless from the breast, and take a pledge of the poor.",
+      "highlightedWords": [
+        {
+          "word": "fatherless",
+          "strongNumber": "H3490",
+          "lemma": "yāthôm (יָתוֹם)",
+          "meaning": "orphan, fatherless"
+        },
+        {
+          "word": "breast",
+          "strongNumber": "H7699",
+          "lemma": "šād (שַׁד)",
+          "meaning": "breast"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "They cause him to go naked without clothing, and they take away the sheaf from the hungry;",
+      "highlightedWords": [
+        {
+          "word": "naked",
+          "strongNumber": "H6174",
+          "lemma": "ʿārôm (עָרוֹם)",
+          "meaning": "naked, unclothed"
+        },
+        {
+          "word": "sheaf",
+          "strongNumber": "H6016",
+          "lemma": "ʿōmer (עֹמֶר)",
+          "meaning": "sheaf; bundle of grain"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Which make oil within their walls, and tread their winepresses, and suffer thirst.",
+      "highlightedWords": [
+        {
+          "word": "oil",
+          "strongNumber": "H8081",
+          "lemma": "šemen (שֶׁמֶן)",
+          "meaning": "oil"
+        },
+        {
+          "word": "winepresses",
+          "strongNumber": "H3342",
+          "lemma": "yeqeb (יֶקֶב)",
+          "meaning": "wine vat; winepress"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Men groan from out of the city, and the soul of the wounded crieth out: yet God layeth not folly to them.",
+      "highlightedWords": [
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "ʿîr (עִיר)",
+          "meaning": "city, town"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H433",
+          "lemma": "’ĕlôah (אֱלוֹהַּ)",
+          "meaning": "God (singular form)"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "They are of those that rebel against the light; they know not the ways thereof, nor abide in the paths thereof.",
+      "highlightedWords": [
+        {
+          "word": "light",
+          "strongNumber": "H216",
+          "lemma": "’ôr (אוֹר)",
+          "meaning": "light"
+        },
+        {
+          "word": "ways",
+          "strongNumber": "H1870",
+          "lemma": "derek (דֶּרֶךְ)",
+          "meaning": "way, road, manner"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "The murderer rising with the light killeth the poor and needy, and in the night is as a thief.",
+      "highlightedWords": [
+        {
+          "word": "murderer",
+          "strongNumber": "H7523",
+          "lemma": "rāṣaḥ (רָצַח)",
+          "meaning": "murderer; to murder/slay (as doer)"
+        },
+        {
+          "word": "thief",
+          "strongNumber": "H1590",
+          "lemma": "gannāb (גַּנָּב)",
+          "meaning": "thief"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "The eye also of the adulterer waiteth for the twilight, saying, No eye shall see me: and disguiseth his face.",
+      "highlightedWords": [
+        {
+          "word": "adulterer",
+          "strongNumber": "H5003",
+          "lemma": "nāʾaph (נָאַף)",
+          "meaning": "adulterer; to commit adultery"
+        },
+        {
+          "word": "twilight",
+          "strongNumber": "H5399",
+          "lemma": "nešeph (נֶשֶׁף)",
+          "meaning": "twilight; dusk"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "In the dark they dig through houses, which they had marked for themselves in the daytime: they know not the light.",
+      "highlightedWords": [
+        {
+          "word": "dark",
+          "strongNumber": "H2822",
+          "lemma": "ḥōšeḵ (חֹשֶׁךְ)",
+          "meaning": "darkness"
+        },
+        {
+          "word": "houses",
+          "strongNumber": "H1004",
+          "lemma": "bayit (בַּיִת)",
+          "meaning": "house"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "For the morning is to them even as the shadow of death: if one know them, they are in the terrors of the shadow of death.",
+      "highlightedWords": [
+        {
+          "word": "morning",
+          "strongNumber": "H1242",
+          "lemma": "bōqer (בֹּקֶר)",
+          "meaning": "morning"
+        },
+        {
+          "word": "shadow of death",
+          "strongNumber": "H6757",
+          "lemma": "ṣalmāveṯ (צַלְמָוֶת)",
+          "meaning": "deep darkness; shadow of death"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "He is swift as the waters; their portion is cursed in the earth: he beholdeth not the way of the vineyards.",
+      "highlightedWords": [
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim (מַיִם)",
+          "meaning": "waters"
+        },
+        {
+          "word": "cursed",
+          "strongNumber": "H779",
+          "lemma": "’ārar (אָרַר)",
+          "meaning": "to curse; cursed"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Drought and heat consume the snow waters: so doth the grave those which have sinned.",
+      "highlightedWords": [
+        {
+          "word": "grave",
+          "strongNumber": "H7585",
+          "lemma": "šeʾôl (שְׁאוֹל)",
+          "meaning": "Sheol; the grave, the realm of the dead"
+        },
+        {
+          "word": "sinned",
+          "strongNumber": "H2398",
+          "lemma": "ḥāṭāʾ (חָטָא)",
+          "meaning": "to sin; miss the mark"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "The womb shall forget him; the worm shall feed sweetly on him; he shall be no more remembered; and wickedness shall be broken as a tree.",
+      "highlightedWords": [
+        {
+          "word": "womb",
+          "strongNumber": "H7358",
+          "lemma": "reḥem (רֶחֶם)",
+          "meaning": "womb"
+        },
+        {
+          "word": "worm",
+          "strongNumber": "H7415",
+          "lemma": "rimāh (רִמָּה)",
+          "meaning": "worm, maggot"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "He evil entreateth the barren that beareth not: and doeth not good to the widow.",
+      "highlightedWords": [
+        {
+          "word": "beareth",
+          "strongNumber": "H3205",
+          "lemma": "yālad (יָלַד)",
+          "meaning": "to bear, give birth"
+        },
+        {
+          "word": "widow",
+          "strongNumber": "H490",
+          "lemma": "’almānāh (אַלְמָנָה)",
+          "meaning": "widow"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "He draweth also the mighty with his power: he riseth up, and no man is sure of life.",
+      "highlightedWords": [
+        {
+          "word": "draweth",
+          "strongNumber": "H4900",
+          "lemma": "māšaḵ (מָשַׁךְ)",
+          "meaning": "to draw, drag, lead along"
+        },
+        {
+          "word": "power",
+          "strongNumber": "H3581",
+          "lemma": "kōaḥ (כֹּחַ)",
+          "meaning": "strength, power, might"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Though it be given him to be in safety, whereon he resteth; yet his eyes are upon their ways.",
+      "highlightedWords": [
+        {
+          "word": "safety",
+          "strongNumber": "H983",
+          "lemma": "beṭaḥ (בֶּטַח)",
+          "meaning": "security, safety, confidence"
+        },
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "ʿayin (עַיִן)",
+          "meaning": "eye"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "They are exalted for a little while, but are gone and brought low; they are taken out of the way as all other, and cut off as the tops of the ears of corn.",
+      "highlightedWords": [
+        {
+          "word": "little",
+          "strongNumber": "H4592",
+          "lemma": "məʿaṭ (מְעַט)",
+          "meaning": "a little; few; brief"
+        },
+        {
+          "word": "way",
+          "strongNumber": "H1870",
+          "lemma": "derek (דֶּרֶךְ)",
+          "meaning": "way, road, path"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And if it be not so now, who will make me a liar, and make my speech nothing worth?",
+      "highlightedWords": [
+        {
+          "word": "now",
+          "strongNumber": "H6258",
+          "lemma": "ʿattāh (עַתָּה)",
+          "meaning": "now; at this time"
+        },
+        {
+          "word": "speech",
+          "strongNumber": "H4405",
+          "lemma": "millāh (מִלָּה)",
+          "meaning": "speech, utterance, word"
+        }
+      ]
+    }
+  ]
+}

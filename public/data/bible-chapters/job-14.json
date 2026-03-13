@@ -1,0 +1,420 @@
+{
+  "book": "Job",
+  "chapter": 14,
+  "chapterTheme": {
+    "twoWordSummary": "Mortality Hope",
+    "themeWords": [
+      {
+        "word": "man",
+        "strongNumber": "H120",
+        "lemma": "’adam",
+        "meaning": "man, humankind"
+      },
+      {
+        "word": "hope",
+        "strongNumber": "H8615",
+        "lemma": "tiqvah",
+        "meaning": "hope, expectation"
+      }
+    ]
+  },
+  "sentenceTheme": "Job laments human frailty and the finality of death while yearning for renewal and a set time of divine remembrance.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Man that is born of a woman is of few days, and full of trouble.",
+      "highlightedWords": [
+        {
+          "word": "Man",
+          "strongNumber": "H120",
+          "lemma": "’adam",
+          "meaning": "man, humankind"
+        },
+        {
+          "word": "woman",
+          "strongNumber": "H802",
+          "lemma": "’ishshah",
+          "meaning": "woman, wife"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "He cometh forth like a flower, and is cut down: he fleeth also as a shadow, and continueth not.",
+      "highlightedWords": [
+        {
+          "word": "flower",
+          "strongNumber": "H6731",
+          "lemma": "tsits",
+          "meaning": "blossom, flower"
+        },
+        {
+          "word": "shadow",
+          "strongNumber": "H6738",
+          "lemma": "tsel",
+          "meaning": "shadow, shade"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And dost thou open thine eyes upon such an one, and bringest me into judgment with thee?",
+      "highlightedWords": [
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "‘ayin",
+          "meaning": "eye, sight"
+        },
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "judgment, justice, legal decision"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Who can bring a clean thing out of an unclean? not one.",
+      "highlightedWords": [
+        {
+          "word": "clean",
+          "strongNumber": "H2889",
+          "lemma": "tahor",
+          "meaning": "clean, pure"
+        },
+        {
+          "word": "unclean",
+          "strongNumber": "H2931",
+          "lemma": "tame",
+          "meaning": "unclean, impure"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Seeing his days are determined, the number of his months are with thee, thou hast appointed his bounds that he cannot pass;",
+      "highlightedWords": [
+        {
+          "word": "days",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day, time, period"
+        },
+        {
+          "word": "bounds",
+          "strongNumber": "H2706",
+          "lemma": "choq",
+          "meaning": "decree, limit, boundary"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Turn from him, that he may rest, till he shall accomplish, as an hireling, his day.",
+      "highlightedWords": [
+        {
+          "word": "Turn",
+          "strongNumber": "H7725",
+          "lemma": "shuv",
+          "meaning": "to turn back, return"
+        },
+        {
+          "word": "hireling",
+          "strongNumber": "H7916",
+          "lemma": "sakhir",
+          "meaning": "hired worker, hireling"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "For there is hope of a tree, if it be cut down, that it will sprout again, and that the tender branch thereof will not cease.",
+      "highlightedWords": [
+        {
+          "word": "hope",
+          "strongNumber": "H8615",
+          "lemma": "tiqvah",
+          "meaning": "hope, expectation"
+        },
+        {
+          "word": "tree",
+          "strongNumber": "H6086",
+          "lemma": "’ets",
+          "meaning": "tree, wood"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Though the root thereof wax old in the earth, and the stock thereof die in the ground;",
+      "highlightedWords": [
+        {
+          "word": "root",
+          "strongNumber": "H8328",
+          "lemma": "shoresh",
+          "meaning": "root"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "’erets",
+          "meaning": "earth, land"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Yet through the scent of water it will bud, and bring forth boughs like a plant.",
+      "highlightedWords": [
+        {
+          "word": "water",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters"
+        },
+        {
+          "word": "bud",
+          "strongNumber": "H6524",
+          "lemma": "parach",
+          "meaning": "to sprout, bud, blossom"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "But man dieth, and wasteth away: yea, man giveth up the ghost, and where is he?",
+      "highlightedWords": [
+        {
+          "word": "man",
+          "strongNumber": "H120",
+          "lemma": "’adam",
+          "meaning": "man, humankind"
+        },
+        {
+          "word": "ghost",
+          "strongNumber": "H1478",
+          "lemma": "gava‘",
+          "meaning": "to expire, give up the ghost"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "As the waters fail from the sea, and the flood decayeth and drieth up:",
+      "highlightedWords": [
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters"
+        },
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "sea"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "So man lieth down, and riseth not: till the heavens be no more, they shall not awake, nor be raised out of their sleep.",
+      "highlightedWords": [
+        {
+          "word": "man",
+          "strongNumber": "H120",
+          "lemma": "’adam",
+          "meaning": "man, humankind"
+        },
+        {
+          "word": "heavens",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens, sky"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "O that thou wouldest hide me in the grave, that thou wouldest keep me secret, until thy wrath be past, that thou wouldest appoint me a set time, and remember me!",
+      "highlightedWords": [
+        {
+          "word": "grave",
+          "strongNumber": "H7585",
+          "lemma": "Sheol",
+          "meaning": "the grave, the realm of the dead"
+        },
+        {
+          "word": "wrath",
+          "strongNumber": "H639",
+          "lemma": "’aph",
+          "meaning": "anger, wrath"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "If a man die, shall he live again? all the days of my appointed time will I wait, till my change come.",
+      "highlightedWords": [
+        {
+          "word": "man",
+          "strongNumber": "H120",
+          "lemma": "’adam",
+          "meaning": "man, humankind"
+        },
+        {
+          "word": "change",
+          "strongNumber": "H2487",
+          "lemma": "chaliphah",
+          "meaning": "change, renewal, relief"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Thou shalt call, and I will answer thee: thou wilt have a desire to the work of thine hands.",
+      "highlightedWords": [
+        {
+          "word": "call",
+          "strongNumber": "H7121",
+          "lemma": "qara",
+          "meaning": "to call, summon"
+        },
+        {
+          "word": "hands",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "For now thou numberest my steps: dost thou not watch over my sin?",
+      "highlightedWords": [
+        {
+          "word": "steps",
+          "strongNumber": "H6806",
+          "lemma": "tsa‘ad",
+          "meaning": "step, (one’s) stride"
+        },
+        {
+          "word": "sin",
+          "strongNumber": "H2403",
+          "lemma": "chatta’ah",
+          "meaning": "sin, sinfulness"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "My transgression is sealed up in a bag, and thou sewest up mine iniquity.",
+      "highlightedWords": [
+        {
+          "word": "transgression",
+          "strongNumber": "H6588",
+          "lemma": "pesha‘",
+          "meaning": "transgression, rebellion"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "‘avon",
+          "meaning": "iniquity, guilt"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And surely the mountain falling cometh to nought, and the rock is removed out of his place.",
+      "highlightedWords": [
+        {
+          "word": "mountain",
+          "strongNumber": "H2022",
+          "lemma": "har",
+          "meaning": "mountain, hill"
+        },
+        {
+          "word": "rock",
+          "strongNumber": "H6697",
+          "lemma": "tsur",
+          "meaning": "rock, cliff"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "The waters wear the stones: thou washest away the things which grow out of the dust of the earth; and thou destroyest the hope of man.",
+      "highlightedWords": [
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters"
+        },
+        {
+          "word": "hope",
+          "strongNumber": "H8615",
+          "lemma": "tiqvah",
+          "meaning": "hope, expectation"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Thou prevailest for ever against him, and he passeth: thou changest his countenance, and sendest him away.",
+      "highlightedWords": [
+        {
+          "word": "prevailest",
+          "strongNumber": "H1396",
+          "lemma": "gabar",
+          "meaning": "to be strong, to prevail"
+        },
+        {
+          "word": "countenance",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "face, presence, countenance"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "His sons come to honour, and he knoweth it not; and they are brought low, but he perceiveth it not of them.",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, descendant"
+        },
+        {
+          "word": "honour",
+          "strongNumber": "H3519",
+          "lemma": "kavod",
+          "meaning": "glory, honor"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "But his flesh upon him shall have pain, and his soul within him shall mourn.",
+      "highlightedWords": [
+        {
+          "word": "flesh",
+          "strongNumber": "H1320",
+          "lemma": "basar",
+          "meaning": "flesh, body"
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, self"
+        }
+      ]
+    }
+  ]
+}

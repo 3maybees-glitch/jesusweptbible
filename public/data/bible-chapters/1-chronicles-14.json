@@ -1,0 +1,330 @@
+{
+  "book": "1 Chronicles",
+  "chapter": 14,
+  "chapterTheme": {
+    "twoWordSummary": "Royal Breakthroughs",
+    "themeWords": [
+      {
+        "word": "David",
+        "strongNumber": "H1732",
+        "lemma": "Dāwîd",
+        "meaning": "Beloved; second king of Israel"
+      },
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH",
+        "meaning": "The covenant name of the God of Israel"
+      }
+    ]
+  },
+  "sentenceTheme": "God establishes David’s kingship, blesses his house in Jerusalem, and grants decisive victories over the Philistines with divine strategy.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Now Hiram king of Tyre sent messengers to David, and timber of cedars, with masons and carpenters, to build him an house.",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dāwîd",
+          "meaning": "Beloved; second king of Israel"
+        },
+        {
+          "word": "Tyre",
+          "strongNumber": "H6865",
+          "lemma": "Tsôr",
+          "meaning": "Tyre; a prominent Phoenician coastal city"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And David perceived that the LORD had confirmed him king over Israel, for his kingdom was lifted up on high, because of his people Israel.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of the God of Israel"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yiśrāʾēl",
+          "meaning": "Israel; God strives; the nation descended from Jacob"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And David took more wives at Jerusalem: and David begat more sons and daughters.",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dāwîd",
+          "meaning": "Beloved; second king of Israel"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yĕrûshālayim",
+          "meaning": "Jerusalem; the chief city of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Now these are the names of his children which he had in Jerusalem; Shammua, and Shobab, Nathan, and Solomon,",
+      "highlightedWords": [
+        {
+          "word": "Nathan",
+          "strongNumber": "H5416",
+          "lemma": "Nāthān",
+          "meaning": "Nathan; given; a son of David and a prophet’s name"
+        },
+        {
+          "word": "Solomon",
+          "strongNumber": "H8010",
+          "lemma": "Shelomoh",
+          "meaning": "Solomon; peaceful; son of David who became king"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And Ibhar, and Elishua, and Elpalet,",
+      "highlightedWords": [
+        {
+          "word": "Ibhar",
+          "strongNumber": "H2984",
+          "lemma": "Yibhār",
+          "meaning": "Ibhar; he chooses; a son of David"
+        },
+        {
+          "word": "Elpalet",
+          "strongNumber": "H0467",
+          "lemma": "ʾElîphelet (Elpalet)",
+          "meaning": "Eliphelet/Elpalet; God is deliverance; a son of David"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And Nogah, and Nepheg, and Japhia,",
+      "highlightedWords": [
+        {
+          "word": "Nogah",
+          "strongNumber": "H5051",
+          "lemma": "Nogah",
+          "meaning": "Nogah; brightness; a son of David"
+        },
+        {
+          "word": "Japhia",
+          "strongNumber": "H3309",
+          "lemma": "Yaphiaʿ",
+          "meaning": "Japhia; shining; a son of David"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And Elishama, and Beeliada, and Eliphalet.",
+      "highlightedWords": [
+        {
+          "word": "Elishama",
+          "strongNumber": "H476",
+          "lemma": "ʾElîshāmāʿ",
+          "meaning": "Elishama; God has heard; a son of David"
+        },
+        {
+          "word": "Eliphalet",
+          "strongNumber": "H0467",
+          "lemma": "ʾElîphelet",
+          "meaning": "Eliphelet; God is deliverance; a son of David"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And when the Philistines heard that David was anointed king over all Israel, all the Philistines went up to seek David. And David heard of it, and went out against them.",
+      "highlightedWords": [
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pĕlishtî",
+          "meaning": "Philistines; inhabitants of Philistia"
+        },
+        {
+          "word": "anointed",
+          "strongNumber": "H4886",
+          "lemma": "māshach",
+          "meaning": "To anoint; to consecrate by applying oil"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And the Philistines came and spread themselves in the valley of Rephaim.",
+      "highlightedWords": [
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pĕlishtî",
+          "meaning": "Philistines; inhabitants of Philistia"
+        },
+        {
+          "word": "Rephaim",
+          "strongNumber": "H7497",
+          "lemma": "Rĕfāʾîm",
+          "meaning": "Rephaim; a valley and ancient people associated with giants"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And David enquired of God, saying, Shall I go up against the Philistines? and wilt thou deliver them into mine hand? And the LORD said unto him, Go up; for I will deliver them into thine hand.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "ʾĔlōhîm",
+          "meaning": "God; mighty one"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "So they came up to Baal-perazim; and David smote them there. Then David said, God hath broken in upon mine enemies by mine hand like the breaking forth of waters: therefore they called the name of that place Baal-perazim.",
+      "highlightedWords": [
+        {
+          "word": "Baal-perazim",
+          "strongNumber": "H1188",
+          "lemma": "Baʿal Pĕrātsîm",
+          "meaning": "Lord of breakthroughs; name of the victory site"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "ʾĔlōhîm",
+          "meaning": "God; mighty one"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And when they had left their gods there, David gave a commandment, and they were burned with fire.",
+      "highlightedWords": [
+        {
+          "word": "gods",
+          "strongNumber": "H430",
+          "lemma": "ʾĕlōhîm",
+          "meaning": "gods; deities (false gods in this context)"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dāwîd",
+          "meaning": "Beloved; second king of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And the Philistines yet again spread themselves abroad in the valley.",
+      "highlightedWords": [
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pĕlishtî",
+          "meaning": "Philistines; inhabitants of Philistia"
+        },
+        {
+          "word": "valley",
+          "strongNumber": "H6010",
+          "lemma": "gāyʾ",
+          "meaning": "Valley; a low-lying ravine"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Therefore David enquired again of God; and God said unto him, Go not up after them; turn away from them, and come upon them over against the mulberry trees.",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dāwîd",
+          "meaning": "Beloved; second king of Israel"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "ʾĔlōhîm",
+          "meaning": "God; mighty one"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And it shall be, when thou shalt hear a sound of going in the tops of the mulberry trees, that then thou shalt go out to battle: for God is gone forth before thee to smite the host of the Philistines.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "ʾĔlōhîm",
+          "meaning": "God; mighty one"
+        },
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pĕlishtî",
+          "meaning": "Philistines; inhabitants of Philistia"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "David therefore did as God commanded him: and they smote the host of the Philistines from Gibeon even to Gazer.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "ʾĔlōhîm",
+          "meaning": "God; mighty one"
+        },
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pĕlishtî",
+          "meaning": "Philistines; inhabitants of Philistia"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And the fame of David went out into all lands; and the LORD brought the fear of him upon all nations.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of the God of Israel"
+        },
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "gôyim",
+          "meaning": "Nations; peoples; Gentiles"
+        }
+      ]
+    }
+  ]
+}

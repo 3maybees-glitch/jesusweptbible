@@ -1,0 +1,384 @@
+{
+  "book": "Psalms",
+  "chapter": 72,
+  "chapterTheme": {
+    "twoWordSummary": "Messianic Kingship",
+    "themeWords": [
+      {
+        "word": "king",
+        "strongNumber": "H4428",
+        "lemma": "melek",
+        "meaning": "king, ruler"
+      },
+      {
+        "word": "peace",
+        "strongNumber": "H7965",
+        "lemma": "shalom",
+        "meaning": "peace, welfare, wholeness"
+      }
+    ]
+  },
+  "sentenceTheme": "A royal prayer envisioning the Messiah’s just rule, worldwide dominion, abundant peace, and enduring blessing for all nations.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Give the king thy judgments, O God, and thy righteousness unto the king's son.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’elohim",
+          "meaning": "God, mighty one"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "He shall judge thy people with righteousness, and thy poor with judgment.",
+      "highlightedWords": [
+        {
+          "word": "judge",
+          "strongNumber": "H8199",
+          "lemma": "shaphat",
+          "meaning": "to judge, govern"
+        },
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "'am",
+          "meaning": "people, nation"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "The mountains shall bring peace to the people, and the little hills, by righteousness.",
+      "highlightedWords": [
+        {
+          "word": "mountains",
+          "strongNumber": "H2022",
+          "lemma": "har",
+          "meaning": "mountain, hill country"
+        },
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace, welfare, wholeness"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "He shall judge the poor of the people, he shall save the children of the needy, and shall break in pieces the oppressor.",
+      "highlightedWords": [
+        {
+          "word": "judge",
+          "strongNumber": "H8199",
+          "lemma": "shaphat",
+          "meaning": "to judge, govern"
+        },
+        {
+          "word": "save",
+          "strongNumber": "H3467",
+          "lemma": "yasha",
+          "meaning": "to save, deliver"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "They shall fear thee as long as the sun and moon endure, throughout all generations.",
+      "highlightedWords": [
+        {
+          "word": "fear",
+          "strongNumber": "H3372",
+          "lemma": "yare",
+          "meaning": "to fear, revere"
+        },
+        {
+          "word": "generations",
+          "strongNumber": "H1755",
+          "lemma": "dor",
+          "meaning": "generation, age"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "He shall come down like rain upon the mown grass: as showers that water the earth.",
+      "highlightedWords": [
+        {
+          "word": "rain",
+          "strongNumber": "H4306",
+          "lemma": "matar",
+          "meaning": "rain"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "’erets",
+          "meaning": "land, earth"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "In his days shall the righteous flourish; and abundance of peace so long as the moon endureth.",
+      "highlightedWords": [
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just"
+        },
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace, welfare, wholeness"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "He shall have dominion also from sea to sea, and from the river unto the ends of the earth.",
+      "highlightedWords": [
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "sea"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "’erets",
+          "meaning": "land, earth"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "They that dwell in the wilderness shall bow before him; and his enemies shall lick the dust.",
+      "highlightedWords": [
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbar",
+          "meaning": "wilderness, desert"
+        },
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "’oyev",
+          "meaning": "enemy, foe"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "The kings of Tarshish and of the isles shall bring presents: the kings of Sheba and Seba shall offer gifts.",
+      "highlightedWords": [
+        {
+          "word": "kings",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        },
+        {
+          "word": "isles",
+          "strongNumber": "H339",
+          "lemma": "’iy",
+          "meaning": "coastland, island"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Yea, all kings shall fall down before him: all nations shall serve him.",
+      "highlightedWords": [
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation, people"
+        },
+        {
+          "word": "serve",
+          "strongNumber": "H5647",
+          "lemma": "’abad",
+          "meaning": "to serve, work"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "For he shall deliver the needy when he crieth; the poor also, and him that hath no helper.",
+      "highlightedWords": [
+        {
+          "word": "deliver",
+          "strongNumber": "H5337",
+          "lemma": "natsal",
+          "meaning": "to deliver, rescue"
+        },
+        {
+          "word": "needy",
+          "strongNumber": "H34",
+          "lemma": "’ebyon",
+          "meaning": "needy, poor"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "He shall spare the poor and needy, and shall save the souls of the needy.",
+      "highlightedWords": [
+        {
+          "word": "save",
+          "strongNumber": "H3467",
+          "lemma": "yasha",
+          "meaning": "to save, deliver"
+        },
+        {
+          "word": "souls",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, person"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "He shall redeem their soul from deceit and violence: and precious shall their blood be in his sight.",
+      "highlightedWords": [
+        {
+          "word": "redeem",
+          "strongNumber": "H1350",
+          "lemma": "ga'al",
+          "meaning": "to redeem, act as kinsman"
+        },
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "blood"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And he shall live, and to him shall be given of the gold of Sheba: prayer also shall be made for him continually; and daily shall he be praised.",
+      "highlightedWords": [
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "zahab",
+          "meaning": "gold"
+        },
+        {
+          "word": "prayer",
+          "strongNumber": "H8605",
+          "lemma": "tephillah",
+          "meaning": "prayer, supplication"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "There shall be an handful of corn in the earth upon the top of the mountains; the fruit thereof shall shake like Lebanon: and they of the city shall flourish like grass of the earth.",
+      "highlightedWords": [
+        {
+          "word": "mountains",
+          "strongNumber": "H2022",
+          "lemma": "har",
+          "meaning": "mountain, hill country"
+        },
+        {
+          "word": "Lebanon",
+          "strongNumber": "H3844",
+          "lemma": "Levanon",
+          "meaning": "Lebanon"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "His name shall endure for ever: his name shall be continued as long as the sun: and men shall be blessed in him: all nations shall call him blessed.",
+      "highlightedWords": [
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "name, reputation"
+        },
+        {
+          "word": "blessed",
+          "strongNumber": "H1288",
+          "lemma": "barak",
+          "meaning": "to bless"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Blessed be the LORD God, the God of Israel, who only doeth wondrous things.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the divine name, LORD"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And blessed be his glorious name for ever: and let the whole earth be filled with his glory; Amen, and Amen.",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "’erets",
+          "meaning": "land, earth"
+        },
+        {
+          "word": "Amen",
+          "strongNumber": "H543",
+          "lemma": "’amen",
+          "meaning": "truly, so be it"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "The prayers of David the son of Jesse are ended.",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dawid",
+          "meaning": "David"
+        },
+        {
+          "word": "Jesse",
+          "strongNumber": "H3448",
+          "lemma": "Yishay",
+          "meaning": "Jesse"
+        }
+      ]
+    }
+  ]
+}

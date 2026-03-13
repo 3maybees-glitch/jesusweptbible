@@ -1,0 +1,276 @@
+{
+  "book": "1 Chronicles",
+  "chapter": 10,
+  "chapterTheme": {
+    "twoWordSummary": "Saul's Death",
+    "themeWords": [
+      {
+        "word": "Saul",
+        "strongNumber": "H7586",
+        "lemma": "Sha'ul",
+        "meaning": "Saul; 'asked for'; first king of Israel"
+      },
+      {
+        "word": "Philistines",
+        "strongNumber": "H6430",
+        "lemma": "Pĕlishtiy",
+        "meaning": "Philistines; a people of Philistia, Israel's coastal foes"
+      }
+    ]
+  },
+  "sentenceTheme": "Saul and his sons fall in battle against the Philistines; his body is dishonored, brave men of Jabesh recover the remains, and Saul dies because of his unfaithfulness, so the kingdom is turned to David by the LORD.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Now the Philistines fought against Israel; and the men of Israel fled from before the Philistines, and fell down slain in mount Gilboa.",
+      "highlightedWords": [
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pĕlishtiy",
+          "meaning": "Philistines; a people of Philistia, Israel's coastal foes"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; the people/nation descended from Jacob"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And the Philistines followed hard after Saul, and after his sons; and the Philistines slew Jonathan, and Abinadab, and Malchishua, the sons of Saul.",
+      "highlightedWords": [
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pĕlishtiy",
+          "meaning": "Philistines; a people of Philistia, Israel's coastal foes"
+        },
+        {
+          "word": "Saul",
+          "strongNumber": "H7586",
+          "lemma": "Sha'ul",
+          "meaning": "Saul; 'asked for'; first king of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And the battle went sore against Saul, and the archers hit him, and he was wounded of the archers.",
+      "highlightedWords": [
+        {
+          "word": "battle",
+          "strongNumber": "H4421",
+          "lemma": "milchâmâh",
+          "meaning": "battle, war, warfare"
+        },
+        {
+          "word": "Saul",
+          "strongNumber": "H7586",
+          "lemma": "Sha'ul",
+          "meaning": "Saul; 'asked for'; first king of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Then said Saul to his armourbearer, Draw thy sword, and thrust me through therewith; lest these uncircumcised come and abuse me. But his armourbearer would not; for he was sore afraid. So Saul took a sword, and fell upon it.",
+      "highlightedWords": [
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword; dagger; destructive instrument of war"
+        },
+        {
+          "word": "afraid",
+          "strongNumber": "H3372",
+          "lemma": "yare'",
+          "meaning": "to fear; be afraid; stand in awe"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And when his armourbearer saw that Saul was dead, he fell likewise on the sword, and died.",
+      "highlightedWords": [
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword; dagger; destructive instrument of war"
+        },
+        {
+          "word": "died",
+          "strongNumber": "H4191",
+          "lemma": "mûth",
+          "meaning": "to die; to perish; to be put to death"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "So Saul died, and his three sons, and all his house died together.",
+      "highlightedWords": [
+        {
+          "word": "died",
+          "strongNumber": "H4191",
+          "lemma": "mûth",
+          "meaning": "to die; to perish; to be put to death"
+        },
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house; household; family; dwelling"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And when all the men of Israel that were in the valley saw that they fled, and that Saul and his sons were dead, then they forsook their cities, and fled: and the Philistines came and dwelt in them.",
+      "highlightedWords": [
+        {
+          "word": "valley",
+          "strongNumber": "H6010",
+          "lemma": "'êmeq",
+          "meaning": "valley; broad, deep plain"
+        },
+        {
+          "word": "cities",
+          "strongNumber": "H5892",
+          "lemma": "'iyr",
+          "meaning": "city; town; urban center"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And it came to pass on the morrow, when the Philistines came to strip the slain, that they found Saul and his sons fallen in mount Gilboa.",
+      "highlightedWords": [
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pĕlishtiy",
+          "meaning": "Philistines; a people of Philistia, Israel's coastal foes"
+        },
+        {
+          "word": "slain",
+          "strongNumber": "H2491",
+          "lemma": "chalal",
+          "meaning": "slain; pierced; one fatally wounded"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And when they had stripped him, they took his head, and his armour, and sent into the land of the Philistines round about, to carry tidings unto their idols, and to the people.",
+      "highlightedWords": [
+        {
+          "word": "head",
+          "strongNumber": "H7218",
+          "lemma": "ro'sh",
+          "meaning": "head; chief; top; summit"
+        },
+        {
+          "word": "armour",
+          "strongNumber": "H3627",
+          "lemma": "kĕlî",
+          "meaning": "vessel; implement; weapon/armour"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And they put his armour in the house of their gods, and fastened his head in the temple of Dagon.",
+      "highlightedWords": [
+        {
+          "word": "gods",
+          "strongNumber": "H430",
+          "lemma": "’ĕlōhîm",
+          "meaning": "God; gods; divine beings"
+        },
+        {
+          "word": "Dagon",
+          "strongNumber": "H1712",
+          "lemma": "Dagon",
+          "meaning": "Dagon; a Philistine deity"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And when all Jabesh-gilead heard all that the Philistines had done to Saul,",
+      "highlightedWords": [
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pĕlishtiy",
+          "meaning": "Philistines; a people of Philistia, Israel's coastal foes"
+        },
+        {
+          "word": "Saul",
+          "strongNumber": "H7586",
+          "lemma": "Sha'ul",
+          "meaning": "Saul; 'asked for'; first king of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "They arose, all the valiant men, and took away the body of Saul, and the bodies of his sons, and brought them to Jabesh, and buried their bones under the oak in Jabesh, and fasted seven days.",
+      "highlightedWords": [
+        {
+          "word": "valiant",
+          "strongNumber": "H2428",
+          "lemma": "chayil",
+          "meaning": "strength, might; valour; able/valiant"
+        },
+        {
+          "word": "bones",
+          "strongNumber": "H6106",
+          "lemma": "'etsem",
+          "meaning": "bone; bones; substance"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "So Saul died for his transgression which he committed against the LORD, even against the word of the LORD, which he kept not, and also for asking counsel of one that had a familiar spirit, to enquire of it;",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the LORD; the personal name of Israel's God"
+        },
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dābār",
+          "meaning": "word; matter; decree"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And enquired not of the LORD: therefore he slew him, and turned the kingdom unto David the son of Jesse.",
+      "highlightedWords": [
+        {
+          "word": "kingdom",
+          "strongNumber": "H4467",
+          "lemma": "malkûth",
+          "meaning": "kingdom; dominion; reign"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dāwîd",
+          "meaning": "David; beloved; second king of Israel"
+        }
+      ]
+    }
+  ]
+}

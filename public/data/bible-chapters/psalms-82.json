@@ -1,0 +1,168 @@
+{
+  "book": "Psalms",
+  "chapter": 82,
+  "chapterTheme": {
+    "twoWordSummary": "Divine Justice",
+    "themeWords": [
+      {
+        "word": "God",
+        "strongNumber": "H430",
+        "lemma": "elohim",
+        "meaning": "God; gods; mighty ones"
+      },
+      {
+        "word": "judge",
+        "strongNumber": "H8199",
+        "lemma": "shaphat",
+        "meaning": "to judge; govern; deliver justice"
+      }
+    ]
+  },
+  "sentenceTheme": "God rebukes unjust rulers, commands justice for the oppressed, declares human mortality, and asserts His sovereign rule over all nations.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "A Psalm of Asaph. God standeth in the congregation of the mighty; he judgeth among the gods.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "elohim",
+          "meaning": "God; gods; mighty ones"
+        },
+        {
+          "word": "gods",
+          "strongNumber": "H430",
+          "lemma": "elohim",
+          "meaning": "gods; mighty ones; divine beings"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "How long will ye judge unjustly, and accept the persons of the wicked? Selah.",
+      "highlightedWords": [
+        {
+          "word": "judge",
+          "strongNumber": "H8199",
+          "lemma": "shaphat",
+          "meaning": "to judge; govern; deliver justice"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha",
+          "meaning": "wicked; guilty; criminal"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Defend the poor and fatherless: do justice to the afflicted and needy.",
+      "highlightedWords": [
+        {
+          "word": "fatherless",
+          "strongNumber": "H3490",
+          "lemma": "yathom",
+          "meaning": "orphan; fatherless child"
+        },
+        {
+          "word": "needy",
+          "strongNumber": "H34",
+          "lemma": "ebyon",
+          "meaning": "needy; poor; destitute"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Deliver the poor and needy: rid them out of the hand of the wicked.",
+      "highlightedWords": [
+        {
+          "word": "Deliver",
+          "strongNumber": "H5337",
+          "lemma": "natsal",
+          "meaning": "to deliver; rescue; snatch away"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha",
+          "meaning": "wicked; guilty; criminal"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "They know not, neither will they understand; they walk on in darkness: all the foundations of the earth are out of course.",
+      "highlightedWords": [
+        {
+          "word": "understand",
+          "strongNumber": "H995",
+          "lemma": "bin",
+          "meaning": "to understand; perceive; discern"
+        },
+        {
+          "word": "darkness",
+          "strongNumber": "H2822",
+          "lemma": "choshek",
+          "meaning": "darkness; obscurity"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "I have said, Ye are gods; and all of you are children of the most High.",
+      "highlightedWords": [
+        {
+          "word": "gods",
+          "strongNumber": "H430",
+          "lemma": "elohim",
+          "meaning": "gods; mighty ones; divine beings"
+        },
+        {
+          "word": "most High",
+          "strongNumber": "H5945",
+          "lemma": "elyon",
+          "meaning": "Most High; highest; exalted one"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "But ye shall die like men, and fall like one of the princes.",
+      "highlightedWords": [
+        {
+          "word": "die",
+          "strongNumber": "H4191",
+          "lemma": "muwth",
+          "meaning": "to die; be put to death"
+        },
+        {
+          "word": "princes",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "prince; ruler; chief"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Arise, O God, judge the earth: for thou shalt inherit all nations.",
+      "highlightedWords": [
+        {
+          "word": "judge",
+          "strongNumber": "H8199",
+          "lemma": "shaphat",
+          "meaning": "to judge; govern; deliver justice"
+        },
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation; people; Gentiles"
+        }
+      ]
+    }
+  ]
+}

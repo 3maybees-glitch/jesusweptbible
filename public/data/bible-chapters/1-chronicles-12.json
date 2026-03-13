@@ -1,0 +1,744 @@
+{
+  "book": "1 Chronicles",
+  "chapter": 12,
+  "chapterTheme": {
+    "twoWordSummary": "Loyal Allies",
+    "themeWords": [
+      {
+        "word": "David",
+        "strongNumber": "H1732",
+        "lemma": "Dāwîd",
+        "meaning": "beloved; David, second king of Israel"
+      },
+      {
+        "word": "Israel",
+        "strongNumber": "H3478",
+        "lemma": "Yiśrā’ēl",
+        "meaning": "God strives; the nation of Israel"
+      }
+    ]
+  },
+  "sentenceTheme": "Warriors from many tribes rally to David, affirming God’s plan to make him king over Israel.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Now these are they that came to David to Ziklag, while he yet kept himself close because of Saul the son of Kish: and they were among the mighty men, helpers of the war.",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dāwîd",
+          "meaning": "beloved; David, second king of Israel"
+        },
+        {
+          "word": "Saul",
+          "strongNumber": "H7586",
+          "lemma": "Šā’ûl",
+          "meaning": "asked (of God); Saul, first king of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "They were armed with bows, and could use both the right hand and the left in hurling stones and shooting arrows out of a bow, even of Saul's brethren of Benjamin.",
+      "highlightedWords": [
+        {
+          "word": "bows",
+          "strongNumber": "H7198",
+          "lemma": "qešet",
+          "meaning": "bow; archery weapon"
+        },
+        {
+          "word": "Benjamin",
+          "strongNumber": "H1144",
+          "lemma": "Binyāmîn",
+          "meaning": "son of the right hand; Benjamin"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "The chief was Ahiezer, then Joash, the sons of Shemaah the Gibeathite; and Jeziel, and Pelet, the sons of Azmaveth; and Berachah, and Jehu the Antothite,",
+      "highlightedWords": [
+        {
+          "word": "chief",
+          "strongNumber": "H7218",
+          "lemma": "rō’š",
+          "meaning": "head, chief, leader"
+        },
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "bēn",
+          "meaning": "son; descendant; member"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And Ismaiah the Gibeonite, a mighty man among the thirty, and over the thirty; and Jeremiah, and Jahaziel, and Johanan, and Josabad the Gederathite,",
+      "highlightedWords": [
+        {
+          "word": "mighty",
+          "strongNumber": "H1368",
+          "lemma": "gibbōr",
+          "meaning": "mighty, valiant, warrior"
+        },
+        {
+          "word": "thirty",
+          "strongNumber": "H7970",
+          "lemma": "šelōšîm",
+          "meaning": "thirty"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Eluzai, and Jerimoth, and Bealiah, and Shemariah, and Shephatiah the Haruphite,",
+      "highlightedWords": [
+        {
+          "word": "Jerimoth",
+          "strongNumber": "H3406",
+          "lemma": "Yərîmôṯ",
+          "meaning": "Jerimoth; a Hebrew proper name meaning heights"
+        },
+        {
+          "word": "Shephatiah",
+          "strongNumber": "H8203",
+          "lemma": "Šəpaṭyāh",
+          "meaning": "Shephatiah; ‘Yah has judged’"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Elkanah, and Jesiah, and Azareel, and Joezer, and Jashobeam, the Korhites,",
+      "highlightedWords": [
+        {
+          "word": "Elkanah",
+          "strongNumber": "H511",
+          "lemma": "’Elqānāh",
+          "meaning": "Elkanah; ‘God has possessed/created’"
+        },
+        {
+          "word": "Korhites",
+          "strongNumber": "H7145",
+          "lemma": "Qōraḥî",
+          "meaning": "Korahites; descendants of Korah"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And Joelah, and Zebadiah, the sons of Jeroham of Gedor.",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "bēn",
+          "meaning": "son; descendant; member"
+        },
+        {
+          "word": "Gedor",
+          "strongNumber": "H1446",
+          "lemma": "Gədōr",
+          "meaning": "Gedor; a town in Judah/Benjamin"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And of the Gadites there separated themselves unto David into the hold to the wilderness men of might, and men of war fit for the battle, that could handle shield and buckler, whose faces were like the faces of lions, and were as swift as the roes upon the mountains;",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dāwîd",
+          "meaning": "beloved; David, second king of Israel"
+        },
+        {
+          "word": "shield",
+          "strongNumber": "H4043",
+          "lemma": "māgēn",
+          "meaning": "shield; protective buckler"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Ezer the first, Obadiah the second, Eliab the third,",
+      "highlightedWords": [
+        {
+          "word": "Ezer",
+          "strongNumber": "H5829",
+          "lemma": "‘Ezer",
+          "meaning": "Ezer; ‘help’"
+        },
+        {
+          "word": "Obadiah",
+          "strongNumber": "H5662",
+          "lemma": "‘Ōḇadyāh",
+          "meaning": "Obadiah; ‘servant of Yahweh’"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Mishmannah the fourth, Jeremiah the fifth,",
+      "highlightedWords": [
+        {
+          "word": "fourth",
+          "strongNumber": "H7243",
+          "lemma": "rəḇî‘î",
+          "meaning": "fourth (ordinal)"
+        },
+        {
+          "word": "Jeremiah",
+          "strongNumber": "H3414",
+          "lemma": "Yirməyāhû",
+          "meaning": "Jeremiah; ‘Yahweh has appointed’"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Attai the sixth, Eliel the seventh,",
+      "highlightedWords": [
+        {
+          "word": "sixth",
+          "strongNumber": "H8345",
+          "lemma": "šši",
+          "meaning": "sixth (ordinal)"
+        },
+        {
+          "word": "seventh",
+          "strongNumber": "H7637",
+          "lemma": "šəḇî‘î",
+          "meaning": "seventh (ordinal)"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Johanan the eighth, Elzabad the ninth,",
+      "highlightedWords": [
+        {
+          "word": "eighth",
+          "strongNumber": "H8066",
+          "lemma": "šəmînî",
+          "meaning": "eighth (ordinal)"
+        },
+        {
+          "word": "ninth",
+          "strongNumber": "H8671",
+          "lemma": "tiš‘î",
+          "meaning": "ninth (ordinal)"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Jeremiah the tenth, Machbanai the eleventh.",
+      "highlightedWords": [
+        {
+          "word": "Jeremiah",
+          "strongNumber": "H3414",
+          "lemma": "Yirməyāhû",
+          "meaning": "Jeremiah; ‘Yahweh has appointed’"
+        },
+        {
+          "word": "tenth",
+          "strongNumber": "H6224",
+          "lemma": "‘ăśîrî",
+          "meaning": "tenth (ordinal)"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "These were of the sons of Gad, captains of the host: one of the least was over an hundred, and the greatest over a thousand.",
+      "highlightedWords": [
+        {
+          "word": "Gad",
+          "strongNumber": "H1410",
+          "lemma": "Gāḏ",
+          "meaning": "Gad; a tribe of Israel; ‘fortune/troop’"
+        },
+        {
+          "word": "captains",
+          "strongNumber": "H8269",
+          "lemma": "śar",
+          "meaning": "chief, ruler, captain"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "These are they that went over Jordan in the first month, when it had overflowen all his banks; and they put to flight all them of the valleys, both toward the east, and toward the west.",
+      "highlightedWords": [
+        {
+          "word": "Jordan",
+          "strongNumber": "H3383",
+          "lemma": "Yardēn",
+          "meaning": "the Jordan River; ‘the descender’"
+        },
+        {
+          "word": "east",
+          "strongNumber": "H4217",
+          "lemma": "mizraḥ",
+          "meaning": "east; place of sunrise"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And there came of the children of Benjamin and Judah to the hold unto David.",
+      "highlightedWords": [
+        {
+          "word": "Benjamin",
+          "strongNumber": "H1144",
+          "lemma": "Binyāmîn",
+          "meaning": "son of the right hand; Benjamin"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yəhûḏāh",
+          "meaning": "Judah; ‘praised’"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And David went out to meet them, and answered and said unto them, If ye be come peaceably unto me to help me, mine heart shall be knit unto you: but if ye be come to betray me to mine enemies, seeing there is no wrong in mine hands, the God of our fathers look thereon, and rebuke it.",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dāwîd",
+          "meaning": "beloved; David, second king of Israel"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’ĕlōhîm",
+          "meaning": "God; mighty one"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Then the spirit came upon Amasai, who was chief of the captains, and he said, Thine are we, David, and on thy side, thou son of Jesse: peace, peace be unto thee, and peace be to thine helpers; for thy God helpeth thee. Then David received them, and made them captains of the band.",
+      "highlightedWords": [
+        {
+          "word": "spirit",
+          "strongNumber": "H7307",
+          "lemma": "rûaḥ",
+          "meaning": "breath, wind, spirit"
+        },
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "šālôm",
+          "meaning": "peace, well-being, wholeness"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And there fell some of Manasseh to David, when he came with the Philistines against Saul to battle: but they helped them not: for the lords of the Philistines upon advisement sent him away, saying, He will fall to his master Saul to the jeopardy of our heads.",
+      "highlightedWords": [
+        {
+          "word": "Manasseh",
+          "strongNumber": "H4519",
+          "lemma": "Mənnaššeh",
+          "meaning": "Manasseh; ‘causing to forget’"
+        },
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pəlištî",
+          "meaning": "Philistines; people of Philistia"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "As he went to Ziklag, there fell to him of Manasseh, Adnah, and Jozabad, and Jediael, and Michael, and Jozabad, and Elihu, and Zilthai, captains of the thousands that were of Manasseh.",
+      "highlightedWords": [
+        {
+          "word": "Ziklag",
+          "strongNumber": "H6860",
+          "lemma": "Ṣiqelāg",
+          "meaning": "Ziklag; a town in the south"
+        },
+        {
+          "word": "Manasseh",
+          "strongNumber": "H4519",
+          "lemma": "Mənnaššeh",
+          "meaning": "Manasseh; ‘causing to forget’"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And they helped David against the band of the rovers: for they were all mighty men of valour, and were captains in the host.",
+      "highlightedWords": [
+        {
+          "word": "band",
+          "strongNumber": "H1416",
+          "lemma": "gədûd",
+          "meaning": "troop, band, raiding party"
+        },
+        {
+          "word": "mighty",
+          "strongNumber": "H1368",
+          "lemma": "gibbōr",
+          "meaning": "mighty, valiant, warrior"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "For at that time day by day there came to David to help him, until it was a great host, like the host of God.",
+      "highlightedWords": [
+        {
+          "word": "host",
+          "strongNumber": "H6635",
+          "lemma": "ṣāḇā’",
+          "meaning": "army, host"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’ĕlōhîm",
+          "meaning": "God; mighty one"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And these are the numbers of the bands that were ready armed to the war, and came to David to Hebron, to turn the kingdom of Saul to him, according to the word of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "Hebron",
+          "strongNumber": "H2275",
+          "lemma": "Ḥeḇrôn",
+          "meaning": "Hebron; a city of Judah"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "The children of Judah that bare shield and spear were six thousand and eight hundred, ready armed to the war.",
+      "highlightedWords": [
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yəhûḏāh",
+          "meaning": "Judah; ‘praised’"
+        },
+        {
+          "word": "shield",
+          "strongNumber": "H4043",
+          "lemma": "māgēn",
+          "meaning": "shield; protective buckler"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Of the children of Simeon, mighty men of valour for the war, seven thousand and one hundred.",
+      "highlightedWords": [
+        {
+          "word": "Simeon",
+          "strongNumber": "H8095",
+          "lemma": "Šim‘ôn",
+          "meaning": "Simeon; ‘hearing’"
+        },
+        {
+          "word": "mighty",
+          "strongNumber": "H1368",
+          "lemma": "gibbōr",
+          "meaning": "mighty, valiant, warrior"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "Of the children of Levi four thousand and six hundred.",
+      "highlightedWords": [
+        {
+          "word": "Levi",
+          "strongNumber": "H3878",
+          "lemma": "Lēwî",
+          "meaning": "Levi; ‘joined, attached’"
+        },
+        {
+          "word": "thousand",
+          "strongNumber": "H505",
+          "lemma": "’eleph",
+          "meaning": "thousand"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And Jehoiada was the leader of the Aaronites, and with him were three thousand and seven hundred;",
+      "highlightedWords": [
+        {
+          "word": "leader",
+          "strongNumber": "H5057",
+          "lemma": "nāgîd",
+          "meaning": "leader, prince, ruler"
+        },
+        {
+          "word": "Aaronites",
+          "strongNumber": "H175",
+          "lemma": "’Ahărōn",
+          "meaning": "Aaron; here, descendants/priests of Aaron"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And Zadok, a young man mighty of valour, and of his father's house twenty and two captains.",
+      "highlightedWords": [
+        {
+          "word": "Zadok",
+          "strongNumber": "H6659",
+          "lemma": "Ṣādōq",
+          "meaning": "Zadok; ‘righteous’"
+        },
+        {
+          "word": "captains",
+          "strongNumber": "H8269",
+          "lemma": "śar",
+          "meaning": "chief, ruler, captain"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "And of the children of Benjamin, the kindred of Saul, three thousand: for hitherto the greatest part of them had kept the ward of the house of Saul.",
+      "highlightedWords": [
+        {
+          "word": "Benjamin",
+          "strongNumber": "H1144",
+          "lemma": "Binyāmîn",
+          "meaning": "son of the right hand; Benjamin"
+        },
+        {
+          "word": "ward",
+          "strongNumber": "H4931",
+          "lemma": "mišmèreṯ",
+          "meaning": "charge, duty, guard, watch"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "And of the children of Ephraim twenty thousand and eight hundred, mighty men of valour, famous throughout the house of their fathers.",
+      "highlightedWords": [
+        {
+          "word": "Ephraim",
+          "strongNumber": "H669",
+          "lemma": "’Efrayim",
+          "meaning": "Ephraim; ‘fruitful’"
+        },
+        {
+          "word": "mighty",
+          "strongNumber": "H1368",
+          "lemma": "gibbōr",
+          "meaning": "mighty, valiant, warrior"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "And of the half tribe of Manasseh eighteen thousand, which were expressed by name, to come and make David king.",
+      "highlightedWords": [
+        {
+          "word": "Manasseh",
+          "strongNumber": "H4519",
+          "lemma": "Mənnaššeh",
+          "meaning": "Manasseh; ‘causing to forget’"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "meleḵ",
+          "meaning": "king, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "And of the children of Issachar, which were men that had understanding of the times, to know what Israel ought to do; the heads of them were two hundred; and all their brethren were at their commandment.",
+      "highlightedWords": [
+        {
+          "word": "Issachar",
+          "strongNumber": "H3485",
+          "lemma": "Yiśśāḵār",
+          "meaning": "Issachar; ‘he brings wages’"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yiśrā’ēl",
+          "meaning": "God strives; the nation of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "Of Zebulun, such as went forth to battle, expert in war, with all instruments of war, fifty thousand, which could keep rank: they were not of double heart.",
+      "highlightedWords": [
+        {
+          "word": "Zebulun",
+          "strongNumber": "H2074",
+          "lemma": "Zəḇûlûn",
+          "meaning": "Zebulun; ‘exalted, dwelling’"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3824",
+          "lemma": "lēḇāḇ",
+          "meaning": "heart, mind, inner person"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "And of Naphtali a thousand captains, and with them with shield and spear thirty and seven thousand.",
+      "highlightedWords": [
+        {
+          "word": "Naphtali",
+          "strongNumber": "H5321",
+          "lemma": "Nap̄tālî",
+          "meaning": "Naphtali; ‘my wrestling’"
+        },
+        {
+          "word": "spear",
+          "strongNumber": "H2595",
+          "lemma": "ḥănîṯ",
+          "meaning": "spear, javelin"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "And of the Danites expert in war twenty and eight thousand and six hundred.",
+      "highlightedWords": [
+        {
+          "word": "Danites",
+          "strongNumber": "H1835",
+          "lemma": "Dān",
+          "meaning": "Dan; ‘judge’ (tribe/descendants of Dan)"
+        },
+        {
+          "word": "war",
+          "strongNumber": "H4421",
+          "lemma": "milḥāmāh",
+          "meaning": "battle, war"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "And of Asher, such as went forth to battle, expert in war, forty thousand.",
+      "highlightedWords": [
+        {
+          "word": "Asher",
+          "strongNumber": "H836",
+          "lemma": "’Āšēr",
+          "meaning": "Asher; ‘happy, blessed’"
+        },
+        {
+          "word": "war",
+          "strongNumber": "H4421",
+          "lemma": "milḥāmāh",
+          "meaning": "battle, war"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "And on the other side of Jordan, of the Reubenites, and the Gadites, and of the half tribe of Manasseh, with all manner of instruments of war for the battle, an hundred and twenty thousand.",
+      "highlightedWords": [
+        {
+          "word": "Jordan",
+          "strongNumber": "H3383",
+          "lemma": "Yardēn",
+          "meaning": "the Jordan River; ‘the descender’"
+        },
+        {
+          "word": "Manasseh",
+          "strongNumber": "H4519",
+          "lemma": "Mənnaššeh",
+          "meaning": "Manasseh; ‘causing to forget’"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "All these men of war, that could keep rank, came with a perfect heart to Hebron, to make David king over all Israel: and all the rest also of Israel were of one heart to make David king.",
+      "highlightedWords": [
+        {
+          "word": "perfect",
+          "strongNumber": "H8003",
+          "lemma": "šālēm",
+          "meaning": "complete, sound, perfect"
+        },
+        {
+          "word": "Hebron",
+          "strongNumber": "H2275",
+          "lemma": "Ḥeḇrôn",
+          "meaning": "Hebron; a city of Judah"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "text": "And there they were with David three days, eating and drinking: for their brethren had prepared for them.",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dāwîd",
+          "meaning": "beloved; David, second king of Israel"
+        },
+        {
+          "word": "brethren",
+          "strongNumber": "H251",
+          "lemma": "’āḥ",
+          "meaning": "brother; kinsman; fellow"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "text": "Moreover they that were nigh them, even unto Issachar and Zebulun and Naphtali, brought bread on asses, and on camels, and on mules, and on oxen, and meat, meal, cakes of figs, and bunches of raisins, and wine, and oil, and oxen, and sheep abundantly: for there was joy in Israel.",
+      "highlightedWords": [
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "leḥem",
+          "meaning": "bread, food"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yiśrā’ēl",
+          "meaning": "God strives; the nation of Israel"
+        }
+      ]
+    }
+  ]
+}

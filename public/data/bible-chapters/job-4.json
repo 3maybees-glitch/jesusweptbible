@@ -1,0 +1,402 @@
+{
+  "book": "Job",
+  "chapter": 4,
+  "chapterTheme": {
+    "twoWordSummary": "Eliphaz Speaks",
+    "themeWords": [
+      {
+        "word": "fear",
+        "strongNumber": "H3374",
+        "lemma": "yir'ah",
+        "meaning": "fear, awe, reverence"
+      },
+      {
+        "word": "man",
+        "strongNumber": "H582",
+        "lemma": "enosh",
+        "meaning": "man, mortal, humanity"
+      }
+    ]
+  },
+  "sentenceTheme": "Eliphaz begins his counsel to Job, asserting that the innocent do not perish and that God’s breath consumes the wicked.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Then Eliphaz the Temanite answered and said,",
+      "highlightedWords": [
+        {
+          "word": "Eliphaz",
+          "strongNumber": "H464",
+          "lemma": "’Eliyphaz",
+          "meaning": "El is fine gold; a personal name"
+        },
+        {
+          "word": "Temanite",
+          "strongNumber": "H8489",
+          "lemma": "Temaniy",
+          "meaning": "a Temanite; an inhabitant of Teman"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "If we assay to commune with thee, wilt thou be grieved? but who can withhold himself from speaking?",
+      "highlightedWords": [
+        {
+          "word": "withhold",
+          "strongNumber": "H4513",
+          "lemma": "mana‘",
+          "meaning": "to withhold, restrain, keep back"
+        },
+        {
+          "word": "speaking",
+          "strongNumber": "H1696",
+          "lemma": "dabar",
+          "meaning": "to speak, declare, converse"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Behold, thou hast instructed many, and thou hast strengthened the weak hands.",
+      "highlightedWords": [
+        {
+          "word": "strengthened",
+          "strongNumber": "H2388",
+          "lemma": "chazaq",
+          "meaning": "to be strong, strengthen, prevail"
+        },
+        {
+          "word": "hands",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Thy words have upholden him that was falling, and thou hast strengthened the feeble knees.",
+      "highlightedWords": [
+        {
+          "word": "words",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, thing"
+        },
+        {
+          "word": "knees",
+          "strongNumber": "H1290",
+          "lemma": "berek",
+          "meaning": "knee"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "But now it is come upon thee, and thou faintest; it toucheth thee, and thou art troubled.",
+      "highlightedWords": [
+        {
+          "word": "toucheth",
+          "strongNumber": "H5060",
+          "lemma": "naga‘",
+          "meaning": "to touch, strike, reach"
+        },
+        {
+          "word": "troubled",
+          "strongNumber": "H926",
+          "lemma": "bahal",
+          "meaning": "to terrify, startle, trouble"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Is not this thy fear, thy confidence, thy hope, and the uprightness of thy ways?",
+      "highlightedWords": [
+        {
+          "word": "fear",
+          "strongNumber": "H3374",
+          "lemma": "yir'ah",
+          "meaning": "fear, awe, reverence"
+        },
+        {
+          "word": "hope",
+          "strongNumber": "H8615",
+          "lemma": "tiqvah",
+          "meaning": "hope, expectation"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Remember, I pray thee, who ever perished, being innocent? or where were the righteous cut off?",
+      "highlightedWords": [
+        {
+          "word": "innocent",
+          "strongNumber": "H5355",
+          "lemma": "naqi",
+          "meaning": "innocent, clean, free from guilt"
+        },
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just, lawful"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Even as I have seen, they that plow iniquity, and sow wickedness, reap the same.",
+      "highlightedWords": [
+        {
+          "word": "plow",
+          "strongNumber": "H2790",
+          "lemma": "charash",
+          "meaning": "to plow, engrave; to devise"
+        },
+        {
+          "word": "sow",
+          "strongNumber": "H2232",
+          "lemma": "zara‘",
+          "meaning": "to sow, scatter seed"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "By the blast of God they perish, and by the breath of his nostrils are they consumed.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H410",
+          "lemma": "’El",
+          "meaning": "God, mighty one"
+        },
+        {
+          "word": "breath",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "breath, wind, spirit"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "The roaring of the lion, and the voice of the fierce lion, and the teeth of the young lions, are broken.",
+      "highlightedWords": [
+        {
+          "word": "lion",
+          "strongNumber": "H738",
+          "lemma": "’aryeh",
+          "meaning": "lion"
+        },
+        {
+          "word": "teeth",
+          "strongNumber": "H8127",
+          "lemma": "shen",
+          "meaning": "tooth, teeth"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "The old lion perisheth for lack of prey, and the stout lion's whelps are scattered abroad.",
+      "highlightedWords": [
+        {
+          "word": "whelps",
+          "strongNumber": "H1482",
+          "lemma": "gur",
+          "meaning": "whelp, cub (of a lion)"
+        },
+        {
+          "word": "scattered",
+          "strongNumber": "H6327",
+          "lemma": "puwts",
+          "meaning": "to scatter, disperse"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Now a thing was secretly brought to me, and mine ear received a little thereof.",
+      "highlightedWords": [
+        {
+          "word": "ear",
+          "strongNumber": "H241",
+          "lemma": "’ozen",
+          "meaning": "ear"
+        },
+        {
+          "word": "received",
+          "strongNumber": "H3947",
+          "lemma": "laqach",
+          "meaning": "to take, receive"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "In thoughts from the visions of the night, when deep sleep falleth on men,",
+      "highlightedWords": [
+        {
+          "word": "visions",
+          "strongNumber": "H2377",
+          "lemma": "chazon",
+          "meaning": "vision, revelation"
+        },
+        {
+          "word": "night",
+          "strongNumber": "H3915",
+          "lemma": "laylah",
+          "meaning": "night"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Fear came upon me, and trembling, which made all my bones to shake.",
+      "highlightedWords": [
+        {
+          "word": "trembling",
+          "strongNumber": "H7461",
+          "lemma": "ra‘ad",
+          "meaning": "trembling, quaking"
+        },
+        {
+          "word": "bones",
+          "strongNumber": "H6106",
+          "lemma": "’etsem",
+          "meaning": "bone, body (framework)"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Then a spirit passed before my face; the hair of my flesh stood up:",
+      "highlightedWords": [
+        {
+          "word": "spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "spirit, wind, breath"
+        },
+        {
+          "word": "flesh",
+          "strongNumber": "H1320",
+          "lemma": "basar",
+          "meaning": "flesh, body"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "It stood still, but I could not discern the form thereof: an image was before mine eyes, there was silence, and I heard a voice, saying,",
+      "highlightedWords": [
+        {
+          "word": "image",
+          "strongNumber": "H8544",
+          "lemma": "temunah",
+          "meaning": "form, likeness, image"
+        },
+        {
+          "word": "voice",
+          "strongNumber": "H6963",
+          "lemma": "qol",
+          "meaning": "voice, sound"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Shall mortal man be more just than God? shall a man be more pure than his maker?",
+      "highlightedWords": [
+        {
+          "word": "man",
+          "strongNumber": "H582",
+          "lemma": "enosh",
+          "meaning": "man, mortal"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H433",
+          "lemma": "’eloah",
+          "meaning": "God, deity"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Behold, he put no trust in his servants; and his angels he charged with folly:",
+      "highlightedWords": [
+        {
+          "word": "servants",
+          "strongNumber": "H5650",
+          "lemma": "‘eved",
+          "meaning": "servant, bondman"
+        },
+        {
+          "word": "angels",
+          "strongNumber": "H4397",
+          "lemma": "mal’ak",
+          "meaning": "messenger, angel"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "How much less in them that dwell in houses of clay, whose foundation is in the dust, which are crushed before the moth?",
+      "highlightedWords": [
+        {
+          "word": "clay",
+          "strongNumber": "H2563",
+          "lemma": "chomer",
+          "meaning": "clay, mortar"
+        },
+        {
+          "word": "dust",
+          "strongNumber": "H6083",
+          "lemma": "’aphar",
+          "meaning": "dust, dry earth"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "They are destroyed from morning to evening: they perish for ever without any regarding it.",
+      "highlightedWords": [
+        {
+          "word": "perish",
+          "strongNumber": "H0006",
+          "lemma": "’abad",
+          "meaning": "to perish, be lost, be destroyed"
+        },
+        {
+          "word": "evening",
+          "strongNumber": "H6153",
+          "lemma": "‘ereb",
+          "meaning": "evening, sunset"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Doth not their excellency which is in them go away? they die, even without wisdom.",
+      "highlightedWords": [
+        {
+          "word": "die",
+          "strongNumber": "H4191",
+          "lemma": "muth",
+          "meaning": "to die, to be dead"
+        },
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "wisdom, skill"
+        }
+      ]
+    }
+  ]
+}

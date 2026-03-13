@@ -1,0 +1,366 @@
+{
+  "book": "Psalms",
+  "chapter": 51,
+  "chapterTheme": {
+    "twoWordSummary": "Penitent Prayer",
+    "themeWords": [
+      {
+        "word": "lovingkindness",
+        "strongNumber": "H2617",
+        "lemma": "chesed",
+        "meaning": "steadfast love; covenant loyalty; kindness"
+      },
+      {
+        "word": "cleanse",
+        "strongNumber": "H2891",
+        "lemma": "taher",
+        "meaning": "to make clean; purify; declare clean"
+      }
+    ]
+  },
+  "sentenceTheme": "David pleads for God’s mercy, cleansing, and renewal of heart and spirit after sin, vowing to teach others and worship rightly.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions.",
+      "highlightedWords": [
+        {
+          "word": "mercy",
+          "strongNumber": "H2603",
+          "lemma": "chanan",
+          "meaning": "to be gracious; show favor; have mercy"
+        },
+        {
+          "word": "lovingkindness",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "steadfast love; covenant loyalty; kindness"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Wash me throughly from mine iniquity, and cleanse me from my sin.",
+      "highlightedWords": [
+        {
+          "word": "Wash",
+          "strongNumber": "H3526",
+          "lemma": "kabas",
+          "meaning": "to wash (garments); launder; cleanse"
+        },
+        {
+          "word": "cleanse",
+          "strongNumber": "H2891",
+          "lemma": "taher",
+          "meaning": "to make clean; purify; declare clean"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "For I acknowledge my transgressions: and my sin is ever before me.",
+      "highlightedWords": [
+        {
+          "word": "acknowledge",
+          "strongNumber": "H3045",
+          "lemma": "yada",
+          "meaning": "to know; perceive; recognize; acknowledge"
+        },
+        {
+          "word": "transgressions",
+          "strongNumber": "H6588",
+          "lemma": "pesha",
+          "meaning": "transgression; rebellion; revolt"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Against thee, thee only, have I sinned, and done this evil in thy sight: that thou mightest be justified when thou speakest, and be clear when thou judgest.",
+      "highlightedWords": [
+        {
+          "word": "sinned",
+          "strongNumber": "H2398",
+          "lemma": "chata",
+          "meaning": "to sin; miss the mark; offend"
+        },
+        {
+          "word": "justified",
+          "strongNumber": "H6663",
+          "lemma": "tsadaq",
+          "meaning": "to be righteous; declare just; justify"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Behold, I was shapen in iniquity; and in sin did my mother conceive me.",
+      "highlightedWords": [
+        {
+          "word": "shapen",
+          "strongNumber": "H2342",
+          "lemma": "chul",
+          "meaning": "to be brought forth; writhe; travail"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "avon",
+          "meaning": "iniquity; guilt; consequence of iniquity"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Behold, thou desirest truth in the inward parts: and in the hidden part thou shalt make me to know wisdom.",
+      "highlightedWords": [
+        {
+          "word": "truth",
+          "strongNumber": "H0571",
+          "lemma": "emeth",
+          "meaning": "truth; firmness; faithfulness"
+        },
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "wisdom; skill; prudence"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Purge me with hyssop, and I shall be clean: wash me, and I shall be whiter than snow.",
+      "highlightedWords": [
+        {
+          "word": "Purge",
+          "strongNumber": "H2398",
+          "lemma": "chata",
+          "meaning": "to purify from sin; de-sin; make expiation"
+        },
+        {
+          "word": "hyssop",
+          "strongNumber": "H0231",
+          "lemma": "ezob",
+          "meaning": "hyssop; aromatic plant used in ritual purification"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Make me to hear joy and gladness; that the bones which thou hast broken may rejoice.",
+      "highlightedWords": [
+        {
+          "word": "joy",
+          "strongNumber": "H8342",
+          "lemma": "sason",
+          "meaning": "joy; exultation; rejoicing"
+        },
+        {
+          "word": "bones",
+          "strongNumber": "H6106",
+          "lemma": "etsem",
+          "meaning": "bone; body frame; strength"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Hide thy face from my sins, and blot out all mine iniquities.",
+      "highlightedWords": [
+        {
+          "word": "blot out",
+          "strongNumber": "H4229",
+          "lemma": "machah",
+          "meaning": "to wipe; blot out; erase"
+        },
+        {
+          "word": "iniquities",
+          "strongNumber": "H5771",
+          "lemma": "avon",
+          "meaning": "iniquities; guilt; consequences of iniquity"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Create in me a clean heart, O God; and renew a right spirit within me.",
+      "highlightedWords": [
+        {
+          "word": "Create",
+          "strongNumber": "H1254",
+          "lemma": "bara",
+          "meaning": "to create; shape; form"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart; inner person; mind; will"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Cast me not away from thy presence; and take not thy holy spirit from me.",
+      "highlightedWords": [
+        {
+          "word": "presence",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "face; presence; before"
+        },
+        {
+          "word": "holy",
+          "strongNumber": "H6944",
+          "lemma": "qodesh",
+          "meaning": "holy; sacred; set apart"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Restore unto me the joy of thy salvation; and uphold me with thy free spirit.",
+      "highlightedWords": [
+        {
+          "word": "Restore",
+          "strongNumber": "H7725",
+          "lemma": "shuv",
+          "meaning": "to return; restore; bring back"
+        },
+        {
+          "word": "free",
+          "strongNumber": "H5081",
+          "lemma": "nadib",
+          "meaning": "willing; noble; generous; free"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Then will I teach transgressors thy ways; and sinners shall be converted unto thee.",
+      "highlightedWords": [
+        {
+          "word": "teach",
+          "strongNumber": "H3925",
+          "lemma": "lamad",
+          "meaning": "to learn; teach; train"
+        },
+        {
+          "word": "transgressors",
+          "strongNumber": "H6586",
+          "lemma": "pasha",
+          "meaning": "transgressor; rebel; one who breaks away"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Deliver me from bloodguiltiness, O God, thou God of my salvation: and my tongue shall sing aloud of thy righteousness.",
+      "highlightedWords": [
+        {
+          "word": "Deliver",
+          "strongNumber": "H5337",
+          "lemma": "natsal",
+          "meaning": "to deliver; rescue; snatch away"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "tsedaqah",
+          "meaning": "righteousness; justice; rightness"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "O Lord, open thou my lips; and my mouth shall shew forth thy praise.",
+      "highlightedWords": [
+        {
+          "word": "open",
+          "strongNumber": "H6605",
+          "lemma": "pathach",
+          "meaning": "to open; loosen; release"
+        },
+        {
+          "word": "praise",
+          "strongNumber": "H8416",
+          "lemma": "tehillah",
+          "meaning": "praise; song of praise; thanksgiving"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "For thou desirest not sacrifice; else would I give it: thou delightest not in burnt offering.",
+      "highlightedWords": [
+        {
+          "word": "sacrifice",
+          "strongNumber": "H2077",
+          "lemma": "zebach",
+          "meaning": "sacrifice; slaughter offering"
+        },
+        {
+          "word": "burnt offering",
+          "strongNumber": "H5930",
+          "lemma": "olah",
+          "meaning": "burnt offering; that which goes up"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, thou wilt not despise.",
+      "highlightedWords": [
+        {
+          "word": "contrite",
+          "strongNumber": "H1793",
+          "lemma": "dakkah",
+          "meaning": "crushed; contrite; broken down"
+        },
+        {
+          "word": "spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "spirit; wind; breath; inner being"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Do good in thy good pleasure unto Zion: build thou the walls of Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyyon",
+          "meaning": "Zion; the hill of Jerusalem; the city of God"
+        },
+        {
+          "word": "build",
+          "strongNumber": "H1129",
+          "lemma": "banah",
+          "meaning": "to build; rebuild; establish"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Then shalt thou be pleased with the sacrifices of righteousness, with burnt offering and whole burnt offering: then shall they offer bullocks upon thine altar.",
+      "highlightedWords": [
+        {
+          "word": "bullocks",
+          "strongNumber": "H6499",
+          "lemma": "par",
+          "meaning": "young bull; bullock; steer"
+        },
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar; place of sacrifice"
+        }
+      ]
+    }
+  ]
+}

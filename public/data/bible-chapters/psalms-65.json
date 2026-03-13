@@ -1,0 +1,258 @@
+{
+  "book": "Psalms",
+  "chapter": 65,
+  "chapterTheme": {
+    "twoWordSummary": "Abundant Provision",
+    "themeWords": [
+      {
+        "word": "Praise",
+        "strongNumber": "H8416",
+        "lemma": "tehillah",
+        "meaning": "praise, song of praise, renown"
+      },
+      {
+        "word": "earth",
+        "strongNumber": "H776",
+        "lemma": "'erets",
+        "meaning": "earth, land"
+      }
+    ]
+  },
+  "sentenceTheme": "God forgives sin and abundantly provides, answering in righteousness and blessing the whole earth.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Praise waiteth for thee, O God, in Sion: and unto thee shall the vow be performed.",
+      "highlightedWords": [
+        {
+          "word": "Praise",
+          "strongNumber": "H8416",
+          "lemma": "tehillah",
+          "meaning": "praise, song of praise, renown"
+        },
+        {
+          "word": "Sion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyon",
+          "meaning": "Zion; a mountain of Jerusalem; figuratively, the people or city"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "O thou that hearest prayer, unto thee shall all flesh come.",
+      "highlightedWords": [
+        {
+          "word": "prayer",
+          "strongNumber": "H8605",
+          "lemma": "tephillah",
+          "meaning": "prayer, supplication, intercession"
+        },
+        {
+          "word": "flesh",
+          "strongNumber": "H1320",
+          "lemma": "basar",
+          "meaning": "flesh; by extension, mankind"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Iniquities prevail against me: as for our transgressions, thou shalt purge them away.",
+      "highlightedWords": [
+        {
+          "word": "Iniquities",
+          "strongNumber": "H5771",
+          "lemma": "'avon",
+          "meaning": "iniquity, guilt, perversity (and its punishment)"
+        },
+        {
+          "word": "purge",
+          "strongNumber": "H3722",
+          "lemma": "kaphar",
+          "meaning": "to cover, atone, make propitiation"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Blessed is the man whom thou choosest, and causest to approach unto thee, that he may dwell in thy courts: we shall be satisfied with the goodness of thy house, even of thy holy temple.",
+      "highlightedWords": [
+        {
+          "word": "courts",
+          "strongNumber": "H2691",
+          "lemma": "chatser",
+          "meaning": "court, enclosure, courtyard"
+        },
+        {
+          "word": "temple",
+          "strongNumber": "H1964",
+          "lemma": "hekal",
+          "meaning": "palace, temple"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "By terrible things in righteousness wilt thou answer us, O God of our salvation; who art the confidence of all the ends of the earth, and of them that are afar off upon the sea:",
+      "highlightedWords": [
+        {
+          "word": "righteousness",
+          "strongNumber": "H6664",
+          "lemma": "tsedeq",
+          "meaning": "righteousness, justice, rightness"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "'erets",
+          "meaning": "earth, land"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Which by his strength setteth fast the mountains; being girded with power:",
+      "highlightedWords": [
+        {
+          "word": "strength",
+          "strongNumber": "H5797",
+          "lemma": "'oz",
+          "meaning": "strength, might, power"
+        },
+        {
+          "word": "mountains",
+          "strongNumber": "H2022",
+          "lemma": "har",
+          "meaning": "mountain, hill country"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Which stilleth the noise of the seas, the noise of their waves, and the tumult of the people.",
+      "highlightedWords": [
+        {
+          "word": "seas",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "sea"
+        },
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "'am",
+          "meaning": "people, nation"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "They also that dwell in the uttermost parts are afraid at thy tokens: thou makest the outgoings of the morning and evening to rejoice.",
+      "highlightedWords": [
+        {
+          "word": "tokens",
+          "strongNumber": "H226",
+          "lemma": "'ot",
+          "meaning": "sign, token, mark"
+        },
+        {
+          "word": "morning",
+          "strongNumber": "H1242",
+          "lemma": "boqer",
+          "meaning": "morning, dawn"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Thou visitest the earth, and waterest it: thou greatly enrichest it with the river of God, which is full of water: thou preparest them corn, when thou hast so provided for it.",
+      "highlightedWords": [
+        {
+          "word": "river",
+          "strongNumber": "H5104",
+          "lemma": "nahar",
+          "meaning": "river, stream"
+        },
+        {
+          "word": "corn",
+          "strongNumber": "H1715",
+          "lemma": "dagan",
+          "meaning": "grain, corn"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Thou waterest the ridges thereof abundantly: thou settlest the furrows thereof: thou makest it soft with showers: thou blessest the springing thereof.",
+      "highlightedWords": [
+        {
+          "word": "showers",
+          "strongNumber": "H7241",
+          "lemma": "revivim",
+          "meaning": "showers, rain"
+        },
+        {
+          "word": "blessest",
+          "strongNumber": "H1288",
+          "lemma": "barak",
+          "meaning": "to bless, to kneel (by implication to bless)"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Thou crownest the year with thy goodness; and thy paths drop fatness.",
+      "highlightedWords": [
+        {
+          "word": "year",
+          "strongNumber": "H8141",
+          "lemma": "shanah",
+          "meaning": "year"
+        },
+        {
+          "word": "paths",
+          "strongNumber": "H4570",
+          "lemma": "ma'gal",
+          "meaning": "path, track, wagon rut"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "They drop upon the pastures of the wilderness: and the little hills rejoice on every side.",
+      "highlightedWords": [
+        {
+          "word": "pastures",
+          "strongNumber": "H5116",
+          "lemma": "naveh",
+          "meaning": "habitation, pasture, meadow"
+        },
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbar",
+          "meaning": "wilderness, desert"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "The pastures are clothed with flocks; the valleys also are covered over with corn; they shout for joy, they also sing.",
+      "highlightedWords": [
+        {
+          "word": "flocks",
+          "strongNumber": "H6629",
+          "lemma": "tson",
+          "meaning": "flock(s), sheep and goats"
+        },
+        {
+          "word": "valleys",
+          "strongNumber": "H6010",
+          "lemma": "'emeq",
+          "meaning": "valley, lowland"
+        }
+      ]
+    }
+  ]
+}

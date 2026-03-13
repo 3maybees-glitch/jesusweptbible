@@ -1,0 +1,276 @@
+{
+  "book": "Psalms",
+  "chapter": 19,
+  "chapterTheme": {
+    "twoWordSummary": "Creation Revelation",
+    "themeWords": [
+      {
+        "word": "heavens",
+        "strongNumber": "H8064",
+        "lemma": "shamayim",
+        "meaning": "heavens; sky"
+      },
+      {
+        "word": "law",
+        "strongNumber": "H8451",
+        "lemma": "torah",
+        "meaning": "instruction; law"
+      }
+    ]
+  },
+  "sentenceTheme": "Creation proclaims God’s glory and the Lord’s perfect law enlightens and transforms the heart, leading the servant to prayer for purity and acceptance.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "The heavens declare the glory of God; and the firmament sheweth his handywork.",
+      "highlightedWords": [
+        {
+          "word": "heavens",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens; sky"
+        },
+        {
+          "word": "firmament",
+          "strongNumber": "H7549",
+          "lemma": "raqia",
+          "meaning": "expanse; firmament"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Day unto day uttereth speech, and night unto night sheweth knowledge.",
+      "highlightedWords": [
+        {
+          "word": "Day",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day; time"
+        },
+        {
+          "word": "night",
+          "strongNumber": "H3915",
+          "lemma": "laylah",
+          "meaning": "night"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "There is no speech nor language, where their voice is not heard.",
+      "highlightedWords": [
+        {
+          "word": "voice",
+          "strongNumber": "H6963",
+          "lemma": "qol",
+          "meaning": "voice; sound"
+        },
+        {
+          "word": "heard",
+          "strongNumber": "H8085",
+          "lemma": "shamaʿ",
+          "meaning": "to hear"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Their line is gone out through all the earth, and their words to the end of the world. In them hath he set a tabernacle for the sun,",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "ʾerets",
+          "meaning": "earth; land"
+        },
+        {
+          "word": "sun",
+          "strongNumber": "H8121",
+          "lemma": "shemesh",
+          "meaning": "sun"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Which is as a bridegroom coming out of his chamber, and rejoiceth as a strong man to run a race.",
+      "highlightedWords": [
+        {
+          "word": "bridegroom",
+          "strongNumber": "H2860",
+          "lemma": "chathan",
+          "meaning": "bridegroom"
+        },
+        {
+          "word": "strong man",
+          "strongNumber": "H1368",
+          "lemma": "gibbor",
+          "meaning": "mighty/strong man"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "His going forth is from the end of the heaven, and his circuit unto the ends of it: and there is nothing hid from the heat thereof.",
+      "highlightedWords": [
+        {
+          "word": "circuit",
+          "strongNumber": "H8622",
+          "lemma": "tequphah",
+          "meaning": "course; circuit"
+        },
+        {
+          "word": "heat",
+          "strongNumber": "H2535",
+          "lemma": "chammah",
+          "meaning": "heat; sun"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "The law of the LORD is perfect, converting the soul: the testimony of the LORD is sure, making wise the simple.",
+      "highlightedWords": [
+        {
+          "word": "law",
+          "strongNumber": "H8451",
+          "lemma": "torah",
+          "meaning": "instruction; law"
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul; life"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "The statutes of the LORD are right, rejoicing the heart: the commandment of the LORD is pure, enlightening the eyes.",
+      "highlightedWords": [
+        {
+          "word": "statutes",
+          "strongNumber": "H6490",
+          "lemma": "piqqudim",
+          "meaning": "precepts; statutes"
+        },
+        {
+          "word": "commandment",
+          "strongNumber": "H4687",
+          "lemma": "mitsvah",
+          "meaning": "commandment"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "The fear of the LORD is clean, enduring for ever: the judgments of the LORD are true and righteous altogether.",
+      "highlightedWords": [
+        {
+          "word": "fear",
+          "strongNumber": "H3374",
+          "lemma": "yirah",
+          "meaning": "fear; reverence"
+        },
+        {
+          "word": "judgments",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "judgments; justice"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "More to be desired are they than gold, yea, than much fine gold: sweeter also than honey and the honeycomb.",
+      "highlightedWords": [
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "zahab",
+          "meaning": "gold"
+        },
+        {
+          "word": "honey",
+          "strongNumber": "H1706",
+          "lemma": "debash",
+          "meaning": "honey"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Moreover by them is thy servant warned: and in keeping of them there is great reward.",
+      "highlightedWords": [
+        {
+          "word": "servant",
+          "strongNumber": "H5650",
+          "lemma": "ʿebed",
+          "meaning": "servant; slave"
+        },
+        {
+          "word": "reward",
+          "strongNumber": "H6118",
+          "lemma": "eqeb",
+          "meaning": "consequence; reward"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Who can understand his errors? cleanse thou me from secret faults.",
+      "highlightedWords": [
+        {
+          "word": "errors",
+          "strongNumber": "H7684",
+          "lemma": "shegiʿah",
+          "meaning": "error; sin"
+        },
+        {
+          "word": "cleanse",
+          "strongNumber": "H5352",
+          "lemma": "naqah",
+          "meaning": "to cleanse; make pure"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Keep back thy servant also from presumptuous sins; let them not have dominion over me: then shall I be upright, and I shall be innocent from the great transgression.",
+      "highlightedWords": [
+        {
+          "word": "dominion",
+          "strongNumber": "H4910",
+          "lemma": "mashal",
+          "meaning": "to rule; have dominion"
+        },
+        {
+          "word": "transgression",
+          "strongNumber": "H6588",
+          "lemma": "peshaʿ",
+          "meaning": "transgression; rebellion"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Let the words of my mouth, and the meditation of my heart, be acceptable in thy sight, O LORD, my strength, and my redeemer.",
+      "highlightedWords": [
+        {
+          "word": "words",
+          "strongNumber": "H565",
+          "lemma": "imrah",
+          "meaning": "word; utterance"
+        },
+        {
+          "word": "redeemer",
+          "strongNumber": "H1350",
+          "lemma": "goʾel",
+          "meaning": "kinsman-redeemer"
+        }
+      ]
+    }
+  ]
+}

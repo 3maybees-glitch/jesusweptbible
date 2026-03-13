@@ -1,0 +1,276 @@
+{
+  "book": "2 Chronicles",
+  "chapter": 16,
+  "chapterTheme": {
+    "twoWordSummary": "Reliance Rebuked",
+    "themeWords": [
+      {
+        "word": "relied",
+        "strongNumber": "H8172",
+        "lemma": "שָׁעַן (sha'an)",
+        "meaning": "to lean on, trust, rely"
+      },
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "יהוה (YHWH)",
+        "meaning": "the proper name of the God of Israel"
+      }
+    ]
+  },
+  "sentenceTheme": "Asa seeks help from Syria instead of the LORD, is rebuked by the seer, declines in health, and dies.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "In the six and thirtieth year of the reign of Asa Baasha king of Israel came up against Judah, and built Ramah, to the intent that he might let none go out or come in to Asa king of Judah.",
+      "highlightedWords": [
+        {
+          "word": "Asa",
+          "strongNumber": "H609",
+          "lemma": "אָסָא (Asa)",
+          "meaning": "Asa; a king of Judah"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "יְהוּדָה (Yehudah)",
+          "meaning": "Judah; the southern kingdom/tribe"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Then Asa brought out silver and gold out of the treasures of the house of the LORD and of the king's house, and sent to Benhadad king of Syria, that dwelt at Damascus, saying,",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "יהוה (YHWH)",
+          "meaning": "the proper name of the God of Israel"
+        },
+        {
+          "word": "Syria",
+          "strongNumber": "H758",
+          "lemma": "אֲרָם (Aram)",
+          "meaning": "Aram; Syria, the Aramean region/people"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "There is a league between me and thee, as there was between my father and thy father: behold, I have sent thee silver and gold; go, break thy league with Baasha king of Israel, that he may depart from me.",
+      "highlightedWords": [
+        {
+          "word": "league",
+          "strongNumber": "H1285",
+          "lemma": "בְּרִית (berith)",
+          "meaning": "covenant, treaty, alliance"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "יִשְׂרָאֵל (Yisra'el)",
+          "meaning": "Israel; the people/nation of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And Benhadad hearkened unto king Asa, and sent the captains of his armies against the cities of Israel; and they smote Ijon, and Dan, and Abelmaim, and all the store cities of Naphtali.",
+      "highlightedWords": [
+        {
+          "word": "captains",
+          "strongNumber": "H8269",
+          "lemma": "שַׂר (sar)",
+          "meaning": "chief, ruler, captain"
+        },
+        {
+          "word": "Naphtali",
+          "strongNumber": "H5321",
+          "lemma": "נַפְתָּלִי (Naphtali)",
+          "meaning": "Naphtali; a northern tribe of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And it came to pass, when Baasha heard it, that he left off building of Ramah, and let his work cease.",
+      "highlightedWords": [
+        {
+          "word": "Ramah",
+          "strongNumber": "H7414",
+          "lemma": "רָמָה (Ramah)",
+          "meaning": "Ramah; a town in Benjamin, meaning 'height'"
+        },
+        {
+          "word": "work",
+          "strongNumber": "H4399",
+          "lemma": "מְלָאכָה (melakah)",
+          "meaning": "work, labor, occupation"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Then Asa the king took all Judah; and they carried away the stones of Ramah, and the timber thereof, wherewith Baasha was building; and he built therewith Geba and Mizpah.",
+      "highlightedWords": [
+        {
+          "word": "Geba",
+          "strongNumber": "H1387",
+          "lemma": "גֶּבַע (Geba')",
+          "meaning": "Geba; a town in Benjamin"
+        },
+        {
+          "word": "Mizpah",
+          "strongNumber": "H4708",
+          "lemma": "מִצְפָּה (Mitspah)",
+          "meaning": "Mizpah; a watchtower/place name"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And at that time Hanani the seer came to Asa king of Judah, and said unto him, Because thou hast relied on the king of Syria, and not relied on the LORD thy God, therefore is the host of the king of Syria escaped out of thine hand.",
+      "highlightedWords": [
+        {
+          "word": "seer",
+          "strongNumber": "H2374",
+          "lemma": "חֹזֶה (chozeh)",
+          "meaning": "seer, prophet, visionary"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "יהוה (YHWH)",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Were not the Ethiopians and the Lubims a huge host, with very many chariots and horsemen? yet, because thou didst rely on the LORD, he delivered them into thine hand.",
+      "highlightedWords": [
+        {
+          "word": "Ethiopians",
+          "strongNumber": "H3569",
+          "lemma": "כּוּשִׁי (Kuwshiy)",
+          "meaning": "Cushites; people from Cush (Ethiopia)"
+        },
+        {
+          "word": "Lubims",
+          "strongNumber": "H3864",
+          "lemma": "לוּבִּים (Lubbim)",
+          "meaning": "Libyans; people from Libya"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "For the eyes of the LORD run to and fro throughout the whole earth, to shew himself strong in the behalf of them whose heart is perfect toward him. Herein thou hast done foolishly: therefore from henceforth thou shalt have wars.",
+      "highlightedWords": [
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "עַיִן ('ayin)",
+          "meaning": "eye; by extension sight"
+        },
+        {
+          "word": "perfect",
+          "strongNumber": "H8003",
+          "lemma": "שָׁלֵם (shalem)",
+          "meaning": "complete, blameless, at peace"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Then Asa was wroth with the seer, and put him in a prison house; for he was in a rage with him because of this thing. And Asa oppressed some of the people the same time.",
+      "highlightedWords": [
+        {
+          "word": "seer",
+          "strongNumber": "H2374",
+          "lemma": "חֹזֶה (chozeh)",
+          "meaning": "seer, prophet, visionary"
+        },
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "עַם ('am)",
+          "meaning": "people, nation"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And, behold, the acts of Asa, first and last, lo, they are written in the book of the kings of Judah and Israel.",
+      "highlightedWords": [
+        {
+          "word": "kings",
+          "strongNumber": "H4428",
+          "lemma": "מֶלֶךְ (melek)",
+          "meaning": "king; ruler"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "יְהוּדָה (Yehudah)",
+          "meaning": "Judah; the southern kingdom/tribe"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And Asa in the thirty and ninth year of his reign was diseased in his feet, until his disease was exceeding great: yet in his disease he sought not to the LORD, but to the physicians.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "יהוה (YHWH)",
+          "meaning": "the proper name of the God of Israel"
+        },
+        {
+          "word": "physicians",
+          "strongNumber": "H7495",
+          "lemma": "רָפָא (rapha’, rophe’)",
+          "meaning": "healer, physician"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And Asa slept with his fathers, and died in the one and fortieth year of his reign.",
+      "highlightedWords": [
+        {
+          "word": "slept",
+          "strongNumber": "H7901",
+          "lemma": "שָׁכַב (shakab)",
+          "meaning": "to lie down, sleep (euphemism for die)"
+        },
+        {
+          "word": "fathers",
+          "strongNumber": "H1",
+          "lemma": "אָב ('ab)",
+          "meaning": "father, ancestor"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And they buried him in his own sepulchres, which he had made for himself in the city of David, and laid him in the bed which was filled with sweet odours and divers kinds of spices prepared by the apothecaries' art: and they made a very great burning for him.",
+      "highlightedWords": [
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "עִיר ('ir)",
+          "meaning": "city, town"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "דָּוִד (David)",
+          "meaning": "David; beloved, second king of Israel"
+        }
+      ]
+    }
+  ]
+}

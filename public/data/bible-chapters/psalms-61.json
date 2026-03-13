@@ -1,0 +1,168 @@
+{
+  "book": "Psalms",
+  "chapter": 61,
+  "chapterTheme": {
+    "twoWordSummary": "Seeking Refuge",
+    "themeWords": [
+      {
+        "word": "rock",
+        "strongNumber": "H6697",
+        "lemma": "tsur",
+        "meaning": "rock; a rocky cliff; a symbol of strength and refuge"
+      },
+      {
+        "word": "trust",
+        "strongNumber": "H2620",
+        "lemma": "chasah",
+        "meaning": "to seek refuge; take shelter; put confidence in"
+      }
+    ]
+  },
+  "sentenceTheme": "David cries to God from distress, seeks refuge and guidance, and vows lifelong praise for God’s preserving mercy and truth.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Hear my cry, O God; attend unto my prayer.",
+      "highlightedWords": [
+        {
+          "word": "cry",
+          "strongNumber": "H7440",
+          "lemma": "rinnah",
+          "meaning": "a ringing cry; shout of joy or supplication"
+        },
+        {
+          "word": "prayer",
+          "strongNumber": "H8605",
+          "lemma": "tephillah",
+          "meaning": "prayer; intercession; petition to God"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "From the end of the earth will I cry unto thee, when my heart is overwhelmed: lead me to the rock that is higher than I.",
+      "highlightedWords": [
+        {
+          "word": "lead",
+          "strongNumber": "H5148",
+          "lemma": "nachah",
+          "meaning": "to lead; guide; conduct"
+        },
+        {
+          "word": "rock",
+          "strongNumber": "H6697",
+          "lemma": "tsur",
+          "meaning": "rock; cliff; a secure refuge"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "For thou hast been a shelter for me, and a strong tower from the enemy.",
+      "highlightedWords": [
+        {
+          "word": "shelter",
+          "strongNumber": "H4268",
+          "lemma": "machseh",
+          "meaning": "shelter; refuge; place of protection"
+        },
+        {
+          "word": "tower",
+          "strongNumber": "H4026",
+          "lemma": "migdal",
+          "meaning": "tower; elevated structure signifying defense"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "I will abide in thy tabernacle for ever: I will trust in the covert of thy wings. Selah.",
+      "highlightedWords": [
+        {
+          "word": "tabernacle",
+          "strongNumber": "H168",
+          "lemma": "ohel",
+          "meaning": "tent; dwelling; tabernacle"
+        },
+        {
+          "word": "wings",
+          "strongNumber": "H3671",
+          "lemma": "kanaph",
+          "meaning": "wing; extremity; protective covering"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "For thou, O God, hast heard my vows: thou hast given me the heritage of those that fear thy name.",
+      "highlightedWords": [
+        {
+          "word": "vows",
+          "strongNumber": "H5088",
+          "lemma": "neder",
+          "meaning": "vow; solemn promise or offering"
+        },
+        {
+          "word": "heritage",
+          "strongNumber": "H5159",
+          "lemma": "nachalah",
+          "meaning": "inheritance; possession; allotted portion"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Thou wilt prolong the king's life: and his years as many generations.",
+      "highlightedWords": [
+        {
+          "word": "years",
+          "strongNumber": "H8141",
+          "lemma": "shanah",
+          "meaning": "year; a measure of time; lifetime"
+        },
+        {
+          "word": "generations",
+          "strongNumber": "H1755",
+          "lemma": "dor",
+          "meaning": "generation; age; a period of time"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "He shall abide before God for ever: O prepare mercy and truth, which may preserve him.",
+      "highlightedWords": [
+        {
+          "word": "mercy",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "lovingkindness; steadfast love; mercy"
+        },
+        {
+          "word": "truth",
+          "strongNumber": "H571",
+          "lemma": "emeth",
+          "meaning": "firmness; faithfulness; truth"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "So will I sing praise unto thy name for ever, that I may daily perform my vows.",
+      "highlightedWords": [
+        {
+          "word": "sing",
+          "strongNumber": "H2167",
+          "lemma": "zamar",
+          "meaning": "to make music; sing praises"
+        },
+        {
+          "word": "vows",
+          "strongNumber": "H5088",
+          "lemma": "neder",
+          "meaning": "vow; solemn promise or offering"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "book": "Job",
+  "chapter": 42,
+  "chapterTheme": {
+    "twoWordSummary": "Repentance Restored",
+    "themeWords": [
+      {
+        "word": "repent",
+        "strongNumber": "H5162",
+        "lemma": "נָחַם (nacham)",
+        "meaning": "to repent, be sorry, relent"
+      },
+      {
+        "word": "restore",
+        "strongNumber": "H7725",
+        "lemma": "שׁוּב (shuv)",
+        "meaning": "to turn back, return, restore"
+      }
+    ]
+  },
+  "sentenceTheme": "Job humbly repents, God rebukes his friends, and the LORD restores and blesses Job with renewed prosperity and family.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Then Job answered the LORD, and said,",
+      "highlightedWords": [
+        {
+          "word": "Job",
+          "strongNumber": "H347",
+          "lemma": "אִיּוֹב ('Iyov)",
+          "meaning": "Job, a man of Uz"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "יהוה (YHWH)",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "I know that thou canst do every thing, and that no thought can be withholden from thee.",
+      "highlightedWords": [
+        {
+          "word": "know",
+          "strongNumber": "H3045",
+          "lemma": "יָדַע (yada')",
+          "meaning": "to know, perceive, understand"
+        },
+        {
+          "word": "do",
+          "strongNumber": "H6213",
+          "lemma": "עָשָׂה ('asah)",
+          "meaning": "to do, make, accomplish"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Who is he that hideth counsel without knowledge? therefore have I uttered that I understood not; things too wonderful for me, which I knew not.",
+      "highlightedWords": [
+        {
+          "word": "counsel",
+          "strongNumber": "H6098",
+          "lemma": "עֵצָה ('etsah)",
+          "meaning": "counsel, advice, plan"
+        },
+        {
+          "word": "knowledge",
+          "strongNumber": "H1847",
+          "lemma": "דַּעַת (da'ath)",
+          "meaning": "knowledge, understanding"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Hear, I beseech thee, and I will speak: I will demand of thee, and declare thou unto me.",
+      "highlightedWords": [
+        {
+          "word": "Hear",
+          "strongNumber": "H8085",
+          "lemma": "שָׁמַע (shama')",
+          "meaning": "to hear, listen, obey"
+        },
+        {
+          "word": "speak",
+          "strongNumber": "H1696",
+          "lemma": "דָּבַר (dabar)",
+          "meaning": "to speak, declare"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "I have heard of thee by the hearing of the ear: but now mine eye seeth thee.",
+      "highlightedWords": [
+        {
+          "word": "heard",
+          "strongNumber": "H8085",
+          "lemma": "שָׁמַע (shama')",
+          "meaning": "to hear, listen"
+        },
+        {
+          "word": "eye",
+          "strongNumber": "H5869",
+          "lemma": "עַיִן ('ayin)",
+          "meaning": "eye"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Wherefore I abhor myself, and repent in dust and ashes.",
+      "highlightedWords": [
+        {
+          "word": "repent",
+          "strongNumber": "H5162",
+          "lemma": "נָחַם (nacham)",
+          "meaning": "to repent, be sorry"
+        },
+        {
+          "word": "dust",
+          "strongNumber": "H6083",
+          "lemma": "עָפָר ('aphar)",
+          "meaning": "dust, dry earth"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And it was so, that after the LORD had spoken these words unto Job, the LORD said to Eliphaz the Temanite, My wrath is kindled against thee, and against thy two friends: for ye have not spoken of me the thing that is right, as my servant Job hath.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "יהוה (YHWH)",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "Job",
+          "strongNumber": "H347",
+          "lemma": "אִיּוֹב ('Iyov)",
+          "meaning": "Job, a man of Uz"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Therefore take unto you now seven bullocks and seven rams, and go to my servant Job, and offer up for yourselves a burnt offering; and my servant Job shall pray for you: for him will I accept: lest I deal with you after your folly, in that ye have not spoken of me the thing which is right, like my servant Job.",
+      "highlightedWords": [
+        {
+          "word": "pray",
+          "strongNumber": "H6419",
+          "lemma": "פָּלַל (palal)",
+          "meaning": "to pray, intercede"
+        },
+        {
+          "word": "Job",
+          "strongNumber": "H347",
+          "lemma": "אִיּוֹב ('Iyov)",
+          "meaning": "Job, a man of Uz"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "So Eliphaz the Temanite and Bildad the Shuhite and Zophar the Naamathite went, and did according as the LORD commanded them: the LORD also accepted Job.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "יהוה (YHWH)",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "Job",
+          "strongNumber": "H347",
+          "lemma": "אִיּוֹב ('Iyov)",
+          "meaning": "Job, a man of Uz"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And the LORD turned the captivity of Job, when he prayed for his friends: also the LORD gave Job twice as much as he had before.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "יהוה (YHWH)",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "Job",
+          "strongNumber": "H347",
+          "lemma": "אִיּוֹב ('Iyov)",
+          "meaning": "Job, a man of Uz"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Then came there unto him all his brethren, and all his sisters, and all they that had been of his acquaintance before, and did eat bread with him in his house: and they bemoaned him, and comforted him over all the evil that the LORD had brought upon him: every man also gave him a piece of money, and every one an earring of gold.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "יהוה (YHWH)",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "רַע (ra')",
+          "meaning": "evil, bad, calamity"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "So the LORD blessed the latter end of Job more than his beginning: for he had fourteen thousand sheep, and six thousand camels, and a thousand yoke of oxen, and a thousand she asses.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "יהוה (YHWH)",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "Job",
+          "strongNumber": "H347",
+          "lemma": "אִיּוֹב ('Iyov)",
+          "meaning": "Job, a man of Uz"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "He had also seven sons and three daughters.",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "בֵּן (ben)",
+          "meaning": "son"
+        },
+        {
+          "word": "daughters",
+          "strongNumber": "H1323",
+          "lemma": "בַּת (bat)",
+          "meaning": "daughter"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And he called the name of the first, Jemima; and the name of the second, Kezia; and the name of the third, Keren-happuch.",
+      "highlightedWords": [
+        {
+          "word": "Jemima",
+          "strongNumber": "H3224",
+          "lemma": "יְמִימָה (Yemimah)",
+          "meaning": "Jemima; dove"
+        },
+        {
+          "word": "Kezia",
+          "strongNumber": "H7103",
+          "lemma": "קְצִיעָה (Qetsi'ah)",
+          "meaning": "Kezia; cassia (a fragrant spice)"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And in all the land were no women found so fair as the daughters of Job: and their father gave them inheritance among their brethren.",
+      "highlightedWords": [
+        {
+          "word": "inheritance",
+          "strongNumber": "H5159",
+          "lemma": "נַחֲלָה (nachalah)",
+          "meaning": "inheritance, possession, heritage"
+        },
+        {
+          "word": "daughters",
+          "strongNumber": "H1323",
+          "lemma": "בַּת (bat)",
+          "meaning": "daughter"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "After this lived Job an hundred and forty years, and saw his sons, and his sons' sons, even four generations.",
+      "highlightedWords": [
+        {
+          "word": "years",
+          "strongNumber": "H8141",
+          "lemma": "שָׁנָה (shanah)",
+          "meaning": "year"
+        },
+        {
+          "word": "generations",
+          "strongNumber": "H1755",
+          "lemma": "דּוֹר (dor)",
+          "meaning": "generation, age"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "So Job died, being old and full of days.",
+      "highlightedWords": [
+        {
+          "word": "died",
+          "strongNumber": "H4191",
+          "lemma": "מוּת (muth)",
+          "meaning": "to die"
+        },
+        {
+          "word": "days",
+          "strongNumber": "H3117",
+          "lemma": "יוֹם (yom)",
+          "meaning": "day"
+        }
+      ]
+    }
+  ]
+}

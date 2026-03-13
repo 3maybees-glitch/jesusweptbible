@@ -1,0 +1,564 @@
+{
+  "book": "Job",
+  "chapter": 39,
+  "chapterTheme": {
+    "twoWordSummary": "Divine Wisdom",
+    "themeWords": [
+      {
+        "word": "horse",
+        "strongNumber": "H5483",
+        "lemma": "sus",
+        "meaning": "horse"
+      },
+      {
+        "word": "eagle",
+        "strongNumber": "H5404",
+        "lemma": "nesher",
+        "meaning": "eagle"
+      }
+    ]
+  },
+  "sentenceTheme": "God challenges Job by describing His sovereign wisdom over the birth, instincts, and strength of wild creatures, from mountain goats and wild donkeys to the warhorse and eagle.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Knowest thou the time when the wild goats of the rock bring forth? or canst thou mark when the hinds do calve?",
+      "highlightedWords": [
+        {
+          "word": "goats",
+          "strongNumber": "H3277",
+          "lemma": "ya'el",
+          "meaning": "mountain goat; ibex"
+        },
+        {
+          "word": "hinds",
+          "strongNumber": "H0355",
+          "lemma": "ayalah",
+          "meaning": "hind; female deer, doe"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Canst thou number the months that they fulfil? or knowest thou the time when they bring forth?",
+      "highlightedWords": [
+        {
+          "word": "months",
+          "strongNumber": "H2320",
+          "lemma": "chodesh",
+          "meaning": "month; new moon"
+        },
+        {
+          "word": "bring forth",
+          "strongNumber": "H3205",
+          "lemma": "yalad",
+          "meaning": "to bear; bring forth"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "They bow themselves, they bring forth their young ones, they cast out their sorrows.",
+      "highlightedWords": [
+        {
+          "word": "bring forth",
+          "strongNumber": "H3205",
+          "lemma": "yalad",
+          "meaning": "to bear; bring forth"
+        },
+        {
+          "word": "sorrows",
+          "strongNumber": "H2256",
+          "lemma": "chebel",
+          "meaning": "pangs; travail; sorrow"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Their young ones are in good liking, they grow up with corn; they go forth, and return not unto them.",
+      "highlightedWords": [
+        {
+          "word": "grow",
+          "strongNumber": "H1431",
+          "lemma": "gadal",
+          "meaning": "to grow; become great"
+        },
+        {
+          "word": "return",
+          "strongNumber": "H7725",
+          "lemma": "shuv",
+          "meaning": "to return; turn back"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Who hath sent out the wild ass free? or who hath loosed the bands of the wild ass?",
+      "highlightedWords": [
+        {
+          "word": "wild ass",
+          "strongNumber": "H6501",
+          "lemma": "pere",
+          "meaning": "wild donkey; onager"
+        },
+        {
+          "word": "bands",
+          "strongNumber": "H4147",
+          "lemma": "moser",
+          "meaning": "bonds; fetters"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Whose house I have made the wilderness, and the barren land his dwellings.",
+      "highlightedWords": [
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbar",
+          "meaning": "wilderness; desert"
+        },
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house; dwelling"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "He scorneth the multitude of the city, neither regardeth he the crying of the driver.",
+      "highlightedWords": [
+        {
+          "word": "multitude",
+          "strongNumber": "H1995",
+          "lemma": "hamon",
+          "meaning": "multitude; crowd; tumult"
+        },
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "‘ir",
+          "meaning": "city; town"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "The range of the mountains is his pasture, and he searcheth after every green thing.",
+      "highlightedWords": [
+        {
+          "word": "mountains",
+          "strongNumber": "H2022",
+          "lemma": "har",
+          "meaning": "mountain; hill country"
+        },
+        {
+          "word": "green",
+          "strongNumber": "H3418",
+          "lemma": "yereq",
+          "meaning": "green; vegetation"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Will the unicorn be willing to serve thee, or abide by thy crib?",
+      "highlightedWords": [
+        {
+          "word": "unicorn",
+          "strongNumber": "H7214",
+          "lemma": "re'em",
+          "meaning": "wild ox (KJV unicorn)"
+        },
+        {
+          "word": "crib",
+          "strongNumber": "H0018",
+          "lemma": "’ebus",
+          "meaning": "manger; feeding trough; crib"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Canst thou bind the unicorn with his band in the furrow? or will he harrow the valleys after thee?",
+      "highlightedWords": [
+        {
+          "word": "unicorn",
+          "strongNumber": "H7214",
+          "lemma": "re'em",
+          "meaning": "wild ox (KJV unicorn)"
+        },
+        {
+          "word": "valleys",
+          "strongNumber": "H6010",
+          "lemma": "‘emeq",
+          "meaning": "valley; lowland"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Wilt thou trust him, because his strength is great? or wilt thou leave thy labour to him?",
+      "highlightedWords": [
+        {
+          "word": "trust",
+          "strongNumber": "H982",
+          "lemma": "batach",
+          "meaning": "to trust; be confident"
+        },
+        {
+          "word": "strength",
+          "strongNumber": "H3581",
+          "lemma": "koach",
+          "meaning": "strength; power; ability"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Wilt thou believe him, that he will bring home thy seed, and gather it into thy barn?",
+      "highlightedWords": [
+        {
+          "word": "seed",
+          "strongNumber": "H2233",
+          "lemma": "zera‘",
+          "meaning": "seed; offspring"
+        },
+        {
+          "word": "gather",
+          "strongNumber": "H0622",
+          "lemma": "asaph",
+          "meaning": "to gather; collect; bring in"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Gavest thou the goodly wings unto the peacocks? or wings and feathers unto the ostrich?",
+      "highlightedWords": [
+        {
+          "word": "peacocks",
+          "strongNumber": "H7443",
+          "lemma": "renanim",
+          "meaning": "crying ones; peacocks/ostriches (KJV peacocks)"
+        },
+        {
+          "word": "ostrich",
+          "strongNumber": "H3284",
+          "lemma": "ya‘anah",
+          "meaning": "ostrich"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Which leaveth her eggs in the earth, and warmeth them in dust,",
+      "highlightedWords": [
+        {
+          "word": "eggs",
+          "strongNumber": "H1000",
+          "lemma": "beytsah",
+          "meaning": "egg"
+        },
+        {
+          "word": "dust",
+          "strongNumber": "H6083",
+          "lemma": "‘aphar",
+          "meaning": "dust; dry earth"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And forgetteth that the foot may crush them, or that the wild beast may break them.",
+      "highlightedWords": [
+        {
+          "word": "foot",
+          "strongNumber": "H7272",
+          "lemma": "regel",
+          "meaning": "foot"
+        },
+        {
+          "word": "beast",
+          "strongNumber": "H2416",
+          "lemma": "chayyah",
+          "meaning": "animal; wild beast"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "She is hardened against her young ones, as though they were not hers: her labour is in vain without fear;",
+      "highlightedWords": [
+        {
+          "word": "hardened",
+          "strongNumber": "H7185",
+          "lemma": "qashah",
+          "meaning": "to be hard; to harden; be severe"
+        },
+        {
+          "word": "labour",
+          "strongNumber": "H5999",
+          "lemma": "‘amal",
+          "meaning": "toil; labor; trouble"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Because God hath deprived her of wisdom, neither hath he imparted to her understanding.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H0433",
+          "lemma": "’eloah",
+          "meaning": "God"
+        },
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "wisdom; skill"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "What time she lifteth up herself on high, she scorneth the horse and his rider.",
+      "highlightedWords": [
+        {
+          "word": "horse",
+          "strongNumber": "H5483",
+          "lemma": "sus",
+          "meaning": "horse"
+        },
+        {
+          "word": "rider",
+          "strongNumber": "H7392",
+          "lemma": "rakab",
+          "meaning": "rider; one who rides"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Hast thou given the horse strength? hast thou clothed his neck with thunder?",
+      "highlightedWords": [
+        {
+          "word": "horse",
+          "strongNumber": "H5483",
+          "lemma": "sus",
+          "meaning": "horse"
+        },
+        {
+          "word": "neck",
+          "strongNumber": "H6677",
+          "lemma": "tsavvar",
+          "meaning": "neck"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Canst thou make him afraid as a grasshopper? the glory of his nostrils is terrible.",
+      "highlightedWords": [
+        {
+          "word": "grasshopper",
+          "strongNumber": "H2284",
+          "lemma": "chagab",
+          "meaning": "grasshopper"
+        },
+        {
+          "word": "nostrils",
+          "strongNumber": "H0639",
+          "lemma": "’aph",
+          "meaning": "nose; nostrils; face"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "He paweth in the valley, and rejoiceth in his strength: he goeth on to meet the armed men.",
+      "highlightedWords": [
+        {
+          "word": "valley",
+          "strongNumber": "H1516",
+          "lemma": "gai",
+          "meaning": "valley; ravine"
+        },
+        {
+          "word": "strength",
+          "strongNumber": "H5797",
+          "lemma": "‘oz",
+          "meaning": "strength; might"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "He mocketh at fear, and is not affrighted; neither turneth he back from the sword.",
+      "highlightedWords": [
+        {
+          "word": "fear",
+          "strongNumber": "H6343",
+          "lemma": "pachad",
+          "meaning": "fear; dread; terror"
+        },
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "The quiver rattleth against him, the glittering spear and the shield.",
+      "highlightedWords": [
+        {
+          "word": "spear",
+          "strongNumber": "H2595",
+          "lemma": "chanith",
+          "meaning": "spear; javelin"
+        },
+        {
+          "word": "shield",
+          "strongNumber": "H4043",
+          "lemma": "magen",
+          "meaning": "shield; buckler"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "He swalloweth the ground with fierceness and rage: neither believeth he that it is the sound of the trumpet.",
+      "highlightedWords": [
+        {
+          "word": "ground",
+          "strongNumber": "H0776",
+          "lemma": "’erets",
+          "meaning": "earth; land; ground"
+        },
+        {
+          "word": "trumpet",
+          "strongNumber": "H7782",
+          "lemma": "shofar",
+          "meaning": "ram’s horn; trumpet"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "He saith among the trumpets, Ha, ha; and he smelleth the battle afar off, the thunder of the captains, and the shouting.",
+      "highlightedWords": [
+        {
+          "word": "trumpets",
+          "strongNumber": "H7782",
+          "lemma": "shofar",
+          "meaning": "ram’s horns; trumpets"
+        },
+        {
+          "word": "battle",
+          "strongNumber": "H4421",
+          "lemma": "milchamah",
+          "meaning": "battle; war"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "Doth the hawk fly by thy wisdom, and stretch her wings toward the south?",
+      "highlightedWords": [
+        {
+          "word": "hawk",
+          "strongNumber": "H5322",
+          "lemma": "netz",
+          "meaning": "hawk; falcon"
+        },
+        {
+          "word": "south",
+          "strongNumber": "H5045",
+          "lemma": "negeb",
+          "meaning": "south; Negev"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "Doth the eagle mount up at thy command, and make her nest on high?",
+      "highlightedWords": [
+        {
+          "word": "eagle",
+          "strongNumber": "H5404",
+          "lemma": "nesher",
+          "meaning": "eagle; vulture"
+        },
+        {
+          "word": "nest",
+          "strongNumber": "H7064",
+          "lemma": "qen",
+          "meaning": "nest"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "She dwelleth and abideth on the rock, upon the crag of the rock, and the strong place.",
+      "highlightedWords": [
+        {
+          "word": "rock",
+          "strongNumber": "H5553",
+          "lemma": "sela‘",
+          "meaning": "rock; cliff"
+        },
+        {
+          "word": "strong place",
+          "strongNumber": "H4581",
+          "lemma": "ma‘oz",
+          "meaning": "stronghold; fortress"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "From thence she seeketh the prey, and her eyes behold afar off.",
+      "highlightedWords": [
+        {
+          "word": "prey",
+          "strongNumber": "H2964",
+          "lemma": "teref",
+          "meaning": "prey; torn meat"
+        },
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "‘ayin",
+          "meaning": "eye"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "Her young ones also suck up blood: and where the slain are, there is she.",
+      "highlightedWords": [
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "blood"
+        },
+        {
+          "word": "slain",
+          "strongNumber": "H2491",
+          "lemma": "chalal",
+          "meaning": "slain; pierced; wounded"
+        }
+      ]
+    }
+  ]
+}

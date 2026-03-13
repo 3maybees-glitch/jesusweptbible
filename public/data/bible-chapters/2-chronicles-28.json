@@ -1,0 +1,510 @@
+{
+  "book": "2 Chronicles",
+  "chapter": 28,
+  "chapterTheme": {
+    "twoWordSummary": "Faithless Reign",
+    "themeWords": [
+      {
+        "word": "Ahaz",
+        "strongNumber": "H271",
+        "lemma": "Achaz",
+        "meaning": "A king of Judah; name meaning 'he has grasped'"
+      },
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH",
+        "meaning": "The divine name, the God of Israel"
+      }
+    ]
+  },
+  "sentenceTheme": "Ahaz’s idolatry brings severe defeats and humiliation for Judah, captives are mercifully returned at Oded’s warning, and Assyrian reliance only deepens Judah’s ruin until Ahaz shuts the temple and dies.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Ahaz was twenty years old when he began to reign, and he reigned sixteen years in Jerusalem: but he did not that which was right in the sight of the LORD, like David his father:",
+      "highlightedWords": [
+        {
+          "word": "Ahaz",
+          "strongNumber": "H271",
+          "lemma": "Achaz",
+          "meaning": "King of Judah during the Syro-Ephraimite crisis"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "For he walked in the ways of the kings of Israel, and made also molten images for Baalim.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "The nation of Israel; the northern kingdom here"
+        },
+        {
+          "word": "Baalim",
+          "strongNumber": "H1168",
+          "lemma": "Ba'al",
+          "meaning": "The Baals; pagan deities worshiped in Canaan"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Moreover he burnt incense in the valley of the son of Hinnom, and burnt his children in the fire, after the abominations of the heathen whom the LORD had cast out before the children of Israel.",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "Son, child; descendants"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant God who drove out the nations"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "He sacrificed also and burnt incense in the high places, and on the hills, and under every green tree.",
+      "highlightedWords": [
+        {
+          "word": "high places",
+          "strongNumber": "H1116",
+          "lemma": "bamah",
+          "meaning": "Elevated sanctuary, shrine for worship"
+        },
+        {
+          "word": "tree",
+          "strongNumber": "H6086",
+          "lemma": "'ets",
+          "meaning": "Tree; wood; used here of cultic sites under trees"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Wherefore the LORD his God delivered him into the hand of the king of Syria; and they smote him, and carried away a great multitude of them captives, and brought them to Damascus. And he was also delivered into the hand of the king of Israel, who smote him with a great slaughter.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "Israel’s God who judges and delivers"
+        },
+        {
+          "word": "Damascus",
+          "strongNumber": "H1834",
+          "lemma": "Dammeseq",
+          "meaning": "Capital of Aram (Syria)"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "For Pekah the son of Remaliah slew in Judah an hundred and twenty thousand in one day, which were all valiant men; because they had forsaken the LORD God of their fathers.",
+      "highlightedWords": [
+        {
+          "word": "Pekah",
+          "strongNumber": "H6492",
+          "lemma": "Peqach",
+          "meaning": "King of Israel, son of Remaliah"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The God of their fathers whom they forsook"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And Zichri, a mighty man of Ephraim, slew Maaseiah the king's son, and Azrikam the governor of the house, and Elkanah that was next to the king.",
+      "highlightedWords": [
+        {
+          "word": "Ephraim",
+          "strongNumber": "H669",
+          "lemma": "Ephrayim",
+          "meaning": "A leading tribe of the northern kingdom"
+        },
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "Son; male descendant"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And the children of Israel carried away captive of their brethren two hundred thousand, women, sons, and daughters, and took also away much spoil from them, and brought the spoil to Samaria.",
+      "highlightedWords": [
+        {
+          "word": "brethren",
+          "strongNumber": "H251",
+          "lemma": "'ach",
+          "meaning": "Brother; kinsman; fellow countryman"
+        },
+        {
+          "word": "Samaria",
+          "strongNumber": "H8111",
+          "lemma": "Shomron",
+          "meaning": "Capital city of the northern kingdom"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "But a prophet of the LORD was there, whose name was Oded: and he went out before the host that came to Samaria, and said unto them, Behold, because the LORD God of your fathers was wroth with Judah, he hath delivered them into your hand, and ye have slain them in a rage that reacheth up unto heaven.",
+      "highlightedWords": [
+        {
+          "word": "prophet",
+          "strongNumber": "H5030",
+          "lemma": "navi'",
+          "meaning": "Spokesman for God"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "Heavens; sky; the realm above"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And now ye purpose to keep under the children of Judah and Jerusalem for bondmen and bondwomen unto you: but are there not with you, even with you, sins against the LORD your God?",
+      "highlightedWords": [
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "The southern kingdom; tribe of Judah"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant God whom they have sinned against"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Now hear me therefore, and deliver the captives again, which ye have taken captive of your brethren: for the fierce wrath of the LORD is upon you.",
+      "highlightedWords": [
+        {
+          "word": "captives",
+          "strongNumber": "H7628",
+          "lemma": "shebiy",
+          "meaning": "Captivity; captives taken in war"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The One whose wrath is upon them"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Then certain of the heads of the children of Ephraim, Azariah the son of Johanan, Berechiah the son of Meshillemoth, and Jehizkiah the son of Shallum, and Amasa the son of Hadlai, stood up against them that came from the war.",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "Sons; descendants; members"
+        },
+        {
+          "word": "Ephraim",
+          "strongNumber": "H669",
+          "lemma": "Ephrayim",
+          "meaning": "Northern tribe often representing Israel"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And said unto them, Ye shall not bring in the captives hither: for whereas we have offended against the LORD already, ye intend to add more to our sins and to our trespass: for our trespass is great, and there is fierce wrath against Israel.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The God whom they offended"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "The nation of Israel; the northern kingdom"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "So the armed men left the captives and the spoil before the princes and all the congregation.",
+      "highlightedWords": [
+        {
+          "word": "captives",
+          "strongNumber": "H7628",
+          "lemma": "shebiy",
+          "meaning": "Those taken in captivity"
+        },
+        {
+          "word": "princes",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "Chiefs; rulers; leaders"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And the men which were expressed by name rose up, and took the captives, and with the spoil clothed all that were naked among them, and arrayed them, and shod them, and gave them to eat and to drink, and anointed them, and carried all the feeble of them upon asses, and brought them to Jericho, the city of palm trees, to their brethren: then they returned to Samaria.",
+      "highlightedWords": [
+        {
+          "word": "asses",
+          "strongNumber": "H2543",
+          "lemma": "chamor",
+          "meaning": "Donkeys; beasts of burden"
+        },
+        {
+          "word": "Jericho",
+          "strongNumber": "H3405",
+          "lemma": "Yericho",
+          "meaning": "A city near the Jordan, called the city of palm trees"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "At that time did king Ahaz send unto the kings of Assyria to help him.",
+      "highlightedWords": [
+        {
+          "word": "Ahaz",
+          "strongNumber": "H271",
+          "lemma": "Achaz",
+          "meaning": "King of Judah who appealed to Assyria"
+        },
+        {
+          "word": "Assyria",
+          "strongNumber": "H804",
+          "lemma": "Ashshur",
+          "meaning": "The Assyrian empire"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "For again the Edomites had come and smitten Judah, and carried away captives.",
+      "highlightedWords": [
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "The southern kingdom attacked by Edom"
+        },
+        {
+          "word": "captives",
+          "strongNumber": "H7628",
+          "lemma": "shebiy",
+          "meaning": "Those carried away in captivity"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "The Philistines also had invaded the cities of the low country, and of the south of Judah, and had taken Beth-shemesh, and Ajalon, and Gederoth, and Shocho with the villages thereof, and Timnah with the villages thereof, Gimzo also and the villages thereof: and they dwelt there.",
+      "highlightedWords": [
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pelishtiy",
+          "meaning": "People of Philistia, coastal enemies of Israel/Judah"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "The southern kingdom whose towns were captured"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "For the LORD brought Judah low because of Ahaz king of Israel; for he made Judah naked, and transgressed sore against the LORD.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The One who humbled Judah"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "The kingdom brought low for Ahaz’s sins"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And Tilgath-pilneser king of Assyria came unto him, and distressed him, but strengthened him not.",
+      "highlightedWords": [
+        {
+          "word": "Assyria",
+          "strongNumber": "H804",
+          "lemma": "Ashshur",
+          "meaning": "Empire whose king oppressed Ahaz"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "Sovereign; ruler"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "For Ahaz took away a portion out of the house of the LORD, and out of the house of the king, and of the princes, and gave it unto the king of Assyria: but he helped him not.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The God whose house was stripped"
+        },
+        {
+          "word": "Assyria",
+          "strongNumber": "H804",
+          "lemma": "Ashshur",
+          "meaning": "Foreign power that did not help Ahaz"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And in the time of his distress did he trespass yet more against the LORD: this is that king Ahaz.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The One Ahaz sinned against even more"
+        },
+        {
+          "word": "Ahaz",
+          "strongNumber": "H271",
+          "lemma": "Achaz",
+          "meaning": "The culpable king of Judah"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "For he sacrificed unto the gods of Damascus, which smote him: and he said, Because the gods of the kings of Syria help them, therefore will I sacrifice to them, that they may help me. But they were the ruin of him, and of all Israel.",
+      "highlightedWords": [
+        {
+          "word": "gods",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "Deities; here, false gods of Damascus"
+        },
+        {
+          "word": "Syria",
+          "strongNumber": "H758",
+          "lemma": "Aram",
+          "meaning": "Aram; the kingdom often translated Syria"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And Ahaz gathered together the vessels of the house of God, and cut in pieces the vessels of the house of God, and shut up the doors of the house of the LORD, and he made him altars in every corner of Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "Name invoked regarding the temple he shut"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "The city where Ahaz erected altars"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And in every several city of Judah he made high places to burn incense unto other gods, and provoked to anger the LORD God of his fathers.",
+      "highlightedWords": [
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "The territory filled with illicit high places"
+        },
+        {
+          "word": "gods",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "Other deities to whom incense was burned"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "Now the rest of his acts and of all his ways, first and last, behold, they are written in the book of the kings of Judah and Israel.",
+      "highlightedWords": [
+        {
+          "word": "kings",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "Rulers; sovereigns whose records were kept"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "The people/nation alongside Judah in the records"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And Ahaz slept with his fathers, and they buried him in the city, even in Jerusalem: but they brought him not into the sepulchres of the kings of Israel: and Hezekiah his son reigned in his stead.",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "The city where Ahaz was buried"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Royal sepulchres of Israel’s kings (not used for Ahaz)"
+        }
+      ]
+    }
+  ]
+}

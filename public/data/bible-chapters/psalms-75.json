@@ -1,0 +1,204 @@
+{
+  "book": "Psalms",
+  "chapter": 75,
+  "chapterTheme": {
+    "twoWordSummary": "Divine Justice",
+    "themeWords": [
+      {
+        "word": "judge",
+        "strongNumber": "H8199",
+        "lemma": "shaphat",
+        "meaning": "to judge, govern, decide"
+      },
+      {
+        "word": "horn",
+        "strongNumber": "H7161",
+        "lemma": "qeren",
+        "meaning": "horn; symbol of power or strength"
+      }
+    ]
+  },
+  "sentenceTheme": "God receives the appointed time to judge uprightly, humbling the wicked and exalting the righteous, while His people offer thanks and praise.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Unto thee, O God, do we give thanks, unto thee do we give thanks: for that thy name is near thy wondrous works declare.",
+      "highlightedWords": [
+        {
+          "word": "give thanks",
+          "strongNumber": "H3034",
+          "lemma": "yadah",
+          "meaning": "to praise, give thanks, confess"
+        },
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "name, reputation, renown"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "When I shall receive the congregation I will judge uprightly.",
+      "highlightedWords": [
+        {
+          "word": "congregation",
+          "strongNumber": "H4150",
+          "lemma": "mo'ed",
+          "meaning": "appointed time, meeting, assembly"
+        },
+        {
+          "word": "judge",
+          "strongNumber": "H8199",
+          "lemma": "shaphat",
+          "meaning": "to judge, govern, decide"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "The earth and all the inhabitants thereof are dissolved: I bear up the pillars of it. Selah.",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "earth, land"
+        },
+        {
+          "word": "pillars",
+          "strongNumber": "H5982",
+          "lemma": "ammud",
+          "meaning": "pillar, column, support"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "I said unto the fools, Deal not foolishly: and to the wicked, Lift not up the horn:",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha",
+          "meaning": "wicked, guilty, criminal"
+        },
+        {
+          "word": "horn",
+          "strongNumber": "H7161",
+          "lemma": "qeren",
+          "meaning": "horn; symbol of power or strength"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Lift not up your horn on high: speak not with a stiff neck.",
+      "highlightedWords": [
+        {
+          "word": "Lift",
+          "strongNumber": "H7311",
+          "lemma": "rum",
+          "meaning": "to raise, exalt, lift up"
+        },
+        {
+          "word": "neck",
+          "strongNumber": "H6203",
+          "lemma": "oreph",
+          "meaning": "neck; back of the neck (stubbornness, figuratively)"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "For promotion cometh neither from the east, nor from the west, nor from the south.",
+      "highlightedWords": [
+        {
+          "word": "east",
+          "strongNumber": "H4161",
+          "lemma": "mowtsa",
+          "meaning": "going forth, place of sunrise (east)"
+        },
+        {
+          "word": "west",
+          "strongNumber": "H4628",
+          "lemma": "ma'arab",
+          "meaning": "west, place of sunset"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "But God is the judge: he putteth down one, and setteth up another.",
+      "highlightedWords": [
+        {
+          "word": "judge",
+          "strongNumber": "H8199",
+          "lemma": "shaphat",
+          "meaning": "to judge, govern, decide"
+        },
+        {
+          "word": "setteth up",
+          "strongNumber": "H7311",
+          "lemma": "rum",
+          "meaning": "to raise, exalt, set on high"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "For in the hand of the LORD there is a cup, and the wine is red; it is full of mixture; and he poureth out of the same: but the dregs thereof, all the wicked of the earth shall wring them out, and drink them.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God, the LORD"
+        },
+        {
+          "word": "cup",
+          "strongNumber": "H3563",
+          "lemma": "kos",
+          "meaning": "cup; figuratively, portion"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "But I will declare for ever; I will sing praises to the God of Jacob.",
+      "highlightedWords": [
+        {
+          "word": "sing praises",
+          "strongNumber": "H2167",
+          "lemma": "zamar",
+          "meaning": "to sing, make music in praise"
+        },
+        {
+          "word": "Jacob",
+          "strongNumber": "H3290",
+          "lemma": "Ya'aqob",
+          "meaning": "Jacob; heel-catcher; the patriarch Israel"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "All the horns of the wicked also will I cut off; but the horns of the righteous shall be exalted.",
+      "highlightedWords": [
+        {
+          "word": "horns",
+          "strongNumber": "H7161",
+          "lemma": "qeren",
+          "meaning": "horns; symbols of power or strength"
+        },
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just, in the right"
+        }
+      ]
+    }
+  ]
+}

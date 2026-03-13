@@ -1,0 +1,744 @@
+{
+  "book": "Psalms",
+  "chapter": 37,
+  "chapterTheme": {
+    "twoWordSummary": "Trust LORD",
+    "themeWords": [
+      {
+        "word": "Trust",
+        "strongNumber": "H982",
+        "lemma": "batach",
+        "meaning": "to trust, be confident, rely"
+      },
+      {
+        "word": "Wicked",
+        "strongNumber": "H7563",
+        "lemma": "rasha'",
+        "meaning": "wicked, guilty, criminal"
+      }
+    ]
+  },
+  "sentenceTheme": "A wisdom psalm contrasting the fleeting prosperity of the wicked with the enduring inheritance and peace of those who trust in the LORD.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Fret not thyself because of evildoers, neither be thou envious against the workers of iniquity.",
+      "highlightedWords": [
+        {
+          "word": "Fret",
+          "strongNumber": "H2734",
+          "lemma": "charah",
+          "meaning": "to burn with anger, be incensed"
+        },
+        {
+          "word": "evildoers",
+          "strongNumber": "H7489",
+          "lemma": "ra'a",
+          "meaning": "one who does evil; evildoer"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "For they shall soon be cut down like the grass, and wither as the green herb.",
+      "highlightedWords": [
+        {
+          "word": "grass",
+          "strongNumber": "H2682",
+          "lemma": "chatsir",
+          "meaning": "grass, herbage"
+        },
+        {
+          "word": "wither",
+          "strongNumber": "H5034",
+          "lemma": "nabel",
+          "meaning": "to fade, wither, droop"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Trust in the LORD, and do good; so shalt thou dwell in the land, and verily thou shalt be fed.",
+      "highlightedWords": [
+        {
+          "word": "Trust",
+          "strongNumber": "H982",
+          "lemma": "batach",
+          "meaning": "to trust, be confident, rely"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel (YHWH)"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Delight thyself also in the LORD; and he shall give thee the desires of thine heart.",
+      "highlightedWords": [
+        {
+          "word": "Delight",
+          "strongNumber": "H6026",
+          "lemma": "anag",
+          "meaning": "to be soft; to take exquisite delight"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel (YHWH)"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Commit thy way unto the LORD; trust also in him; and he shall bring it to pass.",
+      "highlightedWords": [
+        {
+          "word": "Commit",
+          "strongNumber": "H1556",
+          "lemma": "galal",
+          "meaning": "to roll; figuratively, to commit"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel (YHWH)"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And he shall bring forth thy righteousness as the light, and thy judgment as the noonday.",
+      "highlightedWords": [
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "tsedaqah",
+          "meaning": "righteousness, justice"
+        },
+        {
+          "word": "light",
+          "strongNumber": "H216",
+          "lemma": "or",
+          "meaning": "light, illumination"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Rest in the LORD, and wait patiently for him: fret not thyself because of him who prospereth in his way, because of the man who bringeth wicked devices to pass.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel (YHWH)"
+        },
+        {
+          "word": "way",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way, road, path, manner"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Cease from anger, and forsake wrath: fret not thyself in any wise to do evil.",
+      "highlightedWords": [
+        {
+          "word": "anger",
+          "strongNumber": "H639",
+          "lemma": "aph",
+          "meaning": "nostril, nose; anger"
+        },
+        {
+          "word": "wrath",
+          "strongNumber": "H2534",
+          "lemma": "chemah",
+          "meaning": "heat, rage, wrath"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "For evildoers shall be cut off: but those that wait upon the LORD, they shall inherit the earth.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel (YHWH)"
+        },
+        {
+          "word": "inherit",
+          "strongNumber": "H3423",
+          "lemma": "yarash",
+          "meaning": "to possess, inherit, dispossess"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "For yet a little while, and the wicked shall not be: yea, thou shalt diligently consider his place, and it shall not be.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha'",
+          "meaning": "wicked, guilty, criminal"
+        },
+        {
+          "word": "place",
+          "strongNumber": "H4725",
+          "lemma": "maqom",
+          "meaning": "place, standing, locality"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "But the meek shall inherit the earth; and shall delight themselves in the abundance of peace.",
+      "highlightedWords": [
+        {
+          "word": "meek",
+          "strongNumber": "H6035",
+          "lemma": "anav",
+          "meaning": "poor, humble, meek"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "eretz",
+          "meaning": "land, earth"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "The wicked plotteth against the just, and gnasheth upon him with his teeth.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha'",
+          "meaning": "wicked, guilty, criminal"
+        },
+        {
+          "word": "just",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "The Lord shall laugh at him: for he seeth that his day is coming.",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "H136",
+          "lemma": "Adonai",
+          "meaning": "Lord, master"
+        },
+        {
+          "word": "laugh",
+          "strongNumber": "H7832",
+          "lemma": "sachaq",
+          "meaning": "to laugh, mock, play"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "The wicked have drawn out the sword, and have bent their bow, to cast down the poor and needy, and to slay such as be of upright conversation.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha'",
+          "meaning": "wicked, guilty, criminal"
+        },
+        {
+          "word": "poor",
+          "strongNumber": "H6041",
+          "lemma": "ani",
+          "meaning": "poor, afflicted, humble"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Their sword shall enter into their own heart, and their bows shall be broken.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner person, mind"
+        },
+        {
+          "word": "broken",
+          "strongNumber": "H7665",
+          "lemma": "shabar",
+          "meaning": "to break, shatter, smash"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "A little that a righteous man hath is better than the riches of many wicked.",
+      "highlightedWords": [
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha'",
+          "meaning": "wicked, guilty, criminal"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "For the arms of the wicked shall be broken: but the LORD upholdeth the righteous.",
+      "highlightedWords": [
+        {
+          "word": "arms",
+          "strongNumber": "H2220",
+          "lemma": "zeroa'",
+          "meaning": "arm, strength"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel (YHWH)"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "The LORD knoweth the days of the upright: and their inheritance shall be for ever.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel (YHWH)"
+        },
+        {
+          "word": "inheritance",
+          "strongNumber": "H5159",
+          "lemma": "nachalah",
+          "meaning": "inheritance, heritage, possession"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "They shall not be ashamed in the evil time: and in the days of famine they shall be satisfied.",
+      "highlightedWords": [
+        {
+          "word": "ashamed",
+          "strongNumber": "H954",
+          "lemma": "bosh",
+          "meaning": "to be ashamed, confounded"
+        },
+        {
+          "word": "famine",
+          "strongNumber": "H7458",
+          "lemma": "ra'av",
+          "meaning": "famine, hunger"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "But the wicked shall perish, and the enemies of the LORD shall be as the fat of lambs: they shall consume; into smoke shall they consume away.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha'",
+          "meaning": "wicked, guilty, criminal"
+        },
+        {
+          "word": "smoke",
+          "strongNumber": "H6227",
+          "lemma": "ashan",
+          "meaning": "smoke"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "The wicked borroweth, and payeth not again: but the righteous sheweth mercy, and giveth.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha'",
+          "meaning": "wicked, guilty, criminal"
+        },
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "For such as be blessed of him shall inherit the earth; and they that be cursed of him shall be cut off.",
+      "highlightedWords": [
+        {
+          "word": "blessed",
+          "strongNumber": "H1288",
+          "lemma": "barak",
+          "meaning": "to bless, kneel"
+        },
+        {
+          "word": "inherit",
+          "strongNumber": "H3423",
+          "lemma": "yarash",
+          "meaning": "to possess, inherit, dispossess"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "The steps of a good man are ordered by the LORD: and he delighteth in his way.",
+      "highlightedWords": [
+        {
+          "word": "steps",
+          "strongNumber": "H4571",
+          "lemma": "mits'ad",
+          "meaning": "step, going, stride"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel (YHWH)"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Though he fall, he shall not be utterly cast down: for the LORD upholdeth him with his hand.",
+      "highlightedWords": [
+        {
+          "word": "upholdeth",
+          "strongNumber": "H8551",
+          "lemma": "tamak",
+          "meaning": "to grasp, support, uphold"
+        },
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "I have been young, and now am old; yet have I not seen the righteous forsaken, nor his seed begging bread.",
+      "highlightedWords": [
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just"
+        },
+        {
+          "word": "seed",
+          "strongNumber": "H2233",
+          "lemma": "zera'",
+          "meaning": "seed, offspring, descendants"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "He is ever merciful, and lendeth; and his seed is blessed.",
+      "highlightedWords": [
+        {
+          "word": "lendeth",
+          "strongNumber": "H3867",
+          "lemma": "lavah",
+          "meaning": "to lend, borrow"
+        },
+        {
+          "word": "blessed",
+          "strongNumber": "H1288",
+          "lemma": "barak",
+          "meaning": "to bless, kneel"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "Depart from evil, and do good; and dwell for evermore.",
+      "highlightedWords": [
+        {
+          "word": "Depart",
+          "strongNumber": "H5493",
+          "lemma": "sur",
+          "meaning": "to turn aside, depart"
+        },
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra'",
+          "meaning": "evil, bad, adversity"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "For the LORD loveth judgment, and forsaketh not his saints; they are preserved for ever: but the seed of the wicked shall be cut off.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel (YHWH)"
+        },
+        {
+          "word": "saints",
+          "strongNumber": "H2623",
+          "lemma": "chasid",
+          "meaning": "faithful, godly, holy one"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "The righteous shall inherit the land, and dwell therein for ever.",
+      "highlightedWords": [
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just"
+        },
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "eretz",
+          "meaning": "land, earth"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "The mouth of the righteous speaketh wisdom, and his tongue talketh of judgment.",
+      "highlightedWords": [
+        {
+          "word": "mouth",
+          "strongNumber": "H6310",
+          "lemma": "peh",
+          "meaning": "mouth, speech"
+        },
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "wisdom, skill"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "The law of his God is in his heart; none of his steps shall slide.",
+      "highlightedWords": [
+        {
+          "word": "law",
+          "strongNumber": "H8451",
+          "lemma": "torah",
+          "meaning": "law, instruction, teaching"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner person, mind"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "The wicked watcheth the righteous, and seeketh to slay him.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha'",
+          "meaning": "wicked, guilty, criminal"
+        },
+        {
+          "word": "slay",
+          "strongNumber": "H4191",
+          "lemma": "muth",
+          "meaning": "to die; to kill, slay (hiphil)"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "The LORD will not leave him in his hand, nor condemn him when he is judged.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel (YHWH)"
+        },
+        {
+          "word": "condemn",
+          "strongNumber": "H7561",
+          "lemma": "rasha'",
+          "meaning": "to declare guilty, condemn"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "Wait on the LORD, and keep his way, and he shall exalt thee to inherit the land: when the wicked are cut off, thou shalt see it.",
+      "highlightedWords": [
+        {
+          "word": "Wait",
+          "strongNumber": "H6960",
+          "lemma": "qavah",
+          "meaning": "to wait for, look for, hope"
+        },
+        {
+          "word": "inherit",
+          "strongNumber": "H3423",
+          "lemma": "yarash",
+          "meaning": "to possess, inherit, dispossess"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "I have seen the wicked in great power, and spreading himself like a green bay tree.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha'",
+          "meaning": "wicked, guilty, criminal"
+        },
+        {
+          "word": "tree",
+          "strongNumber": "H6086",
+          "lemma": "ets",
+          "meaning": "tree, wood"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "Yet he passed away, and, lo, he was not: yea, I sought him, but he could not be found.",
+      "highlightedWords": [
+        {
+          "word": "passed",
+          "strongNumber": "H5674",
+          "lemma": "avar",
+          "meaning": "to pass over, cross, pass away"
+        },
+        {
+          "word": "found",
+          "strongNumber": "H4672",
+          "lemma": "matsa'",
+          "meaning": "to find, attain, discover"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "Mark the perfect man, and behold the upright: for the end of that man is peace.",
+      "highlightedWords": [
+        {
+          "word": "Mark",
+          "strongNumber": "H8104",
+          "lemma": "shamar",
+          "meaning": "to keep, watch, observe"
+        },
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace, wholeness, welfare"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "But the transgressors shall be destroyed together: the end of the wicked shall be cut off.",
+      "highlightedWords": [
+        {
+          "word": "transgressors",
+          "strongNumber": "H6586",
+          "lemma": "pasha'",
+          "meaning": "to transgress, rebel; transgressor"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha'",
+          "meaning": "wicked, guilty, criminal"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "text": "But the salvation of the righteous is of the LORD: he is their strength in the time of trouble.",
+      "highlightedWords": [
+        {
+          "word": "salvation",
+          "strongNumber": "H3444",
+          "lemma": "yeshu'ah",
+          "meaning": "salvation, deliverance"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel (YHWH)"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "text": "And the LORD shall help them, and deliver them: he shall deliver them from the wicked, and save them, because they trust in him.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel (YHWH)"
+        },
+        {
+          "word": "deliver",
+          "strongNumber": "H5337",
+          "lemma": "natsal",
+          "meaning": "to snatch away, deliver, rescue"
+        }
+      ]
+    }
+  ]
+}

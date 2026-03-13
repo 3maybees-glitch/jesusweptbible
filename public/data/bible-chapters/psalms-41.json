@@ -1,0 +1,258 @@
+{
+  "book": "Psalms",
+  "chapter": 41,
+  "chapterTheme": {
+    "twoWordSummary": "Mercy Vindication",
+    "themeWords": [
+      {
+        "word": "merciful",
+        "strongNumber": "H2603",
+        "lemma": "chanan",
+        "meaning": "to be gracious, show favor"
+      },
+      {
+        "word": "deliver",
+        "strongNumber": "H4422",
+        "lemma": "malat",
+        "meaning": "to deliver, cause to escape"
+      }
+    ]
+  },
+  "sentenceTheme": "God blesses those who care for the weak, granting healing and steadfast protection while vindicating the faithful against treacherous enemies.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Blessed is he that considereth the poor: the LORD will deliver him in time of trouble.",
+      "highlightedWords": [
+        {
+          "word": "Blessed",
+          "strongNumber": "H835",
+          "lemma": "’esher",
+          "meaning": "happiness, blessedness"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "The LORD will preserve him, and keep him alive; and he shall be blessed upon the earth: and thou wilt not deliver him unto the will of his enemies.",
+      "highlightedWords": [
+        {
+          "word": "preserve",
+          "strongNumber": "H8104",
+          "lemma": "shamar",
+          "meaning": "to keep, guard, watch over"
+        },
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "’oyev",
+          "meaning": "enemy, foe"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "The LORD will strengthen him upon the bed of languishing: thou wilt make all his bed in his sickness.",
+      "highlightedWords": [
+        {
+          "word": "strengthen",
+          "strongNumber": "H5582",
+          "lemma": "sa’ad",
+          "meaning": "to support, sustain, strengthen"
+        },
+        {
+          "word": "sickness",
+          "strongNumber": "H2483",
+          "lemma": "choli",
+          "meaning": "sickness, illness, affliction"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "I said, LORD, be merciful unto me: heal my soul; for I have sinned against thee.",
+      "highlightedWords": [
+        {
+          "word": "merciful",
+          "strongNumber": "H2603",
+          "lemma": "chanan",
+          "meaning": "to be gracious, show favor"
+        },
+        {
+          "word": "heal",
+          "strongNumber": "H7495",
+          "lemma": "raphaʿ",
+          "meaning": "to heal, make healthy"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Mine enemies speak evil of me, When shall he die, and his name perish?",
+      "highlightedWords": [
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "’oyev",
+          "meaning": "enemy, foe"
+        },
+        {
+          "word": "perish",
+          "strongNumber": "H6",
+          "lemma": "’abad",
+          "meaning": "to perish, be destroyed, vanish"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And if he come to see me, he speaketh vanity: his heart gathereth iniquity to itself; when he goeth abroad, he telleth it.",
+      "highlightedWords": [
+        {
+          "word": "vanity",
+          "strongNumber": "H7723",
+          "lemma": "shavʾ",
+          "meaning": "emptiness, falsehood, worthless talk"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H205",
+          "lemma": "’aven",
+          "meaning": "iniquity, trouble, mischief"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "All that hate me whisper together against me: against me do they devise my hurt.",
+      "highlightedWords": [
+        {
+          "word": "hate",
+          "strongNumber": "H8130",
+          "lemma": "saneʾ",
+          "meaning": "to hate, be hostile to"
+        },
+        {
+          "word": "devise",
+          "strongNumber": "H2803",
+          "lemma": "chashav",
+          "meaning": "to think, plan, devise"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "An evil disease, say they, cleaveth fast unto him: and now that he lieth he shall rise up no more.",
+      "highlightedWords": [
+        {
+          "word": "evil",
+          "strongNumber": "H1100",
+          "lemma": "beliyyaʿal",
+          "meaning": "worthlessness, wickedness (Belial)"
+        },
+        {
+          "word": "lieth",
+          "strongNumber": "H7901",
+          "lemma": "shakab",
+          "meaning": "to lie down, recline"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Yea, mine own familiar friend, in whom I trusted, which did eat of my bread, hath lifted up his heel against me.",
+      "highlightedWords": [
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread, food"
+        },
+        {
+          "word": "heel",
+          "strongNumber": "H6119",
+          "lemma": "ʿaqeb",
+          "meaning": "heel, rear of the foot"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "But thou, O LORD, be merciful unto me, and raise me up, that I may requite them.",
+      "highlightedWords": [
+        {
+          "word": "merciful",
+          "strongNumber": "H2603",
+          "lemma": "chanan",
+          "meaning": "to be gracious, show favor"
+        },
+        {
+          "word": "requite",
+          "strongNumber": "H7999",
+          "lemma": "shalam",
+          "meaning": "to repay, recompense, make whole"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "By this I know that thou favourest me, because mine enemy doth not triumph over me.",
+      "highlightedWords": [
+        {
+          "word": "know",
+          "strongNumber": "H3045",
+          "lemma": "yadaʿ",
+          "meaning": "to know, perceive, recognize"
+        },
+        {
+          "word": "enemy",
+          "strongNumber": "H341",
+          "lemma": "’oyev",
+          "meaning": "enemy, foe"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And as for me, thou upholdest me in mine integrity, and settest me before thy face for ever.",
+      "highlightedWords": [
+        {
+          "word": "upholdest",
+          "strongNumber": "H8551",
+          "lemma": "tamak",
+          "meaning": "to hold, support, uphold"
+        },
+        {
+          "word": "integrity",
+          "strongNumber": "H8537",
+          "lemma": "tom",
+          "meaning": "integrity, innocence, completeness"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Blessed be the LORD God of Israel from everlasting, and to everlasting. Amen, and Amen.",
+      "highlightedWords": [
+        {
+          "word": "Blessed",
+          "strongNumber": "H1288",
+          "lemma": "barak",
+          "meaning": "to bless, praise"
+        },
+        {
+          "word": "everlasting",
+          "strongNumber": "H5769",
+          "lemma": "ʿolam",
+          "meaning": "everlasting, eternity, perpetuity"
+        }
+      ]
+    }
+  ]
+}

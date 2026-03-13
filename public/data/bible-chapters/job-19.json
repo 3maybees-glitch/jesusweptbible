@@ -1,0 +1,546 @@
+{
+  "book": "Job",
+  "chapter": 19,
+  "chapterTheme": {
+    "twoWordSummary": "Living Redeemer",
+    "themeWords": [
+      {
+        "word": "redeemer",
+        "strongNumber": "H1350",
+        "lemma": "gōʾēl/gaʾal",
+        "meaning": "to redeem; kinsman-redeemer, vindicator"
+      },
+      {
+        "word": "hope",
+        "strongNumber": "H8615",
+        "lemma": "tiqvāh",
+        "meaning": "hope, expectation"
+      }
+    ]
+  },
+  "sentenceTheme": "Job laments deep abandonment and injustice, yet declares unwavering confidence that his living Redeemer will ultimately vindicate him.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Then Job answered and said,",
+      "highlightedWords": [
+        {
+          "word": "Job",
+          "strongNumber": "H347",
+          "lemma": "ʾIyyob",
+          "meaning": "Job; a man of Uz; name possibly meaning 'persecuted/hated'"
+        },
+        {
+          "word": "answered",
+          "strongNumber": "H6030",
+          "lemma": "ʿānâ",
+          "meaning": "to answer, respond"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "How long will ye vex my soul, and break me in pieces with words?",
+      "highlightedWords": [
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, self"
+        },
+        {
+          "word": "words",
+          "strongNumber": "H1697",
+          "lemma": "dābār",
+          "meaning": "word, matter, thing"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "These ten times have ye reproached me: ye are not ashamed that ye make yourselves strange to me.",
+      "highlightedWords": [
+        {
+          "word": "ten",
+          "strongNumber": "H6235",
+          "lemma": "ʿeśer",
+          "meaning": "ten"
+        },
+        {
+          "word": "ashamed",
+          "strongNumber": "H954",
+          "lemma": "bôsh",
+          "meaning": "to be ashamed, confounded"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And be it indeed that I have erred, mine error remaineth with myself.",
+      "highlightedWords": [
+        {
+          "word": "erred",
+          "strongNumber": "H7686",
+          "lemma": "šāgâ",
+          "meaning": "to err, go astray"
+        },
+        {
+          "word": "myself",
+          "strongNumber": "H589",
+          "lemma": "ʾănî",
+          "meaning": "I, me, myself"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "If indeed ye will magnify yourselves against me, and plead against me my reproach:",
+      "highlightedWords": [
+        {
+          "word": "magnify",
+          "strongNumber": "H1431",
+          "lemma": "gādal",
+          "meaning": "to make great, magnify, boast"
+        },
+        {
+          "word": "reproach",
+          "strongNumber": "H2781",
+          "lemma": "ḥerpâ",
+          "meaning": "reproach, disgrace"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Know now that God hath overthrown me, and hath compassed me with his net.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H433",
+          "lemma": "ʾĕlôah",
+          "meaning": "God, the Deity"
+        },
+        {
+          "word": "net",
+          "strongNumber": "H7568",
+          "lemma": "rešet",
+          "meaning": "net"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Behold, I cry out of wrong, but I am not heard: I cry aloud, but there is no judgment.",
+      "highlightedWords": [
+        {
+          "word": "cry",
+          "strongNumber": "H7121",
+          "lemma": "qārāʾ",
+          "meaning": "to call out, cry"
+        },
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mišpāṭ",
+          "meaning": "judgment, justice, legal decision"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "He hath fenced up my way that I cannot pass, and he hath set darkness in my paths.",
+      "highlightedWords": [
+        {
+          "word": "way",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way, road, path"
+        },
+        {
+          "word": "darkness",
+          "strongNumber": "H2822",
+          "lemma": "ḥōšeḵ",
+          "meaning": "darkness"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "He hath stripped me of my glory, and taken the crown from my head.",
+      "highlightedWords": [
+        {
+          "word": "glory",
+          "strongNumber": "H3519",
+          "lemma": "kāḇôd",
+          "meaning": "glory, honor"
+        },
+        {
+          "word": "crown",
+          "strongNumber": "H5850",
+          "lemma": "ʿăṭārâ",
+          "meaning": "crown, wreath"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "He hath destroyed me on every side, and I am gone: and mine hope hath he removed like a tree.",
+      "highlightedWords": [
+        {
+          "word": "hope",
+          "strongNumber": "H8615",
+          "lemma": "tiqvāh",
+          "meaning": "hope, expectation"
+        },
+        {
+          "word": "tree",
+          "strongNumber": "H6086",
+          "lemma": "ʿēṣ",
+          "meaning": "tree, wood"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "He hath also kindled his wrath against me, and he counteth me unto him as one of his enemies.",
+      "highlightedWords": [
+        {
+          "word": "wrath",
+          "strongNumber": "H639",
+          "lemma": "ʾaph",
+          "meaning": "anger, wrath"
+        },
+        {
+          "word": "enemies",
+          "strongNumber": "H340",
+          "lemma": "ʾōyēḇ",
+          "meaning": "enemy"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "His troops come together, and raise up their way against me, and encamp round about my tabernacle.",
+      "highlightedWords": [
+        {
+          "word": "troops",
+          "strongNumber": "H1416",
+          "lemma": "gĕdûd",
+          "meaning": "troop, band, raiding party"
+        },
+        {
+          "word": "tabernacle",
+          "strongNumber": "H168",
+          "lemma": "ʾōhel",
+          "meaning": "tent, tabernacle"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "He hath put my brethren far from me, and mine acquaintance are verily estranged from me.",
+      "highlightedWords": [
+        {
+          "word": "brethren",
+          "strongNumber": "H251",
+          "lemma": "ʾāḥ",
+          "meaning": "brother, kinsman"
+        },
+        {
+          "word": "far",
+          "strongNumber": "H7368",
+          "lemma": "rāḥaq",
+          "meaning": "to be far, distant"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "My kinsfolk have failed, and my familiar friends have forgotten me.",
+      "highlightedWords": [
+        {
+          "word": "kinsfolk",
+          "strongNumber": "H7138",
+          "lemma": "qārōb",
+          "meaning": "near one, kinsman"
+        },
+        {
+          "word": "forgotten",
+          "strongNumber": "H7911",
+          "lemma": "šāḵaḥ",
+          "meaning": "to forget"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "They that dwell in mine house, and my maids, count me for a stranger: I am an alien in their sight.",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayit",
+          "meaning": "house, household"
+        },
+        {
+          "word": "stranger",
+          "strongNumber": "H2114",
+          "lemma": "zār",
+          "meaning": "stranger, foreigner"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "I called my servant, and he gave me no answer; I intreated him with my mouth.",
+      "highlightedWords": [
+        {
+          "word": "servant",
+          "strongNumber": "H5650",
+          "lemma": "ʿeḇed",
+          "meaning": "servant, slave"
+        },
+        {
+          "word": "mouth",
+          "strongNumber": "H6310",
+          "lemma": "peh",
+          "meaning": "mouth"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "My breath is strange to my wife, though I intreated for the children's sake of mine own body.",
+      "highlightedWords": [
+        {
+          "word": "breath",
+          "strongNumber": "H7307",
+          "lemma": "rûaḥ",
+          "meaning": "breath, wind, spirit"
+        },
+        {
+          "word": "wife",
+          "strongNumber": "H802",
+          "lemma": "ʾiššâ",
+          "meaning": "woman, wife"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Yea, young children despised me; I arose, and they spake against me.",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H5768",
+          "lemma": "ʿôlēl",
+          "meaning": "child, infant, little one"
+        },
+        {
+          "word": "spake",
+          "strongNumber": "H1696",
+          "lemma": "dābar",
+          "meaning": "to speak, declare"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "All my inward friends abhorred me: and they whom I loved are turned against me.",
+      "highlightedWords": [
+        {
+          "word": "friends",
+          "strongNumber": "H7453",
+          "lemma": "rēaʿ",
+          "meaning": "friend, companion, neighbor"
+        },
+        {
+          "word": "loved",
+          "strongNumber": "H157",
+          "lemma": "ʾāhab",
+          "meaning": "to love"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "My bone cleaveth to my skin and to my flesh, and I am escaped with the skin of my teeth.",
+      "highlightedWords": [
+        {
+          "word": "bone",
+          "strongNumber": "H6106",
+          "lemma": "ʿeṣem",
+          "meaning": "bone"
+        },
+        {
+          "word": "teeth",
+          "strongNumber": "H8127",
+          "lemma": "šēn",
+          "meaning": "tooth, teeth"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Have pity upon me, have pity upon me, O ye my friends; for the hand of God hath touched me.",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yād",
+          "meaning": "hand, power"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H433",
+          "lemma": "ʾĕlôah",
+          "meaning": "God, the Deity"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Why do ye persecute me as God, and are not satisfied with my flesh?",
+      "highlightedWords": [
+        {
+          "word": "persecute",
+          "strongNumber": "H7291",
+          "lemma": "rādap̄",
+          "meaning": "to pursue, persecute"
+        },
+        {
+          "word": "flesh",
+          "strongNumber": "H1320",
+          "lemma": "bāśār",
+          "meaning": "flesh, body"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Oh that my words were now written! oh that they were printed in a book!",
+      "highlightedWords": [
+        {
+          "word": "words",
+          "strongNumber": "H1697",
+          "lemma": "dābār",
+          "meaning": "word, matter, thing"
+        },
+        {
+          "word": "book",
+          "strongNumber": "H5612",
+          "lemma": "sēper",
+          "meaning": "book, scroll, document"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "That they were graven with an iron pen and lead in the rock for ever!",
+      "highlightedWords": [
+        {
+          "word": "iron",
+          "strongNumber": "H1270",
+          "lemma": "barzel",
+          "meaning": "iron"
+        },
+        {
+          "word": "rock",
+          "strongNumber": "H6697",
+          "lemma": "ṣûr",
+          "meaning": "rock, cliff"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "For I know that my redeemer liveth, and that he shall stand at the latter day upon the earth:",
+      "highlightedWords": [
+        {
+          "word": "redeemer",
+          "strongNumber": "H1350",
+          "lemma": "gōʾēl/gaʾal",
+          "meaning": "kinsman-redeemer, vindicator; to redeem"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "ʾereṣ",
+          "meaning": "earth, land"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And though after my skin worms destroy this body, yet in my flesh shall I see God:",
+      "highlightedWords": [
+        {
+          "word": "skin",
+          "strongNumber": "H5785",
+          "lemma": "ʿôr",
+          "meaning": "skin, hide"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H433",
+          "lemma": "ʾĕlôah",
+          "meaning": "God, the Deity"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "Whom I shall see for myself, and mine eyes shall behold, and not another; though my reins be consumed within me.",
+      "highlightedWords": [
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "ʿayin",
+          "meaning": "eye"
+        },
+        {
+          "word": "consumed",
+          "strongNumber": "H3615",
+          "lemma": "kālāh",
+          "meaning": "to be consumed, finished"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "But ye should say, Why persecute we him, seeing the root of the matter is found in me?",
+      "highlightedWords": [
+        {
+          "word": "root",
+          "strongNumber": "H8328",
+          "lemma": "šōreš",
+          "meaning": "root"
+        },
+        {
+          "word": "matter",
+          "strongNumber": "H1697",
+          "lemma": "dābār",
+          "meaning": "matter, word, affair"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "Be ye afraid of the sword: for wrath bringeth the punishments of the sword, that ye may know there is a judgment.",
+      "highlightedWords": [
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "ḥereb",
+          "meaning": "sword"
+        },
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mišpāṭ",
+          "meaning": "judgment, justice"
+        }
+      ]
+    }
+  ]
+}

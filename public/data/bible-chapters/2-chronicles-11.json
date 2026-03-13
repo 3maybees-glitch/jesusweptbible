@@ -1,0 +1,438 @@
+{
+  "book": "2 Chronicles",
+  "chapter": 11,
+  "chapterTheme": {
+    "twoWordSummary": "Fortified Faithfulness",
+    "themeWords": [
+      {
+        "word": "Rehoboam",
+        "strongNumber": "H7346",
+        "lemma": "רְחַבְעָם",
+        "meaning": "People have enlarged; son of Solomon and king of Judah"
+      },
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "יְהוָה",
+        "meaning": "The personal name of the God of Israel (YHWH)"
+      }
+    ]
+  },
+  "sentenceTheme": "After obeying the LORD’s command not to fight Israel, Rehoboam fortifies Judah, receives priests and Levites who flee Jeroboam’s idolatry, and consolidates his rule and family.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And when Rehoboam was come to Jerusalem, he gathered of the house of Judah and Benjamin an hundred and fourscore thousand chosen men, which were warriors, to fight against Israel, that he might bring the kingdom again to Rehoboam.",
+      "highlightedWords": [
+        {
+          "word": "Rehoboam",
+          "strongNumber": "H7346",
+          "lemma": "רְחַבְעָם",
+          "meaning": "People have enlarged; son of Solomon and king of Judah"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "יִשְׂרָאֵל",
+          "meaning": "Israel; the people/nation; also the name given to Jacob"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "But the word of the LORD came to Shemaiah the man of God, saying,",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "יְהוָה",
+          "meaning": "The personal name of the God of Israel (YHWH)"
+        },
+        {
+          "word": "Shemaiah",
+          "strongNumber": "H8098",
+          "lemma": "שְׁמַעְיָה",
+          "meaning": "Shemaiah; a Hebrew prophet; name meaning ‘Yah has heard’"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Speak unto Rehoboam the son of Solomon, king of Judah, and to all Israel in Judah and Benjamin, saying,",
+      "highlightedWords": [
+        {
+          "word": "Rehoboam",
+          "strongNumber": "H7346",
+          "lemma": "רְחַבְעָם",
+          "meaning": "People have enlarged; son of Solomon and king of Judah"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "יְהוּדָה",
+          "meaning": "Judah; praise; the southern kingdom and tribe"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Thus saith the LORD, Ye shall not go up, nor fight against your brethren: return every man to his house: for this thing is of me. And they obeyed the words of the LORD, and returned from going against Jeroboam.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "יְהוָה",
+          "meaning": "The personal name of the God of Israel (YHWH)"
+        },
+        {
+          "word": "Jeroboam",
+          "strongNumber": "H3379",
+          "lemma": "יָרָבְעָם",
+          "meaning": "Jeroboam; name meaning ‘the people contend/increase’"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And Rehoboam dwelt in Jerusalem, and built cities for defence in Judah.",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "יְרוּשָׁלַ͏ִם",
+          "meaning": "Jerusalem; foundation/possession of peace"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "יְהוּדָה",
+          "meaning": "Judah; praise; the southern kingdom and tribe"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "He built even Bethlehem, and Etam, and Tekoa,",
+      "highlightedWords": [
+        {
+          "word": "Bethlehem",
+          "strongNumber": "H1035",
+          "lemma": "בֵּית לֶחֶם",
+          "meaning": "Bethlehem; house of bread"
+        },
+        {
+          "word": "Tekoa",
+          "strongNumber": "H8620",
+          "lemma": "תְּקוֹעַ",
+          "meaning": "Tekoa; a town in Judah"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And Beth-zur, and Shoco, and Adullam,",
+      "highlightedWords": [
+        {
+          "word": "Beth-zur",
+          "strongNumber": "H1049",
+          "lemma": "בֵּית־צוּר",
+          "meaning": "Beth-zur; house of rock"
+        },
+        {
+          "word": "Adullam",
+          "strongNumber": "H5725",
+          "lemma": "עֲדֻלָּם",
+          "meaning": "Adullam; a place of refuge"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And Gath, and Mareshah, and Ziph,",
+      "highlightedWords": [
+        {
+          "word": "Gath",
+          "strongNumber": "H1661",
+          "lemma": "גַּת",
+          "meaning": "Gath; winepress; a Philistine city"
+        },
+        {
+          "word": "Mareshah",
+          "strongNumber": "H4762",
+          "lemma": "מָרֵשָׁה",
+          "meaning": "Mareshah; a town in Judah"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And Adoraim, and Lachish, and Azekah,",
+      "highlightedWords": [
+        {
+          "word": "Lachish",
+          "strongNumber": "H3923",
+          "lemma": "לָכִישׁ",
+          "meaning": "Lachish; a fortified city of Judah"
+        },
+        {
+          "word": "Azekah",
+          "strongNumber": "H5825",
+          "lemma": "עֲזֵקָה",
+          "meaning": "Azekah; a town in Judah"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And Zorah, and Aijalon, and Hebron, which are in Judah and in Benjamin fenced cities.",
+      "highlightedWords": [
+        {
+          "word": "Zorah",
+          "strongNumber": "H6881",
+          "lemma": "צָרְעָה",
+          "meaning": "Zorah; a town in Dan/Judah border region"
+        },
+        {
+          "word": "Hebron",
+          "strongNumber": "H2275",
+          "lemma": "חֶבְרוֹן",
+          "meaning": "Hebron; association; a major city in Judah"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And he fortified the strong holds, and put captains in them, and store of victual, and of oil and wine.",
+      "highlightedWords": [
+        {
+          "word": "captains",
+          "strongNumber": "H8269",
+          "lemma": "שַׂר",
+          "meaning": "Chief, ruler, captain"
+        },
+        {
+          "word": "wine",
+          "strongNumber": "H3196",
+          "lemma": "יַיִן",
+          "meaning": "Wine"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And in every several city he put shields and spears, and made them exceeding strong, having Judah and Benjamin on his side.",
+      "highlightedWords": [
+        {
+          "word": "shields",
+          "strongNumber": "H4043",
+          "lemma": "מָגֵן",
+          "meaning": "Shield"
+        },
+        {
+          "word": "spears",
+          "strongNumber": "H7420",
+          "lemma": "רֹמַח",
+          "meaning": "Spear, lance"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And the priests and the Levites that were in all Israel resorted to him out of all their coasts.",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "H3548",
+          "lemma": "כֹּהֵן",
+          "meaning": "Priest"
+        },
+        {
+          "word": "Levites",
+          "strongNumber": "H3881",
+          "lemma": "לֵוִיִּי",
+          "meaning": "Levite; member of the tribe of Levi"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "For the Levites left their suburbs and their possession, and came to Judah and Jerusalem: for Jeroboam and his sons had cast them off from executing the priest's office unto the LORD:",
+      "highlightedWords": [
+        {
+          "word": "suburbs",
+          "strongNumber": "H4054",
+          "lemma": "מִגְרָשׁ",
+          "meaning": "Pastureland, common/open land around a city"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "יְרוּשָׁלַ͏ִם",
+          "meaning": "Jerusalem; foundation/possession of peace"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And he ordained him priests for the high places, and for the devils, and for the calves which he had made.",
+      "highlightedWords": [
+        {
+          "word": "high places",
+          "strongNumber": "H1116",
+          "lemma": "בָּמָה",
+          "meaning": "High place; sanctuary on a hill"
+        },
+        {
+          "word": "devils",
+          "strongNumber": "H8163",
+          "lemma": "שָׂעִיר",
+          "meaning": "Goat-idols; demons"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And after them out of all the tribes of Israel such as set their hearts to seek the LORD God of Israel came to Jerusalem, to sacrifice unto the LORD God of their fathers.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "יְהוָה",
+          "meaning": "The personal name of the God of Israel (YHWH)"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "יְרוּשָׁלַ͏ִם",
+          "meaning": "Jerusalem; foundation/possession of peace"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "So they strengthened the kingdom of Judah, and made Rehoboam the son of Solomon strong, three years: for three years they walked in the way of David and Solomon.",
+      "highlightedWords": [
+        {
+          "word": "kingdom",
+          "strongNumber": "H4467",
+          "lemma": "מַמְלָכָה",
+          "meaning": "Kingdom, dominion, reign"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "דָּוִד",
+          "meaning": "David; beloved; second king of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And Rehoboam took him Mahalath the daughter of Jerimoth the son of David to wife, and Abihail the daughter of Eliab the son of Jesse;",
+      "highlightedWords": [
+        {
+          "word": "Rehoboam",
+          "strongNumber": "H7346",
+          "lemma": "רְחַבְעָם",
+          "meaning": "People have enlarged; son of Solomon and king of Judah"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "דָּוִד",
+          "meaning": "David; beloved; second king of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Which bare him children; Jeush, and Shamariah, and Zaham.",
+      "highlightedWords": [
+        {
+          "word": "bare",
+          "strongNumber": "H3205",
+          "lemma": "יָלַד",
+          "meaning": "To bear, bring forth, beget"
+        },
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "בֵּן",
+          "meaning": "Son, child; descendants"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And after her he took Maachah the daughter of Absalom; which bare him Abijah, and Attai, and Ziza, and Shelomith.",
+      "highlightedWords": [
+        {
+          "word": "Maachah",
+          "strongNumber": "H4601",
+          "lemma": "מַעֲכָה",
+          "meaning": "Maacah/Maachah; a personal and clan name"
+        },
+        {
+          "word": "Absalom",
+          "strongNumber": "H53",
+          "lemma": "אַבְשָׁלוֹם",
+          "meaning": "Absalom; father of peace; son of David"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And Rehoboam loved Maachah the daughter of Absalom above all his wives and his concubines: (for he took eighteen wives, and threescore concubines; and begat twenty and eight sons, and threescore daughters.)",
+      "highlightedWords": [
+        {
+          "word": "wives",
+          "strongNumber": "H802",
+          "lemma": "אִשָּׁה",
+          "meaning": "Woman, wife"
+        },
+        {
+          "word": "concubines",
+          "strongNumber": "H6370",
+          "lemma": "פִּילֶגֶשׁ",
+          "meaning": "Concubine; a secondary wife"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And Rehoboam made Abijah the son of Maachah the chief, to be ruler among his brethren: for he thought to make him king.",
+      "highlightedWords": [
+        {
+          "word": "Abijah",
+          "strongNumber": "H29",
+          "lemma": "אֲבִיָּה",
+          "meaning": "Abijah/Abijam; ‘Yah is my father’"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "מֶלֶךְ",
+          "meaning": "King"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And he dealt wisely, and dispersed of all his children throughout all the countries of Judah and Benjamin, unto every fenced city: and he gave them victual in abundance. And he desired many wives.",
+      "highlightedWords": [
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "יְהוּדָה",
+          "meaning": "Judah; praise; the southern kingdom and tribe"
+        },
+        {
+          "word": "fenced",
+          "strongNumber": "H4013",
+          "lemma": "מִבְצָר",
+          "meaning": "Fortified, stronghold"
+        }
+      ]
+    }
+  ]
+}

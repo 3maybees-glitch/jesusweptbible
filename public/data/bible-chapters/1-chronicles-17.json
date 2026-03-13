@@ -1,0 +1,510 @@
+{
+  "book": "1 Chronicles",
+  "chapter": 17,
+  "chapterTheme": {
+    "twoWordSummary": "Davidic Covenant",
+    "themeWords": [
+      {
+        "word": "covenant",
+        "strongNumber": "H1285",
+        "lemma": "berith",
+        "meaning": "binding agreement; covenant"
+      },
+      {
+        "word": "throne",
+        "strongNumber": "H3678",
+        "lemma": "kisse",
+        "meaning": "royal seat; throne"
+      }
+    ]
+  },
+  "sentenceTheme": "Through Nathan, God promises David an everlasting dynasty and throne, leading David to a humble prayer of praise and faith.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Now it came to pass, as David sat in his house, that David said to Nathan the prophet, Lo, I dwell in an house of cedars, but the ark of the covenant of the LORD remaineth under curtains.",
+      "highlightedWords": [
+        {
+          "word": "ark",
+          "strongNumber": "H727",
+          "lemma": "aron",
+          "meaning": "ark, chest"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the divine name, Yahweh"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Then Nathan said unto David, Do all that is in thine heart; for God is with thee.",
+      "highlightedWords": [
+        {
+          "word": "Nathan",
+          "strongNumber": "H5416",
+          "lemma": "Nathan",
+          "meaning": "he has given"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; the true God"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And it came to pass the same night, that the word of God came to Nathan, saying,",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; the true God"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Go and tell David my servant, Thus saith the LORD, Thou shalt not build me an house to dwell in:",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the divine name, Yahweh"
+        },
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, household, temple"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "For I have not dwelt in an house since the day that I brought up Israel unto this day; but have gone from tent to tent, and from one tabernacle to another.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God prevails"
+        },
+        {
+          "word": "tabernacle",
+          "strongNumber": "H4908",
+          "lemma": "mishkan",
+          "meaning": "dwelling place; tabernacle"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Wheresoever I have walked with all Israel, spake I a word to any of the judges of Israel, whom I commanded to feed my people, saying, Why have ye not built me an house of cedars?",
+      "highlightedWords": [
+        {
+          "word": "judges",
+          "strongNumber": "H8199",
+          "lemma": "shaphat",
+          "meaning": "judge, one who governs"
+        },
+        {
+          "word": "feed",
+          "strongNumber": "H7462",
+          "lemma": "ra'ah",
+          "meaning": "to pasture, shepherd, feed"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Now therefore thus shalt thou say unto my servant David, Thus saith the LORD of hosts, I took thee from the sheepcote, even from following the sheep, that thou shouldest be ruler over my people Israel:",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the divine name, Yahweh"
+        },
+        {
+          "word": "ruler",
+          "strongNumber": "H5057",
+          "lemma": "nagid",
+          "meaning": "leader, prince, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And I have been with thee whithersoever thou hast walked, and have cut off all thine enemies from before thee, and have made thee a name like the name of the great men that are in the earth.",
+      "highlightedWords": [
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "oyev",
+          "meaning": "enemy, adversary"
+        },
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "name, reputation, fame"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Also I will ordain a place for my people Israel, and will plant them, and they shall dwell in their place, and shall be moved no more; neither shall the children of wickedness waste them any more, as at the beginning,",
+      "highlightedWords": [
+        {
+          "word": "place",
+          "strongNumber": "H4725",
+          "lemma": "maqom",
+          "meaning": "place, site, locality"
+        },
+        {
+          "word": "plant",
+          "strongNumber": "H5193",
+          "lemma": "nata'",
+          "meaning": "to plant, establish"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And since the time that I commanded judges to be over my people Israel. Moreover I will subdue all thine enemies. Furthermore I tell thee that the LORD will build thee an house.",
+      "highlightedWords": [
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "oyev",
+          "meaning": "enemy, adversary"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the divine name, Yahweh"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And it shall come to pass, when thy days be expired that thou must go to be with thy fathers, that I will raise up thy seed after thee, which shall be of thy sons; and I will establish his kingdom.",
+      "highlightedWords": [
+        {
+          "word": "seed",
+          "strongNumber": "H2233",
+          "lemma": "zera'",
+          "meaning": "seed, offspring, descendants"
+        },
+        {
+          "word": "kingdom",
+          "strongNumber": "H4467",
+          "lemma": "malkuth",
+          "meaning": "kingdom, dominion, reign"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "He shall build me an house, and I will stablish his throne for ever.",
+      "highlightedWords": [
+        {
+          "word": "stablish",
+          "strongNumber": "H3559",
+          "lemma": "kun",
+          "meaning": "to establish, make firm"
+        },
+        {
+          "word": "throne",
+          "strongNumber": "H3678",
+          "lemma": "kisse",
+          "meaning": "royal seat; throne"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "I will be his father, and he shall be my son: and I will not take my mercy away from him, as I took it from him that was before thee:",
+      "highlightedWords": [
+        {
+          "word": "mercy",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "steadfast love, kindness, mercy"
+        },
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, descendant"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "But I will settle him in mine house and in my kingdom for ever: and his throne shall be established for evermore.",
+      "highlightedWords": [
+        {
+          "word": "kingdom",
+          "strongNumber": "H4467",
+          "lemma": "malkuth",
+          "meaning": "kingdom, dominion, reign"
+        },
+        {
+          "word": "throne",
+          "strongNumber": "H3678",
+          "lemma": "kisse",
+          "meaning": "royal seat; throne"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "According to all these words, and according to all this vision, so did Nathan speak unto David.",
+      "highlightedWords": [
+        {
+          "word": "vision",
+          "strongNumber": "H2377",
+          "lemma": "chazon",
+          "meaning": "vision, revelation"
+        },
+        {
+          "word": "Nathan",
+          "strongNumber": "H5416",
+          "lemma": "Nathan",
+          "meaning": "he has given"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And David the king came and sat before the LORD, and said, Who am I, O LORD God, and what is mine house, that thou hast brought me hitherto?",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the divine name, Yahweh"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; the true God"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And yet this was a small thing in thine eyes, O God; for thou hast also spoken of thy servant's house for a great while to come, and hast regarded me according to the estate of a man of high degree, O LORD God.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; the true God"
+        },
+        {
+          "word": "servant",
+          "strongNumber": "H5650",
+          "lemma": "ebed",
+          "meaning": "servant, slave"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "What can David speak more to thee for the honour of thy servant? for thou knowest thy servant.",
+      "highlightedWords": [
+        {
+          "word": "honour",
+          "strongNumber": "H3519",
+          "lemma": "kabod",
+          "meaning": "glory, honour, weight"
+        },
+        {
+          "word": "servant",
+          "strongNumber": "H5650",
+          "lemma": "ebed",
+          "meaning": "servant, slave"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "O LORD, for thy servant's sake, and according to thine own heart, hast thou done all this greatness, in making known all these great things.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the divine name, Yahweh"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner person"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "O LORD, there is none like thee, neither is there any God beside thee, according to all that we have heard with our ears.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; the true God"
+        },
+        {
+          "word": "ears",
+          "strongNumber": "H241",
+          "lemma": "ozen",
+          "meaning": "ear; hearing"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And what one nation in the earth is like thy people Israel, whom God went to redeem to be his own people, to make thee a name of greatness and terribleness, by driving out nations from before thy people whom thou hast redeemed out of Egypt?",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God prevails"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "For thy people Israel didst thou make thine own people for ever; and thou, LORD, becamest their God.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the divine name, Yahweh"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; the true God"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Therefore now, LORD, let the thing that thou hast spoken concerning thy servant and concerning his house be established for ever, and do as thou hast said.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the divine name, Yahweh"
+        },
+        {
+          "word": "established",
+          "strongNumber": "H3559",
+          "lemma": "kun",
+          "meaning": "to establish, make firm"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Let it even be established, that thy name may be magnified for ever, saying, The LORD of hosts is the God of Israel, even a God to Israel: and let the house of David thy servant be established before thee.",
+      "highlightedWords": [
+        {
+          "word": "hosts",
+          "strongNumber": "H6635",
+          "lemma": "tsaba",
+          "meaning": "army, host"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "David",
+          "meaning": "beloved; David, Israel's king"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "For thou, O my God, hast told thy servant that thou wilt build him an house: therefore thy servant hath found in his heart to pray before thee.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; the true God"
+        },
+        {
+          "word": "pray",
+          "strongNumber": "H6419",
+          "lemma": "palal",
+          "meaning": "to intercede, pray"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And now, LORD, thou art God, and hast promised this goodness unto thy servant:",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the divine name, Yahweh"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; the true God"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "Now therefore let it please thee to bless the house of thy servant, that it may be before thee for ever: for thou blessest, O LORD, and it shall be blessed for ever.",
+      "highlightedWords": [
+        {
+          "word": "bless",
+          "strongNumber": "H1288",
+          "lemma": "barak",
+          "meaning": "to bless, praise"
+        },
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, household, temple"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,492 @@
+{
+  "book": "Psalms",
+  "chapter": 44,
+  "chapterTheme": {
+    "twoWordSummary": "Communal Lament",
+    "themeWords": [
+      {
+        "word": "God",
+        "strongNumber": "H430",
+        "lemma": "’elohim",
+        "meaning": "God; the true God; mighty one"
+      },
+      {
+        "word": "redeem",
+        "strongNumber": "H1350",
+        "lemma": "ga’al",
+        "meaning": "to redeem, act as kinsman-redeemer"
+      }
+    ]
+  },
+  "sentenceTheme": "Israel recalls God's past victories yet laments present disgrace and pleads for His redeeming help.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "We have heard with our ears, O God, our fathers have told us, what work thou didst in their days, in the times of old.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’elohim",
+          "meaning": "God; the true God; mighty one"
+        },
+        {
+          "word": "fathers",
+          "strongNumber": "H1",
+          "lemma": "’ab",
+          "meaning": "father, ancestor, forefather"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "How thou didst drive out the heathen with thy hand, and plantedst them; how thou didst afflict the people, and cast them out.",
+      "highlightedWords": [
+        {
+          "word": "heathen",
+          "strongNumber": "H1471",
+          "lemma": "goy/goyim",
+          "meaning": "nation, people, Gentiles"
+        },
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power, strength"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "For they got not the land in possession by their own sword, neither did their own arm save them: but thy right hand, and thine arm, and the light of thy countenance, because thou hadst a favour unto them.",
+      "highlightedWords": [
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "’erets",
+          "meaning": "land, earth, territory"
+        },
+        {
+          "word": "countenance",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "face, presence"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Thou art my King, O God: command deliverances for Jacob.",
+      "highlightedWords": [
+        {
+          "word": "King",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        },
+        {
+          "word": "Jacob",
+          "strongNumber": "H3290",
+          "lemma": "Ya’aqob",
+          "meaning": "Jacob, supplanter; the nation of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Through thee will we push down our enemies: through thy name will we tread them under that rise up against us.",
+      "highlightedWords": [
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "’oyeb",
+          "meaning": "enemy, foe"
+        },
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "name, reputation, renown"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "For I will not trust in my bow, neither shall my sword save me.",
+      "highlightedWords": [
+        {
+          "word": "bow",
+          "strongNumber": "H7198",
+          "lemma": "qesheth",
+          "meaning": "bow, weapon"
+        },
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "But thou hast saved us from our enemies, and hast put them to shame that hated us.",
+      "highlightedWords": [
+        {
+          "word": "saved",
+          "strongNumber": "H3467",
+          "lemma": "yasha’",
+          "meaning": "to save, deliver, give victory"
+        },
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "’oyeb",
+          "meaning": "enemy, foe"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "In God we boast all the day long, and praise thy name for ever. Selah.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’elohim",
+          "meaning": "God; the true God; mighty one"
+        },
+        {
+          "word": "Selah",
+          "strongNumber": "H5542",
+          "lemma": "selah",
+          "meaning": "musical or liturgical pause"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "But thou hast cast off, and put us to shame; and goest not forth with our armies.",
+      "highlightedWords": [
+        {
+          "word": "shame",
+          "strongNumber": "H954",
+          "lemma": "bosh",
+          "meaning": "to be ashamed, put to shame"
+        },
+        {
+          "word": "armies",
+          "strongNumber": "H6635",
+          "lemma": "tsaba’",
+          "meaning": "army, host, war-service"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Thou makest us to turn back from the enemy: and they which hate us spoil for themselves.",
+      "highlightedWords": [
+        {
+          "word": "enemy",
+          "strongNumber": "H341",
+          "lemma": "’oyeb",
+          "meaning": "enemy, foe"
+        },
+        {
+          "word": "spoil",
+          "strongNumber": "H962",
+          "lemma": "bazaz",
+          "meaning": "to plunder, spoil"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Thou hast given us like sheep appointed for meat; and hast scattered us among the heathen.",
+      "highlightedWords": [
+        {
+          "word": "sheep",
+          "strongNumber": "H6629",
+          "lemma": "tson",
+          "meaning": "small livestock, flock (sheep/goats)"
+        },
+        {
+          "word": "heathen",
+          "strongNumber": "H1471",
+          "lemma": "goy/goyim",
+          "meaning": "nation, people, Gentiles"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Thou sellest thy people for nought, and dost not increase thy wealth by their price.",
+      "highlightedWords": [
+        {
+          "word": "sellest",
+          "strongNumber": "H4376",
+          "lemma": "makar",
+          "meaning": "to sell"
+        },
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "’am",
+          "meaning": "people, nation"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Thou makest us a reproach to our neighbours, a scorn and a derision to them that are round about us.",
+      "highlightedWords": [
+        {
+          "word": "reproach",
+          "strongNumber": "H2781",
+          "lemma": "cherpah",
+          "meaning": "reproach, disgrace, shame"
+        },
+        {
+          "word": "neighbours",
+          "strongNumber": "H7934",
+          "lemma": "shakhen",
+          "meaning": "neighbor, resident, inhabitant"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Thou makest us a byword among the heathen, a shaking of the head among the people.",
+      "highlightedWords": [
+        {
+          "word": "byword",
+          "strongNumber": "H4912",
+          "lemma": "mashal",
+          "meaning": "proverb, byword, parable"
+        },
+        {
+          "word": "heathen",
+          "strongNumber": "H1471",
+          "lemma": "goy/goyim",
+          "meaning": "nation, people, Gentiles"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "My confusion is continually before me, and the shame of my face hath covered me,",
+      "highlightedWords": [
+        {
+          "word": "face",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "face, presence"
+        },
+        {
+          "word": "covered",
+          "strongNumber": "H3680",
+          "lemma": "kasah",
+          "meaning": "to cover, conceal, clothe"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "For the voice of him that reproacheth and blasphemeth; by reason of the enemy and avenger.",
+      "highlightedWords": [
+        {
+          "word": "voice",
+          "strongNumber": "H6963",
+          "lemma": "qol",
+          "meaning": "voice, sound"
+        },
+        {
+          "word": "enemy",
+          "strongNumber": "H341",
+          "lemma": "’oyeb",
+          "meaning": "enemy, foe"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "All this is come upon us; yet have we not forgotten thee, neither have we dealt falsely in thy covenant.",
+      "highlightedWords": [
+        {
+          "word": "forgotten",
+          "strongNumber": "H7911",
+          "lemma": "shakach",
+          "meaning": "to forget"
+        },
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "covenant, agreement"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Our heart is not turned back, neither have our steps declined from thy way;",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3824",
+          "lemma": "lebab",
+          "meaning": "heart, inner man, mind"
+        },
+        {
+          "word": "way",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way, road, path, manner"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Though thou hast sore broken us in the place of dragons, and covered us with the shadow of death.",
+      "highlightedWords": [
+        {
+          "word": "dragons",
+          "strongNumber": "H8577",
+          "lemma": "tannin",
+          "meaning": "sea monster, serpent, dragon (or jackal)"
+        },
+        {
+          "word": "shadow",
+          "strongNumber": "H6757",
+          "lemma": "tsalmaveth",
+          "meaning": "shadow of death, deep darkness"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "If we have forgotten the name of our God, or stretched out our hands to a strange god;",
+      "highlightedWords": [
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "name, reputation"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’elohim",
+          "meaning": "God; the true God; mighty one"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Shall not God search this out? for he knoweth the secrets of the heart.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’elohim",
+          "meaning": "God; the true God; mighty one"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3824",
+          "lemma": "lebab",
+          "meaning": "heart, inner man, mind"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Yea, for thy sake are we killed all the day long; we are counted as sheep for the slaughter.",
+      "highlightedWords": [
+        {
+          "word": "sheep",
+          "strongNumber": "H6629",
+          "lemma": "tson",
+          "meaning": "small livestock, flock (sheep/goats)"
+        },
+        {
+          "word": "slaughter",
+          "strongNumber": "H2878",
+          "lemma": "tebach",
+          "meaning": "slaughter, butchery"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Awake, why sleepest thou, O Lord? arise, cast us not off for ever.",
+      "highlightedWords": [
+        {
+          "word": "Awake",
+          "strongNumber": "H5782",
+          "lemma": "’ur",
+          "meaning": "to rouse, awaken"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "H136",
+          "lemma": "’Adonai",
+          "meaning": "Lord, Master"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Wherefore hidest thou thy face, and forgettest our affliction and our oppression?",
+      "highlightedWords": [
+        {
+          "word": "face",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "face, presence"
+        },
+        {
+          "word": "affliction",
+          "strongNumber": "H6040",
+          "lemma": "’oni",
+          "meaning": "affliction, misery, trouble"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "For our soul is bowed down to the dust: our belly cleaveth unto the earth.",
+      "highlightedWords": [
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, living being"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "’erets",
+          "meaning": "land, earth"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "Arise for our help, and redeem us for thy mercies' sake.",
+      "highlightedWords": [
+        {
+          "word": "redeem",
+          "strongNumber": "H1350",
+          "lemma": "ga’al",
+          "meaning": "to redeem, act as kinsman-redeemer"
+        },
+        {
+          "word": "mercies'",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "steadfast love, kindness, mercy"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "book": "Psalms",
+  "chapter": 100,
+  "chapterTheme": {
+    "twoWordSummary": "Joyful Worship",
+    "themeWords": [
+      {
+        "word": "joyful noise",
+        "strongNumber": "H7321",
+        "lemma": "rua'",
+        "meaning": "to shout for joy"
+      },
+      {
+        "word": "thanksgiving",
+        "strongNumber": "H8426",
+        "lemma": "todah",
+        "meaning": "thanksgiving, praise"
+      }
+    ]
+  },
+  "sentenceTheme": "All the earth is called to joyful, thankful worship of the LORD who made us, for His steadfast love and faithfulness endure forever.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Make a joyful noise unto the LORD, all ye lands.",
+      "highlightedWords": [
+        {
+          "word": "joyful noise",
+          "strongNumber": "H7321",
+          "lemma": "rua'",
+          "meaning": "to shout for joy"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the personal name of Israel's God"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Serve the LORD with gladness: come before his presence with singing.",
+      "highlightedWords": [
+        {
+          "word": "Serve",
+          "strongNumber": "H5647",
+          "lemma": "'abad",
+          "meaning": "to work, serve, worship"
+        },
+        {
+          "word": "singing",
+          "strongNumber": "H7440",
+          "lemma": "rinnah",
+          "meaning": "ringing cry, shout of joy, singing"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Know ye that the LORD he is God: it is he that hath made us, and not we ourselves; we are his people, and the sheep of his pasture.",
+      "highlightedWords": [
+        {
+          "word": "Know",
+          "strongNumber": "H3045",
+          "lemma": "yada'",
+          "meaning": "to know, acknowledge"
+        },
+        {
+          "word": "made",
+          "strongNumber": "H6213",
+          "lemma": "'asah",
+          "meaning": "to make, do, fashion"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Enter into his gates with thanksgiving, and into his courts with praise: be thankful unto him, and bless his name.",
+      "highlightedWords": [
+        {
+          "word": "thanksgiving",
+          "strongNumber": "H8426",
+          "lemma": "todah",
+          "meaning": "thanksgiving, praise"
+        },
+        {
+          "word": "praise",
+          "strongNumber": "H8416",
+          "lemma": "tehillah",
+          "meaning": "praise, song of praise"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "For the LORD is good; his mercy is everlasting; and his truth endureth to all generations.",
+      "highlightedWords": [
+        {
+          "word": "mercy",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "steadfast love, kindness"
+        },
+        {
+          "word": "truth",
+          "strongNumber": "H530",
+          "lemma": "emunah",
+          "meaning": "faithfulness, truth"
+        }
+      ]
+    }
+  ]
+}

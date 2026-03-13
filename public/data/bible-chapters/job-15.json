@@ -1,0 +1,654 @@
+{
+  "book": "Job",
+  "chapter": 15,
+  "chapterTheme": {
+    "twoWordSummary": "Eliphaz Accuses",
+    "themeWords": [
+      {
+        "word": "Almighty",
+        "strongNumber": "H7706",
+        "lemma": "Shaddai",
+        "meaning": "the Almighty"
+      },
+      {
+        "word": "wicked",
+        "strongNumber": "H7563",
+        "lemma": "rashaʿ",
+        "meaning": "wicked, guilty one"
+      }
+    ]
+  },
+  "sentenceTheme": "Eliphaz the Temanite rebukes Job, arguing that human purity is impossible and insisting that the wicked inevitably suffer under the Almighty’s judgment.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Then answered Eliphaz the Temanite, and said,",
+      "highlightedWords": [
+        {
+          "word": "answered",
+          "strongNumber": "H6030",
+          "lemma": "ʿanah",
+          "meaning": "to answer, respond"
+        },
+        {
+          "word": "said",
+          "strongNumber": "H559",
+          "lemma": "ʾamar",
+          "meaning": "to say, speak"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Should a wise man utter vain knowledge, and fill his belly with the east wind?",
+      "highlightedWords": [
+        {
+          "word": "wise",
+          "strongNumber": "H2450",
+          "lemma": "ḥakam",
+          "meaning": "wise, skillful"
+        },
+        {
+          "word": "belly",
+          "strongNumber": "H990",
+          "lemma": "beten",
+          "meaning": "belly, womb, inner parts"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Should he reason with unprofitable talk? or with speeches wherewith he can do no good?",
+      "highlightedWords": [
+        {
+          "word": "reason",
+          "strongNumber": "H3198",
+          "lemma": "yakhaḥ",
+          "meaning": "to argue, reprove"
+        },
+        {
+          "word": "speeches",
+          "strongNumber": "H561",
+          "lemma": "ʾemer",
+          "meaning": "speech, utterance"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Yea, thou castest off fear, and restrainest prayer before God.",
+      "highlightedWords": [
+        {
+          "word": "fear",
+          "strongNumber": "H3374",
+          "lemma": "yirʾah",
+          "meaning": "fear, reverence"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H433",
+          "lemma": "ʾEloah",
+          "meaning": "God (the Deity)"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "For thy mouth uttereth thine iniquity, and thou choosest the tongue of the crafty.",
+      "highlightedWords": [
+        {
+          "word": "mouth",
+          "strongNumber": "H6310",
+          "lemma": "peh",
+          "meaning": "mouth"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "ʿavon",
+          "meaning": "iniquity, guilt"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Thine own mouth condemneth thee, and not I: yea, thine own lips testify against thee.",
+      "highlightedWords": [
+        {
+          "word": "mouth",
+          "strongNumber": "H6310",
+          "lemma": "peh",
+          "meaning": "mouth"
+        },
+        {
+          "word": "lips",
+          "strongNumber": "H8193",
+          "lemma": "saphah",
+          "meaning": "lip, speech"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Art thou the first man that was born? or wast thou made before the hills?",
+      "highlightedWords": [
+        {
+          "word": "man",
+          "strongNumber": "H120",
+          "lemma": "ʾadam",
+          "meaning": "man, humankind"
+        },
+        {
+          "word": "born",
+          "strongNumber": "H3205",
+          "lemma": "yalad",
+          "meaning": "to bear, beget"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Hast thou heard the secret of God? and dost thou restrain wisdom to thyself?",
+      "highlightedWords": [
+        {
+          "word": "secret",
+          "strongNumber": "H5475",
+          "lemma": "sod",
+          "meaning": "council, secret counsel"
+        },
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "ḥokmah",
+          "meaning": "wisdom, skill"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "What knowest thou, that we know not? what understandest thou, which is not in us?",
+      "highlightedWords": [
+        {
+          "word": "knowest",
+          "strongNumber": "H3045",
+          "lemma": "yadaʿ",
+          "meaning": "to know, perceive"
+        },
+        {
+          "word": "understandest",
+          "strongNumber": "H995",
+          "lemma": "bin",
+          "meaning": "to understand, discern"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "With us are both the greyheaded and very aged men, much elder than thy father.",
+      "highlightedWords": [
+        {
+          "word": "greyheaded",
+          "strongNumber": "H7872",
+          "lemma": "sebah",
+          "meaning": "gray hair, old age"
+        },
+        {
+          "word": "father",
+          "strongNumber": "H1",
+          "lemma": "ʾab",
+          "meaning": "father, ancestor"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Are the consolations of God small with thee? is there any secret thing with thee?",
+      "highlightedWords": [
+        {
+          "word": "consolations",
+          "strongNumber": "H8575",
+          "lemma": "tanchumim",
+          "meaning": "consolations, comforts"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H410",
+          "lemma": "ʾEl",
+          "meaning": "God, Mighty One"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Why doth thine heart carry thee away? and what do thy eyes wink at,",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "lev",
+          "meaning": "heart, inner person"
+        },
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "ʿayin",
+          "meaning": "eye"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "That thou turnest thy spirit against God, and lettest such words go out of thy mouth?",
+      "highlightedWords": [
+        {
+          "word": "spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruaḥ",
+          "meaning": "spirit, wind, breath"
+        },
+        {
+          "word": "mouth",
+          "strongNumber": "H6310",
+          "lemma": "peh",
+          "meaning": "mouth"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "What is man, that he should be clean? and he which is born of a woman, that he should be righteous?",
+      "highlightedWords": [
+        {
+          "word": "man",
+          "strongNumber": "H582",
+          "lemma": "ʾenosh",
+          "meaning": "man, mortal"
+        },
+        {
+          "word": "woman",
+          "strongNumber": "H802",
+          "lemma": "ʾishshah",
+          "meaning": "woman, wife"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Behold, he putteth no trust in his saints; yea, the heavens are not clean in his sight.",
+      "highlightedWords": [
+        {
+          "word": "saints",
+          "strongNumber": "H6918",
+          "lemma": "qedoshim",
+          "meaning": "holy ones, saints"
+        },
+        {
+          "word": "heavens",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens, sky"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "How much more abominable and filthy is man, which drinketh iniquity like water?",
+      "highlightedWords": [
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "ʿavon",
+          "meaning": "iniquity, guilt"
+        },
+        {
+          "word": "water",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "water"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "I will shew thee, hear me; and that which I have seen I will declare;",
+      "highlightedWords": [
+        {
+          "word": "hear",
+          "strongNumber": "H8085",
+          "lemma": "shamaʿ",
+          "meaning": "to hear, listen"
+        },
+        {
+          "word": "declare",
+          "strongNumber": "H5046",
+          "lemma": "nagad",
+          "meaning": "to declare, tell"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Which wise men have told from their fathers, and have not hid it:",
+      "highlightedWords": [
+        {
+          "word": "wise",
+          "strongNumber": "H2450",
+          "lemma": "ḥakam",
+          "meaning": "wise, skillful"
+        },
+        {
+          "word": "fathers",
+          "strongNumber": "H1",
+          "lemma": "ʾab",
+          "meaning": "fathers, ancestors"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Unto whom alone the earth was given, and no stranger passed among them.",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "ʾerets",
+          "meaning": "earth, land"
+        },
+        {
+          "word": "stranger",
+          "strongNumber": "H2114",
+          "lemma": "zur",
+          "meaning": "stranger, foreigner"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "The wicked man travaileth with pain all his days, and the number of years is hidden to the oppressor.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rashaʿ",
+          "meaning": "wicked, guilty"
+        },
+        {
+          "word": "oppressor",
+          "strongNumber": "H6184",
+          "lemma": "ʿariyts",
+          "meaning": "ruthless one, oppressor"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "A dreadful sound is in his ears: in prosperity the destroyer shall come upon him.",
+      "highlightedWords": [
+        {
+          "word": "ears",
+          "strongNumber": "H241",
+          "lemma": "ozen",
+          "meaning": "ear"
+        },
+        {
+          "word": "destroyer",
+          "strongNumber": "H7703",
+          "lemma": "shoded",
+          "meaning": "destroyer, spoiler"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "He believeth not that he shall return out of darkness, and he is waited for of the sword.",
+      "highlightedWords": [
+        {
+          "word": "darkness",
+          "strongNumber": "H2822",
+          "lemma": "ḥoshekh",
+          "meaning": "darkness"
+        },
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "ḥereb",
+          "meaning": "sword"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "He wandereth abroad for bread, saying, Where is it? he knoweth that the day of darkness is ready at his hand.",
+      "highlightedWords": [
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "leḥem",
+          "meaning": "bread, food"
+        },
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Trouble and anguish shall make him afraid; they shall prevail against him, as a king ready to the battle.",
+      "highlightedWords": [
+        {
+          "word": "Trouble",
+          "strongNumber": "H6869",
+          "lemma": "tsarah",
+          "meaning": "distress, trouble"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "For he stretcheth out his hand against God, and strengtheneth himself against the Almighty.",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        },
+        {
+          "word": "Almighty",
+          "strongNumber": "H7706",
+          "lemma": "Shaddai",
+          "meaning": "the Almighty"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "He runneth upon him, even on his neck, upon the thick bosses of his bucklers:",
+      "highlightedWords": [
+        {
+          "word": "runneth",
+          "strongNumber": "H7323",
+          "lemma": "ruts",
+          "meaning": "to run"
+        },
+        {
+          "word": "bucklers",
+          "strongNumber": "H6793",
+          "lemma": "tsinnah",
+          "meaning": "buckler, large shield"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "Because he covereth his face with his fatness, and maketh collops of fat on his flanks.",
+      "highlightedWords": [
+        {
+          "word": "face",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "face, presence"
+        },
+        {
+          "word": "fatness",
+          "strongNumber": "H2459",
+          "lemma": "ḥelev",
+          "meaning": "fat, fatness"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And he dwelleth in desolate cities, and in houses which no man inhabiteth, which are ready to become heaps.",
+      "highlightedWords": [
+        {
+          "word": "cities",
+          "strongNumber": "H5892",
+          "lemma": "ʿir",
+          "meaning": "city"
+        },
+        {
+          "word": "houses",
+          "strongNumber": "H1004",
+          "lemma": "bayit",
+          "meaning": "house, household"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "He shall not be rich, neither shall his substance continue, neither shall he prolong the perfection thereof upon the earth.",
+      "highlightedWords": [
+        {
+          "word": "rich",
+          "strongNumber": "H6238",
+          "lemma": "ʿashar",
+          "meaning": "to be or become rich"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "ʾerets",
+          "meaning": "earth, land"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "He shall not depart out of darkness; the flame shall dry up his branches, and by the breath of his mouth shall he go away.",
+      "highlightedWords": [
+        {
+          "word": "darkness",
+          "strongNumber": "H2822",
+          "lemma": "ḥoshekh",
+          "meaning": "darkness"
+        },
+        {
+          "word": "mouth",
+          "strongNumber": "H6310",
+          "lemma": "peh",
+          "meaning": "mouth"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "Let not him that is deceived trust in vanity: for vanity shall be his recompence.",
+      "highlightedWords": [
+        {
+          "word": "deceived",
+          "strongNumber": "H5377",
+          "lemma": "nashaʿ",
+          "meaning": "to deceive, lead astray"
+        },
+        {
+          "word": "vanity",
+          "strongNumber": "H7723",
+          "lemma": "shavʾ",
+          "meaning": "vanity, emptiness"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "It shall be accomplished before his time, and his branch shall not be green.",
+      "highlightedWords": [
+        {
+          "word": "time",
+          "strongNumber": "H6256",
+          "lemma": "ʿeth",
+          "meaning": "time, season"
+        },
+        {
+          "word": "green",
+          "strongNumber": "H7488",
+          "lemma": "raʿanan",
+          "meaning": "green, luxuriant"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "He shall shake off his unripe grape as the vine, and shall cast off his flower as the olive.",
+      "highlightedWords": [
+        {
+          "word": "grape",
+          "strongNumber": "H1154",
+          "lemma": "boser",
+          "meaning": "unripe grape"
+        },
+        {
+          "word": "olive",
+          "strongNumber": "H2132",
+          "lemma": "zayith",
+          "meaning": "olive tree, olive"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "For the congregation of hypocrites shall be desolate, and fire shall consume the tabernacles of bribery.",
+      "highlightedWords": [
+        {
+          "word": "congregation",
+          "strongNumber": "H5712",
+          "lemma": "ʿedah",
+          "meaning": "assembly, congregation"
+        },
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "ʾesh",
+          "meaning": "fire"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "They conceive mischief, and bring forth vanity, and their belly prepareth deceit.",
+      "highlightedWords": [
+        {
+          "word": "mischief",
+          "strongNumber": "H205",
+          "lemma": "ʾaven",
+          "meaning": "trouble, mischief, iniquity"
+        },
+        {
+          "word": "deceit",
+          "strongNumber": "H4820",
+          "lemma": "mirmah",
+          "meaning": "deceit, treachery"
+        }
+      ]
+    }
+  ]
+}

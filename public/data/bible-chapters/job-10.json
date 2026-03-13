@@ -1,0 +1,420 @@
+{
+  "book": "Job",
+  "chapter": 10,
+  "chapterTheme": {
+    "twoWordSummary": "Bitter Plea",
+    "themeWords": [
+      {
+        "word": "soul",
+        "strongNumber": "H5315",
+        "lemma": "nephesh",
+        "meaning": "soul, life, self"
+      },
+      {
+        "word": "darkness",
+        "strongNumber": "H2822",
+        "lemma": "choshekh",
+        "meaning": "darkness, gloom"
+      }
+    ]
+  },
+  "sentenceTheme": "Job laments his suffering and pleads with God for understanding before descending to the darkness of death.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "My soul is weary of my life; I will leave my complaint upon myself; I will speak in the bitterness of my soul.",
+      "highlightedWords": [
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, self"
+        },
+        {
+          "word": "life",
+          "strongNumber": "H2416",
+          "lemma": "chay",
+          "meaning": "life, living"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "I will say unto God, Do not condemn me; shew me wherefore thou contendest with me.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H433",
+          "lemma": "eloah",
+          "meaning": "God, deity"
+        },
+        {
+          "word": "condemn",
+          "strongNumber": "H7561",
+          "lemma": "rashaʿ (vb.)",
+          "meaning": "to declare guilty, condemn"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Is it good unto thee that thou shouldest oppress, that thou shouldest despise the work of thine hands, and shine upon the counsel of the wicked?",
+      "highlightedWords": [
+        {
+          "word": "hands",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rashaʿ (n.)",
+          "meaning": "wicked, guilty person"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Hast thou eyes of flesh? or seest thou as man seeth?",
+      "highlightedWords": [
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "ʿayin",
+          "meaning": "eye, sight"
+        },
+        {
+          "word": "flesh",
+          "strongNumber": "H1320",
+          "lemma": "basar",
+          "meaning": "flesh, body"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Are thy days as the days of man? are thy years as man's days,",
+      "highlightedWords": [
+        {
+          "word": "days",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day, time"
+        },
+        {
+          "word": "years",
+          "strongNumber": "H8141",
+          "lemma": "shanah",
+          "meaning": "year"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "That thou enquirest after mine iniquity, and searchest after my sin?",
+      "highlightedWords": [
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "ʿavon",
+          "meaning": "iniquity, guilt, punishment"
+        },
+        {
+          "word": "sin",
+          "strongNumber": "H2403",
+          "lemma": "chatta'ah",
+          "meaning": "sin, sin offering"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Thou knowest that I am not wicked; and there is none that can deliver out of thine hand.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rashaʿ (adj.)",
+          "meaning": "wicked, criminal"
+        },
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Thine hands have made me and fashioned me together round about; yet thou dost destroy me.",
+      "highlightedWords": [
+        {
+          "word": "hands",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        },
+        {
+          "word": "fashioned",
+          "strongNumber": "H3335",
+          "lemma": "yatsar",
+          "meaning": "to form, shape, fashion"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Remember, I beseech thee, that thou hast made me as the clay; and wilt thou bring me into dust again?",
+      "highlightedWords": [
+        {
+          "word": "clay",
+          "strongNumber": "H2563",
+          "lemma": "chomer",
+          "meaning": "clay, mortar"
+        },
+        {
+          "word": "dust",
+          "strongNumber": "H6083",
+          "lemma": "ʿaphar",
+          "meaning": "dust, dry earth"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Hast thou not poured me out as milk, and curdled me like cheese?",
+      "highlightedWords": [
+        {
+          "word": "milk",
+          "strongNumber": "H2461",
+          "lemma": "chalab",
+          "meaning": "milk"
+        },
+        {
+          "word": "cheese",
+          "strongNumber": "H1395",
+          "lemma": "gebinah",
+          "meaning": "cheese"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Thou hast clothed me with skin and flesh, and hast fenced me with bones and sinews.",
+      "highlightedWords": [
+        {
+          "word": "skin",
+          "strongNumber": "H5785",
+          "lemma": "ʿor",
+          "meaning": "skin, hide"
+        },
+        {
+          "word": "flesh",
+          "strongNumber": "H1320",
+          "lemma": "basar",
+          "meaning": "flesh, body"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Thou hast granted me life and favour, and thy visitation hath preserved my spirit.",
+      "highlightedWords": [
+        {
+          "word": "life",
+          "strongNumber": "H2416",
+          "lemma": "chay",
+          "meaning": "life, living"
+        },
+        {
+          "word": "spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "spirit, wind, breath"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And these things hast thou hid in thine heart: I know that this is with thee.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, mind, inner being"
+        },
+        {
+          "word": "know",
+          "strongNumber": "H3045",
+          "lemma": "yadaʿ",
+          "meaning": "to know, perceive"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "If I sin, then thou markest me, and thou wilt not acquit me from mine iniquity.",
+      "highlightedWords": [
+        {
+          "word": "sin",
+          "strongNumber": "H2398",
+          "lemma": "chataʾ",
+          "meaning": "to sin, miss the mark"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "ʿavon",
+          "meaning": "iniquity, guilt, punishment"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "If I be wicked, woe unto me; and if I be righteous, yet will I not lift up my head. I am full of confusion; therefore see thou mine affliction;",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rashaʿ (adj.)",
+          "meaning": "wicked, criminal"
+        },
+        {
+          "word": "righteous",
+          "strongNumber": "H6663",
+          "lemma": "tsadaq",
+          "meaning": "to be righteous, be in the right"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "For it increaseth. Thou huntest me as a fierce lion: and again thou shewest thyself marvellous upon me.",
+      "highlightedWords": [
+        {
+          "word": "huntest",
+          "strongNumber": "H6679",
+          "lemma": "tsud",
+          "meaning": "to hunt, chase"
+        },
+        {
+          "word": "lion",
+          "strongNumber": "H0738",
+          "lemma": "ʾariy",
+          "meaning": "lion"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Thou renewest thy witnesses against me, and increasest thine indignation upon me; changes and war are against me.",
+      "highlightedWords": [
+        {
+          "word": "witnesses",
+          "strongNumber": "H5707",
+          "lemma": "ʿed",
+          "meaning": "witness, testimony"
+        },
+        {
+          "word": "indignation",
+          "strongNumber": "H2194",
+          "lemma": "zaʿam",
+          "meaning": "indignation, wrath"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Wherefore then hast thou brought me forth out of the womb? Oh that I had given up the ghost, and no eye had seen me!",
+      "highlightedWords": [
+        {
+          "word": "womb",
+          "strongNumber": "H7358",
+          "lemma": "rechem",
+          "meaning": "womb"
+        },
+        {
+          "word": "eye",
+          "strongNumber": "H5869",
+          "lemma": "ʿayin",
+          "meaning": "eye, sight"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "I should have been as though I had not been; I should have been carried from the womb to the grave.",
+      "highlightedWords": [
+        {
+          "word": "womb",
+          "strongNumber": "H7358",
+          "lemma": "rechem",
+          "meaning": "womb"
+        },
+        {
+          "word": "grave",
+          "strongNumber": "H7585",
+          "lemma": "sheʾol",
+          "meaning": "Sheol, the grave, underworld"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Are not my days few? cease then, and let me alone, that I may take comfort a little,",
+      "highlightedWords": [
+        {
+          "word": "days",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day, time"
+        },
+        {
+          "word": "cease",
+          "strongNumber": "H2308",
+          "lemma": "chadal",
+          "meaning": "to cease, desist, refrain"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Before I go whence I shall not return, even to the land of darkness and the shadow of death;",
+      "highlightedWords": [
+        {
+          "word": "darkness",
+          "strongNumber": "H2822",
+          "lemma": "choshekh",
+          "meaning": "darkness, gloom"
+        },
+        {
+          "word": "death",
+          "strongNumber": "H6757",
+          "lemma": "tsalmaveth",
+          "meaning": "shadow of death, deep darkness"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "A land of darkness, as darkness itself; and of the shadow of death, without any order, and where the light is as darkness.",
+      "highlightedWords": [
+        {
+          "word": "darkness",
+          "strongNumber": "H2822",
+          "lemma": "choshekh",
+          "meaning": "darkness, gloom"
+        },
+        {
+          "word": "light",
+          "strongNumber": "H0216",
+          "lemma": "ʾor",
+          "meaning": "light, illumination"
+        }
+      ]
+    }
+  ]
+}

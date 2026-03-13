@@ -1,0 +1,366 @@
+{
+  "book": "2 Chronicles",
+  "chapter": 17,
+  "chapterTheme": {
+    "twoWordSummary": "Jehoshaphat Reforms",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "Yehovah (יהוה)",
+        "meaning": "The proper name of the God of Israel"
+      },
+      {
+        "word": "Judah",
+        "strongNumber": "H3063",
+        "lemma": "Yehudah (יְהוּדָה)",
+        "meaning": "Judah; the southern kingdom/tribe, meaning praised"
+      }
+    ]
+  },
+  "sentenceTheme": "Jehoshaphat strengthens Judah, seeks the LORD, promotes teaching of the Law, and organizes a powerful military.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And Jehoshaphat his son reigned in his stead, and strengthened himself against Israel.",
+      "highlightedWords": [
+        {
+          "word": "Jehoshaphat",
+          "strongNumber": "H3092",
+          "lemma": "Yehoshaphat (יְהוֹשָׁפָט)",
+          "meaning": "Jehovah has judged"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el (יִשְׂרָאֵל)",
+          "meaning": "Israel; he strives with God; the nation descended from Jacob"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And he placed forces in all the fenced cities of Judah, and set garrisons in the land of Judah, and in the cities of Ephraim, which Asa his father had taken.",
+      "highlightedWords": [
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah (יְהוּדָה)",
+          "meaning": "Judah; the southern kingdom/tribe, meaning praised"
+        },
+        {
+          "word": "Ephraim",
+          "strongNumber": "H669",
+          "lemma": "Ephrayim (אֶפְרַיִם)",
+          "meaning": "Ephraim; a son of Joseph, also the tribe/territory"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And the LORD was with Jehoshaphat, because he walked in the first ways of his father David, and sought not unto Baalim;",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah (יהוה)",
+          "meaning": "The proper name of the God of Israel"
+        },
+        {
+          "word": "Baalim",
+          "strongNumber": "H1168",
+          "lemma": "Ba‘al (בַּעַל)",
+          "meaning": "Baal; a Canaanite deity (plural here: idols/baals)"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "But sought to the Lord God of his father, and walked in his commandments, and not after the doings of Israel.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim (אֱלֹהִים)",
+          "meaning": "God; the true God (also used of gods/judges)"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el (יִשְׂרָאֵל)",
+          "meaning": "Israel; he strives with God; the nation descended from Jacob"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Therefore the LORD stablished the kingdom in his hand; and all Judah brought to Jehoshaphat presents; and he had riches and honour in abundance.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah (יהוה)",
+          "meaning": "The proper name of the God of Israel"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah (יְהוּדָה)",
+          "meaning": "Judah; the southern kingdom/tribe, meaning praised"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And his heart was lifted up in the ways of the LORD: moreover he took away the high places and groves out of Judah.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah (יהוה)",
+          "meaning": "The proper name of the God of Israel"
+        },
+        {
+          "word": "groves",
+          "strongNumber": "H842",
+          "lemma": "Asherah (אֲשֵׁרָה)",
+          "meaning": "Asherah pole; a sacred tree or wooden object of idolatrous worship"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Also in the third year of his reign he sent to his princes, even to Ben-hail, and to Obadiah, and to Zechariah, and to Nethaneel, and to Michaiah, to teach in the cities of Judah.",
+      "highlightedWords": [
+        {
+          "word": "princes",
+          "strongNumber": "H8269",
+          "lemma": "sar (שַׂר)",
+          "meaning": "Prince, ruler, chief, captain, official"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah (יְהוּדָה)",
+          "meaning": "Judah; the southern kingdom/tribe, meaning praised"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And with them he sent Levites, even Shemaiah, and Nethaniah, and Zebadiah, and Asahel, and Shemiramoth, and Jehonathan, and Adonijah, and Tobijah, and Tobadonijah, Levites; and with them Elishama and Jehoram, priests.",
+      "highlightedWords": [
+        {
+          "word": "Levites",
+          "strongNumber": "H3881",
+          "lemma": "Leviy (לֵוִי)",
+          "meaning": "Levite; a member of the tribe of Levi"
+        },
+        {
+          "word": "priests",
+          "strongNumber": "H3548",
+          "lemma": "kohen (כֹּהֵן)",
+          "meaning": "Priest; one who officiates in sacred rites"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And they taught in Judah, and had the book of the law of the LORD with them, and went about throughout all the cities of Judah, and taught the people.",
+      "highlightedWords": [
+        {
+          "word": "law",
+          "strongNumber": "H8451",
+          "lemma": "torah (תּוֹרָה)",
+          "meaning": "Law, instruction, teaching"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah (יהוה)",
+          "meaning": "The proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And the fear of the LORD fell upon all the kingdoms of the lands that were round about Judah, so that they made no war against Jehoshaphat.",
+      "highlightedWords": [
+        {
+          "word": "fear",
+          "strongNumber": "H6343",
+          "lemma": "pachad (פַּחַד)",
+          "meaning": "Dread, terror"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah (יהוה)",
+          "meaning": "The proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Also some of the Philistines brought Jehoshaphat presents, and tribute silver; and the Arabians brought him flocks, seven thousand and seven hundred rams, and seven thousand and seven hundred he goats.",
+      "highlightedWords": [
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pelistiy (פְּלִשְׁתִּי)",
+          "meaning": "Philistines; inhabitants of Philistia"
+        },
+        {
+          "word": "Arabians",
+          "strongNumber": "H6152",
+          "lemma": "'Arab (עֲרַב)",
+          "meaning": "Arabians; people of Arabia"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And Jehoshaphat waxed great exceedingly; and he built in Judah castles, and cities of store.",
+      "highlightedWords": [
+        {
+          "word": "Jehoshaphat",
+          "strongNumber": "H3092",
+          "lemma": "Yehoshaphat (יְהוֹשָׁפָט)",
+          "meaning": "Jehovah has judged"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah (יְהוּדָה)",
+          "meaning": "Judah; the southern kingdom/tribe, meaning praised"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And he had much business in the cities of Judah: and the men of war, mighty men of valour, were in Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah (יְהוּדָה)",
+          "meaning": "Judah; the southern kingdom/tribe, meaning praised"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim (יְרוּשָׁלַ͏ִם)",
+          "meaning": "Jerusalem; the chief city of Israel/Judah"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And these are the numbers of them according to the house of their fathers: Of Judah, the captains of thousands; Adnah the chief, and with him mighty men of valour three hundred thousand.",
+      "highlightedWords": [
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah (יְהוּדָה)",
+          "meaning": "Judah; the southern kingdom/tribe, meaning praised"
+        },
+        {
+          "word": "thousands",
+          "strongNumber": "H505",
+          "lemma": "'eleph (אֶלֶף)",
+          "meaning": "A thousand (a numerical unit)"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And next to him was Jehohanan the captain, and with him two hundred and fourscore thousand.",
+      "highlightedWords": [
+        {
+          "word": "captain",
+          "strongNumber": "H8269",
+          "lemma": "sar (שַׂר)",
+          "meaning": "Prince, ruler, chief, captain"
+        },
+        {
+          "word": "thousand",
+          "strongNumber": "H505",
+          "lemma": "'eleph (אֶלֶף)",
+          "meaning": "A thousand (a numerical unit)"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And next him was Amasiah the son of Zichri, who willingly offered himself unto the LORD; and with him two hundred thousand mighty men of valour.",
+      "highlightedWords": [
+        {
+          "word": "willingly",
+          "strongNumber": "H5068",
+          "lemma": "nadab (נָדַב)",
+          "meaning": "To volunteer, to offer freely"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah (יהוה)",
+          "meaning": "The proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And of Benjamin; Eliada a mighty man of valour, and with him armed men with bow and shield two hundred thousand.",
+      "highlightedWords": [
+        {
+          "word": "Benjamin",
+          "strongNumber": "H1144",
+          "lemma": "Binyamin (בִּנְיָמִין)",
+          "meaning": "Benjamin; son of Jacob, also the tribe"
+        },
+        {
+          "word": "bow",
+          "strongNumber": "H7198",
+          "lemma": "qesheth (קֶשֶׁת)",
+          "meaning": "Bow (as a weapon)"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And next him was Jehozabad, and with him an hundred and fourscore thousand ready prepared for the war.",
+      "highlightedWords": [
+        {
+          "word": "war",
+          "strongNumber": "H4421",
+          "lemma": "milchamah (מִלְחָמָה)",
+          "meaning": "War, battle"
+        },
+        {
+          "word": "thousand",
+          "strongNumber": "H505",
+          "lemma": "'eleph (אֶלֶף)",
+          "meaning": "A thousand (a numerical unit)"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "These waited on the king, beside those whom the king put in the fenced cities throughout all Judah.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek (מֶלֶךְ)",
+          "meaning": "King, ruler"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah (יְהוּדָה)",
+          "meaning": "Judah; the southern kingdom/tribe, meaning praised"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "book": "Psalms",
+  "chapter": 30,
+  "chapterTheme": {
+    "twoWordSummary": "Deliverance Praise",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH",
+        "meaning": "The personal name of the God of Israel"
+      },
+      {
+        "word": "thanks",
+        "strongNumber": "H3034",
+        "lemma": "yadah",
+        "meaning": "To praise, confess, or give thanks"
+      }
+    ]
+  },
+  "sentenceTheme": "David praises the LORD for deliverance from near death, calling the faithful to give thanks as God turns mourning into joy.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "I will extol thee, O LORD; for thou hast lifted me up, and hast not made my foes to rejoice over me.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The personal name of the God of Israel"
+        },
+        {
+          "word": "foes",
+          "strongNumber": "H341",
+          "lemma": "’oyev",
+          "meaning": "Enemy; one who is hostile"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "O LORD my God, I cried unto thee, and thou hast healed me.",
+      "highlightedWords": [
+        {
+          "word": "cried",
+          "strongNumber": "H7121",
+          "lemma": "qaraʾ",
+          "meaning": "To call out, cry, proclaim"
+        },
+        {
+          "word": "healed",
+          "strongNumber": "H7495",
+          "lemma": "raphaʾ",
+          "meaning": "To heal, make whole"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "O LORD, thou hast brought up my soul from the grave: thou hast kept me alive, that I should not go down to the pit.",
+      "highlightedWords": [
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "Life, soul, person"
+        },
+        {
+          "word": "grave",
+          "strongNumber": "H7585",
+          "lemma": "Sheol",
+          "meaning": "The underworld, realm of the dead"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Sing unto the LORD, O ye saints of his, and give thanks at the remembrance of his holiness.",
+      "highlightedWords": [
+        {
+          "word": "saints",
+          "strongNumber": "H2623",
+          "lemma": "chasid",
+          "meaning": "Faithful, godly one"
+        },
+        {
+          "word": "thanks",
+          "strongNumber": "H3034",
+          "lemma": "yadah",
+          "meaning": "To praise, confess, or give thanks"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "For his anger endureth but a moment; in his favour is life: weeping may endure for a night, but joy cometh in the morning.",
+      "highlightedWords": [
+        {
+          "word": "favour",
+          "strongNumber": "H7522",
+          "lemma": "ratson",
+          "meaning": "Favor, goodwill, acceptance"
+        },
+        {
+          "word": "weeping",
+          "strongNumber": "H1065",
+          "lemma": "bekiy",
+          "meaning": "Weeping, lamentation"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And in my prosperity I said, I shall never be moved.",
+      "highlightedWords": [
+        {
+          "word": "prosperity",
+          "strongNumber": "H7962",
+          "lemma": "shalvah",
+          "meaning": "Prosperity, security, tranquility"
+        },
+        {
+          "word": "moved",
+          "strongNumber": "H4131",
+          "lemma": "mot",
+          "meaning": "To totter, be shaken"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "LORD, by thy favour thou hast made my mountain to stand strong: thou didst hide thy face, and I was troubled.",
+      "highlightedWords": [
+        {
+          "word": "favour",
+          "strongNumber": "H7522",
+          "lemma": "ratson",
+          "meaning": "Favor, goodwill, acceptance"
+        },
+        {
+          "word": "face",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "Face, presence"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "I cried to thee, O LORD; and unto the LORD I made supplication.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The personal name of the God of Israel"
+        },
+        {
+          "word": "supplication",
+          "strongNumber": "H2603",
+          "lemma": "chanan",
+          "meaning": "To implore favor, be gracious"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "What profit is there in my blood, when I go down to the pit? Shall the dust praise thee? shall it declare thy truth?",
+      "highlightedWords": [
+        {
+          "word": "dust",
+          "strongNumber": "H6083",
+          "lemma": "ʿaphar",
+          "meaning": "Dust, dry earth"
+        },
+        {
+          "word": "truth",
+          "strongNumber": "H571",
+          "lemma": "ʾemeth",
+          "meaning": "Firmness, faithfulness, truth"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Hear, O LORD, and have mercy upon me: LORD, be thou my helper.",
+      "highlightedWords": [
+        {
+          "word": "mercy",
+          "strongNumber": "H2603",
+          "lemma": "chanan",
+          "meaning": "To be gracious, show favor"
+        },
+        {
+          "word": "helper",
+          "strongNumber": "H5828",
+          "lemma": "ʿezer",
+          "meaning": "Help, one who helps"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Thou hast turned for me my mourning into dancing: thou hast put off my sackcloth, and girded me with gladness;",
+      "highlightedWords": [
+        {
+          "word": "mourning",
+          "strongNumber": "H455",
+          "lemma": "misped",
+          "meaning": "Mourning, lamentation"
+        },
+        {
+          "word": "dancing",
+          "strongNumber": "H4234",
+          "lemma": "machol",
+          "meaning": "Dance, dancing"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "To the end that my glory may sing praise to thee, and not be silent. O LORD my God, I will give thanks unto thee for ever.",
+      "highlightedWords": [
+        {
+          "word": "glory",
+          "strongNumber": "H3519",
+          "lemma": "kavod",
+          "meaning": "Glory, honor, weight"
+        },
+        {
+          "word": "thanks",
+          "strongNumber": "H3034",
+          "lemma": "yadah",
+          "meaning": "To praise, confess, or give thanks"
+        }
+      ]
+    }
+  ]
+}

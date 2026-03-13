@@ -1,0 +1,438 @@
+{
+  "book": "Psalms",
+  "chapter": 74,
+  "chapterTheme": {
+    "twoWordSummary": "Sanctuary Desolation",
+    "themeWords": [
+      {
+        "word": "sanctuary",
+        "strongNumber": "H4720",
+        "lemma": "miqdash",
+        "meaning": "holy place; sanctuary"
+      },
+      {
+        "word": "covenant",
+        "strongNumber": "H1285",
+        "lemma": "berith",
+        "meaning": "covenant; treaty"
+      }
+    ]
+  },
+  "sentenceTheme": "A lament over the desecration of God's sanctuary and a plea for Him to remember His covenant and deliver His people.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "O God, why hast thou cast us off for ever? why doth thine anger smoke against the sheep of thy pasture?",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "elohim",
+          "meaning": "God; mighty ones"
+        },
+        {
+          "word": "anger",
+          "strongNumber": "H639",
+          "lemma": "aph",
+          "meaning": "anger; nostril"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Remember thy congregation, which thou hast purchased of old; the rod of thine inheritance, which thou hast redeemed; this mount Zion, wherein thou hast dwelt.",
+      "highlightedWords": [
+        {
+          "word": "Remember",
+          "strongNumber": "H2142",
+          "lemma": "zakar",
+          "meaning": "to remember; recall"
+        },
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyon",
+          "meaning": "Zion; the fortress of Jerusalem"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Lift up thy feet unto the perpetual desolations; even all that the enemy hath done wickedly in the sanctuary.",
+      "highlightedWords": [
+        {
+          "word": "enemy",
+          "strongNumber": "H341",
+          "lemma": "oyev",
+          "meaning": "enemy; foe"
+        },
+        {
+          "word": "sanctuary",
+          "strongNumber": "H4720",
+          "lemma": "miqdash",
+          "meaning": "holy place; sanctuary"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Thine enemies roar in the midst of thy congregations; they set up their ensigns for signs.",
+      "highlightedWords": [
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "oyev",
+          "meaning": "enemies; foes"
+        },
+        {
+          "word": "signs",
+          "strongNumber": "H226",
+          "lemma": "oth",
+          "meaning": "sign; token"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "A man was famous according as he had lifted up axes upon the thick trees.",
+      "highlightedWords": [
+        {
+          "word": "man",
+          "strongNumber": "H376",
+          "lemma": "ish",
+          "meaning": "man; male person"
+        },
+        {
+          "word": "trees",
+          "strongNumber": "H6086",
+          "lemma": "ets",
+          "meaning": "tree; wood"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "But now they break down the carved work thereof at once with axes and hammers.",
+      "highlightedWords": [
+        {
+          "word": "axes",
+          "strongNumber": "H1631",
+          "lemma": "garzen",
+          "meaning": "axe; chopping tool"
+        },
+        {
+          "word": "hammers",
+          "strongNumber": "H4717",
+          "lemma": "maqqabah",
+          "meaning": "hammer; mallet"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "They have cast fire into thy sanctuary, they have defiled by casting down the dwelling place of thy name to the ground.",
+      "highlightedWords": [
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "esh",
+          "meaning": "fire"
+        },
+        {
+          "word": "sanctuary",
+          "strongNumber": "H4720",
+          "lemma": "miqdash",
+          "meaning": "holy place; sanctuary"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "They said in their hearts, Let us destroy them together: they have burned up all the synagogues of God in the land.",
+      "highlightedWords": [
+        {
+          "word": "destroy",
+          "strongNumber": "H7843",
+          "lemma": "shachath",
+          "meaning": "to destroy; ruin"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "elohim",
+          "meaning": "God; mighty ones"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "We see not our signs: there is no more any prophet: neither is there among us any that knoweth how long.",
+      "highlightedWords": [
+        {
+          "word": "signs",
+          "strongNumber": "H226",
+          "lemma": "oth",
+          "meaning": "sign; token"
+        },
+        {
+          "word": "prophet",
+          "strongNumber": "H5030",
+          "lemma": "nabi",
+          "meaning": "prophet; spokesman"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "O God, how long shall the adversary reproach? shall the enemy blaspheme thy name for ever?",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "elohim",
+          "meaning": "God; mighty ones"
+        },
+        {
+          "word": "adversary",
+          "strongNumber": "H6862",
+          "lemma": "tsar",
+          "meaning": "adversary; foe"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Why withdrawest thou thy hand, even thy right hand? pluck it out of thy bosom.",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand; power"
+        },
+        {
+          "word": "right",
+          "strongNumber": "H3225",
+          "lemma": "yamin",
+          "meaning": "right (hand/side); south"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "For God is my King of old, working salvation in the midst of the earth.",
+      "highlightedWords": [
+        {
+          "word": "King",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king; ruler"
+        },
+        {
+          "word": "salvation",
+          "strongNumber": "H3444",
+          "lemma": "yeshuah",
+          "meaning": "salvation; deliverance"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Thou didst divide the sea by thy strength: thou brakest the heads of the dragons in the waters.",
+      "highlightedWords": [
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "sea"
+        },
+        {
+          "word": "dragons",
+          "strongNumber": "H8577",
+          "lemma": "tannin",
+          "meaning": "sea monster; dragon"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Thou brakest the heads of leviathan in pieces, and gavest him to be meat to the people inhabiting the wilderness.",
+      "highlightedWords": [
+        {
+          "word": "leviathan",
+          "strongNumber": "H3882",
+          "lemma": "liwyatan",
+          "meaning": "Leviathan; sea serpent"
+        },
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbar",
+          "meaning": "wilderness; desert"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Thou didst cleave the fountain and the flood: thou driedst up mighty rivers.",
+      "highlightedWords": [
+        {
+          "word": "fountain",
+          "strongNumber": "H4726",
+          "lemma": "maqor",
+          "meaning": "fountain; spring"
+        },
+        {
+          "word": "rivers",
+          "strongNumber": "H5104",
+          "lemma": "nahar",
+          "meaning": "river; stream"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "The day is thine, the night also is thine: thou hast prepared the light and the sun.",
+      "highlightedWords": [
+        {
+          "word": "day",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day; daylight"
+        },
+        {
+          "word": "sun",
+          "strongNumber": "H8121",
+          "lemma": "shemesh",
+          "meaning": "sun"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Thou hast set all the borders of the earth: thou hast made summer and winter.",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "earth; land"
+        },
+        {
+          "word": "winter",
+          "strongNumber": "H2779",
+          "lemma": "choreph",
+          "meaning": "winter; harvest-time chill"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Remember this, that the enemy hath reproached, O LORD, and that the foolish people have blasphemed thy name.",
+      "highlightedWords": [
+        {
+          "word": "Remember",
+          "strongNumber": "H2142",
+          "lemma": "zakar",
+          "meaning": "to remember; recall"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the proper name of Israel's God"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "O deliver not the soul of thy turtledove unto the multitude of the wicked: forget not the congregation of thy poor for ever.",
+      "highlightedWords": [
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul; life; person"
+        },
+        {
+          "word": "congregation",
+          "strongNumber": "H5712",
+          "lemma": "edah",
+          "meaning": "assembly; congregation"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Have respect unto the covenant: for the dark places of the earth are full of the habitations of cruelty.",
+      "highlightedWords": [
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "covenant; treaty"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "earth; land"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "O let not the oppressed return ashamed: let the poor and needy praise thy name.",
+      "highlightedWords": [
+        {
+          "word": "needy",
+          "strongNumber": "H34",
+          "lemma": "ebyon",
+          "meaning": "needy; poor"
+        },
+        {
+          "word": "praise",
+          "strongNumber": "H1984",
+          "lemma": "halal",
+          "meaning": "to praise; boast"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Arise, O God, plead thine own cause: remember how the foolish man reproacheth thee daily.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "elohim",
+          "meaning": "God; mighty ones"
+        },
+        {
+          "word": "remember",
+          "strongNumber": "H2142",
+          "lemma": "zakar",
+          "meaning": "to remember; recall"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Forget not the voice of thine enemies: the tumult of those that rise up against thee increaseth continually.",
+      "highlightedWords": [
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "oyev",
+          "meaning": "enemies; foes"
+        },
+        {
+          "word": "voice",
+          "strongNumber": "H6963",
+          "lemma": "qol",
+          "meaning": "voice; sound"
+        }
+      ]
+    }
+  ]
+}

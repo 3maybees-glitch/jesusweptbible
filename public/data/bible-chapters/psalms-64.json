@@ -1,0 +1,204 @@
+{
+  "book": "Psalms",
+  "chapter": 64,
+  "chapterTheme": {
+    "twoWordSummary": "Hidden Plots",
+    "themeWords": [
+      {
+        "word": "God",
+        "strongNumber": "H430",
+        "lemma": "elohim",
+        "meaning": "God, mighty one"
+      },
+      {
+        "word": "wicked",
+        "strongNumber": "H7563",
+        "lemma": "rasha'",
+        "meaning": "wicked, guilty, criminal"
+      }
+    ]
+  },
+  "sentenceTheme": "David pleads for protection from the secret plots of the wicked, confident that God will turn their weapons and words upon them, causing all to fear and the righteous to rejoice in the LORD.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Hear my voice, O God, in my prayer: preserve my life from fear of the enemy.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "elohim",
+          "meaning": "God, mighty one"
+        },
+        {
+          "word": "enemy",
+          "strongNumber": "H341",
+          "lemma": "oyev",
+          "meaning": "enemy, foe"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity:",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha'",
+          "meaning": "wicked, guilty, criminal"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H205",
+          "lemma": "aven",
+          "meaning": "iniquity, trouble, mischief"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Who whet their tongue like a sword, and bend their bows to shoot their arrows, even bitter words:",
+      "highlightedWords": [
+        {
+          "word": "tongue",
+          "strongNumber": "H3956",
+          "lemma": "lashon",
+          "meaning": "tongue, language, speech"
+        },
+        {
+          "word": "arrows",
+          "strongNumber": "H2671",
+          "lemma": "chets",
+          "meaning": "arrow, shaft, missile"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "That they may shoot in secret at the perfect: suddenly do they shoot at him, and fear not.",
+      "highlightedWords": [
+        {
+          "word": "perfect",
+          "strongNumber": "H8535",
+          "lemma": "tam",
+          "meaning": "blameless, innocent, upright"
+        },
+        {
+          "word": "fear",
+          "strongNumber": "H3372",
+          "lemma": "yare'",
+          "meaning": "to fear, be afraid, revere"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "They encourage themselves in an evil matter: they commune of laying snares privily; they say, Who shall see them?",
+      "highlightedWords": [
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra'",
+          "meaning": "evil, bad, calamity"
+        },
+        {
+          "word": "snares",
+          "strongNumber": "H4170",
+          "lemma": "moqesh",
+          "meaning": "snare, trap"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "They search out iniquities; they accomplish a diligent search: both the inward thought of every one of them, and the heart, is deep.",
+      "highlightedWords": [
+        {
+          "word": "iniquities",
+          "strongNumber": "H205",
+          "lemma": "aven",
+          "meaning": "iniquities, wrongdoing"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner being, mind"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "But God shall shoot at them with an arrow; suddenly shall they be wounded.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "elohim",
+          "meaning": "God, mighty one"
+        },
+        {
+          "word": "arrow",
+          "strongNumber": "H2671",
+          "lemma": "chets",
+          "meaning": "arrow, shaft"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "So they shall make their own tongue to fall upon themselves: all that see them shall flee away.",
+      "highlightedWords": [
+        {
+          "word": "tongue",
+          "strongNumber": "H3956",
+          "lemma": "lashon",
+          "meaning": "tongue, language, speech"
+        },
+        {
+          "word": "flee",
+          "strongNumber": "H5127",
+          "lemma": "nus",
+          "meaning": "to flee, escape"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And all men shall fear, and shall declare the work of God; for they shall wisely consider of his doing.",
+      "highlightedWords": [
+        {
+          "word": "men",
+          "strongNumber": "H120",
+          "lemma": "adam",
+          "meaning": "man, mankind, humanity"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "elohim",
+          "meaning": "God, mighty one"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "The righteous shall be glad in the LORD, and shall trust in him; and all the upright in heart shall glory.",
+      "highlightedWords": [
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        }
+      ]
+    }
+  ]
+}

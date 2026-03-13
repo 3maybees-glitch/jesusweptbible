@@ -1,0 +1,456 @@
+{
+  "book": "Psalms",
+  "chapter": 31,
+  "chapterTheme": {
+    "twoWordSummary": "Refuge Deliverance",
+    "themeWords": [
+      {
+        "word": "trust",
+        "strongNumber": "H2620",
+        "lemma": "chasah",
+        "meaning": "to take refuge"
+      },
+      {
+        "word": "deliver",
+        "strongNumber": "H5337",
+        "lemma": "natsal",
+        "meaning": "to snatch away, deliver"
+      }
+    ]
+  },
+  "sentenceTheme": "David entrusts his spirit to the LORD, seeking deliverance and affirming steadfast trust amid affliction and enemies.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "In thee, O LORD, do I put my trust; let me never be ashamed: deliver me in thy righteousness.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the divine name YHWH, the LORD"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "tsedaqah",
+          "meaning": "righteousness, justice"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Bow down thine ear to me; deliver me speedily: be thou my strong rock, for an house of defence to save me.",
+      "highlightedWords": [
+        {
+          "word": "rock",
+          "strongNumber": "H6697",
+          "lemma": "tsur",
+          "meaning": "rock, cliff"
+        },
+        {
+          "word": "save",
+          "strongNumber": "H3467",
+          "lemma": "yasha",
+          "meaning": "to save, deliver"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "For thou art my rock and my fortress; therefore for thy name's sake lead me, and guide me.",
+      "highlightedWords": [
+        {
+          "word": "rock",
+          "strongNumber": "H6697",
+          "lemma": "tsur",
+          "meaning": "rock, cliff"
+        },
+        {
+          "word": "fortress",
+          "strongNumber": "H4686",
+          "lemma": "metsudah",
+          "meaning": "fortress, stronghold"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Pull me out of the net that they have laid privily for me: for thou art my strength.",
+      "highlightedWords": [
+        {
+          "word": "net",
+          "strongNumber": "H7568",
+          "lemma": "resheth",
+          "meaning": "net"
+        },
+        {
+          "word": "strength",
+          "strongNumber": "H5797",
+          "lemma": "oz",
+          "meaning": "strength, might"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Into thine hand I commit my spirit: thou hast redeemed me, O LORD God of truth.",
+      "highlightedWords": [
+        {
+          "word": "spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "spirit, breath, wind"
+        },
+        {
+          "word": "redeemed",
+          "strongNumber": "H6299",
+          "lemma": "padah",
+          "meaning": "to redeem, ransom"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "I have hated them that regard lying vanities: but I trust in the LORD.",
+      "highlightedWords": [
+        {
+          "word": "trust",
+          "strongNumber": "H982",
+          "lemma": "batach",
+          "meaning": "to trust, be confident"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the divine name YHWH, the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "I will be glad and rejoice in thy mercy: for thou hast considered my trouble; thou hast known my soul in adversities;",
+      "highlightedWords": [
+        {
+          "word": "mercy",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "steadfast love, mercy"
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, self"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And hast not shut me up into the hand of the enemy: thou hast set my feet in a large room.",
+      "highlightedWords": [
+        {
+          "word": "enemy",
+          "strongNumber": "H341",
+          "lemma": "oyev",
+          "meaning": "enemy, foe"
+        },
+        {
+          "word": "feet",
+          "strongNumber": "H7272",
+          "lemma": "regel",
+          "meaning": "foot"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Have mercy upon me, O LORD, for I am in trouble: mine eye is consumed with grief, yea, my soul and my belly.",
+      "highlightedWords": [
+        {
+          "word": "mercy",
+          "strongNumber": "H2603",
+          "lemma": "chanan",
+          "meaning": "to be gracious, show favor"
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, self"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "For my life is spent with grief, and my years with sighing: my strength faileth because of mine iniquity, and my bones are consumed.",
+      "highlightedWords": [
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "avon",
+          "meaning": "iniquity, guilt"
+        },
+        {
+          "word": "bones",
+          "strongNumber": "H6106",
+          "lemma": "etsem",
+          "meaning": "bone"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "I was a reproach among all mine enemies, but especially among my neighbours, and a fear to mine acquaintance: they that did see me without fled from me.",
+      "highlightedWords": [
+        {
+          "word": "reproach",
+          "strongNumber": "H2781",
+          "lemma": "cherpah",
+          "meaning": "reproach, disgrace"
+        },
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "oyev",
+          "meaning": "enemy, foe"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "I am forgotten as a dead man out of mind: I am like a broken vessel.",
+      "highlightedWords": [
+        {
+          "word": "forgotten",
+          "strongNumber": "H7911",
+          "lemma": "shakach",
+          "meaning": "to forget"
+        },
+        {
+          "word": "vessel",
+          "strongNumber": "H3627",
+          "lemma": "keli",
+          "meaning": "vessel, utensil"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "For I have heard the slander of many: fear was on every side: while they took counsel together against me, they devised to take away my life.",
+      "highlightedWords": [
+        {
+          "word": "slander",
+          "strongNumber": "H1681",
+          "lemma": "dibbah",
+          "meaning": "slander, evil report"
+        },
+        {
+          "word": "life",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, self"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "But I trusted in thee, O LORD: I said, Thou art my God.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the divine name YHWH, the LORD"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God, mighty one"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "My times are in thy hand: deliver me from the hand of mine enemies, and from them that persecute me.",
+      "highlightedWords": [
+        {
+          "word": "times",
+          "strongNumber": "H6256",
+          "lemma": "eth",
+          "meaning": "time, season"
+        },
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Make thy face to shine upon thy servant: save me for thy mercies' sake.",
+      "highlightedWords": [
+        {
+          "word": "face",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "face, presence"
+        },
+        {
+          "word": "save",
+          "strongNumber": "H3467",
+          "lemma": "yasha",
+          "meaning": "to save, deliver"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Let me not be ashamed, O LORD; for I have called upon thee: let the wicked be ashamed, and let them be silent in the grave.",
+      "highlightedWords": [
+        {
+          "word": "ashamed",
+          "strongNumber": "H954",
+          "lemma": "bosh",
+          "meaning": "to be ashamed"
+        },
+        {
+          "word": "grave",
+          "strongNumber": "H7585",
+          "lemma": "Sheol",
+          "meaning": "the grave, the underworld"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Let the lying lips be put to silence; which speak grievous things proudly and contemptuously against the righteous.",
+      "highlightedWords": [
+        {
+          "word": "lips",
+          "strongNumber": "H8193",
+          "lemma": "saphah",
+          "meaning": "lip, language"
+        },
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Oh how great is thy goodness, which thou hast laid up for them that fear thee; which thou hast wrought for them that trust in thee before the sons of men!",
+      "highlightedWords": [
+        {
+          "word": "goodness",
+          "strongNumber": "H2898",
+          "lemma": "tuwb",
+          "meaning": "goodness, good things"
+        },
+        {
+          "word": "trust",
+          "strongNumber": "H2620",
+          "lemma": "chasah",
+          "meaning": "to take refuge"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Thou shalt hide them in the secret of thy presence from the pride of man: thou shalt keep them secretly in a pavilion from the strife of tongues.",
+      "highlightedWords": [
+        {
+          "word": "hide",
+          "strongNumber": "H6845",
+          "lemma": "tsaphan",
+          "meaning": "to hide, treasure up"
+        },
+        {
+          "word": "pavilion",
+          "strongNumber": "H5521",
+          "lemma": "sukkah",
+          "meaning": "booth, pavilion"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Blessed be the LORD: for he hath shewed me his marvellous kindness in a strong city.",
+      "highlightedWords": [
+        {
+          "word": "Blessed",
+          "strongNumber": "H1288",
+          "lemma": "barak",
+          "meaning": "to bless"
+        },
+        {
+          "word": "kindness",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "steadfast love, mercy"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "For I said in my haste, I am cut off from before thine eyes: nevertheless thou heardest the voice of my supplications when I cried unto thee.",
+      "highlightedWords": [
+        {
+          "word": "heardest",
+          "strongNumber": "H8085",
+          "lemma": "shama",
+          "meaning": "to hear, listen"
+        },
+        {
+          "word": "supplications",
+          "strongNumber": "H8469",
+          "lemma": "tachanunim",
+          "meaning": "supplications, petitions for mercy"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "O love the LORD, all ye his saints: for the LORD preserveth the faithful, and plentifully rewardeth the proud doer.",
+      "highlightedWords": [
+        {
+          "word": "saints",
+          "strongNumber": "H2623",
+          "lemma": "chasid",
+          "meaning": "faithful, godly one"
+        },
+        {
+          "word": "preserveth",
+          "strongNumber": "H5341",
+          "lemma": "natsar",
+          "meaning": "to guard, preserve"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Be of good courage, and he shall strengthen your heart, all ye that hope in the LORD.",
+      "highlightedWords": [
+        {
+          "word": "courage",
+          "strongNumber": "H2388",
+          "lemma": "chazaq",
+          "meaning": "to be strong, strengthen"
+        },
+        {
+          "word": "hope",
+          "strongNumber": "H3176",
+          "lemma": "yachal",
+          "meaning": "to wait, hope"
+        }
+      ]
+    }
+  ]
+}

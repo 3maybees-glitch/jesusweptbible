@@ -1,0 +1,330 @@
+{
+  "book": "2 Chronicles",
+  "chapter": 3,
+  "chapterTheme": {
+    "twoWordSummary": "Temple Construction",
+    "themeWords": [
+      {
+        "word": "house",
+        "strongNumber": "H1004",
+        "lemma": "bayit",
+        "meaning": "house; dwelling; temple"
+      },
+      {
+        "word": "gold",
+        "strongNumber": "H2091",
+        "lemma": "zahab",
+        "meaning": "gold; precious metal symbolizing wealth and glory"
+      }
+    ]
+  },
+  "sentenceTheme": "Solomon begins building the temple on Mount Moriah, detailing its dimensions, lavish gold overlay, cherubim, veil, and the two named pillars.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Then Solomon began to build the house of the LORD at Jerusalem in mount Moriah, where the LORD appeared unto David his father, in the place that David had prepared in the threshingfloor of Ornan the Jebusite.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        },
+        {
+          "word": "Moriah",
+          "strongNumber": "H4179",
+          "lemma": "Mowriyah",
+          "meaning": "seen by Yahweh; the name of the mount in Jerusalem"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And he began to build in the second day of the second month, in the fourth year of his reign.",
+      "highlightedWords": [
+        {
+          "word": "month",
+          "strongNumber": "H2320",
+          "lemma": "chodesh",
+          "meaning": "new moon; month"
+        },
+        {
+          "word": "year",
+          "strongNumber": "H8141",
+          "lemma": "shanah",
+          "meaning": "year; a cycle of seasons"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Now these are the things wherein Solomon was instructed for the building of the house of God. The length by cubits after the first measure was threescore cubits, and the breadth twenty cubits.",
+      "highlightedWords": [
+        {
+          "word": "cubits",
+          "strongNumber": "H520",
+          "lemma": "ammah",
+          "meaning": "a measure of length, a cubit"
+        },
+        {
+          "word": "measure",
+          "strongNumber": "H4060",
+          "lemma": "middah",
+          "meaning": "measure; measurement; standard"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And the porch that was in the front of the house, the length of it was according to the breadth of the house, twenty cubits, and the height was an hundred and twenty: and he overlaid it within with pure gold.",
+      "highlightedWords": [
+        {
+          "word": "porch",
+          "strongNumber": "H197",
+          "lemma": "ulam",
+          "meaning": "a porch or vestibule before the temple"
+        },
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "zahab",
+          "meaning": "gold; precious metal used for overlay and ornament"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And the greater house he cieled with fir tree, which he overlaid with fine gold, and set thereon palm trees and chains.",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayit",
+          "meaning": "house; here, the main hall of the temple"
+        },
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "zahab",
+          "meaning": "gold; precious metal used for overlay and ornament"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And he garnished the house with precious stones for beauty: and the gold was gold of Parvaim.",
+      "highlightedWords": [
+        {
+          "word": "stones",
+          "strongNumber": "H68",
+          "lemma": "’eben",
+          "meaning": "stone; precious stones used for adornment"
+        },
+        {
+          "word": "Parvaim",
+          "strongNumber": "H6516",
+          "lemma": "Parvayim",
+          "meaning": "a region noted for fine gold, exact location uncertain"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "He overlaid also the house, the beams, the posts, and the walls thereof, and the doors thereof, with gold; and graved cherubims on the walls.",
+      "highlightedWords": [
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "zahab",
+          "meaning": "gold; precious metal used for overlay and ornament"
+        },
+        {
+          "word": "cherubims",
+          "strongNumber": "H3742",
+          "lemma": "keruvim",
+          "meaning": "cherubim; angelic beings associated with God’s presence"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And he made the most holy house, the length whereof was according to the breadth of the house, twenty cubits, and the breadth thereof twenty cubits: and he overlaid it with fine gold, amounting to six hundred talents.",
+      "highlightedWords": [
+        {
+          "word": "holy",
+          "strongNumber": "H6944",
+          "lemma": "qodesh",
+          "meaning": "holy; sacred, set apart"
+        },
+        {
+          "word": "talents",
+          "strongNumber": "H3603",
+          "lemma": "kikkar",
+          "meaning": "a unit of weight; a talent"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And the weight of the nails was fifty shekels of gold. And he overlaid the upper chambers with gold.",
+      "highlightedWords": [
+        {
+          "word": "nails",
+          "strongNumber": "H4548",
+          "lemma": "masmer",
+          "meaning": "nail; metal fastener"
+        },
+        {
+          "word": "shekels",
+          "strongNumber": "H8255",
+          "lemma": "sheqel",
+          "meaning": "a unit of weight and currency; shekel"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And in the most holy house he made two cherubims of image work, and overlaid them with gold.",
+      "highlightedWords": [
+        {
+          "word": "cherubims",
+          "strongNumber": "H3742",
+          "lemma": "keruvim",
+          "meaning": "cherubim; angelic beings associated with God’s presence"
+        },
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "zahab",
+          "meaning": "gold; precious metal used for overlay and ornament"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And the wings of the cherubims were twenty cubits long: one wing of the one cherub was five cubits, reaching to the wall of the house: and the other wing was likewise five cubits, reaching to the wing of the other cherub.",
+      "highlightedWords": [
+        {
+          "word": "wings",
+          "strongNumber": "H3671",
+          "lemma": "kanaph",
+          "meaning": "wing; extremity or outer edge"
+        },
+        {
+          "word": "cherub",
+          "strongNumber": "H3742",
+          "lemma": "keruv",
+          "meaning": "cherub; an angelic being"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And one wing of the other cherub was five cubits, reaching to the wall of the house: and the other wing was five cubits also, joining to the wing of the other cherub.",
+      "highlightedWords": [
+        {
+          "word": "wing",
+          "strongNumber": "H3671",
+          "lemma": "kanaph",
+          "meaning": "wing; extremity or outer edge"
+        },
+        {
+          "word": "cherub",
+          "strongNumber": "H3742",
+          "lemma": "keruv",
+          "meaning": "cherub; an angelic being"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "The wings of these cherubims spread themselves forth twenty cubits: and they stood on their feet, and their faces were toward the house.",
+      "highlightedWords": [
+        {
+          "word": "faces",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "face; presence"
+        },
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayit",
+          "meaning": "house; temple"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And he made the vail of blue, and purple, and crimson, and fine linen, and wrought cherubims thereon.",
+      "highlightedWords": [
+        {
+          "word": "vail",
+          "strongNumber": "H6532",
+          "lemma": "paroketh",
+          "meaning": "veil; curtain separating the Holy Place and Most Holy"
+        },
+        {
+          "word": "cherubims",
+          "strongNumber": "H3742",
+          "lemma": "keruvim",
+          "meaning": "cherubim; angelic beings embroidered on the veil"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Also he made before the house two pillars of thirty and five cubits long, and the chapiter that was on the top of each of them was five cubits.",
+      "highlightedWords": [
+        {
+          "word": "pillars",
+          "strongNumber": "H5982",
+          "lemma": "‘ammud",
+          "meaning": "pillar; column"
+        },
+        {
+          "word": "chapiter",
+          "strongNumber": "H3805",
+          "lemma": "kotereth",
+          "meaning": "capital; the top part of a pillar"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And he made chains, as in the oracle, and put them on the heads of the pillars; and made an hundred pomegranates, and put them on the chains.",
+      "highlightedWords": [
+        {
+          "word": "chains",
+          "strongNumber": "H8333",
+          "lemma": "sharsherah",
+          "meaning": "chain; chainwork ornamentation"
+        },
+        {
+          "word": "pomegranates",
+          "strongNumber": "H7416",
+          "lemma": "rimmôn",
+          "meaning": "pomegranate; decorative fruit motif"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And he reared up the pillars before the temple, one on the right hand, and the other on the left; and called the name of that on the right hand Jachin, and the name of that on the left Boaz.",
+      "highlightedWords": [
+        {
+          "word": "Jachin",
+          "strongNumber": "H3199",
+          "lemma": "Yakin",
+          "meaning": "He establishes; name of the right pillar"
+        },
+        {
+          "word": "Boaz",
+          "strongNumber": "H1162",
+          "lemma": "Bo‘az",
+          "meaning": "In him is strength; name of the left pillar"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,582 @@
+{
+  "book": "Nehemiah",
+  "chapter": 13,
+  "chapterTheme": {
+    "twoWordSummary": "Covenant Reforms",
+    "themeWords": [
+      {
+        "word": "sabbath",
+        "strongNumber": "H7676",
+        "lemma": "šabbāt",
+        "meaning": "the seventh day; day of rest and cessation"
+      },
+      {
+        "word": "covenant",
+        "strongNumber": "H1285",
+        "lemma": "berît",
+        "meaning": "a binding agreement; treaty; pact"
+      }
+    ]
+  },
+  "sentenceTheme": "Nehemiah confronts abuses, restores temple support, enforces Sabbath observance, corrects mixed marriages, and prays to be remembered for good.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "On that day they read in the book of Moses in the audience of the people; and therein was found written, that the Ammonite and the Moabite should not come into the congregation of God for ever;",
+      "highlightedWords": [
+        {
+          "word": "Ammonite",
+          "strongNumber": "H5983",
+          "lemma": "'Ammônî",
+          "meaning": "a native or descendant of Ammon"
+        },
+        {
+          "word": "Moabite",
+          "strongNumber": "H4125",
+          "lemma": "Mo'ăbî",
+          "meaning": "a native or descendant of Moab"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Because they met not the children of Israel with bread and with water, but hired Balaam against them, that he should curse them: howbeit our God turned the curse into a blessing.",
+      "highlightedWords": [
+        {
+          "word": "Balaam",
+          "strongNumber": "H1109",
+          "lemma": "Bilʿām",
+          "meaning": "a non-Israelite diviner/prophet hired to curse Israel"
+        },
+        {
+          "word": "blessing",
+          "strongNumber": "H1293",
+          "lemma": "berāḵāh",
+          "meaning": "a blessing; benefit; prosperity bestowed"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Now it came to pass, when they had heard the law, that they separated from Israel all the mixed multitude.",
+      "highlightedWords": [
+        {
+          "word": "law",
+          "strongNumber": "H8451",
+          "lemma": "tôrāh",
+          "meaning": "instruction; law; teaching"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yiśrā’ēl",
+          "meaning": "Israel; the nation descended from Jacob"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And before this, Eliashib the priest, having the oversight of the chamber of the house of our God, was allied unto Tobiah:",
+      "highlightedWords": [
+        {
+          "word": "Eliashib",
+          "strongNumber": "H475",
+          "lemma": "'Elyāšîb",
+          "meaning": "Eliashib; a high priest; name meaning ‘God restores’"
+        },
+        {
+          "word": "Tobiah",
+          "strongNumber": "H2900",
+          "lemma": "Ṭôḇiyyāh",
+          "meaning": "Tobiah; an Ammonite official; name meaning ‘Yahweh is good’"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And he had prepared for him a great chamber, where aforetime they laid the meat offerings, the frankincense, and the vessels, and the tithes of the corn, the new wine, and the oil, which was commanded to be given to the Levites, and the singers, and the porters; and the offerings of the priests.",
+      "highlightedWords": [
+        {
+          "word": "tithes",
+          "strongNumber": "H4643",
+          "lemma": "ma‘ăśēr",
+          "meaning": "a tenth part; tithe"
+        },
+        {
+          "word": "Levites",
+          "strongNumber": "H3881",
+          "lemma": "Lēwî",
+          "meaning": "members of the tribe of Levi serving temple duties"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "But in all this time was not I at Jerusalem: for in the two and thirtieth year of Artaxerxes king of Babylon came I unto the king, and after certain days obtained I leave of the king:",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yərûšālayim",
+          "meaning": "Jerusalem, the chief city of Israel/Judah"
+        },
+        {
+          "word": "Artaxerxes",
+          "strongNumber": "H783",
+          "lemma": "’Artaḥšaštā’",
+          "meaning": "Artaxerxes, a Persian king"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And I came to Jerusalem, and understood of the evil that Eliashib did for Tobiah, in preparing him a chamber in the courts of the house of God.",
+      "highlightedWords": [
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra‘",
+          "meaning": "evil; bad; harmful"
+        },
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayit",
+          "meaning": "house; temple; household"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And it grieved me sore: therefore I cast forth all the household stuff of Tobiah out of the chamber.",
+      "highlightedWords": [
+        {
+          "word": "Tobiah",
+          "strongNumber": "H2900",
+          "lemma": "Ṭôḇiyyāh",
+          "meaning": "Tobiah; an Ammonite official; name meaning ‘Yahweh is good’"
+        },
+        {
+          "word": "chamber",
+          "strongNumber": "H3957",
+          "lemma": "lišḵāh",
+          "meaning": "chamber; room; cell"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Then I commanded, and they cleansed the chambers: and thither brought I again the vessels of the house of God, with the meat offering and the frankincense.",
+      "highlightedWords": [
+        {
+          "word": "cleansed",
+          "strongNumber": "H2891",
+          "lemma": "ṭāhēr",
+          "meaning": "to cleanse; purify"
+        },
+        {
+          "word": "vessels",
+          "strongNumber": "H3627",
+          "lemma": "kəlî",
+          "meaning": "articles; utensils; vessels"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And I perceived that the portions of the Levites had not been given them: for the Levites and the singers, that did the work, were fled every one to his field.",
+      "highlightedWords": [
+        {
+          "word": "Levites",
+          "strongNumber": "H3881",
+          "lemma": "Lēwî",
+          "meaning": "members of the tribe of Levi serving temple duties"
+        },
+        {
+          "word": "field",
+          "strongNumber": "H7704",
+          "lemma": "śāḏeh",
+          "meaning": "field; open land"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Then contended I with the rulers, and said, Why is the house of God forsaken? And I gathered them together, and set them in their place.",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayit",
+          "meaning": "house; temple; household"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’ĕlōhîm",
+          "meaning": "God; mighty one"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Then brought all Judah the tithe of the corn and the new wine and the oil unto the treasuries.",
+      "highlightedWords": [
+        {
+          "word": "tithe",
+          "strongNumber": "H4643",
+          "lemma": "ma‘ăśēr",
+          "meaning": "a tenth part; tithe"
+        },
+        {
+          "word": "treasuries",
+          "strongNumber": "H214",
+          "lemma": "’ôṣār",
+          "meaning": "storehouse; treasury"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And I made treasurers over the treasuries, Shelemiah the priest, and Zadok the scribe, and of the Levites, Pedaiah: and next to them was Hanan the son of Zaccur, the son of Mattaniah: for they were counted faithful, and their office was to distribute unto their brethren.",
+      "highlightedWords": [
+        {
+          "word": "priest",
+          "strongNumber": "H3548",
+          "lemma": "kōhēn",
+          "meaning": "priest; officiant"
+        },
+        {
+          "word": "scribe",
+          "strongNumber": "H5608",
+          "lemma": "sōphēr",
+          "meaning": "scribe; secretary"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Remember me, O my God, concerning this, and wipe not out my good deeds that I have done for the house of my God, and for the offices thereof.",
+      "highlightedWords": [
+        {
+          "word": "Remember",
+          "strongNumber": "H2142",
+          "lemma": "zāḵar",
+          "meaning": "to remember; call to mind"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’ĕlōhîm",
+          "meaning": "God; mighty one"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "In those days saw I in Judah some treading wine presses on the sabbath, and bringing in sheaves, and lading asses; as also wine, grapes, and figs, and all manner of burdens, which they brought into Jerusalem on the sabbath day: and I testified against them in the day wherein they sold victuals.",
+      "highlightedWords": [
+        {
+          "word": "sabbath",
+          "strongNumber": "H7676",
+          "lemma": "šabbāt",
+          "meaning": "the seventh day; day of rest and cessation"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yərûšālayim",
+          "meaning": "Jerusalem, the chief city of Israel/Judah"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "There dwelt men of Tyre also therein, which brought fish, and all manner of ware, and sold on the sabbath unto the children of Judah, and in Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "Tyre",
+          "strongNumber": "H6865",
+          "lemma": "Ṣōr",
+          "meaning": "Tyre, a Phoenician coastal city"
+        },
+        {
+          "word": "sabbath",
+          "strongNumber": "H7676",
+          "lemma": "šabbāt",
+          "meaning": "the seventh day; day of rest and cessation"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Then I contended with the nobles of Judah, and said unto them, What evil thing is this that ye do, and profane the sabbath day?",
+      "highlightedWords": [
+        {
+          "word": "profane",
+          "strongNumber": "H2490",
+          "lemma": "ḥālal",
+          "meaning": "to profane; pollute; defile"
+        },
+        {
+          "word": "sabbath",
+          "strongNumber": "H7676",
+          "lemma": "šabbāt",
+          "meaning": "the seventh day; day of rest and cessation"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Did not your fathers thus, and did not our God bring all this evil upon us, and upon this city? yet ye bring more wrath upon Israel by profaning the sabbath.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’ĕlōhîm",
+          "meaning": "God; mighty one"
+        },
+        {
+          "word": "wrath",
+          "strongNumber": "H2534",
+          "lemma": "ḥēmāh",
+          "meaning": "wrath; heat; rage"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And it came to pass, that when the gates of Jerusalem began to be dark before the sabbath, I commanded that the gates should be shut, and charged that they should not be opened till after the sabbath: and some of my servants set I at the gates, that there should no burden be brought in on the sabbath day.",
+      "highlightedWords": [
+        {
+          "word": "gates",
+          "strongNumber": "H8179",
+          "lemma": "šaʿar",
+          "meaning": "gate; city gate; entrance"
+        },
+        {
+          "word": "sabbath",
+          "strongNumber": "H7676",
+          "lemma": "šabbāt",
+          "meaning": "the seventh day; day of rest and cessation"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "So the merchants and sellers of all kind of ware lodged without Jerusalem once or twice.",
+      "highlightedWords": [
+        {
+          "word": "merchants",
+          "strongNumber": "H7402",
+          "lemma": "rōkēl",
+          "meaning": "merchant; trader; peddler"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yərûšālayim",
+          "meaning": "Jerusalem, the chief city of Israel/Judah"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Then I testified against them, and said unto them, Why lodge ye about the wall? if ye do so again, I will lay hands on you. From that time forth came they no more on the sabbath.",
+      "highlightedWords": [
+        {
+          "word": "wall",
+          "strongNumber": "H2346",
+          "lemma": "ḥōmāh",
+          "meaning": "wall; fortification"
+        },
+        {
+          "word": "sabbath",
+          "strongNumber": "H7676",
+          "lemma": "šabbāt",
+          "meaning": "the seventh day; day of rest and cessation"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And I commanded the Levites that they should cleanse themselves, and that they should come and keep the gates, to sanctify the sabbath day. Remember me, O my God, concerning this also, and spare me according to the greatness of thy mercy.",
+      "highlightedWords": [
+        {
+          "word": "Levites",
+          "strongNumber": "H3881",
+          "lemma": "Lēwî",
+          "meaning": "members of the tribe of Levi serving temple duties"
+        },
+        {
+          "word": "mercy",
+          "strongNumber": "H2617",
+          "lemma": "ḥesed",
+          "meaning": "steadfast love; kindness; mercy"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "In those days also saw I Jews that had married wives of Ashdod, of Ammon, and of Moab:",
+      "highlightedWords": [
+        {
+          "word": "Jews",
+          "strongNumber": "H3064",
+          "lemma": "Yehûdî",
+          "meaning": "a Jew; Judahite"
+        },
+        {
+          "word": "Moab",
+          "strongNumber": "H4124",
+          "lemma": "Mō’āḇ",
+          "meaning": "Moab; a neighboring nation east of the Dead Sea"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And their children spake half in the speech of Ashdod, and could not speak in the Jews' language, but according to the language of each people.",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "bēn",
+          "meaning": "son; child; descendant"
+        },
+        {
+          "word": "Ashdod",
+          "strongNumber": "H795",
+          "lemma": "’Ašdôḏ",
+          "meaning": "Ashdod, a Philistine city"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And I contended with them, and cursed them, and smote certain of them, and plucked off their hair, and made them swear by God, saying, Ye shall not give your daughters unto their sons, nor take their daughters unto your sons, or for yourselves.",
+      "highlightedWords": [
+        {
+          "word": "daughters",
+          "strongNumber": "H1323",
+          "lemma": "bat",
+          "meaning": "daughter; young woman"
+        },
+        {
+          "word": "swear",
+          "strongNumber": "H7650",
+          "lemma": "šāba‘",
+          "meaning": "to swear; take an oath"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "Did not Solomon king of Israel sin by these things? yet among many nations was there no king like him, who was beloved of his God, and God made him king over all Israel: nevertheless even him did outlandish women cause to sin.",
+      "highlightedWords": [
+        {
+          "word": "Solomon",
+          "strongNumber": "H8010",
+          "lemma": "Šəlōmōh",
+          "meaning": "Solomon, son of David and king of Israel"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yiśrā’ēl",
+          "meaning": "Israel; the nation descended from Jacob"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "Shall we then hearken unto you to do all this great evil, to transgress against our God in marrying strange wives?",
+      "highlightedWords": [
+        {
+          "word": "transgress",
+          "strongNumber": "H4603",
+          "lemma": "mā‘al",
+          "meaning": "to act unfaithfully; trespass"
+        },
+        {
+          "word": "wives",
+          "strongNumber": "H802",
+          "lemma": "’iššāh",
+          "meaning": "woman; wife"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And one of the sons of Joiada, the son of Eliashib the high priest, was son in law to Sanballat the Horonite: therefore I chased him from me.",
+      "highlightedWords": [
+        {
+          "word": "priest",
+          "strongNumber": "H3548",
+          "lemma": "kōhēn",
+          "meaning": "priest; officiant"
+        },
+        {
+          "word": "Sanballat",
+          "strongNumber": "H5571",
+          "lemma": "Sanballaṭ",
+          "meaning": "Sanballat, a Horonite official opposed to Nehemiah"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "Remember them, O my God, because they have defiled the priesthood, and the covenant of the priesthood, and of the Levites.",
+      "highlightedWords": [
+        {
+          "word": "priesthood",
+          "strongNumber": "H3550",
+          "lemma": "kəhunnāh",
+          "meaning": "the office or order of priests"
+        },
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berît",
+          "meaning": "a binding agreement; treaty; pact"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "Thus cleansed I them from all strangers, and appointed the wards of the priests and the Levites, every one in his business;",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "H3548",
+          "lemma": "kōhēn",
+          "meaning": "priests; officiants"
+        },
+        {
+          "word": "Levites",
+          "strongNumber": "H3881",
+          "lemma": "Lēwî",
+          "meaning": "members of the tribe of Levi serving temple duties"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "And for the wood offering, at times appointed, and for the firstfruits. Remember me, O my God, for good.",
+      "highlightedWords": [
+        {
+          "word": "wood",
+          "strongNumber": "H6086",
+          "lemma": "‘ēṣ",
+          "meaning": "tree; wood; timber"
+        },
+        {
+          "word": "firstfruits",
+          "strongNumber": "H7225",
+          "lemma": "rē’šît",
+          "meaning": "first; beginning; firstfruits"
+        }
+      ]
+    }
+  ]
+}

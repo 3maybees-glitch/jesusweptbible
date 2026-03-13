@@ -1,0 +1,150 @@
+{
+  "book": "Psalms",
+  "chapter": 54,
+  "chapterTheme": {
+    "twoWordSummary": "Deliverance Prayer",
+    "themeWords": [
+      {
+        "word": "save",
+        "strongNumber": "H3467",
+        "lemma": "yasha",
+        "meaning": "to save, deliver"
+      },
+      {
+        "word": "helper",
+        "strongNumber": "H5828",
+        "lemma": "ezer",
+        "meaning": "help, support"
+      }
+    ]
+  },
+  "sentenceTheme": "David prays for deliverance from hostile men, trusting God to uphold him and vindicate him.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Save me, O God, by thy name, and judge me by thy strength.",
+      "highlightedWords": [
+        {
+          "word": "Save",
+          "strongNumber": "H3467",
+          "lemma": "yasha",
+          "meaning": "to save, deliver"
+        },
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "name, reputation"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Hear my prayer, O God; give ear to the words of my mouth.",
+      "highlightedWords": [
+        {
+          "word": "Hear",
+          "strongNumber": "H8085",
+          "lemma": "shama",
+          "meaning": "to hear, listen"
+        },
+        {
+          "word": "prayer",
+          "strongNumber": "H8605",
+          "lemma": "tephillah",
+          "meaning": "prayer, supplication"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "For strangers are risen up against me, and oppressors seek after my soul: they have not set God before them. Selah.",
+      "highlightedWords": [
+        {
+          "word": "seek",
+          "strongNumber": "H1245",
+          "lemma": "baqash",
+          "meaning": "to seek, search for"
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, self"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Behold, God is mine helper: the Lord is with them that uphold my soul.",
+      "highlightedWords": [
+        {
+          "word": "Behold",
+          "strongNumber": "H2009",
+          "lemma": "hinneh",
+          "meaning": "behold, look"
+        },
+        {
+          "word": "helper",
+          "strongNumber": "H5828",
+          "lemma": "ezer",
+          "meaning": "help, support"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "He shall reward evil unto mine enemies: cut them off in thy truth.",
+      "highlightedWords": [
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra'",
+          "meaning": "evil, calamity"
+        },
+        {
+          "word": "truth",
+          "strongNumber": "H571",
+          "lemma": "emeth",
+          "meaning": "truth, faithfulness"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "I will freely sacrifice unto thee: I will praise thy name, O LORD; for it is good.",
+      "highlightedWords": [
+        {
+          "word": "praise",
+          "strongNumber": "H3034",
+          "lemma": "yadah",
+          "meaning": "to praise, give thanks"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of God (LORD)"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "For he hath delivered me out of all trouble: and mine eye hath seen his desire upon mine enemies.",
+      "highlightedWords": [
+        {
+          "word": "delivered",
+          "strongNumber": "H5337",
+          "lemma": "natsal",
+          "meaning": "to deliver, rescue"
+        },
+        {
+          "word": "trouble",
+          "strongNumber": "H6869",
+          "lemma": "tsarah",
+          "meaning": "distress, trouble"
+        }
+      ]
+    }
+  ]
+}

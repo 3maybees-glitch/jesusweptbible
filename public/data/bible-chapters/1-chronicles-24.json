@@ -1,0 +1,582 @@
+{
+  "book": "1 Chronicles",
+  "chapter": 24,
+  "chapterTheme": {
+    "twoWordSummary": "Priestly Courses",
+    "themeWords": [
+      {
+        "word": "priests",
+        "strongNumber": "H3548",
+        "lemma": "kohen",
+        "meaning": "priest, one who officiates in sacred rites"
+      },
+      {
+        "word": "lot",
+        "strongNumber": "H1486",
+        "lemma": "goral",
+        "meaning": "lot, allotment by casting lots"
+      }
+    ]
+  },
+  "sentenceTheme": "David organizes the sons of Aaron and the Levites into twenty-four courses by lot for temple service.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Now these are the divisions of the sons of Aaron. The sons of Aaron; Nadab, and Abihu, Eleazar, and Ithamar.",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; descendant; member of a group"
+        },
+        {
+          "word": "Aaron",
+          "strongNumber": "H175",
+          "lemma": "Aharon",
+          "meaning": "Aaron, brother of Moses and first high priest"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "But Nadab and Abihu died before their father, and had no children: therefore Eleazar and Ithamar executed the priest's office.",
+      "highlightedWords": [
+        {
+          "word": "died",
+          "strongNumber": "H4191",
+          "lemma": "muth",
+          "meaning": "to die"
+        },
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "sons; children; descendants"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And David distributed them, both Zadok of the sons of Eleazar, and Ahimelech of the sons of Ithamar, according to their offices in their service.",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "David",
+          "meaning": "David, beloved; second king of Israel"
+        },
+        {
+          "word": "Zadok",
+          "strongNumber": "H6659",
+          "lemma": "Tsadoq",
+          "meaning": "Zadok, righteous; a priest in David’s time"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And there were more chief men found of the sons of Eleazar than of the sons of Ithamar; and thus were they divided. Among the sons of Eleazar there were sixteen chief men of the house of their fathers, and eight among the sons of Ithamar according to the house of their fathers.",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "sons; descendants; members"
+        },
+        {
+          "word": "fathers",
+          "strongNumber": "H1",
+          "lemma": "’ab",
+          "meaning": "father; ancestor; patriarch"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Thus were they divided by lot one sort with another; for the governors of the sanctuary, and governors of the house of God, were of the sons of Eleazar, and of the sons of Ithamar.",
+      "highlightedWords": [
+        {
+          "word": "lot",
+          "strongNumber": "H1486",
+          "lemma": "goral",
+          "meaning": "lot; allotment; portion decided by casting lots"
+        },
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house; temple; household"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And Shemaiah the son of Nethaneel the scribe, one of the Levites, wrote them before the king, and the princes, and Zadok the priest, and Ahimelech the son of Abiathar, and before the chief of the fathers of the priests and Levites: one principal household being taken for Eleazar, and one taken for Ithamar.",
+      "highlightedWords": [
+        {
+          "word": "scribe",
+          "strongNumber": "H5608",
+          "lemma": "sopher",
+          "meaning": "scribe; secretary; recorder"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king; ruler"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Now the first lot came forth to Jehoiarib, the second to Jedaiah,",
+      "highlightedWords": [
+        {
+          "word": "first",
+          "strongNumber": "H7223",
+          "lemma": "ri'shon",
+          "meaning": "first; former; chief"
+        },
+        {
+          "word": "lot",
+          "strongNumber": "H1486",
+          "lemma": "goral",
+          "meaning": "lot; allotment; portion decided by casting lots"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "The third to Harim, the fourth to Seorim,",
+      "highlightedWords": [
+        {
+          "word": "third",
+          "strongNumber": "H7992",
+          "lemma": "shelishi",
+          "meaning": "third"
+        },
+        {
+          "word": "fourth",
+          "strongNumber": "H7243",
+          "lemma": "revi'i",
+          "meaning": "fourth"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "The fifth to Malchijah, the sixth to Mijamin,",
+      "highlightedWords": [
+        {
+          "word": "fifth",
+          "strongNumber": "H2549",
+          "lemma": "chamishi",
+          "meaning": "fifth"
+        },
+        {
+          "word": "sixth",
+          "strongNumber": "H8345",
+          "lemma": "shishi",
+          "meaning": "sixth"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "The seventh to Hakkoz, the eighth to Abijah,",
+      "highlightedWords": [
+        {
+          "word": "seventh",
+          "strongNumber": "H7637",
+          "lemma": "shebi'i",
+          "meaning": "seventh"
+        },
+        {
+          "word": "eighth",
+          "strongNumber": "H8066",
+          "lemma": "shemini",
+          "meaning": "eighth"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "The ninth to Jeshua, the tenth to Shecaniah,",
+      "highlightedWords": [
+        {
+          "word": "ninth",
+          "strongNumber": "H8671",
+          "lemma": "teshi'i",
+          "meaning": "ninth"
+        },
+        {
+          "word": "tenth",
+          "strongNumber": "H6224",
+          "lemma": "asiri",
+          "meaning": "tenth"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "The eleventh to Eliashib, the twelfth to Jakim,",
+      "highlightedWords": [
+        {
+          "word": "Eliashib",
+          "strongNumber": "H475",
+          "lemma": "Elyashib",
+          "meaning": "Eliashib, God restores"
+        },
+        {
+          "word": "Jakim",
+          "strongNumber": "H3352",
+          "lemma": "Yaqim",
+          "meaning": "Jakim, he will establish"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "The thirteenth to Huppah, the fourteenth to Jeshebeab,",
+      "highlightedWords": [
+        {
+          "word": "Huppah",
+          "strongNumber": "H2646",
+          "lemma": "Chuppah",
+          "meaning": "Huppah, canopy; a priestly course leader"
+        },
+        {
+          "word": "Jeshebeab",
+          "strongNumber": "H3439",
+          "lemma": "Yeshebe'ab",
+          "meaning": "Jeshebeab, the dwelling of the father"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "The fifteenth to Bilgah, the sixteenth to Immer,",
+      "highlightedWords": [
+        {
+          "word": "Bilgah",
+          "strongNumber": "H1083",
+          "lemma": "Bilgah",
+          "meaning": "Bilgah, a priestly head"
+        },
+        {
+          "word": "Immer",
+          "strongNumber": "H564",
+          "lemma": "Immer",
+          "meaning": "Immer, a priestly family"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "The seventeenth to Hezir, the eighteenth to Happizzez,",
+      "highlightedWords": [
+        {
+          "word": "Hezir",
+          "strongNumber": "H2387",
+          "lemma": "Chezir",
+          "meaning": "Hezir, a priestly chief; boar"
+        },
+        {
+          "word": "Happizzez",
+          "strongNumber": "H2659",
+          "lemma": "Happitseṣ",
+          "meaning": "Happizzez, perhaps my delight is with him"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "The nineteenth to Pethahiah, the twentieth to Jehezekel,",
+      "highlightedWords": [
+        {
+          "word": "Pethahiah",
+          "strongNumber": "H6611",
+          "lemma": "Pethachyah",
+          "meaning": "Pethahiah, Yah opens"
+        },
+        {
+          "word": "Jehezekel",
+          "strongNumber": "H3169",
+          "lemma": "Yehezeqel",
+          "meaning": "Jehezekel, God strengthens"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "The one and twentieth to Jachin, the two and twentieth to Gamul,",
+      "highlightedWords": [
+        {
+          "word": "Jachin",
+          "strongNumber": "H3199",
+          "lemma": "Yakin",
+          "meaning": "Jachin, he will establish"
+        },
+        {
+          "word": "Gamul",
+          "strongNumber": "H1577",
+          "lemma": "Gamul",
+          "meaning": "Gamul, recompense; a priestly head"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "The three and twentieth to Delaiah, the four and twentieth to Maaziah.",
+      "highlightedWords": [
+        {
+          "word": "Delaiah",
+          "strongNumber": "H1806",
+          "lemma": "Delayah",
+          "meaning": "Delaiah, Yah has drawn"
+        },
+        {
+          "word": "Maaziah",
+          "strongNumber": "H4590",
+          "lemma": "Ma‘azyah",
+          "meaning": "Maaziah, consolation of Yah"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "These were the orderings of them in their service to come into the house of the LORD, according to their manner, under Aaron their father, as the LORD God of Israel had commanded him.",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house; temple; household"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the divine name, Yahweh"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And the rest of the sons of Levi were these: Of the sons of Amram; Shubael: of the sons of Shubael; Jehdeiah.",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "sons; descendants; members"
+        },
+        {
+          "word": "Levi",
+          "strongNumber": "H3878",
+          "lemma": "Lewi",
+          "meaning": "Levi, third son of Jacob; ancestor of the Levites"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Concerning Rehabiah: of the sons of Rehabiah, the first was Isshiah.",
+      "highlightedWords": [
+        {
+          "word": "first",
+          "strongNumber": "H7223",
+          "lemma": "ri'shon",
+          "meaning": "first; former; chief"
+        },
+        {
+          "word": "Isshiah",
+          "strongNumber": "H3449",
+          "lemma": "Yishshiyah",
+          "meaning": "Isshiah, Yah lends/help"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Of the Izharites; Shelomith: of the sons of Shelomith; Jahath.",
+      "highlightedWords": [
+        {
+          "word": "Izharites",
+          "strongNumber": "H3325",
+          "lemma": "Yitshar",
+          "meaning": "descendants of Izhar, a Kohathite family"
+        },
+        {
+          "word": "Jahath",
+          "strongNumber": "H3189",
+          "lemma": "Yachath",
+          "meaning": "Jahath, unity; a Levite"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And the sons of Hebron; Jeriah the first, Amariah the second, Jahaziel the third, Jekameam the fourth.",
+      "highlightedWords": [
+        {
+          "word": "first",
+          "strongNumber": "H7223",
+          "lemma": "ri'shon",
+          "meaning": "first; former; chief"
+        },
+        {
+          "word": "fourth",
+          "strongNumber": "H7243",
+          "lemma": "revi'i",
+          "meaning": "fourth"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Of the sons of Uzziel; Michah: of the sons of Michah; Shamir.",
+      "highlightedWords": [
+        {
+          "word": "Uzziel",
+          "strongNumber": "H5816",
+          "lemma": "‘Uzziel",
+          "meaning": "Uzziel, God is my strength"
+        },
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "sons; descendants; members"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "The brother of Michah was Isshiah: of the sons of Isshiah; Zechariah.",
+      "highlightedWords": [
+        {
+          "word": "brother",
+          "strongNumber": "H251",
+          "lemma": "’ach",
+          "meaning": "brother; kinsman"
+        },
+        {
+          "word": "Zechariah",
+          "strongNumber": "H2148",
+          "lemma": "Zekaryah",
+          "meaning": "Zechariah, Yah remembers"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "The sons of Merari were Mahli and Mushi: the sons of Jaaziah; Beno.",
+      "highlightedWords": [
+        {
+          "word": "Merari",
+          "strongNumber": "H4847",
+          "lemma": "Merari",
+          "meaning": "Merari, bitter; a son of Levi"
+        },
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "sons; descendants; members"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "The sons of Merari by Jaaziah; Beno, and Shoham, and Zaccur, and Ibri.",
+      "highlightedWords": [
+        {
+          "word": "Merari",
+          "strongNumber": "H4847",
+          "lemma": "Merari",
+          "meaning": "Merari, bitter; a son of Levi"
+        },
+        {
+          "word": "Zaccur",
+          "strongNumber": "H2139",
+          "lemma": "Zakkur",
+          "meaning": "Zaccur, remembered"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "Of Mahli came Eleazar, who had no sons.",
+      "highlightedWords": [
+        {
+          "word": "Eleazar",
+          "strongNumber": "H499",
+          "lemma": "El‘azar",
+          "meaning": "Eleazar, God has helped"
+        },
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "sons; descendants; members"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "Concerning Kish: the son of Kish was Jerahmeel.",
+      "highlightedWords": [
+        {
+          "word": "Kish",
+          "strongNumber": "H7027",
+          "lemma": "Qish",
+          "meaning": "Kish, a Benjamite name"
+        },
+        {
+          "word": "Jerahmeel",
+          "strongNumber": "H3396",
+          "lemma": "Yerachme'el",
+          "meaning": "Jerahmeel, God has compassion"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "The sons also of Mushi; Mahli, and Eder, and Jerimoth.",
+      "highlightedWords": [
+        {
+          "word": "Mushi",
+          "strongNumber": "H4187",
+          "lemma": "Mushi",
+          "meaning": "Mushi, a Merarite family head"
+        },
+        {
+          "word": "Jerimoth",
+          "strongNumber": "H3406",
+          "lemma": "Yerimoth",
+          "meaning": "Jerimoth, heights; exaltations"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "These were the sons of the Levites after the house of their fathers; these likewise cast lots over against their brethren the sons of Aaron in the presence of David the king, and Zadok, and Ahimelech, and the chief of the fathers of the priests and Levites, even the principal fathers over against their younger brethren.",
+      "highlightedWords": [
+        {
+          "word": "lots",
+          "strongNumber": "H1486",
+          "lemma": "goral",
+          "meaning": "lot; allotment; portion decided by casting lots"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king; ruler"
+        }
+      ]
+    }
+  ]
+}

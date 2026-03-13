@@ -1,0 +1,870 @@
+{
+  "book": "Nehemiah",
+  "chapter": 12,
+  "chapterTheme": {
+    "twoWordSummary": "Wall Dedication",
+    "themeWords": [
+      {
+        "word": "dedication",
+        "strongNumber": "H2598",
+        "lemma": "chanukkah",
+        "meaning": "consecration, dedication"
+      },
+      {
+        "word": "thanksgiving",
+        "strongNumber": "H8426",
+        "lemma": "todah",
+        "meaning": "thanksgiving, praise, confession"
+      }
+    ]
+  },
+  "sentenceTheme": "Priests and Levites are listed, and Nehemiah leads a joyful dedication of Jerusalem’s wall with great thanksgiving, worship, and provision for temple service.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Now these are the priests and the Levites that went up with Zerubbabel the son of Shealtiel, and Jeshua: Seraiah, Jeremiah, Ezra,",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest, minister"
+        },
+        {
+          "word": "Levites",
+          "strongNumber": "H3881",
+          "lemma": "Lewiyyiy",
+          "meaning": "Levite, member of the tribe of Levi"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Amariah, Malluch, Hattush,",
+      "highlightedWords": [
+        {
+          "word": "Amariah",
+          "strongNumber": "H568",
+          "lemma": "Amaryah",
+          "meaning": "Yah has promised/said"
+        },
+        {
+          "word": "Hattush",
+          "strongNumber": "H2407",
+          "lemma": "Chattuwsh",
+          "meaning": "assembled, a posthumous"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Shechaniah, Rehum, Meremoth,",
+      "highlightedWords": [
+        {
+          "word": "Shechaniah",
+          "strongNumber": "H7935",
+          "lemma": "Shekanyah",
+          "meaning": "Yah has dwelt"
+        },
+        {
+          "word": "Meremoth",
+          "strongNumber": "H4821",
+          "lemma": "Meremoth",
+          "meaning": "heights, elevations"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Iddo, Ginnetho, Abijah,",
+      "highlightedWords": [
+        {
+          "word": "Iddo",
+          "strongNumber": "H3035",
+          "lemma": "Iddo",
+          "meaning": "timely, at the right time"
+        },
+        {
+          "word": "Abijah",
+          "strongNumber": "H29",
+          "lemma": "Abiyah",
+          "meaning": "Yah is my father"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Miamin, Maadiah, Bilgah,",
+      "highlightedWords": [
+        {
+          "word": "Miamin",
+          "strongNumber": "H4326",
+          "lemma": "Miyamin",
+          "meaning": "from the right hand"
+        },
+        {
+          "word": "Bilgah",
+          "strongNumber": "H1083",
+          "lemma": "Bilgah",
+          "meaning": "cheerfulness, cheerfully"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Shemaiah, and Joiarib, Jedaiah,",
+      "highlightedWords": [
+        {
+          "word": "Shemaiah",
+          "strongNumber": "H8098",
+          "lemma": "Shema‘yah",
+          "meaning": "Yah has heard"
+        },
+        {
+          "word": "Jedaiah",
+          "strongNumber": "H3048",
+          "lemma": "Yedayah",
+          "meaning": "Yah has known"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Sallu, Amok, Hilkiah, Jedaiah. These were the chief of the priests and of their brethren in the days of Jeshua.",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest, minister"
+        },
+        {
+          "word": "Jeshua",
+          "strongNumber": "H3442",
+          "lemma": "Yeshua",
+          "meaning": "Yah is salvation"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Moreover the Levites: Jeshua, Binnui, Kadmiel, Sherebiah, Judah, and Mattaniah, which was over the thanksgiving, he and his brethren.",
+      "highlightedWords": [
+        {
+          "word": "Levites",
+          "strongNumber": "H3881",
+          "lemma": "Lewiyyiy",
+          "meaning": "Levite, member of the tribe of Levi"
+        },
+        {
+          "word": "thanksgiving",
+          "strongNumber": "H8426",
+          "lemma": "todah",
+          "meaning": "thanksgiving, praise, confession"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Also Bakbukiah and Unni, their brethren, were over against them in the watches.",
+      "highlightedWords": [
+        {
+          "word": "brethren",
+          "strongNumber": "H251",
+          "lemma": "’ach",
+          "meaning": "brother, kinsman"
+        },
+        {
+          "word": "watches",
+          "strongNumber": "H4931",
+          "lemma": "mishmereth",
+          "meaning": "charge, watch, duty"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And Jeshua begat Joiakim, Joiakim also begat Eliashib, and Eliashib begat Joiada,",
+      "highlightedWords": [
+        {
+          "word": "Jeshua",
+          "strongNumber": "H3442",
+          "lemma": "Yeshua",
+          "meaning": "Yah is salvation"
+        },
+        {
+          "word": "Joiakim",
+          "strongNumber": "H3113",
+          "lemma": "Yoyaqim",
+          "meaning": "Yah establishes"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And Joiada begat Jonathan, and Jonathan begat Jaddua.",
+      "highlightedWords": [
+        {
+          "word": "Jonathan",
+          "strongNumber": "H3083",
+          "lemma": "Yehonathan",
+          "meaning": "Yah has given"
+        },
+        {
+          "word": "Jaddua",
+          "strongNumber": "H3037",
+          "lemma": "Yaddua‘",
+          "meaning": "known"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And in the days of Joiakim were priests, the chief of the fathers: of Seraiah, Meraiah; of Jeremiah, Hananiah;",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest, minister"
+        },
+        {
+          "word": "fathers",
+          "strongNumber": "H1",
+          "lemma": "’ab",
+          "meaning": "father, ancestor"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Of Ezra, Meshullam; of Amariah, Jehohanan;",
+      "highlightedWords": [
+        {
+          "word": "Ezra",
+          "strongNumber": "H5830",
+          "lemma": "Ezra",
+          "meaning": "help"
+        },
+        {
+          "word": "Amariah",
+          "strongNumber": "H568",
+          "lemma": "Amaryah",
+          "meaning": "Yah has promised/said"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Of Melicu, Jonathan; of Shebaniah, Joseph;",
+      "highlightedWords": [
+        {
+          "word": "Jonathan",
+          "strongNumber": "H3083",
+          "lemma": "Yehonathan",
+          "meaning": "Yah has given"
+        },
+        {
+          "word": "Joseph",
+          "strongNumber": "H3130",
+          "lemma": "Yoseph",
+          "meaning": "He adds"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Of Harim, Adna; of Meraioth, Helkai;",
+      "highlightedWords": [
+        {
+          "word": "Harim",
+          "strongNumber": "H2766",
+          "lemma": "Charim",
+          "meaning": "dedicated, consecrated"
+        },
+        {
+          "word": "Adna",
+          "strongNumber": "H5733",
+          "lemma": "’Adna",
+          "meaning": "delight, pleasure"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Of Iddo, Zechariah; of Ginnethon, Meshullam;",
+      "highlightedWords": [
+        {
+          "word": "Zechariah",
+          "strongNumber": "H2148",
+          "lemma": "Zekharyah",
+          "meaning": "Yah remembers"
+        },
+        {
+          "word": "Meshullam",
+          "strongNumber": "H4918",
+          "lemma": "Meshullam",
+          "meaning": "friend, allied"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Of Abijah, Zichri; of Miniamin, of Moadiah, Piltai;",
+      "highlightedWords": [
+        {
+          "word": "Abijah",
+          "strongNumber": "H29",
+          "lemma": "Abiyah",
+          "meaning": "Yah is my father"
+        },
+        {
+          "word": "Moadiah",
+          "strongNumber": "H4153",
+          "lemma": "Mo‘adyah",
+          "meaning": "Yah is my appointed one"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Of Bilgah, Shammua; of Shemaiah, Jehonathan;",
+      "highlightedWords": [
+        {
+          "word": "Bilgah",
+          "strongNumber": "H1083",
+          "lemma": "Bilgah",
+          "meaning": "cheerfulness, cheerfully"
+        },
+        {
+          "word": "Shemaiah",
+          "strongNumber": "H8098",
+          "lemma": "Shema‘yah",
+          "meaning": "Yah has heard"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And of Joiarib, Mattenai; of Jedaiah, Uzzi;",
+      "highlightedWords": [
+        {
+          "word": "Joiarib",
+          "strongNumber": "H3080",
+          "lemma": "Yeho yarib",
+          "meaning": "Yah contends"
+        },
+        {
+          "word": "Uzzi",
+          "strongNumber": "H5813",
+          "lemma": "Uzzi",
+          "meaning": "my strength"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Of Sallai, Kallai; of Amok, Eber;",
+      "highlightedWords": [
+        {
+          "word": "Amok",
+          "strongNumber": "H5987",
+          "lemma": "Amok",
+          "meaning": "deep"
+        },
+        {
+          "word": "Eber",
+          "strongNumber": "H5677",
+          "lemma": "‘Eber",
+          "meaning": "region beyond, across"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Of Hilkiah, Hashabiah; of Jedaiah, Nethaneel.",
+      "highlightedWords": [
+        {
+          "word": "Hilkiah",
+          "strongNumber": "H2518",
+          "lemma": "Chilqiyah",
+          "meaning": "Yah is my portion"
+        },
+        {
+          "word": "Nethaneel",
+          "strongNumber": "H5417",
+          "lemma": "Nethane’el",
+          "meaning": "God has given"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "The Levites in the days of Eliashib, Joiada, and Johanan, and Jaddua, were recorded chief of the fathers: also the priests, to the reign of Darius the Persian.",
+      "highlightedWords": [
+        {
+          "word": "Levites",
+          "strongNumber": "H3881",
+          "lemma": "Lewiyyiy",
+          "meaning": "Levite, member of the tribe of Levi"
+        },
+        {
+          "word": "Darius",
+          "strongNumber": "H1867",
+          "lemma": "Daryavesh",
+          "meaning": "Darius, a Persian king"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "The sons of Levi, the chief of the fathers, were written in the book of the chronicles, even until the days of Johanan the son of Eliashib.",
+      "highlightedWords": [
+        {
+          "word": "book",
+          "strongNumber": "H5612",
+          "lemma": "sepher",
+          "meaning": "book, document, scroll"
+        },
+        {
+          "word": "Johanan",
+          "strongNumber": "H3110",
+          "lemma": "Yohanan",
+          "meaning": "Yah is gracious"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And the chief of the Levites: Hashabiah, Sherebiah, and Jeshua the son of Kadmiel, with their brethren over against them, to praise and to give thanks, according to the commandment of David the man of God, ward over against ward.",
+      "highlightedWords": [
+        {
+          "word": "Levites",
+          "strongNumber": "H3881",
+          "lemma": "Lewiyyiy",
+          "meaning": "Levite, member of the tribe of Levi"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "David",
+          "meaning": "beloved; second king of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Mattaniah, and Bakbukiah, Obadiah, Meshullam, Talmon, Akkub, were porters keeping the ward at the thresholds of the gates.",
+      "highlightedWords": [
+        {
+          "word": "porters",
+          "strongNumber": "H7778",
+          "lemma": "sho‘er",
+          "meaning": "gatekeeper, porter"
+        },
+        {
+          "word": "gates",
+          "strongNumber": "H8179",
+          "lemma": "sha‘ar",
+          "meaning": "gate, opening"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "These were in the days of Joiakim the son of Jeshua, the son of Jozadak, and in the days of Nehemiah the governor, and of Ezra the priest, the scribe.",
+      "highlightedWords": [
+        {
+          "word": "Nehemiah",
+          "strongNumber": "H5166",
+          "lemma": "Nechemyah",
+          "meaning": "Yah comforts"
+        },
+        {
+          "word": "Ezra",
+          "strongNumber": "H5830",
+          "lemma": "Ezra",
+          "meaning": "help"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And at the dedication of the wall of Jerusalem they sought the Levites out of all their places, to bring them to Jerusalem, to keep the dedication with gladness, both with thanksgivings, and with singing, with cymbals, psalteries, and with harps.",
+      "highlightedWords": [
+        {
+          "word": "wall",
+          "strongNumber": "H2346",
+          "lemma": "chomah",
+          "meaning": "wall, rampart"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem, city of peace"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And the sons of the singers gathered themselves together, both out of the plain country round about Jerusalem, and from the villages of Netophathi;",
+      "highlightedWords": [
+        {
+          "word": "singers",
+          "strongNumber": "H7891",
+          "lemma": "shiyr (part.)",
+          "meaning": "singers, those who sing"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem, city of peace"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "Also from the house of Gilgal, and out of the fields of Geba and Azmaveth: for the singers had builded them villages round about Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "singers",
+          "strongNumber": "H7891",
+          "lemma": "shiyr (part.)",
+          "meaning": "singers, those who sing"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem, city of peace"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "And the priests and the Levites purified themselves, and purified the people, and the gates, and the wall.",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest, minister"
+        },
+        {
+          "word": "purified",
+          "strongNumber": "H2891",
+          "lemma": "taher",
+          "meaning": "to be clean, to purify"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "Then I brought up the princes of Judah upon the wall, and appointed two great companies of them that gave thanks, whereof one went on the right hand upon the wall toward the dung gate:",
+      "highlightedWords": [
+        {
+          "word": "princes",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "prince, ruler, chief"
+        },
+        {
+          "word": "wall",
+          "strongNumber": "H2346",
+          "lemma": "chomah",
+          "meaning": "wall, rampart"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "And after them went Hoshaiah, and half of the princes of Judah,",
+      "highlightedWords": [
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah, praised"
+        },
+        {
+          "word": "princes",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "prince, ruler, chief"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "And Azariah, Ezra, and Meshullam,",
+      "highlightedWords": [
+        {
+          "word": "Ezra",
+          "strongNumber": "H5830",
+          "lemma": "Ezra",
+          "meaning": "help"
+        },
+        {
+          "word": "Meshullam",
+          "strongNumber": "H4918",
+          "lemma": "Meshullam",
+          "meaning": "friend, allied"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "Judah, and Benjamin, and Shemaiah, and Jeremiah,",
+      "highlightedWords": [
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah, praised"
+        },
+        {
+          "word": "Benjamin",
+          "strongNumber": "H1144",
+          "lemma": "Binyamin",
+          "meaning": "son of the right hand"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "And certain of the priests' sons with trumpets; namely, Zechariah the son of Jonathan, the son of Shemaiah, the son of Mattaniah, the son of Micaiah, the son of Zaccur, the son of Asaph:",
+      "highlightedWords": [
+        {
+          "word": "trumpets",
+          "strongNumber": "H2689",
+          "lemma": "chatsotserah",
+          "meaning": "trumpet"
+        },
+        {
+          "word": "Asaph",
+          "strongNumber": "H623",
+          "lemma": "Asaph",
+          "meaning": "collector, Asaph"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "And his brethren, Shemaiah, and Azarael, Milalai, Gilalai, Maai, Nethaneel, and Judah, Hanani, with the musical instruments of David the man of God, and Ezra the scribe before them.",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "David",
+          "meaning": "beloved; second king of Israel"
+        },
+        {
+          "word": "scribe",
+          "strongNumber": "H5608",
+          "lemma": "sopher",
+          "meaning": "scribe, secretary"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "And at the fountain gate, which was over against them, they went up by the stairs of the city of David, at the going up of the wall, above the house of David, even unto the water gate eastward.",
+      "highlightedWords": [
+        {
+          "word": "gate",
+          "strongNumber": "H8179",
+          "lemma": "sha‘ar",
+          "meaning": "gate, opening"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "David",
+          "meaning": "beloved; second king of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "And the other company of them that gave thanks went over against them, and I after them, and the half of the people upon the wall, from beyond the tower of the furnaces even unto the broad wall;",
+      "highlightedWords": [
+        {
+          "word": "thank[s]",
+          "strongNumber": "H8426",
+          "lemma": "todah",
+          "meaning": "thanksgiving, praise"
+        },
+        {
+          "word": "wall",
+          "strongNumber": "H2346",
+          "lemma": "chomah",
+          "meaning": "wall, rampart"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "text": "And from above the gate of Ephraim, and above the old gate, and above the fish gate, and the tower of Hananeel, and the tower of Meah, even unto the sheep gate: and they stood still in the prison gate.",
+      "highlightedWords": [
+        {
+          "word": "gate",
+          "strongNumber": "H8179",
+          "lemma": "sha‘ar",
+          "meaning": "gate, opening"
+        },
+        {
+          "word": "sheep",
+          "strongNumber": "H6629",
+          "lemma": "tso’n",
+          "meaning": "small cattle, sheep, flock"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "text": "So stood the two companies of them that gave thanks in the house of God, and I, and the half of the rulers with me:",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, temple, household"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’Elohim",
+          "meaning": "God, mighty one"
+        }
+      ]
+    },
+    {
+      "verse": 41,
+      "text": "And the priests; Eliakim, Maaseiah, Miniamin, Michaiah, Elioenai, Zechariah, and Hananiah, with trumpets;",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest, minister"
+        },
+        {
+          "word": "trumpets",
+          "strongNumber": "H2689",
+          "lemma": "chatsotserah",
+          "meaning": "trumpet"
+        }
+      ]
+    },
+    {
+      "verse": 42,
+      "text": "And Maaseiah, and Shemaiah, and Eleazar, and Uzzi, and Jehohanan, and Malchijah, and Elam, and Ezer. And the singers sang loud, with Jezrahiah their overseer.",
+      "highlightedWords": [
+        {
+          "word": "singers",
+          "strongNumber": "H7891",
+          "lemma": "shiyr (part.)",
+          "meaning": "singers, those who sing"
+        },
+        {
+          "word": "overseer",
+          "strongNumber": "H6496",
+          "lemma": "paqiyd",
+          "meaning": "overseer, officer"
+        }
+      ]
+    },
+    {
+      "verse": 43,
+      "text": "Also that day they offered great sacrifices, and rejoiced: for God had made them rejoice with great joy: the wives also and the children rejoiced: so that the joy of Jerusalem was heard even afar off.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’Elohim",
+          "meaning": "God, mighty one"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem, city of peace"
+        }
+      ]
+    },
+    {
+      "verse": 44,
+      "text": "And at that time were some appointed over the chambers for the treasures, for the offerings, for the firstfruits, and for the tithes, to gather into them out of the fields of the cities the portions of the law for the priests and Levites: for Judah rejoiced for the priests and for the Levites that waited.",
+      "highlightedWords": [
+        {
+          "word": "tithes",
+          "strongNumber": "H4643",
+          "lemma": "ma‘aser",
+          "meaning": "tenth part, tithe"
+        },
+        {
+          "word": "treasures",
+          "strongNumber": "H214",
+          "lemma": "’owtsar",
+          "meaning": "storehouse, treasure"
+        }
+      ]
+    },
+    {
+      "verse": 45,
+      "text": "And both the singers and the porters kept the ward of their God, and the ward of the purification, according to the commandment of David, and of Solomon his son.",
+      "highlightedWords": [
+        {
+          "word": "singers",
+          "strongNumber": "H7891",
+          "lemma": "shiyr (part.)",
+          "meaning": "singers, those who sing"
+        },
+        {
+          "word": "porters",
+          "strongNumber": "H7778",
+          "lemma": "sho‘er",
+          "meaning": "gatekeeper, porter"
+        }
+      ]
+    },
+    {
+      "verse": 46,
+      "text": "For in the days of David and Asaph of old there were chief of the singers, and songs of praise and thanksgiving unto God.",
+      "highlightedWords": [
+        {
+          "word": "Asaph",
+          "strongNumber": "H623",
+          "lemma": "Asaph",
+          "meaning": "collector, Asaph"
+        },
+        {
+          "word": "thanksgiving",
+          "strongNumber": "H8426",
+          "lemma": "todah",
+          "meaning": "thanksgiving, praise, confession"
+        }
+      ]
+    },
+    {
+      "verse": 47,
+      "text": "And all Israel in the days of Zerubbabel, and in the days of Nehemiah, gave the portions of the singers and the porters, every day his portion: and they sanctified holy things unto the Levites; and the Levites sanctified them unto the children of Aaron.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra’el",
+          "meaning": "Israel, God strives"
+        },
+        {
+          "word": "Levites",
+          "strongNumber": "H3881",
+          "lemma": "Lewiyyiy",
+          "meaning": "Levite, member of the tribe of Levi"
+        }
+      ]
+    }
+  ]
+}

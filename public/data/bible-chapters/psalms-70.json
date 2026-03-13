@@ -1,0 +1,114 @@
+{
+  "book": "Psalms",
+  "chapter": 70,
+  "chapterTheme": {
+    "twoWordSummary": "Urgent Deliverance",
+    "themeWords": [
+      {
+        "word": "haste",
+        "strongNumber": "H2363",
+        "lemma": "chush",
+        "meaning": "to hurry; make haste"
+      },
+      {
+        "word": "deliver",
+        "strongNumber": "H5337",
+        "lemma": "natsal",
+        "meaning": "to deliver; rescue; snatch away"
+      }
+    ]
+  },
+  "sentenceTheme": "David urgently pleads for God to hasten deliverance, shame hostile pursuers, and magnify His name as the help of the poor and needy.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Make haste, O God, to deliver me; make haste to help me, O LORD.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "elohim",
+          "meaning": "God; the true God; mighty one"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God; the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Let them be ashamed and confounded that seek after my soul: let them be turned backward, and put to confusion, that desire my hurt.",
+      "highlightedWords": [
+        {
+          "word": "ashamed",
+          "strongNumber": "H954",
+          "lemma": "bosh",
+          "meaning": "to be ashamed; be put to shame"
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul; life; self; person"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Let them be turned back for a reward of their shame that say, Aha, aha.",
+      "highlightedWords": [
+        {
+          "word": "turned back",
+          "strongNumber": "H7725",
+          "lemma": "shuv",
+          "meaning": "to turn back; return; retreat"
+        },
+        {
+          "word": "shame",
+          "strongNumber": "H1322",
+          "lemma": "bosheth",
+          "meaning": "shame; disgrace; dishonor"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Let all those that seek thee rejoice and be glad in thee: and let such as love thy salvation say continually, Let God be magnified.",
+      "highlightedWords": [
+        {
+          "word": "salvation",
+          "strongNumber": "H3444",
+          "lemma": "yeshuah",
+          "meaning": "salvation; deliverance; victory"
+        },
+        {
+          "word": "magnified",
+          "strongNumber": "H1431",
+          "lemma": "gadal",
+          "meaning": "to be great; to make great; magnify"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "But I am poor and needy: make haste unto me, O God: thou art my help and my deliverer; O LORD, make no tarrying.",
+      "highlightedWords": [
+        {
+          "word": "help",
+          "strongNumber": "H5828",
+          "lemma": "ezer",
+          "meaning": "help; aid; support"
+        },
+        {
+          "word": "deliverer",
+          "strongNumber": "H6403",
+          "lemma": "palat",
+          "meaning": "to deliver; cause to escape; rescuer"
+        }
+      ]
+    }
+  ]
+}

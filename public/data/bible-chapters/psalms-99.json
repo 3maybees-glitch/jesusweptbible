@@ -1,0 +1,186 @@
+{
+  "book": "Psalms",
+  "chapter": 99,
+  "chapterTheme": {
+    "twoWordSummary": "Holy King",
+    "themeWords": [
+      {
+        "word": "holy",
+        "strongNumber": "H6918",
+        "lemma": "qadosh",
+        "meaning": "holy, sacred, set apart"
+      },
+      {
+        "word": "reign",
+        "strongNumber": "H4427",
+        "lemma": "malak",
+        "meaning": "to reign, be king, become king"
+      }
+    ]
+  },
+  "sentenceTheme": "The LORD, enthroned between the cherubim, reigns with holiness and justice, calling all peoples to exalt and worship Him.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "The LORD reigneth; let the people tremble: he sitteth between the cherubims; let the earth be moved.",
+      "highlightedWords": [
+        {
+          "word": "reigneth",
+          "strongNumber": "H4427",
+          "lemma": "malak",
+          "meaning": "to reign, be king"
+        },
+        {
+          "word": "cherubims",
+          "strongNumber": "H3742",
+          "lemma": "kerub",
+          "meaning": "cherub, celestial being attendant upon God"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "The LORD is great in Zion; and he is high above all the people.",
+      "highlightedWords": [
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyyon",
+          "meaning": "Zion, the hill of Jerusalem; figuratively, the city of God"
+        },
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "am",
+          "meaning": "people, nation"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Let them praise thy great and terrible name; for it is holy.",
+      "highlightedWords": [
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "name, reputation, renown"
+        },
+        {
+          "word": "holy",
+          "strongNumber": "H6918",
+          "lemma": "qadosh",
+          "meaning": "holy, sacred, set apart"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "The king's strength also loveth judgment; thou dost establish equity, thou executest judgment and righteousness in Jacob.",
+      "highlightedWords": [
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "justice, judgment, legal decision"
+        },
+        {
+          "word": "equity",
+          "strongNumber": "H4339",
+          "lemma": "meshar",
+          "meaning": "equity, uprightness, fairness"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Exalt ye the LORD our God, and worship at his footstool; for he is holy.",
+      "highlightedWords": [
+        {
+          "word": "Exalt",
+          "strongNumber": "H7311",
+          "lemma": "rum",
+          "meaning": "to be high, exalt, lift up"
+        },
+        {
+          "word": "footstool",
+          "strongNumber": "H1916",
+          "lemma": "hadom",
+          "meaning": "footstool"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Moses and Aaron among his priests, and Samuel among them that call upon his name; they called upon the LORD, and he answered them.",
+      "highlightedWords": [
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses, the great lawgiver and leader of Israel"
+        },
+        {
+          "word": "priests",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest, one who officiates in religious service"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "He spake unto them in the cloudy pillar: they kept his testimonies, and the ordinance that he gave them.",
+      "highlightedWords": [
+        {
+          "word": "pillar",
+          "strongNumber": "H5982",
+          "lemma": "ammud",
+          "meaning": "pillar, column"
+        },
+        {
+          "word": "ordinance",
+          "strongNumber": "H2706",
+          "lemma": "choq",
+          "meaning": "statute, ordinance, decree"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Thou answeredst them, O LORD our God: thou wast a God that forgavest them, though thou tookest vengeance of their inventions.",
+      "highlightedWords": [
+        {
+          "word": "answeredst",
+          "strongNumber": "H6030",
+          "lemma": "anah",
+          "meaning": "to answer, respond"
+        },
+        {
+          "word": "forgavest",
+          "strongNumber": "H5375",
+          "lemma": "nasa",
+          "meaning": "to lift, bear, take away; to forgive"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Exalt the LORD our God, and worship at his holy hill; for the LORD our God is holy.",
+      "highlightedWords": [
+        {
+          "word": "worship",
+          "strongNumber": "H7812",
+          "lemma": "shachah",
+          "meaning": "to bow down, prostrate oneself, worship"
+        },
+        {
+          "word": "holy",
+          "strongNumber": "H6944",
+          "lemma": "qodesh",
+          "meaning": "holiness, a holy thing or place; sacred"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,762 @@
+{
+  "book": "Job",
+  "chapter": 38,
+  "chapterTheme": {
+    "twoWordSummary": "Divine Questions",
+    "themeWords": [
+      {
+        "word": "earth",
+        "strongNumber": "H776",
+        "lemma": "ʾereṣ",
+        "meaning": "land; the earth, the ground, the world"
+      },
+      {
+        "word": "wisdom",
+        "strongNumber": "H2451",
+        "lemma": "ḥokmāh",
+        "meaning": "wisdom, skill, prudence"
+      }
+    ]
+  },
+  "sentenceTheme": "The LORD challenges Job from the whirlwind with probing questions that reveal His unrivaled wisdom and sovereign rule over creation.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Then the LORD answered Job out of the whirlwind, and said,",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal, covenant name of Israel’s God"
+        },
+        {
+          "word": "whirlwind",
+          "strongNumber": "H5591",
+          "lemma": "seʿārāh",
+          "meaning": "storm, tempest, whirlwind"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Who is this that darkeneth counsel by words without knowledge?",
+      "highlightedWords": [
+        {
+          "word": "darkeneth",
+          "strongNumber": "H2821",
+          "lemma": "ḥāshak",
+          "meaning": "to make dark, obscure"
+        },
+        {
+          "word": "counsel",
+          "strongNumber": "H6098",
+          "lemma": "ʿēṣāh",
+          "meaning": "advice, counsel, purpose"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Gird up now thy loins like a man; for I will demand of thee, and answer thou me.",
+      "highlightedWords": [
+        {
+          "word": "loins",
+          "strongNumber": "H4975",
+          "lemma": "mōthen",
+          "meaning": "loins, waist"
+        },
+        {
+          "word": "man",
+          "strongNumber": "H1397",
+          "lemma": "geber",
+          "meaning": "man, strong man, warrior"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Where wast thou when I laid the foundations of the earth? declare, if thou hast understanding.",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "ʾereṣ",
+          "meaning": "land; the earth, the ground, the world"
+        },
+        {
+          "word": "understanding",
+          "strongNumber": "H998",
+          "lemma": "bīnāh",
+          "meaning": "understanding, insight, discernment"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Who hath laid the measures thereof, if thou knowest? or who hath stretched the line upon it?",
+      "highlightedWords": [
+        {
+          "word": "measures",
+          "strongNumber": "H4060",
+          "lemma": "middāh",
+          "meaning": "measure, measurement"
+        },
+        {
+          "word": "line",
+          "strongNumber": "H6957",
+          "lemma": "qāv",
+          "meaning": "measuring line, cord"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Whereupon are the foundations thereof fastened? or who laid the corner stone thereof;",
+      "highlightedWords": [
+        {
+          "word": "corner",
+          "strongNumber": "H6438",
+          "lemma": "pinnāh",
+          "meaning": "corner, cornerstone"
+        },
+        {
+          "word": "stone",
+          "strongNumber": "H68",
+          "lemma": "ʾeḇen",
+          "meaning": "stone"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "When the morning stars sang together, and all the sons of God shouted for joy?",
+      "highlightedWords": [
+        {
+          "word": "stars",
+          "strongNumber": "H3556",
+          "lemma": "kôkāḇ",
+          "meaning": "star"
+        },
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child, member"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Or who shut up the sea with doors, when it brake forth, as if it had issued out of the womb?",
+      "highlightedWords": [
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yām",
+          "meaning": "sea"
+        },
+        {
+          "word": "doors",
+          "strongNumber": "H1817",
+          "lemma": "delet",
+          "meaning": "door, gate, entrance"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "When I made the cloud the garment thereof, and thick darkness a swaddlingband for it,",
+      "highlightedWords": [
+        {
+          "word": "cloud",
+          "strongNumber": "H6051",
+          "lemma": "ʿānān",
+          "meaning": "cloud, mass of clouds"
+        },
+        {
+          "word": "darkness",
+          "strongNumber": "H6205",
+          "lemma": "ʿărāpel",
+          "meaning": "thick darkness, deep gloom"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And brake up for it my decreed place, and set bars and doors,",
+      "highlightedWords": [
+        {
+          "word": "bars",
+          "strongNumber": "H1280",
+          "lemma": "berīaḥ",
+          "meaning": "bar, bolt"
+        },
+        {
+          "word": "doors",
+          "strongNumber": "H1817",
+          "lemma": "delet",
+          "meaning": "door, gate, entrance"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And said, Hitherto shalt thou come, but no further: and here shall thy proud waves be stayed?",
+      "highlightedWords": [
+        {
+          "word": "said",
+          "strongNumber": "H559",
+          "lemma": "ʾāmar",
+          "meaning": "to say, speak, declare"
+        },
+        {
+          "word": "proud",
+          "strongNumber": "H1346",
+          "lemma": "gaʾôn",
+          "meaning": "pride, majesty, arrogance"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Hast thou commanded the morning since thy days; and caused the dayspring to know his place;",
+      "highlightedWords": [
+        {
+          "word": "morning",
+          "strongNumber": "H1242",
+          "lemma": "bōqer",
+          "meaning": "morning, dawn"
+        },
+        {
+          "word": "place",
+          "strongNumber": "H4725",
+          "lemma": "māqôm",
+          "meaning": "place, location"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "That it might take hold of the ends of the earth, that the wicked might be shaken out of it?",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "ʾereṣ",
+          "meaning": "land; the earth, the ground, the world"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rāshāʿ",
+          "meaning": "wicked, guilty, criminal"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "It is turned as clay to the seal; and they stand as a garment.",
+      "highlightedWords": [
+        {
+          "word": "clay",
+          "strongNumber": "H2563",
+          "lemma": "ḥōmer",
+          "meaning": "clay, mire"
+        },
+        {
+          "word": "seal",
+          "strongNumber": "H2368",
+          "lemma": "ḥōtām",
+          "meaning": "seal, signet"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And from the wicked their light is withholden, and the high arm shall be broken.",
+      "highlightedWords": [
+        {
+          "word": "light",
+          "strongNumber": "H216",
+          "lemma": "ʾôr",
+          "meaning": "light"
+        },
+        {
+          "word": "arm",
+          "strongNumber": "H2220",
+          "lemma": "zĕrôaʿ",
+          "meaning": "arm, strength"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Hast thou entered into the springs of the sea? or hast thou walked in the search of the depth?",
+      "highlightedWords": [
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yām",
+          "meaning": "sea"
+        },
+        {
+          "word": "depth",
+          "strongNumber": "H8415",
+          "lemma": "tĕhôm",
+          "meaning": "the deep, primeval ocean, abyss"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Have the gates of death been opened unto thee? or hast thou seen the doors of the shadow of death?",
+      "highlightedWords": [
+        {
+          "word": "gates",
+          "strongNumber": "H8179",
+          "lemma": "shaʿar",
+          "meaning": "gate, entrance"
+        },
+        {
+          "word": "death",
+          "strongNumber": "H4194",
+          "lemma": "māwet",
+          "meaning": "death"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Hast thou perceived the breadth of the earth? declare if thou knowest it all.",
+      "highlightedWords": [
+        {
+          "word": "breadth",
+          "strongNumber": "H7338",
+          "lemma": "reḥab",
+          "meaning": "breadth, width, expanse"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "ʾereṣ",
+          "meaning": "land; the earth, the ground, the world"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Where is the way where light dwelleth? and as for darkness, where is the place thereof,",
+      "highlightedWords": [
+        {
+          "word": "light",
+          "strongNumber": "H216",
+          "lemma": "ʾôr",
+          "meaning": "light"
+        },
+        {
+          "word": "darkness",
+          "strongNumber": "H2822",
+          "lemma": "ḥōshek",
+          "meaning": "darkness, obscurity"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "That thou shouldest take it to the bound thereof, and that thou shouldest know the paths to the house thereof?",
+      "highlightedWords": [
+        {
+          "word": "bound",
+          "strongNumber": "H1366",
+          "lemma": "gĕbûl",
+          "meaning": "border, boundary, territory"
+        },
+        {
+          "word": "paths",
+          "strongNumber": "H5410",
+          "lemma": "nĕtîbāh",
+          "meaning": "pathway, track"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Knowest thou it, because thou wast then born? or because the number of thy days is great?",
+      "highlightedWords": [
+        {
+          "word": "born",
+          "strongNumber": "H3205",
+          "lemma": "yālad",
+          "meaning": "to bear, beget, bring forth"
+        },
+        {
+          "word": "days",
+          "strongNumber": "H3117",
+          "lemma": "yôm",
+          "meaning": "day, time period"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Hast thou entered into the treasures of the snow? or hast thou seen the treasures of the hail,",
+      "highlightedWords": [
+        {
+          "word": "treasures",
+          "strongNumber": "H214",
+          "lemma": "ʾōṣār",
+          "meaning": "storehouse, treasure"
+        },
+        {
+          "word": "hail",
+          "strongNumber": "H1259",
+          "lemma": "bārād",
+          "meaning": "hail"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Which I have reserved against the time of trouble, against the day of battle and war?",
+      "highlightedWords": [
+        {
+          "word": "trouble",
+          "strongNumber": "H6862",
+          "lemma": "ṣārāh",
+          "meaning": "distress, trouble"
+        },
+        {
+          "word": "war",
+          "strongNumber": "H4421",
+          "lemma": "milḥāmāh",
+          "meaning": "battle, war"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "By what way is the light parted, which scattereth the east wind upon the earth?",
+      "highlightedWords": [
+        {
+          "word": "east",
+          "strongNumber": "H6921",
+          "lemma": "qedem",
+          "meaning": "east, ancient east wind"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "ʾereṣ",
+          "meaning": "land; the earth, the ground, the world"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Who hath divided a watercourse for the overflowing of waters, or a way for the lightning of thunder;",
+      "highlightedWords": [
+        {
+          "word": "way",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way, road, manner"
+        },
+        {
+          "word": "lightning",
+          "strongNumber": "H1300",
+          "lemma": "bāraq",
+          "meaning": "lightning, flashing"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "To cause it to rain on the earth, where no man is; on the wilderness, wherein there is no man;",
+      "highlightedWords": [
+        {
+          "word": "rain",
+          "strongNumber": "H4306",
+          "lemma": "māṭar",
+          "meaning": "rain"
+        },
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbār",
+          "meaning": "wilderness, desert"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "To satisfy the desolate and waste ground; and to cause the bud of the tender herb to spring forth?",
+      "highlightedWords": [
+        {
+          "word": "herb",
+          "strongNumber": "H6212",
+          "lemma": "ʿēśeḇ",
+          "meaning": "grass, herb, vegetation"
+        },
+        {
+          "word": "spring",
+          "strongNumber": "H6779",
+          "lemma": "ṣāmaḥ",
+          "meaning": "to sprout, spring up"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "Hath the rain a father? or who hath begotten the drops of dew?",
+      "highlightedWords": [
+        {
+          "word": "rain",
+          "strongNumber": "H4306",
+          "lemma": "māṭar",
+          "meaning": "rain"
+        },
+        {
+          "word": "father",
+          "strongNumber": "H1",
+          "lemma": "ʾāḇ",
+          "meaning": "father, ancestor"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "Out of whose womb came the ice? and the hoary frost of heaven, who hath gendered it?",
+      "highlightedWords": [
+        {
+          "word": "ice",
+          "strongNumber": "H7140",
+          "lemma": "qeraḥ",
+          "meaning": "ice, crystal"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "šāmayim",
+          "meaning": "heavens, sky"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "The waters are hid as with a stone, and the face of the deep is frozen.",
+      "highlightedWords": [
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters"
+        },
+        {
+          "word": "deep",
+          "strongNumber": "H8415",
+          "lemma": "tĕhôm",
+          "meaning": "the deep, abyss"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "Canst thou bind the sweet influences of Pleiades, or loose the bands of Orion?",
+      "highlightedWords": [
+        {
+          "word": "bind",
+          "strongNumber": "H7194",
+          "lemma": "qāshar",
+          "meaning": "to bind, tie, join together"
+        },
+        {
+          "word": "Orion",
+          "strongNumber": "H3685",
+          "lemma": "kĕsīl",
+          "meaning": "Orion (constellation); fool"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "Canst thou bring forth Mazzaroth in his season? or canst thou guide Arcturus with his sons?",
+      "highlightedWords": [
+        {
+          "word": "season",
+          "strongNumber": "H6256",
+          "lemma": "ʿēth",
+          "meaning": "appointed time, season"
+        },
+        {
+          "word": "Arcturus",
+          "strongNumber": "H5906",
+          "lemma": "ʿAyish",
+          "meaning": "Bear constellation (Arcturus)"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "Knowest thou the ordinances of heaven? canst thou set the dominion thereof in the earth?",
+      "highlightedWords": [
+        {
+          "word": "ordinances",
+          "strongNumber": "H2708",
+          "lemma": "ḥuqqāh",
+          "meaning": "statute, ordinance, fixed order"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "šāmayim",
+          "meaning": "heavens, sky"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "Canst thou lift up thy voice to the clouds, that abundance of waters may cover thee?",
+      "highlightedWords": [
+        {
+          "word": "voice",
+          "strongNumber": "H6963",
+          "lemma": "qôl",
+          "meaning": "voice, sound"
+        },
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "Canst thou send lightnings, that they may go, and say unto thee, Here we are?",
+      "highlightedWords": [
+        {
+          "word": "lightnings",
+          "strongNumber": "H1300",
+          "lemma": "bāraq",
+          "meaning": "lightning, flash"
+        },
+        {
+          "word": "go",
+          "strongNumber": "H1980",
+          "lemma": "hālak",
+          "meaning": "to go, walk, move"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "Who hath put wisdom in the inward parts? or who hath given understanding to the heart?",
+      "highlightedWords": [
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "ḥokmāh",
+          "meaning": "wisdom, skill, prudence"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "lēḇ",
+          "meaning": "heart, inner person, mind"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "Who can number the clouds in wisdom? or who can stay the bottles of heaven,",
+      "highlightedWords": [
+        {
+          "word": "number",
+          "strongNumber": "H5608",
+          "lemma": "sāpar",
+          "meaning": "to count, number, recount"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "šāmayim",
+          "meaning": "heavens, sky"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "When the dust groweth into hardness, and the clods cleave fast together?",
+      "highlightedWords": [
+        {
+          "word": "dust",
+          "strongNumber": "H6083",
+          "lemma": "ʿāphār",
+          "meaning": "dust, dry earth"
+        },
+        {
+          "word": "together",
+          "strongNumber": "H3162",
+          "lemma": "yaḥad",
+          "meaning": "together, unitedly"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "text": "Wilt thou hunt the prey for the lion? or fill the appetite of the young lions,",
+      "highlightedWords": [
+        {
+          "word": "prey",
+          "strongNumber": "H2964",
+          "lemma": "ṭereph",
+          "meaning": "prey, food taken by hunting"
+        },
+        {
+          "word": "lion",
+          "strongNumber": "H0738",
+          "lemma": "ʾaryēh",
+          "meaning": "lion"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "text": "When they couch in their dens, and abide in the covert to lie in wait?",
+      "highlightedWords": [
+        {
+          "word": "abide",
+          "strongNumber": "H3427",
+          "lemma": "yāshab",
+          "meaning": "to dwell, sit, remain"
+        },
+        {
+          "word": "dens",
+          "strongNumber": "H4585",
+          "lemma": "mĕʿōnāh",
+          "meaning": "den, habitation, lair"
+        }
+      ]
+    },
+    {
+      "verse": 41,
+      "text": "Who provideth for the raven his food? when his young ones cry unto God, they wander for lack of meat.",
+      "highlightedWords": [
+        {
+          "word": "raven",
+          "strongNumber": "H6158",
+          "lemma": "ʿōrēḇ",
+          "meaning": "raven"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H410",
+          "lemma": "ʾēl",
+          "meaning": "God, Mighty One"
+        }
+      ]
+    }
+  ]
+}

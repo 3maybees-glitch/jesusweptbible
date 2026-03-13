@@ -1,0 +1,420 @@
+{
+  "book": "Psalms",
+  "chapter": 38,
+  "chapterTheme": {
+    "twoWordSummary": "Penitent Lament",
+    "themeWords": [
+      {
+        "word": "iniquity",
+        "strongNumber": "H5771",
+        "lemma": "ʿavon",
+        "meaning": "iniquity, guilt, or the consequence of sin"
+      },
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "Yehovah",
+        "meaning": "the personal name of the God of Israel (YHWH)"
+      }
+    ]
+  },
+  "sentenceTheme": "David cries to the LORD in deep physical and spiritual distress, confessing sin, describing adversaries, and pleading for God’s swift mercy and deliverance.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "A Psalm of David, to bring to remembrance. O LORD, rebuke me not in thy wrath: neither chasten me in thy hot displeasure.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the personal name of the God of Israel (YHWH)"
+        },
+        {
+          "word": "chasten",
+          "strongNumber": "H3256",
+          "lemma": "yasar",
+          "meaning": "to discipline, chasten, or instruct"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "For thine arrows stick fast in me, and thy hand presseth me sore.",
+      "highlightedWords": [
+        {
+          "word": "arrows",
+          "strongNumber": "H2671",
+          "lemma": "chets",
+          "meaning": "an arrow or shaft"
+        },
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand; by extension, power or control"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "There is no soundness in my flesh because of thine anger; neither is there any rest in my bones because of my sin.",
+      "highlightedWords": [
+        {
+          "word": "flesh",
+          "strongNumber": "H1320",
+          "lemma": "basar",
+          "meaning": "flesh, body"
+        },
+        {
+          "word": "bones",
+          "strongNumber": "H6106",
+          "lemma": "etsem",
+          "meaning": "bone; frame, body"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "For mine iniquities are gone over mine head: as an heavy burden they are too heavy for me.",
+      "highlightedWords": [
+        {
+          "word": "iniquities",
+          "strongNumber": "H5771",
+          "lemma": "ʿavon",
+          "meaning": "iniquity, guilt, or the consequence of sin"
+        },
+        {
+          "word": "burden",
+          "strongNumber": "H4853",
+          "lemma": "massa",
+          "meaning": "a burden, load, or tribute"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "My wounds stink and are corrupt because of my foolishness.",
+      "highlightedWords": [
+        {
+          "word": "wounds",
+          "strongNumber": "H2250",
+          "lemma": "chabburah",
+          "meaning": "a bruise, stripe, or wound"
+        },
+        {
+          "word": "foolishness",
+          "strongNumber": "H200",
+          "lemma": "ivveleth",
+          "meaning": "folly, foolishness"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "I am troubled; I am bowed down greatly; I go mourning all the day long.",
+      "highlightedWords": [
+        {
+          "word": "bowed",
+          "strongNumber": "H6915",
+          "lemma": "qadad",
+          "meaning": "to bow down"
+        },
+        {
+          "word": "day",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day, time, or period"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "For my loins are filled with a loathsome disease: and there is no soundness in my flesh.",
+      "highlightedWords": [
+        {
+          "word": "loins",
+          "strongNumber": "H4975",
+          "lemma": "mothen",
+          "meaning": "loins, waist"
+        },
+        {
+          "word": "flesh",
+          "strongNumber": "H1320",
+          "lemma": "basar",
+          "meaning": "flesh, body"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "I am feeble and sore broken: I have roared by reason of the disquietness of my heart.",
+      "highlightedWords": [
+        {
+          "word": "roared",
+          "strongNumber": "H7580",
+          "lemma": "shaʿag",
+          "meaning": "to roar, groan loudly"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner person, mind, will"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Lord, all my desire is before thee; and my groaning is not hid from thee.",
+      "highlightedWords": [
+        {
+          "word": "desire",
+          "strongNumber": "H8378",
+          "lemma": "taʿavah",
+          "meaning": "desire, longing, appetite"
+        },
+        {
+          "word": "groaning",
+          "strongNumber": "H585",
+          "lemma": "anachah",
+          "meaning": "a groaning, sighing"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "My heart panteth, my strength faileth me: as for the light of mine eyes, it also is gone from me.",
+      "highlightedWords": [
+        {
+          "word": "strength",
+          "strongNumber": "H3581",
+          "lemma": "koach",
+          "meaning": "strength, power, might"
+        },
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "ayin",
+          "meaning": "eye; by extension, sight"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "My lovers and my friends stand aloof from my sore; and my kinsmen stand afar off.",
+      "highlightedWords": [
+        {
+          "word": "friends",
+          "strongNumber": "H7453",
+          "lemma": "reaʿ",
+          "meaning": "friend, companion, neighbor"
+        },
+        {
+          "word": "sore",
+          "strongNumber": "H5061",
+          "lemma": "negaʿ",
+          "meaning": "a stroke, plague, or wound"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "They also that seek after my life lay snares for me: and they that seek my hurt speak mischievous things, and imagine deceits all the day long.",
+      "highlightedWords": [
+        {
+          "word": "seek",
+          "strongNumber": "H1245",
+          "lemma": "baqash",
+          "meaning": "to seek, search for, request"
+        },
+        {
+          "word": "snares",
+          "strongNumber": "H4170",
+          "lemma": "moqesh",
+          "meaning": "a snare, trap"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "But I, as a deaf man, heard not; and I was as a dumb man that openeth not his mouth.",
+      "highlightedWords": [
+        {
+          "word": "deaf",
+          "strongNumber": "H2795",
+          "lemma": "cheresh",
+          "meaning": "deaf"
+        },
+        {
+          "word": "mouth",
+          "strongNumber": "H6310",
+          "lemma": "peh",
+          "meaning": "mouth"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Thus I was as a man that heareth not, and in whose mouth are no reproofs.",
+      "highlightedWords": [
+        {
+          "word": "heareth",
+          "strongNumber": "H8085",
+          "lemma": "shamaʿ",
+          "meaning": "to hear, listen, obey"
+        },
+        {
+          "word": "reproofs",
+          "strongNumber": "H8433",
+          "lemma": "tokhachah",
+          "meaning": "rebuke, reproof, correction"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "For in thee, O LORD, do I hope: thou wilt hear, O Lord my God.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the personal name of the God of Israel (YHWH)"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; also used of gods, judges"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "For I said, Hear me, lest otherwise they should rejoice over me: when my foot slippeth, they magnify themselves against me.",
+      "highlightedWords": [
+        {
+          "word": "rejoice",
+          "strongNumber": "H8055",
+          "lemma": "samach",
+          "meaning": "to rejoice, be glad"
+        },
+        {
+          "word": "slippeth",
+          "strongNumber": "H4131",
+          "lemma": "mot",
+          "meaning": "to totter, shake, slip"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "For I am ready to halt, and my sorrow is continually before me.",
+      "highlightedWords": [
+        {
+          "word": "continually",
+          "strongNumber": "H8548",
+          "lemma": "tamid",
+          "meaning": "continually, regularly"
+        },
+        {
+          "word": "before",
+          "strongNumber": "H5048",
+          "lemma": "neged",
+          "meaning": "in front of, before, in the presence of"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "For I will declare mine iniquity; I will be sorry for my sin.",
+      "highlightedWords": [
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "ʿavon",
+          "meaning": "iniquity, guilt, or the consequence of sin"
+        },
+        {
+          "word": "sin",
+          "strongNumber": "H2403",
+          "lemma": "chatta'ah",
+          "meaning": "sin; sometimes a sin offering"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "But mine enemies are lively, and they are strong: and they that hate me wrongfully are multiplied.",
+      "highlightedWords": [
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "oyev",
+          "meaning": "enemy, foe"
+        },
+        {
+          "word": "multiplied",
+          "strongNumber": "H7235",
+          "lemma": "rabah",
+          "meaning": "to become many, multiply"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "They also that render evil for good are mine adversaries; because I follow the thing that good is.",
+      "highlightedWords": [
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "raʿ",
+          "meaning": "evil, bad, harmful"
+        },
+        {
+          "word": "good",
+          "strongNumber": "H2896",
+          "lemma": "tov",
+          "meaning": "good, pleasant, agreeable"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Forsake me not, O LORD: O my God, be not far from me.",
+      "highlightedWords": [
+        {
+          "word": "Forsake",
+          "strongNumber": "H5800",
+          "lemma": "ʿazab",
+          "meaning": "to leave, forsake, abandon"
+        },
+        {
+          "word": "far",
+          "strongNumber": "H7368",
+          "lemma": "rachaq",
+          "meaning": "to be far, distant"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Make haste to help me, O Lord my salvation.",
+      "highlightedWords": [
+        {
+          "word": "help",
+          "strongNumber": "H5833",
+          "lemma": "ezrah",
+          "meaning": "help, support, assistance"
+        },
+        {
+          "word": "salvation",
+          "strongNumber": "H3444",
+          "lemma": "yeshuah",
+          "meaning": "salvation, deliverance, victory"
+        }
+      ]
+    }
+  ]
+}

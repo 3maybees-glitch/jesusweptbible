@@ -1,0 +1,528 @@
+{
+  "book": "Psalms",
+  "chapter": 102,
+  "chapterTheme": {
+    "twoWordSummary": "Afflicted Prayer",
+    "themeWords": [
+      {
+        "word": "afflicted",
+        "strongNumber": "H6041",
+        "lemma": "aniy",
+        "meaning": "poor, afflicted, humble"
+      },
+      {
+        "word": "Zion",
+        "strongNumber": "H6726",
+        "lemma": "Tsiyyon",
+        "meaning": "Zion, a hill of Jerusalem; figuratively the city itself"
+      }
+    ]
+  },
+  "sentenceTheme": "An afflicted sufferer cries to the LORD for swift help, trusting that God will rebuild Zion and remain eternal while generations yet unborn will praise Him.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Hear my prayer, O LORD, and let my cry come unto thee.",
+      "highlightedWords": [
+        {
+          "word": "prayer",
+          "strongNumber": "H8605",
+          "lemma": "tephillah",
+          "meaning": "prayer, supplication"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yahweh",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Hide not thy face from me in the day when I am in trouble; incline thine ear unto me: in the day when I call answer me speedily.",
+      "highlightedWords": [
+        {
+          "word": "face",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "face, presence"
+        },
+        {
+          "word": "call",
+          "strongNumber": "H7121",
+          "lemma": "qara",
+          "meaning": "to call, cry out, proclaim"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "For my days are consumed like smoke, and my bones are burned as an hearth.",
+      "highlightedWords": [
+        {
+          "word": "smoke",
+          "strongNumber": "H6227",
+          "lemma": "ashan",
+          "meaning": "smoke"
+        },
+        {
+          "word": "bones",
+          "strongNumber": "H6106",
+          "lemma": "etsem",
+          "meaning": "bone, substance, self"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "My heart is smitten, and withered like grass; so that I forget to eat my bread.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner person, mind"
+        },
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread, food"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "By reason of the voice of my groaning my bones cleave to my skin.",
+      "highlightedWords": [
+        {
+          "word": "voice",
+          "strongNumber": "H6963",
+          "lemma": "qol",
+          "meaning": "voice, sound, noise"
+        },
+        {
+          "word": "bones",
+          "strongNumber": "H6106",
+          "lemma": "etsem",
+          "meaning": "bone, substance, self"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "I am like a pelican of the wilderness: I am like an owl of the desert.",
+      "highlightedWords": [
+        {
+          "word": "pelican",
+          "strongNumber": "H6893",
+          "lemma": "qa'ath",
+          "meaning": "pelican or cormorant (a large water bird)"
+        },
+        {
+          "word": "owl",
+          "strongNumber": "H3244",
+          "lemma": "kos",
+          "meaning": "owl (a nocturnal bird)"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "I watch, and am as a sparrow alone upon the housetop.",
+      "highlightedWords": [
+        {
+          "word": "sparrow",
+          "strongNumber": "H6833",
+          "lemma": "tsippor",
+          "meaning": "sparrow, small bird"
+        },
+        {
+          "word": "housetop",
+          "strongNumber": "H1406",
+          "lemma": "gag",
+          "meaning": "roof, housetop"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Mine enemies reproach me all the day; and they that are mad against me are sworn against me.",
+      "highlightedWords": [
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "oyev",
+          "meaning": "enemy, foe"
+        },
+        {
+          "word": "sworn",
+          "strongNumber": "H7650",
+          "lemma": "shaba",
+          "meaning": "to swear, take an oath"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "For I have eaten ashes like bread, and mingled my drink with weeping,",
+      "highlightedWords": [
+        {
+          "word": "ashes",
+          "strongNumber": "H665",
+          "lemma": "epher",
+          "meaning": "ashes, dust"
+        },
+        {
+          "word": "weeping",
+          "strongNumber": "H1065",
+          "lemma": "beki",
+          "meaning": "weeping, lamentation"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Because of thine indignation and thy wrath: for thou hast lifted me up, and cast me down.",
+      "highlightedWords": [
+        {
+          "word": "indignation",
+          "strongNumber": "H2195",
+          "lemma": "za'am",
+          "meaning": "indignation, anger"
+        },
+        {
+          "word": "wrath",
+          "strongNumber": "H2534",
+          "lemma": "chemah",
+          "meaning": "wrath, heat, rage"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "My days are like a shadow that declineth; and I am withered like grass.",
+      "highlightedWords": [
+        {
+          "word": "shadow",
+          "strongNumber": "H6738",
+          "lemma": "tsel",
+          "meaning": "shadow, shade, protection"
+        },
+        {
+          "word": "grass",
+          "strongNumber": "H2682",
+          "lemma": "chatsir",
+          "meaning": "grass, herbage"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "But thou, O LORD, shalt endure for ever; and thy remembrance unto all generations.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yahweh",
+          "meaning": "the proper name of the God of Israel"
+        },
+        {
+          "word": "remembrance",
+          "strongNumber": "H2143",
+          "lemma": "zeker",
+          "meaning": "remembrance, memorial"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Thou shalt arise, and have mercy upon Zion: for the time to favour her, yea, the set time, is come.",
+      "highlightedWords": [
+        {
+          "word": "mercy",
+          "strongNumber": "H2603",
+          "lemma": "chanan",
+          "meaning": "to be gracious, show favor, have mercy"
+        },
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyyon",
+          "meaning": "Zion, a hill of Jerusalem; figuratively the city itself"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "For thy servants take pleasure in her stones, and favour the dust thereof.",
+      "highlightedWords": [
+        {
+          "word": "servants",
+          "strongNumber": "H5650",
+          "lemma": "ebed",
+          "meaning": "servant, slave, bondman"
+        },
+        {
+          "word": "dust",
+          "strongNumber": "H6083",
+          "lemma": "aphar",
+          "meaning": "dust, dry earth, ashes"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "So the heathen shall fear the name of the LORD, and all the kings of the earth thy glory.",
+      "highlightedWords": [
+        {
+          "word": "heathen",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation, people; Gentiles"
+        },
+        {
+          "word": "glory",
+          "strongNumber": "H3519",
+          "lemma": "kavod",
+          "meaning": "glory, honor, weight"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "When the LORD shall build up Zion, he shall appear in his glory.",
+      "highlightedWords": [
+        {
+          "word": "build",
+          "strongNumber": "H1129",
+          "lemma": "banah",
+          "meaning": "to build, rebuild, establish"
+        },
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyyon",
+          "meaning": "Zion, a hill of Jerusalem; figuratively the city itself"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "He will regard the prayer of the destitute, and not despise their prayer.",
+      "highlightedWords": [
+        {
+          "word": "prayer",
+          "strongNumber": "H8605",
+          "lemma": "tephillah",
+          "meaning": "prayer, supplication"
+        },
+        {
+          "word": "despise",
+          "strongNumber": "H959",
+          "lemma": "bazah",
+          "meaning": "to despise, hold in contempt"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "This shall be written for the generation to come: and the people which shall be created shall praise the LORD.",
+      "highlightedWords": [
+        {
+          "word": "written",
+          "strongNumber": "H3789",
+          "lemma": "kathab",
+          "meaning": "to write, record, inscribe"
+        },
+        {
+          "word": "created",
+          "strongNumber": "H1254",
+          "lemma": "bara",
+          "meaning": "to create, shape, form"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "For he hath looked down from the height of his sanctuary; from heaven did the LORD behold the earth;",
+      "highlightedWords": [
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens, sky, abode of the stars"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "earth, land"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "To hear the groaning of the prisoner; to loose those that are appointed to death;",
+      "highlightedWords": [
+        {
+          "word": "hear",
+          "strongNumber": "H8085",
+          "lemma": "shama",
+          "meaning": "to hear, listen, give ear"
+        },
+        {
+          "word": "prisoner",
+          "strongNumber": "H615",
+          "lemma": "asir",
+          "meaning": "prisoner, captive"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "To declare the name of the LORD in Zion, and his praise in Jerusalem;",
+      "highlightedWords": [
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "name, reputation, fame"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem, the chief city of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "When the people are gathered together, and the kingdoms, to serve the LORD.",
+      "highlightedWords": [
+        {
+          "word": "kingdoms",
+          "strongNumber": "H4467",
+          "lemma": "mamlakah",
+          "meaning": "kingdom, dominion, reign"
+        },
+        {
+          "word": "serve",
+          "strongNumber": "H5647",
+          "lemma": "abad",
+          "meaning": "to serve, work, worship"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "He weakened my strength in the way; he shortened my days.",
+      "highlightedWords": [
+        {
+          "word": "strength",
+          "strongNumber": "H3581",
+          "lemma": "koach",
+          "meaning": "strength, power, might"
+        },
+        {
+          "word": "days",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day, time, period"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "I said, O my God, take me not away in the midst of my days: thy years are throughout all generations.",
+      "highlightedWords": [
+        {
+          "word": "midst",
+          "strongNumber": "H2677",
+          "lemma": "chetsi",
+          "meaning": "half, middle, midst"
+        },
+        {
+          "word": "generations",
+          "strongNumber": "H1755",
+          "lemma": "dor",
+          "meaning": "generation, period, dwelling age"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Of old hast thou laid the foundation of the earth: and the heavens are the work of thy hands.",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "earth, land"
+        },
+        {
+          "word": "heavens",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens, sky"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "They shall perish, but thou shalt endure: yea, all of them shall wax old like a garment; as a vesture shalt thou change them, and they shall be changed:",
+      "highlightedWords": [
+        {
+          "word": "perish",
+          "strongNumber": "H6",
+          "lemma": "abad",
+          "meaning": "to perish, be lost, vanish"
+        },
+        {
+          "word": "change",
+          "strongNumber": "H2498",
+          "lemma": "chalaph",
+          "meaning": "to change, substitute, renew"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "But thou art the same, and thy years shall have no end.",
+      "highlightedWords": [
+        {
+          "word": "years",
+          "strongNumber": "H8141",
+          "lemma": "shanah",
+          "meaning": "year"
+        },
+        {
+          "word": "end",
+          "strongNumber": "H7093",
+          "lemma": "qets",
+          "meaning": "end, limit, conclusion"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "The children of thy servants shall continue, and their seed shall be established before thee.",
+      "highlightedWords": [
+        {
+          "word": "servants",
+          "strongNumber": "H5650",
+          "lemma": "ebed",
+          "meaning": "servant, slave, bondman"
+        },
+        {
+          "word": "seed",
+          "strongNumber": "H2233",
+          "lemma": "zera",
+          "meaning": "seed, offspring, descendants"
+        }
+      ]
+    }
+  ]
+}

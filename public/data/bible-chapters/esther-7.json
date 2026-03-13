@@ -1,0 +1,204 @@
+{
+  "book": "Esther",
+  "chapter": 7,
+  "chapterTheme": {
+    "twoWordSummary": "Haman Judged",
+    "themeWords": [
+      {
+        "word": "Haman",
+        "strongNumber": "H2001",
+        "lemma": "Hāmān",
+        "meaning": "Haman, an Agagite official in Persia"
+      },
+      {
+        "word": "gallows",
+        "strongNumber": "H6086",
+        "lemma": "ʿēts",
+        "meaning": "tree, wood; used for an execution stake/gallows"
+      }
+    ]
+  },
+  "sentenceTheme": "Esther reveals Haman’s plot, leading the king to condemn Haman to the very gallows he prepared for Mordecai.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "So the king and Haman came to banquet with Esther the queen.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king; ruler"
+        },
+        {
+          "word": "Haman",
+          "strongNumber": "H2001",
+          "lemma": "Hāmān",
+          "meaning": "Haman, an Agagite official in Persia"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And the king said again unto Esther on the second day at the banquet of wine, What is thy petition, queen Esther? and it shall be granted thee: and what is thy request? and it shall be performed, even to the half of the kingdom.",
+      "highlightedWords": [
+        {
+          "word": "petition",
+          "strongNumber": "H7596",
+          "lemma": "she'elah",
+          "meaning": "request; petition; something asked"
+        },
+        {
+          "word": "request",
+          "strongNumber": "H1246",
+          "lemma": "baqqāshāh",
+          "meaning": "request; entreaty; supplication"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Then Esther the queen answered and said, If I have found favour in thy sight, O king, and if it please the king, let my life be given me at my petition, and my people at my request:",
+      "highlightedWords": [
+        {
+          "word": "favour",
+          "strongNumber": "H2580",
+          "lemma": "ḥēn",
+          "meaning": "favor; grace; goodwill"
+        },
+        {
+          "word": "life",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul; life; person"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "For we are sold, I and my people, to be destroyed, to be slain, and to perish. But if we had been sold for bondmen and bondwomen, I had held my tongue, although the enemy could not countervail the king's damage.",
+      "highlightedWords": [
+        {
+          "word": "destroyed",
+          "strongNumber": "H8045",
+          "lemma": "shāmad",
+          "meaning": "to destroy; annihilate; exterminate"
+        },
+        {
+          "word": "bondmen",
+          "strongNumber": "H5650",
+          "lemma": "ʿeved",
+          "meaning": "servant; slave; bondman"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Then the king Ahasuerus answered and said unto Esther the queen, Who is he, and where is he, that durst presume in his heart to do so?",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king; ruler"
+        },
+        {
+          "word": "Ahasuerus",
+          "strongNumber": "H325",
+          "lemma": "ʼAḥashverōsh",
+          "meaning": "Ahasuerus (Xerxes I), king of Persia"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And Esther said, The adversary and enemy is this wicked Haman. Then Haman was afraid before the king and the queen.",
+      "highlightedWords": [
+        {
+          "word": "adversary",
+          "strongNumber": "H6862",
+          "lemma": "tsar",
+          "meaning": "adversary; foe; oppressor"
+        },
+        {
+          "word": "enemy",
+          "strongNumber": "H341",
+          "lemma": "ʼōyēv",
+          "meaning": "enemy; foe"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And the king arising from the banquet of wine in his wrath went into the palace garden: and Haman stood up to make request for his life to Esther the queen; for he saw that there was evil determined against him by the king.",
+      "highlightedWords": [
+        {
+          "word": "banquet",
+          "strongNumber": "H4960",
+          "lemma": "mišteh",
+          "meaning": "banquet; drinking feast"
+        },
+        {
+          "word": "wrath",
+          "strongNumber": "H2534",
+          "lemma": "ḥēmāh",
+          "meaning": "wrath; heat; rage"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Then the king returned out of the palace garden into the place of the banquet of wine; and Haman was fallen upon the bed whereon Esther was. Then said the king, Will he force the queen also before me in the house? As the word went out of the king's mouth, they covered Haman's face.",
+      "highlightedWords": [
+        {
+          "word": "bed",
+          "strongNumber": "H4296",
+          "lemma": "mittāh",
+          "meaning": "bed; couch; bier"
+        },
+        {
+          "word": "face",
+          "strongNumber": "H6440",
+          "lemma": "pānīm",
+          "meaning": "face; presence"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And Harbonah, one of the chamberlains, said before the king, Behold also, the gallows fifty cubits high, which Haman had made for Mordecai, who had spoken good for the king, standeth in the house of Haman. Then the king said, Hang him thereon.",
+      "highlightedWords": [
+        {
+          "word": "gallows",
+          "strongNumber": "H6086",
+          "lemma": "ʿēts",
+          "meaning": "tree; wood; timber; gallows"
+        },
+        {
+          "word": "Mordecai",
+          "strongNumber": "H4782",
+          "lemma": "Mordekay",
+          "meaning": "Mordecai, cousin/guardian of Esther"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "So they hanged Haman on the gallows that he had prepared for Mordecai. Then was the king's wrath pacified.",
+      "highlightedWords": [
+        {
+          "word": "hanged",
+          "strongNumber": "H8518",
+          "lemma": "tālāh",
+          "meaning": "to hang; suspend"
+        },
+        {
+          "word": "wrath",
+          "strongNumber": "H2534",
+          "lemma": "ḥēmāh",
+          "meaning": "wrath; heat; rage"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "book": "Psalms",
+  "chapter": 45,
+  "chapterTheme": {
+    "twoWordSummary": "Royal Wedding",
+    "themeWords": [
+      {
+        "word": "King",
+        "strongNumber": "H4428",
+        "lemma": "melek",
+        "meaning": "king; ruler"
+      },
+      {
+        "word": "Bride",
+        "strongNumber": "H3618",
+        "lemma": "kallah",
+        "meaning": "bride; daughter-in-law"
+      }
+    ]
+  },
+  "sentenceTheme": "A royal wedding psalm celebrating the king’s majesty, God’s blessing, and the bride’s honor.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "My heart is inditing a good matter: I speak of the things which I have made touching the king: my tongue is the pen of a ready writer.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king; ruler"
+        },
+        {
+          "word": "tongue",
+          "strongNumber": "H3956",
+          "lemma": "lashon",
+          "meaning": "tongue; language; speech"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Thou art fairer than the children of men: grace is poured into thy lips: therefore God hath blessed thee for ever.",
+      "highlightedWords": [
+        {
+          "word": "grace",
+          "strongNumber": "H2580",
+          "lemma": "chen",
+          "meaning": "favor; grace"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’elohim",
+          "meaning": "God; god; mighty one"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Gird thy sword upon thy thigh, O most mighty, with thy glory and thy majesty.",
+      "highlightedWords": [
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword"
+        },
+        {
+          "word": "glory",
+          "strongNumber": "H3519",
+          "lemma": "kavod",
+          "meaning": "glory; honor; weight"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And in thy majesty ride prosperously because of truth and meekness and righteousness; and thy right hand shall teach thee terrible things.",
+      "highlightedWords": [
+        {
+          "word": "truth",
+          "strongNumber": "H571",
+          "lemma": "’emeth",
+          "meaning": "truth; firmness; faithfulness"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "H6664",
+          "lemma": "tsedeq",
+          "meaning": "righteousness; justice"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Thine arrows are sharp in the heart of the king's enemies; whereby the people fall under thee.",
+      "highlightedWords": [
+        {
+          "word": "arrows",
+          "strongNumber": "H2671",
+          "lemma": "chets",
+          "meaning": "arrow"
+        },
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "’oyev",
+          "meaning": "enemy; foe"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Thy throne, O God, is for ever and ever: the sceptre of thy kingdom is a right sceptre.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’elohim",
+          "meaning": "God; god; mighty one"
+        },
+        {
+          "word": "sceptre",
+          "strongNumber": "H7626",
+          "lemma": "shebet",
+          "meaning": "rod; staff; scepter"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Thou lovest righteousness, and hatest wickedness: therefore God, thy God, hath anointed thee with the oil of gladness above thy fellows.",
+      "highlightedWords": [
+        {
+          "word": "anointed",
+          "strongNumber": "H4886",
+          "lemma": "mashach",
+          "meaning": "to anoint; smear; consecrate"
+        },
+        {
+          "word": "oil",
+          "strongNumber": "H8081",
+          "lemma": "shemen",
+          "meaning": "oil; fat; ointment"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "All thy garments smell of myrrh, and aloes, and cassia, out of the ivory palaces, whereby they have made thee glad.",
+      "highlightedWords": [
+        {
+          "word": "myrrh",
+          "strongNumber": "H4753",
+          "lemma": "mor",
+          "meaning": "myrrh; fragrant resin"
+        },
+        {
+          "word": "palaces",
+          "strongNumber": "H1964",
+          "lemma": "hekal",
+          "meaning": "palace; temple"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Kings' daughters were among thy honourable women: upon thy right hand did stand the queen in gold of Ophir.",
+      "highlightedWords": [
+        {
+          "word": "queen",
+          "strongNumber": "H7694",
+          "lemma": "shegal",
+          "meaning": "queen; royal consort"
+        },
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "zahab",
+          "meaning": "gold"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Hearken, O daughter, and consider, and incline thine ear; forget also thine own people, and thy father's house;",
+      "highlightedWords": [
+        {
+          "word": "Hearken",
+          "strongNumber": "H8085",
+          "lemma": "shama‘",
+          "meaning": "to hear; listen; obey"
+        },
+        {
+          "word": "ear",
+          "strongNumber": "H0241",
+          "lemma": "’ozen",
+          "meaning": "ear"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "So shall the king greatly desire thy beauty: for he is thy Lord; and worship thou him.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king; ruler"
+        },
+        {
+          "word": "worship",
+          "strongNumber": "H7812",
+          "lemma": "shachah",
+          "meaning": "to bow down; prostrate; worship"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And the daughter of Tyre shall be there with a gift; even the rich among the people shall intreat thy favour.",
+      "highlightedWords": [
+        {
+          "word": "Tyre",
+          "strongNumber": "H6865",
+          "lemma": "Tsor",
+          "meaning": "Tyre; a Phoenician city"
+        },
+        {
+          "word": "gift",
+          "strongNumber": "H4503",
+          "lemma": "minchah",
+          "meaning": "gift; offering; tribute"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "The king's daughter is all glorious within: her clothing is of wrought gold.",
+      "highlightedWords": [
+        {
+          "word": "daughter",
+          "strongNumber": "H1323",
+          "lemma": "bat",
+          "meaning": "daughter; girl"
+        },
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "zahab",
+          "meaning": "gold"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "She shall be brought unto the king in raiment of needlework: the virgins her companions that follow her shall be brought unto thee.",
+      "highlightedWords": [
+        {
+          "word": "virgins",
+          "strongNumber": "H1330",
+          "lemma": "bethulah",
+          "meaning": "virgin; young woman"
+        },
+        {
+          "word": "needlework",
+          "strongNumber": "H7553",
+          "lemma": "riqmah",
+          "meaning": "embroidered work"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "With gladness and rejoicing shall they be brought: they shall enter into the king's palace.",
+      "highlightedWords": [
+        {
+          "word": "gladness",
+          "strongNumber": "H8057",
+          "lemma": "simchah",
+          "meaning": "joy; gladness"
+        },
+        {
+          "word": "palace",
+          "strongNumber": "H1964",
+          "lemma": "hekal",
+          "meaning": "palace; temple"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Instead of thy fathers shall be thy children, whom thou mayest make princes in all the earth.",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; child; descendant"
+        },
+        {
+          "word": "princes",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "prince; chief; ruler"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "I will make thy name to be remembered in all generations: therefore shall the people praise thee for ever and ever.",
+      "highlightedWords": [
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "name; reputation"
+        },
+        {
+          "word": "praise",
+          "strongNumber": "H3034",
+          "lemma": "yadah",
+          "meaning": "to praise; give thanks; confess"
+        }
+      ]
+    }
+  ]
+}

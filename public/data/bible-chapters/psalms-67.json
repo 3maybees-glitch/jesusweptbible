@@ -1,0 +1,150 @@
+{
+  "book": "Psalms",
+  "chapter": 67,
+  "chapterTheme": {
+    "twoWordSummary": "Blessing Nations",
+    "themeWords": [
+      {
+        "word": "bless",
+        "strongNumber": "H1288",
+        "lemma": "barak",
+        "meaning": "to bless, to show favor"
+      },
+      {
+        "word": "nations",
+        "strongNumber": "H1471",
+        "lemma": "goy",
+        "meaning": "nation, people group, Gentiles"
+      }
+    ]
+  },
+  "sentenceTheme": "God’s gracious blessing on His people reveals His salvation to all nations and leads the whole earth to praise Him.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "God be merciful unto us, and bless us; and cause his face to shine upon us; Selah.",
+      "highlightedWords": [
+        {
+          "word": "merciful",
+          "strongNumber": "H2603",
+          "lemma": "chanan",
+          "meaning": "to be gracious, show favor, have mercy"
+        },
+        {
+          "word": "shine",
+          "strongNumber": "H215",
+          "lemma": "'owr",
+          "meaning": "to give light, cause to shine"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "That thy way may be known upon earth, thy saving health among all nations.",
+      "highlightedWords": [
+        {
+          "word": "way",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way, road, manner, conduct"
+        },
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nations, peoples, Gentiles"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Let the people praise thee, O God; let all the people praise thee.",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "'am",
+          "meaning": "people, nation"
+        },
+        {
+          "word": "praise",
+          "strongNumber": "H3034",
+          "lemma": "yadah",
+          "meaning": "to praise, give thanks, confess"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "O let the nations be glad and sing for joy: for thou shalt judge the people righteously, and govern the nations upon earth. Selah.",
+      "highlightedWords": [
+        {
+          "word": "judge",
+          "strongNumber": "H8199",
+          "lemma": "shaphat",
+          "meaning": "to judge, govern, vindicate"
+        },
+        {
+          "word": "govern",
+          "strongNumber": "H5148",
+          "lemma": "nachah",
+          "meaning": "to lead, guide, direct"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Let the people praise thee, O God; let all the people praise thee.",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "'am",
+          "meaning": "people, nation"
+        },
+        {
+          "word": "praise",
+          "strongNumber": "H3034",
+          "lemma": "yadah",
+          "meaning": "to praise, give thanks, confess"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Then shall the earth yield her increase; and God, even our own God, shall bless us.",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "'erets",
+          "meaning": "earth, land"
+        },
+        {
+          "word": "increase",
+          "strongNumber": "H2981",
+          "lemma": "yebul",
+          "meaning": "produce, yield, increase"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "God shall bless us; and all the ends of the earth shall fear him.",
+      "highlightedWords": [
+        {
+          "word": "bless",
+          "strongNumber": "H1288",
+          "lemma": "barak",
+          "meaning": "to bless, to show favor"
+        },
+        {
+          "word": "ends",
+          "strongNumber": "H657",
+          "lemma": "'ephes",
+          "meaning": "extremity, end, farthest part"
+        }
+      ]
+    }
+  ]
+}

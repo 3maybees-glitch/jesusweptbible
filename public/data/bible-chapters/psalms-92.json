@@ -1,0 +1,294 @@
+{
+  "book": "Psalms",
+  "chapter": 92,
+  "chapterTheme": {
+    "twoWordSummary": "Sabbath Praise",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH",
+        "meaning": "the personal name of the God of Israel"
+      },
+      {
+        "word": "righteous",
+        "strongNumber": "H6662",
+        "lemma": "tsaddiq",
+        "meaning": "just, in the right; one who is in accord with God’s standard"
+      }
+    ]
+  },
+  "sentenceTheme": "A Sabbath song praising the LORD whose works are great: the wicked wither, but the righteous, planted in God’s house, flourish and declare His uprightness.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "It is a good thing to give thanks unto the LORD, and to sing praises unto thy name, O most High:",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        },
+        {
+          "word": "most High",
+          "strongNumber": "H5945",
+          "lemma": "ʿelyon",
+          "meaning": "Most High, highest; title of God"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "To shew forth thy lovingkindness in the morning, and thy faithfulness every night,",
+      "highlightedWords": [
+        {
+          "word": "lovingkindness",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "steadfast love, covenant loyalty, mercy"
+        },
+        {
+          "word": "faithfulness",
+          "strongNumber": "H530",
+          "lemma": "’emunah",
+          "meaning": "faithfulness, firmness, steadiness, truth"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Upon an instrument of ten strings, and upon the psaltery; upon the harp with a solemn sound.",
+      "highlightedWords": [
+        {
+          "word": "psaltery",
+          "strongNumber": "H5035",
+          "lemma": "nevel",
+          "meaning": "stringed instrument, psaltery/lyre"
+        },
+        {
+          "word": "harp",
+          "strongNumber": "H3658",
+          "lemma": "kinnor",
+          "meaning": "harp, lyre; a stringed instrument"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "For thou, LORD, hast made me glad through thy work: I will triumph in the works of thy hands.",
+      "highlightedWords": [
+        {
+          "word": "work",
+          "strongNumber": "H4639",
+          "lemma": "maʿaseh",
+          "meaning": "work, deed, act, workmanship"
+        },
+        {
+          "word": "hands",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand; by extension power or control"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "O LORD, how great are thy works! and thy thoughts are very deep.",
+      "highlightedWords": [
+        {
+          "word": "works",
+          "strongNumber": "H4639",
+          "lemma": "maʿaseh",
+          "meaning": "works, deeds, acts, workmanship"
+        },
+        {
+          "word": "thoughts",
+          "strongNumber": "H4284",
+          "lemma": "machashavah",
+          "meaning": "thought, plan, purpose, device"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "A brutish man knoweth not; neither doth a fool understand this.",
+      "highlightedWords": [
+        {
+          "word": "fool",
+          "strongNumber": "H3684",
+          "lemma": "kesil",
+          "meaning": "fool, dullard, one who is morally and spiritually insensitive"
+        },
+        {
+          "word": "understand",
+          "strongNumber": "H995",
+          "lemma": "bin",
+          "meaning": "to understand, perceive, discern"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "When the wicked spring as the grass, and when all the workers of iniquity do flourish; it is that they shall be destroyed for ever:",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rashaʿ",
+          "meaning": "wicked, guilty, criminal"
+        },
+        {
+          "word": "flourish",
+          "strongNumber": "H6524",
+          "lemma": "parach",
+          "meaning": "to sprout, bud, blossom, flourish"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "But thou, LORD, art most high for evermore.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        },
+        {
+          "word": "most high",
+          "strongNumber": "H5945",
+          "lemma": "ʿelyon",
+          "meaning": "Most High, highest; title of God"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "For, lo, thine enemies, O LORD, for, lo, thine enemies shall perish; all the workers of iniquity shall be scattered.",
+      "highlightedWords": [
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "’oyev",
+          "meaning": "enemy, foe"
+        },
+        {
+          "word": "perish",
+          "strongNumber": "H6",
+          "lemma": "’abad",
+          "meaning": "to perish, be lost, be destroyed"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "But my horn shalt thou exalt like the horn of an unicorn: I shall be anointed with fresh oil.",
+      "highlightedWords": [
+        {
+          "word": "horn",
+          "strongNumber": "H7161",
+          "lemma": "qeren",
+          "meaning": "horn; symbol of strength or power"
+        },
+        {
+          "word": "anointed",
+          "strongNumber": "H4886",
+          "lemma": "mashach",
+          "meaning": "to anoint, smear, consecrate"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Mine eye also shall see my desire on mine enemies, and mine ears shall hear my desire of the wicked that rise up against me.",
+      "highlightedWords": [
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "’oyev",
+          "meaning": "enemy, foe"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rashaʿ",
+          "meaning": "wicked, guilty, criminal"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "The righteous shall flourish like the palm tree: he shall grow like a cedar in Lebanon.",
+      "highlightedWords": [
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just"
+        },
+        {
+          "word": "flourish",
+          "strongNumber": "H6524",
+          "lemma": "parach",
+          "meaning": "to sprout, bud, blossom, flourish"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Those that be planted in the house of the LORD shall flourish in the courts of our God.",
+      "highlightedWords": [
+        {
+          "word": "planted",
+          "strongNumber": "H8362",
+          "lemma": "shathal",
+          "meaning": "to plant, transplant (esp. by streams)"
+        },
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, household, temple"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "They shall still bring forth fruit in old age; they shall be fat and flourishing;",
+      "highlightedWords": [
+        {
+          "word": "fruit",
+          "strongNumber": "H6529",
+          "lemma": "peri",
+          "meaning": "fruit, produce, offspring"
+        },
+        {
+          "word": "flourishing",
+          "strongNumber": "H7488",
+          "lemma": "ra‘anan",
+          "meaning": "green, luxuriant, fresh, flourishing"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "To shew that the LORD is upright: he is my rock, and there is no unrighteousness in him.",
+      "highlightedWords": [
+        {
+          "word": "upright",
+          "strongNumber": "H3477",
+          "lemma": "yashar",
+          "meaning": "upright, straight, right"
+        },
+        {
+          "word": "rock",
+          "strongNumber": "H6697",
+          "lemma": "tsur",
+          "meaning": "rock, cliff; figuratively strength, refuge"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "book": "Job",
+  "chapter": 17,
+  "chapterTheme": {
+    "twoWordSummary": "Despair Plea",
+    "themeWords": [
+      {
+        "word": "hope",
+        "strongNumber": "H8615",
+        "lemma": "tiqvah",
+        "meaning": "hope, expectation"
+      },
+      {
+        "word": "grave",
+        "strongNumber": "H6913",
+        "lemma": "qeber",
+        "meaning": "grave, burial place, sepulchre"
+      }
+    ]
+  },
+  "sentenceTheme": "Job laments his failing strength and the scorn of companions, appealing to God while expecting rest only in the grave.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "My breath is corrupt, my days are extinct, the graves are ready for me.",
+      "highlightedWords": [
+        {
+          "word": "breath",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "spirit, breath, wind"
+        },
+        {
+          "word": "graves",
+          "strongNumber": "H6913",
+          "lemma": "qeber",
+          "meaning": "grave, burial place, sepulchre"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Are there not mockers with me? and doth not mine eye continue in their provocation?",
+      "highlightedWords": [
+        {
+          "word": "mockers",
+          "strongNumber": "H3945",
+          "lemma": "lēts",
+          "meaning": "scoffer, mocker"
+        },
+        {
+          "word": "eye",
+          "strongNumber": "H5869",
+          "lemma": "ʿayin",
+          "meaning": "eye, sight"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Lay down now, put me in a surety with thee; who is he that will strike hands with me?",
+      "highlightedWords": [
+        {
+          "word": "surety",
+          "strongNumber": "H6148",
+          "lemma": "ʿāraḇ",
+          "meaning": "to pledge, be security for"
+        },
+        {
+          "word": "strike",
+          "strongNumber": "H8628",
+          "lemma": "tāqaʿ",
+          "meaning": "to strike, clap, thrust"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "For thou hast hid their heart from understanding: therefore shalt thou not exalt them.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "lēḇ",
+          "meaning": "heart, inner being, mind"
+        },
+        {
+          "word": "understanding",
+          "strongNumber": "H8394",
+          "lemma": "tĕbûnāh",
+          "meaning": "understanding, insight"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "He that speaketh flattery to his friends, even the eyes of his children shall fail.",
+      "highlightedWords": [
+        {
+          "word": "friends",
+          "strongNumber": "H7453",
+          "lemma": "rēaʿ",
+          "meaning": "friend, companion, neighbor"
+        },
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child, descendant"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "He hath made me also a byword of the people; and aforetime I was as a tabret.",
+      "highlightedWords": [
+        {
+          "word": "byword",
+          "strongNumber": "H4912",
+          "lemma": "māšāl",
+          "meaning": "proverb, byword, parable"
+        },
+        {
+          "word": "tabret",
+          "strongNumber": "H8596",
+          "lemma": "tōph",
+          "meaning": "timbrel, tambourine"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Mine eye also is dim by reason of sorrow, and all my members are as a shadow.",
+      "highlightedWords": [
+        {
+          "word": "sorrow",
+          "strongNumber": "H3708",
+          "lemma": "kaʿas",
+          "meaning": "vexation, grief, sorrow"
+        },
+        {
+          "word": "shadow",
+          "strongNumber": "H6738",
+          "lemma": "tsel",
+          "meaning": "shadow, shade"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Upright men shall be astonied at this, and the innocent shall stir up himself against the hypocrite.",
+      "highlightedWords": [
+        {
+          "word": "Upright",
+          "strongNumber": "H3477",
+          "lemma": "yāšār",
+          "meaning": "upright, straight, just"
+        },
+        {
+          "word": "hypocrite",
+          "strongNumber": "H2611",
+          "lemma": "ḥānēph",
+          "meaning": "godless, profane, hypocrite"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "The righteous also shall hold on his way, and he that hath clean hands shall be stronger and stronger.",
+      "highlightedWords": [
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "ṣaddîq",
+          "meaning": "righteous, just"
+        },
+        {
+          "word": "hands",
+          "strongNumber": "H3709",
+          "lemma": "kaph",
+          "meaning": "hand, palm"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "But as for you all, do ye return, and come now: for I cannot find one wise man among you.",
+      "highlightedWords": [
+        {
+          "word": "wise",
+          "strongNumber": "H2450",
+          "lemma": "ḥākām",
+          "meaning": "wise, skillful"
+        },
+        {
+          "word": "man",
+          "strongNumber": "H376",
+          "lemma": "’ish",
+          "meaning": "man, male, person"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "My days are past, my purposes are broken off, even the thoughts of my heart.",
+      "highlightedWords": [
+        {
+          "word": "days",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day, days, time"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "lēḇ",
+          "meaning": "heart, inner being, mind"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "They change the night into day: the light is short because of darkness.",
+      "highlightedWords": [
+        {
+          "word": "night",
+          "strongNumber": "H3915",
+          "lemma": "laylah",
+          "meaning": "night"
+        },
+        {
+          "word": "light",
+          "strongNumber": "H216",
+          "lemma": "’or",
+          "meaning": "light, illumination"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "If I wait, the grave is mine house: I have made my bed in the darkness.",
+      "highlightedWords": [
+        {
+          "word": "grave",
+          "strongNumber": "H6913",
+          "lemma": "qeber",
+          "meaning": "grave, burial place, sepulchre"
+        },
+        {
+          "word": "darkness",
+          "strongNumber": "H2822",
+          "lemma": "ḥoshek",
+          "meaning": "darkness, obscurity"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "I have said to corruption, Thou art my father: to the worm, Thou art my mother, and my sister.",
+      "highlightedWords": [
+        {
+          "word": "corruption",
+          "strongNumber": "H7845",
+          "lemma": "shaḥath",
+          "meaning": "corruption, decay, pit"
+        },
+        {
+          "word": "worm",
+          "strongNumber": "H7415",
+          "lemma": "rimmah",
+          "meaning": "worm, maggot"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And where is now my hope? as for my hope, who shall see it?",
+      "highlightedWords": [
+        {
+          "word": "hope",
+          "strongNumber": "H8615",
+          "lemma": "tiqvah",
+          "meaning": "hope, expectation"
+        },
+        {
+          "word": "see",
+          "strongNumber": "H7200",
+          "lemma": "ra’ah",
+          "meaning": "to see, behold"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "They shall go down to the bars of the pit, when our rest together is in the dust.",
+      "highlightedWords": [
+        {
+          "word": "bars",
+          "strongNumber": "H905",
+          "lemma": "bad",
+          "meaning": "bar, bolt (of a gate)"
+        },
+        {
+          "word": "dust",
+          "strongNumber": "H6083",
+          "lemma": "ʿaphar",
+          "meaning": "dust, dry earth"
+        }
+      ]
+    }
+  ]
+}

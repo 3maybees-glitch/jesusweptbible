@@ -1,0 +1,402 @@
+{
+  "book": "Job",
+  "chapter": 7,
+  "chapterTheme": {
+    "twoWordSummary": "Job's Lament",
+    "themeWords": [
+      {
+        "word": "vanity",
+        "strongNumber": "H7723",
+        "lemma": "shav'",
+        "meaning": "emptiness; worthlessness; vanity"
+      },
+      {
+        "word": "dust",
+        "strongNumber": "H6083",
+        "lemma": "'aphar",
+        "meaning": "dry earth; dust; ashes"
+      }
+    ]
+  },
+  "sentenceTheme": "Job laments the misery and brevity of life, pleads for relief from God, and asks for forgiveness before he dies.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Is there not an appointed time to man upon earth? are not his days also like the days of an hireling?",
+      "highlightedWords": [
+        {
+          "word": "man",
+          "strongNumber": "H582",
+          "lemma": "'enosh",
+          "meaning": "man; mortal; humankind"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "'erets",
+          "meaning": "land; earth; ground"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "As a servant earnestly desireth the shadow, and as an hireling looketh for the reward of his work:",
+      "highlightedWords": [
+        {
+          "word": "servant",
+          "strongNumber": "H5650",
+          "lemma": "'ebed",
+          "meaning": "servant; slave; bondman"
+        },
+        {
+          "word": "hireling",
+          "strongNumber": "H7916",
+          "lemma": "sakir",
+          "meaning": "a hired worker; wage-laborer"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "So am I made to possess months of vanity, and wearisome nights are appointed to me.",
+      "highlightedWords": [
+        {
+          "word": "months",
+          "strongNumber": "H339",
+          "lemma": "yerach",
+          "meaning": "month; lunar month"
+        },
+        {
+          "word": "vanity",
+          "strongNumber": "H7723",
+          "lemma": "shav'",
+          "meaning": "emptiness; futility; vanity"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "When I lie down, I say, When shall I arise, and the night be gone? and I am full of tossings to and fro unto the dawning of the day.",
+      "highlightedWords": [
+        {
+          "word": "night",
+          "strongNumber": "H3915",
+          "lemma": "laylah",
+          "meaning": "night; nighttime"
+        },
+        {
+          "word": "day",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day; daylight; time"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "My flesh is clothed with worms and clods of dust; my skin is broken, and become loathsome.",
+      "highlightedWords": [
+        {
+          "word": "flesh",
+          "strongNumber": "H1320",
+          "lemma": "basar",
+          "meaning": "flesh; body"
+        },
+        {
+          "word": "dust",
+          "strongNumber": "H6083",
+          "lemma": "'aphar",
+          "meaning": "dust; loose earth; ashes"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "My days are swifter than a weaver's shuttle, and are spent without hope.",
+      "highlightedWords": [
+        {
+          "word": "days",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day; lifespan; period of time"
+        },
+        {
+          "word": "hope",
+          "strongNumber": "H8615",
+          "lemma": "tiqvah",
+          "meaning": "hope; expectation"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "O remember that my life is wind: mine eye shall no more see good.",
+      "highlightedWords": [
+        {
+          "word": "life",
+          "strongNumber": "H2416",
+          "lemma": "chay",
+          "meaning": "life; living being; vitality"
+        },
+        {
+          "word": "wind",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "wind; breath; spirit"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "The eye of him that hath seen me shall see me no more: thine eyes are upon me, and I am not.",
+      "highlightedWords": [
+        {
+          "word": "eye",
+          "strongNumber": "H5869",
+          "lemma": "'ayin",
+          "meaning": "eye; appearance; sight"
+        },
+        {
+          "word": "see",
+          "strongNumber": "H7200",
+          "lemma": "ra'ah",
+          "meaning": "to see; look; perceive"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "As the cloud is consumed and vanisheth away: so he that goeth down to the grave shall come up no more.",
+      "highlightedWords": [
+        {
+          "word": "cloud",
+          "strongNumber": "H6051",
+          "lemma": "'anan",
+          "meaning": "cloud; mass of vapor"
+        },
+        {
+          "word": "grave",
+          "strongNumber": "H7585",
+          "lemma": "Sheol",
+          "meaning": "the realm of the dead; grave"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "He shall return no more to his house, neither shall his place know him any more.",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayit",
+          "meaning": "house; household; dwelling"
+        },
+        {
+          "word": "place",
+          "strongNumber": "H4725",
+          "lemma": "maqom",
+          "meaning": "place; location; site"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Therefore I will not refrain my mouth; I will speak in the anguish of my spirit; I will complain in the bitterness of my soul.",
+      "highlightedWords": [
+        {
+          "word": "spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "spirit; breath; wind"
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul; life; inner self"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Am I a sea, or a whale, that thou settest a watch over me?",
+      "highlightedWords": [
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "sea; large body of water"
+        },
+        {
+          "word": "whale",
+          "strongNumber": "H8577",
+          "lemma": "tannin",
+          "meaning": "sea monster; great sea creature"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "When I say, My bed shall comfort me, my couch shall ease my complaint;",
+      "highlightedWords": [
+        {
+          "word": "bed",
+          "strongNumber": "H4296",
+          "lemma": "mittah",
+          "meaning": "bed; couch"
+        },
+        {
+          "word": "complaint",
+          "strongNumber": "H7879",
+          "lemma": "siychah",
+          "meaning": "complaint; meditation; musing"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Then thou scarest me with dreams, and terrifiest me through visions:",
+      "highlightedWords": [
+        {
+          "word": "dreams",
+          "strongNumber": "H2472",
+          "lemma": "chalom",
+          "meaning": "dream; vision in sleep"
+        },
+        {
+          "word": "terrifiest",
+          "strongNumber": "H1204",
+          "lemma": "ba'ath",
+          "meaning": "to terrify; startle; alarm"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "So that my soul chooseth strangling, and death rather than my life.",
+      "highlightedWords": [
+        {
+          "word": "death",
+          "strongNumber": "H4194",
+          "lemma": "mavet",
+          "meaning": "death"
+        },
+        {
+          "word": "life",
+          "strongNumber": "H2416",
+          "lemma": "chay",
+          "meaning": "life; living"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "I loathe it; I would not live alway: let me alone; for my days are vanity.",
+      "highlightedWords": [
+        {
+          "word": "live",
+          "strongNumber": "H2421",
+          "lemma": "chayah",
+          "meaning": "to live; be alive"
+        },
+        {
+          "word": "days",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "days; lifespan"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "What is man, that thou shouldest magnify him? and that thou shouldest set thine heart upon him?",
+      "highlightedWords": [
+        {
+          "word": "man",
+          "strongNumber": "H582",
+          "lemma": "'enosh",
+          "meaning": "man; mortal; frail human"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart; inner being; mind"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And that thou shouldest visit him every morning, and try him every moment?",
+      "highlightedWords": [
+        {
+          "word": "visit",
+          "strongNumber": "H6485",
+          "lemma": "paqad",
+          "meaning": "to visit; attend; muster; care for"
+        },
+        {
+          "word": "moment",
+          "strongNumber": "H7281",
+          "lemma": "rega'",
+          "meaning": "a moment; an instant"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "How long wilt thou not depart from me, nor let me alone till I swallow down my spittle?",
+      "highlightedWords": [
+        {
+          "word": "till",
+          "strongNumber": "H5704",
+          "lemma": "'ad",
+          "meaning": "as far as; until"
+        },
+        {
+          "word": "swallow",
+          "strongNumber": "H1104",
+          "lemma": "bala'",
+          "meaning": "to swallow; engulf; consume"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "I have sinned; what shall I do unto thee, O thou preserver of men? why hast thou set me as a mark against thee, so that I am a burden to myself?",
+      "highlightedWords": [
+        {
+          "word": "sinned",
+          "strongNumber": "H2398",
+          "lemma": "chata'",
+          "meaning": "to sin; miss the mark; offend"
+        },
+        {
+          "word": "men",
+          "strongNumber": "H120",
+          "lemma": "adam",
+          "meaning": "man; humankind"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And why dost thou not pardon my transgression, and take away mine iniquity? for now shall I sleep in the dust; and thou shalt seek me in the morning, but I shall not be.",
+      "highlightedWords": [
+        {
+          "word": "transgression",
+          "strongNumber": "H6588",
+          "lemma": "pesha'",
+          "meaning": "transgression; rebellion; wrongdoing"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "'avon",
+          "meaning": "iniquity; guilt; perversity"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "book": "Psalms",
+  "chapter": 108,
+  "chapterTheme": {
+    "twoWordSummary": "Praise Deliverance",
+    "themeWords": [
+      {
+        "word": "mercy",
+        "strongNumber": "H2617",
+        "lemma": "hesed",
+        "meaning": "covenant love; kindness; mercy"
+      },
+      {
+        "word": "save",
+        "strongNumber": "H3467",
+        "lemma": "yasha",
+        "meaning": "to save; deliver; give victory"
+      }
+    ]
+  },
+  "sentenceTheme": "David exalts God with steadfast praise and trusts Him for deliverance and victory over the nations.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "O God, my heart is fixed; I will sing and give praise, even with my glory.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; mighty one; the true God"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "inner person; heart; mind"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Awake, psaltery and harp: I myself will awake early.",
+      "highlightedWords": [
+        {
+          "word": "psaltery",
+          "strongNumber": "H5035",
+          "lemma": "nevel",
+          "meaning": "a stringed instrument; lute/psaltery"
+        },
+        {
+          "word": "harp",
+          "strongNumber": "H3658",
+          "lemma": "kinnor",
+          "meaning": "harp; lyre"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "I will praise thee, O LORD, among the people: and I will sing praises unto thee among the nations.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the divine name; the LORD"
+        },
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation; people; Gentiles"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "For thy mercy is great above the heavens: and thy truth reacheth unto the clouds.",
+      "highlightedWords": [
+        {
+          "word": "mercy",
+          "strongNumber": "H2617",
+          "lemma": "hesed",
+          "meaning": "covenant love; kindness; mercy"
+        },
+        {
+          "word": "heavens",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens; sky"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Be thou exalted, O God, above the heavens: and thy glory above all the earth;",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; mighty one; the true God"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "earth; land; ground"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "That thy beloved may be delivered: save with thy right hand, and answer me.",
+      "highlightedWords": [
+        {
+          "word": "beloved",
+          "strongNumber": "H3039",
+          "lemma": "yedid",
+          "meaning": "beloved; loved one"
+        },
+        {
+          "word": "save",
+          "strongNumber": "H3467",
+          "lemma": "yasha",
+          "meaning": "to save; deliver; give victory"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "God hath spoken in his holiness; I will rejoice, I will divide Shechem, and mete out the valley of Succoth.",
+      "highlightedWords": [
+        {
+          "word": "holiness",
+          "strongNumber": "H6944",
+          "lemma": "qodesh",
+          "meaning": "holiness; sacredness"
+        },
+        {
+          "word": "Shechem",
+          "strongNumber": "H7927",
+          "lemma": "Shekhem",
+          "meaning": "Shechem; a city in Ephraim"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Gilead is mine; Manasseh is mine; Ephraim also is the strength of mine head; Judah is my lawgiver;",
+      "highlightedWords": [
+        {
+          "word": "Ephraim",
+          "strongNumber": "H669",
+          "lemma": "Ephrayim",
+          "meaning": "Ephraim; a tribe of Israel"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah; praised; a tribe/kingdom of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Moab is my washpot; over Edom will I cast out my shoe; over Philistia will I triumph.",
+      "highlightedWords": [
+        {
+          "word": "Moab",
+          "strongNumber": "H4124",
+          "lemma": "Moab",
+          "meaning": "Moab; a nation east of the Dead Sea"
+        },
+        {
+          "word": "Edom",
+          "strongNumber": "H123",
+          "lemma": "Edom",
+          "meaning": "Edom; Esau; a nation south of Judah"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Who will bring me into the strong city? who will lead me into Edom?",
+      "highlightedWords": [
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "ir",
+          "meaning": "city; town"
+        },
+        {
+          "word": "Edom",
+          "strongNumber": "H123",
+          "lemma": "Edom",
+          "meaning": "Edom; Esau; a nation south of Judah"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Wilt not thou, O God, who hast cast us off? and wilt not thou, O God, go forth with our hosts?",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; mighty one; the true God"
+        },
+        {
+          "word": "hosts",
+          "strongNumber": "H6635",
+          "lemma": "tsaba",
+          "meaning": "army; warfare; hosts"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Give us help from trouble: for vain is the help of man.",
+      "highlightedWords": [
+        {
+          "word": "help",
+          "strongNumber": "H5828",
+          "lemma": "ezer",
+          "meaning": "help; support; aid"
+        },
+        {
+          "word": "man",
+          "strongNumber": "H120",
+          "lemma": "adam",
+          "meaning": "man; humankind"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Through God we shall do valiantly: for he it is that shall tread down our enemies.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; mighty one; the true God"
+        },
+        {
+          "word": "enemies",
+          "strongNumber": "H6862",
+          "lemma": "tsar",
+          "meaning": "adversary; foe; enemy"
+        }
+      ]
+    }
+  ]
+}

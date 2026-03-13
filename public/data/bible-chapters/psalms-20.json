@@ -1,0 +1,186 @@
+{
+  "book": "Psalms",
+  "chapter": 20,
+  "chapterTheme": {
+    "twoWordSummary": "Royal Intercession",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "יהוה",
+        "meaning": "The divine name, Yahweh; the LORD"
+      },
+      {
+        "word": "salvation",
+        "strongNumber": "H3444",
+        "lemma": "יְשׁוּעָה",
+        "meaning": "salvation, deliverance, victory"
+      }
+    ]
+  },
+  "sentenceTheme": "A congregational prayer asking the LORD to grant the king victory, help, and salvation.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "The LORD hear thee in the day of trouble; the name of the God of Jacob defend thee;",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "יהוה",
+          "meaning": "The divine name, Yahweh; the LORD"
+        },
+        {
+          "word": "trouble",
+          "strongNumber": "H6869",
+          "lemma": "צָרָה",
+          "meaning": "distress, trouble, adversity"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Send thee help from the sanctuary, and strengthen thee out of Zion;",
+      "highlightedWords": [
+        {
+          "word": "sanctuary",
+          "strongNumber": "H6944",
+          "lemma": "קֹדֶשׁ",
+          "meaning": "holiness; holy place, sanctuary"
+        },
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "צִיּוֹן",
+          "meaning": "Zion, the hill in Jerusalem; by extension, Jerusalem"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Remember all thy offerings, and accept thy burnt sacrifice; Selah.",
+      "highlightedWords": [
+        {
+          "word": "offerings",
+          "strongNumber": "H4503",
+          "lemma": "מִנְחָה",
+          "meaning": "gift, tribute; grain/meal offering"
+        },
+        {
+          "word": "burnt sacrifice",
+          "strongNumber": "H5930",
+          "lemma": "עֹלָה",
+          "meaning": "burnt offering that ascends in smoke"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Grant thee according to thine own heart, and fulfil all thy counsel.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "לֵב",
+          "meaning": "heart, inner person, mind, will"
+        },
+        {
+          "word": "counsel",
+          "strongNumber": "H6098",
+          "lemma": "עֵצָה",
+          "meaning": "counsel, advice, plan"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "We will rejoice in thy salvation, and in the name of our God we will set up our banners: the LORD fulfil all thy petitions.",
+      "highlightedWords": [
+        {
+          "word": "salvation",
+          "strongNumber": "H3444",
+          "lemma": "יְשׁוּעָה",
+          "meaning": "salvation, deliverance, victory"
+        },
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "שֵׁם",
+          "meaning": "name, reputation, renown"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Now know I that the LORD saveth his anointed; he will hear him from his holy heaven with the saving strength of his right hand.",
+      "highlightedWords": [
+        {
+          "word": "anointed",
+          "strongNumber": "H4899",
+          "lemma": "מָשִׁיחַ",
+          "meaning": "anointed one; consecrated king"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "שָׁמַיִם",
+          "meaning": "heavens, sky"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Some trust in chariots, and some in horses: but we will remember the name of the LORD our God.",
+      "highlightedWords": [
+        {
+          "word": "trust",
+          "strongNumber": "H982",
+          "lemma": "בָּטַח",
+          "meaning": "to trust, be confident, rely upon"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "יהוה",
+          "meaning": "The divine name, Yahweh; the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "They are brought down and fallen: but we are risen, and stand upright.",
+      "highlightedWords": [
+        {
+          "word": "fallen",
+          "strongNumber": "H5307",
+          "lemma": "נָפַל",
+          "meaning": "to fall, collapse"
+        },
+        {
+          "word": "risen",
+          "strongNumber": "H6965",
+          "lemma": "קוּם",
+          "meaning": "to arise, stand up"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Save, LORD: let the king hear us when we call.",
+      "highlightedWords": [
+        {
+          "word": "Save",
+          "strongNumber": "H3467",
+          "lemma": "יָשַׁע",
+          "meaning": "to save, deliver, give victory"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "מֶלֶךְ",
+          "meaning": "king, ruler"
+        }
+      ]
+    }
+  ]
+}

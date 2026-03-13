@@ -1,0 +1,456 @@
+{
+  "book": "Psalms",
+  "chapter": 71,
+  "chapterTheme": {
+    "twoWordSummary": "Lifelong Trust",
+    "themeWords": [
+      {
+        "word": "righteousness",
+        "strongNumber": "H6666",
+        "lemma": "tsedaqah",
+        "meaning": "righteousness; justice"
+      },
+      {
+        "word": "trust",
+        "strongNumber": "H2620",
+        "lemma": "chasah",
+        "meaning": "to seek refuge; to trust"
+      }
+    ]
+  },
+  "sentenceTheme": "From youth to old age, the psalmist seeks God’s deliverance and praises His righteousness continually.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "In thee, O LORD, do I put my trust: let me never be put to confusion.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God; the LORD"
+        },
+        {
+          "word": "trust",
+          "strongNumber": "H2620",
+          "lemma": "chasah",
+          "meaning": "to take refuge; to trust"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Deliver me in thy righteousness, and cause me to escape: incline thine ear unto me, and save me.",
+      "highlightedWords": [
+        {
+          "word": "Deliver",
+          "strongNumber": "H5337",
+          "lemma": "natsal",
+          "meaning": "to snatch away; to deliver, rescue"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "tsedaqah",
+          "meaning": "righteousness; justice"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Be thou my strong habitation, whereunto I may continually resort: thou hast given commandment to save me; for thou art my rock and my fortress.",
+      "highlightedWords": [
+        {
+          "word": "rock",
+          "strongNumber": "H6697",
+          "lemma": "tsur",
+          "meaning": "rock; cliff; a strong, reliable support"
+        },
+        {
+          "word": "fortress",
+          "strongNumber": "H4686",
+          "lemma": "metsudah",
+          "meaning": "fortress; stronghold"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Deliver me, O my God, out of the hand of the wicked, out of the hand of the unrighteous and cruel man.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; mighty one"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha",
+          "meaning": "wicked; guilty; criminal"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "For thou art my hope, O Lord GOD: thou art my trust from my youth.",
+      "highlightedWords": [
+        {
+          "word": "hope",
+          "strongNumber": "H8615",
+          "lemma": "tiqvah",
+          "meaning": "hope; expectation"
+        },
+        {
+          "word": "GOD",
+          "strongNumber": "H3069",
+          "lemma": "Yehovih",
+          "meaning": "Lord GOD (a form of the divine name used with Adonai)"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "By thee have I been holden up from the womb: thou art he that took me out of my mother's bowels: my praise shall be continually of thee.",
+      "highlightedWords": [
+        {
+          "word": "womb",
+          "strongNumber": "H990",
+          "lemma": "beten",
+          "meaning": "belly; womb"
+        },
+        {
+          "word": "praise",
+          "strongNumber": "H8416",
+          "lemma": "tehillah",
+          "meaning": "praise; song of praise"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "I am as a wonder unto many; but thou art my strong refuge.",
+      "highlightedWords": [
+        {
+          "word": "wonder",
+          "strongNumber": "H4159",
+          "lemma": "mopheth",
+          "meaning": "wonder; sign; portent"
+        },
+        {
+          "word": "refuge",
+          "strongNumber": "H4268",
+          "lemma": "machseh",
+          "meaning": "refuge; shelter"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Let my mouth be filled with thy praise and with thy honour all the day.",
+      "highlightedWords": [
+        {
+          "word": "mouth",
+          "strongNumber": "H6310",
+          "lemma": "peh",
+          "meaning": "mouth; speech"
+        },
+        {
+          "word": "praise",
+          "strongNumber": "H8416",
+          "lemma": "tehillah",
+          "meaning": "praise; song of praise"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Cast me not off in the time of old age; forsake me not when my strength faileth.",
+      "highlightedWords": [
+        {
+          "word": "forsake",
+          "strongNumber": "H5800",
+          "lemma": "azab",
+          "meaning": "to leave; forsake; abandon"
+        },
+        {
+          "word": "strength",
+          "strongNumber": "H3581",
+          "lemma": "koach",
+          "meaning": "strength; power; might"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "For mine enemies speak against me; and they that lay wait for my soul take counsel together,",
+      "highlightedWords": [
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "oyev",
+          "meaning": "enemy; foe"
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul; life; person"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Saying, God hath forsaken him: persecute and take him; for there is none to deliver him.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; mighty one"
+        },
+        {
+          "word": "deliver",
+          "strongNumber": "H5337",
+          "lemma": "natsal",
+          "meaning": "to deliver; rescue"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "O God, be not far from me: O my God, make haste for my help.",
+      "highlightedWords": [
+        {
+          "word": "haste",
+          "strongNumber": "H2363",
+          "lemma": "chush",
+          "meaning": "to hurry; make haste"
+        },
+        {
+          "word": "help",
+          "strongNumber": "H5828",
+          "lemma": "ezer",
+          "meaning": "help; aid; support"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Let them be confounded and consumed that are adversaries to my soul; let them be covered with reproach and dishonour that seek my hurt.",
+      "highlightedWords": [
+        {
+          "word": "confounded",
+          "strongNumber": "H954",
+          "lemma": "bosh",
+          "meaning": "to be ashamed; confounded"
+        },
+        {
+          "word": "reproach",
+          "strongNumber": "H2781",
+          "lemma": "cherpah",
+          "meaning": "reproach; disgrace"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "But I will hope continually, and will yet praise thee more and more.",
+      "highlightedWords": [
+        {
+          "word": "hope",
+          "strongNumber": "H3176",
+          "lemma": "yachal",
+          "meaning": "to wait; hope expectantly"
+        },
+        {
+          "word": "praise",
+          "strongNumber": "H1984",
+          "lemma": "halal",
+          "meaning": "to praise; boast; shine"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "My mouth shall shew forth thy righteousness and thy salvation all the day; for I know not the numbers thereof.",
+      "highlightedWords": [
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "tsedaqah",
+          "meaning": "righteousness; justice"
+        },
+        {
+          "word": "salvation",
+          "strongNumber": "H3444",
+          "lemma": "yeshuah",
+          "meaning": "salvation; deliverance"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "I will go in the strength of the Lord GOD: I will make mention of thy righteousness, even of thine only.",
+      "highlightedWords": [
+        {
+          "word": "strength",
+          "strongNumber": "H5797",
+          "lemma": "oz",
+          "meaning": "strength; might"
+        },
+        {
+          "word": "GOD",
+          "strongNumber": "H3069",
+          "lemma": "Yehovih",
+          "meaning": "Lord GOD (a form of the divine name used with Adonai)"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "O God, thou hast taught me from my youth: and hitherto have I declared thy wondrous works.",
+      "highlightedWords": [
+        {
+          "word": "taught",
+          "strongNumber": "H3925",
+          "lemma": "lamad",
+          "meaning": "to learn; to teach"
+        },
+        {
+          "word": "wondrous",
+          "strongNumber": "H6381",
+          "lemma": "pala",
+          "meaning": "to be wonderful; do marvelous things"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Now also when I am old and greyheaded, O God, forsake me not; until I have shewed thy strength unto this generation, and thy power to every one that is to come.",
+      "highlightedWords": [
+        {
+          "word": "greyheaded",
+          "strongNumber": "H7872",
+          "lemma": "seybah",
+          "meaning": "gray hair; old age"
+        },
+        {
+          "word": "power",
+          "strongNumber": "H1369",
+          "lemma": "geburah",
+          "meaning": "power; might; strength"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Thy righteousness also, O God, is very high, who hast done great things: O God, who is like unto thee!",
+      "highlightedWords": [
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "tsedaqah",
+          "meaning": "righteousness; justice"
+        },
+        {
+          "word": "great",
+          "strongNumber": "H1419",
+          "lemma": "gadol",
+          "meaning": "great; large; important"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Thou, which hast shewed me great and sore troubles, shalt quicken me again, and shalt bring me up again from the depths of the earth.",
+      "highlightedWords": [
+        {
+          "word": "quicken",
+          "strongNumber": "H2421",
+          "lemma": "chayah",
+          "meaning": "to live; revive; preserve alive"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "earth; land"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Thou shalt increase my greatness, and comfort me on every side.",
+      "highlightedWords": [
+        {
+          "word": "increase",
+          "strongNumber": "H7235",
+          "lemma": "rabah",
+          "meaning": "to be/become many; increase"
+        },
+        {
+          "word": "comfort",
+          "strongNumber": "H5162",
+          "lemma": "nacham",
+          "meaning": "to comfort; console"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "I will also praise thee with the psaltery, even thy truth, O my God: unto thee will I sing with the harp, O thou Holy One of Israel.",
+      "highlightedWords": [
+        {
+          "word": "psaltery",
+          "strongNumber": "H5035",
+          "lemma": "nebel",
+          "meaning": "a stringed instrument; psaltery"
+        },
+        {
+          "word": "truth",
+          "strongNumber": "H571",
+          "lemma": "emeth",
+          "meaning": "truth; firmness; faithfulness"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "My lips shall greatly rejoice when I sing unto thee; and my soul, which thou hast redeemed.",
+      "highlightedWords": [
+        {
+          "word": "lips",
+          "strongNumber": "H8193",
+          "lemma": "saphah",
+          "meaning": "lip; language; speech"
+        },
+        {
+          "word": "redeemed",
+          "strongNumber": "H1350",
+          "lemma": "ga'al",
+          "meaning": "to redeem; act as kinsman-redeemer"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "My tongue also shall talk of thy righteousness all the day long: for they are confounded, for they are brought unto shame, that seek my hurt.",
+      "highlightedWords": [
+        {
+          "word": "tongue",
+          "strongNumber": "H3956",
+          "lemma": "lashon",
+          "meaning": "tongue; language"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "tsedaqah",
+          "meaning": "righteousness; justice"
+        }
+      ]
+    }
+  ]
+}

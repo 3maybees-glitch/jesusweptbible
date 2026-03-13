@@ -1,0 +1,222 @@
+{
+  "book": "Psalms",
+  "chapter": 32,
+  "chapterTheme": {
+    "twoWordSummary": "Blessed Forgiveness",
+    "themeWords": [
+      {
+        "word": "Blessed",
+        "strongNumber": "H835",
+        "lemma": "esher",
+        "meaning": "happiness, blessedness"
+      },
+      {
+        "word": "forgiven",
+        "strongNumber": "H5375",
+        "lemma": "nasa'",
+        "meaning": "to lift, carry away; to forgive"
+      }
+    ]
+  },
+  "sentenceTheme": "David celebrates the blessedness of forgiveness, urges the godly to pray, and shares God’s promise of instruction and guidance for those who trust in the LORD.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Blessed is he whose transgression is forgiven, whose sin is covered.",
+      "highlightedWords": [
+        {
+          "word": "Blessed",
+          "strongNumber": "H835",
+          "lemma": "esher",
+          "meaning": "happiness, blessedness"
+        },
+        {
+          "word": "transgression",
+          "strongNumber": "H6588",
+          "lemma": "pesha'",
+          "meaning": "transgression, rebellion"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Blessed is the man unto whom the LORD imputeth not iniquity, and in whose spirit there is no guile.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel (YHWH)"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "avon",
+          "meaning": "iniquity, guilt, consequence of sin"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "When I kept silence, my bones waxed old through my roaring all the day long.",
+      "highlightedWords": [
+        {
+          "word": "bones",
+          "strongNumber": "H6106",
+          "lemma": "etsem",
+          "meaning": "bone, substance, strength"
+        },
+        {
+          "word": "roaring",
+          "strongNumber": "H7581",
+          "lemma": "sha'agah",
+          "meaning": "roaring, groaning"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "For day and night thy hand was heavy upon me: my moisture is turned into the drought of summer. Selah.",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power, strength"
+        },
+        {
+          "word": "Selah",
+          "strongNumber": "H5542",
+          "lemma": "selah",
+          "meaning": "musical or liturgical pause"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "I acknowledged my sin unto thee, and mine iniquity have I not hid. I said, I will confess my transgressions unto the LORD; and thou forgavest the iniquity of my sin. Selah.",
+      "highlightedWords": [
+        {
+          "word": "confess",
+          "strongNumber": "H3034",
+          "lemma": "yadah",
+          "meaning": "to confess, praise, give thanks"
+        },
+        {
+          "word": "forgavest",
+          "strongNumber": "H5375",
+          "lemma": "nasa'",
+          "meaning": "to lift, carry away; to forgive"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "For this shall every one that is godly pray unto thee in a time when thou mayest be found: surely in the floods of great waters they shall not come nigh unto him.",
+      "highlightedWords": [
+        {
+          "word": "godly",
+          "strongNumber": "H2623",
+          "lemma": "chasid",
+          "meaning": "faithful, godly, devout"
+        },
+        {
+          "word": "pray",
+          "strongNumber": "H6419",
+          "lemma": "palal",
+          "meaning": "to pray, intercede"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Thou art my hiding place; thou shalt preserve me from trouble; thou shalt compass me about with songs of deliverance. Selah.",
+      "highlightedWords": [
+        {
+          "word": "hiding place",
+          "strongNumber": "H5643",
+          "lemma": "sether",
+          "meaning": "hiding place, shelter, secret place"
+        },
+        {
+          "word": "Selah",
+          "strongNumber": "H5542",
+          "lemma": "selah",
+          "meaning": "musical or liturgical pause"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "I will instruct thee and teach thee in the way which thou shalt go: I will guide thee with mine eye.",
+      "highlightedWords": [
+        {
+          "word": "instruct",
+          "strongNumber": "H7919",
+          "lemma": "sakal",
+          "meaning": "to make wise, instruct"
+        },
+        {
+          "word": "eye",
+          "strongNumber": "H5869",
+          "lemma": "ayin",
+          "meaning": "eye; by extension, watchful care"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Be ye not as the horse, or as the mule, which have no understanding: whose mouth must be held in with bit and bridle, lest they come near unto thee.",
+      "highlightedWords": [
+        {
+          "word": "horse",
+          "strongNumber": "H5483",
+          "lemma": "sus",
+          "meaning": "horse, warhorse"
+        },
+        {
+          "word": "bridle",
+          "strongNumber": "H7448",
+          "lemma": "resen",
+          "meaning": "bridle, restraint"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Many sorrows shall be to the wicked: but he that trusteth in the LORD, mercy shall compass him about.",
+      "highlightedWords": [
+        {
+          "word": "trusteth",
+          "strongNumber": "H982",
+          "lemma": "batach",
+          "meaning": "to trust, be confident"
+        },
+        {
+          "word": "mercy",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "steadfast love, kindness, mercy"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Be glad in the LORD, and rejoice, ye righteous: and shout for joy, all ye that are upright in heart.",
+      "highlightedWords": [
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just, in the right"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner person, mind"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,384 @@
+{
+  "book": "Psalms",
+  "chapter": 49,
+  "chapterTheme": {
+    "twoWordSummary": "Wealth Futility",
+    "themeWords": [
+      {
+        "word": "riches",
+        "strongNumber": "H6239",
+        "lemma": "osher",
+        "meaning": "riches, wealth"
+      },
+      {
+        "word": "redeem",
+        "strongNumber": "H6299",
+        "lemma": "padah",
+        "meaning": "to ransom, redeem, rescue"
+      }
+    ]
+  },
+  "sentenceTheme": "Wealth cannot ransom a life from death; only God redeems, so the wise trust Him rather than riches.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Hear this, all ye people; give ear, all ye inhabitants of the world:",
+      "highlightedWords": [
+        {
+          "word": "Hear",
+          "strongNumber": "H8085",
+          "lemma": "shama",
+          "meaning": "to hear, listen"
+        },
+        {
+          "word": "world",
+          "strongNumber": "H8398",
+          "lemma": "tebel",
+          "meaning": "the world, the habitable earth"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Both low and high, rich and poor, together.",
+      "highlightedWords": [
+        {
+          "word": "rich",
+          "strongNumber": "H6223",
+          "lemma": "ashir",
+          "meaning": "rich, wealthy"
+        },
+        {
+          "word": "poor",
+          "strongNumber": "H0034",
+          "lemma": "ebyon",
+          "meaning": "poor, needy"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "My mouth shall speak of wisdom; and the meditation of my heart shall be of understanding.",
+      "highlightedWords": [
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "wisdom, skill"
+        },
+        {
+          "word": "understanding",
+          "strongNumber": "H8394",
+          "lemma": "tebunah",
+          "meaning": "understanding, insight"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "I will incline mine ear to a parable: I will open my dark saying upon the harp.",
+      "highlightedWords": [
+        {
+          "word": "parable",
+          "strongNumber": "H4912",
+          "lemma": "mashal",
+          "meaning": "proverb, parable"
+        },
+        {
+          "word": "harp",
+          "strongNumber": "H3658",
+          "lemma": "kinnor",
+          "meaning": "lyre, harp"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Wherefore should I fear in the days of evil, when the iniquity of my heels shall compass me about?",
+      "highlightedWords": [
+        {
+          "word": "fear",
+          "strongNumber": "H3372",
+          "lemma": "yare",
+          "meaning": "to fear, be afraid"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "avon",
+          "meaning": "iniquity, guilt, punishment of iniquity"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "They that trust in their wealth, and boast themselves in the multitude of their riches;",
+      "highlightedWords": [
+        {
+          "word": "trust",
+          "strongNumber": "H0982",
+          "lemma": "batach",
+          "meaning": "to trust, rely on"
+        },
+        {
+          "word": "riches",
+          "strongNumber": "H6239",
+          "lemma": "osher",
+          "meaning": "riches, wealth"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "None of them can by any means redeem his brother, nor give to God a ransom for him:",
+      "highlightedWords": [
+        {
+          "word": "redeem",
+          "strongNumber": "H6299",
+          "lemma": "padah",
+          "meaning": "to ransom, redeem, rescue"
+        },
+        {
+          "word": "ransom",
+          "strongNumber": "H3724",
+          "lemma": "kopher",
+          "meaning": "ransom, atonement price"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "(For the redemption of their soul is precious, and it ceaseth for ever:)",
+      "highlightedWords": [
+        {
+          "word": "redemption",
+          "strongNumber": "H6306",
+          "lemma": "pidyom",
+          "meaning": "ransom, redemption"
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, person"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "That he should still live for ever, and not see corruption.",
+      "highlightedWords": [
+        {
+          "word": "live",
+          "strongNumber": "H2421",
+          "lemma": "chayah",
+          "meaning": "to live, revive"
+        },
+        {
+          "word": "corruption",
+          "strongNumber": "H7845",
+          "lemma": "shachath",
+          "meaning": "pit, corruption, decay"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "For he seeth that wise men die, likewise the fool and the brutish person perish, and leave their wealth to others.",
+      "highlightedWords": [
+        {
+          "word": "wise",
+          "strongNumber": "H2450",
+          "lemma": "chakam",
+          "meaning": "wise, skillful"
+        },
+        {
+          "word": "fool",
+          "strongNumber": "H3684",
+          "lemma": "kesil",
+          "meaning": "fool, dullard"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Their inward thought is, that their houses shall continue for ever, and their dwelling places to all generations; they call their lands after their own names.",
+      "highlightedWords": [
+        {
+          "word": "houses",
+          "strongNumber": "H1004",
+          "lemma": "bayit",
+          "meaning": "house, household"
+        },
+        {
+          "word": "generations",
+          "strongNumber": "H1755",
+          "lemma": "dor",
+          "meaning": "generation, age"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Nevertheless man being in honour abideth not: he is like the beasts that perish.",
+      "highlightedWords": [
+        {
+          "word": "man",
+          "strongNumber": "H0120",
+          "lemma": "adam",
+          "meaning": "man, humankind"
+        },
+        {
+          "word": "beasts",
+          "strongNumber": "H0929",
+          "lemma": "behemah",
+          "meaning": "beast, animal"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "This their way is their folly: yet their posterity approve their sayings. Selah.",
+      "highlightedWords": [
+        {
+          "word": "way",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way, path, manner"
+        },
+        {
+          "word": "Selah",
+          "strongNumber": "H5542",
+          "lemma": "selah",
+          "meaning": "a musical or liturgical pause"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Like sheep they are laid in the grave; death shall feed on them; and the upright shall have dominion over them in the morning; and their beauty shall consume in the grave from their dwelling.",
+      "highlightedWords": [
+        {
+          "word": "grave",
+          "strongNumber": "H7585",
+          "lemma": "sheol",
+          "meaning": "Sheol, the grave, the underworld"
+        },
+        {
+          "word": "death",
+          "strongNumber": "H4194",
+          "lemma": "mavet",
+          "meaning": "death"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "But God will redeem my soul from the power of the grave: for he shall receive me. Selah.",
+      "highlightedWords": [
+        {
+          "word": "redeem",
+          "strongNumber": "H6299",
+          "lemma": "padah",
+          "meaning": "to ransom, redeem, rescue"
+        },
+        {
+          "word": "grave",
+          "strongNumber": "H7585",
+          "lemma": "sheol",
+          "meaning": "Sheol, the grave, the underworld"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Be not thou afraid when one is made rich, when the glory of his house is increased;",
+      "highlightedWords": [
+        {
+          "word": "afraid",
+          "strongNumber": "H3372",
+          "lemma": "yare",
+          "meaning": "to fear, be afraid"
+        },
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayit",
+          "meaning": "house, household"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "For when he dieth he shall carry nothing away: his glory shall not descend after him.",
+      "highlightedWords": [
+        {
+          "word": "dieth",
+          "strongNumber": "H4191",
+          "lemma": "muth",
+          "meaning": "to die"
+        },
+        {
+          "word": "glory",
+          "strongNumber": "H3519",
+          "lemma": "kavod",
+          "meaning": "glory, honor"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Though while he lived he blessed his soul: and men will praise thee, when thou doest well to thyself.",
+      "highlightedWords": [
+        {
+          "word": "blessed",
+          "strongNumber": "H1288",
+          "lemma": "barak",
+          "meaning": "to bless"
+        },
+        {
+          "word": "praise",
+          "strongNumber": "H1984",
+          "lemma": "halal",
+          "meaning": "to praise, boast"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "He shall go to the generation of his fathers; they shall never see light.",
+      "highlightedWords": [
+        {
+          "word": "fathers",
+          "strongNumber": "H0001",
+          "lemma": "ab",
+          "meaning": "father, ancestor"
+        },
+        {
+          "word": "light",
+          "strongNumber": "H0216",
+          "lemma": "or",
+          "meaning": "light"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Man that is in honour, and understandeth not, is like the beasts that perish.",
+      "highlightedWords": [
+        {
+          "word": "understandeth",
+          "strongNumber": "H0995",
+          "lemma": "bin",
+          "meaning": "to understand, perceive"
+        },
+        {
+          "word": "beasts",
+          "strongNumber": "H0929",
+          "lemma": "behemah",
+          "meaning": "beast, animal"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "book": "Psalms",
+  "chapter": 1,
+  "chapterTheme": {
+    "twoWordSummary": "Two Paths",
+    "themeWords": [
+      {
+        "word": "righteous",
+        "strongNumber": "H6662",
+        "lemma": "tsaddiq",
+        "meaning": "righteous, just, in the right"
+      },
+      {
+        "word": "ungodly",
+        "strongNumber": "H7563",
+        "lemma": "rasha'",
+        "meaning": "wicked, guilty, ungodly"
+      }
+    ]
+  },
+  "sentenceTheme": "The psalm contrasts the blessed life of those who delight in the LORD’s law with the ruinous end of the ungodly.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful.",
+      "highlightedWords": [
+        {
+          "word": "Blessed",
+          "strongNumber": "H835",
+          "lemma": "'esher",
+          "meaning": "blessedness, happiness"
+        },
+        {
+          "word": "ungodly",
+          "strongNumber": "H7563",
+          "lemma": "rasha'",
+          "meaning": "wicked, guilty, ungodly"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "But his delight is in the law of the LORD; and in his law doth he meditate day and night.",
+      "highlightedWords": [
+        {
+          "word": "law",
+          "strongNumber": "H8451",
+          "lemma": "torah",
+          "meaning": "law, instruction, teaching"
+        },
+        {
+          "word": "meditate",
+          "strongNumber": "H1897",
+          "lemma": "hagah",
+          "meaning": "to murmur, ponder, meditate"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper.",
+      "highlightedWords": [
+        {
+          "word": "tree",
+          "strongNumber": "H6086",
+          "lemma": "'ets",
+          "meaning": "tree, wood"
+        },
+        {
+          "word": "prosper",
+          "strongNumber": "H6743",
+          "lemma": "tsalach",
+          "meaning": "to succeed, prosper, advance"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "The ungodly are not so: but are like the chaff which the wind driveth away.",
+      "highlightedWords": [
+        {
+          "word": "chaff",
+          "strongNumber": "H4671",
+          "lemma": "mots",
+          "meaning": "chaff, husks"
+        },
+        {
+          "word": "wind",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "wind, breath, spirit"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Therefore the ungodly shall not stand in the judgment, nor sinners in the congregation of the righteous.",
+      "highlightedWords": [
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "judgment, justice, legal decision"
+        },
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just, in the right"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "For the LORD knoweth the way of the righteous: but the way of the ungodly shall perish.",
+      "highlightedWords": [
+        {
+          "word": "way",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way, road, path, manner"
+        },
+        {
+          "word": "perish",
+          "strongNumber": "H6",
+          "lemma": "'abad",
+          "meaning": "to perish, be destroyed, vanish"
+        }
+      ]
+    }
+  ]
+}

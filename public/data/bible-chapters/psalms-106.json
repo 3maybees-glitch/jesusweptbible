@@ -1,0 +1,888 @@
+{
+  "book": "Psalms",
+  "chapter": 106,
+  "chapterTheme": {
+    "twoWordSummary": "Covenant Mercy",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH",
+        "meaning": "the personal name of Israel’s God"
+      },
+      {
+        "word": "mercy",
+        "strongNumber": "H2617",
+        "lemma": "chesed",
+        "meaning": "steadfast covenant love; loyal mercy"
+      }
+    ]
+  },
+  "sentenceTheme": "A psalm of praise confessing Israel’s repeated rebellions and celebrating the LORD’s enduring mercy and saving faithfulness.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Praise ye the LORD. O give thanks unto the LORD; for he is good: for his mercy endureth for ever.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "mercy",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "steadfast covenant love; loyal mercy"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Who can utter the mighty acts of the LORD? who can shew forth all his praise?",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "praise",
+          "strongNumber": "H8416",
+          "lemma": "tehillah",
+          "meaning": "praise; a song or act of adoration"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Blessed are they that keep judgment, and he that doeth righteousness at all times.",
+      "highlightedWords": [
+        {
+          "word": "Blessed",
+          "strongNumber": "H835",
+          "lemma": "’esher",
+          "meaning": "happy; blessed state of favor"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "tsedaqah",
+          "meaning": "righteousness; justice"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Remember me, O LORD, with the favour that thou bearest unto thy people: O visit me with thy salvation;",
+      "highlightedWords": [
+        {
+          "word": "Remember",
+          "strongNumber": "H2142",
+          "lemma": "zakar",
+          "meaning": "to remember; call to mind"
+        },
+        {
+          "word": "salvation",
+          "strongNumber": "H3444",
+          "lemma": "yeshuah",
+          "meaning": "salvation; deliverance"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "That I may see the good of thy chosen, that I may rejoice in the gladness of thy nation, that I may glory with thine inheritance.",
+      "highlightedWords": [
+        {
+          "word": "chosen",
+          "strongNumber": "H972",
+          "lemma": "bachiyr",
+          "meaning": "chosen one; elect"
+        },
+        {
+          "word": "inheritance",
+          "strongNumber": "H5159",
+          "lemma": "nachalah",
+          "meaning": "inheritance; allotted portion"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "We have sinned with our fathers, we have committed iniquity, we have done wickedly.",
+      "highlightedWords": [
+        {
+          "word": "sinned",
+          "strongNumber": "H2398",
+          "lemma": "chata’",
+          "meaning": "to sin; miss the mark"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H5753",
+          "lemma": "’avah",
+          "meaning": "to act perversely; commit iniquity"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Our fathers understood not thy wonders in Egypt; they remembered not the multitude of thy mercies; but provoked him at the sea, even at the Red sea.",
+      "highlightedWords": [
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt; the land of bondage"
+        },
+        {
+          "word": "mercies",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "acts of covenant love; mercies"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Nevertheless he saved them for his name's sake, that he might make his mighty power to be known.",
+      "highlightedWords": [
+        {
+          "word": "saved",
+          "strongNumber": "H3467",
+          "lemma": "yasha‘",
+          "meaning": "to save; deliver"
+        },
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "name; reputation"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "He rebuked the Red sea also, and it was dried up: so he led them through the depths, as through the wilderness.",
+      "highlightedWords": [
+        {
+          "word": "rebuked",
+          "strongNumber": "H1605",
+          "lemma": "ga‘ar",
+          "meaning": "to rebuke; reprove"
+        },
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbar",
+          "meaning": "wilderness; desert"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And he saved them from the hand of him that hated them, and redeemed them from the hand of the enemy.",
+      "highlightedWords": [
+        {
+          "word": "redeemed",
+          "strongNumber": "H1350",
+          "lemma": "ga’al",
+          "meaning": "to redeem; act as kinsman-redeemer"
+        },
+        {
+          "word": "enemy",
+          "strongNumber": "H341",
+          "lemma": "’oyev",
+          "meaning": "enemy; foe"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And the waters covered their enemies: there was not one of them left.",
+      "highlightedWords": [
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters"
+        },
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "’oyev",
+          "meaning": "enemies; foes"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Then believed they his words; they sang his praise.",
+      "highlightedWords": [
+        {
+          "word": "believed",
+          "strongNumber": "H539",
+          "lemma": "’aman",
+          "meaning": "to believe; trust"
+        },
+        {
+          "word": "praise",
+          "strongNumber": "H8416",
+          "lemma": "tehillah",
+          "meaning": "praise; song of praise"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "They soon forgat his works; they waited not for his counsel:",
+      "highlightedWords": [
+        {
+          "word": "forgat",
+          "strongNumber": "H7911",
+          "lemma": "shakach",
+          "meaning": "to forget"
+        },
+        {
+          "word": "counsel",
+          "strongNumber": "H6098",
+          "lemma": "‘etsah",
+          "meaning": "counsel; advice"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "But lusted exceedingly in the wilderness, and tempted God in the desert.",
+      "highlightedWords": [
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbar",
+          "meaning": "wilderness; desert"
+        },
+        {
+          "word": "tempted",
+          "strongNumber": "H5254",
+          "lemma": "nasah",
+          "meaning": "to test; tempt"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And he gave them their request; but sent leanness into their soul.",
+      "highlightedWords": [
+        {
+          "word": "leanness",
+          "strongNumber": "H7332",
+          "lemma": "razon",
+          "meaning": "leanness; wasting"
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul; life; inner being"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "They envied Moses also in the camp, and Aaron the saint of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "envied",
+          "strongNumber": "H7065",
+          "lemma": "qana’",
+          "meaning": "to be jealous; envy"
+        },
+        {
+          "word": "saint",
+          "strongNumber": "H6918",
+          "lemma": "qadosh",
+          "meaning": "holy one; consecrated"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "The earth opened and swallowed up Dathan, and covered the company of Abiram.",
+      "highlightedWords": [
+        {
+          "word": "swallowed",
+          "strongNumber": "H1104",
+          "lemma": "bala‘",
+          "meaning": "to swallow up; engulf"
+        },
+        {
+          "word": "Dathan",
+          "strongNumber": "H1885",
+          "lemma": "Dathan",
+          "meaning": "a Reubenite leader who rebelled"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And a fire was kindled in their company; the flame burned up the wicked.",
+      "highlightedWords": [
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "’esh",
+          "meaning": "fire"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha‘",
+          "meaning": "wicked; guilty"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "They made a calf in Horeb, and worshipped the molten image.",
+      "highlightedWords": [
+        {
+          "word": "calf",
+          "strongNumber": "H5695",
+          "lemma": "‘egel",
+          "meaning": "calf; young bull"
+        },
+        {
+          "word": "worshipped",
+          "strongNumber": "H7812",
+          "lemma": "shachah",
+          "meaning": "to bow down; worship"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Thus they changed their glory into the similitude of an ox that eateth grass.",
+      "highlightedWords": [
+        {
+          "word": "glory",
+          "strongNumber": "H3519",
+          "lemma": "kabod",
+          "meaning": "glory; honor"
+        },
+        {
+          "word": "ox",
+          "strongNumber": "H7794",
+          "lemma": "shor",
+          "meaning": "ox; bull"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "They forgat God their saviour, which had done great things in Egypt;",
+      "highlightedWords": [
+        {
+          "word": "forgat",
+          "strongNumber": "H7911",
+          "lemma": "shakach",
+          "meaning": "to forget"
+        },
+        {
+          "word": "saviour",
+          "strongNumber": "H3467",
+          "lemma": "yasha‘ (moshia‘)",
+          "meaning": "savior; deliverer"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Wondrous works in the land of Ham, and terrible things by the Red sea.",
+      "highlightedWords": [
+        {
+          "word": "Ham",
+          "strongNumber": "H2526",
+          "lemma": "Cham",
+          "meaning": "Ham; Egypt/Africa’s eponymous ancestor"
+        },
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "sea"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Therefore he said that he would destroy them, had not Moses his chosen stood before him in the breach, to turn away his wrath, lest he should destroy them.",
+      "highlightedWords": [
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses, Israel’s lawgiver"
+        },
+        {
+          "word": "breach",
+          "strongNumber": "H6556",
+          "lemma": "perets",
+          "meaning": "breach; gap (in a wall)"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Yea, they despised the pleasant land, they believed not his word:",
+      "highlightedWords": [
+        {
+          "word": "despised",
+          "strongNumber": "H3988",
+          "lemma": "ma’as",
+          "meaning": "to reject; despise"
+        },
+        {
+          "word": "believed",
+          "strongNumber": "H539",
+          "lemma": "’aman",
+          "meaning": "to believe; trust"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "But murmured in their tents, and hearkened not unto the voice of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "murmured",
+          "strongNumber": "H3885",
+          "lemma": "lun",
+          "meaning": "to murmur; complain"
+        },
+        {
+          "word": "voice",
+          "strongNumber": "H6963",
+          "lemma": "qol",
+          "meaning": "voice; sound"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "Therefore he lifted up his hand against them, to overthrow them in the wilderness:",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand; power"
+        },
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbar",
+          "meaning": "wilderness; desert"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "To overthrow their seed also among the nations, and to scatter them in the lands.",
+      "highlightedWords": [
+        {
+          "word": "scatter",
+          "strongNumber": "H6327",
+          "lemma": "puwts",
+          "meaning": "to scatter; disperse"
+        },
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "goyim",
+          "meaning": "nations; Gentiles"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "They joined themselves also unto Baal-peor, and ate the sacrifices of the dead.",
+      "highlightedWords": [
+        {
+          "word": "Baal-peor",
+          "strongNumber": "H1187",
+          "lemma": "Ba‘al-Pe‘or",
+          "meaning": "lord of Peor; a Moabite deity"
+        },
+        {
+          "word": "sacrifices",
+          "strongNumber": "H2077",
+          "lemma": "zevach",
+          "meaning": "sacrifice; sacrificial offering"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "Thus they provoked him to anger with their inventions: and the plague brake in upon them.",
+      "highlightedWords": [
+        {
+          "word": "provoked",
+          "strongNumber": "H3707",
+          "lemma": "ka‘as",
+          "meaning": "to provoke to anger"
+        },
+        {
+          "word": "plague",
+          "strongNumber": "H4046",
+          "lemma": "magephah",
+          "meaning": "plague; pestilence"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "Then stood up Phinehas, and executed judgment: and so the plague was stayed.",
+      "highlightedWords": [
+        {
+          "word": "Phinehas",
+          "strongNumber": "H6372",
+          "lemma": "Pinechas",
+          "meaning": "Phinehas, priestly zealot"
+        },
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "judgment; justice"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "And that was counted unto him for righteousness unto all generations for evermore.",
+      "highlightedWords": [
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "tsedaqah",
+          "meaning": "righteousness; justice"
+        },
+        {
+          "word": "generations",
+          "strongNumber": "H1755",
+          "lemma": "dor",
+          "meaning": "generation; age"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "They angered him also at the waters of strife, so that it went ill with Moses for their sakes:",
+      "highlightedWords": [
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters"
+        },
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses, Israel’s lawgiver"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "Because they provoked his spirit, so that he spake unadvisedly with his lips.",
+      "highlightedWords": [
+        {
+          "word": "spake",
+          "strongNumber": "H1696",
+          "lemma": "dabar",
+          "meaning": "to speak"
+        },
+        {
+          "word": "lips",
+          "strongNumber": "H8193",
+          "lemma": "saphah",
+          "meaning": "lip; language"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "They did not destroy the nations, concerning whom the LORD commanded them:",
+      "highlightedWords": [
+        {
+          "word": "destroy",
+          "strongNumber": "H8045",
+          "lemma": "shamad",
+          "meaning": "to destroy; exterminate"
+        },
+        {
+          "word": "commanded",
+          "strongNumber": "H6680",
+          "lemma": "tsavah",
+          "meaning": "to command; charge"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "But were mingled among the heathen, and learned their works.",
+      "highlightedWords": [
+        {
+          "word": "mingled",
+          "strongNumber": "H6148",
+          "lemma": "‘arab",
+          "meaning": "to mix; mingle"
+        },
+        {
+          "word": "heathen",
+          "strongNumber": "H1471",
+          "lemma": "goyim",
+          "meaning": "nations; Gentiles"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "And they served their idols: which were a snare unto them.",
+      "highlightedWords": [
+        {
+          "word": "idols",
+          "strongNumber": "H1544",
+          "lemma": "gillulim",
+          "meaning": "idols; logs/dungy things (contemptuous)"
+        },
+        {
+          "word": "snare",
+          "strongNumber": "H4170",
+          "lemma": "moqesh",
+          "meaning": "snare; trap"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "Yea, they sacrificed their sons and their daughters unto devils,",
+      "highlightedWords": [
+        {
+          "word": "devils",
+          "strongNumber": "H7700",
+          "lemma": "shed",
+          "meaning": "demons; malignant spirits"
+        },
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; child; descendant"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "And shed innocent blood, even the blood of their sons and of their daughters, whom they sacrificed unto the idols of Canaan: and the land was polluted with blood.",
+      "highlightedWords": [
+        {
+          "word": "innocent",
+          "strongNumber": "H5355",
+          "lemma": "naqi",
+          "meaning": "clean; innocent; guiltless"
+        },
+        {
+          "word": "polluted",
+          "strongNumber": "H2930",
+          "lemma": "tame’",
+          "meaning": "to defile; make unclean"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "text": "Thus were they defiled with their own works, and went a whoring with their own inventions.",
+      "highlightedWords": [
+        {
+          "word": "defiled",
+          "strongNumber": "H2930",
+          "lemma": "tame’",
+          "meaning": "to defile; make unclean"
+        },
+        {
+          "word": "whoring",
+          "strongNumber": "H2181",
+          "lemma": "zanah",
+          "meaning": "to commit harlotry; be unfaithful"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "text": "Therefore was the wrath of the LORD kindled against his people, insomuch that he abhorred his own inheritance.",
+      "highlightedWords": [
+        {
+          "word": "wrath",
+          "strongNumber": "H639",
+          "lemma": "’aph",
+          "meaning": "nose; anger, wrath"
+        },
+        {
+          "word": "abhorred",
+          "strongNumber": "H3988",
+          "lemma": "ma’as",
+          "meaning": "to reject; abhor"
+        }
+      ]
+    },
+    {
+      "verse": 41,
+      "text": "And he gave them into the hand of the heathen; and they that hated them ruled over them.",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand; power"
+        },
+        {
+          "word": "ruled",
+          "strongNumber": "H7287",
+          "lemma": "radah",
+          "meaning": "to rule; have dominion"
+        }
+      ]
+    },
+    {
+      "verse": 42,
+      "text": "Their enemies also oppressed them, and they were brought into subjection under their hand.",
+      "highlightedWords": [
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "’oyev",
+          "meaning": "enemies; foes"
+        },
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand; power"
+        }
+      ]
+    },
+    {
+      "verse": 43,
+      "text": "Many times did he deliver them; but they provoked him with their counsel, and were brought low for their iniquity.",
+      "highlightedWords": [
+        {
+          "word": "deliver",
+          "strongNumber": "H5337",
+          "lemma": "natsal",
+          "meaning": "to snatch away; deliver"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "‘avon",
+          "meaning": "iniquity; guilt; punishment of iniquity"
+        }
+      ]
+    },
+    {
+      "verse": 44,
+      "text": "Nevertheless he regarded their affliction, when he heard their cry:",
+      "highlightedWords": [
+        {
+          "word": "affliction",
+          "strongNumber": "H6869",
+          "lemma": "tsarah",
+          "meaning": "distress; trouble; affliction"
+        },
+        {
+          "word": "heard",
+          "strongNumber": "H8085",
+          "lemma": "shama‘",
+          "meaning": "to hear; listen"
+        }
+      ]
+    },
+    {
+      "verse": 45,
+      "text": "And he remembered for them his covenant, and repented according to the multitude of his mercies.",
+      "highlightedWords": [
+        {
+          "word": "remembered",
+          "strongNumber": "H2142",
+          "lemma": "zakar",
+          "meaning": "to remember; recall"
+        },
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "covenant; treaty; agreement"
+        }
+      ]
+    },
+    {
+      "verse": 46,
+      "text": "He made them also to be pitied of all those that carried them captives.",
+      "highlightedWords": [
+        {
+          "word": "pitied",
+          "strongNumber": "H7355",
+          "lemma": "racham",
+          "meaning": "to have compassion; show mercy"
+        },
+        {
+          "word": "captives",
+          "strongNumber": "H7628",
+          "lemma": "shevi",
+          "meaning": "captivity; captives"
+        }
+      ]
+    },
+    {
+      "verse": 47,
+      "text": "Save us, O LORD our God, and gather us from among the heathen, to give thanks unto thy holy name, and to triumph in thy praise.",
+      "highlightedWords": [
+        {
+          "word": "Save",
+          "strongNumber": "H3467",
+          "lemma": "yasha‘",
+          "meaning": "to save; deliver"
+        },
+        {
+          "word": "gather",
+          "strongNumber": "H6908",
+          "lemma": "qavats",
+          "meaning": "to gather; assemble"
+        }
+      ]
+    },
+    {
+      "verse": 48,
+      "text": "Blessed be the LORD God of Israel from everlasting to everlasting: and let all the people say, Amen. Praise ye the LORD.",
+      "highlightedWords": [
+        {
+          "word": "Blessed",
+          "strongNumber": "H1288",
+          "lemma": "barak",
+          "meaning": "to bless; speak well of"
+        },
+        {
+          "word": "Amen",
+          "strongNumber": "H543",
+          "lemma": "’amen",
+          "meaning": "truly; so be it"
+        }
+      ]
+    }
+  ]
+}

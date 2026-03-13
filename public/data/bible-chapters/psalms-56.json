@@ -1,0 +1,258 @@
+{
+  "book": "Psalms",
+  "chapter": 56,
+  "chapterTheme": {
+    "twoWordSummary": "Trust Deliverance",
+    "themeWords": [
+      {
+        "word": "trust",
+        "strongNumber": "H982",
+        "lemma": "batach",
+        "meaning": "to trust, be confident, rely"
+      },
+      {
+        "word": "deliver",
+        "strongNumber": "H5337",
+        "lemma": "natsal",
+        "meaning": "to snatch away, rescue, deliver"
+      }
+    ]
+  },
+  "sentenceTheme": "Amid relentless enemies, David trusts God, confident that the Lord notes his tears and will deliver him into the light of life.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Be merciful unto me, O God: for man would swallow me up; he fighting daily oppresseth me.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; the true God; mighty ones"
+        },
+        {
+          "word": "fighting",
+          "strongNumber": "H3898",
+          "lemma": "lacham",
+          "meaning": "to fight, do battle, wage war"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Mine enemies would daily swallow me up: for they be many that fight against me, O thou most High.",
+      "highlightedWords": [
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "oyev",
+          "meaning": "enemy, foe, adversary"
+        },
+        {
+          "word": "fight",
+          "strongNumber": "H3898",
+          "lemma": "lacham",
+          "meaning": "to fight, do battle, wage war"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "What time I am afraid, I will trust in thee.",
+      "highlightedWords": [
+        {
+          "word": "afraid",
+          "strongNumber": "H3372",
+          "lemma": "yare",
+          "meaning": "to fear, be afraid, revere"
+        },
+        {
+          "word": "trust",
+          "strongNumber": "H982",
+          "lemma": "batach",
+          "meaning": "to trust, be confident, rely"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "In God I will praise his word, in God I have put my trust; I will not fear what flesh can do unto me.",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, thing"
+        },
+        {
+          "word": "flesh",
+          "strongNumber": "H1320",
+          "lemma": "basar",
+          "meaning": "flesh, body"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Every day they wrest my words: all their thoughts are against me for evil.",
+      "highlightedWords": [
+        {
+          "word": "words",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, thing"
+        },
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra",
+          "meaning": "evil, bad, calamity"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "They gather themselves together, they hide themselves, they mark my steps, when they wait for my soul.",
+      "highlightedWords": [
+        {
+          "word": "steps",
+          "strongNumber": "H6806",
+          "lemma": "tsa'ad",
+          "meaning": "a step, pace"
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, self"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Shall they escape by iniquity? in thine anger cast down the people, O God.",
+      "highlightedWords": [
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "avon",
+          "meaning": "iniquity, guilt, wrongdoing"
+        },
+        {
+          "word": "anger",
+          "strongNumber": "H639",
+          "lemma": "aph",
+          "meaning": "nostril; anger, wrath"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Thou tellest my wanderings: put thou my tears into thy bottle: are they not in thy book?",
+      "highlightedWords": [
+        {
+          "word": "tears",
+          "strongNumber": "H1832",
+          "lemma": "dim'ah",
+          "meaning": "tears"
+        },
+        {
+          "word": "book",
+          "strongNumber": "H5612",
+          "lemma": "sepher",
+          "meaning": "book, scroll, document"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "When I cry unto thee, then shall mine enemies turn back: this I know; for God is for me.",
+      "highlightedWords": [
+        {
+          "word": "cry",
+          "strongNumber": "H7121",
+          "lemma": "qara",
+          "meaning": "to call, proclaim, cry out"
+        },
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "oyev",
+          "meaning": "enemy, foe, adversary"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "In God will I praise his word: in the LORD will I praise his word.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; the true God; mighty ones"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of God"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "In God have I put my trust: I will not be afraid what man can do unto me.",
+      "highlightedWords": [
+        {
+          "word": "trust",
+          "strongNumber": "H982",
+          "lemma": "batach",
+          "meaning": "to trust, be confident, rely"
+        },
+        {
+          "word": "afraid",
+          "strongNumber": "H3372",
+          "lemma": "yare",
+          "meaning": "to fear, be afraid, revere"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Thy vows are upon me, O God: I will render praises unto thee.",
+      "highlightedWords": [
+        {
+          "word": "vows",
+          "strongNumber": "H5088",
+          "lemma": "neder",
+          "meaning": "a vow, a solemn promise"
+        },
+        {
+          "word": "praises",
+          "strongNumber": "H8426",
+          "lemma": "todah",
+          "meaning": "thanksgiving, praise"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "For thou hast delivered my soul from death: wilt not thou deliver my feet from falling, that I may walk before God in the light of the living?",
+      "highlightedWords": [
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, self"
+        },
+        {
+          "word": "light",
+          "strongNumber": "H216",
+          "lemma": "or",
+          "meaning": "light"
+        }
+      ]
+    }
+  ]
+}

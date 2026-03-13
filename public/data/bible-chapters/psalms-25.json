@@ -1,0 +1,420 @@
+{
+  "book": "Psalms",
+  "chapter": 25,
+  "chapterTheme": {
+    "twoWordSummary": "Trust Guidance",
+    "themeWords": [
+      {
+        "word": "trust",
+        "strongNumber": "H982",
+        "lemma": "batach",
+        "meaning": "to trust, be confident, rely"
+      },
+      {
+        "word": "covenant",
+        "strongNumber": "H1285",
+        "lemma": "berith",
+        "meaning": "a covenant, treaty, alliance"
+      }
+    ]
+  },
+  "sentenceTheme": "David prays for guidance, forgiveness, and deliverance, declaring trust in the LORD and commitment to His covenant ways.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Unto thee, O LORD, do I lift up my soul.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "life, self, soul"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "O my God, I trust in thee: let me not be ashamed, let not mine enemies triumph over me.",
+      "highlightedWords": [
+        {
+          "word": "trust",
+          "strongNumber": "H982",
+          "lemma": "batach",
+          "meaning": "to trust, be confident, rely"
+        },
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "'oyev",
+          "meaning": "enemy, foe"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Yea, let none that wait on thee be ashamed: let them be ashamed which transgress without cause.",
+      "highlightedWords": [
+        {
+          "word": "wait",
+          "strongNumber": "H6960",
+          "lemma": "qavah",
+          "meaning": "to wait, hope, look eagerly"
+        },
+        {
+          "word": "transgress",
+          "strongNumber": "H898",
+          "lemma": "bagad",
+          "meaning": "to act treacherously, transgress"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Shew me thy ways, O LORD; teach me thy paths.",
+      "highlightedWords": [
+        {
+          "word": "ways",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way, road, manner"
+        },
+        {
+          "word": "teach",
+          "strongNumber": "H3925",
+          "lemma": "lamad",
+          "meaning": "to learn or teach"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Lead me in thy truth, and teach me: for thou art the God of my salvation; on thee do I wait all the day.",
+      "highlightedWords": [
+        {
+          "word": "truth",
+          "strongNumber": "H571",
+          "lemma": "'emeth",
+          "meaning": "firmness, faithfulness, truth"
+        },
+        {
+          "word": "salvation",
+          "strongNumber": "H3444",
+          "lemma": "yeshu'ah",
+          "meaning": "salvation, deliverance"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Remember, O LORD, thy tender mercies and thy lovingkindnesses; for they have been ever of old.",
+      "highlightedWords": [
+        {
+          "word": "tender mercies",
+          "strongNumber": "H7356",
+          "lemma": "rachamim",
+          "meaning": "compassion, mercies"
+        },
+        {
+          "word": "lovingkindnesses",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "steadfast love, kindness, covenant loyalty"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Remember not the sins of my youth, nor my transgressions: according to thy mercy remember thou me for thy goodness' sake, O LORD.",
+      "highlightedWords": [
+        {
+          "word": "sins",
+          "strongNumber": "H2403",
+          "lemma": "chatta'ah",
+          "meaning": "sin, sin offering"
+        },
+        {
+          "word": "transgressions",
+          "strongNumber": "H6588",
+          "lemma": "pesha'",
+          "meaning": "transgression, rebellion"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Good and upright is the LORD: therefore will he teach sinners in the way.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel's God"
+        },
+        {
+          "word": "teach",
+          "strongNumber": "H3384",
+          "lemma": "yarah",
+          "meaning": "to instruct, direct"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "The meek will he guide in judgment: and the meek will he teach his way.",
+      "highlightedWords": [
+        {
+          "word": "meek",
+          "strongNumber": "H6035",
+          "lemma": "'anav",
+          "meaning": "humble, meek"
+        },
+        {
+          "word": "guide",
+          "strongNumber": "H5148",
+          "lemma": "nachah",
+          "meaning": "to lead, guide"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "All the paths of the LORD are mercy and truth unto such as keep his covenant and his testimonies.",
+      "highlightedWords": [
+        {
+          "word": "mercy",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "steadfast love, kindness, covenant loyalty"
+        },
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "a covenant, treaty, alliance"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "For thy name's sake, O LORD, pardon mine iniquity; for it is great.",
+      "highlightedWords": [
+        {
+          "word": "pardon",
+          "strongNumber": "H5545",
+          "lemma": "salach",
+          "meaning": "to forgive, pardon"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "'avon",
+          "meaning": "iniquity, guilt"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "What man is he that feareth the LORD? him shall he teach in the way that he shall choose.",
+      "highlightedWords": [
+        {
+          "word": "feareth",
+          "strongNumber": "H3372",
+          "lemma": "yare'",
+          "meaning": "to fear, revere"
+        },
+        {
+          "word": "choose",
+          "strongNumber": "H977",
+          "lemma": "bachar",
+          "meaning": "to choose, select"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "His soul shall dwell at ease; and his seed shall inherit the earth.",
+      "highlightedWords": [
+        {
+          "word": "inherit",
+          "strongNumber": "H3423",
+          "lemma": "yarash",
+          "meaning": "to inherit, possess"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "'erets",
+          "meaning": "land, earth"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "The secret of the LORD is with them that fear him; and he will shew them his covenant.",
+      "highlightedWords": [
+        {
+          "word": "secret",
+          "strongNumber": "H5475",
+          "lemma": "sod",
+          "meaning": "confidential talk, council, secret"
+        },
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "a covenant, treaty, alliance"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Mine eyes are ever toward the LORD; for he shall pluck my feet out of the net.",
+      "highlightedWords": [
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "'ayin",
+          "meaning": "eye"
+        },
+        {
+          "word": "net",
+          "strongNumber": "H7568",
+          "lemma": "resheth",
+          "meaning": "net"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Turn thee unto me, and have mercy upon me; for I am desolate and afflicted.",
+      "highlightedWords": [
+        {
+          "word": "mercy",
+          "strongNumber": "H2603",
+          "lemma": "chanan",
+          "meaning": "to be gracious, show favor"
+        },
+        {
+          "word": "afflicted",
+          "strongNumber": "H6041",
+          "lemma": "'ani",
+          "meaning": "afflicted, humble"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "The troubles of my heart are enlarged: O bring thou me out of my distresses.",
+      "highlightedWords": [
+        {
+          "word": "troubles",
+          "strongNumber": "H6869",
+          "lemma": "tsarah",
+          "meaning": "distress, trouble"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner person"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Look upon mine affliction and my pain; and forgive all my sins.",
+      "highlightedWords": [
+        {
+          "word": "affliction",
+          "strongNumber": "H6040",
+          "lemma": "'oniy",
+          "meaning": "affliction, misery"
+        },
+        {
+          "word": "forgive",
+          "strongNumber": "H5375",
+          "lemma": "nasa'",
+          "meaning": "to lift, carry; to forgive"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Consider mine enemies; for they are many; and they hate me with cruel hatred.",
+      "highlightedWords": [
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "'oyev",
+          "meaning": "enemy, foe"
+        },
+        {
+          "word": "hate",
+          "strongNumber": "H8130",
+          "lemma": "sane'",
+          "meaning": "to hate"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "O keep my soul, and deliver me: let me not be ashamed; for I put my trust in thee.",
+      "highlightedWords": [
+        {
+          "word": "deliver",
+          "strongNumber": "H5337",
+          "lemma": "natsal",
+          "meaning": "to deliver, rescue"
+        },
+        {
+          "word": "trust",
+          "strongNumber": "H2620",
+          "lemma": "chasah",
+          "meaning": "to seek refuge, trust"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Let integrity and uprightness preserve me; for I wait on thee.",
+      "highlightedWords": [
+        {
+          "word": "integrity",
+          "strongNumber": "H8537",
+          "lemma": "tom",
+          "meaning": "integrity, completeness"
+        },
+        {
+          "word": "uprightness",
+          "strongNumber": "H3476",
+          "lemma": "yosher",
+          "meaning": "uprightness, straightness"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Redeem Israel, O God, out of all his troubles.",
+      "highlightedWords": [
+        {
+          "word": "Redeem",
+          "strongNumber": "H6299",
+          "lemma": "padah",
+          "meaning": "to redeem, ransom"
+        },
+        {
+          "word": "troubles",
+          "strongNumber": "H6869",
+          "lemma": "tsarah",
+          "meaning": "distress, troubles"
+        }
+      ]
+    }
+  ]
+}

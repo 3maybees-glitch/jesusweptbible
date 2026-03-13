@@ -1,0 +1,258 @@
+{
+  "book": "Job",
+  "chapter": 2,
+  "chapterTheme": {
+    "twoWordSummary": "Further testing",
+    "themeWords": [
+      {
+        "word": "Satan",
+        "strongNumber": "H7854",
+        "lemma": "satan",
+        "meaning": "adversary; Satan, the accuser"
+      },
+      {
+        "word": "integrity",
+        "strongNumber": "H8538",
+        "lemma": "tummah",
+        "meaning": "integrity, innocence, completeness"
+      }
+    ]
+  },
+  "sentenceTheme": "Satan is permitted to afflict Job’s body, yet Job maintains his integrity; his friends arrive to mourn and sit with him in silent grief.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Again there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them to present himself before the LORD.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the divine name YHWH; the LORD"
+        },
+        {
+          "word": "Satan",
+          "strongNumber": "H7854",
+          "lemma": "satan",
+          "meaning": "adversary; Satan, the accuser"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And the LORD said unto Satan, From whence comest thou? And Satan answered the LORD, and said, From going to and fro in the earth, and from walking up and down in it.",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "'erets",
+          "meaning": "land, earth, ground"
+        },
+        {
+          "word": "Satan",
+          "strongNumber": "H7854",
+          "lemma": "satan",
+          "meaning": "adversary; Satan, the accuser"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And the LORD said unto Satan, Hast thou considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil? and still he holdeth fast his integrity, although thou movedst me against him, to destroy him without cause.",
+      "highlightedWords": [
+        {
+          "word": "Job",
+          "strongNumber": "H347",
+          "lemma": "Iyyob",
+          "meaning": "Job; a man from Uz (proper name)"
+        },
+        {
+          "word": "integrity",
+          "strongNumber": "H8538",
+          "lemma": "tummah",
+          "meaning": "integrity, innocence, completeness"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And Satan answered the LORD, and said, Skin for skin, yea, all that a man hath will he give for his life.",
+      "highlightedWords": [
+        {
+          "word": "Satan",
+          "strongNumber": "H7854",
+          "lemma": "satan",
+          "meaning": "adversary; Satan, the accuser"
+        },
+        {
+          "word": "life",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, self"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "But put forth thine hand now, and touch his bone and his flesh, and he will curse thee to thy face.",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power, authority"
+        },
+        {
+          "word": "flesh",
+          "strongNumber": "H1320",
+          "lemma": "basar",
+          "meaning": "flesh, body"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And the LORD said unto Satan, Behold, he is in thine hand; but save his life.",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power, authority"
+        },
+        {
+          "word": "life",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, self"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "So went Satan forth from the presence of the LORD, and smote Job with sore boils from the sole of his foot unto his crown.",
+      "highlightedWords": [
+        {
+          "word": "Satan",
+          "strongNumber": "H7854",
+          "lemma": "satan",
+          "meaning": "adversary; Satan, the accuser"
+        },
+        {
+          "word": "boils",
+          "strongNumber": "H7822",
+          "lemma": "shechin",
+          "meaning": "boil, inflamed spot"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And he took him a potsherd to scrape himself withal; and he sat down among the ashes.",
+      "highlightedWords": [
+        {
+          "word": "potsherd",
+          "strongNumber": "H2789",
+          "lemma": "cheres",
+          "meaning": "potsherd, earthenware shard"
+        },
+        {
+          "word": "ashes",
+          "strongNumber": "H665",
+          "lemma": "'epher",
+          "meaning": "ashes, dust"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Then said his wife unto him, Dost thou still retain thine integrity? curse God, and die.",
+      "highlightedWords": [
+        {
+          "word": "wife",
+          "strongNumber": "H802",
+          "lemma": "ishshah",
+          "meaning": "woman, wife"
+        },
+        {
+          "word": "curse",
+          "strongNumber": "H1288",
+          "lemma": "barak",
+          "meaning": "to bless; here used euphemistically as “curse”"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "But he said unto her, Thou speakest as one of the foolish women speaketh. What? shall we receive good at the hand of God, and shall we not receive evil? In all this did not Job sin with his lips.",
+      "highlightedWords": [
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra'",
+          "meaning": "evil, calamity, adversity"
+        },
+        {
+          "word": "sin",
+          "strongNumber": "H2398",
+          "lemma": "chata'",
+          "meaning": "to sin, miss the mark"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Now when Job's three friends heard of all this evil that was come upon him, they came every one from his own place; Eliphaz the Temanite, and Bildad the Shuhite, and Zophar the Naamathite: for they had made an appointment together to come to mourn with him and to comfort him.",
+      "highlightedWords": [
+        {
+          "word": "friends",
+          "strongNumber": "H7453",
+          "lemma": "rea'",
+          "meaning": "friend, companion, neighbor"
+        },
+        {
+          "word": "comfort",
+          "strongNumber": "H5162",
+          "lemma": "nacham",
+          "meaning": "to comfort, console"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And when they lifted up their eyes afar off, and knew him not, they lifted up their voice, and wept; and they rent every one his mantle, and sprinkled dust upon their heads toward heaven.",
+      "highlightedWords": [
+        {
+          "word": "dust",
+          "strongNumber": "H6083",
+          "lemma": "'aphar",
+          "meaning": "dust, dry earth"
+        },
+        {
+          "word": "wept",
+          "strongNumber": "H1058",
+          "lemma": "bakah",
+          "meaning": "to weep, lament"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "So they sat down with him upon the ground seven days and seven nights, and none spake a word unto him: for they saw that his grief was very great.",
+      "highlightedWords": [
+        {
+          "word": "seven",
+          "strongNumber": "H7651",
+          "lemma": "sheba'",
+          "meaning": "seven"
+        },
+        {
+          "word": "grief",
+          "strongNumber": "H3511",
+          "lemma": "ke'eb",
+          "meaning": "pain, sorrow, grief"
+        }
+      ]
+    }
+  ]
+}

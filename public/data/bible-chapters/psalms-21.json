@@ -1,0 +1,258 @@
+{
+  "book": "Psalms",
+  "chapter": 21,
+  "chapterTheme": {
+    "twoWordSummary": "Royal Deliverance",
+    "themeWords": [
+      {
+        "word": "king",
+        "strongNumber": "H4428",
+        "lemma": "melek",
+        "meaning": "king, ruler"
+      },
+      {
+        "word": "salvation",
+        "strongNumber": "H3444",
+        "lemma": "yeshuah",
+        "meaning": "salvation, deliverance"
+      }
+    ]
+  },
+  "sentenceTheme": "A royal psalm celebrating the king’s joy in God’s strength and salvation, God’s lasting favor, and His decisive victory over enemies, ending with praise for His exalted power.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "The king shall joy in thy strength, O LORD; and in thy salvation how greatly shall he rejoice!",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        },
+        {
+          "word": "salvation",
+          "strongNumber": "H3444",
+          "lemma": "yeshuah",
+          "meaning": "salvation, deliverance"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Thou hast given him his heart's desire, and hast not withholden the request of his lips. Selah.",
+      "highlightedWords": [
+        {
+          "word": "heart's",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner man, mind"
+        },
+        {
+          "word": "lips",
+          "strongNumber": "H8193",
+          "lemma": "saphah",
+          "meaning": "lip, speech, edge"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "For thou preventest him with the blessings of goodness: thou settest a crown of pure gold on his head.",
+      "highlightedWords": [
+        {
+          "word": "preventest",
+          "strongNumber": "H6923",
+          "lemma": "qadam",
+          "meaning": "to go before, meet, anticipate"
+        },
+        {
+          "word": "blessings",
+          "strongNumber": "H1293",
+          "lemma": "berakah",
+          "meaning": "blessing, benefit"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "He asked life of thee, and thou gavest it him, even length of days for ever and ever.",
+      "highlightedWords": [
+        {
+          "word": "life",
+          "strongNumber": "H2416",
+          "lemma": "chay",
+          "meaning": "life, living, alive"
+        },
+        {
+          "word": "days",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day, time, period"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "His glory is great in thy salvation: honour and majesty hast thou laid upon him.",
+      "highlightedWords": [
+        {
+          "word": "glory",
+          "strongNumber": "H3519",
+          "lemma": "kavod",
+          "meaning": "glory, honor, weight"
+        },
+        {
+          "word": "salvation",
+          "strongNumber": "H3444",
+          "lemma": "yeshuah",
+          "meaning": "salvation, deliverance"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "For thou hast made him most blessed for ever: thou hast made him exceeding glad with thy countenance.",
+      "highlightedWords": [
+        {
+          "word": "blessed",
+          "strongNumber": "H1288",
+          "lemma": "barak",
+          "meaning": "to bless, praise"
+        },
+        {
+          "word": "countenance",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "face, presence"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "For the king trusteth in the LORD, and through the mercy of the most High he shall not be moved.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the LORD, the divine name"
+        },
+        {
+          "word": "most High",
+          "strongNumber": "H5945",
+          "lemma": "elyon",
+          "meaning": "Most High, highest"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Thine hand shall find out all thine enemies: thy right hand shall find out those that hate thee.",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        },
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "oyev",
+          "meaning": "enemy, foe"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Thou shalt make them as a fiery oven in the time of thine anger: the LORD shall swallow them up in his wrath, and the fire shall devour them.",
+      "highlightedWords": [
+        {
+          "word": "anger",
+          "strongNumber": "H639",
+          "lemma": "aph",
+          "meaning": "nose, nostril; anger"
+        },
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "esh",
+          "meaning": "fire"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Their fruit shalt thou destroy from the earth, and their seed from among the children of men.",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "earth, land"
+        },
+        {
+          "word": "seed",
+          "strongNumber": "H2233",
+          "lemma": "zera",
+          "meaning": "seed, offspring"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "For they intended evil against thee: they imagined a mischievous device, which they are not able to perform.",
+      "highlightedWords": [
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra'",
+          "meaning": "evil, bad, wickedness"
+        },
+        {
+          "word": "imagined",
+          "strongNumber": "H2803",
+          "lemma": "chashab",
+          "meaning": "to think, plan, devise"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Therefore shalt thou make them turn their back, when thou shalt make ready thine arrows upon thy strings against the face of them.",
+      "highlightedWords": [
+        {
+          "word": "arrows",
+          "strongNumber": "H2671",
+          "lemma": "chets",
+          "meaning": "arrow, shaft"
+        },
+        {
+          "word": "face",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "face, presence"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Be thou exalted, LORD, in thine own strength: so will we sing and praise thy power.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the LORD, the divine name"
+        },
+        {
+          "word": "power",
+          "strongNumber": "H5797",
+          "lemma": "oz",
+          "meaning": "strength, might, power"
+        }
+      ]
+    }
+  ]
+}

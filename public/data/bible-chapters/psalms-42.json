@@ -1,0 +1,222 @@
+{
+  "book": "Psalms",
+  "chapter": 42,
+  "chapterTheme": {
+    "twoWordSummary": "Soul Longing",
+    "themeWords": [
+      {
+        "word": "soul",
+        "strongNumber": "H5315",
+        "lemma": "nephesh",
+        "meaning": "soul, life, self"
+      },
+      {
+        "word": "God",
+        "strongNumber": "H430",
+        "lemma": "elohim",
+        "meaning": "God, deity"
+      }
+    ]
+  },
+  "sentenceTheme": "A downcast soul thirsts for God and finds hope in His steadfast love despite oppression.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "To the chief Musician, Maschil, for the sons of Korah. As the hart panteth after the water brooks, so panteth my soul after thee, O God.",
+      "highlightedWords": [
+        {
+          "word": "hart",
+          "strongNumber": "H0354",
+          "lemma": "ayyal",
+          "meaning": "stag, male deer"
+        },
+        {
+          "word": "panteth",
+          "strongNumber": "H6165",
+          "lemma": "arag",
+          "meaning": "to long for, pant"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "My soul thirsteth for God, for the living God: when shall I come and appear before God?",
+      "highlightedWords": [
+        {
+          "word": "thirsteth",
+          "strongNumber": "H6770",
+          "lemma": "tsame",
+          "meaning": "to thirst, be thirsty"
+        },
+        {
+          "word": "living",
+          "strongNumber": "H2416",
+          "lemma": "chay",
+          "meaning": "living, alive"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "My tears have been my meat day and night, while they continually say unto me, Where is thy God?",
+      "highlightedWords": [
+        {
+          "word": "tears",
+          "strongNumber": "H1832",
+          "lemma": "dim'ah",
+          "meaning": "tears"
+        },
+        {
+          "word": "meat",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread, food"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "When I remember these things, I pour out my soul in me: for I had gone with the multitude, I went with them to the house of God, with the voice of joy and praise, with a multitude that kept holyday.",
+      "highlightedWords": [
+        {
+          "word": "remember",
+          "strongNumber": "H2142",
+          "lemma": "zakar",
+          "meaning": "to remember, recall"
+        },
+        {
+          "word": "praise",
+          "strongNumber": "H8426",
+          "lemma": "todah",
+          "meaning": "thanksgiving, praise"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Why art thou cast down, O my soul? and why art thou disquieted in me? hope thou in God: for I shall yet praise him for the help of his countenance.",
+      "highlightedWords": [
+        {
+          "word": "disquieted",
+          "strongNumber": "H1993",
+          "lemma": "hamah",
+          "meaning": "to murmur, be in tumult"
+        },
+        {
+          "word": "hope",
+          "strongNumber": "H3176",
+          "lemma": "yachal",
+          "meaning": "to wait, hope"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "O my God, my soul is cast down within me: therefore will I remember thee from the land of Jordan, and of the Hermonites, from the hill Mizar.",
+      "highlightedWords": [
+        {
+          "word": "remember",
+          "strongNumber": "H2142",
+          "lemma": "zakar",
+          "meaning": "to remember, recall"
+        },
+        {
+          "word": "Jordan",
+          "strongNumber": "H3383",
+          "lemma": "yarden",
+          "meaning": "Jordan River"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Deep calleth unto deep at the noise of thy waterspouts: all thy waves and thy billows are gone over me.",
+      "highlightedWords": [
+        {
+          "word": "Deep",
+          "strongNumber": "H8415",
+          "lemma": "tehom",
+          "meaning": "deep, abyss"
+        },
+        {
+          "word": "waterspouts",
+          "strongNumber": "H6794",
+          "lemma": "tsinnor",
+          "meaning": "watercourse, waterspout"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Yet the LORD will command his lovingkindness in the daytime, and in the night his song shall be with me, and my prayer unto the God of my life.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the LORD, God's covenant name"
+        },
+        {
+          "word": "lovingkindness",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "steadfast love, lovingkindness"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "I will say unto God my rock, Why hast thou forgotten me? why go I mourning because of the oppression of the enemy?",
+      "highlightedWords": [
+        {
+          "word": "rock",
+          "strongNumber": "H6697",
+          "lemma": "tsur",
+          "meaning": "rock, cliff"
+        },
+        {
+          "word": "oppression",
+          "strongNumber": "H3906",
+          "lemma": "lachats",
+          "meaning": "oppression, pressure"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "As with a sword in my bones, mine enemies reproach me; while they say daily unto me, Where is thy God?",
+      "highlightedWords": [
+        {
+          "word": "enemies",
+          "strongNumber": "H0341",
+          "lemma": "oyev",
+          "meaning": "enemy, foe"
+        },
+        {
+          "word": "reproach",
+          "strongNumber": "H2778",
+          "lemma": "charaph",
+          "meaning": "to reproach, taunt"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Why art thou cast down, O my soul? and why art thou disquieted within me? hope thou in God: for I shall yet praise him, who is the health of my countenance, and my God.",
+      "highlightedWords": [
+        {
+          "word": "health",
+          "strongNumber": "H3444",
+          "lemma": "yeshuah",
+          "meaning": "salvation, deliverance, health"
+        },
+        {
+          "word": "countenance",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "face, presence"
+        }
+      ]
+    }
+  ]
+}

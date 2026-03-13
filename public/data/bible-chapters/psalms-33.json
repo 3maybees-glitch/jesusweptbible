@@ -1,0 +1,420 @@
+{
+  "book": "Psalms",
+  "chapter": 33,
+  "chapterTheme": {
+    "twoWordSummary": "Steadfast Praise",
+    "themeWords": [
+      {
+        "word": "mercy",
+        "strongNumber": "H2617",
+        "lemma": "chesed",
+        "meaning": "steadfast love, kindness, mercy"
+      },
+      {
+        "word": "word",
+        "strongNumber": "H1697",
+        "lemma": "dabar",
+        "meaning": "word, matter, thing"
+      }
+    ]
+  },
+  "sentenceTheme": "A call to joyful, skillful praise of the LORD who created and governs all, whose steadfast love watches over those who fear and hope in Him.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Rejoice in the LORD, O ye righteous: for praise is comely for the upright.",
+      "highlightedWords": [
+        {
+          "word": "Rejoice",
+          "strongNumber": "H7442",
+          "lemma": "ranan",
+          "meaning": "to cry out, shout for joy"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Praise the LORD with harp: sing unto him with the psaltery and an instrument of ten strings.",
+      "highlightedWords": [
+        {
+          "word": "Praise",
+          "strongNumber": "H3034",
+          "lemma": "yadah",
+          "meaning": "to praise, give thanks, confess"
+        },
+        {
+          "word": "sing",
+          "strongNumber": "H2167",
+          "lemma": "zamar",
+          "meaning": "to make music, sing praise"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Sing unto him a new song; play skilfully with a loud noise.",
+      "highlightedWords": [
+        {
+          "word": "Sing",
+          "strongNumber": "H7891",
+          "lemma": "shiyr",
+          "meaning": "to sing"
+        },
+        {
+          "word": "play",
+          "strongNumber": "H5059",
+          "lemma": "nagan",
+          "meaning": "to play a stringed instrument"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "For the word of the LORD is right; and all his works are done in truth.",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, thing"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "He loveth righteousness and judgment: the earth is full of the goodness of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "tsedaqah",
+          "meaning": "righteousness, justice"
+        },
+        {
+          "word": "goodness",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "steadfast love, kindness, mercy"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "By the word of the LORD were the heavens made; and all the host of them by the breath of his mouth.",
+      "highlightedWords": [
+        {
+          "word": "heavens",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens, sky"
+        },
+        {
+          "word": "breath",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "breath, wind, spirit"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "He gathereth the waters of the sea together as an heap: he layeth up the depth in storehouses.",
+      "highlightedWords": [
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters"
+        },
+        {
+          "word": "depth",
+          "strongNumber": "H8415",
+          "lemma": "tehom",
+          "meaning": "the deep, abyss"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Let all the earth fear the LORD: let all the inhabitants of the world stand in awe of him.",
+      "highlightedWords": [
+        {
+          "word": "fear",
+          "strongNumber": "H3372",
+          "lemma": "yare",
+          "meaning": "to fear, revere, be in awe"
+        },
+        {
+          "word": "world",
+          "strongNumber": "H8398",
+          "lemma": "tebel",
+          "meaning": "world, habitable earth"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "For he spake, and it was done; he commanded, and it stood fast.",
+      "highlightedWords": [
+        {
+          "word": "spake",
+          "strongNumber": "H559",
+          "lemma": "amar",
+          "meaning": "to say, speak"
+        },
+        {
+          "word": "commanded",
+          "strongNumber": "H6680",
+          "lemma": "tsavah",
+          "meaning": "to command, charge"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "The LORD bringeth the counsel of the heathen to nought: he maketh the devices of the people of none effect.",
+      "highlightedWords": [
+        {
+          "word": "counsel",
+          "strongNumber": "H6098",
+          "lemma": "etsah",
+          "meaning": "counsel, advice, plan"
+        },
+        {
+          "word": "heathen",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation, people (non-Israel), heathen"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "The counsel of the LORD standeth for ever, the thoughts of his heart to all generations.",
+      "highlightedWords": [
+        {
+          "word": "counsel",
+          "strongNumber": "H6098",
+          "lemma": "etsah",
+          "meaning": "counsel, advice, plan"
+        },
+        {
+          "word": "generations",
+          "strongNumber": "H1755",
+          "lemma": "dor",
+          "meaning": "generation, age"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Blessed is the nation whose God is the LORD; and the people whom he hath chosen for his own inheritance.",
+      "highlightedWords": [
+        {
+          "word": "chosen",
+          "strongNumber": "H977",
+          "lemma": "bachar",
+          "meaning": "to choose, select"
+        },
+        {
+          "word": "inheritance",
+          "strongNumber": "H5159",
+          "lemma": "nachalah",
+          "meaning": "inheritance, possession"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "The LORD looketh from heaven; he beholdeth all the sons of men.",
+      "highlightedWords": [
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens, sky"
+        },
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "From the place of his habitation he looketh upon all the inhabitants of the earth.",
+      "highlightedWords": [
+        {
+          "word": "inhabitants",
+          "strongNumber": "H3427",
+          "lemma": "yashab",
+          "meaning": "to dwell, inhabit, sit"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "earth, land"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "He fashioneth their hearts alike; he considereth all their works.",
+      "highlightedWords": [
+        {
+          "word": "fashioneth",
+          "strongNumber": "H3335",
+          "lemma": "yatsar",
+          "meaning": "to form, fashion"
+        },
+        {
+          "word": "hearts",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner person"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "There is no king saved by the multitude of an host: a mighty man is not delivered by much strength.",
+      "highlightedWords": [
+        {
+          "word": "host",
+          "strongNumber": "H2428",
+          "lemma": "chayil",
+          "meaning": "army, strength, valor"
+        },
+        {
+          "word": "strength",
+          "strongNumber": "H3581",
+          "lemma": "koach",
+          "meaning": "strength, power, might"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "An horse is a vain thing for safety: neither shall he deliver any by his great strength.",
+      "highlightedWords": [
+        {
+          "word": "horse",
+          "strongNumber": "H5483",
+          "lemma": "sus",
+          "meaning": "horse"
+        },
+        {
+          "word": "strength",
+          "strongNumber": "H3581",
+          "lemma": "koach",
+          "meaning": "strength, power, might"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Behold, the eye of the LORD is upon them that fear him, upon them that hope in his mercy;",
+      "highlightedWords": [
+        {
+          "word": "fear",
+          "strongNumber": "H3372",
+          "lemma": "yare",
+          "meaning": "to fear, revere, be in awe"
+        },
+        {
+          "word": "mercy",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "steadfast love, kindness, mercy"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "To deliver their soul from death, and to keep them alive in famine.",
+      "highlightedWords": [
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, person"
+        },
+        {
+          "word": "death",
+          "strongNumber": "H4194",
+          "lemma": "maveth",
+          "meaning": "death"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Our soul waiteth for the LORD: he is our help and our shield.",
+      "highlightedWords": [
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, person"
+        },
+        {
+          "word": "shield",
+          "strongNumber": "H4043",
+          "lemma": "magen",
+          "meaning": "shield, protector"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "For our heart shall rejoice in him, because we have trusted in his holy name.",
+      "highlightedWords": [
+        {
+          "word": "rejoice",
+          "strongNumber": "H8055",
+          "lemma": "samach",
+          "meaning": "to rejoice, be glad"
+        },
+        {
+          "word": "trusted",
+          "strongNumber": "H982",
+          "lemma": "batach",
+          "meaning": "to trust, be confident"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Let thy mercy, O LORD, be upon us, according as we hope in thee.",
+      "highlightedWords": [
+        {
+          "word": "mercy",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "steadfast love, kindness, mercy"
+        },
+        {
+          "word": "hope",
+          "strongNumber": "H3176",
+          "lemma": "yachal",
+          "meaning": "to wait, hope"
+        }
+      ]
+    }
+  ]
+}

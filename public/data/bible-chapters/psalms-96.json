@@ -1,0 +1,258 @@
+{
+  "book": "Psalms",
+  "chapter": 96,
+  "chapterTheme": {
+    "twoWordSummary": "Worship Reign",
+    "themeWords": [
+      {
+        "word": "worship",
+        "strongNumber": "H7812",
+        "lemma": "shachah",
+        "meaning": "to bow down, prostrate oneself, worship"
+      },
+      {
+        "word": "reigneth",
+        "strongNumber": "H4427",
+        "lemma": "malak",
+        "meaning": "to reign, be king"
+      }
+    ]
+  },
+  "sentenceTheme": "All creation is called to sing and declare the LORD’s glory, to worship Him in holiness, and to rejoice because He reigns and will judge the world with righteousness and truth.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "O sing unto the LORD a new song: sing unto the LORD, all the earth.",
+      "highlightedWords": [
+        {
+          "word": "sing",
+          "strongNumber": "H7891",
+          "lemma": "shiyr",
+          "meaning": "to sing"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the divine name, Yahweh"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Sing unto the LORD, bless his name; shew forth his salvation from day to day.",
+      "highlightedWords": [
+        {
+          "word": "bless",
+          "strongNumber": "H1288",
+          "lemma": "barak",
+          "meaning": "to bless, praise"
+        },
+        {
+          "word": "salvation",
+          "strongNumber": "H3444",
+          "lemma": "yeshuah",
+          "meaning": "salvation, deliverance"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Declare his glory among the heathen, his wonders among all people.",
+      "highlightedWords": [
+        {
+          "word": "glory",
+          "strongNumber": "H3519",
+          "lemma": "kavod",
+          "meaning": "glory, honor"
+        },
+        {
+          "word": "heathen",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation, Gentile peoples"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "For the LORD is great, and greatly to be praised: he is to be feared above all gods.",
+      "highlightedWords": [
+        {
+          "word": "great",
+          "strongNumber": "H1419",
+          "lemma": "gadol",
+          "meaning": "great, mighty"
+        },
+        {
+          "word": "feared",
+          "strongNumber": "H3372",
+          "lemma": "yare",
+          "meaning": "to fear, revere, be in awe"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "For all the gods of the nations are idols: but the LORD made the heavens.",
+      "highlightedWords": [
+        {
+          "word": "idols",
+          "strongNumber": "H0457",
+          "lemma": "'eliyl",
+          "meaning": "idol, worthless thing"
+        },
+        {
+          "word": "heavens",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens, sky"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Honour and majesty are before him: strength and beauty are in his sanctuary.",
+      "highlightedWords": [
+        {
+          "word": "Honour",
+          "strongNumber": "H1935",
+          "lemma": "hod",
+          "meaning": "splendor, majesty"
+        },
+        {
+          "word": "sanctuary",
+          "strongNumber": "H4720",
+          "lemma": "miqdash",
+          "meaning": "sanctuary, holy place"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Give unto the LORD, O ye kindreds of the people, give unto the LORD glory and strength.",
+      "highlightedWords": [
+        {
+          "word": "kindreds",
+          "strongNumber": "H4940",
+          "lemma": "mishpachah",
+          "meaning": "family, clan"
+        },
+        {
+          "word": "strength",
+          "strongNumber": "H5797",
+          "lemma": "'oz",
+          "meaning": "strength, might"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Give unto the LORD the glory due unto his name: bring an offering, and come into his courts.",
+      "highlightedWords": [
+        {
+          "word": "offering",
+          "strongNumber": "H4503",
+          "lemma": "minchah",
+          "meaning": "offering, gift, tribute"
+        },
+        {
+          "word": "courts",
+          "strongNumber": "H2691",
+          "lemma": "chatser",
+          "meaning": "courtyard, enclosure"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "O worship the LORD in the beauty of holiness: fear before him, all the earth.",
+      "highlightedWords": [
+        {
+          "word": "worship",
+          "strongNumber": "H7812",
+          "lemma": "shachah",
+          "meaning": "to bow down, worship"
+        },
+        {
+          "word": "holiness",
+          "strongNumber": "H6944",
+          "lemma": "qodesh",
+          "meaning": "holiness, sacredness"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Say among the heathen that the LORD reigneth: the world also shall be established that it shall not be moved: he shall judge the people righteously.",
+      "highlightedWords": [
+        {
+          "word": "reigneth",
+          "strongNumber": "H4427",
+          "lemma": "malak",
+          "meaning": "to reign, be king"
+        },
+        {
+          "word": "judge",
+          "strongNumber": "H8199",
+          "lemma": "shaphat",
+          "meaning": "to judge, govern, vindicate"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Let the heavens rejoice, and let the earth be glad; let the sea roar, and the fulness thereof.",
+      "highlightedWords": [
+        {
+          "word": "heavens",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens, sky"
+        },
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "sea"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Let the field be joyful, and all that is therein: then shall all the trees of the wood rejoice",
+      "highlightedWords": [
+        {
+          "word": "field",
+          "strongNumber": "H7704",
+          "lemma": "sadeh",
+          "meaning": "field, open country"
+        },
+        {
+          "word": "trees",
+          "strongNumber": "H6086",
+          "lemma": "'ets",
+          "meaning": "tree, wood"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Before the LORD: for he cometh, for he cometh to judge the earth: he shall judge the world with righteousness, and the people with his truth.",
+      "highlightedWords": [
+        {
+          "word": "righteousness",
+          "strongNumber": "H6664",
+          "lemma": "tsedeq",
+          "meaning": "righteousness, justice"
+        },
+        {
+          "word": "truth",
+          "strongNumber": "H530",
+          "lemma": "emunah",
+          "meaning": "faithfulness, truth"
+        }
+      ]
+    }
+  ]
+}

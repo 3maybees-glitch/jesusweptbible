@@ -1,0 +1,366 @@
+{
+  "book": "Psalms",
+  "chapter": 116,
+  "chapterTheme": {
+    "twoWordSummary": "Deliverance Praise",
+    "themeWords": [
+      {
+        "word": "deliver",
+        "strongNumber": "H5337",
+        "lemma": "natsal",
+        "meaning": "to snatch away, rescue, or save from danger"
+      },
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH",
+        "meaning": "the covenant name of the God of Israel"
+      }
+    ]
+  },
+  "sentenceTheme": "The psalmist loves the LORD who hears his cry, delivers him from death, and is honored with thanksgiving, vows, and praise.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "I love the LORD, because he hath heard my voice and my supplications.",
+      "highlightedWords": [
+        {
+          "word": "love",
+          "strongNumber": "H157",
+          "lemma": "ahab",
+          "meaning": "to love, have affection for"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Because he hath inclined his ear unto me, therefore will I call upon him as long as I live.",
+      "highlightedWords": [
+        {
+          "word": "inclined",
+          "strongNumber": "H5186",
+          "lemma": "natah",
+          "meaning": "to stretch out, bend, or incline"
+        },
+        {
+          "word": "call",
+          "strongNumber": "H7121",
+          "lemma": "qaraʾ",
+          "meaning": "to call, proclaim, or cry out"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "The sorrows of death compassed me, and the pains of hell gat hold upon me: I found trouble and sorrow.",
+      "highlightedWords": [
+        {
+          "word": "death",
+          "strongNumber": "H4194",
+          "lemma": "maveth",
+          "meaning": "death; the state of dying or death itself"
+        },
+        {
+          "word": "hell",
+          "strongNumber": "H7585",
+          "lemma": "Sheol",
+          "meaning": "the grave, the realm of the dead"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Then called I upon the name of the LORD; O LORD, I beseech thee, deliver my soul.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of the God of Israel"
+        },
+        {
+          "word": "deliver",
+          "strongNumber": "H5337",
+          "lemma": "natsal",
+          "meaning": "to snatch away, rescue, or save from danger"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Gracious is the LORD, and righteous; yea, our God is merciful.",
+      "highlightedWords": [
+        {
+          "word": "Gracious",
+          "strongNumber": "H2587",
+          "lemma": "channun",
+          "meaning": "gracious, showing favor and kindness"
+        },
+        {
+          "word": "merciful",
+          "strongNumber": "H7349",
+          "lemma": "rachum",
+          "meaning": "compassionate, full of mercy"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "The LORD preserveth the simple: I was brought low, and he helped me.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of the God of Israel"
+        },
+        {
+          "word": "simple",
+          "strongNumber": "H6612",
+          "lemma": "pethiy",
+          "meaning": "naive, inexperienced, simple-minded"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Return unto thy rest, O my soul; for the LORD hath dealt bountifully with thee.",
+      "highlightedWords": [
+        {
+          "word": "rest",
+          "strongNumber": "H4496",
+          "lemma": "menuchah",
+          "meaning": "resting place, repose"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "For thou hast delivered my soul from death, mine eyes from tears, and my feet from falling.",
+      "highlightedWords": [
+        {
+          "word": "delivered",
+          "strongNumber": "H5337",
+          "lemma": "natsal",
+          "meaning": "to snatch away, rescue, or save from danger"
+        },
+        {
+          "word": "death",
+          "strongNumber": "H4194",
+          "lemma": "maveth",
+          "meaning": "death; the state of dying or death itself"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "I will walk before the LORD in the land of the living.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of the God of Israel"
+        },
+        {
+          "word": "living",
+          "strongNumber": "H2416",
+          "lemma": "chay",
+          "meaning": "living, alive; life"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "I believed, therefore have I spoken: I was greatly afflicted:",
+      "highlightedWords": [
+        {
+          "word": "believed",
+          "strongNumber": "H539",
+          "lemma": "ʾaman",
+          "meaning": "to believe, trust, be firm"
+        },
+        {
+          "word": "afflicted",
+          "strongNumber": "H6031",
+          "lemma": "ʿanah",
+          "meaning": "to be afflicted, humbled, or oppressed"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "I said in my haste, All men are liars.",
+      "highlightedWords": [
+        {
+          "word": "said",
+          "strongNumber": "H559",
+          "lemma": "amar",
+          "meaning": "to say, speak"
+        },
+        {
+          "word": "haste",
+          "strongNumber": "H2648",
+          "lemma": "chaphaz",
+          "meaning": "to hurry, be hasty or alarmed"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "What shall I render unto the LORD for all his benefits toward me?",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of the God of Israel"
+        },
+        {
+          "word": "benefits",
+          "strongNumber": "H1576",
+          "lemma": "gemul",
+          "meaning": "a dealing, recompense, or benefit"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "I will take the cup of salvation, and call upon the name of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "salvation",
+          "strongNumber": "H3444",
+          "lemma": "yeshuʿah",
+          "meaning": "salvation, deliverance, victory"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "I will pay my vows unto the LORD now in the presence of all his people.",
+      "highlightedWords": [
+        {
+          "word": "vows",
+          "strongNumber": "H5088",
+          "lemma": "neder",
+          "meaning": "a vow, a solemn promise"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Precious in the sight of the LORD is the death of his saints.",
+      "highlightedWords": [
+        {
+          "word": "Precious",
+          "strongNumber": "H3368",
+          "lemma": "yaqar",
+          "meaning": "valuable, costly, precious"
+        },
+        {
+          "word": "saints",
+          "strongNumber": "H2623",
+          "lemma": "chasid",
+          "meaning": "faithful, godly one; pious"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "O LORD, truly I am thy servant; I am thy servant, and the son of thine handmaid: thou hast loosed my bonds.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of the God of Israel"
+        },
+        {
+          "word": "servant",
+          "strongNumber": "H5650",
+          "lemma": "ʿebed",
+          "meaning": "servant, slave, bondman"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "I will offer to thee the sacrifice of thanksgiving, and will call upon the name of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "sacrifice",
+          "strongNumber": "H2077",
+          "lemma": "zebach",
+          "meaning": "a sacrifice, offering"
+        },
+        {
+          "word": "thanksgiving",
+          "strongNumber": "H8426",
+          "lemma": "todah",
+          "meaning": "thanksgiving, praise, confession"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "I will pay my vows unto the LORD now in the presence of all his people,",
+      "highlightedWords": [
+        {
+          "word": "vows",
+          "strongNumber": "H5088",
+          "lemma": "neder",
+          "meaning": "a vow, a solemn promise"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "In the courts of the LORD's house, in the midst of thee, O Jerusalem. Praise ye the LORD.",
+      "highlightedWords": [
+        {
+          "word": "courts",
+          "strongNumber": "H2691",
+          "lemma": "chatsar",
+          "meaning": "an enclosure, court"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem, the chief city of Israel"
+        }
+      ]
+    }
+  ]
+}

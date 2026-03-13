@@ -1,0 +1,186 @@
+{
+  "book": "Psalms",
+  "chapter": 8,
+  "chapterTheme": {
+    "twoWordSummary": "Majestic Dominion",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH",
+        "meaning": "The proper name of the God of Israel"
+      },
+      {
+        "word": "man",
+        "strongNumber": "H582",
+        "lemma": "enosh",
+        "meaning": "Man, mankind; mortal human being"
+      }
+    ]
+  },
+  "sentenceTheme": "The LORD’s majestic name fills creation as He grants mankind honored dominion over the works of His hands.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "O LORD our Lord, how excellent is thy name in all the earth! who hast set thy glory above the heavens.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The proper name of the God of Israel"
+        },
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "Name; reputation; renown"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Out of the mouth of babes and sucklings hast thou ordained strength because of thine enemies, that thou mightest still the enemy and the avenger.",
+      "highlightedWords": [
+        {
+          "word": "mouth",
+          "strongNumber": "H6310",
+          "lemma": "peh",
+          "meaning": "Mouth; opening; edge"
+        },
+        {
+          "word": "strength",
+          "strongNumber": "H5797",
+          "lemma": "ʿoz",
+          "meaning": "Strength; might; power"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "When I consider thy heavens, the work of thy fingers, the moon and the stars, which thou hast ordained;",
+      "highlightedWords": [
+        {
+          "word": "heavens",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "Heavens; sky"
+        },
+        {
+          "word": "moon",
+          "strongNumber": "H3394",
+          "lemma": "yareach",
+          "meaning": "Moon"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "What is man, that thou art mindful of him? and the son of man, that thou visitest him?",
+      "highlightedWords": [
+        {
+          "word": "man",
+          "strongNumber": "H582",
+          "lemma": "enosh",
+          "meaning": "Man; mortal human; mankind"
+        },
+        {
+          "word": "visitest",
+          "strongNumber": "H6485",
+          "lemma": "paqad",
+          "meaning": "To attend to; visit; care for; muster"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "For thou hast made him a little lower than the angels, and hast crowned him with glory and honour.",
+      "highlightedWords": [
+        {
+          "word": "angels",
+          "strongNumber": "H430",
+          "lemma": "elohim",
+          "meaning": "God; gods; divine beings"
+        },
+        {
+          "word": "glory",
+          "strongNumber": "H3519",
+          "lemma": "kabod",
+          "meaning": "Glory; honor; weighty splendor"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Thou madest him to have dominion over the works of thy hands; thou hast put all things under his feet:",
+      "highlightedWords": [
+        {
+          "word": "dominion",
+          "strongNumber": "H4910",
+          "lemma": "mashal",
+          "meaning": "To rule; have dominion; govern"
+        },
+        {
+          "word": "feet",
+          "strongNumber": "H7272",
+          "lemma": "regel",
+          "meaning": "Foot"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "All sheep and oxen, yea, and the beasts of the field;",
+      "highlightedWords": [
+        {
+          "word": "sheep",
+          "strongNumber": "H6629",
+          "lemma": "tson",
+          "meaning": "Small livestock; sheep and goats; flock"
+        },
+        {
+          "word": "field",
+          "strongNumber": "H7704",
+          "lemma": "sadeh",
+          "meaning": "Field; open country; land"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "The fowl of the air, and the fish of the sea, and whatsoever passeth through the paths of the seas.",
+      "highlightedWords": [
+        {
+          "word": "fowl",
+          "strongNumber": "H5775",
+          "lemma": "ʿowph",
+          "meaning": "Flying creatures; birds"
+        },
+        {
+          "word": "fish",
+          "strongNumber": "H1709",
+          "lemma": "dag",
+          "meaning": "Fish"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "O LORD our Lord, how excellent is thy name in all the earth!",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The proper name of the God of Israel"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "Land; earth; territory"
+        }
+      ]
+    }
+  ]
+}

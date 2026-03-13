@@ -1,0 +1,222 @@
+{
+  "book": "Psalms",
+  "chapter": 58,
+  "chapterTheme": {
+    "twoWordSummary": "Righteous Judgment",
+    "themeWords": [
+      {
+        "word": "righteous",
+        "strongNumber": "H6662",
+        "lemma": "tsaddiq",
+        "meaning": "righteous, just, in the right"
+      },
+      {
+        "word": "judge",
+        "strongNumber": "H8199",
+        "lemma": "shaphat",
+        "meaning": "to judge, govern, execute justice"
+      }
+    ]
+  },
+  "sentenceTheme": "A cry for God’s just judgment against the wicked and assurance that He will reward the righteous and judge on the earth.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Do ye indeed speak righteousness, O congregation? do ye judge uprightly, O ye sons of men?",
+      "highlightedWords": [
+        {
+          "word": "righteousness",
+          "strongNumber": "H6664",
+          "lemma": "tsedeq",
+          "meaning": "righteousness, justice, rightness"
+        },
+        {
+          "word": "judge",
+          "strongNumber": "H8199",
+          "lemma": "shaphat",
+          "meaning": "to judge, decide, govern"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Yea, in heart ye work wickedness; ye weigh the violence of your hands in the earth.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner man, mind, will"
+        },
+        {
+          "word": "violence",
+          "strongNumber": "H2555",
+          "lemma": "hamas",
+          "meaning": "violence, wrong, cruelty, injustice"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "The wicked are estranged from the womb: they go astray as soon as they be born, speaking lies.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rashaʿ",
+          "meaning": "wicked, guilty, criminal"
+        },
+        {
+          "word": "lies",
+          "strongNumber": "H3577",
+          "lemma": "kazab",
+          "meaning": "lie, falsehood, deception"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Their poison is like the poison of a serpent: they are like the deaf adder that stoppeth her ear;",
+      "highlightedWords": [
+        {
+          "word": "serpent",
+          "strongNumber": "H5175",
+          "lemma": "nachash",
+          "meaning": "serpent, snake"
+        },
+        {
+          "word": "adder",
+          "strongNumber": "H6620",
+          "lemma": "pethen",
+          "meaning": "adder, cobra, venomous snake"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Which will not hearken to the voice of charmers, charming never so wisely.",
+      "highlightedWords": [
+        {
+          "word": "hearken",
+          "strongNumber": "H8085",
+          "lemma": "shamaʿ",
+          "meaning": "to hear, listen, obey"
+        },
+        {
+          "word": "voice",
+          "strongNumber": "H6963",
+          "lemma": "qol",
+          "meaning": "voice, sound, noise"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Break their teeth, O God, in their mouth: break out the great teeth of the young lions, O LORD.",
+      "highlightedWords": [
+        {
+          "word": "teeth",
+          "strongNumber": "H8127",
+          "lemma": "shen",
+          "meaning": "tooth, teeth, ivory"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel (the LORD)"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Let them melt away as waters which run continually: when he bendeth his bow to shoot his arrows, let them be as cut in pieces.",
+      "highlightedWords": [
+        {
+          "word": "bow",
+          "strongNumber": "H7198",
+          "lemma": "qeshet",
+          "meaning": "bow (weapon), archery"
+        },
+        {
+          "word": "arrows",
+          "strongNumber": "H2671",
+          "lemma": "chets",
+          "meaning": "arrow, shaft"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "As a snail which melteth, let every one of them pass away: like the untimely birth of a woman, that they may not see the sun.",
+      "highlightedWords": [
+        {
+          "word": "snail",
+          "strongNumber": "H5430",
+          "lemma": "shablul",
+          "meaning": "snail, slug"
+        },
+        {
+          "word": "sun",
+          "strongNumber": "H8121",
+          "lemma": "shemesh",
+          "meaning": "sun, sunlight, east"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Before your pots can feel the thorns, he shall take them away as with a whirlwind, both living, and in his wrath.",
+      "highlightedWords": [
+        {
+          "word": "pots",
+          "strongNumber": "H5518",
+          "lemma": "siyr",
+          "meaning": "pot, cauldron, kettle"
+        },
+        {
+          "word": "whirlwind",
+          "strongNumber": "H5591",
+          "lemma": "seʿarah",
+          "meaning": "storm, tempest, whirlwind"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "The righteous shall rejoice when he seeth the vengeance: he shall wash his feet in the blood of the wicked.",
+      "highlightedWords": [
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just, in the right"
+        },
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "blood, bloodshed"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "So that a man shall say, Verily there is a reward for the righteous: verily he is a God that judgeth in the earth.",
+      "highlightedWords": [
+        {
+          "word": "reward",
+          "strongNumber": "H6529",
+          "lemma": "periy",
+          "meaning": "fruit, produce, outcome (reward)"
+        },
+        {
+          "word": "judgeth",
+          "strongNumber": "H8199",
+          "lemma": "shaphat",
+          "meaning": "to judge, execute judgment"
+        }
+      ]
+    }
+  ]
+}

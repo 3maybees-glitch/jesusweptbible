@@ -1,0 +1,150 @@
+{
+  "book": "Psalms",
+  "chapter": 11,
+  "chapterTheme": {
+    "twoWordSummary": "Trust Tested",
+    "themeWords": [
+      {
+        "word": "trust",
+        "strongNumber": "H2620",
+        "lemma": "ḥāsāh (chasah)",
+        "meaning": "to take refuge; to trust in"
+      },
+      {
+        "word": "righteous",
+        "strongNumber": "H6662",
+        "lemma": "ṣaddîq (tsaddiyq)",
+        "meaning": "just, lawful, in the right"
+      }
+    ]
+  },
+  "sentenceTheme": "Amid threats, David declares trust in the LORD who sees and tests all, promising judgment for the wicked and favor for the upright.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "In the LORD put I my trust: how say ye to my soul, Flee as a bird to your mountain?",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the personal name of the God of Israel"
+        },
+        {
+          "word": "trust",
+          "strongNumber": "H2620",
+          "lemma": "ḥāsāh (chasah)",
+          "meaning": "to take refuge; to trust in"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "For, lo, the wicked bend their bow, they make ready their arrow upon the string, that they may privily shoot at the upright in heart.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rāšāʿ (rashaʿ)",
+          "meaning": "wicked, guilty, criminal"
+        },
+        {
+          "word": "upright",
+          "strongNumber": "H3477",
+          "lemma": "yāšār (yashar)",
+          "meaning": "straight, right, upright"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "If the foundations be destroyed, what can the righteous do?",
+      "highlightedWords": [
+        {
+          "word": "destroyed",
+          "strongNumber": "H2040",
+          "lemma": "hāras (haras)",
+          "meaning": "to pull down, tear down, destroy"
+        },
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "ṣaddîq (tsaddiyq)",
+          "meaning": "just, righteous person"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "The LORD is in his holy temple, the LORD's throne is in heaven: his eyes behold, his eyelids try, the children of men.",
+      "highlightedWords": [
+        {
+          "word": "throne",
+          "strongNumber": "H3678",
+          "lemma": "kisseʾ (kisse)",
+          "meaning": "seat of honor, throne"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "šāmayim (shamayim)",
+          "meaning": "heavens, sky"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "The LORD trieth the righteous: but the wicked and him that loveth violence his soul hateth.",
+      "highlightedWords": [
+        {
+          "word": "trieth",
+          "strongNumber": "H974",
+          "lemma": "bāḥan (bachan)",
+          "meaning": "to examine, test, try"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rāšāʿ (rashaʿ)",
+          "meaning": "wicked, guilty, criminal"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Upon the wicked he shall rain snares, fire and brimstone, and an horrible tempest: this shall be the portion of their cup.",
+      "highlightedWords": [
+        {
+          "word": "snares",
+          "strongNumber": "H6341",
+          "lemma": "paḥ (pach)",
+          "meaning": "snare, trap"
+        },
+        {
+          "word": "brimstone",
+          "strongNumber": "H1614",
+          "lemma": "gōp̄rîṯ (gophrith)",
+          "meaning": "sulfur, brimstone"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "For the righteous LORD loveth righteousness; his countenance doth behold the upright.",
+      "highlightedWords": [
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "ṣĕdāqâ (tsedaqah)",
+          "meaning": "righteousness, justice"
+        },
+        {
+          "word": "upright",
+          "strongNumber": "H3477",
+          "lemma": "yāšār (yashar)",
+          "meaning": "straight, right, upright"
+        }
+      ]
+    }
+  ]
+}

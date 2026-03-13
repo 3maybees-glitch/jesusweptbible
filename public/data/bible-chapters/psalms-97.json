@@ -1,0 +1,240 @@
+{
+  "book": "Psalms",
+  "chapter": 97,
+  "chapterTheme": {
+    "twoWordSummary": "YHWH Reigns",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH",
+        "meaning": "The personal covenant name of the God of Israel; the LORD"
+      },
+      {
+        "word": "righteousness",
+        "strongNumber": "H6664",
+        "lemma": "tsedeq",
+        "meaning": "righteousness, rightness, justice"
+      }
+    ]
+  },
+  "sentenceTheme": "The LORD’s sovereign reign fills the earth with joy, establishes righteousness and judgment, topples idolatry, and shines light for the righteous.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "The LORD reigneth; let the earth rejoice; let the multitude of isles be glad thereof.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The personal covenant name of the God of Israel; the LORD"
+        },
+        {
+          "word": "reigneth",
+          "strongNumber": "H4427",
+          "lemma": "malak",
+          "meaning": "to reign, be king, rule"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Clouds and darkness are round about him: righteousness and judgment are the habitation of his throne.",
+      "highlightedWords": [
+        {
+          "word": "righteousness",
+          "strongNumber": "H6664",
+          "lemma": "tsedeq",
+          "meaning": "righteousness, rightness, justice"
+        },
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "judgment, justice, legal decision"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "A fire goeth before him, and burneth up his enemies round about.",
+      "highlightedWords": [
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "’esh",
+          "meaning": "fire"
+        },
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "’oyev",
+          "meaning": "enemy, foe, adversary"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "His lightnings enlightened the world: the earth saw, and trembled.",
+      "highlightedWords": [
+        {
+          "word": "lightnings",
+          "strongNumber": "H1300",
+          "lemma": "baraq",
+          "meaning": "lightning, flash of lightning"
+        },
+        {
+          "word": "world",
+          "strongNumber": "H8398",
+          "lemma": "tebel",
+          "meaning": "the world, the habitable earth"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "The hills melted like wax at the presence of the LORD, at the presence of the Lord of the whole earth.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The personal covenant name of the God of Israel; the LORD"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "H113",
+          "lemma": "’adon",
+          "meaning": "lord, master"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "The heavens declare his righteousness, and all the people see his glory.",
+      "highlightedWords": [
+        {
+          "word": "heavens",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens, sky"
+        },
+        {
+          "word": "glory",
+          "strongNumber": "H3519",
+          "lemma": "kabod",
+          "meaning": "glory, honor, weight"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Confounded be all they that serve graven images, that boast themselves of idols: worship him, all ye gods.",
+      "highlightedWords": [
+        {
+          "word": "idols",
+          "strongNumber": "H0457",
+          "lemma": "’eliyl",
+          "meaning": "worthless thing, idol"
+        },
+        {
+          "word": "gods",
+          "strongNumber": "H430",
+          "lemma": "’elohim",
+          "meaning": "gods; God (divine beings)"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Zion heard, and was glad; and the daughters of Judah rejoiced because of thy judgments, O LORD.",
+      "highlightedWords": [
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyon",
+          "meaning": "Zion, a designation of Jerusalem"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah, the southern kingdom/tribe"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "For thou, LORD, art high above all the earth: thou art exalted far above all gods.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The personal covenant name of the God of Israel; the LORD"
+        },
+        {
+          "word": "gods",
+          "strongNumber": "H430",
+          "lemma": "’elohim",
+          "meaning": "gods; God (divine beings)"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Ye that love the LORD, hate evil: he preserveth the souls of his saints; he delivereth them out of the hand of the wicked.",
+      "highlightedWords": [
+        {
+          "word": "saints",
+          "strongNumber": "H2623",
+          "lemma": "chasid",
+          "meaning": "faithful, godly ones; saints"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha‘",
+          "meaning": "wicked, guilty, criminal"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Light is sown for the righteous, and gladness for the upright in heart.",
+      "highlightedWords": [
+        {
+          "word": "Light",
+          "strongNumber": "H216",
+          "lemma": "’or",
+          "meaning": "light"
+        },
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Rejoice in the LORD, ye righteous; and give thanks at the remembrance of his holiness.",
+      "highlightedWords": [
+        {
+          "word": "Rejoice",
+          "strongNumber": "H8055",
+          "lemma": "samach",
+          "meaning": "to rejoice, be glad"
+        },
+        {
+          "word": "holiness",
+          "strongNumber": "H6944",
+          "lemma": "qodesh",
+          "meaning": "holiness, sacredness"
+        }
+      ]
+    }
+  ]
+}

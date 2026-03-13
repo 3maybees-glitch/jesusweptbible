@@ -1,0 +1,78 @@
+{
+  "book": "Esther",
+  "chapter": 10,
+  "chapterTheme": {
+    "twoWordSummary": "Mordecai exalted",
+    "themeWords": [
+      {
+        "word": "Mordecai",
+        "strongNumber": "H4782",
+        "lemma": "Mordekay",
+        "meaning": "Mordecai, a prominent Jewish leader in Persia"
+      },
+      {
+        "word": "peace",
+        "strongNumber": "H7965",
+        "lemma": "shalom",
+        "meaning": "peace, welfare, well-being"
+      }
+    ]
+  },
+  "sentenceTheme": "The records of King Ahasuerus affirm Mordecai’s greatness and his pursuit of peace for his people.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And the king Ahasuerus laid a tribute upon the land, and upon the isles of the sea.",
+      "highlightedWords": [
+        {
+          "word": "Ahasuerus",
+          "strongNumber": "H0325",
+          "lemma": "Achashverosh",
+          "meaning": "Ahasuerus, a Persian king"
+        },
+        {
+          "word": "tribute",
+          "strongNumber": "H4522",
+          "lemma": "mas",
+          "meaning": "tribute, levy, forced labor"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And all the acts of his power and of his might, and the declaration of the greatness of Mordecai, whereunto the king advanced him, are they not written in the book of the chronicles of the kings of Media and Persia?",
+      "highlightedWords": [
+        {
+          "word": "Mordecai",
+          "strongNumber": "H4782",
+          "lemma": "Mordekay",
+          "meaning": "Mordecai, cousin of Esther and Jewish leader"
+        },
+        {
+          "word": "Persia",
+          "strongNumber": "H6539",
+          "lemma": "Paras",
+          "meaning": "Persia"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "For Mordecai the Jew was next unto king Ahasuerus, and great among the Jews, and accepted of the multitude of his brethren, seeking the wealth of his people, and speaking peace to all his seed.",
+      "highlightedWords": [
+        {
+          "word": "Jew",
+          "strongNumber": "H3064",
+          "lemma": "Yehudiy",
+          "meaning": "a Jew, Judean"
+        },
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace, welfare, well-being"
+        }
+      ]
+    }
+  ]
+}

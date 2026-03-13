@@ -1,0 +1,366 @@
+{
+  "book": "2 Chronicles",
+  "chapter": 15,
+  "chapterTheme": {
+    "twoWordSummary": "Covenant Renewal",
+    "themeWords": [
+      {
+        "word": "seek",
+        "strongNumber": "H1875",
+        "lemma": "darash",
+        "meaning": "to seek, inquire, consult"
+      },
+      {
+        "word": "covenant",
+        "strongNumber": "H1285",
+        "lemma": "berith",
+        "meaning": "a pact, treaty, alliance, or agreement"
+      }
+    ]
+  },
+  "sentenceTheme": "Under Azariah’s prophecy, Asa leads Judah to seek the LORD, purge idolatry, renew covenant, and receive God-given rest.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And the Spirit of God came upon Azariah the son of Oded:",
+      "highlightedWords": [
+        {
+          "word": "Spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "breath, wind, spirit"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’elohim",
+          "meaning": "God, deity, mighty one"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And he went out to meet Asa, and said unto him, Hear ye me, Asa, and all Judah and Benjamin; The LORD is with you, while ye be with him; and if ye seek him, he will be found of you; but if ye forsake him, he will forsake you.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "seek",
+          "strongNumber": "H1875",
+          "lemma": "darash",
+          "meaning": "to seek, inquire, consult"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Now for a long season Israel hath been without the true God, and without a teaching priest, and without law.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’elohim",
+          "meaning": "God, deity, mighty one"
+        },
+        {
+          "word": "law",
+          "strongNumber": "H8451",
+          "lemma": "torah",
+          "meaning": "instruction, law, direction"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "But when they in their trouble did turn unto the LORD God of Israel, and sought him, he was found of them.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "sought",
+          "strongNumber": "H1875",
+          "lemma": "darash",
+          "meaning": "to seek, inquire, consult"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And in those times there was no peace to him that went out, nor to him that came in, but great vexations were upon all the inhabitants of the countries.",
+      "highlightedWords": [
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace, welfare, completeness"
+        },
+        {
+          "word": "countries",
+          "strongNumber": "H776",
+          "lemma": "’erets",
+          "meaning": "land, earth, territory"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And nation was destroyed of nation, and city of city: for God did vex them with all adversity.",
+      "highlightedWords": [
+        {
+          "word": "nation",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation, people, Gentile"
+        },
+        {
+          "word": "adversity",
+          "strongNumber": "H6869",
+          "lemma": "tsarah",
+          "meaning": "distress, trouble, adversity"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Be ye strong therefore, and let not your hands be weak: for your work shall be rewarded.",
+      "highlightedWords": [
+        {
+          "word": "strong",
+          "strongNumber": "H2388",
+          "lemma": "chazaq",
+          "meaning": "to be strong, strengthen"
+        },
+        {
+          "word": "hands",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And when Asa heard these words, and the prophecy of Oded the prophet, he took courage, and put away the abominable idols out of all the land of Judah and Benjamin, and out of the cities which he had taken from mount Ephraim, and renewed the altar of the LORD, that was before the porch of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar for sacrifice"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And he gathered all Judah and Benjamin, and the strangers with them out of Ephraim and Manasseh, and out of Simeon: for they fell to him out of Israel in abundance, when they saw that the LORD his God was with him.",
+      "highlightedWords": [
+        {
+          "word": "strangers",
+          "strongNumber": "H1616",
+          "lemma": "ger",
+          "meaning": "sojourner, resident alien"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "So they gathered themselves together at Jerusalem in the third month, in the fifteenth year of the reign of Asa.",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem, the chief city of Israel"
+        },
+        {
+          "word": "month",
+          "strongNumber": "H2320",
+          "lemma": "chodesh",
+          "meaning": "new moon, month"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And they offered unto the LORD at the same time, of the spoil which they had brought, seven hundred oxen and seven thousand sheep.",
+      "highlightedWords": [
+        {
+          "word": "offered",
+          "strongNumber": "H2076",
+          "lemma": "zabach",
+          "meaning": "to sacrifice, slaughter for offering"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And they entered into a covenant to seek the LORD God of their fathers with all their heart and with all their soul;",
+      "highlightedWords": [
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "a pact, treaty, alliance, or agreement"
+        },
+        {
+          "word": "seek",
+          "strongNumber": "H1875",
+          "lemma": "darash",
+          "meaning": "to seek, inquire, consult"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "That whosoever would not seek the LORD God of Israel should be put to death, whether small or great, whether man or woman.",
+      "highlightedWords": [
+        {
+          "word": "seek",
+          "strongNumber": "H1875",
+          "lemma": "darash",
+          "meaning": "to seek, inquire, consult"
+        },
+        {
+          "word": "death",
+          "strongNumber": "H4194",
+          "lemma": "maveth",
+          "meaning": "death"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And they sware unto the LORD with a loud voice, and with shouting, and with trumpets, and with cornets.",
+      "highlightedWords": [
+        {
+          "word": "sware",
+          "strongNumber": "H7650",
+          "lemma": "shaba‘",
+          "meaning": "to swear, take an oath"
+        },
+        {
+          "word": "trumpets",
+          "strongNumber": "H2689",
+          "lemma": "chatsotsrah",
+          "meaning": "a straight trumpet"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And all Judah rejoiced at the oath: for they had sworn with all their heart, and sought him with their whole desire; and he was found of them: and the LORD gave them rest round about.",
+      "highlightedWords": [
+        {
+          "word": "rejoiced",
+          "strongNumber": "H8055",
+          "lemma": "samach",
+          "meaning": "to rejoice, be glad"
+        },
+        {
+          "word": "rest",
+          "strongNumber": "H5117",
+          "lemma": "nuach",
+          "meaning": "to rest, settle down, give rest"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And also concerning Maachah the mother of Asa the king, he removed her from being queen, because she had made an idol in a grove: and Asa cut down her idol, and stamped it, and burnt it at the brook Kidron.",
+      "highlightedWords": [
+        {
+          "word": "grove",
+          "strongNumber": "H842",
+          "lemma": "’Asherah",
+          "meaning": "a sacred pole or tree associated with the goddess Asherah"
+        },
+        {
+          "word": "brook",
+          "strongNumber": "H5158",
+          "lemma": "nachal",
+          "meaning": "wadi, torrent-bed, brook"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "But the high places were not taken away out of Israel: nevertheless the heart of Asa was perfect all his days.",
+      "highlightedWords": [
+        {
+          "word": "high places",
+          "strongNumber": "H1116",
+          "lemma": "bamah",
+          "meaning": "high place, place of worship"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3824",
+          "lemma": "lebab",
+          "meaning": "inner man, mind, will, heart"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And he brought into the house of God the things that his father had dedicated, and that he himself had dedicated, silver, and gold, and vessels.",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, household, temple"
+        },
+        {
+          "word": "vessels",
+          "strongNumber": "H3627",
+          "lemma": "keli",
+          "meaning": "article, utensil, vessel"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And there was no more war unto the five and thirtieth year of the reign of Asa.",
+      "highlightedWords": [
+        {
+          "word": "war",
+          "strongNumber": "H4421",
+          "lemma": "milchamah",
+          "meaning": "battle, war, warfare"
+        },
+        {
+          "word": "year",
+          "strongNumber": "H8141",
+          "lemma": "shanah",
+          "meaning": "year"
+        }
+      ]
+    }
+  ]
+}

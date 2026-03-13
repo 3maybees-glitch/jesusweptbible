@@ -1,0 +1,132 @@
+{
+  "book": "Psalms",
+  "chapter": 53,
+  "chapterTheme": {
+    "twoWordSummary": "Human Depravity",
+    "themeWords": [
+      {
+        "word": "fool",
+        "strongNumber": "H5036",
+        "lemma": "nabal",
+        "meaning": "foolish, senseless person"
+      },
+      {
+        "word": "God",
+        "strongNumber": "H430",
+        "lemma": "’elohim",
+        "meaning": "God; the supreme God"
+      }
+    ]
+  },
+  "sentenceTheme": "A sober lament over universal human corruption and a hope for God’s saving deliverance from Zion.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "To the chief Musician upon Mahalath, Maschil, A Psalm of David. The fool hath said in his heart, There is no God. Corrupt are they, and have done abominable iniquity: there is none that doeth good.",
+      "highlightedWords": [
+        {
+          "word": "fool",
+          "strongNumber": "H5036",
+          "lemma": "nabal",
+          "meaning": "foolish, senseless person"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’elohim",
+          "meaning": "God; the supreme God"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "God looked down from heaven upon the children of men, to see if there were any that did understand, that did seek God.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’elohim",
+          "meaning": "God; the supreme God"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens, sky"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Every one of them is gone back: they are altogether become filthy; there is none that doeth good, no, not one.",
+      "highlightedWords": [
+        {
+          "word": "good",
+          "strongNumber": "H2896",
+          "lemma": "tov",
+          "meaning": "good, pleasant, beneficial"
+        },
+        {
+          "word": "one",
+          "strongNumber": "H259",
+          "lemma": "’echad",
+          "meaning": "one, single"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Have the workers of iniquity no knowledge? who eat up my people as they eat bread: they have not called upon God.",
+      "highlightedWords": [
+        {
+          "word": "iniquity",
+          "strongNumber": "H205",
+          "lemma": "’aven",
+          "meaning": "iniquity, trouble, wickedness"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’elohim",
+          "meaning": "God; the supreme God"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "There were they in great fear, where no fear was: for God hath scattered the bones of him that encampeth against thee: thou hast put them to shame, because God hath despised them.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’elohim",
+          "meaning": "God; the supreme God"
+        },
+        {
+          "word": "bones",
+          "strongNumber": "H6106",
+          "lemma": "’etsem",
+          "meaning": "bone, substance, self"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Oh that the salvation of Israel were come out of Zion! When God bringeth back the captivity of his people, Jacob shall rejoice, and Israel shall be glad.",
+      "highlightedWords": [
+        {
+          "word": "salvation",
+          "strongNumber": "H3444",
+          "lemma": "yeshu‘ah",
+          "meaning": "salvation, deliverance"
+        },
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyyon",
+          "meaning": "Zion; the hill of Jerusalem"
+        }
+      ]
+    }
+  ]
+}

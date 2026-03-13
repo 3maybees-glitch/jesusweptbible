@@ -1,0 +1,546 @@
+{
+  "book": "1 Chronicles",
+  "chapter": 15,
+  "chapterTheme": {
+    "twoWordSummary": "Ordered Worship",
+    "themeWords": [
+      {
+        "word": "ark",
+        "strongNumber": "H727",
+        "lemma": "ʼārôn",
+        "meaning": "ark, chest; the sacred coffer of the covenant"
+      },
+      {
+        "word": "Levites",
+        "strongNumber": "H3881",
+        "lemma": "Lêwîy",
+        "meaning": "a descendant of Levi; Levitical servant of temple worship"
+      }
+    ]
+  },
+  "sentenceTheme": "David gathers the Levites, sanctifies the priests, appoints musicians, and brings the ark of the covenant to Jerusalem with ordered worship and great rejoicing.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And David made him houses in the city of David, and prepared a place for the ark of God, and pitched for it a tent.",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dāwîd",
+          "meaning": "David; beloved, the second king of Israel"
+        },
+        {
+          "word": "ark",
+          "strongNumber": "H727",
+          "lemma": "ʼārôn",
+          "meaning": "ark, chest; the sacred coffer of the covenant"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Then David said, None ought to carry the ark of God but the Levites: for them hath the LORD chosen to carry the ark of God, and to minister unto him for ever.",
+      "highlightedWords": [
+        {
+          "word": "Levites",
+          "strongNumber": "H3881",
+          "lemma": "Lêwîy",
+          "meaning": "a descendant of Levi; Levitical servant of temple worship"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And David gathered all Israel together to Jerusalem, to bring up the ark of the LORD unto his place, which he had prepared for it.",
+      "highlightedWords": [
+        {
+          "word": "ark",
+          "strongNumber": "H727",
+          "lemma": "ʼārôn",
+          "meaning": "ark, chest; the sacred coffer of the covenant"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And David assembled the children of Aaron, and the Levites:",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dāwîd",
+          "meaning": "David; beloved, the second king of Israel"
+        },
+        {
+          "word": "Levites",
+          "strongNumber": "H3881",
+          "lemma": "Lêwîy",
+          "meaning": "a descendant of Levi; Levitical servant of temple worship"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Of the sons of Kohath; Uriel the chief, and his brethren an hundred and twenty:",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child; descendant; member of a group"
+        },
+        {
+          "word": "chief",
+          "strongNumber": "H7218",
+          "lemma": "rôʼsh",
+          "meaning": "head, leader; chief, top, summit"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Of the sons of Merari; Asaiah the chief, and his brethren two hundred and twenty:",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child; descendant; member of a group"
+        },
+        {
+          "word": "chief",
+          "strongNumber": "H7218",
+          "lemma": "rôʼsh",
+          "meaning": "head, leader; chief, top, summit"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Of the sons of Gershom; Joel the chief, and his brethren an hundred and thirty:",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child; descendant; member of a group"
+        },
+        {
+          "word": "chief",
+          "strongNumber": "H7218",
+          "lemma": "rôʼsh",
+          "meaning": "head, leader; chief, top, summit"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Of the sons of Elizaphan; Shemaiah the chief, and his brethren two hundred:",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child; descendant; member of a group"
+        },
+        {
+          "word": "chief",
+          "strongNumber": "H7218",
+          "lemma": "rôʼsh",
+          "meaning": "head, leader; chief, top, summit"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Of the sons of Hebron; Eliel the chief, and his brethren fourscore:",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child; descendant; member of a group"
+        },
+        {
+          "word": "chief",
+          "strongNumber": "H7218",
+          "lemma": "rôʼsh",
+          "meaning": "head, leader; chief, top, summit"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Of the sons of Uzziel; Amminadab the chief, and his brethren an hundred and twelve:",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child; descendant; member of a group"
+        },
+        {
+          "word": "chief",
+          "strongNumber": "H7218",
+          "lemma": "rôʼsh",
+          "meaning": "head, leader; chief, top, summit"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And David called for Zadok and Abiathar the priests, and for the Levites, for Uriel, Asaiah, and Joel, Shemaiah, and Eliel, and Amminadab,",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "H3548",
+          "lemma": "kôhên",
+          "meaning": "priest; one who officiates in religious service"
+        },
+        {
+          "word": "Levites",
+          "strongNumber": "H3881",
+          "lemma": "Lêwîy",
+          "meaning": "a descendant of Levi; Levitical servant of temple worship"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And said unto them, Ye are the chief of the fathers of the Levites: sanctify yourselves, both ye and your brethren, that ye may bring up the ark of the LORD God of Israel unto the place that I have prepared for it.",
+      "highlightedWords": [
+        {
+          "word": "sanctify",
+          "strongNumber": "H6942",
+          "lemma": "qādash",
+          "meaning": "to consecrate, set apart as holy"
+        },
+        {
+          "word": "ark",
+          "strongNumber": "H727",
+          "lemma": "ʼārôn",
+          "meaning": "ark, chest; the sacred coffer of the covenant"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "For because ye did it not at the first, the LORD our God made a breach upon us, for that we sought him not after the due order.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of the God of Israel"
+        },
+        {
+          "word": "sought",
+          "strongNumber": "H1875",
+          "lemma": "dārash",
+          "meaning": "to seek, inquire, consult"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "So the priests and the Levites sanctified themselves to bring up the ark of the LORD God of Israel.",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "H3548",
+          "lemma": "kôhên",
+          "meaning": "priest; one who officiates in religious service"
+        },
+        {
+          "word": "ark",
+          "strongNumber": "H727",
+          "lemma": "ʼārôn",
+          "meaning": "ark, chest; the sacred coffer of the covenant"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And the children of the Levites bare the ark of God upon their shoulders with the staves thereon, as Moses commanded according to the word of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "Levites",
+          "strongNumber": "H3881",
+          "lemma": "Lêwîy",
+          "meaning": "a descendant of Levi; Levitical servant of temple worship"
+        },
+        {
+          "word": "ark",
+          "strongNumber": "H727",
+          "lemma": "ʼārôn",
+          "meaning": "ark, chest; the sacred coffer of the covenant"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And David spake to the chief of the Levites to appoint their brethren to be the singers with instruments of musick, psalteries and harps and cymbals, sounding, by lifting up the voice with joy.",
+      "highlightedWords": [
+        {
+          "word": "singers",
+          "strongNumber": "H7891",
+          "lemma": "shîr",
+          "meaning": "to sing; singers, those who sing in worship"
+        },
+        {
+          "word": "cymbals",
+          "strongNumber": "H4700",
+          "lemma": "tseltsĕlîm",
+          "meaning": "cymbals; clashing percussion instruments"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "So the Levites appointed Heman the son of Joel; and of his brethren, Asaph the son of Berechiah; and of the sons of Merari their brethren, Ethan the son of Kushaiah;",
+      "highlightedWords": [
+        {
+          "word": "Levites",
+          "strongNumber": "H3881",
+          "lemma": "Lêwîy",
+          "meaning": "a descendant of Levi; Levitical servant of temple worship"
+        },
+        {
+          "word": "brethren",
+          "strongNumber": "H251",
+          "lemma": "ʼāch",
+          "meaning": "brother, kinsman; close relative"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And with them their brethren of the second degree, Zechariah, Ben, and Jaaziel, and Shemiramoth, and Jehiel, and Unni, Eliab, and Benaiah, and Maaseiah, and Mattithiah, and Elipheleh, and Mikneiah, and Obed-edom, and Jeiel, the porters.",
+      "highlightedWords": [
+        {
+          "word": "brethren",
+          "strongNumber": "H251",
+          "lemma": "ʼāch",
+          "meaning": "brother, kinsman; close relative"
+        },
+        {
+          "word": "porters",
+          "strongNumber": "H7778",
+          "lemma": "shôʻêr",
+          "meaning": "gatekeeper, doorkeeper"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "So the singers, Heman, Asaph, and Ethan, were appointed to sound with cymbals of brass;",
+      "highlightedWords": [
+        {
+          "word": "singers",
+          "strongNumber": "H7891",
+          "lemma": "shîr",
+          "meaning": "to sing; singers, those who sing in worship"
+        },
+        {
+          "word": "cymbals",
+          "strongNumber": "H4700",
+          "lemma": "tseltsĕlîm",
+          "meaning": "cymbals; clashing percussion instruments"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And Zechariah, and Aziel, and Shemiramoth, and Jehiel, and Unni, and Eliab, and Maaseiah, and Benaiah, with psalteries on Alamoth;",
+      "highlightedWords": [
+        {
+          "word": "psalteries",
+          "strongNumber": "H5035",
+          "lemma": "nevel",
+          "meaning": "psaltery, lyre; a stringed instrument"
+        },
+        {
+          "word": "Alamoth",
+          "strongNumber": "H5961",
+          "lemma": "ʻălāmôth",
+          "meaning": "Alamoth; a musical term, possibly ‘for soprano/maidens’"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And Mattithiah, and Elipheleh, and Mikneiah, and Obed-edom, and Jeiel, and Azaziah, with harps on the Sheminith to excel.",
+      "highlightedWords": [
+        {
+          "word": "harps",
+          "strongNumber": "H3658",
+          "lemma": "kinnôr",
+          "meaning": "lyre, harp; a stringed instrument"
+        },
+        {
+          "word": "Sheminith",
+          "strongNumber": "H8067",
+          "lemma": "shĕmînîyth",
+          "meaning": "Sheminith; ‘eighth,’ a musical term for low register"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And Chenaniah, chief of the Levites, was for song: he instructed about the song, because he was skilful.",
+      "highlightedWords": [
+        {
+          "word": "song",
+          "strongNumber": "H7892",
+          "lemma": "shîr",
+          "meaning": "song; musical composition"
+        },
+        {
+          "word": "skilful",
+          "strongNumber": "H995",
+          "lemma": "bîn",
+          "meaning": "to understand; skillful, discerning"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And Berechiah and Elkanah were doorkeepers for the ark.",
+      "highlightedWords": [
+        {
+          "word": "doorkeepers",
+          "strongNumber": "H7778",
+          "lemma": "shôʻêr",
+          "meaning": "gatekeeper, doorkeeper"
+        },
+        {
+          "word": "ark",
+          "strongNumber": "H727",
+          "lemma": "ʼārôn",
+          "meaning": "ark, chest; the sacred coffer of the covenant"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And Shebaniah, and Jehoshaphat, and Nethaneel, and Amasai, and Zechariah, and Benaiah, and Eliezer, the priests, did blow with the trumpets before the ark of God: and Obed-edom and Jehiah were doorkeepers for the ark.",
+      "highlightedWords": [
+        {
+          "word": "trumpets",
+          "strongNumber": "H2689",
+          "lemma": "chătsôtsĕrâh",
+          "meaning": "trumpet; metal straight trumpet"
+        },
+        {
+          "word": "priests",
+          "strongNumber": "H3548",
+          "lemma": "kôhên",
+          "meaning": "priest; one who officiates in religious service"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "So David, and the elders of Israel, and the captains over thousands, went to bring up the ark of the covenant of the LORD out of the house of Obed-edom with joy.",
+      "highlightedWords": [
+        {
+          "word": "ark",
+          "strongNumber": "H727",
+          "lemma": "ʼārôn",
+          "meaning": "ark, chest; the sacred coffer of the covenant"
+        },
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berîyth",
+          "meaning": "covenant, pact, treaty; solemn agreement"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And it came to pass, when God helped the Levites that bare the ark of the covenant of the LORD, that they offered seven bullocks and seven rams.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "ʼĕlōhîm",
+          "meaning": "God; mighty one"
+        },
+        {
+          "word": "bullocks",
+          "strongNumber": "H6499",
+          "lemma": "par",
+          "meaning": "young bull, bullock"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And David was clothed with a robe of fine linen, and all the Levites that bare the ark, and the singers, and Chenaniah the master of the song with the singers: David also had upon him an ephod of linen.",
+      "highlightedWords": [
+        {
+          "word": "ark",
+          "strongNumber": "H727",
+          "lemma": "ʼārôn",
+          "meaning": "ark, chest; the sacred coffer of the covenant"
+        },
+        {
+          "word": "ephod",
+          "strongNumber": "H646",
+          "lemma": "ʼêphôd",
+          "meaning": "ephod; priestly or ceremonial garment"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "Thus all Israel brought up the ark of the covenant of the LORD with shouting, and with sound of the cornet, and with trumpets, and with cymbals, making a noise with psalteries and harps.",
+      "highlightedWords": [
+        {
+          "word": "ark",
+          "strongNumber": "H727",
+          "lemma": "ʼārôn",
+          "meaning": "ark, chest; the sacred coffer of the covenant"
+        },
+        {
+          "word": "trumpets",
+          "strongNumber": "H2689",
+          "lemma": "chătsôtsĕrâh",
+          "meaning": "trumpet; metal straight trumpet"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "And it came to pass, as the ark of the covenant of the LORD came to the city of David, that Michal the daughter of Saul looking out at a window saw king David dancing and playing: and she despised him in her heart.",
+      "highlightedWords": [
+        {
+          "word": "ark",
+          "strongNumber": "H727",
+          "lemma": "ʼārôn",
+          "meaning": "ark, chest; the sacred coffer of the covenant"
+        },
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "ʿîyr",
+          "meaning": "city, town, urban area"
+        }
+      ]
+    }
+  ]
+}

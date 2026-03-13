@@ -1,0 +1,1320 @@
+{
+  "book": "Psalms",
+  "chapter": 78,
+  "chapterTheme": {
+    "twoWordSummary": "Covenant Memory",
+    "themeWords": [
+      {
+        "word": "covenant",
+        "strongNumber": "H1285",
+        "lemma": "berit",
+        "meaning": "a binding agreement; divine treaty or promise"
+      },
+      {
+        "word": "fathers",
+        "strongNumber": "H1",
+        "lemma": "’ab",
+        "meaning": "father; ancestor or forefather"
+      }
+    ]
+  },
+  "sentenceTheme": "A historical psalm urging Israel to remember God's mighty works, teach the next generation, and remain faithful to His covenant from the Exodus to David's reign.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Give ear, O my people, to my law: incline your ears to the words of my mouth.",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "‘am",
+          "meaning": "people; nation"
+        },
+        {
+          "word": "law",
+          "strongNumber": "H8451",
+          "lemma": "torah",
+          "meaning": "instruction; law; teaching"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "I will open my mouth in a parable: I will utter dark sayings of old:",
+      "highlightedWords": [
+        {
+          "word": "parable",
+          "strongNumber": "H4912",
+          "lemma": "mashal",
+          "meaning": "proverb; parable; comparison"
+        },
+        {
+          "word": "sayings",
+          "strongNumber": "H2420",
+          "lemma": "chidah",
+          "meaning": "riddle; enigmatic saying; dark saying"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Which we have heard and known, and our fathers have told us.",
+      "highlightedWords": [
+        {
+          "word": "heard",
+          "strongNumber": "H8085",
+          "lemma": "shama‘",
+          "meaning": "to hear; listen; obey"
+        },
+        {
+          "word": "fathers",
+          "strongNumber": "H1",
+          "lemma": "’ab",
+          "meaning": "father; ancestor or forefather"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "We will not hide them from their children, shewing to the generation to come the praises of the LORD, and his strength, and his wonderful works that he hath done.",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; child; descendant"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "For he established a testimony in Jacob, and appointed a law in Israel, which he commanded our fathers, that they should make them known to their children:",
+      "highlightedWords": [
+        {
+          "word": "Jacob",
+          "strongNumber": "H3290",
+          "lemma": "Ya‘aqov",
+          "meaning": "Jacob; heel-catcher; the patriarch of Israel"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra’el",
+          "meaning": "Israel; the nation descended from Jacob"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "That the generation to come might know them, even the children which should be born; who should arise and declare them to their children:",
+      "highlightedWords": [
+        {
+          "word": "generation",
+          "strongNumber": "H1755",
+          "lemma": "dor",
+          "meaning": "generation; age; period"
+        },
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; child; descendant"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "That they might set their hope in God, and not forget the works of God, but keep his commandments:",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’Elohim",
+          "meaning": "God; gods; mighty one"
+        },
+        {
+          "word": "commandments",
+          "strongNumber": "H4687",
+          "lemma": "mitsvah",
+          "meaning": "commandment; ordinance"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And might not be as their fathers, a stubborn and rebellious generation; a generation that set not their heart aright, and whose spirit was not stedfast with God.",
+      "highlightedWords": [
+        {
+          "word": "fathers",
+          "strongNumber": "H1",
+          "lemma": "’ab",
+          "meaning": "father; ancestor or forefather"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "lev",
+          "meaning": "heart; inner person; mind"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "The children of Ephraim, being armed, and carrying bows, turned back in the day of battle.",
+      "highlightedWords": [
+        {
+          "word": "Ephraim",
+          "strongNumber": "H669",
+          "lemma": "Ephrayim",
+          "meaning": "Ephraim; a tribe of Israel"
+        },
+        {
+          "word": "bows",
+          "strongNumber": "H7198",
+          "lemma": "qeshet",
+          "meaning": "bow (for shooting); rainbow"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "They kept not the covenant of God, and refused to walk in his law;",
+      "highlightedWords": [
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berit",
+          "meaning": "a binding agreement; divine treaty or promise"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’Elohim",
+          "meaning": "God; gods; mighty one"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And forgat his works, and his wonders that he had shewed them.",
+      "highlightedWords": [
+        {
+          "word": "forgat",
+          "strongNumber": "H7911",
+          "lemma": "shakach",
+          "meaning": "to forget; ignore"
+        },
+        {
+          "word": "works",
+          "strongNumber": "H4639",
+          "lemma": "ma‘aseh",
+          "meaning": "work; deed; product"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Marvellous things did he in the sight of their fathers, in the land of Egypt, in the field of Zoan.",
+      "highlightedWords": [
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt; dual of Mizraim"
+        },
+        {
+          "word": "Zoan",
+          "strongNumber": "H6814",
+          "lemma": "Tso‘an",
+          "meaning": "Zoan; an ancient city in Egypt (Tanis)"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "He divided the sea, and caused them to pass through; and he made the waters to stand as an heap.",
+      "highlightedWords": [
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "sea; large body of water"
+        },
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters; water"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "In the daytime also he led them with a cloud, and all the night with a light of fire.",
+      "highlightedWords": [
+        {
+          "word": "cloud",
+          "strongNumber": "H6051",
+          "lemma": "‘anan",
+          "meaning": "cloud; cloudy mass"
+        },
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "’esh",
+          "meaning": "fire"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "He clave the rocks in the wilderness, and gave them drink as out of the great depths.",
+      "highlightedWords": [
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbar",
+          "meaning": "wilderness; desert"
+        },
+        {
+          "word": "rocks",
+          "strongNumber": "H6697",
+          "lemma": "tsur",
+          "meaning": "rock; cliff; stronghold"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "He brought streams also out of the rock, and caused waters to run down like rivers.",
+      "highlightedWords": [
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters; water"
+        },
+        {
+          "word": "rivers",
+          "strongNumber": "H5104",
+          "lemma": "nahar",
+          "meaning": "river; stream"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And they sinned yet more against him by provoking the most High in the wilderness.",
+      "highlightedWords": [
+        {
+          "word": "sinned",
+          "strongNumber": "H2398",
+          "lemma": "chata’",
+          "meaning": "to sin; miss the mark"
+        },
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbar",
+          "meaning": "wilderness; desert"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And they tempted God in their heart by asking meat for their lust.",
+      "highlightedWords": [
+        {
+          "word": "tempted",
+          "strongNumber": "H5254",
+          "lemma": "nasah",
+          "meaning": "to test; try; prove"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’Elohim",
+          "meaning": "God; gods; mighty one"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Yea, they spake against God; they said, Can God furnish a table in the wilderness?",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’Elohim",
+          "meaning": "God; gods; mighty one"
+        },
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbar",
+          "meaning": "wilderness; desert"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Behold, he smote the rock, that the waters gushed out, and the streams overflowed; can he give bread also? can he provide flesh for his people?",
+      "highlightedWords": [
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread; food"
+        },
+        {
+          "word": "flesh",
+          "strongNumber": "H1320",
+          "lemma": "basar",
+          "meaning": "flesh; meat; body"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Therefore the LORD heard this, and was wroth: so a fire was kindled against Jacob, and anger also came up against Israel;",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra’el",
+          "meaning": "Israel; the nation descended from Jacob"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Because they believed not in God, and trusted not in his salvation:",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’Elohim",
+          "meaning": "God; gods; mighty one"
+        },
+        {
+          "word": "salvation",
+          "strongNumber": "H3444",
+          "lemma": "yeshu‘ah",
+          "meaning": "salvation; deliverance"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Though he had commanded the clouds from above, and opened the doors of heaven,",
+      "highlightedWords": [
+        {
+          "word": "commanded",
+          "strongNumber": "H6680",
+          "lemma": "tsavah",
+          "meaning": "to command; order"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens; sky"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And had rained down manna upon them to eat, and had given them of the corn of heaven.",
+      "highlightedWords": [
+        {
+          "word": "manna",
+          "strongNumber": "H4478",
+          "lemma": "man",
+          "meaning": "manna; miraculous bread"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens; sky"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Man did eat angels' food: he sent them meat to the full.",
+      "highlightedWords": [
+        {
+          "word": "eat",
+          "strongNumber": "H398",
+          "lemma": "’akal",
+          "meaning": "to eat; consume"
+        },
+        {
+          "word": "meat",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread; food (provision)"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "He caused an east wind to blow in the heaven: and by his power he brought in the south wind.",
+      "highlightedWords": [
+        {
+          "word": "wind",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "wind; spirit; breath"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens; sky"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "He rained flesh also upon them as dust, and feathered fowls like as the sand of the sea:",
+      "highlightedWords": [
+        {
+          "word": "flesh",
+          "strongNumber": "H1320",
+          "lemma": "basar",
+          "meaning": "flesh; meat; body"
+        },
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "sea; large body of water"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And he let it fall in the midst of their camp, round about their habitations.",
+      "highlightedWords": [
+        {
+          "word": "camp",
+          "strongNumber": "H4264",
+          "lemma": "machaneh",
+          "meaning": "camp; encampment"
+        },
+        {
+          "word": "habitations",
+          "strongNumber": "H4908",
+          "lemma": "mishkan",
+          "meaning": "dwelling; tabernacle; habitation"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "So they did eat, and were well filled: for he gave them their own desire;",
+      "highlightedWords": [
+        {
+          "word": "eat",
+          "strongNumber": "H398",
+          "lemma": "’akal",
+          "meaning": "to eat; consume"
+        },
+        {
+          "word": "desire",
+          "strongNumber": "H8378",
+          "lemma": "ta'avah",
+          "meaning": "desire; craving; lust"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "They were not estranged from their lust. But while their meat was yet in their mouths,",
+      "highlightedWords": [
+        {
+          "word": "lust",
+          "strongNumber": "H8378",
+          "lemma": "ta'avah",
+          "meaning": "desire; craving; lust"
+        },
+        {
+          "word": "mouths",
+          "strongNumber": "H6310",
+          "lemma": "peh",
+          "meaning": "mouth; opening"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "The wrath of God came upon them, and slew the fattest of them, and smote down the chosen men of Israel.",
+      "highlightedWords": [
+        {
+          "word": "wrath",
+          "strongNumber": "H639",
+          "lemma": "’aph",
+          "meaning": "nose; anger; wrath"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’Elohim",
+          "meaning": "God; gods; mighty one"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "For all this they sinned still, and believed not for his wondrous works.",
+      "highlightedWords": [
+        {
+          "word": "sinned",
+          "strongNumber": "H2398",
+          "lemma": "chata’",
+          "meaning": "to sin; miss the mark"
+        },
+        {
+          "word": "believed",
+          "strongNumber": "H539",
+          "lemma": "’aman",
+          "meaning": "to believe; trust; be firm"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "Therefore their days did he consume in vanity, and their years in trouble.",
+      "highlightedWords": [
+        {
+          "word": "days",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day; time; period"
+        },
+        {
+          "word": "years",
+          "strongNumber": "H8141",
+          "lemma": "shanah",
+          "meaning": "year"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "When he slew them, then they sought him: and they returned and enquired early after God.",
+      "highlightedWords": [
+        {
+          "word": "slew",
+          "strongNumber": "H2026",
+          "lemma": "harag",
+          "meaning": "to slay; kill"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’Elohim",
+          "meaning": "God; gods; mighty one"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "And they remembered that God was their rock, and the high God their redeemer.",
+      "highlightedWords": [
+        {
+          "word": "rock",
+          "strongNumber": "H6697",
+          "lemma": "tsur",
+          "meaning": "rock; cliff; stronghold"
+        },
+        {
+          "word": "redeemer",
+          "strongNumber": "H1350",
+          "lemma": "ga'al",
+          "meaning": "to redeem; act as kinsman-redeemer"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "Nevertheless they did flatter him with their mouth, and they lied unto him with their tongues.",
+      "highlightedWords": [
+        {
+          "word": "mouth",
+          "strongNumber": "H6310",
+          "lemma": "peh",
+          "meaning": "mouth; opening"
+        },
+        {
+          "word": "tongues",
+          "strongNumber": "H3956",
+          "lemma": "lashon",
+          "meaning": "tongue; language"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "For their heart was not right with him, neither were they stedfast in his covenant.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "lev",
+          "meaning": "heart; inner person; mind"
+        },
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berit",
+          "meaning": "a binding agreement; divine treaty or promise"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "But he, being full of compassion, forgave their iniquity, and destroyed them not: yea, many a time turned he his anger away, and did not stir up all his wrath.",
+      "highlightedWords": [
+        {
+          "word": "compassion",
+          "strongNumber": "H7349",
+          "lemma": "rachum",
+          "meaning": "compassionate; merciful"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "‘avon",
+          "meaning": "iniquity; guilt; punishment of iniquity"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "text": "For he remembered that they were but flesh; a wind that passeth away, and cometh not again.",
+      "highlightedWords": [
+        {
+          "word": "flesh",
+          "strongNumber": "H1320",
+          "lemma": "basar",
+          "meaning": "flesh; meat; body"
+        },
+        {
+          "word": "wind",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "wind; spirit; breath"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "text": "How oft did they provoke him in the wilderness, and grieve him in the desert!",
+      "highlightedWords": [
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbar",
+          "meaning": "wilderness; desert"
+        },
+        {
+          "word": "desert",
+          "strongNumber": "H6160",
+          "lemma": "‘arabah",
+          "meaning": "desert plain; steppe"
+        }
+      ]
+    },
+    {
+      "verse": 41,
+      "text": "Yea, they turned back and tempted God, and limited the Holy One of Israel.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’Elohim",
+          "meaning": "God; gods; mighty one"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra’el",
+          "meaning": "Israel; the nation descended from Jacob"
+        }
+      ]
+    },
+    {
+      "verse": 42,
+      "text": "They remembered not his hand, nor the day when he delivered them from the enemy.",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand; power"
+        },
+        {
+          "word": "enemy",
+          "strongNumber": "H341",
+          "lemma": "’oyev",
+          "meaning": "enemy; foe"
+        }
+      ]
+    },
+    {
+      "verse": 43,
+      "text": "How he had wrought his signs in Egypt, and his wonders in the field of Zoan.",
+      "highlightedWords": [
+        {
+          "word": "signs",
+          "strongNumber": "H226",
+          "lemma": "’oth",
+          "meaning": "sign; token"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt; dual of Mizraim"
+        }
+      ]
+    },
+    {
+      "verse": 44,
+      "text": "And had turned their rivers into blood; and their floods, that they could not drink.",
+      "highlightedWords": [
+        {
+          "word": "rivers",
+          "strongNumber": "H5104",
+          "lemma": "nahar",
+          "meaning": "river; stream"
+        },
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "blood"
+        }
+      ]
+    },
+    {
+      "verse": 45,
+      "text": "He sent divers sorts of flies among them, which devoured them; and frogs, which destroyed them.",
+      "highlightedWords": [
+        {
+          "word": "flies",
+          "strongNumber": "H6157",
+          "lemma": "‘arob",
+          "meaning": "swarm of flies"
+        },
+        {
+          "word": "frogs",
+          "strongNumber": "H6854",
+          "lemma": "tsefardea‘",
+          "meaning": "frog"
+        }
+      ]
+    },
+    {
+      "verse": 46,
+      "text": "He gave also their increase unto the caterpiller, and their labour unto the locust.",
+      "highlightedWords": [
+        {
+          "word": "caterpiller",
+          "strongNumber": "H2625",
+          "lemma": "chasil",
+          "meaning": "caterpillar; ravager"
+        },
+        {
+          "word": "locust",
+          "strongNumber": "H697",
+          "lemma": "’arbeh",
+          "meaning": "locust"
+        }
+      ]
+    },
+    {
+      "verse": 47,
+      "text": "He destroyed their vines with hail, and their sycomore trees with frost.",
+      "highlightedWords": [
+        {
+          "word": "vines",
+          "strongNumber": "H1612",
+          "lemma": "gefen",
+          "meaning": "vine"
+        },
+        {
+          "word": "sycomore",
+          "strongNumber": "H8256",
+          "lemma": "shiqmah",
+          "meaning": "sycomore-fig tree"
+        }
+      ]
+    },
+    {
+      "verse": 48,
+      "text": "He gave up their cattle also to the hail, and their flocks to hot thunderbolts.",
+      "highlightedWords": [
+        {
+          "word": "cattle",
+          "strongNumber": "H929",
+          "lemma": "behemah",
+          "meaning": "beast; cattle"
+        },
+        {
+          "word": "flocks",
+          "strongNumber": "H6629",
+          "lemma": "tson",
+          "meaning": "small livestock; flock"
+        }
+      ]
+    },
+    {
+      "verse": 49,
+      "text": "He cast upon them the fierceness of his anger, wrath, and indignation, and trouble, by sending evil angels among them.",
+      "highlightedWords": [
+        {
+          "word": "anger",
+          "strongNumber": "H639",
+          "lemma": "’aph",
+          "meaning": "nose; anger; wrath"
+        },
+        {
+          "word": "angels",
+          "strongNumber": "H4397",
+          "lemma": "mal’ak",
+          "meaning": "messenger; angel"
+        }
+      ]
+    },
+    {
+      "verse": 50,
+      "text": "He made a way to his anger; he spared not their soul from death, but gave their life over to the pestilence;",
+      "highlightedWords": [
+        {
+          "word": "death",
+          "strongNumber": "H4194",
+          "lemma": "mavet",
+          "meaning": "death"
+        },
+        {
+          "word": "pestilence",
+          "strongNumber": "H1698",
+          "lemma": "dever",
+          "meaning": "pestilence; plague"
+        }
+      ]
+    },
+    {
+      "verse": 51,
+      "text": "And smote all the firstborn in Egypt; the chief of their strength in the tabernacles of Ham:",
+      "highlightedWords": [
+        {
+          "word": "firstborn",
+          "strongNumber": "H1060",
+          "lemma": "bekor",
+          "meaning": "firstborn"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt; dual of Mizraim"
+        }
+      ]
+    },
+    {
+      "verse": 52,
+      "text": "But made his own people to go forth like sheep, and guided them in the wilderness like a flock.",
+      "highlightedWords": [
+        {
+          "word": "sheep",
+          "strongNumber": "H6629",
+          "lemma": "tson",
+          "meaning": "small livestock; flock"
+        },
+        {
+          "word": "flock",
+          "strongNumber": "H5739",
+          "lemma": "‘eder",
+          "meaning": "flock; herd"
+        }
+      ]
+    },
+    {
+      "verse": 53,
+      "text": "And he led them on safely, so that they feared not: but the sea overwhelmed their enemies.",
+      "highlightedWords": [
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "sea; large body of water"
+        },
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "’oyev",
+          "meaning": "enemy; foe"
+        }
+      ]
+    },
+    {
+      "verse": 54,
+      "text": "And he brought them to the border of his sanctuary, even to this mountain, which his right hand had purchased.",
+      "highlightedWords": [
+        {
+          "word": "sanctuary",
+          "strongNumber": "H4720",
+          "lemma": "miqdash",
+          "meaning": "sanctuary; holy place"
+        },
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand; power"
+        }
+      ]
+    },
+    {
+      "verse": 55,
+      "text": "He cast out the heathen also before them, and divided them an inheritance by line, and made the tribes of Israel to dwell in their tents.",
+      "highlightedWords": [
+        {
+          "word": "heathen",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation; people (often non-Israelite)"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra’el",
+          "meaning": "Israel; the nation descended from Jacob"
+        }
+      ]
+    },
+    {
+      "verse": 56,
+      "text": "Yet they tempted and provoked the most high God, and kept not his testimonies:",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’Elohim",
+          "meaning": "God; gods; mighty one"
+        },
+        {
+          "word": "testimonies",
+          "strongNumber": "H5715",
+          "lemma": "‘eduth",
+          "meaning": "testimony; decree"
+        }
+      ]
+    },
+    {
+      "verse": 57,
+      "text": "But turned back, and dealt unfaithfully like their fathers: they were turned aside like a deceitful bow.",
+      "highlightedWords": [
+        {
+          "word": "fathers",
+          "strongNumber": "H1",
+          "lemma": "’ab",
+          "meaning": "father; ancestor or forefather"
+        },
+        {
+          "word": "bow",
+          "strongNumber": "H7198",
+          "lemma": "qeshet",
+          "meaning": "bow (for shooting); rainbow"
+        }
+      ]
+    },
+    {
+      "verse": 58,
+      "text": "For they provoked him to anger with their high places, and moved him to jealousy with their graven images.",
+      "highlightedWords": [
+        {
+          "word": "anger",
+          "strongNumber": "H639",
+          "lemma": "’aph",
+          "meaning": "nose; anger; wrath"
+        },
+        {
+          "word": "images",
+          "strongNumber": "H6459",
+          "lemma": "pesel",
+          "meaning": "carved image; idol"
+        }
+      ]
+    },
+    {
+      "verse": 59,
+      "text": "When God heard this, he was wroth, and greatly abhorred Israel:",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’Elohim",
+          "meaning": "God; gods; mighty one"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra’el",
+          "meaning": "Israel; the nation descended from Jacob"
+        }
+      ]
+    },
+    {
+      "verse": 60,
+      "text": "So that he forsook the tabernacle of Shiloh, the tent which he placed among men;",
+      "highlightedWords": [
+        {
+          "word": "tabernacle",
+          "strongNumber": "H4908",
+          "lemma": "mishkan",
+          "meaning": "dwelling; tabernacle"
+        },
+        {
+          "word": "Shiloh",
+          "strongNumber": "H7887",
+          "lemma": "Shiloh",
+          "meaning": "Shiloh; a city in Ephraim"
+        }
+      ]
+    },
+    {
+      "verse": 61,
+      "text": "And delivered his strength into captivity, and his glory into the enemy's hand.",
+      "highlightedWords": [
+        {
+          "word": "captivity",
+          "strongNumber": "H7628",
+          "lemma": "shevi",
+          "meaning": "captivity; captives"
+        },
+        {
+          "word": "enemy",
+          "strongNumber": "H341",
+          "lemma": "’oyev",
+          "meaning": "enemy; foe"
+        }
+      ]
+    },
+    {
+      "verse": 62,
+      "text": "He gave his people over also unto the sword; and was wroth with his inheritance.",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "‘am",
+          "meaning": "people; nation"
+        },
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "cherev",
+          "meaning": "sword"
+        }
+      ]
+    },
+    {
+      "verse": 63,
+      "text": "The fire consumed their young men; and their maidens were not given to marriage.",
+      "highlightedWords": [
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "’esh",
+          "meaning": "fire"
+        },
+        {
+          "word": "young",
+          "strongNumber": "H970",
+          "lemma": "bachur",
+          "meaning": "young man; chosen youth"
+        }
+      ]
+    },
+    {
+      "verse": 64,
+      "text": "Their priests fell by the sword; and their widows made no lamentation.",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest"
+        },
+        {
+          "word": "widows",
+          "strongNumber": "H490",
+          "lemma": "’almanah",
+          "meaning": "widow"
+        }
+      ]
+    },
+    {
+      "verse": 65,
+      "text": "Then the Lord awaked as one out of sleep, and like a mighty man that shouteth by reason of wine.",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "H136",
+          "lemma": "’Adonai",
+          "meaning": "Lord; master"
+        },
+        {
+          "word": "wine",
+          "strongNumber": "H3196",
+          "lemma": "yayin",
+          "meaning": "wine"
+        }
+      ]
+    },
+    {
+      "verse": 66,
+      "text": "And he smote his enemies in the hinder parts: he put them to a perpetual reproach.",
+      "highlightedWords": [
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "’oyev",
+          "meaning": "enemy; foe"
+        },
+        {
+          "word": "reproach",
+          "strongNumber": "H2781",
+          "lemma": "cherpah",
+          "meaning": "reproach; disgrace"
+        }
+      ]
+    },
+    {
+      "verse": 67,
+      "text": "Moreover he refused the tabernacle of Joseph, and chose not the tribe of Ephraim:",
+      "highlightedWords": [
+        {
+          "word": "Joseph",
+          "strongNumber": "H3130",
+          "lemma": "Yosef",
+          "meaning": "Joseph; he adds"
+        },
+        {
+          "word": "Ephraim",
+          "strongNumber": "H669",
+          "lemma": "Ephrayim",
+          "meaning": "Ephraim; a tribe of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 68,
+      "text": "But chose the tribe of Judah, the mount Zion which he loved.",
+      "highlightedWords": [
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah; praise"
+        },
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyyon",
+          "meaning": "Zion; the hill in Jerusalem"
+        }
+      ]
+    },
+    {
+      "verse": 69,
+      "text": "And he built his sanctuary like high palaces, like the earth which he hath established for ever.",
+      "highlightedWords": [
+        {
+          "word": "sanctuary",
+          "strongNumber": "H4720",
+          "lemma": "miqdash",
+          "meaning": "sanctuary; holy place"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "’erets",
+          "meaning": "earth; land"
+        }
+      ]
+    },
+    {
+      "verse": 70,
+      "text": "He chose David also his servant, and took him from the sheepfolds:",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "David",
+          "meaning": "David; beloved; second king of Israel"
+        },
+        {
+          "word": "servant",
+          "strongNumber": "H5650",
+          "lemma": "‘eved",
+          "meaning": "servant; slave"
+        }
+      ]
+    },
+    {
+      "verse": 71,
+      "text": "From following the ewes great with young he brought him to feed Jacob his people, and Israel his inheritance.",
+      "highlightedWords": [
+        {
+          "word": "Jacob",
+          "strongNumber": "H3290",
+          "lemma": "Ya‘aqov",
+          "meaning": "Jacob; heel-catcher; the patriarch of Israel"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra’el",
+          "meaning": "Israel; the nation descended from Jacob"
+        }
+      ]
+    },
+    {
+      "verse": 72,
+      "text": "So he fed them according to the integrity of his heart; and guided them by the skilfulness of his hands.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "lev",
+          "meaning": "heart; inner person; mind"
+        },
+        {
+          "word": "hands",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand; power"
+        }
+      ]
+    }
+  ]
+}

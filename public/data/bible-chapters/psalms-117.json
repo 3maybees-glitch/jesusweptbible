@@ -1,0 +1,60 @@
+{
+  "book": "Psalms",
+  "chapter": 117,
+  "chapterTheme": {
+    "twoWordSummary": "Universal Praise",
+    "themeWords": [
+      {
+        "word": "praise",
+        "strongNumber": "H1984",
+        "lemma": "halal",
+        "meaning": "to boast or shine; to celebrate and laud"
+      },
+      {
+        "word": "truth",
+        "strongNumber": "H571",
+        "lemma": "emet",
+        "meaning": "firmness, faithfulness, reliability; truth"
+      }
+    ]
+  },
+  "sentenceTheme": "All nations are called to praise the LORD for his merciful kindness and enduring truth.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "O praise the LORD, all ye nations: praise him, all ye people.",
+      "highlightedWords": [
+        {
+          "word": "praise",
+          "strongNumber": "H1984",
+          "lemma": "halal",
+          "meaning": "to boast or shine; to celebrate and laud"
+        },
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "a nation, people; often of the Gentiles"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "For his merciful kindness is great toward us: and the truth of the LORD endureth for ever. Praise ye the LORD.",
+      "highlightedWords": [
+        {
+          "word": "merciful kindness",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "steadfast love; covenant loyalty; mercy and kindness"
+        },
+        {
+          "word": "truth",
+          "strongNumber": "H571",
+          "lemma": "emet",
+          "meaning": "firmness, faithfulness, reliability; truth"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,348 @@
+{
+  "book": "Psalms",
+  "chapter": 83,
+  "chapterTheme": {
+    "twoWordSummary": "Enemy Conspiracy",
+    "themeWords": [
+      {
+        "word": "enemies",
+        "strongNumber": "H341",
+        "lemma": "’oyev",
+        "meaning": "enemy; foe; one hostile"
+      },
+      {
+        "word": "God",
+        "strongNumber": "H430",
+        "lemma": "Elohim",
+        "meaning": "God; mighty one; the true God"
+      }
+    ]
+  },
+  "sentenceTheme": "Asaph pleads for God to break the confederacy of hostile nations against Israel so that all will know His name.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Keep not thou silence, O God: hold not thy peace, and be not still, O God.",
+      "highlightedWords": [
+        {
+          "word": "silence",
+          "strongNumber": "H2790",
+          "lemma": "charash",
+          "meaning": "to be silent; be still; be dumb"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; mighty one; the true God"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "For, lo, thine enemies make a tumult: and they that hate thee have lifted up the head.",
+      "highlightedWords": [
+        {
+          "word": "enemies",
+          "strongNumber": "H341",
+          "lemma": "’oyev",
+          "meaning": "enemy; foe; one hostile"
+        },
+        {
+          "word": "hate",
+          "strongNumber": "H8130",
+          "lemma": "sane'",
+          "meaning": "to hate; be hateful; be an enemy"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "They have taken crafty counsel against thy people, and consulted against thy hidden ones.",
+      "highlightedWords": [
+        {
+          "word": "counsel",
+          "strongNumber": "H6098",
+          "lemma": "’etsah",
+          "meaning": "counsel; advice; plan"
+        },
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "’am",
+          "meaning": "people; nation; kinsfolk"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "They have said, Come, and let us cut them off from being a nation; that the name of Israel may be no more in remembrance.",
+      "highlightedWords": [
+        {
+          "word": "nation",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation; people; gentile"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God strives"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "For they have consulted together with one consent: they are confederate against thee:",
+      "highlightedWords": [
+        {
+          "word": "consulted",
+          "strongNumber": "H3289",
+          "lemma": "ya'ats",
+          "meaning": "to advise; counsel; consult"
+        },
+        {
+          "word": "confederate",
+          "strongNumber": "H1285",
+          "lemma": "beriyth",
+          "meaning": "covenant; alliance; league"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "The tabernacles of Edom, and the Ishmaelites; of Moab, and the Hagarenes;",
+      "highlightedWords": [
+        {
+          "word": "Edom",
+          "strongNumber": "H123",
+          "lemma": "'Edom",
+          "meaning": "Edom; descendants of Esau"
+        },
+        {
+          "word": "Moab",
+          "strongNumber": "H4124",
+          "lemma": "Mo'ab",
+          "meaning": "Moab; descendants of Lot"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Gebal, and Ammon, and Amalek; the Philistines with the inhabitants of Tyre;",
+      "highlightedWords": [
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pelishtiy",
+          "meaning": "Philistines; people of Philistia"
+        },
+        {
+          "word": "Tyre",
+          "strongNumber": "H6865",
+          "lemma": "Tsor",
+          "meaning": "Tyre; a Phoenician city"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Assur also is joined with them: they have holpen the children of Lot. Selah.",
+      "highlightedWords": [
+        {
+          "word": "Assur",
+          "strongNumber": "H804",
+          "lemma": "'Ashshur",
+          "meaning": "Assyria; Asshur"
+        },
+        {
+          "word": "Selah",
+          "strongNumber": "H5542",
+          "lemma": "selah",
+          "meaning": "musical pause; interlude"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Do unto them as unto the Midianites; as to Sisera, as to Jabin, at the brook of Kison:",
+      "highlightedWords": [
+        {
+          "word": "Midianites",
+          "strongNumber": "H4080",
+          "lemma": "Midyan",
+          "meaning": "Midian; Midianites"
+        },
+        {
+          "word": "Kison",
+          "strongNumber": "H7028",
+          "lemma": "Qishon",
+          "meaning": "Kishon/Kison; a northern stream"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Which perished at Endor: they became as dung for the earth.",
+      "highlightedWords": [
+        {
+          "word": "Endor",
+          "strongNumber": "H5874",
+          "lemma": "'En-dor",
+          "meaning": "Endor; a place in Palestine"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "'erets",
+          "meaning": "earth; land; ground"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Make their nobles like Oreb, and like Zeeb: yea, all their princes as Zebah, and as Zalmunna:",
+      "highlightedWords": [
+        {
+          "word": "Zebah",
+          "strongNumber": "H2078",
+          "lemma": "Zebach",
+          "meaning": "Zebah; Midianite prince"
+        },
+        {
+          "word": "Zalmunna",
+          "strongNumber": "H6759",
+          "lemma": "Tsalmunna",
+          "meaning": "Zalmunna; Midianite king"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Who said, Let us take to ourselves the houses of God in possession.",
+      "highlightedWords": [
+        {
+          "word": "said",
+          "strongNumber": "H559",
+          "lemma": "'amar",
+          "meaning": "to say; speak; declare"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; mighty one; the true God"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "O my God, make them like a wheel; as the stubble before the wind.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; mighty one; the true God"
+        },
+        {
+          "word": "wind",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "wind; breath; spirit"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "As the fire burneth a wood, and as the flame setteth the mountains on fire;",
+      "highlightedWords": [
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "'esh",
+          "meaning": "fire"
+        },
+        {
+          "word": "mountains",
+          "strongNumber": "H2022",
+          "lemma": "har",
+          "meaning": "mountain; hill country"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "So persecute them with thy tempest, and make them afraid with thy storm.",
+      "highlightedWords": [
+        {
+          "word": "persecute",
+          "strongNumber": "H7291",
+          "lemma": "radaph",
+          "meaning": "to pursue; chase; persecute"
+        },
+        {
+          "word": "storm",
+          "strongNumber": "H5591",
+          "lemma": "se'arah",
+          "meaning": "storm; whirlwind; tempest"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Fill their faces with shame; that they may seek thy name, O LORD.",
+      "highlightedWords": [
+        {
+          "word": "seek",
+          "strongNumber": "H1245",
+          "lemma": "baqash",
+          "meaning": "to seek; search for; strive after"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the divine name; Yahweh"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Let them be confounded and troubled for ever; yea, let them be put to shame, and perish:",
+      "highlightedWords": [
+        {
+          "word": "ever",
+          "strongNumber": "H5769",
+          "lemma": "'olam",
+          "meaning": "everlasting; forever; perpetual"
+        },
+        {
+          "word": "perish",
+          "strongNumber": "H6",
+          "lemma": "'abad",
+          "meaning": "to perish; be destroyed; lose"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "That men may know that thou, whose name alone is JEHOVAH, art the most high over all the earth.",
+      "highlightedWords": [
+        {
+          "word": "JEHOVAH",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the divine name; Yahweh"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "'erets",
+          "meaning": "earth; land; ground"
+        }
+      ]
+    }
+  ]
+}
