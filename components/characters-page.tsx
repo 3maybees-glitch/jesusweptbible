@@ -70,13 +70,14 @@ export default function CharactersPage() {
         if (response.ok) {
           const jsonData = await response.json() as CharactersData
           setData(jsonData)
-          console.log("[v0] Characters loaded from JSON")
+          console.log("[v0] Characters loaded from JSON:", JSON.stringify(jsonData, null, 2))
+          console.log("[v0] First character:", jsonData.topCharacters?.[0])
         } else {
           console.log("[v0] JSON file not found, using fallback data")
           setData(fallbackData)
         }
       } catch (err) {
-        console.log("[v0] Could not load JSON file, using fallback data")
+        console.log("[v0] Could not load JSON file, using fallback data:", err)
         setData(fallbackData)
       } finally {
         setLoading(false)
