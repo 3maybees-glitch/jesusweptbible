@@ -1,0 +1,276 @@
+{
+  "book": "Hosea",
+  "chapter": 12,
+  "chapterTheme": {
+    "twoWordSummary": "Covenant Controversy",
+    "themeWords": [
+      {
+        "word": "Ephraim",
+        "strongNumber": "H669",
+        "lemma": "Ephrayim",
+        "meaning": "Ephraim; a son of Joseph and the dominant northern tribe, symbol of the Northern Kingdom"
+      },
+      {
+        "word": "covenant",
+        "strongNumber": "H1285",
+        "lemma": "berith",
+        "meaning": "a pact, treaty, alliance, or agreement, often between God and His people"
+      }
+    ]
+  },
+  "sentenceTheme": "The LORD indicts Ephraim and Judah for deceit and foreign reliance, recalls Jacob’s striving, calls them to return with mercy and justice, and warns of judgment.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Ephraim feedeth on wind, and followeth after the east wind: he daily increaseth lies and desolation; and they do make a covenant with the Assyrians, and oil is carried into Egypt.",
+      "highlightedWords": [
+        {
+          "word": "Ephraim",
+          "strongNumber": "H669",
+          "lemma": "Ephrayim",
+          "meaning": "Ephraim; a son of Joseph and the dominant northern tribe, symbol of the Northern Kingdom"
+        },
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "a pact, treaty, alliance, or agreement"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "The LORD hath also a controversy with Judah, and will punish Jacob according to his ways; according to his doings will he recompense him.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the divine name, the LORD"
+        },
+        {
+          "word": "controversy",
+          "strongNumber": "H7379",
+          "lemma": "rib",
+          "meaning": "a dispute, legal case, or contention"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "He took his brother by the heel in the womb, and by his strength he had power with God:",
+      "highlightedWords": [
+        {
+          "word": "heel",
+          "strongNumber": "H6119",
+          "lemma": "aqeb",
+          "meaning": "heel; figuratively, one who supplants or trips up"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; mighty one"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Yea, he had power over the angel, and prevailed: he wept, and made supplication unto him: he found him in Bethel, and there he spake with us;",
+      "highlightedWords": [
+        {
+          "word": "angel",
+          "strongNumber": "H4397",
+          "lemma": "mal'akh",
+          "meaning": "messenger; angel"
+        },
+        {
+          "word": "Bethel",
+          "strongNumber": "H1008",
+          "lemma": "Bethel",
+          "meaning": "House of God; a place in Ephraim"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Even the LORD God of hosts; the LORD is his memorial.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the divine name, the LORD"
+        },
+        {
+          "word": "hosts",
+          "strongNumber": "H6635",
+          "lemma": "tsaba'",
+          "meaning": "armies, hosts; heavenly or earthly forces"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Therefore turn thou to thy God: keep mercy and judgment, and wait on thy God continually.",
+      "highlightedWords": [
+        {
+          "word": "mercy",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "steadfast love, kindness, covenant loyalty"
+        },
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "justice, legal decision, right"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "He is a merchant, the balances of deceit are in his hand: he loveth to oppress.",
+      "highlightedWords": [
+        {
+          "word": "balances",
+          "strongNumber": "H3976",
+          "lemma": "moznayim",
+          "meaning": "balances, scales for weighing"
+        },
+        {
+          "word": "deceit",
+          "strongNumber": "H4820",
+          "lemma": "mirmah",
+          "meaning": "deceit, fraud, treachery"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And Ephraim said, Yet I am become rich, I have found me out substance: in all my labours they shall find none iniquity in me that were sin.",
+      "highlightedWords": [
+        {
+          "word": "rich",
+          "strongNumber": "H6238",
+          "lemma": "‘ashar",
+          "meaning": "to be or become rich"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "‘avon",
+          "meaning": "iniquity, guilt, punishment for iniquity"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And I that am the LORD thy God from the land of Egypt will yet make thee to dwell in tabernacles, as in the days of the solemn feast.",
+      "highlightedWords": [
+        {
+          "word": "tabernacles",
+          "strongNumber": "H5521",
+          "lemma": "sukkah",
+          "meaning": "booth, hut, tabernacle"
+        },
+        {
+          "word": "feast",
+          "strongNumber": "H4150",
+          "lemma": "mo'ed",
+          "meaning": "appointed time, assembly, festival"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "I have also spoken by the prophets, and I have multiplied visions, and used similitudes, by the ministry of the prophets.",
+      "highlightedWords": [
+        {
+          "word": "prophets",
+          "strongNumber": "H5030",
+          "lemma": "nabi'",
+          "meaning": "prophet, spokesperson of God"
+        },
+        {
+          "word": "visions",
+          "strongNumber": "H2377",
+          "lemma": "chazon",
+          "meaning": "vision, revelatory sight"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Is there iniquity in Gilead? surely they are vanity: they sacrifice bullocks in Gilgal; yea, their altars are as heaps in the furrows of the fields.",
+      "highlightedWords": [
+        {
+          "word": "Gilead",
+          "strongNumber": "H1568",
+          "lemma": "Gil'ad",
+          "meaning": "Gilead; a region east of the Jordan"
+        },
+        {
+          "word": "altars",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar for sacrifice"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And Jacob fled into the country of Syria, and Israel served for a wife, and for a wife he kept sheep.",
+      "highlightedWords": [
+        {
+          "word": "Jacob",
+          "strongNumber": "H3290",
+          "lemma": "Ya'aqob",
+          "meaning": "Jacob; patriarch, later named Israel"
+        },
+        {
+          "word": "Syria",
+          "strongNumber": "H758",
+          "lemma": "Aram",
+          "meaning": "Aram; Syria, Aramean region/people"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And by a prophet the LORD brought Israel out of Egypt, and by a prophet was he preserved.",
+      "highlightedWords": [
+        {
+          "word": "prophet",
+          "strongNumber": "H5030",
+          "lemma": "nabi'",
+          "meaning": "prophet, spokesperson of God"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the divine name, the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Ephraim provoked him to anger most bitterly: therefore shall he leave his blood upon him, and his reproach shall his Lord return unto him.",
+      "highlightedWords": [
+        {
+          "word": "provoked",
+          "strongNumber": "H3707",
+          "lemma": "ka'as",
+          "meaning": "to provoke, vex, or anger"
+        },
+        {
+          "word": "reproach",
+          "strongNumber": "H2781",
+          "lemma": "cherpah",
+          "meaning": "reproach, disgrace, shame"
+        }
+      ]
+    }
+  ]
+}

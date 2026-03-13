@@ -1,0 +1,222 @@
+{
+  "book": "Hosea",
+  "chapter": 6,
+  "chapterTheme": {
+    "twoWordSummary": "Return Mercy",
+    "themeWords": [
+      {
+        "word": "return",
+        "strongNumber": "H7725",
+        "lemma": "shuwb",
+        "meaning": "to turn back, repent, or restore"
+      },
+      {
+        "word": "mercy",
+        "strongNumber": "H2617",
+        "lemma": "chesed",
+        "meaning": "steadfast love, kindness, covenant loyalty"
+      }
+    ]
+  },
+  "sentenceTheme": "Israel is called to return to the LORD who heals and restores, for He desires mercy and true knowledge of God rather than sacrifice, while condemning faithless leaders and empty devotion.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Come, and let us return unto the LORD: for he hath torn, and he will heal us; he hath smitten, and he will bind us up.",
+      "highlightedWords": [
+        {
+          "word": "return",
+          "strongNumber": "H7725",
+          "lemma": "shuwb",
+          "meaning": "to turn back, repent, or restore"
+        },
+        {
+          "word": "heal",
+          "strongNumber": "H7495",
+          "lemma": "rapha",
+          "meaning": "to heal, make healthy, repair"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "After two days will he revive us: in the third day he will raise us up, and we shall live in his sight.",
+      "highlightedWords": [
+        {
+          "word": "revive",
+          "strongNumber": "H2421",
+          "lemma": "chayah",
+          "meaning": "to live, give life, revive"
+        },
+        {
+          "word": "raise",
+          "strongNumber": "H6965",
+          "lemma": "quwm",
+          "meaning": "to arise, stand up, establish"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Then shall we know, if we follow on to know the LORD: his going forth is prepared as the morning; and he shall come unto us as the rain, as the latter and former rain unto the earth.",
+      "highlightedWords": [
+        {
+          "word": "know",
+          "strongNumber": "H3045",
+          "lemma": "yada",
+          "meaning": "to know, perceive, acknowledge"
+        },
+        {
+          "word": "rain",
+          "strongNumber": "H1653",
+          "lemma": "geshem",
+          "meaning": "rain, shower, downpour"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "O Ephraim, what shall I do unto thee? O Judah, what shall I do unto thee? for your goodness is as a morning cloud, and as the early dew it goeth away.",
+      "highlightedWords": [
+        {
+          "word": "goodness",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "kindness, loyalty, mercy"
+        },
+        {
+          "word": "dew",
+          "strongNumber": "H2919",
+          "lemma": "tal",
+          "meaning": "dew, light moisture"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Therefore have I hewed them by the prophets; I have slain them by the words of my mouth: and thy judgments are as the light that goeth forth.",
+      "highlightedWords": [
+        {
+          "word": "prophets",
+          "strongNumber": "H5030",
+          "lemma": "nabi",
+          "meaning": "prophet, spokesperson of God"
+        },
+        {
+          "word": "judgments",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "justice, judgment, legal decision"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "For I desired mercy, and not sacrifice; and the knowledge of God more than burnt offerings.",
+      "highlightedWords": [
+        {
+          "word": "mercy",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "steadfast love, covenantal mercy"
+        },
+        {
+          "word": "sacrifice",
+          "strongNumber": "H2077",
+          "lemma": "zebach",
+          "meaning": "sacrifice, offering"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "But they like men have transgressed the covenant: there have they dealt treacherously against me.",
+      "highlightedWords": [
+        {
+          "word": "men",
+          "strongNumber": "H120",
+          "lemma": "adam",
+          "meaning": "man, mankind, humanity"
+        },
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "beriyth",
+          "meaning": "covenant, treaty, agreement"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Gilead is a city of them that work iniquity, and is polluted with blood.",
+      "highlightedWords": [
+        {
+          "word": "Gilead",
+          "strongNumber": "H1568",
+          "lemma": "Gil'ad",
+          "meaning": "Gilead, a region east of the Jordan"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H205",
+          "lemma": "aven",
+          "meaning": "iniquity, trouble, wickedness"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And as troops of robbers wait for a man, so the company of priests murder in the way by consent: for they commit lewdness.",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest, officiant"
+        },
+        {
+          "word": "murder",
+          "strongNumber": "H7523",
+          "lemma": "ratsach",
+          "meaning": "to murder, slay"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "I have seen an horrible thing in the house of Israel: there is the whoredom of Ephraim, Israel is defiled.",
+      "highlightedWords": [
+        {
+          "word": "whoredom",
+          "strongNumber": "H2183",
+          "lemma": "zenunim",
+          "meaning": "whoredom, harlotry, infidelity"
+        },
+        {
+          "word": "defiled",
+          "strongNumber": "H2930",
+          "lemma": "tame",
+          "meaning": "to be unclean, defiled"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Also, O Judah, he hath set an harvest for thee, when I returned the captivity of my people.",
+      "highlightedWords": [
+        {
+          "word": "harvest",
+          "strongNumber": "H7105",
+          "lemma": "qatsiyr",
+          "meaning": "harvest, reaping time"
+        },
+        {
+          "word": "captivity",
+          "strongNumber": "H7622",
+          "lemma": "shebuwth",
+          "meaning": "captivity, exile, restoration from captivity"
+        }
+      ]
+    }
+  ]
+}

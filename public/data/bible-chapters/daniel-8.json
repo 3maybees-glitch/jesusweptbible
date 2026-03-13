@@ -1,0 +1,510 @@
+{
+  "book": "Daniel",
+  "chapter": 8,
+  "chapterTheme": {
+    "twoWordSummary": "Ram Goat",
+    "themeWords": [
+      {
+        "word": "ram",
+        "strongNumber": "H352",
+        "lemma": "’ayil",
+        "meaning": "ram; a male sheep, symbol of strength"
+      },
+      {
+        "word": "goat",
+        "strongNumber": "H6842",
+        "lemma": "tsaphiyr",
+        "meaning": "he-goat; a male goat, often used symbolically"
+      }
+    ]
+  },
+  "sentenceTheme": "Daniel receives a vision of a ram and a he-goat portraying successive kingdoms and a fierce king, with the promise of an appointed end and the sanctuary’s cleansing.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "In the third year of the reign of king Belshazzar a vision appeared unto me, even unto me Daniel, after that which appeared unto me at the first.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king; ruler"
+        },
+        {
+          "word": "vision",
+          "strongNumber": "H2377",
+          "lemma": "chazon",
+          "meaning": "vision; revelation or divine communication"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And I saw in a vision; and it came to pass, when I saw, that I was at Shushan in the palace, which is in the province of Elam; and I saw in a vision, and I was by the river of Ulai.",
+      "highlightedWords": [
+        {
+          "word": "vision",
+          "strongNumber": "H2377",
+          "lemma": "chazon",
+          "meaning": "vision; revelation or divine communication"
+        },
+        {
+          "word": "river",
+          "strongNumber": "H5104",
+          "lemma": "nahar",
+          "meaning": "river; stream"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Then I lifted up mine eyes, and saw, and, behold, there stood before the river a ram which had two horns: and the two horns were high; but one was higher than the other, and the higher came up last.",
+      "highlightedWords": [
+        {
+          "word": "ram",
+          "strongNumber": "H352",
+          "lemma": "’ayil",
+          "meaning": "ram; a male sheep, symbol of strength"
+        },
+        {
+          "word": "horns",
+          "strongNumber": "H7161",
+          "lemma": "qeren",
+          "meaning": "horn; a projecting horn, symbol of power"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "I saw the ram pushing westward, and northward, and southward; so that no beasts might stand before him, neither was there any that could deliver out of his hand; but he did according to his will, and became great.",
+      "highlightedWords": [
+        {
+          "word": "ram",
+          "strongNumber": "H352",
+          "lemma": "’ayil",
+          "meaning": "ram; a male sheep, symbol of strength"
+        },
+        {
+          "word": "beasts",
+          "strongNumber": "H2416",
+          "lemma": "chayyah",
+          "meaning": "beast; living creature, animal"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And as I was considering, behold, an he goat came from the west on the face of the whole earth, and touched not the ground: and the goat had a notable horn between his eyes.",
+      "highlightedWords": [
+        {
+          "word": "goat",
+          "strongNumber": "H6842",
+          "lemma": "tsaphiyr",
+          "meaning": "he-goat; a male goat, often used symbolically"
+        },
+        {
+          "word": "horn",
+          "strongNumber": "H7161",
+          "lemma": "qeren",
+          "meaning": "horn; a projecting horn, symbol of power"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And he came to the ram that had two horns, which I had seen standing before the river, and ran unto him in the fury of his power.",
+      "highlightedWords": [
+        {
+          "word": "ram",
+          "strongNumber": "H352",
+          "lemma": "’ayil",
+          "meaning": "ram; a male sheep, symbol of strength"
+        },
+        {
+          "word": "power",
+          "strongNumber": "H3581",
+          "lemma": "koach",
+          "meaning": "strength; power, might"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And I saw him come close unto the ram, and he was moved with choler against him, and smote the ram, and brake his two horns: and there was no power in the ram to stand before him, but he cast him down to the ground, and stamped upon him: and there was none that could deliver the ram out of his hand.",
+      "highlightedWords": [
+        {
+          "word": "horns",
+          "strongNumber": "H7161",
+          "lemma": "qeren",
+          "meaning": "horn; a projecting horn, symbol of power"
+        },
+        {
+          "word": "ram",
+          "strongNumber": "H352",
+          "lemma": "’ayil",
+          "meaning": "ram; a male sheep, symbol of strength"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Therefore the he goat waxed very great: and when he was strong, the great horn was broken; and for it came up four notable ones toward the four winds of heaven.",
+      "highlightedWords": [
+        {
+          "word": "goat",
+          "strongNumber": "H6842",
+          "lemma": "tsaphiyr",
+          "meaning": "he-goat; a male goat, often used symbolically"
+        },
+        {
+          "word": "horn",
+          "strongNumber": "H7161",
+          "lemma": "qeren",
+          "meaning": "horn; a projecting horn, symbol of power"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And out of one of them came forth a little horn, which waxed exceeding great, toward the south, and toward the east, and toward the pleasant land.",
+      "highlightedWords": [
+        {
+          "word": "horn",
+          "strongNumber": "H7161",
+          "lemma": "qeren",
+          "meaning": "horn; a projecting horn, symbol of power"
+        },
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "’erets",
+          "meaning": "land; earth, territory"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And it waxed great, even to the host of heaven; and it cast down some of the host and of the stars to the ground, and stamped upon them.",
+      "highlightedWords": [
+        {
+          "word": "host",
+          "strongNumber": "H6635",
+          "lemma": "tsabaʿ",
+          "meaning": "host; army, multitude"
+        },
+        {
+          "word": "stars",
+          "strongNumber": "H3556",
+          "lemma": "kokab",
+          "meaning": "star; celestial body"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Yea, he magnified himself even to the prince of the host, and by him the daily sacrifice was taken away, and the place of his sanctuary was cast down.",
+      "highlightedWords": [
+        {
+          "word": "prince",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "prince; chief, ruler"
+        },
+        {
+          "word": "sanctuary",
+          "strongNumber": "H4720",
+          "lemma": "miqdash",
+          "meaning": "sanctuary; holy place"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And an host was given him against the daily sacrifice by reason of transgression, and it cast down the truth to the ground; and it practised, and prospered.",
+      "highlightedWords": [
+        {
+          "word": "host",
+          "strongNumber": "H6635",
+          "lemma": "tsabaʿ",
+          "meaning": "host; army, multitude"
+        },
+        {
+          "word": "truth",
+          "strongNumber": "H571",
+          "lemma": "’emeth",
+          "meaning": "truth; firmness, faithfulness"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Then I heard one saint speaking, and another saint said unto that certain saint which spake, How long shall be the vision concerning the daily sacrifice, and the transgression of desolation, to give both the sanctuary and the host to be trodden under foot?",
+      "highlightedWords": [
+        {
+          "word": "vision",
+          "strongNumber": "H2377",
+          "lemma": "chazon",
+          "meaning": "vision; revelation or divine communication"
+        },
+        {
+          "word": "sanctuary",
+          "strongNumber": "H4720",
+          "lemma": "miqdash",
+          "meaning": "sanctuary; holy place"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And he said unto me, Unto two thousand and three hundred days; then shall the sanctuary be cleansed.",
+      "highlightedWords": [
+        {
+          "word": "days",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day; period of time"
+        },
+        {
+          "word": "sanctuary",
+          "strongNumber": "H4720",
+          "lemma": "miqdash",
+          "meaning": "sanctuary; holy place"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And it came to pass, when I, even I Daniel, had seen the vision, and sought for the meaning, then, behold, there stood before me as the appearance of a man.",
+      "highlightedWords": [
+        {
+          "word": "vision",
+          "strongNumber": "H2377",
+          "lemma": "chazon",
+          "meaning": "vision; revelation or divine communication"
+        },
+        {
+          "word": "man",
+          "strongNumber": "H376",
+          "lemma": "’ish",
+          "meaning": "man; male person"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And I heard a man's voice between the banks of Ulai, which called, and said, Gabriel, make this man to understand the vision.",
+      "highlightedWords": [
+        {
+          "word": "voice",
+          "strongNumber": "H6963",
+          "lemma": "qol",
+          "meaning": "voice; sound"
+        },
+        {
+          "word": "vision",
+          "strongNumber": "H2377",
+          "lemma": "chazon",
+          "meaning": "vision; revelation or divine communication"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "So he came near where I stood: and when he came, I was afraid, and fell upon my face: but he said unto me, Understand, O son of man: for at the time of the end shall be the vision.",
+      "highlightedWords": [
+        {
+          "word": "Understand",
+          "strongNumber": "H995",
+          "lemma": "biyn",
+          "meaning": "to understand; to perceive, discern"
+        },
+        {
+          "word": "end",
+          "strongNumber": "H7093",
+          "lemma": "qets",
+          "meaning": "end; limit, conclusion"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Now as he was speaking with me, I was in a deep sleep on my face toward the ground: but he touched me, and set me upright.",
+      "highlightedWords": [
+        {
+          "word": "touched",
+          "strongNumber": "H5060",
+          "lemma": "nagaʿ",
+          "meaning": "to touch; reach, strike"
+        },
+        {
+          "word": "ground",
+          "strongNumber": "H776",
+          "lemma": "’erets",
+          "meaning": "ground; land, earth"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And he said, Behold, I will make thee know what shall be in the last end of the indignation: for at the time appointed the end shall be.",
+      "highlightedWords": [
+        {
+          "word": "indignation",
+          "strongNumber": "H2195",
+          "lemma": "zaʿam",
+          "meaning": "indignation; wrath"
+        },
+        {
+          "word": "appointed",
+          "strongNumber": "H4150",
+          "lemma": "mo'ed",
+          "meaning": "appointed time; set meeting or season"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "The ram which thou sawest having two horns are the kings of Media and Persia.",
+      "highlightedWords": [
+        {
+          "word": "ram",
+          "strongNumber": "H352",
+          "lemma": "’ayil",
+          "meaning": "ram; a male sheep, symbol of strength"
+        },
+        {
+          "word": "kings",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "kings; rulers"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And the rough goat is the king of Grecia: and the great horn that is between his eyes is the first king.",
+      "highlightedWords": [
+        {
+          "word": "goat",
+          "strongNumber": "H6842",
+          "lemma": "tsaphiyr",
+          "meaning": "he-goat; a male goat, often used symbolically"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king; ruler"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Now that being broken, whereas four stood up for it, four kingdoms shall stand up out of the nation, but not in his power.",
+      "highlightedWords": [
+        {
+          "word": "kingdoms",
+          "strongNumber": "H4467",
+          "lemma": "mamlakah",
+          "meaning": "kingdom; dominion"
+        },
+        {
+          "word": "nation",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation; people"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And in the latter time of their kingdom, when the transgressors are come to the full, a king of fierce countenance, and understanding dark sentences, shall stand up.",
+      "highlightedWords": [
+        {
+          "word": "kingdom",
+          "strongNumber": "H4467",
+          "lemma": "mamlakah",
+          "meaning": "kingdom; dominion"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king; ruler"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And his power shall be mighty, but not by his own power: and he shall destroy wonderfully, and shall prosper, and practise, and shall destroy the mighty and the holy people.",
+      "highlightedWords": [
+        {
+          "word": "power",
+          "strongNumber": "H3581",
+          "lemma": "koach",
+          "meaning": "strength; power, might"
+        },
+        {
+          "word": "holy",
+          "strongNumber": "H6918",
+          "lemma": "qadosh",
+          "meaning": "holy; sacred, set apart"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And through his policy also he shall cause craft to prosper in his hand; and he shall magnify himself in his heart, and by peace shall destroy many: he shall also stand up against the Prince of princes; but he shall be broken without hand.",
+      "highlightedWords": [
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace; well-being, prosperity"
+        },
+        {
+          "word": "Prince",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "prince; chief, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And the vision of the evening and the morning which was told is true: wherefore shut thou up the vision; for it shall be for many days.",
+      "highlightedWords": [
+        {
+          "word": "vision",
+          "strongNumber": "H2377",
+          "lemma": "chazon",
+          "meaning": "vision; revelation or divine communication"
+        },
+        {
+          "word": "days",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day; period of time"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And I Daniel fainted, and was sick certain days; afterward I rose up, and did the king's business; and I was astonished at the vision, but none understood it.",
+      "highlightedWords": [
+        {
+          "word": "business",
+          "strongNumber": "H4399",
+          "lemma": "melakah",
+          "meaning": "work; business, service"
+        },
+        {
+          "word": "vision",
+          "strongNumber": "H2377",
+          "lemma": "chazon",
+          "meaning": "vision; revelation or divine communication"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "book": "Isaiah",
+  "chapter": 56,
+  "chapterTheme": {
+    "twoWordSummary": "Inclusive Covenant",
+    "themeWords": [
+      {
+        "word": "sabbath",
+        "strongNumber": "H7676",
+        "lemma": "šabbāṯ",
+        "meaning": "Sabbath, day of rest"
+      },
+      {
+        "word": "covenant",
+        "strongNumber": "H1285",
+        "lemma": "berît",
+        "meaning": "covenant, treaty, agreement"
+      }
+    ]
+  },
+  "sentenceTheme": "God promises inclusion and lasting blessing to all who keep justice, honor the Sabbath, and hold fast His covenant, while condemning negligent leaders.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Thus saith the LORD, Keep ye judgment, and do justice: for my salvation is near to come, and my righteousness to be revealed.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "ṣĕdāqâ",
+          "meaning": "righteousness, justice"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Blessed is the man that doeth this, and the son of man that layeth hold on it; that keepeth the sabbath from polluting it, and keepeth his hand from doing any evil.",
+      "highlightedWords": [
+        {
+          "word": "sabbath",
+          "strongNumber": "H7676",
+          "lemma": "šabbāṯ",
+          "meaning": "Sabbath, day of rest"
+        },
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "raʿ",
+          "meaning": "evil, bad, wicked"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Neither let the son of the stranger, that hath joined himself to the LORD, speak, saying, The LORD hath utterly separated me from his people: neither let the eunuch say, Behold, I am a dry tree.",
+      "highlightedWords": [
+        {
+          "word": "stranger",
+          "strongNumber": "H5236",
+          "lemma": "nēkār",
+          "meaning": "foreignness; foreigner, alien"
+        },
+        {
+          "word": "eunuch",
+          "strongNumber": "H5631",
+          "lemma": "sārîs",
+          "meaning": "eunuch, court official"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "For thus saith the LORD unto the eunuchs that keep my sabbaths, and choose the things that please me, and take hold of my covenant;",
+      "highlightedWords": [
+        {
+          "word": "eunuchs",
+          "strongNumber": "H5631",
+          "lemma": "sārîs",
+          "meaning": "eunuchs, court officials"
+        },
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berît",
+          "meaning": "covenant, treaty, agreement"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Even unto them will I give in mine house and within my walls a place and a name better than of sons and of daughters: I will give them an everlasting name, that shall not be cut off.",
+      "highlightedWords": [
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "šēm",
+          "meaning": "name, reputation, fame"
+        },
+        {
+          "word": "everlasting",
+          "strongNumber": "H5769",
+          "lemma": "ʿōlām",
+          "meaning": "everlasting, perpetual, eternal"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Also the sons of the stranger, that join themselves to the LORD, to serve him, and to love the name of the LORD, to be his servants, every one that keepeth the sabbath from polluting it, and taketh hold of my covenant;",
+      "highlightedWords": [
+        {
+          "word": "serve",
+          "strongNumber": "H8334",
+          "lemma": "šāraṯ",
+          "meaning": "to minister, serve"
+        },
+        {
+          "word": "sabbath",
+          "strongNumber": "H7676",
+          "lemma": "šabbāṯ",
+          "meaning": "Sabbath, day of rest"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Even them will I bring to my holy mountain, and make them joyful in my house of prayer: their burnt offerings and their sacrifices shall be accepted upon mine altar; for mine house shall be called an house of prayer for all people.",
+      "highlightedWords": [
+        {
+          "word": "prayer",
+          "strongNumber": "H8605",
+          "lemma": "tephillâ",
+          "meaning": "prayer, intercession"
+        },
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbēaḥ",
+          "meaning": "altar"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "The Lord GOD which gathereth the outcasts of Israel saith, Yet will I gather others to him, beside those that are gathered unto him.",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "H136",
+          "lemma": "ʾĂḏōnāy",
+          "meaning": "Lord, Master"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yiśrāʾēl",
+          "meaning": "Israel; God strives"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "All ye beasts of the field, come to devour, yea, all ye beasts in the forest.",
+      "highlightedWords": [
+        {
+          "word": "field",
+          "strongNumber": "H7704",
+          "lemma": "śāḏeh",
+          "meaning": "field, open country"
+        },
+        {
+          "word": "forest",
+          "strongNumber": "H3293",
+          "lemma": "yaʿar",
+          "meaning": "forest, wood"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "His watchmen are blind: they are all ignorant, they are all dumb dogs, they cannot bark; sleeping, lying down, loving to slumber.",
+      "highlightedWords": [
+        {
+          "word": "watchmen",
+          "strongNumber": "H6822",
+          "lemma": "ṣāphâ",
+          "meaning": "to keep watch; watchmen (lookouts)"
+        },
+        {
+          "word": "dogs",
+          "strongNumber": "H3611",
+          "lemma": "keleḇ",
+          "meaning": "dog"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Yea, they are greedy dogs which can never have enough, and they are shepherds that cannot understand: they all look to their own way, every one for his gain, from his quarter.",
+      "highlightedWords": [
+        {
+          "word": "shepherds",
+          "strongNumber": "H7462",
+          "lemma": "rāʿâ",
+          "meaning": "to pasture, shepherd; shepherds"
+        },
+        {
+          "word": "understand",
+          "strongNumber": "H995",
+          "lemma": "bîn",
+          "meaning": "to discern, understand"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Come ye, say they, I will fetch wine, and we will fill ourselves with strong drink; and to morrow shall be as this day, and much more abundant.",
+      "highlightedWords": [
+        {
+          "word": "wine",
+          "strongNumber": "H3196",
+          "lemma": "yayin",
+          "meaning": "wine"
+        },
+        {
+          "word": "day",
+          "strongNumber": "H3117",
+          "lemma": "yôm",
+          "meaning": "day, time"
+        }
+      ]
+    }
+  ]
+}

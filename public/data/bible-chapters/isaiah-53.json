@@ -1,0 +1,240 @@
+{
+  "book": "Isaiah",
+  "chapter": 53,
+  "chapterTheme": {
+    "twoWordSummary": "Suffering Servant",
+    "themeWords": [
+      {
+        "word": "servant",
+        "strongNumber": "H5650",
+        "lemma": "'ebed",
+        "meaning": "servant, slave; one who serves"
+      },
+      {
+        "word": "offering",
+        "strongNumber": "H817",
+        "lemma": "'asham",
+        "meaning": "guilt offering; offering for sin"
+      }
+    ]
+  },
+  "sentenceTheme": "The Servant is despised and afflicted, bears our sins, and through his sacrificial suffering brings justification to many.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Who hath believed our report? and to whom is the arm of the LORD revealed?",
+      "highlightedWords": [
+        {
+          "word": "arm",
+          "strongNumber": "H2220",
+          "lemma": "zeroaʿ",
+          "meaning": "arm; strength, power"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of God"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "For he shall grow up before him as a tender plant, and as a root out of a dry ground: he hath no form nor comeliness; and when we shall see him, there is no beauty that we should desire him.",
+      "highlightedWords": [
+        {
+          "word": "form",
+          "strongNumber": "H8389",
+          "lemma": "to'ar",
+          "meaning": "form; shape, appearance"
+        },
+        {
+          "word": "root",
+          "strongNumber": "H8328",
+          "lemma": "shoresh",
+          "meaning": "root; source, origin"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "He is despised and rejected of men; a man of sorrows, and acquainted with grief: and we hid as it were our faces from him; he was despised, and we esteemed him not.",
+      "highlightedWords": [
+        {
+          "word": "despised",
+          "strongNumber": "H959",
+          "lemma": "bazah",
+          "meaning": "to despise; regard with contempt"
+        },
+        {
+          "word": "grief",
+          "strongNumber": "H2483",
+          "lemma": "choliy",
+          "meaning": "sickness, illness; grief"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Surely he hath borne our griefs, and carried our sorrows: yet we did esteem him stricken, smitten of God, and afflicted.",
+      "highlightedWords": [
+        {
+          "word": "griefs",
+          "strongNumber": "H2483",
+          "lemma": "choliy",
+          "meaning": "sicknesses; griefs"
+        },
+        {
+          "word": "sorrows",
+          "strongNumber": "H4341",
+          "lemma": "mak'ob",
+          "meaning": "pains; sorrows"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed.",
+      "highlightedWords": [
+        {
+          "word": "transgressions",
+          "strongNumber": "H6588",
+          "lemma": "pesha'",
+          "meaning": "transgression; rebellion"
+        },
+        {
+          "word": "iniquities",
+          "strongNumber": "H5771",
+          "lemma": "'avon",
+          "meaning": "iniquity; guilt, wrongdoing"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "All we like sheep have gone astray; we have turned every one to his own way; and the LORD hath laid on him the iniquity of us all.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of God"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "'avon",
+          "meaning": "iniquity; guilt, wrongdoing"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "He was oppressed, and he was afflicted, yet he opened not his mouth: he is brought as a lamb to the slaughter, and as a sheep before her shearers is dumb, so he openeth not his mouth.",
+      "highlightedWords": [
+        {
+          "word": "lamb",
+          "strongNumber": "H7716",
+          "lemma": "seh",
+          "meaning": "a lamb, young sheep"
+        },
+        {
+          "word": "mouth",
+          "strongNumber": "H6310",
+          "lemma": "peh",
+          "meaning": "mouth; speech"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "He was taken from prison and from judgment: and who shall declare his generation? for he was cut off out of the land of the living: for the transgression of my people was he stricken.",
+      "highlightedWords": [
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "'erets",
+          "meaning": "land; earth"
+        },
+        {
+          "word": "transgression",
+          "strongNumber": "H6588",
+          "lemma": "pesha'",
+          "meaning": "transgression; rebellion"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And he made his grave with the wicked, and with the rich in his death; because he had done no violence, neither was any deceit in his mouth.",
+      "highlightedWords": [
+        {
+          "word": "grave",
+          "strongNumber": "H6913",
+          "lemma": "qeber",
+          "meaning": "grave; tomb"
+        },
+        {
+          "word": "deceit",
+          "strongNumber": "H4820",
+          "lemma": "mirmah",
+          "meaning": "deceit; treachery"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Yet it pleased the LORD to bruise him; he hath put him to grief: when thou shalt make his soul an offering for sin, he shall see his seed, he shall prolong his days, and the pleasure of the LORD shall prosper in his hand.",
+      "highlightedWords": [
+        {
+          "word": "offering",
+          "strongNumber": "H817",
+          "lemma": "'asham",
+          "meaning": "guilt offering; offering for sin"
+        },
+        {
+          "word": "seed",
+          "strongNumber": "H2233",
+          "lemma": "zera'",
+          "meaning": "seed; offspring, descendants"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "He shall see of the travail of his soul, and shall be satisfied: by his knowledge shall my righteous servant justify many; for he shall bear their iniquities.",
+      "highlightedWords": [
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous; just"
+        },
+        {
+          "word": "justify",
+          "strongNumber": "H6663",
+          "lemma": "tsadaq",
+          "meaning": "to be righteous; to justify"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Therefore will I divide him a portion with the great, and he shall divide the spoil with the strong; because he hath poured out his soul unto death: and he was numbered with the transgressors; and he bare the sin of many, and made intercession for the transgressors.",
+      "highlightedWords": [
+        {
+          "word": "death",
+          "strongNumber": "H4194",
+          "lemma": "maveth",
+          "meaning": "death"
+        },
+        {
+          "word": "intercession",
+          "strongNumber": "H6293",
+          "lemma": "paga'",
+          "meaning": "to intercede; to entreat"
+        }
+      ]
+    }
+  ]
+}

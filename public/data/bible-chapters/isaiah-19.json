@@ -1,0 +1,474 @@
+{
+  "book": "Isaiah",
+  "chapter": 19,
+  "chapterTheme": {
+    "twoWordSummary": "Egypt Judged",
+    "themeWords": [
+      {
+        "word": "Egypt",
+        "strongNumber": "H4714",
+        "lemma": "Mitsrayim",
+        "meaning": "Egypt; the land of the Nile"
+      },
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH",
+        "meaning": "The personal name of Israel’s God; the LORD"
+      }
+    ]
+  },
+  "sentenceTheme": "Prophecy of judgment and future healing for Egypt, culminating in worship of the LORD alongside Assyria and Israel.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "The burden of Egypt. Behold, the LORD rideth upon a swift cloud, and shall come into Egypt: and the idols of Egypt shall be moved at his presence, and the heart of Egypt shall melt in the midst of it.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The personal name of Israel’s God; the LORD"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt; the land of the Nile"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And I will set the Egyptians against the Egyptians: and they shall fight every one against his brother, and every one against his neighbour; city against city, and kingdom against kingdom.",
+      "highlightedWords": [
+        {
+          "word": "Egyptians",
+          "strongNumber": "H4713",
+          "lemma": "Mitsri",
+          "meaning": "An Egyptian; inhabitant of Egypt"
+        },
+        {
+          "word": "kingdom",
+          "strongNumber": "H4467",
+          "lemma": "mamlakah",
+          "meaning": "Kingdom, realm, dominion"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And the spirit of Egypt shall fail in the midst thereof; and I will destroy the counsel thereof: and they shall seek to the idols, and to the charmers, and to them that have familiar spirits, and to the wizards.",
+      "highlightedWords": [
+        {
+          "word": "spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "Spirit, wind, breath"
+        },
+        {
+          "word": "idols",
+          "strongNumber": "H0457",
+          "lemma": "’eliyl",
+          "meaning": "Idols; worthless, vain things"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And the Egyptians will I give over into the hand of a cruel lord; and a fierce king shall rule over them, saith the Lord, the LORD of hosts.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "King, ruler"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The personal name of Israel’s God; the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And the waters shall fail from the sea, and the river shall be wasted and dried up.",
+      "highlightedWords": [
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "Waters"
+        },
+        {
+          "word": "river",
+          "strongNumber": "H2975",
+          "lemma": "ye’or",
+          "meaning": "The Nile; a river or canal"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And they shall turn the rivers far away; and the brooks of defence shall be emptied and dried up: the reeds and flags shall wither.",
+      "highlightedWords": [
+        {
+          "word": "rivers",
+          "strongNumber": "H2975",
+          "lemma": "ye’or",
+          "meaning": "The Nile; rivers, canals"
+        },
+        {
+          "word": "reeds",
+          "strongNumber": "H7070",
+          "lemma": "qaneh",
+          "meaning": "Reed, stalk, cane"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "The paper reeds by the brooks, by the mouth of the brooks, and every thing sown by the brooks, shall wither, be driven away, and be no more.",
+      "highlightedWords": [
+        {
+          "word": "brooks",
+          "strongNumber": "H2975",
+          "lemma": "ye’or",
+          "meaning": "The Nile; rivers, canals"
+        },
+        {
+          "word": "sown",
+          "strongNumber": "H2232",
+          "lemma": "zaraʿ",
+          "meaning": "To sow, scatter seed"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "The fishers also shall mourn, and all they that cast angle into the brooks shall lament, and they that spread nets upon the waters shall languish.",
+      "highlightedWords": [
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "Waters"
+        },
+        {
+          "word": "fishers",
+          "strongNumber": "H1728",
+          "lemma": "dayyag",
+          "meaning": "Fisherman"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Moreover they that work in fine flax, and they that weave networks, shall be confounded.",
+      "highlightedWords": [
+        {
+          "word": "flax",
+          "strongNumber": "H6593",
+          "lemma": "pishtah",
+          "meaning": "Flax, linen"
+        },
+        {
+          "word": "confounded",
+          "strongNumber": "H0954",
+          "lemma": "bosh",
+          "meaning": "To be ashamed, confounded"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And they shall be broken in the purposes thereof, all that make sluices and ponds for fish.",
+      "highlightedWords": [
+        {
+          "word": "make",
+          "strongNumber": "H6213",
+          "lemma": "ʿasah",
+          "meaning": "To do, make, produce"
+        },
+        {
+          "word": "fish",
+          "strongNumber": "H1709",
+          "lemma": "dag",
+          "meaning": "Fish"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Surely the princes of Zoan are fools, the counsel of the wise counsellors of Pharaoh is become brutish: how say ye unto Pharaoh, I am the son of the wise, the son of ancient kings?",
+      "highlightedWords": [
+        {
+          "word": "princes",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "Prince, official, ruler"
+        },
+        {
+          "word": "Pharaoh",
+          "strongNumber": "H6547",
+          "lemma": "Parʿoh",
+          "meaning": "Pharaoh, Egyptian king"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Where are they? where are thy wise men? and let them tell thee now, and let them know what the LORD of hosts hath purposed upon Egypt.",
+      "highlightedWords": [
+        {
+          "word": "wise",
+          "strongNumber": "H2450",
+          "lemma": "chakam",
+          "meaning": "Wise, skillful"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The personal name of Israel’s God; the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "The princes of Zoan are become fools, the princes of Noph are deceived; they have also seduced Egypt, even they that are the stay of the tribes thereof.",
+      "highlightedWords": [
+        {
+          "word": "Zoan",
+          "strongNumber": "H6814",
+          "lemma": "Tsoʿan",
+          "meaning": "Zoan (Tanis), a city in Lower Egypt"
+        },
+        {
+          "word": "Noph",
+          "strongNumber": "H5297",
+          "lemma": "Noph",
+          "meaning": "Noph (Memphis), a city of Egypt"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "The LORD hath mingled a perverse spirit in the midst thereof: and they have caused Egypt to err in every work thereof, as a drunken man staggereth in his vomit.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The personal name of Israel’s God; the LORD"
+        },
+        {
+          "word": "err",
+          "strongNumber": "H8582",
+          "lemma": "taʿah",
+          "meaning": "To wander, err, go astray"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Neither shall there be any work for Egypt, which the head or tail, branch or rush, may do.",
+      "highlightedWords": [
+        {
+          "word": "work",
+          "strongNumber": "H4639",
+          "lemma": "maʿaseh",
+          "meaning": "Work, deed, labor"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt; the land of the Nile"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "In that day shall Egypt be like unto women: and it shall be afraid and fear because of the shaking of the hand of the LORD of hosts, which he shaketh over it.",
+      "highlightedWords": [
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt; the land of the Nile"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The personal name of Israel’s God; the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And the land of Judah shall be a terror unto Egypt, every one that maketh mention thereof shall be afraid in himself, because of the counsel of the LORD of hosts, which he hath determined against it.",
+      "highlightedWords": [
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt; the land of the Nile"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "In that day shall five cities in the land of Egypt speak the language of Canaan, and swear to the LORD of hosts; one shall be called, The city of destruction.",
+      "highlightedWords": [
+        {
+          "word": "cities",
+          "strongNumber": "H5892",
+          "lemma": "ʿiyr",
+          "meaning": "City, town"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The personal name of Israel’s God; the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "In that day shall there be an altar to the LORD in the midst of the land of Egypt, and a pillar at the border thereof to the LORD.",
+      "highlightedWords": [
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "Altar"
+        },
+        {
+          "word": "pillar",
+          "strongNumber": "H4676",
+          "lemma": "matstsebah",
+          "meaning": "Pillar, monument"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And it shall be for a sign and for a witness unto the LORD of hosts in the land of Egypt: for they shall cry unto the LORD because of the oppressors, and he shall send them a saviour, and a great one, and he shall deliver them.",
+      "highlightedWords": [
+        {
+          "word": "sign",
+          "strongNumber": "H0226",
+          "lemma": "ʾoth",
+          "meaning": "Sign, token"
+        },
+        {
+          "word": "witness",
+          "strongNumber": "H5707",
+          "lemma": "ʿed",
+          "meaning": "Witness, testimony"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And the LORD shall be known to Egypt, and the Egyptians shall know the LORD in that day, and shall do sacrifice and oblation; yea, they shall vow a vow unto the LORD, and perform it.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The personal name of Israel’s God; the LORD"
+        },
+        {
+          "word": "known",
+          "strongNumber": "H3045",
+          "lemma": "yadaʿ",
+          "meaning": "To know, acknowledge"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And the LORD shall smite Egypt: he shall smite and heal it: and they shall return even to the LORD, and he shall be intreated of them, and shall heal them.",
+      "highlightedWords": [
+        {
+          "word": "smite",
+          "strongNumber": "H5221",
+          "lemma": "nakah",
+          "meaning": "To strike, smite, attack"
+        },
+        {
+          "word": "heal",
+          "strongNumber": "H7495",
+          "lemma": "raphaʾ",
+          "meaning": "To heal, make healthy"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "In that day shall there be a highway out of Egypt to Assyria, and the Assyrian shall come into Egypt, and the Egyptian into Assyria, and the Egyptians shall serve with the Assyrians.",
+      "highlightedWords": [
+        {
+          "word": "highway",
+          "strongNumber": "H4546",
+          "lemma": "mesillah",
+          "meaning": "Highway, raised road"
+        },
+        {
+          "word": "Assyria",
+          "strongNumber": "H0804",
+          "lemma": "ʾAshshur",
+          "meaning": "Assyria; Assyrians"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "In that day shall Israel be the third with Egypt and with Assyria, even a blessing in the midst of the land:",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisraʾel",
+          "meaning": "Israel"
+        },
+        {
+          "word": "blessing",
+          "strongNumber": "H1293",
+          "lemma": "berakah",
+          "meaning": "Blessing, gift, prosperity"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Whom the LORD of hosts shall bless, saying, Blessed be Egypt my people, and Assyria the work of my hands, and Israel mine inheritance.",
+      "highlightedWords": [
+        {
+          "word": "bless",
+          "strongNumber": "H1288",
+          "lemma": "barak",
+          "meaning": "To bless, praise, salute"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt; the land of the Nile"
+        }
+      ]
+    }
+  ]
+}

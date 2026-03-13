@@ -1,0 +1,330 @@
+{
+  "book": "Ezekiel",
+  "chapter": 25,
+  "chapterTheme": {
+    "twoWordSummary": "Neighbor Judgments",
+    "themeWords": [
+      {
+        "word": "Ammonites",
+        "strongNumber": "H5983",
+        "lemma": "Ammoniy",
+        "meaning": "descendant of Ammon; the Ammonite people"
+      },
+      {
+        "word": "vengeance",
+        "strongNumber": "H5360",
+        "lemma": "naqamah",
+        "meaning": "retribution; just punishment"
+      }
+    ]
+  },
+  "sentenceTheme": "Ezekiel pronounces oracles of judgment against Ammon, Moab, Edom, and Philistia for their spiteful actions, declaring the LORD’s vengeance.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "The word of the LORD came again unto me, saying,",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "speech; matter; decree"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Son of man, set thy face against the Ammonites, and prophesy against them;",
+      "highlightedWords": [
+        {
+          "word": "Ammonites",
+          "strongNumber": "H5983",
+          "lemma": "Ammoniy",
+          "meaning": "descendant of Ammon; the Ammonite people"
+        },
+        {
+          "word": "prophesy",
+          "strongNumber": "H5012",
+          "lemma": "naba’",
+          "meaning": "to speak or sing by divine inspiration"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And say unto the Ammonites, Hear the word of the Lord GOD; Thus saith the Lord GOD; Because thou saidst, Aha, against my sanctuary, when it was profaned; and against the land of Israel, when it was desolate; and against the house of Judah, when they went into captivity;",
+      "highlightedWords": [
+        {
+          "word": "GOD",
+          "strongNumber": "H3069",
+          "lemma": "Yehovih",
+          "meaning": "YHWH vocalized with Adonai; rendered GOD"
+        },
+        {
+          "word": "sanctuary",
+          "strongNumber": "H4720",
+          "lemma": "miqdash",
+          "meaning": "holy place; sacred dwelling"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Behold, therefore I will deliver thee to the men of the east for a possession, and they shall set their palaces in thee, and make their dwellings in thee: they shall eat thy fruit, and they shall drink thy milk.",
+      "highlightedWords": [
+        {
+          "word": "east",
+          "strongNumber": "H6924",
+          "lemma": "qedem",
+          "meaning": "east; eastward; ancient front"
+        },
+        {
+          "word": "milk",
+          "strongNumber": "H2461",
+          "lemma": "chalab",
+          "meaning": "milk"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And I will make Rabbah a stable for camels, and the Ammonites a couchingplace for flocks: and ye shall know that I am the LORD.",
+      "highlightedWords": [
+        {
+          "word": "Rabbah",
+          "strongNumber": "H7237",
+          "lemma": "Rabbah",
+          "meaning": "capital city of Ammon"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "For thus saith the Lord GOD; Because thou hast clapped thine hands, and stamped with the feet, and rejoiced in heart with all thy despite against the land of Israel;",
+      "highlightedWords": [
+        {
+          "word": "GOD",
+          "strongNumber": "H3069",
+          "lemma": "Yehovih",
+          "meaning": "YHWH vocalized with Adonai; rendered GOD"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra’el",
+          "meaning": "Israel; the people/nation of God"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Behold, therefore I will stretch out mine hand upon thee, and will deliver thee for a spoil to the heathen; and I will cut thee off from the people, and I will cause thee to perish out of the countries: I will destroy thee; and thou shalt know that I am the LORD.",
+      "highlightedWords": [
+        {
+          "word": "heathen",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation; Gentile; non-Israelite peoples"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Thus saith the Lord GOD; Because that Moab and Seir do say, Behold, the house of Judah is like unto all the heathen;",
+      "highlightedWords": [
+        {
+          "word": "Moab",
+          "strongNumber": "H4124",
+          "lemma": "Moab",
+          "meaning": "nation east of the Dead Sea"
+        },
+        {
+          "word": "heathen",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation; Gentile; non-Israelite peoples"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Therefore, behold, I will open the side of Moab from the cities, from his cities which are on his frontiers, the glory of the country, Beth-jeshimoth, Baal-meon, and Kiriathaim,",
+      "highlightedWords": [
+        {
+          "word": "Moab",
+          "strongNumber": "H4124",
+          "lemma": "Moab",
+          "meaning": "nation east of the Dead Sea"
+        },
+        {
+          "word": "Kiriathaim",
+          "strongNumber": "H7156",
+          "lemma": "Qiryathayim",
+          "meaning": "Kiriathaim, a Moabite city"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Unto the men of the east with the Ammonites will I give them in possession, that the Ammonites may not be remembered among the nations.",
+      "highlightedWords": [
+        {
+          "word": "Ammonites",
+          "strongNumber": "H5983",
+          "lemma": "Ammoniy",
+          "meaning": "descendant of Ammon; the Ammonite people"
+        },
+        {
+          "word": "east",
+          "strongNumber": "H6924",
+          "lemma": "qedem",
+          "meaning": "east; eastward; ancient front"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And I will execute judgments upon Moab; and they shall know that I am the LORD.",
+      "highlightedWords": [
+        {
+          "word": "Moab",
+          "strongNumber": "H4124",
+          "lemma": "Moab",
+          "meaning": "nation east of the Dead Sea"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Thus saith the Lord GOD; Because that Edom hath dealt against the house of Judah by taking vengeance, and hath greatly offended, and revenged himself upon them;",
+      "highlightedWords": [
+        {
+          "word": "Edom",
+          "strongNumber": "H123",
+          "lemma": "Edom",
+          "meaning": "Edom; descendants of Esau"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah; the southern kingdom of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Therefore thus saith the Lord GOD; I will also stretch out mine hand upon Edom, and will cut off man and beast from it; and I will make it desolate from Teman; and they of Dedan shall fall by the sword.",
+      "highlightedWords": [
+        {
+          "word": "Edom",
+          "strongNumber": "H123",
+          "lemma": "Edom",
+          "meaning": "Edom; descendants of Esau"
+        },
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword; sharp weapon"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And I will lay my vengeance upon Edom by the hand of my people Israel: and they shall do in Edom according to mine anger and according to my fury; and they shall know my vengeance, saith the Lord GOD.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra’el",
+          "meaning": "Israel; the people/nation of God"
+        },
+        {
+          "word": "vengeance",
+          "strongNumber": "H5360",
+          "lemma": "naqamah",
+          "meaning": "retribution; just punishment"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Thus saith the Lord GOD; Because the Philistines have dealt by revenge, and have taken vengeance with a despiteful heart, to destroy it for the old hatred;",
+      "highlightedWords": [
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pelishtiy",
+          "meaning": "Philistines; people of the coastal plain"
+        },
+        {
+          "word": "vengeance",
+          "strongNumber": "H5360",
+          "lemma": "naqamah",
+          "meaning": "retribution; just punishment"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Therefore thus saith the Lord GOD; Behold, I will stretch out mine hand upon the Philistines, and I will cut off the Cherethims, and destroy the remnant of the sea coast.",
+      "highlightedWords": [
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pelishtiy",
+          "meaning": "Philistines; people of the coastal plain"
+        },
+        {
+          "word": "Cherethims",
+          "strongNumber": "H3774",
+          "lemma": "Kerethiy",
+          "meaning": "Cherethites; a Philistine group"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And I will execute great vengeance upon them with furious rebukes; and they shall know that I am the LORD, when I shall lay my vengeance upon them.",
+      "highlightedWords": [
+        {
+          "word": "vengeance",
+          "strongNumber": "H5360",
+          "lemma": "naqamah",
+          "meaning": "retribution; just punishment"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    }
+  ]
+}

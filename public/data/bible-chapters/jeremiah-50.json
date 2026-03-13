@@ -1,0 +1,852 @@
+{
+  "book": "Jeremiah",
+  "chapter": 50,
+  "chapterTheme": {
+    "twoWordSummary": "Babylon Judged",
+    "themeWords": [
+      {
+        "word": "Babylon",
+        "strongNumber": "H894",
+        "lemma": "Bāḇel",
+        "meaning": "Babylon; the chief city/empire of Babylonia"
+      },
+      {
+        "word": "Redeemer",
+        "strongNumber": "H1350",
+        "lemma": "go'el",
+        "meaning": "kinsman-redeemer; vindicator who delivers or avenges"
+      }
+    ]
+  },
+  "sentenceTheme": "The LORD proclaims and executes judgment on Babylon for its pride and oppression, while promising restoration and pardon for Israel and Judah.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "The word that the LORD spake against Babylon and against the land of the Chaldeans by Jeremiah the prophet.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        },
+        {
+          "word": "Babylon",
+          "strongNumber": "H894",
+          "lemma": "Bāḇel",
+          "meaning": "Babylon; the chief city/empire of Babylonia"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Declare ye among the nations, and publish, and set up a standard; publish, and conceal not: say, Babylon is taken, Bel is confounded, Merodach is broken in pieces; her idols are confounded, her images are broken in pieces.",
+      "highlightedWords": [
+        {
+          "word": "Bel",
+          "strongNumber": "H1078",
+          "lemma": "Bēl",
+          "meaning": "title of the Babylonian god Marduk"
+        },
+        {
+          "word": "Merodach",
+          "strongNumber": "H4781",
+          "lemma": "Mərōḏak",
+          "meaning": "Merodach/Marduk, chief Babylonian deity"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "For out of the north there cometh up a nation against her, which shall make her land desolate, and none shall dwell therein: they shall remove, they shall depart, both man and beast.",
+      "highlightedWords": [
+        {
+          "word": "north",
+          "strongNumber": "H6828",
+          "lemma": "tsaphon",
+          "meaning": "north; northern regions"
+        },
+        {
+          "word": "desolate",
+          "strongNumber": "H8077",
+          "lemma": "shemamah",
+          "meaning": "desolation, waste, ruin"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "In those days, and in that time, saith the LORD, the children of Israel shall come, they and the children of Judah together, going and weeping: they shall go, and seek the LORD their God.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God strives; the nation and people"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah; praise; the southern kingdom/tribe"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "They shall ask the way to Zion with their faces thitherward, saying, Come, and let us join ourselves to the LORD in a perpetual covenant that shall not be forgotten.",
+      "highlightedWords": [
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyyon",
+          "meaning": "Zion; the hill/city of Jerusalem"
+        },
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "covenant, treaty, alliance"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "My people hath been lost sheep: their shepherds have caused them to go astray, they have turned them away on the mountains: they have gone from mountain to hill, they have forgotten their restingplace.",
+      "highlightedWords": [
+        {
+          "word": "shepherds",
+          "strongNumber": "H7462",
+          "lemma": "ra'ah",
+          "meaning": "to pasture, tend; as a noun, a shepherd"
+        },
+        {
+          "word": "astray",
+          "strongNumber": "H8582",
+          "lemma": "ta'ah",
+          "meaning": "to wander, stray, err"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "All that found them have devoured them: and their adversaries said, We offend not, because they have sinned against the LORD, the habitation of justice, even the LORD, the hope of their fathers.",
+      "highlightedWords": [
+        {
+          "word": "adversaries",
+          "strongNumber": "H6862",
+          "lemma": "tsar",
+          "meaning": "adversary, foe, enemy"
+        },
+        {
+          "word": "habitation",
+          "strongNumber": "H5116",
+          "lemma": "naveh",
+          "meaning": "habitation, abode, pasture"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Remove out of the midst of Babylon, and go forth out of the land of the Chaldeans, and be as the he goats before the flocks.",
+      "highlightedWords": [
+        {
+          "word": "Chaldeans",
+          "strongNumber": "H3778",
+          "lemma": "Kasdîm",
+          "meaning": "Chaldeans; people of Chaldea/Babylonia"
+        },
+        {
+          "word": "goats",
+          "strongNumber": "H6260",
+          "lemma": "attud",
+          "meaning": "male goat, he-goat"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "For, lo, I will raise and cause to come up against Babylon an assembly of great nations from the north country: and they shall set themselves in array against her; from thence she shall be taken: their arrows shall be as of a mighty expert man; none shall return in vain.",
+      "highlightedWords": [
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation, people"
+        },
+        {
+          "word": "arrows",
+          "strongNumber": "H2671",
+          "lemma": "chets",
+          "meaning": "arrow"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And Chaldea shall be a spoil: all that spoil her shall be satisfied, saith the LORD.",
+      "highlightedWords": [
+        {
+          "word": "Chaldea",
+          "strongNumber": "H3778",
+          "lemma": "Kasdîm",
+          "meaning": "Chaldea; land of the Chaldeans"
+        },
+        {
+          "word": "spoil",
+          "strongNumber": "H7998",
+          "lemma": "shalal",
+          "meaning": "plunder, spoil, booty"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Because ye were glad, because ye rejoiced, O ye destroyers of mine heritage, because ye are grown fat as the heifer at grass, and bellow as bulls;",
+      "highlightedWords": [
+        {
+          "word": "heritage",
+          "strongNumber": "H5159",
+          "lemma": "nachalah",
+          "meaning": "inheritance, heritage, possession"
+        },
+        {
+          "word": "heifer",
+          "strongNumber": "H5697",
+          "lemma": "'eglah",
+          "meaning": "young cow, heifer"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Your mother shall be sore confounded; she that bare you shall be ashamed: behold, the hindermost of the nations shall be a wilderness, a dry land, and a desert.",
+      "highlightedWords": [
+        {
+          "word": "ashamed",
+          "strongNumber": "H954",
+          "lemma": "bosh",
+          "meaning": "to be ashamed, confounded"
+        },
+        {
+          "word": "hindermost",
+          "strongNumber": "H0319",
+          "lemma": "'achariyth",
+          "meaning": "end, latter part, outcome"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Because of the wrath of the LORD it shall not be inhabited, but it shall be wholly desolate: every one that goeth by Babylon shall be astonished, and hiss at all her plagues.",
+      "highlightedWords": [
+        {
+          "word": "wrath",
+          "strongNumber": "H2534",
+          "lemma": "chemah",
+          "meaning": "wrath, heat, rage"
+        },
+        {
+          "word": "desolate",
+          "strongNumber": "H8077",
+          "lemma": "shemamah",
+          "meaning": "desolation, waste, ruin"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Put yourselves in array against Babylon round about: all ye that bend the bow, shoot at her, spare no arrows: for she hath sinned against the LORD.",
+      "highlightedWords": [
+        {
+          "word": "bow",
+          "strongNumber": "H7198",
+          "lemma": "qeshet",
+          "meaning": "bow (weapon)"
+        },
+        {
+          "word": "sinned",
+          "strongNumber": "H2398",
+          "lemma": "chata'",
+          "meaning": "to miss, sin, offend"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Shout against her round about: she hath given her hand: her foundations are fallen, her walls are thrown down: for it is the vengeance of the LORD: take vengeance upon her; as she hath done, do unto her.",
+      "highlightedWords": [
+        {
+          "word": "walls",
+          "strongNumber": "H2346",
+          "lemma": "chomah",
+          "meaning": "wall, city wall"
+        },
+        {
+          "word": "vengeance",
+          "strongNumber": "H5360",
+          "lemma": "neqamah",
+          "meaning": "vengeance, revenge"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Cut off the sower from Babylon, and him that handleth the sickle in the time of harvest: for fear of the oppressing sword they shall turn every one to his people, and they shall flee every one to his own land.",
+      "highlightedWords": [
+        {
+          "word": "sower",
+          "strongNumber": "H2232",
+          "lemma": "zara'",
+          "meaning": "to sow; one who sows"
+        },
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Israel is a scattered sheep; the lions have driven him away: first the king of Assyria hath devoured him; and last this Nebuchadrezzar king of Babylon hath broken his bones.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God strives; the nation and people"
+        },
+        {
+          "word": "Nebuchadrezzar",
+          "strongNumber": "H5019",
+          "lemma": "Nəḇūḵaḏreṣṣar",
+          "meaning": "Nebuchadrezzar, king of Babylon"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Therefore thus saith the LORD of hosts, the God of Israel; Behold, I will punish the king of Babylon and his land, as I have punished the king of Assyria.",
+      "highlightedWords": [
+        {
+          "word": "hosts",
+          "strongNumber": "H6635",
+          "lemma": "tsaba'",
+          "meaning": "army, hosts"
+        },
+        {
+          "word": "Assyria",
+          "strongNumber": "H804",
+          "lemma": "Ashshur",
+          "meaning": "Assyria; Assyrian empire/people"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And I will bring Israel again to his habitation, and he shall feed on Carmel and Bashan, and his soul shall be satisfied upon mount Ephraim and Gilead.",
+      "highlightedWords": [
+        {
+          "word": "Carmel",
+          "strongNumber": "H3760",
+          "lemma": "Karmel",
+          "meaning": "Carmel; fruitful land/mountain"
+        },
+        {
+          "word": "Gilead",
+          "strongNumber": "H1568",
+          "lemma": "Gil'ad",
+          "meaning": "Gilead; region east of the Jordan"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "In those days, and in that time, saith the LORD, the iniquity of Israel shall be sought for, and there shall be none; and the sins of Judah, and they shall not be found: for I will pardon them whom I reserve.",
+      "highlightedWords": [
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "'avon",
+          "meaning": "iniquity, guilt, punishment of iniquity"
+        },
+        {
+          "word": "pardon",
+          "strongNumber": "H5545",
+          "lemma": "salach",
+          "meaning": "to forgive, pardon"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Go up against the land of Merathaim, even against it, and against the inhabitants of Pekod: waste and utterly destroy after them, saith the LORD, and do according to all that I have commanded thee.",
+      "highlightedWords": [
+        {
+          "word": "Merathaim",
+          "strongNumber": "H4850",
+          "lemma": "Merathayim",
+          "meaning": "Merathaim; 'double rebellion', a figurative place"
+        },
+        {
+          "word": "Pekod",
+          "strongNumber": "H6489",
+          "lemma": "Peqod",
+          "meaning": "Pekod; 'punishment/visitation', a region/tribe in Babylonia"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "A sound of battle is in the land, and of great destruction.",
+      "highlightedWords": [
+        {
+          "word": "battle",
+          "strongNumber": "H4421",
+          "lemma": "milchamah",
+          "meaning": "battle, war"
+        },
+        {
+          "word": "destruction",
+          "strongNumber": "H7667",
+          "lemma": "sheber",
+          "meaning": "breaking, fracture, destruction"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "How is the hammer of the whole earth cut asunder and broken! how is Babylon become a desolation among the nations!",
+      "highlightedWords": [
+        {
+          "word": "hammer",
+          "strongNumber": "H6360",
+          "lemma": "pattish",
+          "meaning": "hammer"
+        },
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation, people"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "I have laid a snare for thee, and thou art also taken, O Babylon; and thou wast not aware: thou art found, and also caught, because thou hast striven against the LORD.",
+      "highlightedWords": [
+        {
+          "word": "snare",
+          "strongNumber": "H4170",
+          "lemma": "pach",
+          "meaning": "snare, trap"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "The LORD hath opened his armoury, and hath brought forth the weapons of his indignation: for this is the work of the Lord GOD of hosts in the land of the Chaldeans.",
+      "highlightedWords": [
+        {
+          "word": "weapons",
+          "strongNumber": "H3627",
+          "lemma": "keli",
+          "meaning": "instrument, vessel; weapon"
+        },
+        {
+          "word": "Chaldeans",
+          "strongNumber": "H3778",
+          "lemma": "Kasdîm",
+          "meaning": "Chaldeans; people of Chaldea/Babylonia"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "Come against her from the utmost border, open her storehouses: cast her up as heaps, and destroy her utterly: let nothing of her be left.",
+      "highlightedWords": [
+        {
+          "word": "border",
+          "strongNumber": "H7097",
+          "lemma": "qetseh",
+          "meaning": "end, extremity, border"
+        },
+        {
+          "word": "storehouses",
+          "strongNumber": "H214",
+          "lemma": "otsar",
+          "meaning": "storehouse, treasury"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "Slay all her bullocks; let them go down to the slaughter: woe unto them! for their day is come, the time of their visitation.",
+      "highlightedWords": [
+        {
+          "word": "Slay",
+          "strongNumber": "H2026",
+          "lemma": "harag",
+          "meaning": "to slay, kill"
+        },
+        {
+          "word": "visitation",
+          "strongNumber": "H6486",
+          "lemma": "pequddah",
+          "meaning": "visitation, punishment, oversight"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "The voice of them that flee and escape out of the land of Babylon, to declare in Zion the vengeance of the LORD our God, the vengeance of his temple.",
+      "highlightedWords": [
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyyon",
+          "meaning": "Zion; the hill/city of Jerusalem"
+        },
+        {
+          "word": "temple",
+          "strongNumber": "H1964",
+          "lemma": "hekal",
+          "meaning": "temple, palace"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "Call together the archers against Babylon: all ye that bend the bow, camp against it round about; let none thereof escape: recompense her according to her work; according to all that she hath done, do unto her: for she hath been proud against the LORD, against the Holy One of Israel.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; the nation and people"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "Therefore shall her young men fall in the streets, and all her men of war shall be cut off in that day, saith the LORD.",
+      "highlightedWords": [
+        {
+          "word": "day",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day, time, period"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "Behold, I am against thee, O thou most proud, saith the Lord GOD of hosts: for thy day is come, the time that I will visit thee.",
+      "highlightedWords": [
+        {
+          "word": "proud",
+          "strongNumber": "H2086",
+          "lemma": "zadon",
+          "meaning": "pride, arrogance; the proud"
+        },
+        {
+          "word": "visit",
+          "strongNumber": "H6485",
+          "lemma": "paqad",
+          "meaning": "to attend to, visit, punish"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "And the most proud shall stumble and fall, and none shall raise him up: and I will kindle a fire in his cities, and it shall devour all round about him.",
+      "highlightedWords": [
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "'esh",
+          "meaning": "fire"
+        },
+        {
+          "word": "cities",
+          "strongNumber": "H5892",
+          "lemma": "'ir",
+          "meaning": "city, town"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "Thus saith the LORD of hosts; The children of Israel and the children of Judah were oppressed together: and all that took them captives held them fast; they refused to let them go.",
+      "highlightedWords": [
+        {
+          "word": "oppressed",
+          "strongNumber": "H6231",
+          "lemma": "'ashaq",
+          "meaning": "to oppress, extort"
+        },
+        {
+          "word": "captives",
+          "strongNumber": "H7628",
+          "lemma": "shebiy",
+          "meaning": "captivity; captives"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "Their Redeemer is strong; the LORD of hosts is his name: he shall throughly plead their cause, that he may give rest to the land, and disquiet the inhabitants of Babylon.",
+      "highlightedWords": [
+        {
+          "word": "Redeemer",
+          "strongNumber": "H1350",
+          "lemma": "go'el",
+          "meaning": "kinsman-redeemer; vindicator who delivers"
+        },
+        {
+          "word": "Babylon",
+          "strongNumber": "H894",
+          "lemma": "Bāḇel",
+          "meaning": "Babylon; the chief city/empire of Babylonia"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "A sword is upon the Chaldeans, saith the LORD, and upon the inhabitants of Babylon, and upon her princes, and upon her wise men.",
+      "highlightedWords": [
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword"
+        },
+        {
+          "word": "Chaldeans",
+          "strongNumber": "H3778",
+          "lemma": "Kasdîm",
+          "meaning": "Chaldeans; people of Chaldea/Babylonia"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "A sword is upon the liars; and they shall dote: a sword is upon her mighty men; and they shall be dismayed.",
+      "highlightedWords": [
+        {
+          "word": "mighty",
+          "strongNumber": "H1368",
+          "lemma": "gibbor",
+          "meaning": "mighty, strong, valiant (man)"
+        },
+        {
+          "word": "dismayed",
+          "strongNumber": "H2865",
+          "lemma": "chathath",
+          "meaning": "to be dismayed, shattered, terrified"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "A sword is upon their horses, and upon their chariots, and upon all the mingled people that are in the midst of her; and they shall become as women: a sword is upon her treasures; and they shall be robbed.",
+      "highlightedWords": [
+        {
+          "word": "horses",
+          "strongNumber": "H5483",
+          "lemma": "sus",
+          "meaning": "horse"
+        },
+        {
+          "word": "treasures",
+          "strongNumber": "H214",
+          "lemma": "otsar",
+          "meaning": "treasure, store, storeroom"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "A drought is upon her waters; and they shall be dried up: for it is the land of graven images, and they are mad upon their idols.",
+      "highlightedWords": [
+        {
+          "word": "images",
+          "strongNumber": "H6456",
+          "lemma": "pesel",
+          "meaning": "carved image, idol"
+        },
+        {
+          "word": "idols",
+          "strongNumber": "H1544",
+          "lemma": "gillulim",
+          "meaning": "idols (contemptuous term)"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "text": "Therefore the wild beasts of the desert with the wild beasts of the islands shall dwell there, and the owls shall dwell therein: and it shall be no more inhabited for ever; neither shall it be dwelt in from generation to generation.",
+      "highlightedWords": [
+        {
+          "word": "inhabited",
+          "strongNumber": "H3427",
+          "lemma": "yashab",
+          "meaning": "to dwell, sit, inhabit"
+        },
+        {
+          "word": "generation",
+          "strongNumber": "H1755",
+          "lemma": "dor",
+          "meaning": "generation, age"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "text": "As God overthrew Sodom and Gomorrah and the neighbour cities thereof, saith the LORD; so shall no man abide there, neither shall any son of man dwell therein.",
+      "highlightedWords": [
+        {
+          "word": "Sodom",
+          "strongNumber": "H5467",
+          "lemma": "Sedom",
+          "meaning": "Sodom; a city destroyed by God"
+        },
+        {
+          "word": "Gomorrah",
+          "strongNumber": "H6017",
+          "lemma": "'Amorah",
+          "meaning": "Gomorrah; a city destroyed by God"
+        }
+      ]
+    },
+    {
+      "verse": 41,
+      "text": "Behold, a people shall come from the north, and a great nation, and many kings shall be raised up from the coasts of the earth.",
+      "highlightedWords": [
+        {
+          "word": "kings",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H0776",
+          "lemma": "erets",
+          "meaning": "earth, land"
+        }
+      ]
+    },
+    {
+      "verse": 42,
+      "text": "They shall hold the bow and the lance: they are cruel, and will not shew mercy: their voice shall roar like the sea, and they shall ride upon horses, every one put in array, like a man to the battle, against thee, O daughter of Babylon.",
+      "highlightedWords": [
+        {
+          "word": "lance",
+          "strongNumber": "H3591",
+          "lemma": "kidon",
+          "meaning": "javelin, lance"
+        },
+        {
+          "word": "Babylon",
+          "strongNumber": "H894",
+          "lemma": "Bāḇel",
+          "meaning": "Babylon; the chief city/empire of Babylonia"
+        }
+      ]
+    },
+    {
+      "verse": 43,
+      "text": "The king of Babylon hath heard the report of them, and his hands waxed feeble: anguish took hold of him, and pangs as of a woman in travail.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        },
+        {
+          "word": "hands",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        }
+      ]
+    },
+    {
+      "verse": 44,
+      "text": "Behold, he shall come up like a lion from the swelling of Jordan unto the habitation of the strong: but I will make them suddenly run away from her: and who is a chosen man, that I may appoint over her? for who is like me? and who will appoint me the time? and who is that shepherd that will stand before me?",
+      "highlightedWords": [
+        {
+          "word": "lion",
+          "strongNumber": "H0738",
+          "lemma": "'aryeh",
+          "meaning": "lion"
+        },
+        {
+          "word": "Jordan",
+          "strongNumber": "H3383",
+          "lemma": "Yarden",
+          "meaning": "Jordan River"
+        }
+      ]
+    },
+    {
+      "verse": 45,
+      "text": "Therefore hear ye the counsel of the LORD, that he hath taken against Babylon; and his purposes, that he hath purposed against the land of the Chaldeans: surely the least of the flock shall draw them out: surely he shall make their habitation desolate with them.",
+      "highlightedWords": [
+        {
+          "word": "counsel",
+          "strongNumber": "H6098",
+          "lemma": "'etsah",
+          "meaning": "counsel, advice, plan"
+        },
+        {
+          "word": "Chaldeans",
+          "strongNumber": "H3778",
+          "lemma": "Kasdîm",
+          "meaning": "Chaldeans; people of Chaldea/Babylonia"
+        }
+      ]
+    },
+    {
+      "verse": 46,
+      "text": "At the noise of the taking of Babylon the earth is moved, and the cry is heard among the nations.",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "H0776",
+          "lemma": "erets",
+          "meaning": "earth, land"
+        },
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation, people"
+        }
+      ]
+    }
+  ]
+}

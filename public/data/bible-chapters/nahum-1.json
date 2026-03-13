@@ -1,0 +1,294 @@
+{
+  "book": "Nahum",
+  "chapter": 1,
+  "chapterTheme": {
+    "twoWordSummary": "Divine Justice",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH",
+        "meaning": "the personal name of Israel’s God; the LORD"
+      },
+      {
+        "word": "Nineveh",
+        "strongNumber": "H5210",
+        "lemma": "Ninveh",
+        "meaning": "Nineveh, the capital city of Assyria"
+      }
+    ]
+  },
+  "sentenceTheme": "The LORD, mighty and just, judges Nineveh while protecting those who trust in Him.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "The burden of Nineveh. The book of the vision of Nahum the Elkoshite.",
+      "highlightedWords": [
+        {
+          "word": "burden",
+          "strongNumber": "H4853",
+          "lemma": "massaʿ",
+          "meaning": "oracle, prophetic burden"
+        },
+        {
+          "word": "Nineveh",
+          "strongNumber": "H5210",
+          "lemma": "Ninveh",
+          "meaning": "Nineveh, the capital city of Assyria"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "God is jealous, and the LORD revengeth; the LORD revengeth, and is furious; the LORD will take vengeance on his adversaries, and he reserveth wrath for his enemies.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H0410",
+          "lemma": "'el",
+          "meaning": "God, mighty one"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God; the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "The LORD is slow to anger, and great in power, and will not at all acquit the wicked: the LORD hath his way in the whirlwind and in the storm, and the clouds are the dust of his feet.",
+      "highlightedWords": [
+        {
+          "word": "anger",
+          "strongNumber": "H0639",
+          "lemma": "'aph",
+          "meaning": "nostril, wrath, anger"
+        },
+        {
+          "word": "power",
+          "strongNumber": "H3581",
+          "lemma": "koach",
+          "meaning": "strength, power, might"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "He rebuketh the sea, and maketh it dry, and drieth up all the rivers: Bashan languisheth, and Carmel, and the flower of Lebanon languisheth.",
+      "highlightedWords": [
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "sea"
+        },
+        {
+          "word": "rivers",
+          "strongNumber": "H5104",
+          "lemma": "nahar",
+          "meaning": "river, stream"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "The mountains quake at him, and the hills melt, and the earth is burned at his presence, yea, the world, and all that dwell therein.",
+      "highlightedWords": [
+        {
+          "word": "mountains",
+          "strongNumber": "H2022",
+          "lemma": "har",
+          "meaning": "mountain, hill country"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H0776",
+          "lemma": "'erets",
+          "meaning": "earth, land"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Who can stand before his indignation? and who can abide in the fierceness of his anger? his fury is poured out like fire, and the rocks are thrown down by him.",
+      "highlightedWords": [
+        {
+          "word": "indignation",
+          "strongNumber": "H2195",
+          "lemma": "za'am",
+          "meaning": "indignation, wrath"
+        },
+        {
+          "word": "anger",
+          "strongNumber": "H0639",
+          "lemma": "'aph",
+          "meaning": "wrath, anger"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "The LORD is good, a strong hold in the day of trouble; and he knoweth them that trust in him.",
+      "highlightedWords": [
+        {
+          "word": "good",
+          "strongNumber": "H2896",
+          "lemma": "tov",
+          "meaning": "good, pleasant"
+        },
+        {
+          "word": "strong hold",
+          "strongNumber": "H4581",
+          "lemma": "ma'oz",
+          "meaning": "stronghold, fortress"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "But with an overrunning flood he will make an utter end of the place thereof, and darkness shall pursue his enemies.",
+      "highlightedWords": [
+        {
+          "word": "flood",
+          "strongNumber": "H7858",
+          "lemma": "sheteph",
+          "meaning": "flood, overflowing"
+        },
+        {
+          "word": "darkness",
+          "strongNumber": "H2822",
+          "lemma": "choshek",
+          "meaning": "darkness, obscurity"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "What do ye imagine against the LORD? he will make an utter end: affliction shall not rise up the second time.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God; the LORD"
+        },
+        {
+          "word": "rise",
+          "strongNumber": "H6965",
+          "lemma": "qum",
+          "meaning": "to arise, stand up"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "For while they be folden together as thorns, and while they are drunken as drunkards, they shall be devoured as stubble fully dry.",
+      "highlightedWords": [
+        {
+          "word": "drunken",
+          "strongNumber": "H7937",
+          "lemma": "shakar",
+          "meaning": "to be or become drunk"
+        },
+        {
+          "word": "stubble",
+          "strongNumber": "H7179",
+          "lemma": "qash",
+          "meaning": "stubble, chaff"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "There is one come out of thee, that imagineth evil against the LORD, a wicked counsellor.",
+      "highlightedWords": [
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra'",
+          "meaning": "evil, bad, wickedness"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God; the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Thus saith the LORD; Though they be quiet, and likewise many, yet thus shall they be cut down, when he shall pass through. Though I have afflicted thee, I will afflict thee no more.",
+      "highlightedWords": [
+        {
+          "word": "saith",
+          "strongNumber": "H0559",
+          "lemma": "'amar",
+          "meaning": "to say, speak"
+        },
+        {
+          "word": "afflict",
+          "strongNumber": "H6031",
+          "lemma": "'anah",
+          "meaning": "to afflict, humble"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "For now will I break his yoke from off thee, and will burst thy bonds in sunder.",
+      "highlightedWords": [
+        {
+          "word": "break",
+          "strongNumber": "H7665",
+          "lemma": "shabar",
+          "meaning": "to break, shatter"
+        },
+        {
+          "word": "bonds",
+          "strongNumber": "H4147",
+          "lemma": "moser",
+          "meaning": "bonds, fetters"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And the LORD hath given a commandment concerning thee, that no more of thy name be sown: out of the house of thy gods will I cut off the graven image and the molten image: I will make thy grave; for thou art vile.",
+      "highlightedWords": [
+        {
+          "word": "graven image",
+          "strongNumber": "H6459",
+          "lemma": "pesel",
+          "meaning": "carved image, idol"
+        },
+        {
+          "word": "molten image",
+          "strongNumber": "H4541",
+          "lemma": "massekah",
+          "meaning": "molten image, cast idol"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Behold upon the mountains the feet of him that bringeth good tidings, that publisheth peace! O Judah, keep thy solemn feasts, perform thy vows: for the wicked shall no more pass through thee; he is utterly cut off.",
+      "highlightedWords": [
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace, well-being, wholeness"
+        },
+        {
+          "word": "vows",
+          "strongNumber": "H5088",
+          "lemma": "neder",
+          "meaning": "vow, votive offering"
+        }
+      ]
+    }
+  ]
+}

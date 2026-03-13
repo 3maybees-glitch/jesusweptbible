@@ -1,0 +1,546 @@
+{
+  "book": "Isaiah",
+  "chapter": 41,
+  "chapterTheme": {
+    "twoWordSummary": "Fear Not",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH",
+        "meaning": "the personal name of Israel’s God"
+      },
+      {
+        "word": "redeemer",
+        "strongNumber": "H1350",
+        "lemma": "go'el",
+        "meaning": "kinsman-redeemer; one who vindicates or delivers a relative"
+      }
+    ]
+  },
+  "sentenceTheme": "The LORD reassures Israel with His presence and strength, promising deliverance and exposing idols as powerless.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Keep silence before me, O islands; and let the people renew their strength: let them come near; then let them speak: let us come near together to judgment.",
+      "highlightedWords": [
+        {
+          "word": "islands",
+          "strongNumber": "H339",
+          "lemma": "'iy",
+          "meaning": "coastland; distant shore or island"
+        },
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "justice; legal decision, right"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Who raised up the righteous man from the east, called him to his foot, gave the nations before him, and made him rule over kings? he gave them as the dust to his sword, and as driven stubble to his bow.",
+      "highlightedWords": [
+        {
+          "word": "righteous",
+          "strongNumber": "H6664",
+          "lemma": "tsedeq",
+          "meaning": "righteousness; what is right or just"
+        },
+        {
+          "word": "east",
+          "strongNumber": "H4217",
+          "lemma": "mizrach",
+          "meaning": "the sunrise; the east"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "He pursued them, and passed safely; even by the way that he had not gone with his feet.",
+      "highlightedWords": [
+        {
+          "word": "pursued",
+          "strongNumber": "H7291",
+          "lemma": "radaph",
+          "meaning": "to chase; pursue"
+        },
+        {
+          "word": "way",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way, road, path; manner"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Who hath wrought and done it, calling the generations from the beginning? I the LORD, the first, and with the last; I am he.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "first",
+          "strongNumber": "H7223",
+          "lemma": "rishon",
+          "meaning": "first; former"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "The isles saw it, and feared; the ends of the earth were afraid, drew near, and came.",
+      "highlightedWords": [
+        {
+          "word": "isles",
+          "strongNumber": "H339",
+          "lemma": "'iy",
+          "meaning": "coastlands; distant shores"
+        },
+        {
+          "word": "feared",
+          "strongNumber": "H3372",
+          "lemma": "yare'",
+          "meaning": "to fear; be afraid or revere"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "They helped every one his neighbour; and every one said to his brother, Be of good courage.",
+      "highlightedWords": [
+        {
+          "word": "helped",
+          "strongNumber": "H5826",
+          "lemma": "'azar",
+          "meaning": "to help; assist, support"
+        },
+        {
+          "word": "brother",
+          "strongNumber": "H251",
+          "lemma": "'ach",
+          "meaning": "brother; kinsman"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "So the carpenter encouraged the goldsmith, and he that smootheth with the hammer him that smote the anvil, saying, It is ready for the soddering: and he fastened it with nails, that it should not be moved.",
+      "highlightedWords": [
+        {
+          "word": "carpenter",
+          "strongNumber": "H2796",
+          "lemma": "charash",
+          "meaning": "craftsman; artisan"
+        },
+        {
+          "word": "goldsmith",
+          "strongNumber": "H6884",
+          "lemma": "tsaraph",
+          "meaning": "refiner; smelter, goldsmith"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "But thou, Israel, art my servant, Jacob whom I have chosen, the seed of Abraham my friend.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God strives"
+        },
+        {
+          "word": "servant",
+          "strongNumber": "H5650",
+          "lemma": "‘ebed",
+          "meaning": "servant; slave; worshiper"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Thou whom I have taken from the ends of the earth, and called thee from the chief men thereof, and said unto thee, Thou art my servant; I have chosen thee, and not cast thee away.",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "'erets",
+          "meaning": "land, earth"
+        },
+        {
+          "word": "chosen",
+          "strongNumber": "H977",
+          "lemma": "bachar",
+          "meaning": "to choose; select"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness.",
+      "highlightedWords": [
+        {
+          "word": "Fear",
+          "strongNumber": "H3372",
+          "lemma": "yare'",
+          "meaning": "to fear; be afraid or revere"
+        },
+        {
+          "word": "right hand",
+          "strongNumber": "H3225",
+          "lemma": "yamin",
+          "meaning": "right hand; south; strength"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Behold, all they that were incensed against thee shall be ashamed and confounded: they shall be as nothing; and they that strive with thee shall perish.",
+      "highlightedWords": [
+        {
+          "word": "ashamed",
+          "strongNumber": "H954",
+          "lemma": "bosh",
+          "meaning": "to be ashamed; confounded"
+        },
+        {
+          "word": "perish",
+          "strongNumber": "H6",
+          "lemma": "'abad",
+          "meaning": "to perish; be lost, destroyed"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Thou shalt seek them, and shalt not find them, even them that contended with thee: they that war against thee shall be as nothing, and as a thing of nought.",
+      "highlightedWords": [
+        {
+          "word": "seek",
+          "strongNumber": "H1245",
+          "lemma": "baqash",
+          "meaning": "to seek; search for"
+        },
+        {
+          "word": "war",
+          "strongNumber": "H3898",
+          "lemma": "lacham",
+          "meaning": "to fight; wage war"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "For I the LORD thy God will hold thy right hand, saying unto thee, Fear not; I will help thee.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "hold",
+          "strongNumber": "H2388",
+          "lemma": "chazaq",
+          "meaning": "to seize, strengthen; hold fast"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Fear not, thou worm Jacob, and ye men of Israel; I will help thee, saith the LORD, and thy redeemer, the Holy One of Israel.",
+      "highlightedWords": [
+        {
+          "word": "redeemer",
+          "strongNumber": "H1350",
+          "lemma": "go'el",
+          "meaning": "kinsman-redeemer; one who vindicates or delivers a relative"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; God strives"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Behold, I will make thee a new sharp threshing instrument having teeth: thou shalt thresh the mountains, and beat them small, and shalt make the hills as chaff.",
+      "highlightedWords": [
+        {
+          "word": "threshing instrument",
+          "strongNumber": "H4173",
+          "lemma": "morag",
+          "meaning": "threshing sledge/instrument"
+        },
+        {
+          "word": "mountains",
+          "strongNumber": "H2022",
+          "lemma": "har",
+          "meaning": "mountain; hill country"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Thou shalt fan them, and the wind shall carry them away, and the whirlwind shall scatter them: and thou shalt rejoice in the LORD, and shalt glory in the Holy One of Israel.",
+      "highlightedWords": [
+        {
+          "word": "rejoice",
+          "strongNumber": "H1523",
+          "lemma": "gil",
+          "meaning": "to rejoice; exult"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "When the poor and needy seek water, and there is none, and their tongue faileth for thirst, I the LORD will hear them, I the God of Israel will not forsake them.",
+      "highlightedWords": [
+        {
+          "word": "needy",
+          "strongNumber": "H34",
+          "lemma": "'ebyon",
+          "meaning": "poor, needy"
+        },
+        {
+          "word": "forsake",
+          "strongNumber": "H5800",
+          "lemma": "'azab",
+          "meaning": "to forsake; abandon, leave"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "I will open rivers in high places, and fountains in the midst of the valleys: I will make the wilderness a pool of water, and the dry land springs of water.",
+      "highlightedWords": [
+        {
+          "word": "rivers",
+          "strongNumber": "H5104",
+          "lemma": "nahar",
+          "meaning": "river; stream"
+        },
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbar",
+          "meaning": "wilderness; desert"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "I will plant in the wilderness the cedar, the shittah tree, and the myrtle, and the oil tree; I will set in the desert the fir tree, and the pine, and the box tree together:",
+      "highlightedWords": [
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbar",
+          "meaning": "wilderness; desert"
+        },
+        {
+          "word": "cedar",
+          "strongNumber": "H730",
+          "lemma": "erez",
+          "meaning": "cedar tree"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "That they may see, and know, and consider, and understand together, that the hand of the LORD hath done this, and the Holy One of Israel hath created it.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "created",
+          "strongNumber": "H1254",
+          "lemma": "bara'",
+          "meaning": "to create; shape by forming"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Produce your cause, saith the LORD; bring forth your strong reasons, saith the King of Jacob.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "King",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king; ruler"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Let them bring them forth, and shew us what shall happen: let them shew the former things, what they be, that we may consider them, and know the latter end of them; or declare us things for to come.",
+      "highlightedWords": [
+        {
+          "word": "shew",
+          "strongNumber": "H5046",
+          "lemma": "nagad",
+          "meaning": "to declare; make known"
+        },
+        {
+          "word": "latter end",
+          "strongNumber": "H319",
+          "lemma": "'achariyth",
+          "meaning": "after-part; latter end, future"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Shew the things that are to come hereafter, that we may know that ye are gods: yea, do good, or do evil, that we may be dismayed, and behold it together.",
+      "highlightedWords": [
+        {
+          "word": "gods",
+          "strongNumber": "H430",
+          "lemma": "elohim",
+          "meaning": "gods; God; mighty ones"
+        },
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra'",
+          "meaning": "evil; bad, calamity"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Behold, ye are of nothing, and your work of nought: an abomination is he that chooseth you.",
+      "highlightedWords": [
+        {
+          "word": "abomination",
+          "strongNumber": "H8441",
+          "lemma": "to'evah",
+          "meaning": "abomination; detestable thing"
+        },
+        {
+          "word": "chooseth",
+          "strongNumber": "H977",
+          "lemma": "bachar",
+          "meaning": "to choose; select"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "I have raised up one from the north, and he shall come: from the rising of the sun shall he call upon my name: and he shall come upon princes as upon morter, and as the potter treadeth clay.",
+      "highlightedWords": [
+        {
+          "word": "north",
+          "strongNumber": "H6828",
+          "lemma": "tsaphon",
+          "meaning": "north; hidden, dark"
+        },
+        {
+          "word": "potter",
+          "strongNumber": "H3335",
+          "lemma": "yatsar",
+          "meaning": "to form; potter (as a shaper)"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "Who hath declared from the beginning, that we may know? and beforetime, that we may say, He is righteous? yea, there is none that sheweth, yea, there is none that declareth, yea, there is none that heareth your words.",
+      "highlightedWords": [
+        {
+          "word": "declareth",
+          "strongNumber": "H5046",
+          "lemma": "nagad",
+          "meaning": "to declare; make known"
+        },
+        {
+          "word": "heareth",
+          "strongNumber": "H8085",
+          "lemma": "shama'",
+          "meaning": "to hear; listen, obey"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "The first shall say to Zion, Behold, behold them: and I will give to Jerusalem one that bringeth good tidings.",
+      "highlightedWords": [
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyon",
+          "meaning": "Zion; the hill in Jerusalem; the people"
+        },
+        {
+          "word": "good tidings",
+          "strongNumber": "H1319",
+          "lemma": "basar",
+          "meaning": "to bring news; announce good tidings"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "For I beheld, and there was no man; even among them, and there was no counsellor, that, when I asked of them, could answer a word.",
+      "highlightedWords": [
+        {
+          "word": "man",
+          "strongNumber": "H376",
+          "lemma": "ish",
+          "meaning": "man; individual, person"
+        },
+        {
+          "word": "answer",
+          "strongNumber": "H6030",
+          "lemma": "‘anah",
+          "meaning": "to answer; respond"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "Behold, they are all vanity; their works are nothing: their molten images are wind and confusion.",
+      "highlightedWords": [
+        {
+          "word": "vanity",
+          "strongNumber": "H1892",
+          "lemma": "hebel",
+          "meaning": "vapor; vanity, emptiness"
+        },
+        {
+          "word": "molten images",
+          "strongNumber": "H4541",
+          "lemma": "massekhah",
+          "meaning": "a molten image; cast idol"
+        }
+      ]
+    }
+  ]
+}

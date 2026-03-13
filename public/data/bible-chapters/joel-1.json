@@ -1,0 +1,384 @@
+{
+  "book": "Joel",
+  "chapter": 1,
+  "chapterTheme": {
+    "twoWordSummary": "Locust Plague",
+    "themeWords": [
+      {
+        "word": "locust",
+        "strongNumber": "H697",
+        "lemma": "’arbeh",
+        "meaning": "a locust; migratory grasshopper"
+      },
+      {
+        "word": "lament",
+        "strongNumber": "H5594",
+        "lemma": "saphad",
+        "meaning": "to wail, mourn, lament"
+      }
+    ]
+  },
+  "sentenceTheme": "A devastating locust invasion lays the land waste, prompting a call to lament, fasting, and urgent prayer to the LORD.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "The word of the LORD that came to Joel the son of Pethuel.",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, message"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Hear this, ye old men, and give ear, all ye inhabitants of the land. Hath this been in your days, or even in the days of your fathers?",
+      "highlightedWords": [
+        {
+          "word": "Hear",
+          "strongNumber": "H8085",
+          "lemma": "shamaʿ",
+          "meaning": "to hear, listen, obey"
+        },
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "’erets",
+          "meaning": "land, earth, territory"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Tell ye your children of it, and let your children tell their children, and their children another generation.",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child, descendant"
+        },
+        {
+          "word": "generation",
+          "strongNumber": "H1755",
+          "lemma": "dor",
+          "meaning": "generation, age, period"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "That which the palmerworm hath left hath the locust eaten; and that which the locust hath left hath the cankerworm eaten; and that which the cankerworm hath left hath the caterpiller eaten.",
+      "highlightedWords": [
+        {
+          "word": "locust",
+          "strongNumber": "H697",
+          "lemma": "’arbeh",
+          "meaning": "a locust; migratory grasshopper"
+        },
+        {
+          "word": "cankerworm",
+          "strongNumber": "H3218",
+          "lemma": "yeleq",
+          "meaning": "cankerworm, young locust"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Awake, ye drunkards, and weep; and howl, all ye drinkers of wine, because of the new wine; for it is cut off from your mouth.",
+      "highlightedWords": [
+        {
+          "word": "wine",
+          "strongNumber": "H3196",
+          "lemma": "yayin",
+          "meaning": "wine"
+        },
+        {
+          "word": "new wine",
+          "strongNumber": "H8492",
+          "lemma": "tirosh",
+          "meaning": "new wine, must, fresh grape juice"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "For a nation is come up upon my land, strong, and without number, whose teeth are the teeth of a lion, and he hath the cheek teeth of a great lion.",
+      "highlightedWords": [
+        {
+          "word": "nation",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation, people"
+        },
+        {
+          "word": "lion",
+          "strongNumber": "H738",
+          "lemma": "’ariy",
+          "meaning": "lion"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "He hath laid my vine waste, and barked my fig tree: he hath made it clean bare, and cast it away; the branches thereof are made white.",
+      "highlightedWords": [
+        {
+          "word": "vine",
+          "strongNumber": "H1612",
+          "lemma": "gefen/gephen",
+          "meaning": "vine"
+        },
+        {
+          "word": "fig tree",
+          "strongNumber": "H8384",
+          "lemma": "te’enah",
+          "meaning": "fig tree"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Lament like a virgin girded with sackcloth for the husband of her youth.",
+      "highlightedWords": [
+        {
+          "word": "virgin",
+          "strongNumber": "H1330",
+          "lemma": "betulah",
+          "meaning": "virgin, maiden"
+        },
+        {
+          "word": "sackcloth",
+          "strongNumber": "H8242",
+          "lemma": "saq",
+          "meaning": "sackcloth, coarse cloth of mourning"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "The meat offering and the drink offering is cut off from the house of the LORD; the priests, the LORD's ministers, mourn.",
+      "highlightedWords": [
+        {
+          "word": "meat offering",
+          "strongNumber": "H4503",
+          "lemma": "minchah",
+          "meaning": "grain offering, tribute, gift"
+        },
+        {
+          "word": "priests",
+          "strongNumber": "H3548",
+          "lemma": "kohen",
+          "meaning": "priest"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "The field is wasted, the land mourneth; for the corn is wasted: the new wine is dried up, the oil languisheth.",
+      "highlightedWords": [
+        {
+          "word": "field",
+          "strongNumber": "H7704",
+          "lemma": "sadeh",
+          "meaning": "field, open country"
+        },
+        {
+          "word": "corn",
+          "strongNumber": "H1715",
+          "lemma": "dagan",
+          "meaning": "grain, corn"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Be ye ashamed, O ye husbandmen; howl, O ye vinedressers, for the wheat and for the barley; because the harvest of the field is perished.",
+      "highlightedWords": [
+        {
+          "word": "wheat",
+          "strongNumber": "H2406",
+          "lemma": "chittah",
+          "meaning": "wheat"
+        },
+        {
+          "word": "harvest",
+          "strongNumber": "H7105",
+          "lemma": "qatsiyr",
+          "meaning": "harvest, reaping"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "The vine is dried up, and the fig tree languisheth; the pomegranate tree, the palm tree also, and the apple tree, even all the trees of the field, are withered: because joy is withered away from the sons of men.",
+      "highlightedWords": [
+        {
+          "word": "pomegranate",
+          "strongNumber": "H7416",
+          "lemma": "rimmown",
+          "meaning": "pomegranate (tree/fruit)"
+        },
+        {
+          "word": "joy",
+          "strongNumber": "H8057",
+          "lemma": "simchah",
+          "meaning": "joy, gladness"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Gird yourselves, and lament, ye priests: howl, ye ministers of the altar: come, lie all night in sackcloth, ye ministers of my God: for the meat offering and the drink offering is withholden from the house of your God.",
+      "highlightedWords": [
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar"
+        },
+        {
+          "word": "ministers",
+          "strongNumber": "H8334",
+          "lemma": "sharath",
+          "meaning": "to minister, serve"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Sanctify ye a fast, call a solemn assembly, gather the elders and all the inhabitants of the land into the house of the LORD your God, and cry unto the LORD,",
+      "highlightedWords": [
+        {
+          "word": "fast",
+          "strongNumber": "H6685",
+          "lemma": "tsom",
+          "meaning": "a fast, fasting"
+        },
+        {
+          "word": "assembly",
+          "strongNumber": "H6116",
+          "lemma": "’atsarah",
+          "meaning": "solemn assembly"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Alas for the day! for the day of the LORD is at hand, and as a destruction from the Almighty shall it come.",
+      "highlightedWords": [
+        {
+          "word": "destruction",
+          "strongNumber": "H7701",
+          "lemma": "shod",
+          "meaning": "violence, devastation, ruin"
+        },
+        {
+          "word": "Almighty",
+          "strongNumber": "H7706",
+          "lemma": "Shaddai",
+          "meaning": "the Almighty"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Is not the meat cut off before our eyes, yea, joy and gladness from the house of our God?",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, temple, household"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’Elohim",
+          "meaning": "God"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "The seed is rotten under their clods, the garners are laid desolate, the barns are broken down; for the corn is withered.",
+      "highlightedWords": [
+        {
+          "word": "seed",
+          "strongNumber": "H2233",
+          "lemma": "zeraʿ",
+          "meaning": "seed, sowing, offspring"
+        },
+        {
+          "word": "corn",
+          "strongNumber": "H1715",
+          "lemma": "dagan",
+          "meaning": "grain, corn"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "How do the beasts groan! the herds of cattle are perplexed, because they have no pasture; yea, the flocks of sheep are made desolate.",
+      "highlightedWords": [
+        {
+          "word": "beasts",
+          "strongNumber": "H929",
+          "lemma": "behemah",
+          "meaning": "beast, animal, cattle"
+        },
+        {
+          "word": "sheep",
+          "strongNumber": "H6629",
+          "lemma": "tson",
+          "meaning": "small livestock, sheep and goats"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "O LORD, to thee will I cry: for the fire hath devoured the pastures of the wilderness, and the flame hath burned all the trees of the field.",
+      "highlightedWords": [
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "’esh",
+          "meaning": "fire"
+        },
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbar",
+          "meaning": "wilderness, desert"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "The beasts of the field cry also unto thee: for the rivers of waters are dried up, and the fire hath devoured the pastures of the wilderness.",
+      "highlightedWords": [
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "’esh",
+          "meaning": "fire"
+        },
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbar",
+          "meaning": "wilderness, desert"
+        }
+      ]
+    }
+  ]
+}

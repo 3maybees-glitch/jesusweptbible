@@ -1,0 +1,204 @@
+{
+  "book": "Ezekiel",
+  "chapter": 2,
+  "chapterTheme": {
+    "twoWordSummary": "Prophetic Commission",
+    "themeWords": [
+      {
+        "word": "send",
+        "strongNumber": "H7971",
+        "lemma": "shalach",
+        "meaning": "to send, dispatch"
+      },
+      {
+        "word": "roll",
+        "strongNumber": "H4039",
+        "lemma": "megillah",
+        "meaning": "a scroll, roll"
+      }
+    ]
+  },
+  "sentenceTheme": "God commissions Ezekiel to speak to a rebellious people and gives him a scroll to consume as a sign of his prophetic call.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And he said unto me, Son of man, stand upon thy feet, and I will speak unto thee.",
+      "highlightedWords": [
+        {
+          "word": "Son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, descendant"
+        },
+        {
+          "word": "man",
+          "strongNumber": "H120",
+          "lemma": "adam",
+          "meaning": "man, humankind"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And the spirit entered into me when he spake unto me, and set me upon my feet, that I heard him that spake unto me.",
+      "highlightedWords": [
+        {
+          "word": "spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "spirit, wind, breath"
+        },
+        {
+          "word": "spake",
+          "strongNumber": "H1696",
+          "lemma": "dabar",
+          "meaning": "to speak, declare"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And he said unto me, Son of man, I send thee to the children of Israel, to a rebellious nation that hath rebelled against me: they and their fathers have transgressed against me, even unto this very day.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel"
+        },
+        {
+          "word": "nation",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation, people"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "For they are impudent children and stiffhearted. I do send thee unto them; and thou shalt say unto them, Thus saith the Lord GOD.",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "H136",
+          "lemma": "Adonai",
+          "meaning": "Lord, master"
+        },
+        {
+          "word": "GOD",
+          "strongNumber": "H3069",
+          "lemma": "Yehovih",
+          "meaning": "the Lord GOD (divine name)"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And they, whether they will hear, or whether they will forbear, (for they are a rebellious house,) yet shall know that there hath been a prophet among them.",
+      "highlightedWords": [
+        {
+          "word": "prophet",
+          "strongNumber": "H5030",
+          "lemma": "nabi'",
+          "meaning": "prophet, spokesperson"
+        },
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, household"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And thou, son of man, be not afraid of them, neither be afraid of their words, though briers and thorns be with thee, and thou dost dwell among scorpions: be not afraid of their words, nor be dismayed at their looks, though they be a rebellious house.",
+      "highlightedWords": [
+        {
+          "word": "afraid",
+          "strongNumber": "H3372",
+          "lemma": "yare'",
+          "meaning": "to fear, be afraid"
+        },
+        {
+          "word": "scorpions",
+          "strongNumber": "H6137",
+          "lemma": "aqrab",
+          "meaning": "scorpion"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And thou shalt speak my words unto them, whether they will hear, or whether they will forbear: for they are most rebellious.",
+      "highlightedWords": [
+        {
+          "word": "speak",
+          "strongNumber": "H1696",
+          "lemma": "dabar",
+          "meaning": "to speak, declare"
+        },
+        {
+          "word": "words",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, thing"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "But thou, son of man, hear what I say unto thee; Be not thou rebellious like that rebellious house: open thy mouth, and eat that I give thee.",
+      "highlightedWords": [
+        {
+          "word": "hear",
+          "strongNumber": "H8085",
+          "lemma": "shama'",
+          "meaning": "to hear, listen, obey"
+        },
+        {
+          "word": "eat",
+          "strongNumber": "H398",
+          "lemma": "akal",
+          "meaning": "to eat, consume"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And when I looked, behold, an hand was sent unto me; and, lo, a roll of a book was therein;",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        },
+        {
+          "word": "roll",
+          "strongNumber": "H4039",
+          "lemma": "megillah",
+          "meaning": "a scroll, roll"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And he spread it before me; and it was written within and without: and there was written therein lamentations, and mourning, and woe.",
+      "highlightedWords": [
+        {
+          "word": "written",
+          "strongNumber": "H3789",
+          "lemma": "kathab",
+          "meaning": "to write, inscribe"
+        },
+        {
+          "word": "lamentations",
+          "strongNumber": "H7015",
+          "lemma": "qinah",
+          "meaning": "lamentation, dirge"
+        }
+      ]
+    }
+  ]
+}

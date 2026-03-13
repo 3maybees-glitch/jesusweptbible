@@ -1,0 +1,618 @@
+{
+  "book": "Proverbs",
+  "chapter": 1,
+  "chapterTheme": {
+    "twoWordSummary": "Wisdom's Call",
+    "themeWords": [
+      {
+        "word": "wisdom",
+        "strongNumber": "H2451",
+        "lemma": "chokmah",
+        "meaning": "skill, wisdom"
+      },
+      {
+        "word": "instruction",
+        "strongNumber": "H4148",
+        "lemma": "musar",
+        "meaning": "discipline, instruction"
+      }
+    ]
+  },
+  "sentenceTheme": "Solomon states the purpose of Proverbs, warns against sinners’ enticements, and portrays Wisdom calling people to turn, learn, and live securely in the fear of the LORD.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "The proverbs of Solomon the son of David, king of Israel;",
+      "highlightedWords": [
+        {
+          "word": "Solomon",
+          "strongNumber": "H8010",
+          "lemma": "Shelomoh",
+          "meaning": "Solomon"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisrael",
+          "meaning": "Israel"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "To know wisdom and instruction; to perceive the words of understanding;",
+      "highlightedWords": [
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "skill, wisdom"
+        },
+        {
+          "word": "instruction",
+          "strongNumber": "H4148",
+          "lemma": "musar",
+          "meaning": "discipline, instruction"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "To receive the instruction of wisdom, justice, and judgment, and equity;",
+      "highlightedWords": [
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "skill, wisdom"
+        },
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "justice, judgment"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "To give subtilty to the simple, to the young man knowledge and discretion.",
+      "highlightedWords": [
+        {
+          "word": "simple",
+          "strongNumber": "H6612",
+          "lemma": "pethiy",
+          "meaning": "simple, naive"
+        },
+        {
+          "word": "knowledge",
+          "strongNumber": "H1847",
+          "lemma": "da'ath",
+          "meaning": "knowledge"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "A wise man will hear, and will increase learning; and a man of understanding shall attain unto wise counsels:",
+      "highlightedWords": [
+        {
+          "word": "wise",
+          "strongNumber": "H2450",
+          "lemma": "chakam",
+          "meaning": "wise, skillful"
+        },
+        {
+          "word": "counsels",
+          "strongNumber": "H8458",
+          "lemma": "tachbuloth",
+          "meaning": "wise guidance, steering"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "To understand a proverb, and the interpretation; the words of the wise, and their dark sayings.",
+      "highlightedWords": [
+        {
+          "word": "proverb",
+          "strongNumber": "H4912",
+          "lemma": "mashal",
+          "meaning": "proverb, parable"
+        },
+        {
+          "word": "dark sayings",
+          "strongNumber": "H2420",
+          "lemma": "chidah",
+          "meaning": "riddle, enigmatic saying"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "The fear of the LORD is the beginning of knowledge: but fools despise wisdom and instruction.",
+      "highlightedWords": [
+        {
+          "word": "fear",
+          "strongNumber": "H3374",
+          "lemma": "yir'ah",
+          "meaning": "fear, reverence"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "My son, hear the instruction of thy father, and forsake not the law of thy mother:",
+      "highlightedWords": [
+        {
+          "word": "instruction",
+          "strongNumber": "H4148",
+          "lemma": "musar",
+          "meaning": "discipline, instruction"
+        },
+        {
+          "word": "law",
+          "strongNumber": "H8451",
+          "lemma": "torah",
+          "meaning": "law, instruction"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "For they shall be an ornament of grace unto thy head, and chains about thy neck.",
+      "highlightedWords": [
+        {
+          "word": "grace",
+          "strongNumber": "H2580",
+          "lemma": "chen",
+          "meaning": "favor, grace"
+        },
+        {
+          "word": "head",
+          "strongNumber": "H7218",
+          "lemma": "ro'sh",
+          "meaning": "head, top"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "My son, if sinners entice thee, consent thou not.",
+      "highlightedWords": [
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son"
+        },
+        {
+          "word": "entice",
+          "strongNumber": "H6601",
+          "lemma": "pathah",
+          "meaning": "to entice, persuade"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "If they say, Come with us, let us lay wait for blood, let us lurk privily for the innocent without cause:",
+      "highlightedWords": [
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "blood"
+        },
+        {
+          "word": "innocent",
+          "strongNumber": "H5355",
+          "lemma": "naqiy",
+          "meaning": "innocent, blameless"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Let us swallow them up alive as the grave; and whole, as those that go down into the pit:",
+      "highlightedWords": [
+        {
+          "word": "grave",
+          "strongNumber": "H7585",
+          "lemma": "Sheol",
+          "meaning": "the grave, underworld"
+        },
+        {
+          "word": "pit",
+          "strongNumber": "H953",
+          "lemma": "bor",
+          "meaning": "pit, cistern"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "We shall find all precious substance, we shall fill our houses with spoil:",
+      "highlightedWords": [
+        {
+          "word": "houses",
+          "strongNumber": "H1004",
+          "lemma": "bayit",
+          "meaning": "house"
+        },
+        {
+          "word": "spoil",
+          "strongNumber": "H7998",
+          "lemma": "shalal",
+          "meaning": "plunder, spoil"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Cast in thy lot among us; let us all have one purse:",
+      "highlightedWords": [
+        {
+          "word": "lot",
+          "strongNumber": "H1486",
+          "lemma": "goral",
+          "meaning": "lot, allotment"
+        },
+        {
+          "word": "purse",
+          "strongNumber": "H3599",
+          "lemma": "kis",
+          "meaning": "purse, bag"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "My son, walk not thou in the way with them; refrain thy foot from their path:",
+      "highlightedWords": [
+        {
+          "word": "way",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way, road, manner"
+        },
+        {
+          "word": "path",
+          "strongNumber": "H734",
+          "lemma": "orach",
+          "meaning": "path, track"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "For their feet run to evil, and make haste to shed blood.",
+      "highlightedWords": [
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra'",
+          "meaning": "evil, bad"
+        },
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "blood"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Surely in vain the net is spread in the sight of any bird.",
+      "highlightedWords": [
+        {
+          "word": "net",
+          "strongNumber": "H7568",
+          "lemma": "resheth",
+          "meaning": "net"
+        },
+        {
+          "word": "bird",
+          "strongNumber": "H6833",
+          "lemma": "tsippor",
+          "meaning": "bird, sparrow"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And they lay wait for their own blood; they lurk privily for their own lives.",
+      "highlightedWords": [
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "blood"
+        },
+        {
+          "word": "lives",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "So are the ways of every one that is greedy of gain; which taketh away the life of the owners thereof.",
+      "highlightedWords": [
+        {
+          "word": "life",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life"
+        },
+        {
+          "word": "owners",
+          "strongNumber": "H1167",
+          "lemma": "ba'al",
+          "meaning": "owner, master"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Wisdom crieth without; she uttereth her voice in the streets:",
+      "highlightedWords": [
+        {
+          "word": "Wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "skill, wisdom"
+        },
+        {
+          "word": "streets",
+          "strongNumber": "H7339",
+          "lemma": "rechov",
+          "meaning": "street, broad place"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "She crieth in the chief place of concourse, in the openings of the gates: in the city she uttereth her words, saying,",
+      "highlightedWords": [
+        {
+          "word": "gates",
+          "strongNumber": "H8179",
+          "lemma": "sha'ar",
+          "meaning": "gate, entrance"
+        },
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "ir",
+          "meaning": "city"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "How long, ye simple ones, will ye love simplicity? and the scorners delight in their scorning, and fools hate knowledge?",
+      "highlightedWords": [
+        {
+          "word": "simple ones",
+          "strongNumber": "H6612",
+          "lemma": "pethiy",
+          "meaning": "simple, naive"
+        },
+        {
+          "word": "knowledge",
+          "strongNumber": "H1847",
+          "lemma": "da'ath",
+          "meaning": "knowledge"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Turn you at my reproof: behold, I will pour out my spirit unto you, I will make known my words unto you.",
+      "highlightedWords": [
+        {
+          "word": "reproof",
+          "strongNumber": "H8433",
+          "lemma": "tokhachah",
+          "meaning": "rebuke, reproof"
+        },
+        {
+          "word": "spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "spirit, wind, breath"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Because I have called, and ye refused; I have stretched out my hand, and no man regarded;",
+      "highlightedWords": [
+        {
+          "word": "called",
+          "strongNumber": "H7121",
+          "lemma": "qara'",
+          "meaning": "to call, proclaim"
+        },
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "But ye have set at nought all my counsel, and would none of my reproof:",
+      "highlightedWords": [
+        {
+          "word": "counsel",
+          "strongNumber": "H6098",
+          "lemma": "etsah",
+          "meaning": "counsel, advice"
+        },
+        {
+          "word": "reproof",
+          "strongNumber": "H8433",
+          "lemma": "tokhachah",
+          "meaning": "rebuke, reproof"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "I also will laugh at your calamity; I will mock when your fear cometh;",
+      "highlightedWords": [
+        {
+          "word": "calamity",
+          "strongNumber": "H343",
+          "lemma": "eyd",
+          "meaning": "calamity, disaster"
+        },
+        {
+          "word": "fear",
+          "strongNumber": "H6343",
+          "lemma": "pachad",
+          "meaning": "dread, fear"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "When your fear cometh as desolation, and your destruction cometh as a whirlwind; when distress and anguish cometh upon you.",
+      "highlightedWords": [
+        {
+          "word": "distress",
+          "strongNumber": "H6869",
+          "lemma": "tsarah",
+          "meaning": "distress, trouble"
+        },
+        {
+          "word": "anguish",
+          "strongNumber": "H6695",
+          "lemma": "tsuqah",
+          "meaning": "anguish, constraint"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "Then shall they call upon me, but I will not answer; they shall seek me early, but they shall not find me:",
+      "highlightedWords": [
+        {
+          "word": "call",
+          "strongNumber": "H7121",
+          "lemma": "qara'",
+          "meaning": "to call, proclaim"
+        },
+        {
+          "word": "answer",
+          "strongNumber": "H6030",
+          "lemma": "anah",
+          "meaning": "to answer, respond"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "For that they hated knowledge, and did not choose the fear of the LORD:",
+      "highlightedWords": [
+        {
+          "word": "knowledge",
+          "strongNumber": "H1847",
+          "lemma": "da'ath",
+          "meaning": "knowledge"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "They would none of my counsel: they despised all my reproof.",
+      "highlightedWords": [
+        {
+          "word": "counsel",
+          "strongNumber": "H6098",
+          "lemma": "etsah",
+          "meaning": "counsel, advice"
+        },
+        {
+          "word": "reproof",
+          "strongNumber": "H8433",
+          "lemma": "tokhachah",
+          "meaning": "rebuke, reproof"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "Therefore shall they eat of the fruit of their own way, and be filled with their own devices.",
+      "highlightedWords": [
+        {
+          "word": "fruit",
+          "strongNumber": "H6529",
+          "lemma": "periy",
+          "meaning": "fruit, produce"
+        },
+        {
+          "word": "way",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way, road, manner"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "For the turning away of the simple shall slay them, and the prosperity of fools shall destroy them.",
+      "highlightedWords": [
+        {
+          "word": "turning away",
+          "strongNumber": "H4878",
+          "lemma": "meshubah",
+          "meaning": "turning back, backsliding"
+        },
+        {
+          "word": "simple",
+          "strongNumber": "H6612",
+          "lemma": "pethiy",
+          "meaning": "simple, naive"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "But whoso hearkeneth unto me shall dwell safely, and shall be quiet from fear of evil.",
+      "highlightedWords": [
+        {
+          "word": "safely",
+          "strongNumber": "H983",
+          "lemma": "betach",
+          "meaning": "security, safety"
+        },
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra'",
+          "meaning": "evil, bad"
+        }
+      ]
+    }
+  ]
+}

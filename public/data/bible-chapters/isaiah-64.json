@@ -1,0 +1,240 @@
+{
+  "book": "Isaiah",
+  "chapter": 64,
+  "chapterTheme": {
+    "twoWordSummary": "Penitent Plea",
+    "themeWords": [
+      {
+        "word": "presence",
+        "strongNumber": "H6440",
+        "lemma": "pānîm",
+        "meaning": "face, presence; in front of, before"
+      },
+      {
+        "word": "righteousness",
+        "strongNumber": "H6666",
+        "lemma": "tsedāqāh",
+        "meaning": "righteousness, justice, rightness"
+      }
+    ]
+  },
+  "sentenceTheme": "A repentant community pleads for God to come down in holy power, remembering His past wonders and confessing their sins while appealing for mercy.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Oh that thou wouldest rend the heavens, that thou wouldest come down, that the mountains might flow down at thy presence,",
+      "highlightedWords": [
+        {
+          "word": "heavens",
+          "strongNumber": "H8064",
+          "lemma": "shāmayim",
+          "meaning": "heavens, sky, abode of the stars"
+        },
+        {
+          "word": "presence",
+          "strongNumber": "H6440",
+          "lemma": "pānîm",
+          "meaning": "face, presence; before"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "As when the melting fire burneth, the fire causeth the waters to boil, to make thy name known to thine adversaries, that the nations may tremble at thy presence!",
+      "highlightedWords": [
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "’ēsh",
+          "meaning": "fire"
+        },
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "gôy",
+          "meaning": "nation, people; Gentiles"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "When thou didst terrible things which we looked not for, thou camest down, the mountains flowed down at thy presence.",
+      "highlightedWords": [
+        {
+          "word": "mountains",
+          "strongNumber": "H2022",
+          "lemma": "har",
+          "meaning": "mountain, hill, hill-country"
+        },
+        {
+          "word": "presence",
+          "strongNumber": "H6440",
+          "lemma": "pānîm",
+          "meaning": "face, presence; before"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "For since the beginning of the world men have not heard, nor perceived by the ear, neither hath the eye seen, O God, beside thee, what he hath prepared for him that waiteth for him.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’ĕlōhîm",
+          "meaning": "God, god; mighty one (plural of majesty when used of the true God)"
+        },
+        {
+          "word": "waiteth",
+          "strongNumber": "H6960",
+          "lemma": "qāvâ",
+          "meaning": "to wait for, hope, look eagerly"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Thou meetest him that rejoiceth and worketh righteousness, those that remember thee in thy ways: behold, thou art wroth; for we have sinned: in those is continuance, and we shall be saved.",
+      "highlightedWords": [
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "tsedāqāh",
+          "meaning": "righteousness, justice, rightness"
+        },
+        {
+          "word": "sinned",
+          "strongNumber": "H2398",
+          "lemma": "chātā’",
+          "meaning": "to sin, miss the mark, offend"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "But we are all as an unclean thing, and all our righteousnesses are as filthy rags; and we all do fade as a leaf; and our iniquities, like the wind, have taken us away.",
+      "highlightedWords": [
+        {
+          "word": "unclean",
+          "strongNumber": "H2931",
+          "lemma": "tāmē’",
+          "meaning": "unclean, impure, defiled"
+        },
+        {
+          "word": "iniquities",
+          "strongNumber": "H5771",
+          "lemma": "’āvōn",
+          "meaning": "iniquity, guilt, punishment of iniquity"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And there is none that calleth upon thy name, that stirreth up himself to take hold of thee: for thou hast hid thy face from us, and hast consumed us, because of our iniquities.",
+      "highlightedWords": [
+        {
+          "word": "calleth",
+          "strongNumber": "H7121",
+          "lemma": "qārā’",
+          "meaning": "to call, proclaim, read aloud"
+        },
+        {
+          "word": "face",
+          "strongNumber": "H6440",
+          "lemma": "pānîm",
+          "meaning": "face, presence; before"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "But now, O LORD, thou art our father; we are the clay, and thou our potter; and we all are the work of thy hand.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the personal name of the God of Israel (YHWH)"
+        },
+        {
+          "word": "potter",
+          "strongNumber": "H3335",
+          "lemma": "yātsar",
+          "meaning": "to form, fashion; a potter (as one who forms clay)"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Be not wroth very sore, O LORD, neither remember iniquity for ever: behold, see, we beseech thee, we are all thy people.",
+      "highlightedWords": [
+        {
+          "word": "remember",
+          "strongNumber": "H2142",
+          "lemma": "zākar",
+          "meaning": "to remember, recall, call to mind; to mention"
+        },
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "‘am",
+          "meaning": "people, nation, kin"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Thy holy cities are a wilderness, Zion is a wilderness, Jerusalem a desolation.",
+      "highlightedWords": [
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyyôn",
+          "meaning": "Zion, a mountain of Jerusalem; the city or its people"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerûshālaim",
+          "meaning": "Jerusalem, the chief city of Judah/Israel"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Our holy and our beautiful house, where our fathers praised thee, is burned up with fire: and all our pleasant things are laid waste.",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, household, temple"
+        },
+        {
+          "word": "praised",
+          "strongNumber": "H1984",
+          "lemma": "hālal",
+          "meaning": "to praise, boast, glorify"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Wilt thou refrain thyself for these things, O LORD? wilt thou hold thy peace, and afflict us very sore?",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the personal name of the God of Israel (YHWH)"
+        },
+        {
+          "word": "afflict",
+          "strongNumber": "H6031",
+          "lemma": "‘ānâ",
+          "meaning": "to afflict, humble, oppress"
+        }
+      ]
+    }
+  ]
+}

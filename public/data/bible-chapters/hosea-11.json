@@ -1,0 +1,240 @@
+{
+  "book": "Hosea",
+  "chapter": 11,
+  "chapterTheme": {
+    "twoWordSummary": "Parental Compassion",
+    "themeWords": [
+      {
+        "word": "love",
+        "strongNumber": "H0160",
+        "lemma": "’ahabah",
+        "meaning": "love, affection"
+      },
+      {
+        "word": "return",
+        "strongNumber": "H7725",
+        "lemma": "shuv",
+        "meaning": "to turn back, return"
+      }
+    ]
+  },
+  "sentenceTheme": "God recalls His fatherly love for Israel, warns of judgment for their faithlessness, yet promises restoration with compassionate restraint.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "When Israel was a child, then I loved him, and called my son out of Egypt.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; he strives with God"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt; land of the Nile"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "As they called them, so they went from them: they sacrificed unto Baalim, and burned incense to graven images.",
+      "highlightedWords": [
+        {
+          "word": "Baalim",
+          "strongNumber": "H1168",
+          "lemma": "Ba‘al",
+          "meaning": "Baal; lord/master, Canaanite deity"
+        },
+        {
+          "word": "graven images",
+          "strongNumber": "H6459",
+          "lemma": "pesel",
+          "meaning": "carved idol, graven image"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "I taught Ephraim also to go, taking them by their arms; but they knew not that I healed them.",
+      "highlightedWords": [
+        {
+          "word": "Ephraim",
+          "strongNumber": "H0669",
+          "lemma": "'Ephrayim",
+          "meaning": "Ephraim; fruitful"
+        },
+        {
+          "word": "healed",
+          "strongNumber": "H7495",
+          "lemma": "rapha‘",
+          "meaning": "to heal, restore"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "I drew them with cords of a man, with bands of love: and I was to them as they that take off the yoke on their jaws, and I laid meat unto them.",
+      "highlightedWords": [
+        {
+          "word": "love",
+          "strongNumber": "H0160",
+          "lemma": "’ahabah",
+          "meaning": "love, affection"
+        },
+        {
+          "word": "yoke",
+          "strongNumber": "H5923",
+          "lemma": "‘ol",
+          "meaning": "yoke, bondage"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "He shall not return into the land of Egypt: but the Assyrian shall be his king, because they refused to return.",
+      "highlightedWords": [
+        {
+          "word": "Assyrian",
+          "strongNumber": "H0804",
+          "lemma": "'Ashshur",
+          "meaning": "Assyria; the Assyrian"
+        },
+        {
+          "word": "return",
+          "strongNumber": "H7725",
+          "lemma": "shuv",
+          "meaning": "to turn back, return"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And the sword shall abide on his cities, and shall consume his branches, and devour them, because of their own counsels.",
+      "highlightedWords": [
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword"
+        },
+        {
+          "word": "counsels",
+          "strongNumber": "H6098",
+          "lemma": "‘etsah",
+          "meaning": "advice, counsel, plans"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And my people are bent to backsliding from me: though they called them to the most High, none at all would exalt him.",
+      "highlightedWords": [
+        {
+          "word": "backsliding",
+          "strongNumber": "H4878",
+          "lemma": "meshubah",
+          "meaning": "apostasy, turning away"
+        },
+        {
+          "word": "most High",
+          "strongNumber": "H5945",
+          "lemma": "'Elyon",
+          "meaning": "Most High (God)"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "How shall I give thee up, Ephraim? how shall I deliver thee, Israel? how shall I make thee as Admah? how shall I set thee as Zeboim? mine heart is turned within me, my repentings are kindled together.",
+      "highlightedWords": [
+        {
+          "word": "Ephraim",
+          "strongNumber": "H0669",
+          "lemma": "'Ephrayim",
+          "meaning": "Ephraim; fruitful"
+        },
+        {
+          "word": "Admah",
+          "strongNumber": "H0126",
+          "lemma": "'Admah",
+          "meaning": "Admah; a city of the plain"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "I will not execute the fierceness of mine anger, I will not return to destroy Ephraim: for I am God, and not man; the Holy One in the midst of thee: and I will not enter into the city.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H0410",
+          "lemma": "’El",
+          "meaning": "God, Mighty One"
+        },
+        {
+          "word": "Holy One",
+          "strongNumber": "H6918",
+          "lemma": "qadosh",
+          "meaning": "holy one, sacred"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "They shall walk after the LORD: he shall roar like a lion: when he shall roar, then the children shall tremble from the west.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "lion",
+          "strongNumber": "H0738",
+          "lemma": "’aryeh",
+          "meaning": "lion"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "They shall tremble as a bird out of Egypt, and as a dove out of the land of Assyria: and I will place them in their houses, saith the LORD.",
+      "highlightedWords": [
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt; land of the Nile"
+        },
+        {
+          "word": "dove",
+          "strongNumber": "H3123",
+          "lemma": "yonah",
+          "meaning": "dove"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Ephraim compasseth me about with lies, and the house of Israel with deceit: but Judah yet ruleth with God, and is faithful with the saints.",
+      "highlightedWords": [
+        {
+          "word": "Ephraim",
+          "strongNumber": "H0669",
+          "lemma": "'Ephrayim",
+          "meaning": "Ephraim; fruitful"
+        },
+        {
+          "word": "saints",
+          "strongNumber": "H6918",
+          "lemma": "qedoshim",
+          "meaning": "holy ones, saints"
+        }
+      ]
+    }
+  ]
+}

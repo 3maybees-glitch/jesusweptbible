@@ -1,0 +1,348 @@
+{
+  "book": "Ecclesiastes",
+  "chapter": 1,
+  "chapterTheme": {
+    "twoWordSummary": "Vanity Toil",
+    "themeWords": [
+      {
+        "word": "vanity",
+        "strongNumber": "H1892",
+        "lemma": "hevel",
+        "meaning": "breath; emptiness; vapor"
+      },
+      {
+        "word": "wisdom",
+        "strongNumber": "H2451",
+        "lemma": "chokmah",
+        "meaning": "skill; wisdom; insight"
+      }
+    ]
+  },
+  "sentenceTheme": "Ecclesiastes opens with the Preacher observing the weary cycles of creation and human effort, declaring all to be vanity, for even the pursuit of wisdom brings grief.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "The words of the Preacher, the son of David, king in Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "words",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word; matter; thing"
+        },
+        {
+          "word": "Preacher",
+          "strongNumber": "H6953",
+          "lemma": "qoheleth",
+          "meaning": "assembler; convener; preacher"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Vanity of vanities, saith the Preacher, vanity of vanities; all is vanity.",
+      "highlightedWords": [
+        {
+          "word": "Vanity",
+          "strongNumber": "H1892",
+          "lemma": "hevel",
+          "meaning": "breath; emptiness; vapor"
+        },
+        {
+          "word": "Preacher",
+          "strongNumber": "H6953",
+          "lemma": "qoheleth",
+          "meaning": "assembler; convener; preacher"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "What profit hath a man of all his labour which he taketh under the sun?",
+      "highlightedWords": [
+        {
+          "word": "profit",
+          "strongNumber": "H3504",
+          "lemma": "yithron",
+          "meaning": "advantage; gain; surplus"
+        },
+        {
+          "word": "sun",
+          "strongNumber": "H8121",
+          "lemma": "shemesh",
+          "meaning": "sun"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "One generation passeth away, and another generation cometh: but the earth abideth for ever.",
+      "highlightedWords": [
+        {
+          "word": "generation",
+          "strongNumber": "H1755",
+          "lemma": "dor",
+          "meaning": "generation; age; period"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "earth; land"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "The sun also ariseth, and the sun goeth down, and hasteth to his place where he arose.",
+      "highlightedWords": [
+        {
+          "word": "sun",
+          "strongNumber": "H8121",
+          "lemma": "shemesh",
+          "meaning": "sun"
+        },
+        {
+          "word": "place",
+          "strongNumber": "H4725",
+          "lemma": "maqom",
+          "meaning": "place; location"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "The wind goeth toward the south, and turneth about unto the north; it whirleth about continually, and the wind returneth again according to his circuits.",
+      "highlightedWords": [
+        {
+          "word": "wind",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "wind; breath; spirit"
+        },
+        {
+          "word": "north",
+          "strongNumber": "H6828",
+          "lemma": "tsaphon",
+          "meaning": "north; hidden place"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "All the rivers run into the sea; yet the sea is not full; unto the place from whence the rivers come, thither they return again.",
+      "highlightedWords": [
+        {
+          "word": "rivers",
+          "strongNumber": "H5104",
+          "lemma": "nahar",
+          "meaning": "river; stream"
+        },
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "sea; large body of water"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "All things are full of labour; man cannot utter it: the eye is not satisfied with seeing, nor the ear filled with hearing.",
+      "highlightedWords": [
+        {
+          "word": "eye",
+          "strongNumber": "H5869",
+          "lemma": "ayin",
+          "meaning": "eye; sight"
+        },
+        {
+          "word": "ear",
+          "strongNumber": "H241",
+          "lemma": "ozen",
+          "meaning": "ear; hearing"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "The thing that hath been, it is that which shall be; and that which is done is that which shall be done: and there is no new thing under the sun.",
+      "highlightedWords": [
+        {
+          "word": "new",
+          "strongNumber": "H2319",
+          "lemma": "chadash",
+          "meaning": "new; fresh"
+        },
+        {
+          "word": "sun",
+          "strongNumber": "H8121",
+          "lemma": "shemesh",
+          "meaning": "sun"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Is there any thing whereof it may be said, See, this is new? it hath been already of old time, which was before us.",
+      "highlightedWords": [
+        {
+          "word": "See",
+          "strongNumber": "H7200",
+          "lemma": "ra'ah",
+          "meaning": "to see; behold; perceive"
+        },
+        {
+          "word": "new",
+          "strongNumber": "H2319",
+          "lemma": "chadash",
+          "meaning": "new; fresh"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "There is no remembrance of former things; neither shall there be any remembrance of things that are to come with those that shall come after.",
+      "highlightedWords": [
+        {
+          "word": "remembrance",
+          "strongNumber": "H2143",
+          "lemma": "zeker",
+          "meaning": "remembrance; memorial"
+        },
+        {
+          "word": "former",
+          "strongNumber": "H7223",
+          "lemma": "rishon",
+          "meaning": "former; first; preceding"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "I the Preacher was king over Israel in Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "Preacher",
+          "strongNumber": "H6953",
+          "lemma": "qoheleth",
+          "meaning": "assembler; convener; preacher"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king; ruler"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And I gave my heart to seek and search out by wisdom concerning all things that are done under heaven: this sore travail hath God given to the sons of men to be exercised therewith.",
+      "highlightedWords": [
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "skill; wisdom; insight"
+        },
+        {
+          "word": "travail",
+          "strongNumber": "H6045",
+          "lemma": "inyan",
+          "meaning": "task; occupation; troublesome labor"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "I have seen all the works that are done under the sun; and, behold, all is vanity and vexation of spirit.",
+      "highlightedWords": [
+        {
+          "word": "vanity",
+          "strongNumber": "H1892",
+          "lemma": "hevel",
+          "meaning": "breath; emptiness; vapor"
+        },
+        {
+          "word": "vexation",
+          "strongNumber": "H7469",
+          "lemma": "re'uth",
+          "meaning": "striving; chasing; vexation"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "That which is crooked cannot be made straight: and that which is wanting cannot be numbered.",
+      "highlightedWords": [
+        {
+          "word": "crooked",
+          "strongNumber": "H5791",
+          "lemma": "avath",
+          "meaning": "to be bent; twisted; crooked"
+        },
+        {
+          "word": "wanting",
+          "strongNumber": "H2637",
+          "lemma": "chaser",
+          "meaning": "lacking; deficient; wanting"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "I communed with mine own heart, saying, Lo, I am come to great estate, and have gotten more wisdom than all they that have been before me in Jerusalem: yea, my heart had great experience of wisdom and knowledge.",
+      "highlightedWords": [
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "skill; wisdom; insight"
+        },
+        {
+          "word": "knowledge",
+          "strongNumber": "H1847",
+          "lemma": "da'ath",
+          "meaning": "knowledge; understanding"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And I gave my heart to know wisdom, and to know madness and folly: I perceived that this also is vexation of spirit.",
+      "highlightedWords": [
+        {
+          "word": "madness",
+          "strongNumber": "H1947",
+          "lemma": "holeloth",
+          "meaning": "madness; delusion"
+        },
+        {
+          "word": "folly",
+          "strongNumber": "H5531",
+          "lemma": "sikluth",
+          "meaning": "foolishness; folly"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow.",
+      "highlightedWords": [
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "skill; wisdom; insight"
+        },
+        {
+          "word": "knowledge",
+          "strongNumber": "H1847",
+          "lemma": "da'ath",
+          "meaning": "knowledge; understanding"
+        }
+      ]
+    }
+  ]
+}

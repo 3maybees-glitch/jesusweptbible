@@ -1,0 +1,564 @@
+{
+  "book": "Isaiah",
+  "chapter": 5,
+  "chapterTheme": {
+    "twoWordSummary": "Vineyard Woes",
+    "themeWords": [
+      {
+        "word": "vineyard",
+        "strongNumber": "H3754",
+        "lemma": "kerem",
+        "meaning": "vineyard"
+      },
+      {
+        "word": "Woe",
+        "strongNumber": "H1945",
+        "lemma": "hoy",
+        "meaning": "alas, woe (cry of judgment)"
+      }
+    ]
+  },
+  "sentenceTheme": "The song of the vineyard exposes Judah’s injustice and announces a series of woes culminating in divine judgment.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Now will I sing to my wellbeloved a song of my beloved touching his vineyard. My wellbeloved hath a vineyard in a very fruitful hill:",
+      "highlightedWords": [
+        {
+          "word": "wellbeloved",
+          "strongNumber": "H3039",
+          "lemma": "yedid",
+          "meaning": "beloved, dear friend"
+        },
+        {
+          "word": "vineyard",
+          "strongNumber": "H3754",
+          "lemma": "kerem",
+          "meaning": "vineyard"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And he fenced it, and gathered out the stones thereof, and planted it with the choicest vine, and built a tower in the midst of it, and also made a winepress therein: and he looked that it should bring forth grapes, and it brought forth wild grapes.",
+      "highlightedWords": [
+        {
+          "word": "tower",
+          "strongNumber": "H4026",
+          "lemma": "migdal",
+          "meaning": "tower"
+        },
+        {
+          "word": "winepress",
+          "strongNumber": "H3342",
+          "lemma": "yekev",
+          "meaning": "winepress"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And now, O inhabitants of Jerusalem, and men of Judah, judge, I pray you, betwixt me and my vineyard.",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "What could have been done more to my vineyard, that I have not done in it? wherefore, when I looked that it should bring forth grapes, brought it forth wild grapes?",
+      "highlightedWords": [
+        {
+          "word": "vineyard",
+          "strongNumber": "H3754",
+          "lemma": "kerem",
+          "meaning": "vineyard"
+        },
+        {
+          "word": "grapes",
+          "strongNumber": "H6025",
+          "lemma": "enab",
+          "meaning": "grape(s)"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And now go to; I will tell you what I will do to my vineyard: I will take away the hedge thereof, and it shall be eaten up; and break down the wall thereof, and it shall be trodden down:",
+      "highlightedWords": [
+        {
+          "word": "vineyard",
+          "strongNumber": "H3754",
+          "lemma": "kerem",
+          "meaning": "vineyard"
+        },
+        {
+          "word": "hedge",
+          "strongNumber": "H4881",
+          "lemma": "mesukah",
+          "meaning": "hedge, fence"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And I will lay it waste: it shall not be pruned, nor digged; but there shall come up briers and thorns: I will also command the clouds that they rain no rain upon it.",
+      "highlightedWords": [
+        {
+          "word": "briers",
+          "strongNumber": "H8068",
+          "lemma": "shamir",
+          "meaning": "brier, thorn-bush"
+        },
+        {
+          "word": "thorns",
+          "strongNumber": "H7898",
+          "lemma": "shayith",
+          "meaning": "thorns"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "For the vineyard of the LORD of hosts is the house of Israel, and the men of Judah his pleasant plant: and he looked for judgment, but behold oppression; for righteousness, but behold a cry.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the divine name, the LORD"
+        },
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "justice, judgment"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Woe unto them that join house to house, that lay field to field, till there be no place, that they may be placed alone in the midst of the earth!",
+      "highlightedWords": [
+        {
+          "word": "Woe",
+          "strongNumber": "H1945",
+          "lemma": "hoy",
+          "meaning": "alas, woe (cry of judgment)"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "land, earth"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "In mine ears said the LORD of hosts, Of a truth many houses shall be desolate, even great and fair, without inhabitant.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the divine name, the LORD"
+        },
+        {
+          "word": "desolate",
+          "strongNumber": "H8077",
+          "lemma": "shemamah",
+          "meaning": "desolation, waste"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Yea, ten acres of vineyard shall yield one bath, and the seed of an homer shall yield an ephah.",
+      "highlightedWords": [
+        {
+          "word": "homer",
+          "strongNumber": "H2563",
+          "lemma": "chomer",
+          "meaning": "a dry measure (homer)"
+        },
+        {
+          "word": "ephah",
+          "strongNumber": "H0374",
+          "lemma": "ephah",
+          "meaning": "a dry measure (ephah)"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Woe unto them that rise up early in the morning, that they may follow strong drink; that continue until night, till wine inflame them!",
+      "highlightedWords": [
+        {
+          "word": "Woe",
+          "strongNumber": "H1945",
+          "lemma": "hoy",
+          "meaning": "alas, woe (cry of judgment)"
+        },
+        {
+          "word": "wine",
+          "strongNumber": "H3196",
+          "lemma": "yayin",
+          "meaning": "wine"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And the harp, and the viol, the tabret, and pipe, and wine, are in their feasts: but they regard not the work of the LORD, neither consider the operation of his hands.",
+      "highlightedWords": [
+        {
+          "word": "harp",
+          "strongNumber": "H3658",
+          "lemma": "kinnor",
+          "meaning": "harp, lyre"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the divine name, the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Therefore my people are gone into captivity, because they have no knowledge: and their honourable men are famished, and their multitude dried up with thirst.",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "am",
+          "meaning": "people, nation"
+        },
+        {
+          "word": "knowledge",
+          "strongNumber": "H1847",
+          "lemma": "da'ath",
+          "meaning": "knowledge"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Therefore hell hath enlarged herself, and opened her mouth without measure: and their glory, and their multitude, and their pomp, and he that rejoiceth, shall descend into it.",
+      "highlightedWords": [
+        {
+          "word": "hell",
+          "strongNumber": "H7585",
+          "lemma": "sheol",
+          "meaning": "the grave, the underworld"
+        },
+        {
+          "word": "glory",
+          "strongNumber": "H3519",
+          "lemma": "kabod",
+          "meaning": "glory, honor"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And the mean man shall be brought down, and the mighty man shall be humbled, and the eyes of the lofty shall be humbled:",
+      "highlightedWords": [
+        {
+          "word": "man",
+          "strongNumber": "H376",
+          "lemma": "ish",
+          "meaning": "man, individual"
+        },
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "ayin",
+          "meaning": "eye"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "But the LORD of hosts shall be exalted in judgment, and God that is holy shall be sanctified in righteousness.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the divine name, the LORD"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "tsedaqah",
+          "meaning": "righteousness"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Then shall the lambs feed after their manner, and the waste places of the fat ones shall strangers eat.",
+      "highlightedWords": [
+        {
+          "word": "lambs",
+          "strongNumber": "H3532",
+          "lemma": "kebes",
+          "meaning": "lamb"
+        },
+        {
+          "word": "strangers",
+          "strongNumber": "H1616",
+          "lemma": "ger",
+          "meaning": "sojourner, stranger"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Woe unto them that draw iniquity with cords of vanity, and sin as it were with a cart rope:",
+      "highlightedWords": [
+        {
+          "word": "Woe",
+          "strongNumber": "H1945",
+          "lemma": "hoy",
+          "meaning": "alas, woe (cry of judgment)"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "avon",
+          "meaning": "iniquity, guilt"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "That say, Let him make speed, and hasten his work, that we may see it: and let the counsel of the Holy One of Israel draw nigh and come, that we may know it!",
+      "highlightedWords": [
+        {
+          "word": "Holy One",
+          "strongNumber": "H6918",
+          "lemma": "qadosh",
+          "meaning": "holy, sacred"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Woe unto them that call evil good, and good evil; that put darkness for light, and light for darkness; that put bitter for sweet, and sweet for bitter!",
+      "highlightedWords": [
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra'",
+          "meaning": "evil, bad"
+        },
+        {
+          "word": "good",
+          "strongNumber": "H2896",
+          "lemma": "tov",
+          "meaning": "good, pleasant"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Woe unto them that are wise in their own eyes, and prudent in their own sight!",
+      "highlightedWords": [
+        {
+          "word": "wise",
+          "strongNumber": "H2450",
+          "lemma": "chakam",
+          "meaning": "wise, skillful"
+        },
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "ayin",
+          "meaning": "eye"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Woe unto them that are mighty to drink wine, and men of strength to mingle strong drink:",
+      "highlightedWords": [
+        {
+          "word": "wine",
+          "strongNumber": "H3196",
+          "lemma": "yayin",
+          "meaning": "wine"
+        },
+        {
+          "word": "strong drink",
+          "strongNumber": "H7941",
+          "lemma": "shekar",
+          "meaning": "strong drink"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Which justify the wicked for reward, and take away the righteousness of the righteous from him!",
+      "highlightedWords": [
+        {
+          "word": "justify",
+          "strongNumber": "H6663",
+          "lemma": "tsadaq",
+          "meaning": "to justify, declare righteous"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha'",
+          "meaning": "wicked, guilty"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Therefore as the fire devoureth the stubble, and the flame consumeth the chaff, so their root shall be as rottenness, and their blossom shall go up as dust: because they have cast away the law of the LORD of hosts, and despised the word of the Holy One of Israel.",
+      "highlightedWords": [
+        {
+          "word": "law",
+          "strongNumber": "H8451",
+          "lemma": "torah",
+          "meaning": "law, instruction"
+        },
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Therefore is the anger of the LORD kindled against his people, and he hath stretched forth his hand against them, and hath smitten them: and the hills did tremble, and their carcases were torn in the midst of the streets. For all this his anger is not turned away, but his hand is stretched out still.",
+      "highlightedWords": [
+        {
+          "word": "anger",
+          "strongNumber": "H639",
+          "lemma": "aph",
+          "meaning": "anger, wrath"
+        },
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And he will lift up an ensign to the nations from far, and will hiss unto them from the end of the earth: and, behold, they shall come with speed swiftly:",
+      "highlightedWords": [
+        {
+          "word": "ensign",
+          "strongNumber": "H5251",
+          "lemma": "nes",
+          "meaning": "banner, signal"
+        },
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation, people"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "None shall be weary nor stumble among them; none shall slumber nor sleep; neither shall the girdle of their loins be loosed, nor the latchet of their shoes be broken:",
+      "highlightedWords": [
+        {
+          "word": "sleep",
+          "strongNumber": "H3462",
+          "lemma": "yashen",
+          "meaning": "to sleep"
+        },
+        {
+          "word": "shoes",
+          "strongNumber": "H5275",
+          "lemma": "na'al",
+          "meaning": "sandal, shoe"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "Whose arrows are sharp, and all their bows bent, their horses' hoofs shall be counted like flint, and their wheels like a whirlwind:",
+      "highlightedWords": [
+        {
+          "word": "arrows",
+          "strongNumber": "H2671",
+          "lemma": "chets",
+          "meaning": "arrow"
+        },
+        {
+          "word": "bows",
+          "strongNumber": "H7198",
+          "lemma": "qeshet",
+          "meaning": "bow"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "Their roaring shall be like a lion, they shall roar like young lions: yea, they shall roar, and lay hold of the prey, and shall carry it away safe, and none shall deliver it.",
+      "highlightedWords": [
+        {
+          "word": "lion",
+          "strongNumber": "H0738",
+          "lemma": "aryeh",
+          "meaning": "lion"
+        },
+        {
+          "word": "prey",
+          "strongNumber": "H2964",
+          "lemma": "teref",
+          "meaning": "prey"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "And in that day they shall roar against them like the roaring of the sea: and if one look unto the land, behold darkness and sorrow, and the light is darkened in the heavens thereof.",
+      "highlightedWords": [
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "sea"
+        },
+        {
+          "word": "darkness",
+          "strongNumber": "H2822",
+          "lemma": "choshek",
+          "meaning": "darkness"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,618 @@
+{
+  "book": "Proverbs",
+  "chapter": 15,
+  "chapterTheme": {
+    "twoWordSummary": "Wise Speech",
+    "themeWords": [
+      {
+        "word": "wisdom",
+        "strongNumber": "H2451",
+        "lemma": "chokmah",
+        "meaning": "wisdom; skill, prudence"
+      },
+      {
+        "word": "tongue",
+        "strongNumber": "H3956",
+        "lemma": "lashon",
+        "meaning": "tongue; language, speech"
+      }
+    ]
+  },
+  "sentenceTheme": "Proverbs 15 contrasts wise and foolish speech, conduct, and attitudes, showing how reverence for the LORD brings life, joy, and stability.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "A soft answer turneth away wrath: but grievous words stir up anger.",
+      "highlightedWords": [
+        {
+          "word": "wrath",
+          "strongNumber": "H2534",
+          "lemma": "chemah",
+          "meaning": "wrath, heat, rage, indignation"
+        },
+        {
+          "word": "anger",
+          "strongNumber": "H639",
+          "lemma": "aph",
+          "meaning": "nose, nostril; anger"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "The tongue of the wise useth knowledge aright: but the mouth of fools poureth out foolishness.",
+      "highlightedWords": [
+        {
+          "word": "tongue",
+          "strongNumber": "H3956",
+          "lemma": "lashon",
+          "meaning": "tongue; language, speech"
+        },
+        {
+          "word": "fools",
+          "strongNumber": "H3684",
+          "lemma": "kesil",
+          "meaning": "fool, dullard"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "The eyes of the LORD are in every place, beholding the evil and the good.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the LORD, the proper name of the God of Israel"
+        },
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "ayin",
+          "meaning": "eye; sight"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "A wholesome tongue is a tree of life: but perverseness therein is a breach in the spirit.",
+      "highlightedWords": [
+        {
+          "word": "tongue",
+          "strongNumber": "H3956",
+          "lemma": "lashon",
+          "meaning": "tongue; language, speech"
+        },
+        {
+          "word": "life",
+          "strongNumber": "H2416",
+          "lemma": "chay",
+          "meaning": "life; living, alive"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "A fool despiseth his father's instruction: but he that regardeth reproof is prudent.",
+      "highlightedWords": [
+        {
+          "word": "fool",
+          "strongNumber": "H3684",
+          "lemma": "kesil",
+          "meaning": "fool, dullard"
+        },
+        {
+          "word": "instruction",
+          "strongNumber": "H4148",
+          "lemma": "musar",
+          "meaning": "discipline, correction, instruction"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "In the house of the righteous is much treasure: but in the revenues of the wicked is trouble.",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayit",
+          "meaning": "house; household"
+        },
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "The lips of the wise disperse knowledge: but the heart of the foolish doeth not so.",
+      "highlightedWords": [
+        {
+          "word": "lips",
+          "strongNumber": "H8193",
+          "lemma": "saphah",
+          "meaning": "lip, speech, edge"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "lev",
+          "meaning": "heart; inner person, mind, will"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "The sacrifice of the wicked is an abomination to the LORD: but the prayer of the upright is his delight.",
+      "highlightedWords": [
+        {
+          "word": "sacrifice",
+          "strongNumber": "H2077",
+          "lemma": "zevach",
+          "meaning": "sacrifice, offering"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the LORD, the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "The way of the wicked is an abomination unto the LORD: but he loveth him that followeth after righteousness.",
+      "highlightedWords": [
+        {
+          "word": "way",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way; path, road, manner"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the LORD, the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Correction is grievous unto him that forsaketh the way: and he that hateth reproof shall die.",
+      "highlightedWords": [
+        {
+          "word": "way",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way; path, road, manner"
+        },
+        {
+          "word": "reproof",
+          "strongNumber": "H8433",
+          "lemma": "tokhachah",
+          "meaning": "rebuke, reproof"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Hell and destruction are before the LORD: how much more then the hearts of the children of men?",
+      "highlightedWords": [
+        {
+          "word": "Hell",
+          "strongNumber": "H7585",
+          "lemma": "Sheol",
+          "meaning": "the grave, underworld"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the LORD, the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "A scorner loveth not one that reproveth him: neither will he go unto the wise.",
+      "highlightedWords": [
+        {
+          "word": "scorner",
+          "strongNumber": "H3917",
+          "lemma": "lets",
+          "meaning": "mocker, scorner"
+        },
+        {
+          "word": "wise",
+          "strongNumber": "H2450",
+          "lemma": "chakam",
+          "meaning": "wise; skillful, prudent"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "A merry heart maketh a cheerful countenance: but by sorrow of the heart the spirit is broken.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "lev",
+          "meaning": "heart; inner person, mind, will"
+        },
+        {
+          "word": "spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "spirit; wind, breath"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "The heart of him that hath understanding seeketh knowledge: but the mouth of fools feedeth on foolishness.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "lev",
+          "meaning": "heart; inner person, mind, will"
+        },
+        {
+          "word": "knowledge",
+          "strongNumber": "H1847",
+          "lemma": "da'ath",
+          "meaning": "knowledge; perception, skill"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "All the days of the afflicted are evil: but he that is of a merry heart hath a continual feast.",
+      "highlightedWords": [
+        {
+          "word": "days",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day(s); time, period"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "lev",
+          "meaning": "heart; inner person, mind, will"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Better is little with the fear of the LORD than great treasure and trouble therewith.",
+      "highlightedWords": [
+        {
+          "word": "fear",
+          "strongNumber": "H3374",
+          "lemma": "yir'ah",
+          "meaning": "fear; reverence, awe"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the LORD, the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Better is a dinner of herbs where love is, than a stalled ox and hatred therewith.",
+      "highlightedWords": [
+        {
+          "word": "love",
+          "strongNumber": "H160",
+          "lemma": "ahabah",
+          "meaning": "love; affection"
+        },
+        {
+          "word": "ox",
+          "strongNumber": "H7794",
+          "lemma": "shor",
+          "meaning": "ox, bull"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "A wrathful man stirreth up strife: but he that is slow to anger appeaseth strife.",
+      "highlightedWords": [
+        {
+          "word": "anger",
+          "strongNumber": "H639",
+          "lemma": "aph",
+          "meaning": "nose, nostril; anger"
+        },
+        {
+          "word": "strife",
+          "strongNumber": "H4066",
+          "lemma": "madon",
+          "meaning": "strife; contention"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "The way of the slothful man is as an hedge of thorns: but the way of the righteous is made plain.",
+      "highlightedWords": [
+        {
+          "word": "way",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way; path, road, manner"
+        },
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "A wise son maketh a glad father: but a foolish man despiseth his mother.",
+      "highlightedWords": [
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; child"
+        },
+        {
+          "word": "mother",
+          "strongNumber": "H517",
+          "lemma": "em",
+          "meaning": "mother"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Folly is joy to him that is destitute of wisdom: but a man of understanding walketh uprightly.",
+      "highlightedWords": [
+        {
+          "word": "Folly",
+          "strongNumber": "H200",
+          "lemma": "ivveleth",
+          "meaning": "folly; foolishness"
+        },
+        {
+          "word": "understanding",
+          "strongNumber": "H998",
+          "lemma": "binah",
+          "meaning": "understanding; insight"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Without counsel purposes are disappointed: but in the multitude of counsellors they are established.",
+      "highlightedWords": [
+        {
+          "word": "purposes",
+          "strongNumber": "H4284",
+          "lemma": "machashavah",
+          "meaning": "thought, plan, purpose"
+        },
+        {
+          "word": "counsellors",
+          "strongNumber": "H3289",
+          "lemma": "yo'etz",
+          "meaning": "counsellor, advisor"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "A man hath joy by the answer of his mouth: and a word spoken in due season, how good is it!",
+      "highlightedWords": [
+        {
+          "word": "mouth",
+          "strongNumber": "H6310",
+          "lemma": "peh",
+          "meaning": "mouth; opening"
+        },
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word; matter, thing"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "The way of life is above to the wise, that he may depart from hell beneath.",
+      "highlightedWords": [
+        {
+          "word": "way",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way; path, road, manner"
+        },
+        {
+          "word": "hell",
+          "strongNumber": "H7585",
+          "lemma": "Sheol",
+          "meaning": "the grave, underworld"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "The LORD will destroy the house of the proud: but he will establish the border of the widow.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the LORD, the proper name of the God of Israel"
+        },
+        {
+          "word": "widow",
+          "strongNumber": "H490",
+          "lemma": "almanah",
+          "meaning": "widow"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "The thoughts of the wicked are an abomination to the LORD: but the words of the pure are pleasant words.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha'",
+          "meaning": "wicked; guilty, criminal"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the LORD, the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "He that is greedy of gain troubleth his own house; but he that hateth gifts shall live.",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayit",
+          "meaning": "house; household"
+        },
+        {
+          "word": "gifts",
+          "strongNumber": "H4976",
+          "lemma": "mattan",
+          "meaning": "gift; present"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "The heart of the righteous studieth to answer: but the mouth of the wicked poureth out evil things.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "lev",
+          "meaning": "heart; inner person, mind, will"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha'",
+          "meaning": "wicked; guilty, criminal"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "The LORD is far from the wicked: but he heareth the prayer of the righteous.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the LORD, the proper name of the God of Israel"
+        },
+        {
+          "word": "prayer",
+          "strongNumber": "H8605",
+          "lemma": "tefillah",
+          "meaning": "prayer; supplication"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "The light of the eyes rejoiceth the heart: and a good report maketh the bones fat.",
+      "highlightedWords": [
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "ayin",
+          "meaning": "eye; sight"
+        },
+        {
+          "word": "bones",
+          "strongNumber": "H6106",
+          "lemma": "etsem",
+          "meaning": "bone; frame"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "The ear that heareth the reproof of life abideth among the wise.",
+      "highlightedWords": [
+        {
+          "word": "ear",
+          "strongNumber": "H241",
+          "lemma": "ozen",
+          "meaning": "ear; hearing"
+        },
+        {
+          "word": "wise",
+          "strongNumber": "H2450",
+          "lemma": "chakam",
+          "meaning": "wise; skillful, prudent"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "He that refuseth instruction despiseth his own soul: but he that heareth reproof getteth understanding.",
+      "highlightedWords": [
+        {
+          "word": "instruction",
+          "strongNumber": "H4148",
+          "lemma": "musar",
+          "meaning": "discipline, correction, instruction"
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul; life, self"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "The fear of the LORD is the instruction of wisdom; and before honour is humility.",
+      "highlightedWords": [
+        {
+          "word": "fear",
+          "strongNumber": "H3374",
+          "lemma": "yir'ah",
+          "meaning": "fear; reverence, awe"
+        },
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "wisdom; skill, prudence"
+        }
+      ]
+    }
+  ]
+}

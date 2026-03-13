@@ -1,0 +1,384 @@
+{
+  "book": "Ecclesiastes",
+  "chapter": 5,
+  "chapterTheme": {
+    "twoWordSummary": "Reverent Vows",
+    "themeWords": [
+      {
+        "word": "vow",
+        "strongNumber": "H5088",
+        "lemma": "neder",
+        "meaning": "a vow, a solemn promise or offering made to God"
+      },
+      {
+        "word": "God",
+        "strongNumber": "H430",
+        "lemma": "’elohim",
+        "meaning": "God; the supreme, mighty one"
+      }
+    ]
+  },
+  "sentenceTheme": "Fear God, guard your words and vows, and gratefully enjoy His gifts with contentment.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Keep thy foot when thou goest to the house of God, and be more ready to hear, than to give the sacrifice of fools: for they consider not that they do evil.",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, dwelling, temple"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "’elohim",
+          "meaning": "God; the supreme, mighty one"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Be not rash with thy mouth, and let not thine heart be hasty to utter any thing before God: for God is in heaven, and thou upon earth: therefore let thy words be few.",
+      "highlightedWords": [
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens, sky, the abode of God"
+        },
+        {
+          "word": "words",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, thing"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "For a dream cometh through the multitude of business; and a fool's voice is known by multitude of words.",
+      "highlightedWords": [
+        {
+          "word": "dream",
+          "strongNumber": "H2472",
+          "lemma": "chalom",
+          "meaning": "a dream, vision in sleep"
+        },
+        {
+          "word": "words",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, thing"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "When thou vowest a vow unto God, defer not to pay it; for he hath no pleasure in fools: pay that which thou hast vowed.",
+      "highlightedWords": [
+        {
+          "word": "vow",
+          "strongNumber": "H5088",
+          "lemma": "neder",
+          "meaning": "a vow, a solemn promise or offering made to God"
+        },
+        {
+          "word": "pay",
+          "strongNumber": "H7999",
+          "lemma": "shalam",
+          "meaning": "to repay, fulfill, render"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Better is it that thou shouldest not vow, than that thou shouldest vow and not pay.",
+      "highlightedWords": [
+        {
+          "word": "vow",
+          "strongNumber": "H5088",
+          "lemma": "neder",
+          "meaning": "a vow, a solemn promise or offering made to God"
+        },
+        {
+          "word": "pay",
+          "strongNumber": "H7999",
+          "lemma": "shalam",
+          "meaning": "to repay, fulfill, render"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Suffer not thy mouth to cause thy flesh to sin; neither say thou before the angel, that it was an error: wherefore should God be angry at thy voice, and destroy the work of thine hands?",
+      "highlightedWords": [
+        {
+          "word": "angel",
+          "strongNumber": "H4397",
+          "lemma": "mal’ak",
+          "meaning": "messenger, angel"
+        },
+        {
+          "word": "error",
+          "strongNumber": "H7684",
+          "lemma": "shegagah",
+          "meaning": "error, inadvertent sin, mistake"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "For in the multitude of dreams and many words there are also divers vanities: but fear thou God.",
+      "highlightedWords": [
+        {
+          "word": "dreams",
+          "strongNumber": "H2472",
+          "lemma": "chalom",
+          "meaning": "a dream, vision in sleep"
+        },
+        {
+          "word": "fear",
+          "strongNumber": "H3372",
+          "lemma": "yare’",
+          "meaning": "to fear, revere, be in awe of"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "If thou seest the oppression of the poor, and violent perverting of judgment and justice in a province, marvel not at the matter: for he that is higher than the highest regardeth; and there be higher than they.",
+      "highlightedWords": [
+        {
+          "word": "oppression",
+          "strongNumber": "H6233",
+          "lemma": "osheq",
+          "meaning": "oppression, extortion, unjust gain"
+        },
+        {
+          "word": "province",
+          "strongNumber": "H4082",
+          "lemma": "medinah",
+          "meaning": "province, district, region"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Moreover the profit of the earth is for all: the king himself is served by the field.",
+      "highlightedWords": [
+        {
+          "word": "profit",
+          "strongNumber": "H3504",
+          "lemma": "yithron",
+          "meaning": "advantage, profit, gain"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "He that loveth silver shall not be satisfied with silver; nor he that loveth abundance with increase: this is also vanity.",
+      "highlightedWords": [
+        {
+          "word": "silver",
+          "strongNumber": "H3701",
+          "lemma": "keseph",
+          "meaning": "silver, money"
+        },
+        {
+          "word": "vanity",
+          "strongNumber": "H1892",
+          "lemma": "hebel",
+          "meaning": "vapor, breath; vanity, futility"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "When goods increase, they are increased that eat them: and what good is there to the owners thereof, saving the beholding of them with their eyes?",
+      "highlightedWords": [
+        {
+          "word": "owners",
+          "strongNumber": "H1167",
+          "lemma": "ba‘al",
+          "meaning": "owner, master, possessor"
+        },
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "‘ayin",
+          "meaning": "eye; sight"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "The sleep of a labouring man is sweet, whether he eat little or much: but the abundance of the rich will not suffer him to sleep.",
+      "highlightedWords": [
+        {
+          "word": "sleep",
+          "strongNumber": "H8142",
+          "lemma": "shenah",
+          "meaning": "sleep"
+        },
+        {
+          "word": "rich",
+          "strongNumber": "H6223",
+          "lemma": "‘ashir",
+          "meaning": "rich, wealthy"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "There is a sore evil which I have seen under the sun, namely, riches kept for the owners thereof to their hurt.",
+      "highlightedWords": [
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra‘",
+          "meaning": "evil, bad, calamity"
+        },
+        {
+          "word": "riches",
+          "strongNumber": "H6239",
+          "lemma": "osher",
+          "meaning": "riches, wealth"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "But those riches perish by evil travail: and he begetteth a son, and there is nothing in his hand.",
+      "highlightedWords": [
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child"
+        },
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "As he came forth of his mother's womb, naked shall he return to go as he came, and shall take nothing of his labour, which he may carry away in his hand.",
+      "highlightedWords": [
+        {
+          "word": "labour",
+          "strongNumber": "H5999",
+          "lemma": "‘amal",
+          "meaning": "toil, labor, trouble"
+        },
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And this also is a sore evil, that in all points as he came, so shall he go: and what profit hath he that hath laboured for the wind?",
+      "highlightedWords": [
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra‘",
+          "meaning": "evil, bad, calamity"
+        },
+        {
+          "word": "wind",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "wind, breath, spirit"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "All his days also he eateth in darkness, and he hath much sorrow and wrath with his sickness.",
+      "highlightedWords": [
+        {
+          "word": "darkness",
+          "strongNumber": "H2822",
+          "lemma": "choshekh",
+          "meaning": "darkness, obscurity"
+        },
+        {
+          "word": "sickness",
+          "strongNumber": "H2483",
+          "lemma": "choli",
+          "meaning": "sickness, disease"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Behold that which I have seen: it is good and comely for one to eat and to drink, and to enjoy the good of all his labour that he taketh under the sun all the days of his life, which God giveth him: for it is his portion.",
+      "highlightedWords": [
+        {
+          "word": "good",
+          "strongNumber": "H2896",
+          "lemma": "tov",
+          "meaning": "good, pleasant, beneficial"
+        },
+        {
+          "word": "portion",
+          "strongNumber": "H2506",
+          "lemma": "cheleq",
+          "meaning": "portion, share, allotment"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Every man also to whom God hath given riches and wealth, and hath given him power to eat thereof, and to take his portion, and to rejoice in his labour; this is the gift of God.",
+      "highlightedWords": [
+        {
+          "word": "riches",
+          "strongNumber": "H6239",
+          "lemma": "osher",
+          "meaning": "riches, wealth"
+        },
+        {
+          "word": "gift",
+          "strongNumber": "H4976",
+          "lemma": "mattan",
+          "meaning": "gift, present"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "For he shall not much remember the days of his life; because God answereth him in the joy of his heart.",
+      "highlightedWords": [
+        {
+          "word": "remember",
+          "strongNumber": "H2142",
+          "lemma": "zakar",
+          "meaning": "to remember, recall"
+        },
+        {
+          "word": "joy",
+          "strongNumber": "H8057",
+          "lemma": "simchah",
+          "meaning": "joy, gladness"
+        }
+      ]
+    }
+  ]
+}

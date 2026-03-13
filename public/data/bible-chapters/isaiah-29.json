@@ -1,0 +1,456 @@
+{
+  "book": "Isaiah",
+  "chapter": 29,
+  "chapterTheme": {
+    "twoWordSummary": "Woe Ariel",
+    "themeWords": [
+      {
+        "word": "Ariel",
+        "strongNumber": "H740",
+        "lemma": "’Ari’el",
+        "meaning": "Lion of God; symbolic name for Jerusalem"
+      },
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH",
+        "meaning": "The personal name of Israel’s God"
+      }
+    ]
+  },
+  "sentenceTheme": "God warns Ariel (Jerusalem) of siege and spiritual blindness, yet promises reversal and restoration.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Woe to Ariel, to Ariel, the city where David dwelt! add ye year to year; let them kill sacrifices.",
+      "highlightedWords": [
+        {
+          "word": "Ariel",
+          "strongNumber": "H740",
+          "lemma": "’Ari’el",
+          "meaning": "Lion of God; symbolic name for Jerusalem"
+        },
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "Dāwīd",
+          "meaning": "Beloved; second king of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Yet I will distress Ariel, and there shall be heaviness and sorrow: and it shall be unto me as Ariel.",
+      "highlightedWords": [
+        {
+          "word": "Ariel",
+          "strongNumber": "H740",
+          "lemma": "’Ari’el",
+          "meaning": "Lion of God; symbolic name for Jerusalem"
+        },
+        {
+          "word": "sorrow",
+          "strongNumber": "H3015",
+          "lemma": "yāgōn",
+          "meaning": "Sorrow, grief"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And I will camp against thee round about, and will lay siege against thee with a mount, and I will raise forts against thee.",
+      "highlightedWords": [
+        {
+          "word": "camp",
+          "strongNumber": "H2583",
+          "lemma": "ḥānâ",
+          "meaning": "To encamp, pitch camp"
+        },
+        {
+          "word": "siege",
+          "strongNumber": "H4692",
+          "lemma": "māṣôr",
+          "meaning": "Siege, distress"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And thou shalt be brought down, and shalt speak out of the ground, and thy speech shall be low out of the dust, and thy voice shall be, as of one that hath a familiar spirit, out of the ground, and thy speech shall whisper out of the dust.",
+      "highlightedWords": [
+        {
+          "word": "ground",
+          "strongNumber": "H127",
+          "lemma": "’ădāmâ",
+          "meaning": "Ground, soil, earth"
+        },
+        {
+          "word": "dust",
+          "strongNumber": "H6083",
+          "lemma": "ʿāphār",
+          "meaning": "Dust, dry earth"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Moreover the multitude of thy strangers shall be like small dust, and the multitude of the terrible ones shall be as chaff that passeth away: yea, it shall be at an instant suddenly.",
+      "highlightedWords": [
+        {
+          "word": "dust",
+          "strongNumber": "H6083",
+          "lemma": "ʿāphār",
+          "meaning": "Dust, dry earth"
+        },
+        {
+          "word": "chaff",
+          "strongNumber": "H4671",
+          "lemma": "môts",
+          "meaning": "Chaff, husks blown away"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Thou shalt be visited of the LORD of hosts with thunder, and with earthquake, and great noise, with storm and tempest, and the flame of devouring fire.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The personal name of Israel’s God"
+        },
+        {
+          "word": "hosts",
+          "strongNumber": "H6635",
+          "lemma": "ṣābāʾ",
+          "meaning": "Armies, heavenly host"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And the multitude of all the nations that fight against Ariel, even all that fight against her and her munition, and that distress her, shall be as a dream of a night vision.",
+      "highlightedWords": [
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "gôy",
+          "meaning": "Nation, people (often Gentiles)"
+        },
+        {
+          "word": "Ariel",
+          "strongNumber": "H740",
+          "lemma": "’Ari’el",
+          "meaning": "Lion of God; symbolic name for Jerusalem"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "It shall even be as when an hungry man dreameth, and, behold, he eateth; but he awaketh, and his soul is empty: or as when a thirsty man dreameth, and, behold, he drinketh; but he awaketh, and, behold, he is faint, and his soul hath appetite: so shall the multitude of all the nations be, that fight against mount Zion.",
+      "highlightedWords": [
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "gôy",
+          "meaning": "Nation, people (often Gentiles)"
+        },
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Ṣiyyôn",
+          "meaning": "Zion, the hill in Jerusalem; by extension Jerusalem"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Stay yourselves, and wonder; cry ye out, and cry: they are drunken, but not with wine; they stagger, but not with strong drink.",
+      "highlightedWords": [
+        {
+          "word": "wine",
+          "strongNumber": "H3196",
+          "lemma": "yayin",
+          "meaning": "Wine"
+        },
+        {
+          "word": "drink",
+          "strongNumber": "H7941",
+          "lemma": "šēkār",
+          "meaning": "Strong drink, intoxicating liquor"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "For the LORD hath poured out upon you the spirit of deep sleep, and hath closed your eyes: the prophets and your rulers, the seers hath he covered.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The personal name of Israel’s God"
+        },
+        {
+          "word": "seers",
+          "strongNumber": "H7203",
+          "lemma": "rō’eh",
+          "meaning": "Seer, prophet"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And the vision of all is become unto you as the words of a book that is sealed, which men deliver to one that is learned, saying, Read this, I pray thee: and he saith, I cannot; for it is sealed:",
+      "highlightedWords": [
+        {
+          "word": "book",
+          "strongNumber": "H5612",
+          "lemma": "sēpher",
+          "meaning": "Scroll, book, document"
+        },
+        {
+          "word": "sealed",
+          "strongNumber": "H2856",
+          "lemma": "ḥātham",
+          "meaning": "To seal, affix a seal"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And the book is delivered to him that is not learned, saying, Read this, I pray thee: and he saith, I am not learned.",
+      "highlightedWords": [
+        {
+          "word": "book",
+          "strongNumber": "H5612",
+          "lemma": "sēpher",
+          "meaning": "Scroll, book, document"
+        },
+        {
+          "word": "learned",
+          "strongNumber": "H3045",
+          "lemma": "yādaʿ",
+          "meaning": "To know; knowledgeable, learned"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Wherefore the Lord said, Forasmuch as this people draw near me with their mouth, and with their lips do honour me, but have removed their heart far from me, and their fear toward me is taught by the precept of men:",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "H136",
+          "lemma": "’Adonāy",
+          "meaning": "Lord, Master"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "lēb",
+          "meaning": "Heart, inner person, mind"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Therefore, behold, I will proceed to do a marvellous work among this people, even a marvellous work and a wonder: for the wisdom of their wise men shall perish, and the understanding of their prudent men shall be hid.",
+      "highlightedWords": [
+        {
+          "word": "wise",
+          "strongNumber": "H2450",
+          "lemma": "ḥākām",
+          "meaning": "Wise, skillful"
+        },
+        {
+          "word": "prudent",
+          "strongNumber": "H995",
+          "lemma": "bîn / nāḇôn",
+          "meaning": "Understanding, discerning; prudent"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Woe unto them that seek deep to hide their counsel from the LORD, and their works are in the dark, and they say, Who seeth us? and who knoweth us?",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The personal name of Israel’s God"
+        },
+        {
+          "word": "counsel",
+          "strongNumber": "H6098",
+          "lemma": "ʿēṣâ",
+          "meaning": "Counsel, advice, plan"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Surely your turning of things upside down shall be esteemed as the potter's clay: for shall the work say of him that made it, He made me not? or shall the thing framed say of him that framed it, He had no understanding?",
+      "highlightedWords": [
+        {
+          "word": "potter's",
+          "strongNumber": "H3335",
+          "lemma": "yōṣēr",
+          "meaning": "Former, potter; one who shapes"
+        },
+        {
+          "word": "clay",
+          "strongNumber": "H2563",
+          "lemma": "ḥōmer",
+          "meaning": "Clay, mortar"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Is it not yet a very little while, and Lebanon shall be turned into a fruitful field, and the fruitful field shall be esteemed as a forest?",
+      "highlightedWords": [
+        {
+          "word": "Lebanon",
+          "strongNumber": "H3844",
+          "lemma": "Ləḇānôn",
+          "meaning": "Lebanon, the mountainous region north of Israel"
+        },
+        {
+          "word": "forest",
+          "strongNumber": "H3293",
+          "lemma": "yaʿar",
+          "meaning": "Forest, thicket"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And in that day shall the deaf hear the words of the book, and the eyes of the blind shall see out of obscurity, and out of darkness.",
+      "highlightedWords": [
+        {
+          "word": "deaf",
+          "strongNumber": "H2795",
+          "lemma": "ḥērēš",
+          "meaning": "Deaf person"
+        },
+        {
+          "word": "blind",
+          "strongNumber": "H5787",
+          "lemma": "ʿiwwēr",
+          "meaning": "Blind person"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "The meek also shall increase their joy in the LORD, and the poor among men shall rejoice in the Holy One of Israel.",
+      "highlightedWords": [
+        {
+          "word": "meek",
+          "strongNumber": "H6035",
+          "lemma": "ʿānāw",
+          "meaning": "Meek, humble"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "For the terrible one is brought to nought, and the scorner is consumed, and all that watch for iniquity are cut off:",
+      "highlightedWords": [
+        {
+          "word": "scorner",
+          "strongNumber": "H3887",
+          "lemma": "lûṣ",
+          "meaning": "Scoffer, mocker"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H205",
+          "lemma": "ʾāwen",
+          "meaning": "Iniquity, trouble, wickedness"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "That make a man an offender for a word, and lay a snare for him that reproveth in the gate, and turn aside the just for a thing of nought.",
+      "highlightedWords": [
+        {
+          "word": "gate",
+          "strongNumber": "H8179",
+          "lemma": "šaʿar",
+          "meaning": "Gate, city gate"
+        },
+        {
+          "word": "just",
+          "strongNumber": "H6662",
+          "lemma": "ṣaddîq",
+          "meaning": "Righteous, just"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Therefore thus saith the LORD, who redeemed Abraham, concerning the house of Jacob, Jacob shall not now be ashamed, neither shall his face now wax pale.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The personal name of Israel’s God"
+        },
+        {
+          "word": "Abraham",
+          "strongNumber": "H85",
+          "lemma": "ʾAḇrāhām",
+          "meaning": "Abraham, father of a multitude"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "But when he seeth his children, the work of mine hands, in the midst of him, they shall sanctify my name, and sanctify the Holy One of Jacob, and shall fear the God of Israel.",
+      "highlightedWords": [
+        {
+          "word": "sanctify",
+          "strongNumber": "H6942",
+          "lemma": "qāḏaš",
+          "meaning": "To set apart as holy, consecrate"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yiśrā’ēl",
+          "meaning": "Israel; he strives with God"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "They also that erred in spirit shall come to understanding, and they that murmured shall learn doctrine.",
+      "highlightedWords": [
+        {
+          "word": "spirit",
+          "strongNumber": "H7307",
+          "lemma": "rûaḥ",
+          "meaning": "Spirit, wind, breath"
+        },
+        {
+          "word": "doctrine",
+          "strongNumber": "H3948",
+          "lemma": "leqaḥ",
+          "meaning": "Instruction, learning, doctrine"
+        }
+      ]
+    }
+  ]
+}

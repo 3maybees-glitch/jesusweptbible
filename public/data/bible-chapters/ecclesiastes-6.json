@@ -1,0 +1,240 @@
+{
+  "book": "Ecclesiastes",
+  "chapter": 6,
+  "chapterTheme": {
+    "twoWordSummary": "Empty Prosperity",
+    "themeWords": [
+      {
+        "word": "vanity",
+        "strongNumber": "H1892",
+        "lemma": "hebel",
+        "meaning": "breath, vapor; futility"
+      },
+      {
+        "word": "man",
+        "strongNumber": "H120",
+        "lemma": "adam",
+        "meaning": "humankind, man"
+      }
+    ]
+  },
+  "sentenceTheme": "Even great wealth and long life cannot satisfy the human soul apart from God’s gift to enjoy, making much of life’s striving mere vanity under the sun.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "There is an evil which I have seen under the sun, and it is common among men:",
+      "highlightedWords": [
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra'",
+          "meaning": "bad, evil, adverse"
+        },
+        {
+          "word": "sun",
+          "strongNumber": "H8121",
+          "lemma": "shemesh",
+          "meaning": "sun"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "A man to whom God hath given riches, wealth, and honour, so that he wanteth nothing for his soul of all that he desireth, yet God giveth him not power to eat thereof, but a stranger eateth it: this is vanity, and it is an evil disease.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God, mighty one"
+        },
+        {
+          "word": "vanity",
+          "strongNumber": "H1892",
+          "lemma": "hebel",
+          "meaning": "breath, vapor; futility"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "If a man beget an hundred children, and live many years, so that the days of his years be many, and his soul be not filled with good, and also that he have no burial; I say, that an untimely birth is better than he.",
+      "highlightedWords": [
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, self; appetite"
+        },
+        {
+          "word": "better",
+          "strongNumber": "H2896",
+          "lemma": "tov",
+          "meaning": "good, better, pleasant"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "For he cometh in with vanity, and departeth in darkness, and his name shall be covered with darkness.",
+      "highlightedWords": [
+        {
+          "word": "vanity",
+          "strongNumber": "H1892",
+          "lemma": "hebel",
+          "meaning": "breath, vapor; futility"
+        },
+        {
+          "word": "darkness",
+          "strongNumber": "H2822",
+          "lemma": "choshek",
+          "meaning": "darkness, obscurity"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Moreover he hath not seen the sun, nor known any thing: this hath more rest than the other.",
+      "highlightedWords": [
+        {
+          "word": "sun",
+          "strongNumber": "H8121",
+          "lemma": "shemesh",
+          "meaning": "sun"
+        },
+        {
+          "word": "known",
+          "strongNumber": "H3045",
+          "lemma": "yada",
+          "meaning": "to know, perceive"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Yea, though he live a thousand years twice told, yet hath he seen no good: do not all go to one place?",
+      "highlightedWords": [
+        {
+          "word": "thousand",
+          "strongNumber": "H505",
+          "lemma": "eleph",
+          "meaning": "thousand"
+        },
+        {
+          "word": "place",
+          "strongNumber": "H4725",
+          "lemma": "maqom",
+          "meaning": "place, location"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "All the labour of man is for his mouth, and yet the appetite is not filled.",
+      "highlightedWords": [
+        {
+          "word": "mouth",
+          "strongNumber": "H6310",
+          "lemma": "peh",
+          "meaning": "mouth, opening"
+        },
+        {
+          "word": "appetite",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life; appetite, desire"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "For what hath the wise more than the fool? what hath the poor, that knoweth to walk before the living?",
+      "highlightedWords": [
+        {
+          "word": "wise",
+          "strongNumber": "H2450",
+          "lemma": "chakam",
+          "meaning": "wise, skillful"
+        },
+        {
+          "word": "fool",
+          "strongNumber": "H3684",
+          "lemma": "kesil",
+          "meaning": "fool, dullard"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Better is the sight of the eyes than the wandering of the desire: this is also vanity and vexation of spirit.",
+      "highlightedWords": [
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "ayin",
+          "meaning": "eye; sight"
+        },
+        {
+          "word": "vanity",
+          "strongNumber": "H1892",
+          "lemma": "hebel",
+          "meaning": "breath, vapor; futility"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "That which hath been is named already, and it is known that it is man: neither may he contend with him that is mightier than he.",
+      "highlightedWords": [
+        {
+          "word": "known",
+          "strongNumber": "H3045",
+          "lemma": "yada",
+          "meaning": "to know, perceive"
+        },
+        {
+          "word": "man",
+          "strongNumber": "H120",
+          "lemma": "adam",
+          "meaning": "humankind, man"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Seeing there be many things that increase vanity, what is man the better?",
+      "highlightedWords": [
+        {
+          "word": "vanity",
+          "strongNumber": "H1892",
+          "lemma": "hebel",
+          "meaning": "breath, vapor; futility"
+        },
+        {
+          "word": "man",
+          "strongNumber": "H120",
+          "lemma": "adam",
+          "meaning": "humankind, man"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "For who knoweth what is good for man in this life, all the days of his vain life which he spendeth as a shadow? for who can tell a man what shall be after him under the sun?",
+      "highlightedWords": [
+        {
+          "word": "shadow",
+          "strongNumber": "H6738",
+          "lemma": "tsel",
+          "meaning": "shadow, shade"
+        },
+        {
+          "word": "sun",
+          "strongNumber": "H8121",
+          "lemma": "shemesh",
+          "meaning": "sun"
+        }
+      ]
+    }
+  ]
+}

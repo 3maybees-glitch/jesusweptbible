@@ -1,0 +1,636 @@
+{
+  "book": "Jeremiah",
+  "chapter": 7,
+  "chapterTheme": {
+    "twoWordSummary": "Temple Sermon",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH",
+        "meaning": "the covenant name of the God of Israel"
+      },
+      {
+        "word": "temple",
+        "strongNumber": "H1964",
+        "lemma": "hekal",
+        "meaning": "palace, temple"
+      }
+    ]
+  },
+  "sentenceTheme": "At the temple gate Jeremiah calls Judah to repent, practice justice, and truly obey the LORD, warning that otherwise judgment will fall as it did on Shiloh.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "The word that came to Jeremiah from the LORD, saying,",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, thing"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of God"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Stand in the gate of the LORD's house, and proclaim there this word, and say, Hear the word of the LORD, all ye of Judah, that enter in at these gates to worship the LORD.",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, dwelling, temple"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of God"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Thus saith the LORD of hosts, the God of Israel, Amend your ways and your doings, and I will cause you to dwell in this place.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of God"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisrael",
+          "meaning": "Israel"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Trust ye not in lying words, saying, The temple of the LORD, The temple of the LORD, The temple of the LORD, are these.",
+      "highlightedWords": [
+        {
+          "word": "temple",
+          "strongNumber": "H1964",
+          "lemma": "hekal",
+          "meaning": "palace, temple"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of God"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "For if ye throughly amend your ways and your doings; if ye throughly execute judgment between a man and his neighbour;",
+      "highlightedWords": [
+        {
+          "word": "ways",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way, road, conduct"
+        },
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "justice, judgment, legal decision"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "If ye oppress not the stranger, the fatherless, and the widow, and shed not innocent blood in this place, neither walk after other gods to your hurt:",
+      "highlightedWords": [
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "blood"
+        },
+        {
+          "word": "gods",
+          "strongNumber": "H430",
+          "lemma": "elohim",
+          "meaning": "gods, God"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Then will I cause you to dwell in this place, in the land that I gave to your fathers, for ever and ever.",
+      "highlightedWords": [
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "land, earth"
+        },
+        {
+          "word": "fathers",
+          "strongNumber": "H1",
+          "lemma": "ab",
+          "meaning": "father, ancestor"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Behold, ye trust in lying words, that cannot profit.",
+      "highlightedWords": [
+        {
+          "word": "trust",
+          "strongNumber": "H982",
+          "lemma": "batach",
+          "meaning": "to trust, be confident"
+        },
+        {
+          "word": "words",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "words, matters"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Will ye steal, murder, and commit adultery, and swear falsely, and burn incense unto Baal, and walk after other gods whom ye know not;",
+      "highlightedWords": [
+        {
+          "word": "Baal",
+          "strongNumber": "H1168",
+          "lemma": "Baʿal",
+          "meaning": "Baal, lord, a Canaanite deity"
+        },
+        {
+          "word": "gods",
+          "strongNumber": "H430",
+          "lemma": "elohim",
+          "meaning": "gods, God"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And come and stand before me in this house, which is called by my name, and say, We are delivered to do all these abominations?",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, dwelling, temple"
+        },
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "name, reputation"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Is this house, which is called by my name, become a den of robbers in your eyes? Behold, even I have seen it, saith the LORD.",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, dwelling, temple"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of God"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "But go ye now unto my place which was in Shiloh, where I set my name at the first, and see what I did to it for the wickedness of my people Israel.",
+      "highlightedWords": [
+        {
+          "word": "Shiloh",
+          "strongNumber": "H7887",
+          "lemma": "Shiyloh",
+          "meaning": "Shiloh, a city in Ephraim"
+        },
+        {
+          "word": "place",
+          "strongNumber": "H4725",
+          "lemma": "maqom",
+          "meaning": "place, location"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And now, because ye have done all these works, saith the LORD, and I spake unto you, rising up early and speaking, but ye heard not; and I called you, but ye answered not;",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of God"
+        },
+        {
+          "word": "heard",
+          "strongNumber": "H8085",
+          "lemma": "shamaʿ",
+          "meaning": "to hear, listen, obey"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Therefore will I do unto this house, which is called by my name, wherein ye trust, and unto the place which I gave to you and to your fathers, as I have done to Shiloh.",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, dwelling, temple"
+        },
+        {
+          "word": "Shiloh",
+          "strongNumber": "H7887",
+          "lemma": "Shiyloh",
+          "meaning": "Shiloh, a city in Ephraim"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And I will cast you out of my sight, as I have cast out all your brethren, even the whole seed of Ephraim.",
+      "highlightedWords": [
+        {
+          "word": "brethren",
+          "strongNumber": "H251",
+          "lemma": "ach",
+          "meaning": "brother, kinsman"
+        },
+        {
+          "word": "Ephraim",
+          "strongNumber": "H669",
+          "lemma": "Ephrayim",
+          "meaning": "Ephraim, a son of Joseph; the northern kingdom"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Therefore pray not thou for this people, neither lift up cry nor prayer for them, neither make intercession to me: for I will not hear thee.",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "ʿam",
+          "meaning": "people, nation"
+        },
+        {
+          "word": "hear",
+          "strongNumber": "H8085",
+          "lemma": "shamaʿ",
+          "meaning": "to hear, listen, obey"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Seest thou not what they do in the cities of Judah and in the streets of Jerusalem?",
+      "highlightedWords": [
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "The children gather wood, and the fathers kindle the fire, and the women knead their dough, to make cakes to the queen of heaven, and to pour out drink offerings unto other gods, that they may provoke me to anger.",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child, descendant"
+        },
+        {
+          "word": "gods",
+          "strongNumber": "H430",
+          "lemma": "elohim",
+          "meaning": "gods, God"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Do they provoke me to anger? saith the LORD: do they not provoke themselves to the confusion of their own faces?",
+      "highlightedWords": [
+        {
+          "word": "anger",
+          "strongNumber": "H639",
+          "lemma": "aph",
+          "meaning": "nose, anger, wrath"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of God"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Therefore thus saith the Lord GOD; Behold, mine anger and my fury shall be poured out upon this place, upon man, and upon beast, and upon the trees of the field, and upon the fruit of the ground; and it shall burn, and shall not be quenched.",
+      "highlightedWords": [
+        {
+          "word": "GOD",
+          "strongNumber": "H3069",
+          "lemma": "Yehovih",
+          "meaning": "Lord GOD (Adonai YHWH)"
+        },
+        {
+          "word": "anger",
+          "strongNumber": "H639",
+          "lemma": "aph",
+          "meaning": "nose, anger, wrath"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Thus saith the LORD of hosts, the God of Israel; Put your burnt offerings unto your sacrifices, and eat flesh.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of God"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisrael",
+          "meaning": "Israel"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "For I spake not unto your fathers, nor commanded them in the day that I brought them out of the land of Egypt, concerning burnt offerings or sacrifices:",
+      "highlightedWords": [
+        {
+          "word": "fathers",
+          "strongNumber": "H1",
+          "lemma": "ab",
+          "meaning": "father, ancestor"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "But this thing commanded I them, saying, Obey my voice, and I will be your God, and ye shall be my people: and walk ye in all the ways that I have commanded you, that it may be well unto you.",
+      "highlightedWords": [
+        {
+          "word": "voice",
+          "strongNumber": "H6963",
+          "lemma": "qol",
+          "meaning": "voice, sound"
+        },
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "ʿam",
+          "meaning": "people, nation"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "But they hearkened not, nor inclined their ear, but walked in the counsels and in the imagination of their evil heart, and went backward, and not forward.",
+      "highlightedWords": [
+        {
+          "word": "hearkened",
+          "strongNumber": "H8085",
+          "lemma": "shamaʿ",
+          "meaning": "to hear, listen, obey"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner being"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Since the day that your fathers came forth out of the land of Egypt unto this day I have even sent unto you all my servants the prophets, daily rising up early and sending them:",
+      "highlightedWords": [
+        {
+          "word": "prophets",
+          "strongNumber": "H5030",
+          "lemma": "nabiʾ",
+          "meaning": "prophet, spokesman"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "Yet they hearkened not unto me, nor inclined their ear, but hardened their neck: they did worse than their fathers.",
+      "highlightedWords": [
+        {
+          "word": "hearkened",
+          "strongNumber": "H8085",
+          "lemma": "shamaʿ",
+          "meaning": "to hear, listen, obey"
+        },
+        {
+          "word": "fathers",
+          "strongNumber": "H1",
+          "lemma": "ab",
+          "meaning": "father, ancestor"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "Therefore thou shalt speak all these words unto them; but they will not hearken to thee: thou shalt also call unto them; but they will not answer thee.",
+      "highlightedWords": [
+        {
+          "word": "words",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "words, matters"
+        },
+        {
+          "word": "hearken",
+          "strongNumber": "H8085",
+          "lemma": "shamaʿ",
+          "meaning": "to hear, listen, obey"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "But thou shalt say unto them, This is a nation that obeyeth not the voice of the LORD their God, nor receiveth correction: truth is perished, and is cut off from their mouth.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of God"
+        },
+        {
+          "word": "truth",
+          "strongNumber": "H571",
+          "lemma": "ʾemeth",
+          "meaning": "firmness, faithfulness, truth"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "Cut off thine hair, O Jerusalem, and cast it away, and take up a lamentation on high places; for the LORD hath rejected and forsaken the generation of his wrath.",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of God"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "For the children of Judah have done evil in my sight, saith the LORD: they have set their abominations in the house which is called by my name, to pollute it.",
+      "highlightedWords": [
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of God"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "And they have built the high places of Tophet, which is in the valley of the son of Hinnom, to burn their sons and their daughters in the fire; which I commanded them not, neither came it into my heart.",
+      "highlightedWords": [
+        {
+          "word": "Tophet",
+          "strongNumber": "H8612",
+          "lemma": "Topheth",
+          "meaning": "Topheth, a place in the valley of Hinnom"
+        },
+        {
+          "word": "Hinnom",
+          "strongNumber": "H2011",
+          "lemma": "Hinnom",
+          "meaning": "Hinnom, a valley south of Jerusalem"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "Therefore, behold, the days come, saith the LORD, that it shall no more be called Tophet, nor the valley of the son of Hinnom, but the valley of slaughter: for they shall bury in Tophet, till there be no place.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of God"
+        },
+        {
+          "word": "Tophet",
+          "strongNumber": "H8612",
+          "lemma": "Topheth",
+          "meaning": "Topheth, a place in the valley of Hinnom"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "And the carcases of this people shall be meat for the fowls of the heaven, and for the beasts of the earth; and none shall fray them away.",
+      "highlightedWords": [
+        {
+          "word": "fowls",
+          "strongNumber": "H5775",
+          "lemma": "ʿoph",
+          "meaning": "bird, fowl, flying creature"
+        },
+        {
+          "word": "beasts",
+          "strongNumber": "H929",
+          "lemma": "behemah",
+          "meaning": "beast, animal, cattle"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "Then will I cause to cease from the cities of Judah, and from the streets of Jerusalem, the voice of mirth, and the voice of gladness, the voice of the bridegroom, and the voice of the bride: for the land shall be desolate.",
+      "highlightedWords": [
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah"
+        },
+        {
+          "word": "voice",
+          "strongNumber": "H6963",
+          "lemma": "qol",
+          "meaning": "voice, sound"
+        }
+      ]
+    }
+  ]
+}

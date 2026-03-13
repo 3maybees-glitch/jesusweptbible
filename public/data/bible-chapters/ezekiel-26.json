@@ -1,0 +1,402 @@
+{
+  "book": "Ezekiel",
+  "chapter": 26,
+  "chapterTheme": {
+    "twoWordSummary": "Tyre Judged",
+    "themeWords": [
+      {
+        "word": "Tyrus",
+        "strongNumber": "H6865",
+        "lemma": "Tsor",
+        "meaning": "Tyre; a fortified Phoenician port city (rock)"
+      },
+      {
+        "word": "Nebuchadrezzar",
+        "strongNumber": "H5019",
+        "lemma": "Nebukadretstsar",
+        "meaning": "Nebuchadrezzar; the king of Babylon"
+      }
+    ]
+  },
+  "sentenceTheme": "God pronounces judgment on Tyrus for its pride, bringing many nations led by Nebuchadrezzar to devastate it and leave it a bare rock, never to be rebuilt.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And it came to pass in the eleventh year, in the first day of the month, that the word of the LORD came unto me, saying,",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, message"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Son of man, because that Tyrus hath said against Jerusalem, Aha, she is broken that was the gates of the people: she is turned unto me: I shall be replenished, now she is laid waste:",
+      "highlightedWords": [
+        {
+          "word": "Tyrus",
+          "strongNumber": "H6865",
+          "lemma": "Tsor",
+          "meaning": "Tyre; a fortified Phoenician port city (rock)"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem, the chief city of Judah/Israel"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Therefore thus saith the Lord GOD; Behold, I am against thee, O Tyrus, and will cause many nations to come up against thee, as the sea causeth his waves to come up.",
+      "highlightedWords": [
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation, people, Gentiles"
+        },
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "sea, large body of water"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And they shall destroy the walls of Tyrus, and break down her towers: I will also scrape her dust from her, and make her like the top of a rock.",
+      "highlightedWords": [
+        {
+          "word": "walls",
+          "strongNumber": "H2346",
+          "lemma": "chomah",
+          "meaning": "wall, city wall, fortification"
+        },
+        {
+          "word": "towers",
+          "strongNumber": "H4026",
+          "lemma": "migdal",
+          "meaning": "tower, elevated structure"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "It shall be a place for the spreading of nets in the midst of the sea: for I have spoken it, saith the Lord GOD: and it shall become a spoil to the nations.",
+      "highlightedWords": [
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "sea, large body of water"
+        },
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation, people, Gentiles"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And her daughters which are in the field shall be slain by the sword; and they shall know that I am the LORD.",
+      "highlightedWords": [
+        {
+          "word": "daughters",
+          "strongNumber": "H1323",
+          "lemma": "bat",
+          "meaning": "daughter, dependent town or village"
+        },
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword; instrument of war or judgment"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "For thus saith the Lord GOD; Behold, I will bring upon Tyrus Nebuchadrezzar king of Babylon, a king of kings, from the north, with horses, and with chariots, and with horsemen, and companies, and much people.",
+      "highlightedWords": [
+        {
+          "word": "Nebuchadrezzar",
+          "strongNumber": "H5019",
+          "lemma": "Nebukadretstsar",
+          "meaning": "Nebuchadrezzar; the king of Babylon"
+        },
+        {
+          "word": "Babylon",
+          "strongNumber": "H894",
+          "lemma": "Babel",
+          "meaning": "Babylon; empire/city on the Euphrates"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "He shall slay with the sword thy daughters in the field: and he shall make a fort against thee, and cast a mount against thee, and lift up the buckler against thee.",
+      "highlightedWords": [
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword; instrument of war or judgment"
+        },
+        {
+          "word": "mount",
+          "strongNumber": "H5550",
+          "lemma": "solelah",
+          "meaning": "siege mound, ramp"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And he shall set engines of war against thy walls, and with his axes he shall break down thy towers.",
+      "highlightedWords": [
+        {
+          "word": "walls",
+          "strongNumber": "H2346",
+          "lemma": "chomah",
+          "meaning": "wall, city wall, fortification"
+        },
+        {
+          "word": "axes",
+          "strongNumber": "H1631",
+          "lemma": "garzen",
+          "meaning": "axe, chopping tool"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "By reason of the abundance of his horses their dust shall cover thee: thy walls shall shake at the noise of the horsemen, and of the wheels, and of the chariots, when he shall enter into thy gates, as men enter into a city wherein is made a breach.",
+      "highlightedWords": [
+        {
+          "word": "horses",
+          "strongNumber": "H5483",
+          "lemma": "sus",
+          "meaning": "horse, warhorse"
+        },
+        {
+          "word": "chariots",
+          "strongNumber": "H7393",
+          "lemma": "rekeb",
+          "meaning": "chariot, war chariot"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "With the hoofs of his horses shall he tread down all thy streets: he shall slay thy people by the sword, and thy strong garrisons shall go down to the ground.",
+      "highlightedWords": [
+        {
+          "word": "streets",
+          "strongNumber": "H7339",
+          "lemma": "rechov",
+          "meaning": "street, broad place"
+        },
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword; instrument of war or judgment"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And they shall make a spoil of thy riches, and make a prey of thy merchandise: and they shall break down thy walls, and destroy thy pleasant houses: and they shall lay thy stones and thy timber and thy dust in the midst of the water.",
+      "highlightedWords": [
+        {
+          "word": "stones",
+          "strongNumber": "H68",
+          "lemma": "eben",
+          "meaning": "stone"
+        },
+        {
+          "word": "water",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "water, waters"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And I will cause the noise of thy songs to cease; and the sound of thy harps shall be no more heard.",
+      "highlightedWords": [
+        {
+          "word": "songs",
+          "strongNumber": "H7892",
+          "lemma": "shir",
+          "meaning": "song"
+        },
+        {
+          "word": "harps",
+          "strongNumber": "H3658",
+          "lemma": "kinnor",
+          "meaning": "harp, lyre"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And I will make thee like the top of a rock: thou shalt be a place to spread nets upon; thou shalt be built no more: for I the LORD have spoken it, saith the Lord GOD.",
+      "highlightedWords": [
+        {
+          "word": "rock",
+          "strongNumber": "H5553",
+          "lemma": "sela",
+          "meaning": "rock, cliff, crag"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Thus saith the Lord GOD to Tyrus; Shall not the isles shake at the sound of thy fall, when the wounded cry, when the slaughter is made in the midst of thee?",
+      "highlightedWords": [
+        {
+          "word": "isles",
+          "strongNumber": "H339",
+          "lemma": "iy",
+          "meaning": "coastlands, islands"
+        },
+        {
+          "word": "Tyrus",
+          "strongNumber": "H6865",
+          "lemma": "Tsor",
+          "meaning": "Tyre; a fortified Phoenician port city (rock)"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Then all the princes of the sea shall come down from their thrones, and lay away their robes, and put off their broidered garments: they shall clothe themselves with trembling; they shall sit upon the ground, and shall tremble at every moment, and be astonished at thee.",
+      "highlightedWords": [
+        {
+          "word": "princes",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "prince, ruler, official"
+        },
+        {
+          "word": "trembling",
+          "strongNumber": "H2731",
+          "lemma": "charadah",
+          "meaning": "trembling, fear"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And they shall take up a lamentation for thee, and say to thee, How art thou destroyed, that wast inhabited of seafaring men, the renowned city, which wast strong in the sea, she and her inhabitants, which cause their terror to be on all that haunt it!",
+      "highlightedWords": [
+        {
+          "word": "lamentation",
+          "strongNumber": "H7015",
+          "lemma": "qinah",
+          "meaning": "dirge, lamentation"
+        },
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "iyr",
+          "meaning": "city, town"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Now shall the isles tremble in the day of thy fall; yea, the isles that are in the sea shall be troubled at thy departure.",
+      "highlightedWords": [
+        {
+          "word": "isles",
+          "strongNumber": "H339",
+          "lemma": "iy",
+          "meaning": "coastlands, islands"
+        },
+        {
+          "word": "sea",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "sea, large body of water"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "For thus saith the Lord GOD; When I shall make thee a desolate city, like the cities that are not inhabited; when I shall bring up the deep upon thee, and great waters shall cover thee;",
+      "highlightedWords": [
+        {
+          "word": "desolate",
+          "strongNumber": "H8077",
+          "lemma": "shemamah",
+          "meaning": "desolation, waste"
+        },
+        {
+          "word": "deep",
+          "strongNumber": "H8415",
+          "lemma": "tehom",
+          "meaning": "deep, abyss"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "When I shall bring thee down with them that descend into the pit, with the people of old time, and shall set thee in the low parts of the earth, in places desolate of old, with them that go down to the pit, that thou be not inhabited; and I shall set glory in the land of the living;",
+      "highlightedWords": [
+        {
+          "word": "pit",
+          "strongNumber": "H953",
+          "lemma": "bor",
+          "meaning": "pit, cistern, dungeon"
+        },
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "land, earth"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "I will make thee a terror, and thou shalt be no more: though thou be sought for, yet shalt thou never be found again, saith the Lord GOD.",
+      "highlightedWords": [
+        {
+          "word": "sought",
+          "strongNumber": "H1245",
+          "lemma": "baqash",
+          "meaning": "to seek, search for"
+        },
+        {
+          "word": "found",
+          "strongNumber": "H4672",
+          "lemma": "matsa",
+          "meaning": "to find, discover"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "book": "Jonah",
+  "chapter": 3,
+  "chapterTheme": {
+    "twoWordSummary": "Nineveh Repents",
+    "themeWords": [
+      {
+        "word": "Nineveh",
+        "strongNumber": "H5210",
+        "lemma": "Nînĕveh",
+        "meaning": "the capital city of ancient Assyria"
+      },
+      {
+        "word": "repent",
+        "strongNumber": "H5162",
+        "lemma": "nāḥam",
+        "meaning": "to relent, be sorry, change one’s course"
+      }
+    ]
+  },
+  "sentenceTheme": "Jonah obeys God’s call, proclaims impending judgment to Nineveh, the people and king repent, and God mercifully relents.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And the word of the LORD came unto Jonah the second time, saying,",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dābār",
+          "meaning": "word, matter, message"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal, covenant name of God"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Arise, go unto Nineveh, that great city, and preach unto it the preaching that I bid thee.",
+      "highlightedWords": [
+        {
+          "word": "Nineveh",
+          "strongNumber": "H5210",
+          "lemma": "Nînĕveh",
+          "meaning": "the capital city of ancient Assyria"
+        },
+        {
+          "word": "preach",
+          "strongNumber": "H7121",
+          "lemma": "qārāʾ",
+          "meaning": "to call out, proclaim, summon"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "So Jonah arose, and went unto Nineveh, according to the word of the LORD. Now Nineveh was an exceeding great city of three days' journey.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal, covenant name of God"
+        },
+        {
+          "word": "Nineveh",
+          "strongNumber": "H5210",
+          "lemma": "Nînĕveh",
+          "meaning": "the capital city of ancient Assyria"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And Jonah began to enter into the city a day's journey, and he cried, and said, Yet forty days, and Nineveh shall be overthrown.",
+      "highlightedWords": [
+        {
+          "word": "forty",
+          "strongNumber": "H705",
+          "lemma": "’arbaʿîm",
+          "meaning": "the number forty"
+        },
+        {
+          "word": "overthrown",
+          "strongNumber": "H2015",
+          "lemma": "hāphak",
+          "meaning": "to overturn, overthrow, transform"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "So the people of Nineveh believed God, and proclaimed a fast, and put on sackcloth, from the greatest of them even to the least of them.",
+      "highlightedWords": [
+        {
+          "word": "believed",
+          "strongNumber": "H539",
+          "lemma": "’āman",
+          "meaning": "to trust, have faith in, be firmly established"
+        },
+        {
+          "word": "sackcloth",
+          "strongNumber": "H8242",
+          "lemma": "śaq",
+          "meaning": "coarse cloth worn in mourning or penitence"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "For word came unto the king of Nineveh, and he arose from his throne, and he laid his robe from him, and covered him with sackcloth, and sat in ashes.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melekh",
+          "meaning": "king, ruler"
+        },
+        {
+          "word": "ashes",
+          "strongNumber": "H665",
+          "lemma": "’epher",
+          "meaning": "ashes, dust—symbol of mourning or humility"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And he caused it to be proclaimed and published through Nineveh by the decree of the king and his nobles, saying, Let neither man nor beast, herd nor flock, taste any thing: let them not feed, nor drink water:",
+      "highlightedWords": [
+        {
+          "word": "beast",
+          "strongNumber": "H929",
+          "lemma": "behēmāh",
+          "meaning": "beast, animal, cattle"
+        },
+        {
+          "word": "drink",
+          "strongNumber": "H8354",
+          "lemma": "shāthāh",
+          "meaning": "to drink"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "But let man and beast be covered with sackcloth, and cry mightily unto God: yea, let them turn every one from his evil way, and from the violence that is in their hands.",
+      "highlightedWords": [
+        {
+          "word": "turn",
+          "strongNumber": "H7725",
+          "lemma": "shûb",
+          "meaning": "to turn back, return, repent"
+        },
+        {
+          "word": "violence",
+          "strongNumber": "H2555",
+          "lemma": "ḥāmās",
+          "meaning": "violence, wrong, cruelty"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Who can tell if God will turn and repent, and turn away from his fierce anger, that we perish not?",
+      "highlightedWords": [
+        {
+          "word": "repent",
+          "strongNumber": "H5162",
+          "lemma": "nāḥam",
+          "meaning": "to relent, be sorry, change one’s mind"
+        },
+        {
+          "word": "anger",
+          "strongNumber": "H639",
+          "lemma": "’aph",
+          "meaning": "nostril; figuratively anger, wrath"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And God saw their works, that they turned from their evil way; and God repented of the evil, that he had said that he would do unto them; and he did it not.",
+      "highlightedWords": [
+        {
+          "word": "repented",
+          "strongNumber": "H5162",
+          "lemma": "nāḥam",
+          "meaning": "to relent, be sorry, change one’s course"
+        },
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "raʿ",
+          "meaning": "evil, calamity, disaster; moral badness"
+        }
+      ]
+    }
+  ]
+}

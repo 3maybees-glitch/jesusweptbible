@@ -1,0 +1,510 @@
+{
+  "book": "Amos",
+  "chapter": 5,
+  "chapterTheme": {
+    "twoWordSummary": "Seek Righteousness",
+    "themeWords": [
+      {
+        "word": "seek",
+        "strongNumber": "H1875",
+        "lemma": "dārash",
+        "meaning": "to inquire, search for, or worship diligently"
+      },
+      {
+        "word": "righteousness",
+        "strongNumber": "H6666",
+        "lemma": "tsĕdāqāh",
+        "meaning": "righteousness, justice, rightness"
+      }
+    ]
+  },
+  "sentenceTheme": "Amos calls Israel to seek the LORD and practice justice, warning that empty ritual without righteousness will bring divine judgment.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Hear ye this word which I take up against you, even a lamentation, O house of Israel.",
+      "highlightedWords": [
+        {
+          "word": "lamentation",
+          "strongNumber": "H7015",
+          "lemma": "qināh",
+          "meaning": "a dirge, song of mourning"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yiśrā’ēl",
+          "meaning": "God strives; the nation of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "The virgin of Israel is fallen; she shall no more rise: she is forsaken upon her land; there is none to raise her up.",
+      "highlightedWords": [
+        {
+          "word": "virgin",
+          "strongNumber": "H1330",
+          "lemma": "bĕtûlāh",
+          "meaning": "a maiden, virgin"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yiśrā’ēl",
+          "meaning": "God strives; the nation of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "For thus saith the Lord GOD; The city that went out by a thousand shall leave an hundred, and that which went forth by an hundred shall leave ten, to the house of Israel.",
+      "highlightedWords": [
+        {
+          "word": "GOD",
+          "strongNumber": "H3069",
+          "lemma": "Yĕhovih",
+          "meaning": "Jehovih; the divine name used with Adonai"
+        },
+        {
+          "word": "thousand",
+          "strongNumber": "H505",
+          "lemma": "’eleph",
+          "meaning": "a thousand; a large number"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "For thus saith the LORD unto the house of Israel, Seek ye me, and ye shall live:",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "Seek",
+          "strongNumber": "H1875",
+          "lemma": "dārash",
+          "meaning": "to inquire of, seek diligently"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "But seek not Bethel, nor enter into Gilgal, and pass not to Beersheba: for Gilgal shall surely go into captivity, and Bethel shall come to nought.",
+      "highlightedWords": [
+        {
+          "word": "Bethel",
+          "strongNumber": "H1008",
+          "lemma": "Bêyth-’Ēl",
+          "meaning": "Bethel, ‘house of God’"
+        },
+        {
+          "word": "Gilgal",
+          "strongNumber": "H1537",
+          "lemma": "Gilgāl",
+          "meaning": "Gilgal, a place in Israel"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Seek the LORD, and ye shall live; lest he break out like fire in the house of Joseph, and devour it, and there be none to quench it in Bethel.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "Joseph",
+          "strongNumber": "H3130",
+          "lemma": "Yôsêph",
+          "meaning": "Joseph; by extension, the northern tribes"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Ye who turn judgment to wormwood, and leave off righteousness in the earth,",
+      "highlightedWords": [
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mishpāṭ",
+          "meaning": "justice, legal decision, right"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "tsĕdāqāh",
+          "meaning": "righteousness, justice"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Seek him that maketh the seven stars and Orion, and turneth the shadow of death into the morning, and maketh the day dark with night: that calleth for the waters of the sea, and poureth them out upon the face of the earth: The LORD is his name:",
+      "highlightedWords": [
+        {
+          "word": "Orion",
+          "strongNumber": "H3685",
+          "lemma": "kĕsîyl",
+          "meaning": "Orion; a prominent constellation"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "That strengtheneth the spoiled against the strong, so that the spoiled shall come against the fortress.",
+      "highlightedWords": [
+        {
+          "word": "strong",
+          "strongNumber": "H2389",
+          "lemma": "chāzāq",
+          "meaning": "strong, mighty"
+        },
+        {
+          "word": "fortress",
+          "strongNumber": "H4013",
+          "lemma": "mibtsār",
+          "meaning": "fortress, stronghold"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "They hate him that rebuketh in the gate, and they abhor him that speaketh uprightly.",
+      "highlightedWords": [
+        {
+          "word": "rebuketh",
+          "strongNumber": "H3198",
+          "lemma": "yākach",
+          "meaning": "to reprove, correct, plead a cause"
+        },
+        {
+          "word": "gate",
+          "strongNumber": "H8179",
+          "lemma": "sha‘ar",
+          "meaning": "gate; place of justice and commerce"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Forasmuch therefore as your treading is upon the poor, and ye take from him burdens of wheat: ye have built houses of hewn stone, but ye shall not dwell in them; ye have planted pleasant vineyards, but ye shall not drink wine of them.",
+      "highlightedWords": [
+        {
+          "word": "poor",
+          "strongNumber": "H6041",
+          "lemma": "‘ānî",
+          "meaning": "poor, afflicted, humble"
+        },
+        {
+          "word": "vineyards",
+          "strongNumber": "H3754",
+          "lemma": "kerem",
+          "meaning": "vineyard"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "For I know your manifold transgressions and your mighty sins: they afflict the just, they take a bribe, and they turn aside the poor in the gate from their right.",
+      "highlightedWords": [
+        {
+          "word": "transgressions",
+          "strongNumber": "H6588",
+          "lemma": "pesha‘",
+          "meaning": "transgression, rebellion"
+        },
+        {
+          "word": "bribe",
+          "strongNumber": "H3724",
+          "lemma": "kōpher",
+          "meaning": "ransom, bribe, price of a life"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Therefore the prudent shall keep silence in that time; for it is an evil time.",
+      "highlightedWords": [
+        {
+          "word": "prudent",
+          "strongNumber": "H7919",
+          "lemma": "sākal",
+          "meaning": "to be prudent, act wisely"
+        },
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra‘",
+          "meaning": "evil, bad, distress"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Seek good, and not evil, that ye may live: and so the LORD, the God of hosts, shall be with you, as ye have spoken.",
+      "highlightedWords": [
+        {
+          "word": "Seek",
+          "strongNumber": "H1875",
+          "lemma": "dārash",
+          "meaning": "to inquire of, seek diligently"
+        },
+        {
+          "word": "hosts",
+          "strongNumber": "H6635",
+          "lemma": "tsābā’",
+          "meaning": "armies, hosts"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Hate the evil, and love the good, and establish judgment in the gate: it may be that the LORD God of hosts will be gracious unto the remnant of Joseph.",
+      "highlightedWords": [
+        {
+          "word": "remnant",
+          "strongNumber": "H7611",
+          "lemma": "she’ērith",
+          "meaning": "a remainder, residue, surviving group"
+        },
+        {
+          "word": "Joseph",
+          "strongNumber": "H3130",
+          "lemma": "Yôsêph",
+          "meaning": "Joseph; by extension, the northern tribes"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Therefore the LORD, the God of hosts, the Lord, saith thus; Wailing shall be in all streets; and they shall say in all the highways, Alas! alas! and they shall call the husbandman to mourning, and such as are skilful of lamentation to wailing.",
+      "highlightedWords": [
+        {
+          "word": "Wailing",
+          "strongNumber": "H4553",
+          "lemma": "misped",
+          "meaning": "wailing, mourning, lamentation"
+        },
+        {
+          "word": "streets",
+          "strongNumber": "H7339",
+          "lemma": "rechōb",
+          "meaning": "broad place, street"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And in all vineyards shall be wailing: for I will pass through thee, saith the LORD.",
+      "highlightedWords": [
+        {
+          "word": "vineyards",
+          "strongNumber": "H3754",
+          "lemma": "kerem",
+          "meaning": "vineyard"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Woe unto you that desire the day of the LORD! to what end is it for you? the day of the LORD is darkness, and not light.",
+      "highlightedWords": [
+        {
+          "word": "day",
+          "strongNumber": "H3117",
+          "lemma": "yôm",
+          "meaning": "day, time, occasion"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "As if a man did flee from a lion, and a bear met him; or went into the house, and leaned his hand on the wall, and a serpent bit him.",
+      "highlightedWords": [
+        {
+          "word": "lion",
+          "strongNumber": "H738",
+          "lemma": "’aryēh",
+          "meaning": "lion"
+        },
+        {
+          "word": "serpent",
+          "strongNumber": "H5175",
+          "lemma": "nāchāsh",
+          "meaning": "serpent, snake"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Shall not the day of the LORD be darkness, and not light? even very dark, and no brightness in it?",
+      "highlightedWords": [
+        {
+          "word": "day",
+          "strongNumber": "H3117",
+          "lemma": "yôm",
+          "meaning": "day, time, occasion"
+        },
+        {
+          "word": "darkness",
+          "strongNumber": "H2822",
+          "lemma": "chōshek",
+          "meaning": "darkness, obscurity"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "I hate, I despise your feast days, and I will not smell in your solemn assemblies.",
+      "highlightedWords": [
+        {
+          "word": "feast",
+          "strongNumber": "H2282",
+          "lemma": "chag",
+          "meaning": "festival, feast"
+        },
+        {
+          "word": "assemblies",
+          "strongNumber": "H6116",
+          "lemma": "‘atsārāh",
+          "meaning": "solemn assembly, sacred gathering"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Though ye offer me burnt offerings and your meat offerings, I will not accept them: neither will I regard the peace offerings of your fat beasts.",
+      "highlightedWords": [
+        {
+          "word": "offer",
+          "strongNumber": "H5066",
+          "lemma": "nāgash",
+          "meaning": "to draw near, present, offer"
+        },
+        {
+          "word": "accept",
+          "strongNumber": "H7521",
+          "lemma": "rātsāh",
+          "meaning": "to be pleased with, accept, delight in"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Take thou away from me the noise of thy songs; for I will not hear the melody of thy viols.",
+      "highlightedWords": [
+        {
+          "word": "songs",
+          "strongNumber": "H7892",
+          "lemma": "shîr",
+          "meaning": "song"
+        },
+        {
+          "word": "viols",
+          "strongNumber": "H5035",
+          "lemma": "nevel",
+          "meaning": "stringed instrument, viol/harp"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "But let judgment run down as waters, and righteousness as a mighty stream.",
+      "highlightedWords": [
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mishpāṭ",
+          "meaning": "justice, legal decision, right"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "tsĕdāqāh",
+          "meaning": "righteousness, justice"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Have ye offered unto me sacrifices and offerings in the wilderness forty years, O house of Israel?",
+      "highlightedWords": [
+        {
+          "word": "sacrifices",
+          "strongNumber": "H2077",
+          "lemma": "zebach",
+          "meaning": "sacrifice, offering"
+        },
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbār",
+          "meaning": "wilderness, desert"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "But ye have borne the tabernacle of your Moloch and Chiun your images, the star of your god, which ye made to yourselves.",
+      "highlightedWords": [
+        {
+          "word": "Moloch",
+          "strongNumber": "H4432",
+          "lemma": "Molek",
+          "meaning": "a pagan deity associated with child sacrifice"
+        },
+        {
+          "word": "Chiun",
+          "strongNumber": "H3594",
+          "lemma": "Kiyyûn",
+          "meaning": "a astral deity, possibly Saturn"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "Therefore will I cause you to go into captivity beyond Damascus, saith the LORD, whose name is The God of hosts.",
+      "highlightedWords": [
+        {
+          "word": "Damascus",
+          "strongNumber": "H1834",
+          "lemma": "Dammeseq",
+          "meaning": "Damascus, capital of Aram"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    }
+  ]
+}

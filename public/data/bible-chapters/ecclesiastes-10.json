@@ -1,0 +1,384 @@
+{
+  "book": "Ecclesiastes",
+  "chapter": 10,
+  "chapterTheme": {
+    "twoWordSummary": "Wisdom Folly",
+    "themeWords": [
+      {
+        "word": "wisdom",
+        "strongNumber": "H2451",
+        "lemma": "chokmah",
+        "meaning": "wisdom, skill"
+      },
+      {
+        "word": "folly",
+        "strongNumber": "H5531",
+        "lemma": "sikluth",
+        "meaning": "foolishness, folly"
+      }
+    ]
+  },
+  "sentenceTheme": "Contrasts between wisdom and folly show how small errors can cause great harm, while prudence preserves life and order.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Dead flies cause the ointment of the apothecary to send forth a stinking savour: so doth a little folly him that is in reputation for wisdom and honour.",
+      "highlightedWords": [
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "wisdom, skill"
+        },
+        {
+          "word": "honour",
+          "strongNumber": "H3519",
+          "lemma": "kabod",
+          "meaning": "glory, honor"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "A wise man's heart is at his right hand; but a fool's heart at his left.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner person"
+        },
+        {
+          "word": "right",
+          "strongNumber": "H3225",
+          "lemma": "yamin",
+          "meaning": "right hand, right side"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Yea also, when he that is a fool walketh by the way, his wisdom faileth him, and he saith to every one that he is a fool.",
+      "highlightedWords": [
+        {
+          "word": "way",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way, road, path"
+        },
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "wisdom, skill"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "If the spirit of the ruler rise up against thee, leave not thy place; for yielding pacifieth great offences.",
+      "highlightedWords": [
+        {
+          "word": "spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "spirit, wind, breath"
+        },
+        {
+          "word": "ruler",
+          "strongNumber": "H4910",
+          "lemma": "moshel",
+          "meaning": "ruler, one who governs"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "There is an evil which I have seen under the sun, as an error which proceedeth from the ruler:",
+      "highlightedWords": [
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "raʿ",
+          "meaning": "evil, bad, calamity"
+        },
+        {
+          "word": "sun",
+          "strongNumber": "H8121",
+          "lemma": "shemesh",
+          "meaning": "sun"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Folly is set in great dignity, and the rich sit in low place.",
+      "highlightedWords": [
+        {
+          "word": "rich",
+          "strongNumber": "H6223",
+          "lemma": "ashir",
+          "meaning": "rich, wealthy person"
+        },
+        {
+          "word": "place",
+          "strongNumber": "H4725",
+          "lemma": "maqom",
+          "meaning": "place, location"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "I have seen servants upon horses, and princes walking as servants upon the earth.",
+      "highlightedWords": [
+        {
+          "word": "servants",
+          "strongNumber": "H5650",
+          "lemma": "ebed",
+          "meaning": "servant, slave"
+        },
+        {
+          "word": "princes",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "prince, ruler, official"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "He that diggeth a pit shall fall into it; and whoso breaketh an hedge, a serpent shall bite him.",
+      "highlightedWords": [
+        {
+          "word": "hedge",
+          "strongNumber": "H1448",
+          "lemma": "gader",
+          "meaning": "wall, fence, hedge"
+        },
+        {
+          "word": "serpent",
+          "strongNumber": "H5175",
+          "lemma": "nachash",
+          "meaning": "serpent, snake"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Whoso removeth stones shall be hurt therewith; and he that cleaveth wood shall be endangered thereby.",
+      "highlightedWords": [
+        {
+          "word": "stones",
+          "strongNumber": "H68",
+          "lemma": "eben",
+          "meaning": "stone"
+        },
+        {
+          "word": "wood",
+          "strongNumber": "H6086",
+          "lemma": "ets",
+          "meaning": "wood, tree"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "If the iron be blunt, and he do not whet the edge, then must he put to more strength: but wisdom is profitable to direct.",
+      "highlightedWords": [
+        {
+          "word": "iron",
+          "strongNumber": "H1270",
+          "lemma": "barzel",
+          "meaning": "iron"
+        },
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "wisdom, skill"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Surely the serpent will bite without enchantment; and a babbler is no better.",
+      "highlightedWords": [
+        {
+          "word": "serpent",
+          "strongNumber": "H5175",
+          "lemma": "nachash",
+          "meaning": "serpent, snake"
+        },
+        {
+          "word": "enchantment",
+          "strongNumber": "H3907",
+          "lemma": "lachash",
+          "meaning": "whispering, enchantment, charming"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "The words of a wise man's mouth are gracious; but the lips of a fool will swallow up himself.",
+      "highlightedWords": [
+        {
+          "word": "words",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, thing"
+        },
+        {
+          "word": "lips",
+          "strongNumber": "H8193",
+          "lemma": "saphah",
+          "meaning": "lip, speech, language"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "The beginning of the words of his mouth is foolishness: and the end of his talk is mischievous madness.",
+      "highlightedWords": [
+        {
+          "word": "beginning",
+          "strongNumber": "H7225",
+          "lemma": "reshith",
+          "meaning": "beginning, first, chief"
+        },
+        {
+          "word": "madness",
+          "strongNumber": "H1947",
+          "lemma": "holeloth",
+          "meaning": "madness, delusion, folly"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "A fool also is full of words: a man cannot tell what shall be; and what shall be after him, who can tell him?",
+      "highlightedWords": [
+        {
+          "word": "fool",
+          "strongNumber": "H3684",
+          "lemma": "kesil",
+          "meaning": "fool, dullard"
+        },
+        {
+          "word": "words",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, thing"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "The labour of the foolish wearieth every one of them, because he knoweth not how to go to the city.",
+      "highlightedWords": [
+        {
+          "word": "labour",
+          "strongNumber": "H5999",
+          "lemma": "amal",
+          "meaning": "toil, labor, trouble"
+        },
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "ir",
+          "meaning": "city, town"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Woe to thee, O land, when thy king is a child, and thy princes eat in the morning!",
+      "highlightedWords": [
+        {
+          "word": "Woe",
+          "strongNumber": "H188",
+          "lemma": "oy",
+          "meaning": "woe, alas"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Blessed art thou, O land, when thy king is the son of nobles, and thy princes eat in due season, for strength, and not for drunkenness!",
+      "highlightedWords": [
+        {
+          "word": "Blessed",
+          "strongNumber": "H835",
+          "lemma": "esher",
+          "meaning": "happiness, blessedness"
+        },
+        {
+          "word": "princes",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "prince, ruler, official"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "By much slothfulness the building decayeth; and through idleness of the hands the house droppeth through.",
+      "highlightedWords": [
+        {
+          "word": "slothfulness",
+          "strongNumber": "H6103",
+          "lemma": "atsluth",
+          "meaning": "slothfulness, laziness"
+        },
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, household"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "A feast is made for laughter, and wine maketh merry: but money answereth all things.",
+      "highlightedWords": [
+        {
+          "word": "wine",
+          "strongNumber": "H3196",
+          "lemma": "yayin",
+          "meaning": "wine"
+        },
+        {
+          "word": "money",
+          "strongNumber": "H3701",
+          "lemma": "keseph",
+          "meaning": "silver, money"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Curse not the king, no not in thy thought; and curse not the rich in thy bedchamber: for a bird of the air shall carry the voice, and that which hath wings shall tell the matter.",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king"
+        },
+        {
+          "word": "bird",
+          "strongNumber": "H5775",
+          "lemma": "owph",
+          "meaning": "bird, fowl"
+        }
+      ]
+    }
+  ]
+}

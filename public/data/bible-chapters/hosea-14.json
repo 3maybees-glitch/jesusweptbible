@@ -1,0 +1,186 @@
+{
+  "book": "Hosea",
+  "chapter": 14,
+  "chapterTheme": {
+    "twoWordSummary": "Repentance Restoration",
+    "themeWords": [
+      {
+        "word": "return",
+        "strongNumber": "H7725",
+        "lemma": "shuv",
+        "meaning": "to turn back; return"
+      },
+      {
+        "word": "heal",
+        "strongNumber": "H7495",
+        "lemma": "rapha",
+        "meaning": "to heal; make whole"
+      }
+    ]
+  },
+  "sentenceTheme": "Israel is called to return to the LORD, who promises healing, renewal, and righteous paths for the wise.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "O Israel, return unto the LORD thy God; for thou hast fallen by thine iniquity.",
+      "highlightedWords": [
+        {
+          "word": "return",
+          "strongNumber": "H7725",
+          "lemma": "shuv",
+          "meaning": "to turn back; return"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "avon",
+          "meaning": "iniquity; guilt; punishment of iniquity"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Take with you words, and turn to the LORD: say unto him, Take away all iniquity, and receive us graciously: so will we render the calves of our lips.",
+      "highlightedWords": [
+        {
+          "word": "turn",
+          "strongNumber": "H7725",
+          "lemma": "shuv",
+          "meaning": "to turn back; return"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "avon",
+          "meaning": "iniquity; guilt; punishment of iniquity"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Asshur shall not save us; we will not ride upon horses: neither will we say any more to the work of our hands, Ye are our gods: for in thee the fatherless findeth mercy.",
+      "highlightedWords": [
+        {
+          "word": "Asshur",
+          "strongNumber": "H804",
+          "lemma": "Ashshur",
+          "meaning": "Assyria; Asshur"
+        },
+        {
+          "word": "gods",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "gods; deities"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "I will heal their backsliding, I will love them freely: for mine anger is turned away from him.",
+      "highlightedWords": [
+        {
+          "word": "heal",
+          "strongNumber": "H7495",
+          "lemma": "rapha",
+          "meaning": "to heal; make whole"
+        },
+        {
+          "word": "backsliding",
+          "strongNumber": "H4878",
+          "lemma": "meshubah",
+          "meaning": "turning away; backsliding; apostasy"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "I will be as the dew unto Israel: he shall grow as the lily, and cast forth his roots as Lebanon.",
+      "highlightedWords": [
+        {
+          "word": "dew",
+          "strongNumber": "H2919",
+          "lemma": "tal",
+          "meaning": "dew"
+        },
+        {
+          "word": "lily",
+          "strongNumber": "H7799",
+          "lemma": "shoshan",
+          "meaning": "lily"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "His branches shall spread, and his beauty shall be as the olive tree, and his smell as Lebanon.",
+      "highlightedWords": [
+        {
+          "word": "olive",
+          "strongNumber": "H2132",
+          "lemma": "zayith",
+          "meaning": "olive; olive tree"
+        },
+        {
+          "word": "Lebanon",
+          "strongNumber": "H3844",
+          "lemma": "Levanon",
+          "meaning": "Lebanon"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "They that dwell under his shadow shall return; they shall revive as the corn, and grow as the vine: the scent thereof shall be as the wine of Lebanon.",
+      "highlightedWords": [
+        {
+          "word": "revive",
+          "strongNumber": "H2421",
+          "lemma": "chayah",
+          "meaning": "to live; revive; restore to life"
+        },
+        {
+          "word": "vine",
+          "strongNumber": "H1612",
+          "lemma": "gephen",
+          "meaning": "vine"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Ephraim shall say, What have I to do any more with idols? I have heard him, and observed him: I am like a green fir tree. From me is thy fruit found.",
+      "highlightedWords": [
+        {
+          "word": "idols",
+          "strongNumber": "H6091",
+          "lemma": "atsab",
+          "meaning": "idol; carved image"
+        },
+        {
+          "word": "fruit",
+          "strongNumber": "H6529",
+          "lemma": "peri",
+          "meaning": "fruit; produce"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Who is wise, and he shall understand these things? prudent, and he shall know them? for the ways of the LORD are right, and the just shall walk in them: but the transgressors shall fall therein.",
+      "highlightedWords": [
+        {
+          "word": "ways",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way; road; path"
+        },
+        {
+          "word": "just",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous; just person"
+        }
+      ]
+    }
+  ]
+}

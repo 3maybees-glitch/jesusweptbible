@@ -1,0 +1,114 @@
+{
+  "book": "Jeremiah",
+  "chapter": 45,
+  "chapterTheme": {
+    "twoWordSummary": "Baruch Comforted",
+    "themeWords": [
+      {
+        "word": "Baruch",
+        "strongNumber": "H1263",
+        "lemma": "Baruwk",
+        "meaning": "blessed"
+      },
+      {
+        "word": "life",
+        "strongNumber": "H5315",
+        "lemma": "nephesh",
+        "meaning": "soul; life; self"
+      }
+    ]
+  },
+  "sentenceTheme": "God addresses Baruch’s lament, warning of coming judgment yet promising to preserve his life as a prize.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "The word that Jeremiah the prophet spake unto Baruch the son of Neriah, when he had written these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah king of Judah, saying,",
+      "highlightedWords": [
+        {
+          "word": "Jeremiah",
+          "strongNumber": "H3414",
+          "lemma": "Yirmeyahu",
+          "meaning": "Yahweh will exalt/appoint"
+        },
+        {
+          "word": "Baruch",
+          "strongNumber": "H1263",
+          "lemma": "Baruwk",
+          "meaning": "blessed"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Thus saith the LORD, the God of Israel, unto thee, O Baruch;",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "God contends; he struggles with God"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Thou didst say, Woe is me now! for the LORD hath added grief to my sorrow; I fainted in my sighing, and I find no rest.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "sighing",
+          "strongNumber": "H0585",
+          "lemma": "’anachah",
+          "meaning": "groaning; sighing"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Thus shalt thou say unto him, The LORD saith thus; Behold, that which I have built will I break down, and that which I have planted I will pluck up, even this whole land.",
+      "highlightedWords": [
+        {
+          "word": "built",
+          "strongNumber": "H1129",
+          "lemma": "banah",
+          "meaning": "to build; to establish"
+        },
+        {
+          "word": "planted",
+          "strongNumber": "H5193",
+          "lemma": "nata'",
+          "meaning": "to plant; to establish"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And seekest thou great things for thyself? seek them not: for, behold, I will bring evil upon all flesh, saith the LORD: but thy life will I give unto thee for a prey in all places whither thou goest.",
+      "highlightedWords": [
+        {
+          "word": "life",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul; life; self"
+        },
+        {
+          "word": "prey",
+          "strongNumber": "H0957",
+          "lemma": "baz",
+          "meaning": "plunder; spoil; prey"
+        }
+      ]
+    }
+  ]
+}

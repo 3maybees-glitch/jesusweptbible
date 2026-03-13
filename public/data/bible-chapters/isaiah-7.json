@@ -1,0 +1,474 @@
+{
+  "book": "Isaiah",
+  "chapter": 7,
+  "chapterTheme": {
+    "twoWordSummary": "Immanuel Sign",
+    "themeWords": [
+      {
+        "word": "Immanuel",
+        "strongNumber": "H6005",
+        "lemma": "Immanu'el",
+        "meaning": "God is with us"
+      },
+      {
+        "word": "Assyria",
+        "strongNumber": "H804",
+        "lemma": "Ashshur",
+        "meaning": "Assyria; the Assyrian empire and people"
+      }
+    ]
+  },
+  "sentenceTheme": "The LORD offers the house of David a sign—Immanuel—assuring deliverance while foretelling judgment through Assyria.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And it came to pass in the days of Ahaz the son of Jotham, the son of Uzziah, king of Judah, that Rezin the king of Syria, and Pekah the son of Remaliah, king of Israel, went up toward Jerusalem to war against it, but could not prevail against it.",
+      "highlightedWords": [
+        {
+          "word": "Ahaz",
+          "strongNumber": "H271",
+          "lemma": "Achaz",
+          "meaning": "He has grasped; a king of Judah"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem; the chief city of Israel/Judah"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And it was told the house of David, saying, Syria is confederate with Ephraim. And his heart was moved, and the heart of his people, as the trees of the wood are moved with the wind.",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "David",
+          "meaning": "Beloved; second king of Israel; ancestor of Messiah"
+        },
+        {
+          "word": "Ephraim",
+          "strongNumber": "H669",
+          "lemma": "Ephrayim",
+          "meaning": "Ephraim; a leading tribe representing the northern kingdom"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Then said the LORD unto Isaiah, Go forth now to meet Ahaz, thou, and Shearjashub thy son, at the end of the conduit of the upper pool in the highway of the fuller's field;",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "The personal name of the God of Israel (Yahweh)"
+        },
+        {
+          "word": "Isaiah",
+          "strongNumber": "H3470",
+          "lemma": "Yeshayahu",
+          "meaning": "Yahweh is salvation; the prophet"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And say unto him, Take heed, and be quiet; fear not, neither be fainthearted for the two tails of these smoking firebrands, for the fierce anger of Rezin with Syria, and of the son of Remaliah.",
+      "highlightedWords": [
+        {
+          "word": "Rezin",
+          "strongNumber": "H7526",
+          "lemma": "Retzin",
+          "meaning": "Rezin; king of Aram (Syria)"
+        },
+        {
+          "word": "Syria",
+          "strongNumber": "H758",
+          "lemma": "Aram",
+          "meaning": "Aram; the region of Syria"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Because Syria, Ephraim, and the son of Remaliah, have taken evil counsel against thee, saying,",
+      "highlightedWords": [
+        {
+          "word": "Syria",
+          "strongNumber": "H758",
+          "lemma": "Aram",
+          "meaning": "Aram; the region of Syria"
+        },
+        {
+          "word": "Ephraim",
+          "strongNumber": "H669",
+          "lemma": "Ephrayim",
+          "meaning": "Ephraim; a leading tribe representing the northern kingdom"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Let us go up against Judah, and vex it, and let us make a breach therein for us, and set a king in the midst of it, even the son of Tabeal:",
+      "highlightedWords": [
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah; the southern kingdom/tribe"
+        },
+        {
+          "word": "Tabeal",
+          "strongNumber": "H2870",
+          "lemma": "Tabe'el",
+          "meaning": "Tabeel/Tabeal; a man whose son was proposed as puppet king"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Thus saith the Lord GOD, It shall not stand, neither shall it come to pass.",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "H136",
+          "lemma": "Adonai",
+          "meaning": "Lord; master; a title of God"
+        },
+        {
+          "word": "GOD",
+          "strongNumber": "H3069",
+          "lemma": "Yehovih",
+          "meaning": "The divine name when paired with Adonai (rendered GOD)"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "For the head of Syria is Damascus, and the head of Damascus is Rezin; and within threescore and five years shall Ephraim be broken, that it be not a people.",
+      "highlightedWords": [
+        {
+          "word": "Damascus",
+          "strongNumber": "H1834",
+          "lemma": "Dammesek",
+          "meaning": "Damascus; capital of Aram (Syria)"
+        },
+        {
+          "word": "Ephraim",
+          "strongNumber": "H669",
+          "lemma": "Ephrayim",
+          "meaning": "Ephraim; a leading tribe representing the northern kingdom"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And the head of Ephraim is Samaria, and the head of Samaria is Remaliah's son. If ye will not believe, surely ye shall not be established.",
+      "highlightedWords": [
+        {
+          "word": "Samaria",
+          "strongNumber": "H8111",
+          "lemma": "Shomron",
+          "meaning": "Samaria; capital of the northern kingdom"
+        },
+        {
+          "word": "Ephraim",
+          "strongNumber": "H669",
+          "lemma": "Ephrayim",
+          "meaning": "Ephraim; a leading tribe representing the northern kingdom"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Moreover the LORD spake again unto Ahaz, saying,",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "The personal name of the God of Israel (Yahweh)"
+        },
+        {
+          "word": "Ahaz",
+          "strongNumber": "H271",
+          "lemma": "Achaz",
+          "meaning": "He has grasped; a king of Judah"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Ask thee a sign of the LORD thy God; ask it either in the depth, or in the height above.",
+      "highlightedWords": [
+        {
+          "word": "sign",
+          "strongNumber": "H226",
+          "lemma": "’ot",
+          "meaning": "sign; token; miracle"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "The personal name of the God of Israel (Yahweh)"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "But Ahaz said, I will not ask, neither will I tempt the LORD.",
+      "highlightedWords": [
+        {
+          "word": "Ahaz",
+          "strongNumber": "H271",
+          "lemma": "Achaz",
+          "meaning": "He has grasped; a king of Judah"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "The personal name of the God of Israel (Yahweh)"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And he said, Hear ye now, O house of David; Is it a small thing for you to weary men, but will ye weary my God also?",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "H1732",
+          "lemma": "David",
+          "meaning": "Beloved; second king of Israel; ancestor of Messiah"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; mighty one"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Therefore the Lord himself shall give you a sign; Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel.",
+      "highlightedWords": [
+        {
+          "word": "virgin",
+          "strongNumber": "H5959",
+          "lemma": "almah",
+          "meaning": "young woman; maiden of marriageable age"
+        },
+        {
+          "word": "Immanuel",
+          "strongNumber": "H6005",
+          "lemma": "Immanu'el",
+          "meaning": "God is with us"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Butter and honey shall he eat, that he may know to refuse the evil, and choose the good.",
+      "highlightedWords": [
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra‘",
+          "meaning": "evil; bad; calamity"
+        },
+        {
+          "word": "good",
+          "strongNumber": "H2896",
+          "lemma": "tov",
+          "meaning": "good; pleasant; beneficial"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "For before the child shall know to refuse the evil, and choose the good, the land that thou abhorrest shall be forsaken of both her kings.",
+      "highlightedWords": [
+        {
+          "word": "child",
+          "strongNumber": "H5288",
+          "lemma": "na‘ar",
+          "meaning": "boy; youth; child"
+        },
+        {
+          "word": "kings",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king; ruler"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "The LORD shall bring upon thee, and upon thy people, and upon thy father's house, days that have not come, from the day that Ephraim departed from Judah; even the king of Assyria.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "The personal name of the God of Israel (Yahweh)"
+        },
+        {
+          "word": "Assyria",
+          "strongNumber": "H804",
+          "lemma": "Ashshur",
+          "meaning": "Assyria; the Assyrian empire and people"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And it shall come to pass in that day, that the LORD shall hiss for the fly that is in the uttermost part of the rivers of Egypt, and for the bee that is in the land of Assyria.",
+      "highlightedWords": [
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt; Mizraim"
+        },
+        {
+          "word": "Assyria",
+          "strongNumber": "H804",
+          "lemma": "Ashshur",
+          "meaning": "Assyria; the Assyrian empire and people"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And they shall come, and shall rest all of them in the desolate valleys, and in the holes of the rocks, and upon all thorns, and upon all bushes.",
+      "highlightedWords": [
+        {
+          "word": "valleys",
+          "strongNumber": "H5158",
+          "lemma": "nachal",
+          "meaning": "valley; wadi; torrent-bed"
+        },
+        {
+          "word": "rocks",
+          "strongNumber": "H5553",
+          "lemma": "sela‘",
+          "meaning": "rock; crag; cliff"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "In the same day shall the Lord shave with a razor that is hired, namely, by them beyond the river, by the king of Assyria, the head, and the hair of the feet: and it shall also consume the beard.",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "H136",
+          "lemma": "Adonai",
+          "meaning": "Lord; master; a title of God"
+        },
+        {
+          "word": "Assyria",
+          "strongNumber": "H804",
+          "lemma": "Ashshur",
+          "meaning": "Assyria; the Assyrian empire and people"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And it shall come to pass in that day, that a man shall nourish a young cow, and two sheep;",
+      "highlightedWords": [
+        {
+          "word": "man",
+          "strongNumber": "H376",
+          "lemma": "’ish",
+          "meaning": "man; male; husband; person"
+        },
+        {
+          "word": "sheep",
+          "strongNumber": "H6629",
+          "lemma": "tson",
+          "meaning": "small livestock; flock (sheep/goats)"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And it shall come to pass, for the abundance of milk that they shall give he shall eat butter: for butter and honey shall every one eat that is left in the land.",
+      "highlightedWords": [
+        {
+          "word": "butter",
+          "strongNumber": "H2529",
+          "lemma": "chemah",
+          "meaning": "curds; butter"
+        },
+        {
+          "word": "honey",
+          "strongNumber": "H1706",
+          "lemma": "debash",
+          "meaning": "honey"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And it shall come to pass in that day, that every place shall be, where there were a thousand vines at a thousand silverlings, it shall even be for briers and thorns.",
+      "highlightedWords": [
+        {
+          "word": "vines",
+          "strongNumber": "H1612",
+          "lemma": "gefen",
+          "meaning": "vine"
+        },
+        {
+          "word": "silverlings",
+          "strongNumber": "H3701",
+          "lemma": "kesef",
+          "meaning": "silver; money"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "With arrows and with bows shall men come thither; because all the land shall become briers and thorns.",
+      "highlightedWords": [
+        {
+          "word": "arrows",
+          "strongNumber": "H2671",
+          "lemma": "chets",
+          "meaning": "arrow; shaft"
+        },
+        {
+          "word": "bows",
+          "strongNumber": "H7198",
+          "lemma": "qeshet",
+          "meaning": "bow (weapon)"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And on all hills that shall be digged with the mattock, there shall not come thither the fear of briers and thorns: but it shall be for the sending forth of oxen, and for the treading of lesser cattle.",
+      "highlightedWords": [
+        {
+          "word": "oxen",
+          "strongNumber": "H7794",
+          "lemma": "shor",
+          "meaning": "ox; bull"
+        },
+        {
+          "word": "cattle",
+          "strongNumber": "H6629",
+          "lemma": "tson",
+          "meaning": "small livestock; flock (sheep/goats)"
+        }
+      ]
+    }
+  ]
+}

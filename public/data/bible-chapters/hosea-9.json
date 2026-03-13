@@ -1,0 +1,330 @@
+{
+  "book": "Hosea",
+  "chapter": 9,
+  "chapterTheme": {
+    "twoWordSummary": "Judgment Exile",
+    "themeWords": [
+      {
+        "word": "Assyria",
+        "strongNumber": "H0804",
+        "lemma": "Ashshur",
+        "meaning": "Assyria; the Assyrian empire/people"
+      },
+      {
+        "word": "iniquity",
+        "strongNumber": "H5771",
+        "lemma": "avon",
+        "meaning": "iniquity, guilt, perversity"
+      }
+    ]
+  },
+  "sentenceTheme": "Because of Israel’s iniquity and idolatry, God announces impending judgment, bereavement, and exile among the nations.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Rejoice not, O Israel, for joy, as other people: for thou hast gone a whoring from thy God, thou hast loved a reward upon every cornfloor.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel; the covenant people/nation"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H0430",
+          "lemma": "Elohim",
+          "meaning": "God; the true God, mighty one"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "The floor and the winepress shall not feed them, and the new wine shall fail in her.",
+      "highlightedWords": [
+        {
+          "word": "winepress",
+          "strongNumber": "H3342",
+          "lemma": "yeqeb",
+          "meaning": "winepress, vat for pressing grapes"
+        },
+        {
+          "word": "new wine",
+          "strongNumber": "H8492",
+          "lemma": "tirosh",
+          "meaning": "new wine, fresh grape juice/must"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "They shall not dwell in the LORD's land; but Ephraim shall return to Egypt, and they shall eat unclean things in Assyria.",
+      "highlightedWords": [
+        {
+          "word": "Ephraim",
+          "strongNumber": "H0669",
+          "lemma": "Ephrayim",
+          "meaning": "Ephraim; a leading tribe of the northern kingdom"
+        },
+        {
+          "word": "Assyria",
+          "strongNumber": "H0804",
+          "lemma": "Ashshur",
+          "meaning": "Assyria; the Assyrian empire/people"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "They shall not offer wine offerings to the LORD, neither shall they be pleasing unto him: their sacrifices shall be unto them as the bread of mourners; all that eat thereof shall be polluted: for their bread for their soul shall not come into the house of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the personal name of Israel’s God, the LORD"
+        },
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread, food"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "What will ye do in the solemn day, and in the day of the feast of the LORD?",
+      "highlightedWords": [
+        {
+          "word": "day",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day, time, period"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the personal name of Israel’s God, the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "For, lo, they are gone because of destruction: Egypt shall gather them up, Memphis shall bury them: the pleasant places for their silver, nettles shall possess them: thorns shall be in their tabernacles.",
+      "highlightedWords": [
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt; the land of the Nile"
+        },
+        {
+          "word": "Memphis",
+          "strongNumber": "H4644",
+          "lemma": "Moph",
+          "meaning": "Memphis; an Egyptian city (Moph)"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "The days of visitation are come, the days of recompence are come; Israel shall know it: the prophet is a fool, the spiritual man is mad, for the multitude of thine iniquity, and the great hatred.",
+      "highlightedWords": [
+        {
+          "word": "visitation",
+          "strongNumber": "H6486",
+          "lemma": "peqaddah",
+          "meaning": "visitation, punishment, oversight"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "avon",
+          "meaning": "iniquity, guilt, perversity"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "The watchman of Ephraim was with my God: but the prophet is a snare in all his ways, and hatred in the house of his God.",
+      "highlightedWords": [
+        {
+          "word": "watchman",
+          "strongNumber": "H6822",
+          "lemma": "tsopheh",
+          "meaning": "watchman, lookout, scout"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H0430",
+          "lemma": "Elohim",
+          "meaning": "God; the true God, mighty one"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "They have deeply corrupted themselves, as in the days of Gibeah: therefore he will remember their iniquity, he will visit their sins.",
+      "highlightedWords": [
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "avon",
+          "meaning": "iniquity, guilt, perversity"
+        },
+        {
+          "word": "sins",
+          "strongNumber": "H2403",
+          "lemma": "chattat",
+          "meaning": "sin, sinfulness; sometimes sin offering"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "I found Israel like grapes in the wilderness; I saw your fathers as the firstripe in the fig tree at her first time: but they went to Baal-peor, and separated themselves unto that shame; and their abominations were according as they loved.",
+      "highlightedWords": [
+        {
+          "word": "Baal-peor",
+          "strongNumber": "H1187",
+          "lemma": "Ba'al Peor",
+          "meaning": "Baal of Peor; a Moabite deity"
+        },
+        {
+          "word": "abominations",
+          "strongNumber": "H8441",
+          "lemma": "to'evah",
+          "meaning": "abomination, detestable thing"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "As for Ephraim, their glory shall fly away like a bird, from the birth, and from the womb, and from the conception.",
+      "highlightedWords": [
+        {
+          "word": "Ephraim",
+          "strongNumber": "H0669",
+          "lemma": "Ephrayim",
+          "meaning": "Ephraim; a leading tribe of the northern kingdom"
+        },
+        {
+          "word": "womb",
+          "strongNumber": "H0990",
+          "lemma": "beten",
+          "meaning": "belly, womb"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Though they bring up their children, yet will I bereave them, that there shall not be a man left: yea, woe also to them when I depart from them!",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son, child, descendant"
+        },
+        {
+          "word": "woe",
+          "strongNumber": "H0188",
+          "lemma": "oy",
+          "meaning": "woe, alas!"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Ephraim, as I saw Tyrus, is planted in a pleasant place: but Ephraim shall bring forth his children to the murderer.",
+      "highlightedWords": [
+        {
+          "word": "Ephraim",
+          "strongNumber": "H0669",
+          "lemma": "Ephrayim",
+          "meaning": "Ephraim; a leading tribe of the northern kingdom"
+        },
+        {
+          "word": "Tyrus",
+          "strongNumber": "H6865",
+          "lemma": "Tsor",
+          "meaning": "Tyre; a Phoenician coastal city"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Give them, O LORD: what wilt thou give? give them a miscarrying womb and dry breasts.",
+      "highlightedWords": [
+        {
+          "word": "womb",
+          "strongNumber": "H0990",
+          "lemma": "beten",
+          "meaning": "belly, womb"
+        },
+        {
+          "word": "breasts",
+          "strongNumber": "H7699",
+          "lemma": "shad",
+          "meaning": "breast"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "All their wickedness is in Gilgal: for there I hated them: for the wickedness of their doings I will drive them out of mine house, I will love them no more: all their princes are revolters.",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, household, temple"
+        },
+        {
+          "word": "princes",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "prince, ruler, official"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Ephraim is smitten, their root is dried up, they shall bear no fruit: yea, though they bring forth, yet will I slay even the beloved fruit of their womb.",
+      "highlightedWords": [
+        {
+          "word": "fruit",
+          "strongNumber": "H6529",
+          "lemma": "peri",
+          "meaning": "fruit, produce, offspring"
+        },
+        {
+          "word": "womb",
+          "strongNumber": "H0990",
+          "lemma": "beten",
+          "meaning": "belly, womb"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "My God will cast them away, because they did not hearken unto him: and they shall be wanderers among the nations.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H0430",
+          "lemma": "Elohim",
+          "meaning": "God; the true God, mighty one"
+        },
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation, people; Gentiles"
+        }
+      ]
+    }
+  ]
+}

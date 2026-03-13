@@ -1,0 +1,294 @@
+{
+  "book": "Ezekiel",
+  "chapter": 35,
+  "chapterTheme": {
+    "twoWordSummary": "Edom Judged",
+    "themeWords": [
+      {
+        "word": "Seir",
+        "strongNumber": "H8165",
+        "lemma": "Sêʿîr",
+        "meaning": "Rugged/hairy; the mountainous region identified with Edom."
+      },
+      {
+        "word": "desolation",
+        "strongNumber": "H8077",
+        "lemma": "shĕmâmâh",
+        "meaning": "Desolation, waste, ruin; a devastated state."
+      }
+    ]
+  },
+  "sentenceTheme": "A prophecy against Mount Seir (Edom) declaring that because of its perpetual hatred and rejoicing over Israel’s calamity, God will make it a perpetual desolation so all will know He is the LORD.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Moreover the word of the LORD came unto me, saying,",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dābār",
+          "meaning": "Word, matter, message; a declaration or divine revelation."
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "The proper name of the God of Israel; the LORD."
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Son of man, set thy face against mount Seir, and prophesy against it,",
+      "highlightedWords": [
+        {
+          "word": "prophesy",
+          "strongNumber": "H5012",
+          "lemma": "nābāʾ",
+          "meaning": "To prophesy; to speak by divine inspiration."
+        },
+        {
+          "word": "Seir",
+          "strongNumber": "H8165",
+          "lemma": "Sêʿîr",
+          "meaning": "Rugged/hairy; the mountainous region identified with Edom."
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And say unto it, Thus saith the Lord GOD; Behold, O mount Seir, I am against thee, and I will stretch out mine hand against thee, and I will make thee most desolate.",
+      "highlightedWords": [
+        {
+          "word": "GOD",
+          "strongNumber": "H3069",
+          "lemma": "Yehovih",
+          "meaning": "A form of the divine name used after Adonai; rendered as GOD."
+        },
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yād",
+          "meaning": "Hand; by extension, power or authority."
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "I will lay thy cities waste, and thou shalt be desolate, and thou shalt know that I am the LORD.",
+      "highlightedWords": [
+        {
+          "word": "cities",
+          "strongNumber": "H5892",
+          "lemma": "ʿîr",
+          "meaning": "City, town, urban center."
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "The proper name of the God of Israel; the LORD."
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Because thou hast had a perpetual hatred, and hast shed the blood of the children of Israel by the force of the sword in the time of their calamity, in the time that their iniquity had an end:",
+      "highlightedWords": [
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dām",
+          "meaning": "Blood; life-blood; bloodshed."
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yiśrāʾēl",
+          "meaning": "Israel; the name of the patriarch Jacob and the nation descended from him."
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Therefore, as I live, saith the Lord GOD, I will prepare thee unto blood, and blood shall pursue thee: sith thou hast not hated blood, even blood shall pursue thee.",
+      "highlightedWords": [
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dām",
+          "meaning": "Blood; life-blood; bloodshed."
+        },
+        {
+          "word": "pursue",
+          "strongNumber": "H7291",
+          "lemma": "rādaph",
+          "meaning": "To pursue, chase, follow after."
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Thus will I make mount Seir most desolate, and cut off from it him that passeth out and him that returneth.",
+      "highlightedWords": [
+        {
+          "word": "Seir",
+          "strongNumber": "H8165",
+          "lemma": "Sêʿîr",
+          "meaning": "Rugged/hairy; the mountainous region identified with Edom."
+        },
+        {
+          "word": "cut off",
+          "strongNumber": "H3772",
+          "lemma": "kārath",
+          "meaning": "To cut off, sever; to make a covenant; to exterminate."
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And I will fill his mountains with his slain men: in thy hills, and in thy valleys, and in all thy rivers, shall they fall that are slain with the sword.",
+      "highlightedWords": [
+        {
+          "word": "mountains",
+          "strongNumber": "H2022",
+          "lemma": "hār",
+          "meaning": "Mountain, hill, hill country."
+        },
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "Sword; by extension, destructive force or war."
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "I will make thee perpetual desolations, and thy cities shall not return: and ye shall know that I am the LORD.",
+      "highlightedWords": [
+        {
+          "word": "return",
+          "strongNumber": "H7725",
+          "lemma": "shûb",
+          "meaning": "To turn back, return, restore."
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "The proper name of the God of Israel; the LORD."
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Because thou hast said, These two nations and these two countries shall be mine, and we will possess it; whereas the LORD was there:",
+      "highlightedWords": [
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "gôy",
+          "meaning": "Nation, people; often used of Gentile nations."
+        },
+        {
+          "word": "possess",
+          "strongNumber": "H3423",
+          "lemma": "yārash",
+          "meaning": "To possess, inherit, dispossess, take possession."
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Therefore, as I live, saith the Lord GOD, I will even do according to thine anger, and according to thine envy which thou hast used out of thy hatred against them; and I will make myself known among them, when I have judged thee.",
+      "highlightedWords": [
+        {
+          "word": "anger",
+          "strongNumber": "H639",
+          "lemma": "ʾaph",
+          "meaning": "Nose, face; figuratively, anger or wrath."
+        },
+        {
+          "word": "judged",
+          "strongNumber": "H8199",
+          "lemma": "shāphaṭ",
+          "meaning": "To judge, govern, execute judgment."
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And thou shalt know that I am the LORD, and that I have heard all thy blasphemies which thou hast spoken against the mountains of Israel, saying, They are laid desolate, they are given us to consume.",
+      "highlightedWords": [
+        {
+          "word": "know",
+          "strongNumber": "H3045",
+          "lemma": "yādaʿ",
+          "meaning": "To know, perceive, acknowledge."
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yiśrāʾēl",
+          "meaning": "Israel; the name of the patriarch Jacob and the nation descended from him."
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Thus with your mouth ye have boasted against me, and have multiplied your words against me: I have heard them.",
+      "highlightedWords": [
+        {
+          "word": "mouth",
+          "strongNumber": "H6310",
+          "lemma": "peh",
+          "meaning": "Mouth; edge, opening; instrument of speech."
+        },
+        {
+          "word": "words",
+          "strongNumber": "H1697",
+          "lemma": "dābār",
+          "meaning": "Words, matters, speeches; declarations."
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Thus saith the Lord GOD; When the whole earth rejoiceth, I will make thee desolate.",
+      "highlightedWords": [
+        {
+          "word": "GOD",
+          "strongNumber": "H3069",
+          "lemma": "Yehovih",
+          "meaning": "A form of the divine name used after Adonai; rendered as GOD."
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "ʾereṣ",
+          "meaning": "Earth, land, ground."
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "As thou didst rejoice at the inheritance of the house of Israel, because it was desolate, so will I do unto thee: thou shalt be desolate, O mount Seir, and all Idumea, even all of it: and they shall know that I am the LORD.",
+      "highlightedWords": [
+        {
+          "word": "inheritance",
+          "strongNumber": "H5159",
+          "lemma": "naḥălāh",
+          "meaning": "Inheritance, possession, portion."
+        },
+        {
+          "word": "Idumea",
+          "strongNumber": "H123",
+          "lemma": "ʾĔdom",
+          "meaning": "Edom; “red,” the nation descended from Esau, later called Idumea."
+        }
+      ]
+    }
+  ]
+}

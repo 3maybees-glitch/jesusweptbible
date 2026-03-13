@@ -1,0 +1,186 @@
+{
+  "book": "Isaiah",
+  "chapter": 31,
+  "chapterTheme": {
+    "twoWordSummary": "Trust God",
+    "themeWords": [
+      {
+        "word": "Egypt",
+        "strongNumber": "H4714",
+        "lemma": "Mitsrayim",
+        "meaning": "Egypt; the land of the Nile"
+      },
+      {
+        "word": "Zion",
+        "strongNumber": "H6726",
+        "lemma": "Tsiyyon",
+        "meaning": "Zion; the hill/city of Jerusalem, symbolic of God's dwelling"
+      }
+    ]
+  },
+  "sentenceTheme": "Do not rely on Egypt; the LORD will defend Zion and bring down Assyria.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Woe to them that go down to Egypt for help; and stay on horses, and trust in chariots, because they are many; and in horsemen, because they are very strong; but they look not unto the Holy One of Israel, neither seek the LORD!",
+      "highlightedWords": [
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt; the land of the Nile"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "The personal name of Israel's God, the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Yet he also is wise, and will bring evil, and will not call back his words: but will arise against the house of the evildoers, and against the help of them that work iniquity.",
+      "highlightedWords": [
+        {
+          "word": "wise",
+          "strongNumber": "H2450",
+          "lemma": "chakam",
+          "meaning": "wise, skillful, prudent"
+        },
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "raʿ",
+          "meaning": "bad, evil, calamity"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Now the Egyptians are men, and not God; and their horses flesh, and not spirit. When the LORD shall stretch out his hand, both he that helpeth shall fall, and he that is holpen shall fall down; and they all shall fail together.",
+      "highlightedWords": [
+        {
+          "word": "spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "breath, wind, spirit"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "The personal name of Israel's God, the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "For thus hath the LORD spoken unto me, like as the lion and the young lion roaring on his prey, when a multitude of shepherds is called forth against him, he will not be afraid of their voice, nor abase himself for the noise of them: so shall the LORD of hosts come down to fight for mount Zion, and for the hill thereof.",
+      "highlightedWords": [
+        {
+          "word": "lion",
+          "strongNumber": "H0738",
+          "lemma": "’ari",
+          "meaning": "lion"
+        },
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyyon",
+          "meaning": "Zion; the hill/city of Jerusalem, symbolic of God's dwelling"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "As birds flying, so will the LORD of hosts defend Jerusalem; defending also he will deliver it; and passing over he will preserve it.",
+      "highlightedWords": [
+        {
+          "word": "defend",
+          "strongNumber": "H1598",
+          "lemma": "ganan",
+          "meaning": "to cover, protect, defend"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem, the chief city of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Turn ye unto him from whom the children of Israel have deeply revolted.",
+      "highlightedWords": [
+        {
+          "word": "Turn",
+          "strongNumber": "H7725",
+          "lemma": "shuv",
+          "meaning": "to turn back, return, repent"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra’el",
+          "meaning": "Israel; the people and nation descended from Jacob"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "For in that day every man shall cast away his idols of silver, and his idols of gold, which your own hands have made unto you for a sin.",
+      "highlightedWords": [
+        {
+          "word": "silver",
+          "strongNumber": "H3701",
+          "lemma": "keseph",
+          "meaning": "silver; money"
+        },
+        {
+          "word": "gold",
+          "strongNumber": "H2091",
+          "lemma": "zahab",
+          "meaning": "gold"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Then shall the Assyrian fall with the sword, not of a mighty man; and the sword, not of a mean man, shall devour him: but he shall flee from the sword, and his young men shall be discomfited.",
+      "highlightedWords": [
+        {
+          "word": "Assyrian",
+          "strongNumber": "H0804",
+          "lemma": "’Ashshur",
+          "meaning": "Assyria; Assyrian"
+        },
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And he shall pass over to his strong hold for fear, and his princes shall be afraid of the ensign, saith the LORD, whose fire is in Zion, and his furnace in Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "ensign",
+          "strongNumber": "H5251",
+          "lemma": "nes",
+          "meaning": "banner, signal pole, ensign"
+        },
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyyon",
+          "meaning": "Zion; the hill/city of Jerusalem, symbolic of God's dwelling"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,582 @@
+{
+  "book": "Proverbs",
+  "chapter": 21,
+  "chapterTheme": {
+    "twoWordSummary": "Sovereign Justice",
+    "themeWords": [
+      {
+        "word": "righteousness",
+        "strongNumber": "H6666",
+        "lemma": "tsedaqah",
+        "meaning": "righteousness, justice, rightness"
+      },
+      {
+        "word": "wicked",
+        "strongNumber": "H7563",
+        "lemma": "rashaʿ",
+        "meaning": "wicked, guilty, criminal"
+      }
+    ]
+  },
+  "sentenceTheme": "The LORD rules hearts and outcomes, rewarding righteousness and exposing the ruin of wickedness.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "The king's heart is in the hand of the LORD, as the rivers of water: he turneth it whithersoever he will.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "inner person, mind, will, heart"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Every way of a man is right in his own eyes: but the LORD pondereth the hearts.",
+      "highlightedWords": [
+        {
+          "word": "right",
+          "strongNumber": "H3477",
+          "lemma": "yashar",
+          "meaning": "upright, straight, right"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "To do justice and judgment is more acceptable to the LORD than sacrifice.",
+      "highlightedWords": [
+        {
+          "word": "justice",
+          "strongNumber": "H6666",
+          "lemma": "tsedaqah",
+          "meaning": "righteousness, justice"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "An high look, and a proud heart, and the plowing of the wicked, is sin.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rashaʿ",
+          "meaning": "wicked, guilty, criminal"
+        },
+        {
+          "word": "sin",
+          "strongNumber": "H2403",
+          "lemma": "chattaʾth",
+          "meaning": "sin, offense, guilt"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "The thoughts of the diligent tend only to plenteousness; but of every one that is hasty only to want.",
+      "highlightedWords": [
+        {
+          "word": "diligent",
+          "strongNumber": "H2742",
+          "lemma": "charuwts",
+          "meaning": "diligent, determined, sharp"
+        },
+        {
+          "word": "want",
+          "strongNumber": "H4270",
+          "lemma": "machsor",
+          "meaning": "lack, poverty, want"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "The getting of treasures by a lying tongue is a vanity tossed to and fro of them that seek death.",
+      "highlightedWords": [
+        {
+          "word": "lying",
+          "strongNumber": "H8267",
+          "lemma": "sheqer",
+          "meaning": "deception, falsehood, lie"
+        },
+        {
+          "word": "death",
+          "strongNumber": "H4194",
+          "lemma": "maveth",
+          "meaning": "death"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "The robbery of the wicked shall destroy them; because they refuse to do judgment.",
+      "highlightedWords": [
+        {
+          "word": "robbery",
+          "strongNumber": "H7701",
+          "lemma": "shod",
+          "meaning": "violence, spoil, robbery"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rashaʿ",
+          "meaning": "wicked, guilty, criminal"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "The way of man is froward and strange: but as for the pure, his work is right.",
+      "highlightedWords": [
+        {
+          "word": "froward",
+          "strongNumber": "H6141",
+          "lemma": "iqqesh",
+          "meaning": "crooked, perverse, twisted"
+        },
+        {
+          "word": "pure",
+          "strongNumber": "H2134",
+          "lemma": "zak",
+          "meaning": "pure, clean, clear"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "It is better to dwell in a corner of the housetop, than with a brawling woman in a wide house.",
+      "highlightedWords": [
+        {
+          "word": "housetop",
+          "strongNumber": "H1406",
+          "lemma": "gag",
+          "meaning": "roof, housetop"
+        },
+        {
+          "word": "brawling",
+          "strongNumber": "H4066",
+          "lemma": "madon",
+          "meaning": "strife, contention, brawling"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "The soul of the wicked desireth evil: his neighbour findeth no favour in his eyes.",
+      "highlightedWords": [
+        {
+          "word": "neighbour",
+          "strongNumber": "H7453",
+          "lemma": "reaʿ",
+          "meaning": "friend, companion, neighbor"
+        },
+        {
+          "word": "favour",
+          "strongNumber": "H2580",
+          "lemma": "chen",
+          "meaning": "favor, grace, charm"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "When the scorner is punished, the simple is made wise: and when the wise is instructed, he receiveth knowledge.",
+      "highlightedWords": [
+        {
+          "word": "scorner",
+          "strongNumber": "H3917",
+          "lemma": "lets",
+          "meaning": "scoffer, scorner"
+        },
+        {
+          "word": "simple",
+          "strongNumber": "H6612",
+          "lemma": "pethi",
+          "meaning": "naive, simple-minded"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "The righteous man wisely considereth the house of the wicked: but God overthroweth the wicked for their wickedness.",
+      "highlightedWords": [
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just"
+        },
+        {
+          "word": "overthroweth",
+          "strongNumber": "H2015",
+          "lemma": "haphak",
+          "meaning": "to overturn, overthrow, transform"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Whoso stoppeth his ears at the cry of the poor, he also shall cry himself, but shall not be heard.",
+      "highlightedWords": [
+        {
+          "word": "cry",
+          "strongNumber": "H2199",
+          "lemma": "zaʿaq",
+          "meaning": "to cry out, call for help"
+        },
+        {
+          "word": "poor",
+          "strongNumber": "H1800",
+          "lemma": "dal",
+          "meaning": "poor, weak, lowly"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "A gift in secret pacifieth anger: and a reward in the bosom strong wrath.",
+      "highlightedWords": [
+        {
+          "word": "gift",
+          "strongNumber": "H4976",
+          "lemma": "mattan",
+          "meaning": "gift, present"
+        },
+        {
+          "word": "anger",
+          "strongNumber": "H639",
+          "lemma": "aph",
+          "meaning": "anger, nostril, face"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "It is joy to the just to do judgment: but destruction shall be to the workers of iniquity.",
+      "highlightedWords": [
+        {
+          "word": "just",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H205",
+          "lemma": "aven",
+          "meaning": "trouble, wickedness, iniquity"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "The man that wandereth out of the way of understanding shall remain in the congregation of the dead.",
+      "highlightedWords": [
+        {
+          "word": "understanding",
+          "strongNumber": "H8394",
+          "lemma": "tebunah",
+          "meaning": "understanding, insight"
+        },
+        {
+          "word": "dead",
+          "strongNumber": "H7496",
+          "lemma": "rephaim",
+          "meaning": "shades, departed spirits, the dead"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "He that loveth pleasure shall be a poor man: he that loveth wine and oil shall not be rich.",
+      "highlightedWords": [
+        {
+          "word": "wine",
+          "strongNumber": "H3196",
+          "lemma": "yayin",
+          "meaning": "wine"
+        },
+        {
+          "word": "oil",
+          "strongNumber": "H8081",
+          "lemma": "shemen",
+          "meaning": "oil, fat, richness"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "The wicked shall be a ransom for the righteous, and the transgressor for the upright.",
+      "highlightedWords": [
+        {
+          "word": "ransom",
+          "strongNumber": "H3724",
+          "lemma": "kopher",
+          "meaning": "ransom, price of atonement"
+        },
+        {
+          "word": "upright",
+          "strongNumber": "H3477",
+          "lemma": "yashar",
+          "meaning": "upright, straight"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "It is better to dwell in the wilderness, than with a contentious and an angry woman.",
+      "highlightedWords": [
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbar",
+          "meaning": "wilderness, desert"
+        },
+        {
+          "word": "contentious",
+          "strongNumber": "H4066",
+          "lemma": "madon",
+          "meaning": "strife, contention"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "There is treasure to be desired and oil in the dwelling of the wise; but a foolish man spendeth it up.",
+      "highlightedWords": [
+        {
+          "word": "oil",
+          "strongNumber": "H8081",
+          "lemma": "shemen",
+          "meaning": "oil, fat, richness"
+        },
+        {
+          "word": "wise",
+          "strongNumber": "H2450",
+          "lemma": "chakam",
+          "meaning": "wise, skillful, prudent"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "He that followeth after righteousness and mercy findeth life, righteousness, and honour.",
+      "highlightedWords": [
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "tsedaqah",
+          "meaning": "righteousness, justice"
+        },
+        {
+          "word": "mercy",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "kindness, lovingkindness, mercy"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "A wise man scaleth the city of the mighty, and casteth down the strength of the confidence thereof.",
+      "highlightedWords": [
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "ʿir",
+          "meaning": "city, town"
+        },
+        {
+          "word": "mighty",
+          "strongNumber": "H1368",
+          "lemma": "gibbor",
+          "meaning": "mighty, valiant, strong"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Whoso keepeth his mouth and his tongue keepeth his soul from troubles.",
+      "highlightedWords": [
+        {
+          "word": "tongue",
+          "strongNumber": "H3956",
+          "lemma": "lashon",
+          "meaning": "tongue, language, speech"
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, self"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Proud and haughty scorner is his name, who dealeth in proud wrath.",
+      "highlightedWords": [
+        {
+          "word": "scorner",
+          "strongNumber": "H3917",
+          "lemma": "lets",
+          "meaning": "scoffer, scorner"
+        },
+        {
+          "word": "wrath",
+          "strongNumber": "H2534",
+          "lemma": "chemah",
+          "meaning": "heat, rage, wrath"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "The desire of the slothful killeth him; for his hands refuse to labour.",
+      "highlightedWords": [
+        {
+          "word": "slothful",
+          "strongNumber": "H6102",
+          "lemma": "ʿatsel",
+          "meaning": "sluggard, lazy, slothful"
+        },
+        {
+          "word": "labour",
+          "strongNumber": "H5647",
+          "lemma": "ʿabad",
+          "meaning": "to work, serve, labor"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "He coveteth greedily all the day long: but the righteous giveth and spareth not.",
+      "highlightedWords": [
+        {
+          "word": "coveteth",
+          "strongNumber": "H183",
+          "lemma": "ʾavah",
+          "meaning": "to desire, covet, crave"
+        },
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "The sacrifice of the wicked is abomination: how much more, when he bringeth it with a wicked mind?",
+      "highlightedWords": [
+        {
+          "word": "sacrifice",
+          "strongNumber": "H2077",
+          "lemma": "zebach",
+          "meaning": "sacrifice, offering"
+        },
+        {
+          "word": "abomination",
+          "strongNumber": "H8441",
+          "lemma": "toʿebah",
+          "meaning": "abomination, detestable thing"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "A false witness shall perish: but the man that heareth speaketh constantly.",
+      "highlightedWords": [
+        {
+          "word": "false",
+          "strongNumber": "H8267",
+          "lemma": "sheqer",
+          "meaning": "falsehood, deception"
+        },
+        {
+          "word": "witness",
+          "strongNumber": "H5707",
+          "lemma": "ʿed",
+          "meaning": "witness, testimony"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "A wicked man hardeneth his face: but as for the upright, he directeth his way.",
+      "highlightedWords": [
+        {
+          "word": "upright",
+          "strongNumber": "H3477",
+          "lemma": "yashar",
+          "meaning": "upright, straight"
+        },
+        {
+          "word": "directeth",
+          "strongNumber": "H3559",
+          "lemma": "kun",
+          "meaning": "to establish, prepare, direct"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "There is no wisdom nor understanding nor counsel against the LORD.",
+      "highlightedWords": [
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "wisdom, skill"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "The horse is prepared against the day of battle: but safety is of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "horse",
+          "strongNumber": "H5483",
+          "lemma": "sus",
+          "meaning": "horse"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    }
+  ]
+}

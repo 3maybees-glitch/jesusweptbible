@@ -1,0 +1,528 @@
+{
+  "book": "Proverbs",
+  "chapter": 28,
+  "chapterTheme": {
+    "twoWordSummary": "Justice Integrity",
+    "themeWords": [
+      {
+        "word": "wicked",
+        "strongNumber": "H7563",
+        "lemma": "rasha",
+        "meaning": "wicked, guilty, ungodly"
+      },
+      {
+        "word": "righteous",
+        "strongNumber": "H6662",
+        "lemma": "tsaddiq",
+        "meaning": "righteous, just, in the right"
+      }
+    ]
+  },
+  "sentenceTheme": "Contrasting the downfall of the wicked with the stability and blessing of the righteous, the chapter urges integrity, justice, and trust in the LORD over greed and oppression.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "The wicked flee when no man pursueth: but the righteous are bold as a lion.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha",
+          "meaning": "wicked, guilty, ungodly"
+        },
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just, in the right"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "For the transgression of a land many are the princes thereof: but by a man of understanding and knowledge the state thereof shall be prolonged.",
+      "highlightedWords": [
+        {
+          "word": "transgression",
+          "strongNumber": "H6588",
+          "lemma": "pesha",
+          "meaning": "transgression, rebellion, revolt"
+        },
+        {
+          "word": "knowledge",
+          "strongNumber": "H1847",
+          "lemma": "da'ath",
+          "meaning": "knowledge, perception, skill"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "A poor man that oppresseth the poor is like a sweeping rain which leaveth no food.",
+      "highlightedWords": [
+        {
+          "word": "oppresseth",
+          "strongNumber": "H6231",
+          "lemma": "ashaq",
+          "meaning": "to oppress, extort, defraud"
+        },
+        {
+          "word": "rain",
+          "strongNumber": "H1653",
+          "lemma": "geshem",
+          "meaning": "rain, heavy shower"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "They that forsake the law praise the wicked: but such as keep the law contend with them.",
+      "highlightedWords": [
+        {
+          "word": "law",
+          "strongNumber": "H8451",
+          "lemma": "torah",
+          "meaning": "instruction, law, teaching"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha",
+          "meaning": "wicked, guilty, ungodly"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Evil men understand not judgment: but they that seek the LORD understand all things.",
+      "highlightedWords": [
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "judgment, justice, ordinance"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the proper name of the God of Israel (LORD)"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Better is the poor that walketh in his uprightness, than he that is perverse in his ways, though he be rich.",
+      "highlightedWords": [
+        {
+          "word": "perverse",
+          "strongNumber": "H6141",
+          "lemma": "iqqesh",
+          "meaning": "crooked, perverse, twisted"
+        },
+        {
+          "word": "rich",
+          "strongNumber": "H6223",
+          "lemma": "ashir",
+          "meaning": "rich, wealthy"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Whoso keepeth the law is a wise son: but he that is a companion of riotous men shameth his father.",
+      "highlightedWords": [
+        {
+          "word": "law",
+          "strongNumber": "H8451",
+          "lemma": "torah",
+          "meaning": "instruction, law, teaching"
+        },
+        {
+          "word": "wise",
+          "strongNumber": "H2450",
+          "lemma": "chakam",
+          "meaning": "wise, skillful, prudent"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "He that by usury and unjust gain increaseth his substance, he shall gather it for him that will pity the poor.",
+      "highlightedWords": [
+        {
+          "word": "usury",
+          "strongNumber": "H5392",
+          "lemma": "neshek",
+          "meaning": "interest, usury"
+        },
+        {
+          "word": "substance",
+          "strongNumber": "H1952",
+          "lemma": "hon",
+          "meaning": "wealth, substance, riches"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "He that turneth away his ear from hearing the law, even his prayer shall be abomination.",
+      "highlightedWords": [
+        {
+          "word": "prayer",
+          "strongNumber": "H8605",
+          "lemma": "tephillah",
+          "meaning": "prayer, intercession"
+        },
+        {
+          "word": "abomination",
+          "strongNumber": "H8441",
+          "lemma": "to'evah",
+          "meaning": "abomination, detestable thing"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Whoso causeth the righteous to go astray in an evil way, he shall fall himself into his own pit: but the upright shall have good things in possession.",
+      "highlightedWords": [
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just, in the right"
+        },
+        {
+          "word": "upright",
+          "strongNumber": "H3477",
+          "lemma": "yashar",
+          "meaning": "upright, straight, right"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "The rich man is wise in his own conceit; but the poor that hath understanding searcheth him out.",
+      "highlightedWords": [
+        {
+          "word": "wise",
+          "strongNumber": "H2450",
+          "lemma": "chakam",
+          "meaning": "wise, skillful, prudent"
+        },
+        {
+          "word": "rich",
+          "strongNumber": "H6223",
+          "lemma": "ashir",
+          "meaning": "rich, wealthy"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "When righteous men do rejoice, there is great glory: but when the wicked rise, a man is hidden.",
+      "highlightedWords": [
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just, in the right"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha",
+          "meaning": "wicked, guilty, ungodly"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "He that covereth his sins shall not prosper: but whoso confesseth and forsaketh them shall have mercy.",
+      "highlightedWords": [
+        {
+          "word": "sins",
+          "strongNumber": "H2403",
+          "lemma": "chatta'ah",
+          "meaning": "sin, sin offering, offense"
+        },
+        {
+          "word": "forsaketh",
+          "strongNumber": "H5800",
+          "lemma": "azab",
+          "meaning": "to leave, forsake, abandon"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Happy is the man that feareth alway: but he that hardeneth his heart shall fall into mischief.",
+      "highlightedWords": [
+        {
+          "word": "feareth",
+          "strongNumber": "H3372",
+          "lemma": "yare",
+          "meaning": "to fear, revere, be afraid"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner person, mind"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "As a roaring lion, and a ranging bear; so is a wicked ruler over the poor people.",
+      "highlightedWords": [
+        {
+          "word": "lion",
+          "strongNumber": "H738",
+          "lemma": "aryeh",
+          "meaning": "lion"
+        },
+        {
+          "word": "bear",
+          "strongNumber": "H1677",
+          "lemma": "dob",
+          "meaning": "bear"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "The prince that wanteth understanding is also a great oppressor: but he that hateth covetousness shall prolong his days.",
+      "highlightedWords": [
+        {
+          "word": "understanding",
+          "strongNumber": "H8394",
+          "lemma": "tebunah",
+          "meaning": "understanding, insight"
+        },
+        {
+          "word": "covetousness",
+          "strongNumber": "H1215",
+          "lemma": "betsa",
+          "meaning": "unjust gain, profit"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "A man that doeth violence to the blood of any person shall flee to the pit; let no man stay him.",
+      "highlightedWords": [
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "blood"
+        },
+        {
+          "word": "pit",
+          "strongNumber": "H953",
+          "lemma": "bor",
+          "meaning": "pit, cistern"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Whoso walketh uprightly shall be saved: but he that is perverse in his ways shall fall at once.",
+      "highlightedWords": [
+        {
+          "word": "uprightly",
+          "strongNumber": "H8549",
+          "lemma": "tamim",
+          "meaning": "blameless, complete, with integrity"
+        },
+        {
+          "word": "saved",
+          "strongNumber": "H3467",
+          "lemma": "yasha",
+          "meaning": "to save, deliver"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "He that tilleth his land shall have plenty of bread: but he that followeth after vain persons shall have poverty enough.",
+      "highlightedWords": [
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread, food"
+        },
+        {
+          "word": "poverty",
+          "strongNumber": "H4270",
+          "lemma": "machsor",
+          "meaning": "want, poverty, lack"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "A faithful man shall abound with blessings: but he that maketh haste to be rich shall not be innocent.",
+      "highlightedWords": [
+        {
+          "word": "blessings",
+          "strongNumber": "H1293",
+          "lemma": "berakah",
+          "meaning": "blessing, benefit"
+        },
+        {
+          "word": "innocent",
+          "strongNumber": "H5355",
+          "lemma": "naqi",
+          "meaning": "innocent, clean, blameless"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "To have respect of persons is not good: for for a piece of bread that man will transgress.",
+      "highlightedWords": [
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread, food"
+        },
+        {
+          "word": "transgress",
+          "strongNumber": "H6586",
+          "lemma": "pasha",
+          "meaning": "to transgress, rebel"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "He that hasteth to be rich hath an evil eye, and considereth not that poverty shall come upon him.",
+      "highlightedWords": [
+        {
+          "word": "eye",
+          "strongNumber": "H5869",
+          "lemma": "ayin",
+          "meaning": "eye, appearance"
+        },
+        {
+          "word": "poverty",
+          "strongNumber": "H4270",
+          "lemma": "machsor",
+          "meaning": "want, poverty, lack"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "He that rebuketh a man afterwards shall find more favour than he that flattereth with the tongue.",
+      "highlightedWords": [
+        {
+          "word": "rebuketh",
+          "strongNumber": "H3198",
+          "lemma": "yakach",
+          "meaning": "to reprove, correct, rebuke"
+        },
+        {
+          "word": "favour",
+          "strongNumber": "H2580",
+          "lemma": "chen",
+          "meaning": "favor, grace, charm"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Whoso robbeth his father or his mother, and saith, It is no transgression; the same is the companion of a destroyer.",
+      "highlightedWords": [
+        {
+          "word": "robbeth",
+          "strongNumber": "H1497",
+          "lemma": "gazal",
+          "meaning": "to rob, plunder, seize"
+        },
+        {
+          "word": "transgression",
+          "strongNumber": "H6588",
+          "lemma": "pesha",
+          "meaning": "transgression, rebellion, revolt"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "He that is of a proud heart stirreth up strife: but he that putteth his trust in the LORD shall be made fat.",
+      "highlightedWords": [
+        {
+          "word": "trust",
+          "strongNumber": "H982",
+          "lemma": "batach",
+          "meaning": "to trust, be confident, rely"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the proper name of the God of Israel (LORD)"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "He that trusteth in his own heart is a fool: but whoso walketh wisely, he shall be delivered.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner person, mind"
+        },
+        {
+          "word": "delivered",
+          "strongNumber": "H5337",
+          "lemma": "natsal",
+          "meaning": "to deliver, rescue, save"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "He that giveth unto the poor shall not lack: but he that hideth his eyes shall have many a curse.",
+      "highlightedWords": [
+        {
+          "word": "giveth",
+          "strongNumber": "H5414",
+          "lemma": "natan",
+          "meaning": "to give, put, set"
+        },
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "ayin",
+          "meaning": "eyes"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "When the wicked rise, men hide themselves: but when they perish, the righteous increase.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha",
+          "meaning": "wicked, guilty, ungodly"
+        },
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just, in the right"
+        }
+      ]
+    }
+  ]
+}

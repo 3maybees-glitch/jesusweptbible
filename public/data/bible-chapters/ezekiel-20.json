@@ -1,0 +1,906 @@
+{
+  "book": "Ezekiel",
+  "chapter": 20,
+  "chapterTheme": {
+    "twoWordSummary": "Rebellion Recounted",
+    "themeWords": [
+      {
+        "word": "idols",
+        "strongNumber": "H1544",
+        "lemma": "gillulim",
+        "meaning": "idols; detestable things"
+      },
+      {
+        "word": "sabbaths",
+        "strongNumber": "H7676",
+        "lemma": "shabbath",
+        "meaning": "Sabbath; day of rest"
+      }
+    ]
+  },
+  "sentenceTheme": "God rebukes Israel by recounting their idolatry and Sabbath profanation from Egypt through the wilderness, warns of judgment, and promises future regathering and purification.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And it came to pass in the seventh year, in the fifth month, the tenth day of the month, that certain of the elders of Israel came to enquire of the LORD, and sat before me.",
+      "highlightedWords": [
+        {
+          "word": "enquire",
+          "strongNumber": "H1875",
+          "lemma": "darash",
+          "meaning": "to seek; inquire"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Then came the word of the LORD unto me, saying,",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word; matter; thing"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Son of man, speak unto the elders of Israel, and say unto them, Thus saith the Lord GOD; Are ye come to enquire of me? As I live, saith the Lord GOD, I will not be enquired of by you.",
+      "highlightedWords": [
+        {
+          "word": "enquired",
+          "strongNumber": "H1875",
+          "lemma": "darash",
+          "meaning": "to seek; inquire"
+        },
+        {
+          "word": "live",
+          "strongNumber": "H2416",
+          "lemma": "chay",
+          "meaning": "alive; living"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Wilt thou judge them, son of man, wilt thou judge them? cause them to know the abominations of their fathers:",
+      "highlightedWords": [
+        {
+          "word": "judge",
+          "strongNumber": "H8199",
+          "lemma": "shaphat",
+          "meaning": "to judge; govern; decide"
+        },
+        {
+          "word": "abominations",
+          "strongNumber": "H8441",
+          "lemma": "toʿevah",
+          "meaning": "abomination; detestable thing"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And say unto them, Thus saith the Lord GOD; In the day when I chose Israel, and lifted up mine hand unto the seed of the house of Jacob, and made myself known unto them in the land of Egypt, when I lifted up mine hand unto them, saying, I am the LORD your God;",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand; power; authority"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "In the day that I lifted up mine hand unto them, to bring them forth of the land of Egypt into a land that I had espied for them, flowing with milk and honey, which is the glory of all lands:",
+      "highlightedWords": [
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt"
+        },
+        {
+          "word": "honey",
+          "strongNumber": "H1706",
+          "lemma": "debash",
+          "meaning": "honey"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Then said I unto them, Cast ye away every man the abominations of his eyes, and defile not yourselves with the idols of Egypt: I am the LORD your God.",
+      "highlightedWords": [
+        {
+          "word": "defile",
+          "strongNumber": "H2930",
+          "lemma": "tame",
+          "meaning": "to make unclean; defile"
+        },
+        {
+          "word": "idols",
+          "strongNumber": "H1544",
+          "lemma": "gillulim",
+          "meaning": "idols; detestable things"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "But they rebelled against me, and would not hearken unto me: they did not every man cast away the abominations of their eyes, neither did they forsake the idols of Egypt: then I said, I will pour out my fury upon them, to accomplish my anger against them in the midst of the land of Egypt.",
+      "highlightedWords": [
+        {
+          "word": "idols",
+          "strongNumber": "H1544",
+          "lemma": "gillulim",
+          "meaning": "idols; detestable things"
+        },
+        {
+          "word": "fury",
+          "strongNumber": "H2534",
+          "lemma": "chemah",
+          "meaning": "wrath; heat; fury"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "But I wrought for my name's sake, that it should not be polluted before the heathen, among whom they were, in whose sight I made myself known unto them, in bringing them forth out of the land of Egypt.",
+      "highlightedWords": [
+        {
+          "word": "name's",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "name; reputation"
+        },
+        {
+          "word": "heathen",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation; people; gentiles"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Wherefore I caused them to go forth out of the land of Egypt, and brought them into the wilderness.",
+      "highlightedWords": [
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt"
+        },
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbar",
+          "meaning": "desert; wilderness"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And I gave them my statutes, and shewed them my judgments, which if a man do, he shall even live in them.",
+      "highlightedWords": [
+        {
+          "word": "statutes",
+          "strongNumber": "H2708",
+          "lemma": "chuqqah",
+          "meaning": "statute; prescribed ordinance"
+        },
+        {
+          "word": "judgments",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "judgment; legal decision"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Moreover also I gave them my sabbaths, to be a sign between me and them, that they might know that I am the LORD that sanctify them.",
+      "highlightedWords": [
+        {
+          "word": "sabbaths",
+          "strongNumber": "H7676",
+          "lemma": "shabbath",
+          "meaning": "Sabbath; day of rest"
+        },
+        {
+          "word": "sanctify",
+          "strongNumber": "H6942",
+          "lemma": "qadash",
+          "meaning": "to consecrate; make holy"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "But the house of Israel rebelled against me in the wilderness: they walked not in my statutes, and they despised my judgments, which if a man do, he shall even live in them; and my sabbaths they greatly polluted: then I said, I would pour out my fury upon them in the wilderness, to consume them.",
+      "highlightedWords": [
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbar",
+          "meaning": "desert; wilderness"
+        },
+        {
+          "word": "sabbaths",
+          "strongNumber": "H7676",
+          "lemma": "shabbath",
+          "meaning": "Sabbath; day of rest"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "But I wrought for my name's sake, that it should not be polluted before the heathen, in whose sight I brought them out.",
+      "highlightedWords": [
+        {
+          "word": "name's",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "name; reputation"
+        },
+        {
+          "word": "heathen",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation; people; gentiles"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Yet also I lifted up my hand unto them in the wilderness, that I would not bring them into the land which I had given them, flowing with milk and honey, which is the glory of all lands;",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand; power; authority"
+        },
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbar",
+          "meaning": "desert; wilderness"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Because they despised my judgments, and walked not in my statutes, but polluted my sabbaths: for their heart went after their idols.",
+      "highlightedWords": [
+        {
+          "word": "statutes",
+          "strongNumber": "H2708",
+          "lemma": "chuqqah",
+          "meaning": "statute; prescribed ordinance"
+        },
+        {
+          "word": "idols",
+          "strongNumber": "H1544",
+          "lemma": "gillulim",
+          "meaning": "idols; detestable things"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Nevertheless mine eye spared them from destroying them, neither did I make an end of them in the wilderness.",
+      "highlightedWords": [
+        {
+          "word": "spared",
+          "strongNumber": "H2550",
+          "lemma": "chus",
+          "meaning": "to pity; spare"
+        },
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbar",
+          "meaning": "desert; wilderness"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "But I said unto their children in the wilderness, Walk ye not in the statutes of your fathers, neither observe their judgments, nor defile yourselves with their idols:",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "ben",
+          "meaning": "son; child; descendant"
+        },
+        {
+          "word": "idols",
+          "strongNumber": "H1544",
+          "lemma": "gillulim",
+          "meaning": "idols; detestable things"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "I am the LORD your God; walk in my statutes, and keep my judgments, and do them;",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "statutes",
+          "strongNumber": "H2708",
+          "lemma": "chuqqah",
+          "meaning": "statute; prescribed ordinance"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And hallow my sabbaths; and they shall be a sign between me and you, that ye may know that I am the LORD your God.",
+      "highlightedWords": [
+        {
+          "word": "hallow",
+          "strongNumber": "H6942",
+          "lemma": "qadash",
+          "meaning": "to consecrate; make holy"
+        },
+        {
+          "word": "sabbaths",
+          "strongNumber": "H7676",
+          "lemma": "shabbath",
+          "meaning": "Sabbath; day of rest"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Notwithstanding the children rebelled against me: they walked not in my statutes, neither kept my judgments to do them, which if a man do, he shall even live in them; they polluted my sabbaths: then I said, I would pour out my fury upon them, to accomplish my anger against them in the wilderness.",
+      "highlightedWords": [
+        {
+          "word": "rebelled",
+          "strongNumber": "H4784",
+          "lemma": "marah",
+          "meaning": "to be rebellious; disobey"
+        },
+        {
+          "word": "sabbaths",
+          "strongNumber": "H7676",
+          "lemma": "shabbath",
+          "meaning": "Sabbath; day of rest"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Nevertheless I withdrew mine hand, and wrought for my name's sake, that it should not be polluted in the sight of the heathen, in whose sight I brought them forth.",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand; power; authority"
+        },
+        {
+          "word": "heathen",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation; people; gentiles"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "I lifted up mine hand unto them also in the wilderness, that I would scatter them among the heathen, and disperse them through the countries;",
+      "highlightedWords": [
+        {
+          "word": "scatter",
+          "strongNumber": "H6327",
+          "lemma": "puwts",
+          "meaning": "to scatter; disperse"
+        },
+        {
+          "word": "heathen",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation; people; gentiles"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Because they had not executed my judgments, but had despised my statutes, and had polluted my sabbaths, and their eyes were after their fathers' idols.",
+      "highlightedWords": [
+        {
+          "word": "judgments",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "judgment; legal decision"
+        },
+        {
+          "word": "idols",
+          "strongNumber": "H1544",
+          "lemma": "gillulim",
+          "meaning": "idols; detestable things"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Wherefore I gave them also statutes that were not good, and judgments whereby they should not live;",
+      "highlightedWords": [
+        {
+          "word": "statutes",
+          "strongNumber": "H2708",
+          "lemma": "chuqqah",
+          "meaning": "statute; prescribed ordinance"
+        },
+        {
+          "word": "live",
+          "strongNumber": "H2421",
+          "lemma": "chayah",
+          "meaning": "to live; have life"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And I polluted them in their own gifts, in that they caused to pass through the fire all that openeth the womb, that I might make them desolate, to the end that they might know that I am the LORD.",
+      "highlightedWords": [
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "esh",
+          "meaning": "fire"
+        },
+        {
+          "word": "desolate",
+          "strongNumber": "H8074",
+          "lemma": "shamem",
+          "meaning": "to be desolate; appalled"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "Therefore, son of man, speak unto the house of Israel, and say unto them, Thus saith the Lord GOD; Yet in this your fathers have blasphemed me, in that they have committed a trespass against me.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel"
+        },
+        {
+          "word": "trespass",
+          "strongNumber": "H4604",
+          "lemma": "ma'al",
+          "meaning": "unfaithfulness; trespass"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "For when I had brought them into the land, for the which I lifted up mine hand to give it to them, then they saw every high hill, and all the thick trees, and they offered there their sacrifices, and there they presented the provocation of their offering: there also they made their sweet savour, and poured out there their drink offerings.",
+      "highlightedWords": [
+        {
+          "word": "sacrifices",
+          "strongNumber": "H2077",
+          "lemma": "zebach",
+          "meaning": "sacrifice; slaughter offering"
+        },
+        {
+          "word": "savour",
+          "strongNumber": "H7381",
+          "lemma": "re'ach",
+          "meaning": "scent; fragrance"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "Then I said unto them, What is the high place whereunto ye go? And the name thereof is called Bamah unto this day.",
+      "highlightedWords": [
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "name; reputation"
+        },
+        {
+          "word": "Bamah",
+          "strongNumber": "H1116",
+          "lemma": "bamah",
+          "meaning": "high place"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "Wherefore say unto the house of Israel, Thus saith the Lord GOD; Are ye polluted after the manner of your fathers? and commit ye whoredom after their abominations?",
+      "highlightedWords": [
+        {
+          "word": "whoredom",
+          "strongNumber": "H2181",
+          "lemma": "zanah",
+          "meaning": "to commit fornication; be unfaithful (spiritually)"
+        },
+        {
+          "word": "abominations",
+          "strongNumber": "H8441",
+          "lemma": "toʿevah",
+          "meaning": "abomination; detestable thing"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "For when ye offer your gifts, when ye make your sons to pass through the fire, ye pollute yourselves with all your idols, even unto this day: and shall I be enquired of by you, O house of Israel? As I live, saith the Lord GOD, I will not be enquired of by you.",
+      "highlightedWords": [
+        {
+          "word": "idols",
+          "strongNumber": "H1544",
+          "lemma": "gillulim",
+          "meaning": "idols; detestable things"
+        },
+        {
+          "word": "enquired",
+          "strongNumber": "H1875",
+          "lemma": "darash",
+          "meaning": "to seek; inquire"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "And that which cometh into your mind shall not be at all, that ye say, We will be as the heathen, as the families of the countries, to serve wood and stone.",
+      "highlightedWords": [
+        {
+          "word": "heathen",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation; people; gentiles"
+        },
+        {
+          "word": "stone",
+          "strongNumber": "H68",
+          "lemma": "eben",
+          "meaning": "stone"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "As I live, saith the Lord GOD, surely with a mighty hand, and with a stretched out arm, and with fury poured out, will I rule over you:",
+      "highlightedWords": [
+        {
+          "word": "fury",
+          "strongNumber": "H2534",
+          "lemma": "chemah",
+          "meaning": "wrath; heat; fury"
+        },
+        {
+          "word": "rule",
+          "strongNumber": "H4427",
+          "lemma": "malak",
+          "meaning": "to reign; rule as king"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "And I will bring you out from the people, and will gather you out of the countries wherein ye are scattered, with a mighty hand, and with a stretched out arm, and with fury poured out.",
+      "highlightedWords": [
+        {
+          "word": "gather",
+          "strongNumber": "H6908",
+          "lemma": "qavats",
+          "meaning": "to gather; collect"
+        },
+        {
+          "word": "scattered",
+          "strongNumber": "H6327",
+          "lemma": "puwts",
+          "meaning": "to scatter; disperse"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "And I will bring you into the wilderness of the people, and there will I plead with you face to face.",
+      "highlightedWords": [
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbar",
+          "meaning": "desert; wilderness"
+        },
+        {
+          "word": "face",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "face; presence"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "Like as I pleaded with your fathers in the wilderness of the land of Egypt, so will I plead with you, saith the Lord GOD.",
+      "highlightedWords": [
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt"
+        },
+        {
+          "word": "plead",
+          "strongNumber": "H8199",
+          "lemma": "shaphat",
+          "meaning": "to judge; execute judgment; plead"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "And I will cause you to pass under the rod, and I will bring you into the bond of the covenant:",
+      "highlightedWords": [
+        {
+          "word": "rod",
+          "strongNumber": "H7626",
+          "lemma": "shebet",
+          "meaning": "rod; staff; scepter"
+        },
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "covenant; treaty; alliance"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "And I will purge out from among you the rebels, and them that transgress against me: I will bring them forth out of the country where they sojourn, and they shall not enter into the land of Israel: and ye shall know that I am the LORD.",
+      "highlightedWords": [
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "land; earth"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "text": "As for you, O house of Israel, thus saith the Lord GOD; Go ye, serve ye every one his idols, and hereafter also, if ye will not hearken unto me: but pollute ye my holy name no more with your gifts, and with your idols.",
+      "highlightedWords": [
+        {
+          "word": "idols",
+          "strongNumber": "H1544",
+          "lemma": "gillulim",
+          "meaning": "idols; detestable things"
+        },
+        {
+          "word": "holy",
+          "strongNumber": "H6944",
+          "lemma": "qodesh",
+          "meaning": "holiness; holy thing"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "text": "For in mine holy mountain, in the mountain of the height of Israel, saith the Lord GOD, there shall all the house of Israel, all of them in the land, serve me: there will I accept them, and there will I require your offerings, and the firstfruits of your oblations, with all your holy things.",
+      "highlightedWords": [
+        {
+          "word": "mountain",
+          "strongNumber": "H2022",
+          "lemma": "har",
+          "meaning": "mountain; hill"
+        },
+        {
+          "word": "oblations",
+          "strongNumber": "H8641",
+          "lemma": "terumah",
+          "meaning": "offering; contribution"
+        }
+      ]
+    },
+    {
+      "verse": 41,
+      "text": "I will accept you with your sweet savour, when I bring you out from the people, and gather you out of the countries wherein ye have been scattered; and I will be sanctified in you before the heathen.",
+      "highlightedWords": [
+        {
+          "word": "sanctified",
+          "strongNumber": "H6942",
+          "lemma": "qadash",
+          "meaning": "to consecrate; make holy"
+        },
+        {
+          "word": "heathen",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation; people; gentiles"
+        }
+      ]
+    },
+    {
+      "verse": 42,
+      "text": "And ye shall know that I am the LORD, when I shall bring you into the land of Israel, into the country for the which I lifted up mine hand to give it to your fathers.",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisra'el",
+          "meaning": "Israel"
+        },
+        {
+          "word": "fathers",
+          "strongNumber": "H1",
+          "lemma": "ab",
+          "meaning": "father; ancestor"
+        }
+      ]
+    },
+    {
+      "verse": 43,
+      "text": "And there shall ye remember your ways, and all your doings, wherein ye have been defiled; and ye shall loathe yourselves in your own sight for all your evils that ye have committed.",
+      "highlightedWords": [
+        {
+          "word": "defiled",
+          "strongNumber": "H2930",
+          "lemma": "tame",
+          "meaning": "to make unclean; defile"
+        },
+        {
+          "word": "evils",
+          "strongNumber": "H7451",
+          "lemma": "ra'",
+          "meaning": "evil; bad; calamity"
+        }
+      ]
+    },
+    {
+      "verse": 44,
+      "text": "And ye shall know that I am the LORD, when I have wrought with you for my name's sake, not according to your wicked ways, nor according to your corrupt doings, O ye house of Israel, saith the Lord GOD.",
+      "highlightedWords": [
+        {
+          "word": "name's",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "name; reputation"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha'",
+          "meaning": "wicked; guilty; criminal"
+        }
+      ]
+    },
+    {
+      "verse": 45,
+      "text": "Moreover the word of the LORD came unto me, saying,",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word; matter; thing"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the personal name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 46,
+      "text": "Son of man, set thy face toward the south, and drop thy word toward the south, and prophesy against the forest of the south field;",
+      "highlightedWords": [
+        {
+          "word": "prophesy",
+          "strongNumber": "H5012",
+          "lemma": "naba'",
+          "meaning": "to prophesy; speak by divine inspiration"
+        },
+        {
+          "word": "forest",
+          "strongNumber": "H3293",
+          "lemma": "ya'ar",
+          "meaning": "forest; woods"
+        }
+      ]
+    },
+    {
+      "verse": 47,
+      "text": "And say to the forest of the south, Hear the word of the LORD; Thus saith the Lord GOD; Behold, I will kindle a fire in thee, and it shall devour every green tree in thee, and every dry tree: the flaming flame shall not be quenched, and all faces from the south to the north shall be burned therein.",
+      "highlightedWords": [
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "esh",
+          "meaning": "fire"
+        },
+        {
+          "word": "quenched",
+          "strongNumber": "H3518",
+          "lemma": "kabah",
+          "meaning": "to be quenched; go out"
+        }
+      ]
+    },
+    {
+      "verse": 48,
+      "text": "And all flesh shall see that I the LORD have kindled it: it shall not be quenched.",
+      "highlightedWords": [
+        {
+          "word": "flesh",
+          "strongNumber": "H1320",
+          "lemma": "basar",
+          "meaning": "flesh; body; mankind"
+        },
+        {
+          "word": "quenched",
+          "strongNumber": "H3518",
+          "lemma": "kabah",
+          "meaning": "to be quenched; go out"
+        }
+      ]
+    },
+    {
+      "verse": 49,
+      "text": "Then said I, Ah Lord GOD! they say of me, Doth he not speak parables?",
+      "highlightedWords": [
+        {
+          "word": "speak",
+          "strongNumber": "H1696",
+          "lemma": "dabar",
+          "meaning": "to speak; declare"
+        },
+        {
+          "word": "parables",
+          "strongNumber": "H4912",
+          "lemma": "mashal",
+          "meaning": "proverb; parable; comparison"
+        }
+      ]
+    }
+  ]
+}

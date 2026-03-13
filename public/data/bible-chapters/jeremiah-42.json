@@ -1,0 +1,420 @@
+{
+  "book": "Jeremiah",
+  "chapter": 42,
+  "chapterTheme": {
+    "twoWordSummary": "Stay Warning",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH",
+        "meaning": "The covenant name of Israel’s God"
+      },
+      {
+        "word": "Egypt",
+        "strongNumber": "H4714",
+        "lemma": "Mitsrayim",
+        "meaning": "Egypt; the land to the southwest of Israel"
+      }
+    ]
+  },
+  "sentenceTheme": "The remnant asks Jeremiah to seek God’s guidance, God promises safety if they stay in Judah and warns of death if they flee to Egypt, exposing their insincerity.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Then all the captains of the forces, and Johanan the son of Kareah, and Jezaniah the son of Hoshaiah, and all the people from the least even unto the greatest, came near,",
+      "highlightedWords": [
+        {
+          "word": "captains",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "chief, ruler, commander"
+        },
+        {
+          "word": "forces",
+          "strongNumber": "H2428",
+          "lemma": "chayil",
+          "meaning": "army, military force, valor"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And said unto Jeremiah the prophet, Let, we beseech thee, our supplication be accepted before thee, and pray for us unto the LORD thy God, even for all this remnant; (for we are left but a few of many, as thine eyes do behold us:)",
+      "highlightedWords": [
+        {
+          "word": "pray",
+          "strongNumber": "H6419",
+          "lemma": "palal",
+          "meaning": "to intercede, pray"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "That the LORD thy God may shew us the way wherein we may walk, and the thing that we may do.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of Israel’s God"
+        },
+        {
+          "word": "way",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way, road, manner"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Then Jeremiah the prophet said unto them, I have heard you; behold, I will pray unto the LORD your God according to your words; and it shall come to pass, that whatsoever thing the LORD shall answer you, I will declare it unto you; I will keep nothing back from you.",
+      "highlightedWords": [
+        {
+          "word": "pray",
+          "strongNumber": "H6419",
+          "lemma": "palal",
+          "meaning": "to intercede, pray"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Then they said to Jeremiah, The LORD be a true and faithful witness between us, if we do not even according to all things for the which the LORD thy God shall send thee to us.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of Israel’s God"
+        },
+        {
+          "word": "witness",
+          "strongNumber": "H5707",
+          "lemma": "ed",
+          "meaning": "witness, testimony"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Whether it be good, or whether it be evil, we will obey the voice of the LORD our God, to whom we send thee; that it may be well with us, when we obey the voice of the LORD our God.",
+      "highlightedWords": [
+        {
+          "word": "obey",
+          "strongNumber": "H8085",
+          "lemma": "shama'",
+          "meaning": "to hear, listen to, obey"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And it came to pass after ten days, that the word of the LORD came unto Jeremiah.",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, thing"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Then called he Johanan the son of Kareah, and all the captains of the forces which were with him, and all the people from the least even to the greatest,",
+      "highlightedWords": [
+        {
+          "word": "captains",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "chief, ruler, commander"
+        },
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "am",
+          "meaning": "people, nation"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And said unto them, Thus saith the LORD, the God of Israel, unto whom ye sent me to present your supplication before him;",
+      "highlightedWords": [
+        {
+          "word": "saith",
+          "strongNumber": "H559",
+          "lemma": "amar",
+          "meaning": "to say, declare"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "If ye will still abide in this land, then will I build you, and not pull you down, and I will plant you, and not pluck you up: for I repent me of the evil that I have done unto you.",
+      "highlightedWords": [
+        {
+          "word": "build",
+          "strongNumber": "H1129",
+          "lemma": "banah",
+          "meaning": "to build, rebuild, establish"
+        },
+        {
+          "word": "plant",
+          "strongNumber": "H5193",
+          "lemma": "nata'",
+          "meaning": "to plant, set in place"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Be not afraid of the king of Babylon, of whom ye are afraid; be not afraid of him, saith the LORD: for I am with you to save you, and to deliver you from his hand.",
+      "highlightedWords": [
+        {
+          "word": "Babylon",
+          "strongNumber": "H0894",
+          "lemma": "Bavel",
+          "meaning": "Babylon"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And I will shew mercies unto you, that he may have mercy upon you, and cause you to return to your own land.",
+      "highlightedWords": [
+        {
+          "word": "mercies",
+          "strongNumber": "H7356",
+          "lemma": "rachamim",
+          "meaning": "compassions, mercies"
+        },
+        {
+          "word": "return",
+          "strongNumber": "H7725",
+          "lemma": "shuv",
+          "meaning": "to turn back, return, restore"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "But if ye say, We will not dwell in this land, neither obey the voice of the LORD your God,",
+      "highlightedWords": [
+        {
+          "word": "dwell",
+          "strongNumber": "H3427",
+          "lemma": "yashab",
+          "meaning": "to sit, remain, dwell"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Saying, No; but we will go into the land of Egypt, where we shall see no war, nor hear the sound of the trumpet, nor have hunger of bread; and there will we dwell:",
+      "highlightedWords": [
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt; the land to the southwest of Israel"
+        },
+        {
+          "word": "war",
+          "strongNumber": "H4421",
+          "lemma": "milchamah",
+          "meaning": "battle, war"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And now therefore hear the word of the LORD, ye remnant of Judah; Thus saith the LORD of hosts, the God of Israel; If ye wholly set your faces to enter into Egypt, and go to sojourn there;",
+      "highlightedWords": [
+        {
+          "word": "remnant",
+          "strongNumber": "H7611",
+          "lemma": "she'erith",
+          "meaning": "rest, residue, remnant"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt; the land to the southwest of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Then it shall come to pass, that the sword, which ye feared, shall overtake you there in the land of Egypt, and the famine, whereof ye were afraid, shall follow close after you there in Egypt; and there ye shall die.",
+      "highlightedWords": [
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword"
+        },
+        {
+          "word": "famine",
+          "strongNumber": "H7458",
+          "lemma": "ra'av",
+          "meaning": "famine, hunger"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "So shall it be with all the men that set their faces to go into Egypt to sojourn there; they shall die by the sword, by the famine, and by the pestilence: and none of them shall remain or escape from the evil that I will bring upon them.",
+      "highlightedWords": [
+        {
+          "word": "pestilence",
+          "strongNumber": "H1698",
+          "lemma": "deber",
+          "meaning": "pestilence, plague"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt; the land to the southwest of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "For thus saith the LORD of hosts, the God of Israel; As mine anger and my fury hath been poured forth upon the inhabitants of Jerusalem; so shall my fury be poured forth upon you, when ye shall enter into Egypt: and ye shall be an execration, and an astonishment, and a curse, and a reproach; and ye shall see this place no more.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of Israel’s God"
+        },
+        {
+          "word": "hosts",
+          "strongNumber": "H6635",
+          "lemma": "tsaba'",
+          "meaning": "armies, hosts"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "The LORD hath said concerning you, O ye remnant of Judah; Go ye not into Egypt: know certainly that I have admonished you this day.",
+      "highlightedWords": [
+        {
+          "word": "remnant",
+          "strongNumber": "H7611",
+          "lemma": "she'erith",
+          "meaning": "rest, residue, remnant"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt; the land to the southwest of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "For ye dissembled in your hearts, when ye sent me unto the LORD your God, saying, Pray for us unto the LORD our God; and according unto all that the LORD our God shall say, so declare unto us, and we will do it.",
+      "highlightedWords": [
+        {
+          "word": "Pray",
+          "strongNumber": "H6419",
+          "lemma": "palal",
+          "meaning": "to intercede, pray"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And now I have this day declared it to you; but ye have not obeyed the voice of the LORD your God, nor any thing for the which he hath sent me unto you.",
+      "highlightedWords": [
+        {
+          "word": "obeyed",
+          "strongNumber": "H8085",
+          "lemma": "shama'",
+          "meaning": "to hear, listen to, obey"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Now therefore know certainly that ye shall die by the sword, by the famine, and by the pestilence, in the place whither ye desire to go and to sojourn.",
+      "highlightedWords": [
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword"
+        },
+        {
+          "word": "pestilence",
+          "strongNumber": "H1698",
+          "lemma": "deber",
+          "meaning": "pestilence, plague"
+        }
+      ]
+    }
+  ]
+}

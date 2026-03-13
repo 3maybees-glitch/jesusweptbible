@@ -1,0 +1,420 @@
+{
+  "book": "Ezekiel",
+  "chapter": 10,
+  "chapterTheme": {
+    "twoWordSummary": "Departing Glory",
+    "themeWords": [
+      {
+        "word": "glory",
+        "strongNumber": "H3519",
+        "lemma": "kābôd",
+        "meaning": "weight, honor, splendor; the manifested presence of God"
+      },
+      {
+        "word": "cherubims",
+        "strongNumber": "H3742",
+        "lemma": "kerûv",
+        "meaning": "cherub; heavenly guardian being attending God's throne"
+      }
+    ]
+  },
+  "sentenceTheme": "Ezekiel witnesses coals of judgment and the departure of the LORD’s glory from the temple as the cherubim and wheels move in unison by the Spirit.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Then I looked, and, behold, in the firmament that was above the head of the cherubims there appeared over them as it were a sapphire stone, as the appearance of the likeness of a throne.",
+      "highlightedWords": [
+        {
+          "word": "sapphire",
+          "strongNumber": "H5601",
+          "lemma": "sappîr",
+          "meaning": "sapphire/lapis gemstone of deep blue"
+        },
+        {
+          "word": "throne",
+          "strongNumber": "H3678",
+          "lemma": "kisseʼ",
+          "meaning": "seat of honor; royal throne"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And he spake unto the man clothed with linen, and said, Go in between the wheels, even under the cherub, and fill thine hand with coals of fire from between the cherubims, and scatter them over the city. And he went in in my sight.",
+      "highlightedWords": [
+        {
+          "word": "coals",
+          "strongNumber": "H1513",
+          "lemma": "gechel",
+          "meaning": "ember; burning coal"
+        },
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "ʿîr",
+          "meaning": "city; town; urban center"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Now the cherubims stood on the right side of the house, when the man went in; and the cloud filled the inner court.",
+      "highlightedWords": [
+        {
+          "word": "cherubims",
+          "strongNumber": "H3742",
+          "lemma": "kerûv",
+          "meaning": "cherub; heavenly guardian being"
+        },
+        {
+          "word": "court",
+          "strongNumber": "H2691",
+          "lemma": "ḥāṣēr",
+          "meaning": "courtyard; enclosure"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Then the glory of the LORD went up from the cherub, and stood over the threshold of the house; and the house was filled with the cloud, and the court was full of the brightness of the LORD'S glory.",
+      "highlightedWords": [
+        {
+          "word": "glory",
+          "strongNumber": "H3519",
+          "lemma": "kābôd",
+          "meaning": "glory; weighty splendor; honor"
+        },
+        {
+          "word": "threshold",
+          "strongNumber": "H4670",
+          "lemma": "miptān",
+          "meaning": "threshold; sill"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And the sound of the cherubims' wings was heard even to the outer court, as the voice of the Almighty God when he speaketh.",
+      "highlightedWords": [
+        {
+          "word": "wings",
+          "strongNumber": "H3671",
+          "lemma": "kānāph",
+          "meaning": "wing; extremity"
+        },
+        {
+          "word": "Almighty",
+          "strongNumber": "H7706",
+          "lemma": "Shaddai",
+          "meaning": "the Almighty; All-powerful One"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And it came to pass, that when he had commanded the man clothed with linen, saying, Take fire from between the wheels, from between the cherubims; then he went in, and stood beside the wheels.",
+      "highlightedWords": [
+        {
+          "word": "linen",
+          "strongNumber": "H906",
+          "lemma": "bāḏ",
+          "meaning": "fine linen"
+        },
+        {
+          "word": "wheels",
+          "strongNumber": "H212",
+          "lemma": "ʾôphan",
+          "meaning": "wheel"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And one cherub stretched forth his hand from between the cherubims unto the fire that was between the cherubims, and took thereof, and put it into the hands of him that was clothed with linen: who took it, and went out.",
+      "highlightedWords": [
+        {
+          "word": "cherub",
+          "strongNumber": "H3742",
+          "lemma": "kerûv",
+          "meaning": "cherub; heavenly guardian being"
+        },
+        {
+          "word": "fire",
+          "strongNumber": "H784",
+          "lemma": "ʾēš",
+          "meaning": "fire"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And there appeared in the cherubims the form of a man's hand under their wings.",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yād",
+          "meaning": "hand; power"
+        },
+        {
+          "word": "wings",
+          "strongNumber": "H3671",
+          "lemma": "kānāph",
+          "meaning": "wing; extremity"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And when I looked, behold the four wheels by the cherubims, one wheel by one cherub, and another wheel by another cherub: and the appearance of the wheels was as the colour of a beryl stone.",
+      "highlightedWords": [
+        {
+          "word": "wheels",
+          "strongNumber": "H212",
+          "lemma": "ʾôphan",
+          "meaning": "wheel"
+        },
+        {
+          "word": "beryl",
+          "strongNumber": "H8658",
+          "lemma": "taršîš",
+          "meaning": "beryl/chrysolite (yellow-green gem)"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And as for their appearances, they four had one likeness, as if a wheel had been in the midst of a wheel.",
+      "highlightedWords": [
+        {
+          "word": "likeness",
+          "strongNumber": "H1823",
+          "lemma": "demûth",
+          "meaning": "likeness; resemblance"
+        },
+        {
+          "word": "wheel",
+          "strongNumber": "H212",
+          "lemma": "ʾôphan",
+          "meaning": "wheel"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "When they went, they went upon their four sides; they turned not as they went, but to the place whither the head looked they followed it; they turned not as they went.",
+      "highlightedWords": [
+        {
+          "word": "turned",
+          "strongNumber": "H2015",
+          "lemma": "hāphak",
+          "meaning": "to turn; change direction"
+        },
+        {
+          "word": "head",
+          "strongNumber": "H7218",
+          "lemma": "rōʾš",
+          "meaning": "head; chief; top"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And their whole body, and their backs, and their hands, and their wings, and the wheels, were full of eyes round about, even the wheels that they four had.",
+      "highlightedWords": [
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "ʿayin",
+          "meaning": "eye; appearance; spring"
+        },
+        {
+          "word": "wheels",
+          "strongNumber": "H212",
+          "lemma": "ʾôphan",
+          "meaning": "wheel"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "As for the wheels, it was cried unto them in my hearing, O wheel.",
+      "highlightedWords": [
+        {
+          "word": "wheels",
+          "strongNumber": "H212",
+          "lemma": "ʾôphan",
+          "meaning": "wheel"
+        },
+        {
+          "word": "wheel",
+          "strongNumber": "H1534",
+          "lemma": "galgal",
+          "meaning": "whirling wheel; rolling object"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And every one had four faces: the first face was the face of a cherub, and the second face was the face of a man, and the third the face of a lion, and the fourth the face of an eagle.",
+      "highlightedWords": [
+        {
+          "word": "cherub",
+          "strongNumber": "H3742",
+          "lemma": "kerûv",
+          "meaning": "cherub; heavenly guardian being"
+        },
+        {
+          "word": "eagle",
+          "strongNumber": "H5404",
+          "lemma": "nešer",
+          "meaning": "eagle; large raptor"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And the cherubims were lifted up. This is the living creature that I saw by the river of Chebar.",
+      "highlightedWords": [
+        {
+          "word": "cherubims",
+          "strongNumber": "H3742",
+          "lemma": "kerûv",
+          "meaning": "cherub; heavenly guardian being"
+        },
+        {
+          "word": "Chebar",
+          "strongNumber": "H3529",
+          "lemma": "Kebār",
+          "meaning": "Chebar; a river/canal in Babylonia"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And when the cherubims went, the wheels went by them: and when the cherubims lifted up their wings to mount up from the earth, the same wheels also turned not from beside them.",
+      "highlightedWords": [
+        {
+          "word": "wheels",
+          "strongNumber": "H212",
+          "lemma": "ʾôphan",
+          "meaning": "wheel"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "ʾereṣ",
+          "meaning": "earth; land"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "When they stood, these stood; and when they were lifted up, these lifted up themselves also: for the spirit of the living creature was in them.",
+      "highlightedWords": [
+        {
+          "word": "spirit",
+          "strongNumber": "H7307",
+          "lemma": "rûaḥ",
+          "meaning": "spirit; wind; breath"
+        },
+        {
+          "word": "creature",
+          "strongNumber": "H2416",
+          "lemma": "ḥayyāh",
+          "meaning": "living creature; living being"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Then the glory of the LORD departed from off the threshold of the house, and stood over the cherubims.",
+      "highlightedWords": [
+        {
+          "word": "glory",
+          "strongNumber": "H3519",
+          "lemma": "kābôd",
+          "meaning": "glory; weighty splendor; honor"
+        },
+        {
+          "word": "cherubims",
+          "strongNumber": "H3742",
+          "lemma": "kerûv",
+          "meaning": "cherub; heavenly guardian being"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And the cherubims lifted up their wings, and mounted up from the earth in my sight: when they went out, the wheels also were beside them, and every one stood at the door of the east gate of the LORD'S house; and the glory of the God of Israel was over them above.",
+      "highlightedWords": [
+        {
+          "word": "east",
+          "strongNumber": "H4217",
+          "lemma": "mizraḥ",
+          "meaning": "east; sunrise"
+        },
+        {
+          "word": "gate",
+          "strongNumber": "H8179",
+          "lemma": "šaʿar",
+          "meaning": "gate; city or temple gate"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "This is the living creature that I saw under the God of Israel by the river of Chebar; and I knew that they were the cherubims.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "ʾĕlōhîm",
+          "meaning": "God; deity"
+        },
+        {
+          "word": "cherubims",
+          "strongNumber": "H3742",
+          "lemma": "kerûv",
+          "meaning": "cherub; heavenly guardian being"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Every one had four faces apiece, and every one four wings; and the likeness of the hands of a man was under their wings.",
+      "highlightedWords": [
+        {
+          "word": "faces",
+          "strongNumber": "H6440",
+          "lemma": "pānîm",
+          "meaning": "face; presence"
+        },
+        {
+          "word": "wings",
+          "strongNumber": "H3671",
+          "lemma": "kānāph",
+          "meaning": "wing; extremity"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And the likeness of their faces was the same faces which I saw by the river of Chebar, their appearances and themselves: they went every one straight forward.",
+      "highlightedWords": [
+        {
+          "word": "faces",
+          "strongNumber": "H6440",
+          "lemma": "pānîm",
+          "meaning": "face; presence"
+        },
+        {
+          "word": "Chebar",
+          "strongNumber": "H3529",
+          "lemma": "Kebār",
+          "meaning": "Chebar; a river/canal in Babylonia"
+        }
+      ]
+    }
+  ]
+}

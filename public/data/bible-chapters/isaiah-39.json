@@ -1,0 +1,168 @@
+{
+  "book": "Isaiah",
+  "chapter": 39,
+  "chapterTheme": {
+    "twoWordSummary": "Babylon Warning",
+    "themeWords": [
+      {
+        "word": "Babylon",
+        "strongNumber": "H894",
+        "lemma": "Babel",
+        "meaning": "Babylon; the chief city/empire of Babylonia"
+      },
+      {
+        "word": "Hezekiah",
+        "strongNumber": "H2396",
+        "lemma": "Chizqiyyah",
+        "meaning": "Hezekiah; 'Yahweh has strengthened'"
+      }
+    ]
+  },
+  "sentenceTheme": "Envoys from Babylon prompt Isaiah’s prophecy that Judah’s treasures and royal sons will be taken to Babylon.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "At that time Merodachbaladan, the son of Baladan, king of Babylon, sent letters and a present to Hezekiah: for he had heard that he had been sick, and was recovered.",
+      "highlightedWords": [
+        {
+          "word": "Babylon",
+          "strongNumber": "H894",
+          "lemma": "Babel",
+          "meaning": "Babylon; the chief city/empire of Babylonia"
+        },
+        {
+          "word": "Hezekiah",
+          "strongNumber": "H2396",
+          "lemma": "Chizqiyyah",
+          "meaning": "Hezekiah; 'Yahweh has strengthened'"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And Hezekiah was glad of them, and shewed them the house of his precious things, the silver, and the gold, and the spices, and the precious ointment, and all the house of his armour, and all that was found in his treasures: there was nothing in his house, nor in all his dominion, that Hezekiah shewed them not.",
+      "highlightedWords": [
+        {
+          "word": "treasures",
+          "strongNumber": "H214",
+          "lemma": "otsar",
+          "meaning": "treasure; storehouse, supplies"
+        },
+        {
+          "word": "dominion",
+          "strongNumber": "H4475",
+          "lemma": "memshalah",
+          "meaning": "rule; dominion, realm"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Then came Isaiah the prophet unto king Hezekiah, and said unto him, What said these men? and from whence came they unto thee? And Hezekiah said, They are come from a far country unto me, even from Babylon.",
+      "highlightedWords": [
+        {
+          "word": "Isaiah",
+          "strongNumber": "H3470",
+          "lemma": "Yesha'yahu",
+          "meaning": "Isaiah; 'Yahweh is salvation'"
+        },
+        {
+          "word": "prophet",
+          "strongNumber": "H5030",
+          "lemma": "nabi",
+          "meaning": "prophet; spokesperson for God"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Then said he, What have they seen in thine house? And Hezekiah answered, All that is in mine house have they seen: there is nothing among my treasures that I have not shewed them.",
+      "highlightedWords": [
+        {
+          "word": "Hezekiah",
+          "strongNumber": "H2396",
+          "lemma": "Chizqiyyah",
+          "meaning": "Hezekiah; 'Yahweh has strengthened'"
+        },
+        {
+          "word": "treasures",
+          "strongNumber": "H214",
+          "lemma": "otsar",
+          "meaning": "treasure; storehouse, supplies"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Then said Isaiah to Hezekiah, Hear the word of the LORD of hosts:",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "hosts",
+          "strongNumber": "H6635",
+          "lemma": "tsaba",
+          "meaning": "armies; hosts; heavenly/earthly forces"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Behold, the days come, that all that is in thine house, and that which thy fathers have laid up in store until this day, shall be carried to Babylon: nothing shall be left, saith the LORD.",
+      "highlightedWords": [
+        {
+          "word": "fathers",
+          "strongNumber": "H1",
+          "lemma": "ab",
+          "meaning": "father; ancestor"
+        },
+        {
+          "word": "Babylon",
+          "strongNumber": "H894",
+          "lemma": "Babel",
+          "meaning": "Babylon; the chief city/empire of Babylonia"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And of thy sons that shall issue from thee, which thou shalt beget, shall they take away; and they shall be eunuchs in the palace of the king of Babylon.",
+      "highlightedWords": [
+        {
+          "word": "eunuchs",
+          "strongNumber": "H5631",
+          "lemma": "saris",
+          "meaning": "court official; eunuch"
+        },
+        {
+          "word": "palace",
+          "strongNumber": "H1964",
+          "lemma": "hekal",
+          "meaning": "palace; temple"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Then said Hezekiah to Isaiah, Good is the word of the LORD which thou hast spoken. He said moreover, For there shall be peace and truth in my days.",
+      "highlightedWords": [
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace; welfare; completeness"
+        },
+        {
+          "word": "truth",
+          "strongNumber": "H571",
+          "lemma": "emet",
+          "meaning": "firmness; faithfulness; truth"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "book": "Jeremiah",
+  "chapter": 24,
+  "chapterTheme": {
+    "twoWordSummary": "Good Figs",
+    "themeWords": [
+      {
+        "word": "figs",
+        "strongNumber": "H8384",
+        "lemma": "te'enah",
+        "meaning": "fig; fig tree or its fruit"
+      },
+      {
+        "word": "heart",
+        "strongNumber": "H3820",
+        "lemma": "leb",
+        "meaning": "heart; inner person, mind, will"
+      }
+    ]
+  },
+  "sentenceTheme": "God shows Jeremiah two baskets of figs, promising good to the exiles He sent to Babylon and judgment upon those remaining under Zedekiah.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "The LORD shewed me, and, behold, two baskets of figs were set before the temple of the LORD, after that Nebuchadrezzar king of Babylon had carried away captive Jeconiah the son of Jehoiakim king of Judah, and the princes of Judah, with the carpenters and smiths, from Jerusalem, and had brought them to Babylon.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel; the LORD (Yahweh)"
+        },
+        {
+          "word": "figs",
+          "strongNumber": "H8384",
+          "lemma": "te'enah",
+          "meaning": "fig; fig tree or its fruit"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "One basket had very good figs, even like the figs that are first ripe: and the other basket had very naughty figs, which could not be eaten, they were so bad.",
+      "highlightedWords": [
+        {
+          "word": "good",
+          "strongNumber": "H2896",
+          "lemma": "tov",
+          "meaning": "good, pleasant, beneficial, excellent"
+        },
+        {
+          "word": "naughty",
+          "strongNumber": "H7451",
+          "lemma": "ra'",
+          "meaning": "bad, evil, harmful, wicked"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Then said the LORD unto me, What seest thou, Jeremiah? And I said, Figs; the good figs, very good; and the evil, very evil, that cannot be eaten, they are so evil.",
+      "highlightedWords": [
+        {
+          "word": "good",
+          "strongNumber": "H2896",
+          "lemma": "tov",
+          "meaning": "good, pleasant, beneficial, excellent"
+        },
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra'",
+          "meaning": "bad, evil, harmful, wicked"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Again the word of the LORD came unto me, saying,",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, thing, message"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel; the LORD (Yahweh)"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Thus saith the LORD, the God of Israel; Like these good figs, so will I acknowledge them that are carried away captive of Judah, whom I have sent out of this place into the land of the Chaldeans for their good.",
+      "highlightedWords": [
+        {
+          "word": "figs",
+          "strongNumber": "H8384",
+          "lemma": "te'enah",
+          "meaning": "fig; fig tree or its fruit"
+        },
+        {
+          "word": "Chaldeans",
+          "strongNumber": "H3778",
+          "lemma": "Kasdiy",
+          "meaning": "Chaldeans; people of Chaldea (Babylon)"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "For I will set mine eyes upon them for good, and I will bring them again to this land: and I will build them, and not pull them down; and I will plant them, and not pluck them up.",
+      "highlightedWords": [
+        {
+          "word": "build",
+          "strongNumber": "H1129",
+          "lemma": "banah",
+          "meaning": "to build, rebuild, establish"
+        },
+        {
+          "word": "plant",
+          "strongNumber": "H5193",
+          "lemma": "nata'",
+          "meaning": "to plant, set, establish"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And I will give them an heart to know me, that I am the LORD: and they shall be my people, and I will be their God: for they shall return unto me with their whole heart.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart; inner person, mind, will"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel; the LORD (Yahweh)"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And as the evil figs, which cannot be eaten, they are so evil; surely thus saith the LORD, So will I give Zedekiah the king of Judah, and his princes, and the residue of Jerusalem, that remain in this land, and them that dwell in the land of Egypt:",
+      "highlightedWords": [
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra'",
+          "meaning": "bad, evil, harmful, wicked"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt; the land of the Egyptians"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And I will deliver them to be removed into all the kingdoms of the earth for their hurt, to be a reproach and a proverb, a taunt and a curse, in all places whither I shall drive them.",
+      "highlightedWords": [
+        {
+          "word": "reproach",
+          "strongNumber": "H2781",
+          "lemma": "cherpah",
+          "meaning": "reproach, disgrace, shame"
+        },
+        {
+          "word": "proverb",
+          "strongNumber": "H4912",
+          "lemma": "mashal",
+          "meaning": "proverb, parable, byword"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And I will send the sword, the famine, and the pestilence, among them, till they be consumed from off the land that I gave unto them and to their fathers.",
+      "highlightedWords": [
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword, dagger; war"
+        },
+        {
+          "word": "pestilence",
+          "strongNumber": "H1698",
+          "lemma": "deber",
+          "meaning": "pestilence, plague"
+        }
+      ]
+    }
+  ]
+}

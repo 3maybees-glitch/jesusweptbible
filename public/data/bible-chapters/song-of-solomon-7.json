@@ -1,0 +1,258 @@
+{
+  "book": "Song of Solomon",
+  "chapter": 7,
+  "chapterTheme": {
+    "twoWordSummary": "Lover's Admiration",
+    "themeWords": [
+      {
+        "word": "beloved",
+        "strongNumber": "H1730",
+        "lemma": "dod",
+        "meaning": "beloved, lover"
+      },
+      {
+        "word": "love",
+        "strongNumber": "H160",
+        "lemma": "ahabah",
+        "meaning": "love, affection"
+      }
+    ]
+  },
+  "sentenceTheme": "Mutual admiration celebrates beauty and desire, inviting love into the fields and vineyards to share delights and treasured fruits.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "How beautiful are thy feet with shoes, O prince's daughter! the joints of thy thighs are like jewels, the work of the hands of a cunning workman.",
+      "highlightedWords": [
+        {
+          "word": "feet",
+          "strongNumber": "H7272",
+          "lemma": "regel",
+          "meaning": "foot"
+        },
+        {
+          "word": "daughter",
+          "strongNumber": "H1323",
+          "lemma": "bat",
+          "meaning": "daughter"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Thy navel is like a round goblet, which wanteth not liquor: thy belly is like an heap of wheat set about with lilies.",
+      "highlightedWords": [
+        {
+          "word": "navel",
+          "strongNumber": "H8326",
+          "lemma": "shorer",
+          "meaning": "navel"
+        },
+        {
+          "word": "lilies",
+          "strongNumber": "H7799",
+          "lemma": "shoshannah",
+          "meaning": "lily"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Thy two breasts are like two young roes that are twins.",
+      "highlightedWords": [
+        {
+          "word": "breasts",
+          "strongNumber": "H7699",
+          "lemma": "shad",
+          "meaning": "breast"
+        },
+        {
+          "word": "roes",
+          "strongNumber": "H6643",
+          "lemma": "tsevi",
+          "meaning": "gazelle, roe deer"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Thy neck is as a tower of ivory; thine eyes like the fishpools in Heshbon, by the gate of Bathrabbim: thy nose is as the tower of Lebanon which looketh toward Damascus.",
+      "highlightedWords": [
+        {
+          "word": "neck",
+          "strongNumber": "H6677",
+          "lemma": "tsavvar",
+          "meaning": "neck"
+        },
+        {
+          "word": "Lebanon",
+          "strongNumber": "H3844",
+          "lemma": "Levanon",
+          "meaning": "Lebanon"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Thine head upon thee is like Carmel, and the hair of thine head like purple; the king is held in the galleries.",
+      "highlightedWords": [
+        {
+          "word": "head",
+          "strongNumber": "H7218",
+          "lemma": "rosh",
+          "meaning": "head"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "How fair and how pleasant art thou, O love, for delights!",
+      "highlightedWords": [
+        {
+          "word": "love",
+          "strongNumber": "H160",
+          "lemma": "ahabah",
+          "meaning": "love, affection"
+        },
+        {
+          "word": "pleasant",
+          "strongNumber": "H5273",
+          "lemma": "na'im",
+          "meaning": "pleasant, delightful"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "This thy stature is like to a palm tree, and thy breasts to clusters of grapes.",
+      "highlightedWords": [
+        {
+          "word": "stature",
+          "strongNumber": "H6967",
+          "lemma": "qomah",
+          "meaning": "height, stature"
+        },
+        {
+          "word": "palm tree",
+          "strongNumber": "H8558",
+          "lemma": "tamar",
+          "meaning": "date-palm tree"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "I said, I will go up to the palm tree, I will take hold of the boughs thereof: now also thy breasts shall be as clusters of the vine, and the smell of thy nose like apples;",
+      "highlightedWords": [
+        {
+          "word": "breasts",
+          "strongNumber": "H7699",
+          "lemma": "shad",
+          "meaning": "breast"
+        },
+        {
+          "word": "vine",
+          "strongNumber": "H1612",
+          "lemma": "gefen",
+          "meaning": "vine"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And the roof of thy mouth like the best wine for my beloved, that goeth down sweetly, causing the lips of those that are asleep to speak.",
+      "highlightedWords": [
+        {
+          "word": "wine",
+          "strongNumber": "H3196",
+          "lemma": "yayin",
+          "meaning": "wine"
+        },
+        {
+          "word": "beloved",
+          "strongNumber": "H1730",
+          "lemma": "dod",
+          "meaning": "beloved, lover"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "I am my beloved's, and his desire is toward me.",
+      "highlightedWords": [
+        {
+          "word": "beloved's",
+          "strongNumber": "H1730",
+          "lemma": "dod",
+          "meaning": "beloved, lover"
+        },
+        {
+          "word": "desire",
+          "strongNumber": "H8669",
+          "lemma": "teshuqah",
+          "meaning": "desire, longing"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Come, my beloved, let us go forth into the field; let us lodge in the villages.",
+      "highlightedWords": [
+        {
+          "word": "field",
+          "strongNumber": "H7704",
+          "lemma": "sadeh",
+          "meaning": "field, open country"
+        },
+        {
+          "word": "villages",
+          "strongNumber": "H3723",
+          "lemma": "kaphar",
+          "meaning": "village, hamlet"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Let us get up early to the vineyards; let us see if the vine flourish, whether the tender grape appear, and the pomegranates bud forth: there will I give thee my loves.",
+      "highlightedWords": [
+        {
+          "word": "vineyards",
+          "strongNumber": "H3754",
+          "lemma": "kerem",
+          "meaning": "vineyard"
+        },
+        {
+          "word": "pomegranates",
+          "strongNumber": "H7416",
+          "lemma": "rimmon",
+          "meaning": "pomegranate"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "The mandrakes give a smell, and at our gates are all manner of pleasant fruits, new and old, which I have laid up for thee, O my beloved.",
+      "highlightedWords": [
+        {
+          "word": "mandrakes",
+          "strongNumber": "H1736",
+          "lemma": "dudaim",
+          "meaning": "mandrakes"
+        },
+        {
+          "word": "fruits",
+          "strongNumber": "H6529",
+          "lemma": "peri",
+          "meaning": "fruit, produce"
+        }
+      ]
+    }
+  ]
+}

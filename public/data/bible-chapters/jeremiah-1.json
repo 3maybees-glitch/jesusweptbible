@@ -1,0 +1,366 @@
+{
+  "book": "Jeremiah",
+  "chapter": 1,
+  "chapterTheme": {
+    "twoWordSummary": "Prophet Called",
+    "themeWords": [
+      {
+        "word": "call",
+        "strongNumber": "H7121",
+        "lemma": "qara'",
+        "meaning": "to call, summon, proclaim"
+      },
+      {
+        "word": "prophet",
+        "strongNumber": "H5030",
+        "lemma": "navi'",
+        "meaning": "prophet, spokesman"
+      }
+    ]
+  },
+  "sentenceTheme": "God calls and appoints Jeremiah, assuring His presence and revealing the coming judgment from the north.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "The words of Jeremiah the son of Hilkiah, of the priests that were in Anathoth in the land of Benjamin:",
+      "highlightedWords": [
+        {
+          "word": "Jeremiah",
+          "strongNumber": "H3414",
+          "lemma": "Yirmeyahu",
+          "meaning": "Yahweh exalts"
+        },
+        {
+          "word": "Benjamin",
+          "strongNumber": "H1144",
+          "lemma": "Binyamin",
+          "meaning": "son of the right hand"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "To whom the word of the LORD came in the days of Josiah the son of Amon king of Judah, in the thirteenth year of his reign.",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, thing"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "It came also in the days of Jehoiakim the son of Josiah king of Judah, unto the end of the eleventh year of Zedekiah the son of Josiah king of Judah, unto the carrying away of Jerusalem captive in the fifth month.",
+      "highlightedWords": [
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yehudah",
+          "meaning": "Judah; praised"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem; foundation of peace"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Then the word of the LORD came unto me, saying,",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, thing"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee, and I ordained thee a prophet unto the nations.",
+      "highlightedWords": [
+        {
+          "word": "prophet",
+          "strongNumber": "H5030",
+          "lemma": "navi'",
+          "meaning": "prophet, spokesman"
+        },
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation, people, Gentiles"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Then said I, Ah, Lord GOD! behold, I cannot speak: for I am a child.",
+      "highlightedWords": [
+        {
+          "word": "speak",
+          "strongNumber": "H1696",
+          "lemma": "dabar",
+          "meaning": "to speak, declare"
+        },
+        {
+          "word": "child",
+          "strongNumber": "H5288",
+          "lemma": "na'ar",
+          "meaning": "boy, youth, lad"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "But the LORD said unto me, Say not, I am a child: for thou shalt go to all that I shall send thee, and whatsoever I command thee thou shalt speak.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        },
+        {
+          "word": "send",
+          "strongNumber": "H7971",
+          "lemma": "shalach",
+          "meaning": "to send, dispatch"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Be not afraid of their faces: for I am with thee to deliver thee, saith the LORD.",
+      "highlightedWords": [
+        {
+          "word": "afraid",
+          "strongNumber": "H3372",
+          "lemma": "yare'",
+          "meaning": "to fear, be afraid"
+        },
+        {
+          "word": "deliver",
+          "strongNumber": "H5337",
+          "lemma": "natsal",
+          "meaning": "to deliver, rescue, snatch away"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Then the LORD put forth his hand, and touched my mouth. And the LORD said unto me, Behold, I have put my words in thy mouth.",
+      "highlightedWords": [
+        {
+          "word": "words",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "words, matters"
+        },
+        {
+          "word": "mouth",
+          "strongNumber": "H6310",
+          "lemma": "peh",
+          "meaning": "mouth"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "See, I have this day set thee over the nations and over the kingdoms, to root out, and to pull down, and to destroy, and to throw down, to build, and to plant.",
+      "highlightedWords": [
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nation, people, Gentiles"
+        },
+        {
+          "word": "kingdoms",
+          "strongNumber": "H4467",
+          "lemma": "mamlakah",
+          "meaning": "kingdom, dominion, realm"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Moreover the word of the LORD came unto me, saying, Jeremiah, what seest thou? And I said, I see a rod of an almond tree.",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, thing"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Then said the LORD unto me, Thou hast well seen: for I will hasten my word to perform it.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of the God of Israel"
+        },
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, thing"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And the word of the LORD came unto me the second time, saying, What seest thou? And I said, I see a seething pot; and the face thereof is toward the north.",
+      "highlightedWords": [
+        {
+          "word": "pot",
+          "strongNumber": "H5518",
+          "lemma": "siyr",
+          "meaning": "pot, cauldron"
+        },
+        {
+          "word": "north",
+          "strongNumber": "H6828",
+          "lemma": "tsaphon",
+          "meaning": "north, northern region"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Then the LORD said unto me, Out of the north an evil shall break forth upon all the inhabitants of the land.",
+      "highlightedWords": [
+        {
+          "word": "north",
+          "strongNumber": "H6828",
+          "lemma": "tsaphon",
+          "meaning": "north, northern region"
+        },
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra'",
+          "meaning": "evil, calamity, distress"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "For, lo, I will call all the families of the kingdoms of the north, saith the LORD; and they shall come, and they shall set every one his throne at the entering of the gates of Jerusalem, and against all the walls thereof round about, and against all the cities of Judah.",
+      "highlightedWords": [
+        {
+          "word": "families",
+          "strongNumber": "H4940",
+          "lemma": "mishpachah",
+          "meaning": "family, clan"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem; foundation of peace"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And I will utter my judgments against them touching all their wickedness, who have forsaken me, and have burned incense unto other gods, and worshipped the works of their own hands.",
+      "highlightedWords": [
+        {
+          "word": "judgments",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "judgment, justice, decision"
+        },
+        {
+          "word": "forsaken",
+          "strongNumber": "H5800",
+          "lemma": "'azab",
+          "meaning": "to forsake, abandon, leave"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Thou therefore gird up thy loins, and arise, and speak unto them all that I command thee: be not dismayed at their faces, lest I confound thee before them.",
+      "highlightedWords": [
+        {
+          "word": "loins",
+          "strongNumber": "H4975",
+          "lemma": "mothen",
+          "meaning": "loins, hips, waist"
+        },
+        {
+          "word": "command",
+          "strongNumber": "H6680",
+          "lemma": "tsavah",
+          "meaning": "to command, charge"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "For, behold, I have made thee this day a defenced city, and an iron pillar, and brasen walls against the whole land, against the kings of Judah, against the princes thereof, against the priests thereof, and against the people of the land.",
+      "highlightedWords": [
+        {
+          "word": "iron",
+          "strongNumber": "H1270",
+          "lemma": "barzel",
+          "meaning": "iron"
+        },
+        {
+          "word": "brasen",
+          "strongNumber": "H5178",
+          "lemma": "nechosheth",
+          "meaning": "bronze, copper, brass"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And they shall fight against thee; but they shall not prevail against thee; for I am with thee, saith the LORD, to deliver thee.",
+      "highlightedWords": [
+        {
+          "word": "fight",
+          "strongNumber": "H3898",
+          "lemma": "lacham",
+          "meaning": "to fight, wage war"
+        },
+        {
+          "word": "deliver",
+          "strongNumber": "H5337",
+          "lemma": "natsal",
+          "meaning": "to deliver, rescue, snatch away"
+        }
+      ]
+    }
+  ]
+}

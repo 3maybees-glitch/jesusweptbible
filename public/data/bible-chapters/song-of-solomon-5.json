@@ -1,0 +1,312 @@
+{
+  "book": "Song of Solomon",
+  "chapter": 5,
+  "chapterTheme": {
+    "twoWordSummary": "Longing Portrait",
+    "themeWords": [
+      {
+        "word": "beloved",
+        "strongNumber": "H1730",
+        "lemma": "dod",
+        "meaning": "beloved; one dearly loved"
+      },
+      {
+        "word": "myrrh",
+        "strongNumber": "H4753",
+        "lemma": "mor",
+        "meaning": "myrrh; fragrant resin"
+      }
+    ]
+  },
+  "sentenceTheme": "The bride misses her beloved, searches for him amid hardship, and then praises his matchless beauty.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "I am come into my garden, my sister, my spouse: I have gathered my myrrh with my spice; I have eaten my honeycomb with my honey; I have drunk my wine with my milk: eat, O friends; drink, yea, drink abundantly, O beloved.",
+      "highlightedWords": [
+        {
+          "word": "garden",
+          "strongNumber": "H1588",
+          "lemma": "gan",
+          "meaning": "an enclosed garden"
+        },
+        {
+          "word": "myrrh",
+          "strongNumber": "H4753",
+          "lemma": "mor",
+          "meaning": "myrrh; fragrant resin"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "I sleep, but my heart waketh: it is the voice of my beloved that knocketh, saying, Open to me, my sister, my love, my dove, my undefiled: for my head is filled with dew, and my locks with the drops of the night.",
+      "highlightedWords": [
+        {
+          "word": "voice",
+          "strongNumber": "H6963",
+          "lemma": "qol",
+          "meaning": "voice; sound"
+        },
+        {
+          "word": "beloved",
+          "strongNumber": "H1730",
+          "lemma": "dod",
+          "meaning": "beloved; one dearly loved"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "I have put off my coat; how shall I put it on? I have washed my feet; how shall I defile them?",
+      "highlightedWords": [
+        {
+          "word": "coat",
+          "strongNumber": "H3801",
+          "lemma": "kĕthoneth",
+          "meaning": "a tunic; a long shirt-like garment"
+        },
+        {
+          "word": "feet",
+          "strongNumber": "H7272",
+          "lemma": "regel",
+          "meaning": "foot; feet"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "My beloved put in his hand by the hole of the door, and my bowels were moved for him.",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand; power"
+        },
+        {
+          "word": "door",
+          "strongNumber": "H1817",
+          "lemma": "deleth",
+          "meaning": "door; door-leaf"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "I rose up to open to my beloved; and my hands dropped with myrrh, and my fingers with sweet smelling myrrh, upon the handles of the lock.",
+      "highlightedWords": [
+        {
+          "word": "myrrh",
+          "strongNumber": "H4753",
+          "lemma": "mor",
+          "meaning": "myrrh; fragrant resin"
+        },
+        {
+          "word": "lock",
+          "strongNumber": "H4496",
+          "lemma": "man'ul",
+          "meaning": "bar; bolt; lock"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "I opened to my beloved; but my beloved had withdrawn himself, and was gone: my soul failed when he spake: I sought him, but I could not find him; I called him, but he gave me no answer.",
+      "highlightedWords": [
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul; life; self"
+        },
+        {
+          "word": "beloved",
+          "strongNumber": "H1730",
+          "lemma": "dod",
+          "meaning": "beloved; one dearly loved"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "The watchmen that went about the city found me, they smote me, they wounded me; the keepers of the walls took away my vail from me.",
+      "highlightedWords": [
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "ir",
+          "meaning": "city; town"
+        },
+        {
+          "word": "walls",
+          "strongNumber": "H2346",
+          "lemma": "chomah",
+          "meaning": "wall; protective wall"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "I charge you, O daughters of Jerusalem, if ye find my beloved, that ye tell him, that I am sick of love.",
+      "highlightedWords": [
+        {
+          "word": "daughters",
+          "strongNumber": "H1323",
+          "lemma": "bath",
+          "meaning": "daughter; female descendant"
+        },
+        {
+          "word": "love",
+          "strongNumber": "H0160",
+          "lemma": "ahabah",
+          "meaning": "love; affection"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "What is thy beloved more than another beloved, O thou fairest among women? what is thy beloved more than another beloved, that thou dost so charge us?",
+      "highlightedWords": [
+        {
+          "word": "beloved",
+          "strongNumber": "H1730",
+          "lemma": "dod",
+          "meaning": "beloved; one dearly loved"
+        },
+        {
+          "word": "women",
+          "strongNumber": "H0802",
+          "lemma": "ishshah",
+          "meaning": "woman; wife; female"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "My beloved is white and ruddy, the chiefest among ten thousand.",
+      "highlightedWords": [
+        {
+          "word": "beloved",
+          "strongNumber": "H1730",
+          "lemma": "dod",
+          "meaning": "beloved; one dearly loved"
+        },
+        {
+          "word": "ruddy",
+          "strongNumber": "H0132",
+          "lemma": "admoniy",
+          "meaning": "ruddy; reddish"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "His head is as the most fine gold, his locks are bushy, and black as a raven.",
+      "highlightedWords": [
+        {
+          "word": "head",
+          "strongNumber": "H7218",
+          "lemma": "rosh",
+          "meaning": "head; top; chief"
+        },
+        {
+          "word": "raven",
+          "strongNumber": "H6158",
+          "lemma": "orev",
+          "meaning": "raven; black bird"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "His eyes are as the eyes of doves by the rivers of waters, washed with milk, and fitly set.",
+      "highlightedWords": [
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "ayin",
+          "meaning": "eye; appearance"
+        },
+        {
+          "word": "doves",
+          "strongNumber": "H3123",
+          "lemma": "yownah",
+          "meaning": "dove; pigeon"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "His cheeks are as a bed of spices, as sweet flowers: his lips like lilies, dropping sweet smelling myrrh.",
+      "highlightedWords": [
+        {
+          "word": "lips",
+          "strongNumber": "H8193",
+          "lemma": "saphah",
+          "meaning": "lip; speech"
+        },
+        {
+          "word": "myrrh",
+          "strongNumber": "H4753",
+          "lemma": "mor",
+          "meaning": "myrrh; fragrant resin"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "His hands are as gold rings set with the beryl: his belly is as bright ivory overlaid with sapphires.",
+      "highlightedWords": [
+        {
+          "word": "hands",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand; power"
+        },
+        {
+          "word": "sapphires",
+          "strongNumber": "H5601",
+          "lemma": "sappir",
+          "meaning": "sapphire (precious stone)"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "His legs are as pillars of marble, set upon sockets of fine gold: his countenance is as Lebanon, excellent as the cedars.",
+      "highlightedWords": [
+        {
+          "word": "Lebanon",
+          "strongNumber": "H3844",
+          "lemma": "Levanon",
+          "meaning": "Lebanon; the mountain range"
+        },
+        {
+          "word": "cedars",
+          "strongNumber": "H0730",
+          "lemma": "erez",
+          "meaning": "cedar tree; cedar wood"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "His mouth is most sweet: yea, he is altogether lovely. This is my beloved, and this is my friend, O daughters of Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "beloved",
+          "strongNumber": "H1730",
+          "lemma": "dod",
+          "meaning": "beloved; one dearly loved"
+        },
+        {
+          "word": "friend",
+          "strongNumber": "H7453",
+          "lemma": "rea",
+          "meaning": "friend; companion; neighbor"
+        }
+      ]
+    }
+  ]
+}

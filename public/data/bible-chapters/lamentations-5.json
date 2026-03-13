@@ -1,0 +1,420 @@
+{
+  "book": "Lamentations",
+  "chapter": 5,
+  "chapterTheme": {
+    "twoWordSummary": "Turn Back",
+    "themeWords": [
+      {
+        "word": "Turn",
+        "strongNumber": "H7725",
+        "lemma": "shuv",
+        "meaning": "to turn back, restore"
+      },
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "Yehovah",
+        "meaning": "the personal name of Israel's God"
+      }
+    ]
+  },
+  "sentenceTheme": "A communal prayer pleads for the LORD to remember Zion’s reproach, confessing sin and suffering, and asking Him to turn and renew His people.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Remember, O LORD, what is come upon us: consider, and behold our reproach.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the personal name of Israel's God"
+        },
+        {
+          "word": "reproach",
+          "strongNumber": "H2781",
+          "lemma": "cherpah",
+          "meaning": "disgrace, shame"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Our inheritance is turned to strangers, our houses to aliens.",
+      "highlightedWords": [
+        {
+          "word": "inheritance",
+          "strongNumber": "H5159",
+          "lemma": "nachalah",
+          "meaning": "heritage, allotted portion"
+        },
+        {
+          "word": "aliens",
+          "strongNumber": "H5237",
+          "lemma": "nokri",
+          "meaning": "foreigners, non-Israelites"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "We are orphans and fatherless, our mothers are as widows.",
+      "highlightedWords": [
+        {
+          "word": "orphans",
+          "strongNumber": "H3490",
+          "lemma": "yathom",
+          "meaning": "fatherless children"
+        },
+        {
+          "word": "widows",
+          "strongNumber": "H0490",
+          "lemma": "almanah",
+          "meaning": "women bereft of husbands"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "We have drunken our water for money; our wood is sold unto us.",
+      "highlightedWords": [
+        {
+          "word": "water",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "water"
+        },
+        {
+          "word": "wood",
+          "strongNumber": "H6086",
+          "lemma": "etz",
+          "meaning": "tree, wood, timber"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Our necks are under persecution: we labour, and have no rest.",
+      "highlightedWords": [
+        {
+          "word": "necks",
+          "strongNumber": "H6677",
+          "lemma": "tsavvar",
+          "meaning": "the neck, back of the neck"
+        },
+        {
+          "word": "rest",
+          "strongNumber": "H5117",
+          "lemma": "nuach",
+          "meaning": "to rest, settle down"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "We have given the hand to the Egyptians, and to the Assyrians, to be satisfied with bread.",
+      "highlightedWords": [
+        {
+          "word": "Egyptians",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "the people of Egypt"
+        },
+        {
+          "word": "Assyrians",
+          "strongNumber": "H0804",
+          "lemma": "Ashshur",
+          "meaning": "the people/empire of Assyria"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Our fathers have sinned, and are not; and we have borne their iniquities.",
+      "highlightedWords": [
+        {
+          "word": "fathers",
+          "strongNumber": "H0001",
+          "lemma": "av",
+          "meaning": "father, ancestor"
+        },
+        {
+          "word": "iniquities",
+          "strongNumber": "H5771",
+          "lemma": "avon",
+          "meaning": "guilt, iniquity"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Servants have ruled over us: there is none that doth deliver us out of their hand.",
+      "highlightedWords": [
+        {
+          "word": "Servants",
+          "strongNumber": "H5650",
+          "lemma": "ebed",
+          "meaning": "slave, servant"
+        },
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "We gat our bread with the peril of our lives because of the sword of the wilderness.",
+      "highlightedWords": [
+        {
+          "word": "bread",
+          "strongNumber": "H3899",
+          "lemma": "lechem",
+          "meaning": "bread, food"
+        },
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Our skin was black like an oven because of the terrible famine.",
+      "highlightedWords": [
+        {
+          "word": "skin",
+          "strongNumber": "H5785",
+          "lemma": "'or",
+          "meaning": "skin, hide"
+        },
+        {
+          "word": "famine",
+          "strongNumber": "H7458",
+          "lemma": "raab",
+          "meaning": "famine, hunger"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "They ravished the women in Zion, and the maids in the cities of Judah.",
+      "highlightedWords": [
+        {
+          "word": "women",
+          "strongNumber": "H0802",
+          "lemma": "ishshah",
+          "meaning": "woman, wife, female"
+        },
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyyon",
+          "meaning": "Zion, the hill of Jerusalem"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Princes are hanged up by their hand: the faces of elders were not honoured.",
+      "highlightedWords": [
+        {
+          "word": "Princes",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "prince, ruler, official"
+        },
+        {
+          "word": "elders",
+          "strongNumber": "H2205",
+          "lemma": "zaqen",
+          "meaning": "elder, old man"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "They took the young men to grind, and the children fell under the wood.",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H3206",
+          "lemma": "yeled",
+          "meaning": "child, boy"
+        },
+        {
+          "word": "wood",
+          "strongNumber": "H6086",
+          "lemma": "etz",
+          "meaning": "tree, wood, timber"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "The elders have ceased from the gate, the young men from their musick.",
+      "highlightedWords": [
+        {
+          "word": "elders",
+          "strongNumber": "H2205",
+          "lemma": "zaqen",
+          "meaning": "elder, old man"
+        },
+        {
+          "word": "gate",
+          "strongNumber": "H8179",
+          "lemma": "sha'ar",
+          "meaning": "gate, city gate"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "The joy of our heart is ceased; our dance is turned into mourning.",
+      "highlightedWords": [
+        {
+          "word": "joy",
+          "strongNumber": "H8057",
+          "lemma": "simchah",
+          "meaning": "joy, gladness"
+        },
+        {
+          "word": "mourning",
+          "strongNumber": "H0060",
+          "lemma": "ebel",
+          "meaning": "mourning, lamentation"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "The crown is fallen from our head: woe unto us, that we have sinned!",
+      "highlightedWords": [
+        {
+          "word": "crown",
+          "strongNumber": "H5850",
+          "lemma": "atarah",
+          "meaning": "crown, wreath"
+        },
+        {
+          "word": "sinned",
+          "strongNumber": "H2398",
+          "lemma": "chata'",
+          "meaning": "to miss the mark, sin"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "For this our heart is faint; for these things our eyes are dim.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "leb",
+          "meaning": "heart, inner person"
+        },
+        {
+          "word": "eyes",
+          "strongNumber": "H5869",
+          "lemma": "ayin",
+          "meaning": "eye"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Because of the mountain of Zion, which is desolate, the foxes walk upon it.",
+      "highlightedWords": [
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyyon",
+          "meaning": "Zion, the hill of Jerusalem"
+        },
+        {
+          "word": "foxes",
+          "strongNumber": "H7776",
+          "lemma": "shu'al",
+          "meaning": "fox, jackal"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Thou, O LORD, remainest for ever; thy throne from generation to generation.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the personal name of Israel's God"
+        },
+        {
+          "word": "throne",
+          "strongNumber": "H3678",
+          "lemma": "kisse",
+          "meaning": "seat of honor, throne"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Wherefore dost thou forget us for ever, and forsake us so long time?",
+      "highlightedWords": [
+        {
+          "word": "forget",
+          "strongNumber": "H7911",
+          "lemma": "shakach",
+          "meaning": "to forget"
+        },
+        {
+          "word": "forsake",
+          "strongNumber": "H5800",
+          "lemma": "azab",
+          "meaning": "to abandon, forsake"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Turn thou us unto thee, O LORD, and we shall be turned; renew our days as of old.",
+      "highlightedWords": [
+        {
+          "word": "Turn",
+          "strongNumber": "H7725",
+          "lemma": "shuv",
+          "meaning": "to turn back, restore"
+        },
+        {
+          "word": "renew",
+          "strongNumber": "H2318",
+          "lemma": "chadash",
+          "meaning": "to renew, make new"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "But thou hast utterly rejected us; thou art very wroth against us.",
+      "highlightedWords": [
+        {
+          "word": "rejected",
+          "strongNumber": "H3988",
+          "lemma": "ma'as",
+          "meaning": "to reject, spurn"
+        },
+        {
+          "word": "wroth",
+          "strongNumber": "H7107",
+          "lemma": "qatsaph",
+          "meaning": "to be angry, wroth"
+        }
+      ]
+    }
+  ]
+}

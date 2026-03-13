@@ -1,0 +1,510 @@
+{
+  "book": "Daniel",
+  "chapter": 9,
+  "chapterTheme": {
+    "twoWordSummary": "Seventy Weeks",
+    "themeWords": [
+      {
+        "word": "covenant",
+        "strongNumber": "H1285",
+        "lemma": "berith",
+        "meaning": "a covenant, treaty, or alliance; a solemn agreement"
+      },
+      {
+        "word": "Messiah",
+        "strongNumber": "H4899",
+        "lemma": "mashiach",
+        "meaning": "anointed one; the consecrated king or high priest, ultimately the expected deliverer"
+      }
+    ]
+  },
+  "sentenceTheme": "Daniel confesses Israel’s sins and receives Gabriel’s prophecy of the seventy weeks concerning Jerusalem and the Messiah.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "In the first year of Darius the son of Ahasuerus, of the seed of the Medes, which was made king over the realm of the Chaldeans;",
+      "highlightedWords": [
+        {
+          "word": "Darius",
+          "strongNumber": "H1867",
+          "lemma": "Daryavesh",
+          "meaning": "name/title of several Persian kings"
+        },
+        {
+          "word": "Chaldeans",
+          "strongNumber": "H3778",
+          "lemma": "Kasdim",
+          "meaning": "Chaldeans; inhabitants of Chaldea/Babylonia"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "In the first year of his reign I Daniel understood by books the number of the years, whereof the word of the LORD came to Jeremiah the prophet, that he would accomplish seventy years in the desolations of Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah (YHWH)",
+          "meaning": "the personal name of the God of Israel"
+        },
+        {
+          "word": "Jeremiah",
+          "strongNumber": "H3414",
+          "lemma": "Yirmeyahu",
+          "meaning": "Jeremiah; a major Hebrew prophet"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And I set my face unto the Lord God, to seek by prayer and supplications, with fasting, and sackcloth, and ashes:",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; the supreme God (occasionally of gods, judges)"
+        },
+        {
+          "word": "prayer",
+          "strongNumber": "H8605",
+          "lemma": "tephillah",
+          "meaning": "prayer; intercession, supplication"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And I prayed unto the LORD my God, and made my confession, and said, O Lord, the great and dreadful God, keeping the covenant and mercy to them that love him, and to them that keep his commandments;",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah (YHWH)",
+          "meaning": "the personal name of the God of Israel"
+        },
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "a covenant, treaty, or alliance; a solemn agreement"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "We have sinned, and have committed iniquity, and have done wickedly, and have rebelled, even by departing from thy precepts and from thy judgments:",
+      "highlightedWords": [
+        {
+          "word": "sinned",
+          "strongNumber": "H2398",
+          "lemma": "chata'",
+          "meaning": "to sin; miss the mark, offend"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "avon",
+          "meaning": "iniquity; guilt, perversity, punishment of iniquity"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Neither have we hearkened unto thy servants the prophets, which spake in thy name to our kings, our princes, and our fathers, and to all the people of the land.",
+      "highlightedWords": [
+        {
+          "word": "servants",
+          "strongNumber": "H5650",
+          "lemma": "ebed",
+          "meaning": "servant, slave, bondman; a subject"
+        },
+        {
+          "word": "prophets",
+          "strongNumber": "H5030",
+          "lemma": "navi'",
+          "meaning": "prophet; spokesman, inspired messenger"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "O Lord, righteousness belongeth unto thee, but unto us confusion of faces, as at this day; to the men of Judah, and to the inhabitants of Jerusalem, and unto all Israel, that are near, and that are far off, through all the countries whither thou hast driven them, because of their trespass that they have trespassed against thee.",
+      "highlightedWords": [
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "tsedaqah",
+          "meaning": "righteousness, justice, rightness"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisrael",
+          "meaning": "Israel; name of the patriarch Jacob and the nation"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "O Lord, to us belongeth confusion of face, to our kings, to our princes, and to our fathers, because we have sinned against thee.",
+      "highlightedWords": [
+        {
+          "word": "princes",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "prince, ruler, official, chief"
+        },
+        {
+          "word": "sinned",
+          "strongNumber": "H2398",
+          "lemma": "chata'",
+          "meaning": "to sin; miss the mark, offend"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "To the Lord our God belong mercies and forgivenesses, though we have rebelled against him;",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; the supreme God (occasionally of gods, judges)"
+        },
+        {
+          "word": "mercies",
+          "strongNumber": "H7356",
+          "lemma": "rachamim",
+          "meaning": "compassions, mercies"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Neither have we obeyed the voice of the LORD our God, to walk in his laws, which he set before us by his servants the prophets.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah (YHWH)",
+          "meaning": "the personal name of the God of Israel"
+        },
+        {
+          "word": "prophets",
+          "strongNumber": "H5030",
+          "lemma": "navi'",
+          "meaning": "prophet; spokesman, inspired messenger"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Yea, all Israel have transgressed thy law, even by departing, that they might not obey thy voice; therefore the curse is poured upon us, and the oath that is written in the law of Moses the servant of God, because we have sinned against him.",
+      "highlightedWords": [
+        {
+          "word": "law",
+          "strongNumber": "H8451",
+          "lemma": "torah",
+          "meaning": "law, instruction, teaching"
+        },
+        {
+          "word": "Moses",
+          "strongNumber": "H4872",
+          "lemma": "Mosheh",
+          "meaning": "Moses; leader and lawgiver of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And he hath confirmed his words, which he spake against us, and against our judges that judged us, by bringing upon us a great evil: for under the whole heaven hath not been done as hath been done upon Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens, sky"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem; the chief city of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "As it is written in the law of Moses, all this evil is come upon us: yet made we not our prayer before the LORD our God, that we might turn from our iniquities, and understand thy truth.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah (YHWH)",
+          "meaning": "the personal name of the God of Israel"
+        },
+        {
+          "word": "truth",
+          "strongNumber": "H571",
+          "lemma": "’emeth",
+          "meaning": "firmness, faithfulness, truth"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Therefore hath the LORD watched upon the evil, and brought it upon us: for the LORD our God is righteous in all his works which he doeth: for we obeyed not his voice.",
+      "highlightedWords": [
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just, lawful"
+        },
+        {
+          "word": "voice",
+          "strongNumber": "H6963",
+          "lemma": "qol",
+          "meaning": "voice, sound"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And now, O Lord our God, that hast brought thy people forth out of the land of Egypt with a mighty hand, and hast gotten thee renown, as at this day; we have sinned, we have done wickedly.",
+      "highlightedWords": [
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt; a land and people south of Israel"
+        },
+        {
+          "word": "sinned",
+          "strongNumber": "H2398",
+          "lemma": "chata'",
+          "meaning": "to sin; miss the mark, offend"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "O Lord, according to all thy righteousness, I beseech thee, let thine anger and thy fury be turned away from thy city Jerusalem, thy holy mountain: because for our sins, and for the iniquities of our fathers, Jerusalem and thy people are become a reproach to all that are about us.",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem; the chief city of Israel"
+        },
+        {
+          "word": "anger",
+          "strongNumber": "H639",
+          "lemma": "’aph",
+          "meaning": "nostril, nose; anger, wrath (figurative)"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Now therefore, O our God, hear the prayer of thy servant, and his supplications, and cause thy face to shine upon thy sanctuary that is desolate, for the Lord's sake.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God; the supreme God (occasionally of gods, judges)"
+        },
+        {
+          "word": "sanctuary",
+          "strongNumber": "H4720",
+          "lemma": "miqdash",
+          "meaning": "a holy place, sanctuary"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "O my God, incline thine ear, and hear; open thine eyes, and behold our desolations, and the city which is called by thy name: for we do not present our supplications before thee for our righteousnesses, but for thy great mercies.",
+      "highlightedWords": [
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "name, reputation, fame"
+        },
+        {
+          "word": "mercies",
+          "strongNumber": "H7356",
+          "lemma": "rachamim",
+          "meaning": "compassions, mercies"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "O Lord, hear; O Lord, forgive; O Lord, hearken and do; defer not, for thine own sake, O my God: for thy city and thy people are called by thy name.",
+      "highlightedWords": [
+        {
+          "word": "forgive",
+          "strongNumber": "H5545",
+          "lemma": "salach",
+          "meaning": "to forgive, pardon"
+        },
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "shem",
+          "meaning": "name, reputation, fame"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And whiles I was speaking, and praying, and confessing my sin and the sin of my people Israel, and presenting my supplication before the LORD my God for the holy mountain of my God;",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisrael",
+          "meaning": "Israel; name of the patriarch Jacob and the nation"
+        },
+        {
+          "word": "holy",
+          "strongNumber": "H6944",
+          "lemma": "qodesh",
+          "meaning": "holiness, something holy, sacred"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Yea, whiles I was speaking in prayer, even the man Gabriel, whom I had seen in the vision at the beginning, being caused to fly swiftly, touched me about the time of the evening oblation.",
+      "highlightedWords": [
+        {
+          "word": "prayer",
+          "strongNumber": "H8605",
+          "lemma": "tephillah",
+          "meaning": "prayer; intercession, supplication"
+        },
+        {
+          "word": "evening",
+          "strongNumber": "H6153",
+          "lemma": "‘erev",
+          "meaning": "evening, sunset"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And he informed me, and talked with me, and said, O Daniel, I am now come forth to give thee skill and understanding.",
+      "highlightedWords": [
+        {
+          "word": "Daniel",
+          "strongNumber": "H1840",
+          "lemma": "Daniyel",
+          "meaning": "Daniel; a Hebrew prophet in Babylon"
+        },
+        {
+          "word": "understanding",
+          "strongNumber": "H998",
+          "lemma": "binah",
+          "meaning": "understanding, insight, discernment"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "At the beginning of thy supplications the commandment came forth, and I am come to shew thee; for thou art greatly beloved: therefore understand the matter, and consider the vision.",
+      "highlightedWords": [
+        {
+          "word": "understand",
+          "strongNumber": "H995",
+          "lemma": "bin",
+          "meaning": "to understand, perceive, consider"
+        },
+        {
+          "word": "matter",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, thing"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Seventy weeks are determined upon thy people and upon thy holy city, to finish the transgression, and to make an end of sins, and to make reconciliation for iniquity, and to bring in everlasting righteousness, and to seal up the vision and prophecy, and to anoint the most Holy.",
+      "highlightedWords": [
+        {
+          "word": "weeks",
+          "strongNumber": "H7620",
+          "lemma": "shabua‘",
+          "meaning": "a period of seven; a week (of years in this context)"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "tsedaqah",
+          "meaning": "righteousness, justice, rightness"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Know therefore and understand, that from the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince shall be seven weeks, and threescore and two weeks: the street shall be built again, and the wall, even in troublous times.",
+      "highlightedWords": [
+        {
+          "word": "Messiah",
+          "strongNumber": "H4899",
+          "lemma": "mashiach",
+          "meaning": "anointed one; the expected royal deliverer"
+        },
+        {
+          "word": "weeks",
+          "strongNumber": "H7620",
+          "lemma": "shabua‘",
+          "meaning": "a period of seven; a week (of years in this context)"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And after threescore and two weeks shall Messiah be cut off, but not for himself: and the people of the prince that shall come shall destroy the city and the sanctuary; and the end thereof shall be with a flood, and unto the end of the war desolations are determined.",
+      "highlightedWords": [
+        {
+          "word": "Messiah",
+          "strongNumber": "H4899",
+          "lemma": "mashiach",
+          "meaning": "anointed one; the expected royal deliverer"
+        },
+        {
+          "word": "sanctuary",
+          "strongNumber": "H4720",
+          "lemma": "miqdash",
+          "meaning": "a holy place, sanctuary"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And he shall confirm the covenant with many for one week: and in the midst of the week he shall cause the sacrifice and the oblation to cease, and for the overspreading of abominations he shall make it desolate, even until the consummation, and that determined shall be poured upon the desolate.",
+      "highlightedWords": [
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "a covenant, treaty, or alliance; a solemn agreement"
+        },
+        {
+          "word": "abominations",
+          "strongNumber": "H8251",
+          "lemma": "shiqquts",
+          "meaning": "detestable thing, abomination (especially idolatrous practices)"
+        }
+      ]
+    }
+  ]
+}

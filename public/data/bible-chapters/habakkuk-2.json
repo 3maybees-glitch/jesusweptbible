@@ -1,0 +1,384 @@
+{
+  "book": "Habakkuk",
+  "chapter": 2,
+  "chapterTheme": {
+    "twoWordSummary": "Vision Faith",
+    "themeWords": [
+      {
+        "word": "vision",
+        "strongNumber": "H2377",
+        "lemma": "chazon",
+        "meaning": "prophetic vision or revelation"
+      },
+      {
+        "word": "faith",
+        "strongNumber": "H0530",
+        "lemma": "emunah",
+        "meaning": "faith, steadfastness, fidelity"
+      }
+    ]
+  },
+  "sentenceTheme": "God commands the vision to be written for its appointed time, contrasts the proud with the righteous who live by faith, pronounces woes on oppression and idolatry, and calls all the earth to silent reverence before Him.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "I will stand upon my watch, and set me upon the tower, and will watch to see what he will say unto me, and what I shall answer when I am reproved.",
+      "highlightedWords": [
+        {
+          "word": "stand",
+          "strongNumber": "H5975",
+          "lemma": "amad",
+          "meaning": "to stand, take one’s stand"
+        },
+        {
+          "word": "see",
+          "strongNumber": "H7200",
+          "lemma": "ra'ah",
+          "meaning": "to see, look at, perceive"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And the LORD answered me, and said, Write the vision, and make it plain upon tables, that he may run that readeth it.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yehovah)",
+          "meaning": "the covenant name of Israel’s God"
+        },
+        {
+          "word": "vision",
+          "strongNumber": "H2377",
+          "lemma": "chazon",
+          "meaning": "prophetic vision or revelation"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "For the vision is yet for an appointed time, but at the end it shall speak, and not lie: though it tarry, wait for it; because it will surely come, it will not tarry.",
+      "highlightedWords": [
+        {
+          "word": "appointed time",
+          "strongNumber": "H4150",
+          "lemma": "mo'ed",
+          "meaning": "appointed time, set season, meeting"
+        },
+        {
+          "word": "tarry",
+          "strongNumber": "H4102",
+          "lemma": "mahah",
+          "meaning": "to delay, linger, tarry"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Behold, his soul which is lifted up is not upright in him: but the just shall live by his faith.",
+      "highlightedWords": [
+        {
+          "word": "just",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just"
+        },
+        {
+          "word": "faith",
+          "strongNumber": "H0530",
+          "lemma": "emunah",
+          "meaning": "faith, firmness, fidelity"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Yea also, because he transgresseth by wine, he is a proud man, neither keepeth at home, who enlargeth his desire as hell, and is as death, and cannot be satisfied, but gathereth unto him all nations, and heapeth unto him all people:",
+      "highlightedWords": [
+        {
+          "word": "wine",
+          "strongNumber": "H3196",
+          "lemma": "yayin",
+          "meaning": "wine"
+        },
+        {
+          "word": "hell",
+          "strongNumber": "H7585",
+          "lemma": "Sheol",
+          "meaning": "the underworld, the grave, the realm of the dead"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Shall not all these take up a parable against him, and a taunting proverb against him, and say, Woe to him that increaseth that which is not his! how long? and to him that ladeth himself with thick clay!",
+      "highlightedWords": [
+        {
+          "word": "Woe",
+          "strongNumber": "H1945",
+          "lemma": "hoy",
+          "meaning": "alas! woe!"
+        },
+        {
+          "word": "proverb",
+          "strongNumber": "H4912",
+          "lemma": "mashal",
+          "meaning": "proverb, parable, taunt"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Shall they not rise up suddenly that shall bite thee, and awake that shall vex thee, and thou shalt be for booties unto them?",
+      "highlightedWords": [
+        {
+          "word": "rise",
+          "strongNumber": "H6965",
+          "lemma": "qum",
+          "meaning": "to rise, arise, stand up"
+        },
+        {
+          "word": "booties",
+          "strongNumber": "H7998",
+          "lemma": "shalal",
+          "meaning": "spoil, plunder, booty"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Because thou hast spoiled many nations, all the remnant of the people shall spoil thee; because of men's blood, and for the violence of the land, of the city, and of all that dwell therein.",
+      "highlightedWords": [
+        {
+          "word": "blood",
+          "strongNumber": "H1818",
+          "lemma": "dam",
+          "meaning": "blood"
+        },
+        {
+          "word": "violence",
+          "strongNumber": "H2555",
+          "lemma": "chamas",
+          "meaning": "violence, wrong, cruelty"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Woe to him that coveteth an evil covetousness to his house, that he may set his nest on high, that he may be delivered from the power of evil!",
+      "highlightedWords": [
+        {
+          "word": "coveteth",
+          "strongNumber": "H1214",
+          "lemma": "batsa'",
+          "meaning": "to gain by violence or greed; to plunder, to covet"
+        },
+        {
+          "word": "nest",
+          "strongNumber": "H7064",
+          "lemma": "qen",
+          "meaning": "nest"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Thou hast consulted shame to thy house by cutting off many people, and hast sinned against thy soul.",
+      "highlightedWords": [
+        {
+          "word": "sinned",
+          "strongNumber": "H2398",
+          "lemma": "chata'",
+          "meaning": "to sin, miss the mark, offend"
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, self"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "For the stone shall cry out of the wall, and the beam out of the timber shall answer it.",
+      "highlightedWords": [
+        {
+          "word": "stone",
+          "strongNumber": "H0068",
+          "lemma": "eben",
+          "meaning": "stone"
+        },
+        {
+          "word": "wall",
+          "strongNumber": "H7023",
+          "lemma": "qir",
+          "meaning": "wall"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Woe to him that buildeth a town with blood, and stablisheth a city by iniquity!",
+      "highlightedWords": [
+        {
+          "word": "buildeth",
+          "strongNumber": "H1129",
+          "lemma": "banah",
+          "meaning": "to build, rebuild, establish"
+        },
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "ir",
+          "meaning": "city, town"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Behold, is it not of the LORD of hosts that the people shall labour in the very fire, and the people shall weary themselves for very vanity?",
+      "highlightedWords": [
+        {
+          "word": "hosts",
+          "strongNumber": "H6635",
+          "lemma": "tsaba",
+          "meaning": "host, army, organized forces"
+        },
+        {
+          "word": "labour",
+          "strongNumber": "H3021",
+          "lemma": "yaga'",
+          "meaning": "to toil, labour, grow weary"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "For the earth shall be filled with the knowledge of the glory of the LORD, as the waters cover the sea.",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "H0776",
+          "lemma": "erets",
+          "meaning": "earth, land"
+        },
+        {
+          "word": "glory",
+          "strongNumber": "H3519",
+          "lemma": "kabod",
+          "meaning": "glory, honor, weightiness"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Woe unto him that giveth his neighbour drink, that puttest thy bottle to him, and makest him drunken also, that thou mayest look on their nakedness!",
+      "highlightedWords": [
+        {
+          "word": "drunken",
+          "strongNumber": "H7937",
+          "lemma": "shakar",
+          "meaning": "to become drunk, intoxicated"
+        },
+        {
+          "word": "nakedness",
+          "strongNumber": "H6172",
+          "lemma": "ervah",
+          "meaning": "nakedness, shame"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Thou art filled with shame for glory: drink thou also, and let thy foreskin be uncovered: the cup of the LORD's right hand shall be turned unto thee, and shameful spewing shall be on thy glory.",
+      "highlightedWords": [
+        {
+          "word": "cup",
+          "strongNumber": "H3563",
+          "lemma": "kos",
+          "meaning": "cup"
+        },
+        {
+          "word": "right hand",
+          "strongNumber": "H3225",
+          "lemma": "yamin",
+          "meaning": "right hand, right side"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "For the violence of Lebanon shall cover thee, and the spoil of beasts, which made them afraid, because of men's blood, and for the violence of the land, of the city, and of all that dwell therein.",
+      "highlightedWords": [
+        {
+          "word": "Lebanon",
+          "strongNumber": "H3844",
+          "lemma": "Levanon",
+          "meaning": "Lebanon"
+        },
+        {
+          "word": "violence",
+          "strongNumber": "H2555",
+          "lemma": "chamas",
+          "meaning": "violence, wrong, cruelty"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "What profiteth the graven image that the maker thereof hath graven it; the molten image, and a teacher of lies, that the maker of his work trusteth therein, to make dumb idols?",
+      "highlightedWords": [
+        {
+          "word": "graven image",
+          "strongNumber": "H6459",
+          "lemma": "pesel",
+          "meaning": "carved image, graven image"
+        },
+        {
+          "word": "idols",
+          "strongNumber": "H0457",
+          "lemma": "elilim",
+          "meaning": "idols, nothings, worthless things"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Woe unto him that saith to the wood, Awake; to the dumb stone, Arise, it shall teach! Behold, it is laid over with gold and silver, and there is no breath at all in the midst of it.",
+      "highlightedWords": [
+        {
+          "word": "wood",
+          "strongNumber": "H6086",
+          "lemma": "ets",
+          "meaning": "tree, wood"
+        },
+        {
+          "word": "breath",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "breath, spirit, wind"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "But the LORD is in his holy temple: let all the earth keep silence before him.",
+      "highlightedWords": [
+        {
+          "word": "temple",
+          "strongNumber": "H1964",
+          "lemma": "hekal",
+          "meaning": "palace, temple"
+        },
+        {
+          "word": "silence",
+          "strongNumber": "H2013",
+          "lemma": "has",
+          "meaning": "hush, be silent"
+        }
+      ]
+    }
+  ]
+}

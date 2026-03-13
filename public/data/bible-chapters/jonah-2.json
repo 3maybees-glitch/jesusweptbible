@@ -1,0 +1,204 @@
+{
+  "book": "Jonah",
+  "chapter": 2,
+  "chapterTheme": {
+    "twoWordSummary": "Prayer Deliverance",
+    "themeWords": [
+      {
+        "word": "prayer",
+        "strongNumber": "H8605",
+        "lemma": "tefillah",
+        "meaning": "prayer, supplication"
+      },
+      {
+        "word": "salvation",
+        "strongNumber": "H3444",
+        "lemma": "yeshuah",
+        "meaning": "salvation, deliverance"
+      }
+    ]
+  },
+  "sentenceTheme": "From the fish’s belly Jonah prays to the LORD, who delivers him.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Then Jonah prayed unto the LORD his God out of the fish's belly,",
+      "highlightedWords": [
+        {
+          "word": "Jonah",
+          "strongNumber": "H3124",
+          "lemma": "Yonah",
+          "meaning": "dove; the prophet’s name"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of God"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And said, I cried by reason of mine affliction unto the LORD, and he heard me; out of the belly of hell cried I, and thou heardest my voice.",
+      "highlightedWords": [
+        {
+          "word": "belly",
+          "strongNumber": "H990",
+          "lemma": "beten",
+          "meaning": "belly, womb, inner parts"
+        },
+        {
+          "word": "hell",
+          "strongNumber": "H7585",
+          "lemma": "Sheol",
+          "meaning": "the realm of the dead, grave"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "For thou hadst cast me into the deep, in the midst of the seas; and the floods compassed me about: all thy billows and thy waves passed over me.",
+      "highlightedWords": [
+        {
+          "word": "deep",
+          "strongNumber": "H4688",
+          "lemma": "metsulah",
+          "meaning": "depths, the deep"
+        },
+        {
+          "word": "seas",
+          "strongNumber": "H3220",
+          "lemma": "yam",
+          "meaning": "sea, seas"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Then I said, I am cast out of thy sight; yet I will look again toward thy holy temple.",
+      "highlightedWords": [
+        {
+          "word": "holy",
+          "strongNumber": "H6944",
+          "lemma": "qodesh",
+          "meaning": "holy, sacred"
+        },
+        {
+          "word": "temple",
+          "strongNumber": "H1964",
+          "lemma": "hekal",
+          "meaning": "temple, palace"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "The waters compassed me about, even to the soul: the depth closed me round about, the weeds were wrapped about my head.",
+      "highlightedWords": [
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters"
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nephesh",
+          "meaning": "soul, life, self"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "I went down to the bottoms of the mountains; the earth with her bars was about me for ever: yet hast thou brought up my life from corruption, O LORD my God.",
+      "highlightedWords": [
+        {
+          "word": "mountains",
+          "strongNumber": "H2022",
+          "lemma": "har",
+          "meaning": "mountain, hill"
+        },
+        {
+          "word": "corruption",
+          "strongNumber": "H7845",
+          "lemma": "shachath",
+          "meaning": "pit, corruption, destruction"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "When my soul fainted within me I remembered the LORD: and my prayer came in unto thee, into thine holy temple.",
+      "highlightedWords": [
+        {
+          "word": "prayer",
+          "strongNumber": "H8605",
+          "lemma": "tefillah",
+          "meaning": "prayer, supplication"
+        },
+        {
+          "word": "temple",
+          "strongNumber": "H1964",
+          "lemma": "hekal",
+          "meaning": "temple, palace"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "They that observe lying vanities forsake their own mercy.",
+      "highlightedWords": [
+        {
+          "word": "vanities",
+          "strongNumber": "H1892",
+          "lemma": "hebel",
+          "meaning": "breath, vapor, vanity"
+        },
+        {
+          "word": "mercy",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "steadfast love, kindness, mercy"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "But I will sacrifice unto thee with the voice of thanksgiving; I will pay that that I have vowed. Salvation is of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "sacrifice",
+          "strongNumber": "H2077",
+          "lemma": "zebach",
+          "meaning": "sacrifice, offering"
+        },
+        {
+          "word": "Salvation",
+          "strongNumber": "H3444",
+          "lemma": "yeshuah",
+          "meaning": "salvation, deliverance"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And the LORD spake unto the fish, and it vomited out Jonah upon the dry land.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the covenant name of God"
+        },
+        {
+          "word": "fish",
+          "strongNumber": "H1709",
+          "lemma": "dag",
+          "meaning": "fish"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,582 @@
+{
+  "book": "Isaiah",
+  "chapter": 40,
+  "chapterTheme": {
+    "twoWordSummary": "Comfort Renewal",
+    "themeWords": [
+      {
+        "word": "Comfort",
+        "strongNumber": "H5162",
+        "lemma": "nacham",
+        "meaning": "to comfort, console"
+      },
+      {
+        "word": "Strength",
+        "strongNumber": "H3581",
+        "lemma": "koach",
+        "meaning": "power, strength"
+      }
+    ]
+  },
+  "sentenceTheme": "God announces comfort for His people, reveals His unrivaled greatness as Creator, and promises renewed strength to those who wait on Him.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Comfort ye, comfort ye my people, saith your God.",
+      "highlightedWords": [
+        {
+          "word": "Comfort",
+          "strongNumber": "H5162",
+          "lemma": "nacham",
+          "meaning": "to comfort, console"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "elohim",
+          "meaning": "God"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Speak ye comfortably to Jerusalem, and cry unto her, that her warfare is accomplished, that her iniquity is pardoned: for she hath received of the LORD's hand double for all her sins.",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "avon",
+          "meaning": "iniquity, guilt"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "The voice of him that crieth in the wilderness, Prepare ye the way of the LORD, make straight in the desert a highway for our God.",
+      "highlightedWords": [
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbar",
+          "meaning": "wilderness, desert"
+        },
+        {
+          "word": "way",
+          "strongNumber": "H1870",
+          "lemma": "derek",
+          "meaning": "way, path"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Every valley shall be exalted, and every mountain and hill shall be made low: and the crooked shall be made straight, and the rough places plain:",
+      "highlightedWords": [
+        {
+          "word": "valley",
+          "strongNumber": "H1516",
+          "lemma": "ge",
+          "meaning": "valley"
+        },
+        {
+          "word": "mountain",
+          "strongNumber": "H2022",
+          "lemma": "har",
+          "meaning": "mountain"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And the glory of the LORD shall be revealed, and all flesh shall see it together: for the mouth of the LORD hath spoken it.",
+      "highlightedWords": [
+        {
+          "word": "glory",
+          "strongNumber": "H3519",
+          "lemma": "kabod",
+          "meaning": "glory, honor"
+        },
+        {
+          "word": "flesh",
+          "strongNumber": "H1320",
+          "lemma": "basar",
+          "meaning": "flesh, humanity"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "The voice said, Cry. And he said, What shall I cry? All flesh is grass, and all the goodliness thereof is as the flower of the field:",
+      "highlightedWords": [
+        {
+          "word": "grass",
+          "strongNumber": "H2682",
+          "lemma": "chatsir",
+          "meaning": "grass"
+        },
+        {
+          "word": "flower",
+          "strongNumber": "H6731",
+          "lemma": "tsiyts",
+          "meaning": "flower, blossom"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "The grass withereth, the flower fadeth: because the spirit of the LORD bloweth upon it: surely the people is grass.",
+      "highlightedWords": [
+        {
+          "word": "spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "spirit, breath, wind"
+        },
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "am",
+          "meaning": "people, nation"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "The grass withereth, the flower fadeth: but the word of our God shall stand for ever.",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "elohim",
+          "meaning": "God"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "O Zion, that bringest good tidings, get thee up into the high mountain; O Jerusalem, that bringest good tidings, lift up thy voice with strength; lift it up, be not afraid; say unto the cities of Judah, Behold your God!",
+      "highlightedWords": [
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyyon",
+          "meaning": "Zion"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Behold, the Lord GOD will come with strong hand, and his arm shall rule for him: behold, his reward is with him, and his work before him.",
+      "highlightedWords": [
+        {
+          "word": "arm",
+          "strongNumber": "H2220",
+          "lemma": "zeroa",
+          "meaning": "arm, strength"
+        },
+        {
+          "word": "reward",
+          "strongNumber": "H7939",
+          "lemma": "sakar",
+          "meaning": "wages, reward"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "He shall feed his flock like a shepherd: he shall gather the lambs with his arm, and carry them in his bosom, and shall gently lead those that are with young.",
+      "highlightedWords": [
+        {
+          "word": "shepherd",
+          "strongNumber": "H7462",
+          "lemma": "ra'ah",
+          "meaning": "to shepherd, tend"
+        },
+        {
+          "word": "lambs",
+          "strongNumber": "H2922",
+          "lemma": "taleh",
+          "meaning": "lambs"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Who hath measured the waters in the hollow of his hand, and meted out heaven with the span, and comprehended the dust of the earth in a measure, and weighed the mountains in scales, and the hills in a balance?",
+      "highlightedWords": [
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens, sky"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "earth, land"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Who hath directed the Spirit of the LORD, or being his counsellor hath taught him?",
+      "highlightedWords": [
+        {
+          "word": "Spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "Spirit, breath, wind"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the divine name, the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "With whom took he counsel, and who instructed him, and taught him in the path of judgment, and taught him knowledge, and shewed to him the way of understanding?",
+      "highlightedWords": [
+        {
+          "word": "knowledge",
+          "strongNumber": "H1847",
+          "lemma": "da'ath",
+          "meaning": "knowledge"
+        },
+        {
+          "word": "understanding",
+          "strongNumber": "H8394",
+          "lemma": "tebunah",
+          "meaning": "understanding, insight"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Behold, the nations are as a drop of a bucket, and are counted as the small dust of the balance: behold, he taketh up the isles as a very little thing.",
+      "highlightedWords": [
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "goyim",
+          "meaning": "nations, peoples"
+        },
+        {
+          "word": "isles",
+          "strongNumber": "H339",
+          "lemma": "iy",
+          "meaning": "coastlands, islands"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And Lebanon is not sufficient to burn, nor the beasts thereof sufficient for a burnt offering.",
+      "highlightedWords": [
+        {
+          "word": "Lebanon",
+          "strongNumber": "H3844",
+          "lemma": "Levanon",
+          "meaning": "Lebanon"
+        },
+        {
+          "word": "offering",
+          "strongNumber": "H5930",
+          "lemma": "olah",
+          "meaning": "burnt offering"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "All nations before him are as nothing; and they are counted to him less than nothing, and vanity.",
+      "highlightedWords": [
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "goyim",
+          "meaning": "nations, peoples"
+        },
+        {
+          "word": "vanity",
+          "strongNumber": "H8414",
+          "lemma": "tohu",
+          "meaning": "emptiness, vanity"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "To whom then will ye liken God? or what likeness will ye compare unto him?",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H410",
+          "lemma": "el",
+          "meaning": "Mighty God"
+        },
+        {
+          "word": "likeness",
+          "strongNumber": "H1823",
+          "lemma": "demuth",
+          "meaning": "likeness, resemblance"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "The workman melteth a graven image, and the goldsmith spreadeth it over with gold, and casteth silver chains.",
+      "highlightedWords": [
+        {
+          "word": "workman",
+          "strongNumber": "H2796",
+          "lemma": "charash",
+          "meaning": "craftsman, artisan"
+        },
+        {
+          "word": "image",
+          "strongNumber": "H6459",
+          "lemma": "pesel",
+          "meaning": "carved image, idol"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "He that is so impoverished that he hath no oblation chooseth a tree that will not rot; he seeketh unto him a cunning workman to prepare a graven image, that shall not be moved.",
+      "highlightedWords": [
+        {
+          "word": "tree",
+          "strongNumber": "H6086",
+          "lemma": "ets",
+          "meaning": "tree, wood"
+        },
+        {
+          "word": "image",
+          "strongNumber": "H6459",
+          "lemma": "pesel",
+          "meaning": "carved image, idol"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Have ye not known? have ye not heard? hath it not been told you from the beginning? have ye not understood from the foundations of the earth?",
+      "highlightedWords": [
+        {
+          "word": "beginning",
+          "strongNumber": "H7218",
+          "lemma": "rosh",
+          "meaning": "head, beginning"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "earth, land"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "It is he that sitteth upon the circle of the earth, and the inhabitants thereof are as grasshoppers; that stretcheth out the heavens as a curtain, and spreadeth them out as a tent to dwell in:",
+      "highlightedWords": [
+        {
+          "word": "circle",
+          "strongNumber": "H2329",
+          "lemma": "chug",
+          "meaning": "circle, horizon"
+        },
+        {
+          "word": "heavens",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens, sky"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "That bringeth the princes to nothing; he maketh the judges of the earth as vanity.",
+      "highlightedWords": [
+        {
+          "word": "princes",
+          "strongNumber": "H8269",
+          "lemma": "sar",
+          "meaning": "prince, ruler"
+        },
+        {
+          "word": "judges",
+          "strongNumber": "H8199",
+          "lemma": "shofet",
+          "meaning": "judge"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Yea, they shall not be planted; yea, they shall not be sown: yea, their stock shall not take root in the earth: and he shall also blow upon them, and they shall wither, and the whirlwind shall take them away as stubble.",
+      "highlightedWords": [
+        {
+          "word": "whirlwind",
+          "strongNumber": "H5591",
+          "lemma": "searah",
+          "meaning": "whirlwind, storm"
+        },
+        {
+          "word": "stubble",
+          "strongNumber": "H7179",
+          "lemma": "qash",
+          "meaning": "stubble, chaff"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "To whom then will ye liken me, or shall I be equal? saith the Holy One.",
+      "highlightedWords": [
+        {
+          "word": "equal",
+          "strongNumber": "H7737",
+          "lemma": "shavah",
+          "meaning": "to be equal, compare"
+        },
+        {
+          "word": "Holy One",
+          "strongNumber": "H6918",
+          "lemma": "qadosh",
+          "meaning": "holy one"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "Lift up your eyes on high, and behold who hath created these things, that bringeth out their host by number: he calleth them all by names by the greatness of his might, for that he is strong in power; not one faileth.",
+      "highlightedWords": [
+        {
+          "word": "created",
+          "strongNumber": "H1254",
+          "lemma": "bara",
+          "meaning": "to create"
+        },
+        {
+          "word": "host",
+          "strongNumber": "H6635",
+          "lemma": "tsaba",
+          "meaning": "host, army"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "Why sayest thou, O Jacob, and speakest, O Israel, My way is hid from the LORD, and my judgment is passed over from my God?",
+      "highlightedWords": [
+        {
+          "word": "Jacob",
+          "strongNumber": "H3290",
+          "lemma": "Ya'aqov",
+          "meaning": "Jacob"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "H3478",
+          "lemma": "Yisrael",
+          "meaning": "Israel"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "Hast thou not known? hast thou not heard, that the everlasting God, the LORD, the Creator of the ends of the earth, fainteth not, neither is weary? there is no searching of his understanding.",
+      "highlightedWords": [
+        {
+          "word": "everlasting",
+          "strongNumber": "H5769",
+          "lemma": "olam",
+          "meaning": "everlasting, eternity"
+        },
+        {
+          "word": "Creator",
+          "strongNumber": "H1254",
+          "lemma": "bara",
+          "meaning": "Creator (one who creates)"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "He giveth power to the faint; and to them that have no might he increaseth strength.",
+      "highlightedWords": [
+        {
+          "word": "power",
+          "strongNumber": "H3581",
+          "lemma": "koach",
+          "meaning": "power, strength"
+        },
+        {
+          "word": "strength",
+          "strongNumber": "H6109",
+          "lemma": "otsmah",
+          "meaning": "strength, might"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "Even the youths shall faint and be weary, and the young men shall utterly fall:",
+      "highlightedWords": [
+        {
+          "word": "youths",
+          "strongNumber": "H5288",
+          "lemma": "na'ar",
+          "meaning": "youth, lad"
+        },
+        {
+          "word": "young men",
+          "strongNumber": "H970",
+          "lemma": "bachur",
+          "meaning": "young man, choice youth"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "But they that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; and they shall walk, and not faint.",
+      "highlightedWords": [
+        {
+          "word": "wait",
+          "strongNumber": "H6960",
+          "lemma": "qavah",
+          "meaning": "to wait, hope"
+        },
+        {
+          "word": "eagles",
+          "strongNumber": "H5404",
+          "lemma": "nesher",
+          "meaning": "eagle"
+        }
+      ]
+    }
+  ]
+}

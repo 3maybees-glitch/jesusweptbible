@@ -1,0 +1,564 @@
+{
+  "book": "Jeremiah",
+  "chapter": 44,
+  "chapterTheme": {
+    "twoWordSummary": "Egypt Idolatry",
+    "themeWords": [
+      {
+        "word": "LORD",
+        "strongNumber": "H3068",
+        "lemma": "YHWH",
+        "meaning": "The covenant name of Israel’s God"
+      },
+      {
+        "word": "incense",
+        "strongNumber": "H6999",
+        "lemma": "qāṭar",
+        "meaning": "to burn incense; to make sacrificial smoke"
+      }
+    ]
+  },
+  "sentenceTheme": "Jeremiah condemns Judah’s remnant in Egypt for worshiping the queen of heaven, warning of sword and famine, and gives a sign in Pharaoh-hophra’s downfall.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "The word that came to Jeremiah concerning all the Jews which dwell in the land of Egypt, which dwell at Migdol, and at Tahpanhes, and at Noph, and in the country of Pathros, saying,",
+      "highlightedWords": [
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Miṣrayim",
+          "meaning": "Egypt; the land of the Nile"
+        },
+        {
+          "word": "Pathros",
+          "strongNumber": "H6624",
+          "lemma": "Paṯrôs",
+          "meaning": "Pathros; Upper Egypt"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Thus saith the LORD of hosts, the God of Israel; Ye have seen all the evil that I have brought upon Jerusalem, and upon all the cities of Judah; and, behold, this day they are a desolation, and no man dwelleth therein,",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of Israel’s God"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yərûšālaim",
+          "meaning": "Jerusalem, the chief city of Judah"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Because of their wickedness which they have committed to provoke me to anger, in that they went to burn incense, and to serve other gods, whom they knew not, neither they, nor ye, nor your fathers.",
+      "highlightedWords": [
+        {
+          "word": "incense",
+          "strongNumber": "H6999",
+          "lemma": "qāṭar",
+          "meaning": "to burn incense; to make sacrificial smoke"
+        },
+        {
+          "word": "gods",
+          "strongNumber": "H430",
+          "lemma": "’ĕlōhîm",
+          "meaning": "gods; God; divine beings"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Howbeit I sent unto you all my servants the prophets, rising early and sending them, saying, Oh, do not this abominable thing that I hate.",
+      "highlightedWords": [
+        {
+          "word": "prophets",
+          "strongNumber": "H5030",
+          "lemma": "nābî’",
+          "meaning": "a prophet; spokesperson of God"
+        },
+        {
+          "word": "abominable",
+          "strongNumber": "H8441",
+          "lemma": "tō‘ēvāh",
+          "meaning": "abomination; detestable thing"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "But they hearkened not, nor inclined their ear to turn from their wickedness, to burn no incense unto other gods.",
+      "highlightedWords": [
+        {
+          "word": "hearkened",
+          "strongNumber": "H8085",
+          "lemma": "šāma‘",
+          "meaning": "to hear; to listen; to obey"
+        },
+        {
+          "word": "incense",
+          "strongNumber": "H6999",
+          "lemma": "qāṭar",
+          "meaning": "to burn incense; to make sacrificial smoke"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Wherefore my fury and mine anger was poured forth, and was kindled in the cities of Judah and in the streets of Jerusalem; and they are wasted and desolate, as at this day.",
+      "highlightedWords": [
+        {
+          "word": "anger",
+          "strongNumber": "H639",
+          "lemma": "’aph",
+          "meaning": "nose; anger; wrath"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yərûšālaim",
+          "meaning": "Jerusalem, the chief city of Judah"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Therefore now thus saith the LORD, the God of hosts, the God of Israel; Wherefore commit ye this great evil against your souls, to cut off from you man and woman, child and suckling, out of Judah, to leave you none to remain;",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of Israel’s God"
+        },
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yəhûdāh",
+          "meaning": "Judah; the southern kingdom/tribe"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "In that ye provoke me unto wrath with the works of your hands, burning incense unto other gods in the land of Egypt, whither ye be gone to dwell, that ye might cut yourselves off, and that ye might be a curse and a reproach among all the nations of the earth?",
+      "highlightedWords": [
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Miṣrayim",
+          "meaning": "Egypt; the land of the Nile"
+        },
+        {
+          "word": "curse",
+          "strongNumber": "H7045",
+          "lemma": "qəlālāh",
+          "meaning": "a curse; an imprecation"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Have ye forgotten the wickedness of your fathers, and the wickedness of the kings of Judah, and the wickedness of their wives, and your own wickedness, and the wickedness of your wives, which they have committed in the land of Judah, and in the streets of Jerusalem?",
+      "highlightedWords": [
+        {
+          "word": "kings",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king; ruler"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yərûšālaim",
+          "meaning": "Jerusalem, the chief city of Judah"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "They are not humbled even unto this day, neither have they feared, nor walked in my law, nor in my statutes, that I set before you and before your fathers.",
+      "highlightedWords": [
+        {
+          "word": "humbled",
+          "strongNumber": "H3665",
+          "lemma": "kānā‘",
+          "meaning": "to be humbled; subdued"
+        },
+        {
+          "word": "law",
+          "strongNumber": "H8451",
+          "lemma": "tôrāh",
+          "meaning": "instruction; law; teaching"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Therefore thus saith the LORD of hosts, the God of Israel; Behold, I will set my face against you for evil, and to cut off all Judah.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of Israel’s God"
+        },
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra‘",
+          "meaning": "evil; calamity; disaster"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And I will take the remnant of Judah, that have set their faces to go into the land of Egypt to sojourn there, and they shall all be consumed, and fall in the land of Egypt; they shall even be consumed by the sword and by the famine: they shall die, from the least even unto the greatest, by the sword and by the famine: and they shall be an execration, and an astonishment, and a curse, and a reproach.",
+      "highlightedWords": [
+        {
+          "word": "remnant",
+          "strongNumber": "H7611",
+          "lemma": "šə’ērît",
+          "meaning": "rest; residue; survivors"
+        },
+        {
+          "word": "famine",
+          "strongNumber": "H7458",
+          "lemma": "rā‘āb",
+          "meaning": "famine; hunger"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "For I will punish them that dwell in the land of Egypt, as I have punished Jerusalem, by the sword, by the famine, and by the pestilence:",
+      "highlightedWords": [
+        {
+          "word": "punish",
+          "strongNumber": "H6485",
+          "lemma": "pāqad",
+          "meaning": "to attend to; to visit; to punish"
+        },
+        {
+          "word": "pestilence",
+          "strongNumber": "H1698",
+          "lemma": "deber",
+          "meaning": "pestilence; plague"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "So that none of the remnant of Judah, which are gone into the land of Egypt to sojourn there, shall escape or remain, that they should return into the land of Judah, to the which they have a desire to return to dwell there: for none shall return but such as shall escape.",
+      "highlightedWords": [
+        {
+          "word": "remnant",
+          "strongNumber": "H7611",
+          "lemma": "šə’ērît",
+          "meaning": "rest; residue; survivors"
+        },
+        {
+          "word": "return",
+          "strongNumber": "H7725",
+          "lemma": "šûb",
+          "meaning": "to turn back; return; restore"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Then all the men which knew that their wives had burned incense unto other gods, and all the women that stood by, a great multitude, even all the people that dwelt in the land of Egypt, in Pathros, answered Jeremiah, saying,",
+      "highlightedWords": [
+        {
+          "word": "incense",
+          "strongNumber": "H6999",
+          "lemma": "qāṭar",
+          "meaning": "to burn incense; to make sacrificial smoke"
+        },
+        {
+          "word": "Pathros",
+          "strongNumber": "H6624",
+          "lemma": "Paṯrôs",
+          "meaning": "Pathros; Upper Egypt"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "As for the word that thou hast spoken unto us in the name of the LORD, we will not hearken unto thee.",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dābār",
+          "meaning": "word; matter; thing"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "But we will certainly do whatsoever thing goeth forth out of our own mouth, to burn incense unto the queen of heaven, and to pour out drink offerings unto her, as we have done, we, and our fathers, our kings, and our princes, in the cities of Judah, and in the streets of Jerusalem: for then had we plenty of victuals, and were well, and saw no evil.",
+      "highlightedWords": [
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "šāmayim",
+          "meaning": "heavens; sky"
+        },
+        {
+          "word": "incense",
+          "strongNumber": "H6999",
+          "lemma": "qāṭar",
+          "meaning": "to burn incense; to make sacrificial smoke"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "But since we left off to burn incense to the queen of heaven, and to pour out drink offerings unto her, we have wanted all things, and have been consumed by the sword and by the famine.",
+      "highlightedWords": [
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "ḥereb",
+          "meaning": "sword; war; sharp weapon"
+        },
+        {
+          "word": "famine",
+          "strongNumber": "H7458",
+          "lemma": "rā‘āb",
+          "meaning": "famine; hunger"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And when we burned incense to the queen of heaven, and poured out drink offerings unto her, did we make her cakes to worship her, and pour out drink offerings unto her, without our men?",
+      "highlightedWords": [
+        {
+          "word": "incense",
+          "strongNumber": "H6999",
+          "lemma": "qāṭar",
+          "meaning": "to burn incense; to make sacrificial smoke"
+        },
+        {
+          "word": "men",
+          "strongNumber": "H582",
+          "lemma": "’ĕnôš",
+          "meaning": "man; mankind; men"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Then Jeremiah said unto all the people, to the men, and to the women, and to all the people which had given him that answer, saying,",
+      "highlightedWords": [
+        {
+          "word": "Jeremiah",
+          "strongNumber": "H3414",
+          "lemma": "Yirməyāhû",
+          "meaning": "Jeremiah; ‘Yahweh has appointed’"
+        },
+        {
+          "word": "people",
+          "strongNumber": "H5971",
+          "lemma": "‘am",
+          "meaning": "people; nation"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "The incense that ye burned in the cities of Judah, and in the streets of Jerusalem, ye, and your fathers, your kings, and your princes, and the people of the land, did not the LORD remember them, and came it not into his mind?",
+      "highlightedWords": [
+        {
+          "word": "incense",
+          "strongNumber": "H6999",
+          "lemma": "qāṭar",
+          "meaning": "to burn incense; to make sacrificial smoke"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yərûšālaim",
+          "meaning": "Jerusalem, the chief city of Judah"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "So that the LORD could no longer bear, because of the evil of your doings, and because of the abominations which ye have committed; therefore is your land a desolation, and an astonishment, and a curse, without an inhabitant, as at this day.",
+      "highlightedWords": [
+        {
+          "word": "abominations",
+          "strongNumber": "H8441",
+          "lemma": "tō‘ēvāh",
+          "meaning": "abomination; detestable thing"
+        },
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "’ereṣ",
+          "meaning": "land; earth; territory"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Because ye have burned incense, and because ye have sinned against the LORD, and have not obeyed the voice of the LORD, nor walked in his law, nor in his statutes, nor in his testimonies; therefore this evil is happened unto you, as at this day.",
+      "highlightedWords": [
+        {
+          "word": "voice",
+          "strongNumber": "H6963",
+          "lemma": "qôl",
+          "meaning": "voice; sound"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of Israel’s God"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Moreover Jeremiah said unto all the people, and to all the women, Hear the word of the LORD, all Judah that are in the land of Egypt:",
+      "highlightedWords": [
+        {
+          "word": "Jeremiah",
+          "strongNumber": "H3414",
+          "lemma": "Yirməyāhû",
+          "meaning": "Jeremiah; ‘Yahweh has appointed’"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Miṣrayim",
+          "meaning": "Egypt; the land of the Nile"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Thus saith the LORD of hosts, the God of Israel, saying; Ye and your wives have both spoken with your mouths, and fulfilled with your hands, saying, We will surely perform our vows that we have vowed, to burn incense to the queen of heaven, and to pour out drink offerings unto her: ye will surely accomplish your vows, and surely perform your vows.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "The covenant name of Israel’s God"
+        },
+        {
+          "word": "vows",
+          "strongNumber": "H5088",
+          "lemma": "neder",
+          "meaning": "a vow; a solemn promise"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "Therefore hear ye the word of the LORD, all Judah that dwell in the land of Egypt; Behold, I have sworn by my great name, saith the LORD, that my name shall no more be named in the mouth of any man of Judah in all the land of Egypt, saying, The Lord GOD liveth.",
+      "highlightedWords": [
+        {
+          "word": "sworn",
+          "strongNumber": "H7650",
+          "lemma": "šāva‘",
+          "meaning": "to swear; take an oath"
+        },
+        {
+          "word": "name",
+          "strongNumber": "H8034",
+          "lemma": "šēm",
+          "meaning": "name; reputation; memorial"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "Behold, I will watch over them for evil, and not for good; and all the men of Judah that are in the land of Egypt shall be consumed by the sword and by the famine, until there be an end of them.",
+      "highlightedWords": [
+        {
+          "word": "Judah",
+          "strongNumber": "H3063",
+          "lemma": "Yəhûdāh",
+          "meaning": "Judah; the southern kingdom/tribe"
+        },
+        {
+          "word": "famine",
+          "strongNumber": "H7458",
+          "lemma": "rā‘āb",
+          "meaning": "famine; hunger"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "Yet a small number that escape the sword shall return out of the land of Egypt into the land of Judah, and all the remnant of Judah, that are gone into the land of Egypt to sojourn there, shall know whose words shall stand, mine, or theirs.",
+      "highlightedWords": [
+        {
+          "word": "remnant",
+          "strongNumber": "H7611",
+          "lemma": "šə’ērît",
+          "meaning": "rest; residue; survivors"
+        },
+        {
+          "word": "words",
+          "strongNumber": "H1697",
+          "lemma": "dābār",
+          "meaning": "word; matter; thing"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "And this shall be a sign unto you, saith the LORD, that I will punish you in this place, that ye may know that my words shall surely stand against you for evil:",
+      "highlightedWords": [
+        {
+          "word": "sign",
+          "strongNumber": "H226",
+          "lemma": "’ōṯ",
+          "meaning": "sign; token; mark"
+        },
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra‘",
+          "meaning": "evil; calamity; disaster"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "Thus saith the LORD; Behold, I will give Pharaoh-hophra king of Egypt into the hand of his enemies, and into the hand of them that seek his life; as I gave Zedekiah king of Judah into the hand of Nebuchadrezzar king of Babylon, his enemy, and that sought his life.",
+      "highlightedWords": [
+        {
+          "word": "Nebuchadrezzar",
+          "strongNumber": "H5019",
+          "lemma": "Nəḇûḵaḏreṣṣar",
+          "meaning": "Nebuchadrezzar, king of Babylon"
+        },
+        {
+          "word": "Babylon",
+          "strongNumber": "H894",
+          "lemma": "Bāḇel",
+          "meaning": "Babylon; Babel"
+        }
+      ]
+    }
+  ]
+}

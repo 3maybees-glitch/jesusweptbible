@@ -1,0 +1,186 @@
+{
+  "book": "Zechariah",
+  "chapter": 13,
+  "chapterTheme": {
+    "twoWordSummary": "Purification Refinement",
+    "themeWords": [
+      {
+        "word": "fountain",
+        "strongNumber": "H4726",
+        "lemma": "maqor",
+        "meaning": "spring, fountain; a source of flowing water"
+      },
+      {
+        "word": "refine",
+        "strongNumber": "H6884",
+        "lemma": "tsaraph",
+        "meaning": "to smelt, refine, test and purify by fire"
+      }
+    ]
+  },
+  "sentenceTheme": "God opens a cleansing fountain, removes idolatry and false prophecy, strikes the shepherd, and refines a remnant to be His people.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "In that day there shall be a fountain opened to the house of David and to the inhabitants of Jerusalem for sin and for uncleanness.",
+      "highlightedWords": [
+        {
+          "word": "fountain",
+          "strongNumber": "H4726",
+          "lemma": "maqor",
+          "meaning": "spring, fountain; a source of flowing water"
+        },
+        {
+          "word": "uncleanness",
+          "strongNumber": "H5079",
+          "lemma": "niddah",
+          "meaning": "impurity, ceremonial uncleanness"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And it shall come to pass in that day, saith the LORD of hosts, that I will cut off the names of the idols out of the land, and they shall no more be remembered: and also I will cause the prophets and the unclean spirit to pass out of the land.",
+      "highlightedWords": [
+        {
+          "word": "idols",
+          "strongNumber": "H6091",
+          "lemma": "atsab",
+          "meaning": "idol, carved image"
+        },
+        {
+          "word": "prophets",
+          "strongNumber": "H5030",
+          "lemma": "nabi'",
+          "meaning": "prophet, spokesperson"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And it shall come to pass, that when any shall yet prophesy, then his father and his mother that begat him shall say unto him, Thou shalt not live; for thou speakest lies in the name of the LORD: and his father and his mother that begat him shall thrust him through when he prophesieth.",
+      "highlightedWords": [
+        {
+          "word": "prophesy",
+          "strongNumber": "H5012",
+          "lemma": "naba'",
+          "meaning": "to prophesy, speak by divine inspiration"
+        },
+        {
+          "word": "lies",
+          "strongNumber": "H8267",
+          "lemma": "sheqer",
+          "meaning": "falsehood, lie, deception"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And it shall come to pass in that day, that the prophets shall be ashamed every one of his vision, when he hath prophesied; neither shall they wear a rough garment to deceive:",
+      "highlightedWords": [
+        {
+          "word": "prophets",
+          "strongNumber": "H5030",
+          "lemma": "nabi'",
+          "meaning": "prophet, spokesperson"
+        },
+        {
+          "word": "deceive",
+          "strongNumber": "H3584",
+          "lemma": "kachash",
+          "meaning": "to deceive, deny, act falsely"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "But he shall say, I am no prophet, I am an husbandman; for man taught me to keep cattle from my youth.",
+      "highlightedWords": [
+        {
+          "word": "prophet",
+          "strongNumber": "H5030",
+          "lemma": "nabi'",
+          "meaning": "prophet, spokesperson"
+        },
+        {
+          "word": "taught",
+          "strongNumber": "H3925",
+          "lemma": "lamad",
+          "meaning": "to learn, teach, exercise in"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And one shall say unto him, What are these wounds in thine hands? Then he shall answer, Those with which I was wounded in the house of my friends.",
+      "highlightedWords": [
+        {
+          "word": "wounds",
+          "strongNumber": "H4347",
+          "lemma": "makkah",
+          "meaning": "wound, blow, stroke"
+        },
+        {
+          "word": "hands",
+          "strongNumber": "H3027",
+          "lemma": "yad",
+          "meaning": "hand, power, strength"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Awake, O sword, against my shepherd, and against the man that is my fellow, saith the LORD of hosts: smite the shepherd, and the sheep shall be scattered: and I will turn mine hand upon the little ones.",
+      "highlightedWords": [
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword, dagger; instrument of war"
+        },
+        {
+          "word": "shepherd",
+          "strongNumber": "H7462",
+          "lemma": "ra'ah",
+          "meaning": "to pasture, tend; a shepherd"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And it shall come to pass, that in all the land, saith the LORD, two parts therein shall be cut off and die; but the third shall be left therein.",
+      "highlightedWords": [
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "land, earth, territory"
+        },
+        {
+          "word": "third",
+          "strongNumber": "H7992",
+          "lemma": "shlishiy",
+          "meaning": "third, a third part"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And I will bring the third part through the fire, and will refine them as silver is refined, and will try them as gold is tried: they shall call on my name, and I will hear them: I will say, It is my people: and they shall say, The LORD is my God.",
+      "highlightedWords": [
+        {
+          "word": "refine",
+          "strongNumber": "H6884",
+          "lemma": "tsaraph",
+          "meaning": "to smelt, refine, test and purify by fire"
+        },
+        {
+          "word": "call",
+          "strongNumber": "H7121",
+          "lemma": "qara'",
+          "meaning": "to call, proclaim, summon"
+        }
+      ]
+    }
+  ]
+}

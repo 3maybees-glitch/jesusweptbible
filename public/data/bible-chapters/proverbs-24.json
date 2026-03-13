@@ -1,0 +1,636 @@
+{
+  "book": "Proverbs",
+  "chapter": 24,
+  "chapterTheme": {
+    "twoWordSummary": "Wise Living",
+    "themeWords": [
+      {
+        "word": "wisdom",
+        "strongNumber": "H2451",
+        "lemma": "ḥokmāh",
+        "meaning": "skillful wisdom; practical skill"
+      },
+      {
+        "word": "righteous",
+        "strongNumber": "H6662",
+        "lemma": "ṣaddîq",
+        "meaning": "just; upright; in the right"
+      }
+    ]
+  },
+  "sentenceTheme": "Wisdom guides just conduct, steady resilience, prudent planning, and righteous judgment amid the snares of wickedness.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Be not thou envious against evil men, neither desire to be with them.",
+      "highlightedWords": [
+        {
+          "word": "envious",
+          "strongNumber": "H7065",
+          "lemma": "qānāʾ",
+          "meaning": "to be jealous or zealous; envy"
+        },
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "raʿ",
+          "meaning": "bad; evil; wicked"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "For their heart studieth destruction, and their lips talk of mischief.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "lēḇ",
+          "meaning": "heart; inner person; mind"
+        },
+        {
+          "word": "lips",
+          "strongNumber": "H8193",
+          "lemma": "śāp̄āh",
+          "meaning": "lip; speech"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Through wisdom is an house builded; and by understanding it is established:",
+      "highlightedWords": [
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "ḥokmāh",
+          "meaning": "wisdom; skill"
+        },
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayit",
+          "meaning": "house; household"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And by knowledge shall the chambers be filled with all precious and pleasant riches.",
+      "highlightedWords": [
+        {
+          "word": "knowledge",
+          "strongNumber": "H1847",
+          "lemma": "daʿaṯ",
+          "meaning": "knowledge; understanding"
+        },
+        {
+          "word": "chambers",
+          "strongNumber": "H2315",
+          "lemma": "ḥeder",
+          "meaning": "chamber; inner room"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "A wise man is strong; yea, a man of knowledge increaseth strength.",
+      "highlightedWords": [
+        {
+          "word": "wise",
+          "strongNumber": "H2450",
+          "lemma": "ḥākām",
+          "meaning": "wise; skillful; experienced"
+        },
+        {
+          "word": "strength",
+          "strongNumber": "H3581",
+          "lemma": "kōaḥ",
+          "meaning": "strength; power; might"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "For by wise counsel thou shalt make thy war: and in multitude of counsellors there is safety.",
+      "highlightedWords": [
+        {
+          "word": "war",
+          "strongNumber": "H4421",
+          "lemma": "milḥāmāh",
+          "meaning": "battle; war"
+        },
+        {
+          "word": "safety",
+          "strongNumber": "H8668",
+          "lemma": "tĕšûʿāh",
+          "meaning": "deliverance; victory; safety"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Wisdom is too high for a fool: he openeth not his mouth in the gate.",
+      "highlightedWords": [
+        {
+          "word": "fool",
+          "strongNumber": "H3684",
+          "lemma": "kesîl",
+          "meaning": "fool; dullard"
+        },
+        {
+          "word": "gate",
+          "strongNumber": "H8179",
+          "lemma": "šaʿar",
+          "meaning": "gate; entrance; city gate"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "He that deviseth to do evil shall be called a mischievous person.",
+      "highlightedWords": [
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "raʿ",
+          "meaning": "bad; evil; wicked"
+        },
+        {
+          "word": "mischievous",
+          "strongNumber": "H4209",
+          "lemma": "mĕzimmāh",
+          "meaning": "device; plan; wicked scheme"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "The thought of foolishness is sin: and the scorner is an abomination to men.",
+      "highlightedWords": [
+        {
+          "word": "scorner",
+          "strongNumber": "H3917",
+          "lemma": "lēṣ",
+          "meaning": "mocker; scorner"
+        },
+        {
+          "word": "abomination",
+          "strongNumber": "H8441",
+          "lemma": "tōʿēḇāh",
+          "meaning": "abomination; detestable thing"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "If thou faint in the day of adversity, thy strength is small.",
+      "highlightedWords": [
+        {
+          "word": "adversity",
+          "strongNumber": "H6869",
+          "lemma": "ṣārāh",
+          "meaning": "distress; trouble"
+        },
+        {
+          "word": "strength",
+          "strongNumber": "H3581",
+          "lemma": "kōaḥ",
+          "meaning": "strength; power; might"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "If thou forbear to deliver them that are drawn unto death, and those that are ready to be slain;",
+      "highlightedWords": [
+        {
+          "word": "deliver",
+          "strongNumber": "H5337",
+          "lemma": "nāṣal",
+          "meaning": "to snatch away; deliver; rescue"
+        },
+        {
+          "word": "death",
+          "strongNumber": "H4194",
+          "lemma": "māweṯ",
+          "meaning": "death"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "If thou sayest, Behold, we knew it not; doth not he that pondereth the heart consider it? and he that keepeth thy soul, doth not he know it? and shall not he render to every man according to his works?",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "lēḇ",
+          "meaning": "heart; inner person"
+        },
+        {
+          "word": "soul",
+          "strongNumber": "H5315",
+          "lemma": "nep̄eš",
+          "meaning": "soul; life; self"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "My son, eat thou honey, because it is good; and the honeycomb, which is sweet to thy taste:",
+      "highlightedWords": [
+        {
+          "word": "son",
+          "strongNumber": "H1121",
+          "lemma": "bēn",
+          "meaning": "son; child"
+        },
+        {
+          "word": "honey",
+          "strongNumber": "H1706",
+          "lemma": "dĕḇaš",
+          "meaning": "honey"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "So shall the knowledge of wisdom be unto thy soul: when thou hast found it, then there shall be a reward, and thy expectation shall not be cut off.",
+      "highlightedWords": [
+        {
+          "word": "knowledge",
+          "strongNumber": "H1847",
+          "lemma": "daʿaṯ",
+          "meaning": "knowledge; understanding"
+        },
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "ḥokmāh",
+          "meaning": "wisdom; skill"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Lay not wait, O wicked man, against the dwelling of the righteous; spoil not his resting place:",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rāšāʿ",
+          "meaning": "wicked; guilty; criminal"
+        },
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "ṣaddîq",
+          "meaning": "righteous; just; upright"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "For a just man falleth seven times, and riseth up again: but the wicked shall fall into mischief.",
+      "highlightedWords": [
+        {
+          "word": "just",
+          "strongNumber": "H6662",
+          "lemma": "ṣaddîq",
+          "meaning": "righteous; just"
+        },
+        {
+          "word": "seven",
+          "strongNumber": "H7651",
+          "lemma": "šeḇaʿ",
+          "meaning": "seven"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Rejoice not when thine enemy falleth, and let not thine heart be glad when he stumbleth:",
+      "highlightedWords": [
+        {
+          "word": "enemy",
+          "strongNumber": "H341",
+          "lemma": "ʾōyēḇ",
+          "meaning": "enemy; foe"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "lēḇ",
+          "meaning": "heart; inner person"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Lest the LORD see it, and it displease him, and he turn away his wrath from him.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "wrath",
+          "strongNumber": "H639",
+          "lemma": "ʾap̄",
+          "meaning": "nose; anger; wrath"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Fret not thyself because of evil men, neither be thou envious at the wicked;",
+      "highlightedWords": [
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "raʿ",
+          "meaning": "bad; evil; wicked"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rāšāʿ",
+          "meaning": "wicked; guilty; criminal"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "For there shall be no reward to the evil man; the candle of the wicked shall be put out.",
+      "highlightedWords": [
+        {
+          "word": "candle",
+          "strongNumber": "H5216",
+          "lemma": "nēr",
+          "meaning": "lamp; light"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rāšāʿ",
+          "meaning": "wicked; guilty; criminal"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "My son, fear thou the LORD and the king: and meddle not with them that are given to change:",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the personal name of Israel’s God"
+        },
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "meleḵ",
+          "meaning": "king; ruler"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "For their calamity shall rise suddenly; and who knoweth the ruin of them both?",
+      "highlightedWords": [
+        {
+          "word": "calamity",
+          "strongNumber": "H343",
+          "lemma": "ʾêḏ/ʾēḏ",
+          "meaning": "calamity; disaster"
+        },
+        {
+          "word": "ruin",
+          "strongNumber": "H7722",
+          "lemma": "šōʾâ",
+          "meaning": "desolation; ruin"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "These things also belong to the wise. It is not good to have respect of persons in judgment.",
+      "highlightedWords": [
+        {
+          "word": "wise",
+          "strongNumber": "H2450",
+          "lemma": "ḥākām",
+          "meaning": "wise; skillful; experienced"
+        },
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mišpāṭ",
+          "meaning": "justice; judgment; legal decision"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "He that saith unto the wicked, Thou art righteous; him shall the people curse, nations shall abhor him:",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rāšāʿ",
+          "meaning": "wicked; guilty; criminal"
+        },
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "ṣaddîq",
+          "meaning": "righteous; just; upright"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "But to them that rebuke him shall be delight, and a good blessing shall come upon them.",
+      "highlightedWords": [
+        {
+          "word": "rebuke",
+          "strongNumber": "H3198",
+          "lemma": "yāḵaḥ",
+          "meaning": "to reprove; correct; judge"
+        },
+        {
+          "word": "blessing",
+          "strongNumber": "H1293",
+          "lemma": "bĕrākāh",
+          "meaning": "blessing; gift"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "Every man shall kiss his lips that giveth a right answer.",
+      "highlightedWords": [
+        {
+          "word": "kiss",
+          "strongNumber": "H5401",
+          "lemma": "nāšaq",
+          "meaning": "to kiss"
+        },
+        {
+          "word": "lips",
+          "strongNumber": "H8193",
+          "lemma": "śāp̄āh",
+          "meaning": "lip; speech"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "Prepare thy work without, and make it fit for thyself in the field; and afterwards build thine house.",
+      "highlightedWords": [
+        {
+          "word": "Prepare",
+          "strongNumber": "H3559",
+          "lemma": "kûn",
+          "meaning": "to establish; prepare; make firm"
+        },
+        {
+          "word": "field",
+          "strongNumber": "H7704",
+          "lemma": "śāḏeh",
+          "meaning": "field; open country"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "Be not a witness against thy neighbour without cause; and deceive not with thy lips.",
+      "highlightedWords": [
+        {
+          "word": "witness",
+          "strongNumber": "H5707",
+          "lemma": "ʿēḏ",
+          "meaning": "witness; testimony"
+        },
+        {
+          "word": "neighbour",
+          "strongNumber": "H7453",
+          "lemma": "rēaʿ",
+          "meaning": "friend; neighbor; companion"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "Say not, I will do so to him as he hath done to me: I will render to the man according to his work.",
+      "highlightedWords": [
+        {
+          "word": "render",
+          "strongNumber": "H7999",
+          "lemma": "šālam",
+          "meaning": "to repay; recompense"
+        },
+        {
+          "word": "man",
+          "strongNumber": "H376",
+          "lemma": "ʾîš",
+          "meaning": "man; individual; person"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "I went by the field of the slothful, and by the vineyard of the man void of understanding;",
+      "highlightedWords": [
+        {
+          "word": "field",
+          "strongNumber": "H7704",
+          "lemma": "śāḏeh",
+          "meaning": "field; open country"
+        },
+        {
+          "word": "vineyard",
+          "strongNumber": "H3754",
+          "lemma": "kerem",
+          "meaning": "vineyard"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "And, lo, it was all grown over with thorns, and nettles had covered the face thereof, and the stone wall thereof was broken down.",
+      "highlightedWords": [
+        {
+          "word": "thorns",
+          "strongNumber": "H6975",
+          "lemma": "qōṣ",
+          "meaning": "thorn(s)"
+        },
+        {
+          "word": "wall",
+          "strongNumber": "H1447",
+          "lemma": "gēḏēr",
+          "meaning": "wall; fence; enclosure"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "Then I saw, and considered it well: I looked upon it, and received instruction.",
+      "highlightedWords": [
+        {
+          "word": "saw",
+          "strongNumber": "H7200",
+          "lemma": "rāʾāh",
+          "meaning": "to see; look; perceive"
+        },
+        {
+          "word": "instruction",
+          "strongNumber": "H4148",
+          "lemma": "mûsār",
+          "meaning": "discipline; instruction; correction"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "Yet a little sleep, a little slumber, a little folding of the hands to sleep:",
+      "highlightedWords": [
+        {
+          "word": "sleep",
+          "strongNumber": "H8142",
+          "lemma": "šēnāh",
+          "meaning": "sleep"
+        },
+        {
+          "word": "hands",
+          "strongNumber": "H3027",
+          "lemma": "yād",
+          "meaning": "hand; power"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "So shall thy poverty come as one that travelleth; and thy want as an armed man.",
+      "highlightedWords": [
+        {
+          "word": "travelleth",
+          "strongNumber": "H1980",
+          "lemma": "hālaḵ",
+          "meaning": "to go; walk; travel"
+        },
+        {
+          "word": "want",
+          "strongNumber": "H4270",
+          "lemma": "maḥsôr",
+          "meaning": "lack; need; want"
+        }
+      ]
+    }
+  ]
+}

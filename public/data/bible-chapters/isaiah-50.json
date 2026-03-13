@@ -1,0 +1,222 @@
+{
+  "book": "Isaiah",
+  "chapter": 50,
+  "chapterTheme": {
+    "twoWordSummary": "Obedient Servant",
+    "themeWords": [
+      {
+        "word": "servant",
+        "strongNumber": "H5650",
+        "lemma": "ʿeved",
+        "meaning": "servant; one who serves"
+      },
+      {
+        "word": "help",
+        "strongNumber": "H5826",
+        "lemma": "ʿāzar",
+        "meaning": "to help, support"
+      }
+    ]
+  },
+  "sentenceTheme": "The Lord vindicates His obedient Servant, calling Israel to trust in Him rather than their own light.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Thus saith the LORD, Where is the bill of your mother's divorcement, whom I have put away? or which of my creditors is it to whom I have sold you? Behold, for your iniquities have ye sold yourselves, and for your transgressions is your mother put away.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yahweh)",
+          "meaning": "the covenant name of God"
+        },
+        {
+          "word": "iniquities",
+          "strongNumber": "H5771",
+          "lemma": "ʿavon",
+          "meaning": "iniquity, guilt, perversity"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Wherefore, when I came, was there no man? when I called, was there none to answer? Is my hand shortened at all, that it cannot redeem? or have I no power to deliver? Behold, at my rebuke I dry up the sea, I make the rivers a wilderness: their fish stinketh, because there is no water, and dieth for thirst.",
+      "highlightedWords": [
+        {
+          "word": "redeem",
+          "strongNumber": "H1350",
+          "lemma": "gāʾal",
+          "meaning": "to redeem, act as kinsman-redeemer"
+        },
+        {
+          "word": "deliver",
+          "strongNumber": "H5337",
+          "lemma": "nātsal",
+          "meaning": "to deliver, rescue, snatch away"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "I clothe the heavens with blackness, and I make sackcloth their covering.",
+      "highlightedWords": [
+        {
+          "word": "heavens",
+          "strongNumber": "H8064",
+          "lemma": "shāmayim",
+          "meaning": "heavens, sky"
+        },
+        {
+          "word": "sackcloth",
+          "strongNumber": "H8242",
+          "lemma": "saq",
+          "meaning": "sackcloth, coarse cloth of mourning"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "The Lord GOD hath given me the tongue of the learned, that I should know how to speak a word in season to him that is weary: he wakeneth morning by morning, he wakeneth mine ear to hear as the learned.",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "H136",
+          "lemma": "ʾAdonai",
+          "meaning": "Lord, Master"
+        },
+        {
+          "word": "wakeneth",
+          "strongNumber": "H5782",
+          "lemma": "ʿûr",
+          "meaning": "to rouse, awaken"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "The Lord GOD hath opened mine ear, and I was not rebellious, neither turned away back.",
+      "highlightedWords": [
+        {
+          "word": "opened",
+          "strongNumber": "H6605",
+          "lemma": "pāthach",
+          "meaning": "to open"
+        },
+        {
+          "word": "rebellious",
+          "strongNumber": "H4784",
+          "lemma": "mārah",
+          "meaning": "to be rebellious, disobedient"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "I gave my back to the smiters, and my cheeks to them that plucked off the hair: I hid not my face from shame and spitting.",
+      "highlightedWords": [
+        {
+          "word": "cheeks",
+          "strongNumber": "H3895",
+          "lemma": "lechi",
+          "meaning": "cheek, jaw"
+        },
+        {
+          "word": "face",
+          "strongNumber": "H6440",
+          "lemma": "pānîm",
+          "meaning": "face, presence"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "For the Lord GOD will help me; therefore shall I not be confounded: therefore have I set my face like a flint, and I know that I shall not be ashamed.",
+      "highlightedWords": [
+        {
+          "word": "help",
+          "strongNumber": "H5826",
+          "lemma": "ʿāzar",
+          "meaning": "to help, support"
+        },
+        {
+          "word": "ashamed",
+          "strongNumber": "H954",
+          "lemma": "bôsh",
+          "meaning": "to be ashamed, put to shame"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "He is near that justifieth me; who will contend with me? let us stand together: who is mine adversary? let him come near to me.",
+      "highlightedWords": [
+        {
+          "word": "justifieth",
+          "strongNumber": "H6663",
+          "lemma": "tsādaq",
+          "meaning": "to be righteous, justify"
+        },
+        {
+          "word": "contend",
+          "strongNumber": "H7378",
+          "lemma": "rîv",
+          "meaning": "to contend, plead a case"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Behold, the Lord GOD will help me; who is he that shall condemn me? lo, they all shall wax old as a garment; the moth shall eat them up.",
+      "highlightedWords": [
+        {
+          "word": "condemn",
+          "strongNumber": "H7561",
+          "lemma": "rāshaʿ",
+          "meaning": "to condemn, declare wicked"
+        },
+        {
+          "word": "moth",
+          "strongNumber": "H6211",
+          "lemma": "ʿāsh",
+          "meaning": "moth"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Who is among you that feareth the LORD, that obeyeth the voice of his servant, that walketh in darkness, and hath no light? let him trust in the name of the LORD, and stay upon his God.",
+      "highlightedWords": [
+        {
+          "word": "feareth",
+          "strongNumber": "H3372",
+          "lemma": "yārēʾ",
+          "meaning": "to fear, revere"
+        },
+        {
+          "word": "servant",
+          "strongNumber": "H5650",
+          "lemma": "ʿeved",
+          "meaning": "servant; one who serves"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Behold, all ye that kindle a fire, that compass yourselves about with sparks: walk ye in the light of your fire, and in the sparks that ye have kindled. This shall ye have of mine hand; ye shall lie down in sorrow.",
+      "highlightedWords": [
+        {
+          "word": "light",
+          "strongNumber": "H216",
+          "lemma": "ʾôr",
+          "meaning": "light"
+        },
+        {
+          "word": "hand",
+          "strongNumber": "H3027",
+          "lemma": "yād",
+          "meaning": "hand, power"
+        }
+      ]
+    }
+  ]
+}

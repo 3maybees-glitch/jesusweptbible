@@ -1,0 +1,420 @@
+{
+  "book": "Isaiah",
+  "chapter": 2,
+  "chapterTheme": {
+    "twoWordSummary": "Zion Exalted",
+    "themeWords": [
+      {
+        "word": "Zion",
+        "strongNumber": "H6726",
+        "lemma": "Tsiyyon",
+        "meaning": "Zion; the hill in Jerusalem symbolizing God's presence and rule"
+      },
+      {
+        "word": "nations",
+        "strongNumber": "H1471",
+        "lemma": "goy",
+        "meaning": "nations, peoples; non-Israelite peoples"
+      }
+    ]
+  },
+  "sentenceTheme": "In the last days the LORD exalts Zion as the center of instruction and peace, judges the nations, and humbles human pride and idolatry.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "The word that Isaiah the son of Amoz saw concerning Judah and Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, message"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerushalayim",
+          "meaning": "Jerusalem; city of peace"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And it shall come to pass in the last days, that the mountain of the LORD's house shall be established in the top of the mountains, and shall be exalted above the hills; and all nations shall flow unto it.",
+      "highlightedWords": [
+        {
+          "word": "mountain",
+          "strongNumber": "H2022",
+          "lemma": "har",
+          "meaning": "mountain, hill"
+        },
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "goy",
+          "meaning": "nations, peoples; Gentiles"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And many people shall go and say, Come ye, and let us go up to the mountain of the LORD, to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths: for out of Zion shall go forth the law, and the word of the LORD from Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyyon",
+          "meaning": "Zion; the hill in Jerusalem symbolizing God's presence and rule"
+        },
+        {
+          "word": "law",
+          "strongNumber": "H8451",
+          "lemma": "torah",
+          "meaning": "instruction, law, teaching"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And he shall judge among the nations, and shall rebuke many people: and they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up sword against nation, neither shall they learn war any more.",
+      "highlightedWords": [
+        {
+          "word": "judge",
+          "strongNumber": "H8199",
+          "lemma": "shaphat",
+          "meaning": "to judge, govern, decide"
+        },
+        {
+          "word": "swords",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword, dagger"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "O house of Jacob, come ye, and let us walk in the light of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "H1004",
+          "lemma": "bayith",
+          "meaning": "house, household, temple"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the LORD; the covenant name of God"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Therefore thou hast forsaken thy people the house of Jacob, because they be replenished from the east, and are soothsayers like the Philistines, and they please themselves in the children of strangers.",
+      "highlightedWords": [
+        {
+          "word": "Jacob",
+          "strongNumber": "H3290",
+          "lemma": "Ya'aqob",
+          "meaning": "Jacob; Israel, the patriarch and his descendants"
+        },
+        {
+          "word": "Philistines",
+          "strongNumber": "H6430",
+          "lemma": "Pelishtiy",
+          "meaning": "Philistines; inhabitants of Philistia"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Their land also is full of silver and gold, neither is there any end of their treasures; their land is also full of horses, neither is there any end of their chariots.",
+      "highlightedWords": [
+        {
+          "word": "silver",
+          "strongNumber": "H3701",
+          "lemma": "keseph",
+          "meaning": "silver; money"
+        },
+        {
+          "word": "horses",
+          "strongNumber": "H5483",
+          "lemma": "sus",
+          "meaning": "horse"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Their land also is full of idols; they worship the work of their own hands, that which their own fingers have made:",
+      "highlightedWords": [
+        {
+          "word": "idols",
+          "strongNumber": "H0457",
+          "lemma": "’elil",
+          "meaning": "idol; a worthless thing"
+        },
+        {
+          "word": "worship",
+          "strongNumber": "H7812",
+          "lemma": "shachah",
+          "meaning": "to bow down, prostrate oneself, worship"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And the mean man boweth down, and the great man humbleth himself: therefore forgive them not.",
+      "highlightedWords": [
+        {
+          "word": "boweth",
+          "strongNumber": "H7812",
+          "lemma": "shachah",
+          "meaning": "to bow down, prostrate oneself"
+        },
+        {
+          "word": "forgive",
+          "strongNumber": "H5375",
+          "lemma": "nasa'",
+          "meaning": "to lift, carry; to take away, forgive"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Enter into the rock, and hide thee in the dust, for fear of the LORD, and for the glory of his majesty.",
+      "highlightedWords": [
+        {
+          "word": "rock",
+          "strongNumber": "H6697",
+          "lemma": "tsur",
+          "meaning": "rock, cliff"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the LORD; the covenant name of God"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "The lofty looks of man shall be humbled, and the haughtiness of men shall be bowed down, and the LORD alone shall be exalted in that day.",
+      "highlightedWords": [
+        {
+          "word": "man",
+          "strongNumber": "H0120",
+          "lemma": "’adam",
+          "meaning": "man, humankind"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the LORD; the covenant name of God"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "For the day of the LORD of hosts shall be upon every one that is proud and lofty, and upon every one that is lifted up; and he shall be brought low:",
+      "highlightedWords": [
+        {
+          "word": "day",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day, time, period"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the LORD; the covenant name of God"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And upon all the cedars of Lebanon, that are high and lifted up, and upon all the oaks of Bashan,",
+      "highlightedWords": [
+        {
+          "word": "Lebanon",
+          "strongNumber": "H3844",
+          "lemma": "Levanon",
+          "meaning": "Lebanon; the forested mountain range north of Israel"
+        },
+        {
+          "word": "Bashan",
+          "strongNumber": "H1316",
+          "lemma": "Bashan",
+          "meaning": "Bashan; region east of the Jordan"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And upon all the high mountains, and upon all the hills that are lifted up,",
+      "highlightedWords": [
+        {
+          "word": "mountains",
+          "strongNumber": "H2022",
+          "lemma": "har",
+          "meaning": "mountains, hills"
+        },
+        {
+          "word": "hills",
+          "strongNumber": "H1389",
+          "lemma": "gib'ah",
+          "meaning": "hill, height"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And upon every high tower, and upon every fenced wall,",
+      "highlightedWords": [
+        {
+          "word": "tower",
+          "strongNumber": "H4026",
+          "lemma": "migdal",
+          "meaning": "tower, stronghold"
+        },
+        {
+          "word": "wall",
+          "strongNumber": "H2346",
+          "lemma": "chomah",
+          "meaning": "wall, fortification"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And upon all the ships of Tarshish, and upon all pleasant pictures.",
+      "highlightedWords": [
+        {
+          "word": "Tarshish",
+          "strongNumber": "H8659",
+          "lemma": "Tarshiysh",
+          "meaning": "Tarshish; a distant maritime region"
+        },
+        {
+          "word": "all",
+          "strongNumber": "H3605",
+          "lemma": "kol",
+          "meaning": "all, every, the whole"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And the loftiness of man shall be bowed down, and the haughtiness of men shall be made low: and the LORD alone shall be exalted in that day.",
+      "highlightedWords": [
+        {
+          "word": "man",
+          "strongNumber": "H0120",
+          "lemma": "’adam",
+          "meaning": "man, humankind"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the LORD; the covenant name of God"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And the idols he shall utterly abolish.",
+      "highlightedWords": [
+        {
+          "word": "idols",
+          "strongNumber": "H0457",
+          "lemma": "’elil",
+          "meaning": "idol; a worthless thing"
+        },
+        {
+          "word": "abolish",
+          "strongNumber": "H08045",
+          "lemma": "chabal/abad (sense: abolish)",
+          "meaning": "to destroy, make vanish, abolish"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And they shall go into the holes of the rocks, and into the caves of the earth, for fear of the LORD, and for the glory of his majesty, when he ariseth to shake terribly the earth.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the LORD; the covenant name of God"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H0776",
+          "lemma": "’erets",
+          "meaning": "land, earth"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "In that day a man shall cast his idols of silver, and his idols of gold, which they made each one for himself to worship, to the moles and to the bats;",
+      "highlightedWords": [
+        {
+          "word": "idols",
+          "strongNumber": "H0457",
+          "lemma": "’elil",
+          "meaning": "idol; a worthless thing"
+        },
+        {
+          "word": "silver",
+          "strongNumber": "H3701",
+          "lemma": "keseph",
+          "meaning": "silver; money"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "To go into the clefts of the rocks, and into the tops of the ragged rocks, for fear of the LORD, and for the glory of his majesty, when he ariseth to shake terribly the earth.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the LORD; the covenant name of God"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H0776",
+          "lemma": "’erets",
+          "meaning": "land, earth"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Cease ye from man, whose breath is in his nostrils: for wherein is he to be accounted of?",
+      "highlightedWords": [
+        {
+          "word": "man",
+          "strongNumber": "H0120",
+          "lemma": "’adam",
+          "meaning": "man, humankind"
+        },
+        {
+          "word": "breath",
+          "strongNumber": "H5397",
+          "lemma": "neshamah",
+          "meaning": "breath, life-breath"
+        }
+      ]
+    }
+  ]
+}

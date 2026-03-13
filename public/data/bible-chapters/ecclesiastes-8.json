@@ -1,0 +1,330 @@
+{
+  "book": "Ecclesiastes",
+  "chapter": 8,
+  "chapterTheme": {
+    "twoWordSummary": "Wisdom Authority",
+    "themeWords": [
+      {
+        "word": "wisdom",
+        "strongNumber": "H2451",
+        "lemma": "chokmah",
+        "meaning": "skill, wisdom, practical insight"
+      },
+      {
+        "word": "king",
+        "strongNumber": "H4428",
+        "lemma": "melek",
+        "meaning": "king, ruler, sovereign"
+      }
+    ]
+  },
+  "sentenceTheme": "Solomon reflects on wisdom in relation to royal authority, the timing of judgment, human limitations, and the God-fearing life under the sun.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Who is as the wise man? and who knoweth the interpretation of a thing? a man's wisdom maketh his face to shine, and the boldness of his face shall be changed.",
+      "highlightedWords": [
+        {
+          "word": "wise",
+          "strongNumber": "H2450",
+          "lemma": "chakam",
+          "meaning": "wise, skillful, shrewd"
+        },
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "skill, wisdom, practical insight"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "I counsel thee to keep the king's commandment, and that in regard of the oath of God.",
+      "highlightedWords": [
+        {
+          "word": "king's",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler, sovereign"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God, the true God"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Be not hasty to go out of his sight: stand not in an evil thing; for he doeth whatsoever pleaseth him.",
+      "highlightedWords": [
+        {
+          "word": "sight",
+          "strongNumber": "H6440",
+          "lemma": "panim",
+          "meaning": "face, presence, before"
+        },
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra'",
+          "meaning": "evil, bad, unpleasant, calamity"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Where the word of a king is, there is power: and who may say unto him, What doest thou?",
+      "highlightedWords": [
+        {
+          "word": "king",
+          "strongNumber": "H4428",
+          "lemma": "melek",
+          "meaning": "king, ruler, sovereign"
+        },
+        {
+          "word": "power",
+          "strongNumber": "H7983",
+          "lemma": "shilton",
+          "meaning": "authority, dominion, power"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Whoso keepeth the commandment shall feel no evil thing: and a wise man's heart discerneth both time and judgment.",
+      "highlightedWords": [
+        {
+          "word": "commandment",
+          "strongNumber": "H4687",
+          "lemma": "mitsvah",
+          "meaning": "command, precept, ordinance"
+        },
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "justice, judgment, decision"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Because to every purpose there is time and judgment, therefore the misery of man is great upon him.",
+      "highlightedWords": [
+        {
+          "word": "time",
+          "strongNumber": "H6256",
+          "lemma": "'eth",
+          "meaning": "time, season, appointed time"
+        },
+        {
+          "word": "judgment",
+          "strongNumber": "H4941",
+          "lemma": "mishpat",
+          "meaning": "justice, judgment, decision"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "For he knoweth not that which shall be: for who can tell him when it shall be?",
+      "highlightedWords": [
+        {
+          "word": "knoweth",
+          "strongNumber": "H3045",
+          "lemma": "yada'",
+          "meaning": "to know, perceive, understand"
+        },
+        {
+          "word": "tell",
+          "strongNumber": "H5046",
+          "lemma": "nagad",
+          "meaning": "to declare, announce, tell"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "There is no man that hath power over the spirit to retain the spirit; neither hath he power in the day of death: and there is no discharge in that war; neither shall wickedness deliver those that are given to it.",
+      "highlightedWords": [
+        {
+          "word": "spirit",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "spirit, breath, wind"
+        },
+        {
+          "word": "death",
+          "strongNumber": "H4194",
+          "lemma": "mavet",
+          "meaning": "death"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "All this have I seen, and applied my heart unto every work that is done under the sun: there is a time wherein one man ruleth over another to his own hurt.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "lev",
+          "meaning": "heart, inner man, mind"
+        },
+        {
+          "word": "sun",
+          "strongNumber": "H8121",
+          "lemma": "shemesh",
+          "meaning": "sun, sunlight"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And so I saw the wicked buried, who had come and gone from the place of the holy, and they were forgotten in the city where they had so done: this is also vanity.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha'",
+          "meaning": "wicked, guilty, criminal"
+        },
+        {
+          "word": "vanity",
+          "strongNumber": "H1892",
+          "lemma": "hebel",
+          "meaning": "breath, vapor, vanity, futility"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Because sentence against an evil work is not executed speedily, therefore the heart of the sons of men is fully set in them to do evil.",
+      "highlightedWords": [
+        {
+          "word": "sentence",
+          "strongNumber": "H6599",
+          "lemma": "pithgam",
+          "meaning": "edict, decree, sentence"
+        },
+        {
+          "word": "evil",
+          "strongNumber": "H7451",
+          "lemma": "ra'",
+          "meaning": "evil, bad, wickedness, calamity"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Though a sinner do evil an hundred times, and his days be prolonged, yet surely I know that it shall be well with them that fear God, which fear before him:",
+      "highlightedWords": [
+        {
+          "word": "fear",
+          "strongNumber": "H3372",
+          "lemma": "yare'",
+          "meaning": "to fear, revere, stand in awe"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God, the true God"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "But it shall not be well with the wicked, neither shall he prolong his days, which are as a shadow; because he feareth not before God.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha'",
+          "meaning": "wicked, guilty, criminal"
+        },
+        {
+          "word": "shadow",
+          "strongNumber": "H6738",
+          "lemma": "tsel",
+          "meaning": "shadow, shade"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "There is a vanity which is done upon the earth; that there be just men, unto whom it happeneth according to the work of the wicked; again, there be wicked men, to whom it happeneth according to the work of the righteous: I said that this also is vanity.",
+      "highlightedWords": [
+        {
+          "word": "wicked",
+          "strongNumber": "H7563",
+          "lemma": "rasha'",
+          "meaning": "wicked, guilty, criminal"
+        },
+        {
+          "word": "righteous",
+          "strongNumber": "H6662",
+          "lemma": "tsaddiq",
+          "meaning": "righteous, just, in the right"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Then I commended mirth, because a man hath no better thing under the sun, than to eat, and to drink, and to be merry: for that shall abide with him of his labour the days of his life, which God giveth him under the sun.",
+      "highlightedWords": [
+        {
+          "word": "eat",
+          "strongNumber": "H398",
+          "lemma": "akal",
+          "meaning": "to eat, consume"
+        },
+        {
+          "word": "drink",
+          "strongNumber": "H8354",
+          "lemma": "shathah",
+          "meaning": "to drink"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "When I applied mine heart to know wisdom, and to see the business that is done upon the earth: (for also there is that neither day nor night seeth sleep with his eyes:)",
+      "highlightedWords": [
+        {
+          "word": "wisdom",
+          "strongNumber": "H2451",
+          "lemma": "chokmah",
+          "meaning": "skill, wisdom, practical insight"
+        },
+        {
+          "word": "sleep",
+          "strongNumber": "H8142",
+          "lemma": "shenah",
+          "meaning": "sleep, drowsiness"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Then I beheld all the work of God, that a man cannot find out the work that is done under the sun: because though a man labour to seek it out, yet he shall not find it; yea further; though a wise man think to know it, yet shall he not be able to find it.",
+      "highlightedWords": [
+        {
+          "word": "work",
+          "strongNumber": "H4639",
+          "lemma": "ma'aseh",
+          "meaning": "work, deed, accomplishment"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God, the true God"
+        }
+      ]
+    }
+  ]
+}

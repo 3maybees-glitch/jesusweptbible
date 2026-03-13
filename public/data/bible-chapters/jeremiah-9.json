@@ -1,0 +1,492 @@
+{
+  "book": "Jeremiah",
+  "chapter": 9,
+  "chapterTheme": {
+    "twoWordSummary": "Lament Deceit",
+    "themeWords": [
+      {
+        "word": "lamentation",
+        "strongNumber": "H7015",
+        "lemma": "qinah",
+        "meaning": "lamentation, dirge"
+      },
+      {
+        "word": "deceit",
+        "strongNumber": "H4820",
+        "lemma": "mirmāh",
+        "meaning": "deceit, treachery"
+      }
+    ]
+  },
+  "sentenceTheme": "Jeremiah mourns pervasive deceit and impending judgment, calling for true understanding of the LORD and warning that external rites without heartfelt righteousness cannot avert disaster.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Oh that my head were waters, and mine eyes a fountain of tears, that I might weep day and night for the slain of the daughter of my people!",
+      "highlightedWords": [
+        {
+          "word": "weep",
+          "strongNumber": "H1058",
+          "lemma": "bākāh",
+          "meaning": "to weep, lament"
+        },
+        {
+          "word": "tears",
+          "strongNumber": "H1832",
+          "lemma": "dim‘āh",
+          "meaning": "tears"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Oh that I had in the wilderness a lodging place of wayfaring men; that I might leave my people, and go from them! for they be all adulterers, an assembly of treacherous men.",
+      "highlightedWords": [
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbār",
+          "meaning": "wilderness, desert"
+        },
+        {
+          "word": "adulterers",
+          "strongNumber": "H5003",
+          "lemma": "nā’aph",
+          "meaning": "to commit adultery; adulterers"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And they bend their tongues like their bow for lies: but they are not valiant for the truth upon the earth; for they proceed from evil to evil, and they know not me, saith the LORD.",
+      "highlightedWords": [
+        {
+          "word": "truth",
+          "strongNumber": "H0571",
+          "lemma": "’ĕmet",
+          "meaning": "truth, firmness, faithfulness"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Take ye heed every one of his neighbour, and trust ye not in any brother: for every brother will utterly supplant, and every neighbour will walk with slanders.",
+      "highlightedWords": [
+        {
+          "word": "heed",
+          "strongNumber": "H8104",
+          "lemma": "shāmar",
+          "meaning": "to keep, guard, watch"
+        },
+        {
+          "word": "supplant",
+          "strongNumber": "H6117",
+          "lemma": "‘āqab",
+          "meaning": "to supplant, overreach"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And they will deceive every one his neighbour, and will not speak the truth: they have taught their tongue to speak lies, and weary themselves to commit iniquity.",
+      "highlightedWords": [
+        {
+          "word": "truth",
+          "strongNumber": "H0571",
+          "lemma": "’ĕmet",
+          "meaning": "truth, firmness, faithfulness"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "‘āwōn",
+          "meaning": "iniquity, guilt, wrongdoing"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Thine habitation is in the midst of deceit; through deceit they refuse to know me, saith the LORD.",
+      "highlightedWords": [
+        {
+          "word": "deceit",
+          "strongNumber": "H4820",
+          "lemma": "mirmāh",
+          "meaning": "deceit, treachery"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Therefore thus saith the LORD of hosts, Behold, I will melt them, and try them; for how shall I do for the daughter of my people?",
+      "highlightedWords": [
+        {
+          "word": "hosts",
+          "strongNumber": "H6635",
+          "lemma": "tsābā’",
+          "meaning": "armies, hosts"
+        },
+        {
+          "word": "daughter",
+          "strongNumber": "H1323",
+          "lemma": "bat",
+          "meaning": "daughter"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Their tongue is as an arrow shot out; it speaketh deceit: one speaketh peaceably to his neighbour with his mouth, but in heart he layeth his wait.",
+      "highlightedWords": [
+        {
+          "word": "arrow",
+          "strongNumber": "H2671",
+          "lemma": "chets",
+          "meaning": "arrow"
+        },
+        {
+          "word": "deceit",
+          "strongNumber": "H4820",
+          "lemma": "mirmāh",
+          "meaning": "deceit, treachery"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Shall I not visit them for these things? saith the LORD: shall not my soul be avenged on such a nation as this?",
+      "highlightedWords": [
+        {
+          "word": "visit",
+          "strongNumber": "H6485",
+          "lemma": "pāqad",
+          "meaning": "to visit, attend, punish"
+        },
+        {
+          "word": "nation",
+          "strongNumber": "H1471",
+          "lemma": "gôy",
+          "meaning": "nation, people"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "For the mountains will I take up a weeping and wailing, and for the habitations of the wilderness a lamentation, because they are burned up, so that none can pass through them; neither can men hear the voice of the cattle; both the fowl of the heavens and the beast are fled; they are gone.",
+      "highlightedWords": [
+        {
+          "word": "mountains",
+          "strongNumber": "H2022",
+          "lemma": "har",
+          "meaning": "mountain, hill country"
+        },
+        {
+          "word": "wilderness",
+          "strongNumber": "H4057",
+          "lemma": "midbār",
+          "meaning": "wilderness, desert"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And I will make Jerusalem heaps, and a den of dragons; and I will make the cities of Judah desolate, without an inhabitant.",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "H3389",
+          "lemma": "Yerûshālayim",
+          "meaning": "Jerusalem"
+        },
+        {
+          "word": "dragons",
+          "strongNumber": "H8565",
+          "lemma": "tannîm",
+          "meaning": "jackals; creatures rendered 'dragons' in KJV"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Who is the wise man, that may understand this? and who is he to whom the mouth of the LORD hath spoken, that he may declare it, for what the land perisheth and is burned up like a wilderness, that none passeth through?",
+      "highlightedWords": [
+        {
+          "word": "wise",
+          "strongNumber": "H2450",
+          "lemma": "chākām",
+          "meaning": "wise, skillful"
+        },
+        {
+          "word": "land",
+          "strongNumber": "H0776",
+          "lemma": "’erets",
+          "meaning": "land, earth"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And the LORD saith, Because they have forsaken my law which I set before them, and have not obeyed my voice, neither walked therein;",
+      "highlightedWords": [
+        {
+          "word": "forsaken",
+          "strongNumber": "H5800",
+          "lemma": "‘āzab",
+          "meaning": "to forsake, abandon"
+        },
+        {
+          "word": "law",
+          "strongNumber": "H8451",
+          "lemma": "tôrāh",
+          "meaning": "law, instruction"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "But have walked after the imagination of their own heart, and after Baalim, which their fathers taught them:",
+      "highlightedWords": [
+        {
+          "word": "imagination",
+          "strongNumber": "H8307",
+          "lemma": "sherîrûth",
+          "meaning": "stubbornness, imagination"
+        },
+        {
+          "word": "Baalim",
+          "strongNumber": "H1168",
+          "lemma": "Ba‘al",
+          "meaning": "Baal(s), lord; pagan deity"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Therefore thus saith the LORD of hosts, the God of Israel; Behold, I will feed them, even this people, with wormwood, and give them water of gall to drink.",
+      "highlightedWords": [
+        {
+          "word": "wormwood",
+          "strongNumber": "H3939",
+          "lemma": "la‘ănāh",
+          "meaning": "wormwood, bitterness"
+        },
+        {
+          "word": "gall",
+          "strongNumber": "H7219",
+          "lemma": "rō’sh",
+          "meaning": "poison, gall"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "I will scatter them also among the heathen, whom neither they nor their fathers have known: and I will send a sword after them, till I have consumed them.",
+      "highlightedWords": [
+        {
+          "word": "scatter",
+          "strongNumber": "H6327",
+          "lemma": "pûts",
+          "meaning": "to scatter, disperse"
+        },
+        {
+          "word": "sword",
+          "strongNumber": "H2719",
+          "lemma": "chereb",
+          "meaning": "sword"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Thus saith the LORD of hosts, Consider ye, and call for the mourning women, that they may come; and send for cunning women, that they may come:",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the proper name of the God of Israel"
+        },
+        {
+          "word": "hosts",
+          "strongNumber": "H6635",
+          "lemma": "tsābā’",
+          "meaning": "armies, hosts"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And let them make haste, and take up a wailing for us, that our eyes may run down with tears, and our eyelids gush out with waters.",
+      "highlightedWords": [
+        {
+          "word": "tears",
+          "strongNumber": "H1832",
+          "lemma": "dim‘āh",
+          "meaning": "tears"
+        },
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "For a voice of wailing is heard out of Zion, How are we spoiled! we are greatly confounded, because we have forsaken the land, because our dwellings have cast us out.",
+      "highlightedWords": [
+        {
+          "word": "Zion",
+          "strongNumber": "H6726",
+          "lemma": "Tsiyyôn",
+          "meaning": "Zion"
+        },
+        {
+          "word": "spoiled",
+          "strongNumber": "H7703",
+          "lemma": "shādad",
+          "meaning": "to devastate, plunder"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Yet hear the word of the LORD, O ye women, and let your ear receive the word of his mouth, and teach your daughters wailing, and every one her neighbour lamentation.",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dābār",
+          "meaning": "word, matter"
+        },
+        {
+          "word": "neighbour",
+          "strongNumber": "H7453",
+          "lemma": "rēa‘",
+          "meaning": "friend, neighbor"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "For death is come up into our windows, and is entered into our palaces, to cut off the children from without, and the young men from the streets.",
+      "highlightedWords": [
+        {
+          "word": "death",
+          "strongNumber": "H4194",
+          "lemma": "māvet",
+          "meaning": "death"
+        },
+        {
+          "word": "streets",
+          "strongNumber": "H7339",
+          "lemma": "rechov",
+          "meaning": "broad place, street"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Speak, Thus saith the LORD, Even the carcases of men shall fall as dung upon the open field, and as the handful after the harvestman, and none shall gather them.",
+      "highlightedWords": [
+        {
+          "word": "carcases",
+          "strongNumber": "H6297",
+          "lemma": "peger",
+          "meaning": "corpse, carcass"
+        },
+        {
+          "word": "harvestman",
+          "strongNumber": "H7114",
+          "lemma": "qātsar",
+          "meaning": "to reap; reaper, harvestman"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Thus saith the LORD, Let not the wise man glory in his wisdom, neither let the mighty man glory in his might, let not the rich man glory in his riches:",
+      "highlightedWords": [
+        {
+          "word": "wise",
+          "strongNumber": "H2450",
+          "lemma": "chākām",
+          "meaning": "wise, skillful"
+        },
+        {
+          "word": "glory",
+          "strongNumber": "H1984",
+          "lemma": "hālal",
+          "meaning": "to boast, praise, glory"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "But let him that glorieth glory in this, that he understandeth and knoweth me, that I am the LORD which exercise lovingkindness, judgment, and righteousness, in the earth: for in these things I delight, saith the LORD.",
+      "highlightedWords": [
+        {
+          "word": "lovingkindness",
+          "strongNumber": "H2617",
+          "lemma": "chesed",
+          "meaning": "steadfast love, kindness, mercy"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "tsedāqāh",
+          "meaning": "righteousness, justice"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Behold, the days come, saith the LORD, that I will punish all them which are circumcised with the uncircumcised;",
+      "highlightedWords": [
+        {
+          "word": "punish",
+          "strongNumber": "H6485",
+          "lemma": "pāqad",
+          "meaning": "to visit, attend, punish"
+        },
+        {
+          "word": "circumcised",
+          "strongNumber": "H4135",
+          "lemma": "mûl",
+          "meaning": "to circumcise; circumcised"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "Egypt, and Judah, and Edom, and the children of Ammon, and Moab, and all that are in the utmost corners, that dwell in the wilderness: for all these nations are uncircumcised, and all the house of Israel are uncircumcised in the heart.",
+      "highlightedWords": [
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "H3820",
+          "lemma": "lēv",
+          "meaning": "heart, inner person"
+        }
+      ]
+    }
+  ]
+}
