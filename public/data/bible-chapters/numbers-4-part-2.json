@@ -1,0 +1,474 @@
+﻿{
+    "book":  "Numbers",
+    "chapter":  4,
+    "chapterTheme":  {
+                         "twoWordSummary":  "Levitical Service",
+                         "themeWords":  [
+                                            {
+                                                "word":  "service",
+                                                "strongNumber":  "H5656",
+                                                "lemma":  "×¢Ö²×‘Ö¹×“Ö¸×”",
+                                                "meaning":  "work, labor, service"
+                                            },
+                                            {
+                                                "word":  "holy",
+                                                "strongNumber":  "H6944",
+                                                "lemma":  "×§Ö¹×“Ö¶×©×",
+                                                "meaning":  "holiness; that which is sacred/set apart"
+                                            }
+                                        ]
+                     },
+    "sentenceTheme":  "God assigns the sacred duties and census of the Kohathites, Gershonites, and Merarites for transporting the holy things of the tabernacle.",
+    "verses":  [
+                   {
+                       "verse":  25,
+                       "text":  "And they shall bear the curtains of the tabernacle, and the tabernacle of the congregation, his covering, and the covering of the badgers\u0027 skins that is above upon it, and the hanging for the door of the tabernacle of the congregation,",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "tabernacle",
+                                                    "strongNumber":  "H168",
+                                                    "lemma":  "×Ö¹×”Ö¶×œ",
+                                                    "meaning":  "tent, dwelling (here, the tent/tabernacle of meeting)"
+                                                },
+                                                {
+                                                    "word":  "badgers\u0027",
+                                                    "strongNumber":  "H8476",
+                                                    "lemma":  "×ªÖ·Ö¼×—Ö·×©×",
+                                                    "meaning":  "fine leather/skin (traditionally badger or sea-cow skin)"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  26,
+                       "text":  "And the hangings of the court, and the hanging for the door of the gate of the court, which is by the tabernacle and by the altar round about, and their cords, and all the instruments of their service, and all that is made for them: so shall they serve.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "altar",
+                                                    "strongNumber":  "H4196",
+                                                    "lemma":  "×žÖ´×–Ö°×‘ÖµÖ¼×—Ö·",
+                                                    "meaning":  "altar"
+                                                },
+                                                {
+                                                    "word":  "cords",
+                                                    "strongNumber":  "H4340",
+                                                    "lemma":  "×žÖµ×™×ªÖ¸×¨",
+                                                    "meaning":  "cord, rope"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  27,
+                       "text":  "At the appointment of Aaron and his sons shall be all the service of the sons of the Gershonites, in all their burdens, and in all their service: and ye shall appoint unto them in charge all their burdens.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "Gershonites",
+                                                    "strongNumber":  "H1649",
+                                                    "lemma":  "×’ÖµÖ¼×¨Ö°×©Ö¹×× Ö´×™",
+                                                    "meaning":  "descendants of Gershon"
+                                                },
+                                                {
+                                                    "word":  "Ithamar",
+                                                    "strongNumber":  "H385",
+                                                    "lemma":  "×Ö´×™×ªÖ¸×žÖ¸×¨",
+                                                    "meaning":  "Ithamar, son of Aaron"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  28,
+                       "text":  "This is the service of the families of the sons of Gershon in the tabernacle of the congregation: and their charge shall be under the hand of Ithamar the son of Aaron the priest.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "Gershon",
+                                                    "strongNumber":  "H1648",
+                                                    "lemma":  "×’ÖµÖ¼×¨Ö°×©××•Ö¹×Ÿ",
+                                                    "meaning":  "Gershon, son of Levi"
+                                                },
+                                                {
+                                                    "word":  "Ithamar",
+                                                    "strongNumber":  "H385",
+                                                    "lemma":  "×Ö´×™×ªÖ¸×žÖ¸×¨",
+                                                    "meaning":  "Ithamar, son of Aaron"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  29,
+                       "text":  "As for the sons of Merari, thou shalt number them after their families, by the house of their fathers;",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "Merari",
+                                                    "strongNumber":  "H4847",
+                                                    "lemma":  "×žÖ°×¨Ö¸×¨Ö´×™",
+                                                    "meaning":  "Merari, son of Levi"
+                                                },
+                                                {
+                                                    "word":  "fathers",
+                                                    "strongNumber":  "H1",
+                                                    "lemma":  "×Ö¸×‘",
+                                                    "meaning":  "father, ancestor, patriarch"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  30,
+                       "text":  "From thirty years old and upward even unto fifty years old shalt thou number them, every one that entereth into the service, to do the work of the tabernacle of the congregation.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "tabernacle",
+                                                    "strongNumber":  "H168",
+                                                    "lemma":  "×Ö¹×”Ö¶×œ",
+                                                    "meaning":  "tent, dwelling (here, the tent/tabernacle of meeting)"
+                                                },
+                                                {
+                                                    "word":  "service",
+                                                    "strongNumber":  "H5656",
+                                                    "lemma":  "×¢Ö²×‘Ö¹×“Ö¸×”",
+                                                    "meaning":  "work, labor, service"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  31,
+                       "text":  "And this is the charge of their burden, according to all their service in the tabernacle of the congregation; the boards of the tabernacle, and the bars thereof, and the pillars thereof, and sockets thereof,",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "tabernacle",
+                                                    "strongNumber":  "H168",
+                                                    "lemma":  "×Ö¹×”Ö¶×œ",
+                                                    "meaning":  "tent, dwelling (here, the tent/tabernacle of meeting)"
+                                                },
+                                                {
+                                                    "word":  "pillars",
+                                                    "strongNumber":  "H5982",
+                                                    "lemma":  "×¢Ö·×žÖ¼×•Ö¼×“",
+                                                    "meaning":  "pillar, column"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  32,
+                       "text":  "And the pillars of the court round about, and their sockets, and their pins, and their cords, with all their instruments, and with all their service: and by name ye shall reckon the instruments of the charge of their burden.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "pillars",
+                                                    "strongNumber":  "H5982",
+                                                    "lemma":  "×¢Ö·×žÖ¼×•Ö¼×“",
+                                                    "meaning":  "pillar, column"
+                                                },
+                                                {
+                                                    "word":  "cords",
+                                                    "strongNumber":  "H4340",
+                                                    "lemma":  "×žÖµ×™×ªÖ¸×¨",
+                                                    "meaning":  "cord, rope"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  33,
+                       "text":  "This is the service of the families of the sons of Merari, according to all their service, in the tabernacle of the congregation, under the hand of Ithamar the son of Aaron the priest.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "Merari",
+                                                    "strongNumber":  "H4847",
+                                                    "lemma":  "×žÖ°×¨Ö¸×¨Ö´×™",
+                                                    "meaning":  "Merari, son of Levi"
+                                                },
+                                                {
+                                                    "word":  "Ithamar",
+                                                    "strongNumber":  "H385",
+                                                    "lemma":  "×Ö´×™×ªÖ¸×žÖ¸×¨",
+                                                    "meaning":  "Ithamar, son of Aaron"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  34,
+                       "text":  "And Moses and Aaron and the chief of the congregation numbered the sons of the Kohathites after their families, and by the house of their fathers,",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "Moses",
+                                                    "strongNumber":  "H4872",
+                                                    "lemma":  "×žÖ¹×©Ö¶××”",
+                                                    "meaning":  "Moses, leader and lawgiver of Israel"
+                                                },
+                                                {
+                                                    "word":  "Kohathites",
+                                                    "strongNumber":  "H6956",
+                                                    "lemma":  "×§Ö°×”Ö¸×ªÖ´×™",
+                                                    "meaning":  "descendant of Kohath"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  35,
+                       "text":  "From thirty years old and upward even unto fifty years old, every one that entereth into the service, for the work in the tabernacle of the congregation:",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "tabernacle",
+                                                    "strongNumber":  "H168",
+                                                    "lemma":  "×Ö¹×”Ö¶×œ",
+                                                    "meaning":  "tent, dwelling (here, the tent/tabernacle of meeting)"
+                                                },
+                                                {
+                                                    "word":  "service",
+                                                    "strongNumber":  "H5656",
+                                                    "lemma":  "×¢Ö²×‘Ö¹×“Ö¸×”",
+                                                    "meaning":  "work, labor, service"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  36,
+                       "text":  "And those that were numbered of them by their families were two thousand seven hundred and fifty.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "families",
+                                                    "strongNumber":  "H4940",
+                                                    "lemma":  "×žÖ´×©Ö°××¤Ö¸Ö¼×—Ö¸×”",
+                                                    "meaning":  "clan, family"
+                                                },
+                                                {
+                                                    "word":  "numbered",
+                                                    "strongNumber":  "H6485",
+                                                    "lemma":  "×¤Ö¸Ö¼×§Ö·×“",
+                                                    "meaning":  "to attend, visit, muster, number"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  37,
+                       "text":  "These were they that were numbered of the families of the Kohathites, all that might do service in the tabernacle of the congregation, whom Moses and Aaron did number according to the commandment of the LORD by the hand of Moses.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "Kohathites",
+                                                    "strongNumber":  "H6956",
+                                                    "lemma":  "×§Ö°×”Ö¸×ªÖ´×™",
+                                                    "meaning":  "descendant of Kohath"
+                                                },
+                                                {
+                                                    "word":  "LORD",
+                                                    "strongNumber":  "H3068",
+                                                    "lemma":  "×™×”×•×”",
+                                                    "meaning":  "the personal name of the God of Israel (YHWH)"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  38,
+                       "text":  "And those that were numbered of the sons of Gershon, throughout their families, and by the house of their fathers,",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "Gershon",
+                                                    "strongNumber":  "H1648",
+                                                    "lemma":  "×’ÖµÖ¼×¨Ö°×©××•Ö¹×Ÿ",
+                                                    "meaning":  "Gershon, son of Levi"
+                                                },
+                                                {
+                                                    "word":  "fathers",
+                                                    "strongNumber":  "H1",
+                                                    "lemma":  "×Ö¸×‘",
+                                                    "meaning":  "father, ancestor, patriarch"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  39,
+                       "text":  "From thirty years old and upward even unto fifty years old, every one that entereth into the service, for the work in the tabernacle of the congregation,",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "tabernacle",
+                                                    "strongNumber":  "H168",
+                                                    "lemma":  "×Ö¹×”Ö¶×œ",
+                                                    "meaning":  "tent, dwelling (here, the tent/tabernacle of meeting)"
+                                                },
+                                                {
+                                                    "word":  "service",
+                                                    "strongNumber":  "H5656",
+                                                    "lemma":  "×¢Ö²×‘Ö¹×“Ö¸×”",
+                                                    "meaning":  "work, labor, service"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  40,
+                       "text":  "Even those that were numbered of them, throughout their families, by the house of their fathers, were two thousand and six hundred and thirty.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "numbered",
+                                                    "strongNumber":  "H6485",
+                                                    "lemma":  "×¤Ö¸Ö¼×§Ö·×“",
+                                                    "meaning":  "to attend, visit, muster, number"
+                                                },
+                                                {
+                                                    "word":  "families",
+                                                    "strongNumber":  "H4940",
+                                                    "lemma":  "×žÖ´×©Ö°××¤Ö¸Ö¼×—Ö¸×”",
+                                                    "meaning":  "clan, family"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  41,
+                       "text":  "These are they that were numbered of the families of the sons of Gershon, of all that might do service in the tabernacle of the congregation, whom Moses and Aaron did number according to the commandment of the LORD.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "Gershon",
+                                                    "strongNumber":  "H1648",
+                                                    "lemma":  "×’ÖµÖ¼×¨Ö°×©××•Ö¹×Ÿ",
+                                                    "meaning":  "Gershon, son of Levi"
+                                                },
+                                                {
+                                                    "word":  "LORD",
+                                                    "strongNumber":  "H3068",
+                                                    "lemma":  "×™×”×•×”",
+                                                    "meaning":  "the personal name of the God of Israel (YHWH)"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  42,
+                       "text":  "And those that were numbered of the families of the sons of Merari, throughout their families, by the house of their fathers,",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "Merari",
+                                                    "strongNumber":  "H4847",
+                                                    "lemma":  "×žÖ°×¨Ö¸×¨Ö´×™",
+                                                    "meaning":  "Merari, son of Levi"
+                                                },
+                                                {
+                                                    "word":  "fathers",
+                                                    "strongNumber":  "H1",
+                                                    "lemma":  "×Ö¸×‘",
+                                                    "meaning":  "father, ancestor, patriarch"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  43,
+                       "text":  "From thirty years old and upward even unto fifty years old, every one that entereth into the service, for the work in the tabernacle of the congregation,",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "tabernacle",
+                                                    "strongNumber":  "H168",
+                                                    "lemma":  "×Ö¹×”Ö¶×œ",
+                                                    "meaning":  "tent, dwelling (here, the tent/tabernacle of meeting)"
+                                                },
+                                                {
+                                                    "word":  "service",
+                                                    "strongNumber":  "H5656",
+                                                    "lemma":  "×¢Ö²×‘Ö¹×“Ö¸×”",
+                                                    "meaning":  "work, labor, service"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  44,
+                       "text":  "Even those that were numbered of them after their families, were three thousand and two hundred.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "numbered",
+                                                    "strongNumber":  "H6485",
+                                                    "lemma":  "×¤Ö¸Ö¼×§Ö·×“",
+                                                    "meaning":  "to attend, visit, muster, number"
+                                                },
+                                                {
+                                                    "word":  "families",
+                                                    "strongNumber":  "H4940",
+                                                    "lemma":  "×žÖ´×©Ö°××¤Ö¸Ö¼×—Ö¸×”",
+                                                    "meaning":  "clan, family"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  45,
+                       "text":  "These be those that were numbered of the families of the sons of Merari, whom Moses and Aaron numbered according to the word of the LORD by the hand of Moses.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "Merari",
+                                                    "strongNumber":  "H4847",
+                                                    "lemma":  "×žÖ°×¨Ö¸×¨Ö´×™",
+                                                    "meaning":  "Merari, son of Levi"
+                                                },
+                                                {
+                                                    "word":  "LORD",
+                                                    "strongNumber":  "H3068",
+                                                    "lemma":  "×™×”×•×”",
+                                                    "meaning":  "the personal name of the God of Israel (YHWH)"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  46,
+                       "text":  "All those that were numbered of the Levites, whom Moses and Aaron and the chief of Israel numbered, after their families, and by the house of their fathers,",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "Levites",
+                                                    "strongNumber":  "H3881",
+                                                    "lemma":  "×œÖµ×•Ö´×™Ö´Ö¼×™",
+                                                    "meaning":  "Levite; member of the tribe of Levi"
+                                                },
+                                                {
+                                                    "word":  "Israel",
+                                                    "strongNumber":  "H3478",
+                                                    "lemma":  "×™Ö´×©Ö°×‚×¨Ö¸×Öµ×œ",
+                                                    "meaning":  "Israel; the people/nation of Israel"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  47,
+                       "text":  "From thirty years old and upward even unto fifty years old, every one that came to do the service of the ministry, and the service of the burden in the tabernacle of the congregation,",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "tabernacle",
+                                                    "strongNumber":  "H168",
+                                                    "lemma":  "×Ö¹×”Ö¶×œ",
+                                                    "meaning":  "tent, dwelling (here, the tent/tabernacle of meeting)"
+                                                },
+                                                {
+                                                    "word":  "service",
+                                                    "strongNumber":  "H5656",
+                                                    "lemma":  "×¢Ö²×‘Ö¹×“Ö¸×”",
+                                                    "meaning":  "work, labor, service"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  48,
+                       "text":  "Even those that were numbered of them, were eight thousand and five hundred and fourscore.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "numbered",
+                                                    "strongNumber":  "H6485",
+                                                    "lemma":  "×¤Ö¸Ö¼×§Ö·×“",
+                                                    "meaning":  "to attend, visit, muster, number"
+                                                },
+                                                {
+                                                    "word":  "eight",
+                                                    "strongNumber":  "H8083",
+                                                    "lemma":  "×©Ö°××žÖ¹× Ö¶×”",
+                                                    "meaning":  "eight"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  49,
+                       "text":  "According to the commandment of the LORD they were numbered by the hand of Moses, every one according to his service, and according to his burden: thus were they numbered of him, as the LORD commanded Moses.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "LORD",
+                                                    "strongNumber":  "H3068",
+                                                    "lemma":  "×™×”×•×”",
+                                                    "meaning":  "the personal name of the God of Israel (YHWH)"
+                                                },
+                                                {
+                                                    "word":  "Moses",
+                                                    "strongNumber":  "H4872",
+                                                    "lemma":  "×žÖ¹×©Ö¶××”",
+                                                    "meaning":  "Moses, leader and lawgiver of Israel"
+                                                }
+                                            ]
+                   }
+               ]
+}

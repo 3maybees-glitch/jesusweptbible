@@ -1,0 +1,834 @@
+﻿{
+    "book":  "Numbers",
+    "chapter":  7,
+    "chapterTheme":  {
+                         "twoWordSummary":  "Altar Dedication",
+                         "themeWords":  [
+                                            {
+                                                "word":  "dedication",
+                                                "strongNumber":  "H2598",
+                                                "lemma":  "á¸¥ÄƒnukkÃ¢",
+                                                "meaning":  "consecration; dedication of sacred things"
+                                            },
+                                            {
+                                                "word":  "offering",
+                                                "strongNumber":  "H7133",
+                                                "lemma":  "qorbÄn",
+                                                "meaning":  "that which is brought near; an offering or gift to God"
+                                            }
+                                        ]
+                     },
+    "sentenceTheme":  "The leaders of Israel present identical offerings over twelve days for the dedication of the altar, with a closing summary and Moses hearing the LORDâ€™s voice from above the mercy seat.",
+    "verses":  [
+                   {
+                       "verse":  45,
+                       "text":  "One young bullock, one ram, one lamb of the first year, for a burnt offering:",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "bullock",
+                                                    "strongNumber":  "H6499",
+                                                    "lemma":  "par",
+                                                    "meaning":  "young bull; bullock"
+                                                },
+                                                {
+                                                    "word":  "burnt offering",
+                                                    "strongNumber":  "H5930",
+                                                    "lemma":  "Ê¿ÅlÄh",
+                                                    "meaning":  "burnt offering; that which goes up"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  46,
+                       "text":  "One kid of the goats for a sin offering:",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "kid",
+                                                    "strongNumber":  "H8163",
+                                                    "lemma":  "Å›aÊ¿Ã®r",
+                                                    "meaning":  "male goat; kid"
+                                                },
+                                                {
+                                                    "word":  "sin offering",
+                                                    "strongNumber":  "H2403",
+                                                    "lemma":  "á¸¥aá¹­á¹­ÄÊ¾t",
+                                                    "meaning":  "sin; purification offering"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  47,
+                       "text":  "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Eliasaph the son of Deuel.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "peace offerings",
+                                                    "strongNumber":  "H8002",
+                                                    "lemma":  "Å¡Ä•lÄmÃ®m",
+                                                    "meaning":  "peace/fellowship offerings"
+                                                },
+                                                {
+                                                    "word":  "oxen",
+                                                    "strongNumber":  "H7794",
+                                                    "lemma":  "Å¡År",
+                                                    "meaning":  "ox, bull"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  48,
+                       "text":  "On the seventh day Elishama the son of Ammihud, prince of the children of Ephraim, offered:",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "Ephraim",
+                                                    "strongNumber":  "H669",
+                                                    "lemma":  "Ê¾Eprayim",
+                                                    "meaning":  "Ephraim, a son of Joseph; the tribe descended from him"
+                                                },
+                                                {
+                                                    "word":  "offered",
+                                                    "strongNumber":  "H7126",
+                                                    "lemma":  "qÄrab",
+                                                    "meaning":  "to bring near; to present (an offering)"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  49,
+                       "text":  "His offering was one silver charger, the weight whereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them were full of fine flour mingled with oil for a meat offering:",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "silver",
+                                                    "strongNumber":  "H3701",
+                                                    "lemma":  "keseph",
+                                                    "meaning":  "silver; money"
+                                                },
+                                                {
+                                                    "word":  "shekels",
+                                                    "strongNumber":  "H8255",
+                                                    "lemma":  "Å¡eqel",
+                                                    "meaning":  "shekel; a unit of weight and currency"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  50,
+                       "text":  "One spoon of ten shekels of gold, full of incense:",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "gold",
+                                                    "strongNumber":  "H2091",
+                                                    "lemma":  "zÄhÄb",
+                                                    "meaning":  "gold; something made of gold"
+                                                },
+                                                {
+                                                    "word":  "incense",
+                                                    "strongNumber":  "H7004",
+                                                    "lemma":  "qÄ•á¹­Åreth",
+                                                    "meaning":  "incense; aromatic smoke for worship"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  51,
+                       "text":  "One young bullock, one ram, one lamb of the first year, for a burnt offering:",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "bullock",
+                                                    "strongNumber":  "H6499",
+                                                    "lemma":  "par",
+                                                    "meaning":  "young bull; bullock"
+                                                },
+                                                {
+                                                    "word":  "burnt offering",
+                                                    "strongNumber":  "H5930",
+                                                    "lemma":  "Ê¿ÅlÄh",
+                                                    "meaning":  "burnt offering; that which goes up"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  52,
+                       "text":  "One kid of the goats for a sin offering:",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "kid",
+                                                    "strongNumber":  "H8163",
+                                                    "lemma":  "Å›aÊ¿Ã®r",
+                                                    "meaning":  "male goat; kid"
+                                                },
+                                                {
+                                                    "word":  "sin offering",
+                                                    "strongNumber":  "H2403",
+                                                    "lemma":  "á¸¥aá¹­á¹­ÄÊ¾t",
+                                                    "meaning":  "sin; purification offering"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  53,
+                       "text":  "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Elishama the son of Ammihud.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "peace offerings",
+                                                    "strongNumber":  "H8002",
+                                                    "lemma":  "Å¡Ä•lÄmÃ®m",
+                                                    "meaning":  "peace/fellowship offerings"
+                                                },
+                                                {
+                                                    "word":  "oxen",
+                                                    "strongNumber":  "H7794",
+                                                    "lemma":  "Å¡År",
+                                                    "meaning":  "ox, bull"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  54,
+                       "text":  "On the eighth day Gamaliel the son of Pedahzur, prince of the children of Manasseh, offered:",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "Manasseh",
+                                                    "strongNumber":  "H4519",
+                                                    "lemma":  "MÄ•naÅ¡Å¡eh",
+                                                    "meaning":  "Manasseh, a son of Joseph; the tribe descended from him"
+                                                },
+                                                {
+                                                    "word":  "offered",
+                                                    "strongNumber":  "H7126",
+                                                    "lemma":  "qÄrab",
+                                                    "meaning":  "to bring near; to present (an offering)"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  55,
+                       "text":  "His offering was one silver charger, the weight whereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them were full of fine flour mingled with oil for a meat offering:",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "silver",
+                                                    "strongNumber":  "H3701",
+                                                    "lemma":  "keseph",
+                                                    "meaning":  "silver; money"
+                                                },
+                                                {
+                                                    "word":  "shekels",
+                                                    "strongNumber":  "H8255",
+                                                    "lemma":  "Å¡eqel",
+                                                    "meaning":  "shekel; a unit of weight and currency"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  56,
+                       "text":  "One spoon of ten shekels of gold, full of incense:",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "gold",
+                                                    "strongNumber":  "H2091",
+                                                    "lemma":  "zÄhÄb",
+                                                    "meaning":  "gold; something made of gold"
+                                                },
+                                                {
+                                                    "word":  "incense",
+                                                    "strongNumber":  "H7004",
+                                                    "lemma":  "qÄ•á¹­Åreth",
+                                                    "meaning":  "incense; aromatic smoke for worship"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  57,
+                       "text":  "One young bullock, one ram, one lamb of the first year, for a burnt offering:",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "bullock",
+                                                    "strongNumber":  "H6499",
+                                                    "lemma":  "par",
+                                                    "meaning":  "young bull; bullock"
+                                                },
+                                                {
+                                                    "word":  "burnt offering",
+                                                    "strongNumber":  "H5930",
+                                                    "lemma":  "Ê¿ÅlÄh",
+                                                    "meaning":  "burnt offering; that which goes up"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  58,
+                       "text":  "One kid of the goats for a sin offering:",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "kid",
+                                                    "strongNumber":  "H8163",
+                                                    "lemma":  "Å›aÊ¿Ã®r",
+                                                    "meaning":  "male goat; kid"
+                                                },
+                                                {
+                                                    "word":  "sin offering",
+                                                    "strongNumber":  "H2403",
+                                                    "lemma":  "á¸¥aá¹­á¹­ÄÊ¾t",
+                                                    "meaning":  "sin; purification offering"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  59,
+                       "text":  "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Gamaliel the son of Pedahzur.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "peace offerings",
+                                                    "strongNumber":  "H8002",
+                                                    "lemma":  "Å¡Ä•lÄmÃ®m",
+                                                    "meaning":  "peace/fellowship offerings"
+                                                },
+                                                {
+                                                    "word":  "oxen",
+                                                    "strongNumber":  "H7794",
+                                                    "lemma":  "Å¡År",
+                                                    "meaning":  "ox, bull"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  60,
+                       "text":  "On the ninth day Abidan the son of Gideoni, prince of the children of Benjamin, offered:",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "Benjamin",
+                                                    "strongNumber":  "H1144",
+                                                    "lemma":  "BinyÄmÃ®n",
+                                                    "meaning":  "Benjamin, a son of Jacob; the tribe descended from him"
+                                                },
+                                                {
+                                                    "word":  "offered",
+                                                    "strongNumber":  "H7126",
+                                                    "lemma":  "qÄrab",
+                                                    "meaning":  "to bring near; to present (an offering)"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  61,
+                       "text":  "His offering was one silver charger, the weight whereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them were full of fine flour mingled with oil for a meat offering:",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "silver",
+                                                    "strongNumber":  "H3701",
+                                                    "lemma":  "keseph",
+                                                    "meaning":  "silver; money"
+                                                },
+                                                {
+                                                    "word":  "shekels",
+                                                    "strongNumber":  "H8255",
+                                                    "lemma":  "Å¡eqel",
+                                                    "meaning":  "shekel; a unit of weight and currency"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  62,
+                       "text":  "One spoon of ten shekels of gold, full of incense:",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "gold",
+                                                    "strongNumber":  "H2091",
+                                                    "lemma":  "zÄhÄb",
+                                                    "meaning":  "gold; something made of gold"
+                                                },
+                                                {
+                                                    "word":  "incense",
+                                                    "strongNumber":  "H7004",
+                                                    "lemma":  "qÄ•á¹­Åreth",
+                                                    "meaning":  "incense; aromatic smoke for worship"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  63,
+                       "text":  "One young bullock, one ram, one lamb of the first year, for a burnt offering:",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "bullock",
+                                                    "strongNumber":  "H6499",
+                                                    "lemma":  "par",
+                                                    "meaning":  "young bull; bullock"
+                                                },
+                                                {
+                                                    "word":  "burnt offering",
+                                                    "strongNumber":  "H5930",
+                                                    "lemma":  "Ê¿ÅlÄh",
+                                                    "meaning":  "burnt offering; that which goes up"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  64,
+                       "text":  "One kid of the goats for a sin offering:",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "kid",
+                                                    "strongNumber":  "H8163",
+                                                    "lemma":  "Å›aÊ¿Ã®r",
+                                                    "meaning":  "male goat; kid"
+                                                },
+                                                {
+                                                    "word":  "sin offering",
+                                                    "strongNumber":  "H2403",
+                                                    "lemma":  "á¸¥aá¹­á¹­ÄÊ¾t",
+                                                    "meaning":  "sin; purification offering"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  65,
+                       "text":  "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Abidan the son of Gideoni.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "peace offerings",
+                                                    "strongNumber":  "H8002",
+                                                    "lemma":  "Å¡Ä•lÄmÃ®m",
+                                                    "meaning":  "peace/fellowship offerings"
+                                                },
+                                                {
+                                                    "word":  "oxen",
+                                                    "strongNumber":  "H7794",
+                                                    "lemma":  "Å¡År",
+                                                    "meaning":  "ox, bull"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  66,
+                       "text":  "On the tenth day Ahiezer the son of Ammishaddai, prince of the children of Dan, offered:",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "Dan",
+                                                    "strongNumber":  "H1835",
+                                                    "lemma":  "DÄn",
+                                                    "meaning":  "Dan, a son of Jacob; the tribe descended from him"
+                                                },
+                                                {
+                                                    "word":  "offered",
+                                                    "strongNumber":  "H7126",
+                                                    "lemma":  "qÄrab",
+                                                    "meaning":  "to bring near; to present (an offering)"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  67,
+                       "text":  "His offering was one silver charger, the weight whereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them were full of fine flour mingled with oil for a meat offering:",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "silver",
+                                                    "strongNumber":  "H3701",
+                                                    "lemma":  "keseph",
+                                                    "meaning":  "silver; money"
+                                                },
+                                                {
+                                                    "word":  "shekels",
+                                                    "strongNumber":  "H8255",
+                                                    "lemma":  "Å¡eqel",
+                                                    "meaning":  "shekel; a unit of weight and currency"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  68,
+                       "text":  "One spoon of ten shekels of gold, full of incense:",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "gold",
+                                                    "strongNumber":  "H2091",
+                                                    "lemma":  "zÄhÄb",
+                                                    "meaning":  "gold; something made of gold"
+                                                },
+                                                {
+                                                    "word":  "incense",
+                                                    "strongNumber":  "H7004",
+                                                    "lemma":  "qÄ•á¹­Åreth",
+                                                    "meaning":  "incense; aromatic smoke for worship"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  69,
+                       "text":  "One young bullock, one ram, one lamb of the first year, for a burnt offering:",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "bullock",
+                                                    "strongNumber":  "H6499",
+                                                    "lemma":  "par",
+                                                    "meaning":  "young bull; bullock"
+                                                },
+                                                {
+                                                    "word":  "burnt offering",
+                                                    "strongNumber":  "H5930",
+                                                    "lemma":  "Ê¿ÅlÄh",
+                                                    "meaning":  "burnt offering; that which goes up"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  70,
+                       "text":  "One kid of the goats for a sin offering:",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "kid",
+                                                    "strongNumber":  "H8163",
+                                                    "lemma":  "Å›aÊ¿Ã®r",
+                                                    "meaning":  "male goat; kid"
+                                                },
+                                                {
+                                                    "word":  "sin offering",
+                                                    "strongNumber":  "H2403",
+                                                    "lemma":  "á¸¥aá¹­á¹­ÄÊ¾t",
+                                                    "meaning":  "sin; purification offering"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  71,
+                       "text":  "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Ahiezer the son of Ammishaddai.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "peace offerings",
+                                                    "strongNumber":  "H8002",
+                                                    "lemma":  "Å¡Ä•lÄmÃ®m",
+                                                    "meaning":  "peace/fellowship offerings"
+                                                },
+                                                {
+                                                    "word":  "oxen",
+                                                    "strongNumber":  "H7794",
+                                                    "lemma":  "Å¡År",
+                                                    "meaning":  "ox, bull"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  72,
+                       "text":  "On the eleventh day Pagiel the son of Ocran, prince of the children of Asher, offered:",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "Asher",
+                                                    "strongNumber":  "H836",
+                                                    "lemma":  "Ê¾Ä€Å¡Ä“r",
+                                                    "meaning":  "Asher, a son of Jacob; the tribe descended from him"
+                                                },
+                                                {
+                                                    "word":  "offered",
+                                                    "strongNumber":  "H7126",
+                                                    "lemma":  "qÄrab",
+                                                    "meaning":  "to bring near; to present (an offering)"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  73,
+                       "text":  "His offering was one silver charger, the weight whereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them were full of fine flour mingled with oil for a meat offering:",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "silver",
+                                                    "strongNumber":  "H3701",
+                                                    "lemma":  "keseph",
+                                                    "meaning":  "silver; money"
+                                                },
+                                                {
+                                                    "word":  "shekels",
+                                                    "strongNumber":  "H8255",
+                                                    "lemma":  "Å¡eqel",
+                                                    "meaning":  "shekel; a unit of weight and currency"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  74,
+                       "text":  "One spoon of ten shekels of gold, full of incense:",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "gold",
+                                                    "strongNumber":  "H2091",
+                                                    "lemma":  "zÄhÄb",
+                                                    "meaning":  "gold; something made of gold"
+                                                },
+                                                {
+                                                    "word":  "incense",
+                                                    "strongNumber":  "H7004",
+                                                    "lemma":  "qÄ•á¹­Åreth",
+                                                    "meaning":  "incense; aromatic smoke for worship"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  75,
+                       "text":  "One young bullock, one ram, one lamb of the first year, for a burnt offering:",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "bullock",
+                                                    "strongNumber":  "H6499",
+                                                    "lemma":  "par",
+                                                    "meaning":  "young bull; bullock"
+                                                },
+                                                {
+                                                    "word":  "burnt offering",
+                                                    "strongNumber":  "H5930",
+                                                    "lemma":  "Ê¿ÅlÄh",
+                                                    "meaning":  "burnt offering; that which goes up"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  76,
+                       "text":  "One kid of the goats for a sin offering:",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "kid",
+                                                    "strongNumber":  "H8163",
+                                                    "lemma":  "Å›aÊ¿Ã®r",
+                                                    "meaning":  "male goat; kid"
+                                                },
+                                                {
+                                                    "word":  "sin offering",
+                                                    "strongNumber":  "H2403",
+                                                    "lemma":  "á¸¥aá¹­á¹­ÄÊ¾t",
+                                                    "meaning":  "sin; purification offering"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  77,
+                       "text":  "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Pagiel the son of Ocran.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "peace offerings",
+                                                    "strongNumber":  "H8002",
+                                                    "lemma":  "Å¡Ä•lÄmÃ®m",
+                                                    "meaning":  "peace/fellowship offerings"
+                                                },
+                                                {
+                                                    "word":  "oxen",
+                                                    "strongNumber":  "H7794",
+                                                    "lemma":  "Å¡År",
+                                                    "meaning":  "ox, bull"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  78,
+                       "text":  "On the twelfth day Ahira the son of Enan, prince of the children of Naphtali, offered:",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "Naphtali",
+                                                    "strongNumber":  "H5321",
+                                                    "lemma":  "NapÌ„tÄlÃ®",
+                                                    "meaning":  "Naphtali, a son of Jacob; the tribe descended from him"
+                                                },
+                                                {
+                                                    "word":  "offered",
+                                                    "strongNumber":  "H7126",
+                                                    "lemma":  "qÄrab",
+                                                    "meaning":  "to bring near; to present (an offering)"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  79,
+                       "text":  "His offering was one silver charger, the weight whereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them were full of fine flour mingled with oil for a meat offering:",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "silver",
+                                                    "strongNumber":  "H3701",
+                                                    "lemma":  "keseph",
+                                                    "meaning":  "silver; money"
+                                                },
+                                                {
+                                                    "word":  "shekels",
+                                                    "strongNumber":  "H8255",
+                                                    "lemma":  "Å¡eqel",
+                                                    "meaning":  "shekel; a unit of weight and currency"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  80,
+                       "text":  "One spoon of ten shekels of gold, full of incense:",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "gold",
+                                                    "strongNumber":  "H2091",
+                                                    "lemma":  "zÄhÄb",
+                                                    "meaning":  "gold; something made of gold"
+                                                },
+                                                {
+                                                    "word":  "incense",
+                                                    "strongNumber":  "H7004",
+                                                    "lemma":  "qÄ•á¹­Åreth",
+                                                    "meaning":  "incense; aromatic smoke for worship"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  81,
+                       "text":  "One young bullock, one ram, one lamb of the first year, for a burnt offering:",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "bullock",
+                                                    "strongNumber":  "H6499",
+                                                    "lemma":  "par",
+                                                    "meaning":  "young bull; bullock"
+                                                },
+                                                {
+                                                    "word":  "burnt offering",
+                                                    "strongNumber":  "H5930",
+                                                    "lemma":  "Ê¿ÅlÄh",
+                                                    "meaning":  "burnt offering; that which goes up"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  82,
+                       "text":  "One kid of the goats for a sin offering:",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "kid",
+                                                    "strongNumber":  "H8163",
+                                                    "lemma":  "Å›aÊ¿Ã®r",
+                                                    "meaning":  "male goat; kid"
+                                                },
+                                                {
+                                                    "word":  "sin offering",
+                                                    "strongNumber":  "H2403",
+                                                    "lemma":  "á¸¥aá¹­á¹­ÄÊ¾t",
+                                                    "meaning":  "sin; purification offering"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  83,
+                       "text":  "And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Ahira the son of Enan.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "peace offerings",
+                                                    "strongNumber":  "H8002",
+                                                    "lemma":  "Å¡Ä•lÄmÃ®m",
+                                                    "meaning":  "peace/fellowship offerings"
+                                                },
+                                                {
+                                                    "word":  "oxen",
+                                                    "strongNumber":  "H7794",
+                                                    "lemma":  "Å¡År",
+                                                    "meaning":  "ox, bull"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  84,
+                       "text":  "This was the dedication of the altar, in the day when it was anointed, by the princes of Israel: twelve chargers of silver, twelve silver bowls, twelve spoons of gold:",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "dedication",
+                                                    "strongNumber":  "H2598",
+                                                    "lemma":  "á¸¥ÄƒnukkÃ¢",
+                                                    "meaning":  "consecration; dedication"
+                                                },
+                                                {
+                                                    "word":  "altar",
+                                                    "strongNumber":  "H4196",
+                                                    "lemma":  "mizbeaá¸¥",
+                                                    "meaning":  "altar; place of sacrifice"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  85,
+                       "text":  "Each charger of silver weighed an hundred and thirty shekels, each bowl seventy: all the silver vessels weighed two thousand and four hundred shekels, after the shekel of the sanctuary:",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "silver",
+                                                    "strongNumber":  "H3701",
+                                                    "lemma":  "keseph",
+                                                    "meaning":  "silver; money"
+                                                },
+                                                {
+                                                    "word":  "shekel",
+                                                    "strongNumber":  "H8255",
+                                                    "lemma":  "Å¡eqel",
+                                                    "meaning":  "shekel; a unit of weight and currency"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  86,
+                       "text":  "The golden spoons were twelve, full of incense, weighing ten shekels apiece, after the shekel of the sanctuary: all the gold of the spoons was an hundred and twenty shekels.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "gold",
+                                                    "strongNumber":  "H2091",
+                                                    "lemma":  "zÄhÄb",
+                                                    "meaning":  "gold; something made of gold"
+                                                },
+                                                {
+                                                    "word":  "incense",
+                                                    "strongNumber":  "H7004",
+                                                    "lemma":  "qÄ•á¹­Åreth",
+                                                    "meaning":  "incense; aromatic smoke for worship"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  87,
+                       "text":  "All the oxen for the burnt offering were twelve bullocks, the rams twelve, the lambs of the first year twelve, with their meat offering: and the kids of the goats for sin offering twelve.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "burnt offering",
+                                                    "strongNumber":  "H5930",
+                                                    "lemma":  "Ê¿ÅlÄh",
+                                                    "meaning":  "burnt offering; that which goes up"
+                                                },
+                                                {
+                                                    "word":  "lambs",
+                                                    "strongNumber":  "H3532",
+                                                    "lemma":  "keá¸‡eÅ›",
+                                                    "meaning":  "lamb (especially a yearling male)"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  88,
+                       "text":  "And all the oxen for the sacrifice of the peace offerings were twenty and four bullocks, the rams sixty, the he goats sixty, the lambs of the first year sixty. This was the dedication of the altar, after that it was anointed.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "peace offerings",
+                                                    "strongNumber":  "H8002",
+                                                    "lemma":  "Å¡Ä•lÄmÃ®m",
+                                                    "meaning":  "peace/fellowship offerings"
+                                                },
+                                                {
+                                                    "word":  "altar",
+                                                    "strongNumber":  "H4196",
+                                                    "lemma":  "mizbeaá¸¥",
+                                                    "meaning":  "altar; place of sacrifice"
+                                                }
+                                            ]
+                   },
+                   {
+                       "verse":  89,
+                       "text":  "And when Moses was gone into the tabernacle of the congregation to speak with him, then he heard the voice of one speaking unto him from off the mercy seat that was upon the ark of testimony, from between the two cherubims: and he spake unto him.",
+                       "highlightedWords":  [
+                                                {
+                                                    "word":  "mercy seat",
+                                                    "strongNumber":  "H3727",
+                                                    "lemma":  "kappÅreá¹¯",
+                                                    "meaning":  "atonement cover; mercy seat on the ark"
+                                                },
+                                                {
+                                                    "word":  "cherubims",
+                                                    "strongNumber":  "H3742",
+                                                    "lemma":  "kÄ•rÃ»bÃ®m",
+                                                    "meaning":  "cherubim; angelic beings associated with Godâ€™s presence"
+                                                }
+                                            ]
+                   }
+               ]
+}
