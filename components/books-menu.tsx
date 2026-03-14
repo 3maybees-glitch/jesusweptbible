@@ -182,16 +182,16 @@ export function BooksMenu({ onSelectBook, onAbout, currentBook }: BooksMenuProps
 
         {/* Book Sections */}
         <main className="px-4 py-6 pb-12 max-w-lg mx-auto">
-        {/* Testament Two-Word Theme Box - Show based on testament selection */}
+          {/* Testament Two-Word Theme Box - Show based on testament selection */}
           {testament === "OT" && (
             <div className="mb-8">
               <button
                 onClick={() => setShowThemeSheet(true)}
-                className="w-full flex flex-col gap-2 p-4 rounded-lg bg-[#6B4C3E] hover:bg-[#5A3F31] transition-colors focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 shadow-md"
+                className="w-full flex flex-col gap-2 p-6 rounded-lg bg-[#8B6F47]/90 hover:bg-[#7A5F38] transition-colors focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 shadow-lg backdrop-blur-sm"
                 aria-label="View Old Testament theme: Covenant LORD"
               >
-                <span className="text-sm font-medium text-white/80">Old Testament Two-Word Theme</span>
-                <span className="text-2xl font-semibold text-white">Covenant LORD</span>
+                <span className="text-sm font-medium text-white/90 tracking-wide">Old Testament Two-Word Theme</span>
+                <span className="text-3xl font-bold text-white font-serif">Covenant LORD</span>
               </button>
             </div>
           )}
@@ -199,11 +199,11 @@ export function BooksMenu({ onSelectBook, onAbout, currentBook }: BooksMenuProps
             <div className="mb-8">
               <button
                 onClick={() => setShowThemeSheet(true)}
-                className="w-full flex flex-col gap-2 p-4 rounded-lg bg-[#6B2C3E] hover:bg-[#5A1F30] transition-colors focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 shadow-md"
+                className="w-full flex flex-col gap-2 p-6 rounded-lg bg-[#6B2C3E]/90 hover:bg-[#5A1F30] transition-colors focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 shadow-lg backdrop-blur-sm"
                 aria-label="View New Testament theme: Jesus Christ"
               >
-                <span className="text-sm font-medium text-white/80">New Testament Two-Word Theme</span>
-                <span className="text-2xl font-semibold text-white">Jesus Christ</span>
+                <span className="text-sm font-medium text-white/90 tracking-wide">New Testament Two-Word Theme</span>
+                <span className="text-3xl font-bold text-white font-serif">Jesus Christ</span>
               </button>
             </div>
           )}
