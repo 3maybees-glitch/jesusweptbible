@@ -1,0 +1,402 @@
+{
+  "book": "Genesis",
+  "chapter": 15,
+  "chapterTheme": {
+    "twoWordSummary": "Covenant Ratified",
+    "themeWords": [
+      {
+        "word": "covenant",
+        "strongNumber": "H1285",
+        "lemma": "berith",
+        "meaning": "a binding agreement, treaty, or pledge"
+      },
+      {
+        "word": "seed",
+        "strongNumber": "H2233",
+        "lemma": "zera'",
+        "meaning": "offspring, descendants, posterity"
+      }
+    ]
+  },
+  "sentenceTheme": "God reassures Abram, promises innumerable descendants and the land, and solemnly ratifies His covenant in a vision.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "After these things the word of the LORD came unto Abram in a vision, saying, Fear not, Abram: I am thy shield, and thy exceeding great reward.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH (Yahweh)",
+          "meaning": "the personal name of the God of Israel"
+        },
+        {
+          "word": "shield",
+          "strongNumber": "H4043",
+          "lemma": "magen",
+          "meaning": "shield, protector, defense"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And Abram said, Lord GOD, what wilt thou give me, seeing I go childless, and the steward of my house is this Eliezer of Damascus?",
+      "highlightedWords": [
+        {
+          "word": "childless",
+          "strongNumber": "H6185",
+          "lemma": "ariri",
+          "meaning": "bereaved, childless, without offspring"
+        },
+        {
+          "word": "Damascus",
+          "strongNumber": "H1834",
+          "lemma": "Dammesek",
+          "meaning": "Damascus, the ancient capital of Aram (Syria)"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And Abram said, Behold, to me thou hast given no seed: and, lo, one born in my house is mine heir.",
+      "highlightedWords": [
+        {
+          "word": "seed",
+          "strongNumber": "H2233",
+          "lemma": "zera'",
+          "meaning": "offspring, descendants, posterity"
+        },
+        {
+          "word": "heir",
+          "strongNumber": "H3423",
+          "lemma": "yoresh (from yarash)",
+          "meaning": "heir, one who possesses or inherits"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And, behold, the word of the LORD came unto him, saying, This shall not be thine heir; but he that shall come forth out of thine own bowels shall be thine heir.",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "H1697",
+          "lemma": "dabar",
+          "meaning": "word, matter, message"
+        },
+        {
+          "word": "bowels",
+          "strongNumber": "H4578",
+          "lemma": "me'eh",
+          "meaning": "inner parts; inward being; body"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And he brought him forth abroad, and said, Look now toward heaven, and tell the stars, if thou be able to number them: and he said unto him, So shall thy seed be.",
+      "highlightedWords": [
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens, sky"
+        },
+        {
+          "word": "stars",
+          "strongNumber": "H3556",
+          "lemma": "kokab",
+          "meaning": "star"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And he believed in the LORD; and he counted it to him for righteousness.",
+      "highlightedWords": [
+        {
+          "word": "believed",
+          "strongNumber": "H539",
+          "lemma": "aman",
+          "meaning": "to trust, be faithful, rely upon"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "H6666",
+          "lemma": "tsedaqah",
+          "meaning": "righteousness, justice"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And he said unto him, I am the LORD that brought thee out of Ur of the Chaldees, to give thee this land to inherit it.",
+      "highlightedWords": [
+        {
+          "word": "Ur",
+          "strongNumber": "H218",
+          "lemma": "Ur",
+          "meaning": "Ur, a city in southern Mesopotamia"
+        },
+        {
+          "word": "Chaldees",
+          "strongNumber": "H3778",
+          "lemma": "Kasdim",
+          "meaning": "Chaldeans, people of southern Babylonia"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And he said, Lord GOD, whereby shall I know that I shall inherit it?",
+      "highlightedWords": [
+        {
+          "word": "know",
+          "strongNumber": "H3045",
+          "lemma": "yada'",
+          "meaning": "to know, perceive, understand"
+        },
+        {
+          "word": "inherit",
+          "strongNumber": "H3423",
+          "lemma": "yarash",
+          "meaning": "to possess, inherit, dispossess"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And he said unto him, Take me an heifer of three years old, and a she goat of three years old, and a ram of three years old, and a turtledove, and a young pigeon.",
+      "highlightedWords": [
+        {
+          "word": "heifer",
+          "strongNumber": "H5697",
+          "lemma": "eglah",
+          "meaning": "a young cow, heifer"
+        },
+        {
+          "word": "turtledove",
+          "strongNumber": "H8449",
+          "lemma": "tor",
+          "meaning": "turtledove"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And he took unto him all these, and divided them in the midst, and laid each piece one against another: but the birds divided he not.",
+      "highlightedWords": [
+        {
+          "word": "divided",
+          "strongNumber": "H1334",
+          "lemma": "batar",
+          "meaning": "to cut in two, divide"
+        },
+        {
+          "word": "birds",
+          "strongNumber": "H6833",
+          "lemma": "tsippor",
+          "meaning": "bird, fowl"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And when the fowls came down upon the carcases, Abram drove them away.",
+      "highlightedWords": [
+        {
+          "word": "fowls",
+          "strongNumber": "H5861",
+          "lemma": "ayit",
+          "meaning": "bird of prey"
+        },
+        {
+          "word": "carcases",
+          "strongNumber": "H6297",
+          "lemma": "peger",
+          "meaning": "corpse, carcass"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And when the sun was going down, a deep sleep fell upon Abram; and, lo, an horror of great darkness fell upon him.",
+      "highlightedWords": [
+        {
+          "word": "horror",
+          "strongNumber": "H367",
+          "lemma": "eymah",
+          "meaning": "terror, dread"
+        },
+        {
+          "word": "darkness",
+          "strongNumber": "H2822",
+          "lemma": "choshek",
+          "meaning": "darkness, obscurity"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And he said unto Abram, Know of a surety that thy seed shall be a stranger in a land that is not theirs, and shall serve them; and they shall afflict them four hundred years;",
+      "highlightedWords": [
+        {
+          "word": "stranger",
+          "strongNumber": "H1616",
+          "lemma": "ger",
+          "meaning": "sojourner, resident alien"
+        },
+        {
+          "word": "afflict",
+          "strongNumber": "H6031",
+          "lemma": "anah",
+          "meaning": "to oppress, humble, afflict"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And also that nation, whom they shall serve, will I judge: and afterward shall they come out with great substance.",
+      "highlightedWords": [
+        {
+          "word": "judge",
+          "strongNumber": "H8199",
+          "lemma": "shaphat",
+          "meaning": "to judge, govern, execute justice"
+        },
+        {
+          "word": "substance",
+          "strongNumber": "H7399",
+          "lemma": "rekush",
+          "meaning": "goods, property, possessions"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And thou shalt go to thy fathers in peace; thou shalt be buried in a good old age.",
+      "highlightedWords": [
+        {
+          "word": "peace",
+          "strongNumber": "H7965",
+          "lemma": "shalom",
+          "meaning": "peace, welfare, completeness"
+        },
+        {
+          "word": "buried",
+          "strongNumber": "H6912",
+          "lemma": "qabar",
+          "meaning": "to bury"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "But in the fourth generation they shall come hither again: for the iniquity of the Amorites is not yet full.",
+      "highlightedWords": [
+        {
+          "word": "generation",
+          "strongNumber": "H1755",
+          "lemma": "dor",
+          "meaning": "generation, age, period"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "H5771",
+          "lemma": "avon",
+          "meaning": "iniquity, guilt, punishment of iniquity"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And it came to pass, that, when the sun went down, and it was dark, behold a smoking furnace, and a burning lamp that passed between those pieces.",
+      "highlightedWords": [
+        {
+          "word": "furnace",
+          "strongNumber": "H8574",
+          "lemma": "tannur",
+          "meaning": "oven, furnace"
+        },
+        {
+          "word": "lamp",
+          "strongNumber": "H3940",
+          "lemma": "lapid",
+          "meaning": "torch, flame"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "In the same day the LORD made a covenant with Abram, saying, Unto thy seed have I given this land, from the river of Egypt unto the great river, the river Euphrates:",
+      "highlightedWords": [
+        {
+          "word": "covenant",
+          "strongNumber": "H1285",
+          "lemma": "berith",
+          "meaning": "a binding agreement, treaty, or pledge"
+        },
+        {
+          "word": "Euphrates",
+          "strongNumber": "H6578",
+          "lemma": "Perath",
+          "meaning": "the Euphrates River"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "The Kenites, and the Kenizzites, and the Kadmonites,",
+      "highlightedWords": [
+        {
+          "word": "Kenites",
+          "strongNumber": "H7017",
+          "lemma": "Qeni",
+          "meaning": "Kenites, a nomadic tribe"
+        },
+        {
+          "word": "Kenizzites",
+          "strongNumber": "H7074",
+          "lemma": "Qenizzi",
+          "meaning": "Kenizzites, a people of Canaan"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And the Hittites, and the Perizzites, and the Rephaims,",
+      "highlightedWords": [
+        {
+          "word": "Hittites",
+          "strongNumber": "H2850",
+          "lemma": "Chitti",
+          "meaning": "descendants of Heth, a Canaanite people"
+        },
+        {
+          "word": "Rephaims",
+          "strongNumber": "H7497",
+          "lemma": "Repha'im",
+          "meaning": "Rephaim, ancient people often of great stature"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And the Amorites, and the Canaanites, and the Girgashites, and the Jebusites.",
+      "highlightedWords": [
+        {
+          "word": "Amorites",
+          "strongNumber": "H567",
+          "lemma": "Emori",
+          "meaning": "Amorites, a prominent Canaanite people"
+        },
+        {
+          "word": "Canaanites",
+          "strongNumber": "H3669",
+          "lemma": "Kena'ani",
+          "meaning": "Canaanites, inhabitants of Canaan"
+        }
+      ]
+    }
+  ]
+}
