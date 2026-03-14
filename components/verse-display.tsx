@@ -2,10 +2,15 @@
 
 import { useMemo, useState, useEffect } from "react"
 import type { Verse, HighlightedWord } from "@/lib/bible-data"
+import type { VerseArtPainting } from "@/lib/verse-art"
+import { getVerseArt } from "@/lib/verse-art"
 
 interface VerseDisplayProps {
   verse: Verse
+  book: string
+  chapter: number
   onWordTap: (word: HighlightedWord) => void
+  onArtClick?: (painting: VerseArtPainting) => void
 }
 
 // Christian Cross SVG Component
@@ -25,21 +30,54 @@ function ChristianCross({ className }: { className?: string }) {
   )
 }
 
-export function VerseDisplay({ verse, onWordTap }: VerseDisplayProps) {
+export function VerseDisplay({ verse, book, chapter, onWordTap, onArtClick }: VerseDisplayProps) {
+  console.log("[v0] VerseDisplay rendering for verse:", book, chapter, verse.verse || verse.verseNumber)
   const [isRead, setIsRead] = useState(false)
+  const [artPainting, setArtPainting] = useState<VerseArtPainting | null>(null)
+  const [isLoadingArt, setIsLoadingArt] = useState(true)
 
   // Load read status from localStorage on mount
   useEffect(() => {
-    const verseKey = `verse-read-${verse.book}-${verse.chapter}-${verse.verse || verse.verseNumber}`
+    const verseKey = `verse-read-${book}-${chapter}-${verse.verse || verse.verseNumber}`
     const saved = localStorage.getItem(verseKey)
     setIsRead(saved === 'true')
-  }, [verse])
+  }, [verse, book, chapter])
+
+  // Load art for this verse on mount
+  useEffect(() => {
+    const loadArt = async () => {
+      try {
+        const verseNum = verse.verse || verse.verseNumber
+        console.log("[v0] ==================== LOADING ART ====================")
+        console.log("[v0] Book:", book, "Chapter:", chapter, "VerseNum:", verseNum)
+        const art = await getVerseArt(book, chapter, verseNum)
+        console.log("[v0] Art Result:", art)
+        setArtPainting(art)
+      } catch (error) {
+        console.error("[v0] ERROR in loadArt:", error)
+      } finally {
+        setIsLoadingArt(false)
+      }
+    }
+
+    loadArt()
+  }, [verse, book, chapter])
 
   const handleMarkRead = () => {
-    const verseKey = `verse-read-${verse.book}-${verse.chapter}-${verse.verse || verse.verseNumber}`
+    const verseKey = `verse-read-${book}-${chapter}-${verse.verse || verse.verseNumber}`
     const newState = !isRead
     setIsRead(newState)
     localStorage.setItem(verseKey, String(newState))
+  }
+
+  const handleArtClick = () => {
+    console.log("[v0] Art cross clicked, painting:", artPainting)
+    if (artPainting && onArtClick) {
+      console.log("[v0] Calling onArtClick with painting:", artPainting.title)
+      onArtClick(artPainting)
+    } else {
+      console.log("[v0] Art click blocked - no art or no callback")
+    }
   }
 
   const renderedText = useMemo(() => {
@@ -115,19 +153,36 @@ export function VerseDisplay({ verse, onWordTap }: VerseDisplayProps) {
           )}
         </p>
 
-        {/* Read Marker Christian Cross */}
-        <button
-          onClick={handleMarkRead}
-          className={`flex-shrink-0 mt-1 transition-all duration-300 min-h-[44px] min-w-[44px] flex items-center justify-center rounded-lg ${
-            isRead
-              ? 'text-amber-400 bg-amber-400/30 glow-cross shadow-lg'
-              : 'text-muted-foreground/60 hover:text-muted-foreground/80 hover:bg-secondary/50'
-          }`}
-          aria-label={isRead ? "Mark verse as unread" : "Mark verse as read"}
-          title={isRead ? "Marked as read" : "Click to mark as read"}
-        >
-          <ChristianCross className="w-6 h-6" />
-        </button>
+        <div className="flex-shrink-0 mt-1 flex items-center gap-2">
+          {/* Invisible Art Cross - All verses have this, but only special ones trigger art */}
+          <button
+            onClick={handleArtClick}
+            disabled={!artPainting}
+            className={`flex items-center justify-center rounded-lg transition-all duration-300 min-h-[44px] min-w-[44px] flex-shrink-0 ${
+              artPainting
+                ? 'text-muted-foreground/20 hover:text-purple-400 hover:bg-purple-400/20 cursor-pointer'
+                : 'text-muted-foreground/10 cursor-default'
+            }`}
+            aria-label="View historical Christian art (if available)"
+            title={artPainting ? "Surprise! Click to view art" : ""}
+          >
+            <ChristianCross className="w-6 h-6" />
+          </button>
+
+          {/* Standard Read Marker Cross */}
+          <button
+            onClick={handleMarkRead}
+            className={`flex-shrink-0 transition-all duration-300 min-h-[44px] min-w-[44px] flex items-center justify-center rounded-lg ${
+              isRead
+                ? 'text-amber-400 bg-amber-400/30 glow-cross shadow-lg'
+                : 'text-muted-foreground/60 hover:text-muted-foreground/80 hover:bg-secondary/50'
+            }`}
+            aria-label={isRead ? "Mark verse as unread" : "Mark verse as read"}
+            title={isRead ? "Marked as read" : "Click to mark as read"}
+          >
+            <ChristianCross className="w-6 h-6" />
+          </button>
+        </div>
       </div>
     </div>
   )

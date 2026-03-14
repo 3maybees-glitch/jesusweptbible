@@ -3,9 +3,11 @@
 import { useState } from "react"
 import { ChevronLeft, ChevronRight } from "lucide-react"
 import type { Chapter, HighlightedWord } from "@/lib/bible-data"
+import type { VerseArtPainting } from "@/lib/verse-art"
 import { getBackgroundUrl } from "@/lib/book-backgrounds"
 import { VerseDisplay } from "./verse-display"
 import { WordInsightSheet } from "./word-insight-sheet"
+import { ArtGalleryModal } from "./art-gallery-modal"
 import { Button } from "@/components/ui/button"
 
 interface ChapterViewProps {
@@ -17,6 +19,8 @@ interface ChapterViewProps {
 export function ChapterView({ chapter, onBackToMenu, onBackToChapters }: ChapterViewProps) {
   const [selectedWord, setSelectedWord] = useState<HighlightedWord | null>(null)
   const [isSheetOpen, setIsSheetOpen] = useState(false)
+  const [selectedArt, setSelectedArt] = useState<VerseArtPainting | null>(null)
+  const [isArtModalOpen, setIsArtModalOpen] = useState(false)
 
   const handleWordTap = (word: HighlightedWord) => {
     setSelectedWord(word)
@@ -26,6 +30,16 @@ export function ChapterView({ chapter, onBackToMenu, onBackToChapters }: Chapter
   const handleCloseSheet = () => {
     setIsSheetOpen(false)
     setTimeout(() => setSelectedWord(null), 200)
+  }
+
+  const handleArtClick = (painting: VerseArtPainting) => {
+    setSelectedArt(painting)
+    setIsArtModalOpen(true)
+  }
+
+  const handleCloseArtModal = () => {
+    setIsArtModalOpen(false)
+    setTimeout(() => setSelectedArt(null), 200)
   }
 
   // Get two-word summary if available
@@ -122,7 +136,7 @@ export function ChapterView({ chapter, onBackToMenu, onBackToChapters }: Chapter
       {/* Verses - Scrollable Content Area */}
       <main className="flex-1 px-4 py-6 max-w-2xl mx-auto relative z-10 overflow-x-hidden overflow-y-auto hide-scrollbar">
         {chapter.verses.map((verse) => (
-          <VerseDisplay key={`${verse.book}-${verse.chapter}-${verse.verseNumber || verse.verse}`} verse={verse} onWordTap={handleWordTap} />
+          <VerseDisplay key={`${chapter.book}-${chapter.chapter}-${verse.verseNumber || verse.verse}`} verse={verse} book={chapter.book} chapter={chapter.chapter} onWordTap={handleWordTap} onArtClick={handleArtClick} />
         ))}
       </main>
 
@@ -135,6 +149,9 @@ export function ChapterView({ chapter, onBackToMenu, onBackToChapters }: Chapter
 
       {/* Word Insight Sheet */}
       <WordInsightSheet word={selectedWord} isOpen={isSheetOpen} onClose={handleCloseSheet} />
+
+      {/* Art Gallery Modal */}
+      <ArtGalleryModal painting={selectedArt} isOpen={isArtModalOpen} onClose={handleCloseArtModal} />
     </div>
   )
 }

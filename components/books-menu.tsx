@@ -202,9 +202,9 @@ export function BooksMenu({ onSelectBook, onAbout, currentBook }: BooksMenuProps
             <a
               href="/characters"
               className="w-full flex items-center justify-center gap-2 px-4 py-3.5 rounded-lg bg-accent hover:bg-accent/90 text-accent-foreground border border-border transition-colors min-h-[48px] font-serif font-medium"
-              aria-label="Browse Bible Characters"
+              aria-label="Bible Character Explorer"
             >
-              <span>Browse Bible Characters</span>
+              <span>Bible Character Explorer</span>
             </a>
             
             <button
