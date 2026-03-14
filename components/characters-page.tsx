@@ -80,15 +80,15 @@ export default function CharactersPage() {
         {displayCharacters.map((person) => (
           <Card
             key={person.name}
-            className="cursor-pointer hover:shadow-lg transition-shadow"
+            className="cursor-pointer hover:shadow-lg transition-all hover:border-accent/50 bg-gradient-to-br from-accent/10 to-accent/5 border-accent/20"
             onClick={() => setSelected(person)}
           >
-            <CardContent className="p-4 space-y-1">
-              <h3 className="font-semibold text-foreground">{person.name}</h3>
-              <p className="text-sm text-muted-foreground">
+            <CardContent className="p-4 space-y-2">
+              <h3 className="font-semibold text-lg text-accent">{person.name}</h3>
+              <p className="text-base text-foreground font-medium">
                 {person.twoWordTheme || person.theme}
               </p>
-              <p className="text-xs text-muted-foreground">
+              <p className="text-sm text-muted-foreground">
                 {person.referenceRange || person.ref}
               </p>
             </CardContent>
