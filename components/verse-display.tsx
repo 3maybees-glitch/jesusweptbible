@@ -2,10 +2,13 @@
 
 import { useMemo, useState, useEffect } from "react"
 import type { Verse, HighlightedWord } from "@/lib/bible-data"
+import type { VerseArtPainting } from "@/lib/verse-art"
+import { getVerseArt } from "@/lib/verse-art"
 
 interface VerseDisplayProps {
   verse: Verse
   onWordTap: (word: HighlightedWord) => void
+  onArtClick?: (painting: VerseArtPainting) => void
 }
 
 // Christian Cross SVG Component
@@ -25,8 +28,10 @@ function ChristianCross({ className }: { className?: string }) {
   )
 }
 
-export function VerseDisplay({ verse, onWordTap }: VerseDisplayProps) {
+export function VerseDisplay({ verse, onWordTap, onArtClick }: VerseDisplayProps) {
   const [isRead, setIsRead] = useState(false)
+  const [artPainting, setArtPainting] = useState<VerseArtPainting | null>(null)
+  const [isLoadingArt, setIsLoadingArt] = useState(true)
 
   // Load read status from localStorage on mount
   useEffect(() => {
@@ -35,11 +40,33 @@ export function VerseDisplay({ verse, onWordTap }: VerseDisplayProps) {
     setIsRead(saved === 'true')
   }, [verse])
 
+  // Load art for this verse on mount
+  useEffect(() => {
+    const loadArt = async () => {
+      try {
+        const art = await getVerseArt(verse.book, verse.chapter, verse.verse || verse.verseNumber)
+        setArtPainting(art)
+      } catch (error) {
+        console.error("[v0] Error loading art for verse:", error)
+      } finally {
+        setIsLoadingArt(false)
+      }
+    }
+
+    loadArt()
+  }, [verse])
+
   const handleMarkRead = () => {
     const verseKey = `verse-read-${verse.book}-${verse.chapter}-${verse.verse || verse.verseNumber}`
     const newState = !isRead
     setIsRead(newState)
     localStorage.setItem(verseKey, String(newState))
+  }
+
+  const handleArtClick = () => {
+    if (artPainting && onArtClick) {
+      onArtClick(artPainting)
+    }
   }
 
   const renderedText = useMemo(() => {
@@ -115,19 +142,33 @@ export function VerseDisplay({ verse, onWordTap }: VerseDisplayProps) {
           )}
         </p>
 
-        {/* Read Marker Christian Cross */}
-        <button
-          onClick={handleMarkRead}
-          className={`flex-shrink-0 mt-1 transition-all duration-300 min-h-[44px] min-w-[44px] flex items-center justify-center rounded-lg ${
-            isRead
-              ? 'text-amber-400 bg-amber-400/30 glow-cross shadow-lg'
-              : 'text-muted-foreground/60 hover:text-muted-foreground/80 hover:bg-secondary/50'
-          }`}
-          aria-label={isRead ? "Mark verse as unread" : "Mark verse as read"}
-          title={isRead ? "Marked as read" : "Click to mark as read"}
-        >
-          <ChristianCross className="w-6 h-6" />
-        </button>
+        <div className="flex-shrink-0 mt-1 flex items-center gap-2">
+          {/* Art Easter Egg Cross - Shows when art is available */}
+          {!isLoadingArt && artPainting && (
+            <button
+              onClick={handleArtClick}
+              className="flex items-center justify-center rounded-lg transition-all duration-300 min-h-[44px] min-w-[44px] text-purple-400 bg-purple-400/30 hover:bg-purple-400/50 hover:text-purple-200 shadow-lg glow-cross"
+              aria-label="View historical Christian art"
+              title="🎨 Easter Egg: Click to view art!"
+            >
+              <ChristianCross className="w-6 h-6" />
+            </button>
+          )}
+
+          {/* Standard Read Marker Cross */}
+          <button
+            onClick={handleMarkRead}
+            className={`flex-shrink-0 transition-all duration-300 min-h-[44px] min-w-[44px] flex items-center justify-center rounded-lg ${
+              isRead
+                ? 'text-amber-400 bg-amber-400/30 glow-cross shadow-lg'
+                : 'text-muted-foreground/60 hover:text-muted-foreground/80 hover:bg-secondary/50'
+            }`}
+            aria-label={isRead ? "Mark verse as unread" : "Mark verse as read"}
+            title={isRead ? "Marked as read" : "Click to mark as read"}
+          >
+            <ChristianCross className="w-6 h-6" />
+          </button>
+        </div>
       </div>
     </div>
   )
