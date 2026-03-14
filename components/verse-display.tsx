@@ -7,6 +7,8 @@ import { getVerseArt } from "@/lib/verse-art"
 
 interface VerseDisplayProps {
   verse: Verse
+  book: string
+  chapter: number
   onWordTap: (word: HighlightedWord) => void
   onArtClick?: (painting: VerseArtPainting) => void
 }
@@ -28,18 +30,18 @@ function ChristianCross({ className }: { className?: string }) {
   )
 }
 
-export function VerseDisplay({ verse, onWordTap, onArtClick }: VerseDisplayProps) {
-  console.log("[v0] VerseDisplay rendering for verse:", verse.book, verse.chapter, verse.verse || verse.verseNumber)
+export function VerseDisplay({ verse, book, chapter, onWordTap, onArtClick }: VerseDisplayProps) {
+  console.log("[v0] VerseDisplay rendering for verse:", book, chapter, verse.verse || verse.verseNumber)
   const [isRead, setIsRead] = useState(false)
   const [artPainting, setArtPainting] = useState<VerseArtPainting | null>(null)
   const [isLoadingArt, setIsLoadingArt] = useState(true)
 
   // Load read status from localStorage on mount
   useEffect(() => {
-    const verseKey = `verse-read-${verse.book}-${verse.chapter}-${verse.verse || verse.verseNumber}`
+    const verseKey = `verse-read-${book}-${chapter}-${verse.verse || verse.verseNumber}`
     const saved = localStorage.getItem(verseKey)
     setIsRead(saved === 'true')
-  }, [verse])
+  }, [verse, book, chapter])
 
   // Load art for this verse on mount
   useEffect(() => {
@@ -47,9 +49,8 @@ export function VerseDisplay({ verse, onWordTap, onArtClick }: VerseDisplayProps
       try {
         const verseNum = verse.verse || verse.verseNumber
         console.log("[v0] ==================== LOADING ART ====================")
-        console.log("[v0] Verse Object:", verse)
-        console.log("[v0] Book:", verse.book, "Chapter:", verse.chapter, "VerseNum:", verseNum)
-        const art = await getVerseArt(verse.book, verse.chapter, verseNum)
+        console.log("[v0] Book:", book, "Chapter:", chapter, "VerseNum:", verseNum)
+        const art = await getVerseArt(book, chapter, verseNum)
         console.log("[v0] Art Result:", art)
         setArtPainting(art)
       } catch (error) {
@@ -60,10 +61,10 @@ export function VerseDisplay({ verse, onWordTap, onArtClick }: VerseDisplayProps
     }
 
     loadArt()
-  }, [verse])
+  }, [verse, book, chapter])
 
   const handleMarkRead = () => {
-    const verseKey = `verse-read-${verse.book}-${verse.chapter}-${verse.verse || verse.verseNumber}`
+    const verseKey = `verse-read-${book}-${chapter}-${verse.verse || verse.verseNumber}`
     const newState = !isRead
     setIsRead(newState)
     localStorage.setItem(verseKey, String(newState))

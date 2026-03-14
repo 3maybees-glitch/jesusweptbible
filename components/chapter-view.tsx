@@ -136,7 +136,7 @@ export function ChapterView({ chapter, onBackToMenu, onBackToChapters }: Chapter
       {/* Verses - Scrollable Content Area */}
       <main className="flex-1 px-4 py-6 max-w-2xl mx-auto relative z-10 overflow-x-hidden overflow-y-auto hide-scrollbar">
         {chapter.verses.map((verse) => (
-          <VerseDisplay key={`${verse.book}-${verse.chapter}-${verse.verseNumber || verse.verse}`} verse={verse} onWordTap={handleWordTap} onArtClick={handleArtClick} />
+          <VerseDisplay key={`${chapter.book}-${chapter.chapter}-${verse.verseNumber || verse.verse}`} verse={verse} book={chapter.book} chapter={chapter.chapter} onWordTap={handleWordTap} onArtClick={handleArtClick} />
         ))}
       </main>
 
