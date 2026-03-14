@@ -1,0 +1,456 @@
+{
+  "book": "Genesis",
+  "chapter": 7,
+  "chapterTheme": {
+    "twoWordSummary": "Flood Judgment",
+    "themeWords": [
+      {
+        "word": "flood",
+        "strongNumber": "H3999",
+        "lemma": "mabbul",
+        "meaning": "a deluge, flood"
+      },
+      {
+        "word": "ark",
+        "strongNumber": "H8392",
+        "lemma": "tebah",
+        "meaning": "a box, ark"
+      }
+    ]
+  },
+  "sentenceTheme": "God commands Noah to enter the ark with his family and the animals; the flood comes upon the earth for forty days, destroying all outside the ark while God preserves those within.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And the LORD said unto Noah, Come thou and all thy house into the ark; for thee have I seen righteous before me in this generation.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel"
+        },
+        {
+          "word": "ark",
+          "strongNumber": "H8392",
+          "lemma": "tebah",
+          "meaning": "a box, ark"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Of every clean beast thou shalt take to thee by sevens, the male and his female: and of beasts that are not clean by two, the male and his female.",
+      "highlightedWords": [
+        {
+          "word": "clean",
+          "strongNumber": "H2889",
+          "lemma": "tahor",
+          "meaning": "clean, pure"
+        },
+        {
+          "word": "two",
+          "strongNumber": "H8147",
+          "lemma": "shenayim",
+          "meaning": "two (the number)"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Of fowls also of the air by sevens, the male and the female; to keep seed alive upon the face of all the earth.",
+      "highlightedWords": [
+        {
+          "word": "fowls",
+          "strongNumber": "H5775",
+          "lemma": "owph",
+          "meaning": "birds, fowl"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "land, earth"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "For yet seven days, and I will cause it to rain upon the earth forty days and forty nights; and every living substance that I have made will I destroy from off the face of the earth.",
+      "highlightedWords": [
+        {
+          "word": "rain",
+          "strongNumber": "H4305",
+          "lemma": "matar",
+          "meaning": "to rain, cause to rain"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "land, earth"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And Noah did according unto all that the LORD commanded him.",
+      "highlightedWords": [
+        {
+          "word": "Noah",
+          "strongNumber": "H5146",
+          "lemma": "Noach",
+          "meaning": "Noah; rest"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And Noah was six hundred years old when the flood of waters was upon the earth.",
+      "highlightedWords": [
+        {
+          "word": "flood",
+          "strongNumber": "H3999",
+          "lemma": "mabbul",
+          "meaning": "a deluge, flood"
+        },
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And Noah went in, and his sons, and his wife, and his sons' wives with him, into the ark, because of the waters of the flood.",
+      "highlightedWords": [
+        {
+          "word": "ark",
+          "strongNumber": "H8392",
+          "lemma": "tebah",
+          "meaning": "a box, ark"
+        },
+        {
+          "word": "flood",
+          "strongNumber": "H3999",
+          "lemma": "mabbul",
+          "meaning": "a deluge, flood"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Of clean beasts, and of beasts that are not clean, and of fowls, and of every thing that creepeth upon the earth;",
+      "highlightedWords": [
+        {
+          "word": "beasts",
+          "strongNumber": "H929",
+          "lemma": "behemah",
+          "meaning": "beast, cattle, animal"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "land, earth"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "There went in two and two unto Noah into the ark, the male and the female, as God had commanded Noah.",
+      "highlightedWords": [
+        {
+          "word": "two",
+          "strongNumber": "H8147",
+          "lemma": "shenayim",
+          "meaning": "two (the number)"
+        },
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God, mighty one"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And it came to pass after seven days, that the waters of the flood were upon the earth.",
+      "highlightedWords": [
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "land, earth"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "In the six hundredth year of Noah's life, in the second month, the seventeenth day of the month, the same day were all the fountains of the great deep broken up, and the windows of heaven were opened.",
+      "highlightedWords": [
+        {
+          "word": "deep",
+          "strongNumber": "H8415",
+          "lemma": "tehom",
+          "meaning": "the deep, abyss"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens, sky"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And the rain was upon the earth forty days and forty nights.",
+      "highlightedWords": [
+        {
+          "word": "rain",
+          "strongNumber": "H1653",
+          "lemma": "geshem",
+          "meaning": "rain, shower"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "land, earth"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "In the selfsame day entered Noah, and Shem, and Ham, and Japheth, the sons of Noah, and Noah's wife, and the three wives of his sons with them, into the ark;",
+      "highlightedWords": [
+        {
+          "word": "Noah",
+          "strongNumber": "H5146",
+          "lemma": "Noach",
+          "meaning": "Noah; rest"
+        },
+        {
+          "word": "ark",
+          "strongNumber": "H8392",
+          "lemma": "tebah",
+          "meaning": "a box, ark"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "They, and every beast after his kind, and all the cattle after their kind, and every creeping thing that creepeth upon the earth after his kind, and every fowl after his kind, every bird of every sort.",
+      "highlightedWords": [
+        {
+          "word": "fowl",
+          "strongNumber": "H5775",
+          "lemma": "owph",
+          "meaning": "bird, fowl"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "erets",
+          "meaning": "land, earth"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And they went in unto Noah into the ark, two and two of all flesh, wherein is the breath of life.",
+      "highlightedWords": [
+        {
+          "word": "breath",
+          "strongNumber": "H7307",
+          "lemma": "ruach",
+          "meaning": "breath, wind, spirit"
+        },
+        {
+          "word": "flesh",
+          "strongNumber": "H1320",
+          "lemma": "basar",
+          "meaning": "flesh, body"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And they that went in, went in male and female of all flesh, as God had commanded him: and the LORD shut him in.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "H430",
+          "lemma": "Elohim",
+          "meaning": "God, mighty one"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "Yehovah",
+          "meaning": "the proper name of the God of Israel"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And the flood was forty days upon the earth; and the waters increased, and bare up the ark, and it was lift up above the earth.",
+      "highlightedWords": [
+        {
+          "word": "flood",
+          "strongNumber": "H3999",
+          "lemma": "mabbul",
+          "meaning": "a deluge, flood"
+        },
+        {
+          "word": "ark",
+          "strongNumber": "H8392",
+          "lemma": "tebah",
+          "meaning": "a box, ark"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And the waters prevailed, and were increased greatly upon the earth; and the ark went upon the face of the waters.",
+      "highlightedWords": [
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters"
+        },
+        {
+          "word": "ark",
+          "strongNumber": "H8392",
+          "lemma": "tebah",
+          "meaning": "a box, ark"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And the waters prevailed exceedingly upon the earth; and all the high hills, that were under the whole heaven, were covered.",
+      "highlightedWords": [
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "H8064",
+          "lemma": "shamayim",
+          "meaning": "heavens, sky"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Fifteen cubits upward did the waters prevail; and the mountains were covered.",
+      "highlightedWords": [
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters"
+        },
+        {
+          "word": "mountains",
+          "strongNumber": "H2022",
+          "lemma": "har",
+          "meaning": "mountain, hill"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And all flesh died that moved upon the earth, both of fowl, and of cattle, and of beast, and of every creeping thing that creepeth upon the earth, and every man:",
+      "highlightedWords": [
+        {
+          "word": "flesh",
+          "strongNumber": "H1320",
+          "lemma": "basar",
+          "meaning": "flesh, body"
+        },
+        {
+          "word": "man",
+          "strongNumber": "H120",
+          "lemma": "adam",
+          "meaning": "man, humankind"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "All in whose nostrils was the breath of life, of all that was in the dry land, died.",
+      "highlightedWords": [
+        {
+          "word": "nostrils",
+          "strongNumber": "H639",
+          "lemma": "aph",
+          "meaning": "nose, nostril"
+        },
+        {
+          "word": "life",
+          "strongNumber": "H2416",
+          "lemma": "chay",
+          "meaning": "life, living"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And every living substance was destroyed which was upon the face of the ground, both man, and cattle, and the creeping things, and the fowl of the heaven; and they were destroyed from the earth: and Noah only remained alive, and they that were with him in the ark.",
+      "highlightedWords": [
+        {
+          "word": "destroyed",
+          "strongNumber": "H4229",
+          "lemma": "machah",
+          "meaning": "to wipe out, blot out"
+        },
+        {
+          "word": "Noah",
+          "strongNumber": "H5146",
+          "lemma": "Noach",
+          "meaning": "Noah; rest"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And the waters prevailed upon the earth an hundred and fifty days.",
+      "highlightedWords": [
+        {
+          "word": "waters",
+          "strongNumber": "H4325",
+          "lemma": "mayim",
+          "meaning": "waters"
+        },
+        {
+          "word": "days",
+          "strongNumber": "H3117",
+          "lemma": "yom",
+          "meaning": "day, days"
+        }
+      ]
+    }
+  ]
+}
