@@ -1,0 +1,600 @@
+{
+  "book": "Genesis",
+  "chapter": 10,
+  "chapterTheme": {
+    "twoWordSummary": "Nations Table",
+    "themeWords": [
+      {
+        "word": "generations",
+        "strongNumber": "H8435",
+        "lemma": "tôlĕdôth",
+        "meaning": "generations; genealogical records"
+      },
+      {
+        "word": "nations",
+        "strongNumber": "H1471",
+        "lemma": "gôy",
+        "meaning": "nation; Gentile peoples"
+      }
+    ]
+  },
+  "sentenceTheme": "Genealogies of Noah’s sons trace the origins of post-flood peoples, languages, and lands.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Now these are the generations of the sons of Noah, Shem, Ham, and Japheth: and unto them were sons born after the flood.",
+      "highlightedWords": [
+        {
+          "word": "generations",
+          "strongNumber": "H8435",
+          "lemma": "tôlĕdôth",
+          "meaning": "generations; genealogical records"
+        },
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "bēn",
+          "meaning": "son; child; descendant"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras.",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "bēn",
+          "meaning": "son; child; descendant"
+        },
+        {
+          "word": "Japheth",
+          "strongNumber": "H3315",
+          "lemma": "Yepheth",
+          "meaning": "Japheth; ‘expansion’"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And the sons of Gomer; Ashkenaz, and Riphath, and Togarmah.",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "bēn",
+          "meaning": "son; child; descendant"
+        },
+        {
+          "word": "Gomer",
+          "strongNumber": "H1586",
+          "lemma": "Gōmer",
+          "meaning": "Gomer; ‘complete’"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And the sons of Javan; Elishah, and Tarshish, Kittim, and Dodanim.",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "bēn",
+          "meaning": "son; child; descendant"
+        },
+        {
+          "word": "Javan",
+          "strongNumber": "H3120",
+          "lemma": "Yāwān",
+          "meaning": "Javan; Ionia/Greece"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "By these were the isles of the Gentiles divided in their lands; every one after his tongue, after their families, in their nations.",
+      "highlightedWords": [
+        {
+          "word": "isles",
+          "strongNumber": "H339",
+          "lemma": "’iyy",
+          "meaning": "coastlands; islands"
+        },
+        {
+          "word": "Gentiles",
+          "strongNumber": "H1471",
+          "lemma": "gôy",
+          "meaning": "nations; Gentile peoples"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And the sons of Ham; Cush, and Mizraim, and Phut, and Canaan.",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "bēn",
+          "meaning": "son; child; descendant"
+        },
+        {
+          "word": "Ham",
+          "strongNumber": "H2526",
+          "lemma": "Ḥām",
+          "meaning": "Ham; ‘hot, warm’"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And the sons of Cush; Seba, and Havilah, and Sabtah, and Raamah, and Sabtechah: and the sons of Raamah; Sheba, and Dedan.",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "bēn",
+          "meaning": "son; child; descendant"
+        },
+        {
+          "word": "Cush",
+          "strongNumber": "H3568",
+          "lemma": "Kūsh",
+          "meaning": "Cush; Ethiopia"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And Cush begat Nimrod: he began to be a mighty one in the earth.",
+      "highlightedWords": [
+        {
+          "word": "begat",
+          "strongNumber": "H3205",
+          "lemma": "yālad",
+          "meaning": "to beget; to bear; to bring forth"
+        },
+        {
+          "word": "mighty",
+          "strongNumber": "H1368",
+          "lemma": "gibbôr",
+          "meaning": "mighty; strong; warrior"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "He was a mighty hunter before the LORD: wherefore it is said, Even as Nimrod the mighty hunter before the LORD.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the divine name; the LORD"
+        },
+        {
+          "word": "mighty",
+          "strongNumber": "H1368",
+          "lemma": "gibbôr",
+          "meaning": "mighty; strong; warrior"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And the beginning of his kingdom was Babel, and Erech, and Accad, and Calneh, in the land of Shinar.",
+      "highlightedWords": [
+        {
+          "word": "Babel",
+          "strongNumber": "H894",
+          "lemma": "Bābel",
+          "meaning": "Babel/Babylon; ‘confusion’"
+        },
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "’ereṣ",
+          "meaning": "land; earth; territory"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Out of that land went forth Asshur, and builded Nineveh, and the city Rehoboth, and Calah,",
+      "highlightedWords": [
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "’ereṣ",
+          "meaning": "land; earth; territory"
+        },
+        {
+          "word": "Nineveh",
+          "strongNumber": "H5210",
+          "lemma": "Nīnewēh",
+          "meaning": "Nineveh; Assyrian capital"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And Resen between Nineveh and Calah: the same is a great city.",
+      "highlightedWords": [
+        {
+          "word": "city",
+          "strongNumber": "H5892",
+          "lemma": "‘îr",
+          "meaning": "city; town"
+        },
+        {
+          "word": "Nineveh",
+          "strongNumber": "H5210",
+          "lemma": "Nīnewēh",
+          "meaning": "Nineveh; Assyrian capital"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And Mizraim begat Ludim, and Anamim, and Lehabim, and Naphtuhim,",
+      "highlightedWords": [
+        {
+          "word": "Mizraim",
+          "strongNumber": "H4714",
+          "lemma": "Mizraim",
+          "meaning": "Egypt; Egyptians"
+        },
+        {
+          "word": "begat",
+          "strongNumber": "H3205",
+          "lemma": "yālad",
+          "meaning": "to beget; to bear; to bring forth"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And Pathrusim, and Casluhim, (out of whom came Philistim,) and Caphtorim.",
+      "highlightedWords": [
+        {
+          "word": "Philistim",
+          "strongNumber": "H6430",
+          "lemma": "Pĕlishtîm",
+          "meaning": "Philistines"
+        },
+        {
+          "word": "Caphtorim",
+          "strongNumber": "H3732",
+          "lemma": "Kaphtōrîy",
+          "meaning": "Caphtorites; people from Caphtor (Crete)"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And Canaan begat Sidon his firstborn, and Heth,",
+      "highlightedWords": [
+        {
+          "word": "Canaan",
+          "strongNumber": "H3667",
+          "lemma": "Kĕna‘an",
+          "meaning": "Canaan; lowland"
+        },
+        {
+          "word": "firstborn",
+          "strongNumber": "H1060",
+          "lemma": "bekōr",
+          "meaning": "firstborn"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And the Jebusite, and the Amorite, and the Girgasite,",
+      "highlightedWords": [
+        {
+          "word": "Jebusite",
+          "strongNumber": "H2983",
+          "lemma": "Yĕbūsî",
+          "meaning": "Jebusite"
+        },
+        {
+          "word": "Amorite",
+          "strongNumber": "H567",
+          "lemma": "’Ĕmōrî",
+          "meaning": "Amorite; mountaineer"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And the Hivite, and the Arkite, and the Sinite,",
+      "highlightedWords": [
+        {
+          "word": "Hivite",
+          "strongNumber": "H2340",
+          "lemma": "Ḥiwwî",
+          "meaning": "Hivite"
+        },
+        {
+          "word": "Arkite",
+          "strongNumber": "H6208",
+          "lemma": "’Arqî",
+          "meaning": "Arkite; inhabitant of Arka"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And the Arvadite, and the Zemarite, and the Hamathite: and afterward were the families of the Canaanites spread abroad.",
+      "highlightedWords": [
+        {
+          "word": "families",
+          "strongNumber": "H4940",
+          "lemma": "mishpāḥāh",
+          "meaning": "clan; family"
+        },
+        {
+          "word": "Canaanites",
+          "strongNumber": "H3669",
+          "lemma": "Kĕna‘anî",
+          "meaning": "Canaanite(s); inhabitants of Canaan"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And the border of the Canaanites was from Sidon, as thou comest to Gerar, unto Gaza; as thou goest, unto Sodom, and Gomorrah, and Admah, and Zeboim, even unto Lasha.",
+      "highlightedWords": [
+        {
+          "word": "border",
+          "strongNumber": "H1366",
+          "lemma": "gĕbûl",
+          "meaning": "boundary; border; territory limit"
+        },
+        {
+          "word": "Gaza",
+          "strongNumber": "H5804",
+          "lemma": "‘Azzāh",
+          "meaning": "Gaza (Azzah); ‘strong’"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "These are the sons of Ham, after their families, after their tongues, in their countries, and in their nations.",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "bēn",
+          "meaning": "son; child; descendant"
+        },
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "gôy",
+          "meaning": "nation; Gentile peoples"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Unto Shem also, the father of all the children of Eber, the brother of Japheth the elder, even to him were children born.",
+      "highlightedWords": [
+        {
+          "word": "Shem",
+          "strongNumber": "H8035",
+          "lemma": "Šēm",
+          "meaning": "Shem; ‘name’"
+        },
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "bēn",
+          "meaning": "son; child; descendant"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "The children of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram.",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "bēn",
+          "meaning": "son; child; descendant"
+        },
+        {
+          "word": "Shem",
+          "strongNumber": "H8035",
+          "lemma": "Šēm",
+          "meaning": "Shem; ‘name’"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And the children of Aram; Uz, and Hul, and Gether, and Mash.",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "H1121",
+          "lemma": "bēn",
+          "meaning": "son; child; descendant"
+        },
+        {
+          "word": "Aram",
+          "strongNumber": "H758",
+          "lemma": "’Aram",
+          "meaning": "Aram; Syria"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And Arphaxad begat Salah; and Salah begat Eber.",
+      "highlightedWords": [
+        {
+          "word": "begat",
+          "strongNumber": "H3205",
+          "lemma": "yālad",
+          "meaning": "to beget; to bear; to bring forth"
+        },
+        {
+          "word": "Eber",
+          "strongNumber": "H5677",
+          "lemma": "‘Ēber",
+          "meaning": "Eber; ‘region beyond’"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And unto Eber were born two sons: the name of one was Peleg; for in his days was the earth divided; and his brother's name was Joktan.",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "H776",
+          "lemma": "’ereṣ",
+          "meaning": "land; earth; territory"
+        },
+        {
+          "word": "divided",
+          "strongNumber": "H6385",
+          "lemma": "pālag",
+          "meaning": "to divide; split"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And Joktan begat Almodad, and Sheleph, and Hazarmaveth, and Jerah,",
+      "highlightedWords": [
+        {
+          "word": "Joktan",
+          "strongNumber": "H3355",
+          "lemma": "Yoqṭān",
+          "meaning": "Joktan; ‘small’"
+        },
+        {
+          "word": "begat",
+          "strongNumber": "H3205",
+          "lemma": "yālad",
+          "meaning": "to beget; to bear; to bring forth"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And Hadoram, and Uzal, and Diklah,",
+      "highlightedWords": [
+        {
+          "word": "Hadoram",
+          "strongNumber": "H1913",
+          "lemma": "Hădōrām",
+          "meaning": "Hadoram"
+        },
+        {
+          "word": "Uzal",
+          "strongNumber": "H187",
+          "lemma": "’Uzal",
+          "meaning": "Uzal"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And Obal, and Abimael, and Sheba,",
+      "highlightedWords": [
+        {
+          "word": "Abimael",
+          "strongNumber": "H39",
+          "lemma": "’Abîma‘ēl",
+          "meaning": "Abimael; ‘my father is God’"
+        },
+        {
+          "word": "Sheba",
+          "strongNumber": "H7614",
+          "lemma": "Šĕba‘",
+          "meaning": "Sheba (a people/region)"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "And Ophir, and Havilah, and Jobab: all these were the sons of Joktan.",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "bēn",
+          "meaning": "son; child; descendant"
+        },
+        {
+          "word": "Joktan",
+          "strongNumber": "H3355",
+          "lemma": "Yoqṭān",
+          "meaning": "Joktan; ‘small’"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "And their dwelling was from Mesha, as thou goest unto Sephar a mount of the east.",
+      "highlightedWords": [
+        {
+          "word": "dwelling",
+          "strongNumber": "H4186",
+          "lemma": "môshāb",
+          "meaning": "dwelling place; habitation"
+        },
+        {
+          "word": "east",
+          "strongNumber": "H6924",
+          "lemma": "qedem",
+          "meaning": "east; front; ancient times"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "These are the sons of Shem, after their families, after their tongues, in their lands, after their nations.",
+      "highlightedWords": [
+        {
+          "word": "sons",
+          "strongNumber": "H1121",
+          "lemma": "bēn",
+          "meaning": "son; child; descendant"
+        },
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "gôy",
+          "meaning": "nation; Gentile peoples"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "These are the families of the sons of Noah, after their generations, in their nations: and by these were the nations divided in the earth after the flood.",
+      "highlightedWords": [
+        {
+          "word": "families",
+          "strongNumber": "H4940",
+          "lemma": "mishpāḥāh",
+          "meaning": "clan; family"
+        },
+        {
+          "word": "nations",
+          "strongNumber": "H1471",
+          "lemma": "gôy",
+          "meaning": "nation; Gentile peoples"
+        }
+      ]
+    }
+  ]
+}

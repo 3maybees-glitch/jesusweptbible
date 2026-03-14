@@ -1,0 +1,348 @@
+{
+  "book": "Genesis",
+  "chapter": 13,
+  "chapterTheme": {
+    "twoWordSummary": "Separation Promise",
+    "themeWords": [
+      {
+        "word": "land",
+        "strongNumber": "H776",
+        "lemma": "’erets",
+        "meaning": "land, earth, territory"
+      },
+      {
+        "word": "seed",
+        "strongNumber": "H2233",
+        "lemma": "zera‘",
+        "meaning": "seed, offspring, descendants"
+      }
+    ]
+  },
+  "sentenceTheme": "Abram and Lot separate to avoid strife, and God reaffirms His promise to give Abram the land and innumerable descendants.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And Abram went up out of Egypt, he, and his wife, and all that he had, and Lot with him, into the south.",
+      "highlightedWords": [
+        {
+          "word": "Egypt",
+          "strongNumber": "H4714",
+          "lemma": "Mitsrayim",
+          "meaning": "Egypt"
+        },
+        {
+          "word": "south",
+          "strongNumber": "H5045",
+          "lemma": "negeb",
+          "meaning": "south, the Negev"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And Abram was very rich in cattle, in silver, and in gold.",
+      "highlightedWords": [
+        {
+          "word": "cattle",
+          "strongNumber": "H4735",
+          "lemma": "miqneh",
+          "meaning": "livestock, property"
+        },
+        {
+          "word": "silver",
+          "strongNumber": "H3701",
+          "lemma": "keseph",
+          "meaning": "silver, money"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And he went on his journeys from the south even to Bethel, unto the place where his tent had been at the beginning, between Bethel and Hai;",
+      "highlightedWords": [
+        {
+          "word": "Bethel",
+          "strongNumber": "H1008",
+          "lemma": "Beyth-’El",
+          "meaning": "Bethel, house of God"
+        },
+        {
+          "word": "Hai",
+          "strongNumber": "H5857",
+          "lemma": "’Ay",
+          "meaning": "Ai/Hai, a Canaanite city"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Unto the place of the altar, which he had made there at the first: and there Abram called on the name of the LORD.",
+      "highlightedWords": [
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the divine name, the LORD"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And Lot also, which went with Abram, had flocks, and herds, and tents.",
+      "highlightedWords": [
+        {
+          "word": "Lot",
+          "strongNumber": "H3876",
+          "lemma": "Lot",
+          "meaning": "Lot; Abram’s nephew"
+        },
+        {
+          "word": "flocks",
+          "strongNumber": "H6629",
+          "lemma": "tson",
+          "meaning": "flock(s), sheep and goats"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And the land was not able to bear them, that they might dwell together: for their substance was great, so that they could not dwell together.",
+      "highlightedWords": [
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "’erets",
+          "meaning": "land, earth, territory"
+        },
+        {
+          "word": "dwell",
+          "strongNumber": "H3427",
+          "lemma": "yashab",
+          "meaning": "to sit, remain, dwell"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And there was a strife between the herdmen of Abram's cattle and the herdmen of Lot's cattle: and the Canaanite and the Perizzite dwelled then in the land.",
+      "highlightedWords": [
+        {
+          "word": "Canaanite",
+          "strongNumber": "H3669",
+          "lemma": "Kena‘ani",
+          "meaning": "Canaanite inhabitant of the land"
+        },
+        {
+          "word": "Perizzite",
+          "strongNumber": "H6522",
+          "lemma": "Perizzi",
+          "meaning": "Perizzite inhabitant of the land"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And Abram said unto Lot, Let there be no strife, I pray thee, between me and thee, and between my herdmen and thy herdmen; for we be brethren.",
+      "highlightedWords": [
+        {
+          "word": "Lot",
+          "strongNumber": "H3876",
+          "lemma": "Lot",
+          "meaning": "Lot; Abram’s nephew"
+        },
+        {
+          "word": "brethren",
+          "strongNumber": "H251",
+          "lemma": "’ach",
+          "meaning": "brother, kinsman"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Is not the whole land before thee? separate thyself, I pray thee, from me: if thou wilt take the left hand, then I will go to the right; or if thou depart to the right hand, then I will go to the left.",
+      "highlightedWords": [
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "’erets",
+          "meaning": "land, earth, territory"
+        },
+        {
+          "word": "right hand",
+          "strongNumber": "H3225",
+          "lemma": "yamin",
+          "meaning": "right hand/side, south"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And Lot lifted up his eyes, and beheld all the plain of Jordan, that it was well watered every where, before the LORD destroyed Sodom and Gomorrah, even as the garden of the LORD, like the land of Egypt, as thou comest unto Zoar.",
+      "highlightedWords": [
+        {
+          "word": "Jordan",
+          "strongNumber": "H3383",
+          "lemma": "Yarden",
+          "meaning": "Jordan River"
+        },
+        {
+          "word": "Sodom",
+          "strongNumber": "H5467",
+          "lemma": "Sedom",
+          "meaning": "Sodom"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Then Lot chose him all the plain of Jordan; and Lot journeyed east: and they separated themselves the one from the other.",
+      "highlightedWords": [
+        {
+          "word": "plain",
+          "strongNumber": "H3603",
+          "lemma": "kikkar",
+          "meaning": "circle, plain, round district"
+        },
+        {
+          "word": "separated",
+          "strongNumber": "H6504",
+          "lemma": "parad",
+          "meaning": "to separate, divide"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Abram dwelled in the land of Canaan, and Lot dwelled in the cities of the plain, and pitched his tent toward Sodom.",
+      "highlightedWords": [
+        {
+          "word": "Canaan",
+          "strongNumber": "H3667",
+          "lemma": "Kena‘an",
+          "meaning": "Canaan, the land of"
+        },
+        {
+          "word": "Sodom",
+          "strongNumber": "H5467",
+          "lemma": "Sedom",
+          "meaning": "Sodom"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "But the men of Sodom were wicked and sinners before the LORD exceedingly.",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the divine name, the LORD"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "H7451",
+          "lemma": "ra‘",
+          "meaning": "evil, bad, wicked"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And the LORD said unto Abram, after that Lot was separated from him, Lift up now thine eyes, and look from the place where thou art northward, and southward, and eastward, and westward:",
+      "highlightedWords": [
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the divine name, the LORD"
+        },
+        {
+          "word": "northward",
+          "strongNumber": "H6828",
+          "lemma": "tsaphon",
+          "meaning": "north, northward"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "For all the land which thou seest, to thee will I give it, and to thy seed for ever.",
+      "highlightedWords": [
+        {
+          "word": "land",
+          "strongNumber": "H776",
+          "lemma": "’erets",
+          "meaning": "land, earth, territory"
+        },
+        {
+          "word": "seed",
+          "strongNumber": "H2233",
+          "lemma": "zera‘",
+          "meaning": "seed, offspring, descendants"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And I will make thy seed as the dust of the earth: so that if a man can number the dust of the earth, then shall thy seed also be numbered.",
+      "highlightedWords": [
+        {
+          "word": "seed",
+          "strongNumber": "H2233",
+          "lemma": "zera‘",
+          "meaning": "seed, offspring, descendants"
+        },
+        {
+          "word": "dust",
+          "strongNumber": "H6083",
+          "lemma": "’aphar",
+          "meaning": "dust, dry earth"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Arise, walk through the land in the length of it and in the breadth of it; for I will give it unto thee.",
+      "highlightedWords": [
+        {
+          "word": "walk",
+          "strongNumber": "H1980",
+          "lemma": "halak",
+          "meaning": "to go, walk"
+        },
+        {
+          "word": "give",
+          "strongNumber": "H5414",
+          "lemma": "nathan",
+          "meaning": "to give, grant"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Then Abram removed his tent, and came and dwelt in the plain of Mamre, which is in Hebron, and built there an altar unto the LORD.",
+      "highlightedWords": [
+        {
+          "word": "altar",
+          "strongNumber": "H4196",
+          "lemma": "mizbeach",
+          "meaning": "altar"
+        },
+        {
+          "word": "LORD",
+          "strongNumber": "H3068",
+          "lemma": "YHWH",
+          "meaning": "the divine name, the LORD"
+        }
+      ]
+    }
+  ]
+}
