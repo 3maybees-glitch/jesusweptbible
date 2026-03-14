@@ -199,7 +199,11 @@
       "lemma": "daniyyel",
       "meaning": "God is my judge; prophet known for visions and faith in Babylon.",
       "referenceRange": "Daniel 1–12"
-    },
+    }
+  ]
+}
+{
+  "bibleCharacters": [
     {
       "name": "Hosea",
       "twoWordTheme": "Faithful Prophet",
@@ -399,7 +403,11 @@
       "lemma": "iakobos",
       "meaning": "James; one of the twelve disciples of Jesus.",
       "referenceRange": "Matthew – Acts"
-    },
+    }
+  ]
+}
+{
+  "bibleCharacters": [
     {
       "name": "Thaddaeus",
       "twoWordTheme": "Faithful Apostle",
@@ -599,7 +607,11 @@
       "lemma": "ioudas",
       "meaning": "brother of James who wrote the epistle of Jude.",
       "referenceRange": "Jude 1"
-    },
+    }
+  ]
+}
+{
+  "bibleCharacters": [
     {
       "name": "Nicodemus",
       "twoWordTheme": "Seeking Pharisee",
@@ -639,6 +651,234 @@
       "lemma": "lydia",
       "meaning": "seller of purple cloth who believed the gospel.",
       "referenceRange": "Acts 16"
+    },
+    {
+      "name": "Festus",
+      "twoWordTheme": "Roman Governor",
+      "strongNumber": "G5347",
+      "lemma": "phestos",
+      "meaning": "Roman governor who heard Paul's case.",
+      "referenceRange": "Acts 24 – Acts 26"
+    },
+    {
+      "name": "Herod the Great",
+      "twoWordTheme": "Ruthless King",
+      "strongNumber": "G2264",
+      "lemma": "herodes",
+      "meaning": "king who ruled Judea during Jesus' birth.",
+      "referenceRange": "Matthew 2"
+    },
+    {
+      "name": "Herod Antipas",
+      "twoWordTheme": "Tetrarch Ruler",
+      "strongNumber": "G2264",
+      "lemma": "herodes",
+      "meaning": "ruler who executed John the Baptist.",
+      "referenceRange": "Matthew 14 – Luke 23"
+    },
+    {
+      "name": "Herod Agrippa I",
+      "twoWordTheme": "Persecuting King",
+      "strongNumber": "G2264",
+      "lemma": "herodes",
+      "meaning": "king who persecuted the early church.",
+      "referenceRange": "Acts 12"
+    },
+    {
+      "name": "Herod Agrippa II",
+      "twoWordTheme": "Royal Hearer",
+      "strongNumber": "G2264",
+      "lemma": "herodes",
+      "meaning": "king who heard Paul's defense.",
+      "referenceRange": "Acts 25 – Acts 26"
+    },
+    {
+      "name": "Herodias",
+      "twoWordTheme": "Royal Instigator",
+      "strongNumber": "G2266",
+      "lemma": "herodias",
+      "meaning": "wife of Herod who demanded John the Baptist's death.",
+      "referenceRange": "Matthew 14 – Mark 6"
+    },
+    {
+      "name": "Crispus",
+      "twoWordTheme": "Synagogue Leader",
+      "strongNumber": "G2921",
+      "lemma": "krispos",
+      "meaning": "leader of the synagogue who believed in Christ.",
+      "referenceRange": "Acts 18"
+    },
+    {
+      "name": "Sosthenes",
+      "twoWordTheme": "Converted Leader",
+      "strongNumber": "G4988",
+      "lemma": "sosthenes",
+      "meaning": "synagogue ruler who later joined the Christian community.",
+      "referenceRange": "Acts 18 – 1 Corinthians 1"
+    },
+    {
+      "name": "Tychicus",
+      "twoWordTheme": "Faithful Messenger",
+      "strongNumber": "G5190",
+      "lemma": "tychikos",
+      "meaning": "trusted companion who delivered Paul's letters.",
+      "referenceRange": "Acts 20 – Colossians"
+    },
+    {
+      "name": "Epaphroditus",
+      "twoWordTheme": "Faithful Servant",
+      "strongNumber": "G1891",
+      "lemma": "epaphroditos",
+      "meaning": "messenger who served Paul and nearly died in ministry.",
+      "referenceRange": "Philippians 2"
+    },
+    {
+      "name": "Epaphas",
+      "twoWordTheme": "Prayer Warrior",
+      "strongNumber": "G1889",
+      "lemma": "epaphras",
+      "meaning": "church leader devoted to prayer.",
+      "referenceRange": "Colossians – Philemon"
+    },
+    {
+      "name": "Demas",
+      "twoWordTheme": "Deserting Companion",
+      "strongNumber": "G1214",
+      "lemma": "demas",
+      "meaning": "coworker of Paul who later abandoned the mission.",
+      "referenceRange": "Colossians – 2 Timothy"
+    },
+    {
+      "name": "Alexander the Coppersmith",
+      "twoWordTheme": "Opposing Craftsman",
+      "strongNumber": "G223",
+      "lemma": "alexandros",
+      "meaning": "man who opposed Paul's ministry.",
+      "referenceRange": "1 Timothy – 2 Timothy"
+    },
+    {
+      "name": "The Ethiopian Eunuch",
+      "twoWordTheme": "Converted Official",
+      "strongNumber": "G2135",
+      "lemma": "eunouchos",
+      "meaning": "royal official baptized by Philip.",
+      "referenceRange": "Acts 8"
+    },
+    {
+      "name": "Ananias (High Priest)",
+      "twoWordTheme": "Accusing Priest",
+      "strongNumber": "G367",
+      "lemma": "ananias",
+      "meaning": "high priest who accused Paul.",
+      "referenceRange": "Acts 23"
+    },
+    {
+      "name": "Caesar Augustus",
+      "twoWordTheme": "Roman Emperor",
+      "strongNumber": "G2541",
+      "lemma": "kaisar",
+      "meaning": "Roman emperor ruling during Jesus' birth.",
+      "referenceRange": "Luke 2"
+    },
+    {
+      "name": "Claudius",
+      "twoWordTheme": "Roman Emperor",
+      "strongNumber": "G2804",
+      "lemma": "klaudios",
+      "meaning": "Roman emperor mentioned in Acts.",
+      "referenceRange": "Acts 11 – Acts 18"
+    },
+    {
+      "name": "Felix",
+      "twoWordTheme": "Roman Governor",
+      "strongNumber": "G5344",
+      "lemma": "phelix",
+      "meaning": "governor who kept Paul imprisoned.",
+      "referenceRange": "Acts 23 – Acts 24"
+    },
+    {
+      "name": "Drusilla",
+      "twoWordTheme": "Royal Listener",
+      "strongNumber": "G1409",
+      "lemma": "drousilla",
+      "meaning": "wife of Felix who heard Paul's teaching.",
+      "referenceRange": "Acts 24"
+    },
+    {
+      "name": "John (Revelation)",
+      "twoWordTheme": "Vision Apostle",
+      "strongNumber": "G2491",
+      "lemma": "ioannes",
+      "meaning": "apostle who received the visions recorded in Revelation.",
+      "referenceRange": "Revelation 1–22"
     }
+  ]
+}
+{
+  "bibleCharactersExtended": [
+    { "name": "Abel", "twoWordTheme": "Faithful Sacrifice", "strongNumber": "H1893", "lemma": "hebel", "meaning": "son of Adam whose acceptable sacrifice pleased God", "referenceRange": "Genesis 4 – Hebrews 11" },
+    { "name": "Cain", "twoWordTheme": "First Murderer", "strongNumber": "H7014", "lemma": "qayin", "meaning": "firstborn son of Adam who killed his brother Abel", "referenceRange": "Genesis 4" },
+    { "name": "Seth", "twoWordTheme": "Appointed Seed", "strongNumber": "H8352", "lemma": "sheth", "meaning": "son given to Adam and Eve after Abel's death", "referenceRange": "Genesis 4–5" },
+    { "name": "Enoch", "twoWordTheme": "Walked God", "strongNumber": "H2585", "lemma": "chanok", "meaning": "man who walked with God and was taken by Him", "referenceRange": "Genesis 5 – Hebrews 11" },
+    { "name": "Lamech", "twoWordTheme": "Noah Father", "strongNumber": "H3929", "lemma": "lemech", "meaning": "father of Noah who foretold comfort through him", "referenceRange": "Genesis 5" },
+
+    { "name": "Lot", "twoWordTheme": "Righteous Survivor", "strongNumber": "H3876", "lemma": "lot", "meaning": "nephew of Abraham rescued from Sodom", "referenceRange": "Genesis 13–19" },
+    { "name": "Hagar", "twoWordTheme": "Bondwoman Mother", "strongNumber": "H1904", "lemma": "hagar", "meaning": "servant of Sarah and mother of Ishmael", "referenceRange": "Genesis 16–21" },
+    { "name": "Ishmael", "twoWordTheme": "Desert Father", "strongNumber": "H3458", "lemma": "yishmael", "meaning": "son of Abraham and Hagar", "referenceRange": "Genesis 16–25" },
+    { "name": "Rebekah", "twoWordTheme": "Chosen Bride", "strongNumber": "H7259", "lemma": "ribqah", "meaning": "wife of Isaac and mother of Jacob and Esau", "referenceRange": "Genesis 24–27" },
+    { "name": "Esau", "twoWordTheme": "Edom Father", "strongNumber": "H6215", "lemma": "esav", "meaning": "son of Isaac who became father of Edom", "referenceRange": "Genesis 25–36" },
+
+    { "name": "Leah", "twoWordTheme": "Tribal Mother", "strongNumber": "H3812", "lemma": "leah", "meaning": "wife of Jacob and mother of six tribes", "referenceRange": "Genesis 29–35" },
+    { "name": "Rachel", "twoWordTheme": "Beloved Wife", "strongNumber": "H7354", "lemma": "rachel", "meaning": "wife of Jacob and mother of Joseph and Benjamin", "referenceRange": "Genesis 29–35" },
+    { "name": "Judah", "twoWordTheme": "Royal Tribe", "strongNumber": "H3063", "lemma": "yehudah", "meaning": "son of Jacob whose tribe produced kings", "referenceRange": "Genesis 29–49" },
+    { "name": "Tamar", "twoWordTheme": "Persistent Widow", "strongNumber": "H8559", "lemma": "tamar", "meaning": "woman through whom Judah's lineage continued", "referenceRange": "Genesis 38" },
+
+    { "name": "Potiphar", "twoWordTheme": "Egyptian Officer", "strongNumber": "H6318", "lemma": "potiphar", "meaning": "Egyptian official who owned Joseph as servant", "referenceRange": "Genesis 39" },
+    { "name": "Asenath", "twoWordTheme": "Joseph Wife", "strongNumber": "H621", "lemma": "asenath", "meaning": "Egyptian wife of Joseph", "referenceRange": "Genesis 41" },
+    { "name": "Ephraim", "twoWordTheme": "Fruitful Tribe", "strongNumber": "H669", "lemma": "ephrayim", "meaning": "son of Joseph who became a tribe of Israel", "referenceRange": "Genesis 41 – Joshua" },
+    { "name": "Manasseh", "twoWordTheme": "Firstborn Tribe", "strongNumber": "H4519", "lemma": "menashsheh", "meaning": "firstborn son of Joseph", "referenceRange": "Genesis 41 – Joshua" },
+
+    { "name": "Miriam", "twoWordTheme": "Prophet Sister", "strongNumber": "H4813", "lemma": "miryam", "meaning": "sister of Moses and Aaron who led worship", "referenceRange": "Exodus – Numbers" },
+    { "name": "Zipporah", "twoWordTheme": "Moses Wife", "strongNumber": "H6855", "lemma": "tsipporah", "meaning": "wife of Moses and daughter of Jethro", "referenceRange": "Exodus 2–18" },
+    { "name": "Jethro", "twoWordTheme": "Wise Priest", "strongNumber": "H3503", "lemma": "yithro", "meaning": "priest of Midian and father-in-law of Moses", "referenceRange": "Exodus 2–18" },
+
+    { "name": "Korah", "twoWordTheme": "Rebel Leader", "strongNumber": "H7141", "lemma": "qorach", "meaning": "Levite who led rebellion against Moses", "referenceRange": "Numbers 16" },
+    { "name": "Balaam", "twoWordTheme": "Pagan Prophet", "strongNumber": "H1109", "lemma": "bilam", "meaning": "diviner hired to curse Israel", "referenceRange": "Numbers 22–24" },
+    { "name": "Balak", "twoWordTheme": "Moab King", "strongNumber": "H1111", "lemma": "balaq", "meaning": "king who hired Balaam to curse Israel", "referenceRange": "Numbers 22–24" },
+    { "name": "Phinehas", "twoWordTheme": "Zealous Priest", "strongNumber": "H6372", "lemma": "pinchas", "meaning": "priest known for zeal for God's holiness", "referenceRange": "Numbers – Judges" },
+
+    { "name": "Bezalel", "twoWordTheme": "Temple Craftsman", "strongNumber": "H1212", "lemma": "betsalel", "meaning": "artisan who built the tabernacle", "referenceRange": "Exodus 31–38" },
+    { "name": "Oholiab", "twoWordTheme": "Skilled Craftsman", "strongNumber": "H171", "lemma": "oholiyav", "meaning": "assistant artisan of the tabernacle", "referenceRange": "Exodus 31–38" },
+
+    { "name": "Barak", "twoWordTheme": "Battle General", "strongNumber": "H1301", "lemma": "baraq", "meaning": "military leader under Deborah", "referenceRange": "Judges 4–5" },
+    { "name": "Jael", "twoWordTheme": "Tent Warrior", "strongNumber": "H3278", "lemma": "yael", "meaning": "woman who defeated Sisera", "referenceRange": "Judges 4–5" },
+    { "name": "Abimelech", "twoWordTheme": "Usurping King", "strongNumber": "H40", "lemma": "avimelech", "meaning": "son of Gideon who seized power", "referenceRange": "Judges 8–9" },
+    { "name": "Jephthah", "twoWordTheme": "Outcast Judge", "strongNumber": "H3316", "lemma": "yiphtach", "meaning": "judge who delivered Israel from Ammon", "referenceRange": "Judges 11–12" },
+    { "name": "Delilah", "twoWordTheme": "Samson Betrayer", "strongNumber": "H1807", "lemma": "delilah", "meaning": "woman who betrayed Samson", "referenceRange": "Judges 16" },
+
+    { "name": "Jonathan", "twoWordTheme": "Loyal Friend", "strongNumber": "H3083", "lemma": "yehonathan", "meaning": "son of Saul and loyal friend of David", "referenceRange": "1 Samuel 14–31" },
+    { "name": "Michal", "twoWordTheme": "Saul Daughter", "strongNumber": "H4324", "lemma": "mikal", "meaning": "daughter of Saul and wife of David", "referenceRange": "1 Samuel – 2 Samuel" },
+    { "name": "Abigail", "twoWordTheme": "Wise Wife", "strongNumber": "H26", "lemma": "avigayil", "meaning": "wife of David known for wisdom", "referenceRange": "1 Samuel 25" },
+    { "name": "Bathsheba", "twoWordTheme": "Queen Mother", "strongNumber": "H1339", "lemma": "bathsheva", "meaning": "wife of David and mother of Solomon", "referenceRange": "2 Samuel – 1 Kings" },
+
+    { "name": "Nathan", "twoWordTheme": "Court Prophet", "strongNumber": "H5416", "lemma": "nathan", "meaning": "prophet who rebuked David", "referenceRange": "2 Samuel – 1 Kings" },
+    { "name": "Joab", "twoWordTheme": "Army Commander", "strongNumber": "H3097", "lemma": "yoav", "meaning": "military commander of David", "referenceRange": "2 Samuel – 1 Kings" },
+    { "name": "Absalom", "twoWordTheme": "Rebel Prince", "strongNumber": "H53", "lemma": "avshalom", "meaning": "son of David who rebelled", "referenceRange": "2 Samuel 13–18" },
+
+    { "name": "Ahab", "twoWordTheme": "Wicked King", "strongNumber": "H256", "lemma": "achav", "meaning": "king of Israel who promoted idolatry", "referenceRange": "1 Kings 16–22" },
+    { "name": "Jezebel", "twoWordTheme": "Idolatrous Queen", "strongNumber": "H348", "lemma": "izevel", "meaning": "queen who promoted Baal worship", "referenceRange": "1 Kings – 2 Kings" },
+
+    { "name": "Hezekiah", "twoWordTheme": "Reforming King", "strongNumber": "H2396", "lemma": "chizqiyahu", "meaning": "king who restored worship", "referenceRange": "2 Kings 18–20" },
+    { "name": "Josiah", "twoWordTheme": "Righteous King", "strongNumber": "H2977", "lemma": "yoshiyahu", "meaning": "king who restored the law", "referenceRange": "2 Kings 22–23" },
+
+    { "name": "Shadrach", "twoWordTheme": "Faithful Exile", "strongNumber": "H7715", "lemma": "shadrak", "meaning": "Hebrew exile delivered from the furnace", "referenceRange": "Daniel 1–3" },
+    { "name": "Meshach", "twoWordTheme": "Faithful Exile", "strongNumber": "H4335", "lemma": "meshak", "meaning": "companion of Daniel faithful to God", "referenceRange": "Daniel 1–3" },
+    { "name": "Abednego", "twoWordTheme": "Faithful Exile", "strongNumber": "H5665", "lemma": "avednego", "meaning": "servant of God delivered from the furnace", "referenceRange": "Daniel 1–3" },
+
+    { "name": "Ezra", "twoWordTheme": "Law Scribe", "strongNumber": "H5830", "lemma": "ezra", "meaning": "priest who restored the law after exile", "referenceRange": "Ezra – Nehemiah" },
+    { "name": "Nehemiah", "twoWordTheme": "Wall Builder", "strongNumber": "H5166", "lemma": "nechemyah", "meaning": "leader who rebuilt Jerusalem's walls", "referenceRange": "Nehemiah 1–13" },
+    { "name": "Esther", "twoWordTheme": "Brave Queen", "strongNumber": "H635", "lemma": "ester", "meaning": "queen who saved the Jewish people", "referenceRange": "Esther 1–10" },
+    { "name": "Mordecai", "twoWordTheme": "Faithful Guardian", "strongNumber": "H4782", "lemma": "mordekai", "meaning": "cousin and protector of Esther", "referenceRange": "Esther 2–10" },
+    { "name": "Haman", "twoWordTheme": "Proud Enemy", "strongNumber": "H2001", "lemma": "haman", "meaning": "enemy of the Jews in Persia", "referenceRange": "Esther 3–7" }
   ]
 }
