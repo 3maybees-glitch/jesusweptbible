@@ -154,20 +154,17 @@ export function VerseDisplay({ verse, book, chapter, onWordTap, onArtClick }: Ve
         </p>
 
         <div className="flex-shrink-0 mt-1 flex items-center gap-2">
-          {/* Invisible Art Cross - All verses have this, but only special ones trigger art */}
-          <button
-            onClick={handleArtClick}
-            disabled={!artPainting}
-            className={`flex items-center justify-center rounded-lg transition-all duration-300 min-h-[44px] min-w-[44px] flex-shrink-0 ${
-              artPainting
-                ? 'text-muted-foreground/20 hover:text-purple-400 hover:bg-purple-400/20 cursor-pointer'
-                : 'text-muted-foreground/10 cursor-default'
-            }`}
-            aria-label="View historical Christian art (if available)"
-            title={artPainting ? "Surprise! Click to view art" : ""}
-          >
-            <ChristianCross className="w-6 h-6" />
-          </button>
+          {/* Purple Easter Egg Cross - Shows when art is available */}
+          {artPainting && (
+            <button
+              onClick={handleArtClick}
+              className="flex items-center justify-center rounded-lg transition-all duration-300 min-h-[44px] min-w-[44px] flex-shrink-0 text-purple-500 hover:text-purple-300 hover:bg-purple-500/20 cursor-pointer"
+              aria-label="Easter Egg: Click to view art"
+              title="🎨 Click to view hidden art!"
+            >
+              <ChristianCross className="w-6 h-6" />
+            </button>
+          )}
 
           {/* Standard Read Marker Cross */}
           <button

@@ -15,6 +15,13 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
     title: "Jesus Wept",
     artist: "Historical Christian Art",
     description: "The shortest verse in the Bible depicting Jesus's compassion and humanity as he mourned Lazarus."
+  },
+  {
+    reference: "genesis 1:27",
+    painting: "made-in-image.jpg",
+    title: "Made in God's Image",
+    artist: "Historical Christian Art",
+    description: "The foundational verse affirming that humanity is created in the image of God, establishing the divine purpose and worth of all people."
   }
 ]
 
