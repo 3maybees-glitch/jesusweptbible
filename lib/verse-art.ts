@@ -10,7 +10,7 @@ export interface VerseArtPainting {
 // Verse-to-art mappings embedded directly
 const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
   {
-    reference: "John 11:35",
+    reference: "john 11:35",
     painting: "jesus-wept.jpg",
     title: "Jesus Wept",
     artist: "Historical Christian Art",
@@ -20,7 +20,8 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
 
 // Normalize verse reference for comparison
 function normalizeReference(reference: string): string {
-  return reference.toLowerCase().replace(/\s+/g, " ").trim()
+  const normalized = reference.toLowerCase().replace(/\s+/g, " ").trim()
+  return normalized
 }
 
 // Create a map of normalized references to paintings
@@ -28,8 +29,10 @@ function getVerseArtMap(): Map<string, VerseArtPainting> {
   const map = new Map<string, VerseArtPainting>()
   VERSE_ART_MAPPINGS.forEach((painting) => {
     const normalizedRef = normalizeReference(painting.reference)
+    console.log("[v0] Registering art mapping:", normalizedRef, "->", painting.title)
     map.set(normalizedRef, painting)
   })
+  console.log("[v0] Total art mappings registered:", map.size)
   return map
 }
 
@@ -40,15 +43,28 @@ export async function getVerseArt(
   verse: number | string,
 ): Promise<VerseArtPainting | null> {
   const mappings = getVerseArtMap()
-  const reference = normalizeReference(`${book} ${chapter}:${verse}`)
-  console.log("[v0] Verse art lookup:")
-  console.log("[v0]   book:", book)
-  console.log("[v0]   chapter:", chapter)
-  console.log("[v0]   verse:", verse)
-  console.log("[v0]   built reference:", reference)
-  console.log("[v0]   available mappings:", Array.from(mappings.keys()))
+  
+  // Build reference step by step
+  const bookStr = String(book).toLowerCase().trim()
+  const chapterStr = String(chapter).trim()
+  const verseStr = String(verse).trim()
+  const reference = `${bookStr} ${chapterStr}:${verseStr}`
+  
+  console.log("[v0] === VERSE ART LOOKUP ===")
+  console.log("[v0] Input params:")
+  console.log("[v0]   - book:", book, `(type: ${typeof book})`)
+  console.log("[v0]   - chapter:", chapter, `(type: ${typeof chapter})`)
+  console.log("[v0]   - verse:", verse, `(type: ${typeof verse})`)
+  console.log("[v0] Normalized to:", reference)
+  console.log("[v0] Available mappings:")
+  Array.from(mappings.keys()).forEach(key => {
+    console.log("[v0]   -", key)
+  })
+  
   const result = mappings.get(reference)
-  console.log("[v0]   result:", result ? result.title : "NOT FOUND")
+  console.log("[v0] Match result:", result ? `FOUND: ${result.title}` : "NOT FOUND")
+  console.log("[v0] === END LOOKUP ===")
+  
   return result || null
 }
 
