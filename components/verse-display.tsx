@@ -45,12 +45,14 @@ export function VerseDisplay({ verse, onWordTap, onArtClick }: VerseDisplayProps
     const loadArt = async () => {
       try {
         const verseNum = verse.verse || verse.verseNumber
-        console.log("[v0] Loading art for:", verse.book, verse.chapter, verseNum)
+        console.log("[v0] ==================== LOADING ART ====================")
+        console.log("[v0] Verse Object:", verse)
+        console.log("[v0] Book:", verse.book, "Chapter:", verse.chapter, "VerseNum:", verseNum)
         const art = await getVerseArt(verse.book, verse.chapter, verseNum)
-        console.log("[v0] Art result:", art)
+        console.log("[v0] Art Result:", art)
         setArtPainting(art)
       } catch (error) {
-        console.error("[v0] Error loading art for verse:", error)
+        console.error("[v0] ERROR in loadArt:", error)
       } finally {
         setIsLoadingArt(false)
       }
