@@ -29,6 +29,7 @@ function ChristianCross({ className }: { className?: string }) {
 }
 
 export function VerseDisplay({ verse, onWordTap, onArtClick }: VerseDisplayProps) {
+  console.log("[v0] VerseDisplay rendering for verse:", verse.book, verse.chapter, verse.verse || verse.verseNumber)
   const [isRead, setIsRead] = useState(false)
   const [artPainting, setArtPainting] = useState<VerseArtPainting | null>(null)
   const [isLoadingArt, setIsLoadingArt] = useState(true)
