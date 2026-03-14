@@ -25,11 +25,62 @@ function ChristianCross({ className }: { className?: string }) {
 
 export function AboutPage({ onBack }: AboutPageProps) {
   const bookDescriptions = [
+    // Old Testament - Pentateuch
+    { name: "Genesis", desc: "Lush ancient world landscape with primordial garden Eden and creation dawn light. Diverse animals and nature celebrate the beginning of all things with mystical golden hour and ethereal luminous atmosphere depicting God's perfect creation." },
+    { name: "Exodus", desc: "Dark desert landscape of ancient Egypt with Moses leading people toward freedom. Golden sunset over desert dunes with divine pillar of fire glow and dramatic sky representing God's miraculous deliverance and covenant establishment." },
+    { name: "Leviticus", desc: "Dark ancient Jewish temple with sacred architecture and glowing divine light. Altar and worship imagery with reverent spiritual atmosphere and golden sanctuary depicting God's holiness and the way to approach His presence." },
+    { name: "Numbers", desc: "Dark vast desert landscape showing wandering Israelites on their wilderness journey. Starry night sky with divine light, tents and campfires glow creating a mysterious journey atmosphere representing God's guidance through the wilderness." },
+    { name: "Deuteronomy", desc: "Dark mountainous landscape featuring Mount Sinai with ancient covenants and golden divine light on mountain peaks. Tablets of law imagery with sacred spiritual power representing God's covenant renewal and final instructions to His people." },
+
+    // Old Testament - Historical
+    { name: "Joshua", desc: "Dark ancient Canaanite landscape with walls and fortresses and battle scenes. Divine light breaking through clouds with golden victory light and dramatic epic atmosphere representing God's power to conquer and establish His people in the promised land." },
+    { name: "Judges", desc: "Dark ancient Hebrew landscape with tribal settlements and battles of warfare. Glowing fires and weapons with dramatic moody atmosphere showing cycles of chaos and order representing spiritual warfare and God's recurring deliverance." },
+    { name: "Ruth", desc: "Golden wheat fields at harvest in ancient Bethlehem countryside with glowing warm sunset light. Peaceful pastoral beauty depicting intimate family moments and covenantal love representing redemption, grace, and God's care for the vulnerable." },
+    { name: "1 Samuel", desc: "Dark ancient kingdom landscape with shepherd boy David in mountains and valleys. Glowing starlight with sacred anointing light and divine kingship emergence representing God's selection of His anointed king and His sovereignty in human leadership." },
+    { name: "2 Samuel", desc: "Dark royal palace landscape of ancient Jerusalem kingdom with political intrigue and power dynamics. Dramatic shadows and light with regal architecture and divine judgment representing the consequences of human sin and God's enduring covenant promises." },
+    { name: "1 Kings", desc: "Dark magnificent temple and palace depicting Solomon's kingdom glory with golden architectural splendor. Sacred divine light with wealth and wisdom imagery and glowing prosperity representing the height of Israel's glory and the dangers of worldly riches." },
+    { name: "2 Kings", desc: "Dark political landscape showing kingdoms rising and falling with exile and restoration themes. Dramatic divine intervention with divine light breaking through darkness and judgment representing God's patience, warning, and redemptive purposes through judgment." },
+    { name: "1 Chronicles", desc: "Dark genealogical heritage landscape showing ancient kingdom establishment. Genealogical records imagery with spiritual lineage light, divine covenant, and golden legacy representing the continuity of God's people and covenant faithfulness." },
+    { name: "2 Chronicles", desc: "Dark temple renovation landscape depicting restoration and renewal with spiritual reformation. Divine presence light with sacred architecture glow and hope imagery representing God's faithfulness to restore His people and temple through repentance." },
+
+    // Old Testament - Poetry & Wisdom
+    { name: "Job", desc: "Dark stormy landscape depicting suffering and pain with divine whirlwind sky. Dramatic weather with spiritual wrestling and mystical divine revelation breaking through darkness representing wrestling with faith and God's ultimate sovereignty over suffering." },
+    { name: "Psalms", desc: "Diverse beautiful landscape with mountains and valleys together, celestial sky merging with earth. Divine presence everywhere with warm glowing light of worship and praise representing the full range of human emotion and connection with God." },
+    { name: "Proverbs", desc: "Dark marketplace landscape of ancient city gates showing wisdom and folly themes. Dramatic lighting with clarity and golden hour light on pathways creating moral wisdom light representing practical guidance and the pursuit of godly wisdom." },
+    { name: "Ecclesiastes", desc: "Dark contemplative landscape showing seasons changing representing time and eternity. Sunset fading to night with philosophical deep atmosphere and golden hour melancholy depicting the search for meaning and ultimate fulfillment in God." },
+    { name: "Song of Solomon", desc: "Lush romantic garden landscape with flowers, nature, and lovers in paradise. Warm golden romantic lighting with intimate beauty and sensual glowing atmosphere representing covenantal love and the celebration of God-honoring relationships." },
+
+    // Old Testament - Major Prophets
+    { name: "Isaiah", desc: "Dark prophetic landscape with divine throne room vision and heavenly beings. Glowing celestial light with future redemption vision and powerful spiritual energy depicting God's cosmic sovereignty, justice, and messianic promises of restoration." },
+    { name: "Jeremiah", desc: "Dark troubled landscape showing Jerusalem before destruction with prophetic warning sky. Dramatic dark clouds with divine judgment light and emotional anguish representing God's weeping love and calls to repentance before judgment." },
+    { name: "Lamentations", desc: "Dark desolate landscape depicting destroyed city ruins with mourning and sorrow. Somber melancholic atmosphere with scattered divine light through darkness showing grief representing lamentation over judgment and the seeds of restoration and hope." },
+    { name: "Ezekiel", desc: "Dark apocalyptic vision landscape with heavenly throne chariot and divine creatures. Mystical cosmic light with surreal spiritual imagery and powerful otherworldly atmosphere representing God's transcendent holiness and visionary restoration of His people." },
+    { name: "Daniel", desc: "Dark royal palace landscape of Babylon kingdom with mystical visions. Divine prophecy light with dream and reality blending and cosmic divine intervention representing God's sovereignty over kingdoms and prophetic revelation of end times." },
+
+    // Old Testament - Minor Prophets
+    { name: "Hosea", desc: "Dark passionate landscape with unfaithful love imagery and covenant restoration themes. Dramatic emotional lighting with divine mercy light breaking through and redemptive hope depicting God's unfailing love and restoration despite human unfaithfulness." },
+    { name: "Joel", desc: "Dark locust plague landscape showing apocalyptic devastation with divine army imagery. Judgment and restoration with glowing divine light through darkness and renewal hope representing God's judgment on sin and restoration of joy and blessing." },
+    { name: "Amos", desc: "Dark shepherd's landscape depicting social justice themes with divine judgment. Powerful prophetic light with moral clarity and golden prophetic vision breaking through representing God's demand for justice and His protection of the vulnerable." },
+    { name: "Obadiah", desc: "Dark mountainous fortress landscape representing Edom nation with judgment and justice themes. Divine retribution light with spiritual warfare imagery and righteous victory depicting God's judgment on pride and His protection of His humble people." },
+    { name: "Jonah", desc: "Dark tempestuous seascape with whale and ocean depths showing divine calling and redemption. Glowing miraculous light with spiritual transformation and second chances representing God's mercy, repentance, and compassion for all people." },
+    { name: "Micah", desc: "Dark mountain landscape showing justice and mercy themes with covenant God. Healing light breaking through darkness with humble worship imagery and restoration depicting God's requirement for justice, mercy, and humility in His people." },
+    { name: "Nahum", desc: "Dark Assyrian fortress landscape depicting divine judgment and powerful warfare imagery. Dramatic divine retribution with glowing judgment light and righteous anger representing God's justice against oppression and His protection of His people." },
+    { name: "Habakkuk", desc: "Dark questioning landscape with divine dialogue and faith in darkness. Gradual illumination with spiritual transformation light and trust emerging representing the journey from questioning doubt to trusting in God's ultimate justice and sovereignty." },
+    { name: "Zephaniah", desc: "Dark apocalyptic landscape depicting the day of the Lord with judgment and restoration. Dramatic sky transformation with divine light through judgment and ultimate redemption representing God's purifying judgment and restoration of a faithful remnant." },
+    { name: "Haggai", desc: "Dark rebuilding landscape showing temple restoration with construction and community. Growing golden light of renewal with divine encouragement and restoration hope representing God's call to rebuild and the importance of prioritizing His kingdom." },
+    { name: "Zechariah", desc: "Dark mystical vision landscape with prophetic visions and angels throughout. Future glory of God with divine light and celestial imagery, messianic hope, and glowing future representing God's covenant faithfulness and visions of ultimate restoration." },
+    { name: "Malachi", desc: "Dark final waiting landscape with covenant renewal and divine messenger coming themes. Prophetic twilight light with preparation and expectation imagery and transformative light representing God's final word and preparation for the coming Messiah." },
+
+    // New Testament - Gospels
     { name: "Matthew", desc: "Dark mountainous landscape of ancient Roman Palestine with sunset golden hour, dramatic stormy sky, moody atmospheric high contrast" },
     { name: "Mark", desc: "Dark dramatic seascape of Galilee with storm clouds, rough waters, Palestinian coast, deep shadows, cinematic mood" },
     { name: "Luke", desc: "Dark lush Mediterranean garden landscape with olive groves, ancient Roman paths, warm amber light, mysterious mood" },
     { name: "John", desc: "Dark celestial night sky with stars and cosmos, deep universe, spiritual ethereal landscape, mystical atmosphere" },
+
+    // New Testament - History
     { name: "Acts", desc: "Dark ancient Roman city landscape of Jerusalem and early Christian cities with dramatic architecture, glowing fires, dynamic energy" },
+
+    // New Testament - Pauline Epistles
     { name: "Romans", desc: "Dark ancient Rome landscape with Colosseum and forum at dusk, powerful architecture, deep shadows, contemplative mood" },
     { name: "1 Corinthians", desc: "Dark cosmopolitan city landscape of ancient Corinth with marketplace ruins, golden sunset, warm glowing light" },
     { name: "2 Corinthians", desc: "Dark stormy seascape with rough seas, dramatic clouds, coastal cliffs, moody atmospheric lighting" },
@@ -42,14 +93,22 @@ export function AboutPage({ onBack }: AboutPageProps) {
     { name: "1 Timothy", desc: "Dark spiritual mountain landscape with sacred temple architecture, glowing light, reverent peaceful atmosphere" },
     { name: "2 Timothy", desc: "Dark prison landscape of ancient Rome dungeon with single light source, shadows and hope, dramatic lighting" },
     { name: "Titus", desc: "Dark island landscape of Mediterranean with ancient Greek ruins, golden sunset, warm glowing light over water" },
+
+    // New Testament - Philemon
     { name: "Philemon", desc: "Dark intimate house landscape with ancient Roman home architecture, warm candlelight, personal spiritual space" },
+
+    // New Testament - Hebrews
     { name: "Hebrews", desc: "Dark temple landscape with heavenly architecture, divine light rays, golden sacred atmosphere, spiritual majesty" },
+
+    // New Testament - General Epistles
     { name: "James", desc: "Dark practical landscape with work and craftsmanship, fields and vineyards, earth tones, honest natural light" },
     { name: "1 Peter", desc: "Dark suffering landscape with rocky coastline, storms and perseverance, dramatic moody atmosphere, glowing hope" },
     { name: "2 Peter", desc: "Dark apocalyptic sky with end times vision, divine judgment, powerful celestial light, mystical atmosphere" },
     { name: "1 John", desc: "Close-up field of colorful flowers glowing with golden sunrise light, petals illuminated from behind with warm amber rays, blooming wildflowers in purples, pinks, yellows and whites, morning dew, ethereal glowing atmosphere, dreamy romantic lighting" },
     { name: "2 John", desc: "Dark truth landscape with bright light piercing darkness, clarity and vision, golden illumination" },
     { name: "3 John", desc: "Dark journey landscape with paths and roads, pilgrimage, golden sunset light, warm welcoming glow" },
+
+    // New Testament - Jude & Revelation
     { name: "Jude", desc: "Dark cosmic landscape with stars and universe, divine judgment sky, powerful spiritual energy, mysterious sublime" },
     { name: "Revelation", desc: "Dark apocalyptic vision landscape with throne room of God, divine light and fire, mystical celestial atmosphere, epic spiritual drama" },
   ]
@@ -74,7 +133,7 @@ export function AboutPage({ onBack }: AboutPageProps) {
             <h1 className="font-serif text-2xl text-foreground text-center">
               About This App
             </h1>
-            <p className="text-sm text-muted-foreground text-center mt-1">New Testament - King James Version</p>
+            <p className="text-sm text-muted-foreground text-center mt-1">Old Testament & New Testament - King James Version</p>
           </div>
         </header>
 
@@ -84,7 +143,7 @@ export function AboutPage({ onBack }: AboutPageProps) {
             <div className="bg-card border border-border rounded-lg p-4">
               <h2 className="font-serif text-lg font-bold text-foreground mb-3">Overview</h2>
               <p className="text-sm text-muted-foreground leading-relaxed">
-                This Bible app presents all 27 books of the New Testament in the King James Version with thoughtfully designed, thematic landscape backgrounds for each book. Each background complements the spiritual themes and content of its respective book.
+                This Bible app presents all 66 books of the Bible (39 Old Testament and 27 New Testament books) in the King James Version with thoughtfully designed, thematic landscape backgrounds for each book. Each background complements the spiritual themes and content of its respective book, from the creation of Genesis through the cosmic visions of Revelation.
               </p>
             </div>
           </section>
