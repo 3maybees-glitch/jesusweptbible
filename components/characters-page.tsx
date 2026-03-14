@@ -121,66 +121,66 @@ export default function CharactersPage() {
       {/* Modal Dialog */}
       {selected && (
         <div className="fixed inset-0 bg-black/50 flex items-center justify-center p-4 z-50">
-          <div className="bg-background border border-border rounded-lg max-w-md w-full max-h-screen overflow-y-auto">
+          <div className="bg-gradient-to-br from-background to-background/95 border-2 border-accent/30 rounded-lg max-w-md w-full max-h-screen overflow-y-auto shadow-2xl">
             {/* Header */}
-            <div className="flex items-center justify-between p-6 border-b border-border">
-              <h2 className="text-2xl font-bold">{selected.name}</h2>
+            <div className="flex items-center justify-between p-6 border-b-2 border-accent/20 bg-gradient-to-r from-accent/10 to-accent/5">
+              <h2 className="text-4xl font-bold text-accent">{selected.name}</h2>
               <button
                 onClick={() => setSelected(null)}
-                className="text-muted-foreground hover:text-foreground transition-colors"
+                className="text-muted-foreground hover:text-accent transition-colors hover:bg-accent/10 p-2 rounded-lg"
               >
-                <X className="w-5 h-5" />
+                <X className="w-6 h-6" />
               </button>
             </div>
 
             {/* Content */}
-            <div className="p-6 space-y-4 text-sm">
-              <div>
-                <span className="font-semibold text-foreground">Theme: </span>
-                <span className="text-muted-foreground">{selected.twoWordTheme || selected.theme}</span>
+            <div className="p-6 space-y-5">
+              <div className="bg-accent/5 rounded-lg p-4 border border-accent/20">
+                <span className="font-bold text-base text-accent">Theme: </span>
+                <span className="text-lg text-foreground font-semibold">{selected.twoWordTheme || selected.theme}</span>
               </div>
 
               {selected.strongNumber && (
-                <div>
-                  <span className="font-semibold text-foreground">Strong's Number: </span>
-                  <span className="text-muted-foreground font-mono">{selected.strongNumber}</span>
+                <div className="bg-accent/5 rounded-lg p-4 border border-accent/20">
+                  <span className="font-bold text-base text-accent">Strong's Number: </span>
+                  <span className="text-lg text-foreground font-mono font-semibold">{selected.strongNumber}</span>
                 </div>
               )}
 
               {selected.lemma && (
-                <div>
-                  <span className="font-semibold text-foreground">Lemma: </span>
-                  <span className="text-muted-foreground font-mono">{selected.lemma}</span>
+                <div className="bg-accent/5 rounded-lg p-4 border border-accent/20">
+                  <span className="font-bold text-base text-accent">Lemma: </span>
+                  <span className="text-lg text-foreground font-mono font-semibold">{selected.lemma}</span>
                 </div>
               )}
 
               {selected.meaning && (
-                <div>
-                  <span className="font-semibold text-foreground">Meaning: </span>
-                  <span className="text-muted-foreground">{selected.meaning}</span>
+                <div className="bg-accent/5 rounded-lg p-4 border border-accent/20">
+                  <span className="font-bold text-base text-accent">Meaning: </span>
+                  <span className="text-base text-foreground leading-relaxed">{selected.meaning}</span>
                 </div>
               )}
 
-              <div>
-                <span className="font-semibold text-foreground">Story Arc: </span>
-                <span className="text-muted-foreground">{selected.referenceRange || selected.ref}</span>
+              <div className="bg-accent/5 rounded-lg p-4 border border-accent/20">
+                <span className="font-bold text-base text-accent">Story Arc: </span>
+                <span className="text-base text-foreground">{selected.referenceRange || selected.ref}</span>
               </div>
 
               {/* Key Terms if available */}
               {selected.highlightedWords && selected.highlightedWords.length > 0 && (
-                <div className="pt-4 border-t border-border">
-                  <p className="font-semibold text-foreground mb-3">Key Terms</p>
-                  <div className="space-y-2">
+                <div className="pt-4 border-t-2 border-accent/20">
+                  <p className="font-bold text-lg text-accent mb-4">Key Terms</p>
+                  <div className="space-y-3">
                     {selected.highlightedWords.map((word, idx) => (
-                      <div key={idx} className="text-xs">
-                        <div className="font-medium text-foreground">{word.word}</div>
+                      <div key={idx} className="bg-accent/5 rounded-lg p-3 border border-accent/20">
+                        <div className="font-bold text-base text-accent mb-2">{word.word}</div>
                         {word.strongNumber && (
-                          <div className="text-muted-foreground">
-                            Strong's: <span className="font-mono">{word.strongNumber}</span>
+                          <div className="text-sm text-foreground mb-1">
+                            Strong's: <span className="font-mono font-semibold text-accent">{word.strongNumber}</span>
                           </div>
                         )}
                         {word.meaning && (
-                          <div className="text-muted-foreground italic">{word.meaning}</div>
+                          <div className="text-sm text-foreground italic">{word.meaning}</div>
                         )}
                       </div>
                     ))}
