@@ -13,6 +13,28 @@ interface BooksMenuProps {
   currentBook: string | null
 }
 
+// Bible-Wide Two-Word Theme
+const bibleTheme: BookTheme = {
+  book: "Entire Bible",
+  theme: "Jesus Messiah",
+  words: [
+    {
+      word: "Jesus",
+      strongNumber: "G2424",
+      language: "Greek",
+      lemma: "Iēsous",
+      meaning: "Jesus; 'Yahweh saves.' The incarnate Son of God and promised Savior who fulfills the Law, the Prophets, and the covenant promises of the Old Testament. The central figure of all Scripture.",
+    },
+    {
+      word: "Messiah",
+      strongNumber: "H4899",
+      language: "Hebrew",
+      lemma: "Mashiach",
+      meaning: "The Anointed One promised by God; the divinely appointed king, priest, and deliverer foretold throughout the Old Testament and fulfilled in Jesus Christ. The culmination of God's redemptive plan for humanity.",
+    },
+  ],
+}
+
 // Old Testament Two-Word Theme
 const otTheme: BookTheme = {
   book: "Old Testament",
@@ -61,6 +83,7 @@ export function BooksMenu({ onSelectBook, onAbout, currentBook }: BooksMenuProps
   const [showThemeSheet, setShowThemeSheet] = useState(false)
   const [showDevotional, setShowDevotional] = useState(false)
   const [testament, setTestament] = useState<"OT" | "NT">("NT")
+  const [selectedTheme, setSelectedTheme] = useState<"bible" | "testament">("testament")
 
   const filteredBooks = bibleBooks.filter((b) => b.testament === testament)
   const books = testament === "NT" ? filteredBooks : filteredBooks
@@ -182,8 +205,48 @@ export function BooksMenu({ onSelectBook, onAbout, currentBook }: BooksMenuProps
 
         {/* Book Sections */}
         <main className="px-4 py-6 pb-12 max-w-lg mx-auto">
-          {/* Testament Two-Word Theme Box - Show based on testament selection */}
-          {testament === "OT" && (
+          {/* Theme Selection Tabs */}
+          <div className="mb-6 flex gap-2">
+            <button
+              onClick={() => setSelectedTheme("bible")}
+              className={`flex-1 px-4 py-2 rounded-lg font-medium transition-colors text-sm ${
+                selectedTheme === "bible"
+                  ? "bg-accent text-accent-foreground shadow-md"
+                  : "bg-secondary text-muted-foreground hover:text-foreground"
+              }`}
+              aria-label="View Bible-wide theme"
+            >
+              Bible Theme
+            </button>
+            <button
+              onClick={() => setSelectedTheme("testament")}
+              className={`flex-1 px-4 py-2 rounded-lg font-medium transition-colors text-sm ${
+                selectedTheme === "testament"
+                  ? "bg-accent text-accent-foreground shadow-md"
+                  : "bg-secondary text-muted-foreground hover:text-foreground"
+              }`}
+              aria-label="View Testament theme"
+            >
+              Testament Theme
+            </button>
+          </div>
+
+          {/* Bible-Wide Theme Box */}
+          {selectedTheme === "bible" && (
+            <div className="mb-8">
+              <button
+                onClick={() => setShowThemeSheet(true)}
+                className="w-full flex flex-col gap-2 p-6 rounded-lg bg-gradient-to-r from-[#8B4513] to-[#6B3410] hover:from-[#7A3A09] hover:to-[#5A2A00] transition-colors focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 shadow-lg backdrop-blur-sm"
+                aria-label="View Bible theme: Jesus Messiah"
+              >
+                <span className="text-sm font-medium text-white/90 tracking-wide">Entire Bible Two-Word Theme</span>
+                <span className="text-3xl font-bold text-white font-serif">Jesus Messiah</span>
+              </button>
+            </div>
+          )}
+
+          {/* Testament Two-Word Theme Box - Show based on selection and testament */}
+          {selectedTheme === "testament" && testament === "OT" && (
             <div className="mb-8">
               <button
                 onClick={() => setShowThemeSheet(true)}
@@ -195,7 +258,7 @@ export function BooksMenu({ onSelectBook, onAbout, currentBook }: BooksMenuProps
               </button>
             </div>
           )}
-          {testament === "NT" && (
+          {selectedTheme === "testament" && testament === "NT" && (
             <div className="mb-8">
               <button
                 onClick={() => setShowThemeSheet(true)}
@@ -259,9 +322,9 @@ export function BooksMenu({ onSelectBook, onAbout, currentBook }: BooksMenuProps
           </div>
         </main>
 
-        {/* Theme Sheet for Testament Theme */}
+        {/* Theme Sheet for Themes */}
         <ThemeSheet
-          theme={showThemeSheet ? (testament === "OT" ? otTheme : ntTheme) : null}
+          theme={showThemeSheet ? (selectedTheme === "bible" ? bibleTheme : (testament === "OT" ? otTheme : ntTheme)) : null}
           isOpen={showThemeSheet}
           onClose={() => setShowThemeSheet(false)}
         />
