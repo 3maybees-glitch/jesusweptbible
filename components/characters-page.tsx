@@ -101,6 +101,86 @@ const sampleCharacters: Character[] = [
     strongNumber: "H452",
     lemma: "eliyahu",
     meaning: "My God is Yahweh"
+  },
+  {
+    name: "Jeremiah",
+    twoWordTheme: "Weeping Prophet",
+    referenceRange: "Jeremiah 1-52",
+    strongNumber: "H3414",
+    lemma: "yirmeyahu",
+    meaning: "The LORD will exalt"
+  },
+  {
+    name: "Isaiah",
+    twoWordTheme: "Messianic Prophet",
+    referenceRange: "Isaiah 1-66",
+    strongNumber: "H3470",
+    lemma: "yeshayahu",
+    meaning: "The LORD is salvation"
+  },
+  {
+    name: "Ezekiel",
+    twoWordTheme: "Vision Prophet",
+    referenceRange: "Ezekiel 1-48",
+    strongNumber: "H3168",
+    lemma: "yechezqel",
+    meaning: "God strengthens"
+  },
+  {
+    name: "Daniel",
+    twoWordTheme: "Dream Interpreter",
+    referenceRange: "Daniel 1-12",
+    strongNumber: "H1840",
+    lemma: "daniyel",
+    meaning: "God is my judge"
+  },
+  {
+    name: "Peter",
+    twoWordTheme: "Apostle Leader",
+    referenceRange: "Matthew - Acts",
+    strongNumber: "G4074",
+    lemma: "petros",
+    meaning: "Rock, stone; a piece of a rock"
+  },
+  {
+    name: "Paul",
+    twoWordTheme: "Gentile Apostle",
+    referenceRange: "Acts - 2 Timothy",
+    strongNumber: "G3972",
+    lemma: "paulos",
+    meaning: "Small; chosen vessel"
+  },
+  {
+    name: "John",
+    twoWordTheme: "Beloved Apostle",
+    referenceRange: "John - Revelation",
+    strongNumber: "G2491",
+    lemma: "ioannes",
+    meaning: "The LORD is gracious"
+  },
+  {
+    name: "Mary",
+    twoWordTheme: "Messiah Mother",
+    referenceRange: "Matthew 1 - Acts 1",
+    strongNumber: "G3137",
+    lemma: "maria",
+    meaning: "Beloved or Star of the sea"
+  },
+  {
+    name: "Stephen",
+    twoWordTheme: "First Martyr",
+    referenceRange: "Acts 6-7",
+    strongNumber: "G4736",
+    lemma: "stephanos",
+    meaning: "Crown; wreath; victor's crown"
+  },
+  {
+    name: "Ruth",
+    twoWordTheme: "Loyal Woman",
+    referenceRange: "Ruth 1-4",
+    strongNumber: "H7327",
+    lemma: "ruth",
+    meaning: "Companion, friend; to see"
   }
 ]
 
