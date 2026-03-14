@@ -41,9 +41,14 @@ export async function getVerseArt(
 ): Promise<VerseArtPainting | null> {
   const mappings = getVerseArtMap()
   const reference = normalizeReference(`${book} ${chapter}:${verse}`)
-  console.log("[v0] Looking for art: searching for", reference)
+  console.log("[v0] Verse art lookup:")
+  console.log("[v0]   book:", book)
+  console.log("[v0]   chapter:", chapter)
+  console.log("[v0]   verse:", verse)
+  console.log("[v0]   built reference:", reference)
+  console.log("[v0]   available mappings:", Array.from(mappings.keys()))
   const result = mappings.get(reference)
-  console.log("[v0] Art found:", result ? result.title : "none")
+  console.log("[v0]   result:", result ? result.title : "NOT FOUND")
   return result || null
 }
 

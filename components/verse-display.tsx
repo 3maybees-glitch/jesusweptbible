@@ -44,7 +44,10 @@ export function VerseDisplay({ verse, onWordTap, onArtClick }: VerseDisplayProps
   useEffect(() => {
     const loadArt = async () => {
       try {
-        const art = await getVerseArt(verse.book, verse.chapter, verse.verse || verse.verseNumber)
+        const verseNum = verse.verse || verse.verseNumber
+        console.log("[v0] Loading art for:", verse.book, verse.chapter, verseNum)
+        const art = await getVerseArt(verse.book, verse.chapter, verseNum)
+        console.log("[v0] Art result:", art)
         setArtPainting(art)
       } catch (error) {
         console.error("[v0] Error loading art for verse:", error)
@@ -64,8 +67,12 @@ export function VerseDisplay({ verse, onWordTap, onArtClick }: VerseDisplayProps
   }
 
   const handleArtClick = () => {
+    console.log("[v0] Art cross clicked, painting:", artPainting)
     if (artPainting && onArtClick) {
+      console.log("[v0] Calling onArtClick with painting:", artPainting.title)
       onArtClick(artPainting)
+    } else {
+      console.log("[v0] Art click blocked - no art or no callback")
     }
   }
 
