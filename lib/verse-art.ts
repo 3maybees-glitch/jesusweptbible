@@ -22,7 +22,10 @@ async function loadVerseArtMappings(): Promise<Map<string, VerseArtPainting>> {
   }
 
   try {
-    const response = await fetch("/lib/verse-art-mappings.json")
+    const response = await fetch("/data/verse-art-mappings.json")
+    if (!response.ok) {
+      throw new Error(`Failed to fetch mappings: ${response.status}`)
+    }
     const data = await response.json()
     verseArtMap = new Map()
 
