@@ -107,10 +107,13 @@ const sampleCharacters: Character[] = [
 export default function CharactersPage() {
   const [search, setSearch] = useState("")
   const [selected, setSelected] = useState<Character | null>(null)
+  const [showAll, setShowAll] = useState(false)
 
   const filtered = sampleCharacters.filter((c) =>
     c.name.toLowerCase().includes(search.toLowerCase())
   )
+
+  const displayCharacters = showAll ? filtered : filtered.slice(0, 10)
 
   return (
     <div className="max-w-6xl mx-auto p-6 space-y-6">
@@ -125,7 +128,7 @@ export default function CharactersPage() {
       />
 
       <div className="grid md:grid-cols-3 lg:grid-cols-4 gap-4">
-        {filtered.map((person) => (
+        {displayCharacters.map((person) => (
           <Card
             key={person.name}
             className="cursor-pointer hover:shadow-lg transition-shadow"
@@ -143,6 +146,28 @@ export default function CharactersPage() {
           </Card>
         ))}
       </div>
+
+      {!showAll && filtered.length > 10 && (
+        <div className="flex justify-center pt-4">
+          <button
+            onClick={() => setShowAll(true)}
+            className="px-6 py-2 rounded-lg bg-accent text-accent-foreground font-semibold hover:opacity-90 transition-opacity"
+          >
+            View Complete List ({filtered.length} characters)
+          </button>
+        </div>
+      )}
+
+      {showAll && filtered.length > 10 && (
+        <div className="flex justify-center pt-4">
+          <button
+            onClick={() => setShowAll(false)}
+            className="px-6 py-2 rounded-lg border border-accent text-accent font-semibold hover:bg-accent/10 transition-colors"
+          >
+            Show Less
+          </button>
+        </div>
+      )}
 
       {/* Modal Dialog */}
       {selected && (
