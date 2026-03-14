@@ -1,71 +1,644 @@
 {
-  "characterGroups": [
-    { "name": "Patriarchs", "description": "Abraham, Isaac, Jacob, Joseph" },
-    { "name": "Judges", "description": "Deborah, Gideon, Samson, Samuel" },
-    { "name": "Kings", "description": "Saul, David, Solomon, Hezekiah" },
-    { "name": "Prophets", "description": "Isaiah, Jeremiah, Ezekiel, Daniel" },
-    { "name": "Women of Faith", "description": "Sarah, Ruth, Esther, Mary" },
-    { "name": "Apostles", "description": "Peter, John, James, Matthew, Paul" },
-    { "name": "Early Church", "description": "Stephen, Barnabas, Timothy, Titus" },
-    { "name": "Roman Rulers", "description": "Pilate, Herod, Festus, Felix" }
-  ],
-  "topCharacters": [
+  "bibleCharacters": [
     {
-      "name": "Solomon",
-      "theme": "Wise King",
-      "ref": "1 Kings 1–11",
-      "highlightedWords": [
-        {
-          "word": "Wisdom",
-          "strongNumber": "H2451",
-          "lemma": "chokmah",
-          "meaning": "Practical understanding and skill in living according to God's truth"
-        },
-        {
-          "word": "King",
-          "strongNumber": "H4428",
-          "lemma": "melek",
-          "meaning": "A sovereign ruler chosen by God to govern His people"
-        }
-      ]
+      "name": "Adam",
+      "twoWordTheme": "First Man",
+      "strongNumber": "H120",
+      "lemma": "adam",
+      "meaning": "man, mankind; the first human created by God.",
+      "referenceRange": "Genesis 1–5"
     },
     {
-      "name": "David",
-      "theme": "Shepherd King",
-      "ref": "1 Samuel 16 – 1 Kings 2",
-      "highlightedWords": [
-        {
-          "word": "Covenant",
-          "strongNumber": "H1285",
-          "lemma": "berith",
-          "meaning": "A binding agreement establishing eternal relationship between God and David's house"
-        },
-        {
-          "word": "Heart",
-          "strongNumber": "H3820",
-          "lemma": "leb",
-          "meaning": "The seat of emotions, will, and devotion to God"
-        }
-      ]
+      "name": "Eve",
+      "twoWordTheme": "Living Mother",
+      "strongNumber": "H2332",
+      "lemma": "chavvah",
+      "meaning": "life-giver; the mother of all living.",
+      "referenceRange": "Genesis 2–4"
+    },
+    {
+      "name": "Noah",
+      "twoWordTheme": "Ark Builder",
+      "strongNumber": "H5146",
+      "lemma": "noach",
+      "meaning": "rest or comfort; righteous man preserved through the flood.",
+      "referenceRange": "Genesis 5–10"
+    },
+    {
+      "name": "Abraham",
+      "twoWordTheme": "Covenant Father",
+      "strongNumber": "H85",
+      "lemma": "abraham",
+      "meaning": "father of a multitude; patriarch of the covenant people.",
+      "referenceRange": "Genesis 11–25"
+    },
+    {
+      "name": "Sarah",
+      "twoWordTheme": "Promised Mother",
+      "strongNumber": "H8283",
+      "lemma": "sarah",
+      "meaning": "princess; wife of Abraham and mother of Isaac.",
+      "referenceRange": "Genesis 11–23"
+    },
+    {
+      "name": "Isaac",
+      "twoWordTheme": "Promised Son",
+      "strongNumber": "H3327",
+      "lemma": "yitschaq",
+      "meaning": "he laughs; son of Abraham through whom the covenant continues.",
+      "referenceRange": "Genesis 21–35"
+    },
+    {
+      "name": "Jacob",
+      "twoWordTheme": "Israel Father",
+      "strongNumber": "H3290",
+      "lemma": "yaaqob",
+      "meaning": "heel holder; later named Israel, father of the twelve tribes.",
+      "referenceRange": "Genesis 25–49"
+    },
+    {
+      "name": "Joseph",
+      "twoWordTheme": "Dream Ruler",
+      "strongNumber": "H3130",
+      "lemma": "yoseph",
+      "meaning": "he will add; son of Jacob who rose to power in Egypt.",
+      "referenceRange": "Genesis 37–50"
     },
     {
       "name": "Moses",
-      "theme": "Law Giver",
-      "ref": "Exodus–Deuteronomy",
-      "highlightedWords": [
-        {
-          "word": "Law",
-          "strongNumber": "H8451",
-          "lemma": "torah",
-          "meaning": "Divine instruction and revealed will of God for His people"
-        },
-        {
-          "word": "Mediator",
-          "strongNumber": "H996",
-          "lemma": "bein",
-          "meaning": "One who stands between God and humanity to communicate God's purposes"
-        }
-      ]
+      "twoWordTheme": "Law Giver",
+      "strongNumber": "H4872",
+      "lemma": "mosheh",
+      "meaning": "drawn out; prophet who delivered Israel and gave the law.",
+      "referenceRange": "Exodus–Deuteronomy"
+    },
+    {
+      "name": "Aaron",
+      "twoWordTheme": "High Priest",
+      "strongNumber": "H175",
+      "lemma": "aharon",
+      "meaning": "exalted one; brother of Moses and first high priest of Israel.",
+      "referenceRange": "Exodus–Numbers"
+    },
+    {
+      "name": "Joshua",
+      "twoWordTheme": "Faithful Leader",
+      "strongNumber": "H3091",
+      "lemma": "yehoshua",
+      "meaning": "Yahweh is salvation; successor of Moses who led Israel into Canaan.",
+      "referenceRange": "Exodus–Joshua"
+    },
+    {
+      "name": "Deborah",
+      "twoWordTheme": "Prophet Judge",
+      "strongNumber": "H1683",
+      "lemma": "devorah",
+      "meaning": "bee; prophetess and judge who led Israel to victory.",
+      "referenceRange": "Judges 4–5"
+    },
+    {
+      "name": "Gideon",
+      "twoWordTheme": "Reluctant Deliverer",
+      "strongNumber": "H1439",
+      "lemma": "gidon",
+      "meaning": "hewer; judge who defeated Midian with a small army.",
+      "referenceRange": "Judges 6–8"
+    },
+    {
+      "name": "Samson",
+      "twoWordTheme": "Nazirite Judge",
+      "strongNumber": "H8123",
+      "lemma": "shimshon",
+      "meaning": "sun-like; judge known for supernatural strength.",
+      "referenceRange": "Judges 13–16"
+    },
+    {
+      "name": "Ruth",
+      "twoWordTheme": "Faithful Foremother",
+      "strongNumber": "H7327",
+      "lemma": "rut",
+      "meaning": "friend; Moabite woman who became ancestor of David.",
+      "referenceRange": "Ruth 1–4"
+    },
+    {
+      "name": "Samuel",
+      "twoWordTheme": "Prophet Judge",
+      "strongNumber": "H8050",
+      "lemma": "shemuel",
+      "meaning": "heard of God; prophet who anointed Israel's first kings.",
+      "referenceRange": "1 Samuel 1–25"
+    },
+    {
+      "name": "Saul",
+      "twoWordTheme": "First King",
+      "strongNumber": "H7586",
+      "lemma": "shaul",
+      "meaning": "asked for; the first king of Israel.",
+      "referenceRange": "1 Samuel 9–31"
+    },
+    {
+      "name": "David",
+      "twoWordTheme": "Shepherd King",
+      "strongNumber": "H1732",
+      "lemma": "david",
+      "meaning": "beloved; king of Israel and ancestor of Messiah.",
+      "referenceRange": "1 Samuel 16 – 1 Kings 2"
+    },
+    {
+      "name": "Solomon",
+      "twoWordTheme": "Wise King",
+      "strongNumber": "H8010",
+      "lemma": "shelomoh",
+      "meaning": "peaceful; king known for wisdom who built the temple.",
+      "referenceRange": "1 Kings 1–11"
+    },
+    {
+      "name": "Elijah",
+      "twoWordTheme": "Fire Prophet",
+      "strongNumber": "H452",
+      "lemma": "eliyahu",
+      "meaning": "my God is Yahweh; prophet who opposed Baal worship.",
+      "referenceRange": "1 Kings 17 – 2 Kings 2"
+    },
+    {
+      "name": "Elisha",
+      "twoWordTheme": "Miracle Prophet",
+      "strongNumber": "H477",
+      "lemma": "elisha",
+      "meaning": "God is salvation; successor to Elijah performing many miracles.",
+      "referenceRange": "1 Kings 19 – 2 Kings 13"
+    },
+    {
+      "name": "Isaiah",
+      "twoWordTheme": "Messianic Prophet",
+      "strongNumber": "H3470",
+      "lemma": "yeshayahu",
+      "meaning": "Yahweh saves; prophet who foretold the coming Messiah.",
+      "referenceRange": "Isaiah 1–66"
+    },
+    {
+      "name": "Jeremiah",
+      "twoWordTheme": "Weeping Prophet",
+      "strongNumber": "H3414",
+      "lemma": "yirmeyahu",
+      "meaning": "Yahweh will raise up; prophet who warned Judah before exile.",
+      "referenceRange": "Jeremiah 1–52"
+    },
+    {
+      "name": "Ezekiel",
+      "twoWordTheme": "Vision Prophet",
+      "strongNumber": "H3168",
+      "lemma": "yechezqel",
+      "meaning": "God strengthens; prophet of visions during exile.",
+      "referenceRange": "Ezekiel 1–48"
+    },
+    {
+      "name": "Daniel",
+      "twoWordTheme": "Exile Prophet",
+      "strongNumber": "H1840",
+      "lemma": "daniyyel",
+      "meaning": "God is my judge; prophet known for visions and faith in Babylon.",
+      "referenceRange": "Daniel 1–12"
+    },
+    {
+      "name": "Hosea",
+      "twoWordTheme": "Faithful Prophet",
+      "strongNumber": "H1954",
+      "lemma": "hoshea",
+      "meaning": "salvation; prophet whose life illustrated God's faithful love for Israel.",
+      "referenceRange": "Hosea 1–14"
+    },
+    {
+      "name": "Joel",
+      "twoWordTheme": "Spirit Prophet",
+      "strongNumber": "H3100",
+      "lemma": "yoel",
+      "meaning": "Yahweh is God; prophet who foretold the outpouring of the Spirit.",
+      "referenceRange": "Joel 1–3"
+    },
+    {
+      "name": "Amos",
+      "twoWordTheme": "Justice Prophet",
+      "strongNumber": "H5986",
+      "lemma": "amos",
+      "meaning": "burden bearer; prophet who proclaimed God's justice.",
+      "referenceRange": "Amos 1–9"
+    },
+    {
+      "name": "Obadiah",
+      "twoWordTheme": "Judgment Prophet",
+      "strongNumber": "H5662",
+      "lemma": "ovadyah",
+      "meaning": "servant of Yahweh; prophet declaring judgment on Edom.",
+      "referenceRange": "Obadiah 1"
+    },
+    {
+      "name": "Jonah",
+      "twoWordTheme": "Reluctant Prophet",
+      "strongNumber": "H3124",
+      "lemma": "yonah",
+      "meaning": "dove; prophet sent to preach repentance to Nineveh.",
+      "referenceRange": "Jonah 1–4"
+    },
+    {
+      "name": "Micah",
+      "twoWordTheme": "Justice Prophet",
+      "strongNumber": "H4320",
+      "lemma": "mikah",
+      "meaning": "who is like Yahweh; prophet proclaiming justice and mercy.",
+      "referenceRange": "Micah 1–7"
+    },
+    {
+      "name": "Nahum",
+      "twoWordTheme": "Judgment Prophet",
+      "strongNumber": "H5151",
+      "lemma": "nachum",
+      "meaning": "comfort; prophet declaring Nineveh's destruction.",
+      "referenceRange": "Nahum 1–3"
+    },
+    {
+      "name": "Habakkuk",
+      "twoWordTheme": "Faith Prophet",
+      "strongNumber": "H2265",
+      "lemma": "chabaqquq",
+      "meaning": "embrace; prophet who wrestled with God's justice.",
+      "referenceRange": "Habakkuk 1–3"
+    },
+    {
+      "name": "Zephaniah",
+      "twoWordTheme": "Warning Prophet",
+      "strongNumber": "H6846",
+      "lemma": "tsephanyah",
+      "meaning": "Yahweh hides; prophet warning of coming judgment.",
+      "referenceRange": "Zephaniah 1–3"
+    },
+    {
+      "name": "Haggai",
+      "twoWordTheme": "Temple Prophet",
+      "strongNumber": "H2292",
+      "lemma": "chaggay",
+      "meaning": "festive; prophet urging the rebuilding of the temple.",
+      "referenceRange": "Haggai 1–2"
+    },
+    {
+      "name": "Zechariah",
+      "twoWordTheme": "Vision Prophet",
+      "strongNumber": "H2148",
+      "lemma": "zekaryah",
+      "meaning": "Yahweh remembers; prophet of visions and future restoration.",
+      "referenceRange": "Zechariah 1–14"
+    },
+    {
+      "name": "Malachi",
+      "twoWordTheme": "Messenger Prophet",
+      "strongNumber": "H4401",
+      "lemma": "malaki",
+      "meaning": "my messenger; prophet announcing the coming messenger of the Lord.",
+      "referenceRange": "Malachi 1–4"
+    },
+    {
+      "name": "Mary",
+      "twoWordTheme": "Messiah Mother",
+      "strongNumber": "G3137",
+      "lemma": "mariam",
+      "meaning": "Mary; the woman chosen to bear Jesus the Messiah.",
+      "referenceRange": "Matthew 1 – Acts 1"
+    },
+    {
+      "name": "Joseph",
+      "twoWordTheme": "Righteous Guardian",
+      "strongNumber": "G2501",
+      "lemma": "ioseph",
+      "meaning": "Joseph; earthly guardian of Jesus and husband of Mary.",
+      "referenceRange": "Matthew 1–2"
+    },
+    {
+      "name": "John the Baptist",
+      "twoWordTheme": "Forerunner Prophet",
+      "strongNumber": "G2491",
+      "lemma": "ioannes",
+      "meaning": "John; prophet preparing the way for the Messiah.",
+      "referenceRange": "Matthew 3 – John 5"
+    },
+    {
+      "name": "Jesus",
+      "twoWordTheme": "Messiah Savior",
+      "strongNumber": "G2424",
+      "lemma": "iesous",
+      "meaning": "Yahweh saves; the Son of God and Savior of the world.",
+      "referenceRange": "Matthew – Revelation"
+    },
+    {
+      "name": "Peter",
+      "twoWordTheme": "Apostle Leader",
+      "strongNumber": "G4074",
+      "lemma": "petros",
+      "meaning": "rock; leading apostle among the disciples.",
+      "referenceRange": "Matthew – Acts"
+    },
+    {
+      "name": "Andrew",
+      "twoWordTheme": "Calling Apostle",
+      "strongNumber": "G406",
+      "lemma": "andreas",
+      "meaning": "manly; disciple who first followed Jesus and brought others.",
+      "referenceRange": "Matthew – Acts"
+    },
+    {
+      "name": "James son of Zebedee",
+      "twoWordTheme": "Martyr Apostle",
+      "strongNumber": "G2385",
+      "lemma": "iakobos",
+      "meaning": "James; one of the twelve apostles and early martyr.",
+      "referenceRange": "Matthew – Acts 12"
+    },
+    {
+      "name": "John",
+      "twoWordTheme": "Beloved Apostle",
+      "strongNumber": "G2491",
+      "lemma": "ioannes",
+      "meaning": "John; apostle and author of the Gospel and Revelation.",
+      "referenceRange": "Matthew – Revelation"
+    },
+    {
+      "name": "Philip",
+      "twoWordTheme": "Evangelist Apostle",
+      "strongNumber": "G5376",
+      "lemma": "philippos",
+      "meaning": "lover of horses; apostle and later evangelist.",
+      "referenceRange": "John – Acts"
+    },
+    {
+      "name": "Bartholomew",
+      "twoWordTheme": "Faithful Apostle",
+      "strongNumber": "G918",
+      "lemma": "bartholomaios",
+      "meaning": "son of Tolmai; one of the twelve apostles.",
+      "referenceRange": "Matthew – Acts"
+    },
+    {
+      "name": "Matthew",
+      "twoWordTheme": "Gospel Writer",
+      "strongNumber": "G3156",
+      "lemma": "matthaios",
+      "meaning": "gift of God; tax collector turned apostle and gospel writer.",
+      "referenceRange": "Matthew – Acts"
+    },
+    {
+      "name": "Thomas",
+      "twoWordTheme": "Doubting Apostle",
+      "strongNumber": "G2381",
+      "lemma": "thomas",
+      "meaning": "twin; apostle known for doubting before believing.",
+      "referenceRange": "John – Acts"
+    },
+    {
+      "name": "James son of Alphaeus",
+      "twoWordTheme": "Faithful Apostle",
+      "strongNumber": "G2385",
+      "lemma": "iakobos",
+      "meaning": "James; one of the twelve disciples of Jesus.",
+      "referenceRange": "Matthew – Acts"
+    },
+    {
+      "name": "Thaddaeus",
+      "twoWordTheme": "Faithful Apostle",
+      "strongNumber": "G2280",
+      "lemma": "thaddaios",
+      "meaning": "Thaddaeus; one of the twelve apostles of Jesus.",
+      "referenceRange": "Matthew 10 – Acts 1"
+    },
+    {
+      "name": "Simon the Zealot",
+      "twoWordTheme": "Zealous Apostle",
+      "strongNumber": "G4613",
+      "lemma": "simon",
+      "meaning": "Simon; disciple known for zeal.",
+      "referenceRange": "Luke 6 – Acts 1"
+    },
+    {
+      "name": "Judas Iscariot",
+      "twoWordTheme": "Betrayer Disciple",
+      "strongNumber": "G2455",
+      "lemma": "ioudas",
+      "meaning": "Judas; disciple who betrayed Jesus.",
+      "referenceRange": "Matthew 10 – Acts 1"
+    },
+    {
+      "name": "Mary Magdalene",
+      "twoWordTheme": "Faithful Witness",
+      "strongNumber": "G3094",
+      "lemma": "magdalene",
+      "meaning": "woman from Magdala who witnessed Jesus' resurrection.",
+      "referenceRange": "Luke 8 – John 20"
+    },
+    {
+      "name": "Lazarus",
+      "twoWordTheme": "Raised Witness",
+      "strongNumber": "G2976",
+      "lemma": "lazaros",
+      "meaning": "man raised from the dead by Jesus.",
+      "referenceRange": "John 11–12"
+    },
+    {
+      "name": "Martha",
+      "twoWordTheme": "Serving Sister",
+      "strongNumber": "G3136",
+      "lemma": "martha",
+      "meaning": "sister of Lazarus known for service.",
+      "referenceRange": "Luke 10 – John 11"
+    },
+    {
+      "name": "Caiaphas",
+      "twoWordTheme": "High Priest",
+      "strongNumber": "G2533",
+      "lemma": "kaiaphas",
+      "meaning": "Jewish high priest involved in Jesus' trial.",
+      "referenceRange": "Matthew 26 – John 18"
+    },
+    {
+      "name": "Pontius Pilate",
+      "twoWordTheme": "Roman Governor",
+      "strongNumber": "G4091",
+      "lemma": "pilatos",
+      "meaning": "Roman governor who authorized the crucifixion of Jesus.",
+      "referenceRange": "Matthew 27 – Acts 4"
+    },
+    {
+      "name": "Barnabas",
+      "twoWordTheme": "Encouraging Apostle",
+      "strongNumber": "G921",
+      "lemma": "barnabas",
+      "meaning": "son of encouragement; missionary companion of Paul.",
+      "referenceRange": "Acts 4 – Acts 15"
+    },
+    {
+      "name": "Stephen",
+      "twoWordTheme": "First Martyr",
+      "strongNumber": "G4736",
+      "lemma": "stephanos",
+      "meaning": "crown; first Christian martyr.",
+      "referenceRange": "Acts 6–7"
+    },
+    {
+      "name": "Philip the Evangelist",
+      "twoWordTheme": "Gospel Preacher",
+      "strongNumber": "G5376",
+      "lemma": "philippos",
+      "meaning": "early evangelist who preached in Samaria.",
+      "referenceRange": "Acts 6 – Acts 21"
+    },
+    {
+      "name": "Saul (Paul)",
+      "twoWordTheme": "Apostle Gentiles",
+      "strongNumber": "G3972",
+      "lemma": "paulos",
+      "meaning": "Paul; missionary apostle to the Gentiles.",
+      "referenceRange": "Acts 7 – 2 Timothy"
+    },
+    {
+      "name": "Ananias of Damascus",
+      "twoWordTheme": "Faithful Disciple",
+      "strongNumber": "G367",
+      "lemma": "ananias",
+      "meaning": "disciple who baptized Saul after his conversion.",
+      "referenceRange": "Acts 9"
+    },
+    {
+      "name": "Timothy",
+      "twoWordTheme": "Young Pastor",
+      "strongNumber": "G5095",
+      "lemma": "timotheos",
+      "meaning": "honoring God; companion and disciple of Paul.",
+      "referenceRange": "Acts 16 – 2 Timothy"
+    },
+    {
+      "name": "Titus",
+      "twoWordTheme": "Church Leader",
+      "strongNumber": "G5103",
+      "lemma": "titos",
+      "meaning": "trusted coworker of Paul and church leader.",
+      "referenceRange": "2 Corinthians – Titus"
+    },
+    {
+      "name": "Luke",
+      "twoWordTheme": "Gospel Historian",
+      "strongNumber": "G3065",
+      "lemma": "loukas",
+      "meaning": "physician and author of Luke and Acts.",
+      "referenceRange": "Luke – Acts"
+    },
+    {
+      "name": "Mark",
+      "twoWordTheme": "Gospel Writer",
+      "strongNumber": "G3138",
+      "lemma": "markos",
+      "meaning": "John Mark; companion of Peter and gospel author.",
+      "referenceRange": "Acts – Mark"
+    },
+    {
+      "name": "Silas",
+      "twoWordTheme": "Missionary Companion",
+      "strongNumber": "G4609",
+      "lemma": "silas",
+      "meaning": "early Christian leader and missionary partner of Paul.",
+      "referenceRange": "Acts 15 – Acts 18"
+    },
+    {
+      "name": "Apollos",
+      "twoWordTheme": "Eloquent Teacher",
+      "strongNumber": "G625",
+      "lemma": "apollos",
+      "meaning": "learned preacher who powerfully taught the scriptures.",
+      "referenceRange": "Acts 18 – 1 Corinthians"
+    },
+    {
+      "name": "Priscilla",
+      "twoWordTheme": "Faithful Teacher",
+      "strongNumber": "G4252",
+      "lemma": "priskilla",
+      "meaning": "early Christian teacher who helped instruct Apollos.",
+      "referenceRange": "Acts 18 – Romans 16"
+    },
+    {
+      "name": "Aquila",
+      "twoWordTheme": "Faithful Worker",
+      "strongNumber": "G207",
+      "lemma": "akylas",
+      "meaning": "husband of Priscilla and missionary coworker.",
+      "referenceRange": "Acts 18 – Romans 16"
+    },
+    {
+      "name": "Philemon",
+      "twoWordTheme": "Forgiving Master",
+      "strongNumber": "G5371",
+      "lemma": "philemon",
+      "meaning": "Christian leader addressed in Paul's letter about forgiveness.",
+      "referenceRange": "Philemon 1"
+    },
+    {
+      "name": "Onesimus",
+      "twoWordTheme": "Redeemed Servant",
+      "strongNumber": "G3682",
+      "lemma": "onesimos",
+      "meaning": "runaway servant who became a Christian.",
+      "referenceRange": "Philemon 1"
+    },
+    {
+      "name": "James",
+      "twoWordTheme": "Church Leader",
+      "strongNumber": "G2385",
+      "lemma": "iakobos",
+      "meaning": "brother of Jesus and leader in the Jerusalem church.",
+      "referenceRange": "Acts 15 – James"
+    },
+    {
+      "name": "Jude",
+      "twoWordTheme": "Warning Writer",
+      "strongNumber": "G2455",
+      "lemma": "ioudas",
+      "meaning": "brother of James who wrote the epistle of Jude.",
+      "referenceRange": "Jude 1"
+    },
+    {
+      "name": "Nicodemus",
+      "twoWordTheme": "Seeking Pharisee",
+      "strongNumber": "G3530",
+      "lemma": "nikodemos",
+      "meaning": "Pharisee who came to Jesus by night seeking truth.",
+      "referenceRange": "John 3 – John 19"
+    },
+    {
+      "name": "Joseph of Arimathea",
+      "twoWordTheme": "Honorable Counselor",
+      "strongNumber": "G2501",
+      "lemma": "ioseph",
+      "meaning": "member of the council who buried Jesus.",
+      "referenceRange": "Matthew 27 – John 19"
+    },
+    {
+      "name": "Gamaliel",
+      "twoWordTheme": "Wise Teacher",
+      "strongNumber": "G1059",
+      "lemma": "gamaliel",
+      "meaning": "respected Pharisee and teacher of the law.",
+      "referenceRange": "Acts 5 – Acts 22"
+    },
+    {
+      "name": "Cornelius",
+      "twoWordTheme": "Gentile Convert",
+      "strongNumber": "G2883",
+      "lemma": "kornelios",
+      "meaning": "Roman centurion who became one of the first Gentile believers.",
+      "referenceRange": "Acts 10 – Acts 11"
+    },
+    {
+      "name": "Lydia",
+      "twoWordTheme": "Faithful Merchant",
+      "strongNumber": "G3070",
+      "lemma": "lydia",
+      "meaning": "seller of purple cloth who believed the gospel.",
+      "referenceRange": "Acts 16"
     }
   ]
 }

@@ -1,6 +1,6 @@
 "use client"
 
-import { useState } from "react"
+import { useState, useEffect } from "react"
 import { Card, CardContent } from "@/components/ui/card"
 import { X } from "lucide-react"
 
@@ -21,179 +21,48 @@ interface Character {
   }>
 }
 
-const sampleCharacters: Character[] = [
-  {
-    name: "Adam",
-    twoWordTheme: "First Man",
-    referenceRange: "Genesis 1-5",
-    strongNumber: "H120",
-    lemma: "adam",
-    meaning: "Man, mankind; from the red earth"
-  },
-  {
-    name: "Noah",
-    twoWordTheme: "Ark Builder",
-    referenceRange: "Genesis 5-10",
-    strongNumber: "H5146",
-    lemma: "noah",
-    meaning: "Rest, comfort; he shall comfort us"
-  },
-  {
-    name: "Abraham",
-    twoWordTheme: "Covenant Father",
-    referenceRange: "Genesis 11-25",
-    strongNumber: "H85",
-    lemma: "abraham",
-    meaning: "Father of multitudes"
-  },
-  {
-    name: "Isaac",
-    twoWordTheme: "Son Promise",
-    referenceRange: "Genesis 21-35",
-    strongNumber: "H3327",
-    lemma: "yitschaq",
-    meaning: "He laughs; laughter"
-  },
-  {
-    name: "Jacob",
-    twoWordTheme: "Israel",
-    referenceRange: "Genesis 25-50",
-    strongNumber: "H3290",
-    lemma: "ya'akov",
-    meaning: "Supplanter; heel-holder"
-  },
-  {
-    name: "Joseph",
-    twoWordTheme: "Dreamer",
-    referenceRange: "Genesis 37-50",
-    strongNumber: "H3130",
-    lemma: "yosef",
-    meaning: "He shall add"
-  },
-  {
-    name: "Moses",
-    twoWordTheme: "Law Giver",
-    referenceRange: "Exodus - Deuteronomy",
-    strongNumber: "H4872",
-    lemma: "mosheh",
-    meaning: "Drawn out; from water"
-  },
-  {
-    name: "David",
-    twoWordTheme: "Shepherd King",
-    referenceRange: "1 Samuel 16 - 1 Kings 2",
-    strongNumber: "H1732",
-    lemma: "dawid",
-    meaning: "Beloved; beloved of the LORD"
-  },
-  {
-    name: "Solomon",
-    twoWordTheme: "Wise King",
-    referenceRange: "1 Kings 1-11",
-    strongNumber: "H8010",
-    lemma: "shlomoh",
-    meaning: "Peaceful; his peace"
-  },
-  {
-    name: "Elijah",
-    twoWordTheme: "Fire Prophet",
-    referenceRange: "1 Kings 17 - 2 Kings 2",
-    strongNumber: "H452",
-    lemma: "eliyahu",
-    meaning: "My God is Yahweh"
-  },
-  {
-    name: "Jeremiah",
-    twoWordTheme: "Weeping Prophet",
-    referenceRange: "Jeremiah 1-52",
-    strongNumber: "H3414",
-    lemma: "yirmeyahu",
-    meaning: "The LORD will exalt"
-  },
-  {
-    name: "Isaiah",
-    twoWordTheme: "Messianic Prophet",
-    referenceRange: "Isaiah 1-66",
-    strongNumber: "H3470",
-    lemma: "yeshayahu",
-    meaning: "The LORD is salvation"
-  },
-  {
-    name: "Ezekiel",
-    twoWordTheme: "Vision Prophet",
-    referenceRange: "Ezekiel 1-48",
-    strongNumber: "H3168",
-    lemma: "yechezqel",
-    meaning: "God strengthens"
-  },
-  {
-    name: "Daniel",
-    twoWordTheme: "Dream Interpreter",
-    referenceRange: "Daniel 1-12",
-    strongNumber: "H1840",
-    lemma: "daniyel",
-    meaning: "God is my judge"
-  },
-  {
-    name: "Peter",
-    twoWordTheme: "Apostle Leader",
-    referenceRange: "Matthew - Acts",
-    strongNumber: "G4074",
-    lemma: "petros",
-    meaning: "Rock, stone; a piece of a rock"
-  },
-  {
-    name: "Paul",
-    twoWordTheme: "Gentile Apostle",
-    referenceRange: "Acts - 2 Timothy",
-    strongNumber: "G3972",
-    lemma: "paulos",
-    meaning: "Small; chosen vessel"
-  },
-  {
-    name: "John",
-    twoWordTheme: "Beloved Apostle",
-    referenceRange: "John - Revelation",
-    strongNumber: "G2491",
-    lemma: "ioannes",
-    meaning: "The LORD is gracious"
-  },
-  {
-    name: "Mary",
-    twoWordTheme: "Messiah Mother",
-    referenceRange: "Matthew 1 - Acts 1",
-    strongNumber: "G3137",
-    lemma: "maria",
-    meaning: "Beloved or Star of the sea"
-  },
-  {
-    name: "Stephen",
-    twoWordTheme: "First Martyr",
-    referenceRange: "Acts 6-7",
-    strongNumber: "G4736",
-    lemma: "stephanos",
-    meaning: "Crown; wreath; victor's crown"
-  },
-  {
-    name: "Ruth",
-    twoWordTheme: "Loyal Woman",
-    referenceRange: "Ruth 1-4",
-    strongNumber: "H7327",
-    lemma: "ruth",
-    meaning: "Companion, friend; to see"
-  }
-]
-
 export default function CharactersPage() {
+  const [characters, setCharacters] = useState<Character[]>([])
+  const [loading, setLoading] = useState(true)
   const [search, setSearch] = useState("")
   const [selected, setSelected] = useState<Character | null>(null)
   const [showAll, setShowAll] = useState(false)
 
-  const filtered = sampleCharacters.filter((c) =>
+  useEffect(() => {
+    const loadCharacters = async () => {
+      try {
+        const response = await fetch("/data/bible-characters.json")
+        if (response.ok) {
+          const data = await response.json()
+          setCharacters(data.bibleCharacters || [])
+          console.log("[v0] Loaded", data.bibleCharacters?.length, "characters from JSON")
+        } else {
+          setCharacters([])
+        }
+      } catch (err) {
+        console.log("[v0] Error loading characters:", err)
+        setCharacters([])
+      } finally {
+        setLoading(false)
+      }
+    }
+
+    loadCharacters()
+  }, [])
+
+  const filtered = characters.filter((c) =>
     c.name.toLowerCase().includes(search.toLowerCase())
   )
 
   const displayCharacters = showAll ? filtered : filtered.slice(0, 10)
+
+  if (loading) {
+    return (
+      <div className="max-w-6xl mx-auto p-6 text-center py-12">
+        <p className="text-muted-foreground">Loading Bible characters...</p>
+      </div>
+    )
+  }
 
   return (
     <div className="max-w-6xl mx-auto p-6 space-y-6">
