@@ -1,0 +1,456 @@
+{
+  "book": "Ephesians",
+  "chapter": 6,
+  "chapterTheme": {
+    "twoWordSummary": "Spiritual Warfare",
+    "themeWords": [
+      {
+        "word": "armour",
+        "strongNumber": "G3833",
+        "lemma": "panoplia",
+        "meaning": "full armor; panoply"
+      },
+      {
+        "word": "faith",
+        "strongNumber": "G4102",
+        "lemma": "pistis",
+        "meaning": "faith; trust; belief"
+      }
+    ]
+  },
+  "sentenceTheme": "Household obedience and servant leadership culminate in the call to stand firm in God’s armour through prayer and steadfast spiritual warfare.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Children, obey your parents in the Lord: for this is right.",
+      "highlightedWords": [
+        {
+          "word": "Children",
+          "strongNumber": "G5043",
+          "lemma": "teknon",
+          "meaning": "child; offspring"
+        },
+        {
+          "word": "obey",
+          "strongNumber": "G5219",
+          "lemma": "hypakouō",
+          "meaning": "to heed; to obey"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Honour thy father and mother; (which is the first commandment with promise;)",
+      "highlightedWords": [
+        {
+          "word": "father",
+          "strongNumber": "G3962",
+          "lemma": "patēr",
+          "meaning": "father"
+        },
+        {
+          "word": "mother",
+          "strongNumber": "G3384",
+          "lemma": "mētēr",
+          "meaning": "mother"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "That it may be well with thee, and thou mayest live long on the earth.",
+      "highlightedWords": [
+        {
+          "word": "well",
+          "strongNumber": "G2095",
+          "lemma": "eu",
+          "meaning": "well; rightly"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "G1093",
+          "lemma": "gē",
+          "meaning": "earth; land"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And, ye fathers, provoke not your children to wrath: but bring them up in the nurture and admonition of the Lord.",
+      "highlightedWords": [
+        {
+          "word": "fathers",
+          "strongNumber": "G3962",
+          "lemma": "patēr",
+          "meaning": "father"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "lord; master"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Servants, be obedient to them that are your masters according to the flesh, with fear and trembling, in singleness of your heart, as unto Christ;",
+      "highlightedWords": [
+        {
+          "word": "Servants",
+          "strongNumber": "G1401",
+          "lemma": "doulos",
+          "meaning": "slave; servant"
+        },
+        {
+          "word": "masters",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "lord; master"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Not with eyeservice, as menpleasers; but as the servants of Christ, doing the will of God from the heart;",
+      "highlightedWords": [
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "Anointed One; Messiah"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God; Deity"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "With good will doing service, as to the Lord, and not to men:",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "lord; master"
+        },
+        {
+          "word": "men",
+          "strongNumber": "G444",
+          "lemma": "anthrōpos",
+          "meaning": "man; human being"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Knowing that whatsoever good thing any man doeth, the same shall he receive of the Lord, whether he be bond or free.",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "lord; master"
+        },
+        {
+          "word": "bond",
+          "strongNumber": "G1401",
+          "lemma": "doulos",
+          "meaning": "bondservant; slave"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And, ye masters, do the same things unto them, forbearing threatening: knowing that your Master also is in heaven; neither is there respect of persons with him.",
+      "highlightedWords": [
+        {
+          "word": "masters",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "lord; master"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "G3772",
+          "lemma": "ouranos",
+          "meaning": "heaven; sky"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Finally, my brethren, be strong in the Lord, and in the power of his might.",
+      "highlightedWords": [
+        {
+          "word": "brethren",
+          "strongNumber": "G80",
+          "lemma": "adelphos",
+          "meaning": "brother; fellow believer"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "lord; master"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Put on the whole armour of God, that ye may be able to stand against the wiles of the devil.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God; Deity"
+        },
+        {
+          "word": "devil",
+          "strongNumber": "G1228",
+          "lemma": "diabolos",
+          "meaning": "slanderer; devil"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.",
+      "highlightedWords": [
+        {
+          "word": "flesh",
+          "strongNumber": "G4561",
+          "lemma": "sarx",
+          "meaning": "flesh; human nature"
+        },
+        {
+          "word": "principalities",
+          "strongNumber": "G746",
+          "lemma": "archē",
+          "meaning": "rule; principality"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Wherefore take unto you the whole armour of God, that ye may be able to withstand in the evil day, and having done all, to stand.",
+      "highlightedWords": [
+        {
+          "word": "armour",
+          "strongNumber": "G3833",
+          "lemma": "panoplia",
+          "meaning": "full armor; panoply"
+        },
+        {
+          "word": "evil",
+          "strongNumber": "G4190",
+          "lemma": "ponēros",
+          "meaning": "evil; wicked; bad"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Stand therefore, having your loins girt about with truth, and having on the breastplate of righteousness;",
+      "highlightedWords": [
+        {
+          "word": "truth",
+          "strongNumber": "G225",
+          "lemma": "alētheia",
+          "meaning": "truth; reality"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "G1343",
+          "lemma": "dikaiosynē",
+          "meaning": "righteousness; justice"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And your feet shod with the preparation of the gospel of peace;",
+      "highlightedWords": [
+        {
+          "word": "gospel",
+          "strongNumber": "G2098",
+          "lemma": "euangelion",
+          "meaning": "good news; gospel"
+        },
+        {
+          "word": "peace",
+          "strongNumber": "G1515",
+          "lemma": "eirēnē",
+          "meaning": "peace; wholeness"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the wicked.",
+      "highlightedWords": [
+        {
+          "word": "faith",
+          "strongNumber": "G4102",
+          "lemma": "pistis",
+          "meaning": "faith; trust; belief"
+        },
+        {
+          "word": "wicked",
+          "strongNumber": "G4190",
+          "lemma": "ponēros",
+          "meaning": "evil; wicked"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And take the helmet of salvation, and the sword of the Spirit, which is the word of God:",
+      "highlightedWords": [
+        {
+          "word": "salvation",
+          "strongNumber": "G4991",
+          "lemma": "sōtēria",
+          "meaning": "salvation; deliverance"
+        },
+        {
+          "word": "Spirit",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit; breath; Spirit"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and supplication for all saints;",
+      "highlightedWords": [
+        {
+          "word": "Praying",
+          "strongNumber": "G4336",
+          "lemma": "proseuchomai",
+          "meaning": "to pray"
+        },
+        {
+          "word": "saints",
+          "strongNumber": "G40",
+          "lemma": "hagios",
+          "meaning": "holy ones; saints"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And for me, that utterance may be given unto me, that I may open my mouth boldly, to make known the mystery of the gospel,",
+      "highlightedWords": [
+        {
+          "word": "mystery",
+          "strongNumber": "G3466",
+          "lemma": "mystērion",
+          "meaning": "mystery; secret"
+        },
+        {
+          "word": "gospel",
+          "strongNumber": "G2098",
+          "lemma": "euangelion",
+          "meaning": "good news; gospel"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "For which I am an ambassador in bonds: that therein I may speak boldly, as I ought to speak.",
+      "highlightedWords": [
+        {
+          "word": "ambassador",
+          "strongNumber": "G4243",
+          "lemma": "presbeuō",
+          "meaning": "to be an ambassador"
+        },
+        {
+          "word": "speak",
+          "strongNumber": "G2980",
+          "lemma": "laleō",
+          "meaning": "to speak; to utter"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "But that ye also may know my affairs, and how I do, Tychicus, a beloved brother and faithful minister in the Lord, shall make known to you all things:",
+      "highlightedWords": [
+        {
+          "word": "brother",
+          "strongNumber": "G80",
+          "lemma": "adelphos",
+          "meaning": "brother; fellow believer"
+        },
+        {
+          "word": "minister",
+          "strongNumber": "G1249",
+          "lemma": "diakonos",
+          "meaning": "servant; minister"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Whom I have sent unto you for the same purpose, that ye might know our affairs, and that he might comfort your hearts.",
+      "highlightedWords": [
+        {
+          "word": "comfort",
+          "strongNumber": "G3870",
+          "lemma": "parakaleō",
+          "meaning": "to comfort; to encourage"
+        },
+        {
+          "word": "hearts",
+          "strongNumber": "G2588",
+          "lemma": "kardia",
+          "meaning": "heart; inner self"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Peace be to the brethren, and love with faith, from God the Father and the Lord Jesus Christ.",
+      "highlightedWords": [
+        {
+          "word": "Peace",
+          "strongNumber": "G1515",
+          "lemma": "eirēnē",
+          "meaning": "peace; wholeness"
+        },
+        {
+          "word": "faith",
+          "strongNumber": "G4102",
+          "lemma": "pistis",
+          "meaning": "faith; trust; belief"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Grace be with all them that love our Lord Jesus Christ in sincerity. Amen.",
+      "highlightedWords": [
+        {
+          "word": "Grace",
+          "strongNumber": "G5485",
+          "lemma": "charis",
+          "meaning": "grace; favor"
+        },
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus; Yeshua"
+        }
+      ]
+    }
+  ]
+}

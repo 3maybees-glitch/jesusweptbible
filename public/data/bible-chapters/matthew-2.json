@@ -1,0 +1,438 @@
+{
+  "book": "Matthew",
+  "chapter": 2,
+  "chapterTheme": {
+    "twoWordSummary": "Threatened Messiah",
+    "themeWords": [
+      {
+        "word": "Christ",
+        "strongNumber": "G5547",
+        "lemma": "Christos",
+        "meaning": "Anointed One; the Messiah"
+      },
+      {
+        "word": "Bethlehem",
+        "strongNumber": "G965",
+        "lemma": "Bēthleem",
+        "meaning": "Bethlehem; house of bread"
+      }
+    ]
+  },
+  "sentenceTheme": "Magi seek the newborn King, Herod plots, and the holy family flees to Egypt as prophecies are fulfilled.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Now when Jesus was born in Bethlehem of Judaea in the days of Herod the king, behold, there came wise men from the east to Jerusalem,",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Yahweh is salvation; Jesus"
+        },
+        {
+          "word": "Bethlehem",
+          "strongNumber": "G965",
+          "lemma": "Bēthleem",
+          "meaning": "Bethlehem; house of bread"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Saying, Where is he that is born King of the Jews? for we have seen his star in the east, and are come to worship him.",
+      "highlightedWords": [
+        {
+          "word": "King",
+          "strongNumber": "G935",
+          "lemma": "basileus",
+          "meaning": "king, ruler"
+        },
+        {
+          "word": "worship",
+          "strongNumber": "G4352",
+          "lemma": "proskuneō",
+          "meaning": "to bow down, do reverence, worship"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "When Herod the king had heard these things, he was troubled, and all Jerusalem with him.",
+      "highlightedWords": [
+        {
+          "word": "Herod",
+          "strongNumber": "G2264",
+          "lemma": "Hērōdēs",
+          "meaning": "Herod; name of several Idumean rulers"
+        },
+        {
+          "word": "troubled",
+          "strongNumber": "G5015",
+          "lemma": "tarassō",
+          "meaning": "to agitate, disturb, trouble"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And when he had gathered all the chief priests and scribes of the people together, he demanded of them where Christ should be born.",
+      "highlightedWords": [
+        {
+          "word": "scribes",
+          "strongNumber": "G1122",
+          "lemma": "grammateus",
+          "meaning": "scribe, expert in the law"
+        },
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "Anointed One; the Messiah"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And they said unto him, In Bethlehem of Judaea: for thus it is written by the prophet,",
+      "highlightedWords": [
+        {
+          "word": "written",
+          "strongNumber": "G1125",
+          "lemma": "graphō",
+          "meaning": "to write"
+        },
+        {
+          "word": "prophet",
+          "strongNumber": "G4396",
+          "lemma": "prophētēs",
+          "meaning": "prophet, one who speaks for God"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And thou Bethlehem, in the land of Juda, art not the least among the princes of Juda: for out of thee shall come a Governor, that shall rule my people Israel.",
+      "highlightedWords": [
+        {
+          "word": "Bethlehem",
+          "strongNumber": "G965",
+          "lemma": "Bēthleem",
+          "meaning": "Bethlehem; house of bread"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "G2474",
+          "lemma": "Israēl",
+          "meaning": "Israel; he who strives with God"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Then Herod, when he had privily called the wise men, enquired of them diligently what time the star appeared.",
+      "highlightedWords": [
+        {
+          "word": "wise men",
+          "strongNumber": "G3097",
+          "lemma": "magos",
+          "meaning": "Magi; wise men, astrologers"
+        },
+        {
+          "word": "star",
+          "strongNumber": "G792",
+          "lemma": "astēr",
+          "meaning": "star"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And he sent them to Bethlehem, and said, Go and search diligently for the young child; and when ye have found him, bring me word again, that I may come and worship him also.",
+      "highlightedWords": [
+        {
+          "word": "young child",
+          "strongNumber": "G3813",
+          "lemma": "paidion",
+          "meaning": "little child, young child"
+        },
+        {
+          "word": "worship",
+          "strongNumber": "G4352",
+          "lemma": "proskuneō",
+          "meaning": "to bow down, do reverence, worship"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "When they had heard the king, they departed; and, lo, the star, which they saw in the east, went before them, till it came and stood over where the young child was.",
+      "highlightedWords": [
+        {
+          "word": "star",
+          "strongNumber": "G792",
+          "lemma": "astēr",
+          "meaning": "star"
+        },
+        {
+          "word": "east",
+          "strongNumber": "G395",
+          "lemma": "anatolē",
+          "meaning": "rising; the east"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "When they saw the star, they rejoiced with exceeding great joy.",
+      "highlightedWords": [
+        {
+          "word": "rejoiced",
+          "strongNumber": "G5463",
+          "lemma": "chairō",
+          "meaning": "to rejoice, be glad"
+        },
+        {
+          "word": "joy",
+          "strongNumber": "G5479",
+          "lemma": "chara",
+          "meaning": "joy, gladness"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And when they were come into the house, they saw the young child with Mary his mother, and fell down, and worshipped him: and when they had opened their treasures, they presented unto him gifts; gold, and frankincense, and myrrh.",
+      "highlightedWords": [
+        {
+          "word": "frankincense",
+          "strongNumber": "G3030",
+          "lemma": "libanos",
+          "meaning": "frankincense"
+        },
+        {
+          "word": "myrrh",
+          "strongNumber": "G4666",
+          "lemma": "smurna (smyrna)",
+          "meaning": "myrrh, aromatic resin"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And being warned of God in a dream that they should not return to Herod, they departed into their own country another way.",
+      "highlightedWords": [
+        {
+          "word": "warned",
+          "strongNumber": "G5537",
+          "lemma": "chrēmatizō",
+          "meaning": "to be divinely instructed/warned"
+        },
+        {
+          "word": "dream",
+          "strongNumber": "G3677",
+          "lemma": "onar",
+          "meaning": "a dream"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And when they were departed, behold, the angel of the Lord appeareth to Joseph in a dream, saying, Arise, and take the young child and his mother, and flee into Egypt, and be thou there until I bring thee word: for Herod will seek the young child to destroy him.",
+      "highlightedWords": [
+        {
+          "word": "angel",
+          "strongNumber": "G32",
+          "lemma": "angelos",
+          "meaning": "messenger, angel"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "G125",
+          "lemma": "Aigyptos",
+          "meaning": "Egypt"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "When he arose, he took the young child and his mother by night, and departed into Egypt:",
+      "highlightedWords": [
+        {
+          "word": "night",
+          "strongNumber": "G3571",
+          "lemma": "nyx",
+          "meaning": "night"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "G125",
+          "lemma": "Aigyptos",
+          "meaning": "Egypt"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And was there until the death of Herod: that it might be fulfilled which was spoken of the Lord by the prophet, saying, Out of Egypt have I called my son.",
+      "highlightedWords": [
+        {
+          "word": "fulfilled",
+          "strongNumber": "G4137",
+          "lemma": "plēroō",
+          "meaning": "to fill, fulfill, bring to completion"
+        },
+        {
+          "word": "prophet",
+          "strongNumber": "G4396",
+          "lemma": "prophētēs",
+          "meaning": "prophet, one who speaks for God"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Then Herod, when he saw that he was mocked of the wise men, was exceeding wroth, and sent forth, and slew all the children that were in Bethlehem, and in all the coasts thereof, from two years old and under, according to the time which he had diligently enquired of the wise men.",
+      "highlightedWords": [
+        {
+          "word": "wise men",
+          "strongNumber": "G3097",
+          "lemma": "magos",
+          "meaning": "Magi; wise men, astrologers"
+        },
+        {
+          "word": "slew",
+          "strongNumber": "G615",
+          "lemma": "apokteinō",
+          "meaning": "to kill, slay"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Then was fulfilled that which was spoken by Jeremy the prophet, saying,",
+      "highlightedWords": [
+        {
+          "word": "fulfilled",
+          "strongNumber": "G4137",
+          "lemma": "plēroō",
+          "meaning": "to fill, fulfill, bring to completion"
+        },
+        {
+          "word": "prophet",
+          "strongNumber": "G4396",
+          "lemma": "prophētēs",
+          "meaning": "prophet, one who speaks for God"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "In Rama was there a voice heard, lamentation, and weeping, and great mourning, Rachel weeping for her children, and would not be comforted, because they are not.",
+      "highlightedWords": [
+        {
+          "word": "voice",
+          "strongNumber": "G5456",
+          "lemma": "phōnē",
+          "meaning": "voice, sound"
+        },
+        {
+          "word": "Rachel",
+          "strongNumber": "G4478",
+          "lemma": "Rachēl",
+          "meaning": "Rachel, wife of Jacob"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "But when Herod was dead, behold, an angel of the Lord appeareth in a dream to Joseph in Egypt,",
+      "highlightedWords": [
+        {
+          "word": "angel",
+          "strongNumber": "G32",
+          "lemma": "angelos",
+          "meaning": "messenger, angel"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "G125",
+          "lemma": "Aigyptos",
+          "meaning": "Egypt"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Saying, Arise, and take the young child and his mother, and go into the land of Israel: for they are dead which sought the young child's life.",
+      "highlightedWords": [
+        {
+          "word": "Arise",
+          "strongNumber": "G1453",
+          "lemma": "egeirō",
+          "meaning": "to raise, awaken; arise"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "G2474",
+          "lemma": "Israēl",
+          "meaning": "Israel; he who strives with God"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And he arose, and took the young child and his mother, and came into the land of Israel.",
+      "highlightedWords": [
+        {
+          "word": "arose",
+          "strongNumber": "G1453",
+          "lemma": "egeirō",
+          "meaning": "to rise, get up"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "G2474",
+          "lemma": "Israēl",
+          "meaning": "Israel; he who strives with God"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "But when he heard that Archelaus did reign in Judaea in the room of his father Herod, he was afraid to go thither: notwithstanding, being warned of God in a dream, he turned aside into the parts of Galilee:",
+      "highlightedWords": [
+        {
+          "word": "Archelaus",
+          "strongNumber": "G745",
+          "lemma": "Archelaos",
+          "meaning": "Archelaus, son of Herod the Great"
+        },
+        {
+          "word": "Galilee",
+          "strongNumber": "G1056",
+          "lemma": "Galilaia",
+          "meaning": "Galilee"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And he came and dwelt in a city called Nazareth: that it might be fulfilled which was spoken by the prophets, He shall be called a Nazarene.",
+      "highlightedWords": [
+        {
+          "word": "Nazareth",
+          "strongNumber": "G3478",
+          "lemma": "Nazaret",
+          "meaning": "Nazareth, a town in Galilee"
+        },
+        {
+          "word": "Nazarene",
+          "strongNumber": "G3480",
+          "lemma": "Nazōraios",
+          "meaning": "a Nazarene; one from Nazareth"
+        }
+      ]
+    }
+  ]
+}

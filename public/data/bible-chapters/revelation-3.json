@@ -1,0 +1,420 @@
+{
+  "book": "Revelation",
+  "chapter": 3,
+  "chapterTheme": {
+    "twoWordSummary": "Repent Overcome",
+    "themeWords": [
+      {
+        "word": "repent",
+        "strongNumber": "G3340",
+        "lemma": "μετανοέω",
+        "meaning": "to change one’s mind; to repent"
+      },
+      {
+        "word": "overcometh",
+        "strongNumber": "G3528",
+        "lemma": "νικάω",
+        "meaning": "to conquer, overcome, be victorious"
+      }
+    ]
+  },
+  "sentenceTheme": "Christ addresses Sardis, Philadelphia, and Laodicea—warning, encouraging, and calling all to repent, remain faithful, and overcome.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And unto the angel of the church in Sardis write; These things saith he that hath the seven Spirits of God, and the seven stars; I know thy works, that thou hast a name that thou livest, and art dead.",
+      "highlightedWords": [
+        {
+          "word": "angel",
+          "strongNumber": "G32",
+          "lemma": "ἄγγελος",
+          "meaning": "messenger, angel"
+        },
+        {
+          "word": "church",
+          "strongNumber": "G1577",
+          "lemma": "ἐκκλησία",
+          "meaning": "assembly, congregation, church"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Be watchful, and strengthen the things which remain, that are ready to die: for I have not found thy works perfect before God.",
+      "highlightedWords": [
+        {
+          "word": "watchful",
+          "strongNumber": "G1127",
+          "lemma": "γρηγορέω",
+          "meaning": "to be awake, be vigilant"
+        },
+        {
+          "word": "strengthen",
+          "strongNumber": "G4741",
+          "lemma": "στηρίζω",
+          "meaning": "to make firm, establish, strengthen"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Remember therefore how thou hast received and heard, and hold fast, and repent. If therefore thou shalt not watch, I will come on thee as a thief, and thou shalt not know what hour I will come upon thee.",
+      "highlightedWords": [
+        {
+          "word": "Remember",
+          "strongNumber": "G3421",
+          "lemma": "μνημονεύω",
+          "meaning": "to remember, call to mind"
+        },
+        {
+          "word": "repent",
+          "strongNumber": "G3340",
+          "lemma": "μετανοέω",
+          "meaning": "to change one’s mind; to repent"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Thou hast a few names even in Sardis which have not defiled their garments; and they shall walk with me in white: for they are worthy.",
+      "highlightedWords": [
+        {
+          "word": "garments",
+          "strongNumber": "G2440",
+          "lemma": "ἱμάτιον",
+          "meaning": "outer garment, robe, clothing"
+        },
+        {
+          "word": "white",
+          "strongNumber": "G3022",
+          "lemma": "λευκός",
+          "meaning": "white, bright, shining"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "He that overcometh, the same shall be clothed in white raiment; and I will not blot out his name out of the book of life, but I will confess his name before my Father, and before his angels.",
+      "highlightedWords": [
+        {
+          "word": "overcometh",
+          "strongNumber": "G3528",
+          "lemma": "νικάω",
+          "meaning": "to conquer, overcome, be victorious"
+        },
+        {
+          "word": "book",
+          "strongNumber": "G976",
+          "lemma": "βιβλίον",
+          "meaning": "scroll, book, document"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "He that hath an ear, let him hear what the Spirit saith unto the churches.",
+      "highlightedWords": [
+        {
+          "word": "Spirit",
+          "strongNumber": "G4151",
+          "lemma": "πνεῦμα",
+          "meaning": "spirit, breath; the Holy Spirit"
+        },
+        {
+          "word": "churches",
+          "strongNumber": "G1577",
+          "lemma": "ἐκκλησία",
+          "meaning": "assemblies, congregations, churches"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And to the angel of the church in Philadelphia write; These things saith he that is holy, he that is true, he that hath the key of David, he that openeth, and no man shutteth; and shutteth, and no man openeth;",
+      "highlightedWords": [
+        {
+          "word": "key",
+          "strongNumber": "G2807",
+          "lemma": "κλείς",
+          "meaning": "a key"
+        },
+        {
+          "word": "David",
+          "strongNumber": "G1138",
+          "lemma": "Δαυίδ",
+          "meaning": "David"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "I know thy works: behold, I have set before thee an open door, and no man can shut it: for thou hast a little strength, and hast kept my word, and hast not denied my name.",
+      "highlightedWords": [
+        {
+          "word": "door",
+          "strongNumber": "G2374",
+          "lemma": "θύρα",
+          "meaning": "door, gate, entrance"
+        },
+        {
+          "word": "name",
+          "strongNumber": "G3686",
+          "lemma": "ὄνομα",
+          "meaning": "name, reputation, authority"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Behold, I will make them of the synagogue of Satan, which say they are Jews, and are not, but do lie; behold, I will make them to come and worship before thy feet, and to know that I have loved thee.",
+      "highlightedWords": [
+        {
+          "word": "synagogue",
+          "strongNumber": "G4864",
+          "lemma": "συναγωγή",
+          "meaning": "assembly, synagogue"
+        },
+        {
+          "word": "Satan",
+          "strongNumber": "G4567",
+          "lemma": "Σατανᾶς",
+          "meaning": "Satan, the adversary"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Because thou hast kept the word of my patience, I also will keep thee from the hour of temptation, which shall come upon all the world, to try them that dwell upon the earth.",
+      "highlightedWords": [
+        {
+          "word": "patience",
+          "strongNumber": "G5281",
+          "lemma": "ὑπομονή",
+          "meaning": "endurance, steadfastness, patience"
+        },
+        {
+          "word": "temptation",
+          "strongNumber": "G3986",
+          "lemma": "πειρασμός",
+          "meaning": "trial, testing, temptation"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Behold, I come quickly: hold that fast which thou hast, that no man take thy crown.",
+      "highlightedWords": [
+        {
+          "word": "quickly",
+          "strongNumber": "G5035",
+          "lemma": "ταχύ",
+          "meaning": "quickly, swiftly, soon"
+        },
+        {
+          "word": "crown",
+          "strongNumber": "G4735",
+          "lemma": "στέφανος",
+          "meaning": "crown, wreath, victor’s garland"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Him that overcometh will I make a pillar in the temple of my God, and he shall go no more out: and I will write upon him the name of my God, and the name of the city of my God, which is new Jerusalem, which cometh down out of heaven from my God: and I will write upon him my new name.",
+      "highlightedWords": [
+        {
+          "word": "pillar",
+          "strongNumber": "G4769",
+          "lemma": "στῦλος",
+          "meaning": "pillar, column, support"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "G2419",
+          "lemma": "Ἱερουσαλήμ",
+          "meaning": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "He that hath an ear, let him hear what the Spirit saith unto the churches.",
+      "highlightedWords": [
+        {
+          "word": "Spirit",
+          "strongNumber": "G4151",
+          "lemma": "πνεῦμα",
+          "meaning": "Spirit; the Holy Spirit"
+        },
+        {
+          "word": "churches",
+          "strongNumber": "G1577",
+          "lemma": "ἐκκλησία",
+          "meaning": "assemblies, congregations, churches"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And unto the angel of the church of the Laodiceans write; These things saith the Amen, the faithful and true witness, the beginning of the creation of God;",
+      "highlightedWords": [
+        {
+          "word": "Amen",
+          "strongNumber": "G281",
+          "lemma": "ἀμήν",
+          "meaning": "amen, truly, so be it"
+        },
+        {
+          "word": "witness",
+          "strongNumber": "G3144",
+          "lemma": "μάρτυς",
+          "meaning": "witness, one who testifies"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "I know thy works, that thou art neither cold nor hot: I would thou wert cold or hot.",
+      "highlightedWords": [
+        {
+          "word": "works",
+          "strongNumber": "G2041",
+          "lemma": "ἔργον",
+          "meaning": "work, deed, action"
+        },
+        {
+          "word": "cold",
+          "strongNumber": "G5593",
+          "lemma": "ψυχρός",
+          "meaning": "cold, chilly"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "So then because thou art lukewarm, and neither cold nor hot, I will spue thee out of my mouth.",
+      "highlightedWords": [
+        {
+          "word": "lukewarm",
+          "strongNumber": "G5513",
+          "lemma": "χλιαρός",
+          "meaning": "lukewarm, tepid"
+        },
+        {
+          "word": "spue",
+          "strongNumber": "G1692",
+          "lemma": "ἐμέω",
+          "meaning": "to vomit, spit out"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Because thou sayest, I am rich, and increased with goods, and have need of nothing; and knowest not that thou art wretched, and miserable, and poor, and blind, and naked:",
+      "highlightedWords": [
+        {
+          "word": "rich",
+          "strongNumber": "G4145",
+          "lemma": "πλούσιος",
+          "meaning": "rich, wealthy"
+        },
+        {
+          "word": "blind",
+          "strongNumber": "G5185",
+          "lemma": "τυφλός",
+          "meaning": "blind"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "I counsel thee to buy of me gold tried in the fire, that thou mayest be rich; and white raiment, that thou mayest be clothed, and that the shame of thy nakedness do not appear; and anoint thine eyes with eyesalve, that thou mayest see.",
+      "highlightedWords": [
+        {
+          "word": "buy",
+          "strongNumber": "G59",
+          "lemma": "ἀγοράζω",
+          "meaning": "to buy, purchase"
+        },
+        {
+          "word": "eyesalve",
+          "strongNumber": "G2854",
+          "lemma": "κολλύριον",
+          "meaning": "eye-salve, ointment for the eyes"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "As many as I love, I rebuke and chasten: be zealous therefore, and repent.",
+      "highlightedWords": [
+        {
+          "word": "rebuke",
+          "strongNumber": "G1651",
+          "lemma": "ἐλέγχω",
+          "meaning": "to reprove, expose, rebuke"
+        },
+        {
+          "word": "repent",
+          "strongNumber": "G3340",
+          "lemma": "μετανοέω",
+          "meaning": "to change one’s mind; to repent"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me.",
+      "highlightedWords": [
+        {
+          "word": "door",
+          "strongNumber": "G2374",
+          "lemma": "θύρα",
+          "meaning": "door, gate, entrance"
+        },
+        {
+          "word": "knock",
+          "strongNumber": "G2925",
+          "lemma": "κρούω",
+          "meaning": "to knock, strike"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "To him that overcometh will I grant to sit with me in my throne, even as I also overcame, and am set down with my Father in his throne.",
+      "highlightedWords": [
+        {
+          "word": "overcometh",
+          "strongNumber": "G3528",
+          "lemma": "νικάω",
+          "meaning": "to conquer, overcome, be victorious"
+        },
+        {
+          "word": "throne",
+          "strongNumber": "G2362",
+          "lemma": "θρόνος",
+          "meaning": "throne, seat of authority"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "He that hath an ear, let him hear what the Spirit saith unto the churches.",
+      "highlightedWords": [
+        {
+          "word": "Spirit",
+          "strongNumber": "G4151",
+          "lemma": "πνεῦμα",
+          "meaning": "Spirit; the Holy Spirit"
+        },
+        {
+          "word": "churches",
+          "strongNumber": "G1577",
+          "lemma": "ἐκκλησία",
+          "meaning": "assemblies, congregations, churches"
+        }
+      ]
+    }
+  ]
+}

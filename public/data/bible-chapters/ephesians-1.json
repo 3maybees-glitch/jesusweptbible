@@ -1,0 +1,438 @@
+{
+  "book": "Ephesians",
+  "chapter": 1,
+  "chapterTheme": {
+    "twoWordSummary": "Grace Purpose",
+    "themeWords": [
+      {
+        "word": "grace",
+        "strongNumber": "G5485",
+        "lemma": "charis",
+        "meaning": "grace, favor, gracious gift"
+      },
+      {
+        "word": "Christ",
+        "strongNumber": "G5547",
+        "lemma": "Christos",
+        "meaning": "the Anointed One, Messiah"
+      }
+    ]
+  },
+  "sentenceTheme": "God’s eternal purpose to bless in Christ through election, redemption, and the Spirit, producing hope and the church’s exaltation.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus:",
+      "highlightedWords": [
+        {
+          "word": "apostle",
+          "strongNumber": "G652",
+          "lemma": "apostolos",
+          "meaning": "sent one; commissioned messenger"
+        },
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "the Anointed One, Messiah"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Grace be to you, and peace, from God our Father, and from the Lord Jesus Christ.",
+      "highlightedWords": [
+        {
+          "word": "Grace",
+          "strongNumber": "G5485",
+          "lemma": "charis",
+          "meaning": "grace, favor, gracious gift"
+        },
+        {
+          "word": "peace",
+          "strongNumber": "G1515",
+          "lemma": "eirēnē",
+          "meaning": "peace, wholeness, harmony"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly places in Christ:",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God; the divine"
+        },
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "the Anointed One, Messiah"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "According as he hath chosen us in him before the foundation of the world, that we should be holy and without blame before him in love:",
+      "highlightedWords": [
+        {
+          "word": "chosen",
+          "strongNumber": "G1586",
+          "lemma": "eklegomai",
+          "meaning": "to choose, select"
+        },
+        {
+          "word": "love",
+          "strongNumber": "G26",
+          "lemma": "agapē",
+          "meaning": "self-giving love"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Having predestinated us unto the adoption of children by Jesus Christ to himself, according to the good pleasure of his will,",
+      "highlightedWords": [
+        {
+          "word": "predestinated",
+          "strongNumber": "G4309",
+          "lemma": "proorizō",
+          "meaning": "to predetermine, foreordain"
+        },
+        {
+          "word": "will",
+          "strongNumber": "G2307",
+          "lemma": "thelēma",
+          "meaning": "will, desire, purpose"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "To the praise of the glory of his grace, wherein he hath made us accepted in the beloved.",
+      "highlightedWords": [
+        {
+          "word": "glory",
+          "strongNumber": "G1391",
+          "lemma": "doxa",
+          "meaning": "glory, honor, splendor"
+        },
+        {
+          "word": "grace",
+          "strongNumber": "G5485",
+          "lemma": "charis",
+          "meaning": "grace, favor, gracious gift"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "In whom we have redemption through his blood, the forgiveness of sins, according to the riches of his grace;",
+      "highlightedWords": [
+        {
+          "word": "redemption",
+          "strongNumber": "G629",
+          "lemma": "apolytrōsis",
+          "meaning": "release by ransom, redemption"
+        },
+        {
+          "word": "grace",
+          "strongNumber": "G5485",
+          "lemma": "charis",
+          "meaning": "grace, favor, gracious gift"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Wherein he hath abounded toward us in all wisdom and prudence;",
+      "highlightedWords": [
+        {
+          "word": "wisdom",
+          "strongNumber": "G4678",
+          "lemma": "sophia",
+          "meaning": "wisdom"
+        },
+        {
+          "word": "prudence",
+          "strongNumber": "G5428",
+          "lemma": "phronēsis",
+          "meaning": "prudence, understanding, insight"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Having made known unto us the mystery of his will, according to his good pleasure which he hath purposed in himself:",
+      "highlightedWords": [
+        {
+          "word": "mystery",
+          "strongNumber": "G3466",
+          "lemma": "mystērion",
+          "meaning": "secret, revealed truth"
+        },
+        {
+          "word": "will",
+          "strongNumber": "G2307",
+          "lemma": "thelēma",
+          "meaning": "will, desire, purpose"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "That in the dispensation of the fulness of times he might gather together in one all things in Christ, both which are in heaven, and which are on earth; even in him:",
+      "highlightedWords": [
+        {
+          "word": "dispensation",
+          "strongNumber": "G3622",
+          "lemma": "oikonomia",
+          "meaning": "stewardship, administration, dispensation"
+        },
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "the Anointed One, Messiah"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "In whom also we have obtained an inheritance, being predestinated according to the purpose of him who worketh all things after the counsel of his own will:",
+      "highlightedWords": [
+        {
+          "word": "predestinated",
+          "strongNumber": "G4309",
+          "lemma": "proorizō",
+          "meaning": "to predetermine, foreordain"
+        },
+        {
+          "word": "will",
+          "strongNumber": "G2307",
+          "lemma": "thelēma",
+          "meaning": "will, desire, purpose"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "That we should be to the praise of his glory, who first trusted in Christ.",
+      "highlightedWords": [
+        {
+          "word": "glory",
+          "strongNumber": "G1391",
+          "lemma": "doxa",
+          "meaning": "glory, honor, splendor"
+        },
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "the Anointed One, Messiah"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "In whom ye also trusted, after that ye heard the word of truth, the gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise,",
+      "highlightedWords": [
+        {
+          "word": "gospel",
+          "strongNumber": "G2098",
+          "lemma": "euangelion",
+          "meaning": "good news, gospel"
+        },
+        {
+          "word": "Spirit",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit, breath, wind"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Which is the earnest of our inheritance until the redemption of the purchased possession, unto the praise of his glory.",
+      "highlightedWords": [
+        {
+          "word": "inheritance",
+          "strongNumber": "G2817",
+          "lemma": "klēronomia",
+          "meaning": "inheritance, possession"
+        },
+        {
+          "word": "redemption",
+          "strongNumber": "G629",
+          "lemma": "apolytrōsis",
+          "meaning": "release by ransom, redemption"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Wherefore I also, after I heard of your faith in the Lord Jesus, and love unto all the saints,",
+      "highlightedWords": [
+        {
+          "word": "faith",
+          "strongNumber": "G4102",
+          "lemma": "pistis",
+          "meaning": "faith, trust, belief"
+        },
+        {
+          "word": "love",
+          "strongNumber": "G26",
+          "lemma": "agapē",
+          "meaning": "self-giving love"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Cease not to give thanks for you, making mention of you in my prayers;",
+      "highlightedWords": [
+        {
+          "word": "mention",
+          "strongNumber": "G3417",
+          "lemma": "mneia",
+          "meaning": "remembrance, mention"
+        },
+        {
+          "word": "prayers",
+          "strongNumber": "G4335",
+          "lemma": "proseuchē",
+          "meaning": "prayer"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "That the God of our Lord Jesus Christ, the Father of glory, may give unto you the spirit of wisdom and revelation in the knowledge of him:",
+      "highlightedWords": [
+        {
+          "word": "wisdom",
+          "strongNumber": "G4678",
+          "lemma": "sophia",
+          "meaning": "wisdom"
+        },
+        {
+          "word": "revelation",
+          "strongNumber": "G602",
+          "lemma": "apokalypsis",
+          "meaning": "revelation, unveiling"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "The eyes of your understanding being enlightened; that ye may know what is the hope of his calling, and what the riches of the glory of his inheritance in the saints,",
+      "highlightedWords": [
+        {
+          "word": "hope",
+          "strongNumber": "G1680",
+          "lemma": "elpis",
+          "meaning": "hope, expectation"
+        },
+        {
+          "word": "inheritance",
+          "strongNumber": "G2817",
+          "lemma": "klēronomia",
+          "meaning": "inheritance, possession"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And what is the exceeding greatness of his power to us-ward who believe, according to the working of his mighty power,",
+      "highlightedWords": [
+        {
+          "word": "power",
+          "strongNumber": "G1411",
+          "lemma": "dynamis",
+          "meaning": "power, might"
+        },
+        {
+          "word": "working",
+          "strongNumber": "G1753",
+          "lemma": "energeia",
+          "meaning": "working, effective operation"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Which he wrought in Christ, when he raised him from the dead, and set him at his own right hand in the heavenly places,",
+      "highlightedWords": [
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "the Anointed One, Messiah"
+        },
+        {
+          "word": "raised",
+          "strongNumber": "G1453",
+          "lemma": "egeirō",
+          "meaning": "to raise, lift up, awaken"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Far above all principality, and power, and might, and dominion, and every name that is named, not only in this world, but also in that which is to come:",
+      "highlightedWords": [
+        {
+          "word": "principality",
+          "strongNumber": "G746",
+          "lemma": "archē",
+          "meaning": "rule, principality"
+        },
+        {
+          "word": "dominion",
+          "strongNumber": "G2963",
+          "lemma": "kyriotēs",
+          "meaning": "lordship, dominion"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And hath put all things under his feet, and gave him to be the head over all things to the church,",
+      "highlightedWords": [
+        {
+          "word": "head",
+          "strongNumber": "G2776",
+          "lemma": "kephalē",
+          "meaning": "head"
+        },
+        {
+          "word": "church",
+          "strongNumber": "G1577",
+          "lemma": "ekklēsia",
+          "meaning": "assembly, church"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Which is his body, the fulness of him that filleth all in all.",
+      "highlightedWords": [
+        {
+          "word": "body",
+          "strongNumber": "G4983",
+          "lemma": "sōma",
+          "meaning": "body"
+        },
+        {
+          "word": "fulness",
+          "strongNumber": "G4138",
+          "lemma": "plērōma",
+          "meaning": "fullness, that which fills"
+        }
+      ]
+    }
+  ]
+}

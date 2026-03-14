@@ -1,0 +1,780 @@
+{
+  "book": "Acts",
+  "chapter": 5,
+  "chapterTheme": {
+    "twoWordSummary": "Purifying Power",
+    "themeWords": [
+      {
+        "word": "God",
+        "strongNumber": "G2316",
+        "lemma": "theos",
+        "meaning": "God; deity, the supreme Divinity"
+      },
+      {
+        "word": "Spirit",
+        "strongNumber": "G4151",
+        "lemma": "pneuma",
+        "meaning": "spirit; wind, breath; the Holy Spirit"
+      }
+    ]
+  },
+  "sentenceTheme": "God purifies the church through judgment on deceit, empowers signs and deliverance, and the apostles boldly testify to Jesus despite opposition.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "But a certain man named Ananias, with Sapphira his wife, sold a possession,",
+      "highlightedWords": [
+        {
+          "word": "man",
+          "strongNumber": "G435",
+          "lemma": "anēr",
+          "meaning": "a man, male, husband"
+        },
+        {
+          "word": "wife",
+          "strongNumber": "G1135",
+          "lemma": "gynē",
+          "meaning": "a woman, wife"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And kept back part of the price, his wife also being privy to it, and brought a certain part, and laid it at the apostles' feet.",
+      "highlightedWords": [
+        {
+          "word": "apostles'",
+          "strongNumber": "G652",
+          "lemma": "apostolos",
+          "meaning": "one who is sent; an apostle, messenger"
+        },
+        {
+          "word": "feet",
+          "strongNumber": "G4228",
+          "lemma": "pous",
+          "meaning": "foot"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "But Peter said, Ananias, why hath Satan filled thine heart to lie to the Holy Ghost, and to keep back part of the price of the land?",
+      "highlightedWords": [
+        {
+          "word": "Peter",
+          "strongNumber": "G4074",
+          "lemma": "Petros",
+          "meaning": "Peter; a rock, a stone"
+        },
+        {
+          "word": "Ghost",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit; the Holy Spirit"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Whiles it remained, was it not thine own? and after it was sold, was it not in thine own power? why hast thou conceived this thing in thine heart? thou hast not lied unto men, but unto God.",
+      "highlightedWords": [
+        {
+          "word": "men",
+          "strongNumber": "G444",
+          "lemma": "anthrōpos",
+          "meaning": "a human being, man, person"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God; deity, the supreme Divinity"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And Ananias hearing these words fell down, and gave up the ghost: and great fear came on all them that heard these things.",
+      "highlightedWords": [
+        {
+          "word": "words",
+          "strongNumber": "G3056",
+          "lemma": "logos",
+          "meaning": "word, message, matter"
+        },
+        {
+          "word": "fear",
+          "strongNumber": "G5401",
+          "lemma": "phobos",
+          "meaning": "fear, terror, reverence"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And the young men arose, wound him up, and carried him out, and buried him.",
+      "highlightedWords": [
+        {
+          "word": "young",
+          "strongNumber": "G3495",
+          "lemma": "neaniskos",
+          "meaning": "a young man, youth"
+        },
+        {
+          "word": "buried",
+          "strongNumber": "G2290",
+          "lemma": "thaptō",
+          "meaning": "to bury, inter"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And it was about the space of three hours after, when his wife, not knowing what was done, came in.",
+      "highlightedWords": [
+        {
+          "word": "hours",
+          "strongNumber": "G5610",
+          "lemma": "hōra",
+          "meaning": "hour; a time of day"
+        },
+        {
+          "word": "wife",
+          "strongNumber": "G1135",
+          "lemma": "gynē",
+          "meaning": "a woman, wife"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And Peter answered unto her, Tell me whether ye sold the land for so much? And she said, Yea, for so much.",
+      "highlightedWords": [
+        {
+          "word": "Peter",
+          "strongNumber": "G4074",
+          "lemma": "Petros",
+          "meaning": "Peter; a rock, a stone"
+        },
+        {
+          "word": "said",
+          "strongNumber": "G3004",
+          "lemma": "legō",
+          "meaning": "to say, speak"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Then Peter said unto her, How is it that ye have agreed together to tempt the Spirit of the Lord? behold, the feet of them which have buried thy husband are at the door, and shall carry thee out.",
+      "highlightedWords": [
+        {
+          "word": "Spirit",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit; the Holy Spirit"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "lord, master; Lord"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Then fell she down straightway at his feet, and yielded up the ghost: and the young men came in, and found her dead, and, carrying her forth, buried her by her husband.",
+      "highlightedWords": [
+        {
+          "word": "feet",
+          "strongNumber": "G4228",
+          "lemma": "pous",
+          "meaning": "foot"
+        },
+        {
+          "word": "buried",
+          "strongNumber": "G2290",
+          "lemma": "thaptō",
+          "meaning": "to bury, inter"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And great fear came upon all the church, and upon as many as heard these things.",
+      "highlightedWords": [
+        {
+          "word": "fear",
+          "strongNumber": "G5401",
+          "lemma": "phobos",
+          "meaning": "fear, terror, reverence"
+        },
+        {
+          "word": "church",
+          "strongNumber": "G1577",
+          "lemma": "ekklēsia",
+          "meaning": "assembly, congregation, church"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And by the hands of the apostles were many signs and wonders wrought among the people; (and they were all with one accord in Solomon's porch.",
+      "highlightedWords": [
+        {
+          "word": "apostles",
+          "strongNumber": "G652",
+          "lemma": "apostolos",
+          "meaning": "one who is sent; an apostle, messenger"
+        },
+        {
+          "word": "signs",
+          "strongNumber": "G4592",
+          "lemma": "sēmeion",
+          "meaning": "a sign, miracle, token"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And of the rest durst no man join himself to them: but the people magnified them.",
+      "highlightedWords": [
+        {
+          "word": "join",
+          "strongNumber": "G2853",
+          "lemma": "kollaō",
+          "meaning": "to join, glue, cling to"
+        },
+        {
+          "word": "people",
+          "strongNumber": "G2992",
+          "lemma": "laos",
+          "meaning": "a people, populace, nation"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And believers were the more added to the Lord, multitudes both of men and women.)",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "lord, master; Lord"
+        },
+        {
+          "word": "women",
+          "strongNumber": "G1135",
+          "lemma": "gynē",
+          "meaning": "a woman, wife"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Insomuch that they brought forth the sick into the streets, and laid them on beds and couches, that at the least the shadow of Peter passing by might overshadow some of them.",
+      "highlightedWords": [
+        {
+          "word": "shadow",
+          "strongNumber": "G4639",
+          "lemma": "skia",
+          "meaning": "shadow"
+        },
+        {
+          "word": "Peter",
+          "strongNumber": "G4074",
+          "lemma": "Petros",
+          "meaning": "Peter; a rock, a stone"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "There came also a multitude out of the cities round about unto Jerusalem, bringing sick folks, and them which were vexed with unclean spirits: and they were healed every one.",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "G2419",
+          "lemma": "Ierousalēm",
+          "meaning": "Jerusalem"
+        },
+        {
+          "word": "spirits",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit; (unclean) spirit"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Then the high priest rose up, and all they that were with him, (which is the sect of the Sadducees,) and were filled with indignation,",
+      "highlightedWords": [
+        {
+          "word": "priest",
+          "strongNumber": "G749",
+          "lemma": "archiereus",
+          "meaning": "high priest, chief priest"
+        },
+        {
+          "word": "Sadducees",
+          "strongNumber": "G4523",
+          "lemma": "Saddoukaios",
+          "meaning": "a Sadducee"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And laid their hands on the apostles, and put them in the common prison.",
+      "highlightedWords": [
+        {
+          "word": "apostles",
+          "strongNumber": "G652",
+          "lemma": "apostolos",
+          "meaning": "one who is sent; an apostle, messenger"
+        },
+        {
+          "word": "prison",
+          "strongNumber": "G5438",
+          "lemma": "phylakē",
+          "meaning": "a guard, watch; a prison"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "But the angel of the Lord by night opened the prison doors, and brought them forth, and said,",
+      "highlightedWords": [
+        {
+          "word": "angel",
+          "strongNumber": "G32",
+          "lemma": "angelos",
+          "meaning": "messenger, angel"
+        },
+        {
+          "word": "doors",
+          "strongNumber": "G2374",
+          "lemma": "thyra",
+          "meaning": "a door, gate, entrance"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Go, stand and speak in the temple to the people all the words of this life.",
+      "highlightedWords": [
+        {
+          "word": "temple",
+          "strongNumber": "G2411",
+          "lemma": "hieron",
+          "meaning": "the temple precincts"
+        },
+        {
+          "word": "life",
+          "strongNumber": "G2222",
+          "lemma": "zōē",
+          "meaning": "life"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And when they heard that, they entered into the temple early in the morning, and taught. But the high priest came, and they that were with him, and called the council together, and all the senate of the children of Israel, and sent to the prison to have them brought.",
+      "highlightedWords": [
+        {
+          "word": "council",
+          "strongNumber": "G4892",
+          "lemma": "synedrion",
+          "meaning": "council, Sanhedrin"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "G2474",
+          "lemma": "Israēl",
+          "meaning": "Israel"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "But when the officers came, and found them not in the prison, they returned, and told,",
+      "highlightedWords": [
+        {
+          "word": "officers",
+          "strongNumber": "G5257",
+          "lemma": "hypēretēs",
+          "meaning": "an attendant, officer, servant"
+        },
+        {
+          "word": "prison",
+          "strongNumber": "G5438",
+          "lemma": "phylakē",
+          "meaning": "a guard, watch; a prison"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Saying, The prison truly found we shut with all safety, and the keepers standing without before the doors: but when we had opened, we found no man within.",
+      "highlightedWords": [
+        {
+          "word": "prison",
+          "strongNumber": "G5438",
+          "lemma": "phylakē",
+          "meaning": "a guard, watch; a prison"
+        },
+        {
+          "word": "doors",
+          "strongNumber": "G2374",
+          "lemma": "thyra",
+          "meaning": "a door, gate, entrance"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Now when the high priest and the captain of the temple and the chief priests heard these things, they doubted of them whereunto this would grow.",
+      "highlightedWords": [
+        {
+          "word": "captain",
+          "strongNumber": "G4755",
+          "lemma": "stratēgos",
+          "meaning": "a commander, captain"
+        },
+        {
+          "word": "priests",
+          "strongNumber": "G749",
+          "lemma": "archiereus",
+          "meaning": "high priest, chief priest"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Then came one and told them, saying, Behold, the men whom ye put in prison are standing in the temple, and teaching the people.",
+      "highlightedWords": [
+        {
+          "word": "temple",
+          "strongNumber": "G2411",
+          "lemma": "hieron",
+          "meaning": "the temple precincts"
+        },
+        {
+          "word": "teaching",
+          "strongNumber": "G1321",
+          "lemma": "didaskō",
+          "meaning": "to teach, instruct"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "Then went the captain with the officers, and brought them without violence: for they feared the people, lest they should have been stoned.",
+      "highlightedWords": [
+        {
+          "word": "captain",
+          "strongNumber": "G4755",
+          "lemma": "stratēgos",
+          "meaning": "a commander, captain"
+        },
+        {
+          "word": "officers",
+          "strongNumber": "G5257",
+          "lemma": "hypēretēs",
+          "meaning": "an attendant, officer, servant"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And when they had brought them, they set them before the council: and the high priest asked them,",
+      "highlightedWords": [
+        {
+          "word": "council",
+          "strongNumber": "G4892",
+          "lemma": "synedrion",
+          "meaning": "council, Sanhedrin"
+        },
+        {
+          "word": "priest",
+          "strongNumber": "G749",
+          "lemma": "archiereus",
+          "meaning": "high priest, chief priest"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "Saying, Did not we straitly command you that ye should not teach in this name? and, behold, ye have filled Jerusalem with your doctrine, and intend to bring this man's blood upon us.",
+      "highlightedWords": [
+        {
+          "word": "name",
+          "strongNumber": "G3686",
+          "lemma": "onoma",
+          "meaning": "name, reputation, authority"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "G2419",
+          "lemma": "Ierousalēm",
+          "meaning": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "Then Peter and the other apostles answered and said, We ought to obey God rather than men.",
+      "highlightedWords": [
+        {
+          "word": "Peter",
+          "strongNumber": "G4074",
+          "lemma": "Petros",
+          "meaning": "Peter; a rock, a stone"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God; deity, the supreme Divinity"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "The God of our fathers raised up Jesus, whom ye slew and hanged on a tree.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God; deity, the supreme Divinity"
+        },
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus; Joshua; the Lord saves"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "Him hath God exalted with his right hand to be a Prince and a Saviour, for to give repentance to Israel, and forgiveness of sins.",
+      "highlightedWords": [
+        {
+          "word": "Prince",
+          "strongNumber": "G747",
+          "lemma": "archēgos",
+          "meaning": "chief leader, prince, pioneer"
+        },
+        {
+          "word": "Saviour",
+          "strongNumber": "G4990",
+          "lemma": "sōtēr",
+          "meaning": "savior, deliverer"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "And we are his witnesses of these things; and so is also the Holy Ghost, whom God hath given to them that obey him.",
+      "highlightedWords": [
+        {
+          "word": "witnesses",
+          "strongNumber": "G3144",
+          "lemma": "martys",
+          "meaning": "witness, one who testifies"
+        },
+        {
+          "word": "Ghost",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit; the Holy Spirit"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "When they heard that, they were cut to the heart, and took counsel to slay them.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "G2588",
+          "lemma": "kardia",
+          "meaning": "heart; inner self"
+        },
+        {
+          "word": "slay",
+          "strongNumber": "G337",
+          "lemma": "anaireō",
+          "meaning": "to take away, kill, slay"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "Then stood there up one in the council, a Pharisee, named Gamaliel, a doctor of the law, had in reputation among all the people, and commanded to put the apostles forth a little space;",
+      "highlightedWords": [
+        {
+          "word": "council",
+          "strongNumber": "G4892",
+          "lemma": "synedrion",
+          "meaning": "council, Sanhedrin"
+        },
+        {
+          "word": "Pharisee",
+          "strongNumber": "G5330",
+          "lemma": "Pharisaios",
+          "meaning": "a Pharisee"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "And said unto them, Ye men of Israel, take heed to yourselves what ye intend to do as touching these men.",
+      "highlightedWords": [
+        {
+          "word": "men",
+          "strongNumber": "G435",
+          "lemma": "anēr",
+          "meaning": "a man, male, husband"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "G2474",
+          "lemma": "Israēl",
+          "meaning": "Israel"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "For before these days rose up Theudas, boasting himself to be somebody; to whom a number of men, about four hundred, joined themselves: who was slain; and all, as many as obeyed him, were scattered, and brought to nought.",
+      "highlightedWords": [
+        {
+          "word": "men",
+          "strongNumber": "G435",
+          "lemma": "anēr",
+          "meaning": "a man, male, husband"
+        },
+        {
+          "word": "slain",
+          "strongNumber": "G337",
+          "lemma": "anaireō",
+          "meaning": "to take away, kill, slay"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "After this man rose up Judas of Galilee in the days of the taxing, and drew away much people after him: he also perished; and all, even as many as obeyed him, were dispersed.",
+      "highlightedWords": [
+        {
+          "word": "Galilee",
+          "strongNumber": "G1056",
+          "lemma": "Galilaia",
+          "meaning": "Galilee"
+        },
+        {
+          "word": "taxing",
+          "strongNumber": "G583",
+          "lemma": "apographē",
+          "meaning": "a census, enrollment, registration"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "And now I say unto you, Refrain from these men, and let them alone: for if this counsel or this work be of men, it will come to nought:",
+      "highlightedWords": [
+        {
+          "word": "work",
+          "strongNumber": "G2041",
+          "lemma": "ergon",
+          "meaning": "work, deed, action"
+        },
+        {
+          "word": "men",
+          "strongNumber": "G444",
+          "lemma": "anthrōpos",
+          "meaning": "a human being, man, person"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "text": "But if it be of God, ye cannot overthrow it; lest haply ye be found even to fight against God.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God; deity, the supreme Divinity"
+        },
+        {
+          "word": "overthrow",
+          "strongNumber": "G2647",
+          "lemma": "katalyō",
+          "meaning": "to destroy, demolish, overthrow"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "text": "And to him they agreed: and when they had called the apostles, and beaten them, they commanded that they should not speak in the name of Jesus, and let them go.",
+      "highlightedWords": [
+        {
+          "word": "apostles",
+          "strongNumber": "G652",
+          "lemma": "apostolos",
+          "meaning": "one who is sent; an apostle, messenger"
+        },
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus; Joshua; the Lord saves"
+        }
+      ]
+    },
+    {
+      "verse": 41,
+      "text": "And they departed from the presence of the council, rejoicing that they were counted worthy to suffer shame for his name.",
+      "highlightedWords": [
+        {
+          "word": "council",
+          "strongNumber": "G4892",
+          "lemma": "synedrion",
+          "meaning": "council, Sanhedrin"
+        },
+        {
+          "word": "name",
+          "strongNumber": "G3686",
+          "lemma": "onoma",
+          "meaning": "name, reputation, authority"
+        }
+      ]
+    },
+    {
+      "verse": 42,
+      "text": "And daily in the temple, and in every house, they ceased not to teach and preach Jesus Christ.",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus; Joshua; the Lord saves"
+        },
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "Anointed One, Messiah, Christ"
+        }
+      ]
+    }
+  ]
+}

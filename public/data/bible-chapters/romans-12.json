@@ -1,0 +1,402 @@
+{
+  "book": "Romans",
+  "chapter": 12,
+  "chapterTheme": {
+    "twoWordSummary": "Living Sacrifice",
+    "themeWords": [
+      {
+        "word": "sacrifice",
+        "strongNumber": "G2378",
+        "lemma": "thusia",
+        "meaning": "an offering or sacrifice"
+      },
+      {
+        "word": "love",
+        "strongNumber": "G26",
+        "lemma": "agapē",
+        "meaning": "self-giving love, charity"
+      }
+    ]
+  },
+  "sentenceTheme": "Believers, transformed by renewed minds, humbly serve in love and overcome evil with good.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service.",
+      "highlightedWords": [
+        {
+          "word": "brethren",
+          "strongNumber": "G80",
+          "lemma": "adelphos",
+          "meaning": "brothers, fellow believers"
+        },
+        {
+          "word": "sacrifice",
+          "strongNumber": "G2378",
+          "lemma": "thusia",
+          "meaning": "an offering or sacrifice"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.",
+      "highlightedWords": [
+        {
+          "word": "world",
+          "strongNumber": "G165",
+          "lemma": "aiōn",
+          "meaning": "age, course of this world"
+        },
+        {
+          "word": "transformed",
+          "strongNumber": "G3339",
+          "lemma": "metamorphoō",
+          "meaning": "to change, be transformed"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "For I say, through the grace given unto me, to every man that is among you, not to think of himself more highly than he ought to think; but to think soberly, according as God hath dealt to every man the measure of faith.",
+      "highlightedWords": [
+        {
+          "word": "grace",
+          "strongNumber": "G5485",
+          "lemma": "charis",
+          "meaning": "grace, favor, kindness"
+        },
+        {
+          "word": "faith",
+          "strongNumber": "G4102",
+          "lemma": "pistis",
+          "meaning": "faith, trust, belief"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "For as we have many members in one body, and all members have not the same office:",
+      "highlightedWords": [
+        {
+          "word": "members",
+          "strongNumber": "G3196",
+          "lemma": "melos",
+          "meaning": "a limb or member"
+        },
+        {
+          "word": "body",
+          "strongNumber": "G4983",
+          "lemma": "sōma",
+          "meaning": "body"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "So we, being many, are one body in Christ, and every one members one of another.",
+      "highlightedWords": [
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "the Anointed One, Messiah"
+        },
+        {
+          "word": "members",
+          "strongNumber": "G3196",
+          "lemma": "melos",
+          "meaning": "a limb or member"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Having then gifts differing according to the grace that is given to us, whether prophecy, let us prophesy according to the proportion of faith;",
+      "highlightedWords": [
+        {
+          "word": "gifts",
+          "strongNumber": "G5486",
+          "lemma": "charisma",
+          "meaning": "a gracious gift, endowment"
+        },
+        {
+          "word": "prophecy",
+          "strongNumber": "G4394",
+          "lemma": "prophēteia",
+          "meaning": "prophecy, inspired utterance"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Or ministry, let us wait on our ministering: or he that teacheth, on teaching;",
+      "highlightedWords": [
+        {
+          "word": "ministry",
+          "strongNumber": "G1248",
+          "lemma": "diakonia",
+          "meaning": "service, ministry"
+        },
+        {
+          "word": "teacheth",
+          "strongNumber": "G1321",
+          "lemma": "didaskō",
+          "meaning": "to teach, instruct"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Or he that exhorteth, on exhortation: he that giveth, let him do it with simplicity; he that ruleth, with diligence; he that sheweth mercy, with cheerfulness.",
+      "highlightedWords": [
+        {
+          "word": "mercy",
+          "strongNumber": "G1656",
+          "lemma": "eleos",
+          "meaning": "mercy, compassion"
+        },
+        {
+          "word": "cheerfulness",
+          "strongNumber": "G2432",
+          "lemma": "hilarotēs",
+          "meaning": "cheerfulness, gladness"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Let love be without dissimulation. Abhor that which is evil; cleave to that which is good.",
+      "highlightedWords": [
+        {
+          "word": "love",
+          "strongNumber": "G26",
+          "lemma": "agapē",
+          "meaning": "self-giving love, charity"
+        },
+        {
+          "word": "evil",
+          "strongNumber": "G2556",
+          "lemma": "kakos",
+          "meaning": "evil, bad, harmful"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Be kindly affectioned one to another with brotherly love; in honour preferring one another;",
+      "highlightedWords": [
+        {
+          "word": "affectioned",
+          "strongNumber": "G5387",
+          "lemma": "philostorgos",
+          "meaning": "affectionate, devoted"
+        },
+        {
+          "word": "honour",
+          "strongNumber": "G5092",
+          "lemma": "timē",
+          "meaning": "honor, value, respect"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Not slothful in business; fervent in spirit; serving the Lord;",
+      "highlightedWords": [
+        {
+          "word": "spirit",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit, inner life"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kurios",
+          "meaning": "Lord, master"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Rejoicing in hope; patient in tribulation; continuing instant in prayer;",
+      "highlightedWords": [
+        {
+          "word": "hope",
+          "strongNumber": "G1680",
+          "lemma": "elpis",
+          "meaning": "hope, expectation"
+        },
+        {
+          "word": "prayer",
+          "strongNumber": "G4335",
+          "lemma": "proseuchē",
+          "meaning": "prayer"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Distributing to the necessity of saints; given to hospitality.",
+      "highlightedWords": [
+        {
+          "word": "saints",
+          "strongNumber": "G40",
+          "lemma": "hagios",
+          "meaning": "holy ones, saints"
+        },
+        {
+          "word": "hospitality",
+          "strongNumber": "G5381",
+          "lemma": "philoxenia",
+          "meaning": "hospitality, love of strangers"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Bless them which persecute you: bless, and curse not.",
+      "highlightedWords": [
+        {
+          "word": "persecute",
+          "strongNumber": "G1377",
+          "lemma": "diōkō",
+          "meaning": "to persecute, pursue"
+        },
+        {
+          "word": "curse",
+          "strongNumber": "G2672",
+          "lemma": "kataraomai",
+          "meaning": "to curse, call down harm"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Rejoice with them that do rejoice, and weep with them that weep.",
+      "highlightedWords": [
+        {
+          "word": "Rejoice",
+          "strongNumber": "G5463",
+          "lemma": "chairō",
+          "meaning": "to rejoice, be glad"
+        },
+        {
+          "word": "weep",
+          "strongNumber": "G2799",
+          "lemma": "klaiō",
+          "meaning": "to weep, wail"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Be of the same mind one toward another. Mind not high things, but condescend to men of low estate. Be not wise in your own conceits.",
+      "highlightedWords": [
+        {
+          "word": "mind",
+          "strongNumber": "G5426",
+          "lemma": "phroneō",
+          "meaning": "to think, set one’s mind"
+        },
+        {
+          "word": "wise",
+          "strongNumber": "G5429",
+          "lemma": "phronimos",
+          "meaning": "wise, prudent"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Recompense to no man evil for evil. Provide things honest in the sight of all men.",
+      "highlightedWords": [
+        {
+          "word": "evil",
+          "strongNumber": "G2556",
+          "lemma": "kakos",
+          "meaning": "evil, bad, harmful"
+        },
+        {
+          "word": "honest",
+          "strongNumber": "G2570",
+          "lemma": "kalos",
+          "meaning": "good, noble, honorable"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "If it be possible, as much as lieth in you, live peaceably with all men.",
+      "highlightedWords": [
+        {
+          "word": "possible",
+          "strongNumber": "G1415",
+          "lemma": "dynatos",
+          "meaning": "able, possible"
+        },
+        {
+          "word": "peaceably",
+          "strongNumber": "G1514",
+          "lemma": "eirēneuō",
+          "meaning": "to live peaceably, be at peace"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Dearly beloved, avenge not yourselves, but rather give place unto wrath: for it is written, Vengeance is mine; I will repay, saith the Lord.",
+      "highlightedWords": [
+        {
+          "word": "Vengeance",
+          "strongNumber": "G1557",
+          "lemma": "ekdikēsis",
+          "meaning": "vengeance, justice"
+        },
+        {
+          "word": "wrath",
+          "strongNumber": "G3709",
+          "lemma": "orgē",
+          "meaning": "wrath, anger"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Therefore if thine enemy hunger, feed him; if he thirst, give him drink: for in so doing thou shalt heap coals of fire on his head.",
+      "highlightedWords": [
+        {
+          "word": "enemy",
+          "strongNumber": "G2190",
+          "lemma": "echthros",
+          "meaning": "enemy, foe"
+        },
+        {
+          "word": "feed",
+          "strongNumber": "G5595",
+          "lemma": "psōmizō",
+          "meaning": "to feed, supply food"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Be not overcome of evil, but overcome evil with good.",
+      "highlightedWords": [
+        {
+          "word": "overcome",
+          "strongNumber": "G3528",
+          "lemma": "nikaō",
+          "meaning": "to conquer, overcome"
+        },
+        {
+          "word": "good",
+          "strongNumber": "G18",
+          "lemma": "agathos",
+          "meaning": "good, beneficial"
+        }
+      ]
+    }
+  ]
+}

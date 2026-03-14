@@ -1,0 +1,888 @@
+{
+  "book": "Matthew",
+  "chapter": 5,
+  "chapterTheme": {
+    "twoWordSummary": "Kingdom Ethics",
+    "themeWords": [
+      {
+        "word": "kingdom",
+        "strongNumber": "G932",
+        "lemma": "basileia",
+        "meaning": "reign, rule, kingdom"
+      },
+      {
+        "word": "righteousness",
+        "strongNumber": "G1343",
+        "lemma": "dikaiosune",
+        "meaning": "righteousness, justice"
+      }
+    ]
+  },
+  "sentenceTheme": "Jesus proclaims the Beatitudes and intensifies the Law’s intent, calling his disciples to wholehearted righteousness, integrity, and enemy-love.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And seeing the multitudes, he went up into a mountain: and when he was set, his disciples came unto him:",
+      "highlightedWords": [
+        {
+          "word": "mountain",
+          "strongNumber": "G3735",
+          "lemma": "oros",
+          "meaning": "mountain, hill"
+        },
+        {
+          "word": "disciples",
+          "strongNumber": "G3101",
+          "lemma": "mathetes",
+          "meaning": "learner, disciple"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And he opened his mouth, and taught them, saying,",
+      "highlightedWords": [
+        {
+          "word": "mouth",
+          "strongNumber": "G4750",
+          "lemma": "stoma",
+          "meaning": "mouth"
+        },
+        {
+          "word": "taught",
+          "strongNumber": "G1321",
+          "lemma": "didasko",
+          "meaning": "to teach, instruct"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Blessed are the poor in spirit: for theirs is the kingdom of heaven.",
+      "highlightedWords": [
+        {
+          "word": "Blessed",
+          "strongNumber": "G3107",
+          "lemma": "makarios",
+          "meaning": "blessed, happy"
+        },
+        {
+          "word": "kingdom",
+          "strongNumber": "G932",
+          "lemma": "basileia",
+          "meaning": "reign, rule, kingdom"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Blessed are they that mourn: for they shall be comforted.",
+      "highlightedWords": [
+        {
+          "word": "mourn",
+          "strongNumber": "G3996",
+          "lemma": "pentheo",
+          "meaning": "to mourn, lament"
+        },
+        {
+          "word": "comforted",
+          "strongNumber": "G3870",
+          "lemma": "parakaleo",
+          "meaning": "to comfort, encourage"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Blessed are the meek: for they shall inherit the earth.",
+      "highlightedWords": [
+        {
+          "word": "meek",
+          "strongNumber": "G4239",
+          "lemma": "praus",
+          "meaning": "gentle, meek"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "G1093",
+          "lemma": "ge",
+          "meaning": "earth, land"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Blessed are they which do hunger and thirst after righteousness: for they shall be filled.",
+      "highlightedWords": [
+        {
+          "word": "hunger",
+          "strongNumber": "G3983",
+          "lemma": "peinao",
+          "meaning": "to be hungry, hunger"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "G1343",
+          "lemma": "dikaiosune",
+          "meaning": "righteousness, justice"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Blessed are the merciful: for they shall obtain mercy.",
+      "highlightedWords": [
+        {
+          "word": "merciful",
+          "strongNumber": "G1655",
+          "lemma": "eleemon",
+          "meaning": "merciful, compassionate"
+        },
+        {
+          "word": "mercy",
+          "strongNumber": "G1656",
+          "lemma": "eleos",
+          "meaning": "mercy, compassion"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Blessed are the pure in heart: for they shall see God.",
+      "highlightedWords": [
+        {
+          "word": "pure",
+          "strongNumber": "G2513",
+          "lemma": "katharos",
+          "meaning": "clean, pure"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "G2588",
+          "lemma": "kardia",
+          "meaning": "heart, inner person"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Blessed are the peacemakers: for they shall be called the children of God.",
+      "highlightedWords": [
+        {
+          "word": "peacemakers",
+          "strongNumber": "G1518",
+          "lemma": "eirenopoios",
+          "meaning": "one who makes peace"
+        },
+        {
+          "word": "children",
+          "strongNumber": "G5207",
+          "lemma": "huios",
+          "meaning": "son, descendant"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Blessed are they which are persecuted for righteousness' sake: for theirs is the kingdom of heaven.",
+      "highlightedWords": [
+        {
+          "word": "persecuted",
+          "strongNumber": "G1377",
+          "lemma": "dioko",
+          "meaning": "to persecute, pursue"
+        },
+        {
+          "word": "kingdom",
+          "strongNumber": "G932",
+          "lemma": "basileia",
+          "meaning": "reign, rule, kingdom"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Blessed are ye, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake.",
+      "highlightedWords": [
+        {
+          "word": "revile",
+          "strongNumber": "G3679",
+          "lemma": "oneidizo",
+          "meaning": "to reproach, revile"
+        },
+        {
+          "word": "persecute",
+          "strongNumber": "G1377",
+          "lemma": "dioko",
+          "meaning": "to persecute, pursue"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Rejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets which were before you.",
+      "highlightedWords": [
+        {
+          "word": "Rejoice",
+          "strongNumber": "G5463",
+          "lemma": "chairo",
+          "meaning": "to rejoice, be glad"
+        },
+        {
+          "word": "reward",
+          "strongNumber": "G3408",
+          "lemma": "misthos",
+          "meaning": "reward, wages"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Ye are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men.",
+      "highlightedWords": [
+        {
+          "word": "salt",
+          "strongNumber": "G217",
+          "lemma": "halas",
+          "meaning": "salt"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "G1093",
+          "lemma": "ge",
+          "meaning": "earth, land"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Ye are the light of the world. A city that is set on an hill cannot be hid.",
+      "highlightedWords": [
+        {
+          "word": "light",
+          "strongNumber": "G5457",
+          "lemma": "phos",
+          "meaning": "light"
+        },
+        {
+          "word": "world",
+          "strongNumber": "G2889",
+          "lemma": "kosmos",
+          "meaning": "world, ordered system"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Neither do men light a candle, and put it under a bushel, but on a candlestick; and it giveth light unto all that are in the house.",
+      "highlightedWords": [
+        {
+          "word": "candle",
+          "strongNumber": "G3088",
+          "lemma": "lychnos",
+          "meaning": "lamp, light"
+        },
+        {
+          "word": "candlestick",
+          "strongNumber": "G3087",
+          "lemma": "lychnia",
+          "meaning": "lampstand"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.",
+      "highlightedWords": [
+        {
+          "word": "glorify",
+          "strongNumber": "G1392",
+          "lemma": "doxazo",
+          "meaning": "to glorify, honor"
+        },
+        {
+          "word": "Father",
+          "strongNumber": "G3962",
+          "lemma": "pater",
+          "meaning": "father"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil.",
+      "highlightedWords": [
+        {
+          "word": "law",
+          "strongNumber": "G3551",
+          "lemma": "nomos",
+          "meaning": "law, principle"
+        },
+        {
+          "word": "fulfil",
+          "strongNumber": "G4137",
+          "lemma": "pleroo",
+          "meaning": "to fulfill, make full"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "For verily I say unto you, Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled.",
+      "highlightedWords": [
+        {
+          "word": "jot",
+          "strongNumber": "G2503",
+          "lemma": "iota",
+          "meaning": "the smallest letter (iota)"
+        },
+        {
+          "word": "tittle",
+          "strongNumber": "G2762",
+          "lemma": "keraia",
+          "meaning": "a small stroke or mark"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Whosoever therefore shall break one of these least commandments, and shall teach men so, he shall be called the least in the kingdom of heaven: but whosoever shall do and teach them, the same shall be called great in the kingdom of heaven.",
+      "highlightedWords": [
+        {
+          "word": "commandments",
+          "strongNumber": "G1785",
+          "lemma": "entole",
+          "meaning": "command, precept"
+        },
+        {
+          "word": "kingdom",
+          "strongNumber": "G932",
+          "lemma": "basileia",
+          "meaning": "reign, rule, kingdom"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "For I say unto you, That except your righteousness shall exceed the righteousness of the scribes and Pharisees, ye shall in no case enter into the kingdom of heaven.",
+      "highlightedWords": [
+        {
+          "word": "righteousness",
+          "strongNumber": "G1343",
+          "lemma": "dikaiosune",
+          "meaning": "righteousness, justice"
+        },
+        {
+          "word": "Pharisees",
+          "strongNumber": "G5330",
+          "lemma": "Pharisaios",
+          "meaning": "a Pharisee"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Ye have heard that it was said by them of old time, Thou shalt not kill; and whosoever shall kill shall be in danger of the judgment:",
+      "highlightedWords": [
+        {
+          "word": "kill",
+          "strongNumber": "G5407",
+          "lemma": "phoneuo",
+          "meaning": "to murder, kill"
+        },
+        {
+          "word": "judgment",
+          "strongNumber": "G2920",
+          "lemma": "krisis",
+          "meaning": "judgment, decision"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "But I say unto you, That whosoever is angry with his brother without a cause shall be in danger of the judgment: and whosoever shall say to his brother, Raca, shall be in danger of the council: but whosoever shall say, Thou fool, shall be in danger of hell fire.",
+      "highlightedWords": [
+        {
+          "word": "angry",
+          "strongNumber": "G3710",
+          "lemma": "orgizomai",
+          "meaning": "to be angry, wrathful"
+        },
+        {
+          "word": "hell",
+          "strongNumber": "G1067",
+          "lemma": "geenna",
+          "meaning": "Gehenna, hell"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Therefore if thou bring thy gift to the altar, and there rememberest that thy brother hath ought against thee;",
+      "highlightedWords": [
+        {
+          "word": "gift",
+          "strongNumber": "G1435",
+          "lemma": "doron",
+          "meaning": "gift, offering"
+        },
+        {
+          "word": "altar",
+          "strongNumber": "G2379",
+          "lemma": "thysiasterion",
+          "meaning": "altar"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Leave there thy gift before the altar, and go thy way; first be reconciled to thy brother, and then come and offer thy gift.",
+      "highlightedWords": [
+        {
+          "word": "reconciled",
+          "strongNumber": "G2644",
+          "lemma": "katallasso",
+          "meaning": "to reconcile"
+        },
+        {
+          "word": "offer",
+          "strongNumber": "G4374",
+          "lemma": "prosphero",
+          "meaning": "to bring, offer"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Agree with thine adversary quickly, whiles thou art in the way with him; lest at any time the adversary deliver thee to the judge, and the judge deliver thee to the officer, and thou be cast into prison.",
+      "highlightedWords": [
+        {
+          "word": "adversary",
+          "strongNumber": "G476",
+          "lemma": "antidikos",
+          "meaning": "opponent, adversary (in a lawsuit)"
+        },
+        {
+          "word": "judge",
+          "strongNumber": "G2923",
+          "lemma": "krites",
+          "meaning": "a judge"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "Verily I say unto thee, Thou shalt by no means come out thence, till thou hast paid the uttermost farthing.",
+      "highlightedWords": [
+        {
+          "word": "Verily",
+          "strongNumber": "G281",
+          "lemma": "amen",
+          "meaning": "truly, verily"
+        },
+        {
+          "word": "farthing",
+          "strongNumber": "G2835",
+          "lemma": "kodrantes",
+          "meaning": "a quadrans (small coin)"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "Ye have heard that it was said by them of old time, Thou shalt not commit adultery:",
+      "highlightedWords": [
+        {
+          "word": "heard",
+          "strongNumber": "G191",
+          "lemma": "akouo",
+          "meaning": "to hear"
+        },
+        {
+          "word": "adultery",
+          "strongNumber": "G3431",
+          "lemma": "moicheuo",
+          "meaning": "to commit adultery"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "But I say unto you, That whosoever looketh on a woman to lust after her hath committed adultery with her already in his heart.",
+      "highlightedWords": [
+        {
+          "word": "lust",
+          "strongNumber": "G1937",
+          "lemma": "epithumeo",
+          "meaning": "to desire, lust"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "G2588",
+          "lemma": "kardia",
+          "meaning": "heart, inner person"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "And if thy right eye offend thee, pluck it out, and cast it from thee: for it is profitable for thee that one of thy members should perish, and not that thy whole body should be cast into hell.",
+      "highlightedWords": [
+        {
+          "word": "eye",
+          "strongNumber": "G3788",
+          "lemma": "ophthalmos",
+          "meaning": "eye"
+        },
+        {
+          "word": "hell",
+          "strongNumber": "G1067",
+          "lemma": "geenna",
+          "meaning": "Gehenna, hell"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "And if thy right hand offend thee, cut it off, and cast it from thee: for it is profitable for thee that one of thy members should perish, and not that thy whole body should be cast into hell.",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "G5495",
+          "lemma": "cheir",
+          "meaning": "hand"
+        },
+        {
+          "word": "hell",
+          "strongNumber": "G1067",
+          "lemma": "geenna",
+          "meaning": "Gehenna, hell"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "It hath been said, Whosoever shall put away his wife, let him give her a writing of divorcement:",
+      "highlightedWords": [
+        {
+          "word": "wife",
+          "strongNumber": "G1135",
+          "lemma": "gyne",
+          "meaning": "woman, wife"
+        },
+        {
+          "word": "divorcement",
+          "strongNumber": "G647",
+          "lemma": "apostasion",
+          "meaning": "a bill of divorce"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "But I say unto you, That whosoever shall put away his wife, saving for the cause of fornication, causeth her to commit adultery: and whosoever shall marry her that is divorced committeth adultery.",
+      "highlightedWords": [
+        {
+          "word": "fornication",
+          "strongNumber": "G4202",
+          "lemma": "porneia",
+          "meaning": "sexual immorality, fornication"
+        },
+        {
+          "word": "adultery",
+          "strongNumber": "G3431",
+          "lemma": "moicheuo",
+          "meaning": "to commit adultery"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "Again, ye have heard that it hath been said by them of old time, Thou shalt not forswear thyself, but shalt perform unto the Lord thine oaths:",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "Lord, master"
+        },
+        {
+          "word": "oaths",
+          "strongNumber": "G3727",
+          "lemma": "horkos",
+          "meaning": "oath, vow"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "But I say unto you, Swear not at all; neither by heaven; for it is God's throne:",
+      "highlightedWords": [
+        {
+          "word": "Swear",
+          "strongNumber": "G3660",
+          "lemma": "omnuo",
+          "meaning": "to swear, take an oath"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "G3772",
+          "lemma": "ouranos",
+          "meaning": "heaven, sky"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "Nor by the earth; for it is his footstool: neither by Jerusalem; for it is the city of the great King.",
+      "highlightedWords": [
+        {
+          "word": "earth",
+          "strongNumber": "G1093",
+          "lemma": "ge",
+          "meaning": "earth, land"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "G2419",
+          "lemma": "Ierousalem",
+          "meaning": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "Neither shalt thou swear by thy head, because thou canst not make one hair white or black.",
+      "highlightedWords": [
+        {
+          "word": "hair",
+          "strongNumber": "G2359",
+          "lemma": "thrix",
+          "meaning": "hair"
+        },
+        {
+          "word": "white",
+          "strongNumber": "G3022",
+          "lemma": "leukos",
+          "meaning": "white, bright"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "But let your communication be, Yea, yea; Nay, nay: for whatsoever is more than these cometh of evil.",
+      "highlightedWords": [
+        {
+          "word": "Yea",
+          "strongNumber": "G3483",
+          "lemma": "nai",
+          "meaning": "yes, certainly"
+        },
+        {
+          "word": "evil",
+          "strongNumber": "G4190",
+          "lemma": "poneros",
+          "meaning": "evil, wicked"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "Ye have heard that it hath been said, An eye for an eye, and a tooth for a tooth:",
+      "highlightedWords": [
+        {
+          "word": "eye",
+          "strongNumber": "G3788",
+          "lemma": "ophthalmos",
+          "meaning": "eye"
+        },
+        {
+          "word": "tooth",
+          "strongNumber": "G3599",
+          "lemma": "odous",
+          "meaning": "tooth"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "text": "But I say unto you, That ye resist not evil: but whosoever shall smite thee on thy right cheek, turn to him the other also.",
+      "highlightedWords": [
+        {
+          "word": "resist",
+          "strongNumber": "G436",
+          "lemma": "anthistemi",
+          "meaning": "to resist, oppose"
+        },
+        {
+          "word": "cheek",
+          "strongNumber": "G4600",
+          "lemma": "siagon",
+          "meaning": "cheek, jaw"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "text": "And if any man will sue thee at the law, and take away thy coat, let him have thy cloak also.",
+      "highlightedWords": [
+        {
+          "word": "coat",
+          "strongNumber": "G5509",
+          "lemma": "chiton",
+          "meaning": "tunic, inner garment"
+        },
+        {
+          "word": "cloak",
+          "strongNumber": "G2440",
+          "lemma": "himation",
+          "meaning": "cloak, outer garment"
+        }
+      ]
+    },
+    {
+      "verse": 41,
+      "text": "And whosoever shall compel thee to go a mile, go with him twain.",
+      "highlightedWords": [
+        {
+          "word": "compel",
+          "strongNumber": "G29",
+          "lemma": "aggareuo",
+          "meaning": "to compel, press into service"
+        },
+        {
+          "word": "mile",
+          "strongNumber": "G3400",
+          "lemma": "milion",
+          "meaning": "a mile (Roman measure)"
+        }
+      ]
+    },
+    {
+      "verse": 42,
+      "text": "Give to him that asketh thee, and from him that would borrow of thee turn not thou away.",
+      "highlightedWords": [
+        {
+          "word": "asketh",
+          "strongNumber": "G154",
+          "lemma": "aiteo",
+          "meaning": "to ask, request"
+        },
+        {
+          "word": "borrow",
+          "strongNumber": "G1155",
+          "lemma": "daneizomai",
+          "meaning": "to borrow, take a loan"
+        }
+      ]
+    },
+    {
+      "verse": 43,
+      "text": "Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy.",
+      "highlightedWords": [
+        {
+          "word": "love",
+          "strongNumber": "G25",
+          "lemma": "agapao",
+          "meaning": "to love"
+        },
+        {
+          "word": "enemy",
+          "strongNumber": "G2190",
+          "lemma": "echthros",
+          "meaning": "enemy, hostile one"
+        }
+      ]
+    },
+    {
+      "verse": 44,
+      "text": "But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;",
+      "highlightedWords": [
+        {
+          "word": "pray",
+          "strongNumber": "G4336",
+          "lemma": "proseuchomai",
+          "meaning": "to pray"
+        },
+        {
+          "word": "persecute",
+          "strongNumber": "G1377",
+          "lemma": "dioko",
+          "meaning": "to persecute, pursue"
+        }
+      ]
+    },
+    {
+      "verse": 45,
+      "text": "That ye may be the children of your Father which is in heaven: for he maketh his sun to rise on the evil and on the good, and sendeth rain on the just and on the unjust.",
+      "highlightedWords": [
+        {
+          "word": "children",
+          "strongNumber": "G5207",
+          "lemma": "huios",
+          "meaning": "son, descendant"
+        },
+        {
+          "word": "sun",
+          "strongNumber": "G2246",
+          "lemma": "helios",
+          "meaning": "sun"
+        }
+      ]
+    },
+    {
+      "verse": 46,
+      "text": "For if ye love them which love you, what reward have ye? do not even the publicans the same?",
+      "highlightedWords": [
+        {
+          "word": "reward",
+          "strongNumber": "G3408",
+          "lemma": "misthos",
+          "meaning": "reward, wages"
+        },
+        {
+          "word": "publicans",
+          "strongNumber": "G5057",
+          "lemma": "telones",
+          "meaning": "tax collectors"
+        }
+      ]
+    },
+    {
+      "verse": 47,
+      "text": "And if ye salute your brethren only, what do ye more than others? do not even the publicans so?",
+      "highlightedWords": [
+        {
+          "word": "salute",
+          "strongNumber": "G782",
+          "lemma": "aspazomai",
+          "meaning": "to greet, salute"
+        },
+        {
+          "word": "brethren",
+          "strongNumber": "G80",
+          "lemma": "adelphos",
+          "meaning": "brother, fellow believer"
+        }
+      ]
+    },
+    {
+      "verse": 48,
+      "text": "Be ye therefore perfect, even as your Father which is in heaven is perfect.",
+      "highlightedWords": [
+        {
+          "word": "perfect",
+          "strongNumber": "G5046",
+          "lemma": "teleios",
+          "meaning": "complete, mature, perfect"
+        },
+        {
+          "word": "Father",
+          "strongNumber": "G3962",
+          "lemma": "pater",
+          "meaning": "father"
+        }
+      ]
+    }
+  ]
+}

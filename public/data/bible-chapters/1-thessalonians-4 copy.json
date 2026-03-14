@@ -1,0 +1,348 @@
+{
+  "book": "1 Thessalonians",
+  "chapter": 4,
+  "chapterTheme": {
+    "twoWordSummary": "Purity Hope",
+    "themeWords": [
+      {
+        "word": "sanctification",
+        "strongNumber": "G38",
+        "lemma": "hagiasmos",
+        "meaning": "holiness; consecration"
+      },
+      {
+        "word": "coming",
+        "strongNumber": "G3952",
+        "lemma": "parousia",
+        "meaning": "presence; coming"
+      }
+    ]
+  },
+  "sentenceTheme": "A call to sanctified living, brotherly love, diligent work, and comfort in the hope of Christ’s coming.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Furthermore then we beseech you, brethren, and exhort you by the Lord Jesus, that as ye have received of us how ye ought to walk and to please God, so ye would abound more and more.",
+      "highlightedWords": [
+        {
+          "word": "walk",
+          "strongNumber": "G4043",
+          "lemma": "peripateo",
+          "meaning": "to walk; conduct oneself"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God; deity"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "For ye know what commandments we gave you by the Lord Jesus.",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kurios",
+          "meaning": "lord; master"
+        },
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iesous",
+          "meaning": "Jesus; Joshua"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "For this is the will of God, even your sanctification, that ye should abstain from fornication:",
+      "highlightedWords": [
+        {
+          "word": "sanctification",
+          "strongNumber": "G38",
+          "lemma": "hagiasmos",
+          "meaning": "sanctification; holiness"
+        },
+        {
+          "word": "fornication",
+          "strongNumber": "G4202",
+          "lemma": "porneia",
+          "meaning": "sexual immorality; fornication"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "That every one of you should know how to possess his vessel in sanctification and honour;",
+      "highlightedWords": [
+        {
+          "word": "vessel",
+          "strongNumber": "G4632",
+          "lemma": "skeuos",
+          "meaning": "vessel; implement; instrument"
+        },
+        {
+          "word": "honour",
+          "strongNumber": "G5092",
+          "lemma": "timē",
+          "meaning": "honor; value; price"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Not in the lust of concupiscence, even as the Gentiles which know not God:",
+      "highlightedWords": [
+        {
+          "word": "lust",
+          "strongNumber": "G3806",
+          "lemma": "pathos",
+          "meaning": "passion; lust"
+        },
+        {
+          "word": "Gentiles",
+          "strongNumber": "G1484",
+          "lemma": "ethnos",
+          "meaning": "nation; Gentiles"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "That no man go beyond and defraud his brother in any matter: because that the Lord is the avenger of all such, as we also have forewarned you and testified.",
+      "highlightedWords": [
+        {
+          "word": "defraud",
+          "strongNumber": "G4122",
+          "lemma": "pleonekteo",
+          "meaning": "to defraud; take advantage of"
+        },
+        {
+          "word": "avenger",
+          "strongNumber": "G1558",
+          "lemma": "ekdikos",
+          "meaning": "avenger; one who exacts penalty"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "For God hath not called us unto uncleanness, but unto holiness.",
+      "highlightedWords": [
+        {
+          "word": "uncleanness",
+          "strongNumber": "G167",
+          "lemma": "akatharsia",
+          "meaning": "impurity; uncleanness"
+        },
+        {
+          "word": "holiness",
+          "strongNumber": "G38",
+          "lemma": "hagiasmos",
+          "meaning": "holiness; sanctification"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "He therefore that despiseth, despiseth not man, but God, who hath also given unto us his holy Spirit.",
+      "highlightedWords": [
+        {
+          "word": "despiseth",
+          "strongNumber": "G114",
+          "lemma": "atheteo",
+          "meaning": "to reject; set aside; disregard"
+        },
+        {
+          "word": "Spirit",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit; breath; Spirit"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "But as touching brotherly love ye need not that I write unto you: for ye yourselves are taught of God to love one another.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God; deity"
+        },
+        {
+          "word": "love",
+          "strongNumber": "G25",
+          "lemma": "agapao",
+          "meaning": "to love; show affection"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And indeed ye do it toward all the brethren which are in all Macedonia: but we beseech you, brethren, that ye increase more and more;",
+      "highlightedWords": [
+        {
+          "word": "brethren",
+          "strongNumber": "G80",
+          "lemma": "adelphos",
+          "meaning": "brother; fellow believer"
+        },
+        {
+          "word": "increase",
+          "strongNumber": "G4052",
+          "lemma": "perisseuo",
+          "meaning": "to abound; increase"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And that ye study to be quiet, and to do your own business, and to work with your own hands, as we commanded you;",
+      "highlightedWords": [
+        {
+          "word": "work",
+          "strongNumber": "G2038",
+          "lemma": "ergazomai",
+          "meaning": "to work; labor; do"
+        },
+        {
+          "word": "hands",
+          "strongNumber": "G5495",
+          "lemma": "cheir",
+          "meaning": "hand"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "That ye may walk honestly toward them that are without, and that ye may have lack of nothing.",
+      "highlightedWords": [
+        {
+          "word": "walk",
+          "strongNumber": "G4043",
+          "lemma": "peripateo",
+          "meaning": "to walk; conduct oneself"
+        },
+        {
+          "word": "lack",
+          "strongNumber": "G5302",
+          "lemma": "hustereo",
+          "meaning": "to lack; fall short"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "But I would not have you to be ignorant, brethren, concerning them which are asleep, that ye sorrow not, even as others which have no hope.",
+      "highlightedWords": [
+        {
+          "word": "asleep",
+          "strongNumber": "G2837",
+          "lemma": "koimao",
+          "meaning": "to sleep; fall asleep (of death)"
+        },
+        {
+          "word": "hope",
+          "strongNumber": "G1680",
+          "lemma": "elpis",
+          "meaning": "hope; expectation"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "For if we believe that Jesus died and rose again, even so them also which sleep in Jesus will God bring with him.",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iesous",
+          "meaning": "Jesus; Joshua"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God; deity"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "For this we say unto you by the word of the Lord, that we which are alive and remain unto the coming of the Lord shall not prevent them which are asleep.",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "G3056",
+          "lemma": "logos",
+          "meaning": "word; message; statement"
+        },
+        {
+          "word": "coming",
+          "strongNumber": "G3952",
+          "lemma": "parousia",
+          "meaning": "presence; coming"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first:",
+      "highlightedWords": [
+        {
+          "word": "archangel",
+          "strongNumber": "G743",
+          "lemma": "archangelos",
+          "meaning": "archangel; chief angel"
+        },
+        {
+          "word": "trump",
+          "strongNumber": "G4536",
+          "lemma": "salpigx",
+          "meaning": "trumpet"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Then we which are alive and remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord.",
+      "highlightedWords": [
+        {
+          "word": "caught up",
+          "strongNumber": "G726",
+          "lemma": "harpazo",
+          "meaning": "to seize; snatch; catch away"
+        },
+        {
+          "word": "clouds",
+          "strongNumber": "G3507",
+          "lemma": "nephele",
+          "meaning": "cloud"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Wherefore comfort one another with these words.",
+      "highlightedWords": [
+        {
+          "word": "comfort",
+          "strongNumber": "G3870",
+          "lemma": "parakaleo",
+          "meaning": "to encourage; comfort; exhort"
+        },
+        {
+          "word": "words",
+          "strongNumber": "G3056",
+          "lemma": "logos",
+          "meaning": "words; sayings; message"
+        }
+      ]
+    }
+  ]
+}

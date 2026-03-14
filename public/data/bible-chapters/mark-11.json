@@ -1,0 +1,618 @@
+{
+  "book": "Mark",
+  "chapter": 11,
+  "chapterTheme": {
+    "twoWordSummary": "Triumphal Entry",
+    "themeWords": [
+      {
+        "word": "Hosanna",
+        "strongNumber": "G5614",
+        "lemma": "hōsanna",
+        "meaning": "hosanna; save now"
+      },
+      {
+        "word": "faith",
+        "strongNumber": "G4102",
+        "lemma": "pistis",
+        "meaning": "faith, trust, belief"
+      }
+    ]
+  },
+  "sentenceTheme": "Jesus enters Jerusalem as Messiah, cleanses the temple, curses the fig tree as a lesson, teaches faith and forgiveness, and confounds the leaders’ challenge to His authority.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And when they came nigh to Jerusalem, unto Bethphage and Bethany, at the mount of Olives, he sendeth forth two of his disciples,",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "G2419",
+          "lemma": "Hierousalēm",
+          "meaning": "Jerusalem"
+        },
+        {
+          "word": "disciples",
+          "strongNumber": "G3101",
+          "lemma": "mathētēs",
+          "meaning": "disciple, learner, follower"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And saith unto them, Go your way into the village over against you: and as soon as ye be entered into it, ye shall find a colt tied, whereon never man sat; loose him, and bring him.",
+      "highlightedWords": [
+        {
+          "word": "village",
+          "strongNumber": "G2968",
+          "lemma": "kōmē",
+          "meaning": "village"
+        },
+        {
+          "word": "colt",
+          "strongNumber": "G4454",
+          "lemma": "pōlos",
+          "meaning": "a colt, a young donkey"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And if any man say unto you, Why do ye this? say ye that the Lord hath need of him; and straightway he will send him hither.",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "lord, master"
+        },
+        {
+          "word": "send",
+          "strongNumber": "G649",
+          "lemma": "apostellō",
+          "meaning": "to send"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And they went their way, and found the colt tied by the door without in a place where two ways met; and they loose him.",
+      "highlightedWords": [
+        {
+          "word": "door",
+          "strongNumber": "G2374",
+          "lemma": "thyra",
+          "meaning": "door, gate, entrance"
+        },
+        {
+          "word": "loose",
+          "strongNumber": "G3089",
+          "lemma": "lyō",
+          "meaning": "to loose, untie, release"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And certain of them that stood there said unto them, What do ye, loosing the colt?",
+      "highlightedWords": [
+        {
+          "word": "loosing",
+          "strongNumber": "G3089",
+          "lemma": "lyō",
+          "meaning": "to loose, untie, release"
+        },
+        {
+          "word": "colt",
+          "strongNumber": "G4454",
+          "lemma": "pōlos",
+          "meaning": "a colt, a young donkey"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And they said unto them even as Jesus had commanded: and they let them go.",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus; Yahweh is salvation"
+        },
+        {
+          "word": "commanded",
+          "strongNumber": "G1781",
+          "lemma": "entellomai",
+          "meaning": "to command, give orders"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And they brought the colt to Jesus, and cast their garments on him; and he sat upon him.",
+      "highlightedWords": [
+        {
+          "word": "garments",
+          "strongNumber": "G2440",
+          "lemma": "himation",
+          "meaning": "garment, cloak"
+        },
+        {
+          "word": "sat",
+          "strongNumber": "G2523",
+          "lemma": "kathizō",
+          "meaning": "to sit, sit down"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And many spread their garments in the way: and others cut down branches off the trees, and strawed them in the way.",
+      "highlightedWords": [
+        {
+          "word": "trees",
+          "strongNumber": "G1186",
+          "lemma": "dendron",
+          "meaning": "tree"
+        },
+        {
+          "word": "way",
+          "strongNumber": "G3598",
+          "lemma": "hodos",
+          "meaning": "way, road, path"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And they that went before, and they that followed, cried, saying, Hosanna; Blessed is he that cometh in the name of the Lord:",
+      "highlightedWords": [
+        {
+          "word": "Hosanna",
+          "strongNumber": "G5614",
+          "lemma": "hōsanna",
+          "meaning": "hosanna; save now"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "lord, master"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Blessed be the kingdom of our father David, that cometh in the name of the Lord: Hosanna in the highest.",
+      "highlightedWords": [
+        {
+          "word": "kingdom",
+          "strongNumber": "G932",
+          "lemma": "basileia",
+          "meaning": "kingdom, reign, rule"
+        },
+        {
+          "word": "David",
+          "strongNumber": "G1138",
+          "lemma": "Dauid",
+          "meaning": "David"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And Jesus entered into Jerusalem, and into the temple: and when he had looked round about upon all things, and now the eventide was come, he went out unto Bethany with the twelve.",
+      "highlightedWords": [
+        {
+          "word": "temple",
+          "strongNumber": "G2411",
+          "lemma": "hieron",
+          "meaning": "the temple precincts"
+        },
+        {
+          "word": "Bethany",
+          "strongNumber": "G963",
+          "lemma": "Bethania",
+          "meaning": "Bethany, village near Jerusalem"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And on the morrow, when they were come from Bethany, he was hungry:",
+      "highlightedWords": [
+        {
+          "word": "Bethany",
+          "strongNumber": "G963",
+          "lemma": "Bethania",
+          "meaning": "Bethany, village near Jerusalem"
+        },
+        {
+          "word": "hungry",
+          "strongNumber": "G3983",
+          "lemma": "peinaō",
+          "meaning": "to be hungry"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And seeing a fig tree afar off having leaves, he came, if haply he might find any thing thereon: and when he came to it, he found nothing but leaves; for the time of figs was not yet.",
+      "highlightedWords": [
+        {
+          "word": "leaves",
+          "strongNumber": "G5444",
+          "lemma": "phyllon",
+          "meaning": "leaf, foliage"
+        },
+        {
+          "word": "found",
+          "strongNumber": "G2147",
+          "lemma": "heuriskō",
+          "meaning": "to find, discover"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And Jesus answered and said unto it, No man eat fruit of thee hereafter for ever. And his disciples heard it.",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus; Yahweh is salvation"
+        },
+        {
+          "word": "disciples",
+          "strongNumber": "G3101",
+          "lemma": "mathētēs",
+          "meaning": "disciple, learner, follower"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And they come to Jerusalem: and Jesus went into the temple, and began to cast out them that sold and bought in the temple, and overthrew the tables of the moneychangers, and the seats of them that sold doves;",
+      "highlightedWords": [
+        {
+          "word": "temple",
+          "strongNumber": "G2411",
+          "lemma": "hieron",
+          "meaning": "the temple precincts"
+        },
+        {
+          "word": "moneychangers",
+          "strongNumber": "G2773",
+          "lemma": "kollubistēs",
+          "meaning": "money changer"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And would not suffer that any man should carry any vessel through the temple.",
+      "highlightedWords": [
+        {
+          "word": "suffer",
+          "strongNumber": "G863",
+          "lemma": "aphiēmi",
+          "meaning": "to allow, permit; to forgive"
+        },
+        {
+          "word": "temple",
+          "strongNumber": "G2411",
+          "lemma": "hieron",
+          "meaning": "the temple precincts"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And he taught, saying unto them, Is it not written, My house shall be called of all nations the house of prayer? but ye have made it a den of thieves.",
+      "highlightedWords": [
+        {
+          "word": "written",
+          "strongNumber": "G1125",
+          "lemma": "graphō",
+          "meaning": "to write"
+        },
+        {
+          "word": "prayer",
+          "strongNumber": "G4335",
+          "lemma": "proseuchē",
+          "meaning": "prayer"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And the scribes and chief priests heard it, and sought how they might destroy him: for they feared him, because all the people was astonished at his doctrine.",
+      "highlightedWords": [
+        {
+          "word": "scribes",
+          "strongNumber": "G1122",
+          "lemma": "grammateus",
+          "meaning": "scribe, expert in the law"
+        },
+        {
+          "word": "doctrine",
+          "strongNumber": "G1322",
+          "lemma": "didachē",
+          "meaning": "teaching, doctrine"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And when even was come, he went out of the city.",
+      "highlightedWords": [
+        {
+          "word": "went",
+          "strongNumber": "G1831",
+          "lemma": "exerchomai",
+          "meaning": "to go out, depart"
+        },
+        {
+          "word": "city",
+          "strongNumber": "G4172",
+          "lemma": "polis",
+          "meaning": "city"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And in the morning, as they passed by, they saw the fig tree dried up from the roots.",
+      "highlightedWords": [
+        {
+          "word": "morning",
+          "strongNumber": "G4404",
+          "lemma": "prōi",
+          "meaning": "early morning, dawn"
+        },
+        {
+          "word": "roots",
+          "strongNumber": "G4491",
+          "lemma": "rhiza",
+          "meaning": "root"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And Peter calling to remembrance saith unto him, Master, behold, the fig tree which thou cursedst is withered away.",
+      "highlightedWords": [
+        {
+          "word": "Peter",
+          "strongNumber": "G4074",
+          "lemma": "Petros",
+          "meaning": "Peter; a rock"
+        },
+        {
+          "word": "Master",
+          "strongNumber": "G4461",
+          "lemma": "rhabbi",
+          "meaning": "Rabbi, teacher"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And Jesus answering saith unto them, Have faith in God.",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus; Yahweh is salvation"
+        },
+        {
+          "word": "faith",
+          "strongNumber": "G4102",
+          "lemma": "pistis",
+          "meaning": "faith, trust, belief"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "For verily I say unto you, That whosoever shall say unto this mountain, Be thou removed, and be thou cast into the sea; and shall not doubt in his heart, but shall believe that those things which he saith shall come to pass; he shall have whatsoever he saith.",
+      "highlightedWords": [
+        {
+          "word": "mountain",
+          "strongNumber": "G3735",
+          "lemma": "oros",
+          "meaning": "mountain"
+        },
+        {
+          "word": "sea",
+          "strongNumber": "G2281",
+          "lemma": "thalassa",
+          "meaning": "sea"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Therefore I say unto you, What things soever ye desire, when ye pray, believe that ye receive them, and ye shall have them.",
+      "highlightedWords": [
+        {
+          "word": "pray",
+          "strongNumber": "G4336",
+          "lemma": "proseuchomai",
+          "meaning": "to pray"
+        },
+        {
+          "word": "believe",
+          "strongNumber": "G4100",
+          "lemma": "pisteuō",
+          "meaning": "to believe, trust"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And when ye stand praying, forgive, if ye have ought against any: that your Father also which is in heaven may forgive you your trespasses.",
+      "highlightedWords": [
+        {
+          "word": "forgive",
+          "strongNumber": "G863",
+          "lemma": "aphiēmi",
+          "meaning": "to forgive, remit, release"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "G3772",
+          "lemma": "ouranos",
+          "meaning": "heaven, sky"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "But if ye do not forgive, neither will your Father which is in heaven forgive your trespasses.",
+      "highlightedWords": [
+        {
+          "word": "forgive",
+          "strongNumber": "G863",
+          "lemma": "aphiēmi",
+          "meaning": "to forgive, remit, release"
+        },
+        {
+          "word": "Father",
+          "strongNumber": "G3962",
+          "lemma": "patēr",
+          "meaning": "father"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And they come again to Jerusalem: and as he was walking in the temple, there come to him the chief priests, and the scribes, and the elders,",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "G2419",
+          "lemma": "Hierousalēm",
+          "meaning": "Jerusalem"
+        },
+        {
+          "word": "elders",
+          "strongNumber": "G4245",
+          "lemma": "presbyteros",
+          "meaning": "elder"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And say unto him, By what authority doest thou these things? and who gave thee this authority to do these things?",
+      "highlightedWords": [
+        {
+          "word": "authority",
+          "strongNumber": "G1849",
+          "lemma": "exousia",
+          "meaning": "authority, right, power"
+        },
+        {
+          "word": "doest",
+          "strongNumber": "G4160",
+          "lemma": "poieō",
+          "meaning": "to do, make"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "And Jesus answered and said unto them, I will also ask of you one question, and answer me, and I will tell you by what authority I do these things.",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus; Yahweh is salvation"
+        },
+        {
+          "word": "authority",
+          "strongNumber": "G1849",
+          "lemma": "exousia",
+          "meaning": "authority, right, power"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "The baptism of John, was it from heaven, or of men? answer me.",
+      "highlightedWords": [
+        {
+          "word": "baptism",
+          "strongNumber": "G908",
+          "lemma": "baptisma",
+          "meaning": "baptism"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "G3772",
+          "lemma": "ouranos",
+          "meaning": "heaven, sky"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "And they reasoned with themselves, saying, If we shall say, From heaven; he will say, Why then did ye not believe him?",
+      "highlightedWords": [
+        {
+          "word": "reasoned",
+          "strongNumber": "G1260",
+          "lemma": "dialogizomai",
+          "meaning": "to reason, consider"
+        },
+        {
+          "word": "believe",
+          "strongNumber": "G4100",
+          "lemma": "pisteuō",
+          "meaning": "to believe, trust"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "But if we shall say, Of men; they feared the people: for all men counted John, that he was a prophet indeed.",
+      "highlightedWords": [
+        {
+          "word": "men",
+          "strongNumber": "G444",
+          "lemma": "anthrōpos",
+          "meaning": "man, human being"
+        },
+        {
+          "word": "prophet",
+          "strongNumber": "G4396",
+          "lemma": "prophētēs",
+          "meaning": "prophet"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "And they answered and said unto Jesus, We cannot tell. And Jesus answering saith unto them, Neither do I tell you by what authority I do these things.",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus; Yahweh is salvation"
+        },
+        {
+          "word": "authority",
+          "strongNumber": "G1849",
+          "lemma": "exousia",
+          "meaning": "authority, right, power"
+        }
+      ]
+    }
+  ]
+}

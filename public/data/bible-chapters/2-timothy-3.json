@@ -1,0 +1,330 @@
+{
+  "book": "2 Timothy",
+  "chapter": 3,
+  "chapterTheme": {
+    "twoWordSummary": "Perilous Days",
+    "themeWords": [
+      {
+        "word": "perilous",
+        "strongNumber": "G5467",
+        "lemma": "chalepos",
+        "meaning": "difficult, dangerous, hard to bear"
+      },
+      {
+        "word": "scripture",
+        "strongNumber": "G1124",
+        "lemma": "graphe",
+        "meaning": "a writing; the sacred Scripture"
+      }
+    ]
+  },
+  "sentenceTheme": "In the last days people will turn to ungodliness, but God-breathed Scripture equips believers to remain faithful and ready for every good work.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "This know also, that in the last days perilous times shall come.",
+      "highlightedWords": [
+        {
+          "word": "last",
+          "strongNumber": "G2078",
+          "lemma": "eschatos",
+          "meaning": "final, last in time or rank"
+        },
+        {
+          "word": "perilous",
+          "strongNumber": "G5467",
+          "lemma": "chalepos",
+          "meaning": "difficult, dangerous, grievous"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,",
+      "highlightedWords": [
+        {
+          "word": "blasphemers",
+          "strongNumber": "G989",
+          "lemma": "blasphemos",
+          "meaning": "slanderous, speaking evil of God"
+        },
+        {
+          "word": "unholy",
+          "strongNumber": "G462",
+          "lemma": "anosios",
+          "meaning": "profane, irreverent, unholy"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Without natural affection, trucebreakers, false accusers, incontinent, fierce, despisers of those that are good,",
+      "highlightedWords": [
+        {
+          "word": "trucebreakers",
+          "strongNumber": "G862",
+          "lemma": "aspondos",
+          "meaning": "implacable, unwilling to make a treaty"
+        },
+        {
+          "word": "incontinent",
+          "strongNumber": "G193",
+          "lemma": "akrates",
+          "meaning": "without self-control"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Traitors, heady, highminded, lovers of pleasures more than lovers of God;",
+      "highlightedWords": [
+        {
+          "word": "Traitors",
+          "strongNumber": "G4273",
+          "lemma": "prodotes",
+          "meaning": "betrayer, traitor"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God, deity, the supreme Divinity"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Having a form of godliness, but denying the power thereof: from such turn away.",
+      "highlightedWords": [
+        {
+          "word": "godliness",
+          "strongNumber": "G2150",
+          "lemma": "eusebeia",
+          "meaning": "piety, reverence toward God"
+        },
+        {
+          "word": "power",
+          "strongNumber": "G1411",
+          "lemma": "dynamis",
+          "meaning": "power, might, miraculous ability"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "For of this sort are they which creep into houses, and lead captive silly women laden with sins, led away with divers lusts,",
+      "highlightedWords": [
+        {
+          "word": "sins",
+          "strongNumber": "G266",
+          "lemma": "hamartia",
+          "meaning": "sin, missing the mark"
+        },
+        {
+          "word": "lusts",
+          "strongNumber": "G1939",
+          "lemma": "epithumia",
+          "meaning": "desire, craving, lust"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Ever learning, and never able to come to the knowledge of the truth.",
+      "highlightedWords": [
+        {
+          "word": "knowledge",
+          "strongNumber": "G1922",
+          "lemma": "epignosis",
+          "meaning": "full knowledge, recognition"
+        },
+        {
+          "word": "truth",
+          "strongNumber": "G225",
+          "lemma": "aletheia",
+          "meaning": "truth, reality, what is factual"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Now as Jannes and Jambres withstood Moses, so do these also resist the truth: men of corrupt minds, reprobate concerning the faith.",
+      "highlightedWords": [
+        {
+          "word": "reprobate",
+          "strongNumber": "G96",
+          "lemma": "adokimos",
+          "meaning": "disqualified, not standing the test"
+        },
+        {
+          "word": "faith",
+          "strongNumber": "G4102",
+          "lemma": "pistis",
+          "meaning": "faith, trust, belief"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "But they shall proceed no further: for their folly shall be manifest unto all men, as theirs also was.",
+      "highlightedWords": [
+        {
+          "word": "proceed",
+          "strongNumber": "G4298",
+          "lemma": "prokopto",
+          "meaning": "to advance, go forward"
+        },
+        {
+          "word": "men",
+          "strongNumber": "G444",
+          "lemma": "anthropos",
+          "meaning": "a human being, man"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "But thou hast fully known my doctrine, manner of life, purpose, faith, longsuffering, charity, patience,",
+      "highlightedWords": [
+        {
+          "word": "doctrine",
+          "strongNumber": "G1319",
+          "lemma": "didaskalia",
+          "meaning": "teaching, instruction, doctrine"
+        },
+        {
+          "word": "charity",
+          "strongNumber": "G26",
+          "lemma": "agape",
+          "meaning": "self-giving love"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Persecutions, afflictions, which came unto me at Antioch, at Iconium, at Lystra; what persecutions I endured: but out of them all the Lord delivered me.",
+      "highlightedWords": [
+        {
+          "word": "Persecutions",
+          "strongNumber": "G1375",
+          "lemma": "diogmos",
+          "meaning": "persecution, pursuit"
+        },
+        {
+          "word": "delivered",
+          "strongNumber": "G4506",
+          "lemma": "rhyomai",
+          "meaning": "to rescue, deliver from danger"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Yea, and all that will live godly in Christ Jesus shall suffer persecution.",
+      "highlightedWords": [
+        {
+          "word": "godly",
+          "strongNumber": "G2153",
+          "lemma": "eusebos",
+          "meaning": "piously, in a godly manner"
+        },
+        {
+          "word": "persecution",
+          "strongNumber": "G1375",
+          "lemma": "diogmos",
+          "meaning": "persecution, hostile pursuit"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "But evil men and seducers shall wax worse and worse, deceiving, and being deceived.",
+      "highlightedWords": [
+        {
+          "word": "seducers",
+          "strongNumber": "G1114",
+          "lemma": "goes",
+          "meaning": "impostor, deceiver"
+        },
+        {
+          "word": "deceiving",
+          "strongNumber": "G4105",
+          "lemma": "planao",
+          "meaning": "to lead astray, deceive"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "But continue thou in the things which thou hast learned and hast been assured of, knowing of whom thou hast learned them;",
+      "highlightedWords": [
+        {
+          "word": "continue",
+          "strongNumber": "G3306",
+          "lemma": "meno",
+          "meaning": "to remain, abide, continue"
+        },
+        {
+          "word": "learned",
+          "strongNumber": "G3129",
+          "lemma": "manthano",
+          "meaning": "to learn, be taught"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And that from a child thou hast known the holy scriptures, which are able to make thee wise unto salvation through faith which is in Christ Jesus.",
+      "highlightedWords": [
+        {
+          "word": "scriptures",
+          "strongNumber": "G1121",
+          "lemma": "gramma",
+          "meaning": "writing, letter; the sacred writings"
+        },
+        {
+          "word": "salvation",
+          "strongNumber": "G4991",
+          "lemma": "soteria",
+          "meaning": "deliverance, salvation"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness:",
+      "highlightedWords": [
+        {
+          "word": "scripture",
+          "strongNumber": "G1124",
+          "lemma": "graphe",
+          "meaning": "Scripture, a sacred writing"
+        },
+        {
+          "word": "profitable",
+          "strongNumber": "G5624",
+          "lemma": "ophelimos",
+          "meaning": "useful, beneficial, advantageous"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "That the man of God may be perfect, throughly furnished unto all good works.",
+      "highlightedWords": [
+        {
+          "word": "perfect",
+          "strongNumber": "G739",
+          "lemma": "artios",
+          "meaning": "complete, fitted, perfect"
+        },
+        {
+          "word": "works",
+          "strongNumber": "G2041",
+          "lemma": "ergon",
+          "meaning": "work, deed, action"
+        }
+      ]
+    }
+  ]
+}

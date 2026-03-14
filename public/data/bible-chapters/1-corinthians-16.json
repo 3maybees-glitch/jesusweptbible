@@ -1,0 +1,456 @@
+{
+  "book": "1 Corinthians",
+  "chapter": 16,
+  "chapterTheme": {
+    "twoWordSummary": "Final Exhortations",
+    "themeWords": [
+      {
+        "word": "collection",
+        "strongNumber": "G3048",
+        "lemma": "logeia",
+        "meaning": "a collection, contribution"
+      },
+      {
+        "word": "charity",
+        "strongNumber": "G26",
+        "lemma": "agape",
+        "meaning": "selfless love, benevolence"
+      }
+    ]
+  },
+  "sentenceTheme": "Paul concludes with instructions about the collection, travel plans, commendations, steadfastness in the faith, love, and final greetings.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Now concerning the collection for the saints, as I have given order to the churches of Galatia, even so do ye.",
+      "highlightedWords": [
+        {
+          "word": "collection",
+          "strongNumber": "G3048",
+          "lemma": "logeia",
+          "meaning": "a collection, contribution"
+        },
+        {
+          "word": "saints",
+          "strongNumber": "G40",
+          "lemma": "hagios",
+          "meaning": "holy ones, saints"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Upon the first day of the week let every one of you lay by him in store, as God hath prospered him, that there be no gatherings when I come.",
+      "highlightedWords": [
+        {
+          "word": "first",
+          "strongNumber": "G3391",
+          "lemma": "mia",
+          "meaning": "one, first"
+        },
+        {
+          "word": "prospered",
+          "strongNumber": "G2137",
+          "lemma": "euodoo",
+          "meaning": "to prosper, succeed"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And when I come, whomsoever ye shall approve by your letters, them will I send to bring your liberality unto Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "letters",
+          "strongNumber": "G1992",
+          "lemma": "epistole",
+          "meaning": "a letter, epistle"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "G2419",
+          "lemma": "Hierosolyma",
+          "meaning": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And if it be meet that I go also, they shall go with me.",
+      "highlightedWords": [
+        {
+          "word": "go",
+          "strongNumber": "G4198",
+          "lemma": "poreuomai",
+          "meaning": "to go, travel"
+        },
+        {
+          "word": "with",
+          "strongNumber": "G3326",
+          "lemma": "meta",
+          "meaning": "with, among"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Now I will come unto you, when I shall pass through Macedonia: for I do pass through Macedonia.",
+      "highlightedWords": [
+        {
+          "word": "come",
+          "strongNumber": "G2064",
+          "lemma": "erchomai",
+          "meaning": "to come, go"
+        },
+        {
+          "word": "Macedonia",
+          "strongNumber": "G3109",
+          "lemma": "Makedonia",
+          "meaning": "Macedonia"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And it may be that I will abide, yea, and winter with you, that ye may bring me on my journey whithersoever I go.",
+      "highlightedWords": [
+        {
+          "word": "winter",
+          "strongNumber": "G3914",
+          "lemma": "paracheimazo",
+          "meaning": "to spend the winter"
+        },
+        {
+          "word": "bring",
+          "strongNumber": "G4311",
+          "lemma": "propempo",
+          "meaning": "to send forward, assist on a journey"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "For I will not see you now by the way; but I trust to tarry a while with you, if the Lord permit.",
+      "highlightedWords": [
+        {
+          "word": "tarry",
+          "strongNumber": "G1961",
+          "lemma": "epimeno",
+          "meaning": "to remain, stay"
+        },
+        {
+          "word": "permit",
+          "strongNumber": "G2010",
+          "lemma": "epitrepo",
+          "meaning": "to permit, allow"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "But I will tarry at Ephesus until Pentecost.",
+      "highlightedWords": [
+        {
+          "word": "Ephesus",
+          "strongNumber": "G2181",
+          "lemma": "Ephesos",
+          "meaning": "Ephesus"
+        },
+        {
+          "word": "Pentecost",
+          "strongNumber": "G4005",
+          "lemma": "pentekoste",
+          "meaning": "Pentecost, fiftieth day"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "For a great door and effectual is opened unto me, and there are many adversaries.",
+      "highlightedWords": [
+        {
+          "word": "door",
+          "strongNumber": "G2374",
+          "lemma": "thura",
+          "meaning": "a door, gate"
+        },
+        {
+          "word": "adversaries",
+          "strongNumber": "G480",
+          "lemma": "antikeimai",
+          "meaning": "opponents, those who oppose"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Now if Timotheus come, see that he may be with you without fear: for he worketh the work of the Lord, as I also do.",
+      "highlightedWords": [
+        {
+          "word": "Timotheus",
+          "strongNumber": "G5095",
+          "lemma": "Timotheos",
+          "meaning": "Timothy"
+        },
+        {
+          "word": "fear",
+          "strongNumber": "G5401",
+          "lemma": "phobos",
+          "meaning": "fear, terror"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Let no man therefore despise him: but conduct him forth in peace, that he may come unto me: for I look for him with the brethren.",
+      "highlightedWords": [
+        {
+          "word": "despise",
+          "strongNumber": "G1848",
+          "lemma": "exoutheneo",
+          "meaning": "to despise, treat with contempt"
+        },
+        {
+          "word": "peace",
+          "strongNumber": "G1515",
+          "lemma": "eirene",
+          "meaning": "peace, harmony"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "As touching our brother Apollos, I greatly desired him to come unto you with the brethren: but his will was not at all to come at this time; but he will come when he shall have convenient time.",
+      "highlightedWords": [
+        {
+          "word": "Apollos",
+          "strongNumber": "G625",
+          "lemma": "Apollos",
+          "meaning": "Apollos"
+        },
+        {
+          "word": "time",
+          "strongNumber": "G2540",
+          "lemma": "kairos",
+          "meaning": "appointed time, season"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Watch ye, stand fast in the faith, quit you like men, be strong.",
+      "highlightedWords": [
+        {
+          "word": "Watch",
+          "strongNumber": "G1127",
+          "lemma": "gregoreo",
+          "meaning": "to watch, be alert"
+        },
+        {
+          "word": "faith",
+          "strongNumber": "G4102",
+          "lemma": "pistis",
+          "meaning": "faith, belief, trust"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Let all your things be done with charity.",
+      "highlightedWords": [
+        {
+          "word": "all",
+          "strongNumber": "G3956",
+          "lemma": "pas",
+          "meaning": "all, every"
+        },
+        {
+          "word": "charity",
+          "strongNumber": "G26",
+          "lemma": "agape",
+          "meaning": "selfless love, charity"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "I beseech you, brethren, (ye know the house of Stephanas, that it is the firstfruits of Achaia, and that they have addicted themselves to the ministry of the saints,)",
+      "highlightedWords": [
+        {
+          "word": "firstfruits",
+          "strongNumber": "G536",
+          "lemma": "aparche",
+          "meaning": "first portion, firstfruits"
+        },
+        {
+          "word": "ministry",
+          "strongNumber": "G1248",
+          "lemma": "diakonia",
+          "meaning": "service, ministry"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "That ye submit yourselves unto such, and to every one that helpeth with us, and laboureth.",
+      "highlightedWords": [
+        {
+          "word": "submit",
+          "strongNumber": "G5293",
+          "lemma": "hypotasso",
+          "meaning": "to subject, submit"
+        },
+        {
+          "word": "laboureth",
+          "strongNumber": "G2872",
+          "lemma": "kopiao",
+          "meaning": "to labor, toil"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "I am glad of the coming of Stephanas and Fortunatus and Achaicus: for that which was lacking on your part they have supplied.",
+      "highlightedWords": [
+        {
+          "word": "glad",
+          "strongNumber": "G5463",
+          "lemma": "chairo",
+          "meaning": "to rejoice, be glad"
+        },
+        {
+          "word": "coming",
+          "strongNumber": "G3952",
+          "lemma": "parousia",
+          "meaning": "coming, presence"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "For they have refreshed my spirit and yours: therefore acknowledge ye them that are such.",
+      "highlightedWords": [
+        {
+          "word": "refreshed",
+          "strongNumber": "G373",
+          "lemma": "anapauo",
+          "meaning": "to refresh, give rest"
+        },
+        {
+          "word": "spirit",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit, breath, inner life"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "The churches of Asia salute you. Aquila and Priscilla salute you much in the Lord, with the church that is in their house.",
+      "highlightedWords": [
+        {
+          "word": "churches",
+          "strongNumber": "G1577",
+          "lemma": "ekklesia",
+          "meaning": "assembly, church"
+        },
+        {
+          "word": "house",
+          "strongNumber": "G3624",
+          "lemma": "oikos",
+          "meaning": "house, household"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "All the brethren greet you. Greet ye one another with an holy kiss.",
+      "highlightedWords": [
+        {
+          "word": "brethren",
+          "strongNumber": "G80",
+          "lemma": "adelphos",
+          "meaning": "brother, fellow believer"
+        },
+        {
+          "word": "kiss",
+          "strongNumber": "G5370",
+          "lemma": "philema",
+          "meaning": "a kiss"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "The salutation of me Paul with mine own hand.",
+      "highlightedWords": [
+        {
+          "word": "salutation",
+          "strongNumber": "G783",
+          "lemma": "aspasmos",
+          "meaning": "greeting, salutation"
+        },
+        {
+          "word": "hand",
+          "strongNumber": "G5495",
+          "lemma": "cheir",
+          "meaning": "hand"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "If any man love not the Lord Jesus Christ, let him be Anathema Maranatha.",
+      "highlightedWords": [
+        {
+          "word": "love",
+          "strongNumber": "G5368",
+          "lemma": "phileo",
+          "meaning": "to love, have affection for"
+        },
+        {
+          "word": "Anathema",
+          "strongNumber": "G331",
+          "lemma": "anathema",
+          "meaning": "a curse, accursed"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "The grace of our Lord Jesus Christ be with you.",
+      "highlightedWords": [
+        {
+          "word": "grace",
+          "strongNumber": "G5485",
+          "lemma": "charis",
+          "meaning": "grace, favor"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kurios",
+          "meaning": "Lord, master"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "My love be with you all in Christ Jesus. Amen.",
+      "highlightedWords": [
+        {
+          "word": "love",
+          "strongNumber": "G26",
+          "lemma": "agape",
+          "meaning": "selfless love, charity"
+        },
+        {
+          "word": "Amen",
+          "strongNumber": "G281",
+          "lemma": "amen",
+          "meaning": "truly, so be it"
+        }
+      ]
+    }
+  ]
+}

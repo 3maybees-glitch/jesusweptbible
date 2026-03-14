@@ -1,0 +1,1032 @@
+{
+  "book": "Mark",
+  "chapter": 6,
+  "chapterTheme": {
+    "twoWordSummary": "Provision Power",
+    "themeWords": [
+      {
+        "word": "compassion",
+        "strongNumber": "G4697",
+        "lemma": "splanchnizomai",
+        "meaning": "to have compassion; be moved with pity"
+      },
+      {
+        "word": "loaves",
+        "strongNumber": "G740",
+        "lemma": "artos",
+        "meaning": "bread; a loaf"
+      }
+    ]
+  },
+  "sentenceTheme": "Jesus is rejected in his hometown, sends out the Twelve, Herod beheads John, Jesus feeds five thousand, walks on the sea, and heals multitudes in Gennesaret.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And he went out from thence, and came into his own country; and his disciples follow him.",
+      "highlightedWords": [
+        {
+          "word": "disciples",
+          "strongNumber": "G3101",
+          "lemma": "mathētēs",
+          "meaning": "a disciple; learner, follower"
+        },
+        {
+          "word": "country",
+          "strongNumber": "G3968",
+          "lemma": "patris",
+          "meaning": "native country; homeland"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And when the sabbath day was come, he began to teach in the synagogue: and many hearing him were astonished, saying, From whence hath this man these things? and what wisdom is this which is given unto him, that even such mighty works are wrought by his hands?",
+      "highlightedWords": [
+        {
+          "word": "sabbath",
+          "strongNumber": "G4521",
+          "lemma": "sabbaton",
+          "meaning": "Sabbath; seventh day"
+        },
+        {
+          "word": "synagogue",
+          "strongNumber": "G4864",
+          "lemma": "synagōgē",
+          "meaning": "synagogue; assembly"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Is not this the carpenter, the son of Mary, the brother of James, and Joses, and of Juda, and Simon? and are not his sisters here with us? And they were offended at him.",
+      "highlightedWords": [
+        {
+          "word": "carpenter",
+          "strongNumber": "G5045",
+          "lemma": "tektōn",
+          "meaning": "craftsman; carpenter"
+        },
+        {
+          "word": "offended",
+          "strongNumber": "G4624",
+          "lemma": "skandalizō",
+          "meaning": "to cause to stumble; offend"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "But Jesus said unto them, A prophet is not without honour, but in his own country, and among his own kin, and in his own house.",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus; Yahweh is salvation"
+        },
+        {
+          "word": "prophet",
+          "strongNumber": "G4396",
+          "lemma": "prophētēs",
+          "meaning": "a prophet"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And he could there do no mighty work, save that he laid his hands upon a few sick folk, and healed them.",
+      "highlightedWords": [
+        {
+          "word": "hands",
+          "strongNumber": "G5495",
+          "lemma": "cheir",
+          "meaning": "hand"
+        },
+        {
+          "word": "healed",
+          "strongNumber": "G2323",
+          "lemma": "therapeuō",
+          "meaning": "to heal"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And he marvelled because of their unbelief. And he went round about the villages, teaching.",
+      "highlightedWords": [
+        {
+          "word": "unbelief",
+          "strongNumber": "G570",
+          "lemma": "apistia",
+          "meaning": "unbelief"
+        },
+        {
+          "word": "villages",
+          "strongNumber": "G2968",
+          "lemma": "kōmē",
+          "meaning": "village"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And he called unto him the twelve, and began to send them forth by two and two; and gave them power over unclean spirits;",
+      "highlightedWords": [
+        {
+          "word": "twelve",
+          "strongNumber": "G1427",
+          "lemma": "dōdeka",
+          "meaning": "twelve"
+        },
+        {
+          "word": "spirits",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit; breath; wind"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And commanded them that they should take nothing for their journey, save a staff only; no scrip, no bread, no money in their purse:",
+      "highlightedWords": [
+        {
+          "word": "scrip",
+          "strongNumber": "G4082",
+          "lemma": "pēra",
+          "meaning": "traveler's bag; scrip"
+        },
+        {
+          "word": "bread",
+          "strongNumber": "G740",
+          "lemma": "artos",
+          "meaning": "bread; a loaf"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "But be shod with sandals; and not put on two coats.",
+      "highlightedWords": [
+        {
+          "word": "sandals",
+          "strongNumber": "G4547",
+          "lemma": "sandalion",
+          "meaning": "a sandal"
+        },
+        {
+          "word": "coats",
+          "strongNumber": "G5509",
+          "lemma": "chitōn",
+          "meaning": "tunic; inner garment"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And he said unto them, In what place soever ye enter into an house, there abide till ye depart from that place.",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "G3614",
+          "lemma": "oikia",
+          "meaning": "house; household"
+        },
+        {
+          "word": "abide",
+          "strongNumber": "G3306",
+          "lemma": "menō",
+          "meaning": "to remain; abide"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And whosoever shall not receive you, nor hear you, when ye depart thence, shake off the dust under your feet for a testimony against them. Verily I say unto you, It shall be more tolerable for Sodom and Gomorrha in the day of judgment, than for that city.",
+      "highlightedWords": [
+        {
+          "word": "dust",
+          "strongNumber": "G2868",
+          "lemma": "koniortos",
+          "meaning": "dust"
+        },
+        {
+          "word": "judgment",
+          "strongNumber": "G2920",
+          "lemma": "krisis",
+          "meaning": "judgment; decision"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And they went out, and preached that men should repent.",
+      "highlightedWords": [
+        {
+          "word": "preached",
+          "strongNumber": "G2784",
+          "lemma": "kērussō",
+          "meaning": "to proclaim; preach"
+        },
+        {
+          "word": "repent",
+          "strongNumber": "G3340",
+          "lemma": "metanoeō",
+          "meaning": "to repent; change one's mind"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And they cast out many devils, and anointed with oil many that were sick, and healed them.",
+      "highlightedWords": [
+        {
+          "word": "devils",
+          "strongNumber": "G1140",
+          "lemma": "daimonion",
+          "meaning": "demon; evil spirit"
+        },
+        {
+          "word": "anointed",
+          "strongNumber": "G218",
+          "lemma": "aleiphō",
+          "meaning": "to anoint"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And king Herod heard of him; (for his name was spread abroad:) and he said, That John the Baptist was risen from the dead, and therefore mighty works do shew forth themselves in him.",
+      "highlightedWords": [
+        {
+          "word": "Herod",
+          "strongNumber": "G2264",
+          "lemma": "Hērōdēs",
+          "meaning": "Herod"
+        },
+        {
+          "word": "Baptist",
+          "strongNumber": "G910",
+          "lemma": "baptistēs",
+          "meaning": "baptizer; Baptist"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Others said, That it is Elias. And others said, That it is a prophet, or as one of the prophets.",
+      "highlightedWords": [
+        {
+          "word": "Elias",
+          "strongNumber": "G2243",
+          "lemma": "Ēlias",
+          "meaning": "Elijah"
+        },
+        {
+          "word": "prophets",
+          "strongNumber": "G4396",
+          "lemma": "prophētēs",
+          "meaning": "prophet"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "But when Herod heard thereof, he said, It is John, whom I beheaded: he is risen from the dead.",
+      "highlightedWords": [
+        {
+          "word": "beheaded",
+          "strongNumber": "G607",
+          "lemma": "apokephalizō",
+          "meaning": "to behead"
+        },
+        {
+          "word": "dead",
+          "strongNumber": "G3498",
+          "lemma": "nekros",
+          "meaning": "dead"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "For Herod himself had sent forth and laid hold upon John, and bound him in prison for Herodias' sake, his brother Philip's wife: for he had married her.",
+      "highlightedWords": [
+        {
+          "word": "prison",
+          "strongNumber": "G5438",
+          "lemma": "phylakē",
+          "meaning": "prison; guard"
+        },
+        {
+          "word": "wife",
+          "strongNumber": "G1135",
+          "lemma": "gynē",
+          "meaning": "woman; wife"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "For John had said unto Herod, It is not lawful for thee to have thy brother's wife.",
+      "highlightedWords": [
+        {
+          "word": "lawful",
+          "strongNumber": "G1832",
+          "lemma": "exesti(n)",
+          "meaning": "it is lawful; permitted"
+        },
+        {
+          "word": "wife",
+          "strongNumber": "G1135",
+          "lemma": "gynē",
+          "meaning": "woman; wife"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Therefore Herodias had a quarrel against him, and would have killed him; but she could not:",
+      "highlightedWords": [
+        {
+          "word": "Herodias",
+          "strongNumber": "G2266",
+          "lemma": "Hērōdias",
+          "meaning": "Herodias"
+        },
+        {
+          "word": "killed",
+          "strongNumber": "G615",
+          "lemma": "apokteinō",
+          "meaning": "to kill; slay"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "For Herod feared John, knowing that he was a just man and an holy, and observed him; and when he heard him, he did many things, and heard him gladly.",
+      "highlightedWords": [
+        {
+          "word": "feared",
+          "strongNumber": "G5399",
+          "lemma": "phobeomai",
+          "meaning": "to fear; be afraid"
+        },
+        {
+          "word": "holy",
+          "strongNumber": "G40",
+          "lemma": "hagios",
+          "meaning": "holy; consecrated"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And when a convenient day was come, that Herod on his birthday made a supper to his lords, high captains, and chief estates of Galilee;",
+      "highlightedWords": [
+        {
+          "word": "birthday",
+          "strongNumber": "G1077",
+          "lemma": "genesia",
+          "meaning": "birthday celebration"
+        },
+        {
+          "word": "Galilee",
+          "strongNumber": "G1056",
+          "lemma": "Galilaia",
+          "meaning": "Galilee"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And when the daughter of the said Herodias came in, and danced, and pleased Herod and them that sat with him, the king said unto the damsel, Ask of me whatsoever thou wilt, and I will give it thee.",
+      "highlightedWords": [
+        {
+          "word": "danced",
+          "strongNumber": "G3738",
+          "lemma": "orcheomai",
+          "meaning": "to dance"
+        },
+        {
+          "word": "damsel",
+          "strongNumber": "G2877",
+          "lemma": "korasion",
+          "meaning": "little girl; damsel"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And he sware unto her, Whatsoever thou shalt ask of me, I will give it thee, unto the half of my kingdom.",
+      "highlightedWords": [
+        {
+          "word": "sware",
+          "strongNumber": "G3660",
+          "lemma": "omnuō",
+          "meaning": "to swear; take an oath"
+        },
+        {
+          "word": "kingdom",
+          "strongNumber": "G932",
+          "lemma": "basileia",
+          "meaning": "kingdom; reign"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And she went forth, and said unto her mother, What shall I ask? And she said, The head of John the Baptist.",
+      "highlightedWords": [
+        {
+          "word": "mother",
+          "strongNumber": "G3384",
+          "lemma": "mētēr",
+          "meaning": "mother"
+        },
+        {
+          "word": "head",
+          "strongNumber": "G2776",
+          "lemma": "kephalē",
+          "meaning": "head"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And she came in straightway with haste unto the king, and asked, saying, I will that thou give me by and by in a charger the head of John the Baptist.",
+      "highlightedWords": [
+        {
+          "word": "charger",
+          "strongNumber": "G4094",
+          "lemma": "pinax",
+          "meaning": "platter; dish"
+        },
+        {
+          "word": "Baptist",
+          "strongNumber": "G910",
+          "lemma": "baptistēs",
+          "meaning": "baptizer; Baptist"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And the king was exceeding sorry; yet for his oath's sake, and for their sakes which sat with him, he would not reject her.",
+      "highlightedWords": [
+        {
+          "word": "oath's",
+          "strongNumber": "G3727",
+          "lemma": "horkos",
+          "meaning": "oath"
+        },
+        {
+          "word": "king",
+          "strongNumber": "G935",
+          "lemma": "basileus",
+          "meaning": "king"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And immediately the king sent an executioner, and commanded his head to be brought: and he went and beheaded him in the prison,",
+      "highlightedWords": [
+        {
+          "word": "executioner",
+          "strongNumber": "G4688",
+          "lemma": "spekoulatōr",
+          "meaning": "executioner; courier"
+        },
+        {
+          "word": "beheaded",
+          "strongNumber": "G607",
+          "lemma": "apokephalizō",
+          "meaning": "to behead"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And brought his head in a charger, and gave it to the damsel: and the damsel gave it to her mother.",
+      "highlightedWords": [
+        {
+          "word": "damsel",
+          "strongNumber": "G2877",
+          "lemma": "korasion",
+          "meaning": "little girl; damsel"
+        },
+        {
+          "word": "charger",
+          "strongNumber": "G4094",
+          "lemma": "pinax",
+          "meaning": "platter; dish"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "And when his disciples heard of it, they came and took up his corpse, and laid it in a tomb.",
+      "highlightedWords": [
+        {
+          "word": "disciples",
+          "strongNumber": "G3101",
+          "lemma": "mathētēs",
+          "meaning": "a disciple; learner, follower"
+        },
+        {
+          "word": "tomb",
+          "strongNumber": "G3419",
+          "lemma": "mnēmeion",
+          "meaning": "tomb; memorial"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "And the apostles gathered themselves together unto Jesus, and told him all things, both what they had done, and what they had taught.",
+      "highlightedWords": [
+        {
+          "word": "apostles",
+          "strongNumber": "G652",
+          "lemma": "apostolos",
+          "meaning": "apostle; one sent"
+        },
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus; Yahweh is salvation"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "And he said unto them, Come ye yourselves apart into a desert place, and rest a while: for there were many coming and going, and they had no leisure so much as to eat.",
+      "highlightedWords": [
+        {
+          "word": "desert",
+          "strongNumber": "G2048",
+          "lemma": "erēmos",
+          "meaning": "desolate; desert"
+        },
+        {
+          "word": "rest",
+          "strongNumber": "G373",
+          "lemma": "anapauō",
+          "meaning": "to rest; refresh"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "And they departed into a desert place by ship privately.",
+      "highlightedWords": [
+        {
+          "word": "ship",
+          "strongNumber": "G4143",
+          "lemma": "ploion",
+          "meaning": "ship; boat"
+        },
+        {
+          "word": "desert",
+          "strongNumber": "G2048",
+          "lemma": "erēmos",
+          "meaning": "desolate; desert"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "And the people saw them departing, and many knew him, and ran afoot thither out of all cities, and outwent them, and came together unto him.",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "G3793",
+          "lemma": "ochlos",
+          "meaning": "crowd; multitude"
+        },
+        {
+          "word": "cities",
+          "strongNumber": "G4172",
+          "lemma": "polis",
+          "meaning": "city"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "And Jesus, when he came out, saw much people, and was moved with compassion toward them, because they were as sheep not having a shepherd: and he began to teach them many things.",
+      "highlightedWords": [
+        {
+          "word": "compassion",
+          "strongNumber": "G4697",
+          "lemma": "splanchnizomai",
+          "meaning": "to have compassion; be moved with pity"
+        },
+        {
+          "word": "shepherd",
+          "strongNumber": "G4166",
+          "lemma": "poimēn",
+          "meaning": "shepherd"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "And when the day was now far spent, his disciples came unto him, and said, This is a desert place, and now the time is far passed:",
+      "highlightedWords": [
+        {
+          "word": "disciples",
+          "strongNumber": "G3101",
+          "lemma": "mathētēs",
+          "meaning": "a disciple; learner, follower"
+        },
+        {
+          "word": "desert",
+          "strongNumber": "G2048",
+          "lemma": "erēmos",
+          "meaning": "desolate; desert"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "Send them away, that they may go into the country round about, and into the villages, and buy themselves bread: for they have nothing to eat.",
+      "highlightedWords": [
+        {
+          "word": "villages",
+          "strongNumber": "G2968",
+          "lemma": "kōmē",
+          "meaning": "village"
+        },
+        {
+          "word": "bread",
+          "strongNumber": "G740",
+          "lemma": "artos",
+          "meaning": "bread; a loaf"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "He answered and said unto them, Give ye them to eat. And they say unto him, Shall we go and buy two hundred pennyworth of bread, and give them to eat?",
+      "highlightedWords": [
+        {
+          "word": "pennyworth",
+          "strongNumber": "G1220",
+          "lemma": "dēnarion",
+          "meaning": "a denarius; Roman coin"
+        },
+        {
+          "word": "bread",
+          "strongNumber": "G740",
+          "lemma": "artos",
+          "meaning": "bread; a loaf"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "He saith unto them, How many loaves have ye? go and see. And when they knew, they say, Five, and two fishes.",
+      "highlightedWords": [
+        {
+          "word": "loaves",
+          "strongNumber": "G740",
+          "lemma": "artos",
+          "meaning": "bread; a loaf"
+        },
+        {
+          "word": "fishes",
+          "strongNumber": "G2486",
+          "lemma": "ichthys",
+          "meaning": "fish"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "text": "And he commanded them to make all sit down by companies upon the green grass.",
+      "highlightedWords": [
+        {
+          "word": "green",
+          "strongNumber": "G5515",
+          "lemma": "chlōros",
+          "meaning": "green; verdant"
+        },
+        {
+          "word": "grass",
+          "strongNumber": "G5528",
+          "lemma": "chortos",
+          "meaning": "grass"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "text": "And they sat down in ranks, by hundreds, and by fifties.",
+      "highlightedWords": [
+        {
+          "word": "hundreds",
+          "strongNumber": "G1540",
+          "lemma": "hekaton",
+          "meaning": "one hundred"
+        },
+        {
+          "word": "fifties",
+          "strongNumber": "G4004",
+          "lemma": "pentēkonta",
+          "meaning": "fifty"
+        }
+      ]
+    },
+    {
+      "verse": 41,
+      "text": "And when he had taken the five loaves and the two fishes, he looked up to heaven, and blessed, and brake the loaves, and gave them to his disciples to set before them; and the two fishes divided he among them all.",
+      "highlightedWords": [
+        {
+          "word": "blessed",
+          "strongNumber": "G2127",
+          "lemma": "eulogeō",
+          "meaning": "to bless"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "G3772",
+          "lemma": "ouranos",
+          "meaning": "heaven; sky"
+        }
+      ]
+    },
+    {
+      "verse": 42,
+      "text": "And they did all eat, and were filled.",
+      "highlightedWords": [
+        {
+          "word": "eat",
+          "strongNumber": "G2068",
+          "lemma": "esthiō",
+          "meaning": "to eat"
+        },
+        {
+          "word": "filled",
+          "strongNumber": "G5526",
+          "lemma": "chortazō",
+          "meaning": "to fill; satisfy"
+        }
+      ]
+    },
+    {
+      "verse": 43,
+      "text": "And they took up twelve baskets full of the fragments, and of the fishes.",
+      "highlightedWords": [
+        {
+          "word": "baskets",
+          "strongNumber": "G2894",
+          "lemma": "kophinos",
+          "meaning": "basket"
+        },
+        {
+          "word": "fragments",
+          "strongNumber": "G2801",
+          "lemma": "klasma",
+          "meaning": "fragment; piece"
+        }
+      ]
+    },
+    {
+      "verse": 44,
+      "text": "And they that did eat of the loaves were about five thousand men.",
+      "highlightedWords": [
+        {
+          "word": "loaves",
+          "strongNumber": "G740",
+          "lemma": "artos",
+          "meaning": "bread; a loaf"
+        },
+        {
+          "word": "men",
+          "strongNumber": "G435",
+          "lemma": "anēr",
+          "meaning": "man; male (adult male)"
+        }
+      ]
+    },
+    {
+      "verse": 45,
+      "text": "And straightway he constrained his disciples to get into the ship, and to go to the other side before unto Bethsaida, while he sent away the people.",
+      "highlightedWords": [
+        {
+          "word": "Bethsaida",
+          "strongNumber": "G966",
+          "lemma": "Bēthsaida",
+          "meaning": "Bethsaida"
+        },
+        {
+          "word": "ship",
+          "strongNumber": "G4143",
+          "lemma": "ploion",
+          "meaning": "ship; boat"
+        }
+      ]
+    },
+    {
+      "verse": 46,
+      "text": "And when he had sent them away, he departed into a mountain to pray.",
+      "highlightedWords": [
+        {
+          "word": "mountain",
+          "strongNumber": "G3735",
+          "lemma": "oros",
+          "meaning": "mountain"
+        },
+        {
+          "word": "pray",
+          "strongNumber": "G4336",
+          "lemma": "proseuchomai",
+          "meaning": "to pray"
+        }
+      ]
+    },
+    {
+      "verse": 47,
+      "text": "And when even was come, the ship was in the midst of the sea, and he alone on the land.",
+      "highlightedWords": [
+        {
+          "word": "sea",
+          "strongNumber": "G2281",
+          "lemma": "thalassa",
+          "meaning": "sea"
+        },
+        {
+          "word": "land",
+          "strongNumber": "G1093",
+          "lemma": "gē",
+          "meaning": "land; earth"
+        }
+      ]
+    },
+    {
+      "verse": 48,
+      "text": "And he saw them toiling in rowing; for the wind was contrary unto them: and about the fourth watch of the night he cometh unto them, walking upon the sea, and would have passed by them.",
+      "highlightedWords": [
+        {
+          "word": "wind",
+          "strongNumber": "G417",
+          "lemma": "anemos",
+          "meaning": "wind"
+        },
+        {
+          "word": "sea",
+          "strongNumber": "G2281",
+          "lemma": "thalassa",
+          "meaning": "sea"
+        }
+      ]
+    },
+    {
+      "verse": 49,
+      "text": "But when they saw him walking upon the sea, they supposed it had been a spirit, and cried out:",
+      "highlightedWords": [
+        {
+          "word": "sea",
+          "strongNumber": "G2281",
+          "lemma": "thalassa",
+          "meaning": "sea"
+        },
+        {
+          "word": "cried",
+          "strongNumber": "G2896",
+          "lemma": "krazo",
+          "meaning": "to cry out; scream"
+        }
+      ]
+    },
+    {
+      "verse": 50,
+      "text": "For they all saw him, and were troubled. And immediately he talked with them, and saith unto them, Be of good cheer: it is I; be not afraid.",
+      "highlightedWords": [
+        {
+          "word": "cheer",
+          "strongNumber": "G2293",
+          "lemma": "tharseō",
+          "meaning": "to take courage; be of good cheer"
+        },
+        {
+          "word": "afraid",
+          "strongNumber": "G5399",
+          "lemma": "phobeomai",
+          "meaning": "to fear; be afraid"
+        }
+      ]
+    },
+    {
+      "verse": 51,
+      "text": "And he went up unto them into the ship; and the wind ceased: and they were sore amazed in themselves beyond measure, and wondered.",
+      "highlightedWords": [
+        {
+          "word": "wind",
+          "strongNumber": "G417",
+          "lemma": "anemos",
+          "meaning": "wind"
+        },
+        {
+          "word": "amazed",
+          "strongNumber": "G1605",
+          "lemma": "existēmi",
+          "meaning": "to amaze; astound"
+        }
+      ]
+    },
+    {
+      "verse": 52,
+      "text": "For they considered not the miracle of the loaves: for their heart was hardened.",
+      "highlightedWords": [
+        {
+          "word": "heart",
+          "strongNumber": "G2588",
+          "lemma": "kardia",
+          "meaning": "heart"
+        },
+        {
+          "word": "hardened",
+          "strongNumber": "G4456",
+          "lemma": "pōroō",
+          "meaning": "to harden; make callous"
+        }
+      ]
+    },
+    {
+      "verse": 53,
+      "text": "And when they had passed over, they came into the land of Gennesaret, and drew to the shore.",
+      "highlightedWords": [
+        {
+          "word": "land",
+          "strongNumber": "G1093",
+          "lemma": "gē",
+          "meaning": "land; earth"
+        },
+        {
+          "word": "Gennesaret",
+          "strongNumber": "G1082",
+          "lemma": "Gennēsaret",
+          "meaning": "Gennesaret"
+        }
+      ]
+    },
+    {
+      "verse": 54,
+      "text": "And when they were come out of the ship, straightway they knew him,",
+      "highlightedWords": [
+        {
+          "word": "ship",
+          "strongNumber": "G4143",
+          "lemma": "ploion",
+          "meaning": "ship; boat"
+        },
+        {
+          "word": "straightway",
+          "strongNumber": "G2112",
+          "lemma": "euthys",
+          "meaning": "immediately; straightway"
+        }
+      ]
+    },
+    {
+      "verse": 55,
+      "text": "And ran through that whole region round about, and began to carry about in beds those that were sick, where they heard he was.",
+      "highlightedWords": [
+        {
+          "word": "region",
+          "strongNumber": "G4066",
+          "lemma": "perichōros",
+          "meaning": "region round about"
+        },
+        {
+          "word": "beds",
+          "strongNumber": "G2895",
+          "lemma": "krabbatos",
+          "meaning": "pallet; bed"
+        }
+      ]
+    },
+    {
+      "verse": 56,
+      "text": "And whithersoever he entered, into villages, or cities, or country, they laid the sick in the streets, and besought him that they might touch if it were but the border of his garment: and as many as touched him were made whole.",
+      "highlightedWords": [
+        {
+          "word": "villages",
+          "strongNumber": "G2968",
+          "lemma": "kōmē",
+          "meaning": "village"
+        },
+        {
+          "word": "border",
+          "strongNumber": "G2899",
+          "lemma": "kraspedon",
+          "meaning": "edge; fringe (of a garment)"
+        }
+      ]
+    }
+  ]
+}

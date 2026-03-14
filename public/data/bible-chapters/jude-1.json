@@ -1,0 +1,474 @@
+{
+  "book": "Jude",
+  "chapter": 1,
+  "chapterTheme": {
+    "twoWordSummary": "Contend Faith",
+    "themeWords": [
+      {
+        "word": "faith",
+        "strongNumber": "G4102",
+        "lemma": "pistis",
+        "meaning": "faith; trust; belief"
+      },
+      {
+        "word": "ungodly",
+        "strongNumber": "G0765",
+        "lemma": "asebēs",
+        "meaning": "ungodly; impious; irreverent toward God"
+      }
+    ]
+  },
+  "sentenceTheme": "Jude urges believers to contend for the faith against ungodly corrupters, remembering apostolic warnings and keeping themselves in God’s love while looking for Christ’s mercy.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Jude, the servant of Jesus Christ, and brother of James, to them that are sanctified by God the Father, and preserved in Jesus Christ, and called:",
+      "highlightedWords": [
+        {
+          "word": "sanctified",
+          "strongNumber": "G0037",
+          "lemma": "hagiazō",
+          "meaning": "to make holy; consecrate; set apart"
+        },
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus; Yahweh is salvation"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Mercy unto you, and peace, and love, be multiplied.",
+      "highlightedWords": [
+        {
+          "word": "Mercy",
+          "strongNumber": "G1656",
+          "lemma": "eleos",
+          "meaning": "mercy; compassion; pity"
+        },
+        {
+          "word": "peace",
+          "strongNumber": "G1515",
+          "lemma": "eirēnē",
+          "meaning": "peace; harmony; well-being"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Beloved, when I gave all diligence to write unto you of the common salvation, it was needful for me to write unto you, and exhort you that ye should earnestly contend for the faith which was once delivered unto the saints.",
+      "highlightedWords": [
+        {
+          "word": "faith",
+          "strongNumber": "G4102",
+          "lemma": "pistis",
+          "meaning": "faith; trust; conviction"
+        },
+        {
+          "word": "saints",
+          "strongNumber": "G0040",
+          "lemma": "hagios",
+          "meaning": "holy one; set-apart person; saint"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "For there are certain men crept in unawares, who were before of old ordained to this condemnation, ungodly men, turning the grace of our God into lasciviousness, and denying the only Lord God, and our Lord Jesus Christ.",
+      "highlightedWords": [
+        {
+          "word": "grace",
+          "strongNumber": "G5485",
+          "lemma": "charis",
+          "meaning": "grace; favor; unmerited kindness"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God; deity; the divine being"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "I will therefore put you in remembrance, though ye once knew this, how that the Lord, having saved the people out of the land of Egypt, afterward destroyed them that believed not.",
+      "highlightedWords": [
+        {
+          "word": "saved",
+          "strongNumber": "G4982",
+          "lemma": "sōzō",
+          "meaning": "to save; rescue; deliver"
+        },
+        {
+          "word": "Egypt",
+          "strongNumber": "G0125",
+          "lemma": "Aigyptos",
+          "meaning": "Egypt"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And the angels which kept not their first estate, but left their own habitation, he hath reserved in everlasting chains under darkness unto the judgment of the great day.",
+      "highlightedWords": [
+        {
+          "word": "angels",
+          "strongNumber": "G0032",
+          "lemma": "angelos",
+          "meaning": "messenger; angel"
+        },
+        {
+          "word": "everlasting",
+          "strongNumber": "G0166",
+          "lemma": "aiōnios",
+          "meaning": "eternal; everlasting; without end"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Even as Sodom and Gomorrha, and the cities about them in like manner, giving themselves over to fornication, and going after strange flesh, are set forth for an example, suffering the vengeance of eternal fire.",
+      "highlightedWords": [
+        {
+          "word": "Sodom",
+          "strongNumber": "G4670",
+          "lemma": "Sodoma",
+          "meaning": "Sodom"
+        },
+        {
+          "word": "fire",
+          "strongNumber": "G4442",
+          "lemma": "pyr",
+          "meaning": "fire; fiery heat"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Likewise also these filthy dreamers defile the flesh, despise dominion, and speak evil of dignities.",
+      "highlightedWords": [
+        {
+          "word": "flesh",
+          "strongNumber": "G4561",
+          "lemma": "sarx",
+          "meaning": "flesh; human nature; physical body"
+        },
+        {
+          "word": "dignities",
+          "strongNumber": "G1391",
+          "lemma": "doxa",
+          "meaning": "glory; splendor; dignities"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Yet Michael the archangel, when contending with the devil he disputed about the body of Moses, durst not bring against him a railing accusation, but said, The Lord rebuke thee.",
+      "highlightedWords": [
+        {
+          "word": "Michael",
+          "strongNumber": "G3413",
+          "lemma": "Michaēl",
+          "meaning": "Michael; who is like God?"
+        },
+        {
+          "word": "devil",
+          "strongNumber": "G1228",
+          "lemma": "diabolos",
+          "meaning": "slanderer; accuser; devil"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "But these speak evil of those things which they know not: but what they know naturally, as brute beasts, in those things they corrupt themselves.",
+      "highlightedWords": [
+        {
+          "word": "beasts",
+          "strongNumber": "G2226",
+          "lemma": "zōon",
+          "meaning": "living creature; animal; beast"
+        },
+        {
+          "word": "corrupt",
+          "strongNumber": "G5351",
+          "lemma": "phtheirō",
+          "meaning": "to corrupt; ruin; destroy"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Woe unto them! for they have gone in the way of Cain, and ran greedily after the error of Balaam for reward, and perished in the gainsaying of Core.",
+      "highlightedWords": [
+        {
+          "word": "Cain",
+          "strongNumber": "G2535",
+          "lemma": "Kain",
+          "meaning": "Cain"
+        },
+        {
+          "word": "Balaam",
+          "strongNumber": "G0903",
+          "lemma": "Balaam",
+          "meaning": "Balaam"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "These are spots in your feasts of charity, when they feast with you, feeding themselves without fear: clouds they are without water, carried about of winds; trees whose fruit withereth, without fruit, twice dead, plucked up by the roots;",
+      "highlightedWords": [
+        {
+          "word": "clouds",
+          "strongNumber": "G3507",
+          "lemma": "nephelē",
+          "meaning": "cloud"
+        },
+        {
+          "word": "trees",
+          "strongNumber": "G1186",
+          "lemma": "dendron",
+          "meaning": "tree"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Raging waves of the sea, foaming out their own shame; wandering stars, to whom is reserved the blackness of darkness for ever.",
+      "highlightedWords": [
+        {
+          "word": "waves",
+          "strongNumber": "G2949",
+          "lemma": "kuma",
+          "meaning": "wave (of the sea)"
+        },
+        {
+          "word": "stars",
+          "strongNumber": "G0792",
+          "lemma": "astēr",
+          "meaning": "star"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And Enoch also, the seventh from Adam, prophesied of these, saying, Behold, the Lord cometh with ten thousands of his saints,",
+      "highlightedWords": [
+        {
+          "word": "Enoch",
+          "strongNumber": "G1802",
+          "lemma": "Henōch",
+          "meaning": "Enoch"
+        },
+        {
+          "word": "prophesied",
+          "strongNumber": "G4395",
+          "lemma": "prophēteuō",
+          "meaning": "to prophesy; speak under divine inspiration"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "To execute judgment upon all, and to convince all that are ungodly among them of all their ungodly deeds which they have ungodly committed, and of all their hard speeches which ungodly sinners have spoken against him.",
+      "highlightedWords": [
+        {
+          "word": "ungodly",
+          "strongNumber": "G0765",
+          "lemma": "asebēs",
+          "meaning": "ungodly; impious; irreverent toward God"
+        },
+        {
+          "word": "deeds",
+          "strongNumber": "G2041",
+          "lemma": "ergon",
+          "meaning": "work; deed; action"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "These are murmurers, complainers, walking after their own lusts; and their mouth speaketh great swelling words, having men's persons in admiration because of advantage.",
+      "highlightedWords": [
+        {
+          "word": "murmurers",
+          "strongNumber": "G1113",
+          "lemma": "goggystēs",
+          "meaning": "murmurer; grumbler"
+        },
+        {
+          "word": "lusts",
+          "strongNumber": "G1939",
+          "lemma": "epithymia",
+          "meaning": "desire; craving; lust"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "But, beloved, remember ye the words which were spoken before of the apostles of our Lord Jesus Christ;",
+      "highlightedWords": [
+        {
+          "word": "remember",
+          "strongNumber": "G3403",
+          "lemma": "mimnēskomai",
+          "meaning": "to remember; call to mind"
+        },
+        {
+          "word": "apostles",
+          "strongNumber": "G0652",
+          "lemma": "apostolos",
+          "meaning": "one who is sent; apostle; messenger"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "How that they told you there should be mockers in the last time, who should walk after their own ungodly lusts.",
+      "highlightedWords": [
+        {
+          "word": "mockers",
+          "strongNumber": "G1703",
+          "lemma": "empaiktēs",
+          "meaning": "mocker; scoffer"
+        },
+        {
+          "word": "last",
+          "strongNumber": "G2078",
+          "lemma": "eschatos",
+          "meaning": "last; final; end-time"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "These be they who separate themselves, sensual, having not the Spirit.",
+      "highlightedWords": [
+        {
+          "word": "sensual",
+          "strongNumber": "G5591",
+          "lemma": "psychikos",
+          "meaning": "natural; worldly; unspiritual"
+        },
+        {
+          "word": "Spirit",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit; Spirit; breath"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "But ye, beloved, building up yourselves on your most holy faith, praying in the Holy Ghost,",
+      "highlightedWords": [
+        {
+          "word": "faith",
+          "strongNumber": "G4102",
+          "lemma": "pistis",
+          "meaning": "faith; trust; conviction"
+        },
+        {
+          "word": "Ghost",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit; Spirit; breath"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Keep yourselves in the love of God, looking for the mercy of our Lord Jesus Christ unto eternal life.",
+      "highlightedWords": [
+        {
+          "word": "love",
+          "strongNumber": "G0026",
+          "lemma": "agapē",
+          "meaning": "love; benevolent goodwill"
+        },
+        {
+          "word": "mercy",
+          "strongNumber": "G1656",
+          "lemma": "eleos",
+          "meaning": "mercy; compassion; pity"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And of some have compassion, making a difference:",
+      "highlightedWords": [
+        {
+          "word": "compassion",
+          "strongNumber": "G1653",
+          "lemma": "eleeō",
+          "meaning": "to show mercy; have compassion"
+        },
+        {
+          "word": "difference",
+          "strongNumber": "G1252",
+          "lemma": "diakrinō",
+          "meaning": "to distinguish; discern; make a distinction"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And others save with fear, pulling them out of the fire; hating even the garment spotted by the flesh.",
+      "highlightedWords": [
+        {
+          "word": "save",
+          "strongNumber": "G4982",
+          "lemma": "sōzō",
+          "meaning": "to save; rescue; deliver"
+        },
+        {
+          "word": "fire",
+          "strongNumber": "G4442",
+          "lemma": "pyr",
+          "meaning": "fire; fiery heat"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Now unto him that is able to keep you from falling, and to present you faultless before the presence of his glory with exceeding joy,",
+      "highlightedWords": [
+        {
+          "word": "faultless",
+          "strongNumber": "G0299",
+          "lemma": "amōmos",
+          "meaning": "without blemish; blameless"
+        },
+        {
+          "word": "glory",
+          "strongNumber": "G1391",
+          "lemma": "doxa",
+          "meaning": "glory; honor; splendor"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "To the only wise God our Saviour, be glory and majesty, dominion and power, both now and ever. Amen.",
+      "highlightedWords": [
+        {
+          "word": "Saviour",
+          "strongNumber": "G4990",
+          "lemma": "sōtēr",
+          "meaning": "Savior; deliverer"
+        },
+        {
+          "word": "wise",
+          "strongNumber": "G4680",
+          "lemma": "sophos",
+          "meaning": "wise; skilled; learned"
+        }
+      ]
+    }
+  ]
+}

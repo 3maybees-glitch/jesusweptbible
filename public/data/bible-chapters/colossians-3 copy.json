@@ -1,0 +1,474 @@
+{
+  "book": "Colossians",
+  "chapter": 3,
+  "chapterTheme": {
+    "twoWordSummary": "Heavenly Living",
+    "themeWords": [
+      {
+        "word": "seek",
+        "strongNumber": "G2212",
+        "lemma": "zēteō",
+        "meaning": "to seek, search for, strive for"
+      },
+      {
+        "word": "charity",
+        "strongNumber": "G26",
+        "lemma": "agapē",
+        "meaning": "self-giving love"
+      }
+    ]
+  },
+  "sentenceTheme": "Raised with Christ, believers must set their minds above, put to death sinful ways, put on Christlike virtues of love and peace, and honor the Lord in every word, home relationship, and work.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "If ye then be risen with Christ, seek those things which are above, where Christ sitteth on the right hand of God.",
+      "highlightedWords": [
+        {
+          "word": "risen",
+          "strongNumber": "G4891",
+          "lemma": "synegeirō",
+          "meaning": "to raise together with"
+        },
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "the Anointed One, Messiah"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Set your affection on things above, not on things on the earth.",
+      "highlightedWords": [
+        {
+          "word": "affection",
+          "strongNumber": "G5426",
+          "lemma": "phroneō",
+          "meaning": "to set one’s mind, think"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "G1093",
+          "lemma": "gē",
+          "meaning": "earth, land"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "For ye are dead, and your life is hid with Christ in God.",
+      "highlightedWords": [
+        {
+          "word": "dead",
+          "strongNumber": "G599",
+          "lemma": "apothnēskō",
+          "meaning": "to die, be dead"
+        },
+        {
+          "word": "hid",
+          "strongNumber": "G2928",
+          "lemma": "kryptō",
+          "meaning": "to hide, conceal"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "When Christ, who is our life, shall appear, then shall ye also appear with him in glory.",
+      "highlightedWords": [
+        {
+          "word": "appear",
+          "strongNumber": "G5319",
+          "lemma": "phaneroō",
+          "meaning": "to make manifest, appear"
+        },
+        {
+          "word": "glory",
+          "strongNumber": "G1391",
+          "lemma": "doxa",
+          "meaning": "glory, honor, splendor"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Mortify therefore your members which are upon the earth; fornication, uncleanness, inordinate affection, evil concupiscence, and covetousness, which is idolatry:",
+      "highlightedWords": [
+        {
+          "word": "Mortify",
+          "strongNumber": "G3499",
+          "lemma": "nekrōō",
+          "meaning": "to put to death"
+        },
+        {
+          "word": "fornication",
+          "strongNumber": "G4202",
+          "lemma": "porneia",
+          "meaning": "sexual immorality"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "For which things' sake the wrath of God cometh on the children of disobedience:",
+      "highlightedWords": [
+        {
+          "word": "wrath",
+          "strongNumber": "G3709",
+          "lemma": "orgē",
+          "meaning": "anger, wrath"
+        },
+        {
+          "word": "disobedience",
+          "strongNumber": "G543",
+          "lemma": "apeitheia",
+          "meaning": "disobedience, obstinacy"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "In the which ye also walked some time, when ye lived in them.",
+      "highlightedWords": [
+        {
+          "word": "walked",
+          "strongNumber": "G4043",
+          "lemma": "peripateō",
+          "meaning": "to walk, conduct one’s life"
+        },
+        {
+          "word": "lived",
+          "strongNumber": "G2198",
+          "lemma": "zaō",
+          "meaning": "to live, be alive"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "But now ye also put off all these; anger, wrath, malice, blasphemy, filthy communication out of your mouth.",
+      "highlightedWords": [
+        {
+          "word": "anger",
+          "strongNumber": "G3709",
+          "lemma": "orgē",
+          "meaning": "anger, wrath"
+        },
+        {
+          "word": "malice",
+          "strongNumber": "G2549",
+          "lemma": "kakia",
+          "meaning": "malice, ill-will"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Lie not one to another, seeing that ye have put off the old man with his deeds;",
+      "highlightedWords": [
+        {
+          "word": "Lie",
+          "strongNumber": "G5574",
+          "lemma": "pseudomai",
+          "meaning": "to lie, speak falsely"
+        },
+        {
+          "word": "old",
+          "strongNumber": "G3820",
+          "lemma": "palaios",
+          "meaning": "old, worn out, former"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And have put on the new man, which is renewed in knowledge after the image of him that created him:",
+      "highlightedWords": [
+        {
+          "word": "renewed",
+          "strongNumber": "G341",
+          "lemma": "anakainoō",
+          "meaning": "to renew, make new"
+        },
+        {
+          "word": "knowledge",
+          "strongNumber": "G1922",
+          "lemma": "epignōsis",
+          "meaning": "full knowledge, recognition"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Where there is neither Greek nor Jew, circumcision nor uncircumcision, Barbarian, Scythian, bond nor free: but Christ is all, and in all.",
+      "highlightedWords": [
+        {
+          "word": "Greek",
+          "strongNumber": "G1672",
+          "lemma": "Hellēn",
+          "meaning": "a Greek, Gentile"
+        },
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "the Anointed One, Messiah"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Put on therefore, as the elect of God, holy and beloved, bowels of mercies, kindness, humbleness of mind, meekness, longsuffering;",
+      "highlightedWords": [
+        {
+          "word": "elect",
+          "strongNumber": "G1588",
+          "lemma": "eklektos",
+          "meaning": "chosen, elect"
+        },
+        {
+          "word": "longsuffering",
+          "strongNumber": "G3115",
+          "lemma": "makrothumia",
+          "meaning": "patience, long endurance"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also do ye.",
+      "highlightedWords": [
+        {
+          "word": "forgiving",
+          "strongNumber": "G5483",
+          "lemma": "charizomai",
+          "meaning": "to grant grace, forgive"
+        },
+        {
+          "word": "quarrel",
+          "strongNumber": "G3437",
+          "lemma": "momphē",
+          "meaning": "complaint, blame"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And above all these things put on charity, which is the bond of perfectness.",
+      "highlightedWords": [
+        {
+          "word": "charity",
+          "strongNumber": "G26",
+          "lemma": "agapē",
+          "meaning": "self-giving love"
+        },
+        {
+          "word": "bond",
+          "strongNumber": "G4886",
+          "lemma": "syndesmos",
+          "meaning": "bond, that which binds together"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And let the peace of God rule in your hearts, to the which also ye are called in one body; and be ye thankful.",
+      "highlightedWords": [
+        {
+          "word": "peace",
+          "strongNumber": "G1515",
+          "lemma": "eirēnē",
+          "meaning": "peace, harmony, well-being"
+        },
+        {
+          "word": "thankful",
+          "strongNumber": "G2170",
+          "lemma": "eucharistos",
+          "meaning": "thankful, grateful"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "G3056",
+          "lemma": "logos",
+          "meaning": "word, message"
+        },
+        {
+          "word": "wisdom",
+          "strongNumber": "G4678",
+          "lemma": "sophia",
+          "meaning": "wisdom"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And whatsoever ye do in word or deed, do all in the name of the Lord Jesus, giving thanks to God and the Father by him.",
+      "highlightedWords": [
+        {
+          "word": "name",
+          "strongNumber": "G3686",
+          "lemma": "onoma",
+          "meaning": "name, authority"
+        },
+        {
+          "word": "thanks",
+          "strongNumber": "G2168",
+          "lemma": "eucharisteō",
+          "meaning": "to give thanks"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Wives, submit yourselves unto your own husbands, as it is fit in the Lord.",
+      "highlightedWords": [
+        {
+          "word": "Wives",
+          "strongNumber": "G1135",
+          "lemma": "gynē",
+          "meaning": "woman, wife"
+        },
+        {
+          "word": "submit",
+          "strongNumber": "G5293",
+          "lemma": "hypotassō",
+          "meaning": "to subject, submit"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Husbands, love your wives, and be not bitter against them.",
+      "highlightedWords": [
+        {
+          "word": "Husbands",
+          "strongNumber": "G435",
+          "lemma": "anēr",
+          "meaning": "man, husband"
+        },
+        {
+          "word": "bitter",
+          "strongNumber": "G4087",
+          "lemma": "pikrainō",
+          "meaning": "to embitter, be bitter"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Children, obey your parents in all things: for this is well pleasing unto the Lord.",
+      "highlightedWords": [
+        {
+          "word": "Children",
+          "strongNumber": "G5043",
+          "lemma": "teknon",
+          "meaning": "child, descendant"
+        },
+        {
+          "word": "obey",
+          "strongNumber": "G5219",
+          "lemma": "hypakouō",
+          "meaning": "to obey, heed"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Fathers, provoke not your children to anger, lest they be discouraged.",
+      "highlightedWords": [
+        {
+          "word": "Fathers",
+          "strongNumber": "G3962",
+          "lemma": "patēr",
+          "meaning": "father, ancestor"
+        },
+        {
+          "word": "provoke",
+          "strongNumber": "G2042",
+          "lemma": "erethizō",
+          "meaning": "to provoke, irritate"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Servants, obey in all things your masters according to the flesh; not with eyeservice, as menpleasers; but in singleness of heart, fearing God:",
+      "highlightedWords": [
+        {
+          "word": "Servants",
+          "strongNumber": "G1401",
+          "lemma": "doulos",
+          "meaning": "slave, servant"
+        },
+        {
+          "word": "eyeservice",
+          "strongNumber": "G3787",
+          "lemma": "ophthalmodoulia",
+          "meaning": "eyeservice, service only when watched"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And whatsoever ye do, do it heartily, as to the Lord, and not unto men;",
+      "highlightedWords": [
+        {
+          "word": "heartily",
+          "strongNumber": "G5590",
+          "lemma": "psychē",
+          "meaning": "soul; from the soul, heartily"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "Lord, Master"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Knowing that of the Lord ye shall receive the reward of the inheritance: for ye serve the Lord Christ.",
+      "highlightedWords": [
+        {
+          "word": "reward",
+          "strongNumber": "G3408",
+          "lemma": "misthos",
+          "meaning": "wages, reward"
+        },
+        {
+          "word": "inheritance",
+          "strongNumber": "G2817",
+          "lemma": "klēronomia",
+          "meaning": "inheritance"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "But he that doeth wrong shall receive for the wrong which he hath done: and there is no respect of persons.",
+      "highlightedWords": [
+        {
+          "word": "wrong",
+          "strongNumber": "G91",
+          "lemma": "adikeō",
+          "meaning": "to do wrong, act unjustly"
+        },
+        {
+          "word": "respect",
+          "strongNumber": "G4382",
+          "lemma": "prosōpolēmpsia",
+          "meaning": "partiality, favoritism (respect of persons)"
+        }
+      ]
+    }
+  ]
+}

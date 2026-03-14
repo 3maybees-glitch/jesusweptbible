@@ -1,0 +1,960 @@
+{
+  "book": "Luke",
+  "chapter": 2,
+  "chapterTheme": {
+    "twoWordSummary": "Nativity Proclamation",
+    "themeWords": [
+      {
+        "word": "Jesus",
+        "strongNumber": "G2424",
+        "lemma": "Iēsous",
+        "meaning": "Yahweh is salvation; Jesus"
+      },
+      {
+        "word": "Saviour",
+        "strongNumber": "G4990",
+        "lemma": "sōtēr",
+        "meaning": "savior, deliverer"
+      }
+    ]
+  },
+  "sentenceTheme": "Jesus is born in Bethlehem, announced by angels to shepherds, presented in the temple where Simeon and Anna testify, and as a boy He displays wisdom in the temple.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And it came to pass in those days, that there went out a decree from Caesar Augustus, that all the world should be taxed.",
+      "highlightedWords": [
+        {
+          "word": "decree",
+          "strongNumber": "G1378",
+          "lemma": "dogma",
+          "meaning": "decree, ordinance"
+        },
+        {
+          "word": "world",
+          "strongNumber": "G3625",
+          "lemma": "oikoumenē",
+          "meaning": "the inhabited world; the Roman world"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "(And this taxing was first made when Cyrenius was governor of Syria.)",
+      "highlightedWords": [
+        {
+          "word": "taxing",
+          "strongNumber": "G582",
+          "lemma": "apographē",
+          "meaning": "an enrollment, registration (census)"
+        },
+        {
+          "word": "Syria",
+          "strongNumber": "G4947",
+          "lemma": "Syria",
+          "meaning": "Syria"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And all went to be taxed, every one into his own city.",
+      "highlightedWords": [
+        {
+          "word": "taxed",
+          "strongNumber": "G583",
+          "lemma": "apographō",
+          "meaning": "to register, enroll"
+        },
+        {
+          "word": "city",
+          "strongNumber": "G4172",
+          "lemma": "polis",
+          "meaning": "city, town"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And Joseph also went up from Galilee, out of the city of Nazareth, into Judaea, unto the city of David, which is called Bethlehem; (because he was of the house and lineage of David:)",
+      "highlightedWords": [
+        {
+          "word": "Joseph",
+          "strongNumber": "G2501",
+          "lemma": "Iōsēph",
+          "meaning": "Joseph"
+        },
+        {
+          "word": "Bethlehem",
+          "strongNumber": "G965",
+          "lemma": "Bēthleem",
+          "meaning": "Bethlehem"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "To be taxed with Mary his espoused wife, being great with child.",
+      "highlightedWords": [
+        {
+          "word": "Mary",
+          "strongNumber": "G3137",
+          "lemma": "Maria/Mariam",
+          "meaning": "Mary"
+        },
+        {
+          "word": "wife",
+          "strongNumber": "G1135",
+          "lemma": "gynē",
+          "meaning": "woman, wife"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And so it was, that, while they were there, the days were accomplished that she should be delivered.",
+      "highlightedWords": [
+        {
+          "word": "days",
+          "strongNumber": "G2250",
+          "lemma": "hēmera",
+          "meaning": "day; time"
+        },
+        {
+          "word": "delivered",
+          "strongNumber": "G5088",
+          "lemma": "tiktō",
+          "meaning": "to give birth, bring forth"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And she brought forth her firstborn son, and wrapped him in swaddling clothes, and laid him in a manger; because there was no room for them in the inn.",
+      "highlightedWords": [
+        {
+          "word": "firstborn",
+          "strongNumber": "G4416",
+          "lemma": "prōtotokos",
+          "meaning": "firstborn"
+        },
+        {
+          "word": "manger",
+          "strongNumber": "G5336",
+          "lemma": "phatnē",
+          "meaning": "manger, feeding trough"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And there were in the same country shepherds abiding in the field, keeping watch over their flock by night.",
+      "highlightedWords": [
+        {
+          "word": "shepherds",
+          "strongNumber": "G4166",
+          "lemma": "poimēn",
+          "meaning": "shepherd"
+        },
+        {
+          "word": "field",
+          "strongNumber": "G68",
+          "lemma": "agros",
+          "meaning": "field, countryside"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And, lo, the angel of the Lord came upon them, and the glory of the Lord shone round about them: and they were sore afraid.",
+      "highlightedWords": [
+        {
+          "word": "angel",
+          "strongNumber": "G32",
+          "lemma": "angelos",
+          "meaning": "messenger, angel"
+        },
+        {
+          "word": "glory",
+          "strongNumber": "G1391",
+          "lemma": "doxa",
+          "meaning": "glory, honor, splendor"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And the angel said unto them, Fear not: for, behold, I bring you good tidings of great joy, which shall be to all people.",
+      "highlightedWords": [
+        {
+          "word": "joy",
+          "strongNumber": "G5479",
+          "lemma": "chara",
+          "meaning": "joy, gladness"
+        },
+        {
+          "word": "people",
+          "strongNumber": "G2992",
+          "lemma": "laos",
+          "meaning": "people, nation"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "For unto you is born this day in the city of David a Saviour, which is Christ the Lord.",
+      "highlightedWords": [
+        {
+          "word": "Saviour",
+          "strongNumber": "G4990",
+          "lemma": "sōtēr",
+          "meaning": "savior, deliverer"
+        },
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "Anointed One, Messiah"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And this shall be a sign unto you; Ye shall find the babe wrapped in swaddling clothes, lying in a manger.",
+      "highlightedWords": [
+        {
+          "word": "sign",
+          "strongNumber": "G4592",
+          "lemma": "sēmeion",
+          "meaning": "sign, token, miracle"
+        },
+        {
+          "word": "babe",
+          "strongNumber": "G1025",
+          "lemma": "brephos",
+          "meaning": "infant, baby"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And suddenly there was with the angel a multitude of the heavenly host praising God, and saying,",
+      "highlightedWords": [
+        {
+          "word": "heavenly",
+          "strongNumber": "G3770",
+          "lemma": "ouranios",
+          "meaning": "heavenly, celestial"
+        },
+        {
+          "word": "host",
+          "strongNumber": "G4756",
+          "lemma": "stratia",
+          "meaning": "army, host"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Glory to God in the highest, and on earth peace, good will toward men.",
+      "highlightedWords": [
+        {
+          "word": "Glory",
+          "strongNumber": "G1391",
+          "lemma": "doxa",
+          "meaning": "glory, honor"
+        },
+        {
+          "word": "peace",
+          "strongNumber": "G1515",
+          "lemma": "eirēnē",
+          "meaning": "peace, harmony"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And it came to pass, as the angels were gone away from them into heaven, the shepherds said one to another, Let us now go even unto Bethlehem, and see this thing which is come to pass, which the Lord hath made known unto us.",
+      "highlightedWords": [
+        {
+          "word": "heaven",
+          "strongNumber": "G3772",
+          "lemma": "ouranos",
+          "meaning": "heaven, sky"
+        },
+        {
+          "word": "Bethlehem",
+          "strongNumber": "G965",
+          "lemma": "Bēthleem",
+          "meaning": "Bethlehem"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And they came with haste, and found Mary, and Joseph, and the babe lying in a manger.",
+      "highlightedWords": [
+        {
+          "word": "Mary",
+          "strongNumber": "G3137",
+          "lemma": "Maria/Mariam",
+          "meaning": "Mary"
+        },
+        {
+          "word": "manger",
+          "strongNumber": "G5336",
+          "lemma": "phatnē",
+          "meaning": "manger, feeding trough"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And when they had seen it, they made known abroad the saying which was told them concerning this child.",
+      "highlightedWords": [
+        {
+          "word": "saying",
+          "strongNumber": "G4487",
+          "lemma": "rhēma",
+          "meaning": "word, saying, utterance"
+        },
+        {
+          "word": "child",
+          "strongNumber": "G3813",
+          "lemma": "paidion",
+          "meaning": "little child"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And all they that heard it wondered at those things which were told them by the shepherds.",
+      "highlightedWords": [
+        {
+          "word": "wondered",
+          "strongNumber": "G2296",
+          "lemma": "thaumazō",
+          "meaning": "to marvel, wonder"
+        },
+        {
+          "word": "shepherds",
+          "strongNumber": "G4166",
+          "lemma": "poimēn",
+          "meaning": "shepherd"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "But Mary kept all these things, and pondered them in her heart.",
+      "highlightedWords": [
+        {
+          "word": "Mary",
+          "strongNumber": "G3137",
+          "lemma": "Maria/Mariam",
+          "meaning": "Mary"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "G2588",
+          "lemma": "kardia",
+          "meaning": "heart"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And the shepherds returned, glorifying and praising God for all the things that they had heard and seen, as it was told unto them.",
+      "highlightedWords": [
+        {
+          "word": "glorifying",
+          "strongNumber": "G1392",
+          "lemma": "doxazō",
+          "meaning": "to glorify, praise"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And when eight days were accomplished for the circumcising of the child, his name was called JESUS, which was so named of the angel before he was conceived in the womb.",
+      "highlightedWords": [
+        {
+          "word": "circumcising",
+          "strongNumber": "G4059",
+          "lemma": "peritemnō",
+          "meaning": "to circumcise"
+        },
+        {
+          "word": "JESUS",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus; Yahweh is salvation"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And when the days of her purification according to the law of Moses were accomplished, they brought him to Jerusalem, to present him to the Lord;",
+      "highlightedWords": [
+        {
+          "word": "purification",
+          "strongNumber": "G2512",
+          "lemma": "katharismos",
+          "meaning": "cleansing, purification"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "G2419",
+          "lemma": "Ierousalēm",
+          "meaning": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "(As it is written in the law of the Lord, Every male that openeth the womb shall be called holy to the Lord;)",
+      "highlightedWords": [
+        {
+          "word": "womb",
+          "strongNumber": "G3388",
+          "lemma": "mētra",
+          "meaning": "womb"
+        },
+        {
+          "word": "holy",
+          "strongNumber": "G40",
+          "lemma": "hagios",
+          "meaning": "holy, set apart"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And to offer a sacrifice according to that which is said in the law of the Lord, A pair of turtledoves, or two young pigeons.",
+      "highlightedWords": [
+        {
+          "word": "sacrifice",
+          "strongNumber": "G2378",
+          "lemma": "thusia",
+          "meaning": "sacrifice, offering"
+        },
+        {
+          "word": "turtledoves",
+          "strongNumber": "G5167",
+          "lemma": "trygōn",
+          "meaning": "turtle-dove"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And, behold, there was a man in Jerusalem, whose name was Simeon; and the same man was just and devout, waiting for the consolation of Israel: and the Holy Ghost was upon him.",
+      "highlightedWords": [
+        {
+          "word": "Simeon",
+          "strongNumber": "G4826",
+          "lemma": "Symeōn",
+          "meaning": "Simeon"
+        },
+        {
+          "word": "Israel",
+          "strongNumber": "G2474",
+          "lemma": "Israēl",
+          "meaning": "Israel"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And it was revealed unto him by the Holy Ghost, that he should not see death, before he had seen the Lord's Christ.",
+      "highlightedWords": [
+        {
+          "word": "death",
+          "strongNumber": "G2288",
+          "lemma": "thanatos",
+          "meaning": "death"
+        },
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "Anointed One, Messiah"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And he came by the Spirit into the temple: and when the parents brought in the child Jesus, to do for him after the custom of the law,",
+      "highlightedWords": [
+        {
+          "word": "Spirit",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit, Spirit"
+        },
+        {
+          "word": "temple",
+          "strongNumber": "G2411",
+          "lemma": "hieron",
+          "meaning": "temple"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "Then took he him up in his arms, and blessed God, and said,",
+      "highlightedWords": [
+        {
+          "word": "blessed",
+          "strongNumber": "G2127",
+          "lemma": "eulogeō",
+          "meaning": "to bless, praise"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "Lord, now lettest thou thy servant depart in peace, according to thy word:",
+      "highlightedWords": [
+        {
+          "word": "servant",
+          "strongNumber": "G1401",
+          "lemma": "doulos",
+          "meaning": "bondservant, slave"
+        },
+        {
+          "word": "peace",
+          "strongNumber": "G1515",
+          "lemma": "eirēnē",
+          "meaning": "peace, harmony"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "For mine eyes have seen thy salvation,",
+      "highlightedWords": [
+        {
+          "word": "eyes",
+          "strongNumber": "G3788",
+          "lemma": "ophthalmos",
+          "meaning": "eye"
+        },
+        {
+          "word": "salvation",
+          "strongNumber": "G4991",
+          "lemma": "sōtēria",
+          "meaning": "salvation, deliverance"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "Which thou hast prepared before the face of all people;",
+      "highlightedWords": [
+        {
+          "word": "prepared",
+          "strongNumber": "G2090",
+          "lemma": "hetoimazō",
+          "meaning": "to prepare, make ready"
+        },
+        {
+          "word": "people",
+          "strongNumber": "G2992",
+          "lemma": "laos",
+          "meaning": "people, nation"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "A light to lighten the Gentiles, and the glory of thy people Israel.",
+      "highlightedWords": [
+        {
+          "word": "light",
+          "strongNumber": "G5457",
+          "lemma": "phōs",
+          "meaning": "light"
+        },
+        {
+          "word": "Gentiles",
+          "strongNumber": "G1484",
+          "lemma": "ethnos",
+          "meaning": "nation, Gentiles"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "And Joseph and his mother marvelled at those things which were spoken of him.",
+      "highlightedWords": [
+        {
+          "word": "Joseph",
+          "strongNumber": "G2501",
+          "lemma": "Iōsēph",
+          "meaning": "Joseph"
+        },
+        {
+          "word": "mother",
+          "strongNumber": "G3384",
+          "lemma": "mētēr",
+          "meaning": "mother"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "And Simeon blessed them, and said unto Mary his mother, Behold, this child is set for the fall and rising again of many in Israel; and for a sign which shall be spoken against;",
+      "highlightedWords": [
+        {
+          "word": "Israel",
+          "strongNumber": "G2474",
+          "lemma": "Israēl",
+          "meaning": "Israel"
+        },
+        {
+          "word": "sign",
+          "strongNumber": "G4592",
+          "lemma": "sēmeion",
+          "meaning": "sign, token, miracle"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "(Yea, a sword shall pierce through thy own soul also,) that the thoughts of many hearts may be revealed.",
+      "highlightedWords": [
+        {
+          "word": "soul",
+          "strongNumber": "G5590",
+          "lemma": "psychē",
+          "meaning": "soul, life, self"
+        },
+        {
+          "word": "hearts",
+          "strongNumber": "G2588",
+          "lemma": "kardia",
+          "meaning": "heart"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "And there was one Anna, a prophetess, the daughter of Phanuel, of the tribe of Aser: she was of a great age, and had lived with an husband seven years from her virginity;",
+      "highlightedWords": [
+        {
+          "word": "prophetess",
+          "strongNumber": "G4398",
+          "lemma": "prophētis",
+          "meaning": "prophetess"
+        },
+        {
+          "word": "tribe",
+          "strongNumber": "G5443",
+          "lemma": "phylē",
+          "meaning": "tribe"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "And she was a widow of about fourscore and four years, which departed not from the temple, but served God with fastings and prayers night and day.",
+      "highlightedWords": [
+        {
+          "word": "widow",
+          "strongNumber": "G5503",
+          "lemma": "chēra",
+          "meaning": "widow"
+        },
+        {
+          "word": "temple",
+          "strongNumber": "G2411",
+          "lemma": "hieron",
+          "meaning": "temple"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "And she coming in that instant gave thanks likewise unto the Lord, and spake of him to all them that looked for redemption in Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "redemption",
+          "strongNumber": "G3085",
+          "lemma": "lytrōsis",
+          "meaning": "redemption, deliverance"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "G2419",
+          "lemma": "Ierousalēm",
+          "meaning": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "text": "And when they had performed all things according to the law of the Lord, they returned into Galilee, to their own city Nazareth.",
+      "highlightedWords": [
+        {
+          "word": "Galilee",
+          "strongNumber": "G1056",
+          "lemma": "Galilaia",
+          "meaning": "Galilee"
+        },
+        {
+          "word": "Nazareth",
+          "strongNumber": "G3478",
+          "lemma": "Nazaret/Nazareth",
+          "meaning": "Nazareth"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "text": "And the child grew, and waxed strong in spirit, filled with wisdom: and the grace of God was upon him.",
+      "highlightedWords": [
+        {
+          "word": "wisdom",
+          "strongNumber": "G4678",
+          "lemma": "sophia",
+          "meaning": "wisdom"
+        },
+        {
+          "word": "grace",
+          "strongNumber": "G5485",
+          "lemma": "charis",
+          "meaning": "grace, favor"
+        }
+      ]
+    },
+    {
+      "verse": 41,
+      "text": "Now his parents went to Jerusalem every year at the feast of the passover.",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "G2419",
+          "lemma": "Ierousalēm",
+          "meaning": "Jerusalem"
+        },
+        {
+          "word": "passover",
+          "strongNumber": "G3957",
+          "lemma": "pascha",
+          "meaning": "Passover"
+        }
+      ]
+    },
+    {
+      "verse": 42,
+      "text": "And when he was twelve years old, they went up to Jerusalem after the custom of the feast.",
+      "highlightedWords": [
+        {
+          "word": "twelve",
+          "strongNumber": "G1427",
+          "lemma": "dōdeka",
+          "meaning": "twelve"
+        },
+        {
+          "word": "feast",
+          "strongNumber": "G1859",
+          "lemma": "heortē",
+          "meaning": "feast, festival"
+        }
+      ]
+    },
+    {
+      "verse": 43,
+      "text": "And when they had fulfilled the days, as they returned, the child Jesus tarried behind in Jerusalem; and Joseph and his mother knew not of it.",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus; Yahweh is salvation"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "G2419",
+          "lemma": "Ierousalēm",
+          "meaning": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "verse": 44,
+      "text": "But they, supposing him to have been in the company, went a day's journey; and they sought him among their kinsfolk and acquaintance.",
+      "highlightedWords": [
+        {
+          "word": "sought",
+          "strongNumber": "G2212",
+          "lemma": "zēteō",
+          "meaning": "to seek"
+        },
+        {
+          "word": "acquaintance",
+          "strongNumber": "G1110",
+          "lemma": "gnōstos",
+          "meaning": "acquaintance, known"
+        }
+      ]
+    },
+    {
+      "verse": 45,
+      "text": "And when they found him not, they turned back again to Jerusalem, seeking him.",
+      "highlightedWords": [
+        {
+          "word": "found",
+          "strongNumber": "G2147",
+          "lemma": "heuriskō",
+          "meaning": "to find, discover"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "G2419",
+          "lemma": "Ierousalēm",
+          "meaning": "Jerusalem"
+        }
+      ]
+    },
+    {
+      "verse": 46,
+      "text": "And it came to pass, that after three days they found him in the temple, sitting in the midst of the doctors, both hearing them, and asking them questions.",
+      "highlightedWords": [
+        {
+          "word": "temple",
+          "strongNumber": "G2411",
+          "lemma": "hieron",
+          "meaning": "temple"
+        },
+        {
+          "word": "doctors",
+          "strongNumber": "G1320",
+          "lemma": "didaskalos",
+          "meaning": "teacher"
+        }
+      ]
+    },
+    {
+      "verse": 47,
+      "text": "And all that heard him were astonished at his understanding and answers.",
+      "highlightedWords": [
+        {
+          "word": "understanding",
+          "strongNumber": "G4907",
+          "lemma": "synesis",
+          "meaning": "understanding, insight"
+        },
+        {
+          "word": "answers",
+          "strongNumber": "G612",
+          "lemma": "apokrisis",
+          "meaning": "answer, reply"
+        }
+      ]
+    },
+    {
+      "verse": 48,
+      "text": "And when they saw him, they were amazed: and his mother said unto him, Son, why hast thou thus dealt with us? behold, thy father and I have sought thee sorrowing.",
+      "highlightedWords": [
+        {
+          "word": "mother",
+          "strongNumber": "G3384",
+          "lemma": "mētēr",
+          "meaning": "mother"
+        },
+        {
+          "word": "father",
+          "strongNumber": "G3962",
+          "lemma": "patēr",
+          "meaning": "father"
+        }
+      ]
+    },
+    {
+      "verse": 49,
+      "text": "And he said unto them, How is it that ye sought me? wist ye not that I must be about my Father's business?",
+      "highlightedWords": [
+        {
+          "word": "sought",
+          "strongNumber": "G2212",
+          "lemma": "zēteō",
+          "meaning": "to seek"
+        },
+        {
+          "word": "must",
+          "strongNumber": "G1163",
+          "lemma": "dei",
+          "meaning": "it is necessary, must"
+        }
+      ]
+    },
+    {
+      "verse": 50,
+      "text": "And they understood not the saying which he spake unto them.",
+      "highlightedWords": [
+        {
+          "word": "understood",
+          "strongNumber": "G4920",
+          "lemma": "suniēmi",
+          "meaning": "to understand, comprehend"
+        },
+        {
+          "word": "saying",
+          "strongNumber": "G4487",
+          "lemma": "rhēma",
+          "meaning": "word, saying, utterance"
+        }
+      ]
+    },
+    {
+      "verse": 51,
+      "text": "And he went down with them, and came to Nazareth, and was subject unto them: but his mother kept all these sayings in her heart.",
+      "highlightedWords": [
+        {
+          "word": "Nazareth",
+          "strongNumber": "G3478",
+          "lemma": "Nazaret/Nazareth",
+          "meaning": "Nazareth"
+        },
+        {
+          "word": "subject",
+          "strongNumber": "G5293",
+          "lemma": "hypotassō",
+          "meaning": "to subject, submit"
+        }
+      ]
+    },
+    {
+      "verse": 52,
+      "text": "And Jesus increased in wisdom and stature, and in favour with God and man.",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus; Yahweh is salvation"
+        },
+        {
+          "word": "favour",
+          "strongNumber": "G5485",
+          "lemma": "charis",
+          "meaning": "grace, favor"
+        }
+      ]
+    }
+  ]
+}

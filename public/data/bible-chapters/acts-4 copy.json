@@ -1,0 +1,690 @@
+{
+  "book": "Acts",
+  "chapter": 4,
+  "chapterTheme": {
+    "twoWordSummary": "Bold Witness",
+    "themeWords": [
+      {
+        "word": "name",
+        "strongNumber": "G3686",
+        "lemma": "onoma",
+        "meaning": "name, authority, reputation"
+      },
+      {
+        "word": "boldness",
+        "strongNumber": "G3954",
+        "lemma": "parrēsia",
+        "meaning": "confidence, openness, bold speech"
+      }
+    ]
+  },
+  "sentenceTheme": "Peter and John testify to Jesus before the council; the believers pray for boldness, experience the Spirit’s power, and share all things in unity.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And as they spake unto the people, the priests, and the captain of the temple, and the Sadducees, came upon them,",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "G2409",
+          "lemma": "hiereus",
+          "meaning": "a priest; one who offers sacrifices"
+        },
+        {
+          "word": "Sadducees",
+          "strongNumber": "G4523",
+          "lemma": "Saddoukaios",
+          "meaning": "a member of a Jewish sect denying the resurrection"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Being grieved that they taught the people, and preached through Jesus the resurrection from the dead.",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus; Yeshua, ‘Yahweh is salvation’"
+        },
+        {
+          "word": "resurrection",
+          "strongNumber": "G386",
+          "lemma": "anastasis",
+          "meaning": "a rising up; resurrection from the dead"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And they laid hands on them, and put them in hold unto the next day: for it was now eventide.",
+      "highlightedWords": [
+        {
+          "word": "hands",
+          "strongNumber": "G5495",
+          "lemma": "cheir",
+          "meaning": "hand; by extension, power or agency"
+        },
+        {
+          "word": "day",
+          "strongNumber": "G2250",
+          "lemma": "hēmera",
+          "meaning": "day; a period of time from sunrise to sunset or figuratively a time"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Howbeit many of them which heard the word believed; and the number of the men was about five thousand.",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "G3056",
+          "lemma": "logos",
+          "meaning": "word, message, matter"
+        },
+        {
+          "word": "believed",
+          "strongNumber": "G4100",
+          "lemma": "pisteuō",
+          "meaning": "to believe, have faith, trust"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And it came to pass on the morrow, that their rulers, and elders, and scribes,",
+      "highlightedWords": [
+        {
+          "word": "rulers",
+          "strongNumber": "G758",
+          "lemma": "archōn",
+          "meaning": "a ruler, chief, leader"
+        },
+        {
+          "word": "scribes",
+          "strongNumber": "G1122",
+          "lemma": "grammateus",
+          "meaning": "scribe, expert in the Law"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And Annas the high priest, and Caiaphas, and John, and Alexander, and as many as were of the kindred of the high priest, were gathered together at Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "priest",
+          "strongNumber": "G749",
+          "lemma": "archiereus",
+          "meaning": "high priest, chief priest"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "G2419",
+          "lemma": "Ierousalēm",
+          "meaning": "Jerusalem, the holy city"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And when they had set them in the midst, they asked, By what power, or by what name, have ye done this?",
+      "highlightedWords": [
+        {
+          "word": "power",
+          "strongNumber": "G1411",
+          "lemma": "dynamis",
+          "meaning": "power, might, ability"
+        },
+        {
+          "word": "name",
+          "strongNumber": "G3686",
+          "lemma": "onoma",
+          "meaning": "name, authority, reputation"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Then Peter, filled with the Holy Ghost, said unto them, Ye rulers of the people, and elders of Israel,",
+      "highlightedWords": [
+        {
+          "word": "Peter",
+          "strongNumber": "G4074",
+          "lemma": "Petros",
+          "meaning": "Peter; a rock or stone"
+        },
+        {
+          "word": "Ghost",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit, breath; the Holy Spirit"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "If we this day be examined of the good deed done to the impotent man, by what means he is made whole;",
+      "highlightedWords": [
+        {
+          "word": "man",
+          "strongNumber": "G444",
+          "lemma": "anthrōpos",
+          "meaning": "a man, a human being"
+        },
+        {
+          "word": "whole",
+          "strongNumber": "G5199",
+          "lemma": "hygiēs",
+          "meaning": "healthy, sound, whole"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Be it known unto you all, and to all the people of Israel, that by the name of Jesus Christ of Nazareth, whom ye crucified, whom God raised from the dead, even by him doth this man stand here before you whole.",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus; Yeshua, ‘Yahweh is salvation’"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God; the supreme Deity"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "This is the stone which was set at nought of you builders, which is become the head of the corner.",
+      "highlightedWords": [
+        {
+          "word": "stone",
+          "strongNumber": "G3037",
+          "lemma": "lithos",
+          "meaning": "a stone"
+        },
+        {
+          "word": "corner",
+          "strongNumber": "G1137",
+          "lemma": "gōnia",
+          "meaning": "corner, angle"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Neither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved.",
+      "highlightedWords": [
+        {
+          "word": "salvation",
+          "strongNumber": "G4991",
+          "lemma": "sōtēria",
+          "meaning": "deliverance, salvation"
+        },
+        {
+          "word": "name",
+          "strongNumber": "G3686",
+          "lemma": "onoma",
+          "meaning": "name, authority, reputation"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Now when they saw the boldness of Peter and John, and perceived that they were unlearned and ignorant men, they marvelled; and they took knowledge of them, that they had been with Jesus.",
+      "highlightedWords": [
+        {
+          "word": "boldness",
+          "strongNumber": "G3954",
+          "lemma": "parrēsia",
+          "meaning": "boldness, openness, confident speech"
+        },
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus; Yeshua, ‘Yahweh is salvation’"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And beholding the man which was healed standing with them, they could say nothing against it.",
+      "highlightedWords": [
+        {
+          "word": "man",
+          "strongNumber": "G444",
+          "lemma": "anthrōpos",
+          "meaning": "a man, a human being"
+        },
+        {
+          "word": "standing",
+          "strongNumber": "G2476",
+          "lemma": "histēmi",
+          "meaning": "to stand, set, place"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "But when they had commanded them to go aside out of the council, they conferred among themselves,",
+      "highlightedWords": [
+        {
+          "word": "commanded",
+          "strongNumber": "G2753",
+          "lemma": "keleuō",
+          "meaning": "to command, order, direct"
+        },
+        {
+          "word": "council",
+          "strongNumber": "G4892",
+          "lemma": "synedrion",
+          "meaning": "council, Sanhedrin"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Saying, What shall we do to these men? for that indeed a notable miracle hath been done by them is manifest to all them that dwell in Jerusalem; and we cannot deny it.",
+      "highlightedWords": [
+        {
+          "word": "miracle",
+          "strongNumber": "G4592",
+          "lemma": "sēmeion",
+          "meaning": "sign, miracle, token"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "G2419",
+          "lemma": "Ierousalēm",
+          "meaning": "Jerusalem, the holy city"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "But that it spread no further among the people, let us straitly threaten them, that they speak henceforth to no man in this name.",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "G2992",
+          "lemma": "laos",
+          "meaning": "people, populace, nation"
+        },
+        {
+          "word": "name",
+          "strongNumber": "G3686",
+          "lemma": "onoma",
+          "meaning": "name, authority, reputation"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And they called them, and commanded them not to speak at all nor teach in the name of Jesus.",
+      "highlightedWords": [
+        {
+          "word": "name",
+          "strongNumber": "G3686",
+          "lemma": "onoma",
+          "meaning": "name, authority, reputation"
+        },
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus; Yeshua, ‘Yahweh is salvation’"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "But Peter and John answered and said unto them, Whether it be right in the sight of God to hearken unto you more than unto God, judge ye.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God; the supreme Deity"
+        },
+        {
+          "word": "right",
+          "strongNumber": "G1342",
+          "lemma": "dikaios",
+          "meaning": "just, right, righteous"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "For we cannot but speak the things which we have seen and heard.",
+      "highlightedWords": [
+        {
+          "word": "speak",
+          "strongNumber": "G2980",
+          "lemma": "laleō",
+          "meaning": "to speak, talk"
+        },
+        {
+          "word": "heard",
+          "strongNumber": "G191",
+          "lemma": "akouō",
+          "meaning": "to hear, listen"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "So when they had further threatened them, they let them go, finding nothing how they might punish them, because of the people: for all men glorified God for that which was done.",
+      "highlightedWords": [
+        {
+          "word": "glorified",
+          "strongNumber": "G1392",
+          "lemma": "doxazō",
+          "meaning": "to glorify, honor, praise"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God; the supreme Deity"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "For the man was above forty years old, on whom this miracle of healing was shewed.",
+      "highlightedWords": [
+        {
+          "word": "man",
+          "strongNumber": "G444",
+          "lemma": "anthrōpos",
+          "meaning": "a man, a human being"
+        },
+        {
+          "word": "years",
+          "strongNumber": "G2094",
+          "lemma": "etos",
+          "meaning": "year; a period of twelve months"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And being let go, they went to their own company, and reported all that the chief priests and elders had said unto them.",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "G749",
+          "lemma": "archiereus",
+          "meaning": "high priest, chief priest"
+        },
+        {
+          "word": "elders",
+          "strongNumber": "G4245",
+          "lemma": "presbyteros",
+          "meaning": "elder; older man; leader"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And when they heard that, they lifted up their voice to God with one accord, and said, Lord, thou art God, which hast made heaven, and earth, and the sea, and all that in them is:",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "lord, master; title of God/Yeshua"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "G3772",
+          "lemma": "ouranos",
+          "meaning": "heaven, sky"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Who by the mouth of thy servant David hast said, Why did the heathen rage, and the people imagine vain things?",
+      "highlightedWords": [
+        {
+          "word": "David",
+          "strongNumber": "G1138",
+          "lemma": "Dauid",
+          "meaning": "David, beloved; Israel’s king"
+        },
+        {
+          "word": "people",
+          "strongNumber": "G2992",
+          "lemma": "laos",
+          "meaning": "people, populace, nation"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "The kings of the earth stood up, and the rulers were gathered together against the Lord, and against his Christ.",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "lord, master; title of God/Yeshua"
+        },
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "Anointed One, Messiah"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "For of a truth against thy holy child Jesus, whom thou hast anointed, both Herod, and Pontius Pilate, with the Gentiles, and the people of Israel, were gathered together,",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus; Yeshua, ‘Yahweh is salvation’"
+        },
+        {
+          "word": "Gentiles",
+          "strongNumber": "G1484",
+          "lemma": "ethnos",
+          "meaning": "nation, Gentiles; non-Jews"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "For to do whatsoever thy hand and thy counsel determined before to be done.",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "G5495",
+          "lemma": "cheir",
+          "meaning": "hand; by extension, power or agency"
+        },
+        {
+          "word": "counsel",
+          "strongNumber": "G1012",
+          "lemma": "boulē",
+          "meaning": "counsel, plan, purpose"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "And now, Lord, behold their threatenings: and grant unto thy servants, that with all boldness they may speak thy word,",
+      "highlightedWords": [
+        {
+          "word": "servants",
+          "strongNumber": "G1401",
+          "lemma": "doulos",
+          "meaning": "slave, servant, bond-servant"
+        },
+        {
+          "word": "boldness",
+          "strongNumber": "G3954",
+          "lemma": "parrēsia",
+          "meaning": "confidence, openness, bold speech"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "By stretching forth thine hand to heal; and that signs and wonders may be done by the name of thy holy child Jesus.",
+      "highlightedWords": [
+        {
+          "word": "signs",
+          "strongNumber": "G4592",
+          "lemma": "sēmeion",
+          "meaning": "sign, miracle, token"
+        },
+        {
+          "word": "name",
+          "strongNumber": "G3686",
+          "lemma": "onoma",
+          "meaning": "name, authority, reputation"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "And when they had prayed, the place was shaken where they were assembled together; and they were all filled with the Holy Ghost, and they spake the word of God with boldness.",
+      "highlightedWords": [
+        {
+          "word": "prayed",
+          "strongNumber": "G4336",
+          "lemma": "proseuchomai",
+          "meaning": "to pray, offer prayer"
+        },
+        {
+          "word": "Ghost",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit, breath; the Holy Spirit"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "And the multitude of them that believed were of one heart and of one soul: neither said any of them that ought of the things which he possessed was his own; but they had all things common.",
+      "highlightedWords": [
+        {
+          "word": "soul",
+          "strongNumber": "G5590",
+          "lemma": "psychē",
+          "meaning": "soul, life, self"
+        },
+        {
+          "word": "common",
+          "strongNumber": "G2839",
+          "lemma": "koinos",
+          "meaning": "common, shared"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "And with great power gave the apostles witness of the resurrection of the Lord Jesus: and great grace was upon them all.",
+      "highlightedWords": [
+        {
+          "word": "apostles",
+          "strongNumber": "G652",
+          "lemma": "apostolos",
+          "meaning": "one sent; an apostle, messenger"
+        },
+        {
+          "word": "grace",
+          "strongNumber": "G5485",
+          "lemma": "charis",
+          "meaning": "grace, favor, kindness"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "Neither was there any among them that lacked: for as many as were possessors of lands or houses sold them, and brought the prices of the things that were sold,",
+      "highlightedWords": [
+        {
+          "word": "houses",
+          "strongNumber": "G3614",
+          "lemma": "oikia",
+          "meaning": "house, household, dwelling"
+        },
+        {
+          "word": "sold",
+          "strongNumber": "G4453",
+          "lemma": "pōleō",
+          "meaning": "to sell"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "And laid them down at the apostles' feet: and distribution was made unto every man according as he had need.",
+      "highlightedWords": [
+        {
+          "word": "apostles",
+          "strongNumber": "G652",
+          "lemma": "apostolos",
+          "meaning": "one sent; an apostle, messenger"
+        },
+        {
+          "word": "feet",
+          "strongNumber": "G4228",
+          "lemma": "pous",
+          "meaning": "foot"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "And Joses, who by the apostles was surnamed Barnabas, (which is, being interpreted, The son of consolation,) a Levite, and of the country of Cyprus,",
+      "highlightedWords": [
+        {
+          "word": "Barnabas",
+          "strongNumber": "G921",
+          "lemma": "Barnabas",
+          "meaning": "Barnabas; ‘son of encouragement’"
+        },
+        {
+          "word": "Levite",
+          "strongNumber": "G3019",
+          "lemma": "Levitēs",
+          "meaning": "a Levite; member of the tribe of Levi"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "Having land, sold it, and brought the money, and laid it at the apostles' feet.",
+      "highlightedWords": [
+        {
+          "word": "money",
+          "strongNumber": "G5536",
+          "lemma": "chrēma",
+          "meaning": "money, wealth, possessions"
+        },
+        {
+          "word": "feet",
+          "strongNumber": "G4228",
+          "lemma": "pous",
+          "meaning": "foot"
+        }
+      ]
+    }
+  ]
+}

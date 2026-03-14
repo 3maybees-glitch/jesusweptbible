@@ -1,0 +1,312 @@
+{
+  "book": "Titus",
+  "chapter": 1,
+  "chapterTheme": {
+    "twoWordSummary": "Godly Leadership",
+    "themeWords": [
+      {
+        "word": "bishop",
+        "strongNumber": "G1985",
+        "lemma": "episkopos",
+        "meaning": "overseer; bishop"
+      },
+      {
+        "word": "doctrine",
+        "strongNumber": "G1319",
+        "lemma": "didaskalia",
+        "meaning": "teaching; doctrine"
+      }
+    ]
+  },
+  "sentenceTheme": "Paul greets Titus, instructs him to appoint qualified elders, and warns against false teachers and corrupt practices.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God's elect, and the acknowledging of the truth which is after godliness;",
+      "highlightedWords": [
+        {
+          "word": "servant",
+          "strongNumber": "G1401",
+          "lemma": "doulos",
+          "meaning": "slave; bond-servant"
+        },
+        {
+          "word": "apostle",
+          "strongNumber": "G652",
+          "lemma": "apostolos",
+          "meaning": "one who is sent; apostle"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "In hope of eternal life, which God, that cannot lie, promised before the world began;",
+      "highlightedWords": [
+        {
+          "word": "hope",
+          "strongNumber": "G1680",
+          "lemma": "elpis",
+          "meaning": "hope; expectation"
+        },
+        {
+          "word": "eternal",
+          "strongNumber": "G166",
+          "lemma": "aiōnios",
+          "meaning": "eternal; everlasting"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "But hath in due times manifested his word through preaching, which is committed unto me according to the commandment of God our Saviour;",
+      "highlightedWords": [
+        {
+          "word": "manifested",
+          "strongNumber": "G5319",
+          "lemma": "phaneroō",
+          "meaning": "to make manifest; reveal"
+        },
+        {
+          "word": "preaching",
+          "strongNumber": "G2782",
+          "lemma": "kērygma",
+          "meaning": "proclamation; preaching"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "To Titus, mine own son after the common faith: Grace, mercy, and peace, from God the Father and the Lord Jesus Christ our Saviour.",
+      "highlightedWords": [
+        {
+          "word": "Grace",
+          "strongNumber": "G5485",
+          "lemma": "charis",
+          "meaning": "grace; favor"
+        },
+        {
+          "word": "peace",
+          "strongNumber": "G1515",
+          "lemma": "eirēnē",
+          "meaning": "peace; wholeness"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "For this cause left I thee in Crete, that thou shouldest set in order the things that are wanting, and ordain elders in every city, as I had appointed thee:",
+      "highlightedWords": [
+        {
+          "word": "ordain",
+          "strongNumber": "G2525",
+          "lemma": "kathistēmi",
+          "meaning": "to appoint; set in place"
+        },
+        {
+          "word": "elders",
+          "strongNumber": "G4245",
+          "lemma": "presbyteros",
+          "meaning": "elder; older man"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "If any be blameless, the husband of one wife, having faithful children not accused of riot or unruly.",
+      "highlightedWords": [
+        {
+          "word": "blameless",
+          "strongNumber": "G410",
+          "lemma": "anegklētos",
+          "meaning": "unaccused; blameless"
+        },
+        {
+          "word": "unruly",
+          "strongNumber": "G506",
+          "lemma": "anupotaktos",
+          "meaning": "insubordinate; unruly"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "For a bishop must be blameless, as the steward of God; not selfwilled, not soon angry, not given to wine, no striker, not given to filthy lucre;",
+      "highlightedWords": [
+        {
+          "word": "bishop",
+          "strongNumber": "G1985",
+          "lemma": "episkopos",
+          "meaning": "overseer; bishop"
+        },
+        {
+          "word": "steward",
+          "strongNumber": "G3623",
+          "lemma": "oikonomos",
+          "meaning": "steward; manager"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "But a lover of hospitality, a lover of good men, sober, just, holy, temperate;",
+      "highlightedWords": [
+        {
+          "word": "hospitality",
+          "strongNumber": "G5382",
+          "lemma": "philoxenos",
+          "meaning": "loving strangers; hospitable"
+        },
+        {
+          "word": "temperate",
+          "strongNumber": "G1468",
+          "lemma": "enkratēs",
+          "meaning": "self-controlled; temperate"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Holding fast the faithful word as he hath been taught, that he may be able by sound doctrine both to exhort and to convince the gainsayers.",
+      "highlightedWords": [
+        {
+          "word": "doctrine",
+          "strongNumber": "G1319",
+          "lemma": "didaskalia",
+          "meaning": "teaching; doctrine"
+        },
+        {
+          "word": "gainsayers",
+          "strongNumber": "G483",
+          "lemma": "antilegō",
+          "meaning": "those who speak against; contradictors"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "For there are many unruly and vain talkers and deceivers, specially they of the circumcision:",
+      "highlightedWords": [
+        {
+          "word": "deceivers",
+          "strongNumber": "G5423",
+          "lemma": "phrenapatēs",
+          "meaning": "deceiver; one who misleads minds"
+        },
+        {
+          "word": "circumcision",
+          "strongNumber": "G4061",
+          "lemma": "peritomē",
+          "meaning": "circumcision"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Whose mouths must be stopped, who subvert whole houses, teaching things which they ought not, for filthy lucre's sake.",
+      "highlightedWords": [
+        {
+          "word": "stopped",
+          "strongNumber": "G1993",
+          "lemma": "epistomizō",
+          "meaning": "to stop the mouth; silence"
+        },
+        {
+          "word": "subvert",
+          "strongNumber": "G396",
+          "lemma": "anatrepō",
+          "meaning": "to overturn; subvert"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "One of themselves, even a prophet of their own, said, The Cretians are alway liars, evil beasts, slow bellies.",
+      "highlightedWords": [
+        {
+          "word": "prophet",
+          "strongNumber": "G4396",
+          "lemma": "prophētēs",
+          "meaning": "prophet"
+        },
+        {
+          "word": "liars",
+          "strongNumber": "G5583",
+          "lemma": "pseustēs",
+          "meaning": "liar; false one"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "This witness is true. Wherefore rebuke them sharply, that they may be sound in the faith;",
+      "highlightedWords": [
+        {
+          "word": "rebuke",
+          "strongNumber": "G1651",
+          "lemma": "elenchō",
+          "meaning": "to reprove; rebuke"
+        },
+        {
+          "word": "sharply",
+          "strongNumber": "G664",
+          "lemma": "apotomos",
+          "meaning": "severely; sharply"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Not giving heed to Jewish fables, and commandments of men, that turn from the truth.",
+      "highlightedWords": [
+        {
+          "word": "fables",
+          "strongNumber": "G3454",
+          "lemma": "mythos",
+          "meaning": "fable; myth"
+        },
+        {
+          "word": "truth",
+          "strongNumber": "G225",
+          "lemma": "alētheia",
+          "meaning": "truth; reality"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Unto the pure all things are pure: but unto them that are defiled and unbelieving is nothing pure; but even their mind and conscience is defiled.",
+      "highlightedWords": [
+        {
+          "word": "pure",
+          "strongNumber": "G2513",
+          "lemma": "katharos",
+          "meaning": "clean; pure"
+        },
+        {
+          "word": "conscience",
+          "strongNumber": "G4893",
+          "lemma": "syneidēsis",
+          "meaning": "conscience; moral awareness"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "They profess that they know God; but in works they deny him, being abominable, and disobedient, and unto every good work reprobate.",
+      "highlightedWords": [
+        {
+          "word": "profess",
+          "strongNumber": "G3670",
+          "lemma": "homologeō",
+          "meaning": "to profess; confess"
+        },
+        {
+          "word": "reprobate",
+          "strongNumber": "G96",
+          "lemma": "adokimos",
+          "meaning": "disapproved; reprobate"
+        }
+      ]
+    }
+  ]
+}

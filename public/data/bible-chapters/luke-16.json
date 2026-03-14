@@ -1,0 +1,582 @@
+{
+  "book": "Luke",
+  "chapter": 16,
+  "chapterTheme": {
+    "twoWordSummary": "Stewardship Warnings",
+    "themeWords": [
+      {
+        "word": "mammon",
+        "strongNumber": "G3126",
+        "lemma": "mamōnas",
+        "meaning": "wealth, riches as a rival master"
+      },
+      {
+        "word": "repent",
+        "strongNumber": "G3340",
+        "lemma": "metanoeō",
+        "meaning": "to change one’s mind and turn; repent"
+      }
+    ]
+  },
+  "sentenceTheme": "Jesus teaches faithful stewardship, warns that one cannot serve God and mammon, and contrasts the rich man and Lazarus to call people to repent and heed God’s word.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And he said also unto his disciples, There was a certain rich man, which had a steward; and the same was accused unto him that he had wasted his goods.",
+      "highlightedWords": [
+        {
+          "word": "rich",
+          "strongNumber": "G4145",
+          "lemma": "plousios",
+          "meaning": "wealthy, rich"
+        },
+        {
+          "word": "steward",
+          "strongNumber": "G3623",
+          "lemma": "oikonomos",
+          "meaning": "household manager, steward"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And he called him, and said unto him, How is it that I hear this of thee? give an account of thy stewardship; for thou mayest be no longer steward.",
+      "highlightedWords": [
+        {
+          "word": "account",
+          "strongNumber": "G3056",
+          "lemma": "logos",
+          "meaning": "account, matter, word"
+        },
+        {
+          "word": "stewardship",
+          "strongNumber": "G3622",
+          "lemma": "oikonomia",
+          "meaning": "management, stewardship, administration"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Then the steward said within himself, What shall I do? for my lord taketh away from me the stewardship: I cannot dig; to beg I am ashamed.",
+      "highlightedWords": [
+        {
+          "word": "steward",
+          "strongNumber": "G3623",
+          "lemma": "oikonomos",
+          "meaning": "household manager, steward"
+        },
+        {
+          "word": "lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "lord, master"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "I am resolved what to do, that, when I am put out of the stewardship, they may receive me into their houses.",
+      "highlightedWords": [
+        {
+          "word": "stewardship",
+          "strongNumber": "G3622",
+          "lemma": "oikonomia",
+          "meaning": "management, stewardship, administration"
+        },
+        {
+          "word": "houses",
+          "strongNumber": "G3624",
+          "lemma": "oikos",
+          "meaning": "house, household"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "So he called every one of his lord's debtors unto him, and said unto the first, How much owest thou unto my lord?",
+      "highlightedWords": [
+        {
+          "word": "lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "lord, master"
+        },
+        {
+          "word": "first",
+          "strongNumber": "G4413",
+          "lemma": "prōtos",
+          "meaning": "first, foremost"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And he said, An hundred measures of oil. And he said unto him, Take thy bill, and sit down quickly, and write fifty.",
+      "highlightedWords": [
+        {
+          "word": "oil",
+          "strongNumber": "G1637",
+          "lemma": "elaion",
+          "meaning": "olive oil"
+        },
+        {
+          "word": "write",
+          "strongNumber": "G1125",
+          "lemma": "graphō",
+          "meaning": "to write"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Then said he to another, And how much owest thou? And he said, An hundred measures of wheat. And he said unto him, Take thy bill, and write fourscore.",
+      "highlightedWords": [
+        {
+          "word": "wheat",
+          "strongNumber": "G4621",
+          "lemma": "sitos",
+          "meaning": "wheat, grain"
+        },
+        {
+          "word": "write",
+          "strongNumber": "G1125",
+          "lemma": "graphō",
+          "meaning": "to write"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And the lord commended the unjust steward, because he had done wisely: for the children of this world are in their generation wiser than the children of light.",
+      "highlightedWords": [
+        {
+          "word": "world",
+          "strongNumber": "G165",
+          "lemma": "aiōn",
+          "meaning": "age, world"
+        },
+        {
+          "word": "light",
+          "strongNumber": "G5457",
+          "lemma": "phōs",
+          "meaning": "light"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And I say unto you, Make to yourselves friends of the mammon of unrighteousness; that, when ye fail, they may receive you into everlasting habitations.",
+      "highlightedWords": [
+        {
+          "word": "mammon",
+          "strongNumber": "G3126",
+          "lemma": "mamōnas",
+          "meaning": "wealth, riches"
+        },
+        {
+          "word": "everlasting",
+          "strongNumber": "G166",
+          "lemma": "aiōnios",
+          "meaning": "eternal, everlasting"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "He that is faithful in that which is least is faithful also in much: and he that is unjust in the least is unjust also in much.",
+      "highlightedWords": [
+        {
+          "word": "faithful",
+          "strongNumber": "G4103",
+          "lemma": "pistos",
+          "meaning": "faithful, trustworthy"
+        },
+        {
+          "word": "least",
+          "strongNumber": "G1646",
+          "lemma": "elachistos",
+          "meaning": "least, very small"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "If therefore ye have not been faithful in the unrighteous mammon, who will commit to your trust the true riches?",
+      "highlightedWords": [
+        {
+          "word": "faithful",
+          "strongNumber": "G4103",
+          "lemma": "pistos",
+          "meaning": "faithful, trustworthy"
+        },
+        {
+          "word": "mammon",
+          "strongNumber": "G3126",
+          "lemma": "mamōnas",
+          "meaning": "wealth, riches"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And if ye have not been faithful in that which is another man's, who shall give you that which is your own?",
+      "highlightedWords": [
+        {
+          "word": "faithful",
+          "strongNumber": "G4103",
+          "lemma": "pistos",
+          "meaning": "faithful, trustworthy"
+        },
+        {
+          "word": "own",
+          "strongNumber": "G2398",
+          "lemma": "idios",
+          "meaning": "one’s own, belonging to oneself"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "No servant can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God"
+        },
+        {
+          "word": "mammon",
+          "strongNumber": "G3126",
+          "lemma": "mamōnas",
+          "meaning": "wealth, riches"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And the Pharisees also, who were covetous, heard all these things: and they derided him.",
+      "highlightedWords": [
+        {
+          "word": "Pharisees",
+          "strongNumber": "G5330",
+          "lemma": "Pharisaios",
+          "meaning": "a Pharisee"
+        },
+        {
+          "word": "covetous",
+          "strongNumber": "G5366",
+          "lemma": "philargyros",
+          "meaning": "fond of money, covetous"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And he said unto them, Ye are they which justify yourselves before men; but God knoweth your hearts: for that which is highly esteemed among men is abomination in the sight of God.",
+      "highlightedWords": [
+        {
+          "word": "justify",
+          "strongNumber": "G1344",
+          "lemma": "dikaioō",
+          "meaning": "to justify, declare righteous"
+        },
+        {
+          "word": "abomination",
+          "strongNumber": "G946",
+          "lemma": "bdelygma",
+          "meaning": "a detestable thing, abomination"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "The law and the prophets were until John: since that time the kingdom of God is preached, and every man presseth into it.",
+      "highlightedWords": [
+        {
+          "word": "law",
+          "strongNumber": "G3551",
+          "lemma": "nomos",
+          "meaning": "law"
+        },
+        {
+          "word": "kingdom",
+          "strongNumber": "G932",
+          "lemma": "basileia",
+          "meaning": "kingdom, reign"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And it is easier for heaven and earth to pass, than one tittle of the law to fail.",
+      "highlightedWords": [
+        {
+          "word": "heaven",
+          "strongNumber": "G3772",
+          "lemma": "ouranos",
+          "meaning": "heaven, sky"
+        },
+        {
+          "word": "tittle",
+          "strongNumber": "G2762",
+          "lemma": "keraia",
+          "meaning": "a small stroke of a letter"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Whosoever putteth away his wife, and marrieth another, committeth adultery: and whosoever marrieth her that is put away from her husband committeth adultery.",
+      "highlightedWords": [
+        {
+          "word": "wife",
+          "strongNumber": "G1135",
+          "lemma": "gynē",
+          "meaning": "woman, wife"
+        },
+        {
+          "word": "adultery",
+          "strongNumber": "G3431",
+          "lemma": "moicheuō",
+          "meaning": "to commit adultery"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "There was a certain rich man, which was clothed in purple and fine linen, and fared sumptuously every day:",
+      "highlightedWords": [
+        {
+          "word": "rich",
+          "strongNumber": "G4145",
+          "lemma": "plousios",
+          "meaning": "wealthy, rich"
+        },
+        {
+          "word": "purple",
+          "strongNumber": "G4209",
+          "lemma": "porphyra",
+          "meaning": "purple cloth or dye"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And there was a certain beggar named Lazarus, which was laid at his gate, full of sores,",
+      "highlightedWords": [
+        {
+          "word": "beggar",
+          "strongNumber": "G4434",
+          "lemma": "ptōchos",
+          "meaning": "poor, beggar"
+        },
+        {
+          "word": "Lazarus",
+          "strongNumber": "G2976",
+          "lemma": "Lazaros",
+          "meaning": "Lazarus"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And desiring to be fed with the crumbs which fell from the rich man's table: moreover the dogs came and licked his sores.",
+      "highlightedWords": [
+        {
+          "word": "crumbs",
+          "strongNumber": "G5589",
+          "lemma": "psichion",
+          "meaning": "a small crumb"
+        },
+        {
+          "word": "dogs",
+          "strongNumber": "G2965",
+          "lemma": "kyōn",
+          "meaning": "dog"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And it came to pass, that the beggar died, and was carried by the angels into Abraham's bosom: the rich man also died, and was buried;",
+      "highlightedWords": [
+        {
+          "word": "angels",
+          "strongNumber": "G32",
+          "lemma": "angelos",
+          "meaning": "messenger, angel"
+        },
+        {
+          "word": "Abraham",
+          "strongNumber": "G11",
+          "lemma": "Abraam",
+          "meaning": "Abraham"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And in hell he lift up his eyes, being in torments, and seeth Abraham afar off, and Lazarus in his bosom.",
+      "highlightedWords": [
+        {
+          "word": "hell",
+          "strongNumber": "G86",
+          "lemma": "Hadēs",
+          "meaning": "Hades, the realm of the dead"
+        },
+        {
+          "word": "torments",
+          "strongNumber": "G931",
+          "lemma": "basanos",
+          "meaning": "torment, torture"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And he cried and said, Father Abraham, have mercy on me, and send Lazarus, that he may dip the tip of his finger in water, and cool my tongue; for I am tormented in this flame.",
+      "highlightedWords": [
+        {
+          "word": "tongue",
+          "strongNumber": "G1100",
+          "lemma": "glōssa",
+          "meaning": "tongue, language"
+        },
+        {
+          "word": "flame",
+          "strongNumber": "G5395",
+          "lemma": "phlox",
+          "meaning": "flame"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "But Abraham said, Son, remember that thou in thy lifetime receivedst thy good things, and likewise Lazarus evil things: but now he is comforted, and thou art tormented.",
+      "highlightedWords": [
+        {
+          "word": "remember",
+          "strongNumber": "G3403",
+          "lemma": "mimnēskomai",
+          "meaning": "to remember, call to mind"
+        },
+        {
+          "word": "tormented",
+          "strongNumber": "G928",
+          "lemma": "basanizō",
+          "meaning": "to torment, torture"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And beside all this, between us and you there is a great gulf fixed: so that they which would pass from hence to you cannot; neither can they pass to us, that would come from thence.",
+      "highlightedWords": [
+        {
+          "word": "gulf",
+          "strongNumber": "G5490",
+          "lemma": "chasma",
+          "meaning": "chasm, gulf"
+        },
+        {
+          "word": "pass",
+          "strongNumber": "G1330",
+          "lemma": "dierchomai",
+          "meaning": "to go or pass through"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "Then he said, I pray thee therefore, father, that thou wouldest send him to my father's house:",
+      "highlightedWords": [
+        {
+          "word": "father",
+          "strongNumber": "G3962",
+          "lemma": "patēr",
+          "meaning": "father"
+        },
+        {
+          "word": "house",
+          "strongNumber": "G3624",
+          "lemma": "oikos",
+          "meaning": "house, household"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "For I have five brethren; that he may testify unto them, lest they also come into this place of torment.",
+      "highlightedWords": [
+        {
+          "word": "brethren",
+          "strongNumber": "G80",
+          "lemma": "adelphos",
+          "meaning": "brother, fellow believer"
+        },
+        {
+          "word": "testify",
+          "strongNumber": "G1263",
+          "lemma": "diamartyromai",
+          "meaning": "to testify solemnly, charge"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "Abraham saith unto him, They have Moses and the prophets; let them hear them.",
+      "highlightedWords": [
+        {
+          "word": "Moses",
+          "strongNumber": "G3475",
+          "lemma": "Mōysēs",
+          "meaning": "Moses"
+        },
+        {
+          "word": "prophets",
+          "strongNumber": "G4396",
+          "lemma": "prophētēs",
+          "meaning": "prophet"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "And he said, Nay, father Abraham: but if one went unto them from the dead, they will repent.",
+      "highlightedWords": [
+        {
+          "word": "dead",
+          "strongNumber": "G3498",
+          "lemma": "nekros",
+          "meaning": "dead"
+        },
+        {
+          "word": "repent",
+          "strongNumber": "G3340",
+          "lemma": "metanoeō",
+          "meaning": "to change one’s mind and turn; repent"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "And he said unto him, If they hear not Moses and the prophets, neither will they be persuaded, though one rose from the dead.",
+      "highlightedWords": [
+        {
+          "word": "hear",
+          "strongNumber": "G191",
+          "lemma": "akouō",
+          "meaning": "to hear, listen"
+        },
+        {
+          "word": "rose",
+          "strongNumber": "G450",
+          "lemma": "anistēmi",
+          "meaning": "to rise, stand up"
+        }
+      ]
+    }
+  ]
+}

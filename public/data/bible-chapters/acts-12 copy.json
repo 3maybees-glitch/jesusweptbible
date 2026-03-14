@@ -1,0 +1,474 @@
+{
+  "book": "Acts",
+  "chapter": 12,
+  "chapterTheme": {
+    "twoWordSummary": "Rescue Judgment",
+    "themeWords": [
+      {
+        "word": "angel",
+        "strongNumber": "G32",
+        "lemma": "angelos",
+        "meaning": "messenger, angel"
+      },
+      {
+        "word": "Herod",
+        "strongNumber": "G2264",
+        "lemma": "Hērōdēs",
+        "meaning": "Herod, the name of several rulers of Judea"
+      }
+    ]
+  },
+  "sentenceTheme": "Peter is miraculously delivered by an angel while Herod arrogantly receives glory and is judged; the word of God increases.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Now about that time Herod the king stretched forth his hands to vex certain of the church.",
+      "highlightedWords": [
+        {
+          "word": "Herod",
+          "strongNumber": "G2264",
+          "lemma": "Hērōdēs",
+          "meaning": "Herod, the name of several rulers of Judea"
+        },
+        {
+          "word": "church",
+          "strongNumber": "G1577",
+          "lemma": "ekklēsia",
+          "meaning": "assembly, congregation, church"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And he killed James the brother of John with the sword.",
+      "highlightedWords": [
+        {
+          "word": "James",
+          "strongNumber": "G2385",
+          "lemma": "Iakōbos",
+          "meaning": "James, Jacob"
+        },
+        {
+          "word": "sword",
+          "strongNumber": "G3162",
+          "lemma": "machaira",
+          "meaning": "sword, dagger"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And because he saw it pleased the Jews, he proceeded further to take Peter also. (Then were the days of unleavened bread.)",
+      "highlightedWords": [
+        {
+          "word": "Jews",
+          "strongNumber": "G2453",
+          "lemma": "Ioudaios",
+          "meaning": "Jews, Jewish people"
+        },
+        {
+          "word": "Peter",
+          "strongNumber": "G4074",
+          "lemma": "Petros",
+          "meaning": "Peter, a rock; the apostle"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And when he had apprehended him, he put him in prison, and delivered him to four quaternions of soldiers to keep him; intending after Easter to bring him forth to the people.",
+      "highlightedWords": [
+        {
+          "word": "prison",
+          "strongNumber": "G5438",
+          "lemma": "phylakē",
+          "meaning": "guard, prison"
+        },
+        {
+          "word": "Easter",
+          "strongNumber": "G3957",
+          "lemma": "pascha",
+          "meaning": "Passover (festival)"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Peter therefore was kept in prison: but prayer was made without ceasing of the church unto God for him.",
+      "highlightedWords": [
+        {
+          "word": "prayer",
+          "strongNumber": "G4335",
+          "lemma": "proseuchē",
+          "meaning": "prayer, petition to God"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God, deity"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And when Herod would have brought him forth, the same night Peter was sleeping between two soldiers, bound with two chains: and the keepers before the door kept the prison.",
+      "highlightedWords": [
+        {
+          "word": "soldiers",
+          "strongNumber": "G4757",
+          "lemma": "stratiōtēs",
+          "meaning": "soldier"
+        },
+        {
+          "word": "chains",
+          "strongNumber": "G254",
+          "lemma": "halysis",
+          "meaning": "chain, fetter"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And, behold, the angel of the Lord came upon him, and a light shined in the prison: and he smote Peter on the side, and raised him up, saying, Arise up quickly. And his chains fell off from his hands.",
+      "highlightedWords": [
+        {
+          "word": "angel",
+          "strongNumber": "G32",
+          "lemma": "angelos",
+          "meaning": "messenger, angel"
+        },
+        {
+          "word": "light",
+          "strongNumber": "G5457",
+          "lemma": "phōs",
+          "meaning": "light"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And the angel said unto him, Gird thyself, and bind on thy sandals. And so he did. And he saith unto him, Cast thy garment about thee, and follow me.",
+      "highlightedWords": [
+        {
+          "word": "angel",
+          "strongNumber": "G32",
+          "lemma": "angelos",
+          "meaning": "messenger, angel"
+        },
+        {
+          "word": "follow",
+          "strongNumber": "G190",
+          "lemma": "akoloutheō",
+          "meaning": "to follow"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And he went out, and followed him; and wist not that it was true which was done by the angel; but thought he saw a vision.",
+      "highlightedWords": [
+        {
+          "word": "angel",
+          "strongNumber": "G32",
+          "lemma": "angelos",
+          "meaning": "messenger, angel"
+        },
+        {
+          "word": "vision",
+          "strongNumber": "G3705",
+          "lemma": "horama",
+          "meaning": "a vision, supernatural sight"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "When they were past the first and the second ward, they came unto the iron gate that leadeth unto the city; which opened to them of his own accord: and they went out, and passed on through one street; and forthwith the angel departed from him.",
+      "highlightedWords": [
+        {
+          "word": "gate",
+          "strongNumber": "G4439",
+          "lemma": "pulē",
+          "meaning": "gate"
+        },
+        {
+          "word": "city",
+          "strongNumber": "G4172",
+          "lemma": "polis",
+          "meaning": "city"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And when Peter was come to himself, he said, Now I know of a surety, that the Lord hath sent his angel, and hath delivered me out of the hand of Herod, and from all the expectation of the people of the Jews.",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "Lord, master"
+        },
+        {
+          "word": "angel",
+          "strongNumber": "G32",
+          "lemma": "angelos",
+          "meaning": "messenger, angel"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And when he had considered the thing, he came to the house of Mary the mother of John, whose surname was Mark; where many were gathered together praying.",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "G3624",
+          "lemma": "oikos",
+          "meaning": "house, household"
+        },
+        {
+          "word": "praying",
+          "strongNumber": "G4336",
+          "lemma": "proseuchomai",
+          "meaning": "to pray"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And as Peter knocked at the door of the gate, a damsel came to hearken, named Rhoda.",
+      "highlightedWords": [
+        {
+          "word": "door",
+          "strongNumber": "G2374",
+          "lemma": "thyra",
+          "meaning": "door"
+        },
+        {
+          "word": "gate",
+          "strongNumber": "G4440",
+          "lemma": "pulōn",
+          "meaning": "gateway, porch"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And when she knew Peter's voice, she opened not the gate for gladness, but ran in, and told how Peter stood before the gate.",
+      "highlightedWords": [
+        {
+          "word": "voice",
+          "strongNumber": "G5456",
+          "lemma": "phōnē",
+          "meaning": "voice, sound"
+        },
+        {
+          "word": "gate",
+          "strongNumber": "G4440",
+          "lemma": "pulōn",
+          "meaning": "gateway, porch"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And they said unto her, Thou art mad. But she constantly affirmed that it was even so. Then said they, It is his angel.",
+      "highlightedWords": [
+        {
+          "word": "said",
+          "strongNumber": "G3004",
+          "lemma": "legō",
+          "meaning": "to say, speak"
+        },
+        {
+          "word": "angel",
+          "strongNumber": "G32",
+          "lemma": "angelos",
+          "meaning": "messenger, angel"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "But Peter continued knocking: and when they had opened the door, and saw him, they were astonished.",
+      "highlightedWords": [
+        {
+          "word": "door",
+          "strongNumber": "G2374",
+          "lemma": "thyra",
+          "meaning": "door"
+        },
+        {
+          "word": "saw",
+          "strongNumber": "G3708",
+          "lemma": "horaō",
+          "meaning": "to see"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "But he, beckoning unto them with the hand to hold their peace, declared unto them how the Lord had brought him out of the prison. And he said, Go shew these things unto James, and to the brethren. And he departed, and went into another place.",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "G5495",
+          "lemma": "cheir",
+          "meaning": "hand"
+        },
+        {
+          "word": "prison",
+          "strongNumber": "G5438",
+          "lemma": "phylakē",
+          "meaning": "guard, prison"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Now as soon as it was day, there was no small stir among the soldiers, what was become of Peter.",
+      "highlightedWords": [
+        {
+          "word": "day",
+          "strongNumber": "G2250",
+          "lemma": "hēmera",
+          "meaning": "day"
+        },
+        {
+          "word": "soldiers",
+          "strongNumber": "G4757",
+          "lemma": "stratiōtēs",
+          "meaning": "soldier"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And when Herod had sought for him, and found him not, he examined the keepers, and commanded that they should be put to death. And he went down from Judaea to Caesarea, and there abode.",
+      "highlightedWords": [
+        {
+          "word": "death",
+          "strongNumber": "G2288",
+          "lemma": "thanatos",
+          "meaning": "death"
+        },
+        {
+          "word": "Caesarea",
+          "strongNumber": "G2542",
+          "lemma": "Kaisareia",
+          "meaning": "Caesarea (a city)"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And Herod was highly displeased with them of Tyre and Sidon: but they came with one accord to him, and, having made Blastus the king's chamberlain their friend, desired peace; because their country was nourished by the king's country.",
+      "highlightedWords": [
+        {
+          "word": "Tyre",
+          "strongNumber": "G5184",
+          "lemma": "Tyros",
+          "meaning": "Tyre (a Phoenician city)"
+        },
+        {
+          "word": "Sidon",
+          "strongNumber": "G4605",
+          "lemma": "Sidōn",
+          "meaning": "Sidon (a Phoenician city)"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And upon a set day Herod, arrayed in royal apparel, sat upon his throne, and made an oration unto them.",
+      "highlightedWords": [
+        {
+          "word": "Herod",
+          "strongNumber": "G2264",
+          "lemma": "Hērōdēs",
+          "meaning": "Herod, the name of several rulers of Judea"
+        },
+        {
+          "word": "throne",
+          "strongNumber": "G2362",
+          "lemma": "thronos",
+          "meaning": "throne, seat"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And the people gave a shout, saying, It is the voice of a god, and not of a man.",
+      "highlightedWords": [
+        {
+          "word": "voice",
+          "strongNumber": "G5456",
+          "lemma": "phōnē",
+          "meaning": "voice, sound"
+        },
+        {
+          "word": "god",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "god, deity"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And immediately the angel of the Lord smote him, because he gave not God the glory: and he was eaten of worms, and gave up the ghost.",
+      "highlightedWords": [
+        {
+          "word": "angel",
+          "strongNumber": "G32",
+          "lemma": "angelos",
+          "meaning": "messenger, angel"
+        },
+        {
+          "word": "glory",
+          "strongNumber": "G1391",
+          "lemma": "doxa",
+          "meaning": "glory, honor"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "But the word of God grew and multiplied.",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "G3056",
+          "lemma": "logos",
+          "meaning": "word, message"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God, deity"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And Barnabas and Saul returned from Jerusalem, when they had fulfilled their ministry, and took with them John, whose surname was Mark.",
+      "highlightedWords": [
+        {
+          "word": "Barnabas",
+          "strongNumber": "G921",
+          "lemma": "Barnabas",
+          "meaning": "Barnabas (a Christian leader)"
+        },
+        {
+          "word": "Saul",
+          "strongNumber": "G4569",
+          "lemma": "Saulos",
+          "meaning": "Saul, later called Paul"
+        }
+      ]
+    }
+  ]
+}

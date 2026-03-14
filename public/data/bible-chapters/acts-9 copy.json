@@ -1,0 +1,798 @@
+{
+  "book": "Acts",
+  "chapter": 9,
+  "chapterTheme": {
+    "twoWordSummary": "Saul Converted",
+    "themeWords": [
+      {
+        "word": "Jesus",
+        "strongNumber": "G2424",
+        "lemma": "Ἰησοῦς",
+        "meaning": "Jesus; Yeshua, the Messiah"
+      },
+      {
+        "word": "Spirit",
+        "strongNumber": "G4151",
+        "lemma": "πνεῦμα",
+        "meaning": "spirit; the Holy Spirit"
+      }
+    ]
+  },
+  "sentenceTheme": "Saul encounters the risen Jesus, is converted and commissioned, while Peter heals Aeneas and raises Dorcas, and the church grows in the fear of the Lord and comfort of the Holy Spirit.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And Saul, yet breathing out threatenings and slaughter against the disciples of the Lord, went unto the high priest,",
+      "highlightedWords": [
+        {
+          "word": "Saul",
+          "strongNumber": "G4549",
+          "lemma": "Σαῦλος",
+          "meaning": "Saul; later called Paul"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "κύριος",
+          "meaning": "lord, master; title for God or Christ"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And desired of him letters to Damascus to the synagogues, that if he found any of this way, whether they were men or women, he might bring them bound unto Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "Damascus",
+          "strongNumber": "G1154",
+          "lemma": "Δαμασκός",
+          "meaning": "Damascus, a city of Syria"
+        },
+        {
+          "word": "synagogues",
+          "strongNumber": "G4864",
+          "lemma": "συναγωγή",
+          "meaning": "assembly, synagogue"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And as he journeyed, he came near Damascus: and suddenly there shined round about him a light from heaven:",
+      "highlightedWords": [
+        {
+          "word": "light",
+          "strongNumber": "G5457",
+          "lemma": "φῶς",
+          "meaning": "light"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "G3772",
+          "lemma": "οὐρανός",
+          "meaning": "heaven, sky"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And he fell to the earth, and heard a voice saying unto him, Saul, Saul, why persecutest thou me?",
+      "highlightedWords": [
+        {
+          "word": "voice",
+          "strongNumber": "G5456",
+          "lemma": "φωνή",
+          "meaning": "voice, sound"
+        },
+        {
+          "word": "persecutest",
+          "strongNumber": "G1377",
+          "lemma": "διώκω",
+          "meaning": "to persecute, pursue"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And he said, Who art thou, Lord? And the Lord said, I am Jesus whom thou persecutest: it is hard for thee to kick against the pricks.",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "κύριος",
+          "meaning": "lord, master; title for God or Christ"
+        },
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Ἰησοῦς",
+          "meaning": "Jesus; Yeshua, the Messiah"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And he trembling and astonished said, Lord, what wilt thou have me to do? And the Lord said unto him, Arise, and go into the city, and it shall be told thee what thou must do.",
+      "highlightedWords": [
+        {
+          "word": "Arise",
+          "strongNumber": "G450",
+          "lemma": "ἀνίστημι",
+          "meaning": "to arise, get up"
+        },
+        {
+          "word": "city",
+          "strongNumber": "G4172",
+          "lemma": "πόλις",
+          "meaning": "city, town"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And the men which journeyed with him stood speechless, hearing a voice, but seeing no man.",
+      "highlightedWords": [
+        {
+          "word": "men",
+          "strongNumber": "G435",
+          "lemma": "ἀνήρ",
+          "meaning": "man, male, husband"
+        },
+        {
+          "word": "voice",
+          "strongNumber": "G5456",
+          "lemma": "φωνή",
+          "meaning": "voice, sound"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And Saul arose from the earth; and when his eyes were opened, he saw no man: but they led him by the hand, and brought him into Damascus.",
+      "highlightedWords": [
+        {
+          "word": "eyes",
+          "strongNumber": "G3788",
+          "lemma": "ὀφθαλμός",
+          "meaning": "eye"
+        },
+        {
+          "word": "hand",
+          "strongNumber": "G5495",
+          "lemma": "χείρ",
+          "meaning": "hand"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And he was three days without sight, and neither did eat nor drink.",
+      "highlightedWords": [
+        {
+          "word": "days",
+          "strongNumber": "G2250",
+          "lemma": "ἡμέρα",
+          "meaning": "day"
+        },
+        {
+          "word": "drink",
+          "strongNumber": "G4095",
+          "lemma": "πίνω",
+          "meaning": "to drink"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And there was a certain disciple at Damascus, named Ananias; and to him said the Lord in a vision, Ananias. And he said, Behold, I am here, Lord.",
+      "highlightedWords": [
+        {
+          "word": "vision",
+          "strongNumber": "G3705",
+          "lemma": "ὅραμα",
+          "meaning": "a vision, supernatural sight"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "κύριος",
+          "meaning": "lord, master; title for God or Christ"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And the Lord said unto him, Arise, and go into the street which is called Straight, and enquire in the house of Judas for one called Saul, of Tarsus: for, behold, he prayeth,",
+      "highlightedWords": [
+        {
+          "word": "Tarsus",
+          "strongNumber": "G5019",
+          "lemma": "Ταρσός",
+          "meaning": "Tarsus, a city of Cilicia"
+        },
+        {
+          "word": "prayeth",
+          "strongNumber": "G4336",
+          "lemma": "προσεύχομαι",
+          "meaning": "to pray"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And hath seen in a vision a man named Ananias coming in, and putting his hand on him, that he might receive his sight.",
+      "highlightedWords": [
+        {
+          "word": "vision",
+          "strongNumber": "G3705",
+          "lemma": "ὅραμα",
+          "meaning": "a vision, supernatural sight"
+        },
+        {
+          "word": "hand",
+          "strongNumber": "G5495",
+          "lemma": "χείρ",
+          "meaning": "hand"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Then Ananias answered, Lord, I have heard by many of this man, how much evil he hath done to thy saints at Jerusalem:",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "κύριος",
+          "meaning": "lord, master; title for God or Christ"
+        },
+        {
+          "word": "saints",
+          "strongNumber": "G40",
+          "lemma": "ἅγιος",
+          "meaning": "holy ones, saints"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And here he hath authority from the chief priests to bind all that call on thy name.",
+      "highlightedWords": [
+        {
+          "word": "authority",
+          "strongNumber": "G1849",
+          "lemma": "ἐξουσία",
+          "meaning": "authority, power, right"
+        },
+        {
+          "word": "name",
+          "strongNumber": "G3686",
+          "lemma": "ὄνομα",
+          "meaning": "name"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "But the Lord said unto him, Go thy way: for he is a chosen vessel unto me, to bear my name before the Gentiles, and kings, and the children of Israel:",
+      "highlightedWords": [
+        {
+          "word": "Gentiles",
+          "strongNumber": "G1484",
+          "lemma": "ἔθνος",
+          "meaning": "nation, Gentiles"
+        },
+        {
+          "word": "vessel",
+          "strongNumber": "G4632",
+          "lemma": "σκεῦος",
+          "meaning": "vessel, instrument"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "For I will shew him how great things he must suffer for my name's sake.",
+      "highlightedWords": [
+        {
+          "word": "suffer",
+          "strongNumber": "G3958",
+          "lemma": "πάσχω",
+          "meaning": "to suffer"
+        },
+        {
+          "word": "name's",
+          "strongNumber": "G3686",
+          "lemma": "ὄνομα",
+          "meaning": "name"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And Ananias went his way, and entered into the house; and putting his hands on him said, Brother Saul, the Lord, even Jesus, that appeared unto thee in the way as thou camest, hath sent me, that thou mightest receive thy sight, and be filled with the Holy Ghost.",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Ἰησοῦς",
+          "meaning": "Jesus; Yeshua, the Messiah"
+        },
+        {
+          "word": "Ghost",
+          "strongNumber": "G4151",
+          "lemma": "πνεῦμα",
+          "meaning": "spirit; the Holy Spirit"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And immediately there fell from his eyes as it had been scales: and he received sight forthwith, and arose, and was baptized.",
+      "highlightedWords": [
+        {
+          "word": "eyes",
+          "strongNumber": "G3788",
+          "lemma": "ὀφθαλμός",
+          "meaning": "eye"
+        },
+        {
+          "word": "baptized",
+          "strongNumber": "G907",
+          "lemma": "βαπτίζω",
+          "meaning": "to baptize, immerse"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And when he had received meat, he was strengthened. Then was Saul certain days with the disciples which were at Damascus.",
+      "highlightedWords": [
+        {
+          "word": "disciples",
+          "strongNumber": "G3101",
+          "lemma": "μαθητής",
+          "meaning": "disciple, learner"
+        },
+        {
+          "word": "Damascus",
+          "strongNumber": "G1154",
+          "lemma": "Δαμασκός",
+          "meaning": "Damascus, a city of Syria"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And straightway he preached Christ in the synagogues, that he is the Son of God.",
+      "highlightedWords": [
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Χριστός",
+          "meaning": "the Anointed One, Messiah, Christ"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "θεός",
+          "meaning": "God"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "But all that heard him were amazed, and said; Is not this he that destroyed them which called on this name in Jerusalem, and came hither for that intent, that he might bring them bound unto the chief priests?",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "G2419",
+          "lemma": "Ἱερουσαλήμ",
+          "meaning": "Jerusalem"
+        },
+        {
+          "word": "priests",
+          "strongNumber": "G749",
+          "lemma": "ἀρχιερεύς",
+          "meaning": "high priest; chief priest"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "But Saul increased the more in strength, and confounded the Jews which dwelt at Damascus, proving that this is very Christ.",
+      "highlightedWords": [
+        {
+          "word": "Jews",
+          "strongNumber": "G2453",
+          "lemma": "Ἰουδαῖος",
+          "meaning": "Jew, Jewish person"
+        },
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Χριστός",
+          "meaning": "the Anointed One, Messiah, Christ"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And after that many days were fulfilled, the Jews took counsel to kill him:",
+      "highlightedWords": [
+        {
+          "word": "Jews",
+          "strongNumber": "G2453",
+          "lemma": "Ἰουδαῖος",
+          "meaning": "Jew, Jewish person"
+        },
+        {
+          "word": "kill",
+          "strongNumber": "G615",
+          "lemma": "ἀποκτείνω",
+          "meaning": "to kill, put to death"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "But their laying await was known of Saul. And they watched the gates day and night to kill him.",
+      "highlightedWords": [
+        {
+          "word": "gates",
+          "strongNumber": "G4439",
+          "lemma": "πύλη",
+          "meaning": "gate"
+        },
+        {
+          "word": "night",
+          "strongNumber": "G3571",
+          "lemma": "νύξ",
+          "meaning": "night"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Then the disciples took him by night, and let him down by the wall in a basket.",
+      "highlightedWords": [
+        {
+          "word": "night",
+          "strongNumber": "G3571",
+          "lemma": "νύξ",
+          "meaning": "night"
+        },
+        {
+          "word": "wall",
+          "strongNumber": "G5038",
+          "lemma": "τεῖχος",
+          "meaning": "wall"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And when Saul was come to Jerusalem, he assayed to join himself to the disciples: but they were all afraid of him, and believed not that he was a disciple.",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "G2419",
+          "lemma": "Ἱερουσαλήμ",
+          "meaning": "Jerusalem"
+        },
+        {
+          "word": "disciples",
+          "strongNumber": "G3101",
+          "lemma": "μαθητής",
+          "meaning": "disciple, learner"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "But Barnabas took him, and brought him to the apostles, and declared unto them how he had seen the Lord in the way, and that he had spoken to him, and how he had preached boldly at Damascus in the name of Jesus.",
+      "highlightedWords": [
+        {
+          "word": "apostles",
+          "strongNumber": "G652",
+          "lemma": "ἀπόστολος",
+          "meaning": "apostle, messenger"
+        },
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Ἰησοῦς",
+          "meaning": "Jesus; Yeshua, the Messiah"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And he was with them coming in and going out at Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "coming",
+          "strongNumber": "G1525",
+          "lemma": "εἰσπορεύομαι",
+          "meaning": "to enter, come in"
+        },
+        {
+          "word": "going",
+          "strongNumber": "G1607",
+          "lemma": "ἐκπορεύομαι",
+          "meaning": "to go out, depart"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "And he spake boldly in the name of the Lord Jesus, and disputed against the Grecians: but they went about to slay him.",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Ἰησοῦς",
+          "meaning": "Jesus; Yeshua, the Messiah"
+        },
+        {
+          "word": "Grecians",
+          "strongNumber": "G1675",
+          "lemma": "Ἑλληνιστής",
+          "meaning": "Hellenist; Greek-speaking Jew"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "Which when the brethren knew, they brought him down to Caesarea, and sent him forth to Tarsus.",
+      "highlightedWords": [
+        {
+          "word": "brethren",
+          "strongNumber": "G80",
+          "lemma": "ἀδελφός",
+          "meaning": "brother; fellow believer"
+        },
+        {
+          "word": "Caesarea",
+          "strongNumber": "G2542",
+          "lemma": "Καισάρεια",
+          "meaning": "Caesarea"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "Then had the churches rest throughout all Judaea and Galilee and Samaria, and were edified; and walking in the fear of the Lord, and in the comfort of the Holy Ghost, were multiplied.",
+      "highlightedWords": [
+        {
+          "word": "churches",
+          "strongNumber": "G1577",
+          "lemma": "ἐκκλησία",
+          "meaning": "assembly, church"
+        },
+        {
+          "word": "Ghost",
+          "strongNumber": "G4151",
+          "lemma": "πνεῦμα",
+          "meaning": "spirit; the Holy Spirit"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "And it came to pass, as Peter passed throughout all quarters, he came down also to the saints which dwelt at Lydda.",
+      "highlightedWords": [
+        {
+          "word": "Peter",
+          "strongNumber": "G4074",
+          "lemma": "Πέτρος",
+          "meaning": "Peter, a disciple of Jesus"
+        },
+        {
+          "word": "saints",
+          "strongNumber": "G40",
+          "lemma": "ἅγιος",
+          "meaning": "holy ones, saints"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "And there he found a certain man named Aeneas, which had kept his bed eight years, and was sick of the palsy.",
+      "highlightedWords": [
+        {
+          "word": "Aeneas",
+          "strongNumber": "G132",
+          "lemma": "Αἰνέας",
+          "meaning": "Aeneas"
+        },
+        {
+          "word": "palsy",
+          "strongNumber": "G3885",
+          "lemma": "παραλυτικός",
+          "meaning": "paralyzed, paralytic"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "And Peter said unto him, Aeneas, Jesus Christ maketh thee whole: arise, and make thy bed. And he arose immediately.",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Ἰησοῦς",
+          "meaning": "Jesus; Yeshua, the Messiah"
+        },
+        {
+          "word": "arise",
+          "strongNumber": "G450",
+          "lemma": "ἀνίστημι",
+          "meaning": "to arise, get up"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "And all that dwelt at Lydda and Saron saw him, and turned to the Lord.",
+      "highlightedWords": [
+        {
+          "word": "Saron",
+          "strongNumber": "G4565",
+          "lemma": "Σαρών",
+          "meaning": "Sharon, a plain in Palestine"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "κύριος",
+          "meaning": "lord, master; title for God or Christ"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "Now there was at Joppa a certain disciple named Tabitha, which by interpretation is called Dorcas: this woman was full of good works and almsdeeds which she did.",
+      "highlightedWords": [
+        {
+          "word": "Joppa",
+          "strongNumber": "G2445",
+          "lemma": "Ἰόππη",
+          "meaning": "Joppa, a port city"
+        },
+        {
+          "word": "almsdeeds",
+          "strongNumber": "G1654",
+          "lemma": "ἐλεημοσύνη",
+          "meaning": "alms, acts of charity"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "And it came to pass in those days, that she was sick, and died: whom when they had washed, they laid her in an upper chamber.",
+      "highlightedWords": [
+        {
+          "word": "died",
+          "strongNumber": "G599",
+          "lemma": "ἀποθνῄσκω",
+          "meaning": "to die"
+        },
+        {
+          "word": "upper chamber",
+          "strongNumber": "G5253",
+          "lemma": "ὑπερῷον",
+          "meaning": "upper room"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "And forasmuch as Lydda was nigh to Joppa, and the disciples had heard that Peter was there, they sent unto him two men, desiring him that he would not delay to come to them.",
+      "highlightedWords": [
+        {
+          "word": "disciples",
+          "strongNumber": "G3101",
+          "lemma": "μαθητής",
+          "meaning": "disciple, learner"
+        },
+        {
+          "word": "Peter",
+          "strongNumber": "G4074",
+          "lemma": "Πέτρος",
+          "meaning": "Peter, a disciple of Jesus"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "text": "Then Peter arose and went with them. When he was come, they brought him into the upper chamber: and all the widows stood by him weeping, and shewing the coats and garments which Dorcas made, while she was with them.",
+      "highlightedWords": [
+        {
+          "word": "widows",
+          "strongNumber": "G5503",
+          "lemma": "χήρα",
+          "meaning": "widow"
+        },
+        {
+          "word": "garments",
+          "strongNumber": "G2440",
+          "lemma": "ἱμάτιον",
+          "meaning": "garment, cloak"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "text": "But Peter put them all forth, and kneeled down, and prayed; and turning him to the body said, Tabitha, arise. And she opened her eyes: and when she saw Peter, she sat up.",
+      "highlightedWords": [
+        {
+          "word": "prayed",
+          "strongNumber": "G4336",
+          "lemma": "προσεύχομαι",
+          "meaning": "to pray"
+        },
+        {
+          "word": "arise",
+          "strongNumber": "G450",
+          "lemma": "ἀνίστημι",
+          "meaning": "to arise, get up"
+        }
+      ]
+    },
+    {
+      "verse": 41,
+      "text": "And he gave her his hand, and lifted her up, and when he had called the saints and widows, presented her alive.",
+      "highlightedWords": [
+        {
+          "word": "hand",
+          "strongNumber": "G5495",
+          "lemma": "χείρ",
+          "meaning": "hand"
+        },
+        {
+          "word": "saints",
+          "strongNumber": "G40",
+          "lemma": "ἅγιος",
+          "meaning": "holy ones, saints"
+        }
+      ]
+    },
+    {
+      "verse": 42,
+      "text": "And it was known throughout all Joppa; and many believed in the Lord.",
+      "highlightedWords": [
+        {
+          "word": "believed",
+          "strongNumber": "G4100",
+          "lemma": "πιστεύω",
+          "meaning": "to believe, trust"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "κύριος",
+          "meaning": "lord, master; title for God or Christ"
+        }
+      ]
+    },
+    {
+      "verse": 43,
+      "text": "And it came to pass, that he tarried many days in Joppa with one Simon a tanner.",
+      "highlightedWords": [
+        {
+          "word": "Simon",
+          "strongNumber": "G4613",
+          "lemma": "Σίμων",
+          "meaning": "Simon"
+        },
+        {
+          "word": "tanner",
+          "strongNumber": "G1035",
+          "lemma": "βυρσεύς",
+          "meaning": "a tanner, leather-worker"
+        }
+      ]
+    }
+  ]
+}

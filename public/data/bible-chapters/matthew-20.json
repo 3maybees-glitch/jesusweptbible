@@ -1,0 +1,636 @@
+{
+  "book": "Matthew",
+  "chapter": 20,
+  "chapterTheme": {
+    "twoWordSummary": "Servant Leadership",
+    "themeWords": [
+      {
+        "word": "kingdom",
+        "strongNumber": "G932",
+        "lemma": "basileia",
+        "meaning": "kingdom, reign"
+      },
+      {
+        "word": "ransom",
+        "strongNumber": "G3083",
+        "lemma": "lutron",
+        "meaning": "ransom, price of release"
+      }
+    ]
+  },
+  "sentenceTheme": "Jesus teaches about the gracious rewards of the kingdom, foretells His passion, and models servant leadership as He heals the blind.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "For the kingdom of heaven is like unto a man that is an householder, which went out early in the morning to hire labourers into his vineyard.",
+      "highlightedWords": [
+        {
+          "word": "kingdom",
+          "strongNumber": "G932",
+          "lemma": "basileia",
+          "meaning": "kingdom, reign"
+        },
+        {
+          "word": "householder",
+          "strongNumber": "G3617",
+          "lemma": "oikodespotes",
+          "meaning": "master of the house"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And when he had agreed with the labourers for a penny a day, he sent them into his vineyard.",
+      "highlightedWords": [
+        {
+          "word": "penny",
+          "strongNumber": "G1220",
+          "lemma": "denarion",
+          "meaning": "a Roman silver coin (denarius)"
+        },
+        {
+          "word": "labourers",
+          "strongNumber": "G2040",
+          "lemma": "ergates",
+          "meaning": "worker, laborer"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And he went out about the third hour, and saw others standing idle in the marketplace,",
+      "highlightedWords": [
+        {
+          "word": "third",
+          "strongNumber": "G5154",
+          "lemma": "tritos",
+          "meaning": "third"
+        },
+        {
+          "word": "marketplace",
+          "strongNumber": "G58",
+          "lemma": "agora",
+          "meaning": "marketplace"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And said unto them; Go ye also into the vineyard, and whatsoever is right I will give you. And they went their way.",
+      "highlightedWords": [
+        {
+          "word": "right",
+          "strongNumber": "G1342",
+          "lemma": "dikaios",
+          "meaning": "righteous, just"
+        },
+        {
+          "word": "give",
+          "strongNumber": "G1325",
+          "lemma": "didomi",
+          "meaning": "to give, grant"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Again he went out about the sixth and ninth hour, and did likewise.",
+      "highlightedWords": [
+        {
+          "word": "sixth",
+          "strongNumber": "G1623",
+          "lemma": "hektos",
+          "meaning": "sixth"
+        },
+        {
+          "word": "ninth",
+          "strongNumber": "G1766",
+          "lemma": "enatos",
+          "meaning": "ninth"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And about the eleventh hour he went out, and found others standing idle, and saith unto them, Why stand ye here all the day idle?",
+      "highlightedWords": [
+        {
+          "word": "eleventh",
+          "strongNumber": "G1734",
+          "lemma": "hendekatos",
+          "meaning": "eleventh"
+        },
+        {
+          "word": "idle",
+          "strongNumber": "G692",
+          "lemma": "argos",
+          "meaning": "idle, inactive"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "They say unto him, Because no man hath hired us. He saith unto them, Go ye also into the vineyard; and whatsoever is right, that shall ye receive.",
+      "highlightedWords": [
+        {
+          "word": "receive",
+          "strongNumber": "G2983",
+          "lemma": "lambano",
+          "meaning": "to take, receive"
+        },
+        {
+          "word": "vineyard",
+          "strongNumber": "G290",
+          "lemma": "ampelon",
+          "meaning": "vineyard"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "So when even was come, the lord of the vineyard saith unto his steward, Call the labourers, and give them their hire, beginning from the last unto the first.",
+      "highlightedWords": [
+        {
+          "word": "lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "lord, master"
+        },
+        {
+          "word": "steward",
+          "strongNumber": "G2012",
+          "lemma": "epitropos",
+          "meaning": "steward, manager"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And when they came that were hired about the eleventh hour, they received every man a penny.",
+      "highlightedWords": [
+        {
+          "word": "eleventh",
+          "strongNumber": "G1734",
+          "lemma": "hendekatos",
+          "meaning": "eleventh"
+        },
+        {
+          "word": "penny",
+          "strongNumber": "G1220",
+          "lemma": "denarion",
+          "meaning": "a Roman silver coin (denarius)"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "But when the first came, they supposed that they should have received more; and they likewise received every man a penny.",
+      "highlightedWords": [
+        {
+          "word": "first",
+          "strongNumber": "G4413",
+          "lemma": "protos",
+          "meaning": "first, foremost"
+        },
+        {
+          "word": "penny",
+          "strongNumber": "G1220",
+          "lemma": "denarion",
+          "meaning": "a Roman silver coin (denarius)"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And when they had received it, they murmured against the goodman of the house,",
+      "highlightedWords": [
+        {
+          "word": "murmured",
+          "strongNumber": "G1111",
+          "lemma": "gogguzo",
+          "meaning": "to grumble, complain"
+        },
+        {
+          "word": "goodman",
+          "strongNumber": "G3617",
+          "lemma": "oikodespotes",
+          "meaning": "master of the house"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Saying, These last have wrought but one hour, and thou hast made them equal unto us, which have borne the burden and heat of the day.",
+      "highlightedWords": [
+        {
+          "word": "equal",
+          "strongNumber": "G2470",
+          "lemma": "isos",
+          "meaning": "equal, the same"
+        },
+        {
+          "word": "heat",
+          "strongNumber": "G2742",
+          "lemma": "kauson",
+          "meaning": "scorching heat"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "But he answered one of them, and said, Friend, I do thee no wrong: didst not thou agree with me for a penny?",
+      "highlightedWords": [
+        {
+          "word": "Friend",
+          "strongNumber": "G2083",
+          "lemma": "hetairos",
+          "meaning": "companion, friend"
+        },
+        {
+          "word": "wrong",
+          "strongNumber": "G91",
+          "lemma": "adikeo",
+          "meaning": "to do wrong, injure"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Take that thine is, and go thy way: I will give unto this last, even as unto thee.",
+      "highlightedWords": [
+        {
+          "word": "give",
+          "strongNumber": "G1325",
+          "lemma": "didomi",
+          "meaning": "to give, grant"
+        },
+        {
+          "word": "last",
+          "strongNumber": "G2078",
+          "lemma": "eschatos",
+          "meaning": "last"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Is it not lawful for me to do what I will with mine own? Is thine eye evil, because I am good?",
+      "highlightedWords": [
+        {
+          "word": "lawful",
+          "strongNumber": "G1832",
+          "lemma": "exesti",
+          "meaning": "it is lawful, permitted"
+        },
+        {
+          "word": "eye",
+          "strongNumber": "G3788",
+          "lemma": "ophthalmos",
+          "meaning": "eye"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "So the last shall be first, and the first last: for many be called, but few chosen.",
+      "highlightedWords": [
+        {
+          "word": "last",
+          "strongNumber": "G2078",
+          "lemma": "eschatos",
+          "meaning": "last"
+        },
+        {
+          "word": "chosen",
+          "strongNumber": "G1588",
+          "lemma": "eklektos",
+          "meaning": "chosen, elect"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And Jesus going up to Jerusalem took the twelve disciples apart in the way, and said unto them,",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iesous",
+          "meaning": "Jesus"
+        },
+        {
+          "word": "disciples",
+          "strongNumber": "G3101",
+          "lemma": "mathetes",
+          "meaning": "disciple, learner"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Behold, we go up to Jerusalem; and the Son of man shall be betrayed unto the chief priests and unto the scribes, and they shall condemn him to death,",
+      "highlightedWords": [
+        {
+          "word": "betrayed",
+          "strongNumber": "G3860",
+          "lemma": "paradidomi",
+          "meaning": "to hand over, betray"
+        },
+        {
+          "word": "scribes",
+          "strongNumber": "G1122",
+          "lemma": "grammateus",
+          "meaning": "scribe"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And shall deliver him to the Gentiles to mock, and to scourge, and to crucify him: and the third day he shall rise again.",
+      "highlightedWords": [
+        {
+          "word": "Gentiles",
+          "strongNumber": "G1484",
+          "lemma": "ethnos",
+          "meaning": "nations, Gentiles"
+        },
+        {
+          "word": "crucify",
+          "strongNumber": "G4717",
+          "lemma": "stauroo",
+          "meaning": "to crucify"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Then came to him the mother of Zebedee's children with her sons, worshipping him, and desiring a certain thing of him.",
+      "highlightedWords": [
+        {
+          "word": "mother",
+          "strongNumber": "G3384",
+          "lemma": "meter",
+          "meaning": "mother"
+        },
+        {
+          "word": "worshipping",
+          "strongNumber": "G4352",
+          "lemma": "proskuneo",
+          "meaning": "to bow down, worship"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And he said unto her, What wilt thou? She saith unto him, Grant that these my two sons may sit, the one on thy right hand, and the other on the left, in thy kingdom.",
+      "highlightedWords": [
+        {
+          "word": "right",
+          "strongNumber": "G1188",
+          "lemma": "dexios",
+          "meaning": "right (hand/side)"
+        },
+        {
+          "word": "left",
+          "strongNumber": "G2176",
+          "lemma": "euonumos",
+          "meaning": "left (hand/side)"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "But Jesus answered and said, Ye know not what ye ask. Are ye able to drink of the cup that I shall drink of, and to be baptized with the baptism that I am baptized with? They say unto him, We are able.",
+      "highlightedWords": [
+        {
+          "word": "cup",
+          "strongNumber": "G4221",
+          "lemma": "poterion",
+          "meaning": "cup"
+        },
+        {
+          "word": "baptized",
+          "strongNumber": "G907",
+          "lemma": "baptizo",
+          "meaning": "to baptize, immerse"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And he saith unto them, Ye shall drink indeed of my cup, and be baptized with the baptism that I am baptized with: but to sit on my right hand, and on my left, is not mine to give, but it shall be given to them for whom it is prepared of my Father.",
+      "highlightedWords": [
+        {
+          "word": "prepared",
+          "strongNumber": "G2090",
+          "lemma": "hetoimazo",
+          "meaning": "to prepare"
+        },
+        {
+          "word": "Father",
+          "strongNumber": "G3962",
+          "lemma": "pater",
+          "meaning": "father"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And when the ten heard it, they were moved with indignation against the two brethren.",
+      "highlightedWords": [
+        {
+          "word": "ten",
+          "strongNumber": "G1176",
+          "lemma": "deka",
+          "meaning": "ten"
+        },
+        {
+          "word": "brethren",
+          "strongNumber": "G80",
+          "lemma": "adelphos",
+          "meaning": "brother"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "But Jesus called them unto him, and said, Ye know that the princes of the Gentiles exercise dominion over them, and they that are great exercise authority upon them.",
+      "highlightedWords": [
+        {
+          "word": "princes",
+          "strongNumber": "G758",
+          "lemma": "archon",
+          "meaning": "ruler, prince"
+        },
+        {
+          "word": "Gentiles",
+          "strongNumber": "G1484",
+          "lemma": "ethnos",
+          "meaning": "nations, Gentiles"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "But it shall not be so among you: but whosoever will be great among you, let him be your minister;",
+      "highlightedWords": [
+        {
+          "word": "great",
+          "strongNumber": "G3173",
+          "lemma": "megas",
+          "meaning": "great"
+        },
+        {
+          "word": "minister",
+          "strongNumber": "G1249",
+          "lemma": "diakonos",
+          "meaning": "servant, minister"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And whosoever will be chief among you, let him be your servant:",
+      "highlightedWords": [
+        {
+          "word": "chief",
+          "strongNumber": "G4413",
+          "lemma": "protos",
+          "meaning": "first, chief"
+        },
+        {
+          "word": "servant",
+          "strongNumber": "G1401",
+          "lemma": "doulos",
+          "meaning": "slave, servant"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "Even as the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many.",
+      "highlightedWords": [
+        {
+          "word": "ransom",
+          "strongNumber": "G3083",
+          "lemma": "lutron",
+          "meaning": "ransom"
+        },
+        {
+          "word": "life",
+          "strongNumber": "G5590",
+          "lemma": "psyche",
+          "meaning": "soul, life"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "And as they departed from Jericho, a great multitude followed him.",
+      "highlightedWords": [
+        {
+          "word": "Jericho",
+          "strongNumber": "G2410",
+          "lemma": "Iericho",
+          "meaning": "Jericho"
+        },
+        {
+          "word": "multitude",
+          "strongNumber": "G3793",
+          "lemma": "ochlos",
+          "meaning": "crowd, multitude"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "And, behold, two blind men sitting by the way side, when they heard that Jesus passed by, cried out, saying, Have mercy on us, O Lord, thou son of David.",
+      "highlightedWords": [
+        {
+          "word": "blind",
+          "strongNumber": "G5185",
+          "lemma": "typhlos",
+          "meaning": "blind"
+        },
+        {
+          "word": "mercy",
+          "strongNumber": "G1653",
+          "lemma": "eleeo",
+          "meaning": "to have mercy"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "And the multitude rebuked them, because they should hold their peace: but they cried the more, saying, Have mercy on us, O Lord, thou son of David.",
+      "highlightedWords": [
+        {
+          "word": "multitude",
+          "strongNumber": "G3793",
+          "lemma": "ochlos",
+          "meaning": "crowd, multitude"
+        },
+        {
+          "word": "rebuked",
+          "strongNumber": "G2008",
+          "lemma": "epitimao",
+          "meaning": "to rebuke, charge"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "And Jesus stood still, and called them, and said, What will ye that I shall do unto you?",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iesous",
+          "meaning": "Jesus"
+        },
+        {
+          "word": "called",
+          "strongNumber": "G5455",
+          "lemma": "phoneo",
+          "meaning": "to call"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "They say unto him, Lord, that our eyes may be opened.",
+      "highlightedWords": [
+        {
+          "word": "eyes",
+          "strongNumber": "G3788",
+          "lemma": "ophthalmos",
+          "meaning": "eyes"
+        },
+        {
+          "word": "opened",
+          "strongNumber": "G455",
+          "lemma": "anoigo",
+          "meaning": "to open"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "So Jesus had compassion on them, and touched their eyes: and immediately their eyes received sight, and they followed him.",
+      "highlightedWords": [
+        {
+          "word": "compassion",
+          "strongNumber": "G4697",
+          "lemma": "splagchnizomai",
+          "meaning": "to have compassion"
+        },
+        {
+          "word": "touched",
+          "strongNumber": "G680",
+          "lemma": "haptomai",
+          "meaning": "to touch"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,564 @@
+{
+  "book": "Philippians",
+  "chapter": 2,
+  "chapterTheme": {
+    "twoWordSummary": "Christ Humility",
+    "themeWords": [
+      {
+        "word": "humility",
+        "strongNumber": "G5012",
+        "lemma": "tapeinophrosyne",
+        "meaning": "lowliness of mind; humility"
+      },
+      {
+        "word": "obedience",
+        "strongNumber": "G5218",
+        "lemma": "hypakoe",
+        "meaning": "obedience; attentive compliance"
+      }
+    ]
+  },
+  "sentenceTheme": "Christ's humility and exaltation model unity and obedient service.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "If there be therefore any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any bowels and mercies,",
+      "highlightedWords": [
+        {
+          "word": "consolation",
+          "strongNumber": "G3874",
+          "lemma": "paraklesis",
+          "meaning": "encouragement; comfort"
+        },
+        {
+          "word": "Spirit",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit; the Holy Spirit"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Fulfil ye my joy, that ye be likeminded, having the same love, being of one accord, of one mind.",
+      "highlightedWords": [
+        {
+          "word": "joy",
+          "strongNumber": "G5479",
+          "lemma": "chara",
+          "meaning": "joy; gladness"
+        },
+        {
+          "word": "love",
+          "strongNumber": "G26",
+          "lemma": "agape",
+          "meaning": "self-giving love; benevolence"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Let nothing be done through strife or vainglory; but in lowliness of mind let each esteem other better than themselves.",
+      "highlightedWords": [
+        {
+          "word": "strife",
+          "strongNumber": "G2052",
+          "lemma": "eritheia",
+          "meaning": "selfish ambition; contentiousness"
+        },
+        {
+          "word": "vainglory",
+          "strongNumber": "G2754",
+          "lemma": "kenodoxia",
+          "meaning": "empty pride; vain glory"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Look not every man on his own things, but every man also on the things of others.",
+      "highlightedWords": [
+        {
+          "word": "Look",
+          "strongNumber": "G4648",
+          "lemma": "skopeo",
+          "meaning": "to look at; to take notice of"
+        },
+        {
+          "word": "others",
+          "strongNumber": "G2087",
+          "lemma": "heteros",
+          "meaning": "another; others of a different kind"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Let this mind be in you, which was also in Christ Jesus:",
+      "highlightedWords": [
+        {
+          "word": "mind",
+          "strongNumber": "G5426",
+          "lemma": "phroneo",
+          "meaning": "to think; to set one’s mind"
+        },
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "the Anointed One; Messiah"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Who, being in the form of God, thought it not robbery to be equal with God:",
+      "highlightedWords": [
+        {
+          "word": "form",
+          "strongNumber": "G3444",
+          "lemma": "morphe",
+          "meaning": "form; outward appearance"
+        },
+        {
+          "word": "robbery",
+          "strongNumber": "G725",
+          "lemma": "harpagmos",
+          "meaning": "a thing to be grasped; robbery"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "But made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men:",
+      "highlightedWords": [
+        {
+          "word": "servant",
+          "strongNumber": "G1401",
+          "lemma": "doulos",
+          "meaning": "slave; bond-servant"
+        },
+        {
+          "word": "likeness",
+          "strongNumber": "G3667",
+          "lemma": "homoioma",
+          "meaning": "likeness; resemblance"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And being found in fashion as a man, he humbled himself, and became obedient unto death, even the death of the cross.",
+      "highlightedWords": [
+        {
+          "word": "humbled",
+          "strongNumber": "G5013",
+          "lemma": "tapeinoo",
+          "meaning": "to humble; to bring low"
+        },
+        {
+          "word": "cross",
+          "strongNumber": "G4716",
+          "lemma": "stauros",
+          "meaning": "a cross; an instrument of execution"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Wherefore God also hath highly exalted him, and given him a name which is above every name:",
+      "highlightedWords": [
+        {
+          "word": "exalted",
+          "strongNumber": "G5251",
+          "lemma": "huperupsoo",
+          "meaning": "to exalt exceedingly; to raise high"
+        },
+        {
+          "word": "name",
+          "strongNumber": "G3686",
+          "lemma": "onoma",
+          "meaning": "name; reputation"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "That at the name of Jesus every knee should bow, of things in heaven, and things in earth, and things under the earth;",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iesous",
+          "meaning": "Jesus; Joshua"
+        },
+        {
+          "word": "bow",
+          "strongNumber": "G2578",
+          "lemma": "kampto",
+          "meaning": "to bend; to bow"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father.",
+      "highlightedWords": [
+        {
+          "word": "confess",
+          "strongNumber": "G1843",
+          "lemma": "exomologeomai",
+          "meaning": "to confess; to acknowledge openly"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "lord; master"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Wherefore, my beloved, as ye have always obeyed, not as in my presence only, but now much more in my absence, work out your own salvation with fear and trembling.",
+      "highlightedWords": [
+        {
+          "word": "obeyed",
+          "strongNumber": "G5219",
+          "lemma": "hypakouo",
+          "meaning": "to obey; to heed"
+        },
+        {
+          "word": "salvation",
+          "strongNumber": "G4991",
+          "lemma": "soteria",
+          "meaning": "salvation; deliverance"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "For it is God which worketh in you both to will and to do of his good pleasure.",
+      "highlightedWords": [
+        {
+          "word": "worketh",
+          "strongNumber": "G1754",
+          "lemma": "energeo",
+          "meaning": "to be at work; to effect"
+        },
+        {
+          "word": "will",
+          "strongNumber": "G2309",
+          "lemma": "thelo",
+          "meaning": "to will; to desire"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Do all things without murmurings and disputings:",
+      "highlightedWords": [
+        {
+          "word": "murmurings",
+          "strongNumber": "G1112",
+          "lemma": "goggysmos",
+          "meaning": "grumbling; murmuring"
+        },
+        {
+          "word": "disputings",
+          "strongNumber": "G1261",
+          "lemma": "dialogismos",
+          "meaning": "reasonings; arguments"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "That ye may be blameless and harmless, the sons of God, without rebuke, in the midst of a crooked and perverse nation, among whom ye shine as lights in the world;",
+      "highlightedWords": [
+        {
+          "word": "blameless",
+          "strongNumber": "G273",
+          "lemma": "amemptos",
+          "meaning": "blameless; without fault"
+        },
+        {
+          "word": "lights",
+          "strongNumber": "G5458",
+          "lemma": "phoster",
+          "meaning": "light-bearers; luminaries"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Holding forth the word of life; that I may rejoice in the day of Christ, that I have not run in vain, neither laboured in vain.",
+      "highlightedWords": [
+        {
+          "word": "word",
+          "strongNumber": "G3056",
+          "lemma": "logos",
+          "meaning": "word; message"
+        },
+        {
+          "word": "life",
+          "strongNumber": "G2222",
+          "lemma": "zoe",
+          "meaning": "life; vitality"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Yea, and if I be offered upon the sacrifice and service of your faith, I joy, and rejoice with you all.",
+      "highlightedWords": [
+        {
+          "word": "offered",
+          "strongNumber": "G4689",
+          "lemma": "spendomai",
+          "meaning": "to be poured out as a drink offering"
+        },
+        {
+          "word": "sacrifice",
+          "strongNumber": "G2378",
+          "lemma": "thusia",
+          "meaning": "sacrifice; offering"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "For the same cause also do ye joy, and rejoice with me.",
+      "highlightedWords": [
+        {
+          "word": "joy",
+          "strongNumber": "G5463",
+          "lemma": "chairo",
+          "meaning": "to rejoice; to be glad"
+        },
+        {
+          "word": "rejoice",
+          "strongNumber": "G4796",
+          "lemma": "synchairo",
+          "meaning": "to rejoice together with"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "But I trust in the Lord Jesus to send Timotheus shortly unto you, that I also may be of good comfort, when I know your state.",
+      "highlightedWords": [
+        {
+          "word": "send",
+          "strongNumber": "G3992",
+          "lemma": "pempo",
+          "meaning": "to send"
+        },
+        {
+          "word": "Timotheus",
+          "strongNumber": "G5095",
+          "lemma": "Timotheos",
+          "meaning": "Timothy; ‘honoring God’"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "For I have no man likeminded, who will naturally care for your state.",
+      "highlightedWords": [
+        {
+          "word": "likeminded",
+          "strongNumber": "G2473",
+          "lemma": "isopsuchos",
+          "meaning": "like-souled; of equal mind"
+        },
+        {
+          "word": "care",
+          "strongNumber": "G3309",
+          "lemma": "merimnao",
+          "meaning": "to care for; to be concerned"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "For all seek their own, not the things which are Jesus Christ's.",
+      "highlightedWords": [
+        {
+          "word": "seek",
+          "strongNumber": "G2212",
+          "lemma": "zeteo",
+          "meaning": "to seek; to look for"
+        },
+        {
+          "word": "Christ's",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "belonging to Christ; the Anointed One"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "But ye know the proof of him, that, as a son with the father, he hath served with me in the gospel.",
+      "highlightedWords": [
+        {
+          "word": "proof",
+          "strongNumber": "G1382",
+          "lemma": "dokime",
+          "meaning": "tested character; proof"
+        },
+        {
+          "word": "gospel",
+          "strongNumber": "G2098",
+          "lemma": "euaggelion",
+          "meaning": "good news; gospel"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Him therefore I hope to send presently, so soon as I shall see how it will go with me.",
+      "highlightedWords": [
+        {
+          "word": "hope",
+          "strongNumber": "G1679",
+          "lemma": "elpizo",
+          "meaning": "to hope; to expect"
+        },
+        {
+          "word": "send",
+          "strongNumber": "G3992",
+          "lemma": "pempo",
+          "meaning": "to send"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "But I trust in the Lord that I also myself shall come shortly.",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "lord; master"
+        },
+        {
+          "word": "come",
+          "strongNumber": "G2064",
+          "lemma": "erchomai",
+          "meaning": "to come; to go"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Yet I supposed it necessary to send to you Epaphroditus, my brother, and companion in labour, and fellowsoldier, but your messenger, and he that ministered to my wants.",
+      "highlightedWords": [
+        {
+          "word": "fellowsoldier",
+          "strongNumber": "G4961",
+          "lemma": "systratiotes",
+          "meaning": "fellow soldier; companion-in-arms"
+        },
+        {
+          "word": "messenger",
+          "strongNumber": "G652",
+          "lemma": "apostolos",
+          "meaning": "delegate; messenger; apostle"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "For he longed after you all, and was full of heaviness, because that ye had heard that he had been sick.",
+      "highlightedWords": [
+        {
+          "word": "longed",
+          "strongNumber": "G1971",
+          "lemma": "epipotheo",
+          "meaning": "to long for; to yearn"
+        },
+        {
+          "word": "sick",
+          "strongNumber": "G770",
+          "lemma": "astheneo",
+          "meaning": "to be weak; to be sick"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "For indeed he was sick nigh unto death: but God had mercy on him; and not on him only, but on me also, lest I should have sorrow upon sorrow.",
+      "highlightedWords": [
+        {
+          "word": "mercy",
+          "strongNumber": "G1656",
+          "lemma": "eleos",
+          "meaning": "mercy; compassion"
+        },
+        {
+          "word": "sorrow",
+          "strongNumber": "G3077",
+          "lemma": "lype",
+          "meaning": "sorrow; grief"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "I sent him therefore the more carefully, that, when ye see him again, ye may rejoice, and that I may be the less sorrowful.",
+      "highlightedWords": [
+        {
+          "word": "see",
+          "strongNumber": "G3708",
+          "lemma": "horao",
+          "meaning": "to see; to perceive"
+        },
+        {
+          "word": "rejoice",
+          "strongNumber": "G5463",
+          "lemma": "chairo",
+          "meaning": "to rejoice; to be glad"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "Receive him therefore in the Lord with all gladness; and hold such in reputation:",
+      "highlightedWords": [
+        {
+          "word": "Receive",
+          "strongNumber": "G4327",
+          "lemma": "prosdechomai",
+          "meaning": "to receive; to welcome"
+        },
+        {
+          "word": "gladness",
+          "strongNumber": "G5479",
+          "lemma": "chara",
+          "meaning": "joy; gladness"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "Because for the work of Christ he was nigh unto death, not regarding his life, to supply your lack of service toward me.",
+      "highlightedWords": [
+        {
+          "word": "work",
+          "strongNumber": "G2041",
+          "lemma": "ergon",
+          "meaning": "work; deed; task"
+        },
+        {
+          "word": "life",
+          "strongNumber": "G5590",
+          "lemma": "psyche",
+          "meaning": "life; soul; self"
+        }
+      ]
+    }
+  ]
+}

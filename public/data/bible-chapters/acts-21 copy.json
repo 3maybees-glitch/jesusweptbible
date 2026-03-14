@@ -1,0 +1,744 @@
+{
+  "book": "Acts",
+  "chapter": 21,
+  "chapterTheme": {
+    "twoWordSummary": "Journey Arrest",
+    "themeWords": [
+      {
+        "word": "Paul",
+        "strongNumber": "G3972",
+        "lemma": "Paulos",
+        "meaning": "Paul, the apostle"
+      },
+      {
+        "word": "Jerusalem",
+        "strongNumber": "G2419",
+        "lemma": "Hierosolyma",
+        "meaning": "Jerusalem, the holy city"
+      }
+    ]
+  },
+  "sentenceTheme": "Paul travels to Jerusalem, heeded yet resolved amid warnings, fulfills purification rites, is seized in the temple by hostile Jews, and is rescued by the Roman commander before addressing the people.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And it came to pass, that after we were gotten from them, and had launched, we came with a straight course unto Coos, and the day following unto Rhodes, and from thence unto Patara:",
+      "highlightedWords": [
+        {
+          "word": "Coos",
+          "strongNumber": "G2882",
+          "lemma": "Kos",
+          "meaning": "Cos/Coos, an Aegean island"
+        },
+        {
+          "word": "Rhodes",
+          "strongNumber": "G4499",
+          "lemma": "Rhodos",
+          "meaning": "Rhodes, an island in the Aegean Sea"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And finding a ship sailing over unto Phenicia, we went aboard, and set forth.",
+      "highlightedWords": [
+        {
+          "word": "ship",
+          "strongNumber": "G4143",
+          "lemma": "ploion",
+          "meaning": "a ship, boat, or vessel"
+        },
+        {
+          "word": "Phenicia",
+          "strongNumber": "G5403",
+          "lemma": "Phoinike",
+          "meaning": "Phoenicia, a coastal region of Syria"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Now when we had discovered Cyprus, we left it on the left hand, and sailed into Syria, and landed at Tyre: for there the ship was to unlade her burden.",
+      "highlightedWords": [
+        {
+          "word": "Cyprus",
+          "strongNumber": "G2954",
+          "lemma": "Kypros",
+          "meaning": "Cyprus, an island in the Mediterranean"
+        },
+        {
+          "word": "Tyre",
+          "strongNumber": "G5184",
+          "lemma": "Tyros",
+          "meaning": "Tyre, a Phoenician port city"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And finding disciples, we tarried there seven days: who said to Paul through the Spirit, that he should not go up to Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "disciples",
+          "strongNumber": "G3101",
+          "lemma": "mathētēs",
+          "meaning": "a learner, disciple, follower"
+        },
+        {
+          "word": "Spirit",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit; the Holy Spirit"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And when we had accomplished those days, we departed and went our way; and they all brought us on our way, with wives and children, till we were out of the city: and we kneeled down on the shore, and prayed.",
+      "highlightedWords": [
+        {
+          "word": "wives",
+          "strongNumber": "G1135",
+          "lemma": "gynē",
+          "meaning": "a woman, wife"
+        },
+        {
+          "word": "prayed",
+          "strongNumber": "G4336",
+          "lemma": "proseuchomai",
+          "meaning": "to pray"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And when we had taken our leave one of another, we took ship; and they returned home again.",
+      "highlightedWords": [
+        {
+          "word": "ship",
+          "strongNumber": "G4143",
+          "lemma": "ploion",
+          "meaning": "a ship, boat, or vessel"
+        },
+        {
+          "word": "returned",
+          "strongNumber": "G5290",
+          "lemma": "hypostrephō",
+          "meaning": "to return, go back"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And when we had finished our course from Tyre, we came to Ptolemais, and saluted the brethren, and abode with them one day.",
+      "highlightedWords": [
+        {
+          "word": "Ptolemais",
+          "strongNumber": "G4424",
+          "lemma": "Ptolemais",
+          "meaning": "Ptolemais, a coastal city (Acco/Acre)"
+        },
+        {
+          "word": "brethren",
+          "strongNumber": "G80",
+          "lemma": "adelphos",
+          "meaning": "brother; fellow believers"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And the next day we that were of Paul's company departed, and came unto Caesarea: and we entered into the house of Philip the evangelist, which was one of the seven; and abode with him.",
+      "highlightedWords": [
+        {
+          "word": "Caesarea",
+          "strongNumber": "G2542",
+          "lemma": "Kaisareia",
+          "meaning": "Caesarea, a major port city"
+        },
+        {
+          "word": "Philip",
+          "strongNumber": "G5376",
+          "lemma": "Philippos",
+          "meaning": "Philip, one of the Seven"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And the same man had four daughters, virgins, which did prophesy.",
+      "highlightedWords": [
+        {
+          "word": "virgins",
+          "strongNumber": "G3933",
+          "lemma": "parthenos",
+          "meaning": "a virgin, unmarried woman"
+        },
+        {
+          "word": "prophesy",
+          "strongNumber": "G4395",
+          "lemma": "prophēteuō",
+          "meaning": "to prophesy, speak forth by divine inspiration"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And as we tarried there many days, there came down from Judaea a certain prophet, named Agabus.",
+      "highlightedWords": [
+        {
+          "word": "Judaea",
+          "strongNumber": "G2449",
+          "lemma": "Ioudaia",
+          "meaning": "Judea, the region around Jerusalem"
+        },
+        {
+          "word": "prophet",
+          "strongNumber": "G4396",
+          "lemma": "prophētēs",
+          "meaning": "a prophet, foreteller"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And when he was come unto us, he took Paul's girdle, and bound his own hands and feet, and said, Thus saith the Holy Ghost, So shall the Jews at Jerusalem bind the man that owneth this girdle, and shall deliver him into the hands of the Gentiles.",
+      "highlightedWords": [
+        {
+          "word": "Ghost",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit; the Holy Spirit"
+        },
+        {
+          "word": "Jews",
+          "strongNumber": "G2453",
+          "lemma": "Ioudaios",
+          "meaning": "a Jew, Jewish person"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And when we heard these things, both we, and they of that place, besought him not to go up to Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "place",
+          "strongNumber": "G5117",
+          "lemma": "topos",
+          "meaning": "a place, location"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "G2419",
+          "lemma": "Hierosolyma",
+          "meaning": "Jerusalem, the holy city"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "Then Paul answered, What mean ye to weep and to break mine heart? for I am ready not to be bound only, but also to die at Jerusalem for the name of the Lord Jesus.",
+      "highlightedWords": [
+        {
+          "word": "Paul",
+          "strongNumber": "G3972",
+          "lemma": "Paulos",
+          "meaning": "Paul, the apostle"
+        },
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus, the Lord"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "And when he would not be persuaded, we ceased, saying, The will of the Lord be done.",
+      "highlightedWords": [
+        {
+          "word": "will",
+          "strongNumber": "G2307",
+          "lemma": "thelēma",
+          "meaning": "will, desire, purpose"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "Kyrios",
+          "meaning": "Lord, master"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And after those days we took up our carriages, and went up to Jerusalem.",
+      "highlightedWords": [
+        {
+          "word": "days",
+          "strongNumber": "G2250",
+          "lemma": "hēmera",
+          "meaning": "day"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "G2419",
+          "lemma": "Hierosolyma",
+          "meaning": "Jerusalem, the holy city"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "There went with us also certain of the disciples of Caesarea, and brought with them one Mnason of Cyprus, an old disciple, with whom we should lodge.",
+      "highlightedWords": [
+        {
+          "word": "disciples",
+          "strongNumber": "G3101",
+          "lemma": "mathētēs",
+          "meaning": "a learner, disciple, follower"
+        },
+        {
+          "word": "Mnason",
+          "strongNumber": "G3416",
+          "lemma": "Mnason",
+          "meaning": "Mnason, an early disciple"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And when we were come to Jerusalem, the brethren received us gladly.",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "G2419",
+          "lemma": "Hierosolyma",
+          "meaning": "Jerusalem, the holy city"
+        },
+        {
+          "word": "brethren",
+          "strongNumber": "G80",
+          "lemma": "adelphos",
+          "meaning": "brother; fellow believers"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And the day following Paul went in with us unto James; and all the elders were present.",
+      "highlightedWords": [
+        {
+          "word": "Paul",
+          "strongNumber": "G3972",
+          "lemma": "Paulos",
+          "meaning": "Paul, the apostle"
+        },
+        {
+          "word": "James",
+          "strongNumber": "G2385",
+          "lemma": "Iakōbos",
+          "meaning": "James"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And when he had saluted them, he declared particularly what things God had wrought among the Gentiles by his ministry.",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "Theos",
+          "meaning": "God"
+        },
+        {
+          "word": "Gentiles",
+          "strongNumber": "G1484",
+          "lemma": "ethnos",
+          "meaning": "nation; the Gentiles"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And when they heard it, they glorified the Lord, and said unto him, Thou seest, brother, how many thousands of Jews there are which believe; and they are all zealous of the law:",
+      "highlightedWords": [
+        {
+          "word": "Jews",
+          "strongNumber": "G2453",
+          "lemma": "Ioudaios",
+          "meaning": "a Jew, Jewish person"
+        },
+        {
+          "word": "law",
+          "strongNumber": "G3551",
+          "lemma": "nomos",
+          "meaning": "law, principle; the Law of Moses"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "And they are informed of thee, that thou teachest all the Jews which are among the Gentiles to forsake Moses, saying that they ought not to circumcise their children, neither to walk after the customs.",
+      "highlightedWords": [
+        {
+          "word": "Moses",
+          "strongNumber": "G3475",
+          "lemma": "Mōusēs",
+          "meaning": "Moses"
+        },
+        {
+          "word": "circumcise",
+          "strongNumber": "G4059",
+          "lemma": "peritemnō",
+          "meaning": "to circumcise"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "What is it therefore? the multitude must needs come together: for they will hear that thou art come.",
+      "highlightedWords": [
+        {
+          "word": "multitude",
+          "strongNumber": "G4128",
+          "lemma": "plēthos",
+          "meaning": "a great number, multitude"
+        },
+        {
+          "word": "hear",
+          "strongNumber": "G191",
+          "lemma": "akouō",
+          "meaning": "to hear, listen"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Do therefore this that we say to thee: We have four men which have a vow on them;",
+      "highlightedWords": [
+        {
+          "word": "vow",
+          "strongNumber": "G2171",
+          "lemma": "euchē",
+          "meaning": "a vow, prayer"
+        },
+        {
+          "word": "men",
+          "strongNumber": "G435",
+          "lemma": "anēr",
+          "meaning": "a man, male, husband"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "Them take, and purify thyself with them, and be at charges with them, that they may shave their heads: and all may know that those things, whereof they were informed concerning thee, are nothing; but that thou thyself also walkest orderly, and keepest the law.",
+      "highlightedWords": [
+        {
+          "word": "purify",
+          "strongNumber": "G48",
+          "lemma": "hagnizō",
+          "meaning": "to purify, cleanse ceremonially"
+        },
+        {
+          "word": "law",
+          "strongNumber": "G3551",
+          "lemma": "nomos",
+          "meaning": "law, principle; the Law of Moses"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "As touching the Gentiles which believe, we have written and concluded that they observe no such thing, save only that they keep themselves from things offered to idols, and from blood, and from strangled, and from fornication.",
+      "highlightedWords": [
+        {
+          "word": "Gentiles",
+          "strongNumber": "G1484",
+          "lemma": "ethnos",
+          "meaning": "nation; the Gentiles"
+        },
+        {
+          "word": "fornication",
+          "strongNumber": "G4202",
+          "lemma": "porneia",
+          "meaning": "sexual immorality, fornication"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "Then Paul took the men, and the next day purifying himself with them entered into the temple, to signify the accomplishment of the days of purification, until that an offering should be offered for every one of them.",
+      "highlightedWords": [
+        {
+          "word": "temple",
+          "strongNumber": "G2411",
+          "lemma": "hieron",
+          "meaning": "the temple precincts"
+        },
+        {
+          "word": "offering",
+          "strongNumber": "G4376",
+          "lemma": "prosphora",
+          "meaning": "an offering, sacrifice"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And when the seven days were almost ended, the Jews which were of Asia, when they saw him in the temple, stirred up all the people, and laid hands on him,",
+      "highlightedWords": [
+        {
+          "word": "Jews",
+          "strongNumber": "G2453",
+          "lemma": "Ioudaios",
+          "meaning": "a Jew, Jewish person"
+        },
+        {
+          "word": "Asia",
+          "strongNumber": "G773",
+          "lemma": "Asia",
+          "meaning": "the Roman province of Asia"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "Crying out, Men of Israel, help: This is the man, that teacheth all men every where against the people, and the law, and this place: and further brought Greeks also into the temple, and hath polluted this holy place.",
+      "highlightedWords": [
+        {
+          "word": "Greeks",
+          "strongNumber": "G1672",
+          "lemma": "Hellēn",
+          "meaning": "a Greek (non-Jew), Gentile"
+        },
+        {
+          "word": "temple",
+          "strongNumber": "G2411",
+          "lemma": "hieron",
+          "meaning": "the temple precincts"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "(For they had seen before with him in the city Trophimus an Ephesian, whom they supposed that Paul had brought into the temple.)",
+      "highlightedWords": [
+        {
+          "word": "Trophimus",
+          "strongNumber": "G5161",
+          "lemma": "Trophimos",
+          "meaning": "Trophimus, a companion of Paul"
+        },
+        {
+          "word": "Ephesian",
+          "strongNumber": "G2180",
+          "lemma": "Ephesios",
+          "meaning": "an Ephesian, native of Ephesus"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "And all the city was moved, and the people ran together: and they took Paul, and drew him out of the temple: and forthwith the doors were shut.",
+      "highlightedWords": [
+        {
+          "word": "city",
+          "strongNumber": "G4172",
+          "lemma": "polis",
+          "meaning": "a city, town"
+        },
+        {
+          "word": "doors",
+          "strongNumber": "G2374",
+          "lemma": "thyra",
+          "meaning": "a door, gate"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "And as they went about to kill him, tidings came unto the chief captain of the band, that all Jerusalem was in an uproar.",
+      "highlightedWords": [
+        {
+          "word": "captain",
+          "strongNumber": "G5506",
+          "lemma": "chiliarchos",
+          "meaning": "a commander of a thousand; tribune"
+        },
+        {
+          "word": "Jerusalem",
+          "strongNumber": "G2419",
+          "lemma": "Hierosolyma",
+          "meaning": "Jerusalem, the holy city"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "Who immediately took soldiers and centurions, and ran down unto them: and when they saw the chief captain and the soldiers, they left beating of Paul.",
+      "highlightedWords": [
+        {
+          "word": "soldiers",
+          "strongNumber": "G4757",
+          "lemma": "stratiōtēs",
+          "meaning": "a soldier"
+        },
+        {
+          "word": "centurions",
+          "strongNumber": "G1543",
+          "lemma": "hekatontarchēs",
+          "meaning": "a centurion, commander of a hundred"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "Then the chief captain came near, and took him, and commanded him to be bound with two chains; and demanded who he was, and what he had done.",
+      "highlightedWords": [
+        {
+          "word": "bound",
+          "strongNumber": "G1210",
+          "lemma": "deō",
+          "meaning": "to bind, tie"
+        },
+        {
+          "word": "chains",
+          "strongNumber": "G254",
+          "lemma": "halysis",
+          "meaning": "a chain"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "And some cried one thing, some another, among the multitude: and when he could not know the certainty for the tumult, he commanded him to be carried into the castle.",
+      "highlightedWords": [
+        {
+          "word": "multitude",
+          "strongNumber": "G3793",
+          "lemma": "ochlos",
+          "meaning": "a crowd, multitude"
+        },
+        {
+          "word": "castle",
+          "strongNumber": "G3925",
+          "lemma": "parembolē",
+          "meaning": "a camp, barracks, fortress"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "And when he came upon the stairs, so it was, that he was borne of the soldiers for the violence of the people.",
+      "highlightedWords": [
+        {
+          "word": "soldiers",
+          "strongNumber": "G4757",
+          "lemma": "stratiōtēs",
+          "meaning": "a soldier"
+        },
+        {
+          "word": "people",
+          "strongNumber": "G2992",
+          "lemma": "laos",
+          "meaning": "a people, populace"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "For the multitude of the people followed after, crying, Away with him.",
+      "highlightedWords": [
+        {
+          "word": "multitude",
+          "strongNumber": "G4128",
+          "lemma": "plēthos",
+          "meaning": "a great number, multitude"
+        },
+        {
+          "word": "people",
+          "strongNumber": "G2992",
+          "lemma": "laos",
+          "meaning": "a people, populace"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "And as Paul was to be led into the castle, he said unto the chief captain, May I speak unto thee? Who said, Canst thou speak Greek?",
+      "highlightedWords": [
+        {
+          "word": "Paul",
+          "strongNumber": "G3972",
+          "lemma": "Paulos",
+          "meaning": "Paul, the apostle"
+        },
+        {
+          "word": "Greek",
+          "strongNumber": "G1672",
+          "lemma": "Hellēn",
+          "meaning": "a Greek (non-Jew), Gentile; the Greek language by metonymy"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "Art not thou that Egyptian, which before these days madest an uproar, and leddest out into the wilderness four thousand men that were murderers?",
+      "highlightedWords": [
+        {
+          "word": "Egyptian",
+          "strongNumber": "G124",
+          "lemma": "Aiguptios",
+          "meaning": "an Egyptian"
+        },
+        {
+          "word": "wilderness",
+          "strongNumber": "G2048",
+          "lemma": "erēmos",
+          "meaning": "desert, wilderness"
+        }
+      ]
+    },
+    {
+      "verse": 39,
+      "text": "But Paul said, I am a man which am a Jew of Tarsus, a city in Cilicia, a citizen of no mean city: and, I beseech thee, suffer me to speak unto the people.",
+      "highlightedWords": [
+        {
+          "word": "Tarsus",
+          "strongNumber": "G5019",
+          "lemma": "Tarsos",
+          "meaning": "Tarsus, a city of Cilicia"
+        },
+        {
+          "word": "Cilicia",
+          "strongNumber": "G2791",
+          "lemma": "Kilikia",
+          "meaning": "Cilicia, a Roman province in SE Asia Minor"
+        }
+      ]
+    },
+    {
+      "verse": 40,
+      "text": "And when he had given him licence, Paul stood on the stairs, and beckoned with the hand unto the people. And when there was made a great silence, he spake unto them in the Hebrew tongue, saying,",
+      "highlightedWords": [
+        {
+          "word": "Hebrew",
+          "strongNumber": "G1447",
+          "lemma": "Hebraisti",
+          "meaning": "in Hebrew (language)"
+        },
+        {
+          "word": "people",
+          "strongNumber": "G2992",
+          "lemma": "laos",
+          "meaning": "a people, populace"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,402 @@
+{
+  "book": "1 Timothy",
+  "chapter": 6,
+  "chapterTheme": {
+    "twoWordSummary": "Godly Contentment",
+    "themeWords": [
+      {
+        "word": "godliness",
+        "strongNumber": "G2150",
+        "lemma": "eusebeia",
+        "meaning": "piety; godliness"
+      },
+      {
+        "word": "contentment",
+        "strongNumber": "G841",
+        "lemma": "autarkeia",
+        "meaning": "self-sufficiency; contentment"
+      }
+    ]
+  },
+  "sentenceTheme": "Paul instructs servants and the wealthy, warns against false teachers and greed, and charges Timothy to pursue godliness and guard the truth until Christ’s appearing.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Let as many servants as are under the yoke count their own masters worthy of all honour, that the name of God and his doctrine be not blasphemed.",
+      "highlightedWords": [
+        {
+          "word": "servants",
+          "strongNumber": "G1401",
+          "lemma": "doulos",
+          "meaning": "slave; bondservant"
+        },
+        {
+          "word": "masters",
+          "strongNumber": "G1203",
+          "lemma": "despotēs",
+          "meaning": "master; sovereign"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And they that have believing masters, let them not despise them, because they are brethren; but rather do them service, because they are faithful and beloved, partakers of the benefit. These things teach and exhort.",
+      "highlightedWords": [
+        {
+          "word": "believing",
+          "strongNumber": "G4103",
+          "lemma": "pistos",
+          "meaning": "faithful; trustworthy; believing"
+        },
+        {
+          "word": "brethren",
+          "strongNumber": "G80",
+          "lemma": "adelphos",
+          "meaning": "brother"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "If any man teach otherwise, and consent not to wholesome words, even the words of our Lord Jesus Christ, and to the doctrine which is according to godliness;",
+      "highlightedWords": [
+        {
+          "word": "wholesome",
+          "strongNumber": "G5198",
+          "lemma": "hygiainō",
+          "meaning": "to be sound, healthy"
+        },
+        {
+          "word": "godliness",
+          "strongNumber": "G2150",
+          "lemma": "eusebeia",
+          "meaning": "piety; godliness"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "He is proud, knowing nothing, but doting about questions and strifes of words, whereof cometh envy, strife, railings, evil surmisings,",
+      "highlightedWords": [
+        {
+          "word": "proud",
+          "strongNumber": "G5187",
+          "lemma": "typhoō",
+          "meaning": "to be conceited; blinded with pride"
+        },
+        {
+          "word": "envy",
+          "strongNumber": "G5355",
+          "lemma": "phthonos",
+          "meaning": "envy; jealousy"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Perverse disputings of men of corrupt minds, and destitute of the truth, supposing that gain is godliness: from such withdraw thyself.",
+      "highlightedWords": [
+        {
+          "word": "truth",
+          "strongNumber": "G225",
+          "lemma": "alētheia",
+          "meaning": "truth; reality"
+        },
+        {
+          "word": "godliness",
+          "strongNumber": "G2150",
+          "lemma": "eusebeia",
+          "meaning": "piety; godliness"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "But godliness with contentment is great gain.",
+      "highlightedWords": [
+        {
+          "word": "godliness",
+          "strongNumber": "G2150",
+          "lemma": "eusebeia",
+          "meaning": "piety; godliness"
+        },
+        {
+          "word": "contentment",
+          "strongNumber": "G841",
+          "lemma": "autarkeia",
+          "meaning": "self-sufficiency; contentment"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "For we brought nothing into this world, and it is certain we can carry nothing out.",
+      "highlightedWords": [
+        {
+          "word": "world",
+          "strongNumber": "G2889",
+          "lemma": "kosmos",
+          "meaning": "world; ordered system"
+        },
+        {
+          "word": "nothing",
+          "strongNumber": "G3762",
+          "lemma": "oudeis",
+          "meaning": "no one; nothing"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And having food and raiment let us be therewith content.",
+      "highlightedWords": [
+        {
+          "word": "raiment",
+          "strongNumber": "G4629",
+          "lemma": "skepasma",
+          "meaning": "covering; clothing"
+        },
+        {
+          "word": "content",
+          "strongNumber": "G714",
+          "lemma": "arkeō",
+          "meaning": "to be sufficient; be content"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "But they that will be rich fall into temptation and a snare, and into many foolish and hurtful lusts, which drown men in destruction and perdition.",
+      "highlightedWords": [
+        {
+          "word": "temptation",
+          "strongNumber": "G3986",
+          "lemma": "peirasmos",
+          "meaning": "trial; temptation"
+        },
+        {
+          "word": "snare",
+          "strongNumber": "G3803",
+          "lemma": "pagis",
+          "meaning": "snare; trap"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows.",
+      "highlightedWords": [
+        {
+          "word": "love of money",
+          "strongNumber": "G5365",
+          "lemma": "philargyria",
+          "meaning": "love of money; avarice"
+        },
+        {
+          "word": "root",
+          "strongNumber": "G4491",
+          "lemma": "rhiza",
+          "meaning": "root"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "But thou, O man of God, flee these things; and follow after righteousness, godliness, faith, love, patience, meekness.",
+      "highlightedWords": [
+        {
+          "word": "righteousness",
+          "strongNumber": "G1343",
+          "lemma": "dikaiosynē",
+          "meaning": "righteousness; justice"
+        },
+        {
+          "word": "patience",
+          "strongNumber": "G5281",
+          "lemma": "hypomonē",
+          "meaning": "endurance; patient perseverance"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Fight the good fight of faith, lay hold on eternal life, whereunto thou art also called, and hast professed a good profession before many witnesses.",
+      "highlightedWords": [
+        {
+          "word": "faith",
+          "strongNumber": "G4102",
+          "lemma": "pistis",
+          "meaning": "faith; trust; belief"
+        },
+        {
+          "word": "eternal",
+          "strongNumber": "G166",
+          "lemma": "aiōnios",
+          "meaning": "eternal; everlasting"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "I give thee charge in the sight of God, who quickeneth all things, and before Christ Jesus, who before Pontius Pilate witnessed a good confession;",
+      "highlightedWords": [
+        {
+          "word": "quickeneth",
+          "strongNumber": "G2227",
+          "lemma": "zōopoieō",
+          "meaning": "to make alive; quicken"
+        },
+        {
+          "word": "confession",
+          "strongNumber": "G3671",
+          "lemma": "homologia",
+          "meaning": "confession; profession"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "That thou keep this commandment without spot, unrebukeable, until the appearing of our Lord Jesus Christ:",
+      "highlightedWords": [
+        {
+          "word": "commandment",
+          "strongNumber": "G1785",
+          "lemma": "entolē",
+          "meaning": "commandment; injunction"
+        },
+        {
+          "word": "appearing",
+          "strongNumber": "G2015",
+          "lemma": "epiphaneia",
+          "meaning": "appearing; manifestation"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Which in his times he shall shew, who is the blessed and only Potentate, the King of kings, and Lord of lords;",
+      "highlightedWords": [
+        {
+          "word": "King",
+          "strongNumber": "G935",
+          "lemma": "basileus",
+          "meaning": "king"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "lord; master"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Who only hath immortality, dwelling in the light which no man can approach unto; whom no man hath seen, nor can see: to whom be honour and power everlasting. Amen.",
+      "highlightedWords": [
+        {
+          "word": "immortality",
+          "strongNumber": "G110",
+          "lemma": "athanasia",
+          "meaning": "immortality; deathlessness"
+        },
+        {
+          "word": "light",
+          "strongNumber": "G5457",
+          "lemma": "phōs",
+          "meaning": "light"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Charge them that are rich in this world, that they be not highminded, nor trust in uncertain riches, but in the living God, who giveth us richly all things to enjoy;",
+      "highlightedWords": [
+        {
+          "word": "rich",
+          "strongNumber": "G4145",
+          "lemma": "plousios",
+          "meaning": "rich; wealthy"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God; deity"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "That they do good, that they be rich in good works, ready to distribute, willing to communicate;",
+      "highlightedWords": [
+        {
+          "word": "good",
+          "strongNumber": "G18",
+          "lemma": "agathos",
+          "meaning": "good; beneficial"
+        },
+        {
+          "word": "works",
+          "strongNumber": "G2041",
+          "lemma": "ergon",
+          "meaning": "work; deed"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Laying up in store for themselves a good foundation against the time to come, that they may lay hold on eternal life.",
+      "highlightedWords": [
+        {
+          "word": "foundation",
+          "strongNumber": "G2310",
+          "lemma": "themelios",
+          "meaning": "foundation; groundwork"
+        },
+        {
+          "word": "eternal",
+          "strongNumber": "G166",
+          "lemma": "aiōnios",
+          "meaning": "eternal; everlasting"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "O Timothy, keep that which is committed to thy trust, avoiding profane and vain babblings, and oppositions of science falsely so called:",
+      "highlightedWords": [
+        {
+          "word": "profane",
+          "strongNumber": "G952",
+          "lemma": "bebēlos",
+          "meaning": "profane; irreverent"
+        },
+        {
+          "word": "science",
+          "strongNumber": "G1108",
+          "lemma": "gnōsis",
+          "meaning": "knowledge; understanding"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Which some professing have erred concerning the faith. Grace be with thee. Amen.",
+      "highlightedWords": [
+        {
+          "word": "faith",
+          "strongNumber": "G4102",
+          "lemma": "pistis",
+          "meaning": "faith; trust; belief"
+        },
+        {
+          "word": "Grace",
+          "strongNumber": "G5485",
+          "lemma": "charis",
+          "meaning": "grace; favor"
+        }
+      ]
+    }
+  ]
+}

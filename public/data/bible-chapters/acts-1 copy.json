@@ -1,0 +1,492 @@
+{
+  "book": "Acts",
+  "chapter": 1,
+  "chapterTheme": {
+    "twoWordSummary": "Spirit Empowerment",
+    "themeWords": [
+      {
+        "word": "Spirit",
+        "strongNumber": "G4151",
+        "lemma": "pneuma",
+        "meaning": "spirit, breath"
+      },
+      {
+        "word": "Witnesses",
+        "strongNumber": "G3144",
+        "lemma": "martys",
+        "meaning": "witness"
+      }
+    ]
+  },
+  "sentenceTheme": "Jesus commissions His apostles, promises the Holy Ghost, ascends to heaven, and the Eleven prayerfully choose Matthias to replace Judas.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "The former treatise have I made, O Theophilus, of all that Jesus began both to do and teach,",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus"
+        },
+        {
+          "word": "teach",
+          "strongNumber": "G1321",
+          "lemma": "didaskō",
+          "meaning": "to teach, instruct"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Until the day in which he was taken up, after that he through the Holy Ghost had given commandments unto the apostles whom he had chosen:",
+      "highlightedWords": [
+        {
+          "word": "Ghost",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit"
+        },
+        {
+          "word": "apostles",
+          "strongNumber": "G652",
+          "lemma": "apostolos",
+          "meaning": "a messenger, apostle"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "To whom also he shewed himself alive after his passion by many infallible proofs, being seen of them forty days, and speaking of the things pertaining to the kingdom of God:",
+      "highlightedWords": [
+        {
+          "word": "kingdom",
+          "strongNumber": "G932",
+          "lemma": "basileia",
+          "meaning": "kingdom, reign"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God, deity"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "And, being assembled together with them, commanded them that they should not depart from Jerusalem, but wait for the promise of the Father, which, saith he, ye have heard of me.",
+      "highlightedWords": [
+        {
+          "word": "promise",
+          "strongNumber": "G1860",
+          "lemma": "epangelia",
+          "meaning": "promise"
+        },
+        {
+          "word": "Father",
+          "strongNumber": "G3962",
+          "lemma": "patēr",
+          "meaning": "father"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "For John truly baptized with water; but ye shall be baptized with the Holy Ghost not many days hence.",
+      "highlightedWords": [
+        {
+          "word": "baptized",
+          "strongNumber": "G907",
+          "lemma": "baptizō",
+          "meaning": "to immerse, baptize"
+        },
+        {
+          "word": "Ghost",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "When they therefore were come together, they asked of him, saying, Lord, wilt thou at this time restore again the kingdom to Israel?",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "lord, master"
+        },
+        {
+          "word": "kingdom",
+          "strongNumber": "G932",
+          "lemma": "basileia",
+          "meaning": "kingdom, reign"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And he said unto them, It is not for you to know the times or the seasons, which the Father hath put in his own power.",
+      "highlightedWords": [
+        {
+          "word": "times",
+          "strongNumber": "G5550",
+          "lemma": "chronos",
+          "meaning": "time, period"
+        },
+        {
+          "word": "seasons",
+          "strongNumber": "G2540",
+          "lemma": "kairos",
+          "meaning": "appointed time, season"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judaea, and in Samaria, and unto the uttermost part of the earth.",
+      "highlightedWords": [
+        {
+          "word": "power",
+          "strongNumber": "G1411",
+          "lemma": "dynamis",
+          "meaning": "power, might"
+        },
+        {
+          "word": "witnesses",
+          "strongNumber": "G3144",
+          "lemma": "martys",
+          "meaning": "witnesses"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "And when he had spoken these things, while they beheld, he was taken up; and a cloud received him out of their sight.",
+      "highlightedWords": [
+        {
+          "word": "cloud",
+          "strongNumber": "G3507",
+          "lemma": "nephelē",
+          "meaning": "cloud"
+        },
+        {
+          "word": "sight",
+          "strongNumber": "G3788",
+          "lemma": "ophthalmos",
+          "meaning": "eye, sight"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And while they looked stedfastly toward heaven as he went up, behold, two men stood by them in white apparel;",
+      "highlightedWords": [
+        {
+          "word": "heaven",
+          "strongNumber": "G3772",
+          "lemma": "ouranos",
+          "meaning": "heaven, sky"
+        },
+        {
+          "word": "white",
+          "strongNumber": "G3022",
+          "lemma": "leukos",
+          "meaning": "white, bright"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "Which also said, Ye men of Galilee, why stand ye gazing up into heaven? this same Jesus, which is taken up from you into heaven, shall so come in like manner as ye have seen him go into heaven.",
+      "highlightedWords": [
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "G3772",
+          "lemma": "ouranos",
+          "meaning": "heaven, sky"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Then returned they unto Jerusalem from the mount called Olivet, which is from Jerusalem a sabbath day's journey.",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "G2419",
+          "lemma": "Ierousalēm",
+          "meaning": "Jerusalem"
+        },
+        {
+          "word": "sabbath",
+          "strongNumber": "G4521",
+          "lemma": "sabbaton",
+          "meaning": "Sabbath"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And when they were come in, they went up into an upper room, where abode both Peter, and James, and John, and Andrew, Philip, and Thomas, Bartholomew, and Matthew, James the son of Alphaeus, and Simon Zelotes, and Judas the brother of James.",
+      "highlightedWords": [
+        {
+          "word": "Peter",
+          "strongNumber": "G4074",
+          "lemma": "Petros",
+          "meaning": "Peter"
+        },
+        {
+          "word": "John",
+          "strongNumber": "G2491",
+          "lemma": "Iōannēs",
+          "meaning": "John"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "These all continued with one accord in prayer and supplication, with the women, and Mary the mother of Jesus, and with his brethren.",
+      "highlightedWords": [
+        {
+          "word": "prayer",
+          "strongNumber": "G4335",
+          "lemma": "proseuchē",
+          "meaning": "prayer"
+        },
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And in those days Peter stood up in the midst of the disciples, and said, (the number of names together were about an hundred and twenty,)",
+      "highlightedWords": [
+        {
+          "word": "Peter",
+          "strongNumber": "G4074",
+          "lemma": "Petros",
+          "meaning": "Peter"
+        },
+        {
+          "word": "disciples",
+          "strongNumber": "G3101",
+          "lemma": "mathētēs",
+          "meaning": "disciple, learner"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Men and brethren, this scripture must needs have been fulfilled, which the Holy Ghost by the mouth of David spake before concerning Judas, which was guide to them that took Jesus.",
+      "highlightedWords": [
+        {
+          "word": "scripture",
+          "strongNumber": "G1124",
+          "lemma": "graphē",
+          "meaning": "writing, Scripture"
+        },
+        {
+          "word": "Ghost",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "For he was numbered with us, and had obtained part of this ministry.",
+      "highlightedWords": [
+        {
+          "word": "part",
+          "strongNumber": "G2819",
+          "lemma": "klēros",
+          "meaning": "lot, share"
+        },
+        {
+          "word": "ministry",
+          "strongNumber": "G1248",
+          "lemma": "diakonia",
+          "meaning": "service, ministry"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Now this man purchased a field with the reward of iniquity; and falling headlong, he burst asunder in the midst, and all his bowels gushed out.",
+      "highlightedWords": [
+        {
+          "word": "field",
+          "strongNumber": "G5564",
+          "lemma": "chōrion",
+          "meaning": "field, property"
+        },
+        {
+          "word": "bowels",
+          "strongNumber": "G4698",
+          "lemma": "splagchnon",
+          "meaning": "inner parts, bowels"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "And it was known unto all the dwellers at Jerusalem; insomuch as that field is called in their proper tongue, Aceldama, that is to say, The field of blood.",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "G2419",
+          "lemma": "Ierousalēm",
+          "meaning": "Jerusalem"
+        },
+        {
+          "word": "Aceldama",
+          "strongNumber": "G184",
+          "lemma": "Akeldama",
+          "meaning": "Field of blood"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "For it is written in the book of Psalms, Let his habitation be desolate, and let no man dwell therein: and his bishoprick let another take.",
+      "highlightedWords": [
+        {
+          "word": "Psalms",
+          "strongNumber": "G5568",
+          "lemma": "psalmos",
+          "meaning": "psalm, sacred song"
+        },
+        {
+          "word": "bishoprick",
+          "strongNumber": "G1984",
+          "lemma": "episkopē",
+          "meaning": "oversight, office"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Wherefore of these men which have companied with us all the time that the Lord Jesus went in and out among us,",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "lord, master"
+        },
+        {
+          "word": "Jesus",
+          "strongNumber": "G2424",
+          "lemma": "Iēsous",
+          "meaning": "Jesus"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "Beginning from the baptism of John, unto that same day that he was taken up from us, must one be ordained to be a witness with us of his resurrection.",
+      "highlightedWords": [
+        {
+          "word": "baptism",
+          "strongNumber": "G908",
+          "lemma": "baptisma",
+          "meaning": "baptism"
+        },
+        {
+          "word": "resurrection",
+          "strongNumber": "G386",
+          "lemma": "anastasis",
+          "meaning": "resurrection, rising"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "And they appointed two, Joseph called Barsabas, who was surnamed Justus, and Matthias.",
+      "highlightedWords": [
+        {
+          "word": "Joseph",
+          "strongNumber": "G2501",
+          "lemma": "Iōsēph",
+          "meaning": "Joseph"
+        },
+        {
+          "word": "Matthias",
+          "strongNumber": "G3159",
+          "lemma": "Maththias",
+          "meaning": "Matthias"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And they prayed, and said, Thou, Lord, which knowest the hearts of all men, shew whether of these two thou hast chosen,",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "lord, master"
+        },
+        {
+          "word": "hearts",
+          "strongNumber": "G2588",
+          "lemma": "kardia",
+          "meaning": "heart"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "That he may take part of this ministry and apostleship, from which Judas by transgression fell, that he might go to his own place.",
+      "highlightedWords": [
+        {
+          "word": "apostleship",
+          "strongNumber": "G651",
+          "lemma": "apostolē",
+          "meaning": "apostleship, commission"
+        },
+        {
+          "word": "Judas",
+          "strongNumber": "G2455",
+          "lemma": "Ioudas",
+          "meaning": "Judas"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "And they gave forth their lots; and the lot fell upon Matthias; and he was numbered with the eleven apostles.",
+      "highlightedWords": [
+        {
+          "word": "lot",
+          "strongNumber": "G2819",
+          "lemma": "klēros",
+          "meaning": "lot, share"
+        },
+        {
+          "word": "apostles",
+          "strongNumber": "G652",
+          "lemma": "apostolos",
+          "meaning": "apostle, messenger"
+        }
+      ]
+    }
+  ]
+}

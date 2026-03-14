@@ -1,0 +1,528 @@
+{
+  "book": "Hebrews",
+  "chapter": 9,
+  "chapterTheme": {
+    "twoWordSummary": "Better Covenant",
+    "themeWords": [
+      {
+        "word": "covenant",
+        "strongNumber": "G1242",
+        "lemma": "diathēkē",
+        "meaning": "covenant, testament"
+      },
+      {
+        "word": "blood",
+        "strongNumber": "G129",
+        "lemma": "haima",
+        "meaning": "blood"
+      }
+    ]
+  },
+  "sentenceTheme": "Christ, the greater High Priest, enters the true sanctuary once for all by His own blood, inaugurating the new covenant and cleansing the conscience.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Then verily the first covenant had also ordinances of divine service, and a worldly sanctuary.",
+      "highlightedWords": [
+        {
+          "word": "ordinances",
+          "strongNumber": "G1345",
+          "lemma": "dikaiōma",
+          "meaning": "regulation, requirement"
+        },
+        {
+          "word": "service",
+          "strongNumber": "G2999",
+          "lemma": "latreia",
+          "meaning": "service, worship"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "For there was a tabernacle made; the first, wherein was the candlestick, and the table, and the shewbread; which is called the sanctuary.",
+      "highlightedWords": [
+        {
+          "word": "tabernacle",
+          "strongNumber": "G4633",
+          "lemma": "skēnē",
+          "meaning": "tent, tabernacle"
+        },
+        {
+          "word": "candlestick",
+          "strongNumber": "G3087",
+          "lemma": "luchnia",
+          "meaning": "lampstand, candlestick"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And after the second veil, the tabernacle which is called the Holiest of all;",
+      "highlightedWords": [
+        {
+          "word": "veil",
+          "strongNumber": "G2665",
+          "lemma": "katapetasma",
+          "meaning": "veil, curtain"
+        },
+        {
+          "word": "tabernacle",
+          "strongNumber": "G4633",
+          "lemma": "skēnē",
+          "meaning": "tent, tabernacle"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Which had the golden censer, and the ark of the covenant overlaid round about with gold, wherein was the golden pot that had manna, and Aaron's rod that budded, and the tables of the covenant;",
+      "highlightedWords": [
+        {
+          "word": "ark",
+          "strongNumber": "G2787",
+          "lemma": "kibōtos",
+          "meaning": "ark, chest"
+        },
+        {
+          "word": "covenant",
+          "strongNumber": "G1242",
+          "lemma": "diathēkē",
+          "meaning": "covenant, testament"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And over it the cherubims of glory shadowing the mercyseat; of which we cannot now speak particularly.",
+      "highlightedWords": [
+        {
+          "word": "cherubims",
+          "strongNumber": "G5502",
+          "lemma": "cheroubim",
+          "meaning": "cherubim"
+        },
+        {
+          "word": "mercyseat",
+          "strongNumber": "G2435",
+          "lemma": "hilastērion",
+          "meaning": "mercy seat, place of atonement"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "Now when these things were thus ordained, the priests went always into the first tabernacle, accomplishing the service of God.",
+      "highlightedWords": [
+        {
+          "word": "priests",
+          "strongNumber": "G2409",
+          "lemma": "hiereus",
+          "meaning": "priest"
+        },
+        {
+          "word": "tabernacle",
+          "strongNumber": "G4633",
+          "lemma": "skēnē",
+          "meaning": "tent, tabernacle"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "But into the second went the high priest alone once every year, not without blood, which he offered for himself, and for the errors of the people:",
+      "highlightedWords": [
+        {
+          "word": "priest",
+          "strongNumber": "G749",
+          "lemma": "archiereus",
+          "meaning": "high priest"
+        },
+        {
+          "word": "blood",
+          "strongNumber": "G129",
+          "lemma": "haima",
+          "meaning": "blood"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "The Holy Ghost this signifying, that the way into the holiest of all was not yet made manifest, while as the first tabernacle was yet standing:",
+      "highlightedWords": [
+        {
+          "word": "Ghost",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit"
+        },
+        {
+          "word": "way",
+          "strongNumber": "G3598",
+          "lemma": "hodos",
+          "meaning": "way, road, path"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Which was a figure for the time then present, in which were offered both gifts and sacrifices, that could not make him that did the service perfect, as pertaining to the conscience;",
+      "highlightedWords": [
+        {
+          "word": "figure",
+          "strongNumber": "G3850",
+          "lemma": "parabolē",
+          "meaning": "figure, parable, symbol"
+        },
+        {
+          "word": "conscience",
+          "strongNumber": "G4893",
+          "lemma": "syneidēsis",
+          "meaning": "conscience"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Which stood only in meats and drinks, and divers washings, and carnal ordinances, imposed on them until the time of reformation.",
+      "highlightedWords": [
+        {
+          "word": "washings",
+          "strongNumber": "G909",
+          "lemma": "baptismos",
+          "meaning": "washings, ablutions"
+        },
+        {
+          "word": "reformation",
+          "strongNumber": "G1357",
+          "lemma": "diorthōsis",
+          "meaning": "making straight, reformation"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "But Christ being come an high priest of good things to come, by a greater and more perfect tabernacle, not made with hands, that is to say, not of this building;",
+      "highlightedWords": [
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "Anointed One, Messiah"
+        },
+        {
+          "word": "tabernacle",
+          "strongNumber": "G4633",
+          "lemma": "skēnē",
+          "meaning": "tent, tabernacle"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Neither by the blood of goats and calves, but by his own blood he entered in once into the holy place, having obtained eternal redemption for us.",
+      "highlightedWords": [
+        {
+          "word": "blood",
+          "strongNumber": "G129",
+          "lemma": "haima",
+          "meaning": "blood"
+        },
+        {
+          "word": "redemption",
+          "strongNumber": "G629",
+          "lemma": "apolutrōsis",
+          "meaning": "release, redemption"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "For if the blood of bulls and of goats, and the ashes of an heifer sprinkling the unclean, sanctifieth to the purifying of the flesh:",
+      "highlightedWords": [
+        {
+          "word": "blood",
+          "strongNumber": "G129",
+          "lemma": "haima",
+          "meaning": "blood"
+        },
+        {
+          "word": "sanctifieth",
+          "strongNumber": "G37",
+          "lemma": "hagiazō",
+          "meaning": "to make holy, sanctify"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "How much more shall the blood of Christ, who through the eternal Spirit offered himself without spot to God, purge your conscience from dead works to serve the living God?",
+      "highlightedWords": [
+        {
+          "word": "Spirit",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit"
+        },
+        {
+          "word": "conscience",
+          "strongNumber": "G4893",
+          "lemma": "syneidēsis",
+          "meaning": "conscience"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "And for this cause he is the mediator of the new testament, that by means of death, for the redemption of the transgressions that were under the first testament, they which are called might receive the promise of eternal inheritance.",
+      "highlightedWords": [
+        {
+          "word": "mediator",
+          "strongNumber": "G3316",
+          "lemma": "mesitēs",
+          "meaning": "mediator, go-between"
+        },
+        {
+          "word": "testament",
+          "strongNumber": "G1242",
+          "lemma": "diathēkē",
+          "meaning": "covenant, testament"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "For where a testament is, there must also of necessity be the death of the testator.",
+      "highlightedWords": [
+        {
+          "word": "testament",
+          "strongNumber": "G1242",
+          "lemma": "diathēkē",
+          "meaning": "covenant, testament"
+        },
+        {
+          "word": "testator",
+          "strongNumber": "G1303",
+          "lemma": "diathetēs",
+          "meaning": "maker of a will, testator"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "For a testament is of force after men are dead: otherwise it is of no strength at all while the testator liveth.",
+      "highlightedWords": [
+        {
+          "word": "dead",
+          "strongNumber": "G3498",
+          "lemma": "nekros",
+          "meaning": "dead"
+        },
+        {
+          "word": "testator",
+          "strongNumber": "G1303",
+          "lemma": "diathetēs",
+          "meaning": "maker of a will, testator"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "Whereupon neither the first testament was dedicated without blood.",
+      "highlightedWords": [
+        {
+          "word": "testament",
+          "strongNumber": "G1242",
+          "lemma": "diathēkē",
+          "meaning": "covenant, testament"
+        },
+        {
+          "word": "blood",
+          "strongNumber": "G129",
+          "lemma": "haima",
+          "meaning": "blood"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "For when Moses had spoken every precept to all the people according to the law, he took the blood of calves and of goats, with water, and scarlet wool, and hyssop, and sprinkled both the book, and all the people,",
+      "highlightedWords": [
+        {
+          "word": "Moses",
+          "strongNumber": "G3475",
+          "lemma": "Mōusēs",
+          "meaning": "Moses"
+        },
+        {
+          "word": "sprinkled",
+          "strongNumber": "G4472",
+          "lemma": "rhantizō",
+          "meaning": "to sprinkle"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Saying, This is the blood of the testament which God hath enjoined unto you.",
+      "highlightedWords": [
+        {
+          "word": "testament",
+          "strongNumber": "G1242",
+          "lemma": "diathēkē",
+          "meaning": "covenant, testament"
+        },
+        {
+          "word": "enjoined",
+          "strongNumber": "G1781",
+          "lemma": "entellomai",
+          "meaning": "to command, enjoin"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Moreover he sprinkled with blood both the tabernacle, and all the vessels of the ministry.",
+      "highlightedWords": [
+        {
+          "word": "tabernacle",
+          "strongNumber": "G4633",
+          "lemma": "skēnē",
+          "meaning": "tent, tabernacle"
+        },
+        {
+          "word": "vessels",
+          "strongNumber": "G4632",
+          "lemma": "skeuos",
+          "meaning": "vessel, implement"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "And almost all things are by the law purged with blood; and without shedding of blood is no remission.",
+      "highlightedWords": [
+        {
+          "word": "blood",
+          "strongNumber": "G129",
+          "lemma": "haima",
+          "meaning": "blood"
+        },
+        {
+          "word": "remission",
+          "strongNumber": "G859",
+          "lemma": "aphesis",
+          "meaning": "release, forgiveness"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "It was therefore necessary that the patterns of things in the heavens should be purified with these; but the heavenly things themselves with better sacrifices than these.",
+      "highlightedWords": [
+        {
+          "word": "heavens",
+          "strongNumber": "G3772",
+          "lemma": "ouranos",
+          "meaning": "heaven, heavens"
+        },
+        {
+          "word": "sacrifices",
+          "strongNumber": "G2378",
+          "lemma": "thusia",
+          "meaning": "sacrifice, offering"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "For Christ is not entered into the holy places made with hands, which are the figures of the true; but into heaven itself, now to appear in the presence of God for us:",
+      "highlightedWords": [
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "Anointed One, Messiah"
+        },
+        {
+          "word": "heaven",
+          "strongNumber": "G3772",
+          "lemma": "ouranos",
+          "meaning": "heaven, sky"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "Nor yet that he should offer himself often, as the high priest entereth into the holy place every year with blood of others;",
+      "highlightedWords": [
+        {
+          "word": "offer",
+          "strongNumber": "G4374",
+          "lemma": "prospherō",
+          "meaning": "to bring, to offer"
+        },
+        {
+          "word": "priest",
+          "strongNumber": "G749",
+          "lemma": "archiereus",
+          "meaning": "high priest"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "For then must he often have suffered since the foundation of the world: but now once in the end of the world hath he appeared to put away sin by the sacrifice of himself.",
+      "highlightedWords": [
+        {
+          "word": "world",
+          "strongNumber": "G2889",
+          "lemma": "kosmos",
+          "meaning": "world, cosmos, order"
+        },
+        {
+          "word": "sin",
+          "strongNumber": "G266",
+          "lemma": "hamartia",
+          "meaning": "sin"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And as it is appointed unto men once to die, but after this the judgment:",
+      "highlightedWords": [
+        {
+          "word": "die",
+          "strongNumber": "G599",
+          "lemma": "apothnēskō",
+          "meaning": "to die"
+        },
+        {
+          "word": "judgment",
+          "strongNumber": "G2920",
+          "lemma": "krisis",
+          "meaning": "judgment, decision"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "So Christ was once offered to bear the sins of many; and unto them that look for him shall he appear the second time without sin unto salvation.",
+      "highlightedWords": [
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "Anointed One, Messiah"
+        },
+        {
+          "word": "salvation",
+          "strongNumber": "G4991",
+          "lemma": "sōtēria",
+          "meaning": "salvation, deliverance"
+        }
+      ]
+    }
+  ]
+}

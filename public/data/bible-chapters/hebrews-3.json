@@ -1,0 +1,366 @@
+{
+  "book": "Hebrews",
+  "chapter": 3,
+  "chapterTheme": {
+    "twoWordSummary": "Faithful Son",
+    "themeWords": [
+      {
+        "word": "Christ",
+        "strongNumber": "G5547",
+        "lemma": "Christos",
+        "meaning": "Anointed One; Messiah"
+      },
+      {
+        "word": "rest",
+        "strongNumber": "G2663",
+        "lemma": "katapausis",
+        "meaning": "rest; cessation"
+      }
+    ]
+  },
+  "sentenceTheme": "Christ is faithful over God’s house as Son, and believers are warned by Israel’s example to hold fast and not harden their hearts, lest unbelief keep them from God’s rest.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Wherefore, holy brethren, partakers of the heavenly calling, consider the Apostle and High Priest of our profession, Christ Jesus;",
+      "highlightedWords": [
+        {
+          "word": "brethren",
+          "strongNumber": "G80",
+          "lemma": "adelphos",
+          "meaning": "brother; fellow believer"
+        },
+        {
+          "word": "Apostle",
+          "strongNumber": "G652",
+          "lemma": "apostolos",
+          "meaning": "one sent; messenger"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Who was faithful to him that appointed him, as also Moses was faithful in all his house.",
+      "highlightedWords": [
+        {
+          "word": "faithful",
+          "strongNumber": "G4103",
+          "lemma": "pistos",
+          "meaning": "faithful; trustworthy"
+        },
+        {
+          "word": "Moses",
+          "strongNumber": "G3475",
+          "lemma": "Moyses",
+          "meaning": "Moses; Israel’s lawgiver"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "For this man was counted worthy of more glory than Moses, inasmuch as he who hath builded the house hath more honour than the house.",
+      "highlightedWords": [
+        {
+          "word": "glory",
+          "strongNumber": "G1391",
+          "lemma": "doxa",
+          "meaning": "glory; honor"
+        },
+        {
+          "word": "house",
+          "strongNumber": "G3624",
+          "lemma": "oikos",
+          "meaning": "house; household"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "For every house is builded by some man; but he that built all things is God.",
+      "highlightedWords": [
+        {
+          "word": "house",
+          "strongNumber": "G3624",
+          "lemma": "oikos",
+          "meaning": "house; household"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God; deity"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And Moses verily was faithful in all his house, as a servant, for a testimony of those things which were to be spoken after;",
+      "highlightedWords": [
+        {
+          "word": "servant",
+          "strongNumber": "G2324",
+          "lemma": "therapon",
+          "meaning": "attendant; servant"
+        },
+        {
+          "word": "testimony",
+          "strongNumber": "G3142",
+          "lemma": "martyrion",
+          "meaning": "testimony; witness"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "But Christ as a son over his own house; whose house are we, if we hold fast the confidence and the rejoicing of the hope firm unto the end.",
+      "highlightedWords": [
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "Anointed One; Messiah"
+        },
+        {
+          "word": "house",
+          "strongNumber": "G3624",
+          "lemma": "oikos",
+          "meaning": "house; household"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Wherefore (as the Holy Ghost saith, To day if ye will hear his voice,",
+      "highlightedWords": [
+        {
+          "word": "Holy",
+          "strongNumber": "G40",
+          "lemma": "hagios",
+          "meaning": "holy; set apart"
+        },
+        {
+          "word": "Ghost",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit; breath"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "Harden not your hearts, as in the provocation, in the day of temptation in the wilderness:",
+      "highlightedWords": [
+        {
+          "word": "Harden",
+          "strongNumber": "G4645",
+          "lemma": "skleruno",
+          "meaning": "to harden; make stubborn"
+        },
+        {
+          "word": "hearts",
+          "strongNumber": "G2588",
+          "lemma": "kardia",
+          "meaning": "heart; inner self"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "When your fathers tempted me, proved me, and saw my works forty years.",
+      "highlightedWords": [
+        {
+          "word": "fathers",
+          "strongNumber": "G3962",
+          "lemma": "pater",
+          "meaning": "father; ancestor"
+        },
+        {
+          "word": "tempted",
+          "strongNumber": "G3985",
+          "lemma": "peirazo",
+          "meaning": "to test; tempt"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Wherefore I was grieved with that generation, and said, They do alway err in their heart; and they have not known my ways.",
+      "highlightedWords": [
+        {
+          "word": "grieved",
+          "strongNumber": "G4363",
+          "lemma": "prosochthizo",
+          "meaning": "to be angry with; loathe"
+        },
+        {
+          "word": "heart",
+          "strongNumber": "G2588",
+          "lemma": "kardia",
+          "meaning": "heart; inner self"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "So I sware in my wrath, They shall not enter into my rest.)",
+      "highlightedWords": [
+        {
+          "word": "sware",
+          "strongNumber": "G3660",
+          "lemma": "omnuo",
+          "meaning": "to swear; take an oath"
+        },
+        {
+          "word": "rest",
+          "strongNumber": "G2663",
+          "lemma": "katapausis",
+          "meaning": "rest; cessation"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Take heed, brethren, lest there be in any of you an evil heart of unbelief, in departing from the living God.",
+      "highlightedWords": [
+        {
+          "word": "brethren",
+          "strongNumber": "G80",
+          "lemma": "adelphos",
+          "meaning": "brother; fellow believer"
+        },
+        {
+          "word": "unbelief",
+          "strongNumber": "G570",
+          "lemma": "apistia",
+          "meaning": "unbelief; faithlessness"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "But exhort one another daily, while it is called To day; lest any of you be hardened through the deceitfulness of sin.",
+      "highlightedWords": [
+        {
+          "word": "exhort",
+          "strongNumber": "G3870",
+          "lemma": "parakaleo",
+          "meaning": "to exhort; encourage"
+        },
+        {
+          "word": "sin",
+          "strongNumber": "G266",
+          "lemma": "hamartia",
+          "meaning": "sin; missing the mark"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "For we are made partakers of Christ, if we hold the beginning of our confidence stedfast unto the end;",
+      "highlightedWords": [
+        {
+          "word": "partakers",
+          "strongNumber": "G3353",
+          "lemma": "metochos",
+          "meaning": "partner; sharer"
+        },
+        {
+          "word": "confidence",
+          "strongNumber": "G5287",
+          "lemma": "hypostasis",
+          "meaning": "assurance; confidence"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "While it is said, To day if ye will hear his voice, harden not your hearts, as in the provocation.",
+      "highlightedWords": [
+        {
+          "word": "harden",
+          "strongNumber": "G4645",
+          "lemma": "skleruno",
+          "meaning": "to harden; make stubborn"
+        },
+        {
+          "word": "provocation",
+          "strongNumber": "G3894",
+          "lemma": "parapikrasmos",
+          "meaning": "provocation; embitterment"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "For some, when they had heard, did provoke: howbeit not all that came out of Egypt by Moses.",
+      "highlightedWords": [
+        {
+          "word": "provoke",
+          "strongNumber": "G3893",
+          "lemma": "parapikraino",
+          "meaning": "to provoke; embitter"
+        },
+        {
+          "word": "Moses",
+          "strongNumber": "G3475",
+          "lemma": "Moyses",
+          "meaning": "Moses; Israel’s lawgiver"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "But with whom was he grieved forty years? was it not with them that had sinned, whose carcases fell in the wilderness?",
+      "highlightedWords": [
+        {
+          "word": "carcases",
+          "strongNumber": "G2963",
+          "lemma": "kolon",
+          "meaning": "limb; carcass"
+        },
+        {
+          "word": "wilderness",
+          "strongNumber": "G2048",
+          "lemma": "eremos",
+          "meaning": "wilderness; desert"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And to whom sware he that they should not enter into his rest, but to them that believed not?",
+      "highlightedWords": [
+        {
+          "word": "sware",
+          "strongNumber": "G3660",
+          "lemma": "omnuo",
+          "meaning": "to swear; take an oath"
+        },
+        {
+          "word": "rest",
+          "strongNumber": "G2663",
+          "lemma": "katapausis",
+          "meaning": "rest; cessation"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "So we see that they could not enter in because of unbelief.",
+      "highlightedWords": [
+        {
+          "word": "enter",
+          "strongNumber": "G1525",
+          "lemma": "eiserchomai",
+          "meaning": "to enter; go in"
+        },
+        {
+          "word": "unbelief",
+          "strongNumber": "G570",
+          "lemma": "apistia",
+          "meaning": "unbelief; faithlessness"
+        }
+      ]
+    }
+  ]
+}

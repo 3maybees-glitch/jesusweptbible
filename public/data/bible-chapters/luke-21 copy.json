@@ -1,0 +1,708 @@
+{
+  "book": "Luke",
+  "chapter": 21,
+  "chapterTheme": {
+    "twoWordSummary": "Watchful Endurance",
+    "themeWords": [
+      {
+        "word": "Watch",
+        "strongNumber": "G0069",
+        "lemma": "agrupneō",
+        "meaning": "to keep awake, be watchful"
+      },
+      {
+        "word": "Redemption",
+        "strongNumber": "G0629",
+        "lemma": "apolytrōsis",
+        "meaning": "release by ransom, redemption"
+      }
+    ]
+  },
+  "sentenceTheme": "Jesus praises the widow’s offering, foretells the temple’s destruction and coming tribulations, and urges steadfast watchfulness as redemption draws near.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "And he looked up, and saw the rich men casting their gifts into the treasury.",
+      "highlightedWords": [
+        {
+          "word": "rich",
+          "strongNumber": "G4145",
+          "lemma": "plousios",
+          "meaning": "wealthy, rich"
+        },
+        {
+          "word": "treasury",
+          "strongNumber": "G1049",
+          "lemma": "gazophylakion",
+          "meaning": "treasury, treasure-chest"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "And he saw also a certain poor widow casting in thither two mites.",
+      "highlightedWords": [
+        {
+          "word": "widow",
+          "strongNumber": "G5503",
+          "lemma": "chēra",
+          "meaning": "a widow"
+        },
+        {
+          "word": "mites",
+          "strongNumber": "G3016",
+          "lemma": "lepton",
+          "meaning": "a small coin, mite"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "And he said, Of a truth I say unto you, that this poor widow hath cast in more than they all:",
+      "highlightedWords": [
+        {
+          "word": "truth",
+          "strongNumber": "G0225",
+          "lemma": "alētheia",
+          "meaning": "truth, reality"
+        },
+        {
+          "word": "more",
+          "strongNumber": "G4119",
+          "lemma": "pleiōn",
+          "meaning": "more, greater"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "For all these have of their abundance cast in unto the offerings of God: but she of her penury hath cast in all the living that she had.",
+      "highlightedWords": [
+        {
+          "word": "abundance",
+          "strongNumber": "G4051",
+          "lemma": "perisseuma",
+          "meaning": "abundance, overflow"
+        },
+        {
+          "word": "offerings",
+          "strongNumber": "G1435",
+          "lemma": "dōron",
+          "meaning": "a gift, offering"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "And as some spake of the temple, how it was adorned with goodly stones and gifts, he said,",
+      "highlightedWords": [
+        {
+          "word": "temple",
+          "strongNumber": "G2411",
+          "lemma": "hieron",
+          "meaning": "temple precincts"
+        },
+        {
+          "word": "stones",
+          "strongNumber": "G3037",
+          "lemma": "lithos",
+          "meaning": "stone"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "As for these things which ye behold, the days will come, in the which there shall not be left one stone upon another, that shall not be thrown down.",
+      "highlightedWords": [
+        {
+          "word": "behold",
+          "strongNumber": "G2334",
+          "lemma": "theōreō",
+          "meaning": "to observe, look at"
+        },
+        {
+          "word": "stone",
+          "strongNumber": "G3037",
+          "lemma": "lithos",
+          "meaning": "stone"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And they asked him, saying, Master, but when shall these things be? and what sign will there be when these things shall come to pass?",
+      "highlightedWords": [
+        {
+          "word": "Master",
+          "strongNumber": "G1320",
+          "lemma": "didaskalos",
+          "meaning": "teacher, master"
+        },
+        {
+          "word": "sign",
+          "strongNumber": "G4592",
+          "lemma": "sēmeion",
+          "meaning": "a sign, miracle"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And he said, Take heed that ye be not deceived: for many shall come in my name, saying, I am; and the time draweth near: go ye not therefore after them.",
+      "highlightedWords": [
+        {
+          "word": "deceived",
+          "strongNumber": "G4105",
+          "lemma": "planaō",
+          "meaning": "to lead astray, deceive"
+        },
+        {
+          "word": "time",
+          "strongNumber": "G2540",
+          "lemma": "kairos",
+          "meaning": "appointed time, season"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "But when ye shall hear of wars and commotions, be not terrified: for these things must first come to pass; but the end is not by and by.",
+      "highlightedWords": [
+        {
+          "word": "wars",
+          "strongNumber": "G4171",
+          "lemma": "polemos",
+          "meaning": "war, conflict"
+        },
+        {
+          "word": "end",
+          "strongNumber": "G5056",
+          "lemma": "telos",
+          "meaning": "end, goal, outcome"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "Then said he unto them, Nation shall rise against nation, and kingdom against kingdom:",
+      "highlightedWords": [
+        {
+          "word": "Nation",
+          "strongNumber": "G1484",
+          "lemma": "ethnos",
+          "meaning": "nation, people"
+        },
+        {
+          "word": "kingdom",
+          "strongNumber": "G0932",
+          "lemma": "basileia",
+          "meaning": "kingdom, reign"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And great earthquakes shall be in divers places, and famines, and pestilences; and fearful sights and great signs shall there be from heaven.",
+      "highlightedWords": [
+        {
+          "word": "earthquakes",
+          "strongNumber": "G4578",
+          "lemma": "seismos",
+          "meaning": "earthquake"
+        },
+        {
+          "word": "signs",
+          "strongNumber": "G4592",
+          "lemma": "sēmeion",
+          "meaning": "signs, miraculous tokens"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "But before all these, they shall lay their hands on you, and persecute you, delivering you up to the synagogues, and into prisons, being brought before kings and rulers for my name's sake.",
+      "highlightedWords": [
+        {
+          "word": "persecute",
+          "strongNumber": "G1377",
+          "lemma": "diōkō",
+          "meaning": "to persecute, pursue"
+        },
+        {
+          "word": "synagogues",
+          "strongNumber": "G4864",
+          "lemma": "synagōgē",
+          "meaning": "synagogue, assembly"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "And it shall turn to you for a testimony.",
+      "highlightedWords": [
+        {
+          "word": "turn",
+          "strongNumber": "G0576",
+          "lemma": "apobainō",
+          "meaning": "to turn out, result"
+        },
+        {
+          "word": "testimony",
+          "strongNumber": "G3142",
+          "lemma": "martyrion",
+          "meaning": "testimony, witness"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Settle it therefore in your hearts, not to meditate before what ye shall answer:",
+      "highlightedWords": [
+        {
+          "word": "hearts",
+          "strongNumber": "G2588",
+          "lemma": "kardia",
+          "meaning": "heart, inner self"
+        },
+        {
+          "word": "meditate",
+          "strongNumber": "G4304",
+          "lemma": "promeletaō",
+          "meaning": "to premeditate, rehearse beforehand"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "For I will give you a mouth and wisdom, which all your adversaries shall not be able to gainsay nor resist.",
+      "highlightedWords": [
+        {
+          "word": "mouth",
+          "strongNumber": "G4750",
+          "lemma": "stoma",
+          "meaning": "mouth"
+        },
+        {
+          "word": "wisdom",
+          "strongNumber": "G4678",
+          "lemma": "sophia",
+          "meaning": "wisdom"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "And ye shall be betrayed both by parents, and brethren, and kinsfolks, and friends; and some of you shall they cause to be put to death.",
+      "highlightedWords": [
+        {
+          "word": "betrayed",
+          "strongNumber": "G3860",
+          "lemma": "paradidōmi",
+          "meaning": "to deliver up, betray"
+        },
+        {
+          "word": "death",
+          "strongNumber": "G2288",
+          "lemma": "thanatos",
+          "meaning": "death"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "And ye shall be hated of all men for my name's sake.",
+      "highlightedWords": [
+        {
+          "word": "hated",
+          "strongNumber": "G3404",
+          "lemma": "miseō",
+          "meaning": "to hate"
+        },
+        {
+          "word": "name",
+          "strongNumber": "G3686",
+          "lemma": "onoma",
+          "meaning": "name, authority"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "But there shall not an hair of your head perish.",
+      "highlightedWords": [
+        {
+          "word": "hair",
+          "strongNumber": "G2359",
+          "lemma": "thrix",
+          "meaning": "hair"
+        },
+        {
+          "word": "perish",
+          "strongNumber": "G0622",
+          "lemma": "apollymi",
+          "meaning": "to perish, be destroyed"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "In your patience possess ye your souls.",
+      "highlightedWords": [
+        {
+          "word": "patience",
+          "strongNumber": "G5281",
+          "lemma": "hypomonē",
+          "meaning": "endurance, steadfastness"
+        },
+        {
+          "word": "souls",
+          "strongNumber": "G5590",
+          "lemma": "psychē",
+          "meaning": "soul, life"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "And when ye shall see Jerusalem compassed with armies, then know that the desolation thereof is nigh.",
+      "highlightedWords": [
+        {
+          "word": "Jerusalem",
+          "strongNumber": "G2419",
+          "lemma": "Hierosolyma",
+          "meaning": "Jerusalem"
+        },
+        {
+          "word": "desolation",
+          "strongNumber": "G2050",
+          "lemma": "erēmōsis",
+          "meaning": "desolation, devastation"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Then let them which are in Judaea flee to the mountains; and let them which are in the midst of it depart out; and let not them that are in the countries enter thereinto.",
+      "highlightedWords": [
+        {
+          "word": "Judaea",
+          "strongNumber": "G2449",
+          "lemma": "Ioudaia",
+          "meaning": "Judea"
+        },
+        {
+          "word": "mountains",
+          "strongNumber": "G3735",
+          "lemma": "oros",
+          "meaning": "mountain, hill"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "For these be the days of vengeance, that all things which are written may be fulfilled.",
+      "highlightedWords": [
+        {
+          "word": "vengeance",
+          "strongNumber": "G1557",
+          "lemma": "ekdikēsis",
+          "meaning": "vengeance, retribution"
+        },
+        {
+          "word": "fulfilled",
+          "strongNumber": "G4137",
+          "lemma": "plēroō",
+          "meaning": "to fulfill, complete"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "But woe unto them that are with child, and to them that give suck, in those days! for there shall be great distress in the land, and wrath upon this people.",
+      "highlightedWords": [
+        {
+          "word": "woe",
+          "strongNumber": "G3759",
+          "lemma": "ouai",
+          "meaning": "alas, woe"
+        },
+        {
+          "word": "wrath",
+          "strongNumber": "G3709",
+          "lemma": "orgē",
+          "meaning": "wrath, anger"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And they shall fall by the edge of the sword, and shall be led away captive into all nations: and Jerusalem shall be trodden down of the Gentiles, until the times of the Gentiles be fulfilled.",
+      "highlightedWords": [
+        {
+          "word": "Gentiles",
+          "strongNumber": "G1484",
+          "lemma": "ethnos",
+          "meaning": "nations, Gentiles"
+        },
+        {
+          "word": "times",
+          "strongNumber": "G2540",
+          "lemma": "kairos",
+          "meaning": "times, seasons"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "And there shall be signs in the sun, and in the moon, and in the stars; and upon the earth distress of nations, with perplexity; the sea and the waves roaring;",
+      "highlightedWords": [
+        {
+          "word": "signs",
+          "strongNumber": "G4592",
+          "lemma": "sēmeion",
+          "meaning": "signs, portents"
+        },
+        {
+          "word": "sea",
+          "strongNumber": "G2281",
+          "lemma": "thalassa",
+          "meaning": "sea"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "Men's hearts failing them for fear, and for looking after those things which are coming on the earth: for the powers of heaven shall be shaken.",
+      "highlightedWords": [
+        {
+          "word": "fear",
+          "strongNumber": "G5401",
+          "lemma": "phobos",
+          "meaning": "fear, terror"
+        },
+        {
+          "word": "shaken",
+          "strongNumber": "G4531",
+          "lemma": "saleuō",
+          "meaning": "to shake, cause to totter"
+        }
+      ]
+    },
+    {
+      "verse": 27,
+      "text": "And then shall they see the Son of man coming in a cloud with power and great glory.",
+      "highlightedWords": [
+        {
+          "word": "cloud",
+          "strongNumber": "G3507",
+          "lemma": "nephelē",
+          "meaning": "cloud"
+        },
+        {
+          "word": "glory",
+          "strongNumber": "G1391",
+          "lemma": "doxa",
+          "meaning": "glory, splendor"
+        }
+      ]
+    },
+    {
+      "verse": 28,
+      "text": "And when these things begin to come to pass, then look up, and lift up your heads; for your redemption draweth nigh.",
+      "highlightedWords": [
+        {
+          "word": "heads",
+          "strongNumber": "G2776",
+          "lemma": "kephalē",
+          "meaning": "head"
+        },
+        {
+          "word": "redemption",
+          "strongNumber": "G0629",
+          "lemma": "apolytrōsis",
+          "meaning": "redemption, liberation"
+        }
+      ]
+    },
+    {
+      "verse": 29,
+      "text": "And he spake to them a parable; Behold the fig tree, and all the trees;",
+      "highlightedWords": [
+        {
+          "word": "parable",
+          "strongNumber": "G3850",
+          "lemma": "parabolē",
+          "meaning": "parable, comparison"
+        },
+        {
+          "word": "fig",
+          "strongNumber": "G4808",
+          "lemma": "sukē",
+          "meaning": "fig tree"
+        }
+      ]
+    },
+    {
+      "verse": 30,
+      "text": "When they now shoot forth, ye see and know of your own selves that summer is now nigh at hand.",
+      "highlightedWords": [
+        {
+          "word": "summer",
+          "strongNumber": "G2330",
+          "lemma": "theros",
+          "meaning": "summer, hot season"
+        },
+        {
+          "word": "nigh",
+          "strongNumber": "G1451",
+          "lemma": "engys",
+          "meaning": "near, close"
+        }
+      ]
+    },
+    {
+      "verse": 31,
+      "text": "So likewise ye, when ye see these things come to pass, know ye that the kingdom of God is nigh at hand.",
+      "highlightedWords": [
+        {
+          "word": "kingdom",
+          "strongNumber": "G0932",
+          "lemma": "basileia",
+          "meaning": "kingdom, reign"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "Theos",
+          "meaning": "God"
+        }
+      ]
+    },
+    {
+      "verse": 32,
+      "text": "Verily I say unto you, This generation shall not pass away, till all be fulfilled.",
+      "highlightedWords": [
+        {
+          "word": "generation",
+          "strongNumber": "G1074",
+          "lemma": "genea",
+          "meaning": "generation, age"
+        },
+        {
+          "word": "fulfilled",
+          "strongNumber": "G4137",
+          "lemma": "plēroō",
+          "meaning": "to fulfill, accomplish"
+        }
+      ]
+    },
+    {
+      "verse": 33,
+      "text": "Heaven and earth shall pass away: but my words shall not pass away.",
+      "highlightedWords": [
+        {
+          "word": "Heaven",
+          "strongNumber": "G3772",
+          "lemma": "ouranos",
+          "meaning": "heaven, sky"
+        },
+        {
+          "word": "words",
+          "strongNumber": "G3056",
+          "lemma": "logos",
+          "meaning": "word, message"
+        }
+      ]
+    },
+    {
+      "verse": 34,
+      "text": "And take heed to yourselves, lest at any time your hearts be overcharged with surfeiting, and drunkenness, and cares of this life, and so that day come upon you unawares.",
+      "highlightedWords": [
+        {
+          "word": "hearts",
+          "strongNumber": "G2588",
+          "lemma": "kardia",
+          "meaning": "heart, inner self"
+        },
+        {
+          "word": "surfeiting",
+          "strongNumber": "G2897",
+          "lemma": "kraipalē",
+          "meaning": "carousing, excess"
+        }
+      ]
+    },
+    {
+      "verse": 35,
+      "text": "For as a snare shall it come on all them that dwell on the face of the whole earth.",
+      "highlightedWords": [
+        {
+          "word": "snare",
+          "strongNumber": "G3803",
+          "lemma": "pagis",
+          "meaning": "snare, trap"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "G1093",
+          "lemma": "gē",
+          "meaning": "earth, land"
+        }
+      ]
+    },
+    {
+      "verse": 36,
+      "text": "Watch ye therefore, and pray always, that ye may be accounted worthy to escape all these things that shall come to pass, and to stand before the Son of man.",
+      "highlightedWords": [
+        {
+          "word": "Watch",
+          "strongNumber": "G0069",
+          "lemma": "agrupneō",
+          "meaning": "to be watchful, keep awake"
+        },
+        {
+          "word": "pray",
+          "strongNumber": "G4336",
+          "lemma": "proseuchomai",
+          "meaning": "to pray"
+        }
+      ]
+    },
+    {
+      "verse": 37,
+      "text": "And in the day time he was teaching in the temple; and at night he went out, and abode in the mount that is called the mount of Olives.",
+      "highlightedWords": [
+        {
+          "word": "teaching",
+          "strongNumber": "G1321",
+          "lemma": "didaskō",
+          "meaning": "to teach"
+        },
+        {
+          "word": "temple",
+          "strongNumber": "G2411",
+          "lemma": "hieron",
+          "meaning": "temple precincts"
+        }
+      ]
+    },
+    {
+      "verse": 38,
+      "text": "And all the people came early in the morning to him in the temple, for to hear him.",
+      "highlightedWords": [
+        {
+          "word": "people",
+          "strongNumber": "G2992",
+          "lemma": "laos",
+          "meaning": "people, populace"
+        },
+        {
+          "word": "hear",
+          "strongNumber": "G0191",
+          "lemma": "akouō",
+          "meaning": "to hear, listen"
+        }
+      ]
+    }
+  ]
+}

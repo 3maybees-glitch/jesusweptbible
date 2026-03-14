@@ -1,0 +1,366 @@
+{
+  "book": "1 Peter",
+  "chapter": 4,
+  "chapterTheme": {
+    "twoWordSummary": "Suffering Service",
+    "themeWords": [
+      {
+        "word": "suffer",
+        "strongNumber": "G3958",
+        "lemma": "pascho",
+        "meaning": "to experience pain, suffer"
+      },
+      {
+        "word": "glory",
+        "strongNumber": "G1391",
+        "lemma": "doxa",
+        "meaning": "glory, honor, splendor"
+      }
+    ]
+  },
+  "sentenceTheme": "Believers, following Christ’s example, must abandon sin, live in God’s will, love fervently, serve faithfully, and endure suffering unto God’s glory.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Forasmuch then as Christ hath suffered for us in the flesh, arm yourselves likewise with the same mind: for he that hath suffered in the flesh hath ceased from sin;",
+      "highlightedWords": [
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "christos",
+          "meaning": "Anointed One, Messiah"
+        },
+        {
+          "word": "sin",
+          "strongNumber": "G266",
+          "lemma": "hamartia",
+          "meaning": "sin, missing the mark"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "That he no longer should live the rest of his time in the flesh to the lusts of men, but to the will of God.",
+      "highlightedWords": [
+        {
+          "word": "lusts",
+          "strongNumber": "G1939",
+          "lemma": "epithymia",
+          "meaning": "desire, lust"
+        },
+        {
+          "word": "will",
+          "strongNumber": "G2307",
+          "lemma": "thelema",
+          "meaning": "will, desire, intention"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "For the time past of our life may suffice us to have wrought the will of the Gentiles, when we walked in lasciviousness, lusts, excess of wine, revellings, banquetings, and abominable idolatries:",
+      "highlightedWords": [
+        {
+          "word": "Gentiles",
+          "strongNumber": "G1484",
+          "lemma": "ethnos",
+          "meaning": "nation, Gentiles"
+        },
+        {
+          "word": "idolatries",
+          "strongNumber": "G1495",
+          "lemma": "eidololatria",
+          "meaning": "idolatry, image-worship"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Wherein they think it strange that ye run not with them to the same excess of riot, speaking evil of you:",
+      "highlightedWords": [
+        {
+          "word": "strange",
+          "strongNumber": "G3579",
+          "lemma": "xenizo",
+          "meaning": "to think strange, be astonished"
+        },
+        {
+          "word": "riot",
+          "strongNumber": "G810",
+          "lemma": "asotia",
+          "meaning": "dissipation, debauchery"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Who shall give account to him that is ready to judge the quick and the dead.",
+      "highlightedWords": [
+        {
+          "word": "judge",
+          "strongNumber": "G2919",
+          "lemma": "krino",
+          "meaning": "to judge, decide"
+        },
+        {
+          "word": "dead",
+          "strongNumber": "G3498",
+          "lemma": "nekros",
+          "meaning": "dead, lifeless"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "For for this cause was the gospel preached also to them that are dead, that they might be judged according to men in the flesh, but live according to God in the spirit.",
+      "highlightedWords": [
+        {
+          "word": "gospel",
+          "strongNumber": "G2097",
+          "lemma": "euangelizo",
+          "meaning": "to announce good news, preach the gospel"
+        },
+        {
+          "word": "spirit",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit, breath, wind"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "But the end of all things is at hand: be ye therefore sober, and watch unto prayer.",
+      "highlightedWords": [
+        {
+          "word": "sober",
+          "strongNumber": "G3525",
+          "lemma": "nepho",
+          "meaning": "to be sober, self-controlled"
+        },
+        {
+          "word": "prayer",
+          "strongNumber": "G4335",
+          "lemma": "proseuche",
+          "meaning": "prayer, petition"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And above all things have fervent charity among yourselves: for charity shall cover the multitude of sins.",
+      "highlightedWords": [
+        {
+          "word": "charity",
+          "strongNumber": "G26",
+          "lemma": "agape",
+          "meaning": "love, charity"
+        },
+        {
+          "word": "cover",
+          "strongNumber": "G2572",
+          "lemma": "kalypto",
+          "meaning": "to cover, conceal"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Use hospitality one to another without grudging.",
+      "highlightedWords": [
+        {
+          "word": "hospitality",
+          "strongNumber": "G5382",
+          "lemma": "philoxenos",
+          "meaning": "hospitable, loving strangers"
+        },
+        {
+          "word": "grudging",
+          "strongNumber": "G1112",
+          "lemma": "goggysmos",
+          "meaning": "murmuring, complaint"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "As every man hath received the gift, even so minister the same one to another, as good stewards of the manifold grace of God.",
+      "highlightedWords": [
+        {
+          "word": "gift",
+          "strongNumber": "G5486",
+          "lemma": "charisma",
+          "meaning": "gift, grace endowment"
+        },
+        {
+          "word": "stewards",
+          "strongNumber": "G3623",
+          "lemma": "oikonomos",
+          "meaning": "steward, manager"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "If any man speak, let him speak as the oracles of God; if any man minister, let him do it as of the ability which God giveth: that God in all things may be glorified through Jesus Christ, to whom be praise and dominion for ever and ever. Amen.",
+      "highlightedWords": [
+        {
+          "word": "oracles",
+          "strongNumber": "G3051",
+          "lemma": "logion",
+          "meaning": "divine utterance, oracle"
+        },
+        {
+          "word": "dominion",
+          "strongNumber": "G2904",
+          "lemma": "kratos",
+          "meaning": "dominion, might"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "Beloved, think it not strange concerning the fiery trial which is to try you, as though some strange thing happened unto you:",
+      "highlightedWords": [
+        {
+          "word": "Beloved",
+          "strongNumber": "G27",
+          "lemma": "agapetos",
+          "meaning": "beloved, dearly loved"
+        },
+        {
+          "word": "fiery",
+          "strongNumber": "G4451",
+          "lemma": "pyrosis",
+          "meaning": "burning, fiery ordeal"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "But rejoice, inasmuch as ye are partakers of Christ's sufferings; that, when his glory shall be revealed, ye may be glad also with exceeding joy.",
+      "highlightedWords": [
+        {
+          "word": "rejoice",
+          "strongNumber": "G5463",
+          "lemma": "chairo",
+          "meaning": "to rejoice, be glad"
+        },
+        {
+          "word": "glory",
+          "strongNumber": "G1391",
+          "lemma": "doxa",
+          "meaning": "glory, honor"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "If ye be reproached for the name of Christ, happy are ye; for the spirit of glory and of God resteth upon you: on their part he is evil spoken of, but on your part he is glorified.",
+      "highlightedWords": [
+        {
+          "word": "reproached",
+          "strongNumber": "G3679",
+          "lemma": "oneidizo",
+          "meaning": "to reproach, insult"
+        },
+        {
+          "word": "spirit",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit, breath, wind"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "But let none of you suffer as a murderer, or as a thief, or as an evildoer, or as a busybody in other men's matters.",
+      "highlightedWords": [
+        {
+          "word": "murderer",
+          "strongNumber": "G5406",
+          "lemma": "phoneus",
+          "meaning": "murderer, killer"
+        },
+        {
+          "word": "evildoer",
+          "strongNumber": "G2555",
+          "lemma": "kakopoios",
+          "meaning": "evildoer, wrongdoer"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Yet if any man suffer as a Christian, let him not be ashamed; but let him glorify God on this behalf.",
+      "highlightedWords": [
+        {
+          "word": "Christian",
+          "strongNumber": "G5546",
+          "lemma": "christianos",
+          "meaning": "Christian, follower of Christ"
+        },
+        {
+          "word": "glorify",
+          "strongNumber": "G1392",
+          "lemma": "doxazo",
+          "meaning": "to glorify, honor"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "For the time is come that judgment must begin at the house of God: and if it first begin at us, what shall the end be of them that obey not the gospel of God?",
+      "highlightedWords": [
+        {
+          "word": "judgment",
+          "strongNumber": "G2917",
+          "lemma": "krima",
+          "meaning": "judgment, verdict"
+        },
+        {
+          "word": "gospel",
+          "strongNumber": "G2098",
+          "lemma": "euangelion",
+          "meaning": "good news, gospel"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "And if the righteous scarcely be saved, where shall the ungodly and the sinner appear?",
+      "highlightedWords": [
+        {
+          "word": "righteous",
+          "strongNumber": "G1342",
+          "lemma": "dikaios",
+          "meaning": "righteous, just"
+        },
+        {
+          "word": "ungodly",
+          "strongNumber": "G765",
+          "lemma": "asebes",
+          "meaning": "ungodly, impious"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Wherefore let them that suffer according to the will of God commit the keeping of their souls to him in well doing, as unto a faithful Creator.",
+      "highlightedWords": [
+        {
+          "word": "souls",
+          "strongNumber": "G5590",
+          "lemma": "psyche",
+          "meaning": "soul, life, self"
+        },
+        {
+          "word": "Creator",
+          "strongNumber": "G2939",
+          "lemma": "ktistes",
+          "meaning": "Creator, founder"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "book": "Hebrews",
+  "chapter": 1,
+  "chapterTheme": {
+    "twoWordSummary": "Supreme Son",
+    "themeWords": [
+      {
+        "word": "Son",
+        "strongNumber": "G5207",
+        "lemma": "huios",
+        "meaning": "son; male offspring"
+      },
+      {
+        "word": "angels",
+        "strongNumber": "G32",
+        "lemma": "angelos",
+        "meaning": "messenger; angel"
+      }
+    ]
+  },
+  "sentenceTheme": "God now speaks by His Son, the radiance of His glory and exact image, who is creator, sustainer, enthroned forever, and superior to the angels.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets,",
+      "highlightedWords": [
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "theos",
+          "meaning": "God; the supreme deity"
+        },
+        {
+          "word": "prophets",
+          "strongNumber": "G4396",
+          "lemma": "prophētēs",
+          "meaning": "prophet; inspired spokesman"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds;",
+      "highlightedWords": [
+        {
+          "word": "Son",
+          "strongNumber": "G5207",
+          "lemma": "huios",
+          "meaning": "son; male offspring"
+        },
+        {
+          "word": "worlds",
+          "strongNumber": "G165",
+          "lemma": "aiōn",
+          "meaning": "age; world; the created ages"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Who being the brightness of his glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high;",
+      "highlightedWords": [
+        {
+          "word": "glory",
+          "strongNumber": "G1391",
+          "lemma": "doxa",
+          "meaning": "glory; honor; splendor"
+        },
+        {
+          "word": "power",
+          "strongNumber": "G1411",
+          "lemma": "dynamis",
+          "meaning": "power; might; ability"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Being made so much better than the angels, as he hath by inheritance obtained a more excellent name than they.",
+      "highlightedWords": [
+        {
+          "word": "angels",
+          "strongNumber": "G32",
+          "lemma": "angelos",
+          "meaning": "messenger; angel"
+        },
+        {
+          "word": "name",
+          "strongNumber": "G3686",
+          "lemma": "onoma",
+          "meaning": "name; authority; reputation"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "For unto which of the angels said he at any time, Thou art my Son, this day have I begotten thee? And again, I will be to him a Father, and he shall be to me a Son?",
+      "highlightedWords": [
+        {
+          "word": "Son",
+          "strongNumber": "G5207",
+          "lemma": "huios",
+          "meaning": "son; male offspring"
+        },
+        {
+          "word": "begotten",
+          "strongNumber": "G1080",
+          "lemma": "gennaō",
+          "meaning": "to beget; bring forth"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And again, when he bringeth in the firstbegotten into the world, he saith, And let all the angels of God worship him.",
+      "highlightedWords": [
+        {
+          "word": "firstbegotten",
+          "strongNumber": "G4416",
+          "lemma": "prōtotokos",
+          "meaning": "firstborn; preeminent one"
+        },
+        {
+          "word": "worship",
+          "strongNumber": "G4352",
+          "lemma": "proskyneō",
+          "meaning": "to worship; bow down"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "And of the angels he saith, Who maketh his angels spirits, and his ministers a flame of fire.",
+      "highlightedWords": [
+        {
+          "word": "spirits",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit; breath; wind"
+        },
+        {
+          "word": "ministers",
+          "strongNumber": "G3011",
+          "lemma": "leitourgos",
+          "meaning": "minister; public servant"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "But unto the Son he saith, Thy throne, O God, is for ever and ever: a sceptre of righteousness is the sceptre of thy kingdom.",
+      "highlightedWords": [
+        {
+          "word": "throne",
+          "strongNumber": "G2362",
+          "lemma": "thronos",
+          "meaning": "throne; seat of authority"
+        },
+        {
+          "word": "kingdom",
+          "strongNumber": "G932",
+          "lemma": "basileia",
+          "meaning": "kingdom; reign; rule"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Thou hast loved righteousness, and hated iniquity; therefore God, even thy God, hath anointed thee with the oil of gladness above thy fellows.",
+      "highlightedWords": [
+        {
+          "word": "iniquity",
+          "strongNumber": "G458",
+          "lemma": "anomia",
+          "meaning": "lawlessness; iniquity"
+        },
+        {
+          "word": "anointed",
+          "strongNumber": "G5548",
+          "lemma": "chriō",
+          "meaning": "to anoint; consecrate"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And, Thou, Lord, in the beginning hast laid the foundation of the earth; and the heavens are the works of thine hands:",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kurios",
+          "meaning": "lord; master; owner"
+        },
+        {
+          "word": "earth",
+          "strongNumber": "G1093",
+          "lemma": "gē",
+          "meaning": "earth; land; ground"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "They shall perish; but thou remainest; and they all shall wax old as doth a garment;",
+      "highlightedWords": [
+        {
+          "word": "perish",
+          "strongNumber": "G622",
+          "lemma": "apollymi",
+          "meaning": "to destroy; perish"
+        },
+        {
+          "word": "garment",
+          "strongNumber": "G2440",
+          "lemma": "himation",
+          "meaning": "garment; clothing"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "And as a vesture shalt thou fold them up, and they shall be changed: but thou art the same, and thy years shall not fail.",
+      "highlightedWords": [
+        {
+          "word": "changed",
+          "strongNumber": "G236",
+          "lemma": "allassō",
+          "meaning": "to change; alter"
+        },
+        {
+          "word": "years",
+          "strongNumber": "G2094",
+          "lemma": "etos",
+          "meaning": "year; cycle of time"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "But to which of the angels said he at any time, Sit on my right hand, until I make thine enemies thy footstool?",
+      "highlightedWords": [
+        {
+          "word": "enemies",
+          "strongNumber": "G2190",
+          "lemma": "echthros",
+          "meaning": "enemy; hostile one"
+        },
+        {
+          "word": "footstool",
+          "strongNumber": "G5286",
+          "lemma": "hypopodion",
+          "meaning": "footstool; footrest"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Are they not all ministering spirits, sent forth to minister for them who shall be heirs of salvation?",
+      "highlightedWords": [
+        {
+          "word": "spirits",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit; breath; wind"
+        },
+        {
+          "word": "salvation",
+          "strongNumber": "G4991",
+          "lemma": "sōtēria",
+          "meaning": "salvation; deliverance"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,492 @@
+{
+  "book": "Galatians",
+  "chapter": 5,
+  "chapterTheme": {
+    "twoWordSummary": "Spirit Freedom",
+    "themeWords": [
+      {
+        "word": "Spirit",
+        "strongNumber": "G4151",
+        "lemma": "pneuma",
+        "meaning": "spirit; breath, wind; the Holy Spirit"
+      },
+      {
+        "word": "liberty",
+        "strongNumber": "G1657",
+        "lemma": "eleutheria",
+        "meaning": "freedom, liberty; release from bondage"
+      }
+    ]
+  },
+  "sentenceTheme": "Believers are called to freedom in Christ, to walk by the Spirit rather than the flesh or the law, resulting in the fruit of the Spirit.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage.",
+      "highlightedWords": [
+        {
+          "word": "liberty",
+          "strongNumber": "G1657",
+          "lemma": "eleutheria",
+          "meaning": "freedom, liberty; release from bondage"
+        },
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "the Anointed One, Messiah; Christ"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "Behold, I Paul say unto you, that if ye be circumcised, Christ shall profit you nothing.",
+      "highlightedWords": [
+        {
+          "word": "circumcised",
+          "strongNumber": "G4059",
+          "lemma": "peritemnō",
+          "meaning": "to circumcise, cut around"
+        },
+        {
+          "word": "profit",
+          "strongNumber": "G5623",
+          "lemma": "ōpheleō",
+          "meaning": "to benefit, be of use, profit"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "For I testify again to every man that is circumcised, that he is a debtor to do the whole law.",
+      "highlightedWords": [
+        {
+          "word": "debtor",
+          "strongNumber": "G3781",
+          "lemma": "opheiletēs",
+          "meaning": "debtor; one who owes"
+        },
+        {
+          "word": "law",
+          "strongNumber": "G3551",
+          "lemma": "nomos",
+          "meaning": "law; especially the Mosaic Law"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Christ is become of no effect unto you, whosoever of you are justified by the law; ye are fallen from grace.",
+      "highlightedWords": [
+        {
+          "word": "justified",
+          "strongNumber": "G1344",
+          "lemma": "dikaioō",
+          "meaning": "to declare righteous, justify"
+        },
+        {
+          "word": "grace",
+          "strongNumber": "G5485",
+          "lemma": "charis",
+          "meaning": "grace, favor, kindness"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "For we through the Spirit wait for the hope of righteousness by faith.",
+      "highlightedWords": [
+        {
+          "word": "Spirit",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit; the Holy Spirit"
+        },
+        {
+          "word": "righteousness",
+          "strongNumber": "G1343",
+          "lemma": "dikaiosynē",
+          "meaning": "righteousness, justice"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "For in Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love.",
+      "highlightedWords": [
+        {
+          "word": "circumcision",
+          "strongNumber": "G4061",
+          "lemma": "peritomē",
+          "meaning": "circumcision"
+        },
+        {
+          "word": "love",
+          "strongNumber": "G26",
+          "lemma": "agapē",
+          "meaning": "selfless, covenant love"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "Ye did run well; who did hinder you that ye should not obey the truth?",
+      "highlightedWords": [
+        {
+          "word": "obey",
+          "strongNumber": "G3982",
+          "lemma": "peithō",
+          "meaning": "to be persuaded, obey"
+        },
+        {
+          "word": "truth",
+          "strongNumber": "G225",
+          "lemma": "alētheia",
+          "meaning": "truth, reality, accuracy"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "This persuasion cometh not of him that calleth you.",
+      "highlightedWords": [
+        {
+          "word": "him",
+          "strongNumber": "G846",
+          "lemma": "autos",
+          "meaning": "he, him, self"
+        },
+        {
+          "word": "calleth",
+          "strongNumber": "G2564",
+          "lemma": "kaleō",
+          "meaning": "to call, invite, summon"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "A little leaven leaveneth the whole lump.",
+      "highlightedWords": [
+        {
+          "word": "leaven",
+          "strongNumber": "G2219",
+          "lemma": "zymē",
+          "meaning": "leaven, yeast"
+        },
+        {
+          "word": "lump",
+          "strongNumber": "G5445",
+          "lemma": "phurama",
+          "meaning": "a lump of dough, batch"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "I have confidence in you through the Lord, that ye will be none otherwise minded: but he that troubleth you shall bear his judgment, whosoever he be.",
+      "highlightedWords": [
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "lord, master; the Lord"
+        },
+        {
+          "word": "judgment",
+          "strongNumber": "G2917",
+          "lemma": "krima",
+          "meaning": "judgment, verdict, sentence"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And I, brethren, if I yet preach circumcision, why do I yet suffer persecution? then is the offence of the cross ceased.",
+      "highlightedWords": [
+        {
+          "word": "persecution",
+          "strongNumber": "G1375",
+          "lemma": "diōgmos",
+          "meaning": "persecution, harassment"
+        },
+        {
+          "word": "cross",
+          "strongNumber": "G4716",
+          "lemma": "stauros",
+          "meaning": "cross, execution stake"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "I would they were even cut off which trouble you.",
+      "highlightedWords": [
+        {
+          "word": "would",
+          "strongNumber": "G2309",
+          "lemma": "thelō",
+          "meaning": "to will, wish, desire"
+        },
+        {
+          "word": "trouble",
+          "strongNumber": "G5015",
+          "lemma": "tarassō",
+          "meaning": "to trouble, agitate, disturb"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "For, brethren, ye have been called unto liberty; only use not liberty for an occasion to the flesh, but by love serve one another.",
+      "highlightedWords": [
+        {
+          "word": "liberty",
+          "strongNumber": "G1657",
+          "lemma": "eleutheria",
+          "meaning": "freedom, liberty"
+        },
+        {
+          "word": "flesh",
+          "strongNumber": "G4561",
+          "lemma": "sarx",
+          "meaning": "flesh; human/sinful nature"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "For all the law is fulfilled in one word, even in this; Thou shalt love thy neighbour as thyself.",
+      "highlightedWords": [
+        {
+          "word": "law",
+          "strongNumber": "G3551",
+          "lemma": "nomos",
+          "meaning": "law; Mosaic instruction"
+        },
+        {
+          "word": "love",
+          "strongNumber": "G25",
+          "lemma": "agapaō",
+          "meaning": "to love; to show devoted love"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "But if ye bite and devour one another, take heed that ye be not consumed one of another.",
+      "highlightedWords": [
+        {
+          "word": "ye",
+          "strongNumber": "G5210",
+          "lemma": "hymeis",
+          "meaning": "you (plural)"
+        },
+        {
+          "word": "another",
+          "strongNumber": "G240",
+          "lemma": "allēlōn",
+          "meaning": "one another, each other"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "This I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh.",
+      "highlightedWords": [
+        {
+          "word": "Walk",
+          "strongNumber": "G4043",
+          "lemma": "peripateō",
+          "meaning": "to walk; to live, conduct oneself"
+        },
+        {
+          "word": "Spirit",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit; the Holy Spirit"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "For the flesh lusteth against the Spirit, and the Spirit against the flesh: and these are contrary the one to the other: so that ye cannot do the things that ye would.",
+      "highlightedWords": [
+        {
+          "word": "flesh",
+          "strongNumber": "G4561",
+          "lemma": "sarx",
+          "meaning": "flesh; human/sinful nature"
+        },
+        {
+          "word": "Spirit",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit; the Holy Spirit"
+        }
+      ]
+    },
+    {
+      "verse": 18,
+      "text": "But if ye be led of the Spirit, ye are not under the law.",
+      "highlightedWords": [
+        {
+          "word": "led",
+          "strongNumber": "G71",
+          "lemma": "agō",
+          "meaning": "to lead, guide"
+        },
+        {
+          "word": "law",
+          "strongNumber": "G3551",
+          "lemma": "nomos",
+          "meaning": "law; Mosaic Law"
+        }
+      ]
+    },
+    {
+      "verse": 19,
+      "text": "Now the works of the flesh are manifest, which are these; Adultery, fornication, uncleanness, lasciviousness,",
+      "highlightedWords": [
+        {
+          "word": "Adultery",
+          "strongNumber": "G3430",
+          "lemma": "moicheia",
+          "meaning": "adultery; marital unfaithfulness"
+        },
+        {
+          "word": "fornication",
+          "strongNumber": "G4202",
+          "lemma": "porneia",
+          "meaning": "sexual immorality, fornication"
+        }
+      ]
+    },
+    {
+      "verse": 20,
+      "text": "Idolatry, witchcraft, hatred, variance, emulations, wrath, strife, seditions, heresies,",
+      "highlightedWords": [
+        {
+          "word": "Idolatry",
+          "strongNumber": "G1495",
+          "lemma": "eidōlolatria",
+          "meaning": "idolatry; worship of images"
+        },
+        {
+          "word": "witchcraft",
+          "strongNumber": "G5331",
+          "lemma": "pharmakeia",
+          "meaning": "sorcery, witchcraft, magical arts"
+        }
+      ]
+    },
+    {
+      "verse": 21,
+      "text": "Envyings, murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told you in time past, that they which do such things shall not inherit the kingdom of God.",
+      "highlightedWords": [
+        {
+          "word": "kingdom",
+          "strongNumber": "G932",
+          "lemma": "basileia",
+          "meaning": "kingdom, reign, rule"
+        },
+        {
+          "word": "God",
+          "strongNumber": "G2316",
+          "lemma": "Theos",
+          "meaning": "God; the supreme Deity"
+        }
+      ]
+    },
+    {
+      "verse": 22,
+      "text": "But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,",
+      "highlightedWords": [
+        {
+          "word": "fruit",
+          "strongNumber": "G2590",
+          "lemma": "karpos",
+          "meaning": "fruit, outcome, result"
+        },
+        {
+          "word": "Spirit",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit; the Holy Spirit"
+        }
+      ]
+    },
+    {
+      "verse": 23,
+      "text": "Meekness, temperance: against such there is no law.",
+      "highlightedWords": [
+        {
+          "word": "Meekness",
+          "strongNumber": "G4236",
+          "lemma": "prautēs",
+          "meaning": "meekness, gentleness, humility"
+        },
+        {
+          "word": "law",
+          "strongNumber": "G3551",
+          "lemma": "nomos",
+          "meaning": "law; Mosaic Law"
+        }
+      ]
+    },
+    {
+      "verse": 24,
+      "text": "And they that are Christ's have crucified the flesh with the affections and lusts.",
+      "highlightedWords": [
+        {
+          "word": "crucified",
+          "strongNumber": "G4717",
+          "lemma": "stauroō",
+          "meaning": "to crucify, nail to a cross"
+        },
+        {
+          "word": "flesh",
+          "strongNumber": "G4561",
+          "lemma": "sarx",
+          "meaning": "flesh; human/sinful nature"
+        }
+      ]
+    },
+    {
+      "verse": 25,
+      "text": "If we live in the Spirit, let us also walk in the Spirit.",
+      "highlightedWords": [
+        {
+          "word": "walk",
+          "strongNumber": "G4748",
+          "lemma": "stoicheō",
+          "meaning": "to walk in line, keep in step"
+        },
+        {
+          "word": "Spirit",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit; the Holy Spirit"
+        }
+      ]
+    },
+    {
+      "verse": 26,
+      "text": "Let us not be desirous of vain glory, provoking one another, envying one another.",
+      "highlightedWords": [
+        {
+          "word": "provoking",
+          "strongNumber": "G4292",
+          "lemma": "prokaleō",
+          "meaning": "to provoke, challenge, stir up"
+        },
+        {
+          "word": "envying",
+          "strongNumber": "G5354",
+          "lemma": "phthoneō",
+          "meaning": "to envy, be jealous"
+        }
+      ]
+    }
+  ]
+}

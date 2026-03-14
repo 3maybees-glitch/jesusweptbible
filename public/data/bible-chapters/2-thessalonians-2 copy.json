@@ -1,0 +1,330 @@
+{
+  "book": "2 Thessalonians",
+  "chapter": 2,
+  "chapterTheme": {
+    "twoWordSummary": "Lawless One",
+    "themeWords": [
+      {
+        "word": "iniquity",
+        "strongNumber": "G458",
+        "lemma": "anomia",
+        "meaning": "lawlessness, iniquity"
+      },
+      {
+        "word": "coming",
+        "strongNumber": "G3952",
+        "lemma": "parousia",
+        "meaning": "presence, arrival, coming"
+      }
+    ]
+  },
+  "sentenceTheme": "Paul warns about the coming man of sin and urges steadfastness in the truth until Christ’s appearing.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Now we beseech you, brethren, by the coming of our Lord Jesus Christ, and by our gathering together unto him,",
+      "highlightedWords": [
+        {
+          "word": "coming",
+          "strongNumber": "G3952",
+          "lemma": "parousia",
+          "meaning": "presence, arrival, coming"
+        },
+        {
+          "word": "Lord",
+          "strongNumber": "G2962",
+          "lemma": "kyrios",
+          "meaning": "lord, master"
+        }
+      ]
+    },
+    {
+      "verse": 2,
+      "text": "That ye be not soon shaken in mind, or be troubled, neither by spirit, nor by word, nor by letter as from us, as that the day of Christ is at hand.",
+      "highlightedWords": [
+        {
+          "word": "shaken",
+          "strongNumber": "G4531",
+          "lemma": "saleuō",
+          "meaning": "to shake, agitate, cause to waver"
+        },
+        {
+          "word": "Christ",
+          "strongNumber": "G5547",
+          "lemma": "Christos",
+          "meaning": "the Anointed One, Messiah"
+        }
+      ]
+    },
+    {
+      "verse": 3,
+      "text": "Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition;",
+      "highlightedWords": [
+        {
+          "word": "deceive",
+          "strongNumber": "G1818",
+          "lemma": "exapataō",
+          "meaning": "to deceive utterly, lead astray"
+        },
+        {
+          "word": "perdition",
+          "strongNumber": "G684",
+          "lemma": "apōleia",
+          "meaning": "destruction, ruin, perdition"
+        }
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Who opposeth and exalteth himself above all that is called God, or that is worshipped; so that he as God sitteth in the temple of God, shewing himself that he is God.",
+      "highlightedWords": [
+        {
+          "word": "temple",
+          "strongNumber": "G3485",
+          "lemma": "naos",
+          "meaning": "inner sanctuary, temple"
+        },
+        {
+          "word": "worshipped",
+          "strongNumber": "G4574",
+          "lemma": "sebasma",
+          "meaning": "an object of worship, that which is revered"
+        }
+      ]
+    },
+    {
+      "verse": 5,
+      "text": "Remember ye not, that, when I was yet with you, I told you these things?",
+      "highlightedWords": [
+        {
+          "word": "Remember",
+          "strongNumber": "G3421",
+          "lemma": "mnēmoneuō",
+          "meaning": "to remember, call to mind"
+        },
+        {
+          "word": "told",
+          "strongNumber": "G3004",
+          "lemma": "legō",
+          "meaning": "to say, speak"
+        }
+      ]
+    },
+    {
+      "verse": 6,
+      "text": "And now ye know what withholdeth that he might be revealed in his time.",
+      "highlightedWords": [
+        {
+          "word": "withholdeth",
+          "strongNumber": "G2722",
+          "lemma": "katechō",
+          "meaning": "to hold back, restrain"
+        },
+        {
+          "word": "time",
+          "strongNumber": "G2540",
+          "lemma": "kairos",
+          "meaning": "appointed time, season"
+        }
+      ]
+    },
+    {
+      "verse": 7,
+      "text": "For the mystery of iniquity doth already work: only he who now letteth will let, until he be taken out of the way.",
+      "highlightedWords": [
+        {
+          "word": "mystery",
+          "strongNumber": "G3466",
+          "lemma": "mystērion",
+          "meaning": "secret, hidden plan, mystery"
+        },
+        {
+          "word": "iniquity",
+          "strongNumber": "G458",
+          "lemma": "anomia",
+          "meaning": "lawlessness, iniquity"
+        }
+      ]
+    },
+    {
+      "verse": 8,
+      "text": "And then shall that Wicked be revealed, whom the Lord shall consume with the spirit of his mouth, and shall destroy with the brightness of his coming:",
+      "highlightedWords": [
+        {
+          "word": "Wicked",
+          "strongNumber": "G459",
+          "lemma": "anomos",
+          "meaning": "lawless, the lawless one"
+        },
+        {
+          "word": "brightness",
+          "strongNumber": "G2015",
+          "lemma": "epiphaneia",
+          "meaning": "appearing, manifestation"
+        }
+      ]
+    },
+    {
+      "verse": 9,
+      "text": "Even him, whose coming is after the working of Satan with all power and signs and lying wonders,",
+      "highlightedWords": [
+        {
+          "word": "Satan",
+          "strongNumber": "G4567",
+          "lemma": "Satanas",
+          "meaning": "Satan, adversary"
+        },
+        {
+          "word": "wonders",
+          "strongNumber": "G5059",
+          "lemma": "teras",
+          "meaning": "a wonder, portent, marvel"
+        }
+      ]
+    },
+    {
+      "verse": 10,
+      "text": "And with all deceivableness of unrighteousness in them that perish; because they received not the love of the truth, that they might be saved.",
+      "highlightedWords": [
+        {
+          "word": "truth",
+          "strongNumber": "G225",
+          "lemma": "alētheia",
+          "meaning": "truth, reality"
+        },
+        {
+          "word": "saved",
+          "strongNumber": "G4982",
+          "lemma": "sōzō",
+          "meaning": "to save, deliver, rescue"
+        }
+      ]
+    },
+    {
+      "verse": 11,
+      "text": "And for this cause God shall send them strong delusion, that they should believe a lie:",
+      "highlightedWords": [
+        {
+          "word": "delusion",
+          "strongNumber": "G4106",
+          "lemma": "planē",
+          "meaning": "error, wandering, delusion"
+        },
+        {
+          "word": "lie",
+          "strongNumber": "G5579",
+          "lemma": "pseudos",
+          "meaning": "falsehood, lie"
+        }
+      ]
+    },
+    {
+      "verse": 12,
+      "text": "That they all might be damned who believed not the truth, but had pleasure in unrighteousness.",
+      "highlightedWords": [
+        {
+          "word": "damned",
+          "strongNumber": "G2919",
+          "lemma": "krinō",
+          "meaning": "to judge, condemn, decide"
+        },
+        {
+          "word": "unrighteousness",
+          "strongNumber": "G93",
+          "lemma": "adikia",
+          "meaning": "unrighteousness, injustice"
+        }
+      ]
+    },
+    {
+      "verse": 13,
+      "text": "But we are bound to give thanks alway to God for you, brethren beloved of the Lord, because God hath from the beginning chosen you to salvation through sanctification of the Spirit and belief of the truth:",
+      "highlightedWords": [
+        {
+          "word": "sanctification",
+          "strongNumber": "G38",
+          "lemma": "hagiasmos",
+          "meaning": "sanctification, consecration"
+        },
+        {
+          "word": "Spirit",
+          "strongNumber": "G4151",
+          "lemma": "pneuma",
+          "meaning": "spirit, breath; the Holy Spirit"
+        }
+      ]
+    },
+    {
+      "verse": 14,
+      "text": "Whereunto he called you by our gospel, to the obtaining of the glory of our Lord Jesus Christ.",
+      "highlightedWords": [
+        {
+          "word": "gospel",
+          "strongNumber": "G2098",
+          "lemma": "euangelion",
+          "meaning": "good news, gospel"
+        },
+        {
+          "word": "glory",
+          "strongNumber": "G1391",
+          "lemma": "doxa",
+          "meaning": "glory, honor, splendor"
+        }
+      ]
+    },
+    {
+      "verse": 15,
+      "text": "Therefore, brethren, stand fast, and hold the traditions which ye have been taught, whether by word, or our epistle.",
+      "highlightedWords": [
+        {
+          "word": "traditions",
+          "strongNumber": "G3862",
+          "lemma": "paradosis",
+          "meaning": "tradition, what is handed down"
+        },
+        {
+          "word": "epistle",
+          "strongNumber": "G1992",
+          "lemma": "epistolē",
+          "meaning": "letter, epistle"
+        }
+      ]
+    },
+    {
+      "verse": 16,
+      "text": "Now our Lord Jesus Christ himself, and God, even our Father, which hath loved us, and hath given us everlasting consolation and good hope through grace,",
+      "highlightedWords": [
+        {
+          "word": "consolation",
+          "strongNumber": "G3874",
+          "lemma": "paraklēsis",
+          "meaning": "encouragement, consolation"
+        },
+        {
+          "word": "grace",
+          "strongNumber": "G5485",
+          "lemma": "charis",
+          "meaning": "grace, favor"
+        }
+      ]
+    },
+    {
+      "verse": 17,
+      "text": "Comfort your hearts, and stablish you in every good word and work.",
+      "highlightedWords": [
+        {
+          "word": "stablish",
+          "strongNumber": "G4741",
+          "lemma": "stērizō",
+          "meaning": "to strengthen, establish"
+        },
+        {
+          "word": "work",
+          "strongNumber": "G2041",
+          "lemma": "ergon",
+          "meaning": "work, deed, action"
+        }
+      ]
+    }
+  ]
+}
