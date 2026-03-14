@@ -124,7 +124,7 @@ export default function CharactersPage() {
           <div className="bg-gradient-to-br from-background to-background/95 border-2 border-accent/30 rounded-lg max-w-md w-full max-h-screen overflow-y-auto shadow-2xl">
             {/* Header */}
             <div className="flex items-center justify-between p-6 border-b-2 border-accent/20 bg-gradient-to-r from-accent/10 to-accent/5">
-              <h2 className="text-4xl font-bold text-accent">{selected.name}</h2>
+              <h2 className="text-2xl font-bold text-accent">{selected.name}</h2>
               <button
                 onClick={() => setSelected(null)}
                 className="text-muted-foreground hover:text-accent transition-colors hover:bg-accent/10 p-2 rounded-lg"
@@ -136,51 +136,51 @@ export default function CharactersPage() {
             {/* Content */}
             <div className="p-6 space-y-5">
               <div className="bg-accent/5 rounded-lg p-4 border border-accent/20">
-                <span className="font-bold text-base text-accent">Theme: </span>
-                <span className="text-lg text-foreground font-semibold">{selected.twoWordTheme || selected.theme}</span>
+                <span className="font-bold text-sm text-accent">Theme: </span>
+                <span className="text-base text-foreground font-semibold">{selected.twoWordTheme || selected.theme}</span>
               </div>
 
               {selected.strongNumber && (
                 <div className="bg-accent/5 rounded-lg p-4 border border-accent/20">
-                  <span className="font-bold text-base text-accent">Strong's Number: </span>
-                  <span className="text-lg text-foreground font-mono font-semibold">{selected.strongNumber}</span>
+                  <span className="font-bold text-sm text-accent">Strong's Number: </span>
+                  <span className="text-base text-foreground font-mono font-semibold">{selected.strongNumber}</span>
                 </div>
               )}
 
               {selected.lemma && (
                 <div className="bg-accent/5 rounded-lg p-4 border border-accent/20">
-                  <span className="font-bold text-base text-accent">Lemma: </span>
-                  <span className="text-lg text-foreground font-mono font-semibold">{selected.lemma}</span>
+                  <span className="font-bold text-sm text-accent">Lemma: </span>
+                  <span className="text-base text-foreground font-mono font-semibold">{selected.lemma}</span>
                 </div>
               )}
 
               {selected.meaning && (
                 <div className="bg-accent/5 rounded-lg p-4 border border-accent/20">
-                  <span className="font-bold text-base text-accent">Meaning: </span>
-                  <span className="text-base text-foreground leading-relaxed">{selected.meaning}</span>
+                  <span className="font-bold text-sm text-accent">Meaning: </span>
+                  <span className="text-sm text-foreground leading-relaxed">{selected.meaning}</span>
                 </div>
               )}
 
               <div className="bg-accent/5 rounded-lg p-4 border border-accent/20">
-                <span className="font-bold text-base text-accent">Story Arc: </span>
-                <span className="text-base text-foreground">{selected.referenceRange || selected.ref}</span>
+                <span className="font-bold text-sm text-accent">Story Arc: </span>
+                <span className="text-sm text-foreground">{selected.referenceRange || selected.ref}</span>
               </div>
 
               {/* Key Terms if available */}
               {selected.highlightedWords && selected.highlightedWords.length > 0 && (
                 <div className="pt-4 border-t-2 border-accent/20">
-                  <p className="font-bold text-lg text-accent mb-4">Key Terms</p>
+                  <p className="font-bold text-base text-accent mb-4">Key Terms</p>
                   <div className="space-y-3">
                     {selected.highlightedWords.map((word, idx) => (
                       <div key={idx} className="bg-accent/5 rounded-lg p-3 border border-accent/20">
-                        <div className="font-bold text-base text-accent mb-2">{word.word}</div>
+                        <div className="font-bold text-sm text-accent mb-2">{word.word}</div>
                         {word.strongNumber && (
-                          <div className="text-sm text-foreground mb-1">
+                          <div className="text-xs text-foreground mb-1">
                             Strong's: <span className="font-mono font-semibold text-accent">{word.strongNumber}</span>
                           </div>
                         )}
                         {word.meaning && (
-                          <div className="text-sm text-foreground italic">{word.meaning}</div>
+                          <div className="text-xs text-foreground italic">{word.meaning}</div>
                         )}
                       </div>
                     ))}
