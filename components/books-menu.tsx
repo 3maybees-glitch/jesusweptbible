@@ -13,6 +13,28 @@ interface BooksMenuProps {
   currentBook: string | null
 }
 
+// Old Testament Two-Word Theme
+const otTheme: BookTheme = {
+  book: "Old Testament",
+  theme: "Covenant LORD",
+  words: [
+    {
+      word: "Covenant",
+      strongNumber: "H1285",
+      language: "Hebrew",
+      lemma: "berith",
+      meaning: "A binding agreement, alliance, or divine covenant establishing relationship between God and His people; the foundational framework of God's promises throughout the Old Testament. The covenant represents God's sovereign commitment to His people and their obligations of faithfulness.",
+    },
+    {
+      word: "LORD",
+      strongNumber: "H3068",
+      language: "Hebrew",
+      lemma: "YHWH (Yehovah)",
+      meaning: "The covenant name of God revealed to Israel at Mount Sinai; 'the Self-Existent One' or 'He Who Is.' The personal divine name expressing God's eternal being, immutable character, and faithful relationship with His covenant people. Represents God's transcendence, holiness, and redemptive purpose.",
+    },
+  ],
+}
+
 // New Testament Two-Word Theme
 const ntTheme: BookTheme = {
   book: "New Testament",
@@ -160,7 +182,19 @@ export function BooksMenu({ onSelectBook, onAbout, currentBook }: BooksMenuProps
 
         {/* Book Sections */}
         <main className="px-4 py-6 pb-12 max-w-lg mx-auto">
-          {/* New Testament Two-Word Theme Box - Only show for NT */}
+        {/* Testament Two-Word Theme Box - Show based on testament selection */}
+          {testament === "OT" && (
+            <div className="mb-8">
+              <button
+                onClick={() => setShowThemeSheet(true)}
+                className="w-full flex flex-col gap-2 p-4 rounded-lg bg-[#6B4C3E] hover:bg-[#5A3F31] transition-colors focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 shadow-md"
+                aria-label="View Old Testament theme: Covenant LORD"
+              >
+                <span className="text-sm font-medium text-white/80">Old Testament Two-Word Theme</span>
+                <span className="text-2xl font-semibold text-white">Covenant LORD</span>
+              </button>
+            </div>
+          )}
           {testament === "NT" && (
             <div className="mb-8">
               <button
@@ -225,9 +259,9 @@ export function BooksMenu({ onSelectBook, onAbout, currentBook }: BooksMenuProps
           </div>
         </main>
 
-        {/* Theme Sheet for NT Theme */}
+        {/* Theme Sheet for Testament Theme */}
         <ThemeSheet
-          theme={showThemeSheet ? ntTheme : null}
+          theme={showThemeSheet ? (testament === "OT" ? otTheme : ntTheme) : null}
           isOpen={showThemeSheet}
           onClose={() => setShowThemeSheet(false)}
         />
