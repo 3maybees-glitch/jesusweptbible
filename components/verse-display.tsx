@@ -158,7 +158,7 @@ export function VerseDisplay({ verse, book, chapter, onWordTap, onArtClick }: Ve
           {artPainting && (
             <button
               onClick={handleArtClick}
-              className="flex items-center justify-center rounded-lg transition-all duration-300 min-h-[44px] min-w-[44px] flex-shrink-0 text-purple-500 hover:text-purple-300 hover:bg-purple-500/20 cursor-pointer"
+              className="flex items-center justify-center rounded-lg transition-all duration-300 min-h-[44px] min-w-[44px] flex-shrink-0 text-purple-500 opacity-40 hover:opacity-70 hover:bg-purple-500/20 cursor-pointer"
               aria-label="Easter Egg: Click to view art"
               title="🎨 Click to view hidden art!"
             >
