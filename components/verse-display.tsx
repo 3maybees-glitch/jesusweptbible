@@ -31,10 +31,10 @@ function ChristianCross({ className }: { className?: string }) {
 }
 
 export function VerseDisplay({ verse, book, chapter, onWordTap, onArtClick }: VerseDisplayProps) {
-  console.log("[v0] VerseDisplay rendering for verse:", book, chapter, verse.verse || verse.verseNumber)
   const [isRead, setIsRead] = useState(false)
   const [artPainting, setArtPainting] = useState<VerseArtPainting | null>(null)
   const [isLoadingArt, setIsLoadingArt] = useState(true)
+  const [artClicked, setArtClicked] = useState(false)
 
   // Load read status from localStorage on mount
   useEffect(() => {
@@ -71,12 +71,9 @@ export function VerseDisplay({ verse, book, chapter, onWordTap, onArtClick }: Ve
   }
 
   const handleArtClick = () => {
-    console.log("[v0] Art cross clicked, painting:", artPainting)
+    setArtClicked(true)
     if (artPainting && onArtClick) {
-      console.log("[v0] Calling onArtClick with painting:", artPainting.title)
       onArtClick(artPainting)
-    } else {
-      console.log("[v0] Art click blocked - no art or no callback")
     }
   }
 
@@ -154,13 +151,17 @@ export function VerseDisplay({ verse, book, chapter, onWordTap, onArtClick }: Ve
         </p>
 
         <div className="flex-shrink-0 mt-1 flex items-center gap-2">
-          {/* Purple Easter Egg Cross - Shows when art is available */}
+          {/* Faded Easter Egg Cross - Barely visible until clicked */}
           {artPainting && (
             <button
               onClick={handleArtClick}
-              className="flex items-center justify-center rounded-lg transition-all duration-300 min-h-[44px] min-w-[44px] flex-shrink-0 text-purple-500 hover:text-purple-300 hover:bg-purple-500/20 cursor-pointer"
-              aria-label="Easter Egg: Click to view art"
-              title="🎨 Click to view hidden art!"
+              className={`flex items-center justify-center rounded-lg transition-all duration-300 min-h-[44px] min-w-[44px] flex-shrink-0 ${
+                artClicked
+                  ? 'text-purple-500 bg-purple-500/30 shadow-lg glow-purple'
+                  : 'text-purple-500/20 hover:text-purple-500/40 hover:bg-purple-500/10'
+              }`}
+              aria-label="Easter Egg: Click to view hidden art"
+              title="🎨 Easter Egg - Click to reveal!"
             >
               <ChristianCross className="w-6 h-6" />
             </button>
