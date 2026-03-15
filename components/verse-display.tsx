@@ -150,35 +150,35 @@ export function VerseDisplay({ verse, book, chapter, onWordTap, onArtClick }: Ve
           )}
         </p>
 
-        <div className="flex-shrink-0 mt-1 flex items-center gap-2">
-          {/* Easter Egg Cross - Subtle and faded until clicked */}
+        <div className="flex-shrink-0 flex items-center gap-1">
+          {/* Purple Easter Egg Cross - Visible when art is available */}
           {artPainting && (
             <button
               onClick={handleArtClick}
-              className={`flex items-center justify-center rounded-lg transition-all duration-300 min-h-[44px] min-w-[44px] flex-shrink-0 ${
+              className={`flex items-center justify-center rounded transition-all duration-300 min-h-[32px] min-w-[32px] flex-shrink-0 ${
                 artClicked
-                  ? 'text-purple-400 bg-purple-500/40 shadow-lg'
-                  : 'text-purple-500/15 hover:text-purple-500/30 hover:bg-purple-500/15'
+                  ? 'text-purple-300 opacity-100'
+                  : 'text-purple-500 opacity-50 hover:opacity-75'
               }`}
               aria-label="Easter Egg: Click to view hidden art"
-              title="Easter Egg - Click to reveal!"
+              title="Easter Egg - Click to reveal art!"
             >
-              <ChristianCross className="w-6 h-6" />
+              <ChristianCross className="w-5 h-5" />
             </button>
           )}
 
           {/* Standard Read Marker Cross */}
           <button
             onClick={handleMarkRead}
-            className={`flex-shrink-0 transition-all duration-300 min-h-[44px] min-w-[44px] flex items-center justify-center rounded-lg ${
+            className={`flex-shrink-0 transition-all duration-300 min-h-[32px] min-w-[32px] flex items-center justify-center rounded ${
               isRead
-                ? 'text-amber-400 bg-amber-400/30 glow-cross shadow-lg'
-                : 'text-muted-foreground/60 hover:text-muted-foreground/80 hover:bg-secondary/50'
+                ? 'text-amber-400 opacity-100'
+                : 'text-gray-400 opacity-40 hover:opacity-60'
             }`}
             aria-label={isRead ? "Mark verse as unread" : "Mark verse as read"}
             title={isRead ? "Marked as read" : "Click to mark as read"}
           >
-            <ChristianCross className="w-6 h-6" />
+            <ChristianCross className="w-5 h-5" />
           </button>
         </div>
       </div>
