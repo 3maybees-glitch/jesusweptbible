@@ -31,10 +31,10 @@ function ChristianCross({ className }: { className?: string }) {
 }
 
 export function VerseDisplay({ verse, book, chapter, onWordTap, onArtClick }: VerseDisplayProps) {
+  console.log("[v0] VerseDisplay rendering for verse:", book, chapter, verse.verse || verse.verseNumber)
   const [isRead, setIsRead] = useState(false)
   const [artPainting, setArtPainting] = useState<VerseArtPainting | null>(null)
   const [isLoadingArt, setIsLoadingArt] = useState(true)
-  const [artClicked, setArtClicked] = useState(false)
 
   // Load read status from localStorage on mount
   useEffect(() => {
@@ -71,9 +71,12 @@ export function VerseDisplay({ verse, book, chapter, onWordTap, onArtClick }: Ve
   }
 
   const handleArtClick = () => {
-    setArtClicked(true)
+    console.log("[v0] Art cross clicked, painting:", artPainting)
     if (artPainting && onArtClick) {
+      console.log("[v0] Calling onArtClick with painting:", artPainting.title)
       onArtClick(artPainting)
+    } else {
+      console.log("[v0] Art click blocked - no art or no callback")
     }
   }
 
@@ -150,35 +153,31 @@ export function VerseDisplay({ verse, book, chapter, onWordTap, onArtClick }: Ve
           )}
         </p>
 
-        <div className="flex-shrink-0 flex items-center gap-1">
-          {/* Purple Easter Egg Cross - Visible when art is available */}
+        <div className="flex-shrink-0 mt-1 flex items-center gap-2">
+          {/* Purple Easter Egg Cross - Shows when art is available */}
           {artPainting && (
             <button
               onClick={handleArtClick}
-              className={`flex items-center justify-center rounded transition-all duration-300 min-h-[32px] min-w-[32px] flex-shrink-0 ${
-                artClicked
-                  ? 'text-purple-300 opacity-100'
-                  : 'text-purple-500 opacity-50 hover:opacity-75'
-              }`}
-              aria-label="Easter Egg: Click to view hidden art"
-              title="Easter Egg - Click to reveal art!"
+              className="flex items-center justify-center rounded-lg transition-all duration-300 min-h-[44px] min-w-[44px] flex-shrink-0 text-purple-500 hover:text-purple-300 hover:bg-purple-500/20 cursor-pointer"
+              aria-label="Easter Egg: Click to view art"
+              title="🎨 Click to view hidden art!"
             >
-              <ChristianCross className="w-5 h-5" />
+              <ChristianCross className="w-6 h-6" />
             </button>
           )}
 
           {/* Standard Read Marker Cross */}
           <button
             onClick={handleMarkRead}
-            className={`flex-shrink-0 transition-all duration-300 min-h-[32px] min-w-[32px] flex items-center justify-center rounded ${
+            className={`flex-shrink-0 transition-all duration-300 min-h-[44px] min-w-[44px] flex items-center justify-center rounded-lg ${
               isRead
-                ? 'text-amber-400 opacity-100'
-                : 'text-gray-400 opacity-40 hover:opacity-60'
+                ? 'text-amber-400 bg-amber-400/30 glow-cross shadow-lg'
+                : 'text-muted-foreground/60 hover:text-muted-foreground/80 hover:bg-secondary/50'
             }`}
             aria-label={isRead ? "Mark verse as unread" : "Mark verse as read"}
             title={isRead ? "Marked as read" : "Click to mark as read"}
           >
-            <ChristianCross className="w-5 h-5" />
+            <ChristianCross className="w-6 h-6" />
           </button>
         </div>
       </div>
