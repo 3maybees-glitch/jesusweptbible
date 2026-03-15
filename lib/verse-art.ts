@@ -22,6 +22,13 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
     title: "Made in God's Image",
     artist: "Historical Christian Art",
     description: "The foundational verse affirming that humanity is created in the image of God, establishing the divine purpose and worth of all people."
+  },
+  {
+    reference: "john 19:17",
+    painting: "christ-carrying-cross.jpg",
+    title: "Christ Carrying the Cross",
+    artist: "El Greco",
+    description: "Jesus carries the cross toward Golgotha, fulfilling His redemptive purpose on the path to crucifixion."
   }
 ]
 
