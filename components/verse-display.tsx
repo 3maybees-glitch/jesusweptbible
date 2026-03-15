@@ -151,17 +151,17 @@ export function VerseDisplay({ verse, book, chapter, onWordTap, onArtClick }: Ve
         </p>
 
         <div className="flex-shrink-0 mt-1 flex items-center gap-2">
-          {/* Faded Easter Egg Cross - Barely visible until clicked */}
+          {/* Easter Egg Cross - Visible hint for special verses */}
           {artPainting && (
             <button
               onClick={handleArtClick}
               className={`flex items-center justify-center rounded-lg transition-all duration-300 min-h-[44px] min-w-[44px] flex-shrink-0 ${
                 artClicked
-                  ? 'text-purple-500 bg-purple-500/30 shadow-lg glow-purple'
-                  : 'text-purple-500/20 hover:text-purple-500/40 hover:bg-purple-500/10'
+                  ? 'text-purple-400 bg-purple-500/40 shadow-lg'
+                  : 'text-purple-400/60 hover:text-purple-400/80 hover:bg-purple-500/20'
               }`}
               aria-label="Easter Egg: Click to view hidden art"
-              title="🎨 Easter Egg - Click to reveal!"
+              title="Easter Egg - Click to reveal!"
             >
               <ChristianCross className="w-6 h-6" />
             </button>
