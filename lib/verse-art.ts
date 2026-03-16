@@ -4,6 +4,7 @@ export interface VerseArtPainting {
   painting: string
   title: string
   artist: string
+  year: string
   description: string
 }
 
@@ -14,6 +15,7 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
     painting: "creation-of-adam.jpg",
     title: "Creation of Adam",
     artist: "Michelangelo",
+    year: "1512",
     description: "Michelangelo's iconic Sistine Chapel fresco depicting God giving life to Adam."
   },
   {
@@ -21,6 +23,7 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
     painting: "expulsion-from-eden.jpg",
     title: "Expulsion from the Garden of Eden",
     artist: "Thomas Cole",
+    year: "1828",
     description: "Adam and Eve being driven from the Garden after the fall."
   },
   {
@@ -28,6 +31,7 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
     painting: "sacrifice-of-isaac.jpg",
     title: "The Sacrifice of Isaac",
     artist: "Caravaggio",
+    year: "1603",
     description: "Abraham prepares to sacrifice Isaac before the angel intervenes."
   },
   {
@@ -35,6 +39,7 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
     painting: "jacob-wrestling-angel.jpg",
     title: "Jacob Wrestling the Angel",
     artist: "Eugène Delacroix",
+    year: "1855",
     description: "Jacob struggles with the angel through the night."
   },
   {
@@ -42,6 +47,7 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
     painting: "moses-breaking-tablets.jpg",
     title: "Moses Breaking the Tablets",
     artist: "Rembrandt",
+    year: "1659",
     description: "Moses reacts in anger after seeing Israel worship the golden calf."
   },
   {
@@ -49,6 +55,7 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
     painting: "crossing-red-sea.jpg",
     title: "Crossing the Red Sea",
     artist: "Nicolas Poussin",
+    year: "1634",
     description: "Israel crosses safely as the waters divide."
   },
   {
@@ -56,6 +63,7 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
     painting: "daniel-in-lions-den.jpg",
     title: "Daniel in the Lions' Den",
     artist: "Peter Paul Rubens",
+    year: "1615",
     description: "Daniel remains unharmed among the lions through God's protection."
   },
   {
@@ -63,6 +71,7 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
     painting: "david-and-goliath.jpg",
     title: "David with the Head of Goliath",
     artist: "Caravaggio",
+    year: "1610",
     description: "David stands victorious after defeating the giant."
   },
   {
@@ -70,6 +79,7 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
     painting: "elijah-fed-by-ravens.jpg",
     title: "Elijah Fed by Ravens",
     artist: "John Linnell",
+    year: "1848",
     description: "God miraculously feeds Elijah through ravens."
   },
   {
@@ -77,6 +87,7 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
     painting: "prophet-isaiah.jpg",
     title: "The Prophet Isaiah",
     artist: "Raphael",
+    year: "1511",
     description: "Isaiah receives his vision of the Lord seated on the throne."
   },
   {
@@ -84,6 +95,7 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
     painting: "annunciation.jpg",
     title: "The Annunciation",
     artist: "Leonardo da Vinci",
+    year: "1472",
     description: "Gabriel announces to Mary that she will bear the Son of God."
   },
   {
@@ -91,6 +103,7 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
     painting: "nativity.jpg",
     title: "The Nativity",
     artist: "Caravaggio",
+    year: "1600",
     description: "Christ is born in Bethlehem and laid in a manger."
   },
   {
@@ -98,6 +111,7 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
     painting: "adoration-of-the-magi.jpg",
     title: "Adoration of the Magi",
     artist: "Leonardo da Vinci",
+    year: "1481",
     description: "Wise men bring gifts to the newborn King."
   },
   {
@@ -105,6 +119,7 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
     painting: "baptism-of-christ.jpg",
     title: "The Baptism of Christ",
     artist: "Andrea del Verrocchio",
+    year: "1475",
     description: "Jesus is baptized in the Jordan as the Spirit descends like a dove."
   },
   {
@@ -112,6 +127,7 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
     painting: "christ-in-the-desert.jpg",
     title: "Christ in the Desert",
     artist: "Ivan Kramskoi",
+    year: "1872",
     description: "Jesus fasts forty days in the wilderness before beginning His ministry."
   },
   {
@@ -119,6 +135,7 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
     painting: "calling-of-saint-matthew.jpg",
     title: "The Calling of Saint Matthew",
     artist: "Caravaggio",
+    year: "1599",
     description: "Christ calls Matthew from his life as a tax collector."
   },
   {
@@ -126,6 +143,7 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
     painting: "sermon-on-the-mount.jpg",
     title: "Sermon on the Mount",
     artist: "Carl Bloch",
+    year: "1877",
     description: "Jesus teaches the crowds from the mountainside."
   },
   {
@@ -133,6 +151,7 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
     painting: "christ-walking-on-water.jpg",
     title: "Christ Walking on Water",
     artist: "Ivan Aivazovsky",
+    year: "1888",
     description: "Jesus walks upon the sea to His disciples."
   },
   {
@@ -140,6 +159,7 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
     painting: "transfiguration.jpg",
     title: "The Transfiguration",
     artist: "Raphael",
+    year: "1520",
     description: "Christ is revealed in divine glory before His disciples."
   },
   {
@@ -147,6 +167,7 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
     painting: "raising-of-lazarus.jpg",
     title: "The Raising of Lazarus",
     artist: "Caravaggio",
+    year: "1609",
     description: "Jesus raises Lazarus from the dead."
   },
   {
@@ -154,6 +175,7 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
     painting: "last-supper.jpg",
     title: "The Last Supper",
     artist: "Leonardo da Vinci",
+    year: "1498",
     description: "Christ institutes the Lord's Supper with His disciples."
   },
   {
@@ -161,6 +183,7 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
     painting: "washing-the-feet.jpg",
     title: "Christ Washing the Disciples' Feet",
     artist: "Tintoretto",
+    year: "1555",
     description: "Jesus humbly washes the feet of His disciples."
   },
   {
@@ -168,6 +191,7 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
     painting: "arrest-of-christ.jpg",
     title: "The Arrest of Christ",
     artist: "Caravaggio",
+    year: "1598",
     description: "Jesus is seized in the Garden of Gethsemane."
   },
   {
@@ -175,6 +199,7 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
     painting: "christ-carrying-cross.jpg",
     title: "Christ Carrying the Cross",
     artist: "El Greco",
+    year: "1580",
     description: "Jesus carries the cross toward Golgotha."
   },
   {
@@ -182,6 +207,7 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
     painting: "ecce-homo.jpg",
     title: "Ecce Homo",
     artist: "Antonio Ciseri",
+    year: "1871",
     description: "Pilate presents Jesus to the crowd saying 'Behold the man.'"
   },
   {
@@ -189,6 +215,7 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
     painting: "crucifixion-velazquez.jpg",
     title: "The Crucifixion",
     artist: "Diego Velázquez",
+    year: "1632",
     description: "Christ crucified for the sins of the world."
   },
   {
@@ -196,6 +223,7 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
     painting: "christ-crucified.jpg",
     title: "Christ Crucified",
     artist: "Diego Velázquez",
+    year: "1632",
     description: "Jesus declares 'It is finished.'"
   },
   {
@@ -203,6 +231,7 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
     painting: "descent-from-cross.jpg",
     title: "Descent from the Cross",
     artist: "Peter Paul Rubens",
+    year: "1614",
     description: "The body of Christ is taken down from the cross."
   },
   {
@@ -210,6 +239,7 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
     painting: "lamentation.jpg",
     title: "The Lamentation",
     artist: "Giotto",
+    year: "1305",
     description: "Followers mourn the body of Christ."
   },
   {
@@ -217,6 +247,7 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
     painting: "pieta.jpg",
     title: "Pietà",
     artist: "William-Adolphe Bouguereau",
+    year: "1876",
     description: "Mary cradles the body of Christ after the crucifixion."
   },
   {
@@ -224,6 +255,7 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
     painting: "resurrection.jpg",
     title: "Resurrection of Christ",
     artist: "Raphael",
+    year: "1499",
     description: "Christ rises victoriously from the grave."
   },
   {
@@ -231,6 +263,7 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
     painting: "noli-me-tangere.jpg",
     title: "Noli Me Tangere",
     artist: "Titian",
+    year: "1514",
     description: "Jesus appears to Mary Magdalene after His resurrection."
   },
   {
@@ -238,6 +271,7 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
     painting: "supper-at-emmaus.jpg",
     title: "Supper at Emmaus",
     artist: "Caravaggio",
+    year: "1601",
     description: "Christ reveals Himself to two disciples while breaking bread."
   },
   {
@@ -245,6 +279,7 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
     painting: "doubting-thomas.jpg",
     title: "Doubting Thomas",
     artist: "Caravaggio",
+    year: "1603",
     description: "Thomas touches the wounds of the risen Christ."
   },
   {
@@ -252,6 +287,7 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
     painting: "ascension.jpg",
     title: "The Ascension",
     artist: "Rembrandt",
+    year: "1636",
     description: "Christ ascends into heaven before His disciples."
   },
   {
@@ -259,6 +295,7 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
     painting: "pentecost.jpg",
     title: "Pentecost",
     artist: "El Greco",
+    year: "1604",
     description: "The Holy Spirit descends upon the apostles."
   },
   {
@@ -266,6 +303,7 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
     painting: "prodigal-son.jpg",
     title: "Return of the Prodigal Son",
     artist: "Rembrandt",
+    year: "1668",
     description: "The father welcomes home his lost son with compassion."
   },
   {
@@ -273,6 +311,7 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
     painting: "christ-in-the-storm.jpg",
     title: "Christ in the Storm on the Sea of Galilee",
     artist: "Rembrandt",
+    year: "1633",
     description: "Christ calms the storm as the disciples fear."
   },
   {
@@ -280,6 +319,7 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
     painting: "good-shepherd.jpg",
     title: "The Good Shepherd",
     artist: "Philippe de Champaigne",
+    year: "1650",
     description: "Christ depicted as the shepherd caring for His flock."
   },
   {
@@ -287,6 +327,7 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
     painting: "saint-michael-defeating-satan.jpg",
     title: "Saint Michael Defeating Satan",
     artist: "Raphael",
+    year: "1518",
     description: "Michael defeats the dragon in the heavenly battle."
   },
   {
@@ -294,6 +335,7 @@ const VERSE_ART_MAPPINGS: VerseArtPainting[] = [
     painting: "jesus-wept.jpg",
     title: "Jesus Wept",
     artist: "Historical Christian Art",
+    year: "Historical",
     description: "The shortest verse in the Bible depicting Jesus's compassion and humanity as he mourned Lazarus."
   }
 ]

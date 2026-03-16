@@ -51,10 +51,14 @@ export function ArtGalleryModal({ painting, isOpen, onClose }: ArtGalleryModalPr
 
             {/* Details Section */}
             <div className="space-y-4">
-              <div className="grid grid-cols-2 gap-4">
+              <div className="grid grid-cols-3 gap-4">
                 <div className="bg-accent/5 rounded-lg p-4 border border-accent/20">
                   <p className="text-xs font-semibold text-accent uppercase tracking-wide mb-1">Artist</p>
                   <p className="text-foreground font-medium">{painting.artist}</p>
+                </div>
+                <div className="bg-accent/5 rounded-lg p-4 border border-accent/20">
+                  <p className="text-xs font-semibold text-accent uppercase tracking-wide mb-1">Year</p>
+                  <p className="text-foreground font-medium">{painting.year}</p>
                 </div>
                 <div className="bg-accent/5 rounded-lg p-4 border border-accent/20">
                   <p className="text-xs font-semibold text-accent uppercase tracking-wide mb-1">Bible Verse</p>
