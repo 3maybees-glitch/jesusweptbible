@@ -82,7 +82,7 @@ const ntTheme: BookTheme = {
 export function BooksMenu({ onSelectBook, onAbout, currentBook }: BooksMenuProps) {
   const [showThemeSheet, setShowThemeSheet] = useState(false)
   const [showDevotional, setShowDevotional] = useState(false)
-  const [testament, setTestament] = useState<"OT" | "NT">("NT")
+  const [testament, setTestament] = useState<"OT" | "NT">("OT")
   const [selectedTheme, setSelectedTheme] = useState<"bible" | "testament">("testament")
 
   const filteredBooks = bibleBooks.filter((b) => b.testament === testament)
