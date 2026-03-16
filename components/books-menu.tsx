@@ -82,7 +82,7 @@ const ntTheme: BookTheme = {
 export function BooksMenu({ onSelectBook, onAbout, currentBook }: BooksMenuProps) {
   const [showThemeSheet, setShowThemeSheet] = useState(false)
   const [showDevotional, setShowDevotional] = useState(false)
-  const [testament, setTestament] = useState<"OT" | "NT">("NT")
+  const [testament, setTestament] = useState<"OT" | "NT">("OT")
   const [selectedTheme, setSelectedTheme] = useState<"bible" | "testament">("testament")
 
   const filteredBooks = bibleBooks.filter((b) => b.testament === testament)
@@ -250,7 +250,7 @@ export function BooksMenu({ onSelectBook, onAbout, currentBook }: BooksMenuProps
             <div className="mb-8">
               <button
                 onClick={() => setShowThemeSheet(true)}
-                className="w-full flex flex-col gap-2 p-6 rounded-lg bg-[#8B6F47]/90 hover:bg-[#7A5F38] transition-colors focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 shadow-lg backdrop-blur-sm"
+                className="w-full flex flex-col gap-2 p-6 rounded-lg bg-[#6B2C3E]/90 hover:bg-[#5A1F30] transition-colors focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 shadow-lg backdrop-blur-sm"
                 aria-label="View Old Testament theme: Covenant LORD"
               >
                 <span className="text-sm font-medium text-white/90 tracking-wide">Old Testament Two-Word Theme</span>
