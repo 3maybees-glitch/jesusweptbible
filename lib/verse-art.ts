@@ -351,10 +351,8 @@ function getVerseArtMap(): Map<string, VerseArtPainting> {
   const map = new Map<string, VerseArtPainting>()
   VERSE_ART_MAPPINGS.forEach((painting) => {
     const normalizedRef = normalizeReference(painting.reference)
-    console.log("[v0] Registering art mapping:", normalizedRef, "->", painting.title)
     map.set(normalizedRef, painting)
   })
-  console.log("[v0] Total art mappings registered:", map.size)
   return map
 }
 
@@ -372,21 +370,7 @@ export async function getVerseArt(
   const verseStr = String(verse).trim()
   const reference = `${bookStr} ${chapterStr}:${verseStr}`
   
-  console.log("[v0] === VERSE ART LOOKUP ===")
-  console.log("[v0] Input params:")
-  console.log("[v0]   - book:", book, `(type: ${typeof book})`)
-  console.log("[v0]   - chapter:", chapter, `(type: ${typeof chapter})`)
-  console.log("[v0]   - verse:", verse, `(type: ${typeof verse})`)
-  console.log("[v0] Normalized to:", reference)
-  console.log("[v0] Available mappings:")
-  Array.from(mappings.keys()).forEach(key => {
-    console.log("[v0]   -", key)
-  })
-  
   const result = mappings.get(reference)
-  console.log("[v0] Match result:", result ? `FOUND: ${result.title}` : "NOT FOUND")
-  console.log("[v0] === END LOOKUP ===")
-  
   return result || null
 }
 
