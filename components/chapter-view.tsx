@@ -29,24 +29,6 @@ export function ChapterView({ chapter, onBackToMenu, onBackToChapters }: Chapter
 
   const handleCloseSheet = () => {
     setIsSheetOpen(false)
-  }
-
-  const handleArtClick = (painting: VerseArtPainting) => {
-    setSelectedArt(painting)
-    setIsArtModalOpen(true)
-  }
-
-  const handleCloseArtModal = () => {
-    setIsArtModalOpen(false)
-  }
-
-  // Flatten verses from sections if they exist (for structured chapters like Psalms 119)
-  const verses = (chapter as any).sections
-    ? (chapter as any).sections.flatMap((section: any) => section.verses)
-    : (chapter.verses || [])
-
-  const handleCloseSheet = () => {
-    setIsSheetOpen(false)
     setTimeout(() => setSelectedWord(null), 200)
   }
 
@@ -59,6 +41,11 @@ export function ChapterView({ chapter, onBackToMenu, onBackToChapters }: Chapter
     setIsArtModalOpen(false)
     setTimeout(() => setSelectedArt(null), 200)
   }
+
+  // Flatten verses from sections if they exist (for structured chapters like Psalms 119)
+  const verses = (chapter as any).sections
+    ? (chapter as any).sections.flatMap((section: any) => section.verses)
+    : (chapter.verses || [])
 
   // Get two-word summary if available
   const chapterTheme = (chapter as any).chapterTheme
