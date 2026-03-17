@@ -42,6 +42,11 @@ export function ChapterView({ chapter, onBackToMenu, onBackToChapters }: Chapter
     setTimeout(() => setSelectedArt(null), 200)
   }
 
+  // Flatten verses from sections if they exist (for structured chapters like Psalms 119)
+  const verses = (chapter as any).sections
+    ? (chapter as any).sections.flatMap((section: any) => section.verses)
+    : (chapter.verses || [])
+
   // Get two-word summary if available
   const chapterTheme = (chapter as any).chapterTheme
   const twoWordSummary = chapterTheme?.twoWordSummary || (chapter as any).twoWordSummary
@@ -135,9 +140,13 @@ export function ChapterView({ chapter, onBackToMenu, onBackToChapters }: Chapter
 
       {/* Verses - Scrollable Content Area */}
       <main className="flex-1 px-4 py-6 max-w-2xl mx-auto relative z-10 overflow-x-hidden overflow-y-auto hide-scrollbar">
-        {chapter.verses.map((verse) => (
-          <VerseDisplay key={`${chapter.book}-${chapter.chapter}-${verse.verseNumber || verse.verse}`} verse={verse} book={chapter.book} chapter={chapter.chapter} onWordTap={handleWordTap} onArtClick={handleArtClick} />
-        ))}
+        {verses && verses.length > 0 ? (
+          verses.map((verse) => (
+            <VerseDisplay key={`${chapter.book}-${chapter.chapter}-${verse.verseNumber || verse.verse}`} verse={verse} book={chapter.book} chapter={chapter.chapter} onWordTap={handleWordTap} onArtClick={handleArtClick} />
+          ))
+        ) : (
+          <p className="text-center text-muted-foreground py-8">No verses found for this chapter.</p>
+        )}
       </main>
 
       {/* Footer */}
