@@ -1,25 +1,25 @@
 {
   "book": "Psalms",
   "chapter": 119,
-  "range": "1-168",
+  "range": "1-176",
   "chapterTheme": {
-    "twoWordSummary": "Cry Salvation",
+    "twoWordSummary": "Prayer Seeking",
     "themeWords": [
       {
-        "word": "Cry",
-        "strongNumber": "H7121",
-        "lemma": "qara",
-        "meaning": "to call out, cry, proclaim"
+        "word": "Prayer",
+        "strongNumber": "H8605",
+        "lemma": "tefillah",
+        "meaning": "prayer, supplication, intercession"
       },
       {
-        "word": "Salvation",
-        "strongNumber": "H3467",
-        "lemma": "yasha",
-        "meaning": "to save, deliver, rescue"
+        "word": "Seek",
+        "strongNumber": "H1245",
+        "lemma": "baqash",
+        "meaning": "to seek, search for, request"
       }
     ]
   },
-  "sentenceTheme": "The psalmist's journey through God's law reveals that true blessing comes from seeking, meditating, and obeying God's word in all circumstances, finding in His testimonies wisdom, guidance, comfort, revival, and ultimately the hope and salvation found in crying out to God with a whole heart.",
+  "sentenceTheme": "The psalmist closes with a heartfelt prayer for understanding, deliverance, and guidance, expressing devotion to God's commandments while humbly acknowledging his need for God to seek and restore him.",
   "sections": [
     {
       "section": "Aleph",
@@ -612,6 +612,155 @@
               "strongNumber": "H5048",
               "lemma": "neged",
               "meaning": "before, in front of"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Tav",
+      "verses": [
+        {
+          "verse": 169,
+          "text": "Let my cry come near before thee, O LORD: give me understanding according to thy word.",
+          "highlightedWords": [
+            {
+              "word": "cry",
+              "strongNumber": "H7440",
+              "lemma": "rinnah",
+              "meaning": "cry, shout, ringing prayer"
+            },
+            {
+              "word": "understanding",
+              "strongNumber": "H995",
+              "lemma": "bin",
+              "meaning": "to understand, discern"
+            }
+          ]
+        },
+        {
+          "verse": 170,
+          "text": "Let my supplication come before thee: deliver me according to thy word.",
+          "highlightedWords": [
+            {
+              "word": "supplication",
+              "strongNumber": "H8467",
+              "lemma": "tachanun",
+              "meaning": "supplication, plea for grace"
+            },
+            {
+              "word": "deliver",
+              "strongNumber": "H5337",
+              "lemma": "natsal",
+              "meaning": "to deliver, rescue"
+            }
+          ]
+        },
+        {
+          "verse": 171,
+          "text": "My lips shall utter praise, when thou hast taught me thy statutes.",
+          "highlightedWords": [
+            {
+              "word": "utter",
+              "strongNumber": "H5042",
+              "lemma": "naba",
+              "meaning": "to pour forth, utter speech"
+            },
+            {
+              "word": "praise",
+              "strongNumber": "H8416",
+              "lemma": "tehillah",
+              "meaning": "praise, song of praise"
+            }
+          ]
+        },
+        {
+          "verse": 172,
+          "text": "My tongue shall speak of thy word: for all thy commandments are righteousness.",
+          "highlightedWords": [
+            {
+              "word": "tongue",
+              "strongNumber": "H3956",
+              "lemma": "lashon",
+              "meaning": "tongue, speech"
+            },
+            {
+              "word": "righteousness",
+              "strongNumber": "H6664",
+              "lemma": "tsedeq",
+              "meaning": "righteousness, justice"
+            }
+          ]
+        },
+        {
+          "verse": 173,
+          "text": "Let thine hand help me; for I have chosen thy precepts.",
+          "highlightedWords": [
+            {
+              "word": "hand",
+              "strongNumber": "H3027",
+              "lemma": "yad",
+              "meaning": "hand, power"
+            },
+            {
+              "word": "chosen",
+              "strongNumber": "H977",
+              "lemma": "bachar",
+              "meaning": "to choose, select"
+            }
+          ]
+        },
+        {
+          "verse": 174,
+          "text": "I have longed for thy salvation, O LORD; and thy law is my delight.",
+          "highlightedWords": [
+            {
+              "word": "longed",
+              "strongNumber": "H8373",
+              "lemma": "taab",
+              "meaning": "to long, desire"
+            },
+            {
+              "word": "salvation",
+              "strongNumber": "H3444",
+              "lemma": "yeshuah",
+              "meaning": "salvation, deliverance"
+            }
+          ]
+        },
+        {
+          "verse": 175,
+          "text": "Let my soul live, and it shall praise thee; and let thy judgments help me.",
+          "highlightedWords": [
+            {
+              "word": "soul",
+              "strongNumber": "H5315",
+              "lemma": "nephesh",
+              "meaning": "soul, life"
+            },
+            {
+              "word": "live",
+              "strongNumber": "H2421",
+              "lemma": "chayah",
+              "meaning": "to live, revive"
+            }
+          ]
+        },
+        {
+          "verse": 176,
+          "text": "I have gone astray like a lost sheep; seek thy servant; for I do not forget thy commandments.",
+          "highlightedWords": [
+            {
+              "word": "astray",
+              "strongNumber": "H8582",
+              "lemma": "taah",
+              "meaning": "to wander, go astray"
+            },
+            {
+              "word": "seek",
+              "strongNumber": "H1245",
+              "lemma": "baqash",
+              "meaning": "to seek, search for"
             }
           ]
         }
