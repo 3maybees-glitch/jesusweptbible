@@ -1,25 +1,25 @@
 {
   "book": "Psalms",
   "chapter": 119,
-  "range": "1-72",
+  "range": "1-96",
   "chapterTheme": {
-    "twoWordSummary": "Hope Affliction",
+    "twoWordSummary": "Faithfulness Endures",
     "themeWords": [
       {
-        "word": "Hope",
-        "strongNumber": "H3176",
-        "lemma": "yachal",
-        "meaning": "to wait, hope, trust expectantly"
+        "word": "Faithfulness",
+        "strongNumber": "H530",
+        "lemma": "emunah",
+        "meaning": "faithfulness, firmness, steadfastness"
       },
       {
-        "word": "Affliction",
-        "strongNumber": "H6040",
-        "lemma": "oni",
-        "meaning": "affliction, misery, poverty, suffering"
+        "word": "Word",
+        "strongNumber": "H1697",
+        "lemma": "dabar",
+        "meaning": "word, speech, divine command"
       }
     ]
   },
-  "sentenceTheme": "The psalmist finds comfort, hope, and faithfulness in God's word during affliction, recognizing that suffering produces deeper obedience and trust in the Lord.",
+  "sentenceTheme": "The psalmist acknowledges God as Creator and faithful teacher, finding comfort in affliction and confidence that God's word is eternal and perfect beyond all limits.",
   "sections": [
     {
       "section": "Aleph",
@@ -676,10 +676,10 @@
           "text": "I intreated thy favour with my whole heart: be merciful unto me according to thy word.",
           "highlightedWords": [
             {
-              "word": "favour",
-              "strongNumber": "H6440",
-              "lemma": "panim",
-              "meaning": "face, presence, favor"
+              "word": "intreated",
+              "strongNumber": "H2470",
+              "lemma": "chalah",
+              "meaning": "to plead, beseech"
             },
             {
               "word": "merciful",
@@ -697,13 +697,13 @@
               "word": "thought",
               "strongNumber": "H2803",
               "lemma": "chashab",
-              "meaning": "to think, consider"
+              "meaning": "to think, plan, account"
             },
             {
-              "word": "turned",
-              "strongNumber": "H7725",
-              "lemma": "shub",
-              "meaning": "to return, turn back"
+              "word": "testimonies",
+              "strongNumber": "H5715",
+              "lemma": "edah",
+              "meaning": "testimonies, witness"
             }
           ]
         },
@@ -713,15 +713,15 @@
           "highlightedWords": [
             {
               "word": "haste",
-              "strongNumber": "H2363",
+              "strongNumber": "H2648",
               "lemma": "chush",
-              "meaning": "to hurry, hasten"
+              "meaning": "to hasten, rush"
             },
             {
-              "word": "delayed",
-              "strongNumber": "H4102",
-              "lemma": "mahah",
-              "meaning": "to delay, linger"
+              "word": "keep",
+              "strongNumber": "H8104",
+              "lemma": "shamar",
+              "meaning": "to keep, observe"
             }
           ]
         },
@@ -730,10 +730,10 @@
           "text": "The bands of the wicked have robbed me: but I have not forgotten thy law.",
           "highlightedWords": [
             {
-              "word": "robbed",
-              "strongNumber": "H5749",
-              "lemma": "avah",
-              "meaning": "to bind, twist, take by force"
+              "word": "bands",
+              "strongNumber": "H2256",
+              "lemma": "chebel",
+              "meaning": "cord, bands, companies"
             },
             {
               "word": "forgotten",
@@ -749,15 +749,15 @@
           "highlightedWords": [
             {
               "word": "midnight",
-              "strongNumber": "H2676",
-              "lemma": "chatsi",
-              "meaning": "middle, midpoint (midnight)"
+              "strongNumber": "H3915",
+              "lemma": "layil",
+              "meaning": "night, middle of night"
             },
             {
               "word": "thanks",
               "strongNumber": "H3034",
               "lemma": "yadah",
-              "meaning": "to praise, give thanks"
+              "meaning": "to give thanks, praise"
             }
           ]
         },
@@ -766,16 +766,16 @@
           "text": "I am a companion of all them that fear thee, and of them that keep thy precepts.",
           "highlightedWords": [
             {
+              "word": "companion",
+              "strongNumber": "H2269",
+              "lemma": "chaber",
+              "meaning": "companion, friend"
+            },
+            {
               "word": "fear",
               "strongNumber": "H3373",
               "lemma": "yare",
               "meaning": "to fear, revere"
-            },
-            {
-              "word": "companion",
-              "strongNumber": "H2270",
-              "lemma": "chaber",
-              "meaning": "associate, companion"
             }
           ]
         },
@@ -784,16 +784,16 @@
           "text": "The earth, O LORD, is full of thy mercy: teach me thy statutes.",
           "highlightedWords": [
             {
+              "word": "full",
+              "strongNumber": "H4390",
+              "lemma": "male",
+              "meaning": "to be full, fill"
+            },
+            {
               "word": "mercy",
               "strongNumber": "H2617",
               "lemma": "chesed",
-              "meaning": "lovingkindness, covenant mercy"
-            },
-            {
-              "word": "teach",
-              "strongNumber": "H3925",
-              "lemma": "lamad",
-              "meaning": "to teach, instruct"
+              "meaning": "lovingkindness, mercy"
             }
           ]
         }
@@ -807,16 +807,16 @@
           "text": "Thou hast dealt well with thy servant, O LORD, according unto thy word.",
           "highlightedWords": [
             {
-              "word": "well",
-              "strongNumber": "H2896",
-              "lemma": "tob",
-              "meaning": "good, pleasant"
+              "word": "dealt",
+              "strongNumber": "H6213",
+              "lemma": "asah",
+              "meaning": "to do, make, deal with"
             },
             {
-              "word": "servant",
-              "strongNumber": "H5650",
-              "lemma": "ebed",
-              "meaning": "servant, bondman"
+              "word": "word",
+              "strongNumber": "H1697",
+              "lemma": "dabar",
+              "meaning": "word, utterance"
             }
           ]
         },
@@ -825,16 +825,16 @@
           "text": "Teach me good judgment and knowledge: for I have believed thy commandments.",
           "highlightedWords": [
             {
+              "word": "judgment",
+              "strongNumber": "H2940",
+              "lemma": "taam",
+              "meaning": "taste, discernment, judgment"
+            },
+            {
               "word": "knowledge",
               "strongNumber": "H1847",
               "lemma": "daath",
               "meaning": "knowledge, understanding"
-            },
-            {
-              "word": "believed",
-              "strongNumber": "H539",
-              "lemma": "aman",
-              "meaning": "to believe, trust"
             }
           ]
         },
@@ -849,10 +849,10 @@
               "meaning": "to afflict, humble"
             },
             {
-              "word": "astray",
-              "strongNumber": "H7683",
-              "lemma": "shagah",
-              "meaning": "to wander, err"
+              "word": "word",
+              "strongNumber": "H1697",
+              "lemma": "dabar",
+              "meaning": "word, divine utterance"
             }
           ]
         },
@@ -864,7 +864,7 @@
               "word": "good",
               "strongNumber": "H2896",
               "lemma": "tob",
-              "meaning": "good, beneficial"
+              "meaning": "good, well, fine"
             },
             {
               "word": "teach",
@@ -879,16 +879,16 @@
           "text": "The proud have forged a lie against me: but I will keep thy precepts with my whole heart.",
           "highlightedWords": [
             {
-              "word": "proud",
-              "strongNumber": "H2086",
-              "lemma": "zed",
-              "meaning": "proud, arrogant"
+              "word": "forged",
+              "strongNumber": "H2950",
+              "lemma": "taphal",
+              "meaning": "to form, frame, forge"
             },
             {
-              "word": "lie",
-              "strongNumber": "H8267",
-              "lemma": "sheqer",
-              "meaning": "falsehood, lie"
+              "word": "keep",
+              "strongNumber": "H8104",
+              "lemma": "shamar",
+              "meaning": "to keep, guard"
             }
           ]
         },
@@ -900,13 +900,13 @@
               "word": "heart",
               "strongNumber": "H3820",
               "lemma": "leb",
-              "meaning": "heart, inner being"
+              "meaning": "heart, inner man"
             },
             {
               "word": "delight",
-              "strongNumber": "H8173",
-              "lemma": "sha'a",
-              "meaning": "to delight, take pleasure"
+              "strongNumber": "H8191",
+              "lemma": "shaashuim",
+              "meaning": "delight, enjoyment"
             }
           ]
         },
@@ -915,16 +915,16 @@
           "text": "It is good for me that I have been afflicted; that I might learn thy statutes.",
           "highlightedWords": [
             {
+              "word": "good",
+              "strongNumber": "H2896",
+              "lemma": "tob",
+              "meaning": "good, beneficial"
+            },
+            {
               "word": "afflicted",
               "strongNumber": "H6031",
               "lemma": "anah",
               "meaning": "to afflict, humble"
-            },
-            {
-              "word": "learn",
-              "strongNumber": "H3925",
-              "lemma": "lamad",
-              "meaning": "to learn, be taught"
             }
           ]
         },
@@ -942,7 +942,454 @@
               "word": "better",
               "strongNumber": "H2896",
               "lemma": "tob",
-              "meaning": "better, good, valuable"
+              "meaning": "good, better, more excellent"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Yodh",
+      "verses": [
+        {
+          "verse": 73,
+          "text": "Thy hands have made me and fashioned me: give me understanding, that I may learn thy commandments.",
+          "highlightedWords": [
+            {
+              "word": "made",
+              "strongNumber": "H6213",
+              "lemma": "asah",
+              "meaning": "to make, do, create"
+            },
+            {
+              "word": "understanding",
+              "strongNumber": "H995",
+              "lemma": "bin",
+              "meaning": "to understand, discern"
+            }
+          ]
+        },
+        {
+          "verse": 74,
+          "text": "They that fear thee will be glad when they see me; because I have hoped in thy word.",
+          "highlightedWords": [
+            {
+              "word": "fear",
+              "strongNumber": "H3373",
+              "lemma": "yare",
+              "meaning": "to fear, revere"
+            },
+            {
+              "word": "hoped",
+              "strongNumber": "H3176",
+              "lemma": "yachal",
+              "meaning": "to wait, hope"
+            }
+          ]
+        },
+        {
+          "verse": 75,
+          "text": "I know, O LORD, that thy judgments are right, and that thou in faithfulness hast afflicted me.",
+          "highlightedWords": [
+            {
+              "word": "faithfulness",
+              "strongNumber": "H530",
+              "lemma": "emunah",
+              "meaning": "faithfulness, steadfastness"
+            },
+            {
+              "word": "afflicted",
+              "strongNumber": "H6031",
+              "lemma": "anah",
+              "meaning": "to afflict, humble"
+            }
+          ]
+        },
+        {
+          "verse": 76,
+          "text": "Let, I pray thee, thy merciful kindness be for my comfort, according to thy word unto thy servant.",
+          "highlightedWords": [
+            {
+              "word": "mercy",
+              "strongNumber": "H2617",
+              "lemma": "chesed",
+              "meaning": "lovingkindness, covenant mercy"
+            },
+            {
+              "word": "comfort",
+              "strongNumber": "H5165",
+              "lemma": "nechamah",
+              "meaning": "comfort, consolation"
+            }
+          ]
+        },
+        {
+          "verse": 77,
+          "text": "Let thy tender mercies come unto me, that I may live: for thy law is my delight.",
+          "highlightedWords": [
+            {
+              "word": "mercies",
+              "strongNumber": "H7356",
+              "lemma": "racham",
+              "meaning": "compassion, tender mercy"
+            },
+            {
+              "word": "delight",
+              "strongNumber": "H8191",
+              "lemma": "shaashuim",
+              "meaning": "delight, enjoyment"
+            }
+          ]
+        },
+        {
+          "verse": 78,
+          "text": "Let the proud be ashamed; for they dealt perversely with me without a cause: but I will meditate in thy precepts.",
+          "highlightedWords": [
+            {
+              "word": "proud",
+              "strongNumber": "H2086",
+              "lemma": "zed",
+              "meaning": "proud, arrogant"
+            },
+            {
+              "word": "meditate",
+              "strongNumber": "H7878",
+              "lemma": "siach",
+              "meaning": "to meditate, ponder"
+            }
+          ]
+        },
+        {
+          "verse": 79,
+          "text": "Let those that fear thee turn unto me, and those that have known thy testimonies.",
+          "highlightedWords": [
+            {
+              "word": "fear",
+              "strongNumber": "H3373",
+              "lemma": "yare",
+              "meaning": "to fear, revere"
+            },
+            {
+              "word": "testimonies",
+              "strongNumber": "H5715",
+              "lemma": "edah",
+              "meaning": "testimonies, witness"
+            }
+          ]
+        },
+        {
+          "verse": 80,
+          "text": "Let my heart be sound in thy statutes; that I be not ashamed.",
+          "highlightedWords": [
+            {
+              "word": "heart",
+              "strongNumber": "H3820",
+              "lemma": "leb",
+              "meaning": "heart, inner man"
+            },
+            {
+              "word": "sound",
+              "strongNumber": "H8549",
+              "lemma": "tamim",
+              "meaning": "complete, blameless"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Kaph",
+      "verses": [
+        {
+          "verse": 81,
+          "text": "My soul fainteth for thy salvation: but I hope in thy word.",
+          "highlightedWords": [
+            {
+              "word": "fainteth",
+              "strongNumber": "H3615",
+              "lemma": "kalah",
+              "meaning": "to fail, be consumed"
+            },
+            {
+              "word": "salvation",
+              "strongNumber": "H8668",
+              "lemma": "teshuah",
+              "meaning": "deliverance, salvation"
+            }
+          ]
+        },
+        {
+          "verse": 82,
+          "text": "Mine eyes fail for thy word, saying, When wilt thou comfort me?",
+          "highlightedWords": [
+            {
+              "word": "fail",
+              "strongNumber": "H3615",
+              "lemma": "kalah",
+              "meaning": "to fail, be exhausted"
+            },
+            {
+              "word": "comfort",
+              "strongNumber": "H5162",
+              "lemma": "nacham",
+              "meaning": "to comfort, console"
+            }
+          ]
+        },
+        {
+          "verse": 83,
+          "text": "For I am become like a bottle in the smoke; yet do I not forget thy statutes.",
+          "highlightedWords": [
+            {
+              "word": "smoke",
+              "strongNumber": "H7008",
+              "lemma": "qitor",
+              "meaning": "smoke, vapor"
+            },
+            {
+              "word": "forget",
+              "strongNumber": "H7911",
+              "lemma": "shakach",
+              "meaning": "to forget, neglect"
+            }
+          ]
+        },
+        {
+          "verse": 84,
+          "text": "How many are the days of thy servant? when wilt thou execute judgment on them that persecute me?",
+          "highlightedWords": [
+            {
+              "word": "days",
+              "strongNumber": "H3117",
+              "lemma": "yom",
+              "meaning": "days, lifetime"
+            },
+            {
+              "word": "judgment",
+              "strongNumber": "H4941",
+              "lemma": "mishpat",
+              "meaning": "judgment, justice"
+            }
+          ]
+        },
+        {
+          "verse": 85,
+          "text": "The proud have digged pits for me, which are not after thy law.",
+          "highlightedWords": [
+            {
+              "word": "pits",
+              "strongNumber": "H875",
+              "lemma": "beer",
+              "meaning": "pit, well, trap"
+            },
+            {
+              "word": "law",
+              "strongNumber": "H8451",
+              "lemma": "torah",
+              "meaning": "law, instruction"
+            }
+          ]
+        },
+        {
+          "verse": 86,
+          "text": "All thy commandments are faithful: they persecute me wrongfully; help thou me.",
+          "highlightedWords": [
+            {
+              "word": "faithful",
+              "strongNumber": "H530",
+              "lemma": "emunah",
+              "meaning": "faithful, reliable"
+            },
+            {
+              "word": "help",
+              "strongNumber": "H5826",
+              "lemma": "azar",
+              "meaning": "to help, assist"
+            }
+          ]
+        },
+        {
+          "verse": 87,
+          "text": "They had almost consumed me upon earth; but I forsook not thy precepts.",
+          "highlightedWords": [
+            {
+              "word": "consumed",
+              "strongNumber": "H3615",
+              "lemma": "kalah",
+              "meaning": "to consume, finish"
+            },
+            {
+              "word": "forsook",
+              "strongNumber": "H5800",
+              "lemma": "azab",
+              "meaning": "to forsake, abandon"
+            }
+          ]
+        },
+        {
+          "verse": 88,
+          "text": "Quicken me after thy lovingkindness; so shall I keep the testimony of thy mouth.",
+          "highlightedWords": [
+            {
+              "word": "quicken",
+              "strongNumber": "H2421",
+              "lemma": "chayah",
+              "meaning": "to revive, give life"
+            },
+            {
+              "word": "testimony",
+              "strongNumber": "H5715",
+              "lemma": "edah",
+              "meaning": "testimony, witness"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Lamed",
+      "verses": [
+        {
+          "verse": 89,
+          "text": "For ever, O LORD, thy word is settled in heaven.",
+          "highlightedWords": [
+            {
+              "word": "word",
+              "strongNumber": "H1697",
+              "lemma": "dabar",
+              "meaning": "word, divine utterance"
+            },
+            {
+              "word": "settled",
+              "strongNumber": "H5324",
+              "lemma": "natsab",
+              "meaning": "to stand firm, established"
+            }
+          ]
+        },
+        {
+          "verse": 90,
+          "text": "Thy faithfulness is unto all generations: thou hast established the earth, and it abideth.",
+          "highlightedWords": [
+            {
+              "word": "faithfulness",
+              "strongNumber": "H530",
+              "lemma": "emunah",
+              "meaning": "faithfulness, stability"
+            },
+            {
+              "word": "established",
+              "strongNumber": "H3559",
+              "lemma": "kun",
+              "meaning": "to establish, make firm"
+            }
+          ]
+        },
+        {
+          "verse": 91,
+          "text": "They continue this day according to thine ordinances: for all are thy servants.",
+          "highlightedWords": [
+            {
+              "word": "continue",
+              "strongNumber": "H5975",
+              "lemma": "amad",
+              "meaning": "to stand, remain"
+            },
+            {
+              "word": "ordinances",
+              "strongNumber": "H4941",
+              "lemma": "mishpat",
+              "meaning": "judgment, ordinance"
+            }
+          ]
+        },
+        {
+          "verse": 92,
+          "text": "Unless thy law had been my delights, I should then have perished in mine affliction.",
+          "highlightedWords": [
+            {
+              "word": "delights",
+              "strongNumber": "H8191",
+              "lemma": "shaashuim",
+              "meaning": "delight, joy"
+            },
+            {
+              "word": "perished",
+              "strongNumber": "H6",
+              "lemma": "abad",
+              "meaning": "to perish, be destroyed"
+            }
+          ]
+        },
+        {
+          "verse": 93,
+          "text": "I will never forget thy precepts: for with them thou hast quickened me.",
+          "highlightedWords": [
+            {
+              "word": "forget",
+              "strongNumber": "H7911",
+              "lemma": "shakach",
+              "meaning": "to forget"
+            },
+            {
+              "word": "quicken",
+              "strongNumber": "H2421",
+              "lemma": "chayah",
+              "meaning": "to revive, give life"
+            }
+          ]
+        },
+        {
+          "verse": 94,
+          "text": "I am thine, save me; for I have sought thy precepts.",
+          "highlightedWords": [
+            {
+              "word": "save",
+              "strongNumber": "H3467",
+              "lemma": "yasha",
+              "meaning": "to save, deliver"
+            },
+            {
+              "word": "sought",
+              "strongNumber": "H1875",
+              "lemma": "darash",
+              "meaning": "to seek, inquire"
+            }
+          ]
+        },
+        {
+          "verse": 95,
+          "text": "The wicked have waited for me to destroy me: but I will consider thy testimonies.",
+          "highlightedWords": [
+            {
+              "word": "destroy",
+              "strongNumber": "H6",
+              "lemma": "abad",
+              "meaning": "to destroy, perish"
+            },
+            {
+              "word": "consider",
+              "strongNumber": "H995",
+              "lemma": "bin",
+              "meaning": "to understand, consider"
+            }
+          ]
+        },
+        {
+          "verse": 96,
+          "text": "I have seen an end of all perfection: but thy commandment is exceeding broad.",
+          "highlightedWords": [
+            {
+              "word": "end",
+              "strongNumber": "H7093",
+              "lemma": "qets",
+              "meaning": "end, limit"
+            },
+            {
+              "word": "broad",
+              "strongNumber": "H7342",
+              "lemma": "rachab",
+              "meaning": "broad, wide, spacious"
             }
           ]
         }
