@@ -29,6 +29,24 @@ export function ChapterView({ chapter, onBackToMenu, onBackToChapters }: Chapter
 
   const handleCloseSheet = () => {
     setIsSheetOpen(false)
+  }
+
+  const handleArtClick = (painting: VerseArtPainting) => {
+    setSelectedArt(painting)
+    setIsArtModalOpen(true)
+  }
+
+  const handleCloseArtModal = () => {
+    setIsArtModalOpen(false)
+  }
+
+  // Flatten verses from sections if they exist (for structured chapters like Psalms 119)
+  const verses = (chapter as any).sections
+    ? (chapter as any).sections.flatMap((section: any) => section.verses)
+    : (chapter.verses || [])
+
+  const handleCloseSheet = () => {
+    setIsSheetOpen(false)
     setTimeout(() => setSelectedWord(null), 200)
   }
 
@@ -135,7 +153,7 @@ export function ChapterView({ chapter, onBackToMenu, onBackToChapters }: Chapter
 
       {/* Verses - Scrollable Content Area */}
       <main className="flex-1 px-4 py-6 max-w-2xl mx-auto relative z-10 overflow-x-hidden overflow-y-auto hide-scrollbar">
-        {chapter.verses.map((verse) => (
+        {verses.map((verse) => (
           <VerseDisplay key={`${chapter.book}-${chapter.chapter}-${verse.verseNumber || verse.verse}`} verse={verse} book={chapter.book} chapter={chapter.chapter} onWordTap={handleWordTap} onArtClick={handleArtClick} />
         ))}
       </main>
