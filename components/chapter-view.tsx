@@ -24,21 +24,24 @@ export function ChapterView({ chapter, onBackToMenu, onBackToChapters }: Chapter
   const [isArtModalOpen, setIsArtModalOpen] = useState(false)
   const { settings } = useReadingSettings()
 
-  // Derive reading classes from settings
-  const fontSizeClass = {
-    small: "text-sm",
-    medium: "text-base",
-    large: "text-lg",
-    xlarge: "text-xl",
-  }[settings.fontSize]
+  // Only apply reading customizations when dyslexia mode is ON
+  // When off, return empty strings so original styles are fully preserved
+  const fontSizeClass = settings.dyslexiaMode
+    ? {
+        small: "text-sm",
+        medium: "text-base",
+        large: "text-lg",
+        xlarge: "text-xl",
+      }[settings.fontSize]
+    : ""
 
   const readingBgClass = settings.dyslexiaMode
-    ? "bg-amber-50"
-    : {
-        default: "",
-        sepia: "bg-amber-50/80",
+    ? {
+        default: "bg-amber-50",
+        sepia: "bg-amber-100",
         dark: "bg-gray-900",
       }[settings.readingTheme]
+    : ""
 
   const readingTextClass = settings.dyslexiaMode
     ? {
@@ -46,11 +49,7 @@ export function ChapterView({ chapter, onBackToMenu, onBackToChapters }: Chapter
         sepia: "text-black",
         dark: "text-white",
       }[settings.readingTheme]
-    : {
-        default: "",
-        sepia: "text-amber-950",
-        dark: "text-gray-100",
-      }[settings.readingTheme]
+    : ""
 
   const dyslexiaStyle = settings.dyslexiaMode
     ? {
