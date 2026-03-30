@@ -1,8 +1,8 @@
 import type React from "react"
 import type { Metadata, Viewport } from "next"
-import { Geist, Geist_Mono } from "next/font/google"
-import { Crimson_Pro } from "next/font/google"
+import { Geist, Geist_Mono, Crimson_Pro, Lexend } from "next/font/google"
 import { Analytics } from "@vercel/analytics/next"
+import { ReadingSettingsProvider } from "@/lib/reading-settings-context"
 import "./globals.css"
 
 const _geist = Geist({ subsets: ["latin"] })
@@ -11,6 +11,11 @@ const _crimsonPro = Crimson_Pro({
   subsets: ["latin"],
   weight: ["400", "500", "600"],
   style: ["normal", "italic"],
+})
+const _lexend = Lexend({
+  subsets: ["latin"],
+  weight: ["400", "500", "600"],
+  variable: "--font-lexend",
 })
 
 export const metadata: Metadata = {
@@ -50,9 +55,11 @@ export default function RootLayout({
   children: React.ReactNode
 }>) {
   return (
-    <html lang="en" className="bg-background">
+    <html lang="en" className={`bg-background ${_lexend.variable}`}>
       <body className={`font-sans antialiased`}>
-        {children}
+        <ReadingSettingsProvider>
+          {children}
+        </ReadingSettingsProvider>
         <Analytics />
       </body>
     </html>
