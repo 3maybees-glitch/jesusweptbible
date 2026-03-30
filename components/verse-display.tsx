@@ -144,7 +144,7 @@ export function VerseDisplay({ verse, book, chapter, onWordTap, onArtClick }: Ve
           <span className="text-base font-sans mr-2 select-none opacity-75">{verse.verse || verse.verseNumber}</span>
           {renderedText.map((part, index) =>
             part.isHighlighted ? (
-              <strong key={index} className="font-bold text-yellow-200">
+              <strong key={index} className="font-bold text-red-800">
                 {part.text}
               </strong>
             ) : (
