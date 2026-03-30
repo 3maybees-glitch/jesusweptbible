@@ -140,7 +140,7 @@ export function VerseDisplay({ verse, book, chapter, onWordTap, onArtClick }: Ve
       </div>
 
       <div className="flex items-start justify-between gap-3">
-        <p className="font-serif text-xl leading-relaxed text-white flex-1">
+        <p className="font-serif text-xl leading-relaxed flex-1">
           <span className="text-base font-sans mr-2 select-none opacity-75">{verse.verse || verse.verseNumber}</span>
           {renderedText.map((part, index) =>
             part.isHighlighted ? (
