@@ -11,6 +11,7 @@ interface VerseDisplayProps {
   chapter: number
   onWordTap: (word: HighlightedWord) => void
   onArtClick?: (painting: VerseArtPainting) => void
+  isDyslexiaMode?: boolean
 }
 
 // Christian Cross SVG Component
@@ -30,7 +31,7 @@ function ChristianCross({ className }: { className?: string }) {
   )
 }
 
-export function VerseDisplay({ verse, book, chapter, onWordTap, onArtClick }: VerseDisplayProps) {
+export function VerseDisplay({ verse, book, chapter, onWordTap, onArtClick, isDyslexiaMode = false }: VerseDisplayProps) {
   console.log("[v0] VerseDisplay rendering for verse:", book, chapter, verse.verse || verse.verseNumber)
   const [isRead, setIsRead] = useState(false)
   const [artPainting, setArtPainting] = useState<VerseArtPainting | null>(null)
@@ -140,11 +141,14 @@ export function VerseDisplay({ verse, book, chapter, onWordTap, onArtClick }: Ve
       </div>
 
       <div className="flex items-start justify-between gap-3">
-        <p className="font-serif text-xl leading-relaxed text-white flex-1">
+        <p 
+          className={`text-xl leading-relaxed flex-1 ${isDyslexiaMode ? "" : "font-serif text-white"}`}
+          style={isDyslexiaMode ? { fontFamily: "var(--font-lexend), 'Lexend', Arial, sans-serif" } : {}}
+        >
           <span className="text-base font-sans mr-2 select-none opacity-75">{verse.verse || verse.verseNumber}</span>
           {renderedText.map((part, index) =>
             part.isHighlighted ? (
-              <strong key={index} className="font-bold text-yellow-200">
+              <strong key={index} className={`font-bold ${isDyslexiaMode ? "text-red-800" : "text-yellow-200"}`}>
                 {part.text}
               </strong>
             ) : (

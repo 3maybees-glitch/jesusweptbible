@@ -5,6 +5,7 @@ import { ChevronLeft, ChevronRight } from "lucide-react"
 import type { Chapter, HighlightedWord } from "@/lib/bible-data"
 import type { VerseArtPainting } from "@/lib/verse-art"
 import { getBackgroundUrl } from "@/lib/book-backgrounds"
+import { useReadingSettings } from "@/lib/reading-settings-context"
 import { VerseDisplay } from "./verse-display"
 import { WordInsightSheet } from "./word-insight-sheet"
 import { ArtGalleryModal } from "./art-gallery-modal"
@@ -21,6 +22,43 @@ export function ChapterView({ chapter, onBackToMenu, onBackToChapters }: Chapter
   const [isSheetOpen, setIsSheetOpen] = useState(false)
   const [selectedArt, setSelectedArt] = useState<VerseArtPainting | null>(null)
   const [isArtModalOpen, setIsArtModalOpen] = useState(false)
+  const { settings } = useReadingSettings()
+
+  // Only apply reading customizations when dyslexia mode is ON
+  // When off, return empty strings so original styles are fully preserved
+  const fontSizeClass = settings.dyslexiaMode
+    ? {
+        small: "text-sm",
+        medium: "text-base",
+        large: "text-lg",
+        xlarge: "text-xl",
+      }[settings.fontSize]
+    : ""
+
+  const readingBgClass = settings.dyslexiaMode
+    ? {
+        default: "bg-amber-50",
+        sepia: "bg-amber-100",
+        dark: "bg-gray-900",
+      }[settings.readingTheme]
+    : ""
+
+  const readingTextClass = settings.dyslexiaMode
+    ? {
+        default: "text-black",
+        sepia: "text-black",
+        dark: "text-white",
+      }[settings.readingTheme]
+    : ""
+
+  const dyslexiaStyle = settings.dyslexiaMode
+    ? {
+        fontFamily: "var(--font-lexend), 'Lexend', Arial, sans-serif",
+        lineHeight: "1.85",
+        letterSpacing: "0.03em",
+        wordSpacing: "0.1em",
+      }
+    : {}
 
   const handleWordTap = (word: HighlightedWord) => {
     setSelectedWord(word)
@@ -139,10 +177,13 @@ export function ChapterView({ chapter, onBackToMenu, onBackToChapters }: Chapter
       )}
 
       {/* Verses - Scrollable Content Area */}
-      <main className="flex-1 px-4 py-6 max-w-2xl mx-auto relative z-10 overflow-x-hidden overflow-y-auto hide-scrollbar">
+      <main
+        className={`flex-1 px-4 py-6 max-w-2xl mx-auto relative z-10 overflow-x-hidden overflow-y-auto hide-scrollbar transition-colors duration-300 ${fontSizeClass} ${readingBgClass} ${readingTextClass}`}
+        style={dyslexiaStyle}
+      >
         {verses && verses.length > 0 ? (
           verses.map((verse) => (
-            <VerseDisplay key={`${chapter.book}-${chapter.chapter}-${verse.verseNumber || verse.verse}`} verse={verse} book={chapter.book} chapter={chapter.chapter} onWordTap={handleWordTap} onArtClick={handleArtClick} />
+            <VerseDisplay key={`${chapter.book}-${chapter.chapter}-${verse.verseNumber || verse.verse}`} verse={verse} book={chapter.book} chapter={chapter.chapter} onWordTap={handleWordTap} onArtClick={handleArtClick} isDyslexiaMode={settings.dyslexiaMode} />
           ))
         ) : (
           <p className="text-center text-muted-foreground py-8">No verses found for this chapter.</p>
