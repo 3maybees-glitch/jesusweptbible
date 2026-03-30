@@ -184,7 +184,7 @@ export function ChapterView({ chapter, onBackToMenu, onBackToChapters }: Chapter
       >
         {verses && verses.length > 0 ? (
           verses.map((verse) => (
-            <VerseDisplay key={`${chapter.book}-${chapter.chapter}-${verse.verseNumber || verse.verse}`} verse={verse} book={chapter.book} chapter={chapter.chapter} onWordTap={handleWordTap} onArtClick={handleArtClick} />
+            <VerseDisplay key={`${chapter.book}-${chapter.chapter}-${verse.verseNumber || verse.verse}`} verse={verse} book={chapter.book} chapter={chapter.chapter} onWordTap={handleWordTap} onArtClick={handleArtClick} isDyslexiaMode={settings.dyslexiaMode} />
           ))
         ) : (
           <p className="text-center text-muted-foreground py-8">No verses found for this chapter.</p>
