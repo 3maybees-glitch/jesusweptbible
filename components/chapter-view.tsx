@@ -41,7 +41,11 @@ export function ChapterView({ chapter, onBackToMenu, onBackToChapters }: Chapter
       }[settings.readingTheme]
 
   const readingTextClass = settings.dyslexiaMode
-    ? "text-gray-800"
+    ? {
+        default: "text-black",
+        sepia: "text-black",
+        dark: "text-white",
+      }[settings.readingTheme]
     : {
         default: "",
         sepia: "text-amber-950",
