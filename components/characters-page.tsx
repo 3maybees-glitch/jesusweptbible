@@ -21,6 +21,11 @@ interface Character {
   }>
 }
 
+const CHARACTER_IMAGES: Record<string, string> = {
+  Adam: "/images/adam.jpg",
+  Moses: "/images/moses.jpg",
+}
+
 export default function CharactersPage() {
   const [characters, setCharacters] = useState<Character[]>([])
   const [loading, setLoading] = useState(true)
@@ -83,7 +88,16 @@ export default function CharactersPage() {
             className="cursor-pointer hover:shadow-lg transition-all hover:border-accent/50 bg-gradient-to-br from-accent/10 to-accent/5 border-accent/20"
             onClick={() => setSelected(person)}
           >
-            <CardContent className="p-4 space-y-2">
+            <CardContent className="p-4 space-y-2 text-center">
+              {CHARACTER_IMAGES[person.name] && (
+                <div className="w-full aspect-square overflow-hidden rounded-md mb-3">
+                  <img
+                    src={CHARACTER_IMAGES[person.name]}
+                    alt={`Portrait of ${person.name}`}
+                    className="w-full h-full object-cover object-top"
+                  />
+                </div>
+              )}
               <h3 className="font-semibold text-lg text-accent">{person.name}</h3>
               <p className="text-base text-foreground font-medium">
                 {person.twoWordTheme || person.theme}
@@ -132,6 +146,17 @@ export default function CharactersPage() {
                 <X className="w-6 h-6" />
               </button>
             </div>
+
+            {/* Portrait */}
+            {CHARACTER_IMAGES[selected.name] && (
+              <div className="w-full flex justify-center bg-accent/5 py-4 px-6">
+                <img
+                  src={CHARACTER_IMAGES[selected.name]}
+                  alt={`Portrait of ${selected.name}`}
+                  className="h-52 w-auto object-contain rounded-md"
+                />
+              </div>
+            )}
 
             {/* Content */}
             <div className="p-6 space-y-5">
