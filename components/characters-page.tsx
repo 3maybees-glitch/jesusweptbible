@@ -148,11 +148,11 @@ export default function CharactersPage() {
 
             {/* Portrait */}
             {CHARACTER_IMAGES[selected.name] && (
-              <div className="w-full max-h-64 overflow-hidden">
+              <div className="w-full flex justify-center bg-accent/5 py-4 px-6">
                 <img
                   src={CHARACTER_IMAGES[selected.name]}
                   alt={`Portrait of ${selected.name}`}
-                  className="w-full h-64 object-cover object-top"
+                  className="h-52 w-auto object-contain rounded-md"
                 />
               </div>
             )}
