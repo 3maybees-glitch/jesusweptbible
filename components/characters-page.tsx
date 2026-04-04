@@ -87,7 +87,7 @@ export default function CharactersPage() {
             className="cursor-pointer hover:shadow-lg transition-all hover:border-accent/50 bg-gradient-to-br from-accent/10 to-accent/5 border-accent/20"
             onClick={() => setSelected(person)}
           >
-            <CardContent className="p-4 space-y-2">
+            <CardContent className="p-4 space-y-2 text-center">
               {CHARACTER_IMAGES[person.name] && (
                 <div className="w-full aspect-square overflow-hidden rounded-md mb-3">
                   <img
