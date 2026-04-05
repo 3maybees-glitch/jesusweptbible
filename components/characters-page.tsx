@@ -126,6 +126,16 @@ const CHARACTER_IMAGES: Record<string, string> = {
   Joab: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/40c66c06-4d08-451d-825d-e77591bdbc67.jpeg",
   Jezebel: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/6703d58a-5b35-4858-9eb9-0675e046a9a4.jpeg",
   Jethro: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/14f84c69-2c19-4ec4-925d-fccd655d64fd.jpeg",
+  Luke: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/09fa4546-78b3-45a8-a28f-21189d6cef14.jpeg",
+  Lot: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/535370e6-b022-4c02-b149-4e2678e48469.jpeg",
+  Leah: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/74816c5f-869d-47ca-9409-a9b87f5023d6.jpeg",
+  Lazarus: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/9904cce2-765d-4059-bafb-e3c33e5da5b2.jpeg",
+  Korah: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/a5bc9961-af15-4f8e-9966-063c11fc382d.jpeg",
+  Jude: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ea1c6888-6f5b-4bbc-8878-c4fa33a53eb4.jpeg",
+  "Judas Iscariot": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/54030e39-0096-45b5-9290-cfe481b27d44.jpeg",
+  Judah: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/1ca8f1b3-3dfb-4c0f-ae27-46e0c525397e.jpeg",
+  Josiah: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/42a407ae-dd66-4600-9b5f-8b121dcc1186.jpeg",
+  Joshua: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/d7c7b1ff-f405-4db7-8bde-fca4ce7208d9.jpeg",
 }
 
 export default function CharactersPage() {
