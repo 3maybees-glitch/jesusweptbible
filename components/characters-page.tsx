@@ -49,6 +49,11 @@ const CHARACTER_IMAGES: Record<string, string> = {
   Bezalel: "/images/bezalel.jpg",
   Bathsheba: "/images/bathsheba.jpg",
   Bartholomew: "/images/bartholomew.jpg",
+  Daniel: "/images/daniel.jpg",
+  Cornelius: "/images/cornelius.jpg",
+  Claudius: "/images/claudius.jpg",
+  Cain: "/images/cain.jpg",
+  Crispus: "/images/crispus.jpg",
 }
 
 export default function CharactersPage() {
