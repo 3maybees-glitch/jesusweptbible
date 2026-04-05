@@ -68,6 +68,15 @@ const CHARACTER_IMAGES: Record<string, string> = {
   Nehemiah: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/47f72853-1e6b-44eb-9399-70583a581ecf.jpeg",
   Nathan: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/43bb3d52-a937-4e8d-8b30-9dd205ed6b66.jpeg",
   Nahum: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/b3df3208-fae5-4f68-bef6-23e95a4fad63.jpeg",
+  Deborah: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/55441367-fb1a-453a-bb7b-2bb2d4f62aba.jpeg",
+  Demas: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/afd1f450-9f8d-4d68-8d12-021ca10475b0.jpeg",
+  Potiphar: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/86f45d79-90a5-4b87-b52c-9019d34e0193.jpeg",
+  Phinehas: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dddc9144-61b4-4c4a-86fa-916f5f55f69a.jpeg",
+  Philip: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/724a8222-bd54-4038-b52f-572d1fbef4cd.jpeg",
+  Philemon: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/89a585cc-a096-43a9-b962-546b9d17fd88.jpeg",
+  Paul: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/3e63471b-7df4-459e-af43-de5eb4716cab.jpeg",
+  Onesimus: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ddc06c5e-7126-4964-8a6c-75ec46345f19.jpeg",
+  Obadiah: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/88dbf506-746a-4e3f-93cb-6662e8578432.jpeg",
 }
 
 export default function CharactersPage() {
