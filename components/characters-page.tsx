@@ -39,6 +39,11 @@ const CHARACTER_IMAGES: Record<string, string> = {
   Andrew: "/images/andrew.jpg",
   "Ananias of Damascus": "/images/ananias-damascus.jpg",
   "Ananias (High Priest)": "/images/ananias-high-priest.jpg",
+  Barnabas: "/images/barnabas.jpg",
+  Barak: "/images/barak.jpg",
+  Balak: "/images/balak.jpg",
+  Balaam: "/images/balaam.jpg",
+  Asenath: "/images/asenath.jpg",
 }
 
 export default function CharactersPage() {
