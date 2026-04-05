@@ -107,6 +107,14 @@ const CHARACTER_IMAGES: Record<string, string> = {
   "Herod Antipas": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/40c889a6-5410-49c1-a97d-092a20dc0d30.jpeg",
   "Herod Agrippa II": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/a37a5431-33e4-46e1-bcec-cdf3adf68f25.jpeg",
   "Herod Agrippa I": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/0bc4771e-8344-4a83-a4d1-5b066a2a664a.jpeg",
+  Jesus: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/c612c598-1d1e-4d86-8250-da1a92588412.jpeg",
+  Jeremiah: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/51d23d75-78fe-49ee-9cba-9911a56958b6.jpeg",
+  Jephthah: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ce9cc61f-1d86-4edb-a23a-21b31c687a25.jpeg",
+  "James son of Zebedee": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/3f296843-56f3-4784-98d9-3c6d0aff4534.jpeg",
+  "James son of Alphaeus": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/147da789-85ab-4830-bd48-6d44c3c4bf5c.jpeg",
+  James: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/03bec10e-ab6f-45b6-aa1b-c8414d2f9320.jpeg",
+  Jael: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/4b05671f-ccdb-4d0b-811a-87cd4ff72e0c.jpeg",
+  Jacob: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/34f4b496-eea5-47a2-8f08-72e62f4bbfac.jpeg",
 }
 
 export default function CharactersPage() {
