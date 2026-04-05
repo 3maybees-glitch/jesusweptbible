@@ -22,7 +22,6 @@ interface Character {
 }
 
 const CHARACTER_IMAGES: Record<string, string> = {
-  Moses: "/images/moses.jpg",
   Aaron: "/images/aaron.jpg",
   Abednego: "/images/abednego.jpg",
   Abel: "/images/abel.jpg",
