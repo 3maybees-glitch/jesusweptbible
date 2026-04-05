@@ -97,6 +97,16 @@ const CHARACTER_IMAGES: Record<string, string> = {
   Felix: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/fc683eef-caf2-4c8a-8b3c-08d230c12f26.jpeg",
   Ezra: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/8042de65-6c33-48b4-a4dd-7e644ea2f534.jpeg",
   Ezekiel: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/508bf564-296f-4416-bf07-3e51e4cb2d2f.jpeg",
+  Ishmael: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/79a28060-d00f-4452-9871-6bace6ff651b.jpeg",
+  Isaiah: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/c2d16fc8-ceb8-4d00-b988-d4e4c1c413aa.jpeg",
+  Isaac: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/cf507926-51cc-4ad4-abea-92b19be9efbd.jpeg",
+  Hosea: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/bb662a1c-fc5c-4155-af8c-a0923c8ddc4e.jpeg",
+  Hezekiah: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/56c46c78-a511-4b97-9b66-07b27f1dcfab.jpeg",
+  Herodias: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/3160c2be-5765-4760-b392-185b45b1e490.jpeg",
+  "Herod the Great": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/882e48fc-d0b0-4c92-b55d-48611996e942.jpeg",
+  "Herod Antipas": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/40c889a6-5410-49c1-a97d-092a20dc0d30.jpeg",
+  "Herod Agrippa II": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/a37a5431-33e4-46e1-bcec-cdf3adf68f25.jpeg",
+  "Herod Agrippa I": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/0bc4771e-8344-4a83-a4d1-5b066a2a664a.jpeg",
 }
 
 export default function CharactersPage() {
