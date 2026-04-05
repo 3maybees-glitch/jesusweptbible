@@ -115,6 +115,17 @@ const CHARACTER_IMAGES: Record<string, string> = {
   James: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/03bec10e-ab6f-45b6-aa1b-c8414d2f9320.jpeg",
   Jael: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/4b05671f-ccdb-4d0b-811a-87cd4ff72e0c.jpeg",
   Jacob: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/34f4b496-eea5-47a2-8f08-72e62f4bbfac.jpeg",
+  "Joseph of Nazareth": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/a28e60f6-cdac-4604-b464-ba5ea295b053.jpeg",
+  "Joseph of Arimathea": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/66b7324e-97ff-44dc-b94a-a11dbe8a204a.jpeg",
+  Jonathan: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/5e894007-1761-46d9-bc1c-f52497096beb.jpeg",
+  Jonah: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/c0da5c50-f1c3-452b-87cf-f9cfada11f36.jpeg",
+  "John the Baptist": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/9b214f69-ea0a-4b31-b72b-44ab7173039a.jpeg",
+  "John (Revelation)": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/e31ad999-f8f0-4ee4-a9c8-e0ccfe1a822c.jpeg",
+  John: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/704e571a-4500-462e-a96e-654eb3b3b94e.jpeg",
+  Joel: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/b16233ac-4a74-4e4c-89a4-10cec3a13018.jpeg",
+  Joab: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/40c66c06-4d08-451d-825d-e77591bdbc67.jpeg",
+  Jezebel: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/6703d58a-5b35-4858-9eb9-0675e046a9a4.jpeg",
+  Jethro: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/14f84c69-2c19-4ec4-925d-fccd655d64fd.jpeg",
 }
 
 export default function CharactersPage() {
