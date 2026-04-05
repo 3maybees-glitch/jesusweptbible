@@ -34,6 +34,11 @@ const CHARACTER_IMAGES: Record<string, string> = {
   "Alexander the Coppersmith": "/images/alexander-coppersmith.jpg",
   Ahab: "/images/ahab.jpg",
   Absalom: "/images/absalom.jpg",
+  Aquila: "/images/aquila.jpg",
+  Apollos: "/images/apollos.jpg",
+  Andrew: "/images/andrew.jpg",
+  "Ananias of Damascus": "/images/ananias-damascus.jpg",
+  "Ananias (High Priest)": "/images/ananias-high-priest.jpg",
 }
 
 export default function CharactersPage() {
