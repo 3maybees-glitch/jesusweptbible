@@ -77,6 +77,16 @@ const CHARACTER_IMAGES: Record<string, string> = {
   Paul: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/3e63471b-7df4-459e-af43-de5eb4716cab.jpeg",
   Onesimus: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ddc06c5e-7126-4964-8a6c-75ec46345f19.jpeg",
   Obadiah: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/88dbf506-746a-4e3f-93cb-6662e8578432.jpeg",
+  Eve: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/54994dbf-e80f-46da-bf51-4de28adc75c2.jpeg",
+  Esther: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/106f9d44-d8fc-4b07-b171-68f987ff2445.jpeg",
+  Esau: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/e846596c-350a-487e-8dfd-ad7e6b09c228.jpeg",
+  Ephraim: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/3abbf5ba-0c57-4a83-8cb4-022e28803b77.jpeg",
+  Epaphroditus: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/f1e97626-79cc-4572-8448-01040711f431.jpeg",
+  Epaphras: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/f67bf8d8-476d-4e33-bfb5-16b86cd0a271.jpeg",
+  Enoch: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/32f16edf-66d7-40b8-9a6e-e5526c85b581.jpeg",
+  Elisha: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ef2966dd-7a9c-4a4c-921f-7cfbf54024fe.jpeg",
+  Elijah: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/969fab93-3bf3-42d8-8806-141172d218be.jpeg",
+  Drusilla: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ca676722-db77-4806-b732-9dfc6fd4574c.jpeg",
 }
 
 export default function CharactersPage() {
