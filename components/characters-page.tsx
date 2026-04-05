@@ -54,6 +54,11 @@ const CHARACTER_IMAGES: Record<string, string> = {
   Claudius: "/images/claudius.jpg",
   Cain: "/images/cain.jpg",
   Crispus: "/images/crispus.jpg",
+  Meshach: "/images/meshach.jpg",
+  Matthew: "/images/matthew.jpg",
+  Mary: "/images/mary.jpg",
+  "Mary Magdalene": "/images/mary-magdalene.jpg",
+  David: "/images/david.jpg",
 }
 
 export default function CharactersPage() {
