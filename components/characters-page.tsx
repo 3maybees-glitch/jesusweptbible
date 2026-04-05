@@ -63,6 +63,11 @@ const CHARACTER_IMAGES: Record<string, string> = {
   Miriam: "/images/miriam.jpg",
   Michal: "/images/michal.jpg",
   Micah: "/images/micah.jpg",
+  Noah: "/images/noah.jpg",
+  Nicodemus: "/images/nicodemus.jpg",
+  Nehemiah: "/images/nehemiah.jpg",
+  Nathan: "/images/nathan.jpg",
+  Nahum: "/images/nahum.jpg",
 }
 
 export default function CharactersPage() {
