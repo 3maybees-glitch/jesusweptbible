@@ -169,6 +169,9 @@ const CHARACTER_IMAGES: Record<string, string> = {
   "Pontius Pilate": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/d828ad4f-7793-4314-b124-4e581f2fcd5b.jpeg",
   "Philip the Evangelist": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/adddec6d-f0ca-4d6b-8a92-d8b8a56391cd.jpeg",
   Titus: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/b9cc40e7-17bd-438f-95df-9425dddb8994.jpeg",
+  Shadrach: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/563d4b3f-085f-409a-88b9-338f70d5d8f4.jpeg",
+  Delilah: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/0c3c2ea1-801f-4b69-9414-3733aebe533a.jpeg",
+  Zipporah: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/4c5a254e-c272-424e-aa25-5201b5e3a120.jpeg",
 }
 
 export default function CharactersPage() {
