@@ -87,6 +87,16 @@ const CHARACTER_IMAGES: Record<string, string> = {
   Elisha: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ef2966dd-7a9c-4a4c-921f-7cfbf54024fe.jpeg",
   Elijah: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/969fab93-3bf3-42d8-8806-141172d218be.jpeg",
   Drusilla: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ca676722-db77-4806-b732-9dfc6fd4574c.jpeg",
+  Haman: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/6e7f3c34-5572-4305-bfb6-17d5f8f3ca61.jpeg",
+  Haggai: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/8718ace9-e827-4810-86a9-2c883b17801a.jpeg",
+  Hagar: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/13497ca6-bbd8-4182-b07c-5cdf57fcf543.jpeg",
+  Habakkuk: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/42488366-5b53-4be3-8899-0a460d888d4c.jpeg",
+  Gideon: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/3d1dbfa4-7983-49c6-930b-6d1345164c8c.jpeg",
+  Gamaliel: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/6c09b65c-0907-496d-9525-a029a654779a.jpeg",
+  Festus: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/d2f93c6f-e0d6-486d-96cd-f6965ff11dbf.jpeg",
+  Felix: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/fc683eef-caf2-4c8a-8b3c-08d230c12f26.jpeg",
+  Ezra: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/8042de65-6c33-48b4-a4dd-7e644ea2f534.jpeg",
+  Ezekiel: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/508bf564-296f-4416-bf07-3e51e4cb2d2f.jpeg",
 }
 
 export default function CharactersPage() {
