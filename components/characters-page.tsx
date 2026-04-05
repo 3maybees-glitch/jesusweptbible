@@ -44,6 +44,11 @@ const CHARACTER_IMAGES: Record<string, string> = {
   Balak: "/images/balak.jpg",
   Balaam: "/images/balaam.jpg",
   Asenath: "/images/asenath.jpg",
+  Caiaphas: "/images/caiaphas.jpg",
+  "Caesar Augustus": "/images/caesar-augustus.jpg",
+  Bezalel: "/images/bezalel.jpg",
+  Bathsheba: "/images/bathsheba.jpg",
+  Bartholomew: "/images/bartholomew.jpg",
 }
 
 export default function CharactersPage() {
