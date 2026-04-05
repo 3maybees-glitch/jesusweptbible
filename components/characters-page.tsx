@@ -22,7 +22,6 @@ interface Character {
 }
 
 const CHARACTER_IMAGES: Record<string, string> = {
-  Adam: "/images/adam.jpg",
   Moses: "/images/moses.jpg",
   Aaron: "/images/aaron.jpg",
   Abednego: "/images/abednego.jpg",
@@ -162,21 +161,6 @@ const CHARACTER_IMAGES: Record<string, string> = {
   Ruth: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/29cc5693-ed30-42da-bfec-b63232c9d67e.jpeg",
   Samson: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/6fee5e84-6cf4-4edf-81bc-7bb2721131d7.jpeg",
   Sarah: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ff172b10-d67b-4ef4-b832-88f8628dfff7.jpeg",
-  Shadrach: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/34036d1b-2545-4cc2-8be9-32152cc968ee.jpeg",
-  Delilah: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/a47d0863-e728-4ce8-808e-67f59b37500d.jpeg",
-  Zipporah: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/362fb68a-e985-4c01-81d9-cd384b4e81a7.jpeg",
-  Tamar: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/99de60b9-67bd-4d11-ae04-51599ff68cfb.jpeg",
-  Lamech: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/6a606460-40c0-4820-9284-cbc260dd63dc.jpeg",
-  Seth: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/9d0ed3f7-7d35-4ab9-9452-1d992647e996.jpeg",
-  "The Ethiopian Eunuch": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/9382ff7b-2cf1-4cf6-9bb8-162bef178457.jpeg",
-  Priscilla: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/13e9f169-771f-4491-bbf1-bcd509fc96ec.jpeg",
-  Titus: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/cae29b84-b8a1-4743-9ced-208c850d12c5.jpeg",
-  "Philip the Evangelist": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ce623de2-0133-40cd-a1f1-2051694758d0.jpeg",
-  "Pontius Pilate": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/9252fca3-f823-41c5-8b70-6c5be8bed137.jpeg",
-  Martha: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/4fe976cd-d755-4127-a49a-8e90a38d3e01.jpeg",
-  "Simon the Zealot": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/6f355c50-ef79-404f-bd2b-6190da7ad576.jpeg",
-  Thaddaeus: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/410e991b-d5ac-4ca2-8dcd-9ff03859cb8e.jpeg",
-  Thomas: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/240f50c5-3f8b-4691-8906-550558bc059c.jpeg",
 }
 
 export default function CharactersPage() {
