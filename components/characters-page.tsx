@@ -175,6 +175,8 @@ const CHARACTER_IMAGES: Record<string, string> = {
   Seth: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/6c30d598-c5de-41b6-ada4-2519dae72596.jpeg",
   Tamar: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/84530866-08cf-467d-af28-da57faa32a6a.jpeg",
   Lamech: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/b3dcce40-ad1d-472d-b09f-052629b4bf87.jpeg",
+  "The Ethiopian Eunuch": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/d874d568-4edf-455c-9055-a944630c1500.jpeg",
+  Priscilla: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/2ea9c945-fac8-4f05-9aef-5c180c2e6343.jpeg",
 }
 
 export default function CharactersPage() {
