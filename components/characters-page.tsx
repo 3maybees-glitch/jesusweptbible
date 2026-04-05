@@ -24,6 +24,12 @@ interface Character {
 const CHARACTER_IMAGES: Record<string, string> = {
   Adam: "/images/adam.jpg",
   Moses: "/images/moses.jpg",
+  Aaron: "/images/aaron.jpg",
+  Abednego: "/images/abednego.jpg",
+  Abel: "/images/abel.jpg",
+  Abimelech: "/images/abimelech.jpg",
+  Abigail: "/images/abigail.jpg",
+  Abraham: "/images/abraham.jpg",
 }
 
 export default function CharactersPage() {
