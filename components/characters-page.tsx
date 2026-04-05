@@ -145,6 +145,14 @@ const CHARACTER_IMAGES: Record<string, string> = {
   Manasseh: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/a3f48ed2-b50f-48bb-8a42-fd11753c706e.jpeg",
   Malachi: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/282bf37f-16ff-4ed7-9918-41b039b408f8.jpeg",
   Lydia: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/4a230309-3a43-420f-a047-f62e3fb2a8c5.jpeg",
+  Tychicus: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/0dc46924-612a-4dd7-aef2-bf467f157d86.jpeg",
+  Sosthenes: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/f6bddfc0-dc7a-4c8d-993b-7718de93543e.jpeg",
+  Timothy: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/8d496cf2-302d-452e-9be4-a7ddd560fd3b.jpeg",
+  Stephen: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/31e040a3-6b17-4554-8b14-07b098e42314.jpeg",
+  Silas: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/035e2ade-270e-4919-8d85-6bbb27683e34.jpeg",
+  Rebekah: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/78184124-225b-45c4-9cff-d420afe13f5f.jpeg",
+  Rachel: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/e940405f-1f5e-4bd1-a882-1a8ed06f246f.jpeg",
+  Oholiab: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/61efbdc0-1e64-478b-bd64-d9759a398318.jpeg",
 }
 
 export default function CharactersPage() {
