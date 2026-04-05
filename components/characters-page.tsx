@@ -153,6 +153,15 @@ const CHARACTER_IMAGES: Record<string, string> = {
   Rebekah: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/78184124-225b-45c4-9cff-d420afe13f5f.jpeg",
   Rachel: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/e940405f-1f5e-4bd1-a882-1a8ed06f246f.jpeg",
   Oholiab: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/61efbdc0-1e64-478b-bd64-d9759a398318.jpeg",
+  Peter: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/d4f1b8ac-eaa6-4b18-a1ee-5156d0c2f5c5.jpeg",
+  Zechariah: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/a30eb005-e333-4baa-94db-c4295581c239.jpeg",
+  Zephaniah: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/b5bfeabf-1735-47fe-ac78-9d08bf1c5812.jpeg",
+  Solomon: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/363d17df-c593-4667-bb38-1d788a3743f8.jpeg",
+  Saul: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/a7a018f2-0f59-454a-90f7-da38446edbd3.jpeg",
+  Samuel: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/21f96297-490c-4a37-a66f-4ed2b3cac093.jpeg",
+  Ruth: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/29cc5693-ed30-42da-bfec-b63232c9d67e.jpeg",
+  Samson: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/6fee5e84-6cf4-4edf-81bc-7bb2721131d7.jpeg",
+  Sarah: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ff172b10-d67b-4ef4-b832-88f8628dfff7.jpeg",
 }
 
 export default function CharactersPage() {
