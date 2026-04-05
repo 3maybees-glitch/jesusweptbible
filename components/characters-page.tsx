@@ -30,6 +30,10 @@ const CHARACTER_IMAGES: Record<string, string> = {
   Abimelech: "/images/abimelech.jpg",
   Abigail: "/images/abigail.jpg",
   Abraham: "/images/abraham.jpg",
+  Amos: "/images/amos.jpg",
+  "Alexander the Coppersmith": "/images/alexander-coppersmith.jpg",
+  Ahab: "/images/ahab.jpg",
+  Absalom: "/images/absalom.jpg",
 }
 
 export default function CharactersPage() {
