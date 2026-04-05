@@ -160,6 +160,15 @@ const CHARACTER_IMAGES: Record<string, string> = {
   Ruth: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/29cc5693-ed30-42da-bfec-b63232c9d67e.jpeg",
   Samson: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/6fee5e84-6cf4-4edf-81bc-7bb2721131d7.jpeg",
   Sarah: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ff172b10-d67b-4ef4-b832-88f8628dfff7.jpeg",
+  Adam: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/69221333-f3a5-4b76-8ef7-b00b375a60a4.jpeg",
+  Moses: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/26fc26b8-6b18-4b47-b011-694d4679f0fb.jpeg",
+  Thomas: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/1706fe1d-510d-4af1-a1ee-eeceb0a25aac.jpeg",
+  Thaddaeus: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/854f6ca2-df4c-4af1-8540-10d5fac9367a.jpeg",
+  "Simon the Zealot": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/8ebb759e-179d-47a5-baea-144532601012.jpeg",
+  Martha: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/2c078f63-7211-4165-ad29-1fbe89e64bc3.jpeg",
+  "Pontius Pilate": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/d828ad4f-7793-4314-b124-4e581f2fcd5b.jpeg",
+  "Philip the Evangelist": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/adddec6d-f0ca-4d6b-8a92-d8b8a56391cd.jpeg",
+  Titus: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/b9cc40e7-17bd-438f-95df-9425dddb8994.jpeg",
 }
 
 export default function CharactersPage() {
