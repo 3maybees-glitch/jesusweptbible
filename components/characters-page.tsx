@@ -177,6 +177,22 @@ const CHARACTER_IMAGES: Record<string, string> = {
   Lamech: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/b3dcce40-ad1d-472d-b09f-052629b4bf87.jpeg",
   "The Ethiopian Eunuch": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/d874d568-4edf-455c-9055-a944630c1500.jpeg",
   Priscilla: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/2ea9c945-fac8-4f05-9aef-5c180c2e6343.jpeg",
+  "Philip the Evangelist": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/philip_evangelist_apostle-28TXt7XbuClXpNgwNUUBtAhqAcpaEa.png",
+  Mark: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/mark_gospel_writer-ZB2iFjIGi63s0iEbflIZCXgwfsMDs7.png",
+  Silas: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/silas_missionary_companion-g9XCL6A5wXAM2vJiW91gWZ2rW5xzLy.png",
+  Abigail: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/abigail_wise_wife-iZVN0XWb72fX1SrdezVe79J2xgrmY1.png",
+  "Herod Antipas": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/herod_antipas_tetrarch_ruler-xIBsjPitJvBtIQI8IaPxrdKsxOzWDa.png",
+  Claudius: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/claudius_roman_emperor-39d54BaOJN7ugdcLZd26X6n5uPmHhF.png",
+  Rachel: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/rachel_beloved_wife-WsPuWqALLAM15BxEISe6xDA9yCH8GG.png",
+  Abednego: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/abednego_faithful_exile-tlyc8v0OHgGC7k6ZOPkGPYTYaauPxX.png",
+  Zechariah: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/zechariah_vision_prophet-cX7cK7pGEflUbMKiaDDr9Lg1FNBBiB.png",
+  Rebekah: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/rebekah_chosen_bride-431iR5EsBbMWDLzZTRXjsgSdjBK3xY.png",
+  Festus: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/festus_roman_governor-FR6GzbfDW6I2hHf8TJFYmeKI4Ir2JE.png",
+  Haman: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/haman_proud_enemy-NPFnwkGTsNzO5WuCEO1W7DKR3Ar9hT.png",
+  Samson: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/samson_nazirite_judge-vMVM3IAaXZNy2s5qc3kgD7V93JHipM.png",
+  Joshua: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/joshua_faithful_leader-9htl6DMPMrEofgkRXIdADAdGnbbVPN.png",
+  Micah: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/micah_justice_prophet-W8GILcdopjqlzOlUPHWVVZBZdHyznu.png",
+  Nahum: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/nahum_judgment_prophet-VvDymYf0QvffQy41oOXIP8tzJOcJ9K.png",
 }
 
 export default function CharactersPage() {
