@@ -51,7 +51,7 @@ export const bookBackgrounds: Record<string, string> = {
   // New Testament - Gospels
   "Matthew": "dark mountainous landscape, ancient roman palestine, sunset golden hour, dramatic stormy sky, moody atmospheric",
   "Mark": "dark dramatic seascape of galilee, storm clouds, rough waters, palestinian coast, deep shadows, cinematic",
-  "Luke": "dark lush mediterranean garden landscape, olive groves, ancient roman paths, warm amber light, mysterious mood",
+  "Luke": "peaceful sacred scene with soft glowing white dove representing the Holy Spirit, warm golden candlelight from prayer candles, gentle ethereal light rays streaming down, person kneeling in prayer silhouette, soft cream and warm amber tones, luminous and bright, uplifting spiritual mood",
   "John": "dark celestial night sky, stars and cosmos, deep universe, spiritual ethereal landscape, mystical atmosphere",
 
   // New Testament - History
