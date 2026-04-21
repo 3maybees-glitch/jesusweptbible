@@ -8,8 +8,11 @@ import { BooksMenu } from "@/components/books-menu"
 import { AboutPage } from "@/components/about-page"
 import { ChaptersListView } from "@/components/chapters-list-view"
 import { ThemeSheet } from "@/components/theme-sheet"
+import { UpgradeGate } from "@/components/upgrade-gate"
 import { getChapter, getBookByName, sampleChapters, fetchChapter, fetchAllChapters } from "@/lib/bible-data"
 import { bookThemes, type BookTheme } from "@/lib/book-themes"
+import { usePremium } from "@/hooks/use-premium"
+import { isBookUnlocked } from "@/lib/is-book-unlocked"
 
 export default function BibleApp() {
   const [currentBook, setCurrentBook] = useState<string | null>(null)
@@ -22,6 +25,9 @@ export default function BibleApp() {
   const [chapterData, setChapterData] = useState<any>(null)
   const [isLoadingChapter, setIsLoadingChapter] = useState(false)
   const [availableChapters, setAvailableChapters] = useState<string[]>([])
+  
+  // Premium state for freemium gating
+  const { isPremium, unlockPremium, isLoading: isPremiumLoading } = usePremium()
 
   // Load available chapters on mount
   useEffect(() => {
@@ -51,6 +57,9 @@ export default function BibleApp() {
   const chapter = chapterData
   const book = currentBook ? getBookByName(currentBook) : null
   const bookTheme = currentBook ? bookThemes.find(t => t.book === currentBook) ?? null : null
+  
+  // Check if current book is unlocked
+  const currentBookUnlocked = currentBook ? isBookUnlocked(currentBook, isPremium) : true
 
   const handleSelectBook = useCallback((bookName: string, chapterNum?: number) => {
     setCurrentBook(bookName)
@@ -100,11 +109,30 @@ export default function BibleApp() {
     if (showAbout) {
       return <AboutPage onBack={() => setShowAbout(false)} />
     }
-    return <BooksMenu onSelectBook={handleSelectBook} onAbout={() => setShowAbout(true)} currentBook={currentBook} />
+    return (
+      <BooksMenu 
+        onSelectBook={handleSelectBook} 
+        onAbout={() => setShowAbout(true)} 
+        currentBook={currentBook}
+        isPremium={isPremium}
+        onUnlockPremium={unlockPremium}
+      />
+    )
   }
 
   // Show chapters list when a book is selected but no specific chapter chosen
   if (showChaptersList) {
+    // Show upgrade gate if book is locked
+    if (!currentBookUnlocked) {
+      return (
+        <UpgradeGate
+          bookName={currentBook!}
+          onUnlock={unlockPremium}
+          onBack={handleBackToMenu}
+        />
+      )
+    }
+    
     return (
       <>
         <ChaptersListView
