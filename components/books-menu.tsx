@@ -1,16 +1,19 @@
 "use client"
 
 import { useState } from "react"
-import { Book, Info } from "lucide-react"
+import { Book, Info, Lock } from "lucide-react"
 import { bibleBooks, type Book as BookType } from "@/lib/bible-data"
 import { ThemeSheet } from "@/components/theme-sheet"
 import { DevotionalPage } from "@/components/devotional-page"
 import { BookTheme } from "@/lib/book-themes"
+import { isBookUnlocked, isFreeBook } from "@/lib/is-book-unlocked"
 
 interface BooksMenuProps {
   onSelectBook: (bookName: string) => void
   onAbout: () => void
   currentBook: string | null
+  isPremium: boolean
+  onUnlockPremium: () => void
 }
 
 // Bible-Wide Two-Word Theme
@@ -79,7 +82,7 @@ const ntTheme: BookTheme = {
   ],
 }
 
-export function BooksMenu({ onSelectBook, onAbout, currentBook }: BooksMenuProps) {
+export function BooksMenu({ onSelectBook, onAbout, currentBook, isPremium, onUnlockPremium }: BooksMenuProps) {
   const [showThemeSheet, setShowThemeSheet] = useState(false)
   const [showDevotional, setShowDevotional] = useState(false)
   const [testament, setTestament] = useState<"OT" | "NT">("OT")
@@ -288,6 +291,7 @@ export function BooksMenu({ onSelectBook, onAbout, currentBook }: BooksMenuProps
                     book={book}
                     isActive={currentBook === book.name}
                     onSelect={() => onSelectBook(book.name)}
+                    isPremium={isPremium}
                   />
                 ))}
               </div>
@@ -338,27 +342,42 @@ function BookButton({
   book,
   isActive,
   onSelect,
+  isPremium,
 }: {
   book: BookType
   isActive: boolean
   onSelect: () => void
+  isPremium: boolean
 }) {
+  const unlocked = isBookUnlocked(book.name, isPremium)
+  const isFree = isFreeBook(book.name)
+  
   return (
     <button
       onClick={onSelect}
-      className={`w-full flex items-center gap-3 px-4 py-3.5 rounded-lg text-left transition-colors min-h-[48px] ${
+      className={`w-full flex items-center gap-3 px-4 py-3.5 rounded-lg text-left transition-colors min-h-[48px] relative ${
         isActive
           ? "bg-accent text-accent-foreground"
-          : "bg-card hover:bg-secondary text-card-foreground border border-border"
+          : unlocked 
+            ? "bg-card hover:bg-secondary text-card-foreground border border-border"
+            : "bg-card/60 hover:bg-secondary/60 text-card-foreground/70 border border-border/50"
       }`}
     >
-      <Book className="w-4 h-4 opacity-50 flex-shrink-0" aria-hidden="true" />
+      <Book className={`w-4 h-4 flex-shrink-0 ${unlocked ? "opacity-50" : "opacity-30"}`} aria-hidden="true" />
       <div className="flex-1 min-w-0">
-        <span className="font-serif text-base font-medium">{book.name}</span>
+        <span className={`font-serif text-base font-medium ${!unlocked ? "opacity-70" : ""}`}>{book.name}</span>
+        {isFree && (
+          <span className="ml-2 text-xs text-primary/80 font-medium">FREE</span>
+        )}
       </div>
-      <span className={`text-xs tabular-nums ${isActive ? "text-accent-foreground/70" : "text-muted-foreground"}`}>
-        {book.chapters} {book.chapters === 1 ? "ch" : "chs"}
-      </span>
+      <div className="flex items-center gap-2">
+        {!unlocked && (
+          <Lock className="w-4 h-4 text-muted-foreground/60" aria-label="Locked" />
+        )}
+        <span className={`text-xs tabular-nums ${isActive ? "text-accent-foreground/70" : "text-muted-foreground"}`}>
+          {book.chapters} {book.chapters === 1 ? "ch" : "chs"}
+        </span>
+      </div>
     </button>
   )
 }
