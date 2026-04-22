@@ -27,7 +27,14 @@ export default function BibleApp() {
   const [availableChapters, setAvailableChapters] = useState<string[]>([])
   
   // Premium state for freemium gating
-  const { isPremium, unlockPremium, isLoading: isPremiumLoading } = usePremium()
+  const { 
+    isPremium, 
+    unlockPremium, 
+    restorePurchases,
+    isPurchasing,
+    isLoading: isPremiumLoading,
+    error: premiumError 
+  } = usePremium()
 
   // Load available chapters on mount
   useEffect(() => {
@@ -128,7 +135,11 @@ export default function BibleApp() {
         <UpgradeGate
           bookName={currentBook!}
           onUnlock={unlockPremium}
+          onRestore={restorePurchases}
           onBack={handleBackToMenu}
+          isPurchasing={isPurchasing}
+          isRestoring={isPremiumLoading}
+          error={premiumError}
         />
       )
     }

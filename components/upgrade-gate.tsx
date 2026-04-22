@@ -1,15 +1,29 @@
 "use client"
 
-import { Lock, BookOpen, Sparkles } from "lucide-react"
+import { Lock, BookOpen, Sparkles, Loader2, RotateCcw } from "lucide-react"
 import { Button } from "@/components/ui/button"
 
 interface UpgradeGateProps {
   bookName: string
   onUnlock: () => void
+  onRestore?: () => void
   onBack?: () => void
+  isPurchasing?: boolean
+  isRestoring?: boolean
+  error?: string | null
 }
 
-export function UpgradeGate({ bookName, onUnlock, onBack }: UpgradeGateProps) {
+export function UpgradeGate({ 
+  bookName, 
+  onUnlock, 
+  onRestore,
+  onBack, 
+  isPurchasing = false,
+  isRestoring = false,
+  error 
+}: UpgradeGateProps) {
+  const isLoading = isPurchasing || isRestoring
+
   return (
     <div className="min-h-screen relative flex flex-col">
       {/* Background overlay */}
@@ -61,14 +75,51 @@ export function UpgradeGate({ bookName, onUnlock, onBack }: UpgradeGateProps) {
             </div>
           </div>
 
+          {/* Error Message */}
+          {error && (
+            <div className="bg-destructive/10 border border-destructive/20 rounded-lg p-3">
+              <p className="text-sm text-destructive">{error}</p>
+            </div>
+          )}
+
           {/* Unlock Button */}
           <Button 
             onClick={onUnlock} 
             className="w-full py-6 text-lg font-semibold"
             size="lg"
+            disabled={isLoading}
           >
-            Unlock Full Bible - $1.99
+            {isPurchasing ? (
+              <>
+                <Loader2 className="w-5 h-5 mr-2 animate-spin" />
+                Processing...
+              </>
+            ) : (
+              "Unlock Full Bible - $1.99"
+            )}
           </Button>
+
+          {/* Restore Purchases Button */}
+          {onRestore && (
+            <Button
+              onClick={onRestore}
+              variant="outline"
+              className="w-full"
+              disabled={isLoading}
+            >
+              {isRestoring ? (
+                <>
+                  <Loader2 className="w-4 h-4 mr-2 animate-spin" />
+                  Restoring...
+                </>
+              ) : (
+                <>
+                  <RotateCcw className="w-4 h-4 mr-2" />
+                  Restore Purchases
+                </>
+              )}
+            </Button>
+          )}
 
           {/* Free Books Reminder */}
           <p className="text-xs text-muted-foreground">
@@ -80,6 +131,7 @@ export function UpgradeGate({ bookName, onUnlock, onBack }: UpgradeGateProps) {
             <button
               onClick={onBack}
               className="text-sm text-accent hover:text-accent/80 transition-colors"
+              disabled={isLoading}
             >
               Back to Books
             </button>
