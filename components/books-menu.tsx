@@ -366,9 +366,6 @@ function BookButton({
       <Book className={`w-4 h-4 flex-shrink-0 ${unlocked ? "opacity-50" : "opacity-30"}`} aria-hidden="true" />
       <div className="flex-1 min-w-0">
         <span className={`font-serif text-base font-medium ${!unlocked ? "opacity-70" : ""}`}>{book.name}</span>
-        {isFree && (
-          <span className="ml-2 text-xs text-primary/80 font-medium">FREE</span>
-        )}
       </div>
       <div className="flex items-center gap-2">
         {!unlocked && (
