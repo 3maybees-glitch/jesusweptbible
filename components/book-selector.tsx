@@ -199,7 +199,6 @@ export function BookSelector({ isOpen, onClose, onSelectChapter, currentBook, cu
                       <Book className={`w-4 h-4 flex-shrink-0 ${unlocked ? "opacity-60" : "opacity-30"}`} />
                       <span className={`text-sm font-medium truncate ${!unlocked ? "opacity-70" : ""}`}>
                         {book.name}
-                        {isFree && <span className="ml-1 text-xs text-primary/80">FREE</span>}
                       </span>
                       {!unlocked && (
                         <Lock className="w-3 h-3 text-muted-foreground/60 absolute top-2 right-2" />
