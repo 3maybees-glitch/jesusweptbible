@@ -1,6 +1,7 @@
 export interface ThemeWord {
   word: string
   strongNumber: string
+  language?: string
   lemma: string
   meaning: string
 }

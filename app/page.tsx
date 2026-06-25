@@ -9,7 +9,7 @@ import { AboutPage } from "@/components/about-page"
 import { ChaptersListView } from "@/components/chapters-list-view"
 import { ThemeSheet } from "@/components/theme-sheet"
 import { UpgradeGate } from "@/components/upgrade-gate"
-import { getChapter, getBookByName, sampleChapters, fetchChapter, fetchAllChapters } from "@/lib/bible-data"
+import { getBookByName, fetchChapter, type Chapter } from "@/lib/bible-data"
 import { bookThemes, type BookTheme } from "@/lib/book-themes"
 import { usePremium } from "@/hooks/use-premium"
 import { isBookUnlocked } from "@/lib/is-book-unlocked"
@@ -22,9 +22,8 @@ export default function BibleApp() {
   const [showChaptersList, setShowChaptersList] = useState(false)
   const [selectedTheme, setSelectedTheme] = useState<BookTheme | null>(null)
   const [showThemeSheet, setShowThemeSheet] = useState(false)
-  const [chapterData, setChapterData] = useState<any>(null)
+  const [chapterData, setChapterData] = useState<Chapter | null>(null)
   const [isLoadingChapter, setIsLoadingChapter] = useState(false)
-  const [availableChapters, setAvailableChapters] = useState<string[]>([])
   
   // Premium state for freemium gating
   const { 
@@ -35,14 +34,6 @@ export default function BibleApp() {
     isLoading: isPremiumLoading,
     error: premiumError 
   } = usePremium()
-
-  // Load available chapters on mount
-  useEffect(() => {
-    const loadChapters = async () => {
-      await fetchAllChapters()
-    }
-    loadChapters()
-  }, [])
 
   // Load chapter when book or chapter number changes
   useEffect(() => {
@@ -188,25 +179,6 @@ export default function BibleApp() {
                 Back to Books
               </button>
               <p className="text-muted-foreground mb-4">{isLoadingChapter ? 'Loading chapter...' : 'This chapter is currently being built and is not yet available.'}</p>
-              <p className="text-sm text-muted-foreground mb-6">Available chapters:</p>
-              <div className="flex flex-wrap gap-2 justify-center">
-                {availableChapters.length > 0 ? (
-                  availableChapters.map((chapterName) => {
-                    const [bookName, chap] = chapterName.split("-")
-                    return (
-                      <button
-                        key={chapterName}
-                        onClick={() => handleSelectChapter(bookName, Number.parseInt(chap))}
-                        className="px-3 py-2 bg-secondary hover:bg-accent hover:text-accent-foreground rounded-lg text-sm font-medium transition-colors"
-                      >
-                        {bookName} {chap}
-                      </button>
-                    )
-                  })
-                ) : (
-                  <p className="text-muted-foreground">No chapters available yet. Please upload JSON files to /public/data/bible-chapters/</p>
-                )}
-              </div>
             </div>
           </main>
 

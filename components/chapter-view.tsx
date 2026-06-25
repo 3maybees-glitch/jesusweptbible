@@ -2,7 +2,7 @@
 
 import { useState } from "react"
 import { ChevronLeft, ChevronRight } from "lucide-react"
-import type { Chapter, HighlightedWord } from "@/lib/bible-data"
+import type { Chapter, HighlightedWord, Verse } from "@/lib/bible-data"
 import type { VerseArtPainting } from "@/lib/verse-art"
 import { getBackgroundUrl } from "@/lib/book-backgrounds"
 import { useReadingSettings } from "@/lib/reading-settings-context"
@@ -81,22 +81,22 @@ export function ChapterView({ chapter, onBackToMenu, onBackToChapters }: Chapter
   }
 
   // Flatten verses from sections if they exist (for structured chapters like Psalms 119)
-  const verses = (chapter as any).sections
-    ? (chapter as any).sections.flatMap((section: any) => section.verses)
-    : (chapter.verses || [])
+  const verses: Verse[] = chapter.sections
+    ? chapter.sections.flatMap((section) => section.verses)
+    : (chapter.verses ?? [])
 
-  // Get two-word summary if available
-  const chapterTheme = (chapter as any).chapterTheme
-  const twoWordSummary = chapterTheme?.twoWordSummary || (chapter as any).twoWordSummary
-  const themeWords = chapterTheme?.themeWords || (chapter as any).themeWords
-  const themeSummary = (chapter as any).themeSummary
-  const sentenceTheme = (chapter as any).sentenceTheme
-  const sentenceDescription = (chapter as any).sentenceDescription
+  const chapterTheme = chapter.chapterTheme
+  const twoWordSummary = chapterTheme?.twoWordSummary ?? chapter.twoWordSummary
+  const themeWords = chapterTheme?.themeWords ?? chapter.themeWords
+  const themeSummary = chapter.themeSummary
+  const sentenceTheme = chapter.sentenceTheme
+  const sentenceDescription = chapter.sentenceDescription
   
   // Extract theme words from Acts 2 structure if needed
-  const extractedThemeWords = twoWordSummary && typeof twoWordSummary === 'object' && 'wordOne' in twoWordSummary
-    ? [twoWordSummary.wordOne, twoWordSummary.wordTwo]
-    : themeWords || []
+  const extractedThemeWords: HighlightedWord[] =
+    twoWordSummary && typeof twoWordSummary === "object" && "wordOne" in twoWordSummary
+      ? [twoWordSummary.wordOne, twoWordSummary.wordTwo].filter((word): word is HighlightedWord => Boolean(word))
+      : (themeWords ?? [])
 
   // Determine if this chapter should have a background image
   const backgroundUrl = getBackgroundUrl(chapter.book)
@@ -156,7 +156,7 @@ export function ChapterView({ chapter, onBackToMenu, onBackToChapters }: Chapter
           {/* Theme Words in styled boxes */}
           {extractedThemeWords.length > 0 && (
             <div className="flex justify-center items-center gap-3 flex-wrap">
-              {extractedThemeWords.map((themeWord: any, index: number) => (
+              {extractedThemeWords.map((themeWord, index) => (
                 <div key={index} className="flex items-center">
                   <button
                     onClick={() => handleWordTap(themeWord)}

@@ -1,14 +1,42 @@
+export interface HighlightedWord {
+  word: string
+  definition?: string
+  strongNumber?: string
+  language?: string
+  lemma?: string
+  meaning?: string
+}
+
 export interface Verse {
-  verse: number
+  verse?: number
+  verseNumber?: number
   text: string
   book?: string
   chapter?: number
+  highlightedWords?: HighlightedWord[]
+}
+
+export interface ChapterSection {
+  title?: string
+  verses: Verse[]
+}
+
+export interface ChapterTheme {
+  twoWordSummary?: string | { wordOne?: HighlightedWord; wordTwo?: HighlightedWord }
+  themeWords?: HighlightedWord[]
 }
 
 export interface Chapter {
   book: string
   chapter: number
-  verses: Verse[]
+  verses?: Verse[]
+  sections?: ChapterSection[]
+  chapterTheme?: ChapterTheme
+  twoWordSummary?: string | { wordOne?: HighlightedWord; wordTwo?: HighlightedWord }
+  themeWords?: HighlightedWord[]
+  themeSummary?: string
+  sentenceTheme?: string
+  sentenceDescription?: string
 }
 
 export interface Book {
@@ -17,15 +45,6 @@ export interface Book {
   testament: 'OT' | 'NT'
   chapters: number
 }
-
-export interface HighlightedWord {
-  word: string
-  definition?: string
-}
-
-// Sample chapters object - populated from /public/data/bible-chapters/ JSON files
-// When you upload JSON files, they will be automatically loaded at runtime
-export const sampleChapters: Record<string, Chapter> = {}
 
 export const bibleBooks: Book[] = [
   { name: 'Genesis', abbreviation: 'Gen', testament: 'OT', chapters: 50 },
@@ -105,46 +124,15 @@ export async function fetchChapter(book: string, chapter: number): Promise<Chapt
     // Convert to lowercase and replace spaces with hyphens for filename
     const fileName = book.toLowerCase().replace(/\s+/g, '-')
     const url = `/data/bible-chapters/${fileName}-${chapter}.json`
-    
-    console.log("[v0] Fetching:", url)
     const response = await fetch(url)
-    
+
     if (!response.ok) {
-      console.log("[v0] File not found:", url)
       return null
     }
-    
-    const data = await response.json() as Chapter
-    console.log("[v0] Loaded:", fileName, "Chapter", chapter, "with", data.verses?.length, "verses")
-    return data
-  } catch (error) {
-    console.error("[v0] Error fetching chapter:", error)
+
+    return await response.json() as Chapter
+  } catch {
     return null
-  }
-}
-
-/**
- * Get all available chapters
- */
-export async function fetchAllChapters(): Promise<string[]> {
-  return []
-}
-
-export function getChapter(book: string, chapter: number): Chapter | null {
-  const normalizedBook = book.replace(/\s+/g, '')
-  const key = `${normalizedBook}-${chapter}`
-  const chapterData = sampleChapters[key]
-  
-  if (!chapterData) return null
-  
-  // Add book and chapter fields to each verse if they're missing
-  return {
-    ...chapterData,
-    verses: chapterData.verses.map((verse) => ({
-      ...verse,
-      book: verse.book || chapterData.book,
-      chapter: verse.chapter !== undefined ? verse.chapter : chapterData.chapter,
-    }))
   }
 }
 
