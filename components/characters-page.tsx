@@ -134,11 +134,6 @@ const CHARACTER_IMAGES: Record<string, string> = {
   Judah: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/1ca8f1b3-3dfb-4c0f-ae27-46e0c525397e.jpeg",
   Josiah: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/42a407ae-dd66-4600-9b5f-8b121dcc1186.jpeg",
   Joshua: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/d7c7b1ff-f405-4db7-8bde-fca4ce7208d9.jpeg",
-  Micah: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/e12be860-9508-4998-b41b-b70cce22dcbc.jpeg",
-  Meshach: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/c9193f5a-0c6d-4d75-bf57-a91e2ef7d240.jpeg",
-  Matthew: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/04fdd191-96c5-42a8-bde1-84efd9466a30.jpeg",
-  Mary: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/68b1abfe-d533-4dfb-972d-b6bef367d732.jpeg",
-  "Mary Magdalene": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/395c2238-2190-44d5-bf2c-d135082afc8c.jpeg",
   Mark: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/6ce54238-8415-47ec-8012-f509e02dcaec.jpeg",
   Manasseh: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/a3f48ed2-b50f-48bb-8a42-fd11753c706e.jpeg",
   Malachi: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/282bf37f-16ff-4ed7-9918-41b039b408f8.jpeg",
@@ -193,12 +188,10 @@ export default function CharactersPage() {
         if (response.ok) {
           const data = await response.json()
           setCharacters(data.bibleCharacters || [])
-          console.log("[v0] Loaded", data.bibleCharacters?.length, "characters from JSON")
         } else {
           setCharacters([])
         }
-      } catch (err) {
-        console.log("[v0] Error loading characters:", err)
+      } catch {
         setCharacters([])
       } finally {
         setLoading(false)

@@ -32,58 +32,50 @@ function ChristianCross({ className }: { className?: string }) {
 }
 
 export function VerseDisplay({ verse, book, chapter, onWordTap, onArtClick, isDyslexiaMode = false }: VerseDisplayProps) {
-  console.log("[v0] VerseDisplay rendering for verse:", book, chapter, verse.verse || verse.verseNumber)
+  const verseNumber = verse.verse ?? verse.verseNumber ?? 0
   const [isRead, setIsRead] = useState(false)
   const [artPainting, setArtPainting] = useState<VerseArtPainting | null>(null)
   const [isLoadingArt, setIsLoadingArt] = useState(true)
 
   // Load read status from localStorage on mount
   useEffect(() => {
-    const verseKey = `verse-read-${book}-${chapter}-${verse.verse || verse.verseNumber}`
+    const verseKey = `verse-read-${book}-${chapter}-${verseNumber}`
     const saved = localStorage.getItem(verseKey)
     setIsRead(saved === 'true')
-  }, [verse, book, chapter])
+  }, [verse, book, chapter, verseNumber])
 
   // Load art for this verse on mount
   useEffect(() => {
     const loadArt = async () => {
       try {
-        const verseNum = verse.verse || verse.verseNumber
-        console.log("[v0] ==================== LOADING ART ====================")
-        console.log("[v0] Book:", book, "Chapter:", chapter, "VerseNum:", verseNum)
-        const art = await getVerseArt(book, chapter, verseNum)
-        console.log("[v0] Art Result:", art)
+        const art = await getVerseArt(book, chapter, verseNumber)
         setArtPainting(art)
-      } catch (error) {
-        console.error("[v0] ERROR in loadArt:", error)
+      } catch {
+        setArtPainting(null)
       } finally {
         setIsLoadingArt(false)
       }
     }
 
     loadArt()
-  }, [verse, book, chapter])
+  }, [verse, book, chapter, verseNumber])
 
   const handleMarkRead = () => {
-    const verseKey = `verse-read-${book}-${chapter}-${verse.verse || verse.verseNumber}`
+    const verseKey = `verse-read-${book}-${chapter}-${verseNumber}`
     const newState = !isRead
     setIsRead(newState)
     localStorage.setItem(verseKey, String(newState))
   }
 
   const handleArtClick = () => {
-    console.log("[v0] Art cross clicked, painting:", artPainting)
     if (artPainting && onArtClick) {
-      console.log("[v0] Calling onArtClick with painting:", artPainting.title)
       onArtClick(artPainting)
-    } else {
-      console.log("[v0] Art click blocked - no art or no callback")
     }
   }
 
   const renderedText = useMemo(() => {
     const text = verse.text
-    const highlightedWords = verse.highlightedWords
+    const highlightedWords = verse.highlightedWords ?? []
 
     // Create a map of lowercase word to highlighted word data
     const wordMap = new Map<string, HighlightedWord>()
@@ -121,7 +113,7 @@ export function VerseDisplay({ verse, book, chapter, onWordTap, onArtClick, isDy
     <div className="py-4 border-b border-border/50 last:border-b-0">
       <div className="flex items-center gap-2 mb-2 flex-wrap">
         <div className="flex items-center gap-1">
-          {verse.highlightedWords.map((hw, i) => (
+          {(verse.highlightedWords ?? []).map((hw, i) => (
             <span key={i} className="flex items-center">
               <button
                 onClick={() => onWordTap(hw)}
@@ -133,7 +125,7 @@ export function VerseDisplay({ verse, book, chapter, onWordTap, onArtClick, isDy
               >
                 {hw.word}
               </button>
-              {i < verse.highlightedWords.length - 1 && <span className="text-muted-foreground mx-1">·</span>}
+              {i < (verse.highlightedWords?.length ?? 0) - 1 && <span className="text-muted-foreground mx-1">·</span>}
             </span>
           ))}
         </div>
@@ -145,7 +137,7 @@ export function VerseDisplay({ verse, book, chapter, onWordTap, onArtClick, isDy
           className={`text-xl leading-relaxed flex-1 ${isDyslexiaMode ? "" : "font-serif text-white"}`}
           style={isDyslexiaMode ? { fontFamily: "var(--font-lexend), 'Lexend', Arial, sans-serif" } : {}}
         >
-          <span className="text-base font-sans mr-2 select-none opacity-75">{verse.verse || verse.verseNumber}</span>
+          <span className="text-base font-sans mr-2 select-none opacity-75">{verseNumber}</span>
           {renderedText.map((part, index) =>
             part.isHighlighted ? (
               <strong key={index} className={`font-bold ${isDyslexiaMode ? "text-red-800" : "text-yellow-200"}`}>

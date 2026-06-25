@@ -12,7 +12,7 @@ const getUserId = () => {
   const stored = localStorage.getItem("despia_user_id")
   if (stored) return stored
   
-  const userId = `user_${Math.random().toString(36).substr(2, 9)}`
+  const userId = `user_${Math.random().toString(36).slice(2, 11)}`
   localStorage.setItem("despia_user_id", userId)
   return userId
 }
@@ -53,7 +53,7 @@ export function usePremium() {
 
     if (isNativeApp()) {
       try {
-        const userId = getUserId()
+        const userId = getUserId();
         // Trigger purchase through Despia's URL scheme
         (window as any).despia = `revenuecat://purchase?external_id=${userId}&product=${PRODUCT_ID}`
         
