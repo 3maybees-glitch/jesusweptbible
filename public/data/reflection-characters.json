@@ -1,0 +1,904 @@
+{
+  "characters": [
+    {
+      "name": "Adam",
+      "twoWordTheme": "First Man",
+      "referenceRange": "Genesis 1–5",
+      "meaning": "man, mankind; the first human created by God."
+    },
+    {
+      "name": "Eve",
+      "twoWordTheme": "Living Mother",
+      "referenceRange": "Genesis 2–4",
+      "meaning": "life-giver; the mother of all living."
+    },
+    {
+      "name": "Noah",
+      "twoWordTheme": "Ark Builder",
+      "referenceRange": "Genesis 5–10",
+      "meaning": "rest or comfort; righteous man preserved through the flood."
+    },
+    {
+      "name": "Abraham",
+      "twoWordTheme": "Covenant Father",
+      "referenceRange": "Genesis 11–25",
+      "meaning": "father of a multitude; patriarch of the covenant people."
+    },
+    {
+      "name": "Sarah",
+      "twoWordTheme": "Promised Mother",
+      "referenceRange": "Genesis 11–23",
+      "meaning": "princess; wife of Abraham and mother of Isaac."
+    },
+    {
+      "name": "Isaac",
+      "twoWordTheme": "Promised Son",
+      "referenceRange": "Genesis 21–35",
+      "meaning": "he laughs; son of Abraham through whom the covenant continues."
+    },
+    {
+      "name": "Jacob",
+      "twoWordTheme": "Israel Father",
+      "referenceRange": "Genesis 25–49",
+      "meaning": "heel holder; later named Israel, father of the twelve tribes."
+    },
+    {
+      "name": "Moses",
+      "twoWordTheme": "Law Giver",
+      "referenceRange": "Exodus–Deuteronomy",
+      "meaning": "drawn out; prophet who delivered Israel and gave the law."
+    },
+    {
+      "name": "Aaron",
+      "twoWordTheme": "High Priest",
+      "referenceRange": "Exodus–Numbers",
+      "meaning": "exalted one; brother of Moses and first high priest of Israel."
+    },
+    {
+      "name": "Joshua",
+      "twoWordTheme": "Faithful Leader",
+      "referenceRange": "Exodus–Joshua",
+      "meaning": "Yahweh is salvation; successor of Moses who led Israel into Canaan."
+    },
+    {
+      "name": "Deborah",
+      "twoWordTheme": "Prophet Judge",
+      "referenceRange": "Judges 4–5",
+      "meaning": "bee; prophetess and judge who led Israel to victory."
+    },
+    {
+      "name": "Gideon",
+      "twoWordTheme": "Reluctant Deliverer",
+      "referenceRange": "Judges 6–8",
+      "meaning": "hewer; judge who defeated Midian with a small army."
+    },
+    {
+      "name": "Samson",
+      "twoWordTheme": "Nazirite Judge",
+      "referenceRange": "Judges 13–16",
+      "meaning": "sun-like; judge known for supernatural strength."
+    },
+    {
+      "name": "Ruth",
+      "twoWordTheme": "Faithful Foremother",
+      "referenceRange": "Ruth 1–4",
+      "meaning": "friend; Moabite woman who became ancestor of David."
+    },
+    {
+      "name": "Samuel",
+      "twoWordTheme": "Prophet Judge",
+      "referenceRange": "1 Samuel 1–25",
+      "meaning": "heard of God; prophet who anointed Israel's first kings."
+    },
+    {
+      "name": "Saul",
+      "twoWordTheme": "First King",
+      "referenceRange": "1 Samuel 9–31",
+      "meaning": "asked for; the first king of Israel."
+    },
+    {
+      "name": "David",
+      "twoWordTheme": "Shepherd King",
+      "referenceRange": "1 Samuel 16 – 1 Kings 2",
+      "meaning": "beloved; king of Israel and ancestor of Messiah."
+    },
+    {
+      "name": "Solomon",
+      "twoWordTheme": "Wise King",
+      "referenceRange": "1 Kings 1–11",
+      "meaning": "peaceful; king known for wisdom who built the temple."
+    },
+    {
+      "name": "Elijah",
+      "twoWordTheme": "Fire Prophet",
+      "referenceRange": "1 Kings 17 – 2 Kings 2",
+      "meaning": "my God is Yahweh; prophet who opposed Baal worship."
+    },
+    {
+      "name": "Elisha",
+      "twoWordTheme": "Miracle Prophet",
+      "referenceRange": "1 Kings 19 – 2 Kings 13",
+      "meaning": "God is salvation; successor to Elijah performing many miracles."
+    },
+    {
+      "name": "Isaiah",
+      "twoWordTheme": "Messianic Prophet",
+      "referenceRange": "Isaiah 1–66",
+      "meaning": "Yahweh saves; prophet who foretold the coming Messiah."
+    },
+    {
+      "name": "Jeremiah",
+      "twoWordTheme": "Weeping Prophet",
+      "referenceRange": "Jeremiah 1–52",
+      "meaning": "Yahweh will raise up; prophet who warned Judah before exile."
+    },
+    {
+      "name": "Ezekiel",
+      "twoWordTheme": "Vision Prophet",
+      "referenceRange": "Ezekiel 1–48",
+      "meaning": "God strengthens; prophet of visions during exile."
+    },
+    {
+      "name": "Daniel",
+      "twoWordTheme": "Exile Prophet",
+      "referenceRange": "Daniel 1–12",
+      "meaning": "God is my judge; prophet known for visions and faith in Babylon."
+    },
+    {
+      "name": "Hosea",
+      "twoWordTheme": "Faithful Prophet",
+      "referenceRange": "Hosea 1–14",
+      "meaning": "salvation; prophet whose life illustrated God's faithful love for Israel."
+    },
+    {
+      "name": "Joel",
+      "twoWordTheme": "Spirit Prophet",
+      "referenceRange": "Joel 1–3",
+      "meaning": "Yahweh is God; prophet who foretold the outpouring of the Spirit."
+    },
+    {
+      "name": "Amos",
+      "twoWordTheme": "Justice Prophet",
+      "referenceRange": "Amos 1–9",
+      "meaning": "burden bearer; prophet who proclaimed God's justice."
+    },
+    {
+      "name": "Obadiah",
+      "twoWordTheme": "Judgment Prophet",
+      "referenceRange": "Obadiah 1",
+      "meaning": "servant of Yahweh; prophet declaring judgment on Edom."
+    },
+    {
+      "name": "Jonah",
+      "twoWordTheme": "Reluctant Prophet",
+      "referenceRange": "Jonah 1–4",
+      "meaning": "dove; prophet sent to preach repentance to Nineveh."
+    },
+    {
+      "name": "Micah",
+      "twoWordTheme": "Justice Prophet",
+      "referenceRange": "Micah 1–7",
+      "meaning": "who is like Yahweh; prophet proclaiming justice and mercy."
+    },
+    {
+      "name": "Nahum",
+      "twoWordTheme": "Judgment Prophet",
+      "referenceRange": "Nahum 1–3",
+      "meaning": "comfort; prophet declaring Nineveh's destruction."
+    },
+    {
+      "name": "Habakkuk",
+      "twoWordTheme": "Faith Prophet",
+      "referenceRange": "Habakkuk 1–3",
+      "meaning": "embrace; prophet who wrestled with God's justice."
+    },
+    {
+      "name": "Zephaniah",
+      "twoWordTheme": "Warning Prophet",
+      "referenceRange": "Zephaniah 1–3",
+      "meaning": "Yahweh hides; prophet warning of coming judgment."
+    },
+    {
+      "name": "Haggai",
+      "twoWordTheme": "Temple Prophet",
+      "referenceRange": "Haggai 1–2",
+      "meaning": "festive; prophet urging the rebuilding of the temple."
+    },
+    {
+      "name": "Zechariah",
+      "twoWordTheme": "Vision Prophet",
+      "referenceRange": "Zechariah 1–14",
+      "meaning": "Yahweh remembers; prophet of visions and future restoration."
+    },
+    {
+      "name": "Malachi",
+      "twoWordTheme": "Messenger Prophet",
+      "referenceRange": "Malachi 1–4",
+      "meaning": "my messenger; prophet announcing the coming messenger of the Lord."
+    },
+    {
+      "name": "Mary",
+      "twoWordTheme": "Messiah Mother",
+      "referenceRange": "Matthew 1 – Acts 1",
+      "meaning": "Mary; the woman chosen to bear Jesus the Messiah."
+    },
+    {
+      "name": "Joseph of Nazareth",
+      "twoWordTheme": "Righteous Guardian",
+      "referenceRange": "Matthew 1–2",
+      "meaning": "Joseph; earthly guardian of Jesus and husband of Mary."
+    },
+    {
+      "name": "John the Baptist",
+      "twoWordTheme": "Forerunner Prophet",
+      "referenceRange": "Matthew 3 – John 5",
+      "meaning": "John; prophet preparing the way for the Messiah."
+    },
+    {
+      "name": "Jesus",
+      "twoWordTheme": "Messiah Savior",
+      "referenceRange": "Matthew – Revelation",
+      "meaning": "Yahweh saves; the Son of God and Savior of the world."
+    },
+    {
+      "name": "Peter",
+      "twoWordTheme": "Apostle Leader",
+      "referenceRange": "Matthew – Acts",
+      "meaning": "rock; leading apostle among the disciples."
+    },
+    {
+      "name": "Andrew",
+      "twoWordTheme": "Calling Apostle",
+      "referenceRange": "Matthew – Acts",
+      "meaning": "manly; disciple who first followed Jesus and brought others."
+    },
+    {
+      "name": "James son of Zebedee",
+      "twoWordTheme": "Martyr Apostle",
+      "referenceRange": "Matthew – Acts 12",
+      "meaning": "James; one of the twelve apostles and early martyr."
+    },
+    {
+      "name": "John",
+      "twoWordTheme": "Beloved Apostle",
+      "referenceRange": "Matthew – Revelation",
+      "meaning": "John; apostle and author of the Gospel and Revelation."
+    },
+    {
+      "name": "Philip",
+      "twoWordTheme": "Evangelist Apostle",
+      "referenceRange": "John – Acts",
+      "meaning": "lover of horses; apostle and later evangelist."
+    },
+    {
+      "name": "Bartholomew",
+      "twoWordTheme": "Faithful Apostle",
+      "referenceRange": "Matthew – Acts",
+      "meaning": "son of Tolmai; one of the twelve apostles."
+    },
+    {
+      "name": "Matthew",
+      "twoWordTheme": "Gospel Writer",
+      "referenceRange": "Matthew – Acts",
+      "meaning": "gift of God; tax collector turned apostle and gospel writer."
+    },
+    {
+      "name": "Thomas",
+      "twoWordTheme": "Doubting Apostle",
+      "referenceRange": "John – Acts",
+      "meaning": "twin; apostle known for doubting before believing."
+    },
+    {
+      "name": "James son of Alphaeus",
+      "twoWordTheme": "Faithful Apostle",
+      "referenceRange": "Matthew – Acts",
+      "meaning": "James; one of the twelve disciples of Jesus."
+    },
+    {
+      "name": "Thaddaeus",
+      "twoWordTheme": "Faithful Apostle",
+      "referenceRange": "Matthew 10 – Acts 1",
+      "meaning": "Thaddaeus; one of the twelve apostles of Jesus."
+    },
+    {
+      "name": "Simon the Zealot",
+      "twoWordTheme": "Zealous Apostle",
+      "referenceRange": "Luke 6 – Acts 1",
+      "meaning": "Simon; disciple known for zeal."
+    },
+    {
+      "name": "Judas Iscariot",
+      "twoWordTheme": "Betrayer Disciple",
+      "referenceRange": "Matthew 10 – Acts 1",
+      "meaning": "Judas; disciple who betrayed Jesus."
+    },
+    {
+      "name": "Mary Magdalene",
+      "twoWordTheme": "Faithful Witness",
+      "referenceRange": "Luke 8 – John 20",
+      "meaning": "woman from Magdala who witnessed Jesus' resurrection."
+    },
+    {
+      "name": "Lazarus",
+      "twoWordTheme": "Raised Witness",
+      "referenceRange": "John 11–12",
+      "meaning": "man raised from the dead by Jesus."
+    },
+    {
+      "name": "Martha",
+      "twoWordTheme": "Serving Sister",
+      "referenceRange": "Luke 10 – John 11",
+      "meaning": "sister of Lazarus known for service."
+    },
+    {
+      "name": "Caiaphas",
+      "twoWordTheme": "High Priest",
+      "referenceRange": "Matthew 26 – John 18",
+      "meaning": "Jewish high priest involved in Jesus' trial."
+    },
+    {
+      "name": "Pontius Pilate",
+      "twoWordTheme": "Roman Governor",
+      "referenceRange": "Matthew 27 – Acts 4",
+      "meaning": "Roman governor who authorized the crucifixion of Jesus."
+    },
+    {
+      "name": "Barnabas",
+      "twoWordTheme": "Encouraging Apostle",
+      "referenceRange": "Acts 4 – Acts 15",
+      "meaning": "son of encouragement; missionary companion of Paul."
+    },
+    {
+      "name": "Stephen",
+      "twoWordTheme": "First Martyr",
+      "referenceRange": "Acts 6–7",
+      "meaning": "crown; first Christian martyr."
+    },
+    {
+      "name": "Philip the Evangelist",
+      "twoWordTheme": "Gospel Preacher",
+      "referenceRange": "Acts 6 – Acts 21",
+      "meaning": "early evangelist who preached in Samaria."
+    },
+    {
+      "name": "Paul",
+      "twoWordTheme": "Apostle Gentiles",
+      "referenceRange": "Acts 7 – 2 Timothy",
+      "meaning": "Paul; missionary apostle to the Gentiles."
+    },
+    {
+      "name": "Ananias of Damascus",
+      "twoWordTheme": "Faithful Disciple",
+      "referenceRange": "Acts 9",
+      "meaning": "disciple who baptized Saul after his conversion."
+    },
+    {
+      "name": "Timothy",
+      "twoWordTheme": "Young Pastor",
+      "referenceRange": "Acts 16 – 2 Timothy",
+      "meaning": "honoring God; companion and disciple of Paul."
+    },
+    {
+      "name": "Titus",
+      "twoWordTheme": "Church Leader",
+      "referenceRange": "2 Corinthians – Titus",
+      "meaning": "trusted coworker of Paul and church leader."
+    },
+    {
+      "name": "Luke",
+      "twoWordTheme": "Gospel Historian",
+      "referenceRange": "Luke – Acts",
+      "meaning": "physician and author of Luke and Acts."
+    },
+    {
+      "name": "Mark",
+      "twoWordTheme": "Gospel Writer",
+      "referenceRange": "Acts – Mark",
+      "meaning": "John Mark; companion of Peter and gospel author."
+    },
+    {
+      "name": "Silas",
+      "twoWordTheme": "Missionary Companion",
+      "referenceRange": "Acts 15 – Acts 18",
+      "meaning": "early Christian leader and missionary partner of Paul."
+    },
+    {
+      "name": "Apollos",
+      "twoWordTheme": "Eloquent Teacher",
+      "referenceRange": "Acts 18 – 1 Corinthians",
+      "meaning": "learned preacher who powerfully taught the scriptures."
+    },
+    {
+      "name": "Priscilla",
+      "twoWordTheme": "Faithful Teacher",
+      "referenceRange": "Acts 18 – Romans 16",
+      "meaning": "early Christian teacher who helped instruct Apollos."
+    },
+    {
+      "name": "Aquila",
+      "twoWordTheme": "Faithful Worker",
+      "referenceRange": "Acts 18 – Romans 16",
+      "meaning": "husband of Priscilla and missionary coworker."
+    },
+    {
+      "name": "Philemon",
+      "twoWordTheme": "Forgiving Master",
+      "referenceRange": "Philemon 1",
+      "meaning": "Christian leader addressed in Paul's letter about forgiveness."
+    },
+    {
+      "name": "Onesimus",
+      "twoWordTheme": "Redeemed Servant",
+      "referenceRange": "Philemon 1",
+      "meaning": "runaway servant who became a Christian."
+    },
+    {
+      "name": "James",
+      "twoWordTheme": "Church Leader",
+      "referenceRange": "Acts 15 – James",
+      "meaning": "brother of Jesus and leader in the Jerusalem church."
+    },
+    {
+      "name": "Jude",
+      "twoWordTheme": "Warning Writer",
+      "referenceRange": "Jude 1",
+      "meaning": "brother of James who wrote the epistle of Jude."
+    },
+    {
+      "name": "Nicodemus",
+      "twoWordTheme": "Seeking Pharisee",
+      "referenceRange": "John 3 – John 19",
+      "meaning": "Pharisee who came to Jesus by night seeking truth."
+    },
+    {
+      "name": "Joseph of Arimathea",
+      "twoWordTheme": "Honorable Counselor",
+      "referenceRange": "Matthew 27 – John 19",
+      "meaning": "member of the council who buried Jesus."
+    },
+    {
+      "name": "Gamaliel",
+      "twoWordTheme": "Wise Teacher",
+      "referenceRange": "Acts 5 – Acts 22",
+      "meaning": "respected Pharisee and teacher of the law."
+    },
+    {
+      "name": "Cornelius",
+      "twoWordTheme": "Gentile Convert",
+      "referenceRange": "Acts 10 – Acts 11",
+      "meaning": "Roman centurion who became one of the first Gentile believers."
+    },
+    {
+      "name": "Lydia",
+      "twoWordTheme": "Faithful Merchant",
+      "referenceRange": "Acts 16",
+      "meaning": "seller of purple cloth who believed the gospel."
+    },
+    {
+      "name": "Festus",
+      "twoWordTheme": "Roman Governor",
+      "referenceRange": "Acts 24 – Acts 26",
+      "meaning": "Roman governor who heard Paul's case."
+    },
+    {
+      "name": "Herod the Great",
+      "twoWordTheme": "Ruthless King",
+      "referenceRange": "Matthew 2",
+      "meaning": "king who ruled Judea during Jesus' birth."
+    },
+    {
+      "name": "Herod Antipas",
+      "twoWordTheme": "Tetrarch Ruler",
+      "referenceRange": "Matthew 14 – Luke 23",
+      "meaning": "ruler who executed John the Baptist."
+    },
+    {
+      "name": "Herod Agrippa I",
+      "twoWordTheme": "Persecuting King",
+      "referenceRange": "Acts 12",
+      "meaning": "king who persecuted the early church."
+    },
+    {
+      "name": "Herod Agrippa II",
+      "twoWordTheme": "Royal Hearer",
+      "referenceRange": "Acts 25 – Acts 26",
+      "meaning": "king who heard Paul's defense."
+    },
+    {
+      "name": "Herodias",
+      "twoWordTheme": "Royal Instigator",
+      "referenceRange": "Matthew 14 – Mark 6",
+      "meaning": "wife of Herod who demanded John the Baptist's death."
+    },
+    {
+      "name": "Crispus",
+      "twoWordTheme": "Synagogue Leader",
+      "referenceRange": "Acts 18",
+      "meaning": "leader of the synagogue who believed in Christ."
+    },
+    {
+      "name": "Sosthenes",
+      "twoWordTheme": "Converted Leader",
+      "referenceRange": "Acts 18 – 1 Corinthians 1",
+      "meaning": "synagogue ruler who later joined the Christian community."
+    },
+    {
+      "name": "Tychicus",
+      "twoWordTheme": "Faithful Messenger",
+      "referenceRange": "Acts 20 – Colossians",
+      "meaning": "trusted companion who delivered Paul's letters."
+    },
+    {
+      "name": "Epaphroditus",
+      "twoWordTheme": "Faithful Servant",
+      "referenceRange": "Philippians 2",
+      "meaning": "messenger who served Paul and nearly died in ministry."
+    },
+    {
+      "name": "Epaphras",
+      "twoWordTheme": "Prayer Warrior",
+      "referenceRange": "Colossians – Philemon",
+      "meaning": "church leader devoted to prayer."
+    },
+    {
+      "name": "Demas",
+      "twoWordTheme": "Deserting Companion",
+      "referenceRange": "Colossians – 2 Timothy",
+      "meaning": "coworker of Paul who later abandoned the mission."
+    },
+    {
+      "name": "Alexander the Coppersmith",
+      "twoWordTheme": "Opposing Craftsman",
+      "referenceRange": "1 Timothy – 2 Timothy",
+      "meaning": "man who opposed Paul's ministry."
+    },
+    {
+      "name": "The Ethiopian Eunuch",
+      "twoWordTheme": "Converted Official",
+      "referenceRange": "Acts 8",
+      "meaning": "royal official baptized by Philip."
+    },
+    {
+      "name": "Ananias (High Priest)",
+      "twoWordTheme": "Accusing Priest",
+      "referenceRange": "Acts 23",
+      "meaning": "high priest who accused Paul."
+    },
+    {
+      "name": "Caesar Augustus",
+      "twoWordTheme": "Roman Emperor",
+      "referenceRange": "Luke 2",
+      "meaning": "Roman emperor ruling during Jesus' birth."
+    },
+    {
+      "name": "Claudius",
+      "twoWordTheme": "Roman Emperor",
+      "referenceRange": "Acts 11 – Acts 18",
+      "meaning": "Roman emperor mentioned in Acts."
+    },
+    {
+      "name": "Felix",
+      "twoWordTheme": "Roman Governor",
+      "referenceRange": "Acts 23 – Acts 24",
+      "meaning": "governor who kept Paul imprisoned."
+    },
+    {
+      "name": "Drusilla",
+      "twoWordTheme": "Royal Listener",
+      "referenceRange": "Acts 24",
+      "meaning": "wife of Felix who heard Paul's teaching."
+    },
+    {
+      "name": "John (Revelation)",
+      "twoWordTheme": "Vision Apostle",
+      "referenceRange": "Revelation 1–22",
+      "meaning": "apostle who received the visions recorded in Revelation."
+    },
+    {
+      "name": "Abel",
+      "twoWordTheme": "Faithful Sacrifice",
+      "referenceRange": "Genesis 4 – Hebrews 11",
+      "meaning": "son of Adam whose acceptable sacrifice pleased God"
+    },
+    {
+      "name": "Cain",
+      "twoWordTheme": "First Murderer",
+      "referenceRange": "Genesis 4",
+      "meaning": "firstborn son of Adam who killed his brother Abel"
+    },
+    {
+      "name": "Seth",
+      "twoWordTheme": "Appointed Seed",
+      "referenceRange": "Genesis 4–5",
+      "meaning": "son given to Adam and Eve after Abel's death"
+    },
+    {
+      "name": "Enoch",
+      "twoWordTheme": "Walked God",
+      "referenceRange": "Genesis 5 – Hebrews 11",
+      "meaning": "man who walked with God and was taken by Him"
+    },
+    {
+      "name": "Lamech",
+      "twoWordTheme": "Noah Father",
+      "referenceRange": "Genesis 5",
+      "meaning": "father of Noah who foretold comfort through him"
+    },
+    {
+      "name": "Lot",
+      "twoWordTheme": "Righteous Survivor",
+      "referenceRange": "Genesis 13–19",
+      "meaning": "nephew of Abraham rescued from Sodom"
+    },
+    {
+      "name": "Hagar",
+      "twoWordTheme": "Bondwoman Mother",
+      "referenceRange": "Genesis 16–21",
+      "meaning": "servant of Sarah and mother of Ishmael"
+    },
+    {
+      "name": "Ishmael",
+      "twoWordTheme": "Desert Father",
+      "referenceRange": "Genesis 16–25",
+      "meaning": "son of Abraham and Hagar"
+    },
+    {
+      "name": "Rebekah",
+      "twoWordTheme": "Chosen Bride",
+      "referenceRange": "Genesis 24–27",
+      "meaning": "wife of Isaac and mother of Jacob and Esau"
+    },
+    {
+      "name": "Esau",
+      "twoWordTheme": "Edom Father",
+      "referenceRange": "Genesis 25–36",
+      "meaning": "son of Isaac who became father of Edom"
+    },
+    {
+      "name": "Leah",
+      "twoWordTheme": "Tribal Mother",
+      "referenceRange": "Genesis 29–35",
+      "meaning": "wife of Jacob and mother of six tribes"
+    },
+    {
+      "name": "Rachel",
+      "twoWordTheme": "Beloved Wife",
+      "referenceRange": "Genesis 29–35",
+      "meaning": "wife of Jacob and mother of Joseph and Benjamin"
+    },
+    {
+      "name": "Judah",
+      "twoWordTheme": "Royal Tribe",
+      "referenceRange": "Genesis 29–49",
+      "meaning": "son of Jacob whose tribe produced kings"
+    },
+    {
+      "name": "Tamar",
+      "twoWordTheme": "Persistent Widow",
+      "referenceRange": "Genesis 38",
+      "meaning": "woman through whom Judah's lineage continued"
+    },
+    {
+      "name": "Potiphar",
+      "twoWordTheme": "Egyptian Officer",
+      "referenceRange": "Genesis 39",
+      "meaning": "Egyptian official who owned Joseph as servant"
+    },
+    {
+      "name": "Asenath",
+      "twoWordTheme": "Joseph Wife",
+      "referenceRange": "Genesis 41",
+      "meaning": "Egyptian wife of Joseph"
+    },
+    {
+      "name": "Ephraim",
+      "twoWordTheme": "Fruitful Tribe",
+      "referenceRange": "Genesis 41 – Joshua",
+      "meaning": "son of Joseph who became a tribe of Israel"
+    },
+    {
+      "name": "Manasseh",
+      "twoWordTheme": "Firstborn Tribe",
+      "referenceRange": "Genesis 41 – Joshua",
+      "meaning": "firstborn son of Joseph"
+    },
+    {
+      "name": "Miriam",
+      "twoWordTheme": "Prophet Sister",
+      "referenceRange": "Exodus – Numbers",
+      "meaning": "sister of Moses and Aaron who led worship"
+    },
+    {
+      "name": "Zipporah",
+      "twoWordTheme": "Moses Wife",
+      "referenceRange": "Exodus 2–18",
+      "meaning": "wife of Moses and daughter of Jethro"
+    },
+    {
+      "name": "Jethro",
+      "twoWordTheme": "Wise Priest",
+      "referenceRange": "Exodus 2–18",
+      "meaning": "priest of Midian and father-in-law of Moses"
+    },
+    {
+      "name": "Korah",
+      "twoWordTheme": "Rebel Leader",
+      "referenceRange": "Numbers 16",
+      "meaning": "Levite who led rebellion against Moses"
+    },
+    {
+      "name": "Balaam",
+      "twoWordTheme": "Pagan Prophet",
+      "referenceRange": "Numbers 22–24",
+      "meaning": "diviner hired to curse Israel"
+    },
+    {
+      "name": "Balak",
+      "twoWordTheme": "Moab King",
+      "referenceRange": "Numbers 22–24",
+      "meaning": "king who hired Balaam to curse Israel"
+    },
+    {
+      "name": "Phinehas",
+      "twoWordTheme": "Zealous Priest",
+      "referenceRange": "Numbers – Judges",
+      "meaning": "priest known for zeal for God's holiness"
+    },
+    {
+      "name": "Bezalel",
+      "twoWordTheme": "Temple Craftsman",
+      "referenceRange": "Exodus 31–38",
+      "meaning": "artisan who built the tabernacle"
+    },
+    {
+      "name": "Oholiab",
+      "twoWordTheme": "Skilled Craftsman",
+      "referenceRange": "Exodus 31–38",
+      "meaning": "assistant artisan of the tabernacle"
+    },
+    {
+      "name": "Barak",
+      "twoWordTheme": "Battle General",
+      "referenceRange": "Judges 4–5",
+      "meaning": "military leader under Deborah"
+    },
+    {
+      "name": "Jael",
+      "twoWordTheme": "Tent Warrior",
+      "referenceRange": "Judges 4–5",
+      "meaning": "woman who defeated Sisera"
+    },
+    {
+      "name": "Abimelech",
+      "twoWordTheme": "Usurping King",
+      "referenceRange": "Judges 8–9",
+      "meaning": "son of Gideon who seized power"
+    },
+    {
+      "name": "Jephthah",
+      "twoWordTheme": "Outcast Judge",
+      "referenceRange": "Judges 11–12",
+      "meaning": "judge who delivered Israel from Ammon"
+    },
+    {
+      "name": "Delilah",
+      "twoWordTheme": "Samson Betrayer",
+      "referenceRange": "Judges 16",
+      "meaning": "woman who betrayed Samson"
+    },
+    {
+      "name": "Jonathan",
+      "twoWordTheme": "Loyal Friend",
+      "referenceRange": "1 Samuel 14–31",
+      "meaning": "son of Saul and loyal friend of David"
+    },
+    {
+      "name": "Michal",
+      "twoWordTheme": "Saul Daughter",
+      "referenceRange": "1 Samuel – 2 Samuel",
+      "meaning": "daughter of Saul and wife of David"
+    },
+    {
+      "name": "Abigail",
+      "twoWordTheme": "Wise Wife",
+      "referenceRange": "1 Samuel 25",
+      "meaning": "wife of David known for wisdom"
+    },
+    {
+      "name": "Bathsheba",
+      "twoWordTheme": "Queen Mother",
+      "referenceRange": "2 Samuel – 1 Kings",
+      "meaning": "wife of David and mother of Solomon"
+    },
+    {
+      "name": "Nathan",
+      "twoWordTheme": "Court Prophet",
+      "referenceRange": "2 Samuel – 1 Kings",
+      "meaning": "prophet who rebuked David"
+    },
+    {
+      "name": "Joab",
+      "twoWordTheme": "Army Commander",
+      "referenceRange": "2 Samuel – 1 Kings",
+      "meaning": "military commander of David"
+    },
+    {
+      "name": "Absalom",
+      "twoWordTheme": "Rebel Prince",
+      "referenceRange": "2 Samuel 13–18",
+      "meaning": "son of David who rebelled"
+    },
+    {
+      "name": "Ahab",
+      "twoWordTheme": "Wicked King",
+      "referenceRange": "1 Kings 16–22",
+      "meaning": "king of Israel who promoted idolatry"
+    },
+    {
+      "name": "Jezebel",
+      "twoWordTheme": "Idolatrous Queen",
+      "referenceRange": "1 Kings – 2 Kings",
+      "meaning": "queen who promoted Baal worship"
+    },
+    {
+      "name": "Hezekiah",
+      "twoWordTheme": "Reforming King",
+      "referenceRange": "2 Kings 18–20",
+      "meaning": "king who restored worship"
+    },
+    {
+      "name": "Josiah",
+      "twoWordTheme": "Righteous King",
+      "referenceRange": "2 Kings 22–23",
+      "meaning": "king who restored the law"
+    },
+    {
+      "name": "Shadrach",
+      "twoWordTheme": "Faithful Exile",
+      "referenceRange": "Daniel 1–3",
+      "meaning": "Hebrew exile delivered from the furnace"
+    },
+    {
+      "name": "Meshach",
+      "twoWordTheme": "Faithful Exile",
+      "referenceRange": "Daniel 1–3",
+      "meaning": "companion of Daniel faithful to God"
+    },
+    {
+      "name": "Abednego",
+      "twoWordTheme": "Faithful Exile",
+      "referenceRange": "Daniel 1–3",
+      "meaning": "servant of God delivered from the furnace"
+    },
+    {
+      "name": "Ezra",
+      "twoWordTheme": "Law Scribe",
+      "referenceRange": "Ezra – Nehemiah",
+      "meaning": "priest who restored the law after exile"
+    },
+    {
+      "name": "Nehemiah",
+      "twoWordTheme": "Wall Builder",
+      "referenceRange": "Nehemiah 1–13",
+      "meaning": "leader who rebuilt Jerusalem's walls"
+    },
+    {
+      "name": "Esther",
+      "twoWordTheme": "Brave Queen",
+      "referenceRange": "Esther 1–10",
+      "meaning": "queen who saved the Jewish people"
+    },
+    {
+      "name": "Mordecai",
+      "twoWordTheme": "Faithful Guardian",
+      "referenceRange": "Esther 2–10",
+      "meaning": "cousin and protector of Esther"
+    },
+    {
+      "name": "Haman",
+      "twoWordTheme": "Proud Enemy",
+      "referenceRange": "Esther 3–7",
+      "meaning": "enemy of the Jews in Persia"
+    }
+  ]
+}
