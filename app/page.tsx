@@ -1,6 +1,6 @@
 "use client"
 
-import { useState, useCallback, useEffect } from "react"
+import { useState, useCallback, useEffect, useRef } from "react"
 import { ChapterView } from "@/components/chapter-view"
 import { NavigationBar } from "@/components/navigation-bar"
 import { BookSelector } from "@/components/book-selector"
@@ -24,6 +24,7 @@ export default function BibleApp() {
   const [showThemeSheet, setShowThemeSheet] = useState(false)
   const [chapterData, setChapterData] = useState<Chapter | null>(null)
   const [isLoadingChapter, setIsLoadingChapter] = useState(false)
+  const deepLinkApplied = useRef(false)
   
   // Premium state for freemium gating
   const { 
@@ -34,6 +35,30 @@ export default function BibleApp() {
     isLoading: isPremiumLoading,
     error: premiumError 
   } = usePremium()
+
+  // Deep-link from Reflect and other entry points: /?book=Psalms&chapter=46
+  useEffect(() => {
+    if (deepLinkApplied.current || typeof window === "undefined") return
+    deepLinkApplied.current = true
+
+    const params = new URLSearchParams(window.location.search)
+    const bookParam = params.get("book")
+    const chapterParam = params.get("chapter")
+    if (!bookParam) return
+
+    const book = getBookByName(bookParam)
+    if (!book) return
+
+    const chapterNum = chapterParam ? Number.parseInt(chapterParam, 10) : NaN
+    setCurrentBook(book.name)
+    if (Number.isFinite(chapterNum) && chapterNum >= 1 && chapterNum <= book.chapters) {
+      setCurrentChapter(chapterNum)
+      setShowChaptersList(false)
+    } else {
+      setCurrentChapter(1)
+      setShowChaptersList(true)
+    }
+  }, [])
 
   // Load chapter when book or chapter number changes
   useEffect(() => {

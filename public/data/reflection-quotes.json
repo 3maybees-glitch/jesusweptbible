@@ -1,0 +1,500 @@
+{
+  "quotes": [
+    {
+      "id": "augustine-rest",
+      "text": "You have made us for yourself, O Lord, and our heart is restless until it rests in you.",
+      "attribution": "Augustine of Hippo",
+      "tags": [
+        "rest",
+        "anxiety",
+        "longing",
+        "peace"
+      ]
+    },
+    {
+      "id": "lewis-pain",
+      "text": "God whispers to us in our pleasures, speaks in our conscience, but shouts in our pains: it is His megaphone to rouse a deaf world.",
+      "attribution": "C. S. Lewis",
+      "tags": [
+        "suffering",
+        "pain",
+        "attention",
+        "hardship"
+      ]
+    },
+    {
+      "id": "lewis-courage",
+      "text": "Courage is not simply one of the virtues, but the form of every virtue at the testing point.",
+      "attribution": "C. S. Lewis",
+      "tags": [
+        "courage",
+        "fear",
+        "testing",
+        "pressure"
+      ]
+    },
+    {
+      "id": "tozer-pursuit",
+      "text": "The man who has God for his treasure has all things in One.",
+      "attribution": "A. W. Tozer",
+      "tags": [
+        "priority",
+        "contentment",
+        "treasure",
+        "anxiety"
+      ]
+    },
+    {
+      "id": "keller-gospel",
+      "text": "We are more sinful and flawed in ourselves than we ever dared believe, yet at the very same time we are more loved and accepted in Jesus Christ than we ever dared hope.",
+      "attribution": "Timothy Keller",
+      "tags": [
+        "identity",
+        "guilt",
+        "grace",
+        "worth"
+      ]
+    },
+    {
+      "id": "spurgeon-anxiety",
+      "text": "Anxiety does not empty tomorrow of its sorrows, but only empties today of its strength.",
+      "attribution": "Charles Spurgeon",
+      "tags": [
+        "anxiety",
+        "worry",
+        "strength",
+        "today"
+      ]
+    },
+    {
+      "id": "spurgeon-hope",
+      "text": "Hope itself is like a star — not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity.",
+      "attribution": "Charles Spurgeon",
+      "tags": [
+        "hope",
+        "adversity",
+        "darkness",
+        "suffering"
+      ]
+    },
+    {
+      "id": "muller-prayer",
+      "text": "The beginning of anxiety is the end of faith, and the beginning of true faith is the end of anxiety.",
+      "attribution": "George Müller",
+      "tags": [
+        "anxiety",
+        "faith",
+        "prayer",
+        "trust"
+      ]
+    },
+    {
+      "id": "corrie-ten-boom",
+      "text": "Never be afraid to trust an unknown future to a known God.",
+      "attribution": "Corrie ten Boom",
+      "tags": [
+        "fear",
+        "future",
+        "trust",
+        "change",
+        "lifechanges"
+      ]
+    },
+    {
+      "id": "ten-boom-worry",
+      "text": "Worry does not empty tomorrow of its sorrow, it empties today of its strength.",
+      "attribution": "Corrie ten Boom",
+      "tags": [
+        "worry",
+        "anxiety",
+        "strength",
+        "today"
+      ]
+    },
+    {
+      "id": "luther-faith",
+      "text": "Faith is a living, daring confidence in God's grace, so sure and certain that a man could stake his life on it a thousand times.",
+      "attribution": "Martin Luther",
+      "tags": [
+        "faith",
+        "grace",
+        "courage",
+        "assurance"
+      ]
+    },
+    {
+      "id": "bonhoeffer-cost",
+      "text": "When Christ calls a man, he bids him come and die.",
+      "attribution": "Dietrich Bonhoeffer",
+      "tags": [
+        "calling",
+        "cost",
+        "discipleship",
+        "courage"
+      ]
+    },
+    {
+      "id": "julian-well",
+      "text": "All shall be well, and all shall be well, and all manner of thing shall be well.",
+      "attribution": "Julian of Norwich",
+      "tags": [
+        "hope",
+        "anxiety",
+        "suffering",
+        "assurance"
+      ]
+    },
+    {
+      "id": "calvin-providence",
+      "text": "However many blessings we expect from God, His infinite liberality will always exceed all our wishes and our thoughts.",
+      "attribution": "John Calvin",
+      "tags": [
+        "provision",
+        "gratitude",
+        "generosity",
+        "hope"
+      ]
+    },
+    {
+      "id": "piper-presence",
+      "text": "God is most glorified in us when we are most satisfied in Him.",
+      "attribution": "John Piper",
+      "tags": [
+        "joy",
+        "worship",
+        "satisfaction",
+        "priority"
+      ]
+    },
+    {
+      "id": "elliot-surrender",
+      "text": "God always gives His best to those who leave the choice with Him.",
+      "attribution": "Jim Elliot",
+      "tags": [
+        "surrender",
+        "trust",
+        "calling",
+        "choice"
+      ]
+    },
+    {
+      "id": "elliot-will",
+      "text": "The will of God is never exactly what you expect it to be. It may seem to be much worse, but in the end it's going to be a lot better and a lot bigger.",
+      "attribution": "Elisabeth Elliot",
+      "tags": [
+        "waiting",
+        "will",
+        "change",
+        "trust"
+      ]
+    },
+    {
+      "id": "elliot-feelings",
+      "text": "Feelings are not facts, and they are not an accurate gauge of God's love or presence.",
+      "attribution": "Elisabeth Elliot",
+      "tags": [
+        "feelings",
+        "anxiety",
+        "faith",
+        "truth"
+      ]
+    },
+    {
+      "id": "chambers-utmost",
+      "text": "Faith never knows where it is being led, but it loves and knows the One who is leading.",
+      "attribution": "Oswald Chambers",
+      "tags": [
+        "faith",
+        "uncertainty",
+        "guidance",
+        "journey"
+      ]
+    },
+    {
+      "id": "chambers-worry",
+      "text": "Worry is an indication that we think God cannot look after us.",
+      "attribution": "Oswald Chambers",
+      "tags": [
+        "worry",
+        "anxiety",
+        "trust",
+        "care"
+      ]
+    },
+    {
+      "id": "nouwen-beloved",
+      "text": "You are the Beloved, and you need to hear that spoken to you every day.",
+      "attribution": "Henri Nouwen",
+      "tags": [
+        "identity",
+        "beloved",
+        "worth",
+        "anxiety"
+      ]
+    },
+    {
+      "id": "nouwen-pain",
+      "text": "The great spiritual call of the Beloved is to accept that brokenness as a blessing.",
+      "attribution": "Henri Nouwen",
+      "tags": [
+        "brokenness",
+        "suffering",
+        "blessing",
+        "identity"
+      ]
+    },
+    {
+      "id": "francis-peace",
+      "text": "Lord, make me an instrument of your peace.",
+      "attribution": "Attributed to Francis of Assisi",
+      "tags": [
+        "peace",
+        "prayer",
+        "service",
+        "anxiety"
+      ]
+    },
+    {
+      "id": "a-kempis",
+      "text": "Be not angry that you cannot make others as you wish them to be, since you cannot make yourself as you wish to be.",
+      "attribution": "Thomas à Kempis",
+      "tags": [
+        "humility",
+        "relationships",
+        "self",
+        "patience"
+      ]
+    },
+    {
+      "id": "bunyan-progress",
+      "text": "He that is down needs fear no fall.",
+      "attribution": "John Bunyan",
+      "tags": [
+        "humility",
+        "fear",
+        "lowliness",
+        "security"
+      ]
+    },
+    {
+      "id": "edwards-resolve",
+      "text": "Resolved, never to do anything which I should be afraid to do if it were the last hour of my life.",
+      "attribution": "Jonathan Edwards",
+      "tags": [
+        "integrity",
+        "resolve",
+        "purpose",
+        "courage"
+      ]
+    },
+    {
+      "id": "stott-cross",
+      "text": "Before we can begin to see the cross as something done for us, we have to see it as something done by us.",
+      "attribution": "John Stott",
+      "tags": [
+        "cross",
+        "guilt",
+        "repentance",
+        "grace"
+      ]
+    },
+    {
+      "id": "packer-knowing",
+      "text": "Once you become aware that the main business that you are here for is to know God, most of life's problems fall into place of their own accord.",
+      "attribution": "J. I. Packer",
+      "tags": [
+        "priority",
+        "knowing god",
+        "perspective",
+        "anxiety"
+      ]
+    },
+    {
+      "id": "wilberforce",
+      "text": "You may choose to look the other way but you can never say again that you did not know.",
+      "attribution": "William Wilberforce",
+      "tags": [
+        "justice",
+        "courage",
+        "calling",
+        "responsibility"
+      ]
+    },
+    {
+      "id": "mother-teresa-small",
+      "text": "Not all of us can do great things. But we can do small things with great love.",
+      "attribution": "Mother Teresa",
+      "tags": [
+        "ordinary",
+        "love",
+        "service",
+        "overwhelm",
+        "schoolwork"
+      ]
+    },
+    {
+      "id": "mother-teresa-faithful",
+      "text": "God does not require that we be successful, only that we be faithful.",
+      "attribution": "Mother Teresa",
+      "tags": [
+        "faithfulness",
+        "failure",
+        "pressure",
+        "students"
+      ]
+    },
+    {
+      "id": "chesterton-joy",
+      "text": "Joy is the gigantic secret of the Christian.",
+      "attribution": "G. K. Chesterton",
+      "tags": [
+        "joy",
+        "secret",
+        "hope",
+        "perspective"
+      ]
+    },
+    {
+      "id": "chesterton-thanks",
+      "text": "The test of all happiness is gratitude.",
+      "attribution": "G. K. Chesterton",
+      "tags": [
+        "gratitude",
+        "joy",
+        "happiness",
+        "perspective"
+      ]
+    },
+    {
+      "id": "pascal-god",
+      "text": "There is a God-shaped vacuum in the heart of each man which cannot be satisfied by any created thing but only by God the Creator.",
+      "attribution": "Blaise Pascal",
+      "tags": [
+        "longing",
+        "rest",
+        "identity",
+        "anxiety"
+      ]
+    },
+    {
+      "id": "luther-pray",
+      "text": "To be a Christian without prayer is no more possible than to be alive without breathing.",
+      "attribution": "Martin Luther",
+      "tags": [
+        "prayer",
+        "need",
+        "dependence",
+        "life"
+      ]
+    },
+    {
+      "id": "owen-beholding",
+      "text": "The greatest sorrow and burden you can lay on the Father, the greatest unkindness you can do to Him is not to believe that He loves you.",
+      "attribution": "John Owen",
+      "tags": [
+        "love",
+        "belief",
+        "identity",
+        "doubt"
+      ]
+    },
+    {
+      "id": "whitfield",
+      "text": "We are immortal until our work on earth is done.",
+      "attribution": "George Whitefield",
+      "tags": [
+        "purpose",
+        "fear",
+        "calling",
+        "courage"
+      ]
+    },
+    {
+      "id": "amy-carmichael",
+      "text": "God hold us to that which drew us first, when the Cross was the attraction, and we wanted nothing else.",
+      "attribution": "Amy Carmichael",
+      "tags": [
+        "calling",
+        "cross",
+        "devotion",
+        "perseverance"
+      ]
+    },
+    {
+      "id": "hudson-taylor",
+      "text": "God's work done in God's way will never lack God's supply.",
+      "attribution": "Hudson Taylor",
+      "tags": [
+        "provision",
+        "calling",
+        "work",
+        "trust"
+      ]
+    },
+    {
+      "id": "wesley-assurance",
+      "text": "Best of all is, God is with us.",
+      "attribution": "John Wesley",
+      "tags": [
+        "presence",
+        "comfort",
+        "hope"
+      ]
+    },
+    {
+      "id": "tozer-hunger",
+      "text": "The continuous and uninterrupted presence of God is more to be desired than all else.",
+      "attribution": "A. W. Tozer",
+      "tags": [
+        "presence",
+        "desire",
+        "worship",
+        "priority"
+      ]
+    },
+    {
+      "id": "spurgeon-bitterness",
+      "text": "I have learned to kiss the wave that throws me against the Rock of Ages.",
+      "attribution": "Charles Spurgeon",
+      "tags": [
+        "suffering",
+        "trust",
+        "storms",
+        "refuge"
+      ]
+    },
+    {
+      "id": "lewis-heart",
+      "text": "I pray because I can't help myself. I pray because I'm helpless. I pray because the need flows out of me all the time, waking and sleeping.",
+      "attribution": "C. S. Lewis",
+      "tags": [
+        "prayer",
+        "need",
+        "helplessness",
+        "dependence"
+      ]
+    },
+    {
+      "id": "keller-suffering",
+      "text": "Christianity does not give us a ladder to climb out of suffering; it gives us a Savior who climbs down into it with us.",
+      "attribution": "Timothy Keller",
+      "tags": [
+        "suffering",
+        "presence",
+        "comfort",
+        "christ"
+      ]
+    },
+    {
+      "id": "nouwen-home",
+      "text": "Home is not a place, but a Presence — living in the heart of God.",
+      "attribution": "Henri Nouwen",
+      "tags": [
+        "belonging",
+        "presence",
+        "home",
+        "anxiety"
+      ]
+    }
+  ]
+}

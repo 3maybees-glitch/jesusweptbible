@@ -137,5 +137,6 @@ export async function fetchChapter(book: string, chapter: number): Promise<Chapt
 }
 
 export function getBookByName(name: string): Book | undefined {
-  return bibleBooks.find((b) => b.name === name)
+  const normalized = name.trim().toLowerCase()
+  return bibleBooks.find((b) => b.name.toLowerCase() === normalized)
 }

@@ -18,7 +18,13 @@ export default function CharactersRoute() {
             <ChevronLeft className="w-6 h-6" />
           </Link>
           <h1 className="text-lg font-semibold text-foreground">Bible Characters</h1>
-          <div className="w-10" /> {/* Spacer for alignment */}
+          <Link
+            href="/reflect"
+            className="text-sm text-accent hover:underline px-1"
+            aria-label="Open Reflect"
+          >
+            Reflect
+          </Link>
         </div>
       </header>
 

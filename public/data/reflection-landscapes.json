@@ -1,0 +1,441 @@
+{
+  "landscapes": [
+    {
+      "id": "psalms",
+      "book": "Psalms",
+      "moodLabel": "Mountains and valleys under worship light",
+      "tags": [
+        "worship",
+        "comfort",
+        "peace",
+        "nature",
+        "anxiety"
+      ],
+      "imagePath": "/backgrounds/psalms.jpg"
+    },
+    {
+      "id": "job",
+      "book": "Job",
+      "moodLabel": "Stormy sky and whirlwind",
+      "tags": [
+        "suffering",
+        "storms",
+        "questioning",
+        "grief"
+      ],
+      "imagePath": "/backgrounds/job.jpg"
+    },
+    {
+      "id": "ruth",
+      "book": "Ruth",
+      "moodLabel": "Golden harvest fields at sunset",
+      "tags": [
+        "provision",
+        "loyalty",
+        "hope",
+        "ordinary",
+        "work"
+      ],
+      "imagePath": "/backgrounds/ruth.jpg"
+    },
+    {
+      "id": "genesis",
+      "book": "Genesis",
+      "moodLabel": "Lush creation dawn",
+      "tags": [
+        "beginning",
+        "new",
+        "identity",
+        "hope",
+        "lifechanges"
+      ],
+      "imagePath": "/backgrounds/genesis.jpg"
+    },
+    {
+      "id": "exodus",
+      "book": "Exodus",
+      "moodLabel": "Desert dunes and guiding light",
+      "tags": [
+        "journey",
+        "deliverance",
+        "fear",
+        "wilderness"
+      ],
+      "imagePath": "/backgrounds/exodus.jpg"
+    },
+    {
+      "id": "numbers",
+      "book": "Numbers",
+      "moodLabel": "Wilderness under starlight",
+      "tags": [
+        "wandering",
+        "waiting",
+        "journey",
+        "uncertainty"
+      ],
+      "imagePath": "/backgrounds/numbers.jpg"
+    },
+    {
+      "id": "deuteronomy",
+      "book": "Deuteronomy",
+      "moodLabel": "Mountain covenant peaks",
+      "tags": [
+        "calling",
+        "courage",
+        "transition",
+        "remember"
+      ],
+      "imagePath": "/backgrounds/deuteronomy.jpg"
+    },
+    {
+      "id": "joshua",
+      "book": "Joshua",
+      "moodLabel": "Dawn over contested land",
+      "tags": [
+        "courage",
+        "transition",
+        "battle",
+        "fear"
+      ],
+      "imagePath": "/backgrounds/joshua.jpg"
+    },
+    {
+      "id": "1-samuel",
+      "book": "1 Samuel",
+      "moodLabel": "Shepherd hills and night sky",
+      "tags": [
+        "calling",
+        "youth",
+        "pressure",
+        "identity"
+      ],
+      "imagePath": "/backgrounds/1-samuel.jpg"
+    },
+    {
+      "id": "1-kings",
+      "book": "1 Kings",
+      "moodLabel": "Temple glow and royal courts",
+      "tags": [
+        "glory",
+        "vocation",
+        "responsibility"
+      ],
+      "imagePath": "/backgrounds/1-kings.jpg"
+    },
+    {
+      "id": "haggai",
+      "book": "Haggai",
+      "moodLabel": "Rebuilding in emerging light",
+      "tags": [
+        "work",
+        "opposition",
+        "perseverance",
+        "rebuild"
+      ],
+      "imagePath": "/backgrounds/haggai.jpg"
+    },
+    {
+      "id": "malachi",
+      "book": "Malachi",
+      "moodLabel": "Twilight waiting for a messenger",
+      "tags": [
+        "courage",
+        "risk",
+        "calling",
+        "fear",
+        "waiting"
+      ],
+      "imagePath": "/backgrounds/malachi.jpg"
+    },
+    {
+      "id": "proverbs",
+      "book": "Proverbs",
+      "moodLabel": "City pathways in golden light",
+      "tags": [
+        "wisdom",
+        "students",
+        "path",
+        "learning"
+      ],
+      "imagePath": "/backgrounds/proverbs.jpg"
+    },
+    {
+      "id": "ecclesiastes",
+      "book": "Ecclesiastes",
+      "moodLabel": "Changing seasons at twilight",
+      "tags": [
+        "seasons",
+        "change",
+        "lifechanges",
+        "perspective"
+      ],
+      "imagePath": "/backgrounds/ecclesiastes.jpg"
+    },
+    {
+      "id": "isaiah",
+      "book": "Isaiah",
+      "moodLabel": "Celestial throne-room light",
+      "tags": [
+        "hope",
+        "holy",
+        "comfort",
+        "future"
+      ],
+      "imagePath": "/backgrounds/isaiah.jpg"
+    },
+    {
+      "id": "jeremiah",
+      "book": "Jeremiah",
+      "moodLabel": "Troubled skies over the city",
+      "tags": [
+        "grief",
+        "warning",
+        "lament",
+        "change"
+      ],
+      "imagePath": "/backgrounds/jeremiah.jpg"
+    },
+    {
+      "id": "lamentations",
+      "book": "Lamentations",
+      "moodLabel": "Ruins with a faint mercy light",
+      "tags": [
+        "grief",
+        "tears",
+        "suffering",
+        "hope"
+      ],
+      "imagePath": "/backgrounds/lamentations.jpg"
+    },
+    {
+      "id": "daniel",
+      "book": "Daniel",
+      "moodLabel": "Night visions over empire courts",
+      "tags": [
+        "courage",
+        "integrity",
+        "students",
+        "pressure"
+      ],
+      "imagePath": "/backgrounds/daniel.jpg"
+    },
+    {
+      "id": "jonah",
+      "book": "Jonah",
+      "moodLabel": "Tempestuous seascape",
+      "tags": [
+        "running",
+        "storms",
+        "second chance",
+        "fear"
+      ],
+      "imagePath": "/backgrounds/jonah.jpg"
+    },
+    {
+      "id": "habakkuk",
+      "book": "Habakkuk",
+      "moodLabel": "Questioning hills under gradual light",
+      "tags": [
+        "doubt",
+        "waiting",
+        "trust",
+        "complaint"
+      ],
+      "imagePath": "/backgrounds/habakkuk.jpg"
+    },
+    {
+      "id": "matthew",
+      "book": "Matthew",
+      "moodLabel": "Stormy mountains at golden hour",
+      "tags": [
+        "discipleship",
+        "storms",
+        "authority",
+        "teaching"
+      ],
+      "imagePath": "/backgrounds/matthew.jpg"
+    },
+    {
+      "id": "mark",
+      "book": "Mark",
+      "moodLabel": "Galilee waves under dark clouds",
+      "tags": [
+        "urgency",
+        "storms",
+        "fear",
+        "faith"
+      ],
+      "imagePath": "/backgrounds/mark.jpg"
+    },
+    {
+      "id": "luke",
+      "book": "Luke",
+      "moodLabel": "Shepherd hillside at warm dusk",
+      "tags": [
+        "compassion",
+        "care",
+        "ordinary",
+        "peace"
+      ],
+      "imagePath": "/backgrounds/luke.jpg"
+    },
+    {
+      "id": "john",
+      "book": "John",
+      "moodLabel": "Deep night sky filled with stars",
+      "tags": [
+        "light",
+        "eternal",
+        "identity",
+        "peace",
+        "anxiety"
+      ],
+      "imagePath": "/backgrounds/john.jpg"
+    },
+    {
+      "id": "acts",
+      "book": "Acts",
+      "moodLabel": "Ancient city lit by mission fire",
+      "tags": [
+        "calling",
+        "courage",
+        "change",
+        "community"
+      ],
+      "imagePath": "/backgrounds/acts.jpg"
+    },
+    {
+      "id": "romans",
+      "book": "Romans",
+      "moodLabel": "Roman dusk over stone and shadow",
+      "tags": [
+        "gospel",
+        "assurance",
+        "mind",
+        "identity"
+      ],
+      "imagePath": "/backgrounds/romans.jpg"
+    },
+    {
+      "id": "2-corinthians",
+      "book": "2 Corinthians",
+      "moodLabel": "Rough seas and coastal cliffs",
+      "tags": [
+        "affliction",
+        "comfort",
+        "weakness",
+        "perseverance"
+      ],
+      "imagePath": "/backgrounds/2-corinthians.jpg"
+    },
+    {
+      "id": "philippians",
+      "book": "Philippians",
+      "moodLabel": "Peaceful garden in golden light",
+      "tags": [
+        "joy",
+        "peace",
+        "anxiety",
+        "gratitude"
+      ],
+      "imagePath": "/backgrounds/philippians.jpg"
+    },
+    {
+      "id": "ephesians",
+      "book": "Ephesians",
+      "moodLabel": "Celestial glow over a night city",
+      "tags": [
+        "identity",
+        "spiritual",
+        "strength",
+        "belonging"
+      ],
+      "imagePath": "/backgrounds/ephesians.jpg"
+    },
+    {
+      "id": "hebrews",
+      "book": "Hebrews",
+      "moodLabel": "Sacred architecture in golden rays",
+      "tags": [
+        "perseverance",
+        "faith",
+        "rest",
+        "race"
+      ],
+      "imagePath": "/backgrounds/hebrews.jpg"
+    },
+    {
+      "id": "james",
+      "book": "James",
+      "moodLabel": "Vineyards and honest daylight",
+      "tags": [
+        "trials",
+        "wisdom",
+        "work",
+        "integrity"
+      ],
+      "imagePath": "/backgrounds/james.jpg"
+    },
+    {
+      "id": "1-peter",
+      "book": "1 Peter",
+      "moodLabel": "Rocky coast through a storm",
+      "tags": [
+        "suffering",
+        "hope",
+        "exile",
+        "perseverance"
+      ],
+      "imagePath": "/backgrounds/1-peter.jpg"
+    },
+    {
+      "id": "1-john",
+      "book": "1 John",
+      "moodLabel": "Wildflowers glowing in sunrise",
+      "tags": [
+        "love",
+        "assurance",
+        "light",
+        "community"
+      ],
+      "imagePath": "/backgrounds/1-john.jpg"
+    },
+    {
+      "id": "revelation",
+      "book": "Revelation",
+      "moodLabel": "Apocalyptic light and throne glory",
+      "tags": [
+        "hope",
+        "future",
+        "new",
+        "tears",
+        "end"
+      ],
+      "imagePath": "/backgrounds/revelation.jpg"
+    },
+    {
+      "id": "hosea",
+      "book": "Hosea",
+      "moodLabel": "Landscape of wounded love healed",
+      "tags": [
+        "return",
+        "healing",
+        "love",
+        "forgiveness"
+      ],
+      "imagePath": "/backgrounds/hosea.jpg"
+    },
+    {
+      "id": "micah",
+      "book": "Micah",
+      "moodLabel": "Mountain path of justice and mercy",
+      "tags": [
+        "justice",
+        "humility",
+        "walking",
+        "calling"
+      ],
+      "imagePath": "/backgrounds/micah.jpg"
+    }
+  ]
+}
