@@ -1,13 +1,11 @@
 "use client"
 
 import { useState } from "react"
-import { ChevronLeft, Book, X, Lock } from "lucide-react"
+import { ChevronLeft, Book, X } from "lucide-react"
 import { bibleBooks, type Book as BookType } from "@/lib/bible-data"
 import { getThemeByBook, type BookTheme } from "@/lib/book-themes"
 import { ThemeBox } from "./theme-box"
 import { ThemeSheet } from "./theme-sheet"
-import { usePremium } from "@/hooks/use-premium"
-import { isBookUnlocked, isFreeBook } from "@/lib/is-book-unlocked"
 
 interface BookSelectorProps {
   isOpen: boolean
@@ -23,8 +21,6 @@ export function BookSelector({ isOpen, onClose, onSelectChapter, currentBook, cu
   const [testament, setTestament] = useState<"OT" | "NT">("NT")
   const [selectedTheme, setSelectedTheme] = useState<BookTheme | null>(null)
   const [isThemeSheetOpen, setIsThemeSheetOpen] = useState(false)
-  
-  const { isPremium } = usePremium()
 
   const handleBookSelect = (book: BookType) => {
     setSelectedBook(book)
@@ -182,8 +178,6 @@ export function BookSelector({ isOpen, onClose, onSelectChapter, currentBook, cu
               {/* Book List */}
               <div className="grid grid-cols-2 gap-2">
                 {(testament === "OT" ? otBooks : ntBooks).map((book) => {
-                  const unlocked = isBookUnlocked(book.name, isPremium)
-                  const isFree = isFreeBook(book.name)
                   return (
                     <button
                       key={book.name}
@@ -191,18 +185,13 @@ export function BookSelector({ isOpen, onClose, onSelectChapter, currentBook, cu
                       className={`p-4 rounded-lg text-left transition-colors flex items-center gap-3 relative ${
                         currentBook === book.name
                           ? "bg-accent text-accent-foreground"
-                          : unlocked
-                            ? "bg-secondary hover:bg-secondary/80 text-secondary-foreground"
-                            : "bg-secondary/60 hover:bg-secondary/50 text-secondary-foreground/70"
+                          : "bg-secondary hover:bg-secondary/80 text-secondary-foreground"
                       }`}
                     >
-                      <Book className={`w-4 h-4 flex-shrink-0 ${unlocked ? "opacity-60" : "opacity-30"}`} />
-                      <span className={`text-sm font-medium truncate ${!unlocked ? "opacity-70" : ""}`}>
+                      <Book className="w-4 h-4 flex-shrink-0 opacity-60" />
+                      <span className="text-sm font-medium truncate">
                         {book.name}
                       </span>
-                      {!unlocked && (
-                        <Lock className="w-3 h-3 text-muted-foreground/60 absolute top-2 right-2" />
-                      )}
                     </button>
                   )
                 })}
