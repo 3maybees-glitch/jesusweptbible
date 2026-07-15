@@ -17,6 +17,12 @@ const getUserId = () => {
   return userId
 }
 
+/**
+ * Premium purchase hook (RevenueCat / Despia).
+ *
+ * The full Bible is currently free with no paywall. This hook is retained so
+ * optional paid features can be added later without rebuilding IAP plumbing.
+ */
 export function usePremium() {
   const [isPremium, setIsPremium] = useState(false)
   const [isLoading, setIsLoading] = useState(true)

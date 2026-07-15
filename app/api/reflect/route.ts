@@ -8,7 +8,6 @@ import {
   matchCatalogsHeuristic,
   type ReflectionCatalogs,
 } from "@/lib/reflection-data"
-import { isBookUnlocked } from "@/lib/is-book-unlocked"
 
 export const runtime = "nodejs"
 export const maxDuration = 60
@@ -69,7 +68,7 @@ function resolveResponse(
     passage: {
       ...passage,
       reason: choice.passage.reason,
-      isUnlockedPreview: isBookUnlocked(passage.book, false),
+      isUnlockedPreview: true, // Full Bible is currently free
     },
     character: {
       ...character,

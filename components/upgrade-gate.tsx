@@ -1,5 +1,9 @@
 "use client"
 
+/**
+ * Upgrade / paywall UI retained for optional premium features later.
+ * The full Bible is currently free; this component is not rendered.
+ */
 import { Lock, BookOpen, Sparkles, Loader2, RotateCcw } from "lucide-react"
 import { Button } from "@/components/ui/button"
 
