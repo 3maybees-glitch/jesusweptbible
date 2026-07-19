@@ -19,8 +19,9 @@ const _lexend = Lexend({
 })
 
 export const metadata: Metadata = {
-  title: "Scripture Insight — KJV Bible with Strong's",
-  description: "A reverent Bible reading app with curated Strong's Concordance insights",
+  title: "Jesus Wept Bible — KJV with Two-Word Insights",
+  description:
+    "Explore the King James Bible through two critical words per verse, Strong's Concordance, chapter-to-Bible summaries, art Easter eggs, Character Explorer, and dyslexia-friendly reading.",
   generator: "v0.app",
   manifest: "/manifest.json",
   icons: {
