@@ -7,6 +7,7 @@ import {
   ArrowRight,
   BookOpen,
   ChevronLeft,
+  Mountain,
   Settings,
   Sparkles,
   Users,
@@ -77,11 +78,20 @@ const PYRAMID_LEVELS = [
   },
 ]
 
+const BOOK_BACKGROUNDS = [
+  { book: "Genesis", src: "/backgrounds/genesis.jpg" },
+  { book: "Psalms", src: "/backgrounds/psalms.jpg" },
+  { book: "Isaiah", src: "/backgrounds/isaiah.jpg" },
+  { book: "Matthew", src: "/backgrounds/matthew.jpg" },
+  { book: "John", src: "/backgrounds/john.jpg" },
+  { book: "Revelation", src: "/backgrounds/revelation.jpg" },
+]
+
 const NAV_STEPS = [
   {
     step: "01",
     title: "Pick a testament",
-    body: "Start on the home menu. Switch between Old and New Testament, then open any book.",
+    body: "Start on the home menu. Switch between Old and New Testament, then open any book — each one opens inside its own landscape world.",
   },
   {
     step: "02",
@@ -335,8 +345,41 @@ export function LearnPage() {
         </div>
       </section>
 
+      {/* Unique book backgrounds */}
+      <section className="relative bg-[#f5efe4] px-5 sm:px-8 py-20 sm:py-28 overflow-hidden">
+        <div className="max-w-3xl mx-auto">
+          <div className="flex items-center gap-2 text-[#8b5a2b] mb-3">
+            <Mountain className="w-4 h-4" />
+            <p className="text-xs uppercase tracking-[0.28em]">66 living landscapes</p>
+          </div>
+          <h2 className="font-serif text-3xl sm:text-5xl text-[#1a120c] leading-tight mb-4">
+            Every book opens in its own world.
+          </h2>
+          <p className="text-[#4a3a2a]/85 text-lg leading-relaxed mb-10 max-w-2xl">
+            Beautiful landscapes and sacred designs wrap each of the 66 books — from Eden&apos;s dawn in Genesis to the cosmic vision of Revelation — so reading feels like stepping into the story.
+          </p>
+
+          <div className="grid grid-cols-2 sm:grid-cols-3 gap-3 sm:gap-4">
+            {BOOK_BACKGROUNDS.map((item) => (
+              <figure key={item.book} className="relative aspect-[4/5] overflow-hidden rounded-lg">
+                <Image
+                  src={item.src}
+                  alt={`${item.book} book landscape background`}
+                  fill
+                  className="object-cover transition-transform duration-700 hover:scale-105"
+                  sizes="(max-width: 640px) 50vw, 220px"
+                />
+                <figcaption className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-[#1a120c]/85 to-transparent px-3 pb-3 pt-10">
+                  <span className="font-serif text-[#f3e6d4] text-lg">{item.book}</span>
+                </figcaption>
+              </figure>
+            ))}
+          </div>
+        </div>
+      </section>
+
       {/* Character explorer + dyslexia */}
-      <section className="relative bg-[#f5efe4] px-5 sm:px-8 py-20 sm:py-28">
+      <section className="relative bg-[#ebe2d2] px-5 sm:px-8 py-20 sm:py-28">
         <div className="max-w-3xl mx-auto grid gap-16">
           <div>
             <div className="flex items-center gap-2 text-[#8b5a2b] mb-3">
@@ -431,18 +474,18 @@ export function LearnPage() {
         </div>
       </section>
 
-      {/* Final CTA */}
+      {/* Final CTA — Jesus teaching (Sermon on the Mount) */}
       <section className="relative overflow-hidden px-5 sm:px-8 py-24 sm:py-32">
         <div
           className="absolute inset-0 bg-cover bg-center"
-          style={{ backgroundImage: "url('/art/crucifixion-velazquez.jpg')" }}
+          style={{ backgroundImage: "url('/art/sermon-on-the-mount.jpg')" }}
           aria-hidden="true"
         />
-        <div className="absolute inset-0 bg-[#1a120c]/78" aria-hidden="true" />
+        <div className="absolute inset-0 bg-[#1a120c]/72" aria-hidden="true" />
         <div className="relative z-10 max-w-2xl mx-auto text-center text-[#f3e6d4]">
           <p className="font-serif text-4xl sm:text-6xl leading-tight mb-5">Begin the adventure.</p>
           <p className="text-[#d9c4a8]/90 text-lg mb-8 leading-relaxed">
-            Open a book, tap two words, find a purple cross, and watch Scripture open in a new way.
+            Open a book, step into its landscape, tap two words, find a purple cross, and watch Scripture open in a new way.
           </p>
           <Link
             href="/"
