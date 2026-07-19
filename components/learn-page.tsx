@@ -1,6 +1,7 @@
 "use client"
 
 import { useEffect, useState } from "react"
+import Image from "next/image"
 import Link from "next/link"
 import {
   ArrowRight,
@@ -490,11 +491,15 @@ export function LearnPage() {
                 </button>
               </div>
               <div className="p-5 space-y-4">
-                <img
-                  src="/art/crucifixion-velazquez.jpg"
-                  alt="The Crucifixion by Diego Velázquez"
-                  className="w-full h-auto rounded-lg"
-                />
+                <div className="relative w-full aspect-[3/4] max-h-[60vh] overflow-hidden rounded-lg">
+                  <Image
+                    src="/art/crucifixion-velazquez.jpg"
+                    alt="The Crucifixion by Diego Velázquez"
+                    fill
+                    className="object-contain"
+                    sizes="(max-width: 768px) 100vw, 672px"
+                  />
+                </div>
                 <p className="text-[#d9c4a8]/90 leading-relaxed">
                   You found an Easter egg! While reading, purple crosses mark verses with classic Christian art —
                   crucifixion, resurrection, and sacred scenes waiting to be discovered.
