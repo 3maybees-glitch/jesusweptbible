@@ -187,4 +187,64 @@
   .glow-cross {
     animation: glow-pulse 2s ease-in-out infinite;
   }
+
+  /* Learn / landing page motions */
+  @keyframes learn-word-pulse {
+    0%, 100% {
+      box-shadow: 0 0 0 0 rgba(196, 160, 106, 0.35);
+    }
+    50% {
+      box-shadow: 0 0 0 8px rgba(196, 160, 106, 0);
+    }
+  }
+
+  @keyframes learn-cross-pulse {
+    0%, 100% {
+      opacity: 0.55;
+      transform: scale(1);
+    }
+    50% {
+      opacity: 0.95;
+      transform: scale(1.06);
+    }
+  }
+
+  @keyframes learn-brand-glow {
+    0%, 100% {
+      text-shadow: 0 0 24px rgba(243, 230, 212, 0.15);
+    }
+    50% {
+      text-shadow: 0 0 40px rgba(243, 230, 212, 0.28);
+    }
+  }
+
+  .learn-word-pulse {
+    animation: learn-word-pulse 2.4s ease-in-out infinite;
+  }
+
+  .learn-cross-pulse {
+    animation: learn-cross-pulse 2.2s ease-in-out infinite;
+  }
+
+  .learn-brand-glow {
+    animation: learn-brand-glow 4s ease-in-out infinite;
+  }
+
+  .learn-hero-grain {
+    background-image:
+      radial-gradient(ellipse at 20% 20%, rgba(196, 160, 106, 0.12), transparent 45%),
+      radial-gradient(ellipse at 80% 70%, rgba(107, 44, 62, 0.18), transparent 50%);
+  }
+
+  .learn-page {
+    background-color: #1a120c;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .learn-word-pulse,
+    .learn-cross-pulse,
+    .learn-brand-glow {
+      animation: none;
+    }
+  }
 }

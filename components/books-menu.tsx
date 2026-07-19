@@ -1,7 +1,7 @@
 "use client"
 
 import { useState } from "react"
-import { Book, Info } from "lucide-react"
+import { Book, Compass, Info } from "lucide-react"
 import { bibleBooks, type Book as BookType } from "@/lib/bible-data"
 import { ThemeSheet } from "@/components/theme-sheet"
 import { DevotionalPage } from "@/components/devotional-page"
@@ -296,6 +296,15 @@ export function BooksMenu({ onSelectBook, onAbout, currentBook }: BooksMenuProps
 
           {/* Devotional Button - Above About Button */}
           <div className="mt-12 pt-8 border-t border-border/30 space-y-3">
+            <a
+              href="/learn"
+              className="w-full flex items-center justify-center gap-2 px-4 py-3.5 rounded-lg bg-[#1a120c] hover:bg-[#2a1f16] text-[#f3e6d4] border border-[#c4a06a]/40 transition-colors min-h-[48px] font-serif font-medium"
+              aria-label="How Jesus Wept Bible works — learn and explore"
+            >
+              <Compass className="w-4 h-4 text-[#c4a06a]" />
+              <span>How It Works — Start Here</span>
+            </a>
+
             <a
               href="/reflect"
               className="w-full flex items-center justify-center gap-2 px-4 py-3.5 rounded-lg bg-[#8B5A6B] hover:bg-[#7a4d5c] text-white border border-border transition-colors min-h-[48px] font-serif font-medium"
