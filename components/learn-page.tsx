@@ -7,6 +7,7 @@ import {
   ArrowRight,
   BookOpen,
   ChevronLeft,
+  HeartHandshake,
   Mountain,
   Settings,
   Sparkles,
@@ -107,6 +108,11 @@ const NAV_STEPS = [
     step: "04",
     title: "Explore people & comfort",
     body: "Visit Character Explorer to meet Bible figures, or open Settings to turn on Dyslexia Mode for easier reading.",
+  },
+  {
+    step: "05",
+    title: "Ask Reflect what you’re carrying",
+    body: "Share a feeling or a hard day. Reflect answers with counsel and encouragement — Scripture, a kindred Bible character, a song, a landscape, and a word of hope.",
   },
 ]
 
@@ -447,6 +453,39 @@ export function LearnPage() {
         </div>
       </section>
 
+      {/* Reflect — counsel & encouragement */}
+      <section className="relative overflow-hidden bg-[#1a120c] text-[#f3e6d4] px-5 sm:px-8 py-20 sm:py-28">
+        <div
+          className="absolute inset-0 bg-cover bg-center opacity-35"
+          style={{ backgroundImage: "url('/nature-landscape-bg.jpg')" }}
+          aria-hidden="true"
+        />
+        <div className="absolute inset-0 bg-gradient-to-b from-[#1a120c]/70 via-[#1a120c]/85 to-[#1a120c]" aria-hidden="true" />
+
+        <div className="relative z-10 max-w-3xl mx-auto">
+          <div className="flex items-center gap-2 text-[#c4a06a] mb-3">
+            <HeartHandshake className="w-4 h-4" />
+            <p className="text-xs uppercase tracking-[0.28em]">Reflect</p>
+          </div>
+          <h2 className="font-serif text-3xl sm:text-5xl leading-tight mb-4">
+            What are you carrying?
+          </h2>
+          <p className="text-[#d9c4a8]/90 text-lg leading-relaxed mb-6 max-w-2xl">
+            Type a feeling or a short story of what you&apos;re facing. Reflect answers with counsel and encouragement — pointing you to Scripture, a kindred Bible character, a song, a landscape, and a Christian word of hope.
+          </p>
+          <p className="text-[#d9c4a8]/70 text-base leading-relaxed mb-8 max-w-2xl">
+            It&apos;s pastoral support for heavy days — not a replacement for people who love you or professional care, but a gentle companion when you need light for the path.
+          </p>
+          <Link
+            href="/reflect"
+            className="inline-flex items-center gap-2 min-h-[48px] px-6 rounded-lg bg-[#8B5A6B] text-white font-medium hover:bg-[#7a4d5c] transition-colors"
+          >
+            Open Reflect
+            <ArrowRight className="w-4 h-4" />
+          </Link>
+        </div>
+      </section>
+
       {/* How to navigate */}
       <section className="relative bg-[#2a1f16] text-[#f3e6d4] px-5 sm:px-8 py-20 sm:py-28">
         <div className="max-w-3xl mx-auto">
@@ -485,7 +524,7 @@ export function LearnPage() {
         <div className="relative z-10 max-w-2xl mx-auto text-center text-[#f3e6d4]">
           <p className="font-serif text-4xl sm:text-6xl leading-tight mb-5">Begin the adventure.</p>
           <p className="text-[#d9c4a8]/90 text-lg mb-8 leading-relaxed">
-            Open a book, step into its landscape, tap two words, find a purple cross, and watch Scripture open in a new way.
+            Open a book, step into its landscape, tap two words, find a purple cross — or tell Reflect what you&apos;re carrying and receive counsel for the road.
           </p>
           <Link
             href="/"
