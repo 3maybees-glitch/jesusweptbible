@@ -18,7 +18,7 @@ export const bookBackgrounds: Record<string, string> = {
   "1 Kings": "dark magnificent temple and palace, solomon's kingdom glory, golden architectural splendor, sacred divine light, wealth and wisdom, glowing prosperity",
   "2 Kings": "dark political landscape, kingdoms rising and falling, exile and restoration, dramatic divine intervention, divine light breaking through darkness, judgment",
   "1 Chronicles": "dark genealogical heritage landscape, ancient kingdom establishment, genealogical records imagery, spiritual lineage light, divine covenant, golden legacy",
-  "2 Chronicles": "dark temple renovation landscape, restoration and renewal, spiritual reformation, divine presence light, sacred architecture glow, hope and restoration",
+  "2 Chronicles": "dark temple renovation landscape at twilight, scaffolding and stacked stone, restoration and renewal of sacred architecture, divine presence light pouring from the sanctuary, golden sunset over jerusalem hills, hope and spiritual reformation",
 
   // Old Testament - Poetry & Wisdom
   "Job": "dark stormy landscape, suffering and pain, divine whirlwind sky, dramatic weather, spiritual wrestling, mystical divine revelation breaking through",
