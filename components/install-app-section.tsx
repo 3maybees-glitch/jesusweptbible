@@ -1,7 +1,6 @@
 "use client"
 
 import { useEffect, useState } from "react"
-import { Download, Smartphone } from "lucide-react"
 
 interface BeforeInstallPromptEvent extends Event {
   prompt: () => Promise<void>
@@ -24,6 +23,20 @@ function isStandaloneDisplay() {
 
 function isDespiaShell() {
   return typeof window !== "undefined" && (window as Window & { despia?: unknown }).despia !== undefined
+}
+
+function AppIcon({ className }: { className?: string }) {
+  return (
+    // eslint-disable-next-line @next/next/no-img-element -- small static brand mark for the install CTA
+    <img
+      src="/icon-192.png"
+      alt=""
+      width={40}
+      height={40}
+      className={className}
+      aria-hidden="true"
+    />
+  )
 }
 
 /**
@@ -77,8 +90,8 @@ export function InstallAppSection() {
   return (
     <section className="mb-8">
       <div className="bg-card border border-border rounded-lg p-4">
-        <h2 className="font-serif text-lg font-bold text-foreground mb-3 flex items-center gap-2">
-          <Smartphone className="w-5 h-5 opacity-70" />
+        <h2 className="font-serif text-lg font-bold text-foreground mb-3 flex items-center gap-2.5">
+          <AppIcon className="h-7 w-7 rounded-md shadow-sm" />
           Install on Your Phone
         </h2>
 
@@ -99,18 +112,21 @@ export function InstallAppSection() {
                 type="button"
                 onClick={handleInstall}
                 disabled={installing}
-                className="mb-4 inline-flex min-h-[44px] items-center justify-center gap-2 rounded-md bg-accent px-4 py-2 text-sm font-medium text-accent-foreground transition-opacity hover:opacity-90 disabled:opacity-60"
+                className="mb-4 inline-flex min-h-[44px] items-center justify-center gap-2.5 rounded-md bg-accent px-4 py-2 text-sm font-medium text-accent-foreground transition-opacity hover:opacity-90 disabled:opacity-60"
               >
-                <Download className="h-4 w-4" />
-                {installing ? "Opening install…" : "Install app"}
+                <AppIcon className="h-7 w-7 rounded-[6px] shadow-sm" />
+                {installing ? "Opening install…" : "Install Jesus Wept"}
               </button>
             )}
 
             {isIos && !deferredPrompt && (
               <div className="mb-4 rounded-md border border-border/60 bg-background/40 px-3 py-3">
-                <p className="text-sm font-semibold text-foreground mb-1">
-                  On iPhone or iPad
-                </p>
+                <div className="mb-2 flex items-center gap-2.5">
+                  <AppIcon className="h-10 w-10 rounded-[9px] shadow-sm" />
+                  <p className="text-sm font-semibold text-foreground">
+                    On iPhone or iPad
+                  </p>
+                </div>
                 <ol className="text-sm text-muted-foreground space-y-1 ml-4 list-decimal">
                   <li>Open this site in Safari</li>
                   <li>Tap the Share button</li>
@@ -120,11 +136,14 @@ export function InstallAppSection() {
             )}
 
             {!isIos && !deferredPrompt && (
-              <p className="text-sm text-muted-foreground leading-relaxed mb-3">
-                In Chrome or Edge, open the browser menu and choose{" "}
-                <span className="font-semibold text-foreground">Install app</span>{" "}
-                (or Add to Home screen).
-              </p>
+              <div className="mb-3 flex items-start gap-2.5">
+                <AppIcon className="mt-0.5 h-9 w-9 shrink-0 rounded-[8px] shadow-sm" />
+                <p className="text-sm text-muted-foreground leading-relaxed">
+                  In Chrome or Edge, open the browser menu and choose{" "}
+                  <span className="font-semibold text-foreground">Install app</span>{" "}
+                  (or Add to Home screen).
+                </p>
+              </div>
             )}
           </>
         )}
