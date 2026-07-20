@@ -1,6 +1,7 @@
 "use client"
 
 import { ChevronLeft, Book } from "lucide-react"
+import { InstallAppSection } from "@/components/install-app-section"
 
 interface AboutPageProps {
   onBack: () => void
@@ -147,6 +148,8 @@ export function AboutPage({ onBack }: AboutPageProps) {
               </p>
             </div>
           </section>
+
+          <InstallAppSection />
 
           <section className="mb-8">
             <div className="bg-card border border-border rounded-lg p-4">
