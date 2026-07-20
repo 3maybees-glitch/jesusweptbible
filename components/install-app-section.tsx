@@ -27,9 +27,9 @@ function isDespiaShell() {
 
 function AppIcon({ className }: { className?: string }) {
   return (
-    // eslint-disable-next-line @next/next/no-img-element -- small static brand mark for the install CTA
+    // eslint-disable-next-line @next/next/no-img-element -- brand mark for the install CTA
     <img
-      src="/icon-192.png"
+      src="/icon.svg"
       alt=""
       width={40}
       height={40}
