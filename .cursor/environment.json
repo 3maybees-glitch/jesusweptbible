@@ -1,0 +1,17 @@
+{
+  "name": "Jesus Wept Bible",
+  "install": "pnpm install --frozen-lockfile",
+  "ports": [
+    {
+      "name": "Next.js dev server",
+      "port": 3000
+    }
+  ],
+  "terminals": [
+    {
+      "name": "dev",
+      "command": "pnpm dev",
+      "description": "Next.js development server on http://localhost:3000"
+    }
+  ]
+}
