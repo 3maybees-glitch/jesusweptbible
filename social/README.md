@@ -1,27 +1,41 @@
 # Social assets — Jesus Wept Bible
 
-## X / Twitter — Encouraging Reflect infographic
+## X / Twitter — John 11:35 two-word Strong's infographic
 
-**File:** `jesusweptbible-x-encouraging-infographic.png`  
+**File:** `jesusweptbible-john-11-35-infographic.png`  
 **Account:** [@JesusWeptBible](https://x.com/JesusWeptBible)  
-**Source themes:** Reflect (`/reflect`) + John 11 (“Jesus wept” → chapter theme “Resurrection Life”) from [jesusweptbible.com](https://jesusweptbible.com)
+**Source:** John 11:35 from [jesusweptbible.com](https://jesusweptbible.com) (`public/data/bible-chapters/john-11.json`)
+
+### Verse data (as on the site)
+
+| Word  | Strong's | Lemma   | Meaning                 |
+|-------|----------|---------|-------------------------|
+| Jesus | G2424    | Iēsous  | Jesus                   |
+| wept  | G1145    | dakryō  | to weep, shed tears     |
 
 ### Suggested post copy
 
-> What are you carrying today?
+> John 11:35 — the shortest verse in the KJV.
 >
-> Anxiety. Grief. Waiting.
-> You don’t have to carry it alone.
+> Jesus wept.
 >
-> Jesus wept. (John 11:35)
-> Two words of deepest compassion —
-> then Resurrection Life.
+> Two glowing words. Full Strong’s behind each:
 >
-> Tell Reflect what you’re facing:
-> jesusweptbible.com/reflect
+> • Jesus — G2424 · Iēsous · “Jesus”
+> • wept — G1145 · dakryō · “to weep, shed tears”
 >
-> #JesusWeptBible #Scripture #Hope #Faith
+> Every verse on Jesus Wept Bible highlights its two most important words — tap one, and Strong’s opens.
+>
+> jesusweptbible.com
+>
+> #JesusWeptBible #KJV #Strongs #John1135 #BibleStudy
 
 ### Alt text (accessibility)
 
-Jesus Wept Bible encouraging infographic: What are you carrying today? You don’t have to carry it alone. Three steps — name the weight, find living Scripture, receive a word of hope. Quote: Jesus wept. John 11:35. Arrow to Resurrection Life, the John 11 chapter theme. Call to action: Tell Reflect what you’re carrying at jesusweptbible.com/reflect. @JesusWeptBible
+Jesus Wept Bible infographic for John 11:35. The verse “Jesus wept.” appears with both words glowing gold. Strong’s for Jesus: G2424, Greek lemma Iēsous, meaning “Jesus.” Strong’s for wept: G1145, Greek lemma dakryō, meaning “to weep, shed tears.” Tagline: The shortest verse. The deepest compassion. jesusweptbible.com. @JesusWeptBible
+
+---
+
+## Earlier Reflect-themed draft (optional)
+
+**File:** `jesusweptbible-x-encouraging-infographic.png` — Reflect “What are you carrying today?” graphic (saved for later use).
