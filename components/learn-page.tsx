@@ -9,6 +9,7 @@ import {
   ChevronLeft,
   HeartHandshake,
   Mountain,
+  Search,
   Settings,
   Sparkles,
   Users,
@@ -16,6 +17,7 @@ import {
 } from "lucide-react"
 import type { HighlightedWord } from "@/lib/bible-data"
 import { WordInsightSheet } from "@/components/word-insight-sheet"
+import { SCRIPTURE_SLEUTH } from "@/lib/sister-sites"
 
 function ChristianCross({ className }: { className?: string }) {
   return (
@@ -173,12 +175,22 @@ export function LearnPage() {
             <ChevronLeft className="w-5 h-5" />
             <span className="text-sm font-medium">Bible</span>
           </Link>
-          <Link
-            href="/characters"
-            className="text-sm text-[#f3e6d4]/80 hover:text-[#f3e6d4] transition-colors min-h-[44px] inline-flex items-center"
-          >
-            Characters
-          </Link>
+          <div className="flex items-center gap-4">
+            <a
+              href={SCRIPTURE_SLEUTH.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-sm text-[#f3e6d4]/80 hover:text-[#f3e6d4] transition-colors min-h-[44px] inline-flex items-center"
+            >
+              Sleuth
+            </a>
+            <Link
+              href="/characters"
+              className="text-sm text-[#f3e6d4]/80 hover:text-[#f3e6d4] transition-colors min-h-[44px] inline-flex items-center"
+            >
+              Characters
+            </Link>
+          </div>
         </header>
 
         <div
@@ -483,6 +495,31 @@ export function LearnPage() {
             Open Reflect
             <ArrowRight className="w-4 h-4" />
           </Link>
+        </div>
+      </section>
+
+      {/* Sister site — Scripture Sleuth */}
+      <section className="relative bg-[#241810] text-[#f3e6d4] px-5 sm:px-8 py-20 sm:py-28">
+        <div className="max-w-3xl mx-auto">
+          <div className="flex items-center gap-2 text-[#c4a06a] mb-3">
+            <Search className="w-4 h-4" aria-hidden="true" />
+            <p className="text-xs uppercase tracking-[0.28em]">Sister site</p>
+          </div>
+          <h2 className="font-serif text-3xl sm:text-5xl leading-tight mb-4">
+            {SCRIPTURE_SLEUTH.name} — {SCRIPTURE_SLEUTH.tagline}
+          </h2>
+          <p className="text-[#d9c4a8]/90 text-lg leading-relaxed mb-8 max-w-2xl">
+            {SCRIPTURE_SLEUTH.description}
+          </p>
+          <a
+            href={SCRIPTURE_SLEUTH.url}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-2 min-h-[48px] px-6 rounded-lg bg-[#c4a06a] text-[#1a120c] font-medium hover:bg-[#d4b07a] transition-colors"
+          >
+            Open today&apos;s case
+            <ArrowRight className="w-4 h-4" />
+          </a>
         </div>
       </section>
 

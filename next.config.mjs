@@ -38,10 +38,47 @@ const withSerwist = withSerwistInit({
   additionalPrecacheEntries: [{ url: "/~offline", revision }, ...publicPrecache],
 })
 
+const SCRIPTURE_SLEUTH_URL = "https://scripture-sleuth.vercel.app"
+const SCRIPTURE_SLEUTH_HOST = "sleuth.jesusweptbible.com"
+
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   images: {
     unoptimized: true,
+  },
+  // Short path always works. The sleuth.* host rules activate after a CNAME
+  // (sleuth → cname.vercel-dns.com) is added at the registrar and the
+  // hostname is assigned to this Vercel project.
+  async redirects() {
+    return [
+      {
+        source: "/sleuth",
+        destination: SCRIPTURE_SLEUTH_URL,
+        permanent: false,
+      },
+      {
+        source: "/sleuth/:path*",
+        destination: `${SCRIPTURE_SLEUTH_URL}/:path*`,
+        permanent: false,
+      },
+      {
+        source: "/scripture-sleuth",
+        destination: SCRIPTURE_SLEUTH_URL,
+        permanent: false,
+      },
+      {
+        source: "/",
+        has: [{ type: "host", value: SCRIPTURE_SLEUTH_HOST }],
+        destination: SCRIPTURE_SLEUTH_URL,
+        permanent: false,
+      },
+      {
+        source: "/:path*",
+        has: [{ type: "host", value: SCRIPTURE_SLEUTH_HOST }],
+        destination: `${SCRIPTURE_SLEUTH_URL}/:path*`,
+        permanent: false,
+      },
+    ]
   },
 }
 
