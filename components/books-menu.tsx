@@ -1,8 +1,9 @@
 "use client"
 
 import { useState } from "react"
-import { Book, Compass, Info } from "lucide-react"
+import { Book, Compass, Info, Search } from "lucide-react"
 import { bibleBooks, type Book as BookType } from "@/lib/bible-data"
+import { SCRIPTURE_SLEUTH } from "@/lib/sister-sites"
 import { ThemeSheet } from "@/components/theme-sheet"
 import { DevotionalPage } from "@/components/devotional-page"
 import { BookTheme } from "@/lib/book-themes"
@@ -303,6 +304,17 @@ export function BooksMenu({ onSelectBook, onAbout, currentBook }: BooksMenuProps
             >
               <Compass className="w-4 h-4 text-[#c4a06a]" />
               <span>How It Works — Start Here</span>
+            </a>
+
+            <a
+              href={SCRIPTURE_SLEUTH.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="w-full flex items-center justify-center gap-2 px-4 py-3.5 rounded-lg bg-[#3d2a1a] hover:bg-[#4a3524] text-[#f3e6d4] border border-[#c4a06a]/50 transition-colors min-h-[48px] font-serif font-medium"
+              aria-label={`${SCRIPTURE_SLEUTH.name} — ${SCRIPTURE_SLEUTH.tagline}, a daily Bible mystery (opens in a new tab)`}
+            >
+              <Search className="w-4 h-4 text-[#c4a06a]" aria-hidden="true" />
+              <span>{SCRIPTURE_SLEUTH.name} — {SCRIPTURE_SLEUTH.tagline}</span>
             </a>
 
             <a
