@@ -154,6 +154,32 @@ export function AboutPage({ onBack }: AboutPageProps) {
 
           <section className="mb-8">
             <div className="bg-card border border-border rounded-lg p-4">
+              <h2 className="font-serif text-lg font-bold text-foreground mb-3 flex items-center gap-2">
+                <Search className="w-5 h-5 opacity-70" aria-hidden="true" />
+                Sister Site — {SCRIPTURE_SLEUTH.name}
+              </h2>
+              <p className="text-sm text-muted-foreground leading-relaxed mb-4">
+                {SCRIPTURE_SLEUTH.description}
+              </p>
+              <a
+                href={SCRIPTURE_SLEUTH.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center justify-center min-h-[44px] px-4 rounded-lg bg-[#3d2a1a] hover:bg-[#4a3524] text-[#f3e6d4] border border-[#c4a06a]/50 transition-colors font-serif font-medium text-sm"
+              >
+                Play {SCRIPTURE_SLEUTH.name}
+              </a>
+              <p className="text-xs text-muted-foreground mt-3">
+                Short link on this site:{" "}
+                <a href={SCRIPTURE_SLEUTH.path} className="underline underline-offset-2 hover:text-foreground">
+                  jesusweptbible.com{SCRIPTURE_SLEUTH.path}
+                </a>
+              </p>
+            </div>
+          </section>
+
+          <section className="mb-8">
+            <div className="bg-card border border-border rounded-lg p-4">
               <h2 className="font-serif text-lg font-bold text-foreground mb-3">
                 Strong's Concordance & Greek Word Study - Tutorial
               </h2>
@@ -228,32 +254,6 @@ export function AboutPage({ onBack }: AboutPageProps) {
               <h2 className="font-serif text-lg font-bold text-foreground mb-3">Created By</h2>
               <p className="text-sm text-muted-foreground leading-relaxed">
                 This app was created and designed by <strong>Darren and Luke Maybee</strong>. Developed with a passion for making scripture study accessible, beautiful, and spiritually enriching for all readers.
-              </p>
-            </div>
-          </section>
-
-          <section className="mb-8">
-            <div className="bg-card border border-border rounded-lg p-4">
-              <h2 className="font-serif text-lg font-bold text-foreground mb-3 flex items-center gap-2">
-                <Search className="w-5 h-5 opacity-70" aria-hidden="true" />
-                Sister Site — {SCRIPTURE_SLEUTH.name}
-              </h2>
-              <p className="text-sm text-muted-foreground leading-relaxed mb-4">
-                {SCRIPTURE_SLEUTH.description}
-              </p>
-              <a
-                href={SCRIPTURE_SLEUTH.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center justify-center min-h-[44px] px-4 rounded-lg bg-[#3d2a1a] hover:bg-[#4a3524] text-[#f3e6d4] border border-[#c4a06a]/50 transition-colors font-serif font-medium text-sm"
-              >
-                Play {SCRIPTURE_SLEUTH.name}
-              </a>
-              <p className="text-xs text-muted-foreground mt-3">
-                Short link on this site:{" "}
-                <a href={SCRIPTURE_SLEUTH.path} className="underline underline-offset-2 hover:text-foreground">
-                  jesusweptbible.com{SCRIPTURE_SLEUTH.path}
-                </a>
               </p>
             </div>
           </section>
